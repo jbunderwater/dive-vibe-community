@@ -1,15 +1,16 @@
 ---
 name: 1000 Steps
-lat: 12.2106
-lng: -68.3217
-addedBy: sample-data
-difficulty: intermediate
-maxDepth: 100
-visibility: Excellent
-images:
-  - '/images/bonaire/1000-steps-1.jpg'
-  - '/images/bonaire/1000-steps.jpeg'
+lat: 12.1234
+lng: -68.2345
+difficulty: Intermediate
+maxDepth: 60
+infoLink: https://example.com/1000-steps
+addedBy: jbunderwater
 ---
+
+# 1000 Steps
+
+A beautiful dive site with excellent visibility and diverse marine life.
 
 ## Description
 A beautiful site famous for its many steps and healthy coral. This is one of Bonaire's most popular dive sites, offering excellent visibility and abundant marine life.
