@@ -42,5 +42,15 @@
     "difficulty": "beginner",
     "maxDepth": 60,
     "visibility": "Excellent"
+  },
+  {
+    "name": "New Dive Site",
+    "lat": "0.0",
+    "lng": "0.0",
+    "filename": "test.md",
+    "addedBy": "jbunderwater",
+    "difficulty": "Beginner",
+    "maxDepth": "30",
+    "visibility": "Good"
   }
-] 
+]
