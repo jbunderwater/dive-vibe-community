@@ -1,0 +1,46 @@
+[
+  {
+    "name": "1000 Steps",
+    "lat": 12.2106,
+    "lng": -68.3217,
+    "filename": "1000-steps.md",
+    "infoLink": "https://www.bonairepros.com/dive-sites/1000-steps",
+    "addedBy": "sample-data",
+    "difficulty": "intermediate",
+    "maxDepth": 100,
+    "visibility": "Excellent"
+  },
+  {
+    "name": "Oil Slick Leap",
+    "lat": 12.20028,
+    "lng": -68.30861,
+    "filename": "oil-slick-leap.md",
+    "infoLink": "https://www.bonairepros.com/dive-sites/oil-slick-leap",
+    "addedBy": "sample-data",
+    "difficulty": "advanced",
+    "maxDepth": 120,
+    "visibility": "Good"
+  },
+  {
+    "name": "Hilma Hooker",
+    "lat": 12.10502,
+    "lng": -68.28852,
+    "filename": "hilma-hooker.md",
+    "infoLink": "https://www.bonairepros.com/dive-sites/hilma-hooker",
+    "addedBy": "sample-data",
+    "difficulty": "advanced",
+    "maxDepth": 100,
+    "visibility": "Variable"
+  },
+  {
+    "name": "Karpata",
+    "lat": 12.21939,
+    "lng": -68.35199,
+    "filename": "karpata.md",
+    "infoLink": "https://www.bonairepros.com/dive-sites/karpata",
+    "addedBy": "sample-data",
+    "difficulty": "beginner",
+    "maxDepth": 60,
+    "visibility": "Excellent"
+  }
+] 
