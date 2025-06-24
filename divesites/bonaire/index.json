@@ -707,8 +707,8 @@
     "osmId": 4017913908
   },
   {
-    "name": "Bis\u00e9 Morto",
-    "filename": "bis\u00e9-morto.md",
+    "name": "Bisé Morto",
+    "filename": "bisé-morto.md",
     "lat": 12.2935303,
     "lng": -68.4132212,
     "difficulty": "Intermediate",
@@ -789,5 +789,14 @@
     "siteType": "beach",
     "ref": "",
     "osmId": 1188151213
+  },
+  {
+    "name": "New Dive Site",
+    "lat": "0.0",
+    "lng": "0.0",
+    "filename": "test.md",
+    "addedBy": "your-username",
+    "difficulty": "Beginner",
+    "maxDepth": "30"
   }
 ]
