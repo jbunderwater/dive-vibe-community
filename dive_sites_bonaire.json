@@ -1,0 +1,896 @@
+[
+  {
+    "name": "Bari Reef",
+    "country": null,
+    "region": null,
+    "lat": 12.1674719,
+    "lon": -68.2872007,
+    "osm_id": 313862678,
+    "tags": {
+      "name": "Bari Reef",
+      "ref": "30",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "1000 Steps",
+    "country": null,
+    "region": null,
+    "lat": 12.2106695,
+    "lon": -68.3217112,
+    "osm_id": 313863131,
+    "tags": {
+      "name": "1000 Steps",
+      "natural": "beach",
+      "ref": "16",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Boy Scout",
+    "country": null,
+    "region": null,
+    "lat": 12.1589381,
+    "lon": -68.2810107,
+    "osm_id": 635094192,
+    "tags": {
+      "name": "Boy Scout",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Mi Cas",
+    "country": null,
+    "region": null,
+    "lat": 12.1549049,
+    "lon": -68.2789411,
+    "osm_id": 635094202,
+    "tags": {
+      "name": "Mi Cas",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Buddy's Reef",
+    "country": null,
+    "region": null,
+    "lat": 12.1710254,
+    "lon": -68.288822,
+    "osm_id": 635094204,
+    "tags": {
+      "name": "Buddy's Reef",
+      "sport": "scuba_diving",
+      "website": "https://www.divers-guide.com/en/buddys-reef"
+    }
+  },
+  {
+    "name": "La Machaca",
+    "country": null,
+    "region": null,
+    "lat": 12.171676,
+    "lon": -68.2893863,
+    "osm_id": 635094207,
+    "tags": {
+      "historic": "wreck",
+      "name": "La Machaca",
+      "seamark:type": "wreck",
+      "sport": "scuba_diving",
+      "wreck:depth": "10m"
+    }
+  },
+  {
+    "name": "English Garden",
+    "country": null,
+    "region": null,
+    "lat": 12.0597582,
+    "lon": -68.2822176,
+    "osm_id": 635881767,
+    "tags": {
+      "name": "English Garden",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Alice in Wonderland",
+    "country": null,
+    "region": null,
+    "lat": 12.0998035,
+    "lon": -68.2852927,
+    "osm_id": 635881804,
+    "tags": {
+      "name": "Alice in Wonderland",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Hilma Hooker",
+    "country": null,
+    "region": null,
+    "lat": 12.1037524,
+    "lon": -68.2901176,
+    "osm_id": 635881808,
+    "tags": {
+      "historic": "wreck",
+      "name": "Hilma Hooker",
+      "seamark:type": "wreck",
+      "sport": "scuba_diving",
+      "wikidata": "Q1618842",
+      "wreck:date_commissioned": "1951",
+      "wreck:date_sunk": "1984-09-12",
+      "wreck:depth": "30m",
+      "wreck:gross_tonnage": "1027",
+      "wreck:length": "236"
+    }
+  },
+  {
+    "name": "Corporal Meiss",
+    "country": null,
+    "region": null,
+    "lat": 12.1308642,
+    "lon": -68.2846951,
+    "osm_id": 635881836,
+    "tags": {
+      "alt_name": "North Belnem",
+      "name": "Corporal Meiss",
+      "scuba_diving:divespot": "yes",
+      "scuba_diving:entry": "shore",
+      "sport": "scuba_diving",
+      "website": "https://www.divers-guide.com/en/dive-spots/corporal-meiss"
+    }
+  },
+  {
+    "name": "Something Special",
+    "country": null,
+    "region": null,
+    "lat": 12.1613822,
+    "lon": -68.2838525,
+    "osm_id": 635942336,
+    "tags": {
+      "name": "Something Special",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Andrea II",
+    "country": null,
+    "region": null,
+    "lat": 12.1913607,
+    "lon": -68.2978203,
+    "osm_id": 636400643,
+    "tags": {
+      "name": "Andrea II",
+      "sport": "scuba_diving",
+      "website": "https://www.divers-guide.com/en/dive-spots/andrea-2"
+    }
+  },
+  {
+    "name": "Jeff Davis Memorial",
+    "country": null,
+    "region": null,
+    "lat": 12.2049583,
+    "lon": -68.3140546,
+    "osm_id": 636400684,
+    "tags": {
+      "name": "Jeff Davis Memorial",
+      "sport": "scuba_diving",
+      "website": "https://www.divers-guide.com/en/jeff-davis-memorial"
+    }
+  },
+  {
+    "name": "Weber's Joy",
+    "country": null,
+    "region": null,
+    "lat": 12.2065395,
+    "lon": -68.3165738,
+    "osm_id": 636400689,
+    "tags": {
+      "alt_name": "Witches Hut",
+      "name": "Weber's Joy",
+      "sport": "scuba_diving",
+      "website": "https://www.divers-guide.com/en/dive-spots/webers-joy"
+    }
+  },
+  {
+    "name": "Front Porch",
+    "country": null,
+    "region": null,
+    "lat": 12.1666879,
+    "lon": -68.2871264,
+    "osm_id": 639106013,
+    "tags": {
+      "name": "Front Porch",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Willemstoren Lighthouse",
+    "country": null,
+    "region": null,
+    "lat": 12.0276628,
+    "lon": -68.2367651,
+    "osm_id": 663869394,
+    "tags": {
+      "name": "Willemstoren Lighthouse",
+      "source": "http://www.dive-links.com/tauchplatz.php?id=367",
+      "sport": "scuba_diving",
+      "website": "https://www.shorediving.com/Earth/ABC/BonaireS/Willemstoren_Lighthouse/index.htm"
+    }
+  },
+  {
+    "name": "Sweet Dreams",
+    "country": null,
+    "region": null,
+    "lat": 12.0349171,
+    "lon": -68.2627409,
+    "osm_id": 663869395,
+    "tags": {
+      "name": "Sweet Dreams",
+      "source": "http://www.dive-links.com/tauchplatz.php?id=391",
+      "sport": "scuba_diving",
+      "website": "https://www.shorediving.com/Earth/ABC/BonaireS/Sweet_Dreams/index.htm"
+    }
+  },
+  {
+    "name": "Vista Blue",
+    "country": null,
+    "region": null,
+    "lat": 12.0386524,
+    "lon": -68.2648116,
+    "osm_id": 663869396,
+    "tags": {
+      "name": "Vista Blue",
+      "source": "http://www.dive-links.com/tauchplatz.php?id=390",
+      "sport": "scuba_diving",
+      "website": "https://www.shorediving.com/Earth/ABC/BonaireS/Vista_Blue/index.htm"
+    }
+  },
+  {
+    "name": "Red Slave",
+    "country": null,
+    "region": null,
+    "lat": 12.0260699,
+    "lon": -68.2515176,
+    "osm_id": 663869397,
+    "tags": {
+      "historic": "wreck",
+      "name": "Red Slave",
+      "seamark:type": "wreck",
+      "source": "http://www.dive-links.com/tauchplatz.php?id=372",
+      "sport": "scuba_diving",
+      "website": "https://www.shorediving.com/Earth/ABC/BonaireS/Red_Slave/index.htm"
+    }
+  },
+  {
+    "name": "Lighthouse Point",
+    "country": null,
+    "region": null,
+    "lat": 12.1139501,
+    "lon": -68.2952067,
+    "osm_id": 663869398,
+    "tags": {
+      "name": "Lighthouse Point",
+      "scuba_diving:divespot": "yes",
+      "scuba_diving:entry": "shore",
+      "sport": "scuba_diving",
+      "website": "https://www.divers-guide.com/en/dive-spots/lighthouse-point"
+    }
+  },
+  {
+    "name": "Punt Vierkant",
+    "country": null,
+    "region": null,
+    "lat": 12.108785,
+    "lon": -68.291505,
+    "osm_id": 663869399,
+    "tags": {
+      "name": "Punt Vierkant",
+      "scuba_diving:divespot": "yes",
+      "scuba_diving:entry": "shore",
+      "sport": "scuba_diving",
+      "website": "https://www.divers-guide.com/en/dive-spots/punt-vierkant"
+    }
+  },
+  {
+    "name": "Margate Bay",
+    "country": null,
+    "region": null,
+    "lat": 12.0513405,
+    "lon": -68.2722056,
+    "osm_id": 663869400,
+    "tags": {
+      "name": "Margate Bay",
+      "source": "http://www.dive-links.com/tauchplatz.php?id=360",
+      "sport": "scuba_diving",
+      "website": "https://www.shorediving.com/Earth/ABC/BonaireS/Margate_Bay/index.htm"
+    }
+  },
+  {
+    "name": "Salt Pier",
+    "country": null,
+    "region": null,
+    "lat": 12.0835942,
+    "lon": -68.2819519,
+    "osm_id": 663869401,
+    "tags": {
+      "name": "Salt Pier",
+      "note": "Not allowed to access when there's a ship at the pier",
+      "sport": "scuba_diving",
+      "website": "https://www.shorediving.com/Earth/ABC/BonaireS/Salt_Pier/index.htm"
+    }
+  },
+  {
+    "name": "Invisibles",
+    "country": null,
+    "region": null,
+    "lat": 12.077631,
+    "lon": -68.2801815,
+    "osm_id": 663869402,
+    "tags": {
+      "name": "Invisibles",
+      "sport": "scuba_diving",
+      "website": "https://www.zentacle.com/Beach/1433/the-invisibles"
+    }
+  },
+  {
+    "name": "Salt City",
+    "country": null,
+    "region": null,
+    "lat": 12.079695,
+    "lon": -68.2806859,
+    "osm_id": 663869403,
+    "tags": {
+      "name": "Salt City",
+      "sport": "scuba_diving",
+      "website": "https://www.zentacle.com/Beach/1301/salt-city"
+    }
+  },
+  {
+    "name": "Pink Beach",
+    "country": null,
+    "region": null,
+    "lat": 12.0628465,
+    "lon": -68.2822351,
+    "osm_id": 663869404,
+    "tags": {
+      "name": "Pink Beach",
+      "source": "http://www.dive-links.com/tauchplatz.php?id=359",
+      "sport": "scuba_diving",
+      "website": "https://www.shorediving.com/Earth/ABC/BonaireS/Pink_Beach/index.htm"
+    }
+  },
+  {
+    "name": "Tori's Reef",
+    "country": null,
+    "region": null,
+    "lat": 12.0701968,
+    "lon": -68.2805412,
+    "osm_id": 663869405,
+    "tags": {
+      "name": "Tori's Reef",
+      "sport": "scuba_diving",
+      "website": "https://www.zentacle.com/Beach/1457/toris-reef"
+    }
+  },
+  {
+    "name": "Atlantis",
+    "country": null,
+    "region": null,
+    "lat": 12.0448994,
+    "lon": -68.267482,
+    "osm_id": 663869406,
+    "tags": {
+      "name": "Atlantis",
+      "source": "http://www.dive-links.com/tauchplatz.php?id=389",
+      "sport": "scuba_diving",
+      "website": "https://www.shorediving.com/Earth/ABC/BonaireS/Atlantis/index.htm"
+    }
+  },
+  {
+    "name": "Red Beryl",
+    "country": null,
+    "region": null,
+    "lat": 12.0466404,
+    "lon": -68.2685291,
+    "osm_id": 663869407,
+    "tags": {
+      "name": "Red Beryl",
+      "source": "http://www.dive-links.com/tauchplatz.php?id=388",
+      "sport": "scuba_diving",
+      "website": "https://www.shorediving.com/Earth/ABC/BonaireS/Red_Beryl/index.htm"
+    }
+  },
+  {
+    "name": "White Slave",
+    "country": null,
+    "region": null,
+    "lat": 12.0575572,
+    "lon": -68.2812043,
+    "osm_id": 663869408,
+    "tags": {
+      "name": "White Slave",
+      "scuba_diving:divespot": "yes",
+      "scuba_diving:entry": "shore",
+      "sport": "scuba_diving",
+      "website": "https://www.divers-guide.com/en/dive-spots/white-slave"
+    }
+  },
+  {
+    "name": "Aquarius",
+    "country": null,
+    "region": null,
+    "lat": 12.0983883,
+    "lon": -68.284795,
+    "osm_id": 663869409,
+    "tags": {
+      "name": "Aquarius",
+      "sport": "scuba_diving",
+      "website": "https://www.divers-guide.com/en/dive-spots/aquarius"
+    }
+  },
+  {
+    "name": "Larry's Lair",
+    "country": null,
+    "region": null,
+    "lat": 12.0952821,
+    "lon": -68.2840519,
+    "osm_id": 663869410,
+    "tags": {
+      "name": "Larry's Lair",
+      "sport": "scuba_diving",
+      "website": "https://www.divers-guide.com/en/dive-spots/larrys-lair"
+    }
+  },
+  {
+    "name": "White Hole",
+    "country": null,
+    "region": null,
+    "lat": 12.0940583,
+    "lon": -68.2280778,
+    "osm_id": 663869411,
+    "tags": {
+      "name": "White Hole",
+      "scuba_diving:divespot": "yes",
+      "sport": "scuba_diving",
+      "website": "https://www.divers-guide.com/en/white-hole"
+    }
+  },
+  {
+    "name": "Jeannie's Glory",
+    "country": null,
+    "region": null,
+    "lat": 12.0867114,
+    "lon": -68.282629,
+    "osm_id": 663869412,
+    "tags": {
+      "name": "Jeannie's Glory",
+      "sport": "scuba_diving",
+      "website": "https://www.divers-guide.com/en/dive-spots/jeannies-glory"
+    }
+  },
+  {
+    "name": "Bachelor's Beach",
+    "country": null,
+    "region": null,
+    "lat": 12.1255594,
+    "lon": -68.2873207,
+    "osm_id": 663869413,
+    "tags": {
+      "name": "Bachelor's Beach",
+      "scuba_diving:divespot": "yes",
+      "sport": "scuba_diving",
+      "website": "https://www.divers-guide.com/en/dive-spots/bachelors-beach"
+    }
+  },
+  {
+    "name": "Angel City",
+    "country": null,
+    "region": null,
+    "lat": 12.1033916,
+    "lon": -68.2872133,
+    "osm_id": 663869415,
+    "tags": {
+      "name": "Angel City",
+      "sport": "scuba_diving",
+      "website": "https://www.divers-guide.com/en/angel-city"
+    }
+  },
+  {
+    "name": "Cai",
+    "country": null,
+    "region": null,
+    "lat": 12.1032167,
+    "lon": -68.2224528,
+    "osm_id": 663869416,
+    "tags": {
+      "name": "Cai",
+      "scuba_diving:divespot": "yes",
+      "sport": "scuba_diving",
+      "website": "https://www.divers-guide.com/en/dive-spots/cai"
+    }
+  },
+  {
+    "name": "The Lake",
+    "country": null,
+    "region": null,
+    "lat": 12.1071283,
+    "lon": -68.29,
+    "osm_id": 663869417,
+    "tags": {
+      "name": "The Lake",
+      "sport": "scuba_diving",
+      "website": "https://www.divers-guide.com/en/the-lake"
+    }
+  },
+  {
+    "name": "Boka Slagbaai",
+    "country": null,
+    "region": null,
+    "lat": 12.2646664,
+    "lon": -68.4135635,
+    "osm_id": 663869419,
+    "tags": {
+      "name": "Boka Slagbaai",
+      "sport": "scuba_diving",
+      "website": "https://www.divers-guide.com/en/dive-spots/boka-slagbaai"
+    }
+  },
+  {
+    "name": "Playa Benge",
+    "country": null,
+    "region": null,
+    "lat": 12.2902417,
+    "lon": -68.4119809,
+    "osm_id": 663869420,
+    "tags": {
+      "name": "Playa Benge",
+      "scuba_diving:divespot": "yes",
+      "sport": "scuba_diving",
+      "website": "https://www.divers-guide.com/en/dive-spots/playa-benge"
+    }
+  },
+  {
+    "name": "Playa Funchi",
+    "country": null,
+    "region": null,
+    "lat": 12.28223,
+    "lon": -68.4140883,
+    "osm_id": 663869421,
+    "tags": {
+      "name": "Playa Funchi",
+      "sport": "scuba_diving",
+      "website": "https://www.divers-guide.com/en/dive-spots/playa-funchi"
+    }
+  },
+  {
+    "name": "Nukove",
+    "country": null,
+    "region": null,
+    "lat": 12.2407008,
+    "lon": -68.4128282,
+    "osm_id": 663869422,
+    "tags": {
+      "alt_name": "Doblet",
+      "name": "Nukove",
+      "scuba_diving:divespot": "yes",
+      "scuba_diving:entry": "shore",
+      "sport": "scuba_diving",
+      "website": "https://www.divers-guide.com/en/dive-spots/nukove-doblet"
+    }
+  },
+  {
+    "name": "Calabas Reef",
+    "country": null,
+    "region": null,
+    "lat": 12.1444535,
+    "lon": -68.276667,
+    "osm_id": 663869423,
+    "tags": {
+      "name": "Calabas Reef",
+      "natural": "reef",
+      "scuba_diving:divespot": "yes",
+      "scuba_diving:entry": "shore",
+      "sport": "scuba_diving",
+      "website": "https://www.divers-guide.com/en/dive-spots/calabas-reef"
+    }
+  },
+  {
+    "name": "Oil Slick Leap",
+    "country": null,
+    "region": null,
+    "lat": 12.2001711,
+    "lon": -68.308717,
+    "osm_id": 663869425,
+    "tags": {
+      "name": "Oil Slick Leap",
+      "scuba_diving:divespot": "yes",
+      "scuba_diving:entry": "ladder",
+      "source": "https://www.divers-guide.com/en/oil-slick-leap",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Andrea I",
+    "country": null,
+    "region": null,
+    "lat": 12.188411,
+    "lon": -68.296732,
+    "osm_id": 663869426,
+    "tags": {
+      "name": "Andrea I",
+      "sport": "scuba_diving",
+      "website": "https://www.divers-guide.com/en/andrea-1"
+    }
+  },
+  {
+    "name": "Boka di Tolo",
+    "country": null,
+    "region": null,
+    "lat": 12.2152361,
+    "lon": -68.3374389,
+    "osm_id": 663869427,
+    "tags": {
+      "alt_name": "Ol' Blue",
+      "name": "Boka di Tolo",
+      "short_name": "Tolo",
+      "sport": "scuba_diving",
+      "website": "https://www.divers-guide.com/en/dive-spots/tolo"
+    }
+  },
+  {
+    "name": "Windsock",
+    "country": null,
+    "region": null,
+    "lat": 12.1333083,
+    "lon": -68.2816616,
+    "osm_id": 663869430,
+    "tags": {
+      "name": "Windsock",
+      "sport": "scuba_diving",
+      "website": "https://www.divers-guide.com/en/dive-spots/windsock"
+    }
+  },
+  {
+    "name": "Cliff",
+    "country": null,
+    "region": null,
+    "lat": 12.1733517,
+    "lon": -68.2894267,
+    "osm_id": 663869433,
+    "tags": {
+      "name": "Cliff",
+      "sport": "scuba_diving",
+      "website": "https://www.divers-guide.com/en/cliff"
+    }
+  },
+  {
+    "name": "Reef Scientifico",
+    "country": null,
+    "region": null,
+    "lat": 12.1713556,
+    "lon": -68.2892583,
+    "osm_id": 663869438,
+    "tags": {
+      "name": "Reef Scientifico",
+      "scuba_diving:divespot": "yes",
+      "sport": "scuba_diving",
+      "website": "https://www.divers-guide.com/en/dive-spots/reef-scientifico"
+    }
+  },
+  {
+    "name": "Karpata",
+    "country": null,
+    "region": null,
+    "lat": 12.2192934,
+    "lon": -68.3521324,
+    "osm_id": 663869440,
+    "tags": {
+      "name": "Karpata",
+      "sport": "scuba_diving",
+      "website": "https://www.divers-guide.com/en/dive-spots/karpata"
+    }
+  },
+  {
+    "name": "La Denia's Leap",
+    "country": null,
+    "region": null,
+    "lat": 12.2181417,
+    "lon": -68.3481483,
+    "osm_id": 663869441,
+    "tags": {
+      "name": "La Denia's Leap",
+      "scuba_diving:divespot": "yes",
+      "sport": "scuba_diving",
+      "website": "https://www.divers-guide.com/en/la-danias-leap"
+    }
+  },
+  {
+    "name": "Boka Bartol",
+    "country": null,
+    "region": null,
+    "lat": 12.3048091,
+    "lon": -68.3975477,
+    "osm_id": 663869442,
+    "tags": {
+      "name": "Boka Bartol",
+      "sport": "scuba_diving",
+      "website": "https://www.divers-guide.com/en/boka-bartol"
+    }
+  },
+  {
+    "name": "18th Palm",
+    "country": null,
+    "region": null,
+    "lat": 12.138643,
+    "lon": -68.2765096,
+    "osm_id": 854130076,
+    "tags": {
+      "name": "18th Palm",
+      "sport": "scuba_diving",
+      "website": "https://www.shorediving.com/Earth/ABC/BonaireS/18_Palm/index.htm"
+    }
+  },
+  {
+    "name": "Carel's Vision",
+    "country": null,
+    "region": null,
+    "lat": 12.230709,
+    "lon": -68.4127451,
+    "osm_id": 854130125,
+    "tags": {
+      "name": "Carel's Vision",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Taylor Made",
+    "country": null,
+    "region": null,
+    "lat": 12.2230317,
+    "lon": -68.4036763,
+    "osm_id": 854130146,
+    "tags": {
+      "name": "Taylor Made",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Playa Frans",
+    "country": null,
+    "region": null,
+    "lat": 12.245742,
+    "lon": -68.4141402,
+    "osm_id": 1420984806,
+    "tags": {
+      "name": "Playa Frans",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "The Rock",
+    "country": null,
+    "region": null,
+    "lat": 12.0760025,
+    "lon": -68.2799587,
+    "osm_id": 1420984809,
+    "tags": {
+      "name": "The Rock",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Windjammer",
+    "country": null,
+    "region": null,
+    "lat": 12.2202758,
+    "lon": -68.3753404,
+    "osm_id": 2625769975,
+    "tags": {
+      "name": "Windjammer",
+      "sport": "scuba_diving",
+      "website": "https://www.divers-guide.com/en/windjammer"
+    }
+  },
+  {
+    "name": "Chachacha Beach",
+    "country": null,
+    "region": null,
+    "lat": 12.1460122,
+    "lon": -68.276318,
+    "osm_id": 4017913908,
+    "tags": {
+      "name": "Chachacha Beach",
+      "natural": "beach",
+      "sport": "scuba_diving",
+      "website": "https://www.divers-guide.com/en/dive-spots/chachacha"
+    }
+  },
+  {
+    "name": "Bis\u00e9 Morto",
+    "country": null,
+    "region": null,
+    "lat": 12.2935303,
+    "lon": -68.4132212,
+    "osm_id": 4200486589,
+    "tags": {
+      "name": "Bis\u00e9 Morto",
+      "source": "http://www.tourismbonaire.com/includes/bonaire-dive-sites.pdf",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Wayaka 2",
+    "country": null,
+    "region": null,
+    "lat": 12.2696116,
+    "lon": -68.4139081,
+    "osm_id": 4437663289,
+    "tags": {
+      "name": "Wayaka 2",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Boka Katuna",
+    "country": null,
+    "region": null,
+    "lat": 12.2997359,
+    "lon": -68.4025266,
+    "osm_id": 9523960359,
+    "tags": {
+      "name": "Boka Katuna",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Hidden Beach (unmarked site)",
+    "country": null,
+    "region": null,
+    "lat": 12.0323197,
+    "lon": -68.2581378,
+    "osm_id": 11333668404,
+    "tags": {
+      "name": "Hidden Beach (unmarked site)",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Yellow Hut (unmarked site)",
+    "country": null,
+    "region": null,
+    "lat": 12.0311599,
+    "lon": -68.2562156,
+    "osm_id": 11333668405,
+    "tags": {
+      "name": "Yellow Hut (unmarked site)",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Soft Coral Garden (unmarked site)",
+    "country": null,
+    "region": null,
+    "lat": 12.0334365,
+    "lon": -68.2604963,
+    "osm_id": 11333668406,
+    "tags": {
+      "name": "Soft Coral Garden (unmarked site)",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Te Amo Beach",
+    "country": null,
+    "region": null,
+    "lat": 12.1345835,
+    "lon": -68.2797913,
+    "osm_id": 1188151213,
+    "tags": {
+      "lifeguard": "no",
+      "name": "Te Amo Beach",
+      "natural": "beach",
+      "sport": "scuba_diving",
+      "supervised": "no",
+      "tourism": "attraction"
+    }
+  }
+]

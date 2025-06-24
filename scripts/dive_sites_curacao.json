@@ -1,0 +1,363 @@
+[
+  {
+    "name": "Kleine Knip",
+    "country": "CW",
+    "region": null,
+    "lat": 12.341558,
+    "lon": -69.1538671,
+    "osm_id": 447928252,
+    "tags": {
+      "addr:city": "Westpunt",
+      "addr:country": "CW",
+      "name": "Kleine Knip",
+      "name:pap": "Kenepa Chiki",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Grote Knip",
+    "country": "CW",
+    "region": null,
+    "lat": 12.3514337,
+    "lon": -69.153211,
+    "osm_id": 447928253,
+    "tags": {
+      "addr:city": "Westpunt",
+      "addr:country": "CW",
+      "name": "Grote Knip",
+      "name:pap": "Kenepa Grandi",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "The Valley",
+    "country": null,
+    "region": null,
+    "lat": 12.2185168,
+    "lon": -69.0862994,
+    "osm_id": 448022080,
+    "tags": {
+      "name": "The Valley",
+      "sport": "scuba_diving",
+      "waterway": "weir"
+    }
+  },
+  {
+    "name": "Marie Pampoen",
+    "country": null,
+    "region": null,
+    "lat": 12.0897355,
+    "lon": -68.9068508,
+    "osm_id": 448022084,
+    "tags": {
+      "name": "Marie Pampoen",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Mushroom Forest",
+    "country": null,
+    "region": null,
+    "lat": 12.3018115,
+    "lon": -69.1543365,
+    "osm_id": 448747096,
+    "tags": {
+      "name": "Mushroom Forest",
+      "natural": "reef",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Playa Jeremi",
+    "country": "CW",
+    "region": null,
+    "lat": 12.3284212,
+    "lon": -69.1505496,
+    "osm_id": 448747097,
+    "tags": {
+      "access": "yes",
+      "addr:city": "Westpunt",
+      "addr:country": "CW",
+      "name": "Playa Jeremi",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Playa Kalki",
+    "country": "CW",
+    "region": null,
+    "lat": 12.3739947,
+    "lon": -69.1585735,
+    "osm_id": 449247479,
+    "tags": {
+      "addr:city": "Westpunt",
+      "addr:country": "CW",
+      "alt_name": "Alice in Wonderland",
+      "name": "Playa Kalki",
+      "natural": "reef",
+      "sport": "scuba_diving",
+      "wikidata": "Q22330080"
+    }
+  },
+  {
+    "name": "Superior Producer",
+    "country": "CW",
+    "region": null,
+    "lat": 12.1042457,
+    "lon": -68.9466568,
+    "osm_id": 450262196,
+    "tags": {
+      "addr:country": "CW",
+      "depth": "30",
+      "historic": "wreck",
+      "name": "Superior Producer",
+      "note": "1.1 km west of harbor area according to: www.shorediving.com/Earth/ABC/Curacao/Superior_Producer/",
+      "seamark:type": "wreck",
+      "source": "www.dive-links.com",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Dive Center Scuba Do",
+    "country": null,
+    "region": null,
+    "lat": 12.0762731,
+    "lon": -68.8796534,
+    "osm_id": 619037894,
+    "tags": {
+      "addr:city": "willemstad",
+      "addr:street": "Jan Thielbaai",
+      "name": "Dive Center Scuba Do",
+      "opening_hours": "9:00 - 17:30",
+      "operator": "PADI, SDI",
+      "phone": "+5999 7679300",
+      "shop": "scuba_diving",
+      "sport": "scuba_diving",
+      "website": "https://www.scubadocuracao.com/"
+    }
+  },
+  {
+    "name": "Snake Bay",
+    "country": null,
+    "region": null,
+    "lat": 12.1384966,
+    "lon": -68.99653,
+    "osm_id": 663869379,
+    "tags": {
+      "name": "Snake Bay",
+      "source": "www.dive-links.com",
+      "sport": "scuba_diving",
+      "verified": "no, please check and del this tag",
+      "website": "http://www.dive-links.com/tauchplatz.php?id=933"
+    }
+  },
+  {
+    "name": "Boka Sami",
+    "country": null,
+    "region": null,
+    "lat": 12.1394983,
+    "lon": -68.9972716,
+    "osm_id": 663869380,
+    "tags": {
+      "name": "Boka Sami",
+      "source": "www.dive-links.com",
+      "sport": "scuba_diving",
+      "verified": "no, please check and del this tag",
+      "website": "http://www.dive-links.com/tauchplatz.php?id=932"
+    }
+  },
+  {
+    "name": "Airplane Wreck (Sunset Waters)",
+    "country": "CW",
+    "region": null,
+    "lat": 12.266944,
+    "lon": -69.1276576,
+    "osm_id": 663869381,
+    "tags": {
+      "addr:country": "CW",
+      "historic": "aircraft_wreck",
+      "name": "Airplane Wreck (Sunset Waters)",
+      "seamark:type": "wreck",
+      "source": "www.dive-links.com",
+      "sport": "scuba_diving",
+      "verified": "no, please check and del this tag",
+      "website": "http://www.dive-links.com/tauchplatz.php?id=968"
+    }
+  },
+  {
+    "name": "Playa Manzalina",
+    "country": null,
+    "region": null,
+    "lat": 12.2454216,
+    "lon": -69.1055983,
+    "osm_id": 663869383,
+    "tags": {
+      "name": "Playa Manzalina",
+      "source": "www.dive-links.com",
+      "sport": "scuba_diving",
+      "verified": "no, please check and del this tag",
+      "website": "http://www.dive-links.com/tauchplatz.php?id=923"
+    }
+  },
+  {
+    "name": "Rif Sint Marie",
+    "country": null,
+    "region": null,
+    "lat": 12.1985784,
+    "lon": -69.079446,
+    "osm_id": 663869384,
+    "tags": {
+      "name": "Rif Sint Marie",
+      "sport": "scuba_diving",
+      "verified": "no, please check and del this tag"
+    }
+  },
+  {
+    "name": "Daaibooi Baai",
+    "country": "CW",
+    "region": null,
+    "lat": 12.2119209,
+    "lon": -69.0855754,
+    "osm_id": 663869385,
+    "tags": {
+      "addr:city": "Sint Willibrordus",
+      "addr:country": "CW",
+      "addr:street": "Daaibooi Road",
+      "name": "Daaibooi Baai",
+      "name:en": "Daaibooi Bay",
+      "source": "www.dive-links.com",
+      "sport": "scuba_diving",
+      "verified": "no, please check and del this tag",
+      "website": "http://www.dive-links.com/tauchplatz.php?id=927"
+    }
+  },
+  {
+    "name": "Playa Lagun",
+    "country": null,
+    "region": null,
+    "lat": 12.3181345,
+    "lon": -69.1508771,
+    "osm_id": 663869390,
+    "tags": {
+      "name": "Playa Lagun",
+      "source": "www.dive-links.com",
+      "sport": "scuba_diving",
+      "verified": "no, please check and del this tag",
+      "website": "http://www.dive-links.com/tauchplatz.php?id=918"
+    }
+  },
+  {
+    "name": "Playa Largu",
+    "country": null,
+    "region": null,
+    "lat": 12.2353033,
+    "lon": -69.098515,
+    "osm_id": 663869391,
+    "tags": {
+      "name": "Playa Largu",
+      "source": "www.dive-links.com",
+      "sport": "scuba_diving",
+      "verified": "no, please check and del this tag",
+      "website": "http://www.dive-links.com/tauchplatz.php?id=702"
+    }
+  },
+  {
+    "name": "Oswaldo's Drop Off",
+    "country": null,
+    "region": null,
+    "lat": 12.0881176,
+    "lon": -68.9016845,
+    "osm_id": 663869393,
+    "tags": {
+      "name": "Oswaldo's Drop Off",
+      "source": "www.dive-links.com",
+      "sport": "scuba_diving",
+      "verified": "no, please check and del this tag",
+      "website": "http://www.dive-links.com/tauchplatz.php?id=941"
+    }
+  },
+  {
+    "name": "Ship Wreck Tugboat",
+    "country": null,
+    "region": null,
+    "lat": 12.0679476,
+    "lon": -68.8619504,
+    "osm_id": 3190150020,
+    "tags": {
+      "name": "Ship Wreck Tugboat",
+      "seamark:type": "wreck",
+      "sport": "scuba_diving",
+      "wreck:depth": "5m"
+    }
+  },
+  {
+    "name": "Go West Diving",
+    "country": "CW",
+    "region": null,
+    "lat": 12.3750378,
+    "lon": -69.1574907,
+    "osm_id": 3190150034,
+    "tags": {
+      "addr:city": "Westpunt",
+      "addr:country": "CW",
+      "addr:street": "Playa Kalki",
+      "amenity": "dive_centre",
+      "email": "info@gowestdiving.com",
+      "fax": "+599 9864 3042",
+      "name": "Go West Diving",
+      "opening_hours": "Mo-Su 08:00-17:00",
+      "payment:cash": "yes",
+      "payment:credit_cards": "yes",
+      "payment:debit_cards": "yes",
+      "phone": "+599 9864 0102; +599 9511 3319",
+      "scuba_diving:boatdives": "yes",
+      "scuba_diving:courses": "yes",
+      "scuba_diving:filling": "yes",
+      "scuba_diving:nitrox_filling": "yes",
+      "scuba_diving:rental": "yes",
+      "scuba_diving:sales": "yes",
+      "scuba_diving:shore_dives": "yes",
+      "scuba_diving:snorkeling": "yes",
+      "shop": "scuba_diving",
+      "sport": "scuba_diving",
+      "website": "https://www.gowestdiving.com/"
+    }
+  },
+  {
+    "name": "Ship wreck",
+    "country": null,
+    "region": null,
+    "lat": 12.0762578,
+    "lon": -68.8805685,
+    "osm_id": 11183920369,
+    "tags": {
+      "name": "Ship wreck",
+      "seamark:type": "wreck",
+      "sport": "scuba_diving",
+      "wreck:depth": "6m"
+    }
+  },
+  {
+    "name": "Rancho El Sobrino",
+    "country": "CW",
+    "region": null,
+    "lat": 12.3631794,
+    "lon": -69.1552439,
+    "osm_id": 233949019,
+    "tags": {
+      "addr:city": "Westpunt",
+      "addr:country": "CW",
+      "addr:street": "Weg naar Knip",
+      "building": "yes",
+      "contact:phone": "+5999 864 0493",
+      "email": "info@ranchoelsobrino.com",
+      "fax": "+5999 869 4015",
+      "image": "http://www.ranchoelsobrino.com/foto/88",
+      "name": "Rancho El Sobrino",
+      "phone": "+5999 670 8822",
+      "sport": "scuba_diving",
+      "tourism": "hotel",
+      "website": "https://www.ranchoelsobrino.com/"
+    }
+  }
+]
