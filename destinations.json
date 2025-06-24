@@ -4,13 +4,17 @@
     "slug": "bonaire",
     "center": [12.1836, -68.3177],
     "bounds": [[12.10, -68.35], [12.30, -68.28]],
-    "description": "A Caribbean island known for its pristine coral reefs and excellent shore diving opportunities."
+    "description": "A Caribbean island known for its pristine coral reefs and excellent shore diving opportunities.",
+    "overviewFile": "overview.md",
+    "countryCode": "BQ"
   },
   {
     "name": "Curacao",
     "slug": "curacao",
     "center": [12.12, -68.93],
     "bounds": [[12.00, -69.00], [12.30, -68.70]],
-    "description": "Famous for its colorful coral reefs and diverse marine life in the southern Caribbean."
+    "description": "Famous for its colorful coral reefs and diverse marine life in the southern Caribbean.",
+    "overviewFile": "overview.md",
+    "countryCode": "CW"
   }
 ] 
