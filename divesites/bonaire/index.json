@@ -42,5 +42,14 @@
     "difficulty": "beginner",
     "maxDepth": 60,
     "visibility": "Excellent"
+  },
+  {
+    "name": "Boka di Tolo",
+    "lat": "12.2152361",
+    "lng": "-68.3374389",
+    "filename": "boka-di-tolo.md",
+    "addedBy": "osm_data",
+    "difficulty": "Intermediate",
+    "maxDepth": "30"
   }
-] 
+]
