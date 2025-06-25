@@ -8,7 +8,7 @@ entryType: shore
 siteType: wreck
 ref: 
 osmId: 635094207
-addedBy: osm_data
+addedBy: jbunderwater_ai
 ---
 
 # La Machaca

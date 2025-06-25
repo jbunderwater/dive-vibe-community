@@ -8,7 +8,7 @@ entryType: shore
 siteType: beach
 ref: 
 osmId: 1188151213
-addedBy: osm_data
+addedBy: jbunderwater_ai
 ---
 
 # Te Amo Beach

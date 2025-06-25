@@ -8,7 +8,7 @@ entryType: shore
 siteType: reef
 ref: 
 osmId: 854130146
-addedBy: osm_data
+addedBy: jbunderwater_ai
 ---
 
 # Taylor Made

@@ -8,7 +8,7 @@ entryType: shore
 siteType: reef
 ref: 
 osmId: 2625769975
-addedBy: osm_data
+addedBy: jbunderwater_ai
 ---
 
 # Windjammer

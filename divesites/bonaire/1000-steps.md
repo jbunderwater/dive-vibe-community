@@ -8,7 +8,7 @@ entryType: shore
 siteType: beach
 ref: 16
 osmId: 313863131
-addedBy: osm_data
+addedBy: jbunderwater_ai
 ---
 
 # 1000 Steps

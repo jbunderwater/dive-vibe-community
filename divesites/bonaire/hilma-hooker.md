@@ -8,7 +8,7 @@ entryType: shore
 siteType: wreck
 ref: 
 osmId: 635881808
-addedBy: osm_data
+addedBy: jbunderwater_ai
 ---
 
 # Hilma Hooker

@@ -8,7 +8,7 @@ entryType: shore
 siteType: beach
 ref: 
 osmId: 4017913908
-addedBy: osm_data
+addedBy: jbunderwater_ai
 ---
 
 # Chachacha Beach

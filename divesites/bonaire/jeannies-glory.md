@@ -8,7 +8,7 @@ entryType: shore
 siteType: reef
 ref: 
 osmId: 663869412
-addedBy: osm_data
+addedBy: jbunderwater_ai
 ---
 
 # Jeannie's Glory

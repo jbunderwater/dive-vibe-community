@@ -8,7 +8,7 @@ entryType: shore
 siteType: reef
 ref: 
 osmId: 639106013
-addedBy: osm_data
+addedBy: jbunderwater_ai
 ---
 
 # Front Porch

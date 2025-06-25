@@ -8,7 +8,7 @@ entryType: shore
 siteType: reef
 ref: 
 osmId: 854130125
-addedBy: osm_data
+addedBy: jbunderwater_ai
 ---
 
 # Carel's Vision

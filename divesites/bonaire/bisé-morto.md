@@ -8,7 +8,7 @@ entryType: shore
 siteType: reef
 ref: 
 osmId: 4200486589
-addedBy: osm_data
+addedBy: jbunderwater_ai
 ---
 
 # Bisé Morto

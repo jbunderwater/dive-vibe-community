@@ -40,3 +40,5 @@ Bonaire is a small Caribbean island known as one of the world's premier diving d
 - Bonaire Tourism Corporation
 - Bonaire National Marine Park
 - Local dive operators and guides
+
+Please note: This summary contains AI generated information and should be reviewed for accuracy.

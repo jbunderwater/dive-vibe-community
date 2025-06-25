@@ -8,7 +8,7 @@ entryType: shore
 siteType: reef
 ref: 
 osmId: 663869425
-addedBy: osm_data
+addedBy: jbunderwater_ai
 ---
 
 # Oil Slick Leap

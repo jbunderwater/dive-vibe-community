@@ -8,7 +8,7 @@ entryType: shore
 siteType: reef
 ref: 
 osmId: 11333668406
-addedBy: osm_data
+addedBy: jbunderwater_ai
 ---
 
 # Soft Coral Garden (unmarked site)

@@ -8,7 +8,7 @@ entryType: shore
 siteType: reef
 ref: 30
 osmId: 313862678
-addedBy: osm_data
+addedBy: jbunderwater_ai
 ---
 
 # Bari Reef

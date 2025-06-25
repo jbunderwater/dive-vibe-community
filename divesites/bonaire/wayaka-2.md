@@ -8,7 +8,7 @@ entryType: shore
 siteType: reef
 ref: 
 osmId: 4437663289
-addedBy: osm_data
+addedBy: jbunderwater_ai
 ---
 
 # Wayaka 2

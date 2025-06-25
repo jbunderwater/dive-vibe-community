@@ -8,7 +8,7 @@ entryType: shore
 siteType: wreck
 ref: 
 osmId: 663869397
-addedBy: osm_data
+addedBy: jbunderwater_ai
 ---
 
 # Red Slave

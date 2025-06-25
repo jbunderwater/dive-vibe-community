@@ -8,7 +8,7 @@ entryType: shore
 siteType: reef
 ref: 
 osmId: 11333668405
-addedBy: osm_data
+addedBy: jbunderwater_ai
 ---
 
 # Yellow Hut (unmarked site)

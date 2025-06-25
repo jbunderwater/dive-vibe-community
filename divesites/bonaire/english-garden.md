@@ -8,7 +8,7 @@ entryType: shore
 siteType: reef
 ref: 
 osmId: 635881767
-addedBy: osm_data
+addedBy: jbunderwater_ai
 ---
 
 # English Garden

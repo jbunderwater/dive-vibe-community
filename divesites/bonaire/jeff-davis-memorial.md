@@ -8,7 +8,7 @@ entryType: shore
 siteType: reef
 ref: 
 osmId: 636400684
-addedBy: osm_data
+addedBy: jbunderwater_ai
 ---
 
 # Jeff Davis Memorial

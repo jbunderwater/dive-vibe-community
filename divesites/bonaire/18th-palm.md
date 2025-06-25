@@ -8,7 +8,7 @@ entryType: shore
 siteType: reef
 ref: 
 osmId: 854130076
-addedBy: osm_data
+addedBy: jbunderwater_ai
 ---
 
 # 18th Palm

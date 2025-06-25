@@ -8,7 +8,7 @@ entryType: shore
 siteType: reef
 ref: 
 osmId: 635094192
-addedBy: osm_data
+addedBy: jbunderwater_ai
 ---
 
 # Boy Scout

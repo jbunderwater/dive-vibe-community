@@ -8,7 +8,7 @@ entryType: shore
 siteType: reef
 ref: 
 osmId: 663869438
-addedBy: osm_data
+addedBy: jbunderwater_ai
 ---
 
 # Reef Scientifico

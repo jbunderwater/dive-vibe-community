@@ -9,7 +9,7 @@ Thank you for your interest in contributing to the Dive Vibe Community Data repo
 The easiest way to contribute is through our web application:
 
 1. **Visit the Dive Vibe App**
-   - Go to [dive-vibe.com](https://divevibe.io) 
+   - Go to [dive-vibe.com](https://divevibe.app) 
    - Sign in with your GitHub account
 
 2. **Submit Your Contribution**

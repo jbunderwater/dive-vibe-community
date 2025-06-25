@@ -8,7 +8,7 @@ entryType: shore
 siteType: reef
 ref: 
 osmId: 11333668404
-addedBy: osm_data
+addedBy: jbunderwater_ai
 ---
 
 # Hidden Beach (unmarked site)

@@ -8,7 +8,7 @@ entryType: shore
 siteType: reef
 ref: 
 osmId: 635942336
-addedBy: osm_data
+addedBy: jbunderwater_ai
 ---
 
 # Something Special

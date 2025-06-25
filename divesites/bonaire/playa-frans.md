@@ -8,7 +8,7 @@ entryType: shore
 siteType: reef
 ref: 
 osmId: 1420984806
-addedBy: osm_data
+addedBy: jbunderwater_ai
 ---
 
 # Playa Frans

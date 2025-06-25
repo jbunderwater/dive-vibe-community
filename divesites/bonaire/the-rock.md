@@ -8,7 +8,7 @@ entryType: shore
 siteType: reef
 ref: 
 osmId: 1420984809
-addedBy: osm_data
+addedBy: jbunderwater_ai
 ---
 
 # The Rock

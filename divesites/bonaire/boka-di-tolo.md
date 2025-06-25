@@ -8,7 +8,7 @@ entryType: shore
 siteType: reef
 ref: 
 osmId: 663869427
-addedBy: osm_data
+addedBy: jbunderwater_ai
 ---
 
 # Boka di Tolo

@@ -8,7 +8,7 @@ entryType: shore
 siteType: reef
 ref: 
 osmId: 635881804
-addedBy: osm_data
+addedBy: jbunderwater_ai
 ---
 
 # Alice in Wonderland

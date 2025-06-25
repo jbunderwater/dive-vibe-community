@@ -8,7 +8,7 @@ entryType: shore
 siteType: reef
 ref: 
 osmId: 635094202
-addedBy: osm_data
+addedBy: jbunderwater_ai
 ---
 
 # Mi Cas

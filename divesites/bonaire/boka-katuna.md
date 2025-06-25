@@ -8,7 +8,7 @@ entryType: shore
 siteType: reef
 ref: 
 osmId: 9523960359
-addedBy: osm_data
+addedBy: jbunderwater_ai
 ---
 
 # Boka Katuna
