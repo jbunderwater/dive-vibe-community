@@ -1,15 +1,16 @@
 ---
-name: Karpata
+name: "Karpata"
 lat: 12.2192934
 lng: -68.3521324
-difficulty: Intermediate
+difficulty: "Beginner"
 maxDepth: 30
-entryType: shore
-siteType: reef
-ref: 
+entryType: "shore"
+siteType: "reef"
+ref: ""
 osmId: 663869440
-addedBy: osm_data
+addedBy: "osm_data"
 ---
+
 
 # Karpata
 
