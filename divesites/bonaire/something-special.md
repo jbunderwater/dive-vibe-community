@@ -1,15 +1,17 @@
 ---
-name: Something Special
-lat: 12.1613822
-lng: -68.2838525
-difficulty: Intermediate
-maxDepth: 30
-entryType: shore
-siteType: reef
-ref: 
-osmId: 635942336
-addedBy: osm_data
+name: "Something Special"
+lat: "12.1613822"
+lng: "-68.2838525"
+difficulty: "Intermediate"
+maxDepth: "30"
+entryType: "shore"
+siteType: "reef"
+ref: "null"
+osmId: "635942336"
+addedBy: "osm_data"
+images: ["/images/bonaire/something-special-20250625_131433-01.jpg"]
 ---
+
 
 # Something Special
 
