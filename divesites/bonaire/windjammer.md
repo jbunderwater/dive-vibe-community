@@ -1,15 +1,17 @@
 ---
-name: Windjammer
-lat: 12.2202758
-lng: -68.3753404
-difficulty: Intermediate
-maxDepth: 30
-entryType: shore
-siteType: reef
-ref: 
-osmId: 2625769975
-addedBy: osm_data
+name: "Windjammer"
+lat: "12.2202758"
+lng: "-68.3753404"
+difficulty: "Intermediate"
+maxDepth: "30"
+entryType: "shore"
+siteType: "reef"
+ref: "null"
+osmId: "2625769975"
+addedBy: "osm_data"
+images: ["/images/bonaire/windjammer-20250625_122545-01.jpg"]
 ---
+
 
 # Windjammer
 
