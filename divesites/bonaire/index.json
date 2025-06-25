@@ -37,14 +37,12 @@
   },
   {
     "name": "Karpata",
-    "lat": 12.21939,
-    "lng": -68.35199,
+    "lat": "12.2192934",
+    "lng": "-68.3521324",
     "filename": "karpata.md",
-    "infoLink": "https://www.bonairepros.com/dive-sites/karpata",
-    "addedBy": "sample-data",
-    "difficulty": "beginner",
-    "maxDepth": 30,
-    "visibility": "Excellent"
+    "addedBy": "osm_data",
+    "difficulty": "Beginner",
+    "maxDepth": "30"
   },
   {
     "name": "Bari Reef",
@@ -707,8 +705,8 @@
     "osmId": 4017913908
   },
   {
-    "name": "Bis\u00e9 Morto",
-    "filename": "bis\u00e9-morto.md",
+    "name": "Bisé Morto",
+    "filename": "bisé-morto.md",
     "lat": 12.2935303,
     "lng": -68.4132212,
     "difficulty": "Intermediate",
