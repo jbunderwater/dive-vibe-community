@@ -1,15 +1,16 @@
 ---
-name: Boka di Tolo
+name: "Boka di Tolo"
 lat: 12.2152361
 lng: -68.3374389
-difficulty: Intermediate
+difficulty: "Intermediate"
 maxDepth: 30
-entryType: shore
-siteType: reef
-ref: 
+entryType: "shore"
+siteType: "reef"
+ref: ""
 osmId: 663869427
-addedBy: jbunderwater_ai
+addedBy: "jbunderwater_ai"
 ---
+
 
 # Boka di Tolo
 
