@@ -552,15 +552,12 @@
   },
   {
     "name": "Boka di Tolo",
+    "lat": "12.2152361",
+    "lng": "-68.3374389",
     "filename": "boka-di-tolo.md",
-    "lat": 12.2152361,
-    "lng": -68.3374389,
+    "addedBy": "jbunderwater_ai",
     "difficulty": "Intermediate",
-    "maxDepth": 30,
-    "entryType": "shore",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 663869427
+    "maxDepth": "30"
   },
   {
     "name": "Windsock",
@@ -707,8 +704,8 @@
     "osmId": 4017913908
   },
   {
-    "name": "Bis\u00e9 Morto",
-    "filename": "bis\u00e9-morto.md",
+    "name": "Bisé Morto",
+    "filename": "bisé-morto.md",
     "lat": 12.2935303,
     "lng": -68.4132212,
     "difficulty": "Intermediate",
