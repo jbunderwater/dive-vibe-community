@@ -1,15 +1,16 @@
 ---
-name: Windjammer
+name: "Windjammer"
 lat: 12.2202758
 lng: -68.3753404
-difficulty: Intermediate
+difficulty: "Intermediate"
 maxDepth: 30
-entryType: shore
-siteType: reef
-ref: 
+entryType: "shore"
+siteType: "reef"
+ref: ""
 osmId: 2625769975
-addedBy: jbunderwater_ai
+addedBy: "jbunderwater_ai"
 ---
+
 
 # Windjammer
 
