@@ -1,15 +1,17 @@
 ---
-name: Oil Slick Leap
-lat: 12.2001711
-lng: -68.308717
-difficulty: Intermediate
-maxDepth: 30
-entryType: shore
-siteType: reef
-ref: 
-osmId: 663869425
-addedBy: jbunderwater_ai
+name: "Oil Slick Leap"
+lat: "12.2001711"
+lng: "-68.308717"
+difficulty: "Intermediate"
+maxDepth: "30"
+entryType: "shore"
+siteType: "reef"
+ref: "null"
+osmId: "663869425"
+addedBy: "jbunderwater_ai"
+images: ["/images/bonaire/oil-slick-leap-20250625_210052-01.jpg"]
 ---
+
 
 # Oil Slick Leap
 
