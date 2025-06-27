@@ -13,8 +13,6 @@ addedBy: jbunderwater_ai
 
 # Bachelor's Beach
 
-A beautiful reef dive site featuring excellent coral formations and abundant marine life
-
 ## Overview
 Bachelor's Beach is a beautiful dive site located south of Kralendijk near the airport. The site features a small sandy beach with a short swim to a dramatic drop-off that starts at about 20 feet and descends to depths of over 100 feet. The reef is in excellent condition with diverse coral formations, including brain corals, elkhorn coral, and colorful soft corals. The site is particularly known for its dramatic topography and abundance of marine life. The easy sandy entry makes it accessible to divers of all experience levels.
 

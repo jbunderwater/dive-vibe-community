@@ -13,8 +13,6 @@ addedBy: jbunderwater_ai
 
 # Red Beryl
 
-A beautiful reef dive site featuring excellent coral formations and abundant marine life
-
 ## Overview
 Red Beryl is a beautiful dive site located in southern Bonaire near Atlantis. The site features a healthy reef that starts at about 15 feet and gradually slopes down to depths of over 100 feet. The reef is in excellent condition with diverse coral formations, including brain corals, elkhorn coral, and colorful soft corals. The site is particularly known for its abundance of marine life and excellent visibility. The easy sandy entry makes it accessible to divers of all experience levels.
 
