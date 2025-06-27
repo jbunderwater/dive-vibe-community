@@ -1,15 +1,17 @@
 ---
-name: Andrea I
-lat: 12.188411
-lng: -68.296732
-difficulty: Intermediate
-maxDepth: 30
-entryType: shore
-siteType: reef
-ref: 
-osmId: 663869426
-addedBy: jbunderwater_ai
+name: "Andrea I"
+lat: "12.188411"
+lng: "-68.296732"
+difficulty: "Intermediate"
+maxDepth: "30"
+entryType: "shore"
+siteType: "reef"
+ref: "null"
+osmId: "663869426"
+addedBy: "jbunderwater_ai"
+images: ["/images/bonaire/andrea-i-20250626_214436-01.jpg"]
 ---
+
 
 # Andrea I
 
