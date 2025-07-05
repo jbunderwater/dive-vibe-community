@@ -1,0 +1,138 @@
+{
+  "sites": [
+    {
+      "id": "node_447928252",
+      "name": "Kleine Knip",
+      "lat": 12.341558,
+      "lon": -69.1538671,
+      "filename": "kleine_knip.md"
+    },
+    {
+      "id": "node_447928253",
+      "name": "Grote Knip",
+      "lat": 12.3514337,
+      "lon": -69.153211,
+      "filename": "grote_knip.md"
+    },
+    {
+      "id": "node_448022080",
+      "name": "The Valley",
+      "lat": 12.2185168,
+      "lon": -69.0862994,
+      "filename": "the_valley.md"
+    },
+    {
+      "id": "node_448022084",
+      "name": "Marie Pampoen",
+      "lat": 12.0897355,
+      "lon": -68.9068508,
+      "filename": "marie_pampoen.md"
+    },
+    {
+      "id": "node_448747096",
+      "name": "Mushroom Forest",
+      "lat": 12.3018115,
+      "lon": -69.1543365,
+      "filename": "mushroom_forest.md"
+    },
+    {
+      "id": "node_448747097",
+      "name": "Playa Jeremi",
+      "lat": 12.3284212,
+      "lon": -69.1505496,
+      "filename": "playa_jeremi.md"
+    },
+    {
+      "id": "node_449247479",
+      "name": "Playa Kalki",
+      "lat": 12.3739947,
+      "lon": -69.1585735,
+      "filename": "playa_kalki.md"
+    },
+    {
+      "id": "node_450262196",
+      "name": "Superior Producer",
+      "lat": 12.1042457,
+      "lon": -68.9466568,
+      "filename": "superior_producer.md",
+      "depth": "30"
+    },
+    {
+      "id": "node_663869379",
+      "name": "Snake Bay",
+      "lat": 12.1384966,
+      "lon": -68.99653,
+      "filename": "snake_bay.md"
+    },
+    {
+      "id": "node_663869380",
+      "name": "Boka Sami",
+      "lat": 12.1394983,
+      "lon": -68.9972716,
+      "filename": "boka_sami.md"
+    },
+    {
+      "id": "node_663869381",
+      "name": "Airplane Wreck (Sunset Waters)",
+      "lat": 12.266944,
+      "lon": -69.1276576,
+      "filename": "airplane_wreck_sunset_waters.md"
+    },
+    {
+      "id": "node_663869383",
+      "name": "Playa Manzalina",
+      "lat": 12.2454216,
+      "lon": -69.1055983,
+      "filename": "playa_manzalina.md"
+    },
+    {
+      "id": "node_663869384",
+      "name": "Rif Sint Marie",
+      "lat": 12.1985784,
+      "lon": -69.079446,
+      "filename": "rif_sint_marie.md"
+    },
+    {
+      "id": "node_663869385",
+      "name": "Daaibooi Baai",
+      "lat": 12.2119209,
+      "lon": -69.0855754,
+      "filename": "daaibooi_baai.md"
+    },
+    {
+      "id": "node_663869390",
+      "name": "Playa Lagun",
+      "lat": 12.3181345,
+      "lon": -69.1508771,
+      "filename": "playa_lagun.md"
+    },
+    {
+      "id": "node_663869391",
+      "name": "Playa Largu",
+      "lat": 12.2353033,
+      "lon": -69.098515,
+      "filename": "playa_largu.md"
+    },
+    {
+      "id": "node_663869393",
+      "name": "Oswaldo's Drop Off",
+      "lat": 12.0881176,
+      "lon": -68.9016845,
+      "filename": "oswaldos_drop_off.md"
+    },
+    {
+      "id": "node_3190150020",
+      "name": "Ship Wreck Tugboat",
+      "lat": 12.0679476,
+      "lon": -68.8619504,
+      "filename": "ship_wreck_tugboat.md"
+    },
+    {
+      "id": "node_11183920369",
+      "name": "Ship wreck",
+      "lat": 12.0762578,
+      "lon": -68.8805685,
+      "filename": "ship_wreck.md"
+    }
+  ]
+}
