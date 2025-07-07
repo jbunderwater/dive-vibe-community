@@ -13,9 +13,9 @@
     "name": "Curacao",
     "slug": "curacao",
     "region": "Caribbean",
-    "center": [12.12, -68.93],
-    "bounds": [[12.00, -69.00], [12.30, -68.70]],
-    "description": "Famous for its colorful coral reefs and diverse marine life in the southern Caribbean.",
+    "center": [12.2210, -69.0103],
+    "bounds": [[12.0679, -69.1586], [12.3740, -68.8619]],
+    "description": "Dutch Caribbean paradise offering world-class shore diving with colorful coral reefs, historic wrecks, and diverse marine life including sea turtles and tropical fish. Known for crystal-clear waters and excellent visibility.",
     "overviewFile": "overview.md",
     "countryCode": "CW"
   },
