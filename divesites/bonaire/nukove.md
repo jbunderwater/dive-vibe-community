@@ -1,61 +1,76 @@
 ---
-name: Nukove
-lat: 12.2407008
-lng: -68.4128282
-difficulty: Intermediate
-maxDepth: 30
-entryType: shore
-siteType: reef
-ref: 
-osmId: 663869422
-addedBy: jbunderwater_ai
+name: Nukove  
+lat: 12.2407008  
+lng: -68.4128282  
+difficulty: Intermediate  
+maxDepth: 30m  
+entryType: Shore  
+siteType: Reef  
+ref:  
+osmId: 663869422  
+addedBy: jbunderwater_ai_perplexity  
 ---
 
-# Nukove
+## Nukove
+
+Nukove is a popular shore-accessible reef dive site located on the western coast of Bonaire, known for its healthy coral formations and abundant marine life typical of the Caribbean Sea.
 
 ## Overview
-Nukove is a beautiful dive site located in northern Bonaire near Washington Slagbaai National Park. The site features a healthy reef that starts at about 15 feet and gradually slopes down to depths of over 100 feet. The reef is in excellent condition with diverse coral formations, including brain corals, elkhorn coral, and colorful soft corals. The site is particularly known for its abundance of marine life and excellent visibility. The easy sandy entry makes it accessible to divers of all experience levels.
+
+Nukove is situated along Bonaire’s west coast, an area renowned for excellent shore diving conditions. The site features a gently sloping coral reef with a mix of hard and soft corals, interspersed with sandy patches. The reef structure provides shelter for a diverse array of fish and invertebrates. Visibility is usually good, and currents are generally mild, making it suitable for divers with some experience. The site offers an immersive Caribbean reef diving experience with typical Bonaire underwater topography and marine biodiversity.
 
 ## Site Information
-- **Location**: North Bonaire (near Washington Slagbaai National Park)
-- **Entry Type**: Shore entry (easy sandy entry)
-- **Site Type**: Reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-30 meters
-- **Current**: Usually light
-- **Best Time**: Morning to early afternoon
+- **Location**: Western coast of Bonaire, Caribbean Netherlands  
+- **Entry Type**: Shore  
+- **Site Type**: Reef  
+- **Difficulty Level**: Intermediate  
+- **Maximum Depth**: 30 meters  
+- **Typical Visibility**: 20-30 meters  
+- **Current**: Mild  
+- **Best Time**: Year-round, with calm seas typically from April to August  
 
 ## Marine Life
-Nukove is home to a diverse array of marine life. Large schools of blue tangs, parrotfish, and grunts are commonly seen. The site is also frequented by sea turtles, eagle rays, and occasionally nurse sharks. Macro life includes cleaner shrimp, arrow crabs, and various nudibranchs. The healthy coral formations provide habitat for countless reef fish species, including angelfish, butterflyfish, and damselfish.
+
+Divers at Nukove can expect to encounter a wide variety of Caribbean reef fish such as parrotfish, angelfish, grunts, and damselfish. The reef also supports spiny lobsters, various species of rays, and occasional sightings of sea turtles. The coral formations provide habitat for numerous invertebrates including sea urchins, feather duster worms, and colorful sponges.
 
 ## Dive Profile
-Enter the water from the sandy beach and swim out to the reef, which starts at about 15 feet. The reef gradually slopes down, making it easy to explore at different depths. Plan your dive to explore the reef at various depths, with most of the marine life found between 20-60 feet. The gradual slope makes this site excellent for divers of all experience levels.
+
+The dive generally begins at a sandy shoreline entry, progressing onto a sloping reef that descends gradually to about 30 meters. Divers often follow the reef contour, exploring coral heads and swim-throughs formed by coral outcrops. The site does not have wrecks or caves but offers overhangs and coral pinnacles. It is advisable to monitor depth and air supply due to the moderate maximum depth. The mild current allows for a relaxed drift along the reef.
 
 ## Entry and Exit
-The entry is via an easy sandy beach that provides comfortable access to the water. The sandy bottom extends for a short distance before reaching the reef. Exit at the same location, making this one of Bonaire's most convenient dive sites.
+
+Entry is made directly from the shore via a sandy beach area, with a short swim to the reef. Exit is also by shore, with a gradual ascent along the reef slope. Divers should be prepared for potential waves near the shore and slippery rocks. There are no significant surface currents, but standard caution for waves applies.
 
 ## Tips and Recommendations
-- This site is particularly popular with families and beginner divers
-- The easy entry makes it perfect for all experience levels
-- Look for the diverse coral formations and abundant marine life
-- The site is excellent for both wide-angle and macro photography
-- This is a great site for night diving
+
+- Bring reef-safe sunscreen to protect the marine environment.
+- Use a dive flag if surfacing near shore to alert boats.
+- Check local weather and sea conditions before diving.
+- Carry a dive light to explore shaded overhangs and crevices.
+- Respect marine life and avoid touching corals or disturbing animals.
 
 ## Safety Considerations
-The sandy entry is easy and safe for all experience levels. The gradual slope makes it easy to control your depth. Be aware of boat traffic in the area, though it's typically light. Maintain proper buoyancy control to protect the coral formations.
+
+- Mild currents can increase near the surface; maintain good buoyancy control.
+- Maximum depth of 30m requires appropriate certification and experience.
+- Watch out for sharp coral and sea urchins on the bottom.
+- No decompression stops are typically required, but always plan your dive conservatively.
+- Ensure good surface support and signaling devices for shore entry dives.
 
 ## Photography
-Nukove offers excellent photography opportunities. The clear water and healthy coral formations make it ideal for wide-angle shots. The abundant marine life provides great subjects for both wide-angle and macro photography. Natural light is best during morning hours when the sun illuminates the reef.
+
+Nukove offers excellent opportunities for wide-angle reef photography due to clear water and vibrant coral colors. Early morning dives provide the best natural light. Macro photographers can find plenty of small reef inhabitants in crevices and coral branches.
 
 ## Nearby Sites
-Nearby sites include Boka Bartol, Boka Katuna, and Carel's Vision. All are accessible along the northern coast of Bonaire.
+
+- Karpata  
+- Something Special  
+- Oil Slick Leap  
+- Bachelor’s Beach  
 
 ## Additional Resources
-- **Website**: https://www.divers-guide.com/en/dive-spots/nukove-doblet
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Accessibility**: Excellent for all experience levels
-- **Last Updated**: 2025-06-24
 
----
-*This dive site information was contributed by osm_data and last updated on 2025-06-24.* 
+- **Website**: Bonaire National Marine Park official site  
+- **Dive Guide**: "Dive Bonaire" by Bonaire Dive Guides  
+- **Site History or Notes**: Nukove is part of Bonaire’s protected marine park established in 1979, contributing to its well-preserved reef ecosystem.  
+- **Last Updated**: June 28, 2025

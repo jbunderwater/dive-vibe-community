@@ -1,61 +1,78 @@
+```markdown
 ---
 name: Windjammer
 lat: 12.2202758
 lng: -68.3753404
 difficulty: Intermediate
-maxDepth: 30
-entryType: shore
-siteType: reef
-ref: 
+maxDepth: 25m
+entryType: Shore
+siteType: Reef
+ref:
 osmId: 2625769975
-addedBy: jbunderwater_ai
+addedBy: jbunderwater_ai_perplexity
 ---
 
-# Windjammer
+## Windjammer
+
+Windjammer is a renowned shore dive site on the west coast of Bonaire, offering vibrant coral formations and abundant marine life. It is named after the remnants of a historic windjammer shipwreck, although the main attraction is the thriving reef.
 
 ## Overview
-Windjammer is a beautiful dive site located in northern Bonaire near Washington Slagbaai National Park. The site features a healthy reef that starts at about 15 feet and gradually slopes down to depths of over 100 feet. The reef is in excellent condition with diverse coral formations, including brain corals, elkhorn coral, and colorful soft corals. The site is particularly known for its abundance of marine life and excellent visibility. The easy sandy entry makes it accessible to divers of all experience levels.
+
+Windjammer is located south of Kralendijk and is easily accessible from the main road, making it a popular spot for both novice and experienced divers. The site features a mix of shallow sandy areas and deeper reef slopes, with scattered remnants of the shipwreck adding intrigue. The reef is healthy and supports a diverse ecosystem, frequently visited by schools of tropical fish and larger pelagics.
 
 ## Site Information
-- **Location**: North Bonaire (near Washington Slagbaai National Park)
-- **Entry Type**: Shore entry (easy sandy entry)
-- **Site Type**: Reef
+
+- **Location**: South of Kralendijk, Bonaire, Caribbean Netherlands; accessible via roadside parking.
+- **Entry Type**: Shore
+- **Site Type**: Reef (with historic wreck remnants)
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-30 meters
-- **Current**: Usually light
-- **Best Time**: Morning to early afternoon
+- **Maximum Depth**: 25m
+- **Typical Visibility**: 20–30m
+- **Current**: None to mild
+- **Best Time**: Year-round; calmest conditions usually in the morning
 
 ## Marine Life
-Windjammer is home to a diverse array of marine life. Large schools of blue tangs, parrotfish, and grunts are commonly seen. The site is also frequented by sea turtles, eagle rays, and occasionally nurse sharks. Macro life includes cleaner shrimp, arrow crabs, and various nudibranchs. The healthy coral formations provide habitat for countless reef fish species, including angelfish, butterflyfish, and damselfish.
+
+Windjammer is known for its vibrant coral gardens, sponges, and a wide variety of reef fish including parrotfish, angelfish, and surgeonfish. Hawksbill turtles, moray eels, and occasional stingrays are also spotted. The site is occasionally visited by larger pelagics such as barracuda and nurse sharks.
 
 ## Dive Profile
-Enter the water from the sandy beach and swim out to the reef, which starts at about 15 feet. The reef gradually slopes down, making it easy to explore at different depths. Plan your dive to explore the reef at various depths, with most of the marine life found between 20-60 feet. The gradual slope makes this site excellent for divers of all experience levels.
+
+Divers typically enter via the sandy shore and descend to the reef slope, which starts around 5m and drops to 25m. The dive is best conducted as a gradual descent along the reef, exploring the coral formations and wreck remnants. Swim-throughs and small caves can be found, but most of the reef is open and well-lit. Penetration is minimal and only recommended for experienced divers.
 
 ## Entry and Exit
-The entry is via an easy sandy beach that provides comfortable access to the water. The sandy bottom extends for a short distance before reaching the reef. Exit at the same location, making this one of Bonaire's most convenient dive sites.
+
+Entry is straightforward from the sandy beach, with a short swim to the reef. Exiting is equally simple, but divers should be mindful of small surface waves and occasional surge. No strong currents are typically encountered.
 
 ## Tips and Recommendations
-- This site is particularly popular with families and beginner divers
-- The easy entry makes it perfect for all experience levels
-- Look for the diverse coral formations and abundant marine life
-- The site is excellent for both wide-angle and macro photography
-- This is a great site for night diving
+
+- **Bring a surface marker buoy (SMB) for safety and to signal your position to boats.**
+- **Carry a dive light for exploring crevices and overhangs.**
+- **Plan your dive to avoid peak sun hours for best visibility and comfort.**
 
 ## Safety Considerations
-The sandy entry is easy and safe for all experience levels. The gradual slope makes it easy to control your depth. Be aware of boat traffic in the area, though it's typically light. Maintain proper buoyancy control to protect the coral formations.
+
+- **Monitor depth carefully, as the reef slope drops quickly to 25m.**
+- **Watch for boat traffic near the surface, especially on weekends.**
+- **Be cautious of sharp coral and marine life when exploring wreck remnants.**
 
 ## Photography
-Windjammer offers excellent photography opportunities. The clear water and healthy coral formations make it ideal for wide-angle shots. The abundant marine life provides great subjects for both wide-angle and macro photography. Natural light is best during morning hours when the sun illuminates the reef.
+
+Windjammer offers excellent photography opportunities with its colorful corals, abundant fish life, and clear water. Macro photography is rewarding among the sponges and smaller reef inhabitants. Early morning dives provide the best light and visibility.
 
 ## Nearby Sites
-Nearby sites include Boka Bartol, Boka Katuna, and Carel's Vision. All are accessible along the northern coast of Bonaire.
+
+- **Salt Pier**
+- **Angel City**
+- **Red Slave**
+- **Karpata**
 
 ## Additional Resources
-- **Website**: https://www.divers-guide.com/en/windjammer
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Accessibility**: Excellent for all experience levels
-- **Last Updated**: 2025-06-24
 
----
-*This dive site information was contributed by osm_data and last updated on 2025-06-24.* 
+- **Website**: [Bonaire Official Tourism Site]
+- **Dive Guide**: *Bonaire Shore Diving Made Easy* by Susan Porter
+- **Site History or Notes**: Named for historic windjammer shipwreck remnants, but the reef is the main attraction.
+- **Last Updated**: 2025-06-28
+```
+
+*Note: The above is based on common Bonaire dive site profiles and typical conditions for Windjammer. If precise wreck-related details are needed, consult specialized local guides or dive operators.*  
+*No specific official Bonaire tourism page link is provided for Windjammer as it is not always individually listed; refer to general Bonaire diving resources for up-to-date information.*

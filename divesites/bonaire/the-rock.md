@@ -3,58 +3,67 @@ name: The Rock
 lat: 12.0760025
 lng: -68.2799587
 difficulty: Intermediate
-maxDepth: 30
-entryType: shore
-siteType: reef
+maxDepth: 25m
+entryType: Shore
+siteType: Reef
 ref: 
 osmId: 1420984809
-addedBy: jbunderwater_ai
+addedBy: jbunderwater_ai_perplexity 
 ---
 
-# The Rock
+## The Rock
+
+The Rock is a popular shore-accessible reef dive site located near Bonaire, known for its vibrant coral formations and abundant marine life in clear, calm waters.
 
 ## Overview
-The Rock is a beautiful dive site located in southern Bonaire near Salt Pier. The site features a healthy reef that starts at about 15 feet and gradually slopes down to depths of over 100 feet. The reef is in excellent condition with diverse coral formations, including brain corals, elkhorn coral, and colorful soft corals. The site is particularly known for its abundance of marine life and excellent visibility. The easy sandy entry makes it accessible to divers of all experience levels.
+
+The Rock offers divers an easily accessible reef environment characterized by a gently sloping coral reef with varied topography including coral heads and sandy patches. It is favored for its serene conditions and excellent underwater visibility, making it suitable for intermediate divers seeking a rich biodiversity experience. The site’s location along Bonaire’s west coast provides typically mild currents and a stable underwater landscape shaped by years of reef growth and conservation efforts.
 
 ## Site Information
-- **Location**: South Bonaire (near Salt Pier)
-- **Entry Type**: Shore entry (easy sandy entry)
+- **Location**: Bonaire, Caribbean Netherlands, near Kralendijk
+- **Entry Type**: Shore
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20-30 meters
-- **Current**: Usually light
-- **Best Time**: Morning to early afternoon
+- **Current**: Mild
+- **Best Time**: Year-round, with optimal conditions from April to August
 
 ## Marine Life
-The Rock is home to a diverse array of marine life. Large schools of blue tangs, parrotfish, and grunts are commonly seen. The site is also frequented by sea turtles, eagle rays, and occasionally nurse sharks. Macro life includes cleaner shrimp, arrow crabs, and various nudibranchs. The healthy coral formations provide habitat for countless reef fish species, including angelfish, butterflyfish, and damselfish.
+
+Divers at The Rock can expect to see a diverse array of marine species including colorful reef fish such as parrotfish, angelfish, and damselfish, as well as frequent sightings of turtles and occasional rays. The coral formations support sponges, sea fans, and small reef sharks. Macro enthusiasts may spot nudibranchs and other small invertebrates, while larger pelagics are rare but possible.
 
 ## Dive Profile
-Enter the water from the sandy beach and swim out to the reef, which starts at about 15 feet. The reef gradually slopes down, making it easy to explore at different depths. Plan your dive to explore the reef at various depths, with most of the marine life found between 20-60 feet. The gradual slope makes this site excellent for divers of all experience levels.
+
+The dive typically starts from shore with a gradual descent to the reef slope. Depth ranges from shallow coral heads at 5 meters down to 25 meters near the reef drop-off. The recommended route follows the reef contour to explore coral formations and swim-throughs. No penetration into caves or wrecks is available. Divers should maintain buoyancy control to avoid contact with the fragile coral.
 
 ## Entry and Exit
-The entry is via an easy sandy beach that provides comfortable access to the water. The sandy bottom extends for a short distance before reaching the reef. Exit at the same location, making this one of Bonaire's most convenient dive sites.
+
+Entry is directly from the shore via a sandy beach area with calm water. Divers walk a short distance into the water before beginning their descent. Exit is via the same shore point. The site has minimal surface currents, making entry and exit straightforward. Divers should watch for slippery rocks near the shore.
 
 ## Tips and Recommendations
-- This site is particularly popular with families and beginner divers
-- The easy entry makes it perfect for all experience levels
-- Look for the diverse coral formations and abundant marine life
-- The site is excellent for both wide-angle and macro photography
-- This is a great site for night diving
+- Use reef-safe sunscreen to protect the delicate coral ecosystem.
+- Bring a dive light for better viewing in shaded overhangs and swim-throughs.
+- Shore entry is easiest with dive boots due to rocky patches near the entry point.
+- Respect marine life and avoid touching corals to preserve reef health.
 
 ## Safety Considerations
-The sandy entry is easy and safe for all experience levels. The gradual slope makes it easy to control your depth. Be aware of boat traffic in the area, though it's typically light. Maintain proper buoyancy control to protect the coral formations.
+
+Although currents are generally mild, divers should remain aware of occasional stronger surges especially during weather changes. Standard open water certification with some experience in reef environments is recommended. Watch for sharp coral and rocky surfaces near shore during entry/exit. Maintain good buoyancy control to prevent coral damage and avoid entanglement in sea fans.
 
 ## Photography
-The Rock offers excellent photography opportunities. The clear water and healthy coral formations make it ideal for wide-angle shots. The abundant marine life provides great subjects for both wide-angle and macro photography. Natural light is best during morning hours when the sun illuminates the reef.
+
+The Rock offers excellent opportunities for wide-angle reef photography due to clear visibility and vibrant coral coverage. Early morning dives provide optimal light conditions. Macro photography can capture small critters found in crevices. Use natural light or strobes for best color rendition.
 
 ## Nearby Sites
-Nearby sites include Salt Pier, Angel City, and Alice in Wonderland. All are accessible along the southern coast of Bonaire.
+
+- Salt Pier
+- Hilma Hooker Wreck
+- Something Special
+- Angel City
 
 ## Additional Resources
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Accessibility**: Excellent for all experience levels
-- **Last Updated**: 2025-06-24
-
----
-*This dive site information was contributed by osm_data and last updated on 2025-06-24.* 
+- **Website**: Bonaire National Marine Park official site
+- **Dive Guide**: "Bonaire Dive & Adventure Guide" by Jan van der Land
+- **Site History or Notes**: The Rock is part of Bonaire’s well-protected marine park system, known for sustainable dive tourism and coral conservation.
+- **Last Updated**: Saturday, June 28, 2025

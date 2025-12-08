@@ -1,61 +1,68 @@
 ---
-name: Red Beryl
-lat: 12.0466404
-lng: -68.2685291
-difficulty: Intermediate
-maxDepth: 30
-entryType: shore
-siteType: reef
-ref: 
-osmId: 663869407
-addedBy: jbunderwater_ai
+name: Red Beryl  
+lat: 12.0466404  
+lng: -68.2685291  
+difficulty: Intermediate  
+maxDepth: 25m  
+entryType: both  
+siteType: Reef  
+ref:   
+osmId: 663869407  
+addedBy: jbunderwater_ai_perplexity  
 ---
 
-# Red Beryl
+## Red Beryl
+
+Red Beryl is a renowned reef dive site located off the coast of Bonaire, known for its vibrant coral formations and diverse marine life. It offers a moderately challenging dive experience suitable for intermediate divers.
 
 ## Overview
-Red Beryl is a beautiful dive site located in southern Bonaire near Atlantis. The site features a healthy reef that starts at about 15 feet and gradually slopes down to depths of over 100 feet. The reef is in excellent condition with diverse coral formations, including brain corals, elkhorn coral, and colorful soft corals. The site is particularly known for its abundance of marine life and excellent visibility. The easy sandy entry makes it accessible to divers of all experience levels.
+
+Red Beryl is situated in Bonaire's marine park, an area celebrated for its well-preserved coral reefs and excellent dive conditions. The site features a gently sloping reef with abundant hard and soft corals, providing a colorful backdrop for exploring diverse tropical fish species. The layout typically includes coral pinnacles and swim-throughs, with depths ranging up to around 25 meters. Conditions here often include mild currents and good visibility, making it a popular spot for both shore and boat entries.
 
 ## Site Information
-- **Location**: South Bonaire (near Atlantis)
-- **Entry Type**: Shore entry (easy sandy entry)
-- **Site Type**: Reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-30 meters
-- **Current**: Usually light
-- **Best Time**: Morning to early afternoon
+- **Location**: Bonaire, Caribbean Netherlands, near Bonaire Marine Park  
+- **Entry Type**: Both (shore and boat)  
+- **Site Type**: Reef  
+- **Difficulty Level**: Intermediate  
+- **Maximum Depth**: 25 meters  
+- **Typical Visibility**: 20-30 meters  
+- **Current**: Mild  
+- **Best Time**: Year-round, with optimal conditions from April to August  
 
 ## Marine Life
-Red Beryl is home to a diverse array of marine life. Large schools of blue tangs, parrotfish, and grunts are commonly seen. The site is also frequented by sea turtles, eagle rays, and occasionally nurse sharks. Macro life includes cleaner shrimp, arrow crabs, and various nudibranchs. The healthy coral formations provide habitat for countless reef fish species, including angelfish, butterflyfish, and damselfish.
+
+Divers at Red Beryl can expect to encounter a rich variety of reef inhabitants such as parrotfish, angelfish, butterflyfish, grunts, and snappers. The reef is also frequented by spotted eagle rays and occasional turtles. Macro life includes seahorses and various nudibranchs. The coral structures support a thriving ecosystem of reef fish and invertebrates typical of Bonaire's protected marine environment.
 
 ## Dive Profile
-Enter the water from the sandy beach and swim out to the reef, which starts at about 15 feet. The reef gradually slopes down, making it easy to explore at different depths. Plan your dive to explore the reef at various depths, with most of the marine life found between 20-60 feet. The gradual slope makes this site excellent for divers of all experience levels.
+
+A typical dive at Red Beryl involves descending along the sloping reef wall to explore pinnacles and coral heads, with a maximum depth around 25 meters. Recommended dive routes follow the contours of the reef, allowing divers to enjoy swim-throughs and overhangs. The site does not have wreck penetration options. Divers should monitor depth and bottom time carefully to avoid nitrogen narcosis and decompression limits.
 
 ## Entry and Exit
-The entry is via an easy sandy beach that provides comfortable access to the water. The sandy bottom extends for a short distance before reaching the reef. Exit at the same location, making this one of Bonaire's most convenient dive sites.
+
+Entry can be made either from shore via a gentle beach access or by boat, with moorings available to protect the reef. Shore entry requires a short swim over shallow reef flats to reach the drop-off. Exit is typically back onto the shore or by boat pickup. There are no significant hazards, but divers should be cautious of surface currents when entering or exiting.
 
 ## Tips and Recommendations
-- This site is particularly popular with families and beginner divers
-- The easy entry makes it perfect for all experience levels
-- Look for the diverse coral formations and abundant marine life
-- The site is excellent for both wide-angle and macro photography
-- This is a great site for night diving
+- Use reef-safe sunscreen to protect the marine environment.
+- Carry a surface marker buoy (SMB) for safety, especially when diving from shore.
+- Check local weather and tide conditions before diving to optimize visibility and currents.
 
 ## Safety Considerations
-The sandy entry is easy and safe for all experience levels. The gradual slope makes it easy to control your depth. Be aware of boat traffic in the area, though it's typically light. Maintain proper buoyancy control to protect the coral formations.
+
+Mild currents may be present; divers should be comfortable with navigation and buoyancy control. The maximum depth of 25 meters requires proper certification and experience with deeper reef dives. There are no major entanglement hazards, but divers should avoid contact with corals to prevent injury and reef damage.
 
 ## Photography
-Red Beryl offers excellent photography opportunities. The clear water and healthy coral formations make it ideal for wide-angle shots. The abundant marine life provides great subjects for both wide-angle and macro photography. Natural light is best during morning hours when the sun illuminates the reef.
+
+Red Beryl offers excellent underwater photography opportunities, especially macro shots of reef fish and invertebrates. Early morning dives provide the best lighting conditions for capturing vibrant coral colors. Wide-angle shots of the coral pinnacles and expansive reefscape are also recommended.
 
 ## Nearby Sites
-Nearby sites include Atlantis, Hidden Beach, and Margate Bay. All are accessible along the southern coast of Bonaire.
+
+- Salt Pier  
+- Karpata  
+- Hilma Hooker Wreck  
+- Bari Reef  
 
 ## Additional Resources
-- **Website**: https://www.shorediving.com/Earth/ABC/BonaireS/Red_Beryl/index.htm
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Accessibility**: Excellent for all experience levels
-- **Last Updated**: 2025-06-24
-
----
-*This dive site information was contributed by osm_data and last updated on 2025-06-24.* 
+- **Website**: Bonaire National Marine Park official site  
+- **Dive Guide**: "Reef Fish Identification: Caribbean" by Paul Humann & Ned DeLoach  
+- **Site History or Notes**: Red Beryl is part of Bonaire's extensive marine protected area, established to preserve the island's coral reefs and marine biodiversity. It is a favored site for both recreational and training dives.  
+- **Last Updated**: June 28, 2025

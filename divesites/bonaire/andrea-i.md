@@ -2,60 +2,69 @@
 name: Andrea I
 lat: 12.188411
 lng: -68.296732
-difficulty: Intermediate
-maxDepth: 30
-entryType: shore
-siteType: reef
+difficulty: Beginner
+maxDepth: 20m
+entryType: Shore
+siteType: Reef
 ref: 
 osmId: 663869426
-addedBy: jbunderwater_ai
+addedBy: jbunderwater_ai_perplexity 
 ---
 
-# Andrea I
+## Andrea I
+
+Andrea I is a popular shore-accessible dive site on Bonaire known for its gentle reef slopes, excellent visibility, and abundant marine life, making it ideal for beginner divers.
 
 ## Overview
-Andrea I is a beautiful dive site located in northern Bonaire, north of Kralendijk in a residential area. The site features a healthy reef that starts at about 15 feet and gradually slopes down to depths of over 100 feet. The reef is in excellent condition with diverse coral formations, including brain corals, elkhorn coral, and colorful soft corals. The site is particularly known for its abundance of marine life and excellent visibility. The easy sandy entry makes it accessible to divers of all experience levels.
+
+Andrea I is located on Bonaire’s west coast and features a gently sloping reef that begins at shallow depths and extends down to about 20 meters. The site is characterized by healthy coral formations and a diverse underwater ecosystem. Conditions are typically calm with mild currents, and visibility is often excellent, contributing to its popularity among novice and intermediate divers. The site is accessible directly from the shore, making it convenient for shore diving without requiring a boat. Andrea I offers a good introduction to Bonaire’s rich marine environment and is often included in dive itineraries around the island.
 
 ## Site Information
-- **Location**: North Bonaire (Andrea I is located north of Kralendijk, in a residential area)
-- **Entry Type**: Shore entry (easy sandy entry, marked)
+- **Location**: Bonaire, west coast near Kralendijk
+- **Entry Type**: Shore
 - **Site Type**: Reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-30 meters
-- **Current**: Usually light
-- **Best Time**: Morning to early afternoon
+- **Current**: Mild
+- **Best Time**: Year-round, with best conditions in the dry season (April to August)
 
 ## Marine Life
-Andrea I is home to a diverse array of marine life. Large schools of blue tangs, parrotfish, and grunts are commonly seen. The site is also frequented by sea turtles, eagle rays, and occasionally nurse sharks. Macro life includes cleaner shrimp, arrow crabs, and various nudibranchs. The healthy coral formations provide habitat for countless reef fish species, including angelfish, butterflyfish, and damselfish.
+
+Divers at Andrea I can expect to see a vibrant reef community including various hard and soft corals, sponges, and sea fans. The site is home to a variety of reef fish such as sergeant majors, parrotfish, angelfish, and grunts. Occasional sightings of turtles, rays, and moray eels add to the experience. The biodiversity is representative of Bonaire’s well-protected marine park, with healthy populations of cleaner shrimp and small reef sharks sometimes spotted in deeper sections.
 
 ## Dive Profile
-Enter the water from the sandy beach and swim out to the reef, which starts at about 15 feet. The reef gradually slopes down, making it easy to explore at different depths. Plan your dive to explore the reef at various depths, with most of the marine life found between 20-60 feet. The gradual slope makes this site excellent for divers of all experience levels.
+
+Typical dives start at shallow depths around 3-5 meters with a gradual slope down to about 20 meters. Divers often follow the reef line to explore coral formations and swim-throughs. The site does not have wrecks or caves but offers swim-throughs formed by coral outcrops and overhangs. The dive profile suits relaxed exploration with minimal current, making it very comfortable for beginners and snorkelers. No penetration is recommended, and divers should maintain good buoyancy control to protect the reef.
 
 ## Entry and Exit
-The entry is via an easy sandy beach that provides comfortable access to the water. The site is well-marked and easy to find. The sandy bottom extends for a short distance before reaching the reef. Exit at the same location, making this one of Bonaire's most convenient dive sites.
+
+Entry is directly from shore via a sandy beach with a gentle slope into the water, allowing easy gear setup and comfortable water entry. Exit is at the same point, with minimal swim required. The shore entry means divers should be prepared for possible sun exposure while gearing up. Surface currents are generally mild and do not pose a challenge to entry or exit.
 
 ## Tips and Recommendations
-- This site is particularly popular with families and beginner divers
-- The easy entry makes it perfect for all experience levels
-- Look for the diverse coral formations and abundant marine life
-- The site is excellent for both wide-angle and macro photography
-- This is a great site for night diving
+- Use reef-safe sunscreen to protect marine life.
+- Bring a surface marker buoy for added safety despite mild currents.
+- Early morning dives often provide the best visibility and calmest water.
+- Respect the marine park regulations to preserve the coral and fish populations.
+- Shore entry requires some walking with gear; wear reef-safe footwear if desired.
 
 ## Safety Considerations
-The sandy entry is easy and safe for all experience levels. The gradual slope makes it easy to control your depth. Be aware of boat traffic in the area, though it's typically light. Maintain proper buoyancy control to protect the coral formations.
+
+Currents at Andrea I are typically mild but can increase slightly depending on weather. Depths are moderate; beginner divers should stay within their certification limits. The reef has some sharp coral edges, so good buoyancy and finning techniques are recommended to avoid cuts or abrasions. No overhead environments are present, so standard open-water procedures apply. Divers should be cautious of boat traffic near the shore entry during busy periods.
 
 ## Photography
-Andrea I offers excellent photography opportunities. The clear water and healthy coral formations make it ideal for wide-angle shots. The abundant marine life provides great subjects for both wide-angle and macro photography. Natural light is best during morning hours when the sun illuminates the reef.
+
+Andrea I offers excellent opportunities for underwater photography with clear water and colorful coral gardens. Macro photography enthusiasts will find plenty of small critters such as cleaner shrimp and pipefish. The reef’s swim-throughs and overhangs provide interesting compositions. Early morning dives provide the best natural light for wide-angle shots.
 
 ## Nearby Sites
-Nearby sites include Andrea II, Bari Reef, and Oil Slick Leap. All are accessible along the northern coast of Bonaire.
+
+- Andrea II (adjacent reef site)
+- Salt Pier (known for macro life)
+- Something Special (reef with deeper coral formations)
+- Karpata (reef with a wall section)
 
 ## Additional Resources
-- **Website**: https://www.divers-guide.com/en/andrea-1
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Accessibility**: Excellent for all experience levels
-- **Last Updated**: 2025-06-24
-
----
-*This dive site information was contributed by osm_data and last updated on 2025-06-24.* 
+- **Website**: Bonaire National Marine Park official site  
+- **Dive Guide**: "Dive Bonaire" by Bonaire Tourism Corporation  
+- **Site History or Notes**: Andrea I is part of Bonaire’s protected marine park, established in 1979 to conserve the island’s coral reef ecosystem. It remains one of the most accessible and well-maintained shore dives on the island.  
+- **Last Updated**: June 28, 2025

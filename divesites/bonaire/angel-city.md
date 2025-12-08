@@ -1,61 +1,69 @@
 ---
-name: Angel City
-lat: 12.1033916
-lng: -68.2872133
-difficulty: Intermediate
-maxDepth: 30
-entryType: shore
-siteType: reef
-ref: 
-osmId: 663869415
-addedBy: jbunderwater_ai
+name: Angel City  
+lat: 12.1033916  
+lng: -68.2872133  
+difficulty: Intermediate  
+maxDepth: 30m  
+entryType: Shore  
+siteType: Reef  
+ref:  
+osmId: 663869415  
+addedBy: jbunderwater_ai_perplexity  
 ---
 
-# Angel City
+## Angel City
+
+Angel City is a well-known shore-accessible reef dive site located off the coast of Bonaire, offering a vibrant underwater landscape with excellent visibility and diverse marine life.
 
 ## Overview
-Angel City is a beautiful dive site located in southern Bonaire near Salt Pier. The site features a healthy reef that starts at about 15 feet and gradually slopes down to depths of over 100 feet. The reef is in excellent condition with diverse coral formations, including brain corals, elkhorn coral, and colorful soft corals. The site is particularly known for its abundance of marine life and excellent visibility. The easy sandy entry makes it accessible to divers of all experience levels.
+
+Angel City is situated on Bonaire’s west coast, part of the island’s protected marine park. It features a gently sloping reef that extends from shallow waters down to about 30 meters. The site is characterized by large coral formations, swim-throughs, and a sandy bottom interspersed with coral heads. Conditions are generally calm with mild currents, making it suitable for divers with some experience. The reef supports a rich variety of hard and soft corals, sponges, and marine life typical of the Caribbean basin.
 
 ## Site Information
-- **Location**: South Bonaire (near Salt Pier)
-- **Entry Type**: Shore entry (easy sandy entry)
-- **Site Type**: Reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-30 meters
-- **Current**: Usually light
-- **Best Time**: Morning to early afternoon
+- **Location**: West coast of Bonaire, near the town of Kralendijk  
+- **Entry Type**: Shore  
+- **Site Type**: Reef  
+- **Difficulty Level**: Intermediate  
+- **Maximum Depth**: 30 meters  
+- **Typical Visibility**: 20–30 meters  
+- **Current**: Mild  
+- **Best Time**: Year-round, with best conditions typically from December to May  
 
 ## Marine Life
-Angel City is home to a diverse array of marine life. Large schools of blue tangs, parrotfish, and grunts are commonly seen. The site is also frequented by sea turtles, eagle rays, and occasionally nurse sharks. Macro life includes cleaner shrimp, arrow crabs, and various nudibranchs. The healthy coral formations provide habitat for countless reef fish species, including angelfish, butterflyfish, and damselfish.
+
+Divers at Angel City can expect to see a wide variety of Caribbean reef fish such as angelfish, parrotfish, grunts, and damselfish. The site is also frequented by spotted eagle rays, nurse sharks, and occasional sea turtles. The coral formations house numerous invertebrates like sea fans, tube sponges, and colorful reef shrimp. While not a site known for large pelagic encounters, its biodiversity and coral health make it a favorite for macro and wide-angle photography.
 
 ## Dive Profile
-Enter the water from the sandy beach and swim out to the reef, which starts at about 15 feet. The reef gradually slopes down, making it easy to explore at different depths. Plan your dive to explore the reef at various depths, with most of the marine life found between 20-60 feet. The gradual slope makes this site excellent for divers of all experience levels.
+
+A typical dive at Angel City starts at shallow depths of around 5-8 meters, gradually descending along the reef slope to depths near 30 meters. The reef layout includes swim-throughs and coral overhangs that provide shelter to many species and add interest to the dive. Divers often follow the reef line parallel to shore, exploring coral pinnacles and sandy patches. No wreck penetration or overhead environments are present. Depth and currents are moderate, allowing for relaxed but attentive diving.
 
 ## Entry and Exit
-The entry is via an easy sandy beach that provides comfortable access to the water. The sandy bottom extends for a short distance before reaching the reef. Exit at the same location, making this one of Bonaire's most convenient dive sites.
+
+Entry is via a gentle shore entry from a sandy beach area with easy access to the water. Divers should be prepared for a short swim over shallow reef tops to reach the main reef slope. Exit is typically back at the same shore point. Surface currents are usually light, but divers should be mindful of sun exposure during the surface swim.
 
 ## Tips and Recommendations
-- This site is particularly popular with families and beginner divers
-- The easy entry makes it perfect for all experience levels
-- Look for the diverse coral formations and abundant marine life
-- The site is excellent for both wide-angle and macro photography
-- This is a great site for night diving
+- Bring a reef hook if you want to stay in place during mild currents.  
+- Use reef-safe sunscreen to protect the marine ecosystem.  
+- Early morning dives offer the best visibility and calmest water conditions.  
+- Carry a dive light for exploring swim-throughs and overhangs.  
 
 ## Safety Considerations
-The sandy entry is easy and safe for all experience levels. The gradual slope makes it easy to control your depth. Be aware of boat traffic in the area, though it's typically light. Maintain proper buoyancy control to protect the coral formations.
+
+Be aware of potential mild currents and maintain good buoyancy control to avoid contact with delicate corals. The site’s maximum depth of 30 meters requires appropriate certification and experience. No overhead environments reduce entanglement risks, but always dive within your limits and monitor air supply carefully.
 
 ## Photography
-Angel City offers excellent photography opportunities. The clear water and healthy coral formations make it ideal for wide-angle shots. The abundant marine life provides great subjects for both wide-angle and macro photography. Natural light is best during morning hours when the sun illuminates the reef.
+
+Angel City offers excellent opportunities for both macro and wide-angle underwater photography with its colorful coral formations, diverse reef fish, and clear waters. Early morning light enhances coral colors and reduces backscatter. Swim-throughs and overhangs provide unique compositions for creative shots.
 
 ## Nearby Sites
-Nearby sites include Salt Pier, Hilma Hooker, and Alice in Wonderland. All are accessible along the southern coast of Bonaire.
+
+- Salt Pier  
+- Something Special  
+- Karpata  
+- Hilma Hooker (wreck)  
 
 ## Additional Resources
-- **Website**: https://www.divers-guide.com/en/angel-city
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Accessibility**: Excellent for all experience levels
-- **Last Updated**: 2025-06-24
-
----
-*This dive site information was contributed by osm_data and last updated on 2025-06-24.* 
+- **Website**: Bonaire National Marine Park official site  
+- **Dive Guide**: "Dive Bonaire" by Bonaire Tourism Corporation  
+- **Site History or Notes**: Angel City is a popular dive site within Bonaire’s Marine Park, established to protect the island’s reefs since the 1970s. Its accessibility and reef health make it a staple for divers visiting Bonaire.  
+- **Last Updated**: June 28, 2025

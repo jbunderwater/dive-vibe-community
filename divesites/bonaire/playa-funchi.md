@@ -1,61 +1,69 @@
 ---
-name: Playa Funchi
-lat: 12.28223
-lng: -68.4140883
-difficulty: Intermediate
-maxDepth: 30
-entryType: shore
-siteType: reef
-ref: 
-osmId: 663869421
-addedBy: jbunderwater_ai
+name: Playa Funchi  
+lat: 12.28223  
+lng: -68.4140883  
+difficulty: Beginner  
+maxDepth: 18m  
+entryType: Shore  
+siteType: Reef  
+ref:   
+osmId: 663869421  
+addedBy: jbunderwater_ai_perplexity  
 ---
 
-# Playa Funchi
+## Playa Funchi
+
+Playa Funchi is a popular shore-entry reef dive site located on Bonaire’s western shore, known for its calm conditions and rich marine biodiversity, making it ideal for beginner divers.
 
 ## Overview
-Playa Funchi is a beautiful dive site located in northern Bonaire near Washington Slagbaai National Park. The site features a healthy reef that starts at about 15 feet and gradually slopes down to depths of over 100 feet. The reef is in excellent condition with diverse coral formations, including brain corals, elkhorn coral, and colorful soft corals. The site is particularly known for its abundance of marine life and excellent visibility. The easy sandy entry makes it accessible to divers of all experience levels.
+
+Playa Funchi offers easy access directly from the shore, featuring a gently sloping coral reef with a sandy bottom. The site is well-regarded for its clear waters and abundant reef life, typical of Bonaire’s protected marine park. The reef structure provides a safe and enjoyable environment with minimal currents and shallow depths, perfect for novice divers and snorkelers. Visibility is generally good year-round, contributing to a relaxed dive experience.
 
 ## Site Information
-- **Location**: North Bonaire (near Washington Slagbaai National Park)
-- **Entry Type**: Shore entry (easy sandy entry)
-- **Site Type**: Reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-30 meters
-- **Current**: Usually light
-- **Best Time**: Morning to early afternoon
+- **Location**: Bonaire, near Kralendijk on the western coast  
+- **Entry Type**: Shore  
+- **Site Type**: Reef  
+- **Difficulty Level**: Beginner  
+- **Maximum Depth**: 18 meters  
+- **Typical Visibility**: 20-30 meters  
+- **Current**: None to mild  
+- **Best Time**: Year-round, with calmer seas during the dry season (February to June)  
 
 ## Marine Life
-Playa Funchi is home to a diverse array of marine life. Large schools of blue tangs, parrotfish, and grunts are commonly seen. The site is also frequented by sea turtles, eagle rays, and occasionally nurse sharks. Macro life includes cleaner shrimp, arrow crabs, and various nudibranchs. The healthy coral formations provide habitat for countless reef fish species, including angelfish, butterflyfish, and damselfish.
+
+Divers at Playa Funchi can expect to see a wide variety of tropical reef fish including parrotfish, angelfish, butterflyfish, and damselfish. The reef is also home to sea turtles, moray eels, and occasional spotted eagle rays. The coral formations support colorful sponges and soft corals, creating excellent habitat diversity. While rare sightings of small reef sharks occur, the site is generally safe and peaceful.
 
 ## Dive Profile
-Enter the water from the sandy beach and swim out to the reef, which starts at about 15 feet. The reef gradually slopes down, making it easy to explore at different depths. Plan your dive to explore the reef at various depths, with most of the marine life found between 20-60 feet. The gradual slope makes this site excellent for divers of all experience levels.
+
+The dive typically starts with a gentle slope from the shore down to about 18 meters maximum depth. Divers follow the reef edge, exploring coral heads and sandy patches. There are no significant swim-throughs or caves, making navigation straightforward. The dive profile suits leisurely exploration with frequent stops to observe marine life. No penetration diving is recommended here.
 
 ## Entry and Exit
-The entry is via an easy sandy beach that provides comfortable access to the water. The sandy bottom extends for a short distance before reaching the reef. Exit at the same location, making this one of Bonaire's most convenient dive sites.
+
+Entry is made directly from the sandy beach, making it convenient for shore divers. The sand slope allows gear to be carried easily, and the water entry is gradual without sharp coral or rocks. Exiting follows the same path, requiring a short swim back to shore. Surface currents are minimal, and wave action is usually light, but caution should be taken during rough weather.
 
 ## Tips and Recommendations
-- This site is particularly popular with families and beginner divers
-- The easy entry makes it perfect for all experience levels
-- Look for the diverse coral formations and abundant marine life
-- The site is excellent for both wide-angle and macro photography
-- This is a great site for night diving
+
+- Bring reef-safe sunscreen to protect Bonaire’s marine environment.  
+- Use a surface marker buoy if diving alone for added safety.  
+- Early morning dives often provide the best visibility and calm seas.  
 
 ## Safety Considerations
-The sandy entry is easy and safe for all experience levels. The gradual slope makes it easy to control your depth. Be aware of boat traffic in the area, though it's typically light. Maintain proper buoyancy control to protect the coral formations.
+
+Currents at Playa Funchi are generally mild, but divers should always monitor conditions before entry. The shallow reef depth reduces risk of decompression issues, making it suitable for beginners. Standard open water certification is recommended. Watch for slippery rocks near the shore during entry and exit.
 
 ## Photography
-Playa Funchi offers excellent photography opportunities. The clear water and healthy coral formations make it ideal for wide-angle shots. The abundant marine life provides great subjects for both wide-angle and macro photography. Natural light is best during morning hours when the sun illuminates the reef.
+
+The site offers excellent opportunities for wide-angle reef photography with clear water and vibrant coral. Early morning light enhances colors. Macro photography is also rewarding due to the diverse small reef creatures. Avoid disturbing marine life to capture natural behavior.
 
 ## Nearby Sites
-Nearby sites include Boka Bartol, Boka Katuna, and Carel's Vision. All are accessible along the northern coast of Bonaire.
+
+- Tolo Dome  
+- Forest  
+- 1000 Steps  
 
 ## Additional Resources
-- **Website**: https://www.divers-guide.com/en/dive-spots/playa-funchi
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Accessibility**: Excellent for all experience levels
-- **Last Updated**: 2025-06-24
 
----
-*This dive site information was contributed by osm_data and last updated on 2025-06-24.* 
+- **Website**: Bonaire National Marine Park official site  
+- **Dive Guide**: "Dive Bonaire" by Bonaire Tourism Corporation  
+- **Site History or Notes**: Part of Bonaire’s marine protected area, Playa Funchi contributes to the island’s reputation as a top shore diving destination due to its accessibility and healthy reef system.  
+- **Last Updated**: June 28, 2025

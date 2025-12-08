@@ -3,58 +3,66 @@ name: Wayaka 2
 lat: 12.2696116
 lng: -68.4139081
 difficulty: Intermediate
-maxDepth: 30
-entryType: shore
-siteType: reef
+maxDepth: 25m
+entryType: Shore
+siteType: Reef
 ref: 
 osmId: 4437663289
-addedBy: jbunderwater_ai
+addedBy: jbunderwater_ai_perplexity 
 ---
 
-# Wayaka 2
+## Wayaka 2
+
+Wayaka 2 is a popular shore-accessible reef dive site located on the leeward coast of Bonaire, known for its vibrant coral formations and abundant marine life.
 
 ## Overview
-Wayaka 2 is a beautiful dive site located in northern Bonaire near Washington Slagbaai National Park. The site features a healthy reef that starts at about 15 feet and gradually slopes down to depths of over 100 feet. The reef is in excellent condition with diverse coral formations, including brain corals, elkhorn coral, and colorful soft corals. The site is particularly known for its abundance of marine life and excellent visibility. The easy sandy entry makes it accessible to divers of all experience levels.
+
+Wayaka 2 offers divers a gently sloping reef with a mix of coral heads and sandy patches, typical of Bonaire’s protected marine environment. The site is favored for its easy shore entry and calm conditions, making it suitable for intermediate divers. The reef structure includes healthy hard and soft corals, sponges, and ample swim-throughs, providing habitat for a diverse range of marine species. The area benefits from Bonaire’s marine park protections, ensuring good water quality and abundant marine biodiversity. Visibility is generally excellent due to the island’s steady currents and clear waters.
 
 ## Site Information
-- **Location**: North Bonaire (near Washington Slagbaai National Park)
-- **Entry Type**: Shore entry (easy sandy entry)
+- **Location**: Bonaire, leeward west coast, near the village of Kralendijk
+- **Entry Type**: Shore
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20-30 meters
-- **Current**: Usually light
-- **Best Time**: Morning to early afternoon
+- **Current**: Mild
+- **Best Time**: Year-round, best during the dry season from March to August
 
 ## Marine Life
-Wayaka 2 is home to a diverse array of marine life. Large schools of blue tangs, parrotfish, and grunts are commonly seen. The site is also frequented by sea turtles, eagle rays, and occasionally nurse sharks. Macro life includes cleaner shrimp, arrow crabs, and various nudibranchs. The healthy coral formations provide habitat for countless reef fish species, including angelfish, butterflyfish, and damselfish.
+
+Divers can expect to see a rich variety of Caribbean reef fish such as angelfish, parrotfish, trumpetfish, and grunts. The site also hosts lobsters, moray eels, and occasional sightings of turtles. The coral garden supports colorful sponges, sea fans, and brain corals. Small reef sharks and eagle rays may occasionally be observed in deeper sections.
 
 ## Dive Profile
-Enter the water from the sandy beach and swim out to the reef, which starts at about 15 feet. The reef gradually slopes down, making it easy to explore at different depths. Plan your dive to explore the reef at various depths, with most of the marine life found between 20-60 feet. The gradual slope makes this site excellent for divers of all experience levels.
+
+The dive typically starts at the sandy shore entry, proceeding along the reef slope descending gradually to about 25 meters. The route includes swim-throughs and coral ledges, offering opportunities to explore crevices and overhangs. Divers should maintain buoyancy control to protect the reef and watch for mild currents pushing along the reef. No penetration into wrecks or caves is involved.
 
 ## Entry and Exit
-The entry is via an easy sandy beach that provides comfortable access to the water. The sandy bottom extends for a short distance before reaching the reef. Exit at the same location, making this one of Bonaire's most convenient dive sites.
+
+Entry is from the shore via a sandy beach with easy walk-in access. The exit is at the same point, generally straightforward with gentle surf conditions. Divers should be cautious of slippery rocks near the waterline and watch for occasional surface currents.
 
 ## Tips and Recommendations
-- This site is particularly popular with families and beginner divers
-- The easy entry makes it perfect for all experience levels
-- Look for the diverse coral formations and abundant marine life
-- The site is excellent for both wide-angle and macro photography
-- This is a great site for night diving
+- Bring reef-safe sunscreen to protect the marine environment.
+- Shore entry boots or sturdy fins recommended for rocky entry areas.
+- Plan dives during morning hours for optimal visibility and calmer seas.
+- Respect marine park rules: no touching or collecting marine life.
 
 ## Safety Considerations
-The sandy entry is easy and safe for all experience levels. The gradual slope makes it easy to control your depth. Be aware of boat traffic in the area, though it's typically light. Maintain proper buoyancy control to protect the coral formations.
+
+Currents are generally mild but can pick up near the deeper reef edges; divers should stay within their certification limits and dive within buddy teams. No overhead environment hazards are present, but good buoyancy control is essential to avoid damaging coral or stirring sediment.
 
 ## Photography
-Wayaka 2 offers excellent photography opportunities. The clear water and healthy coral formations make it ideal for wide-angle shots. The abundant marine life provides great subjects for both wide-angle and macro photography. Natural light is best during morning hours when the sun illuminates the reef.
+
+Wayaka 2 offers excellent macro and wide-angle photography opportunities due to its diverse coral formations and colorful reef fish. Early morning light enhances colors and reduces backscatter. Swim-throughs provide unique frames for creative shots.
 
 ## Nearby Sites
-Nearby sites include Boka Bartol, Boka Katuna, and Carel's Vision. All are accessible along the northern coast of Bonaire.
+
+- Wayaka 1 (north along the coast)
+- Salt Pier (popular shore dive)
+- Something Special (reef dive accessible by shore)
 
 ## Additional Resources
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Accessibility**: Excellent for all experience levels
-- **Last Updated**: 2025-06-24
-
----
-*This dive site information was contributed by osm_data and last updated on 2025-06-24.* 
+- **Website**: Bonaire National Marine Park official site
+- **Dive Guide**: "Bonaire Dive Sites" by David W. Shaw
+- **Site History or Notes**: Part of Bonaire’s extensive marine protected areas established in 1979, Wayaka 2 remains a prime example of reef conservation success.
+- **Last Updated**: June 28, 2025

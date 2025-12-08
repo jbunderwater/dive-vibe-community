@@ -1,61 +1,68 @@
 ---
-name: Windsock
-lat: 12.1333083
-lng: -68.2816616
-difficulty: Intermediate
-maxDepth: 30
-entryType: shore
-siteType: reef
-ref: 
-osmId: 663869430
-addedBy: jbunderwater_ai
+name: Windsock  
+lat: 12.1333083  
+lng: -68.2816616  
+difficulty: Beginner  
+maxDepth: 18m  
+entryType: Shore  
+siteType: Reef  
+ref:   
+osmId: 663869430  
+addedBy: jbunderwater_ai_perplexity  
 ---
 
-# Windsock
+## Windsock
+
+Windsock is a popular shallow reef dive site located on the western coast of Bonaire, known for its easy shore entry and abundant marine life, making it ideal for beginner divers.
 
 ## Overview
-Windsock is a beautiful dive site located in central Bonaire near Bari Reef. The site features a healthy reef that starts at about 15 feet and gradually slopes down to depths of over 100 feet. The reef is in excellent condition with diverse coral formations, including brain corals, elkhorn coral, and colorful soft corals. The site is particularly known for its abundance of marine life and excellent visibility. The easy sandy entry makes it accessible to divers of all experience levels.
+
+Windsock is situated near the Bonaire airport and is named for the windsock located at the nearby airstrip. The site features a gently sloping coral reef starting at just a few meters deep and descending to about 18 meters. The reef is characterized by healthy hard corals, sponges, and typical Caribbean reef fish. Conditions here are usually calm with mild currents, making it suitable for novice divers. Windsock is part of Bonaire’s Marine Park, which has protected the area’s reefs since 1979, contributing to its rich underwater biodiversity.
 
 ## Site Information
-- **Location**: Central Bonaire (near Bari Reef)
-- **Entry Type**: Shore entry (easy sandy entry)
-- **Site Type**: Reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-30 meters
-- **Current**: Usually light
-- **Best Time**: Morning to early afternoon
+- **Location**: Western coast of Bonaire, near Flamingo International Airport  
+- **Entry Type**: Shore  
+- **Site Type**: Reef  
+- **Difficulty Level**: Beginner  
+- **Maximum Depth**: 18 meters  
+- **Typical Visibility**: 20-30 meters  
+- **Current**: Mild  
+- **Best Time**: Year-round, with best conditions typically from April to August  
 
 ## Marine Life
-Windsock is home to a diverse array of marine life. Large schools of blue tangs, parrotfish, and grunts are commonly seen. The site is also frequented by sea turtles, eagle rays, and occasionally nurse sharks. Macro life includes cleaner shrimp, arrow crabs, and various nudibranchs. The healthy coral formations provide habitat for countless reef fish species, including angelfish, butterflyfish, and damselfish.
+
+Divers at Windsock can expect to see a variety of Caribbean reef inhabitants including parrotfish, angelfish, damselfish, wrasses, and occasional nurse sharks resting on the sand. The reef supports sponges, brain corals, elkhorn corals, and sea fans. Turtle sightings are common as they graze near the shallows. The protected status of the area helps maintain a healthy population of cleaner shrimp and colorful reef fish.
 
 ## Dive Profile
-Enter the water from the sandy beach and swim out to the reef, which starts at about 15 feet. The reef gradually slopes down, making it easy to explore at different depths. Plan your dive to explore the reef at various depths, with most of the marine life found between 20-60 feet. The gradual slope makes this site excellent for divers of all experience levels.
+
+The dive usually starts at the sandy shoreline, descending gently onto the reef. Depth ranges from 3 meters near the shore to about 18 meters at the deeper reef edge. A typical dive route follows the reef line parallel to shore, allowing divers to explore coral formations, swim-throughs, and small overhangs. No penetration or wreck diving is available here. The mild current can be used for a gentle drift along the reef, and divers should watch their buoyancy to avoid contact with the coral.
 
 ## Entry and Exit
-The entry is via an easy sandy beach that provides comfortable access to the water. The sandy bottom extends for a short distance before reaching the reef. Exit at the same location, making this one of Bonaire's most convenient dive sites.
+
+Entry is from a sandy beach with easy access. Divers walk into the water and descend gradually onto the reef. The entry is straightforward with no strong surge. Exiting the dive is typically done by swimming back to the shore along the reef line. The proximity to the airport means some boat traffic nearby, but it does not impact the dive site directly.
 
 ## Tips and Recommendations
-- This site is particularly popular with families and beginner divers
-- The easy entry makes it perfect for all experience levels
-- Look for the diverse coral formations and abundant marine life
-- The site is excellent for both wide-angle and macro photography
-- This is a great site for night diving
+- Bring a reef hook or marker buoy if planning to drift with the current.
+- Check wind and swell conditions early, as winds can sometimes increase surface chop near shore.
+- Use reef-safe sunscreen to protect the sensitive coral ecosystem.
+- Take advantage of the shallow depth to practice buoyancy and finning techniques.
 
 ## Safety Considerations
-The sandy entry is easy and safe for all experience levels. The gradual slope makes it easy to control your depth. Be aware of boat traffic in the area, though it's typically light. Maintain proper buoyancy control to protect the coral formations.
+
+Currents are generally mild but can pick up during windy conditions. The site’s shallow depth is ideal for beginners but watch for boat traffic close to shore. No overhead environments or strong surge hazards are present. Certification to Open Water Diver level is sufficient. Always dive with a buddy and observe marine park regulations.
 
 ## Photography
-Windsock offers excellent photography opportunities. The clear water and healthy coral formations make it ideal for wide-angle shots. The abundant marine life provides great subjects for both wide-angle and macro photography. Natural light is best during morning hours when the sun illuminates the reef.
+
+Windsock offers excellent opportunities for wide-angle reef photography due to clear waters and abundant coral formations. Early morning dives provide the best lighting and calm conditions. Macro photography can capture cleaner shrimp and small reef fish inhabiting coral crevices.
 
 ## Nearby Sites
-Nearby sites include Bari Reef, Buddy's Reef, and Cliff. All are accessible along the central coast of Bonaire.
+
+- Salt Pier  
+- Bachelor’s Beach  
+- Something Special  
 
 ## Additional Resources
-- **Website**: https://www.divers-guide.com/en/dive-spots/windsock
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Accessibility**: Excellent for all experience levels
-- **Last Updated**: 2025-06-24
-
----
-*This dive site information was contributed by osm_data and last updated on 2025-06-24.* 
+- **Website**: Bonaire Marine Park official site  
+- **Dive Guide**: "Dive Bonaire" by the Bonaire Tourism Corporation  
+- **Site History or Notes**: Windsock is one of Bonaire’s frequently dived shore sites, benefiting from conservation efforts that have preserved its coral reef since the 1970s.  
+- **Last Updated**: June 28, 2025

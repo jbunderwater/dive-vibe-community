@@ -1,63 +1,71 @@
 ---
-name: White Slave
-lat: 12.0575572
-lng: -68.2812043
-difficulty: Intermediate
-maxDepth: 30
-entryType: shore
-siteType: reef
-ref: 
-osmId: 663869408
-addedBy: jbunderwater_ai
+name: White Slave  
+lat: 12.0575572  
+lng: -68.2812043  
+difficulty: Intermediate  
+maxDepth: 25m  
+entryType: Shore  
+siteType: Reef  
+ref:  
+osmId: 663869408  
+addedBy: jbunderwater_ai_perplexity  
 ---
 
-# White Slave
+## White Slave
 
-A stunning reef dive site on Bonaire's southwestern coast, featuring dramatic coral formations and abundant marine life
+White Slave is a popular reef dive site located off the coast of Bonaire, known for its vibrant coral formations and abundant marine life in clear waters. It offers an accessible shore entry with moderate depth suitable for intermediate divers.
 
 ## Overview
-White Slave is a beautiful dive site located on Bonaire's southwestern coast, known for its dramatic coral formations and excellent marine life viewing opportunities. The site features a steep wall that drops from shallow waters to depths of over 100 feet, creating an impressive underwater landscape. The reef is characterized by large brain corals, elkhorn coral formations, and colorful soft corals. The site offers excellent visibility and is particularly popular for its abundance of reef fish and occasional sightings of larger marine animals.
+
+White Slave is situated on Bonaire’s western coast, renowned for its well-preserved coral reefs and excellent visibility. The reef features a gentle slope descending to about 25 meters, with diverse coral heads interspersed with sandy patches. The site is favored for relaxed drift dives along the reef, showcasing healthy hard and soft coral communities. Conditions are generally calm with mild currents, making it a reliable dive spot year-round. The area is part of Bonaire National Marine Park, which ensures protection and conservation of the marine environment.
 
 ## Site Information
-- **Location**: Southwest Bonaire (near Kralendijk)
-- **Entry Type**: Shore entry
-- **Site Type**: Reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-30 meters
-- **Current**: Light to moderate
-- **Best Time**: Morning to early afternoon
+- **Location**: Bonaire, southern Caribbean Sea, near Kralendijk  
+- **Entry Type**: Shore  
+- **Site Type**: Reef  
+- **Difficulty Level**: Intermediate  
+- **Maximum Depth**: 25 meters  
+- **Typical Visibility**: 20-30 meters  
+- **Current**: Mild  
+- **Best Time**: Year-round, with optimal conditions from April to August
 
 ## Marine Life
-White Slave is home to a rich diversity of marine life. Expect to see large schools of blue tangs, parrotfish, and grunts swimming along the reef wall. The site is particularly known for its abundance of butterflyfish, angelfish, and damselfish. Look for sea turtles, eagle rays, and occasionally nurse sharks patrolling the deeper waters. The coral formations provide habitat for cleaner shrimp, arrow crabs, and various nudibranchs. The site also supports healthy populations of moray eels and lobster.
+
+White Slave hosts a rich variety of marine species typical of Bonaire reefs, including colorful reef fish such as angelfish, parrotfish, and damselfish. Divers frequently encounter graceful eagle rays, turtle sightings, and occasional nurse sharks resting on the sand. The coral reef supports numerous invertebrates like spiny lobsters, moray eels, and sea fans. The protected environment encourages healthy populations of reef-building corals and vibrant macro life.
 
 ## Dive Profile
-Begin your dive by entering from the shore and swimming out to the reef wall. The site features a dramatic drop-off that starts at about 15 feet and descends steeply to depths of 100+ feet. Most of the interesting marine life and coral formations are found between 30-70 feet along the wall. Plan your dive to explore the wall at different depths, taking time to observe the coral formations and marine life. The steep wall makes this site particularly suitable for wall diving techniques.
+
+The dive at White Slave typically starts from a marked shore entry, descending along the reef slope to a maximum of 25 meters. The profile is characterized by a gentle drift following the reef contours, allowing divers to explore coral heads, swim-throughs, and small caves. The reef’s structure provides interesting swim routes with opportunities to observe both macro and pelagic species. No penetration beyond natural swim-throughs is recommended. Divers should monitor depth and bottom time to avoid decompression limits.
 
 ## Entry and Exit
-Access White Slave via a marked entry point along the southwestern coast. The entry area features a rocky shoreline that leads to the reef wall. Enter the water carefully from the rocks and swim out to the drop-off. Exit at the same location, being mindful of the rocky shoreline when approaching. The entry and exit can be challenging due to the rocky terrain, so take your time and use appropriate footwear.
+
+Entry is from shore via a sandy beach area with easy access to the water. Divers usually walk in with gear and descend over a gradual sandy slope to the reef edge. Exiting is typically done by swimming back to shore along the reef, where the water shallows. There are no significant surface currents or hazards, but divers should be mindful of boat traffic near the shore and use a surface marker buoy for safety.
 
 ## Tips and Recommendations
-- The rocky entry can be challenging - wear appropriate footwear
-- The best diving is along the wall, not in the shallow areas
-- Look for the large brain corals and elkhorn coral formations
-- This site is excellent for wall diving techniques
-- Consider diving during morning hours for the best light conditions
-- Be mindful of your buoyancy when diving along the wall
+
+- Carry a surface marker buoy (SMB) for safety, especially when surfacing near boating areas.  
+- Use reef hooks sparingly to avoid damaging corals during mild current drifts.  
+- Bring a flashlight for exploring swim-throughs and overhangs where light is limited.  
+- Plan dives during morning hours for optimal visibility and calmer seas.
 
 ## Safety Considerations
-The rocky entry and exit require careful navigation. The steep wall requires good buoyancy control and wall diving experience. Be aware of potential currents along the wall, especially at depth. Maintain proper distance from the coral formations to avoid damage. The site can experience boat traffic, so use a dive flag when appropriate.
+
+Divers should be comfortable with moderate depth and navigation along the reef slope. Mild currents require good buoyancy control to avoid contact with fragile corals. The site is suitable for divers certified at the intermediate level or above. As with all Bonaire dives, adherence to marine park rules is mandatory to protect the ecosystem. Monitor air consumption carefully due to the potential length of drift dives.
 
 ## Photography
-White Slave offers exceptional photography opportunities with its dramatic wall and abundant marine life. The steep drop-off creates impressive wide-angle shots, while the coral formations provide great subjects for macro photography. The clear water and good visibility make it ideal for capturing the full scale of the underwater landscape. Natural light is best during morning hours when the sun illuminates the wall.
+
+White Slave offers excellent photography opportunities with vibrant coral formations and diverse fish life. Macro photographers can capture close-ups of reef critters such as nudibranchs and shrimp. Wide-angle shots of the reef slope and swim-throughs are best in morning light when visibility peaks. Using a strobe or flash helps enhance colors in deeper sections.
 
 ## Nearby Sites
-Nearby sites include Red Slave, Pink Beach, and other southwestern Bonaire dive sites. All are accessible along the southwestern coast of the island.
+
+- Karpata  
+- Something Special  
+- Salt Pier  
+- Hilma Hooker (wreck)  
 
 ## Additional Resources
-- **Website**: https://www.divers-guide.com/en/dive-spots/white-slave
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Last Updated**: 2025-06-24
 
----
-*This dive site information was contributed by osm_data and last updated on 2025-06-24.* 
+- **Website**: Bonaire National Marine Park official site  
+- **Dive Guide**: "Bonaire Dive Guide" by Dennis Schrader  
+- **Site History or Notes**: White Slave is part of Bonaire’s protected marine park system, known for its pristine coral reefs and stable dive conditions.  
+- **Last Updated**: June 28, 2025

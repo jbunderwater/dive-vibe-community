@@ -2,59 +2,69 @@
 name: Front Porch
 lat: 12.1666879
 lng: -68.2871264
-difficulty: Intermediate
-maxDepth: 30
-entryType: shore
-siteType: reef
+difficulty: Beginner
+maxDepth: 18m
+entryType: Shore
+siteType: Reef
 ref: 
 osmId: 639106013
-addedBy: jbunderwater_ai
+addedBy: jbunderwater_ai_perplexity 
 ---
 
-# Front Porch
+## Front Porch
+
+Front Porch is a popular shallow reef dive site in Bonaire known for its gentle sloping reef, excellent visibility, and abundant marine life, making it ideal for beginner divers and snorkelers.
 
 ## Overview
-Front Porch is a beautiful dive site located in central Bonaire near Bari Reef. The site features a healthy reef that starts at about 15 feet and gradually slopes down to depths of over 100 feet. The reef is in excellent condition with diverse coral formations, including brain corals, elkhorn coral, and colorful soft corals. The site is particularly known for its abundance of marine life and excellent visibility. The easy sandy entry makes it accessible to divers of all experience levels.
+
+Located along Bonaire’s west coast, Front Porch is a classic shore dive spot featuring a broad, gently sloping reef that extends from the shore down to about 18 meters. The site is named for its accessibility and ease of entry, almost like stepping out onto a “front porch” of underwater scenery. The reef is characterized by healthy coral formations, sandy patches, and a mix of hard and soft corals. Conditions are typically calm with mild currents, providing a relaxed diving experience throughout the year. Visibility often exceeds 20 meters, typical of Bonaire’s pristine Caribbean waters.
 
 ## Site Information
-- **Location**: Central Bonaire (near Bari Reef)
-- **Entry Type**: Shore entry (easy sandy entry)
+- **Location**: Bonaire, near the southern end of the west coast, close to Kralendijk
+- **Entry Type**: Shore
 - **Site Type**: Reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-30 meters
-- **Current**: Usually light
-- **Best Time**: Morning to early afternoon
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 18 meters
+- **Typical Visibility**: 20+ meters
+- **Current**: Mild
+- **Best Time**: Year-round, with optimal conditions during the dry season (February to June)
 
 ## Marine Life
-Front Porch is home to a diverse array of marine life. Large schools of blue tangs, parrotfish, and grunts are commonly seen. The site is also frequented by sea turtles, eagle rays, and occasionally nurse sharks. Macro life includes cleaner shrimp, arrow crabs, and various nudibranchs. The healthy coral formations provide habitat for countless reef fish species, including angelfish, butterflyfish, and damselfish.
+
+Front Porch hosts a diverse array of Caribbean marine species including colorful reef fish such as parrotfish, angelfish, damselfish, and sergeant majors. It is common to see hawksbill and green sea turtles grazing on the reef. Spotted eagle rays and nurse sharks occasionally visit. The coral formations provide habitat for various invertebrates like sea fans, sponges, and anemones, with occasional sightings of seahorses and trumpetfish.
 
 ## Dive Profile
-Enter the water from the sandy beach and swim out to the reef, which starts at about 15 feet. The reef gradually slopes down, making it easy to explore at different depths. Plan your dive to explore the reef at various depths, with most of the marine life found between 20-60 feet. The gradual slope makes this site excellent for divers of all experience levels.
+
+The dive typically begins with a gentle descent along the sloping reef at the shore entry, maintaining depths between 5 and 18 meters. The reef structure features small swim-throughs and coral outcrops to explore. Divers can follow the reef line north or south, encountering sandy bottoms interspersed with coral heads. No penetration or wreck diving is available here. The dive is well suited for relaxed, extended exploration with minimal current and easy navigation.
 
 ## Entry and Exit
-The entry is via an easy sandy beach that provides comfortable access to the water. The sandy bottom extends for a short distance before reaching the reef. Exit at the same location, making this one of Bonaire's most convenient dive sites.
+
+Entry is from a sandy beach area with a gradual slope into the water, allowing easy access without the need for boats or long swims. Exiting is straightforward by swimming back to shore. Divers should watch for occasional surge or waves near the shoreline but conditions are generally calm.
 
 ## Tips and Recommendations
-- This site is particularly popular with families and beginner divers
-- The easy entry makes it perfect for all experience levels
-- Look for the diverse coral formations and abundant marine life
-- The site is excellent for both wide-angle and macro photography
-- This is a great site for night diving
+
+- Use reef-safe sunscreen to help protect the healthy coral ecosystem.
+- Bring a dive flag or marker buoy when diving alone or in low visibility.
+- Early morning dives often offer the calmest water and best light for photography.
+- Shore dives at Front Porch are well suited for training dives and refresher courses.
 
 ## Safety Considerations
-The sandy entry is easy and safe for all experience levels. The gradual slope makes it easy to control your depth. Be aware of boat traffic in the area, though it's typically light. Maintain proper buoyancy control to protect the coral formations.
+
+Currents are mild but can occasionally pick up; divers should remain aware of their surroundings and maintain buddy contact. Depths do not exceed 18 meters, appropriate for beginners, but divers should still monitor air consumption closely. There are no overhead environments, so standard open water certification is sufficient.
 
 ## Photography
-Front Porch offers excellent photography opportunities. The clear water and healthy coral formations make it ideal for wide-angle shots. The abundant marine life provides great subjects for both wide-angle and macro photography. Natural light is best during morning hours when the sun illuminates the reef.
+
+The clear water and vibrant coral life provide excellent opportunities for wide-angle reef photography. Macro photography is also rewarding here with plenty of small critters and colorful invertebrates. Morning light enhances colors and reduces backscatter.
 
 ## Nearby Sites
-Nearby sites include Bari Reef, Buddy's Reef, and Cliff. All are accessible along the central coast of Bonaire.
+
+- Salt Pier
+- Oil Slick Leap
+- Bob’s Reef
 
 ## Additional Resources
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Accessibility**: Excellent for all experience levels
-- **Last Updated**: 2025-06-24
 
----
-*This dive site information was contributed by osm_data and last updated on 2025-06-24.* 
+- **Website**: Bonaire National Marine Park official site
+- **Dive Guide**: "Bonaire Diving & Snorkeling Guide" by Bonaire Tourism Corporation
+- **Site History or Notes**: Front Porch is one of the most frequented shore dives on Bonaire due to its convenience and sheltered conditions, often used for dive skill practice and introductory dives.
+- **Last Updated**: June 28, 2025

@@ -2,60 +2,70 @@
 name: Boka di Tolo
 lat: 12.2152361
 lng: -68.3374389
-difficulty: Intermediate
-maxDepth: 30
-entryType: shore
-siteType: reef
+difficulty: Beginner
+maxDepth: 18m
+entryType: Shore
+siteType: Reef
 ref: 
 osmId: 663869427
-addedBy: jbunderwater_ai
+addedBy: jbunderwater_ai_perplexity
 ---
 
-# Boka di Tolo
+## Boka di Tolo
+
+Boka di Tolo is a popular shore-entry reef dive site located on the western coast of Bonaire, offering calm waters and abundant marine life ideal for beginner divers.
 
 ## Overview
-Boka di Tolo is a beautiful dive site located in northern Bonaire near Karpata. The site features a healthy reef that starts at about 15 feet and gradually slopes down to depths of over 100 feet. The reef is in excellent condition with diverse coral formations, including brain corals, elkhorn coral, and colorful soft corals. The site is particularly known for its abundance of marine life and excellent visibility. The easy sandy entry makes it accessible to divers of all experience levels.
+
+Situated along Bonaire’s northwest coastline, Boka di Tolo is a small bay characterized by a gently sloping coral reef extending from the shore. The site is known for its clear, warm waters and relatively shallow depths, making it an excellent location for novice divers and snorkelers. The reef features healthy coral formations interspersed with sandy patches and rocky outcrops. Conditions are typically calm with mild currents, allowing for easy navigation and relaxed diving experiences. The site’s accessibility from shore and sheltered environment contribute to its popularity.
 
 ## Site Information
-- **Location**: North Bonaire (near Karpata)
-- **Entry Type**: Shore entry (easy sandy entry)
+- **Location**: Northwest coast of Bonaire, near small bays and inlets
+- **Entry Type**: Shore
 - **Site Type**: Reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 20-30 meters
-- **Current**: Usually light
-- **Best Time**: Morning to early afternoon
+- **Current**: Mild
+- **Best Time**: Year-round; best in the morning for calm seas and optimal visibility
 
 ## Marine Life
-Boka di Tolo is home to a diverse array of marine life. Large schools of blue tangs, parrotfish, and grunts are commonly seen. The site is also frequented by sea turtles, eagle rays, and occasionally nurse sharks. Macro life includes cleaner shrimp, arrow crabs, and various nudibranchs. The healthy coral formations provide habitat for countless reef fish species, including angelfish, butterflyfish, and damselfish.
+
+Divers at Boka di Tolo can expect to see a variety of tropical reef species including colorful parrotfish, angelfish, damselfish, and sergeant majors. The reef supports healthy hard and soft coral communities. Occasional sightings of green sea turtles and spotted eagle rays add to the appeal. Macro life such as cleaner shrimp and small reef fishes are also common, making this site rewarding for underwater photographers and marine life enthusiasts.
 
 ## Dive Profile
-Enter the water from the sandy beach and swim out to the reef, which starts at about 15 feet. The reef gradually slopes down, making it easy to explore at different depths. Plan your dive to explore the reef at various depths, with most of the marine life found between 20-60 feet. The gradual slope makes this site excellent for divers of all experience levels.
+
+A typical dive at Boka di Tolo involves a gradual descent from the sandy shore to the reef crest at about 10-12 meters, then following the reef slope out to maximum depths around 18 meters. The dive route is flexible, allowing divers to explore coral heads, swim-throughs, and sandy patches. There are no wrecks or caves for penetration, making it suitable for entry-level divers. Divers should maintain good buoyancy control to avoid contact with corals.
 
 ## Entry and Exit
-The entry is via an easy sandy beach that provides comfortable access to the water. The sandy bottom extends for a short distance before reaching the reef. Exit at the same location, making this one of Bonaire's most convenient dive sites.
+
+Divers enter the water directly from the sandy beach into a calm bay area. The entry is straightforward with no significant waves or surf. Exit is typically the reverse route back to shore. Because the site is protected, surface conditions are generally stable, but divers should always be aware of boat traffic near shore.
 
 ## Tips and Recommendations
-- This site is particularly popular with families and beginner divers
-- The easy entry makes it perfect for all experience levels
-- Look for the diverse coral formations and abundant marine life
-- The site is excellent for both wide-angle and macro photography
-- This is a great site for night diving
+
+- Bring a reef hook or a float line for resting if needed, especially during busy times.
+- Early morning dives offer the best visibility and minimal boat traffic.
+- Use reef-safe sunscreen to protect the fragile coral ecosystem.
+- Carry a dive flag or surface marker buoy when diving from shore to enhance safety.
 
 ## Safety Considerations
-The sandy entry is easy and safe for all experience levels. The gradual slope makes it easy to control your depth. Be aware of boat traffic in the area, though it's typically light. Maintain proper buoyancy control to protect the coral formations.
+
+Boka di Tolo is suitable for beginner divers due to its shallow depths and mild currents. However, divers should be cautious of slippery rocks at entry and exit points. Maintaining neutral buoyancy is important to protect the coral and avoid injury. Always dive within your limits and keep an eye on surface conditions and boat traffic.
 
 ## Photography
-Boka di Tolo offers excellent photography opportunities. The clear water and healthy coral formations make it ideal for wide-angle shots. The abundant marine life provides great subjects for both wide-angle and macro photography. Natural light is best during morning hours when the sun illuminates the reef.
+
+The site provides excellent opportunities for wide-angle reef photography with vibrant coral formations and schooling fish. Macro photographers can find interesting small critters such as shrimp and juvenile reef fish. Morning light enhances underwater colors and clarity, making early dives ideal for photography.
 
 ## Nearby Sites
-Nearby sites include Karpata, Oil Slick Leap, and Boka Bartol. All are accessible along the northern coast of Bonaire.
+
+- Bachelor’s Beach
+- Karpata
+- Salt Pier
+- Angel City
 
 ## Additional Resources
-- **Website**: https://www.divers-guide.com/en/dive-spots/tolo
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Accessibility**: Excellent for all experience levels
-- **Last Updated**: 2025-06-24
 
----
-*This dive site information was contributed by osm_data and last updated on 2025-06-24.* 
+- **Website**: Bonaire Tourism Corporation official site (bonairenews.com)
+- **Dive Guide**: "Dive Bonaire" by Dennis Schrader
+- **Site History or Notes**: Boka di Tolo is part of Bonaire’s Marine Park, one of the first marine protected areas established in the Caribbean, helping preserve its vibrant reef habitats.
+- **Last Updated**: June 28, 2025

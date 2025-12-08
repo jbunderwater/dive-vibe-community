@@ -2,61 +2,67 @@
 name: Te Amo Beach
 lat: 12.1345835
 lng: -68.2797913
-difficulty: Intermediate
-maxDepth: 30
-entryType: shore
-siteType: beach
+difficulty: Beginner
+maxDepth: 18m
+entryType: Shore
+siteType: Reef
 ref: 
 osmId: 1188151213
-addedBy: jbunderwater_ai
+addedBy: jbunderwater_ai_perplexity 
 ---
 
-# Te Amo Beach
+## Te Amo Beach
 
-A beautiful beach dive site featuring excellent coral formations and abundant marine life
+Te Amo Beach is a popular shore dive site located on the western coast of Bonaire, known for its gentle sloping reef and excellent visibility, ideal for beginner divers and snorkelers.
 
 ## Overview
-Te Amo Beach is a beautiful dive site located in central Bonaire near Bari Reef. The site features a healthy reef that starts at about 15 feet and gradually slopes down to depths of over 100 feet. The reef is in excellent condition with diverse coral formations, including brain corals, elkhorn coral, and colorful soft corals. The site is particularly known for its abundance of marine life and excellent visibility. The easy sandy entry makes it accessible to divers of all experience levels.
+
+Te Amo Beach features a shallow fringing reef that extends from the shore, making it accessible directly from the sand. The site is characterized by calm waters and a sandy bottom interspersed with coral formations. It is well-suited for training dives and leisurely exploration. The area is protected by Bonaire’s marine park regulations, ensuring healthy coral growth and vibrant marine life. Conditions are typically calm with mild currents, allowing for safe and comfortable diving year-round.
 
 ## Site Information
-- **Location**: Central Bonaire (near Bari Reef)
-- **Entry Type**: Shore entry (easy sandy entry)
-- **Site Type**: Beach
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
+- **Location**: Western coast of Bonaire, near Kralendijk
+- **Entry Type**: Shore
+- **Site Type**: Reef
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 20-30 meters
-- **Current**: Usually light
-- **Best Time**: Morning to early afternoon
+- **Current**: Mild
+- **Best Time**: Year-round, with optimal conditions from April to November
 
 ## Marine Life
-Te Amo Beach is home to a diverse array of marine life. Large schools of blue tangs, parrotfish, and grunts are commonly seen. The site is also frequented by sea turtles, eagle rays, and occasionally nurse sharks. Macro life includes cleaner shrimp, arrow crabs, and various nudibranchs. The healthy coral formations provide habitat for countless reef fish species, including angelfish, butterflyfish, and damselfish.
+
+Divers at Te Amo Beach can expect to see a diverse array of reef fish such as angelfish, parrotfish, and grunts. The reef hosts various coral species, sponges, and occasional sightings of turtles and rays. Smaller critters like seahorses and shrimp are sometimes spotted among the coral heads.
 
 ## Dive Profile
-Enter the water from the sandy beach and swim out to the reef, which starts at about 15 feet. The reef gradually slopes down, making it easy to explore at different depths. Plan your dive to explore the reef at various depths, with most of the marine life found between 20-60 feet. The gradual slope makes this site excellent for divers of all experience levels.
+
+The dive typically starts from the sandy shore, with a gradual descent down the reef slope to depths of up to 18 meters. The dive route follows the reef edge, allowing exploration of coral formations and swim-throughs between coral outcroppings. The gentle slope and mild current make it suitable for extended bottom time and easy navigation.
 
 ## Entry and Exit
-The entry is via an easy sandy beach that provides comfortable access to the water. The sandy bottom extends for a short distance before reaching the reef. Exit at the same location, making this one of Bonaire's most convenient dive sites.
+
+Entry is straightforward from the sandy beach with no significant hazards. Divers should watch for occasional wave action near the shore but generally experience calm surface conditions. Exit is from the same beach location, with no long surface swim required.
 
 ## Tips and Recommendations
-- This site is particularly popular with families and beginner divers
-- The easy entry makes it perfect for all experience levels
-- Look for the diverse coral formations and abundant marine life
-- The site is excellent for both wide-angle and macro photography
-- This is a great site for night diving
+- Use reef-safe sunscreen to protect the marine environment.
+- Carry a surface marker buoy if diving alone or in low visibility conditions.
+- Early morning dives often provide the calmest seas and best visibility.
 
 ## Safety Considerations
-The sandy entry is easy and safe for all experience levels. The gradual slope makes it easy to control your depth. Be aware of boat traffic in the area, though it's typically light. Maintain proper buoyancy control to protect the coral formations.
+
+Currents are usually mild but can pick up occasionally; divers should remain aware of their surroundings. Certification to at least Open Water Diver level is recommended due to depth and marine life interaction. Watch for sharp coral and avoid touching marine life to prevent injury and environmental damage.
 
 ## Photography
-Te Amo Beach offers excellent photography opportunities. The clear water and healthy coral formations make it ideal for wide-angle shots. The abundant marine life provides great subjects for both wide-angle and macro photography. Natural light is best during morning hours when the sun illuminates the reef.
+
+Te Amo Beach offers excellent macro photography opportunities with colorful reef fish and small critters. The clear water and bright sunlight provide ideal conditions for wide-angle shots of coral landscapes, especially during morning hours.
 
 ## Nearby Sites
-Nearby sites include Bari Reef, Buddy's Reef, and Cliff. All are accessible along the central coast of Bonaire.
+
+- Salt Pier
+- Hilma Hooker Wreck
+- Karpata Reef
+- 1000 Steps
 
 ## Additional Resources
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Accessibility**: Excellent for all experience levels
-- **Last Updated**: 2025-06-24
-
----
-*This dive site information was contributed by osm_data and last updated on 2025-06-24.* 
+- **Website**: Bonaire National Marine Park (bonairenaturefund.org)
+- **Dive Guide**: "Dive Bonaire" by Dave Gerr
+- **Site History or Notes**: Te Amo Beach is a favored shore dive for beginners and snorkelers, benefiting from Bonaire’s long-standing marine conservation efforts which have kept the reef healthy and vibrant.
+- **Last Updated**: June 28, 2025

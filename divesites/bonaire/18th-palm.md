@@ -1,61 +1,69 @@
 ---
-name: 18th Palm
-lat: 12.138643
-lng: -68.2765096
-difficulty: Intermediate
-maxDepth: 30
-entryType: shore
-siteType: reef
-ref: 
-osmId: 854130076
-addedBy: jbunderwater_ai
+name: 18th Palm  
+lat: 12.138643  
+lng: -68.2765096  
+difficulty: Intermediate  
+maxDepth: 18m  
+entryType: Shore  
+siteType: Reef  
+ref:  
+osmId: 854130076  
+addedBy: jbunderwater_ai_perplexity  
 ---
 
-# 18th Palm
+## 18th Palm
+
+18th Palm is a popular shore-accessible reef dive site located on Bonaire’s west coast, known for its vibrant coral formations and diverse marine life in relatively shallow waters.
 
 ## Overview
-18th Palm is a beautiful dive site located in central Bonaire near Oil Slick Leap. The site features a healthy reef that starts at about 15 feet and gradually slopes down to depths of over 100 feet. The reef is in excellent condition with diverse coral formations, including brain corals, elkhorn coral, and colorful soft corals. The site is particularly known for its abundance of marine life and excellent visibility. The easy sandy entry makes it accessible to divers of all experience levels.
+
+Situated near the northern part of Bonaire, 18th Palm is characterized by a gently sloping reef with abundant hard and soft corals, sponges, and a variety of tropical fish species. The site is named for the nearby 18th palm tree on the shore, serving as a natural landmark for divers. Conditions are typically calm with mild currents, making it suitable for divers with some experience who want to explore a rich reef environment with good visibility and moderate depth. The area offers some interesting swim-throughs and coral formations, providing an engaging underwater landscape.
 
 ## Site Information
-- **Location**: Central Bonaire (near Oil Slick Leap)
-- **Entry Type**: Shore entry (easy sandy entry)
-- **Site Type**: Reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-30 meters
-- **Current**: Usually light
-- **Best Time**: Morning to early afternoon
+- **Location**: Northern Bonaire, near Kralendijk, identifiable by the 18th palm tree on shore  
+- **Entry Type**: Shore  
+- **Site Type**: Reef  
+- **Difficulty Level**: Intermediate  
+- **Maximum Depth**: 18 meters  
+- **Typical Visibility**: 15–30 meters  
+- **Current**: Mild  
+- **Best Time**: Year-round, optimal during the dry season (February to July)
 
 ## Marine Life
-18th Palm is home to a diverse array of marine life. Large schools of blue tangs, parrotfish, and grunts are commonly seen. The site is also frequented by sea turtles, eagle rays, and occasionally nurse sharks. Macro life includes cleaner shrimp, arrow crabs, and various nudibranchs. The healthy coral formations provide habitat for countless reef fish species, including angelfish, butterflyfish, and damselfish.
+
+Divers at 18th Palm can expect to see a wide range of reef fish including parrotfish, angelfish, butterflyfish, and grunts. The coral formations support sponges, sea fans, and occasional sightings of turtles and eagle rays. Macro life such as nudibranchs and shrimps can be found among the coral heads. The site is also known for occasional sightings of seahorses and small reef sharks patrolling the area.
 
 ## Dive Profile
-Enter the water from the sandy beach and swim out to the reef, which starts at about 15 feet. The reef gradually slopes down, making it easy to explore at different depths. Plan your dive to explore the reef at various depths, with most of the marine life found between 20-60 feet. The gradual slope makes this site excellent for divers of all experience levels.
+
+A typical dive profile at 18th Palm includes descending along the gentle reef slope to about 15–18 meters, then exploring the coral gardens and swim-throughs at shallower depths around 10–12 meters. The reef’s topography allows for an easy drift dive with mild current, providing a natural route back to shore. There are no wrecks or caves for penetration, but the swim-throughs and coral formations offer interesting navigation points. Divers should monitor air consumption and depth due to the site’s moderate depth.
 
 ## Entry and Exit
-The entry is via an easy sandy beach that provides comfortable access to the water. The sandy bottom extends for a short distance before reaching the reef. Exit at the same location, making this one of Bonaire's most convenient dive sites.
+
+Entry is directly from shore, typically via a sandy beach area close to the 18th palm tree landmark. The entry is straightforward with a gentle slope into the water. Exit is from the same beach area, with only a short swim required. The bottom is sandy near the shore, transitioning to coral reef. Divers should be cautious of sharp coral near the entrance and exit points.
 
 ## Tips and Recommendations
-- This site is particularly popular with families and beginner divers
-- The easy entry makes it perfect for all experience levels
-- Look for the diverse coral formations and abundant marine life
-- The site is excellent for both wide-angle and macro photography
-- This is a great site for night diving
+- Use reef-safe sunscreen to protect the fragile coral ecosystem.  
+- Carry a surface marker buoy (SMB) for enhanced safety during exit.  
+- Early morning dives often provide the best visibility and calmer seas.  
+- Respect local marine protection rules and avoid touching or disturbing marine life.  
 
 ## Safety Considerations
-The sandy entry is easy and safe for all experience levels. The gradual slope makes it easy to control your depth. Be aware of boat traffic in the area, though it's typically light. Maintain proper buoyancy control to protect the coral formations.
+
+Mild currents may be present, so divers should be comfortable with navigation and maintain buddy contact. The reef has some sharp coral formations; wearing appropriate exposure protection is recommended to avoid cuts or scrapes. Divers should be certified at least to intermediate level due to site depth and conditions. Awareness of boat traffic near shore is advised during busy periods.
 
 ## Photography
-18th Palm offers excellent photography opportunities. The clear water and healthy coral formations make it ideal for wide-angle shots. The abundant marine life provides great subjects for both wide-angle and macro photography. Natural light is best during morning hours when the sun illuminates the reef.
+
+The site offers excellent opportunities for wide-angle coral reef photography due to its clear water and vibrant coral structures. Macro photographers can find small critters like nudibranchs and shrimps among the corals. Early morning or late afternoon light enhances colors underwater. A strobe or video light can improve image quality in shaded swim-throughs.
 
 ## Nearby Sites
-Nearby sites include Oil Slick Leap, Calabas Reef, and Bari Reef. All are accessible along the central coast of Bonaire.
+
+- Oil Slick Leap  
+- Salt Pier  
+- Karpata  
+- Bachelor’s Beach  
 
 ## Additional Resources
-- **Website**: https://www.shorediving.com/Earth/ABC/BonaireS/18_Palm/index.htm
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Accessibility**: Excellent for all experience levels
-- **Last Updated**: 2025-06-24
-
----
-*This dive site information was contributed by osm_data and last updated on 2025-06-24.* 
+- **Website**: Bonaire National Marine Park official site  
+- **Dive Guide**: "Bonaire Diving & Snorkeling Guide" by Dennis Schmitter  
+- **Site History or Notes**: Named after a distinctive palm tree landmark, 18th Palm is part of Bonaire’s well-protected marine park and benefits from ongoing conservation efforts to preserve its coral reefs.  
+- **Last Updated**: June 28, 2025

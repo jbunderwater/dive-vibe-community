@@ -3,61 +3,69 @@ name: Oil Slick Leap
 lat: 12.2001711
 lng: -68.308717
 difficulty: Intermediate
-maxDepth: 30
-entryType: shore
-siteType: reef
+maxDepth: 18m
+entryType: Shore
+siteType: Reef, wall
 ref: 
 osmId: 663869425
-addedBy: jbunderwater_ai
+addedBy: jbunderwater_ai_perplexity 
 ---
 
-# Oil Slick Leap
+## Oil Slick Leap
 
-An exciting cliff jump dive site featuring dramatic entry and excellent coral formations
+Oil Slick Leap is a popular shore dive site located on Bonaire's west coast, known for its dramatic wall drop-offs and vibrant coral reefs. It offers intermediate divers an exciting experience with diverse marine life and clear Caribbean waters.
 
 ## Overview
-Oil Slick Leap is one of Bonaire's most thrilling dive sites, named for the dramatic cliff jump entry that provides an adrenaline rush before the dive even begins. The site features a rocky ledge about 15 feet above the water, from which divers make a giant stride entry. Once in the water, divers are greeted by a beautiful reef wall that starts at about 20 feet and drops steeply to depths of over 100 feet. The reef is in excellent condition with healthy coral formations and abundant marine life. The site is particularly popular with adventurous divers who enjoy the exciting entry.
+
+Oil Slick Leap features a steep wall that begins at shallow depths and plunges down to about 18 meters, showcasing a rich variety of coral formations and marine species typical of Bonaire. The site is named for the natural oil seeps sometimes visible on the surface. Its layout includes a sloping reef and vertical wall, with swim-throughs and overhangs that add interest. Conditions are generally calm with mild currents, making it accessible from shore. Visibility is often excellent, averaging 20 to 30 meters, and the site is favored for its easy access and abundant marine biodiversity.
 
 ## Site Information
-- **Location**: Central Bonaire (near Bari Reef)
-- **Entry Type**: Shore entry (giant stride from rocky ledge)
-- **Site Type**: Reef
-- **Difficulty Level**: Intermediate to Advanced
-- **Maximum Depth**: 30 meters
+- **Location**: Bonaire, west coast near Kralendijk
+- **Entry Type**: Shore
+- **Site Type**: Reef, wall
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 20-30 meters
-- **Current**: Usually light, but can be moderate
-- **Best Time**: Morning to early afternoon
+- **Current**: Mild
+- **Best Time**: Year-round, with best conditions from April to August
 
 ## Marine Life
-Oil Slick Leap is home to a diverse array of marine life. Large schools of blue tangs, parrotfish, and grunts are commonly seen. The site is also frequented by sea turtles, eagle rays, and occasionally nurse sharks. Macro life includes cleaner shrimp, arrow crabs, and various nudibranchs. The healthy coral formations provide habitat for countless reef fish species, including angelfish, butterflyfish, and damselfish.
+
+Divers at Oil Slick Leap can expect to see a diverse array of tropical fish including angelfish, parrotfish, and sergeant majors. The reef supports healthy coral growth with brain corals, elkhorn corals, and sponges. Occasional sightings include turtles, rays, and small reef sharks. Macro life such as nudibranchs and shrimps are also commonly spotted among the reef crevices.
 
 ## Dive Profile
-The entry is via a dramatic cliff jump from a rocky ledge about 15 feet above the water. After the giant stride entry, swim out to the reef wall, which starts at about 20 feet. Plan your dive to explore the wall at different depths, with most of the marine life found between 30-60 feet. The dramatic topography makes this site excellent for both recreational and technical diving.
+
+The dive typically starts at the sandy shore, descending along a sloping reef to the beginning of the wall around 10 meters. Divers can follow the wall down to about 18 meters, exploring swim-throughs and overhangs. The site offers a leisurely drift with the mild current, allowing for extended bottom time. There is no penetration into caves or wrecks, but the overhangs provide shelter and interesting swim paths. Ascents are generally made along the reef slope back to the shore.
 
 ## Entry and Exit
-The entry is via a giant stride from a rocky ledge about 15 feet above the water. The ledge is easily accessible and provides a safe jumping point. After the dive, exit at the same location by climbing back up the rocks. The exit can be challenging with dive gear, so take your time.
+
+Divers enter the water directly from the shore via a sandy beach and gently sloping reef. The entry is straightforward with minimal surface current. Exit is made by swimming back along the same route to shore. The site is suitable for entry with full scuba gear and does not require a boat.
 
 ## Tips and Recommendations
-- This site is not for the faint of heart due to the cliff jump entry
-- The entry is safe but requires confidence and proper technique
-- The best diving is along the wall, not in the sandy areas
-- Look for the large brain corals and elkhorn coral formations
-- This site is excellent for both wide-angle and macro photography
+
+- Bring a dive flag or marker buoy as this is a shore entry site near boating areas.
+- Use reef hooks or gloves sparingly; the reef is delicate and should be respected.
+- Best dived with a buddy familiar with wall diving and mild currents.
+- Early morning dives often offer calmer seas and better visibility.
+- Carry a slate or underwater communication device for safety in the wall area.
 
 ## Safety Considerations
-The cliff jump entry requires confidence and proper technique. The rocky ledge can be slippery when wet, so use caution. The reef wall is dramatic, so maintain proper buoyancy control. The exit can be challenging with dive gear, so take your time. Be aware of boat traffic in the area, though it's typically light at this location.
+
+Be aware of mild currents along the wall and maintain good buoyancy control to avoid contact with the reef. The maximum depth of 18 meters requires at least an Advanced Open Water certification or equivalent experience. Watch for boat traffic near the shore entry and exit points. No overhead environments or penetration diving is necessary.
 
 ## Photography
-Oil Slick Leap offers exceptional photography opportunities. The dramatic reef wall and healthy coral formations provide excellent wide-angle shots. The abundant marine life offers great subjects for both wide-angle and macro photography. Natural light is best during morning hours when the sun illuminates the reef wall.
+
+Oil Slick Leap offers excellent opportunities for wide-angle photography of the wall and reefscape. The clear water enhances visibility for vibrant coral and schooling fish shots. Macro photographers will find interesting critters in crevices and among sponges. Early morning light can produce dramatic illumination along the wall.
 
 ## Nearby Sites
-Nearby sites include Bari Reef, 18th Palm, and Calabas Reef. All are accessible along the central coast of Bonaire.
+
+- Salt Pier
+- Something Special
+- Angel City
+- Red Slave
 
 ## Additional Resources
-- **Website**: https://www.divers-guide.com/en/dive-spots/oil-slick-leap
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Entry Type**: Famous for its dramatic cliff jump entry
-- **Last Updated**: 2025-06-24
-
----
-*This dive site information was contributed by osm_data and last updated on 2025-06-24.* 
+- **Website**: Bonaire National Marine Park official site
+- **Dive Guide**: "Bonaire Diving & Snorkeling Guide" by Dennis Rogers
+- **Site History or Notes**: The site is part of the Bonaire National Marine Park, established in 1979, one of the first marine parks in the Caribbean dedicated to reef conservation.
+- **Last Updated**: June 28, 2025

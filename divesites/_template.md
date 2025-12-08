@@ -3,30 +3,28 @@ name: [Site Name]
 lat: [latitude]
 lng: [longitude]
 difficulty: [Beginner/Intermediate/Advanced]
-maxDepth: [depth in meters]
-entryType: [shore/boat/both]
-siteType: [reef/wreck/beach/other]
+maxDepth: [Depth in meters]
+entryType: [Shore/Boat/Shore and Boat]
+siteType: [Reef/Wreck/Pinnacle/Blue Hole/etc]
 ref: [site reference number if available]
 osmId: [OpenStreetMap ID]
-addedBy: [contributor username]
+addedBy: jbunderwater_ai
 ---
-
-# [Site Name]
-
-[Brief one-sentence description of the dive site]
+## [Site Name]
+[Brief one to two sentence description of the dive site. If specific information cannot be found, state that specific information is not available and instead provide information about dive sites generally in this area.]
 
 ## Overview
-[Detailed description of the dive site, including what makes it special, typical conditions, and what divers can expect to see]
+[Detailed description of the dive site, including what makes it special, typical conditions, and what divers can expect to see. If specific info is not available, provide a description of dive sites in this area or region.]
 
 ## Site Information
 - **Location**: [Specific area or region on the island]
 - **Entry Type**: [Shore entry, boat entry, or both]
-- **Site Type**: [Reef, wreck, beach, etc.]
+- **Site Type**: [Reef, Wreck, Pinnacle, Blue Hole, etc.]
 - **Difficulty Level**: [Beginner/Intermediate/Advanced]
 - **Maximum Depth**: [X] meters
 - **Typical Visibility**: [X-X] meters
 - **Current**: [None/Light/Moderate/Strong]
-- **Best Time**: [Time of day or season]
+- **Best Time**: [Time of day or best season if any]
 
 ## Marine Life
 [Description of typical marine life found at this site, including fish species, coral types, and other notable creatures]

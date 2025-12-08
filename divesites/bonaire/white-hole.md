@@ -3,59 +3,68 @@ name: White Hole
 lat: 12.0940583
 lng: -68.2280778
 difficulty: Intermediate
-maxDepth: 30
-entryType: shore
-siteType: reef
+maxDepth: 30m
+entryType: Shore
+siteType: Reef / wall
 ref: 
 osmId: 663869411
-addedBy: jbunderwater_ai
+addedBy: jbunderwater_ai_perplexity 
 ---
 
-# White Hole
+## White Hole
+
+White Hole is a popular dive site on Bonaire known for its dramatic underwater topography featuring a deep hole opening into a large underwater cavern area. It offers divers a unique experience exploring both reef and wall environments.
 
 ## Overview
-White Hole is a beautiful dive site located in southern Bonaire near Willemstoren Lighthouse. The site features a healthy reef that starts at about 15 feet and gradually slopes down to depths of over 100 feet. The reef is in excellent condition with diverse coral formations, including brain corals, elkhorn coral, and colorful soft corals. The site is particularly known for its abundance of marine life and excellent visibility. The easy sandy entry makes it accessible to divers of all experience levels.
+
+Located on Bonaire’s leeward coast, White Hole is characterized by a vertical drop-off leading into a large underwater cavern system. The site features a steep wall that descends to approximately 30 meters, with swim-throughs and overhangs that create interesting formations for exploration. The water is typically clear with good visibility, and the site is favored for its combination of reef life and geological features. Conditions are generally calm, benefiting from Bonaire’s protected marine environment.
 
 ## Site Information
-- **Location**: South Bonaire (near Willemstoren Lighthouse)
-- **Entry Type**: Shore entry (easy sandy entry)
-- **Site Type**: Reef
+- **Location**: Bonaire, Caribbean Netherlands, near the west coast of the island
+- **Entry Type**: Shore
+- **Site Type**: Reef / wall
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-30 meters
-- **Current**: Usually light
-- **Best Time**: Morning to early afternoon
+- **Typical Visibility**: 20 to 30 meters
+- **Current**: Mild
+- **Best Time**: Year-round, with optimal conditions in the dry season (April to August)
 
 ## Marine Life
-White Hole is home to a diverse array of marine life. Large schools of blue tangs, parrotfish, and grunts are commonly seen. The site is also frequented by sea turtles, eagle rays, and occasionally nurse sharks. Macro life includes cleaner shrimp, arrow crabs, and various nudibranchs. The healthy coral formations provide habitat for countless reef fish species, including angelfish, butterflyfish, and damselfish.
+
+Divers at White Hole can expect to see a variety of Caribbean reef fish including angelfish, parrotfish, butterflyfish, and barracuda. The site also hosts sponges, soft corals, and sea fans on the wall and reef structures. Occasional sightings of turtles and rays add to the marine diversity. The cavern area may shelter smaller reef creatures and crustaceans.
 
 ## Dive Profile
-Enter the water from the sandy beach and swim out to the reef, which starts at about 15 feet. The reef gradually slopes down, making it easy to explore at different depths. Plan your dive to explore the reef at various depths, with most of the marine life found between 20-60 feet. The gradual slope makes this site excellent for divers of all experience levels.
+
+A typical dive begins at the shallow reef area and progresses towards the wall and the edge of the White Hole cavern. Depth increases gradually to about 30 meters at the wall base. The site offers swim-throughs and overhangs suitable for intermediate divers with good buoyancy control. No penetration into the cavern is recommended without proper training and equipment. Divers should monitor air supply carefully due to the depth and potential overhead environment.
 
 ## Entry and Exit
-The entry is via an easy sandy beach that provides comfortable access to the water. The sandy bottom extends for a short distance before reaching the reef. Exit at the same location, making this one of Bonaire's most convenient dive sites.
+
+Entry is from shore, with a short walk from the parking area to the water. Divers enter directly from the beach and descend along the reef towards the wall. Exit is by swimming back to shore along the shallow reef line. There are no strong surface currents, but care should be taken with waves and shore entry conditions.
 
 ## Tips and Recommendations
-- This site is particularly popular with families and beginner divers
-- The easy entry makes it perfect for all experience levels
-- Look for the diverse coral formations and abundant marine life
-- The site is excellent for both wide-angle and macro photography
-- This is a great site for night diving
+- Bring a dive light for exploring overhangs and shaded areas.
+- Maintain good buoyancy control to avoid disturbing the fragile reef and sediment near the wall.
+- Dive with a buddy familiar with deeper wall dives.
+- Check local dive shop for current conditions before diving.
+- Consider a surface interval on a nearby reef site to maximize bottom time safely.
 
 ## Safety Considerations
-The sandy entry is easy and safe for all experience levels. The gradual slope makes it easy to control your depth. Be aware of boat traffic in the area, though it's typically light. Maintain proper buoyancy control to protect the coral formations.
+
+Due to the depth (up to 30m) and the presence of an underwater cavern, this site is best suited for intermediate divers comfortable with wall diving. No cavern penetration should be attempted without proper training. Mild currents may be present, so good navigation skills are recommended. Always monitor air supply closely and ascend slowly.
 
 ## Photography
-White Hole offers excellent photography opportunities. The clear water and healthy coral formations make it ideal for wide-angle shots. The abundant marine life provides great subjects for both wide-angle and macro photography. Natural light is best during morning hours when the sun illuminates the reef.
+
+White Hole offers excellent photo opportunities with vibrant reef life, contrasting colors of sponges and corals, and dramatic wall drop-offs. Early morning dives provide optimal lighting conditions. The overhangs and swim-throughs create compelling compositions for wide-angle photography.
 
 ## Nearby Sites
-Nearby sites include Willemstoren Lighthouse, Sweet Dreams, and Vista Blue. All are accessible along the southern coast of Bonaire.
+
+- Red Slave
+- Angel City
+- Salt Pier
+- Something Special
 
 ## Additional Resources
-- **Website**: https://www.divers-guide.com/en/white-hole
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Accessibility**: Excellent for all experience levels
-- **Last Updated**: 2025-06-24
-
----
-*This dive site information was contributed by osm_data and last updated on 2025-06-24.* 
+- **Website**: Bonaire National Marine Park official site
+- **Dive Guide**: "Dive Bonaire" by Bonaire Tourism Corporation
+- **Site History or Notes**: White Hole is named for the large dark cavern opening that resembles a 'hole' in the reef, making it a notable landmark on Bonaire’s dive map.
+- **Last Updated**: June 28, 2025

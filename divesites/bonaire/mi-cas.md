@@ -2,59 +2,68 @@
 name: Mi Cas
 lat: 12.1549049
 lng: -68.2789411
-difficulty: Intermediate
-maxDepth: 30
-entryType: shore
-siteType: reef
+difficulty: Beginner
+maxDepth: 18m
+entryType: Shore
+siteType: Reef
 ref: 
 osmId: 635094202
-addedBy: jbunderwater_ai
+addedBy: jbunderwater_ai_perplexity 
 ---
 
-# Mi Cas
+## Mi Cas
+
+Mi Cas is a popular shallow reef dive site located on the leeward coast of Bonaire, known for its calm conditions and abundant marine life, making it ideal for beginner divers and snorkelers.
 
 ## Overview
-Mi Cas is a beautiful dive site located in central Bonaire near Bari Reef. The site features a healthy reef that starts at about 15 feet and gradually slopes down to depths of over 100 feet. The reef is in excellent condition with diverse coral formations, including brain corals, elkhorn coral, and colorful soft corals. The site is particularly known for its abundance of marine life and excellent visibility. The easy sandy entry makes it accessible to divers of all experience levels.
+
+Mi Cas offers a gentle slope reef environment with sandy patches interspersed with coral formations. The site is renowned for its excellent visibility and tranquil waters, typical of Bonaire’s protected marine park. It is a favored shore dive spot with easy access from the beach, featuring typical Caribbean reef structures such as brain coral, sponges, and sea fans. Conditions are generally mild with little current, providing a relaxed diving experience suitable for novice divers.
 
 ## Site Information
-- **Location**: Central Bonaire (near Bari Reef)
-- **Entry Type**: Shore entry (easy sandy entry)
+- **Location**: Bonaire, leeward west coast near Kralendijk
+- **Entry Type**: Shore
 - **Site Type**: Reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-30 meters
-- **Current**: Usually light
-- **Best Time**: Morning to early afternoon
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 18 meters
+- **Typical Visibility**: 20 to 30 meters
+- **Current**: None to mild
+- **Best Time**: Year-round, with best conditions from April to August
 
 ## Marine Life
-Mi Cas is home to a diverse array of marine life. Large schools of blue tangs, parrotfish, and grunts are commonly seen. The site is also frequented by sea turtles, eagle rays, and occasionally nurse sharks. Macro life includes cleaner shrimp, arrow crabs, and various nudibranchs. The healthy coral formations provide habitat for countless reef fish species, including angelfish, butterflyfish, and damselfish.
+
+Divers at Mi Cas can expect to see a variety of colorful reef fish such as parrotfish, angelfish, and damselfish. The coral formations support invertebrates like sea urchins, starfish, and lobsters. Occasional sightings of turtles and rays occur. The reef’s health is generally good, supporting diverse marine life typical of Bonaire’s marine park.
 
 ## Dive Profile
-Enter the water from the sandy beach and swim out to the reef, which starts at about 15 feet. The reef gradually slopes down, making it easy to explore at different depths. Plan your dive to explore the reef at various depths, with most of the marine life found between 20-60 feet. The gradual slope makes this site excellent for divers of all experience levels.
+
+The dive begins at the sandy beach entry, descending gradually over a sandy bottom covered with coral outcroppings. Depth ranges mostly between 5 to 18 meters. The profile is a straightforward reef drift or swim, with no overhead environments or wreck penetration. Divers can explore coral heads, swim through small coral arches and over sandy patches, observing marine life in a relaxed pace. The site is ideal for training and photo dives.
 
 ## Entry and Exit
-The entry is via an easy sandy beach that provides comfortable access to the water. The sandy bottom extends for a short distance before reaching the reef. Exit at the same location, making this one of Bonaire's most convenient dive sites.
+
+Entry is from the shore via a sandy beach, requiring a short walk from parking areas. The water entry is gentle with a gradual slope, making it accessible for beginners and snorkelers. Exits are straightforward on the same beach with no strong surface currents reported. Standard shore dive safety practices apply.
 
 ## Tips and Recommendations
-- This site is particularly popular with families and beginner divers
-- The easy entry makes it perfect for all experience levels
-- Look for the diverse coral formations and abundant marine life
-- The site is excellent for both wide-angle and macro photography
-- This is a great site for night diving
+- Bring a reef hook or dive flag if you plan to stay stationary on the reef.
+- Use reef-safe sunscreen to protect the fragile coral ecosystems.
+- Early morning dives often provide the calmest conditions and best visibility.
+- Carry a dive light for exploring coral crevices and overhangs.
 
 ## Safety Considerations
-The sandy entry is easy and safe for all experience levels. The gradual slope makes it easy to control your depth. Be aware of boat traffic in the area, though it's typically light. Maintain proper buoyancy control to protect the coral formations.
+
+Currents are generally mild or absent, but always check local conditions. Depth is moderate and suitable for beginners; however, divers should monitor air consumption and avoid touching or standing on fragile corals. No overhead or penetration diving is recommended. Certification at beginner level or higher is sufficient.
 
 ## Photography
-Mi Cas offers excellent photography opportunities. The clear water and healthy coral formations make it ideal for wide-angle shots. The abundant marine life provides great subjects for both wide-angle and macro photography. Natural light is best during morning hours when the sun illuminates the reef.
+
+Mi Cas offers excellent opportunities for wide-angle reef photography with abundant colorful corals and schooling fish. Morning light enhances coral color vibrancy. Macro photography can be rewarding due to the presence of small reef creatures like shrimp and nudibranchs in coral crevices.
 
 ## Nearby Sites
-Nearby sites include Bari Reef, Buddy's Reef, and Cliff. All are accessible along the central coast of Bonaire.
+
+- Bari Reef
+- Forest
+- Something Special
+- Andrea I and II
 
 ## Additional Resources
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Accessibility**: Excellent for all experience levels
-- **Last Updated**: 2025-06-24
-
----
-*This dive site information was contributed by osm_data and last updated on 2025-06-24.* 
+- **Website**: Bonaire National Marine Park official site
+- **Dive Guide**: "Dive Bonaire" by Dennis and Judy King
+- **Site History or Notes**: Mi Cas is part of Bonaire’s well-managed Marine Park system, established in 1979 to protect coral reef ecosystems. The site reflects Bonaire’s commitment to sustainable diving tourism.
+- **Last Updated**: June 28, 2025

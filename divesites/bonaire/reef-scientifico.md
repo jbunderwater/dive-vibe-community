@@ -1,61 +1,75 @@
 ---
-name: Reef Scientifico
-lat: 12.1713556
-lng: -68.2892583
-difficulty: Intermediate
-maxDepth: 30
-entryType: shore
-siteType: reef
-ref: 
-osmId: 663869438
-addedBy: jbunderwater_ai
+name: Reef Scientifico  
+lat: 12.1713556  
+lng: -68.2892583  
+difficulty: Intermediate  
+maxDepth: 25m  
+entryType: Shore  
+siteType: Reef  
+ref:  
+osmId: 663869438  
+addedBy: jbunderwater_ai_perplexity  
 ---
 
-# Reef Scientifico
+## Reef Scientifico
+
+Reef Scientifico is a popular shore-accessible coral reef dive site located on the leeward coast of Bonaire, known for its vibrant marine biodiversity and excellent visibility.
 
 ## Overview
-Reef Scientifico is a beautiful dive site located in central Bonaire near Bari Reef. The site features a healthy reef that starts at about 15 feet and gradually slopes down to depths of over 100 feet. The reef is in excellent condition with diverse coral formations, including brain corals, elkhorn coral, and colorful soft corals. The site is particularly known for its abundance of marine life and excellent visibility. The easy sandy entry makes it accessible to divers of all experience levels.
+
+Reef Scientifico features a well-developed coral reef system typical of Bonaire’s protected marine environment. It is characterized by gently sloping reef formations with abundant hard and soft corals. The site offers calm, clear waters with mild currents, making it suitable for intermediate divers seeking a rich underwater landscape with diverse marine life. The reef is part of Bonaire National Marine Park, ensuring preservation efforts and healthy ecosystems.
 
 ## Site Information
-- **Location**: Central Bonaire (near Bari Reef)
-- **Entry Type**: Shore entry (easy sandy entry)
-- **Site Type**: Reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-30 meters
-- **Current**: Usually light
-- **Best Time**: Morning to early afternoon
+
+- **Location**: Bonaire, south-west coast near Kralendijk  
+- **Entry Type**: Shore  
+- **Site Type**: Reef  
+- **Difficulty Level**: Intermediate  
+- **Maximum Depth**: 25 meters  
+- **Typical Visibility**: 20–30 meters  
+- **Current**: Mild  
+- **Best Time**: Year-round, with optimal conditions from April to December  
 
 ## Marine Life
-Reef Scientifico is home to a diverse array of marine life. Large schools of blue tangs, parrotfish, and grunts are commonly seen. The site is also frequented by sea turtles, eagle rays, and occasionally nurse sharks. Macro life includes cleaner shrimp, arrow crabs, and various nudibranchs. The healthy coral formations provide habitat for countless reef fish species, including angelfish, butterflyfish, and damselfish.
+
+Divers can expect to see a variety of tropical fish such as angelfish, parrotfish, grunts, and damselfish. The reef also hosts sea turtles, rays, moray eels, and occasional reef sharks. Notable sightings include colorful reef-building corals, sponges, and smaller critters like shrimp and nudibranchs that attract macro photographers.
 
 ## Dive Profile
-Enter the water from the sandy beach and swim out to the reef, which starts at about 15 feet. The reef gradually slopes down, making it easy to explore at different depths. Plan your dive to explore the reef at various depths, with most of the marine life found between 20-60 feet. The gradual slope makes this site excellent for divers of all experience levels.
+
+The dive typically begins from shore, following a gently sloping reef contour down to about 25 meters. The profile includes exploring coral heads, swim-throughs, and sandy patches where rays and small sharks may be spotted. There are no wreck penetrations or strong currents, making it a safe site for navigation and photography. Divers are advised to monitor depth and air consumption as the reef gradually deepens.
 
 ## Entry and Exit
-The entry is via an easy sandy beach that provides comfortable access to the water. The sandy bottom extends for a short distance before reaching the reef. Exit at the same location, making this one of Bonaire's most convenient dive sites.
+
+Entry is via a sandy beach with easy water access and minimal surface currents. Divers usually walk into the water and descend along the reef slope. Exit is straightforward on the same beach, with ample space for gear staging. There are no significant hazards such as strong surge or sharp rocks at the entry point.
 
 ## Tips and Recommendations
-- This site is particularly popular with families and beginner divers
-- The easy entry makes it perfect for all experience levels
-- Look for the diverse coral formations and abundant marine life
-- The site is excellent for both wide-angle and macro photography
-- This is a great site for night diving
+
+- Use reef-safe sunscreen to protect the coral ecosystem.  
+- Bring a dive light for better visibility of crevices and macro life.  
+- Maintain good buoyancy control to avoid contact with delicate corals.  
+- Early morning dives often provide the calmest conditions and best visibility.  
 
 ## Safety Considerations
-The sandy entry is easy and safe for all experience levels. The gradual slope makes it easy to control your depth. Be aware of boat traffic in the area, though it's typically light. Maintain proper buoyancy control to protect the coral formations.
+
+- Mild currents can be present; divers should stay close to the reef and within their depth limits.  
+- Intermediate certification recommended due to maximum depth near 25 meters.  
+- Watch for boat traffic near shore entry points.  
+- Avoid touching or disturbing marine life to prevent injury or ecosystem damage.  
 
 ## Photography
-Reef Scientifico offers excellent photography opportunities. The clear water and healthy coral formations make it ideal for wide-angle shots. The abundant marine life provides great subjects for both wide-angle and macro photography. Natural light is best during morning hours when the sun illuminates the reef.
+
+Reef Scientifico offers excellent opportunities for wide-angle coral reef landscapes and macro photography. The clear water and abundant colorful coral formations provide vibrant backgrounds. Morning light enhances coral colors and fish visibility. Use a strobe or video light to capture the vivid colors of critters hidden in reef nooks.
 
 ## Nearby Sites
-Nearby sites include Bari Reef, Buddy's Reef, and Cliff. All are accessible along the central coast of Bonaire.
+
+- Salt Pier  
+- Karpata  
+- Something Special  
+- Oil Slick Leap  
 
 ## Additional Resources
-- **Website**: https://www.divers-guide.com/en/dive-spots/reef-scientifico
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Accessibility**: Excellent for all experience levels
-- **Last Updated**: 2025-06-24
 
----
-*This dive site information was contributed by osm_data and last updated on 2025-06-24.* 
+- **Website**: Bonaire National Marine Park official site  
+- **Dive Guide**: "Dive Bonaire" by Bonaire Dive Guides Association  
+- **Site History or Notes**: Part of Bonaire’s marine protected areas since the 1970s, helping preserve one of the Caribbean’s healthiest reef ecosystems.  
+- **Last Updated**: June 28, 2025

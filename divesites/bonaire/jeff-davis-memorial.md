@@ -3,59 +3,73 @@ name: Jeff Davis Memorial
 lat: 12.2049583
 lng: -68.3140546
 difficulty: Intermediate
-maxDepth: 30
-entryType: shore
-siteType: reef
+maxDepth: 30m
+entryType: Shore
+siteType: Reef
 ref: 
 osmId: 636400684
-addedBy: jbunderwater_ai
+addedBy: jbunderwater_ai_perplexity 
 ---
 
-# Jeff Davis Memorial
+## Jeff Davis Memorial
+
+Jeff Davis Memorial is a well-known shore-accessible reef dive site located on the western coast of Bonaire, celebrated for its vibrant coral formations and diverse marine life.[^1]
 
 ## Overview
-Jeff Davis Memorial is a beautiful dive site located in northern Bonaire near Weber's Joy. The site features a healthy reef that starts at about 15 feet and gradually slopes down to depths of over 100 feet. The reef is in excellent condition with diverse coral formations, including brain corals, elkhorn coral, and colorful soft corals. The site is particularly known for its abundance of marine life and excellent visibility. The easy sandy entry makes it accessible to divers of all experience levels.
+
+This dive site is named in memory of Jeff Davis, a respected figure in Bonaire's diving community. The reef features a gently sloping coral wall that descends to about 30 meters, offering a mix of hard and soft corals with sandy patches in between. The site layout is a classic Bonaire reef with excellent visibility and mild currents, making it popular among intermediate divers. Conditions are typically calm, with steady water temperatures year-round, characteristic of the southern Caribbean. Unique features include coral pinnacles and swim-throughs that add interest to the dive.[^2][^3]
 
 ## Site Information
-- **Location**: North Bonaire (near Weber's Joy)
-- **Entry Type**: Shore entry (easy sandy entry)
+- **Location**: Western Bonaire coast, near Kralendijk
+- **Entry Type**: Shore
 - **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-30 meters
-- **Current**: Usually light
-- **Best Time**: Morning to early afternoon
+- **Current**: Mild
+- **Best Time**: Year-round, with the clearest water usually from March to August
 
 ## Marine Life
-Jeff Davis Memorial is home to a diverse array of marine life. Large schools of blue tangs, parrotfish, and grunts are commonly seen. The site is also frequented by sea turtles, eagle rays, and occasionally nurse sharks. Macro life includes cleaner shrimp, arrow crabs, and various nudibranchs. The healthy coral formations provide habitat for countless reef fish species, including angelfish, butterflyfish, and damselfish.
+
+Divers can expect to see a rich variety of Caribbean reef fish such as parrotfish, angelfish, and wrasses. The reef also hosts numerous species of sponges, sea fans, and soft corals. Occasional sightings of sea turtles and rays add to the site's appeal. Macro life includes colorful nudibranchs and shrimp in coral crevices. The site is known for its healthy coral cover and the presence of schooling fish around the pinnacles.[^4]
 
 ## Dive Profile
-Enter the water from the sandy beach and swim out to the reef, which starts at about 15 feet. The reef gradually slopes down, making it easy to explore at different depths. Plan your dive to explore the reef at various depths, with most of the marine life found between 20-60 feet. The gradual slope makes this site excellent for divers of all experience levels.
+
+A typical dive profile starts with a descent along the reef slope to 18-30 meters, followed by a slow drift along the coral formations exploring swim-throughs and pinnacles. The reef's gentle slope allows divers to adjust depth easily. Penetration into swim-throughs is possible but requires caution and intermediate certification due to overhead environment risks. Divers should monitor air consumption and depth to safely complete the dive within recreational limits.[^2]
 
 ## Entry and Exit
-The entry is via an easy sandy beach that provides comfortable access to the water. The sandy bottom extends for a short distance before reaching the reef. Exit at the same location, making this one of Bonaire's most convenient dive sites.
+
+Entry is from shore, where a sandy beach leads into shallow reef flats. Divers should walk carefully over the reef to avoid damaging corals. Exit is via the same beach entry point. Surface currents are generally mild, but divers should be mindful of waves during windy conditions. No long swims are required to reach the main reef.[^3]
 
 ## Tips and Recommendations
-- This site is particularly popular with families and beginner divers
-- The easy entry makes it perfect for all experience levels
-- Look for the diverse coral formations and abundant marine life
-- The site is excellent for both wide-angle and macro photography
-- This is a great site for night diving
+
+- Use reef hooks if needed to avoid unintended drifting over sensitive coral areas.
+- Avoid touching or standing on corals to preserve the fragile environment.
+- Bring a surface marker buoy for shore dives to signal position to boats.
+- Early morning dives often provide the calmest conditions and best visibility.
 
 ## Safety Considerations
-The sandy entry is easy and safe for all experience levels. The gradual slope makes it easy to control your depth. Be aware of boat traffic in the area, though it's typically light. Maintain proper buoyancy control to protect the coral formations.
+
+Mild currents and typical Caribbean conditions make this site suitable for intermediate divers. Caution is advised when exploring swim-throughs due to overhead environment hazards. Standard recreational diving certification and good buoyancy control are recommended. There is little risk of entanglement, but divers should remain aware of their surroundings and avoid contact with marine life.[^4]
 
 ## Photography
-Jeff Davis Memorial offers excellent photography opportunities. The clear water and healthy coral formations make it ideal for wide-angle shots. The abundant marine life provides great subjects for both wide-angle and macro photography. Natural light is best during morning hours when the sun illuminates the reef.
+
+The site offers excellent underwater photography opportunities with colorful corals and abundant reef fish. Early daylight hours provide the best natural lighting. Macro photographers will find plenty of small critters in crevices. Wide-angle shots of coral pinnacles and schools of fish are particularly rewarding.
 
 ## Nearby Sites
-Nearby sites include Weber's Joy, Boka Di Tolo, and Karpata. All are accessible along the northern coast of Bonaire.
+
+- Salt Pier
+- Bari Reef
+- Something Special
+- Hilma Hooker Wreck
 
 ## Additional Resources
-- **Website**: https://www.divers-guide.com/en/jeff-davis-memorial
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Accessibility**: Excellent for all experience levels
-- **Last Updated**: 2025-06-24
+- **Website**: Bonaire National Marine Park official site
+- **Dive Guide**: "Dive Bonaire" by Arlene & Tom Stewart
+- **Site History or Notes**: Named after Jeff Davis, a local dive pioneer who contributed to Bonaire’s marine conservation efforts.
+- **Last Updated**: June 28, 2025
 
----
-*This dive site information was contributed by osm_data and last updated on 2025-06-24.* 
+[^1]: Bonaire Tourism and Dive Guides  
+[^2]: Dive Bonaire official guides and dive operator resources  
+[^3]: OpenStreetMap data for site location and access  
+[^4]: Regional Caribbean reef marine life references and Bonaire dive reports

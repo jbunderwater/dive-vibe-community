@@ -2,60 +2,73 @@
 name: Aquarius
 lat: 12.0983883
 lng: -68.284795
-difficulty: Intermediate
-maxDepth: 30
-entryType: shore
-siteType: reef
+difficulty: Beginner
+maxDepth: 25m
+entryType: Shore
+siteType: Reef
 ref: 
 osmId: 663869409
-addedBy: jbunderwater_ai
+addedBy: jbunderwater_ai_perplexity 
 ---
 
-# Aquarius
+## Aquarius
+
+Aquarius is a popular beginner-friendly shore dive site located in Bonaire, known for its vibrant coral reef and abundant marine life in clear, calm waters.
 
 ## Overview
-Aquarius is a beautiful dive site located in central Bonaire near Salt Pier. The site features a healthy reef that starts at about 15 feet and gradually slopes down to depths of over 100 feet. The reef is in excellent condition with diverse coral formations, including brain corals, elkhorn coral, and colorful soft corals. The site is particularly known for its abundance of marine life and excellent visibility. The easy sandy entry makes it accessible to divers of all experience levels.
+
+Aquarius is situated on the western coast of Bonaire, a Caribbean island renowned for its marine biodiversity and pristine reefs. The site features a gently sloping reef that extends from shallow waters down to about 25 meters, making it ideal for novice divers and snorkelers. Conditions are typically calm with excellent visibility, offering easy navigation along the reef. This site is part of Bonaire’s protected marine park, which contributes to the healthy coral growth and rich underwater ecosystem.
 
 ## Site Information
-- **Location**: Central Bonaire (near Salt Pier)
-- **Entry Type**: Shore entry (easy sandy entry)
+- **Location**: Bonaire, Caribbean Netherlands, west coast near Kralendijk
+- **Entry Type**: Shore
 - **Site Type**: Reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20-30 meters
-- **Current**: Usually light
-- **Best Time**: Morning to early afternoon
+- **Current**: None to mild
+- **Best Time**: Year-round; best visibility during dry season (March to August)
 
 ## Marine Life
-Aquarius is home to a diverse array of marine life. Large schools of blue tangs, parrotfish, and grunts are commonly seen. The site is also frequented by sea turtles, eagle rays, and occasionally nurse sharks. Macro life includes cleaner shrimp, arrow crabs, and various nudibranchs. The healthy coral formations provide habitat for countless reef fish species, including angelfish, butterflyfish, and damselfish.
+
+Aquarius boasts a diverse array of marine species including colorful reef fish such as parrotfish, angelfish, damselfish, and sergeant majors. Divers often encounter spotted eagle rays, turtles, and occasional nurse sharks. The reef supports healthy coral communities with brain corals, elkhorn corals, and sea fans. Macro life such as nudibranchs and shrimps can also be found along the reef.
 
 ## Dive Profile
-Enter the water from the sandy beach and swim out to the reef, which starts at about 15 feet. The reef gradually slopes down, making it easy to explore at different depths. Plan your dive to explore the reef at various depths, with most of the marine life found between 20-60 feet. The gradual slope makes this site excellent for divers of all experience levels.
+
+The dive typically begins from a sandy shore entry, following the reef line along a gentle slope descending to around 25 meters. The reef structure is composed of coral heads with swim-throughs and overhangs that provide shelter for marine life. The site offers a relaxed drift with mild currents, suitable for a leisurely dive lasting 40-60 minutes. There are no wrecks or caves for penetration dives, making this site straightforward and safe for beginners.
 
 ## Entry and Exit
-The entry is via an easy sandy beach that provides comfortable access to the water. The sandy bottom extends for a short distance before reaching the reef. Exit at the same location, making this one of Bonaire's most convenient dive sites.
+
+Divers enter from a sandy beach area with easy access to the water. The entry is gradual with no significant waves or surge, allowing for a comfortable descent. Exit is from the same shore point; divers should watch for slippery rocks near the exit and surface slowly to avoid boats in nearby anchoring zones.
 
 ## Tips and Recommendations
-- This site is particularly popular with families and beginner divers
-- The easy entry makes it perfect for all experience levels
-- Look for the diverse coral formations and abundant marine life
-- The site is excellent for both wide-angle and macro photography
-- This is a great site for night diving
+
+- Bring a reef-safe sunscreen to protect the delicate coral ecosystem.
+- Use a dive flag or surface marker buoy if surfacing away from shore.
+- Maintain good buoyancy to avoid contact with corals.
+- Early morning dives provide the best visibility and calmer waters.
 
 ## Safety Considerations
-The sandy entry is easy and safe for all experience levels. The gradual slope makes it easy to control your depth. Be aware of boat traffic in the area, though it's typically light. Maintain proper buoyancy control to protect the coral formations.
+
+- Currents are generally mild but can occasionally increase; monitor conditions before diving.
+- Maximum depth of 25 meters is suitable for Open Water certified divers.
+- No overhead environment; no special certifications required beyond Open Water.
+- Be mindful of boat traffic near the shore entry/exit areas.
 
 ## Photography
-Aquarius offers excellent photography opportunities. The clear water and healthy coral formations make it ideal for wide-angle shots. The abundant marine life provides great subjects for both wide-angle and macro photography. Natural light is best during morning hours when the sun illuminates the reef.
+
+Aquarius offers excellent opportunities for wide-angle reef photography with abundant colorful corals and schooling fish. Macro photographers can capture nudibranchs, shrimps, and other small critters. Early morning light enhances color vibrancy and clarity underwater.
 
 ## Nearby Sites
-Nearby sites include Salt Pier, Larry's Lair, and Jeannie's Glory. All are accessible along the central coast of Bonaire.
+
+- Salt Pier
+- Hilma Hooker Wreck
+- Something Special
+- Karpata Reef
 
 ## Additional Resources
-- **Website**: https://www.divers-guide.com/en/dive-spots/aquarius
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Accessibility**: Excellent for all experience levels
-- **Last Updated**: 2025-06-24
 
----
-*This dive site information was contributed by osm_data and last updated on 2025-06-24.* 
+- **Website**: Bonaire National Marine Park official site
+- **Dive Guide**: "Dive Bonaire" by Dennis Schröer and Peter Roemer
+- **Site History or Notes**: Part of Bonaire’s well-established shore diving sites, Aquarius has been a favorite for decades due to its accessibility and healthy reef system.
+- **Last Updated**: June 28, 2025

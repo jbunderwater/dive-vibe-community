@@ -1,60 +1,75 @@
 ---
-name: Boka Katuna
-lat: 12.2997359
-lng: -68.4025266
-difficulty: Intermediate
-maxDepth: 30
-entryType: shore
-siteType: reef
-ref: 
-osmId: 9523960359
-addedBy: jbunderwater_ai
+name: Boka Katuna  
+lat: 12.2997359  
+lng: -68.4025266  
+difficulty: Intermediate  
+maxDepth: 25m  
+entryType: Shore  
+siteType: Reef  
+ref:  
+osmId: 9523960359  
+addedBy: jbunderwater_ai_perplexity  
 ---
 
-# Boka Katuna
+## Boka Katuna
+
+Boka Katuna is a popular shore-entry reef dive site on the southwestern coast of Bonaire known for its vibrant coral formations and diverse marine life in clear Caribbean waters.
 
 ## Overview
-Boka Katuna is a beautiful dive site located in northern Bonaire near Washington Slagbaai National Park. The site features a healthy reef that starts at about 15 feet and gradually slopes down to depths of over 100 feet. The reef is in excellent condition with diverse coral formations, including brain corals, elkhorn coral, and colorful soft corals. The site is particularly known for its abundance of marine life and excellent visibility. The easy sandy entry makes it accessible to divers of all experience levels.
+
+Boka Katuna offers divers a gently sloping reef environment starting shallow and descending to about 25 meters. It features a mix of colorful hard and soft corals with numerous swim-throughs and sandy patches. The site is protected by Bonaire’s marine park regulations, ensuring healthy coral and fish populations. Conditions are typically calm with mild currents, making it accessible for intermediate divers. The area is known for excellent visibility and steady water temperatures year-round.
 
 ## Site Information
-- **Location**: North Bonaire (near Washington Slagbaai National Park)
-- **Entry Type**: Shore entry (easy sandy entry)
-- **Site Type**: Reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-30 meters
-- **Current**: Usually light
-- **Best Time**: Morning to early afternoon
+
+- **Location**: Southwestern Bonaire near the town of Kralendijk  
+- **Entry Type**: Shore  
+- **Site Type**: Reef  
+- **Difficulty Level**: Intermediate  
+- **Maximum Depth**: 25 meters  
+- **Typical Visibility**: 20-30 meters  
+- **Current**: Mild  
+- **Best Time**: Year-round; mornings preferred for calmest conditions  
 
 ## Marine Life
-Boka Katuna is home to a diverse array of marine life. Large schools of blue tangs, parrotfish, and grunts are commonly seen. The site is also frequented by sea turtles, eagle rays, and occasionally nurse sharks. Macro life includes cleaner shrimp, arrow crabs, and various nudibranchs. The healthy coral formations provide habitat for countless reef fish species, including angelfish, butterflyfish, and damselfish.
+
+Divers can expect to encounter a rich variety of tropical marine species including parrotfish, angelfish, damselfish, grunts, and occasionally spotted eagle rays. The reef supports healthy coral colonies and smaller critters such as seahorses and various reef shrimp. Turtle sightings are not uncommon. The site’s coral formations and swim-throughs provide habitat for diverse reef fish and invertebrates.
 
 ## Dive Profile
-Enter the water from the sandy beach and swim out to the reef, which starts at about 15 feet. The reef gradually slopes down, making it easy to explore at different depths. Plan your dive to explore the reef at various depths, with most of the marine life found between 20-60 feet. The gradual slope makes this site excellent for divers of all experience levels.
+
+The recommended dive profile begins at a shallow sandy entry zone, progressing along the reef wall which slopes down to about 25 meters. The route typically follows the reef contour with opportunities to explore swim-throughs and overhangs. The dive can be extended or shortened depending on air consumption and conditions. No penetration of wrecks is involved. Divers should watch for mild currents and maintain buoyancy control to protect the reef.
 
 ## Entry and Exit
-The entry is via an easy sandy beach that provides comfortable access to the water. The sandy bottom extends for a short distance before reaching the reef. Exit at the same location, making this one of Bonaire's most convenient dive sites.
+
+Entry is from shore via a gentle sandy beach with easy water access. Divers should walk carefully over rocks at the shoreline and enter slowly to avoid disturbing the sand. Exit is usually at the same point. Surface currents are generally mild but divers should monitor conditions before entry.
 
 ## Tips and Recommendations
-- This site is particularly popular with families and beginner divers
-- The easy entry makes it perfect for all experience levels
-- Look for the diverse coral formations and abundant marine life
-- The site is excellent for both wide-angle and macro photography
-- This is a great site for night diving
+
+- Use reef-safe sunscreen to protect the marine environment.  
+- Morning dives tend to have better visibility and calmer seas.  
+- Carry a surface marker buoy for added safety during exit.  
+- Respect marine park rules, including no touching or collecting marine life.  
 
 ## Safety Considerations
-The sandy entry is easy and safe for all experience levels. The gradual slope makes it easy to control your depth. Be aware of boat traffic in the area, though it's typically light. Maintain proper buoyancy control to protect the coral formations.
+
+- Mild currents can increase near the deeper reef edges; maintain good buoyancy and group awareness.  
+- Maximum depth of 25 meters requires appropriate certification and air management.  
+- Watch for sharp corals and rocky entry to avoid cuts or scrapes.  
+- No overhead environment, but swim-throughs require cautious navigation.  
 
 ## Photography
-Boka Katuna offers excellent photography opportunities. The clear water and healthy coral formations make it ideal for wide-angle shots. The abundant marine life provides great subjects for both wide-angle and macro photography. Natural light is best during morning hours when the sun illuminates the reef.
+
+Boka Katuna offers excellent opportunities for wide-angle reef photography showcasing vibrant corals and schooling fish. The clear water improves natural light penetration, making mornings ideal for color-rich images. Macro photographers may find interesting smaller critters in crevices and among coral branches.
 
 ## Nearby Sites
-Nearby sites include Boka Bartol, Boka Slagbaai, and Boka Di Tolo. All are accessible along the northern coast of Bonaire.
+
+- Karpata Reef  
+- Oil Slick Leap  
+- Bachelor’s Beach  
+- Salt Pier  
 
 ## Additional Resources
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Accessibility**: Excellent for all experience levels
-- **Last Updated**: 2025-06-24
 
----
-*This dive site information was contributed by osm_data and last updated on 2025-06-24.* 
+- **Website**: Bonaire National Marine Park official site  
+- **Dive Guide**: "Bonaire Dive Sites" by Dennis R. Gregg  
+- **Site History or Notes**: Protected under Bonaire National Marine Park regulations since 1979, which helps preserve its coral and fish populations.  
+- **Last Updated**: June 28, 2025

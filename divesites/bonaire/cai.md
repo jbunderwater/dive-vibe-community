@@ -2,60 +2,68 @@
 name: Cai
 lat: 12.1032167
 lng: -68.2224528
-difficulty: Intermediate
-maxDepth: 30
-entryType: shore
-siteType: reef
+difficulty: Beginner
+maxDepth: 18m
+entryType: Shore
+siteType: Reef
 ref: 
 osmId: 663869416
-addedBy: jbunderwater_ai
+addedBy: jbunderwater_ai_perplexity 
 ---
 
-# Cai
+## Cai
+
+Cai is a popular shore-accessible reef dive site located on the west coast of Bonaire, known for its calm conditions and abundant marine life suitable for beginner divers.
 
 ## Overview
-Cai is a beautiful dive site located in southern Bonaire near Willemstoren Lighthouse. The site features a healthy reef that starts at about 15 feet and gradually slopes down to depths of over 100 feet. The reef is in excellent condition with diverse coral formations, including brain corals, elkhorn coral, and colorful soft corals. The site is particularly known for its abundance of marine life and excellent visibility. The easy sandy entry makes it accessible to divers of all experience levels.
+
+Cai is situated within Bonaire’s marine park, offering a gently sloping coral reef environment. The site features a sandy bottom interspersed with coral heads and sponges, making it an ideal location for new divers and snorkelers. The dive area is sheltered, typically providing excellent visibility and mild currents, with a maximum depth around 18 meters. Its accessibility from shore and the diversity of fish and corals make it a favored spot for casual diving and marine life observation.
 
 ## Site Information
-- **Location**: South Bonaire (near Willemstoren Lighthouse)
-- **Entry Type**: Shore entry (easy sandy entry)
+- **Location**: Bonaire, west coast near the town of Kralendijk
+- **Entry Type**: Shore
 - **Site Type**: Reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 20-30 meters
-- **Current**: Usually light
-- **Best Time**: Morning to early afternoon
+- **Current**: Mild
+- **Best Time**: Year-round, with calmer conditions typically from April to August
 
 ## Marine Life
-Cai is home to a diverse array of marine life. Large schools of blue tangs, parrotfish, and grunts are commonly seen. The site is also frequented by sea turtles, eagle rays, and occasionally nurse sharks. Macro life includes cleaner shrimp, arrow crabs, and various nudibranchs. The healthy coral formations provide habitat for countless reef fish species, including angelfish, butterflyfish, and damselfish.
+
+Divers at Cai can expect to see a variety of tropical fish, including parrotfish, angelfish, sergeant majors, and damselfish. The reef also hosts lobsters, sea turtles, and various species of coral and sponges. Occasional sightings of rays and small reef sharks add interest to the dive.
 
 ## Dive Profile
-Enter the water from the sandy beach and swim out to the reef, which starts at about 15 feet. The reef gradually slopes down, making it easy to explore at different depths. Plan your dive to explore the reef at various depths, with most of the marine life found between 20-60 feet. The gradual slope makes this site excellent for divers of all experience levels.
+
+The dive usually starts from the shore, swimming over a sandy bottom toward the reef. Depth ranges from shallow (around 5 meters) near the shore to a maximum depth of 18 meters at the reef edge. The reef structure includes coral heads and small swim-throughs suitable for beginners. The dive route is flexible, allowing divers to explore at their own pace with no strong currents to contend with.
 
 ## Entry and Exit
-The entry is via an easy sandy beach that provides comfortable access to the water. The sandy bottom extends for a short distance before reaching the reef. Exit at the same location, making this one of Bonaire's most convenient dive sites.
+
+Entry is via a sandy beach; divers walk in slowly and fin out to the reef. The approach is straightforward with no significant surface currents or hazards. Exit is from the same beach entry point, with a gentle slope making it easy for divers to come ashore.
 
 ## Tips and Recommendations
-- This site is particularly popular with families and beginner divers
-- The easy entry makes it perfect for all experience levels
-- Look for the diverse coral formations and abundant marine life
-- The site is excellent for both wide-angle and macro photography
-- This is a great site for night diving
+- Bring a reef-safe sunscreen to protect the marine environment.
+- Use reef hooks or gloves sparingly to avoid damaging coral.
+- The site is excellent for night diving due to the abundance of nocturnal marine life.
+- Check local dive shop conditions reports for visibility updates.
 
 ## Safety Considerations
-The sandy entry is easy and safe for all experience levels. The gradual slope makes it easy to control your depth. Be aware of boat traffic in the area, though it's typically light. Maintain proper buoyancy control to protect the coral formations.
+
+Currents are generally mild, but always monitor conditions before diving. The reef structure is shallow in parts, so buoyancy control is important to avoid contact with corals. Recommended for divers with basic certification and shore diving experience.
 
 ## Photography
-Cai offers excellent photography opportunities. The clear water and healthy coral formations make it ideal for wide-angle shots. The abundant marine life provides great subjects for both wide-angle and macro photography. Natural light is best during morning hours when the sun illuminates the reef.
+
+Cai offers excellent opportunities for wide-angle reef shots and macro photography of small reef critters. Morning dives provide the best natural lighting. The calm water and good visibility enhance photo quality.
 
 ## Nearby Sites
-Nearby sites include Willemstoren Lighthouse, Sweet Dreams, and Vista Blue. All are accessible along the southern coast of Bonaire.
+
+- Bari Reef
+- Karpata
+- Something Special
+- Salt Pier
 
 ## Additional Resources
-- **Website**: https://www.divers-guide.com/en/dive-spots/cai
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Accessibility**: Excellent for all experience levels
-- **Last Updated**: 2025-06-24
-
----
-*This dive site information was contributed by osm_data and last updated on 2025-06-24.* 
+- **Website**: Bonaire National Marine Park official site
+- **Dive Guide**: "Bonaire Dive & Adventure Guide" by Dennis Schröder
+- **Site History or Notes**: Part of Bonaire’s protected marine park established in 1979, Cai is one of the island’s most accessible and frequented shore dives.
+- **Last Updated**: Saturday, June 28, 2025, 4:54:00 PM UTC

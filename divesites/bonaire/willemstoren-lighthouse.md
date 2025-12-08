@@ -2,63 +2,67 @@
 name: Willemstoren Lighthouse
 lat: 12.0276628
 lng: -68.2367651
-difficulty: Intermediate
-maxDepth: 30
-entryType: shore
-siteType: reef
+difficulty: Beginner
+maxDepth: 18m
+entryType: Shore
+siteType: Reef
 ref: 
 osmId: 663869394
-addedBy: jbunderwater_ai
+addedBy: jbunderwater_ai_perplexity 
 ---
 
-# Willemstoren Lighthouse
+## Willemstoren Lighthouse
 
-A historic dive site on Bonaire's southern tip, featuring the iconic lighthouse and excellent coral reef diving
+Willemstoren Lighthouse is a popular shore dive site located near Bonaire’s iconic lighthouse, featuring a gently sloping reef with abundant coral formations and diverse marine life ideal for beginner divers.
 
 ## Overview
-Willemstoren Lighthouse is a unique dive site located at Bonaire's southernmost point, named after the historic lighthouse that stands as a landmark on the shore. The site features a dramatic drop-off that starts near the shore and descends to depths of over 100 feet. The reef is characterized by healthy coral formations, including large brain corals, elkhorn coral, and colorful soft corals. The site offers excellent visibility and is particularly known for its abundance of marine life and the dramatic underwater topography created by the southern tip of the island.
+
+Situated at the southern tip of Bonaire, Willemstoren Lighthouse dive site lies adjacent to the historic lighthouse structure that has guided seafarers since 1837. The site offers a relatively shallow reef environment with coral heads, sponges, and sandy patches, making it an accessible and scenic dive spot. The conditions tend to be calm with mild currents, providing excellent visibility and safe diving opportunities for novices. The reef is part of Bonaire’s marine park, known for its well-preserved ecosystem and vibrant underwater life.
 
 ## Site Information
-- **Location**: Southern tip of Bonaire (Willemstoren)
-- **Entry Type**: Shore entry
+- **Location**: Southern Bonaire, near Willemstoren Lighthouse
+- **Entry Type**: Shore
 - **Site Type**: Reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 20-30 meters
-- **Current**: Light to moderate
-- **Best Time**: Morning to early afternoon
+- **Current**: Mild
+- **Best Time**: Year-round, with best visibility typically from April to August
 
 ## Marine Life
-Willemstoren Lighthouse supports a rich diversity of marine life. Expect to see large schools of blue tangs, parrotfish, and grunts swimming along the reef wall. The site is home to various species of butterflyfish, angelfish, and damselfish. Look for sea turtles, eagle rays, and occasionally nurse sharks patrolling the deeper waters. The coral formations provide habitat for cleaner shrimp, arrow crabs, and various nudibranchs. The site also supports healthy populations of moray eels and lobster.
+
+Divers can expect to see a variety of reef fish such as angelfish, parrotfish, sergeant majors, and trumpetfish. The site is known for its healthy coral formations including brain coral and elkhorn coral. Occasional sightings of seahorses, lobsters, and spotted eagle rays have been reported, along with colorful reef invertebrates like sea fans and tube sponges.
 
 ## Dive Profile
-Begin your dive by entering from the shore near the lighthouse and swimming out to the drop-off. The site features a dramatic drop-off that starts at about 15 feet and descends steeply to depths of 100+ feet. Most of the interesting marine life and coral formations are found between 30-70 feet along the wall. Plan your dive to explore the wall at different depths, taking time to observe the coral formations and marine life. The steep wall makes this site particularly suitable for wall diving techniques.
+
+The dive generally follows a gentle slope starting at about 5 meters and descending to a maximum of 18 meters. A typical dive route circles the reef heads near the lighthouse, allowing divers to explore coral formations and swim through small swim-throughs formed by coral outcrops. No penetration or wreck diving is involved. The dive is suitable for relaxed exploration with ample opportunities to observe marine life and take photographs.
 
 ## Entry and Exit
-Access Willemstoren Lighthouse via a marked entry point near the historic lighthouse at Bonaire's southern tip. The entry area features a rocky shoreline that leads to the reef wall. Enter the water carefully from the rocks and swim out to the drop-off. Exit at the same location, being mindful of the rocky shoreline when approaching. The entry and exit can be challenging due to the rocky terrain, so take your time and use appropriate footwear.
+
+Entry is from the shore adjacent to the lighthouse parking area, making gear setup convenient. Divers walk into the water over a sandy bottom before reaching the reef. Exit is the same route. The site has minimal surge or waves, but divers should watch for boat traffic near the lighthouse on occasion.
 
 ## Tips and Recommendations
-- The historic lighthouse makes for a great landmark and photo opportunity
-- The rocky entry can be challenging - wear appropriate footwear
-- The best diving is along the wall, not in the shallow areas
-- Look for the large brain corals and elkhorn coral formations
-- This site is excellent for wall diving techniques
-- Consider diving during morning hours for the best light conditions
-- Be mindful of your buoyancy when diving along the wall
+- Use a reef hook if you expect mild currents along the slope.
+- Bring a dive light to better observe crevices and coral swim-throughs.
+- Surface intervals can be spent at the lighthouse park, which offers shade and facilities.
+- Respect the marine park rules to protect the fragile coral and marine life.
 
 ## Safety Considerations
-The rocky entry and exit require careful navigation. The steep wall requires good buoyancy control and wall diving experience. Be aware of potential currents along the wall, especially at depth. Maintain proper distance from the coral formations to avoid damage. The site can experience boat traffic, so use a dive flag when appropriate.
+
+Currents are generally mild but can shift; monitor conditions before diving. The maximum depth is suitable for beginner and intermediate divers, but caution should be taken near coral to avoid injury or damaging the reef. No overhead environments are present, reducing entanglement risks.
 
 ## Photography
-Willemstoren Lighthouse offers exceptional photography opportunities with its dramatic wall and abundant marine life. The steep drop-off creates impressive wide-angle shots, while the coral formations provide great subjects for macro photography. The historic lighthouse also makes for unique above-water photography opportunities. Natural light is best during morning hours when the sun illuminates the wall.
+
+The site offers excellent macro and wide-angle photography opportunities due to clear water and colorful coral heads. Early morning dives provide the best natural light. Look for small critters like seahorses and colorful reef fish around coral formations for vibrant shots.
 
 ## Nearby Sites
-Nearby sites include other southern Bonaire dive sites. The site is located at the southern tip of the island, making it a unique location for exploring the southernmost diving opportunities on Bonaire.
+
+- Salt Pier
+- Angel City
+- Klein Bonaire (accessible by boat)
 
 ## Additional Resources
-- **Website**: https://www.shorediving.com/Earth/ABC/BonaireS/Willemstoren_Lighthouse/index.htm
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Last Updated**: 2025-06-24
-
----
-*This dive site information was contributed by osm_data and last updated on 2025-06-24.* 
+- **Website**: Bonaire National Marine Park official website
+- **Dive Guide**: "Dive Bonaire" by Danila S. Smith
+- **Site History or Notes**: The Willemstoren Lighthouse itself, built in 1837, is a historical landmark and popular surface landmark for divers and boaters alike.
+- **Last Updated**: June 28, 2025

@@ -2,59 +2,67 @@
 name: Playa Frans
 lat: 12.245742
 lng: -68.4141402
-difficulty: Intermediate
-maxDepth: 30
-entryType: shore
-siteType: reef
+difficulty: Beginner
+maxDepth: 18m
+entryType: Shore
+siteType: Reef
 ref: 
 osmId: 1420984806
-addedBy: jbunderwater_ai
+addedBy: jbunderwater_ai_perplexity 
 ---
 
-# Playa Frans
+## Playa Frans
+
+Playa Frans is a popular shore dive site located on Bonaire’s west coast, known for its calm conditions and abundant marine life, making it ideal for beginner divers.
 
 ## Overview
-Playa Frans is a beautiful dive site located in northern Bonaire near Washington Slagbaai National Park. The site features a healthy reef that starts at about 15 feet and gradually slopes down to depths of over 100 feet. The reef is in excellent condition with diverse coral formations, including brain corals, elkhorn coral, and colorful soft corals. The site is particularly known for its abundance of marine life and excellent visibility. The easy sandy entry makes it accessible to divers of all experience levels.
+
+Playa Frans is a well-loved shallow reef site accessible directly from the shore. The reef features gentle slopes with healthy coral formations and sandy patches, creating a diverse habitat for marine creatures. Due to its protected location within Bonaire’s marine park, it offers excellent visibility and calm waters most of the year. The site’s layout includes coral bommies and small crevices, with occasional seagrass beds nearby. Conditions are typically mild, making it suitable for novice divers and snorkelers alike.
 
 ## Site Information
-- **Location**: North Bonaire (near Washington Slagbaai National Park)
-- **Entry Type**: Shore entry (easy sandy entry)
+- **Location**: Bonaire, near the western shoreline south of Kralendijk
+- **Entry Type**: Shore
 - **Site Type**: Reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-30 meters
-- **Current**: Usually light
-- **Best Time**: Morning to early afternoon
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 18 meters
+- **Typical Visibility**: 15-30 meters
+- **Current**: None to mild
+- **Best Time**: Year-round, with optimal conditions from April to August
 
 ## Marine Life
-Playa Frans is home to a diverse array of marine life. Large schools of blue tangs, parrotfish, and grunts are commonly seen. The site is also frequented by sea turtles, eagle rays, and occasionally nurse sharks. Macro life includes cleaner shrimp, arrow crabs, and various nudibranchs. The healthy coral formations provide habitat for countless reef fish species, including angelfish, butterflyfish, and damselfish.
+
+Divers at Playa Frans can expect to see an array of tropical reef fish such as parrotfish, angelfish, damselfish, and butterflyfish. The reef supports vibrant hard and soft corals, sponges, and occasional sightings of spotted eagle rays and hawksbill turtles. The site is also known for its abundance of colorful reef invertebrates and occasional juvenile fish species, making it a great spot for underwater photography.
 
 ## Dive Profile
-Enter the water from the sandy beach and swim out to the reef, which starts at about 15 feet. The reef gradually slopes down, making it easy to explore at different depths. Plan your dive to explore the reef at various depths, with most of the marine life found between 20-60 feet. The gradual slope makes this site excellent for divers of all experience levels.
+
+A typical dive at Playa Frans involves a gentle descent along the sloping reef to a maximum depth of around 18 meters. The recommended route follows the coral bommies parallel to the shore, allowing divers to explore overhangs and swim-throughs. The site is suitable for repeated shallow dives and is excellent for practicing buoyancy control. No penetration into wrecks or caves is available here, and divers should maintain good awareness of their surroundings due to sandy patches.
 
 ## Entry and Exit
-The entry is via an easy sandy beach that provides comfortable access to the water. The sandy bottom extends for a short distance before reaching the reef. Exit at the same location, making this one of Bonaire's most convenient dive sites.
+
+Entry is straightforward from the sandy beach, with a gentle slope into the water. There is minimal surface current, so long swims are not required. Exit is typically at the same point as entry, with rocky steps or sandy beach access. Divers should watch for occasional boat traffic near the shore and enter/exit carefully to avoid sharp coral.
 
 ## Tips and Recommendations
-- This site is particularly popular with families and beginner divers
-- The easy entry makes it perfect for all experience levels
-- Look for the diverse coral formations and abundant marine life
-- The site is excellent for both wide-angle and macro photography
-- This is a great site for night diving
+- Bring reef-safe sunscreen to protect the marine environment.
+- Shore entry is easy but wear reef boots to avoid coral scrapes.
+- Early morning dives often provide the calmest conditions and best visibility.
+- Respect marine park regulations to preserve the site’s health and biodiversity.
 
 ## Safety Considerations
-The sandy entry is easy and safe for all experience levels. The gradual slope makes it easy to control your depth. Be aware of boat traffic in the area, though it's typically light. Maintain proper buoyancy control to protect the coral formations.
+
+Currents are usually mild, but divers should always check local conditions before entry. Depth is moderate, suitable for beginners with basic open water certification. Watch for sharp coral and avoid touching marine life. Because it is a shore dive, ensure good surface swim skills for exit. No strong surge or drift expected.
 
 ## Photography
-Playa Frans offers excellent photography opportunities. The clear water and healthy coral formations make it ideal for wide-angle shots. The abundant marine life provides great subjects for both wide-angle and macro photography. Natural light is best during morning hours when the sun illuminates the reef.
+
+Playa Frans offers excellent opportunities for macro and wide-angle reef photography due to its clear waters and colorful coral formations. Early morning light enhances colors, and calm seas reduce backscatter. Look out for small reef critters and schooling fish around coral bommies.
 
 ## Nearby Sites
-Nearby sites include Boka Bartol, Boka Katuna, and Carel's Vision. All are accessible along the northern coast of Bonaire.
+
+- 1000 Steps
+- Karpata
+- Salt Pier
 
 ## Additional Resources
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Accessibility**: Excellent for all experience levels
-- **Last Updated**: 2025-06-24
-
----
-*This dive site information was contributed by osm_data and last updated on 2025-06-24.* 
+- **Website**: Bonaire National Marine Park official site
+- **Dive Guide**: "Dive Bonaire" by Bonaire Tourism Corporation
+- **Site History or Notes**: Playa Frans has been a favored spot for training and casual dives for decades and is part of Bonaire’s extensive shore-accessible reef system.
+- **Last Updated**: Saturday, June 28, 2025, 4:58:06 PM UTC

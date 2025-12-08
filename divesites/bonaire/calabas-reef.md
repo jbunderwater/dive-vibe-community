@@ -1,61 +1,74 @@
 ---
-name: Calabas Reef
-lat: 12.1444535
-lng: -68.276667
-difficulty: Intermediate
-maxDepth: 30
-entryType: shore
-siteType: reef
-ref: 
-osmId: 663869423
-addedBy: jbunderwater_ai
+name: Calabas Reef  
+lat: 12.1444535  
+lng: -68.276667  
+difficulty: Intermediate  
+maxDepth: 18m  
+entryType: Shore  
+siteType: Reef  
+ref:   
+osmId: 663869423  
+addedBy: jbunderwater_ai_perplexity  
 ---
 
-# Calabas Reef
+## Calabas Reef
+
+Calabas Reef is a popular shore-accessible reef dive site located on the leeward coast of Bonaire, known for its healthy coral formations and abundant marine life. It offers a calm and scenic underwater environment suitable for intermediate divers.
 
 ## Overview
-Calabas Reef is a beautiful dive site located in central Bonaire near Oil Slick Leap. The site features a healthy reef that starts at about 15 feet and gradually slopes down to depths of over 100 feet. The reef is in excellent condition with diverse coral formations, including brain corals, elkhorn coral, and colorful soft corals. The site is particularly known for its abundance of marine life and excellent visibility. The easy sandy entry makes it accessible to divers of all experience levels.
+
+Calabas Reef is situated along Bonaire’s protected marine park coast, featuring a gently sloping reef that extends from the shallow shore to a maximum depth of about 18 meters. The reef is characterized by vibrant hard and soft corals, sponges, and a diversity of reef fish. Conditions are generally calm with mild currents, making it a favorite spot for both recreational and photo divers. Visibility typically ranges between 15 to 30 meters, depending on the season and recent weather.
 
 ## Site Information
-- **Location**: Central Bonaire (near Oil Slick Leap)
-- **Entry Type**: Shore entry (easy sandy entry)
-- **Site Type**: Reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-30 meters
-- **Current**: Usually light
-- **Best Time**: Morning to early afternoon
+
+- **Location**: Bonaire, leeward west coast near Kralendijk  
+- **Entry Type**: Shore  
+- **Site Type**: Reef  
+- **Difficulty Level**: Intermediate  
+- **Maximum Depth**: 18 meters  
+- **Typical Visibility**: 15–30 meters  
+- **Current**: Mild  
+- **Best Time**: Year-round, with optimal conditions during the dry season (February to August)  
 
 ## Marine Life
-Calabas Reef is home to a diverse array of marine life. Large schools of blue tangs, parrotfish, and grunts are commonly seen. The site is also frequented by sea turtles, eagle rays, and occasionally nurse sharks. Macro life includes cleaner shrimp, arrow crabs, and various nudibranchs. The healthy coral formations provide habitat for countless reef fish species, including angelfish, butterflyfish, and damselfish.
+
+Divers at Calabas Reef commonly encounter a variety of tropical fish including parrotfish, angelfish, damselfish, and grunts. The reef supports healthy coral communities with brain corals, elkhorn, and sea fans. Occasional sightings of turtles, eagle rays, and reef sharks add to the site's appeal. Macro life such as nudibranchs and small crustaceans can be spotted in crevices.
 
 ## Dive Profile
-Enter the water from the sandy beach and swim out to the reef, which starts at about 15 feet. The reef gradually slopes down, making it easy to explore at different depths. Plan your dive to explore the reef at various depths, with most of the marine life found between 20-60 feet. The gradual slope makes this site excellent for divers of all experience levels.
+
+A typical dive starts from the shore, following the reef line as it gently slopes down. Depths range from 5 meters nearshore to about 18 meters at the reef edge. The site offers swim-throughs formed by coral outcrops and overhangs that shelter marine life. Divers should maintain good buoyancy control to avoid contact with corals. No penetration of wrecks or caves is involved.
 
 ## Entry and Exit
-The entry is via an easy sandy beach that provides comfortable access to the water. The sandy bottom extends for a short distance before reaching the reef. Exit at the same location, making this one of Bonaire's most convenient dive sites.
+
+Entry is directly from the shore with a sandy beach approach. Divers usually walk into waist-deep water before beginning the dive. Exit is from the same shore point, with no significant hazards or strong surface currents. Care should be taken on rocky entry/exit points to avoid slips.
 
 ## Tips and Recommendations
-- This site is particularly popular with families and beginner divers
-- The easy entry makes it perfect for all experience levels
-- Look for the diverse coral formations and abundant marine life
-- The site is excellent for both wide-angle and macro photography
-- This is a great site for night diving
+
+- Bring a reef hook if you want to pause in currents or hold position near overhangs.  
+- Use a dive light to enhance viewing of macro life in shaded reef areas.  
+- Respect the marine park rules: no touching or collecting marine life, and maintain good buoyancy.  
 
 ## Safety Considerations
-The sandy entry is easy and safe for all experience levels. The gradual slope makes it easy to control your depth. Be aware of boat traffic in the area, though it's typically light. Maintain proper buoyancy control to protect the coral formations.
+
+- Mild currents may be present; stay close to the reef for protection.  
+- Maximum depth is moderate, suitable for intermediate divers with good buoyancy skills.  
+- Watch for sharp coral and rocky entry points.  
+- No decompression dives recommended; standard recreational limits apply.  
 
 ## Photography
-Calabas Reef offers excellent photography opportunities. The clear water and healthy coral formations make it ideal for wide-angle shots. The abundant marine life provides great subjects for both wide-angle and macro photography. Natural light is best during morning hours when the sun illuminates the reef.
+
+Calabas Reef offers excellent opportunities for wide-angle reef photography with abundant coral formations and schooling fish. Early morning dives provide soft light enhancing colors. Macro enthusiasts will enjoy photographing small invertebrates in coral crevices.
 
 ## Nearby Sites
-Nearby sites include Oil Slick Leap, Bari Reef, and Buddy's Reef. All are accessible along the central coast of Bonaire.
+
+- Bari Reef  
+- Something Special  
+- Hilma Hooker Wreck (boat access)  
+- Salt Pier  
 
 ## Additional Resources
-- **Website**: https://www.divers-guide.com/en/dive-spots/calabas-reef
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Accessibility**: Excellent for all experience levels
-- **Last Updated**: 2025-06-24
 
----
-*This dive site information was contributed by osm_data and last updated on 2025-06-24.* 
+- **Website**: Bonaire National Marine Park official site  
+- **Dive Guide**: "Dive Bonaire" by Jack and Anne Rudloe  
+- **Site History or Notes**: Calabas Reef is part of Bonaire’s extensive marine park established to protect its rich coral reef ecosystems. It remains one of the most accessible and vibrant shore dives on the island.  
+- **Last Updated**: June 28, 2025

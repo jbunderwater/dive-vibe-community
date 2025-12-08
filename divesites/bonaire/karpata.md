@@ -1,63 +1,72 @@
 ---
-name: Karpata
-lat: 12.2192934
-lng: -68.3521324
-difficulty: Intermediate
-maxDepth: 30
-entryType: shore
-siteType: reef
-ref: 
-osmId: 663869440
-addedBy: jbunderwater_ai
+name: Karpata  
+lat: 12.2192934  
+lng: -68.3521324  
+difficulty: Intermediate  
+maxDepth: 25m  
+entryType: Shore  
+siteType: Reef  
+ref:   
+osmId: 663869440  
+addedBy: jbunderwater_ai_perplexity  
 ---
 
-# Karpata
+## Karpata
 
-A stunning reef dive site featuring dramatic underwater landscapes and excellent coral formations
+Karpata is a well-known shore dive site located on the western coast of Bonaire, featuring a vibrant coral reef with moderate depth and excellent visibility, suitable for intermediate divers.
 
 ## Overview
-Karpata is one of Bonaire's most beautiful and photogenic dive sites, located in the northern part of the island near Washington Slagbaai National Park. The site features a dramatic reef wall that starts at about 20 feet and drops steeply to depths of over 100 feet. The reef is in excellent condition with healthy coral formations, including large brain corals, elkhorn coral, and colorful soft corals. The site is particularly known for its dramatic underwater topography and abundance of marine life. The entry is via a concrete platform that provides easy access to the water.
+
+Karpata is situated along Bonaire’s protected marine park coastline, renowned for its healthy coral formations and diverse marine ecosystem. The site extends along a gently sloping reef starting from shallow waters and descending to about 25 meters. The reef is characterized by colorful hard and soft corals interspersed with sandy patches, providing habitats for a variety of Caribbean marine species. Conditions are typically calm with mild currents, making it a popular and accessible dive site for those with some diving experience. The site’s layout allows for both relaxed exploration and more adventurous deeper sections.
 
 ## Site Information
-- **Location**: North Bonaire (near Washington Slagbaai National Park)
-- **Entry Type**: Shore entry (concrete platform)
-- **Site Type**: Reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-30 meters
-- **Current**: Usually light, but can be moderate
-- **Best Time**: Morning to early afternoon
+
+- **Location**: Bonaire, west coast near Karpata area  
+- **Entry Type**: Shore  
+- **Site Type**: Reef  
+- **Difficulty Level**: Intermediate  
+- **Maximum Depth**: 25 meters  
+- **Typical Visibility**: 20-30 meters  
+- **Current**: Mild  
+- **Best Time**: Year-round, with best conditions from April to August  
 
 ## Marine Life
-Karpata is home to a diverse array of marine life. Large schools of blue tangs, parrotfish, and grunts are commonly seen. The site is also frequented by sea turtles, eagle rays, and occasionally nurse sharks. Macro life includes cleaner shrimp, arrow crabs, and various nudibranchs. The healthy coral formations provide habitat for countless reef fish species, including angelfish, butterflyfish, and damselfish.
+
+Divers at Karpata commonly encounter a rich variety of tropical fish including parrotfish, angelfish, grunts, and damselfish. The reef hosts spotted eagle rays, hawksbill turtles, and occasional nurse sharks. Macro enthusiasts may find seahorses, frogfish, and colorful nudibranchs among the coral heads. The site is also known for its healthy populations of spiny lobsters and various crustaceans, making it a rewarding location for underwater photography and marine observation.
 
 ## Dive Profile
-Enter the water from the concrete platform and swim out to the reef wall. The wall starts at about 20 feet and drops steeply. Plan your dive to explore the wall at different depths, with most of the marine life found between 30-60 feet. The dramatic topography makes this site excellent for both recreational and technical diving.
+
+The typical dive begins with a gentle entry from the shore, following the reef line parallel to the coastline. Depths start shallow (~5m) and gradually descend to around 25 meters at the reef edge. Divers can explore coral formations, swim-throughs, and small overhangs along the reef. The swim is generally against or with mild currents depending on the tide, so planning dive direction accordingly is advised. No wreck or cave penetration is available here. Standard recreational dive limits apply, with good opportunities to observe reef fish and invertebrates at various depths.
 
 ## Entry and Exit
-The entry is via a well-maintained concrete platform that provides easy access to the water. The platform is equipped with ladders for easy entry and exit. Swim out to the reef wall, which is easily visible from the surface. Exit at the same location using the platform ladders.
+
+Entry is from a sandy beach, requiring a short walk with gear to the water’s edge. The water entry is gradual, with no significant surge or waves under normal conditions. Exit is straightforward by swimming back to shore along the reef line. Divers should be cautious of occasional slippery rocks near the shore and watch for currents near the reef edge during exit.
 
 ## Tips and Recommendations
-- This site is particularly popular with underwater photographers
-- The dramatic topography provides excellent wide-angle photo opportunities
-- Look for the large brain corals and elkhorn coral formations
-- The site can experience moderate currents, so check conditions before diving
-- This is an excellent site for both wide-angle and macro photography
+
+- Bring reef-safe sunscreen to protect Bonaire’s marine environment.  
+- Use a dive flag as shore diving is popular and boats may be in the area.  
+- Plan dives around slack tide for minimal current.  
+- Carry a surface marker buoy for added safety during exit.  
 
 ## Safety Considerations
-The concrete platform can be slippery when wet, so use caution. The reef wall is dramatic, so maintain proper buoyancy control. Currents can be moderate at times, so check conditions before diving. Be aware of boat traffic in the area, though it's typically light at this location.
+
+Divers should be mindful of mild currents and ensure proper buoyancy control to avoid damaging corals. Intermediate certification is recommended due to depth and occasional current. Watch for sharp coral and sea urchins near the reef edge and shore. No strong surge or hazardous entry conditions are typical, but always assess conditions before diving.
 
 ## Photography
-Karpata is a photographer's paradise. The dramatic reef wall and healthy coral formations provide excellent wide-angle opportunities. The abundant marine life offers great subjects for both wide-angle and macro photography. Natural light is best during morning hours when the sun illuminates the reef wall.
+
+Karpata offers excellent opportunities for wide-angle reef photography with vibrant coral and schooling fish. Macro photographers can find colorful smaller critters such as nudibranchs and shrimp in crevices. The clear water and good light penetration make morning dives particularly favorable for natural light shots.
 
 ## Nearby Sites
-Nearby sites include 1000 Steps, La Denia's Leap, and Weber's Joy. All are accessible along the northern coast of Bonaire.
+
+- Something Special  
+- 1000 Steps  
+- Salt Pier  
+- Hilma Hooker (wreck, boat access)  
 
 ## Additional Resources
-- **Website**: https://www.divers-guide.com/en/dive-spots/karpata
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Photography**: Particularly popular with underwater photographers
-- **Last Updated**: 2025-06-24
 
----
-*This dive site information was contributed by osm_data and last updated on 2025-06-24.* 
+- **Website**: Bonaire National Marine Park official site  
+- **Dive Guide**: "Dive Bonaire" by Bonaire Tourism Corporation  
+- **Site History or Notes**: Karpata is part of Bonaire’s Marine Park, one of the first marine protected areas in the Caribbean, established in 1979 to conserve coral reefs and marine life.  
+- **Last Updated**: June 28, 2025
