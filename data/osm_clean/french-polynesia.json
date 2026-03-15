@@ -6,16 +6,18 @@
     "osm_id": 663869230,
     "osm_type": "node",
     "depth": 25,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Le tombant Gorgognes",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
-    "name": "Le fer à cheval",
+    "name": "Le fer \u00e0 cheval",
     "lat": -17.880247,
     "lon": -149.202744,
     "osm_id": 663869231,
@@ -25,12 +27,12 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
-      "name": "Le fer à cheval",
+      "name": "Le fer \u00e0 cheval",
       "sport": "scuba_diving"
     }
   },
   {
-    "name": "Vallée aux Murènes",
+    "name": "Vall\u00e9e aux Mur\u00e8nes",
     "lat": -17.592157,
     "lon": -149.626221,
     "osm_id": 663869232,
@@ -40,7 +42,7 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
-      "name": "Vallée aux Murènes",
+      "name": "Vall\u00e9e aux Mur\u00e8nes",
       "sport": "scuba_diving"
     }
   },
@@ -66,12 +68,14 @@
     "osm_id": 663869234,
     "osm_type": "node",
     "depth": 25,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Tombant St Etienne",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -120,7 +124,7 @@
     }
   },
   {
-    "name": "Vallée des requins",
+    "name": "Vall\u00e9e des requins",
     "lat": -17.542242,
     "lon": -149.619415,
     "osm_id": 663869239,
@@ -130,7 +134,7 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
-      "name": "Vallée des requins",
+      "name": "Vall\u00e9e des requins",
       "sport": "scuba_diving"
     }
   },
@@ -150,7 +154,7 @@
     }
   },
   {
-    "name": "La zelée",
+    "name": "La zel\u00e9e",
     "lat": -17.528658,
     "lon": -149.577362,
     "osm_id": 663869242,
@@ -160,7 +164,7 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
-      "name": "La zelée",
+      "name": "La zel\u00e9e",
       "sport": "scuba_diving"
     }
   },
@@ -292,15 +296,17 @@
     "osm_id": 663869253,
     "osm_type": "node",
     "depth": 25,
-    "site_type": "reef",
+    "site_type": "drift",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
-      "alt_name": "Les cheminées de Tetuatiare",
+      "alt_name": "Les chemin\u00e9es de Tetuatiare",
       "name": "Te Tuatiare",
       "natural": "strait",
       "sport": "scuba_diving",
-      "waterway": "turning_point"
+      "waterway": "turning_point",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -325,9 +331,9 @@
     "osm_id": 663869255,
     "osm_type": "node",
     "depth": 25,
-    "site_type": "reef",
+    "site_type": "drift",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "alt_name": "Passe Teavapiti",
       "loc_name": "Te Ava Rua",
@@ -335,7 +341,9 @@
       "natural": "strait",
       "sport": "scuba_diving",
       "waterway": "turning_point",
-      "wikidata": "Q31930501"
+      "wikidata": "Q31930501",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -344,50 +352,56 @@
     "lon": -151.435976,
     "osm_id": 663869256,
     "osm_type": "node",
-    "depth": 25,
-    "site_type": "reef",
+    "depth": 29,
+    "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Le Nordby",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
-    "name": "Pa’ipa’i",
+    "name": "Pa\u2019ipa\u2019i",
     "lat": -16.664726,
     "lon": -151.539059,
     "osm_id": 663869257,
     "osm_type": "node",
     "depth": 25,
-    "site_type": "reef",
+    "site_type": "drift",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "alt_name": "Paipai",
       "loc_name": "Passe de Tiva",
-      "name": "Pa’ipa’i",
+      "name": "Pa\u2019ipa\u2019i",
       "natural": "strait",
       "sport": "scuba_diving",
-      "waterway": "turning_point"
+      "waterway": "turning_point",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
-    "name": "Rauto’Anui",
+    "name": "Rauto\u2019Anui",
     "lat": -16.758276,
     "lon": -151.50404,
     "osm_id": 663869258,
     "osm_type": "node",
     "depth": 25,
-    "site_type": "reef",
+    "site_type": "drift",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "alt_name": "Miri Miri",
-      "name": "Rauto’Anui",
+      "name": "Rauto\u2019Anui",
       "natural": "strait",
       "sport": "scuba_diving",
-      "waterway": "turning_point"
+      "waterway": "turning_point",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -397,48 +411,54 @@
     "osm_id": 663869259,
     "osm_type": "node",
     "depth": 25,
-    "site_type": "reef",
+    "site_type": "drift",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "alt_name": "La Passe d'Avera",
       "name": "Iriru",
       "natural": "strait",
       "sport": "scuba_diving",
-      "waterway": "turning_point"
+      "waterway": "turning_point",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
-    "name": "Te Ava Mo’a",
+    "name": "Te Ava Mo\u2019a",
     "lat": -16.8318081,
     "lon": -151.3466734,
     "osm_id": 663869260,
     "osm_type": "node",
     "depth": 25,
-    "site_type": "reef",
+    "site_type": "drift",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "alt_name": "Passe Opoa",
-      "name": "Te Ava Mo’a",
+      "name": "Te Ava Mo\u2019a",
       "natural": "strait",
       "sport": "scuba_diving",
-      "waterway": "turning_point"
+      "waterway": "turning_point",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
-    "name": "Passe de Céran - TAHAA",
+    "name": "Passe de C\u00e9ran - TAHAA",
     "lat": -16.648034,
     "lon": -151.426964,
     "osm_id": 663869261,
     "osm_type": "node",
     "depth": 25,
-    "site_type": "reef",
+    "site_type": "drift",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
-      "name": "Passe de Céran - TAHAA",
-      "sport": "scuba_diving"
+      "name": "Passe de C\u00e9ran - TAHAA",
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -468,7 +488,7 @@
     "difficulty": "Beginner",
     "tags": {
       "access": "yes",
-      "description": "Arrivé à quai un jour de fort vent d'ouest, vers 15h, le bateau a été violemment poussé contre le quai alors qu'il avait à peine débuté son déchargement. Une brêche a entrainé le coulage du navire, qui a été remorqué à son emplacement actuel quelques jour",
+      "description": "Arriv\u00e9 \u00e0 quai un jour de fort vent d'ouest, vers 15h, le bateau a \u00e9t\u00e9 violemment pouss\u00e9 contre le quai alors qu'il avait \u00e0 peine d\u00e9but\u00e9 son d\u00e9chargement. Une br\u00eache a entrain\u00e9 le coulage du navire, qui a \u00e9t\u00e9 remorqu\u00e9 \u00e0 son emplacement actuel quelques jour",
       "historic": "wreck",
       "name": "Mairie II",
       "scuba_diving:maxdepth": "17m",
