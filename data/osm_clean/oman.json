@@ -127,23 +127,6 @@
     }
   },
   {
-    "name": "Extra Divers Musandam",
-    "lat": 26.2138898,
-    "lon": 56.2340282,
-    "osm_id": 598562251,
-    "osm_type": "node",
-    "depth": 20,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "amenity": "dive_centre",
-      "name": "Extra Divers Musandam",
-      "name:en": "Extra Divers Musandam",
-      "sport": "scuba_diving"
-    }
-  },
-  {
     "name": "Dibba Rock",
     "lat": 25.6034329,
     "lon": 56.3502417,

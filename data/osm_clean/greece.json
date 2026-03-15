@@ -127,38 +127,6 @@
     }
   },
   {
-    "name": "Korfu Diving",
-    "lat": 39.673552,
-    "lon": 19.7002527,
-    "osm_id": 5930686128,
-    "osm_type": "node",
-    "depth": 25,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "amenity": "dive_centre",
-      "name": "Korfu Diving",
-      "sport": "scuba_diving",
-      "website": "https://www.korfudiving.com/"
-    }
-  },
-  {
-    "name": "Thassos scuba diving",
-    "lat": 40.6172674,
-    "lon": 24.5982384,
-    "osm_id": 6823930974,
-    "osm_type": "node",
-    "depth": 25,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "name": "Thassos scuba diving",
-      "sport": "scuba_diving"
-    }
-  },
-  {
     "name": "SS Probitas Shipwreck",
     "lat": 39.8705153,
     "lon": 20.0116347,
@@ -193,7 +161,6 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
-      "contact:website": "https://en.unifrance.org/movie/8233/the-big-blue#",
       "depth:source_quality": "unreliable",
       "description": "diving boat scenes of the movie The Big Blue in front of Manganari and/or Tris Klisies bay",
       "name": "Le Grande Bleu",

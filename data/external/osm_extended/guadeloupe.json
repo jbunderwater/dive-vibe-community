@@ -251,8 +251,7 @@
     "tags": {
       "description": "Les îlets à Frégate (Petit Cul-de-Sac Marin) ont disparu (semble-t-il après le passage du cyclone de 1928) et sont désormais des récifs connus sous le nom Frégate de Haut et Frégate de Bas.",
       "name": "Frégate-de-Haut",
-      "natural": "reef",
-      "source": "http://www.aapa-antilles.com/pages/operations-en-cours/d-iles-en-iles.html"
+      "natural": "reef"
     }
   },
   {
@@ -268,8 +267,7 @@
     "tags": {
       "description": "Les îlets à Frégate (Petit Cul-de-Sac Marin) ont disparu (semble-t-il après le passage du cyclone de 1928) et sont désormais des récifs connus sous le nom Frégate de Haut et Frégate de Bas.",
       "name": "Frégate-de-Bas",
-      "natural": "reef",
-      "source": "http://www.aapa-antilles.com/pages/operations-en-cours/d-iles-en-iles.html"
+      "natural": "reef"
     }
   },
   {

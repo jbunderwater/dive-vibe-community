@@ -15,21 +15,6 @@
     }
   },
   {
-    "name": "Starfleet Scuba Diving",
-    "lat": 9.3385615,
-    "lon": -82.2403258,
-    "osm_id": 3506370477,
-    "osm_type": "node",
-    "depth": null,
-    "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
-    "tags": {
-      "name": "Starfleet Scuba Diving",
-      "sport": "scuba_diving"
-    }
-  },
-  {
     "name": "La Buga Dive & Surf",
     "lat": 9.3371182,
     "lon": -82.2405793,

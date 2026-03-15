@@ -65,21 +65,5 @@
       "name": "Maria Island Reef",
       "natural": "reef"
     }
-  },
-  {
-    "name": "Dive Fair Haven",
-    "lat": 13.9669866,
-    "lon": -61.0261004,
-    "osm_id": 1372008160,
-    "osm_type": "way",
-    "depth": null,
-    "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
-    "tags": {
-      "building": "yes",
-      "name": "Dive Fair Haven",
-      "sport": "scuba_diving"
-    }
   }
 ]

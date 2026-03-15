@@ -116,7 +116,6 @@
     "difficulty": "Intermediate",
     "tags": {
       "alt_name": "Blue Hole",
-      "image": "https://photos.app.goo.gl/d5sc8VdNrtpR7Ui88",
       "name": "Il-Ħofra tal-Bidwin",
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
@@ -168,8 +167,7 @@
     "tags": {
       "name": "The Washing Machine",
       "scuba_diving:divespot": "yes",
-      "sport": "scuba_diving",
-      "website": "https://maltadives.com/sites/washingmachine-xwejnibay/en"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -189,7 +187,6 @@
       "seamark:type": "wreck",
       "source": "Maltese Islands Diving Guide, =BjP= (SSI Instructor Trainer)",
       "sport": "scuba_diving",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=1175",
       "wreck:date_sunk": "1998-09-02",
       "wreck:visible_at_high_tide": "no",
       "wreck:visible_at_low_tide": "no"
@@ -211,8 +208,7 @@
       "natural": "cliff",
       "scuba_diving:depth": "30",
       "scuba_diving:maxdepth": "70",
-      "sport": "scuba_diving",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=1180"
+      "sport": "scuba_diving"
     }
   },
   {

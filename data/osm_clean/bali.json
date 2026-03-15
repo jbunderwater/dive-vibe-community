@@ -21,22 +21,6 @@
     }
   },
   {
-    "name": "Seraya Beach Dive Site",
-    "lat": -8.2956657,
-    "lon": 115.611935,
-    "osm_id": 2327924608,
-    "osm_type": "node",
-    "depth": 25,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "amenity": "dive_centre",
-      "name": "Seraya Beach Dive Site",
-      "sport": "scuba_diving"
-    }
-  },
-  {
     "name": "USAT Liberty Wreck",
     "lat": -8.2739054,
     "lon": 115.5926122,
@@ -127,37 +111,6 @@
     }
   },
   {
-    "name": "Mama Dive",
-    "lat": -8.337772,
-    "lon": 115.6587537,
-    "osm_id": 3477854124,
-    "osm_type": "node",
-    "depth": 25,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "leisure": "sports_centre",
-      "name": "Mama Dive",
-      "sport": "scuba_diving"
-    }
-  },
-  {
-    "name": "Bali Aqua Diving",
-    "lat": -8.7057514,
-    "lon": 115.2531295,
-    "osm_id": 3546785648,
-    "osm_type": "node",
-    "depth": 25,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "name": "Bali Aqua Diving",
-      "sport": "scuba_diving"
-    }
-  },
-  {
     "name": "Bali Scuba",
     "lat": -8.7057211,
     "lon": 115.2528946,
@@ -169,37 +122,6 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Bali Scuba",
-      "sport": "scuba_diving"
-    }
-  },
-  {
-    "name": "Marta Dive",
-    "lat": -8.2753636,
-    "lon": 115.5904646,
-    "osm_id": 3744065624,
-    "osm_type": "node",
-    "depth": 25,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "name": "Marta Dive",
-      "sport": "scuba_diving"
-    }
-  },
-  {
-    "name": "Paradise Diving",
-    "lat": -8.2738721,
-    "lon": 115.5904903,
-    "osm_id": 3744068661,
-    "osm_type": "node",
-    "depth": 25,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "amenity": "dive_centre",
-      "name": "Paradise Diving",
       "sport": "scuba_diving"
     }
   },
@@ -339,22 +261,6 @@
       "scuba_diving:type": "reef;wall;apnoe",
       "sport": "scuba_diving",
       "tourism": "attraction"
-    }
-  },
-  {
-    "name": "Bali Dive Trek",
-    "lat": -8.3312359,
-    "lon": 115.6309014,
-    "osm_id": 4694084262,
-    "osm_type": "node",
-    "depth": 25,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "leisure": "sports_centre",
-      "name": "Bali Dive Trek",
-      "sport": "scuba_diving"
     }
   },
   {

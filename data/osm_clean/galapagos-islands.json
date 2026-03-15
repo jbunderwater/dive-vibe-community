@@ -1,22 +1,5 @@
 [
   {
-    "name": "Galapagos People",
-    "lat": -0.7429614,
-    "lon": -90.3119827,
-    "osm_id": 1761225926,
-    "osm_type": "node",
-    "depth": 20,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "amenity": "dive_centre",
-      "name": "Galapagos People",
-      "scuba_diving:guided_tours": "yes",
-      "sport": "scuba_diving"
-    }
-  },
-  {
     "name": "Galapagos fan dive",
     "lat": -0.9010163,
     "lon": -89.6106449,

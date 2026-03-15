@@ -154,24 +154,5 @@
       "source": "curated",
       "addedBy": "fill_caribbean"
     }
-  },
-  {
-    "name": "Nature Island Dive",
-    "lat": 15.2323133,
-    "lon": -61.3610502,
-    "osm_id": 277752275,
-    "osm_type": "way",
-    "depth": null,
-    "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
-    "tags": {
-      "building": "yes",
-      "hurricane:damage": "moderate",
-      "name": "Nature Island Dive",
-      "sport": "scuba_diving",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass"
-    }
   }
 ]

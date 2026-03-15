@@ -169,8 +169,6 @@
       "name": "Wrack 'Sagona' (Le Grec)",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=1415",
       "wreck:depth": "35m",
       "addedBy": "extended_overpass"
     }
@@ -189,8 +187,6 @@
       "name": "Wrack 'Prosper Schiaffino' (Alias Donator)",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=1416",
       "wreck:depth": "25m",
       "addedBy": "extended_overpass"
     }
@@ -214,8 +210,6 @@
       "seamark:type": "wreck",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "verified": "no",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=1417",
       "addedBy": "extended_overpass"
     }
   },
@@ -235,8 +229,6 @@
       "seamark:type": "wreck",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=1418",
       "wreck:type": "aircraft",
       "addedBy": "extended_overpass"
     }

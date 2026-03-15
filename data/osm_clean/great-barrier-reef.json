@@ -275,10 +275,7 @@
     "difficulty": "Beginner",
     "tags": {
       "name": "Moore Reef - 5 Ways",
-      "source": "www.dive-links.com",
-      "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2048"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -293,10 +290,7 @@
     "difficulty": "Beginner",
     "tags": {
       "name": "Agincourt Reef No. 1 - Trigger Fish City",
-      "source": "www.dive-links.com",
-      "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2057"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -311,10 +305,7 @@
     "difficulty": "Beginner",
     "tags": {
       "name": "Agincourt Reef No. 4 - The Point",
-      "source": "www.dive-links.com",
-      "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2056"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -329,10 +320,7 @@
     "difficulty": "Beginner",
     "tags": {
       "name": "Light Reef - Phil`s Bommie",
-      "source": "www.dive-links.com",
-      "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2055"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -347,10 +335,7 @@
     "difficulty": "Beginner",
     "tags": {
       "name": "Moore Reef - Labyrinth",
-      "source": "www.dive-links.com",
-      "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2049"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -451,22 +436,6 @@
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
       "tourism": "attraction"
-    }
-  },
-  {
-    "name": "Explore",
-    "lat": -20.3453233,
-    "lon": 148.951274,
-    "osm_id": 105243515,
-    "osm_type": "way",
-    "depth": 20,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Beginner",
-    "tags": {
-      "building": "yes",
-      "name": "Explore",
-      "sport": "scuba_diving"
     }
   }
 ]

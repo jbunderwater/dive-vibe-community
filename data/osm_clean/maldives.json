@@ -135,10 +135,8 @@
       "scuba_diving:entry:boat": "yes",
       "scuba_diving:type:wreck": "yes",
       "seamark:type": "wreck",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=864",
       "wreck:date_sunk": "1991"
     }
   },
@@ -174,10 +172,7 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "HimendhooThila West",
-      "source": "www.dive-links.com",
-      "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=744"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -192,10 +187,7 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Fish Head",
-      "source": "www.dive-links.com",
-      "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=739"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -210,10 +202,7 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Velidhu Hausriff",
-      "source": "www.dive-links.com",
-      "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2035"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -230,11 +219,8 @@
       "name": "Pineapple Island Hausriff",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "tourism": "attraction",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2037"
+      "tourism": "attraction"
     }
   },
   {
@@ -268,11 +254,8 @@
       "name": "Adam Faru",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "tourism": "attraction",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2129"
+      "tourism": "attraction"
     }
   },
   {
@@ -289,11 +272,8 @@
       "name": "Lhohi Bodu Kandu",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "tourism": "attraction",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2128"
+      "tourism": "attraction"
     }
   },
   {
@@ -310,11 +290,8 @@
       "name": "Lhohi Kandu Tila",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "tourism": "attraction",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2127"
+      "tourism": "attraction"
     }
   },
   {
@@ -331,11 +308,8 @@
       "name": "Coral Faru",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "tourism": "attraction",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2126"
+      "tourism": "attraction"
     }
   },
   {
@@ -352,11 +326,8 @@
       "name": "Kunaavashi Kandu",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "tourism": "attraction",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2132"
+      "tourism": "attraction"
     }
   },
   {
@@ -373,11 +344,8 @@
       "name": "Boamas Kandu",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "tourism": "attraction",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2133"
+      "tourism": "attraction"
     }
   },
   {
@@ -394,11 +362,8 @@
       "name": "Fulhidoo Caves",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "tourism": "attraction",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2134"
+      "tourism": "attraction"
     }
   },
   {
@@ -415,11 +380,8 @@
       "name": "Coral Giri",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "tourism": "attraction",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2121"
+      "tourism": "attraction"
     }
   },
   {
@@ -436,11 +398,8 @@
       "name": "Olhuveli Kuda Giri",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "tourism": "attraction",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2122"
+      "tourism": "attraction"
     }
   },
   {
@@ -457,11 +416,8 @@
       "name": "Rihiveli Faru",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "tourism": "attraction",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2123"
+      "tourism": "attraction"
     }
   },
   {
@@ -478,11 +434,8 @@
       "name": "Origandu Finolhu",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "tourism": "attraction",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2124"
+      "tourism": "attraction"
     }
   },
   {
@@ -499,11 +452,8 @@
       "name": "Kudarah",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "tourism": "attraction",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2125"
+      "tourism": "attraction"
     }
   },
   {
@@ -522,11 +472,8 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "seamark:type": "wreck",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "tourism": "attraction",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2076"
+      "tourism": "attraction"
     }
   },
   {
@@ -543,11 +490,8 @@
       "name": "Fihalhohi Hausriff",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "tourism": "attraction",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2023"
+      "tourism": "attraction"
     }
   },
   {
@@ -564,11 +508,8 @@
       "name": "Ihi Reef",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "tourism": "attraction",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2099"
+      "tourism": "attraction"
     }
   },
   {
@@ -585,11 +526,8 @@
       "name": "Enderi Giri",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "tourism": "attraction",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2096"
+      "tourism": "attraction"
     }
   },
   {
@@ -606,11 +544,8 @@
       "name": "Lhohi Giri",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "tourism": "attraction",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2095"
+      "tourism": "attraction"
     }
   },
   {
@@ -627,11 +562,8 @@
       "name": "Ram Faru",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "tourism": "attraction",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2100"
+      "tourism": "attraction"
     }
   },
   {
@@ -648,11 +580,8 @@
       "name": "Lhohi Faru Tila",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "tourism": "attraction",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2131"
+      "tourism": "attraction"
     }
   },
   {
@@ -669,11 +598,8 @@
       "name": "Ali Tila",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "tourism": "attraction",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2130"
+      "tourism": "attraction"
     }
   },
   {
@@ -690,11 +616,8 @@
       "name": "Fihalhohi Hausriff Nord",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "tourism": "attraction",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2073"
+      "tourism": "attraction"
     }
   },
   {
@@ -711,11 +634,8 @@
       "name": "Fihalhohi Paradies",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "tourism": "attraction",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2074"
+      "tourism": "attraction"
     }
   },
   {
@@ -732,11 +652,8 @@
       "name": "Rannalhi Bodu Giri",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "tourism": "attraction",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2104"
+      "tourism": "attraction"
     }
   },
   {
@@ -753,11 +670,8 @@
       "name": "Alimas Faru",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "tourism": "attraction",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2098"
+      "tourism": "attraction"
     }
   },
   {
@@ -774,11 +688,8 @@
       "name": "Ramfaru Tulu",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "tourism": "attraction",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2097"
+      "tourism": "attraction"
     }
   },
   {
@@ -795,11 +706,8 @@
       "name": "Rannalhi Kuda Giri",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "tourism": "attraction",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2101"
+      "tourism": "attraction"
     }
   },
   {
@@ -816,11 +724,8 @@
       "name": "Lang Giri",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "tourism": "attraction",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2102"
+      "tourism": "attraction"
     }
   },
   {
@@ -837,11 +742,8 @@
       "name": "Rannalhi Faru",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "tourism": "attraction",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2103"
+      "tourism": "attraction"
     }
   },
   {
@@ -858,11 +760,8 @@
       "name": "Dong Giri",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "tourism": "attraction",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2092"
+      "tourism": "attraction"
     }
   },
   {
@@ -879,11 +778,8 @@
       "name": "Jack Faru",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "tourism": "attraction",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2075"
+      "tourism": "attraction"
     }
   },
   {
@@ -900,11 +796,8 @@
       "name": "Vaageli Faru Nord",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "tourism": "attraction",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2084"
+      "tourism": "attraction"
     }
   },
   {
@@ -921,11 +814,8 @@
       "name": "Vaageli Faru Süd",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "tourism": "attraction",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2085"
+      "tourism": "attraction"
     }
   },
   {
@@ -942,11 +832,8 @@
       "name": "Vaageli Corner",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "tourism": "attraction",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2082"
+      "tourism": "attraction"
     }
   },
   {
@@ -963,11 +850,8 @@
       "name": "Vaageli Faru",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "tourism": "attraction",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2083"
+      "tourism": "attraction"
     }
   },
   {
@@ -984,11 +868,8 @@
       "name": "Vaageli Bodu Faru",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "tourism": "attraction",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2088"
+      "tourism": "attraction"
     }
   },
   {
@@ -1005,11 +886,8 @@
       "name": "Kahambu Giri",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "tourism": "attraction",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2089"
+      "tourism": "attraction"
     }
   },
   {
@@ -1026,11 +904,8 @@
       "name": "Vaageli Faru Tila",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "tourism": "attraction",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2086"
+      "tourism": "attraction"
     }
   },
   {
@@ -1047,11 +922,8 @@
       "name": "Vaageli Tila",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "tourism": "attraction",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2087"
+      "tourism": "attraction"
     }
   },
   {
@@ -1068,11 +940,8 @@
       "name": "Vaageli Caves",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "tourism": "attraction",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2091"
+      "tourism": "attraction"
     }
   },
   {
@@ -1089,11 +958,8 @@
       "name": "Vaageli Outside",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "tourism": "attraction",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2090"
+      "tourism": "attraction"
     }
   },
   {
@@ -1110,11 +976,8 @@
       "name": "Kandoma Corner",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "tourism": "attraction",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2113"
+      "tourism": "attraction"
     }
   },
   {
@@ -1131,11 +994,8 @@
       "name": "Guradoo Kuda Kandu",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "tourism": "attraction",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2114"
+      "tourism": "attraction"
     }
   },
   {
@@ -1152,11 +1012,8 @@
       "name": "Kandoma Beru",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "tourism": "attraction",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2112"
+      "tourism": "attraction"
     }
   },
   {
@@ -1173,11 +1030,8 @@
       "name": "Noomas Giri",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "tourism": "attraction",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2094"
+      "tourism": "attraction"
     }
   },
   {
@@ -1194,11 +1048,8 @@
       "name": "Dongmaas Giri",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "tourism": "attraction",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2093"
+      "tourism": "attraction"
     }
   },
   {
@@ -1215,11 +1066,8 @@
       "name": "Guradoo South",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "tourism": "attraction",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2116"
+      "tourism": "attraction"
     }
   },
   {
@@ -1236,11 +1084,8 @@
       "name": "Guradoo North",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "tourism": "attraction",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2115"
+      "tourism": "attraction"
     }
   },
   {
@@ -1257,11 +1102,8 @@
       "name": "Biyadoo Kuda Giri",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "tourism": "attraction",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2118"
+      "tourism": "attraction"
     }
   },
   {
@@ -1278,11 +1120,8 @@
       "name": "Banner Reef",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "tourism": "attraction",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2117"
+      "tourism": "attraction"
     }
   },
   {
@@ -1299,11 +1138,8 @@
       "name": "Emmadi Giri (Manta Point)",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "tourism": "attraction",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2119"
+      "tourism": "attraction"
     }
   },
   {
@@ -1320,11 +1156,8 @@
       "name": "Guradoo South Outside",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "tourism": "attraction",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2120"
+      "tourism": "attraction"
     }
   },
   {
@@ -1341,11 +1174,8 @@
       "name": "Finolhu Faru",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "tourism": "attraction",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2109"
+      "tourism": "attraction"
     }
   },
   {
@@ -1362,11 +1192,8 @@
       "name": "Black Coral Faru",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "tourism": "attraction",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2081"
+      "tourism": "attraction"
     }
   },
   {
@@ -1383,10 +1210,8 @@
       "name": "Velassaru Caves",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "tourism": "attraction",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2077"
+      "tourism": "attraction"
     }
   },
   {
@@ -1403,11 +1228,8 @@
       "name": "Vaadho Caves",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "tourism": "attraction",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2078"
+      "tourism": "attraction"
     }
   },
   {
@@ -1424,11 +1246,8 @@
       "historic": "wreck",
       "name": "Bolifushi",
       "seamark:type": "wreck",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "tourism": "attraction",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2080"
+      "tourism": "attraction"
     }
   },
   {
@@ -1445,11 +1264,8 @@
       "name": "Maafushi Thila",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "tourism": "attraction",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2108"
+      "tourism": "attraction"
     }
   },
   {
@@ -1467,11 +1283,8 @@
       "name": "Digu Kuda Giri",
       "scuba_diving:entry:boat": "yes",
       "seamark:type": "wreck",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "tourism": "attraction",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2107"
+      "tourism": "attraction"
     }
   },
   {
@@ -1488,11 +1301,8 @@
       "name": "Dhigu Thila",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "tourism": "attraction",
-      "verified": "no, please check and del this tag",
-      "website": "https://www.divessi.com/en/mydiveguide/divesite/256641"
+      "tourism": "attraction"
     }
   },
   {
@@ -1509,11 +1319,8 @@
       "name": "Shark Point",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "tourism": "attraction",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2105"
+      "tourism": "attraction"
     }
   },
   {
@@ -1530,11 +1337,8 @@
       "name": "Cocoa Tila",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "tourism": "attraction",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2111"
+      "tourism": "attraction"
     }
   },
   {
@@ -1551,11 +1355,8 @@
       "name": "Cocoa Corner",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "tourism": "attraction",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2110"
+      "tourism": "attraction"
     }
   },
   {
@@ -1572,10 +1373,8 @@
       "name": "Embudu Channel / Embudu Express",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "tourism": "attraction",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2032"
+      "tourism": "attraction"
     }
   },
   {
@@ -1592,11 +1391,8 @@
       "name": "Embudu Kandu",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "tourism": "attraction",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2079"
+      "tourism": "attraction"
     }
   },
   {
@@ -2402,8 +2198,7 @@
       "scuba_diving:entry:boat": "yes",
       "scuba_diving:type:sharks": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction",
-      "website": "https://oneonline.mv/en/21059"
+      "tourism": "attraction"
     }
   },
   {
@@ -2725,33 +2520,6 @@
       "sport": "scuba_diving",
       "wreck:visible_at_high_tide": "no",
       "wreck:visible_at_low_tide": "no"
-    }
-  },
-  {
-    "name": "Ocean Pro",
-    "lat": 4.6345251,
-    "lon": 73.5637861,
-    "osm_id": 44091147,
-    "osm_type": "way",
-    "depth": 25,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "amenity": "dive_centre",
-      "building": "yes",
-      "language:de": "yes",
-      "language:en": "yes",
-      "language:fr": "yes",
-      "language:it": "yes",
-      "name": "Ocean Pro",
-      "scuba_diving:air_fill": "yes",
-      "scuba_diving:education": "yes",
-      "scuba_diving:nitrox": "yes",
-      "scuba_diving:organization": "PADI",
-      "scuba_diving:rental": "yes",
-      "scuba_diving:spoken_languages": "en, de, fr, it",
-      "sport": "scuba_diving"
     }
   },
   {

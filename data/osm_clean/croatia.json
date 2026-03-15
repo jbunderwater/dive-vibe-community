@@ -73,9 +73,7 @@
       "seamark:topmark:shape": "2 spheres",
       "seamark:type": "beacon_isolated_danger",
       "source": "US NGA Pub. 113. 2010-10-22.",
-      "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=1385"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -90,10 +88,7 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Brbišćica",
-      "source": "www.dive-links.com",
-      "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=1218"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -108,10 +103,7 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Golac",
-      "source": "www.dive-links.com",
-      "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=1217"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -128,10 +120,7 @@
       "historic": "wreck",
       "name": "Wreck Tihany",
       "seamark:type": "wreck",
-      "source": "www.dive-links.com",
-      "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=307"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -146,10 +135,7 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Margarina (Sanddüne)",
-      "source": "www.dive-links.com",
-      "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=310"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -164,10 +150,7 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Krivica",
-      "source": "www.dive-links.com",
-      "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=305"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -182,10 +165,7 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Katedrala",
-      "source": "www.dive-links.com",
-      "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=300"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -200,10 +180,7 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Zabodaski",
-      "source": "www.dive-links.com",
-      "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=304"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -235,10 +212,7 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Misnjak (Sanddüne)",
-      "source": "www.dive-links.com",
-      "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=306"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -253,10 +227,7 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Cutin",
-      "source": "www.dive-links.com",
-      "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=299"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -271,10 +242,7 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Kap Selzine",
-      "source": "www.dive-links.com",
-      "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=297"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -289,10 +257,7 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Miracine",
-      "source": "www.dive-links.com",
-      "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=298"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -307,10 +272,7 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Zeca",
-      "source": "www.dive-links.com",
-      "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=301"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -325,10 +287,7 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Galijola",
-      "source": "www.dive-links.com",
-      "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=302"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -343,10 +302,7 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Fels Merag",
-      "source": "www.dive-links.com",
-      "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=296"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -361,10 +317,7 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Kap Kosaca",
-      "source": "www.dive-links.com",
-      "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=289"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -379,10 +332,7 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Mali Plavnik",
-      "source": "www.dive-links.com",
-      "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=285"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -397,10 +347,7 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Holzsegelschiff mit Geschützen",
-      "source": "www.dive-links.com",
-      "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=284"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -417,10 +364,7 @@
       "historic": "wreck",
       "name": "Bucht Mrzlanovica (Wrack)",
       "seamark:type": "wreck",
-      "source": "www.dive-links.com",
-      "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=314"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -435,10 +379,7 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Kap Tanki",
-      "source": "www.dive-links.com",
-      "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=290"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -453,10 +394,7 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Kap Zašorga",
-      "source": "www.dive-links.com",
-      "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=291"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -471,10 +409,7 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Fels Macinj",
-      "source": "www.dive-links.com",
-      "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=292"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -489,10 +424,7 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Patersriff",
-      "source": "www.dive-links.com",
-      "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=287"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -507,10 +439,7 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Kap Silo",
-      "source": "www.dive-links.com",
-      "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=288"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -525,10 +454,7 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Tunel Prvić",
-      "source": "www.dive-links.com",
-      "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=286"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -543,10 +469,7 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Kricin",
-      "source": "www.dive-links.com",
-      "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=274"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -561,10 +484,7 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Riff Pal",
-      "source": "www.dive-links.com",
-      "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=554"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -581,10 +501,7 @@
       "historic": "wreck",
       "name": "Wrack Lina",
       "seamark:type": "wreck",
-      "source": "www.dive-links.com",
-      "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=294"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -599,10 +516,7 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Grotta",
-      "source": "www.dive-links.com",
-      "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=295"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -617,10 +531,7 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Kap Jablanac",
-      "source": "www.dive-links.com",
-      "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=293"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -635,10 +546,7 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Grotte Vrbnik",
-      "source": "www.dive-links.com",
-      "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=283"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -676,10 +584,7 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Gorgonien",
-      "source": "www.dive-links.com",
-      "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=278"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -696,10 +601,7 @@
       "historic": "wreck",
       "name": "Bucht Bobina (Wrack)",
       "seamark:type": "wreck",
-      "source": "www.dive-links.com",
-      "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=276"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -714,10 +616,7 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Säulenbucht",
-      "source": "www.dive-links.com",
-      "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=277"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -733,26 +632,7 @@
     "tags": {
       "name": "Banjol",
       "natural": "cave_entrance",
-      "source": "www.dive-links.com",
-      "sport": "scuba_diving",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=521"
-    }
-  },
-  {
-    "name": "Krnicadive",
-    "lat": 44.9540174,
-    "lon": 14.036103,
-    "osm_id": 2355909547,
-    "osm_type": "node",
-    "depth": 25,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "amenity": "dive_centre",
-      "name": "Krnicadive",
-      "sport": "scuba_diving",
-      "website": "http://www.krnicadive.com/"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -770,9 +650,7 @@
       "scuba_diving:divespot": "yes",
       "scuba_diving:entry": "shore",
       "scuba_diving:type": "ambiance",
-      "source": "http://www.spz.si/",
-      "sport": "scuba_diving",
-      "website": "http://pas.s56g.net/pdf/045_Velenje.pdf"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -788,22 +666,6 @@
     "tags": {
       "name": "dfh",
       "scuba_diving:divespot": "yes",
-      "sport": "scuba_diving"
-    }
-  },
-  {
-    "name": "Ronilački centar Prišćapac",
-    "lat": 42.9031385,
-    "lon": 16.8227837,
-    "osm_id": 2870499614,
-    "osm_type": "node",
-    "depth": 25,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "leisure": "sports_centre",
-      "name": "Ronilački centar Prišćapac",
       "sport": "scuba_diving"
     }
   },
@@ -841,39 +703,6 @@
     }
   },
   {
-    "name": "diving Cres",
-    "lat": 44.9600066,
-    "lon": 14.391305,
-    "osm_id": 3504657661,
-    "osm_type": "node",
-    "depth": 25,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "amenity": "dive_centre",
-      "name": "diving Cres",
-      "sport": "scuba_diving",
-      "website": "https://www.diving.de/tauchbasis-kroatien-tauchen-cres-tauchschule-tauchkurs.html"
-    }
-  },
-  {
-    "name": "Sub-Net potapljanje",
-    "lat": 45.5303516,
-    "lon": 13.5648604,
-    "osm_id": 3615152349,
-    "osm_type": "node",
-    "depth": 25,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "leisure": "sports_centre",
-      "name": "Sub-Net potapljanje",
-      "sport": "scuba_diving"
-    }
-  },
-  {
     "name": "Secret beach",
     "lat": 45.0784904,
     "lon": 14.6758884,
@@ -886,71 +715,6 @@
     "tags": {
       "name": "Secret beach",
       "scuba_diving:divespot": "yes",
-      "sport": "scuba_diving"
-    }
-  },
-  {
-    "name": "Moana",
-    "lat": 43.7854894,
-    "lon": 15.6417072,
-    "osm_id": 4300687041,
-    "osm_type": "node",
-    "depth": 25,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "amenity": "dive_centre",
-      "name": "Moana",
-      "sport": "scuba_diving"
-    }
-  },
-  {
-    "name": "Fundiving",
-    "lat": 43.797432,
-    "lon": 15.6420578,
-    "osm_id": 4410224495,
-    "osm_type": "node",
-    "depth": 25,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "amenity": "dive_centre",
-      "name": "Fundiving",
-      "sport": "scuba_diving"
-    }
-  },
-  {
-    "name": "\"AQUANAUT\"",
-    "lat": 43.822421,
-    "lon": 15.584026,
-    "osm_id": 4414419539,
-    "osm_type": "node",
-    "depth": 25,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "amenity": "dive_centre",
-      "name": "\"AQUANAUT\"",
-      "sport": "scuba_diving"
-    }
-  },
-  {
-    "name": "Lamkra",
-    "lat": 45.0804204,
-    "lon": 14.152071,
-    "osm_id": 5749232704,
-    "osm_type": "node",
-    "depth": 25,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "amenity": "dive_centre",
-      "league": "PADI",
-      "name": "Lamkra",
       "sport": "scuba_diving"
     }
   },
@@ -1072,23 +836,6 @@
       "sport": "scuba_diving",
       "wreck:date_sunk": "2018-01-31",
       "wreck:type": "ship"
-    }
-  },
-  {
-    "name": "Aquanaut Diving Centar Murter",
-    "lat": 43.8214438,
-    "lon": 15.5870575,
-    "osm_id": 429918950,
-    "osm_type": "way",
-    "depth": 25,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "amenity": "dive_centre",
-      "building": "yes",
-      "name": "Aquanaut Diving Centar Murter",
-      "sport": "scuba_diving"
     }
   },
   {

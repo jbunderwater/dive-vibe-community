@@ -12,8 +12,7 @@
     "tags": {
       "historic": "monument",
       "name": "MuMart (museo sommerso)",
-      "sport": "scuba_diving",
-      "website": "https://www.golfoaranciturismo.it/arte-e-cultura/il-mumart/"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -48,7 +47,6 @@
       "name": "Cala Mariolu",
       "name:sc": "Ispuligedenie",
       "natural": "beach",
-      "source": "https://www.calamariolu.it",
       "sport": "scuba_diving",
       "surface": "pebblestone"
     }

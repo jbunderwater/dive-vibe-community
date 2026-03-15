@@ -10,7 +10,6 @@
     "entry_type": null,
     "difficulty": null,
     "tags": {
-      "addr:city": "Westpunt",
       "addr:country": "CW",
       "name": "Kleine Knip",
       "name:pap": "Kenepa Chiki",
@@ -28,7 +27,6 @@
     "entry_type": null,
     "difficulty": null,
     "tags": {
-      "addr:city": "Westpunt",
       "addr:country": "CW",
       "name": "Grote Knip",
       "name:pap": "Kenepa Grandi",
@@ -94,7 +92,6 @@
     "difficulty": null,
     "tags": {
       "access": "yes",
-      "addr:city": "Westpunt",
       "addr:country": "CW",
       "name": "Playa Jeremi",
       "sport": "scuba_diving"
@@ -111,7 +108,6 @@
     "entry_type": null,
     "difficulty": null,
     "tags": {
-      "addr:city": "Westpunt",
       "addr:country": "CW",
       "alt_name": "Alice in Wonderland",
       "name": "Playa Kalki",
@@ -135,9 +131,7 @@
       "depth": "30",
       "historic": "wreck",
       "name": "Superior Producer",
-      "note": "1.1 km west of harbor area according to: www.shorediving.com/Earth/ABC/Curacao/Superior_Producer/",
       "seamark:type": "wreck",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving"
     }
   },
@@ -153,10 +147,7 @@
     "difficulty": null,
     "tags": {
       "name": "Snake Bay",
-      "source": "www.dive-links.com",
-      "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=933"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -171,10 +162,7 @@
     "difficulty": null,
     "tags": {
       "name": "Boka Sami",
-      "source": "www.dive-links.com",
-      "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=932"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -192,10 +180,7 @@
       "historic": "aircraft_wreck",
       "name": "Airplane Wreck (Sunset Waters)",
       "seamark:type": "wreck",
-      "source": "www.dive-links.com",
-      "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=968"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -210,10 +195,7 @@
     "difficulty": null,
     "tags": {
       "name": "Playa Manzalina",
-      "source": "www.dive-links.com",
-      "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=923"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -228,8 +210,7 @@
     "difficulty": null,
     "tags": {
       "name": "Rif Sint Marie",
-      "sport": "scuba_diving",
-      "verified": "no, please check and del this tag"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -243,14 +224,10 @@
     "entry_type": null,
     "difficulty": null,
     "tags": {
-      "addr:city": "Sint Willibrordus",
       "addr:country": "CW",
       "name": "Daaibooi Baai",
       "name:en": "Daaibooi Bay",
-      "source": "www.dive-links.com",
-      "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=927"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -265,10 +242,7 @@
     "difficulty": null,
     "tags": {
       "name": "Playa Lagun",
-      "source": "www.dive-links.com",
-      "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=918"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -283,10 +257,7 @@
     "difficulty": null,
     "tags": {
       "name": "Playa Largu",
-      "source": "www.dive-links.com",
-      "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=702"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -301,10 +272,7 @@
     "difficulty": null,
     "tags": {
       "name": "Oswaldo's Drop Off",
-      "source": "www.dive-links.com",
-      "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=941"
+      "sport": "scuba_diving"
     }
   },
   {

@@ -11,10 +11,7 @@
     "difficulty": "Advanced",
     "tags": {
       "name": "Wrack 'Sagona' (Le Grec)",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=1415",
       "wreck:depth": "35m"
     }
   },
@@ -30,10 +27,7 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Wrack 'Prosper Schiaffino' (Alias Donator)",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=1416",
       "wreck:depth": "25m"
     }
   },
@@ -54,10 +48,7 @@
       "name:en": "Wrack 'Tantine'",
       "note": "please check and del this tag",
       "seamark:type": "wreck",
-      "source": "www.dive-links.com",
-      "sport": "scuba_diving",
-      "verified": "no",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=1417"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -74,10 +65,7 @@
       "historic": "wreck",
       "name": "Wildcat",
       "seamark:type": "wreck",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=1418",
       "wreck:type": "aircraft"
     }
   },

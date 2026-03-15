@@ -156,43 +156,6 @@
     }
   },
   {
-    "name": "Plongée Passion",
-    "lat": 14.5037141,
-    "lon": -61.0845636,
-    "osm_id": 2607891500,
-    "osm_type": "node",
-    "depth": null,
-    "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
-    "tags": {
-      "name": "Plongée Passion",
-      "scuba_diving:type:attraction": "yes",
-      "scuba_diving:type:training": "yes",
-      "sport": "scuba_diving",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass"
-    }
-  },
-  {
-    "name": "Club de plongée de Fond Capot",
-    "lat": 14.6760282,
-    "lon": -61.1671626,
-    "osm_id": 4727732525,
-    "osm_type": "node",
-    "depth": null,
-    "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
-    "tags": {
-      "leisure": "sports_centre",
-      "name": "Club de plongée de Fond Capot",
-      "sport": "scuba_diving",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass"
-    }
-  },
-  {
     "name": "Site de Plongée La Perle",
     "lat": 14.8415362,
     "lon": -61.2278178,
@@ -208,23 +171,6 @@
       "source": "osm_extended",
       "sport": "scuba_diving",
       "wikidata": "Q120207110",
-      "addedBy": "extended_overpass"
-    }
-  },
-  {
-    "name": "Alpha Plongée",
-    "lat": 14.5023209,
-    "lon": -61.0840334,
-    "osm_id": 6233002241,
-    "osm_type": "node",
-    "depth": null,
-    "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
-    "tags": {
-      "name": "Alpha Plongée",
-      "sport": "scuba_diving",
-      "source": "osm_extended",
       "addedBy": "extended_overpass"
     }
   },
@@ -259,12 +205,9 @@
     "tags": {
       "access": "yes",
       "historic": "wreck",
-      "image": "https://youtu.be/7L9TAsPUH64",
       "name": "Le Roraima (épave)",
-      "note": "Coulé lors de l’éruption de la Montagne Pelée, en 1902, le navire a sombrer à 60m, le pont à 50 mètres. Retrouvé en 1974 par Michel Météry.\n\nSource : https://www.weareucpa.com/plongee-spots-epaves-incontournables-monde/",
       "seamark:type": "wreck",
       "seamark:wreck:category": "non-dangerous",
-      "website": "https://www.bellemartinique.com/la-martinique/mer-nature/epaves-en-martinique/le-roraima/",
       "wreck:date_sunk": "1902-05-08",
       "wreck:visible_at_high_tide": "no",
       "wreck:visible_at_low_tide": "no",

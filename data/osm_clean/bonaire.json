@@ -66,7 +66,6 @@
     "tags": {
       "name": "Buddy's Reef",
       "sport": "scuba_diving",
-      "website": "https://www.divers-guide.com/en/buddys-reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass"
     }
@@ -166,7 +165,6 @@
       "scuba_diving:divespot": "yes",
       "scuba_diving:entry": "shore",
       "sport": "scuba_diving",
-      "website": "https://www.divers-guide.com/en/dive-spots/corporal-meiss",
       "source": "osm_extended",
       "addedBy": "extended_overpass"
     }
@@ -201,7 +199,6 @@
     "tags": {
       "name": "Andrea II",
       "sport": "scuba_diving",
-      "website": "https://www.divers-guide.com/en/dive-spots/andrea-2",
       "source": "osm_extended",
       "addedBy": "extended_overpass"
     }
@@ -219,7 +216,6 @@
     "tags": {
       "name": "Jeff Davis Memorial",
       "sport": "scuba_diving",
-      "website": "https://www.divers-guide.com/en/jeff-davis-memorial",
       "source": "osm_extended",
       "addedBy": "extended_overpass"
     }
@@ -238,7 +234,6 @@
       "alt_name": "Witches Hut",
       "name": "Weber's Joy",
       "sport": "scuba_diving",
-      "website": "https://www.divers-guide.com/en/dive-spots/webers-joy",
       "source": "osm_extended",
       "addedBy": "extended_overpass"
     }
@@ -257,7 +252,6 @@
       "name": "Willemstoren Lighthouse",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "website": "https://www.shorediving.com/Earth/ABC/BonaireS/Willemstoren_Lighthouse/index.htm",
       "addedBy": "extended_overpass"
     }
   },
@@ -275,7 +269,6 @@
       "name": "Sweet Dreams",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "website": "https://www.shorediving.com/Earth/ABC/BonaireS/Sweet_Dreams/index.htm",
       "addedBy": "extended_overpass"
     }
   },
@@ -293,7 +286,6 @@
       "name": "Vista Blue",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "website": "https://www.shorediving.com/Earth/ABC/BonaireS/Vista_Blue/index.htm",
       "addedBy": "extended_overpass"
     }
   },
@@ -313,7 +305,6 @@
       "seamark:type": "wreck",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "website": "https://www.shorediving.com/Earth/ABC/BonaireS/Red_Slave/index.htm",
       "addedBy": "extended_overpass"
     }
   },
@@ -332,7 +323,6 @@
       "scuba_diving:divespot": "yes",
       "scuba_diving:entry": "shore",
       "sport": "scuba_diving",
-      "website": "https://www.divers-guide.com/en/dive-spots/lighthouse-point",
       "source": "osm_extended",
       "addedBy": "extended_overpass"
     }
@@ -352,7 +342,6 @@
       "scuba_diving:divespot": "yes",
       "scuba_diving:entry": "shore",
       "sport": "scuba_diving",
-      "website": "https://www.divers-guide.com/en/dive-spots/punt-vierkant",
       "source": "osm_extended",
       "addedBy": "extended_overpass"
     }
@@ -371,7 +360,6 @@
       "name": "Margate Bay",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "website": "https://www.shorediving.com/Earth/ABC/BonaireS/Margate_Bay/index.htm",
       "addedBy": "extended_overpass"
     }
   },
@@ -389,7 +377,6 @@
       "name": "Salt Pier",
       "note": "Not allowed to access when there's a ship at the pier",
       "sport": "scuba_diving",
-      "website": "https://www.shorediving.com/Earth/ABC/BonaireS/Salt_Pier/index.htm",
       "source": "osm_extended",
       "addedBy": "extended_overpass"
     }
@@ -407,7 +394,6 @@
     "tags": {
       "name": "Invisibles",
       "sport": "scuba_diving",
-      "website": "https://www.zentacle.com/Beach/1433/the-invisibles",
       "source": "osm_extended",
       "addedBy": "extended_overpass"
     }
@@ -425,7 +411,6 @@
     "tags": {
       "name": "Salt City",
       "sport": "scuba_diving",
-      "website": "https://www.zentacle.com/Beach/1301/salt-city",
       "source": "osm_extended",
       "addedBy": "extended_overpass"
     }
@@ -444,7 +429,6 @@
       "name": "Pink Beach",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "website": "https://www.shorediving.com/Earth/ABC/BonaireS/Pink_Beach/index.htm",
       "addedBy": "extended_overpass"
     }
   },
@@ -461,7 +445,6 @@
     "tags": {
       "name": "Tori's Reef",
       "sport": "scuba_diving",
-      "website": "https://www.zentacle.com/Beach/1457/toris-reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass"
     }
@@ -480,7 +463,6 @@
       "name": "Atlantis",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "website": "https://www.shorediving.com/Earth/ABC/BonaireS/Atlantis/index.htm",
       "addedBy": "extended_overpass"
     }
   },
@@ -498,7 +480,6 @@
       "name": "Red Beryl",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "website": "https://www.shorediving.com/Earth/ABC/BonaireS/Red_Beryl/index.htm",
       "addedBy": "extended_overpass"
     }
   },
@@ -517,7 +498,6 @@
       "scuba_diving:divespot": "yes",
       "scuba_diving:entry": "shore",
       "sport": "scuba_diving",
-      "website": "https://www.divers-guide.com/en/dive-spots/white-slave",
       "source": "osm_extended",
       "addedBy": "extended_overpass"
     }
@@ -535,7 +515,6 @@
     "tags": {
       "name": "Aquarius",
       "sport": "scuba_diving",
-      "website": "https://www.divers-guide.com/en/dive-spots/aquarius",
       "source": "osm_extended",
       "addedBy": "extended_overpass"
     }
@@ -553,7 +532,6 @@
     "tags": {
       "name": "Larry's Lair",
       "sport": "scuba_diving",
-      "website": "https://www.divers-guide.com/en/dive-spots/larrys-lair",
       "source": "osm_extended",
       "addedBy": "extended_overpass"
     }
@@ -572,7 +550,6 @@
       "name": "White Hole",
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
-      "website": "https://www.divers-guide.com/en/white-hole",
       "source": "osm_extended",
       "addedBy": "extended_overpass"
     }
@@ -590,7 +567,6 @@
     "tags": {
       "name": "Jeannie's Glory",
       "sport": "scuba_diving",
-      "website": "https://www.divers-guide.com/en/dive-spots/jeannies-glory",
       "source": "osm_extended",
       "addedBy": "extended_overpass"
     }
@@ -609,7 +585,6 @@
       "name": "Bachelor's Beach",
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
-      "website": "https://www.divers-guide.com/en/dive-spots/bachelors-beach",
       "source": "osm_extended",
       "addedBy": "extended_overpass"
     }
@@ -627,7 +602,6 @@
     "tags": {
       "name": "Angel City",
       "sport": "scuba_diving",
-      "website": "https://www.divers-guide.com/en/angel-city",
       "source": "osm_extended",
       "addedBy": "extended_overpass"
     }
@@ -646,7 +620,6 @@
       "name": "Cai",
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
-      "website": "https://www.divers-guide.com/en/dive-spots/cai",
       "source": "osm_extended",
       "addedBy": "extended_overpass"
     }
@@ -664,7 +637,6 @@
     "tags": {
       "name": "The Lake",
       "sport": "scuba_diving",
-      "website": "https://www.divers-guide.com/en/the-lake",
       "source": "osm_extended",
       "addedBy": "extended_overpass"
     }
@@ -682,7 +654,6 @@
     "tags": {
       "name": "Boka Slagbaai",
       "sport": "scuba_diving",
-      "website": "https://www.divers-guide.com/en/dive-spots/boka-slagbaai",
       "source": "osm_extended",
       "addedBy": "extended_overpass"
     }
@@ -701,7 +672,6 @@
       "name": "Playa Benge",
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
-      "website": "https://www.divers-guide.com/en/dive-spots/playa-benge",
       "source": "osm_extended",
       "addedBy": "extended_overpass"
     }
@@ -719,7 +689,6 @@
     "tags": {
       "name": "Playa Funchi",
       "sport": "scuba_diving",
-      "website": "https://www.divers-guide.com/en/dive-spots/playa-funchi",
       "source": "osm_extended",
       "addedBy": "extended_overpass"
     }
@@ -740,7 +709,6 @@
       "scuba_diving:divespot": "yes",
       "scuba_diving:entry": "shore",
       "sport": "scuba_diving",
-      "website": "https://www.divers-guide.com/en/dive-spots/nukove-doblet",
       "source": "osm_extended",
       "addedBy": "extended_overpass"
     }
@@ -761,7 +729,6 @@
       "scuba_diving:divespot": "yes",
       "scuba_diving:entry": "shore",
       "sport": "scuba_diving",
-      "website": "https://www.divers-guide.com/en/dive-spots/calabas-reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass"
     }
@@ -798,7 +765,6 @@
     "tags": {
       "name": "Andrea I",
       "sport": "scuba_diving",
-      "website": "https://www.divers-guide.com/en/andrea-1",
       "source": "osm_extended",
       "addedBy": "extended_overpass"
     }
@@ -818,7 +784,6 @@
       "name": "Boka di Tolo",
       "short_name": "Tolo",
       "sport": "scuba_diving",
-      "website": "https://www.divers-guide.com/en/dive-spots/tolo",
       "source": "osm_extended",
       "addedBy": "extended_overpass"
     }
@@ -836,7 +801,6 @@
     "tags": {
       "name": "Windsock",
       "sport": "scuba_diving",
-      "website": "https://www.divers-guide.com/en/dive-spots/windsock",
       "source": "osm_extended",
       "addedBy": "extended_overpass"
     }
@@ -854,7 +818,6 @@
     "tags": {
       "name": "Cliff",
       "sport": "scuba_diving",
-      "website": "https://www.divers-guide.com/en/cliff",
       "source": "osm_extended",
       "addedBy": "extended_overpass"
     }
@@ -872,7 +835,6 @@
     "tags": {
       "name": "Karpata",
       "sport": "scuba_diving",
-      "website": "https://www.divers-guide.com/en/dive-spots/karpata",
       "source": "osm_extended",
       "addedBy": "extended_overpass"
     }
@@ -891,7 +853,6 @@
       "name": "La Denia's Leap",
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
-      "website": "https://www.divers-guide.com/en/la-danias-leap",
       "source": "osm_extended",
       "addedBy": "extended_overpass"
     }
@@ -909,7 +870,6 @@
     "tags": {
       "name": "Boka Bartol",
       "sport": "scuba_diving",
-      "website": "https://www.divers-guide.com/en/boka-bartol",
       "source": "osm_extended",
       "addedBy": "extended_overpass"
     }
@@ -927,7 +887,6 @@
     "tags": {
       "name": "18th Palm",
       "sport": "scuba_diving",
-      "website": "https://www.shorediving.com/Earth/ABC/BonaireS/18_Palm/index.htm",
       "source": "osm_extended",
       "addedBy": "extended_overpass"
     }
@@ -1013,7 +972,6 @@
     "tags": {
       "name": "Windjammer",
       "sport": "scuba_diving",
-      "website": "https://www.divers-guide.com/en/windjammer",
       "source": "osm_extended",
       "addedBy": "extended_overpass"
     }
@@ -1032,7 +990,6 @@
       "name": "Chachacha Beach",
       "natural": "beach",
       "sport": "scuba_diving",
-      "website": "https://www.divers-guide.com/en/dive-spots/chachacha",
       "source": "osm_extended",
       "addedBy": "extended_overpass"
     }

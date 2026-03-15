@@ -29,21 +29,5 @@
       "name": "The Cortez Club",
       "sport": "scuba_diving"
     }
-  },
-  {
-    "name": "Cabo Pulmo Divers",
-    "lat": 23.4361148,
-    "lon": -109.427896,
-    "osm_id": 441260249,
-    "osm_type": "way",
-    "depth": null,
-    "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
-    "tags": {
-      "building": "yes",
-      "name": "Cabo Pulmo Divers",
-      "sport": "scuba_diving"
-    }
   }
 ]

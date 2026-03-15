@@ -59,8 +59,7 @@
     "difficulty": null,
     "tags": {
       "name": "Buddy's Reef",
-      "sport": "scuba_diving",
-      "website": "https://www.divers-guide.com/en/buddys-reef"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -149,8 +148,7 @@
       "name": "Corporal Meiss",
       "scuba_diving:divespot": "yes",
       "scuba_diving:entry": "shore",
-      "sport": "scuba_diving",
-      "website": "https://www.divers-guide.com/en/dive-spots/corporal-meiss"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -180,8 +178,7 @@
     "difficulty": null,
     "tags": {
       "name": "Andrea II",
-      "sport": "scuba_diving",
-      "website": "https://www.divers-guide.com/en/dive-spots/andrea-2"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -196,8 +193,7 @@
     "difficulty": null,
     "tags": {
       "name": "Jeff Davis Memorial",
-      "sport": "scuba_diving",
-      "website": "https://www.divers-guide.com/en/jeff-davis-memorial"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -213,8 +209,7 @@
     "tags": {
       "alt_name": "Witches Hut",
       "name": "Weber's Joy",
-      "sport": "scuba_diving",
-      "website": "https://www.divers-guide.com/en/dive-spots/webers-joy"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -244,9 +239,7 @@
     "difficulty": null,
     "tags": {
       "name": "Willemstoren Lighthouse",
-      "source": "http://www.dive-links.com/tauchplatz.php?id=367",
-      "sport": "scuba_diving",
-      "website": "https://www.shorediving.com/Earth/ABC/BonaireS/Willemstoren_Lighthouse/index.htm"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -261,9 +254,7 @@
     "difficulty": null,
     "tags": {
       "name": "Sweet Dreams",
-      "source": "http://www.dive-links.com/tauchplatz.php?id=391",
-      "sport": "scuba_diving",
-      "website": "https://www.shorediving.com/Earth/ABC/BonaireS/Sweet_Dreams/index.htm"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -278,9 +269,7 @@
     "difficulty": null,
     "tags": {
       "name": "Vista Blue",
-      "source": "http://www.dive-links.com/tauchplatz.php?id=390",
-      "sport": "scuba_diving",
-      "website": "https://www.shorediving.com/Earth/ABC/BonaireS/Vista_Blue/index.htm"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -297,9 +286,7 @@
       "historic": "wreck",
       "name": "Red Slave",
       "seamark:type": "wreck",
-      "source": "http://www.dive-links.com/tauchplatz.php?id=372",
-      "sport": "scuba_diving",
-      "website": "https://www.shorediving.com/Earth/ABC/BonaireS/Red_Slave/index.htm"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -316,8 +303,7 @@
       "name": "Lighthouse Point",
       "scuba_diving:divespot": "yes",
       "scuba_diving:entry": "shore",
-      "sport": "scuba_diving",
-      "website": "https://www.divers-guide.com/en/dive-spots/lighthouse-point"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -334,8 +320,7 @@
       "name": "Punt Vierkant",
       "scuba_diving:divespot": "yes",
       "scuba_diving:entry": "shore",
-      "sport": "scuba_diving",
-      "website": "https://www.divers-guide.com/en/dive-spots/punt-vierkant"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -350,9 +335,7 @@
     "difficulty": null,
     "tags": {
       "name": "Margate Bay",
-      "source": "http://www.dive-links.com/tauchplatz.php?id=360",
-      "sport": "scuba_diving",
-      "website": "https://www.shorediving.com/Earth/ABC/BonaireS/Margate_Bay/index.htm"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -368,8 +351,7 @@
     "tags": {
       "name": "Salt Pier",
       "note": "Not allowed to access when there's a ship at the pier",
-      "sport": "scuba_diving",
-      "website": "https://www.shorediving.com/Earth/ABC/BonaireS/Salt_Pier/index.htm"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -384,8 +366,7 @@
     "difficulty": null,
     "tags": {
       "name": "Invisibles",
-      "sport": "scuba_diving",
-      "website": "https://www.zentacle.com/Beach/1433/the-invisibles"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -400,8 +381,7 @@
     "difficulty": null,
     "tags": {
       "name": "Salt City",
-      "sport": "scuba_diving",
-      "website": "https://www.zentacle.com/Beach/1301/salt-city"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -416,9 +396,7 @@
     "difficulty": null,
     "tags": {
       "name": "Pink Beach",
-      "source": "http://www.dive-links.com/tauchplatz.php?id=359",
-      "sport": "scuba_diving",
-      "website": "https://www.shorediving.com/Earth/ABC/BonaireS/Pink_Beach/index.htm"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -433,8 +411,7 @@
     "difficulty": null,
     "tags": {
       "name": "Tori's Reef",
-      "sport": "scuba_diving",
-      "website": "https://www.zentacle.com/Beach/1457/toris-reef"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -449,9 +426,7 @@
     "difficulty": null,
     "tags": {
       "name": "Atlantis",
-      "source": "http://www.dive-links.com/tauchplatz.php?id=389",
-      "sport": "scuba_diving",
-      "website": "https://www.shorediving.com/Earth/ABC/BonaireS/Atlantis/index.htm"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -466,9 +441,7 @@
     "difficulty": null,
     "tags": {
       "name": "Red Beryl",
-      "source": "http://www.dive-links.com/tauchplatz.php?id=388",
-      "sport": "scuba_diving",
-      "website": "https://www.shorediving.com/Earth/ABC/BonaireS/Red_Beryl/index.htm"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -485,8 +458,7 @@
       "name": "White Slave",
       "scuba_diving:divespot": "yes",
       "scuba_diving:entry": "shore",
-      "sport": "scuba_diving",
-      "website": "https://www.divers-guide.com/en/dive-spots/white-slave"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -501,8 +473,7 @@
     "difficulty": null,
     "tags": {
       "name": "Aquarius",
-      "sport": "scuba_diving",
-      "website": "https://www.divers-guide.com/en/dive-spots/aquarius"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -517,8 +488,7 @@
     "difficulty": null,
     "tags": {
       "name": "Larry's Lair",
-      "sport": "scuba_diving",
-      "website": "https://www.divers-guide.com/en/dive-spots/larrys-lair"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -534,8 +504,7 @@
     "tags": {
       "name": "White Hole",
       "scuba_diving:divespot": "yes",
-      "sport": "scuba_diving",
-      "website": "https://www.divers-guide.com/en/white-hole"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -550,8 +519,7 @@
     "difficulty": null,
     "tags": {
       "name": "Jeannie's Glory",
-      "sport": "scuba_diving",
-      "website": "https://www.divers-guide.com/en/dive-spots/jeannies-glory"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -567,8 +535,7 @@
     "tags": {
       "name": "Bachelor's Beach",
       "scuba_diving:divespot": "yes",
-      "sport": "scuba_diving",
-      "website": "https://www.divers-guide.com/en/dive-spots/bachelors-beach"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -583,8 +550,7 @@
     "difficulty": null,
     "tags": {
       "name": "Angel City",
-      "sport": "scuba_diving",
-      "website": "https://www.divers-guide.com/en/angel-city"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -600,8 +566,7 @@
     "tags": {
       "name": "Cai",
       "scuba_diving:divespot": "yes",
-      "sport": "scuba_diving",
-      "website": "https://www.divers-guide.com/en/dive-spots/cai"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -616,8 +581,7 @@
     "difficulty": null,
     "tags": {
       "name": "The Lake",
-      "sport": "scuba_diving",
-      "website": "https://www.divers-guide.com/en/the-lake"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -632,8 +596,7 @@
     "difficulty": null,
     "tags": {
       "name": "Boka Slagbaai",
-      "sport": "scuba_diving",
-      "website": "https://www.divers-guide.com/en/dive-spots/boka-slagbaai"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -649,8 +612,7 @@
     "tags": {
       "name": "Playa Benge",
       "scuba_diving:divespot": "yes",
-      "sport": "scuba_diving",
-      "website": "https://www.divers-guide.com/en/dive-spots/playa-benge"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -665,8 +627,7 @@
     "difficulty": null,
     "tags": {
       "name": "Playa Funchi",
-      "sport": "scuba_diving",
-      "website": "https://www.divers-guide.com/en/dive-spots/playa-funchi"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -684,8 +645,7 @@
       "name": "Nukove",
       "scuba_diving:divespot": "yes",
       "scuba_diving:entry": "shore",
-      "sport": "scuba_diving",
-      "website": "https://www.divers-guide.com/en/dive-spots/nukove-doblet"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -703,8 +663,7 @@
       "natural": "reef",
       "scuba_diving:divespot": "yes",
       "scuba_diving:entry": "shore",
-      "sport": "scuba_diving",
-      "website": "https://www.divers-guide.com/en/dive-spots/calabas-reef"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -721,7 +680,6 @@
       "name": "Oil Slick Leap",
       "scuba_diving:divespot": "yes",
       "scuba_diving:entry": "ladder",
-      "source": "https://www.divers-guide.com/en/oil-slick-leap",
       "sport": "scuba_diving"
     }
   },
@@ -737,8 +695,7 @@
     "difficulty": null,
     "tags": {
       "name": "Andrea I",
-      "sport": "scuba_diving",
-      "website": "https://www.divers-guide.com/en/andrea-1"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -755,8 +712,7 @@
       "alt_name": "Ol' Blue",
       "name": "Boka di Tolo",
       "short_name": "Tolo",
-      "sport": "scuba_diving",
-      "website": "https://www.divers-guide.com/en/dive-spots/tolo"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -771,8 +727,7 @@
     "difficulty": null,
     "tags": {
       "name": "Windsock",
-      "sport": "scuba_diving",
-      "website": "https://www.divers-guide.com/en/dive-spots/windsock"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -787,8 +742,7 @@
     "difficulty": null,
     "tags": {
       "name": "Cliff",
-      "sport": "scuba_diving",
-      "website": "https://www.divers-guide.com/en/cliff"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -804,8 +758,7 @@
     "tags": {
       "name": "Reef Scientifico",
       "scuba_diving:divespot": "yes",
-      "sport": "scuba_diving",
-      "website": "https://www.divers-guide.com/en/dive-spots/reef-scientifico"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -820,8 +773,7 @@
     "difficulty": null,
     "tags": {
       "name": "Karpata",
-      "sport": "scuba_diving",
-      "website": "https://www.divers-guide.com/en/dive-spots/karpata"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -837,8 +789,7 @@
     "tags": {
       "name": "La Denia's Leap",
       "scuba_diving:divespot": "yes",
-      "sport": "scuba_diving",
-      "website": "https://www.divers-guide.com/en/la-danias-leap"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -853,8 +804,7 @@
     "difficulty": null,
     "tags": {
       "name": "Boka Bartol",
-      "sport": "scuba_diving",
-      "website": "https://www.divers-guide.com/en/boka-bartol"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -869,8 +819,7 @@
     "difficulty": null,
     "tags": {
       "name": "18th Palm",
-      "sport": "scuba_diving",
-      "website": "https://www.shorediving.com/Earth/ABC/BonaireS/18_Palm/index.htm"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -945,8 +894,7 @@
     "difficulty": null,
     "tags": {
       "name": "Windjammer",
-      "sport": "scuba_diving",
-      "website": "https://www.divers-guide.com/en/windjammer"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -962,8 +910,7 @@
     "tags": {
       "name": "Chachacha Beach",
       "natural": "beach",
-      "sport": "scuba_diving",
-      "website": "https://www.divers-guide.com/en/dive-spots/chachacha"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -978,7 +925,6 @@
     "difficulty": null,
     "tags": {
       "name": "Bisé Morto",
-      "source": "http://www.tourismbonaire.com/includes/bonaire-dive-sites.pdf",
       "sport": "scuba_diving"
     }
   },

@@ -77,10 +77,7 @@
       "historic": "wreck",
       "name": "SMS König",
       "seamark:type": "wreck",
-      "source": "www.dive-links.com",
-      "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=1864"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -97,10 +94,7 @@
       "historic": "wreck",
       "name": "SMS Markgraf",
       "seamark:type": "wreck",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=1866",
       "wikidata": "Q481485",
       "wikipedia": "en:SMS Markgraf"
     }
@@ -119,10 +113,7 @@
       "historic": "wreck",
       "name": "SMS Brummer",
       "seamark:type": "wreck",
-      "source": "www.dive-links.com",
-      "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=1865"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -139,10 +130,7 @@
       "historic": "wreck",
       "name": "SMS Dresden",
       "seamark:type": "wreck",
-      "source": "www.dive-links.com",
-      "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=1867"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -160,10 +148,7 @@
       "name": "SMS Cöln",
       "scuba_diving:divespot": "wreck",
       "seamark:type": "wreck",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=1862",
       "wikidata": "Q155159",
       "wikipedia": "en:SMS Cöln (1916)"
     }
@@ -183,10 +168,7 @@
       "name": "SMS Kronprinz Wilhelm",
       "scuba_diving:divespot": "wreck",
       "seamark:type": "wreck",
-      "source": "www.dive-links.com",
       "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=1863",
       "wikidata": "Q470400",
       "wikipedia": "en:SMS Kronprinz"
     }

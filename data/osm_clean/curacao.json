@@ -10,7 +10,6 @@
     "entry_type": null,
     "difficulty": null,
     "tags": {
-      "addr:city": "Westpunt",
       "addr:country": "CW",
       "name": "Kleine Knip",
       "name:pap": "Kenepa Chiki",
@@ -30,7 +29,6 @@
     "entry_type": null,
     "difficulty": null,
     "tags": {
-      "addr:city": "Westpunt",
       "addr:country": "CW",
       "name": "Grote Knip",
       "name:pap": "Kenepa Grandi",
@@ -104,7 +102,6 @@
     "difficulty": null,
     "tags": {
       "access": "yes",
-      "addr:city": "Westpunt",
       "addr:country": "CW",
       "name": "Playa Jeremi",
       "sport": "scuba_diving",
@@ -123,7 +120,6 @@
     "entry_type": null,
     "difficulty": null,
     "tags": {
-      "addr:city": "Westpunt",
       "addr:country": "CW",
       "alt_name": "Alice in Wonderland",
       "name": "Playa Kalki",
@@ -149,7 +145,6 @@
       "depth": "30",
       "historic": "wreck",
       "name": "Superior Producer",
-      "note": "1.1 km west of harbor area according to: www.shorediving.com/Earth/ABC/Curacao/Superior_Producer/",
       "seamark:type": "wreck",
       "source": "osm_extended",
       "sport": "scuba_diving",
@@ -170,8 +165,6 @@
       "name": "Snake Bay",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=933",
       "addedBy": "extended_overpass"
     }
   },
@@ -189,8 +182,6 @@
       "name": "Boka Sami",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=932",
       "addedBy": "extended_overpass"
     }
   },
@@ -211,8 +202,6 @@
       "seamark:type": "wreck",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=968",
       "addedBy": "extended_overpass"
     }
   },
@@ -230,8 +219,6 @@
       "name": "Playa Manzalina",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=923",
       "addedBy": "extended_overpass"
     }
   },
@@ -248,7 +235,6 @@
     "tags": {
       "name": "Rif Sint Marie",
       "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
       "source": "osm_extended",
       "addedBy": "extended_overpass"
     }
@@ -264,14 +250,11 @@
     "entry_type": null,
     "difficulty": null,
     "tags": {
-      "addr:city": "Sint Willibrordus",
       "addr:country": "CW",
       "name": "Daaibooi Baai",
       "name:en": "Daaibooi Bay",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=927",
       "addedBy": "extended_overpass"
     }
   },
@@ -289,8 +272,6 @@
       "name": "Playa Lagun",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=918",
       "addedBy": "extended_overpass"
     }
   },
@@ -308,8 +289,6 @@
       "name": "Playa Largu",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=702",
       "addedBy": "extended_overpass"
     }
   },
@@ -327,8 +306,6 @@
       "name": "Oswaldo's Drop Off",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=941",
       "addedBy": "extended_overpass"
     }
   },

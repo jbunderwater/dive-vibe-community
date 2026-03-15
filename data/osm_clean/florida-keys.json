@@ -15,7 +15,6 @@
       "old_name": "USS General Harry Taylor",
       "seamark:type": "wreck",
       "sport": "scuba_diving",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=2904",
       "wikidata": "Q2468048",
       "wikipedia": "en:USNS General Hoyt S. Vandenberg (T-AGM-10)",
       "wreck:date_sunk": "2009-05-27"
@@ -35,10 +34,7 @@
       "historic": "wreck",
       "name": "Spiegel Grove",
       "seamark:type": "wreck",
-      "source": "www.dive-links.com",
-      "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=658"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -86,7 +82,6 @@
     "tags": {
       "heritage": "2",
       "heritage:operator": "nrhp",
-      "heritage:website": "https://www.nps.gov/subjects/nationalregister/index.htm",
       "historic": "maritime",
       "name": "USCGC Duane (Wreck)",
       "name:es": "Pecio del guardacostas Duane",
@@ -95,8 +90,6 @@
       "protection_title": "Florida Keys National Marine Sanctuary",
       "ref:nrhp": "02000494",
       "seamark:type": "wreck",
-      "source_ref": "https://catalog.archives.gov/id/77843312",
-      "website": "https://floridakeys.noaa.gov/shipwrecktrail/duane.html",
       "source": "osm_extended",
       "addedBy": "extended_overpass"
     }
@@ -134,7 +127,6 @@
       "historic": "wreck",
       "name": "USS Alligator Shipwreck",
       "seamark:type": "wreck",
-      "website": "https://www.nps.gov/articles/ussalligator.htm",
       "wikidata": "Q7867228",
       "wikipedia": "en:USS_Alligator_(1820)",
       "source": "osm_extended",
@@ -249,7 +241,6 @@
       "historic": "wreck",
       "loc_name": "Alexander's wreck",
       "name": "USS Amesbury (bow)",
-      "note": "https://floridakeys.noaa.gov/30th/maritime-heritage.html\nThis is the bow section of the ship, the stern is in deeper water",
       "seamark:type": "wreck",
       "seamark:wreck:category": "hull_showing",
       "wikidata": "Q11675753",

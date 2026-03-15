@@ -13,10 +13,7 @@
       "historic": "wreck",
       "name": "Paposse (Wrack)",
       "seamark:type": "wreck",
-      "source": "www.dive-links.com",
-      "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=659"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -33,10 +30,7 @@
       "historic": "wreck",
       "name": "Bedfordshire (Wrack)",
       "seamark:type": "wreck",
-      "source": "www.dive-links.com",
-      "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=1306"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -53,10 +47,7 @@
       "historic": "wreck",
       "name": "U-576 (Wrack)",
       "seamark:type": "wreck",
-      "source": "www.dive-links.com",
-      "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=1301"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -73,10 +64,7 @@
       "historic": "wreck",
       "name": "U-85 (Wrack)",
       "seamark:type": "wreck",
-      "source": "www.dive-links.com",
-      "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=1302"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -93,10 +81,7 @@
       "historic": "wreck",
       "name": "U-352 (Wrack)",
       "seamark:type": "wreck",
-      "source": "www.dive-links.com",
-      "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=1303"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -113,10 +98,7 @@
       "historic": "wreck",
       "name": "Indra (Wrack)",
       "seamark:type": "wreck",
-      "source": "www.dive-links.com",
-      "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=1304"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -133,10 +115,7 @@
       "historic": "wreck",
       "name": "Aeolus (Wrack)",
       "seamark:type": "wreck",
-      "source": "www.dive-links.com",
-      "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
-      "website": "http://www.dive-links.com/tauchplatz.php?id=1305"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -210,17 +189,13 @@
     "tags": {
       "heritage": "2",
       "heritage:operator": "nrhp",
-      "heritage:website": "https://www.nps.gov/subjects/nationalregister/index.htm",
       "historic": "maritime",
-      "image": "https://nmsmonitor.blob.core.windows.net/monitor-prod/media/img/20190706-bedfordshire-siteplan-1000.jpg",
       "name": "HMT Bedfordshire",
       "nrhp:criteria": "A, D",
       "nrhp:inscription_date": "2015-07-31",
       "protection_title": "National Oceanic and Atmosspheric Administration",
       "ref:nrhp": "15000421",
       "seamark:type": "wreck",
-      "source_ref": "https://nmsmonitor.blob.core.windows.net/monitor-prod/media/archive/shipwrecks/bedfordshire_nrn.pdf",
-      "website": "https://monitor.noaa.gov/shipwrecks/bedfordshire.html",
       "wreck:date_sunk": "1942-05-12"
     }
   },
@@ -239,7 +214,6 @@
       "historic": "wreck",
       "name": "SS Richmond Shipwreck",
       "seamark:type": "wreck",
-      "website": "http://www.divehatteras.com/beach%20wrecks.html",
       "wreck:visible_at_high_tide": "yes",
       "wreck:visible_at_low_tide": "yes"
     }

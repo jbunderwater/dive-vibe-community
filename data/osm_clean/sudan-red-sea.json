@@ -13,8 +13,7 @@
       "historic": "wreck",
       "name": "Blue Belt",
       "seamark:type": "wreck",
-      "sport": "scuba_diving",
-      "verified": "no, please check and del this tag"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -32,9 +31,7 @@
       "historic": "wreck",
       "name": "Umbria",
       "seamark:type": "wreck",
-      "source": "https://en.wikipedia.org/wiki/SS_Umbria",
       "sport": "scuba_diving",
-      "verified": "no, please check and del this tag",
       "wikipedia": "en:SS Umbria",
       "wreck:date_sunk": "9 June 1940",
       "wreck:visible_at_high_tide": "no",
@@ -389,7 +386,6 @@
       "name": "Levanzo",
       "seamark:type": "wreck",
       "sport": "scuba_diving",
-      "verified": "yes",
       "wreck:date_sunk": "1923-03-14",
       "wreck:visible_at_high_tide": "no",
       "wreck:visible_at_low_tide": "no"
