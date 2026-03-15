@@ -6,14 +6,16 @@
     "osm_id": 3480272729,
     "osm_type": "node",
     "depth": null,
-    "site_type": "reef",
-    "entry_type": null,
-    "difficulty": "Intermediate",
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Edge of the World",
       "sport": "scuba_diving",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -23,14 +25,16 @@
     "osm_id": 3480272730,
     "osm_type": "node",
     "depth": null,
-    "site_type": "reef",
-    "entry_type": null,
-    "difficulty": "Intermediate",
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Enenue",
       "sport": "scuba_diving",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -40,14 +44,16 @@
     "osm_id": 3480272731,
     "osm_type": "node",
     "depth": null,
-    "site_type": "reef",
-    "entry_type": null,
-    "difficulty": "Intermediate",
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Flying Sea Cliffs",
       "sport": "scuba_diving",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -58,13 +64,15 @@
     "osm_type": "node",
     "depth": null,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Middle Reef",
       "sport": "scuba_diving",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -75,13 +83,15 @@
     "osm_type": "node",
     "depth": null,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Reef's End",
       "sport": "scuba_diving",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -91,14 +101,16 @@
     "osm_id": 3480273166,
     "osm_type": "node",
     "depth": null,
-    "site_type": "reef",
-    "entry_type": null,
-    "difficulty": "Intermediate",
+    "site_type": "cave",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Shark Condos",
       "sport": "scuba_diving",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -109,13 +121,15 @@
     "osm_type": "node",
     "depth": null,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Tako Flats",
       "sport": "scuba_diving",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -125,14 +139,16 @@
     "osm_id": 3480273168,
     "osm_type": "node",
     "depth": null,
-    "site_type": "reef",
-    "entry_type": null,
-    "difficulty": "Intermediate",
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "name": "The Back Side",
       "sport": "scuba_diving",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   }
 ]
