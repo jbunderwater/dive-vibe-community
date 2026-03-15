@@ -82,12 +82,13 @@
     "lat": 7.21,
     "lon": -81.8,
     "depth": 30,
-    "site_type": "reef",
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": "true"
     }
   },
   {
@@ -104,16 +105,17 @@
     }
   },
   {
-    "name": "Montaña Rusa",
+    "name": "Monta\u00f1a Rusa",
     "lat": 7.45,
     "lon": -81.82,
     "depth": 22,
-    "site_type": "reef",
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": "true"
     }
   },
   {
@@ -121,12 +123,13 @@
     "lat": 7.53,
     "lon": -81.73,
     "depth": 30,
-    "site_type": "reef",
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": "true"
     }
   }
 ]

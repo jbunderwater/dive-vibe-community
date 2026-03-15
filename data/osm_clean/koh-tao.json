@@ -1,6 +1,6 @@
 [
   {
-    "name": "อ่าวลึก",
+    "name": "\u0e2d\u0e48\u0e32\u0e27\u0e25\u0e36\u0e01",
     "lat": 10.0710681,
     "lon": 99.8410882,
     "osm_id": 859428681,
@@ -11,7 +11,7 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
-      "name": "อ่าวลึก",
+      "name": "\u0e2d\u0e48\u0e32\u0e27\u0e25\u0e36\u0e01",
       "name:en": "Ao Luek",
       "natural": "bay",
       "scuba_diving:entry": "boat:shore",
@@ -67,7 +67,7 @@
     }
   },
   {
-    "name": "อ่าวโตนด",
+    "name": "\u0e2d\u0e48\u0e32\u0e27\u0e42\u0e15\u0e19\u0e14",
     "lat": 10.0833646,
     "lon": 99.8498136,
     "osm_id": 859428879,
@@ -78,7 +78,7 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
-      "name": "อ่าวโตนด",
+      "name": "\u0e2d\u0e48\u0e32\u0e27\u0e42\u0e15\u0e19\u0e14",
       "name:en": "Ao Tanot",
       "natural": "bay",
       "scuba_diving:difficulty": "1",
@@ -162,7 +162,7 @@
     "osm_id": 865081862,
     "osm_type": "node",
     "depth": 35,
-    "site_type": "wall",
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
@@ -173,7 +173,8 @@
       "scuba_diving:entry": "boat",
       "scuba_diving:maxdepth": "35",
       "sport": "scuba_diving",
-      "type": "reef"
+      "type": "reef",
+      "validated": "true"
     }
   },
   {
@@ -192,7 +193,7 @@
     }
   },
   {
-    "name": "อ่าวหินงาม",
+    "name": "\u0e2d\u0e48\u0e32\u0e27\u0e2b\u0e34\u0e19\u0e07\u0e32\u0e21",
     "lat": 10.0676822,
     "lon": 99.8411029,
     "osm_id": 3582426697,
@@ -203,7 +204,7 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
-      "name": "อ่าวหินงาม",
+      "name": "\u0e2d\u0e48\u0e32\u0e27\u0e2b\u0e34\u0e19\u0e07\u0e32\u0e21",
       "name:en": "Ao Hin Ngam",
       "natural": "bay",
       "scuba_diving:maxdepth": "18",
@@ -221,7 +222,7 @@
     "osm_type": "node",
     "depth": 16,
     "minDepth": 5,
-    "site_type": "wall",
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
@@ -231,11 +232,12 @@
       "scuba_diving:maxdepth": "16",
       "scuba_diving:mindepth": "5",
       "scuba_diving:type": "reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true"
     }
   },
   {
-    "name": "อ่าวม่วง",
+    "name": "\u0e2d\u0e48\u0e32\u0e27\u0e21\u0e48\u0e27\u0e07",
     "lat": 10.1229226,
     "lon": 99.8350543,
     "osm_id": 3582426705,
@@ -247,7 +249,7 @@
     "difficulty": "Intermediate",
     "tags": {
       "alt_name:en": "Mango Bay",
-      "name": "อ่าวม่วง",
+      "name": "\u0e2d\u0e48\u0e32\u0e27\u0e21\u0e48\u0e27\u0e07",
       "name:en": "Mango Bay",
       "natural": "bay",
       "scuba_diving:difficulty": "1",

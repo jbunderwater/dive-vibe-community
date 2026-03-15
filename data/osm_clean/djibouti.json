@@ -1,6 +1,6 @@
 [
   {
-    "name": "Îles Moucha الجزر موشا",
+    "name": "\u00celes Moucha \u0627\u0644\u062c\u0632\u0631 \u0645\u0648\u0634\u0627",
     "lat": 11.7191937,
     "lon": 43.1718877,
     "osm_id": 316800294,
@@ -10,17 +10,17 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
-      "name": "Îles Moucha الجزر موشا",
-      "name:ar": "الجزر موشا",
+      "name": "\u00celes Moucha \u0627\u0644\u062c\u0632\u0631 \u0645\u0648\u0634\u0627",
+      "name:ar": "\u0627\u0644\u062c\u0632\u0631 \u0645\u0648\u0634\u0627",
       "name:en": "Moucha Islands",
-      "name:fr": "Îles Moucha",
+      "name:fr": "\u00celes Moucha",
       "name:hu": "Moucha-szigetek",
       "place": "archipelago",
       "sport": "scuba_diving"
     }
   },
   {
-    "name": "Île Maskali جزيرة ماسكالي",
+    "name": "\u00cele Maskali \u062c\u0632\u064a\u0631\u0629 \u0645\u0627\u0633\u0643\u0627\u0644\u064a",
     "lat": 11.7139115,
     "lon": 43.1570783,
     "osm_id": 234743094,
@@ -32,10 +32,10 @@
     "tags": {
       "admin_level": "4",
       "boundary": "administrative",
-      "name": "Île Maskali جزيرة ماسكالي",
-      "name:ar": "جزيرة ماسكالي",
+      "name": "\u00cele Maskali \u062c\u0632\u064a\u0631\u0629 \u0645\u0627\u0633\u0643\u0627\u0644\u064a",
+      "name:ar": "\u062c\u0632\u064a\u0631\u0629 \u0645\u0627\u0633\u0643\u0627\u0644\u064a",
       "name:en": "Maskali Island",
-      "name:fr": "Île Maskali",
+      "name:fr": "\u00cele Maskali",
       "name:hu": "Maskali Island",
       "natural": "coastline",
       "place": "islet",
@@ -44,7 +44,7 @@
     }
   },
   {
-    "name": "Île Moucha جزيرة موشا",
+    "name": "\u00cele Moucha \u062c\u0632\u064a\u0631\u0629 \u0645\u0648\u0634\u0627",
     "lat": 11.7209561,
     "lon": 43.195043,
     "osm_id": 11092421,
@@ -55,12 +55,12 @@
     "difficulty": "Intermediate",
     "tags": {
       "is_in:country": "Djibouti",
-      "name": "Île Moucha جزيرة موشا",
-      "name:ar": "جزيرة موشا",
+      "name": "\u00cele Moucha \u062c\u0632\u064a\u0631\u0629 \u0645\u0648\u0634\u0627",
+      "name:ar": "\u062c\u0632\u064a\u0631\u0629 \u0645\u0648\u0634\u0627",
       "name:de": "Musha",
       "name:en": "Moucha Island",
       "name:es": "Isla Moucha",
-      "name:fr": "Île Moucha",
+      "name:fr": "\u00cele Moucha",
       "name:hu": "Moucha-szigetek",
       "place": "island",
       "sport": "scuba_diving",
@@ -96,16 +96,17 @@
     }
   },
   {
-    "name": "Iles des Sept Frères",
+    "name": "Iles des Sept Fr\u00e8res",
     "lat": 12.45,
     "lon": 43.38,
     "depth": 25,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true"
     }
   },
   {

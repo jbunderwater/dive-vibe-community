@@ -54,12 +54,13 @@
     "osm_id": 306050061,
     "osm_type": "node",
     "depth": 20,
-    "site_type": "reef",
+    "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "ABT Salalah",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true"
     }
   },
   {

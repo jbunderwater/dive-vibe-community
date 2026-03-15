@@ -9,7 +9,8 @@
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "shark_cage": "true"
     }
   },
   {
@@ -22,7 +23,8 @@
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "shark_cage": "true"
     }
   },
   {
@@ -35,7 +37,8 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "shark_cage": "true"
     }
   },
   {
@@ -48,7 +51,8 @@
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "shark_cage": "true"
     }
   },
   {
@@ -61,7 +65,8 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "shark_cage": "true"
     }
   },
   {
@@ -69,7 +74,7 @@
     "lat": -35.34,
     "lon": 136.13,
     "depth": 30,
-    "site_type": "wall",
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
@@ -87,7 +92,8 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "shark_cage": "true"
     }
   },
   {
@@ -100,7 +106,8 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "shark_cage": "true"
     }
   },
   {
@@ -126,7 +133,8 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "shark_cage": "true"
     }
   }
 ]

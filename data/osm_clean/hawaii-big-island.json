@@ -126,12 +126,13 @@
     "osm_id": null,
     "osm_type": null,
     "depth": 18,
-    "site_type": "wall",
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true"
     }
   },
   {

@@ -4,12 +4,13 @@
     "lat": 17.01,
     "lon": -61.76,
     "depth": 22,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": "true"
     }
   },
   {
@@ -43,12 +44,13 @@
     "lat": 17.02,
     "lon": -61.77,
     "depth": 28,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": "true"
     }
   },
   {
