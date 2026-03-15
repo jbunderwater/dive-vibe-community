@@ -1,0 +1,243 @@
+[
+  {
+    "name": "Mary's Place",
+    "lat": 16.285,
+    "lon": -86.555,
+    "depth": 40,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  },
+  {
+    "name": "West End Wall",
+    "lat": 16.305,
+    "lon": -86.6,
+    "depth": 30,
+    "site_type": "wall",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  },
+  {
+    "name": "Blue Channel",
+    "lat": 16.31,
+    "lon": -86.59,
+    "depth": 22,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  },
+  {
+    "name": "El Aguila Wreck",
+    "lat": 16.27,
+    "lon": -86.53,
+    "depth": 33,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  },
+  {
+    "name": "Herby's Place",
+    "lat": 16.315,
+    "lon": -86.585,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  },
+  {
+    "name": "Bear's Den",
+    "lat": 16.29,
+    "lon": -86.545,
+    "depth": 25,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  },
+  {
+    "name": "Spooky Channel",
+    "lat": 16.3,
+    "lon": -86.57,
+    "depth": 28,
+    "site_type": "cave",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  },
+  {
+    "name": "Texas",
+    "lat": 16.275,
+    "lon": -86.52,
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  },
+  {
+    "name": "Calvin's Crack",
+    "lat": 16.295,
+    "lon": -86.56,
+    "depth": 35,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  },
+  {
+    "name": "Half Moon Bay Wall",
+    "lat": 16.32,
+    "lon": -86.58,
+    "depth": 20,
+    "site_type": "wall",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  },
+  {
+    "name": "Overheat Reef",
+    "lat": 16.308,
+    "lon": -86.575,
+    "depth": 12,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  },
+  {
+    "name": "Butcher Bank",
+    "lat": 16.265,
+    "lon": -86.51,
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  },
+  {
+    "name": "Peter's Place",
+    "lat": 16.28,
+    "lon": -86.54,
+    "depth": 24,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  },
+  {
+    "name": "Lighthouse Reef",
+    "lat": 16.325,
+    "lon": -86.595,
+    "depth": 16,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  },
+  {
+    "name": "Odyssey Wreck",
+    "lat": 16.26,
+    "lon": -86.5,
+    "depth": 30,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  },
+  {
+    "name": "Sea Angel I",
+    "lat": 16.3129574,
+    "lon": -86.5365944,
+    "osm_id": 1481583198,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "access": "yes",
+      "historic": "wreck",
+      "name": "Sea Angel I",
+      "seamark:type": "wreck",
+      "seamark:wreck:category": "hull_showing",
+      "wreck:visible_at_high_tide": "yes",
+      "wreck:visible_at_low_tide": "yes",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "M Alexand",
+    "lat": 16.3273466,
+    "lon": -86.5007403,
+    "osm_id": 20255613,
+    "osm_type": "relation",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "access": "yes",
+      "historic": "wreck",
+      "name": "M Alexand",
+      "seamark:type": "wreck",
+      "seamark:wreck:category": "hull_showing",
+      "type": "multipolygon",
+      "wreck:date_sunk": "1981",
+      "wreck:visible_at_high_tide": "yes",
+      "wreck:visible_at_low_tide": "yes",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  }
+]

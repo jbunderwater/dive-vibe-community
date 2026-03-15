@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Grotta della Pastizza",
+    "filename": "grotta-della-pastizza.md",
+    "lat": 38.71,
+    "lng": 13.17,
+    "difficulty": "Intermediate",
+    "maxDepth": 22,
+    "entryType": "boat",
+    "siteType": "cave",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Secca della Colombara",
+    "filename": "secca-della-colombara.md",
+    "lat": 38.73,
+    "lng": 13.155,
+    "difficulty": "Advanced",
+    "maxDepth": 35,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Scoglio del Medico",
+    "filename": "scoglio-del-medico.md",
+    "lat": 38.7,
+    "lng": 13.2,
+    "difficulty": "Advanced",
+    "maxDepth": 40,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Punta dell'Arpa",
+    "filename": "punta-dellarpa.md",
+    "lat": 38.72,
+    "lng": 13.18,
+    "difficulty": "Intermediate",
+    "maxDepth": 18,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Grotta Azzurra",
+    "filename": "grotta-azzurra.md",
+    "lat": 38.705,
+    "lng": 13.165,
+    "difficulty": "Beginner",
+    "maxDepth": 15,
+    "entryType": "boat",
+    "siteType": "cave",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Punta Gavazzi",
+    "filename": "punta-gavazzi.md",
+    "lat": 38.695,
+    "lng": 13.175,
+    "difficulty": "Advanced",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Punta Spalmatore",
+    "filename": "punta-spalmatore.md",
+    "lat": 38.715,
+    "lng": 13.15,
+    "difficulty": "Beginner",
+    "maxDepth": 12,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Punta Omo Morto",
+    "filename": "punta-omo-morto.md",
+    "lat": 38.69,
+    "lng": 13.19,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Cala Sidoti",
+    "filename": "cala-sidoti.md",
+    "lat": 38.725,
+    "lng": 13.195,
+    "difficulty": "Beginner",
+    "maxDepth": 10,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Secca di Tramontana",
+    "filename": "secca-di-tramontana.md",
+    "lat": 38.735,
+    "lng": 13.16,
+    "difficulty": "Advanced",
+    "maxDepth": 28,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  }
+]

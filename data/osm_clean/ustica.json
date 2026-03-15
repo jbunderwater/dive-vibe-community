@@ -1,0 +1,188 @@
+[
+  {
+    "name": "Grotta della Pastizza",
+    "lat": 38.71,
+    "lon": 13.17,
+    "depth": 22,
+    "site_type": "cave",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  },
+  {
+    "name": "Secca della Colombara",
+    "lat": 38.73,
+    "lon": 13.155,
+    "depth": 35,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  },
+  {
+    "name": "Scoglio del Medico",
+    "lat": 38.7,
+    "lon": 13.2,
+    "depth": 40,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  },
+  {
+    "name": "Punta dell'Arpa",
+    "lat": 38.72,
+    "lon": 13.18,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  },
+  {
+    "name": "Grotta Azzurra",
+    "lat": 38.705,
+    "lon": 13.165,
+    "depth": 15,
+    "site_type": "cave",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  },
+  {
+    "name": "Punta Gavazzi",
+    "lat": 38.695,
+    "lon": 13.175,
+    "depth": 30,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  },
+  {
+    "name": "Punta Spalmatore",
+    "lat": 38.715,
+    "lon": 13.15,
+    "depth": 12,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  },
+  {
+    "name": "Punta Omo Morto",
+    "lat": 38.69,
+    "lon": 13.19,
+    "depth": 25,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  },
+  {
+    "name": "Cala Sidoti",
+    "lat": 38.725,
+    "lon": 13.195,
+    "depth": 10,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  },
+  {
+    "name": "Secca di Tramontana",
+    "lat": 38.735,
+    "lon": 13.16,
+    "depth": 28,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  },
+  {
+    "name": "Le Piramidi",
+    "lat": 38.7002335,
+    "lon": 13.152312,
+    "osm_id": 2137060566,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "attraction": "scuba_diving",
+      "name": "Le Piramidi",
+      "scuba_diving:divespot": "yes",
+      "scuba_diving:type": "sea",
+      "sport": "scuba_diving",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Sutta zà Lisa",
+    "lat": 38.6920525,
+    "lon": 13.1624883,
+    "osm_id": 2137061116,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Sutta zà Lisa",
+      "scuba_diving:divespot": "yes",
+      "sport": "scuba_diving",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Grotta dei Gamberi",
+    "lat": 38.6949666,
+    "lon": 13.1830126,
+    "osm_id": 2137062026,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "cave",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Grotta dei Gamberi",
+      "natural": "cave_entrance",
+      "sport": "scuba_diving",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  }
+]

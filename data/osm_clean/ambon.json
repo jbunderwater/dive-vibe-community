@@ -1,0 +1,132 @@
+[
+  {
+    "name": "Laha",
+    "lat": -3.71,
+    "lon": 128.09,
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  },
+  {
+    "name": "Rhino City",
+    "lat": -3.72,
+    "lon": 128.1,
+    "depth": 12,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  },
+  {
+    "name": "Psychedelic Frogfish Site",
+    "lat": -3.69,
+    "lon": 128.08,
+    "depth": 8,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  },
+  {
+    "name": "Air Manis",
+    "lat": -3.74,
+    "lon": 128.12,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  },
+  {
+    "name": "Hukurila Cave",
+    "lat": -3.75,
+    "lon": 128.2,
+    "depth": 22,
+    "site_type": "cave",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  },
+  {
+    "name": "Nama Point",
+    "lat": -3.7,
+    "lon": 128.085,
+    "depth": 20,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  },
+  {
+    "name": "Duke of Sparta Wreck",
+    "lat": -3.68,
+    "lon": 128.07,
+    "depth": 30,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  },
+  {
+    "name": "Pintu Kota",
+    "lat": -3.76,
+    "lon": 128.21,
+    "depth": 15,
+    "site_type": "cave",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  },
+  {
+    "name": "Twilight Zone",
+    "lat": -3.73,
+    "lon": 128.11,
+    "depth": 10,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  },
+  {
+    "name": "Amahusu Reef",
+    "lat": -3.715,
+    "lon": 128.095,
+    "depth": 14,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  }
+]

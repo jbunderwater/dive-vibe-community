@@ -1,0 +1,132 @@
+[
+  {
+    "name": "Little Komodo",
+    "lat": -3.83,
+    "lon": 134.1,
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  },
+  {
+    "name": "Batu Rufas",
+    "lat": -3.85,
+    "lon": 134.05,
+    "depth": 22,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  },
+  {
+    "name": "Flasher Beach",
+    "lat": -3.87,
+    "lon": 134.08,
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  },
+  {
+    "name": "Whale Shark Bagan",
+    "lat": -3.8,
+    "lon": 134.12,
+    "depth": 10,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  },
+  {
+    "name": "Namatota Channel",
+    "lat": -3.82,
+    "lon": 134.06,
+    "depth": 28,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  },
+  {
+    "name": "Saruenus Island",
+    "lat": -3.78,
+    "lon": 134.15,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  },
+  {
+    "name": "Iris Wall",
+    "lat": -3.86,
+    "lon": 134.07,
+    "depth": 35,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  },
+  {
+    "name": "The Corals Garden",
+    "lat": -3.84,
+    "lon": 134.11,
+    "depth": 12,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  },
+  {
+    "name": "Sawandek Jetty",
+    "lat": -3.81,
+    "lon": 134.13,
+    "depth": 8,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  },
+  {
+    "name": "Aiduma Island Wall",
+    "lat": -3.9,
+    "lon": 134.04,
+    "depth": 30,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  }
+]

@@ -1,0 +1,158 @@
+[
+  {
+    "name": "La Gabinière",
+    "lat": 43.0,
+    "lon": 6.4,
+    "depth": 40,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  },
+  {
+    "name": "La Pointe de la Galère",
+    "lat": 42.985,
+    "lon": 6.39,
+    "depth": 22,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  },
+  {
+    "name": "Le Donator Wreck",
+    "lat": 43.02,
+    "lon": 6.38,
+    "depth": 50,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  },
+  {
+    "name": "La Pointe du Vaisseau",
+    "lat": 42.99,
+    "lon": 6.41,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  },
+  {
+    "name": "Le Grec Wreck",
+    "lat": 43.03,
+    "lon": 6.37,
+    "depth": 45,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  },
+  {
+    "name": "Îlot de la Croix",
+    "lat": 43.005,
+    "lon": 6.42,
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  },
+  {
+    "name": "La Palud",
+    "lat": 43.01,
+    "lon": 6.395,
+    "depth": 10,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  },
+  {
+    "name": "Les Deux Frères",
+    "lat": 43.05,
+    "lon": 6.35,
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  },
+  {
+    "name": "Pierre de Bagaud",
+    "lat": 42.995,
+    "lon": 6.405,
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  },
+  {
+    "name": "La Gabinière Nord",
+    "lat": 43.002,
+    "lon": 6.398,
+    "depth": 35,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  },
+  {
+    "name": "Plage de la Fausse Monnaie",
+    "lat": 43.015,
+    "lon": 6.385,
+    "depth": 8,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  },
+  {
+    "name": "Pointe du Cognet",
+    "lat": 42.98,
+    "lon": 6.415,
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  }
+]

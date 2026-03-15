@@ -1,0 +1,349 @@
+[
+  {
+    "name": "A-Frame",
+    "lat": -34.195,
+    "lon": 18.465,
+    "depth": 12,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  },
+  {
+    "name": "Shark Alley (False Bay)",
+    "lat": -34.35,
+    "lon": 18.49,
+    "depth": 10,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  },
+  {
+    "name": "Smitswinkel Bay Wrecks",
+    "lat": -34.25,
+    "lon": 18.47,
+    "depth": 30,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  },
+  {
+    "name": "Castle Rock",
+    "lat": -34.2,
+    "lon": 18.46,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  },
+  {
+    "name": "Photographer's Reef",
+    "lat": -34.08,
+    "lon": 18.35,
+    "depth": 10,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  },
+  {
+    "name": "Tafelberg Reef",
+    "lat": -33.9,
+    "lon": 18.38,
+    "depth": 14,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  },
+  {
+    "name": "Justin's Caves",
+    "lat": -34.22,
+    "lon": 18.455,
+    "depth": 20,
+    "site_type": "cave",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  },
+  {
+    "name": "SAS Transvaal Wreck",
+    "lat": -34.18,
+    "lon": 18.44,
+    "depth": 33,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  },
+  {
+    "name": "Outer Castle",
+    "lat": -34.21,
+    "lon": 18.458,
+    "depth": 22,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  },
+  {
+    "name": "Finlay's Point",
+    "lat": -34.19,
+    "lon": 18.47,
+    "depth": 8,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  },
+  {
+    "name": "Bos 400 Wreck",
+    "lat": -33.82,
+    "lon": 18.36,
+    "depth": 15,
+    "site_type": "wreck",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  },
+  {
+    "name": "Long Beach Kelp Forest",
+    "lat": -34.13,
+    "lon": 18.43,
+    "depth": 12,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  },
+  {
+    "name": "Cow and Calf",
+    "lat": -34.205,
+    "lon": 18.462,
+    "depth": 16,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  },
+  {
+    "name": "Partridge Point",
+    "lat": -34.23,
+    "lon": 18.45,
+    "depth": 25,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations"
+    }
+  },
+  {
+    "name": "Antipolis",
+    "lat": -33.9837288,
+    "lon": 18.3562528,
+    "osm_id": 270978722,
+    "osm_type": "node",
+    "depth": 11,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": "Beginner",
+    "tags": {
+      "historic": "wreck",
+      "name": "Antipolis",
+      "note": "Position is a guess since I did not have a GPS on the surface swim to the wreck.",
+      "position:accuracy": "1000m",
+      "seamark:type": "wreck",
+      "website": "https://en.wikivoyage.org/wiki/Diving_the_Cape_Peninsula_and_False_Bay/MV_Antipolis",
+      "wikidata": "Q14213801",
+      "wikimedia_commons": "Category:Dive site Antipolis",
+      "wreck:depth": "11m",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "SELI1",
+    "lat": -33.8246505,
+    "lon": 18.4710634,
+    "osm_id": 1594626525,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "wreck",
+      "name": "SELI1",
+      "seamark:type": "wreck",
+      "seamark:wreck:category": "hull_showing",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Het Huis te Kraaienstjin",
+    "lat": -33.9806842,
+    "lon": 18.3620862,
+    "osm_id": 5310394646,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "wreck",
+      "name": "Het Huis te Kraaienstjin",
+      "seamark:type": "wreck",
+      "wreck:date_sunk": "1670",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Thomas T. Tucker",
+    "lat": -34.2734863,
+    "lon": 18.3808435,
+    "osm_id": 7025899718,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "access": "permit",
+      "historic": "wreck",
+      "name": "Thomas T. Tucker",
+      "seamark:type": "wreck",
+      "seamark:wreck:category": "dangerous",
+      "wreck:date_sunk": "1942-11-27",
+      "wreck:visible_at_high_tide": "yes",
+      "wreck:visible_at_low_tide": "yes",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Nolloth",
+    "lat": -34.2838018,
+    "lon": 18.3884129,
+    "osm_id": 7025899719,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "wreck",
+      "name": "Nolloth",
+      "seamark:type": "wreck",
+      "wreck:date_sunk": "1965",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Phyllisia Shipwreck",
+    "lat": -34.3078694,
+    "lon": 18.4018744,
+    "osm_id": 11051586533,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "access": "permissive",
+      "historic": "wreck",
+      "name": "Phyllisia Shipwreck",
+      "seamark:type": "wreck",
+      "seamark:wreck:category": "hull_showing",
+      "wreck:date_sunk": "3 May 1968",
+      "wreck:visible_at_low_tide": "yes",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Whittle Rock",
+    "lat": -34.2480023,
+    "lon": 18.5539711,
+    "osm_id": 11831313172,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Whittle Rock",
+      "natural": "reef",
+      "wikidata": "Q110064499",
+      "wikipedia": "en:Whittle Rock",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Clan Stewart",
+    "lat": -34.1717192,
+    "lon": 18.4304841,
+    "osm_id": 5555966,
+    "osm_type": "relation",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "wreck",
+      "name": "Clan Stewart",
+      "seamark:type": "wreck",
+      "type": "multipolygon",
+      "wreck:date_sunk": "1914-11-21",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  }
+]

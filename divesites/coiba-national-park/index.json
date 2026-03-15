@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Faro Reef",
+    "filename": "faro-reef.md",
+    "lat": 7.62,
+    "lng": -81.72,
+    "difficulty": "Intermediate",
+    "maxDepth": 20,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Machete Point",
+    "filename": "machete-point.md",
+    "lat": 7.58,
+    "lng": -81.75,
+    "difficulty": "Advanced",
+    "maxDepth": 28,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Granito de Oro",
+    "filename": "granito-de-oro.md",
+    "lat": 7.55,
+    "lng": -81.7,
+    "difficulty": "Beginner",
+    "maxDepth": 15,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Iglesia Point",
+    "filename": "iglesia-point.md",
+    "lat": 7.65,
+    "lng": -81.68,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Bahia Damas",
+    "filename": "bahia-damas.md",
+    "lat": 7.5,
+    "lng": -81.78,
+    "difficulty": "Intermediate",
+    "maxDepth": 18,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Canales de Afuera",
+    "filename": "canales-de-afuera.md",
+    "lat": 7.4,
+    "lng": -81.85,
+    "difficulty": "Advanced",
+    "maxDepth": 35,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Jicarita Island",
+    "filename": "jicarita-island.md",
+    "lat": 7.21,
+    "lng": -81.8,
+    "difficulty": "Advanced",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Santa Cruz",
+    "filename": "santa-cruz.md",
+    "lat": 7.68,
+    "lng": -81.65,
+    "difficulty": "Beginner",
+    "maxDepth": 12,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Montaña Rusa",
+    "filename": "montaña-rusa.md",
+    "lat": 7.45,
+    "lng": -81.82,
+    "difficulty": "Intermediate",
+    "maxDepth": 22,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Shark Point Coiba",
+    "filename": "shark-point-coiba.md",
+    "lat": 7.53,
+    "lng": -81.73,
+    "difficulty": "Advanced",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  }
+]

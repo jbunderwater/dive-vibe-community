@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Felipe's Place",
+    "filename": "felipes-place.md",
+    "lat": 13.36,
+    "lng": -81.38,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Manta's City",
+    "filename": "mantas-city.md",
+    "lat": 13.37,
+    "lng": -81.4,
+    "difficulty": "Intermediate",
+    "maxDepth": 20,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Nick's Place",
+    "filename": "nicks-place.md",
+    "lat": 13.38,
+    "lng": -81.37,
+    "difficulty": "Advanced",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "The Pinnacle",
+    "filename": "the-pinnacle.md",
+    "lat": 13.35,
+    "lng": -81.39,
+    "difficulty": "Advanced",
+    "maxDepth": 35,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Stairway to Heaven",
+    "filename": "stairway-to-heaven.md",
+    "lat": 13.34,
+    "lng": -81.36,
+    "difficulty": "Intermediate",
+    "maxDepth": 22,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Crab Cay Reef",
+    "filename": "crab-cay-reef.md",
+    "lat": 13.375,
+    "lng": -81.375,
+    "difficulty": "Beginner",
+    "maxDepth": 12,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Blue Diamond",
+    "filename": "blue-diamond.md",
+    "lat": 13.355,
+    "lng": -81.395,
+    "difficulty": "Advanced",
+    "maxDepth": 28,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Tete's Place",
+    "filename": "tetes-place.md",
+    "lat": 13.365,
+    "lng": -81.385,
+    "difficulty": "Beginner",
+    "maxDepth": 18,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Convento Reef",
+    "filename": "convento-reef.md",
+    "lat": 13.385,
+    "lng": -81.365,
+    "difficulty": "Beginner",
+    "maxDepth": 15,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Table Rock",
+    "filename": "table-rock.md",
+    "lat": 13.345,
+    "lng": -81.35,
+    "difficulty": "Intermediate",
+    "maxDepth": 20,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  }
+]

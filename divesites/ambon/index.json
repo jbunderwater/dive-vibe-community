@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Laha",
+    "filename": "laha.md",
+    "lat": -3.71,
+    "lng": 128.09,
+    "difficulty": "Beginner",
+    "maxDepth": 15,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Rhino City",
+    "filename": "rhino-city.md",
+    "lat": -3.72,
+    "lng": 128.1,
+    "difficulty": "Beginner",
+    "maxDepth": 12,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Psychedelic Frogfish Site",
+    "filename": "psychedelic-frogfish-site.md",
+    "lat": -3.69,
+    "lng": 128.08,
+    "difficulty": "Beginner",
+    "maxDepth": 8,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Air Manis",
+    "filename": "air-manis.md",
+    "lat": -3.74,
+    "lng": 128.12,
+    "difficulty": "Intermediate",
+    "maxDepth": 18,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Hukurila Cave",
+    "filename": "hukurila-cave.md",
+    "lat": -3.75,
+    "lng": 128.2,
+    "difficulty": "Intermediate",
+    "maxDepth": 22,
+    "entryType": "boat",
+    "siteType": "cave",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Nama Point",
+    "filename": "nama-point.md",
+    "lat": -3.7,
+    "lng": 128.085,
+    "difficulty": "Intermediate",
+    "maxDepth": 20,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Duke of Sparta Wreck",
+    "filename": "duke-of-sparta-wreck.md",
+    "lat": -3.68,
+    "lng": 128.07,
+    "difficulty": "Advanced",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Pintu Kota",
+    "filename": "pintu-kota.md",
+    "lat": -3.76,
+    "lng": 128.21,
+    "difficulty": "Intermediate",
+    "maxDepth": 15,
+    "entryType": "boat",
+    "siteType": "cave",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Twilight Zone",
+    "filename": "twilight-zone.md",
+    "lat": -3.73,
+    "lng": 128.11,
+    "difficulty": "Beginner",
+    "maxDepth": 10,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Amahusu Reef",
+    "filename": "amahusu-reef.md",
+    "lat": -3.715,
+    "lng": 128.095,
+    "difficulty": "Beginner",
+    "maxDepth": 14,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  }
+]
