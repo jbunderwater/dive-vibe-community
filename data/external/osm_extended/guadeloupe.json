@@ -1,161 +1,5 @@
 [
   {
-    "name": "Cousteau Reserve - Pigeon Island",
-    "lat": 16.168,
-    "lon": -61.79,
-    "depth": 20,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "source": "curated",
-      "addedBy": "fill_caribbean"
-    }
-  },
-  {
-    "name": "Aquarium",
-    "lat": 16.17,
-    "lon": -61.785,
-    "depth": 8,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Beginner",
-    "tags": {
-      "source": "curated",
-      "addedBy": "fill_caribbean"
-    }
-  },
-  {
-    "name": "Jardin de Corail",
-    "lat": 16.165,
-    "lon": -61.792,
-    "depth": 12,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Beginner",
-    "tags": {
-      "source": "curated",
-      "addedBy": "fill_caribbean"
-    }
-  },
-  {
-    "name": "Piscine",
-    "lat": 16.172,
-    "lon": -61.788,
-    "depth": 6,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Beginner",
-    "tags": {
-      "source": "curated",
-      "addedBy": "fill_caribbean"
-    }
-  },
-  {
-    "name": "Les Sources d'Eau Chaude",
-    "lat": 16.16,
-    "lon": -61.795,
-    "depth": 15,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "source": "curated",
-      "addedBy": "fill_caribbean"
-    }
-  },
-  {
-    "name": "Pointe Malendure",
-    "lat": 16.175,
-    "lon": -61.78,
-    "depth": 18,
-    "site_type": "reef",
-    "entry_type": "shore",
-    "difficulty": "Intermediate",
-    "tags": {
-      "source": "curated",
-      "addedBy": "fill_caribbean"
-    }
-  },
-  {
-    "name": "La Caye",
-    "lat": 16.155,
-    "lon": -61.798,
-    "depth": 25,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "source": "curated",
-      "addedBy": "fill_caribbean"
-    }
-  },
-  {
-    "name": "Augustin Fresnel Wreck",
-    "lat": 16.25,
-    "lon": -61.53,
-    "depth": 28,
-    "site_type": "wreck",
-    "entry_type": "boat",
-    "difficulty": "Advanced",
-    "tags": {
-      "source": "curated",
-      "addedBy": "fill_caribbean"
-    }
-  },
-  {
-    "name": "Pointe à Lézard",
-    "lat": 16.18,
-    "lon": -61.775,
-    "depth": 22,
-    "site_type": "wall",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "source": "curated",
-      "addedBy": "fill_caribbean"
-    }
-  },
-  {
-    "name": "Sec Pâté",
-    "lat": 16.15,
-    "lon": -61.8,
-    "depth": 30,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Advanced",
-    "tags": {
-      "source": "curated",
-      "addedBy": "fill_caribbean"
-    }
-  },
-  {
-    "name": "Anse Caraïbe",
-    "lat": 16.19,
-    "lon": -61.77,
-    "depth": 10,
-    "site_type": "reef",
-    "entry_type": "shore",
-    "difficulty": "Beginner",
-    "tags": {
-      "source": "curated",
-      "addedBy": "fill_caribbean"
-    }
-  },
-  {
-    "name": "Les Saintes - Pain de Sucre",
-    "lat": 15.87,
-    "lon": -61.62,
-    "depth": 20,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "source": "curated",
-      "addedBy": "fill_caribbean"
-    }
-  },
-  {
     "name": "La Broumine",
     "lat": 15.8766667,
     "lon": -61.5775,
@@ -169,8 +13,7 @@
       "seamark:name": "La Broumine",
       "seamark:type": "wreck",
       "seamark:wreck:category": "mast_showing",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "source": "GAN 08 20-T-04"
     }
   },
   {
@@ -189,10 +32,9 @@
       "historic": "wreck",
       "name": "Epave de l'Îlet Fortune",
       "seamark:type": "wreck",
-      "source": "osm_extended",
+      "source": "local knowledge",
       "wreck:visible_at_high_tide": "yes",
-      "wreck:visible_at_low_tide": "yes",
-      "addedBy": "extended_overpass"
+      "wreck:visible_at_low_tide": "yes"
     }
   },
   {
@@ -209,8 +51,7 @@
       "historic": "wreck",
       "name": "Épave de Caret",
       "seamark:type": "wreck",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "source": "survey"
     }
   },
   {
@@ -228,9 +69,7 @@
       "natural": "cape",
       "scuba_diving:type": "wall",
       "scuba_diving:type:wall": "yes",
-      "sport": "scuba_diving",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -247,9 +86,7 @@
       "name": "Pain de Sucre",
       "scuba_diving:type": "wall",
       "scuba_diving:type:wall": "yes",
-      "sport": "scuba_diving",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -266,9 +103,7 @@
       "name": "Le Sec Pâté",
       "scuba_diving:type": "wall",
       "scuba_diving:type:wall": "yes",
-      "sport": "scuba_diving",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -285,9 +120,7 @@
       "name": "La Baleine",
       "scuba_diving:type": "wall",
       "scuba_diving:type:wall": "yes",
-      "sport": "scuba_diving",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -304,9 +137,7 @@
       "name": "Pointe du Gouvernail",
       "scuba_diving:type": "wall",
       "scuba_diving:type:wall": "yes",
-      "sport": "scuba_diving",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -323,9 +154,22 @@
       "name": "L'Aquarium",
       "scuba_diving:type": "wall",
       "scuba_diving:type:wall": "yes",
-      "sport": "scuba_diving",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Épave de l'îlet Fortune",
+    "lat": 16.1598258,
+    "lon": -61.5445467,
+    "osm_id": 9584091010,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "wreck",
+      "name": "Épave de l'îlet Fortune"
     }
   },
   {
@@ -347,9 +191,7 @@
       "seamark:wreck:water_level": "36",
       "wreck:date_sunk": "1991",
       "wreck:visible_at_high_tide": "no",
-      "wreck:visible_at_low_tide": "no",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "wreck:visible_at_low_tide": "no"
     }
   },
   {
@@ -371,9 +213,7 @@
       "seamark:wreck:water_level": "23",
       "wreck:date_sunk": "1996",
       "wreck:visible_at_high_tide": "no",
-      "wreck:visible_at_low_tide": "no",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "wreck:visible_at_low_tide": "no"
     }
   },
   {
@@ -395,9 +235,7 @@
       "seamark:wreck:water_level": "33",
       "wreck:date_sunk": "2003",
       "wreck:visible_at_high_tide": "no",
-      "wreck:visible_at_low_tide": "no",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "wreck:visible_at_low_tide": "no"
     }
   },
   {
@@ -414,8 +252,7 @@
       "description": "Les îlets à Frégate (Petit Cul-de-Sac Marin) ont disparu (semble-t-il après le passage du cyclone de 1928) et sont désormais des récifs connus sous le nom Frégate de Haut et Frégate de Bas.",
       "name": "Frégate-de-Haut",
       "natural": "reef",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "source": "http://www.aapa-antilles.com/pages/operations-en-cours/d-iles-en-iles.html"
     }
   },
   {
@@ -432,8 +269,7 @@
       "description": "Les îlets à Frégate (Petit Cul-de-Sac Marin) ont disparu (semble-t-il après le passage du cyclone de 1928) et sont désormais des récifs connus sous le nom Frégate de Haut et Frégate de Bas.",
       "name": "Frégate-de-Bas",
       "natural": "reef",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "source": "http://www.aapa-antilles.com/pages/operations-en-cours/d-iles-en-iles.html"
     }
   },
   {
@@ -448,9 +284,7 @@
     "difficulty": null,
     "tags": {
       "name": "Caye Fortune",
-      "natural": "reef",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "natural": "reef"
     }
   },
   {
@@ -465,9 +299,7 @@
     "difficulty": null,
     "tags": {
       "name": "Caye Martinique",
-      "natural": "reef",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "natural": "reef"
     }
   },
   {
@@ -482,9 +314,7 @@
     "difficulty": null,
     "tags": {
       "name": "Caye Tome",
-      "natural": "reef",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "natural": "reef"
     }
   },
   {
@@ -501,8 +331,7 @@
       "seamark:name": "Lynndy",
       "seamark:type": "wreck",
       "seamark:wreck:category": "dangerous",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "source": "GAN 10 26-T-03"
     }
   },
   {
@@ -517,9 +346,7 @@
     "difficulty": null,
     "tags": {
       "name": "Caye à l'Anglais",
-      "natural": "reef",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "natural": "reef"
     }
   },
   {
@@ -534,9 +361,7 @@
     "difficulty": null,
     "tags": {
       "name": "Caye Gros Loup",
-      "natural": "reef",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "natural": "reef"
     }
   }
 ]

@@ -1,161 +1,5 @@
 [
   {
-    "name": "Diamond Rock",
-    "lat": 14.445,
-    "lon": -61.04,
-    "depth": 35,
-    "site_type": "wall",
-    "entry_type": "boat",
-    "difficulty": "Advanced",
-    "tags": {
-      "source": "curated",
-      "addedBy": "fill_caribbean"
-    }
-  },
-  {
-    "name": "Rocher du Diamant Cave",
-    "lat": 14.447,
-    "lon": -61.038,
-    "depth": 25,
-    "site_type": "cave",
-    "entry_type": "boat",
-    "difficulty": "Advanced",
-    "tags": {
-      "source": "curated",
-      "addedBy": "fill_caribbean"
-    }
-  },
-  {
-    "name": "Anse Dufour",
-    "lat": 14.525,
-    "lon": -61.085,
-    "depth": 12,
-    "site_type": "reef",
-    "entry_type": "shore",
-    "difficulty": "Beginner",
-    "tags": {
-      "source": "curated",
-      "addedBy": "fill_caribbean"
-    }
-  },
-  {
-    "name": "St. Pierre Wrecks",
-    "lat": 14.74,
-    "lon": -61.18,
-    "depth": 30,
-    "site_type": "wreck",
-    "entry_type": "boat",
-    "difficulty": "Advanced",
-    "tags": {
-      "source": "curated",
-      "addedBy": "fill_caribbean"
-    }
-  },
-  {
-    "name": "Rocher de la Perle",
-    "lat": 14.77,
-    "lon": -61.21,
-    "depth": 20,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "source": "curated",
-      "addedBy": "fill_caribbean"
-    }
-  },
-  {
-    "name": "Anse Noire",
-    "lat": 14.53,
-    "lon": -61.088,
-    "depth": 8,
-    "site_type": "reef",
-    "entry_type": "shore",
-    "difficulty": "Beginner",
-    "tags": {
-      "source": "curated",
-      "addedBy": "fill_caribbean"
-    }
-  },
-  {
-    "name": "Cap Enragé",
-    "lat": 14.44,
-    "lon": -61.03,
-    "depth": 22,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "source": "curated",
-      "addedBy": "fill_caribbean"
-    }
-  },
-  {
-    "name": "Pointe Burgos",
-    "lat": 14.55,
-    "lon": -61.09,
-    "depth": 18,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "source": "curated",
-      "addedBy": "fill_caribbean"
-    }
-  },
-  {
-    "name": "Nahoon Wreck",
-    "lat": 14.735,
-    "lon": -61.175,
-    "depth": 28,
-    "site_type": "wreck",
-    "entry_type": "boat",
-    "difficulty": "Advanced",
-    "tags": {
-      "source": "curated",
-      "addedBy": "fill_caribbean"
-    }
-  },
-  {
-    "name": "Grande Anse Reef",
-    "lat": 14.46,
-    "lon": -61.05,
-    "depth": 14,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Beginner",
-    "tags": {
-      "source": "curated",
-      "addedBy": "fill_caribbean"
-    }
-  },
-  {
-    "name": "Citadelle",
-    "lat": 14.745,
-    "lon": -61.185,
-    "depth": 16,
-    "site_type": "reef",
-    "entry_type": "shore",
-    "difficulty": "Beginner",
-    "tags": {
-      "source": "curated",
-      "addedBy": "fill_caribbean"
-    }
-  },
-  {
-    "name": "Jardin Tropical",
-    "lat": 14.52,
-    "lon": -61.08,
-    "depth": 10,
-    "site_type": "reef",
-    "entry_type": "shore",
-    "difficulty": "Beginner",
-    "tags": {
-      "source": "curated",
-      "addedBy": "fill_caribbean"
-    }
-  },
-  {
     "name": "Plongée Passion",
     "lat": 14.5037141,
     "lon": -61.0845636,
@@ -169,9 +13,7 @@
       "name": "Plongée Passion",
       "scuba_diving:type:attraction": "yes",
       "scuba_diving:type:training": "yes",
-      "sport": "scuba_diving",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -187,9 +29,7 @@
     "tags": {
       "leisure": "sports_centre",
       "name": "Club de plongée de Fond Capot",
-      "sport": "scuba_diving",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -205,10 +45,9 @@
     "tags": {
       "name": "Site de Plongée La Perle",
       "scuba_diving:divespot": "yes",
-      "source": "osm_extended",
+      "source": "data.gouv.fr:Le ministère des droits des femmes, de la ville, de la jeunesse et des sports - 11/2015",
       "sport": "scuba_diving",
-      "wikidata": "Q120207110",
-      "addedBy": "extended_overpass"
+      "wikidata": "Q120207110"
     }
   },
   {
@@ -223,9 +62,7 @@
     "difficulty": null,
     "tags": {
       "name": "Alpha Plongée",
-      "sport": "scuba_diving",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "sport": "scuba_diving"
     }
   },
   {
@@ -242,8 +79,7 @@
       "seamark:name": "Krystal Toy",
       "seamark:type": "wreck",
       "seamark:wreck:category": "hull_showing",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "source": "GAN 19 07-P-03"
     }
   },
   {
@@ -267,9 +103,7 @@
       "website": "https://www.bellemartinique.com/la-martinique/mer-nature/epaves-en-martinique/le-roraima/",
       "wreck:date_sunk": "1902-05-08",
       "wreck:visible_at_high_tide": "no",
-      "wreck:visible_at_low_tide": "no",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "wreck:visible_at_low_tide": "no"
     }
   },
   {
@@ -285,9 +119,22 @@
     "tags": {
       "historic": "wreck",
       "name": "Épave Amelie",
-      "seamark:type": "wreck",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "seamark:type": "wreck"
+    }
+  },
+  {
+    "name": "La Perle",
+    "lat": 14.8418714,
+    "lon": -61.227879,
+    "osm_id": 11001925337,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "La Perle",
+      "natural": "reef"
     }
   },
   {
@@ -303,9 +150,7 @@
     "tags": {
       "name": "Le Banc de Sable",
       "natural": "reef",
-      "reef": "sand",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "reef": "sand"
     }
   },
   {
@@ -321,9 +166,7 @@
     "tags": {
       "name": "Banc du Singe",
       "natural": "reef",
-      "reef": "sand",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "reef": "sand"
     }
   },
   {
@@ -339,9 +182,7 @@
     "tags": {
       "name": "Caye Duprey",
       "natural": "reef",
-      "reef": "coral",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "reef": "coral"
     }
   },
   {
@@ -357,9 +198,7 @@
     "tags": {
       "name": "Banc du Mitan",
       "natural": "reef",
-      "reef": "coral",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "reef": "coral"
     }
   },
   {
@@ -375,9 +214,7 @@
     "tags": {
       "name": "Banc Major",
       "natural": "reef",
-      "reef": "coral",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "reef": "coral"
     }
   },
   {
@@ -393,9 +230,7 @@
     "tags": {
       "name": "Grand-Caye",
       "natural": "reef",
-      "reef": "coral",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "reef": "coral"
     }
   },
   {
@@ -410,9 +245,7 @@
     "difficulty": null,
     "tags": {
       "name": "Baignoire de Joséphine",
-      "natural": "reef",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "natural": "reef"
     }
   }
 ]

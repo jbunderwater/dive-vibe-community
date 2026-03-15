@@ -1,0 +1,109 @@
+[
+  {
+    "name": "Zingara",
+    "lat": 19.7888514,
+    "lon": -70.4979794,
+    "osm_id": 270997633,
+    "osm_type": "node",
+    "depth": 35,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": "Advanced",
+    "tags": {
+      "historic": "wreck",
+      "name": "Zingara",
+      "position:accuracy": "30m",
+      "seamark:type": "wreck",
+      "sport": "water_sports",
+      "sport:scuba_diving": "yes",
+      "wreck:depth": "35m"
+    }
+  },
+  {
+    "name": "Aquarium",
+    "lat": 18.3644497,
+    "lon": -69.0248231,
+    "osm_id": 1561340043,
+    "osm_type": "node",
+    "depth": 12,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Aquarium",
+      "scuba": "yes",
+      "scuba_diving:depth": "12",
+      "scuba_diving:divespot": "Aquarium",
+      "scuba_diving:entry": "boat",
+      "scuba_diving:type": "reef",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "The Wall",
+    "lat": 18.3708321,
+    "lon": -69.0038486,
+    "osm_id": 1561340047,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "The Wall",
+      "scuba": "yes",
+      "scuba_diving:depth": "20",
+      "scuba_diving:divespot": "The Wall",
+      "scuba_diving:entry": "boat",
+      "scuba_diving:type": "wall",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Playita",
+    "lat": 19.2944746,
+    "lon": -69.2077604,
+    "osm_id": 3348737500,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Playita",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Las Galeras Divers",
+    "lat": 19.2911794,
+    "lon": -69.1984232,
+    "osm_id": 7243017306,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Las Galeras Divers",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Astron",
+    "lat": 18.7303783,
+    "lon": -68.4538206,
+    "osm_id": 170000345,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "wreck",
+      "name": "Astron",
+      "seamark:type": "wreck",
+      "sport": "scuba_diving"
+    }
+  }
+]
