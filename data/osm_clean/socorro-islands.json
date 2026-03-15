@@ -3,10 +3,8 @@
     "name": "Roca Partida",
     "lat": 19.0,
     "lon": -112.0667,
-    "osm_id": null,
-    "osm_type": null,
-    "depth": 30,
-    "site_type": "reef",
+    "depth": 40,
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
@@ -15,56 +13,9 @@
     }
   },
   {
-    "name": "The Boiler San Benedicto",
+    "name": "The Boiler",
     "lat": 19.3,
     "lon": -110.8,
-    "osm_id": null,
-    "osm_type": null,
-    "depth": 25,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "source": "curated",
-      "addedBy": "gap_fill"
-    }
-  },
-  {
-    "name": "Cabo Pearce Socorro",
-    "lat": 18.7833,
-    "lon": -110.95,
-    "osm_id": null,
-    "osm_type": null,
-    "depth": 30,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Advanced",
-    "tags": {
-      "source": "curated",
-      "addedBy": "gap_fill"
-    }
-  },
-  {
-    "name": "Punta Tosca Socorro",
-    "lat": 18.7667,
-    "lon": -110.9667,
-    "osm_id": null,
-    "osm_type": null,
-    "depth": 25,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "source": "curated",
-      "addedBy": "gap_fill"
-    }
-  },
-  {
-    "name": "Canyon San Benedicto",
-    "lat": 19.3167,
-    "lon": -110.8167,
-    "osm_id": null,
-    "osm_type": null,
     "depth": 30,
     "site_type": "wall",
     "entry_type": "boat",
@@ -75,13 +26,50 @@
     }
   },
   {
-    "name": "The Aquarium San Benedicto",
-    "lat": 19.2833,
-    "lon": -110.7833,
-    "osm_id": null,
-    "osm_type": null,
+    "name": "Cabo Pearce",
+    "lat": 18.73,
+    "lon": -110.95,
+    "depth": 30,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Punta Tosca",
+    "lat": 18.71,
+    "lon": -110.98,
+    "depth": 25,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "San Benedicto Canyon",
+    "lat": 19.3167,
+    "lon": -110.8167,
+    "depth": 35,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "The Aquarium",
+    "lat": 19.31,
+    "lon": -110.81,
     "depth": 15,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
@@ -93,10 +81,8 @@
     "name": "O'Neal Rock",
     "lat": 18.7917,
     "lon": -110.9417,
-    "osm_id": null,
-    "osm_type": null,
     "depth": 30,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
@@ -105,81 +91,16 @@
     }
   },
   {
-    "name": "The Boiler",
-    "lat": 18.72,
-    "lon": -110.97,
-    "depth": 30,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Advanced",
-    "tags": {
-      "source": "curated",
-      "addedBy": "fill_remaining_gaps"
-    }
-  },
-  {
-    "name": "Cabo Pearce",
-    "lat": 18.73,
-    "lon": -110.95,
-    "depth": 25,
-    "site_type": "wall",
-    "entry_type": "boat",
-    "difficulty": "Advanced",
-    "tags": {
-      "source": "curated",
-      "addedBy": "fill_remaining_gaps"
-    }
-  },
-  {
-    "name": "San Benedicto Canyon",
-    "lat": 19.3,
-    "lon": -110.8,
-    "depth": 35,
-    "site_type": "wall",
-    "entry_type": "boat",
-    "difficulty": "Advanced",
-    "tags": {
-      "source": "curated",
-      "addedBy": "fill_remaining_gaps"
-    }
-  },
-  {
-    "name": "Punta Tosca",
-    "lat": 18.71,
-    "lon": -110.98,
+    "name": "Fondeadero",
+    "lat": 18.75,
+    "lon": -110.94,
     "depth": 18,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
-    }
-  },
-  {
-    "name": "The Aquarium",
-    "lat": 19.31,
-    "lon": -110.81,
-    "depth": 12,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Beginner",
-    "tags": {
-      "source": "curated",
-      "addedBy": "fill_remaining_gaps"
-    }
-  },
-  {
-    "name": "Fondeadero",
-    "lat": 18.75,
-    "lon": -110.94,
-    "depth": 15,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Beginner",
-    "tags": {
-      "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "gap_fill"
     }
   }
 ]
