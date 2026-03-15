@@ -2,7 +2,7 @@
 name: Daphne Minor
 lat: -0.4
 lng: -90.37
-difficulty: Advanced
+difficulty: Intermediate
 maxDepth: 20
 entryType: boat
 siteType: wall
@@ -24,7 +24,7 @@ Daphne Minor is a dive site in Galápagos Islands offering rewarding diving on h
 - **Location**: Galápagos Islands, South America
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Advanced
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10-25 meters (30-80 feet)
 - **Current**: Moderate to strong

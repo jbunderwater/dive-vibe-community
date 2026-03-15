@@ -22,10 +22,10 @@ After the constricted passage of Big Crack, Silfra Hall opens into a larger, mor
 ## Site Information
 
 - **Location**: Thingvellir National Park, Iceland (second section of Silfra fissure)
-- **Entry Type**: Shore entry (accessed as part of Silfra dive, same entry platform)
-- **Site Type**: Tectonic fissure / freshwater cave
+- **Entry Type**: Shore entry
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters (recreational limit; cave system beneath reaches 45m)
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 100+ meters
 - **Water Temperature**: 2–4°C (35–39°F) year-round
 - **Current**: Minimal

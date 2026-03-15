@@ -13,54 +13,71 @@ addedBy: osm_import
 
 ## Hairball
 
-Hairball is a reef dive site in Lembeh Strait, Asia.
+Hairball is one of the most celebrated muck dive sites in Lembeh Strait and arguably in the entire world. The site takes its name from the hairy frogfish — a bizarre ambush predator that mimics a fuzzy sponge or algae clump — which is found here in extraordinary numbers. For macro photographers, Hairball consistently delivers multiple frogfish species per dive, alongside an astonishing variety of other critters on its volcanic sand slope.
 
 ## Overview
 
-Hairball is a dive site in Lembeh Strait offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Hairball features a dark sand slope that descends from about 3 meters to beyond 20 meters, scattered with rubble, encrusted debris, rope sponges, and the occasional coral head. The volcanic black sand provides a dramatic contrast for photography. The site is accessible as a house reef from the adjacent NAD-Lembeh and Dive Into Lembeh resorts, making it one of the most dived and well-known sites in the strait. Night dives here are legendary — the diversity of nocturnal critters rivals the daytime experience.
 
 ## Site Information
 
-- **Location**: Lembeh Strait, Asia
+- **Location**: Southern Lembeh Strait, North Sulawesi, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Muck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 5–15 meters
+- **Water Temperature**: 26–29°C
+- **Current**: Minimal to mild
+- **Best Time**: Year-round; multiple dives per day possible
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Hairball is Lembeh's premier frogfish site. At least eight frogfish species have been recorded in the strait, and Hairball holds multiple individuals at any given time — white, yellow, black, hairy, and giant variants have all been photographed here. Alongside frogfish, divers regularly encounter:
+
+- **Hairy frogfish** (*Antennarius striatus*) — the site's namesake, often found in various color morphs
+- **Ambon scorpionfish** — resting motionless on the sand
+- **Coconut octopus** — hiding inside shell clusters and half-buried debris
+- **Wunderpus octopus** — occasionally encountered on early morning dives
+- **Roughsnout ghost pipefish** and common ghost pipefish
+- **Thorny seahorses** and common seahorses
+- **Stargazers** — buried in sand with only eyes visible (especially at night)
+- **Decorator crabs** and carrying crabs
+- **Napoleon snake eels** and ribbon eels
+- **Spanish dancer nudibranchs** — a stunning night dive highlight
+- **Cuttlefish and cuttlefish eggs** (with visible pre-hatched embryos)
+
+Night dives reveal cuttlefish, Spanish dancers, stargazers emerging from the sand, and occasionally rhinopias.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin the dive in the shallows (3–5 m) over the sandy flat, then work deeper along the slope. The frogfish tend to congregate on and around sponge-encrusted rubble patches between 8 and 15 meters. Allow time to scan the open sand for buried stargazers and camouflaged scorpionfish. The shallows are productive for coconut octopus and seahorses. A slow, methodical pace of 30–60 minutes covers the productive zone thoroughly.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by dive boat or from the house reef of adjacent resorts. Entry via giant stride. Night dives require torch lights and a safety sausage (SMB) for boat pickup. Move slowly to avoid stirring the sediment.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Take your time — frogfish sit motionless and are easy to miss if you move too quickly
+- Look at every sponge-covered rock and piece of debris; frogfish mimic them perfectly
+- Check shell clusters and coconut husks for hiding octopus
+- Bring a macro lens; wide-angle is rarely needed here
+- Night dives are highly recommended — the site transforms after dark
+- Ask your guide specifically for wunderpus and rhinopias — they require a sharp eye
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Currents are minimal at this site. The main hazard is the camouflaged nature of venomous species — stonefish and scorpionfish rest on the bottom and look like rubble. Never place hands on sand or substrate. Maintain good buoyancy control to avoid disturbing the sediment.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Hairball is among the world's top macro photography sites. The black volcanic sand creates a perfectly clean, dark background that makes colorful critters — hairy frogfish, nudibranchs, ghost pipefish — pop in images. Close-focus wide-angle can capture frogfish in their environmental context. For super-macro, juvenile frogfish and small shrimp species reward extension tube setups. Early morning light and multiple dives in one day are standard practice.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Validated**: 2026-03-15
+- **Validation Sources**: solitude.world, lembehresort.com, nad-lembeh.com
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*Dive site information researched from Lembeh Resort, NAD-Lembeh Resort, and Solitude World. Last updated 2026-03-15.*

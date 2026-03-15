@@ -3,7 +3,7 @@ name: Cousins Rock
 lat: -0.2
 lng: -90.56
 difficulty: Advanced
-maxDepth: 18
+maxDepth: 30
 entryType: boat
 siteType: wall
 ref: null
@@ -13,54 +13,43 @@ addedBy: osm_import
 
 ## Cousins Rock
 
-Cousins Rock is a reef dive site in Galápagos Islands, South America.
+Cousins Rock is a collapsed volcanic tuff cone separated from Santiago Island, located roughly 90 minutes from the Itabaca Channel and 15 minutes from Bartolomé. Only the upper rim of the tuff cone is visible above water. The site is prized for combining big-animal pelagic action with exceptional macro life — a rarity in the Galápagos where most sites specialize in one or the other.
 
 ## Overview
 
-Cousins Rock is a dive site in Galápagos Islands offering rewarding diving on healthy coral reef structures. Located in the South America region, this site offers 10-25 meters of visibility with water temperatures averaging 15-26°C.
+The underwater topography is a series of terraced volcanic rock ledges descending from a shallow platform at 5–8 meters down to 30 meters before dropping to a sandy bottom at 40 meters. The ledge faces and overhangs are covered with a forest of black coral, red sponges, sea fans, and small hard corals. The layered volcanic rock creates abundant hiding places for macro species. Out in the blue water beyond the wall, hammerheads, Galápagos sharks, and manta rays cruise the current. Currents are moderate, making this accessible for advanced divers while still productive for careful macro photographers.
 
 ## Site Information
 
-- **Location**: Galápagos Islands, South America
+- **Location**: Off Santiago Island, Galápagos Islands
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 10-25 meters (30-80 feet)
-- **Current**: Moderate to strong
-- **Best Time**: June to November
+- **Maximum Depth**: 30 meters
+- **Typical Visibility**: 9–18 meters (30–60 feet); better in cold season
+- **Water Temperature**: 18–26°C depending on season
+- **Current**: Light to moderate; stronger at depth and around the point
+- **Best Time**: Year-round; June–November for manta ray and whale shark chances
 
 ## Marine Life
 
-Divers at this site can expect to encounter hammerhead sharks, whale sharks, sea lions, marine iguanas, manta rays, eagle rays, sea turtles, dolphins. Additional species commonly sighted include penguins, moray eels.
+The shallow platform at the start of the dive is populated by playful Galápagos sea lions. Giant Pacific seahorses cling to black coral branches on the terraced ledge faces — this is one of the most reliable seahorse sites in the Galápagos. Red-lipped batfish are found on the plateau near the sandy bottom. Different species of hawkfish, nudibranchs, and frogfish inhabit the overhangs. Whitetip reef sharks rest along the wall base. Green sea turtles cruise past. Out in the blue: scalloped hammerhead sharks (often in schools), Galápagos sharks, spotted eagle rays in large groups, and blacktip reef sharks. Manta rays visit during the cold season (June–November). Barracuda schools sweep through the mid-water. With luck, a whale shark may pass the site.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Begin on the shallow platform (5–8 meters) where sea lions often greet divers. Move along the terrace face, searching ledges for seahorses, hawkfish, and nudibranchs. Descend progressively along the terraced steps to 20–30 meters. Look into the blue periodically for hammerheads and rays. The final section of the dive typically brings divers back up the wall and into the shallows for a safety stop. Surge can be present in the 5-meter zone on the upswing of swell — maintain distance from the wall.
 
 ## Safety Considerations
 
-Be aware of strong currents, cold thermoclines, surge in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Currents can intensify around the outer point and below 20 meters. The shallow zone has surge on exposed days. Carry an SMB. The site is suitable for confident Advanced divers comfortable with drift conditions; very calm days make it accessible to upper-intermediate divers.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Cousins Rock rewards patient macro photographers — seahorses on black coral, nudibranchs on sponges, and frogfish in crevices. Simultaneously, wide-angle shooters can work hammerheads and eagle rays passing in the blue. The contrast between the dense black coral wall and open blue water makes for compelling compositions. Early morning light penetrates the shallows well.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-03-15
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from Scuba Iguana dive center (Santa Cruz), Galapatours, DiveBooker, and PADI dive-site records. Last updated 2026-03-15.*

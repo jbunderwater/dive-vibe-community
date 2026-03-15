@@ -3,7 +3,7 @@ name: Police Pier
 lat: 1.4583
 lng: 125.2167
 difficulty: Beginner
-maxDepth: 12
+maxDepth: 15
 entryType: boat
 siteType: muck
 ref: null
@@ -25,7 +25,7 @@ Police Pier is a dive site in Lembeh Strait offering excellent diving on healthy
 - **Entry Type**: Boat dive
 - **Site Type**: Muck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 12 meters
+- **Maximum Depth**: 15 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)

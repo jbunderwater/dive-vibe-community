@@ -3,7 +3,7 @@ name: Angel's Window
 lat: 1.4633
 lng: 125.22
 difficulty: Intermediate
-maxDepth: 22
+maxDepth: 25
 entryType: boat
 siteType: muck
 ref: null
@@ -25,7 +25,7 @@ Angel's Window is a dive site in Lembeh Strait offering rewarding diving on heal
 - **Entry Type**: Boat dive
 - **Site Type**: Muck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 meters
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)

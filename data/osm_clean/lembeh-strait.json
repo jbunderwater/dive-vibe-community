@@ -11,7 +11,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "NAD Lembeh",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "nad-lembeh.com, diveworldwide.com"
     }
   },
   {
@@ -26,7 +28,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "solitude.world, lembehresort.com, nad-lembeh.com"
     }
   },
   {
@@ -35,13 +39,15 @@
     "lon": 125.2417,
     "osm_id": null,
     "osm_type": null,
-    "depth": 18,
+    "depth": 25,
     "site_type": "muck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "nad-lembeh.com, lembehresort.com, infinitebluedivetravel.com"
     }
   },
   {
@@ -53,10 +59,12 @@
     "depth": 20,
     "site_type": "muck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "nadlembehresort.wordpress.com, lembehresort.com"
     }
   },
   {
@@ -68,10 +76,12 @@
     "depth": 22,
     "site_type": "muck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "lembehresort.com, zubludiving.com, infinitebluedivetravel.com"
     }
   },
   {
@@ -86,7 +96,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "nad-lembeh.com, lembehresort.com, solitude.world"
     }
   },
   {
@@ -95,13 +107,15 @@
     "lon": 125.2167,
     "osm_id": null,
     "osm_type": null,
-    "depth": 12,
+    "depth": 15,
     "site_type": "muck",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "starfish.ch, zubludiving.com, blog.padi.com"
     }
   },
   {
@@ -110,13 +124,15 @@
     "lon": 125.2583,
     "osm_id": null,
     "osm_type": null,
-    "depth": 18,
+    "depth": 20,
     "site_type": "muck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "lembehresort.com, tropilogy.com, zubludiving.com"
     }
   },
   {
@@ -125,13 +141,15 @@
     "lon": 125.2283,
     "osm_id": null,
     "osm_type": null,
-    "depth": 20,
+    "depth": 24,
     "site_type": "muck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "starfish.ch, lembehresort.com, zubludiving.com"
     }
   },
   {
@@ -140,13 +158,15 @@
     "lon": 125.2667,
     "osm_id": null,
     "osm_type": null,
-    "depth": 15,
+    "depth": 20,
     "site_type": "muck",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "starfish.ch, zubludiving.com, lembehresort.com"
     }
   },
   {
@@ -161,7 +181,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "nad-lembeh.com, solitude.world, diversiondivetravel.com.au"
     }
   },
   {
@@ -170,13 +192,15 @@
     "lon": 125.22,
     "osm_id": null,
     "osm_type": null,
-    "depth": 22,
+    "depth": 25,
     "site_type": "muck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "infinitebluedivetravel.com, starfish.ch, zubludiving.com"
     }
   },
   {
@@ -191,7 +215,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "zubludiving.com, lembehresort.com, dive-the-world.com"
     }
   }
 ]

@@ -13,52 +13,54 @@ addedBy: osm_import
 
 ## Silfra Cathedral
 
-Silfra Cathedral is a cave dive site in Silfra Fissure, Europe.
+Silfra Cathedral is widely considered the highlight of the Silfra dive — a 100-meter-long open corridor where vertical lava walls drop 20 meters to the fissure floor, creating the sensation of drifting through a vast blue hall of stone.
 
 ## Overview
 
-Silfra Cathedral is a renowned dive site in Silfra Fissure featuring underwater cave and cavern formations. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Cathedral is the third section of the Silfra fissure system, positioned between Silfra Hall and the exit Lagoon. It earns its name from the towering scale of its walls and the cathedral-like quality of light filtering through the water. Visibility here frequently exceeds 100 meters, meaning divers can see clearly from one end of the entire section to the other. If other divers are ahead in the column, their exhaled bubbles rise and catch the light against the blue walls — a phenomenon known locally as the chandelier effect. Water temperature is a constant 2–4°C. The Cathedral drops to approximately 20 meters at its deepest point. Standard guided dives here require only an Open Water certification plus drysuit experience.
 
 ## Site Information
 
-- **Location**: Silfra Fissure, Europe
+- **Location**: Thingvellir National Park, Iceland (third section of Silfra fissure)
 - **Entry Type**: Shore entry
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: May to October
+- **Typical Visibility**: 100+ meters (end-to-end visibility within Cathedral section)
+- **Water Temperature**: 2–4°C (35–39°F) year-round
+- **Current**: Minimal
+- **Best Time**: Year-round; blue hues most vivid in clear winter light
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+As with the rest of Silfra, marine life is sparse but distinctive. Troll-hair algae coats parts of the lower walls. The openness of the Cathedral allows maximum light penetration, which intensifies the blue coloration of the water itself. Dwarf char may be spotted near the base of the walls. There is no coral, no tropical fish, and no invertebrate encrustation — the aesthetic here is geological: raw black lava in crystalline blue water.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Cathedral is reached after drifting through Big Crack and Silfra Hall from the shore entry. The fissure widens and opens dramatically. The floor is mostly clean lava with minimal sediment. Average depth through Cathedral is 10–15 meters, with the deepest point at approximately 20 meters near the center. Divers drift naturally with minimal finning required. From Cathedral, the dive continues into Silfra Lagoon for exit.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Entry is at the same Silfra shore platform as all other sections. Exit is at the Lagoon. Cathedral cannot be entered independently. The entire drift from entry platform to Lagoon exit takes approximately 30–45 minutes depending on air consumption. One dive per day per person is the Thingvellir park limit.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Position yourself at the base of the walls and look upward to fully appreciate the height of the fissure above you
+- If there are divers ahead, pause and watch the chandelier effect — bubbles rising 15–20 meters in perfectly clear water
+- Use ambient light if conditions allow; strobes can create backscatter in the micro-particle-free water
+- Drysuit and recent drysuit experience are mandatory
 
 ## Safety Considerations
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
+Drysuit buoyancy control is critical throughout Cathedral — at 20 meters, rapid ascent from an over-inflated suit is a real risk. Practice buoyancy trim before entering. The 2–4°C water causes rapid heat loss even in a drysuit; follow the one-dive-per-day limit. Stay in the main Cathedral corridor and do not attempt to penetrate any side passages or crevices.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Silfra Cathedral is one of the most photogenic underwater environments in the world. A wide-angle lens (10–17mm fisheye) is ideal to capture the full vertical scale. Shoot upward toward the surface to capture the blue-to-black gradient and the chandelier bubble effect. The water clarity means images retain sharpness at extraordinary distances. Natural light is generally sufficient for ambient shots; video performs exceptionally well here.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-03-15
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from dive.is, adventures.is, scubadiverlife.com, and silfrafissure.com. Last updated 2026-03-15.*

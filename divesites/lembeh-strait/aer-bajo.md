@@ -3,7 +3,7 @@ name: Aer Bajo
 lat: 1.5
 lng: 125.2667
 difficulty: Beginner
-maxDepth: 15
+maxDepth: 20
 entryType: boat
 siteType: muck
 ref: null
@@ -25,7 +25,7 @@ Aer Bajo is a dive site in Lembeh Strait offering excellent diving on healthy co
 - **Entry Type**: Boat dive
 - **Site Type**: Muck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 meters
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)

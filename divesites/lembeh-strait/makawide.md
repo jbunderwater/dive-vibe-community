@@ -3,7 +3,7 @@ name: Makawide
 lat: 1.47
 lng: 125.2283
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 24
 entryType: boat
 siteType: muck
 ref: null
@@ -25,7 +25,7 @@ Makawide is a dive site in Lembeh Strait offering rewarding diving on healthy co
 - **Entry Type**: Boat dive
 - **Site Type**: Muck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 24 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)

@@ -1,7 +1,7 @@
 ---
 name: San Benedicto Canyon
-lat: 19.3
-lng: -110.8
+lat: 19.3167
+lng: -110.8167
 difficulty: Advanced
 maxDepth: 40
 entryType: boat
@@ -13,55 +13,54 @@ addedBy: osm_import
 
 ## San Benedicto Canyon
 
-San Benedicto Canyon is a wall dive site in Socorro Islands, Pacific.
+San Benedicto Canyon (locally called El Canyon) is at the southern end of Isla San Benedicto. The formation is a large horseshoe of volcanic rock enclosing a sandy floor, creating a sheltered canyon structure that descends to 40 meters at its deepest point. It hosts two manta cleaning stations and draws sharks and dolphins in numbers comparable to the more famous Boiler on the same island.
 
 ## Overview
 
-San Benedicto Canyon is a dive site in Socorro Islands featuring a dramatic vertical wall that drops into the deep blue. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+El Canyon functions as a productive alternative to The Boiler when conditions at the northwest end of San Benedicto are unfavorable, and for many divers it surpasses The Boiler for shark diversity. Silky sharks, Galapagos sharks, and scalloped hammerheads are consistently encountered here. The two cleaning stations within the canyon attract manta rays, and the sheltered horseshoe structure reduces current exposure relative to the exposed pinnacle sites. The canyon also produces some of the archipelago's best encounters with free-swimming octopuses — unusual behavior that multiple visitors have noted.
 
 ## Site Information
 
-- **Location**: Socorro Islands, Pacific
+- **Location**: Southern end of Isla San Benedicto, Revillagigedo Archipelago (liveaboard only)
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 15–25 meters (can be less than at Roca Partida)
+- **Current**: Moderate at the canyon mouth; reduced inside the horseshoe
+- **Best Time**: November to June
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Silky sharks and Galapagos sharks are the dominant shark species here, often seen in groups patrolling the canyon walls. Scalloped hammerheads pass through in schools off the point. Giant Pacific manta rays attend the two cleaning stations — encounters are reliable though sometimes less extended than at The Boiler. Dolphins pass through the area, and whitetip reef sharks rest in the sandy interior. A remarkable feature reported by multiple dive operators is free-swimming octopuses moving openly through the canyon — behavior rarely seen at other Socorro sites. Clarion angelfish, moray eels, jacks, and other reef species inhabit the rocky walls.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-35 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Divers enter the canyon from the mouth and work through the horseshoe, descending along the walls. The interior sandy floor offers a reference point for depth control — the canyon reaches 40 meters, and Nitrox divers should track bottom time carefully. The cleaning stations are worked from mid-water positions, hovering quietly. The horseshoe shape enables a loop dive returning to the entry point. Safety stops are conducted in the blue water at the canyon mouth with SMB deployment.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Liveaboard access only. Zodiac tender entry via giant stride. SMB required for ascent and zodiac pickup.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- El Canyon is an excellent "Plan B" site — if The Boiler is unfavorable, the canyon reliably delivers shark action and manta encounters
+- Watch depth closely — the sandy bottom inside the canyon can reach 40 meters and Nitrox limits apply
+- Look for octopuses actively swimming through the canyon — this is unusually visible behavior and easy to miss while scanning for sharks
+- Nitrox is strongly recommended given the maximum depth
+- 5mm wetsuit; water temperature 22–26°C
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Maximum depth of 40 meters demands careful gas and decompression management, especially for divers using air. Currents at the canyon mouth can be stronger than inside the horseshoe. Remote location requires self-sufficient dive teams. All liveaboard operators require Advanced certification and 50+ logged dives.
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+El Canyon offers a more structured photographic environment than the open pinnacles — the horseshoe shape provides walls as background for shark shots. Wide-angle work with silky and Galapagos sharks against the volcanic rock produces compelling images. The two cleaning stations offer manta opportunities in a contained setting. If an octopus is actively swimming, close-focus wide-angle captures the rarity of the behavior.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-03-15
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*Validated against Dive-the-World, UWPhotographyGuide, ACD Diving trip report, and Nautilus Adventures site descriptions. Last updated 2026-03-15.*

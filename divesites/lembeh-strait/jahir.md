@@ -3,7 +3,7 @@ name: Jahir
 lat: 1.4917
 lng: 125.2583
 difficulty: Intermediate
-maxDepth: 18
+maxDepth: 20
 entryType: boat
 siteType: muck
 ref: null
@@ -25,7 +25,7 @@ Jahir is a dive site in Lembeh Strait offering rewarding diving on healthy coral
 - **Entry Type**: Boat dive
 - **Site Type**: Muck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)
