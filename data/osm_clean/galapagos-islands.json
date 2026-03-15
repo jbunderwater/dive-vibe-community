@@ -1,0 +1,176 @@
+[
+  {
+    "name": "Galapagos fan dive",
+    "lat": -0.9010163,
+    "lon": -89.6106449,
+    "osm_id": 3667973195,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "amenity": "tourism",
+      "name": "Galapagos fan dive",
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard.com, padi.com/diving-in/the-galapagos-islands"
+    }
+  },
+  {
+    "name": "Mosquera",
+    "lat": -0.4085075,
+    "lon": -90.2772687,
+    "osm_id": 13121663404,
+    "osm_type": "node",
+    "depth": 27,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Mosquera",
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaiguana.com/mosquera-north, padi.com/dive-site/ecuador/mosquera, theportuguesetraveler.com/galapagos/santa-cruz/diving-in-north-seymour-and-mosquera"
+    }
+  },
+  {
+    "name": "Gordon Rocks",
+    "lat": -0.5673265,
+    "lon": -90.1425673,
+    "osm_id": 13123255819,
+    "osm_type": "node",
+    "depth": 30,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "Gordon Rocks",
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaiguana.com/gordon-rocks, happygringo.com/gordon-rocks-galapagos-diving, scubaboard.com/gordon-rocks-to-dive-or-not"
+    }
+  },
+  {
+    "name": "Plazas",
+    "lat": -0.5796433,
+    "lon": -90.1597537,
+    "osm_id": 13123276912,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "Plazas",
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "dive-the-world.com/diving-sites-galapagos, theportuguesetraveler.com/galapagos/diving-guide-galapagos"
+    }
+  },
+  {
+    "name": "Kicker Rock (León Dormido)",
+    "lat": -0.77,
+    "lon": -89.52,
+    "depth": 25,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "padi.com/dive-site/ecuador/leon-dormido-kicker-rock, happygringo.com/kicker-rock-galapagos-leon-dormido, aquaventuresgps.com/diving-at-kicker-rock"
+    }
+  },
+  {
+    "name": "Cabo Marshall",
+    "lat": -0.24,
+    "lon": -90.52,
+    "depth": 22,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "galapatours.com/cape-marshall-diving, starfish.ch/Galapagos-west, liveaboard.com/diving/galapagos/cabo-marshall"
+    }
+  },
+  {
+    "name": "Cousins Rock",
+    "lat": -0.2,
+    "lon": -90.56,
+    "depth": 30,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "scubaiguana.com/cousins, padi.com/dive-site/ecuador/bartolomecousin-rocks, galapatours.com/cousin-rock-dive-galapagos"
+    }
+  },
+  {
+    "name": "Punta Vicente Roca",
+    "lat": -0.05,
+    "lon": -91.56,
+    "depth": 27,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "divephotoguide.com/punta-vicente-roca, liveaboard.com/diving/galapagos/punta-vicente-roca, blog.padi.com/top-dive-sites-in-the-galapagos"
+    }
+  },
+  {
+    "name": "Isla Bartolome",
+    "lat": -0.28,
+    "lon": -90.54,
+    "depth": 27,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "scubaiguana.com/bartolome-galapagos-dive-site, eagleraygalapagos.com/bartolome, academybaydiving.com/galapagos-dive-sites"
+    }
+  },
+  {
+    "name": "North Seymour",
+    "lat": -0.38,
+    "lon": -90.29,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "scubaiguana.com/north-seymour-channel, aquaventuresgps.com/north-seymour, theportuguesetraveler.com/galapagos/santa-cruz/diving-in-north-seymour-and-mosquera"
+    }
+  },
+  {
+    "name": "Daphne Minor",
+    "lat": -0.4,
+    "lon": -90.37,
+    "depth": 20,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "scubaiguana.com/daphne-galapagos-dive-site, eagleraygalapagos.com/daphne-minor, naturegalapagos.com/daphne-minor"
+    }
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Little Komodo",
+    "filename": "little-komodo.md",
+    "lat": -3.83,
+    "lng": 134.1,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Batu Rufas",
+    "filename": "batu-rufas.md",
+    "lat": -3.85,
+    "lng": 134.05,
+    "difficulty": "Intermediate",
+    "maxDepth": 22,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Flasher Beach",
+    "filename": "flasher-beach.md",
+    "lat": -3.87,
+    "lng": 134.08,
+    "difficulty": "Beginner",
+    "maxDepth": 15,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Whale Shark Bagan",
+    "filename": "whale-shark-bagan.md",
+    "lat": -3.8,
+    "lng": 134.12,
+    "difficulty": "Beginner",
+    "maxDepth": 10,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Namatota Channel",
+    "filename": "namatota-channel.md",
+    "lat": -3.82,
+    "lng": 134.06,
+    "difficulty": "Advanced",
+    "maxDepth": 28,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Saruenus Island",
+    "filename": "saruenus-island.md",
+    "lat": -3.78,
+    "lng": 134.15,
+    "difficulty": "Intermediate",
+    "maxDepth": 18,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Iris Wall",
+    "filename": "iris-wall.md",
+    "lat": -3.86,
+    "lng": 134.07,
+    "difficulty": "Advanced",
+    "maxDepth": 35,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "The Corals Garden",
+    "filename": "the-corals-garden.md",
+    "lat": -3.84,
+    "lng": 134.11,
+    "difficulty": "Beginner",
+    "maxDepth": 12,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Sawandek Jetty",
+    "filename": "sawandek-jetty.md",
+    "lat": -3.81,
+    "lng": 134.13,
+    "difficulty": "Beginner",
+    "maxDepth": 8,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Aiduma Island Wall",
+    "filename": "aiduma-island-wall.md",
+    "lat": -3.9,
+    "lng": 134.04,
+    "difficulty": "Advanced",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  }
+]

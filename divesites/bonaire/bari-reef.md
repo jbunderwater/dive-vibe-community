@@ -2,7 +2,7 @@
 name: Bari Reef
 lat: 12.1674719
 lng: -68.2872007
-difficulty: Intermediate
+difficulty: Beginner
 maxDepth: 30
 entryType: shore
 siteType: reef
@@ -20,9 +20,9 @@ Bari Reef is one of Bonaire's most popular and easily accessible dive sites, loc
 
 ## Site Information
 - **Location**: Near Kralendijk, central Bonaire (close to Sand Dollar Resort)
-- **Entry Type**: Shore entry (easy, sandy)
-- **Site Type**: Reef
-- **Difficulty Level**: Intermediate
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Difficulty Level**: Beginner
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-30 meters
 - **Current**: Usually light

@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Guoddus Garden",
+    "filename": "guoddus-garden.md",
+    "lat": 12.0218714,
+    "lng": 92.8006998,
+    "difficulty": "Intermediate",
+    "maxDepth": 20,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 649984297
+  },
+  {
+    "name": "The Wall",
+    "filename": "the-wall.md",
+    "lat": 12.0547239,
+    "lng": 92.962155,
+    "difficulty": "Intermediate",
+    "maxDepth": 20,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": 649984298
+  },
+  {
+    "name": "MV Mars",
+    "filename": "mv-mars.md",
+    "lat": 12.0640919,
+    "lng": 92.9633935,
+    "difficulty": "Intermediate",
+    "maxDepth": 20,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 649984299
+  },
+  {
+    "name": "Johnson's Reef",
+    "filename": "johnsons-reef.md",
+    "lat": 12.0783903,
+    "lng": 92.9520097,
+    "difficulty": "Intermediate",
+    "maxDepth": 20,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 649984300
+  },
+  {
+    "name": "South Button",
+    "filename": "south-button.md",
+    "lat": 12.2237104,
+    "lng": 93.0197618,
+    "difficulty": "Intermediate",
+    "maxDepth": 20,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 649984315
+  },
+  {
+    "name": "Duncan's Wreck",
+    "filename": "duncans-wreck.md",
+    "lat": 12.0065789,
+    "lng": 92.78051,
+    "difficulty": "Intermediate",
+    "maxDepth": 20,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 649985250
+  },
+  {
+    "name": "Dixon's",
+    "filename": "dixons.md",
+    "lat": 11.9218031,
+    "lng": 93.0930528,
+    "difficulty": "Intermediate",
+    "maxDepth": 20,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 649985251
+  },
+  {
+    "name": "Lighthouse",
+    "filename": "lighthouse.md",
+    "lat": 12.049892,
+    "lng": 92.9641702,
+    "difficulty": "Intermediate",
+    "maxDepth": 20,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 649985252
+  },
+  {
+    "name": "MV Primrose",
+    "filename": "mv-primrose.md",
+    "lat": 11.5934127,
+    "lng": 92.2123352,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 120523928
+  }
+]

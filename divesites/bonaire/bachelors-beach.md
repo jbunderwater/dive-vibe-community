@@ -2,7 +2,7 @@
 name: Bachelor's Beach
 lat: 12.1255594
 lng: -68.2873207
-difficulty: Intermediate
+difficulty: Beginner
 maxDepth: 30
 entryType: shore
 siteType: reef
@@ -18,9 +18,9 @@ Bachelor's Beach is a beautiful dive site located south of Kralendijk near the a
 
 ## Site Information
 - **Location**: South of Kralendijk, near airport
-- **Entry Type**: Shore entry (small sandy beach, short swim to drop-off)
-- **Site Type**: Reef
-- **Difficulty Level**: Intermediate
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Difficulty Level**: Beginner
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-30 meters
 - **Current**: Usually light

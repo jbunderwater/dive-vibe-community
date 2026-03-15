@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Bajo Alcyone",
+    "lat": 5.5167,
+    "lon": -87.0667,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 30,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Dirty Rock",
+    "lat": 5.5333,
+    "lon": -87.05,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 30,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Manuelita Outside",
+    "lat": 5.5583,
+    "lon": -87.05,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 30,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Manuelita Inside",
+    "lat": 5.56,
+    "lon": -87.0467,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 15,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Punta Maria",
+    "lat": 5.525,
+    "lon": -87.075,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 25,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Silverado",
+    "lat": 5.5417,
+    "lon": -87.0583,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 30,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Viking Rock",
+    "lat": 5.55,
+    "lon": -87.0417,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 25,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Lobster Rock",
+    "lat": 5.535,
+    "lon": -87.0633,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 18,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "name": "Diving Area",
+    "lat": 36.5217937,
+    "lon": -121.9405398,
+    "osm_id": 5163864,
+    "osm_type": "relation",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Diving Area",
+      "sport": "scuba_diving",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "name": "Bluefish Wall",
+    "lat": 36.5228161,
+    "lon": -121.9420552,
+    "osm_id": 79843825,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "wall",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Bluefish Wall",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Breakwater Cove",
+    "lat": 36.614,
+    "lon": -121.895,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "McAbee Beach",
+    "lat": 36.618,
+    "lon": -121.9,
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Lovers Point",
+    "lat": 36.625,
+    "lon": -121.915,
+    "depth": 12,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Point Lobos - Bluefish Cove",
+    "lat": 36.52,
+    "lon": -121.942,
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Point Lobos - Whalers Cove",
+    "lat": 36.519,
+    "lon": -121.938,
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Monastery Beach",
+    "lat": 36.524,
+    "lon": -121.928,
+    "depth": 30,
+    "site_type": "wall",
+    "entry_type": "shore",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Coral Street Beach",
+    "lat": 36.63,
+    "lon": -121.92,
+    "depth": 10,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Otter Cove",
+    "lat": 36.633,
+    "lon": -121.925,
+    "depth": 14,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Eric's Pinnacle",
+    "lat": 36.612,
+    "lon": -121.898,
+    "depth": 22,
+    "site_type": "wall",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Metridium Fields",
+    "lat": 36.611,
+    "lon": -121.896,
+    "depth": 16,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Chase Reef",
+    "lat": 36.617,
+    "lon": -121.905,
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Aumentos Pinnacle",
+    "lat": 36.616,
+    "lon": -121.902,
+    "depth": 28,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  }
+]

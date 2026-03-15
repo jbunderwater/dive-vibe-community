@@ -1,0 +1,126 @@
+[
+  {
+    "name": "East Flower Garden Bank",
+    "lat": 27.9285288,
+    "lon": -93.6071848,
+    "osm_id": 6013525235,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "East Flower Garden Bank",
+      "natural": "reef",
+      "seamark:name": "East Flower Garden Bank",
+      "seamark:type": "seabed_area",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "West Flower Garden Bank",
+    "lat": 27.8681933,
+    "lon": -93.8240273,
+    "osm_id": 6013570427,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "West Flower Garden Bank",
+      "natural": "reef",
+      "seamark:name": "West Flower Garden Bank",
+      "seamark:type": "seabed_area",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Stetson Bank",
+    "lat": 28.163431,
+    "lon": -94.2990745,
+    "osm_id": 6014024399,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "Stetson Bank",
+      "natural": "reef",
+      "seamark:name": "Stetson Bank",
+      "seamark:type": "seabed_area",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "noaa"
+    }
+  },
+  {
+    "name": "McGrail Bank",
+    "lat": 27.9567,
+    "lon": -93.3167,
+    "depth": 45,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Bright Bank",
+    "lat": 27.8833,
+    "lon": -93.3,
+    "depth": 35,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Geyer Bank",
+    "lat": 27.7167,
+    "lon": -93.4667,
+    "depth": 40,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Rankin Bank",
+    "lat": 27.6833,
+    "lon": -93.5833,
+    "depth": 40,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "East Flower Garden Stairway",
+    "lat": 27.91,
+    "lon": -93.595,
+    "depth": 25,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  }
+]

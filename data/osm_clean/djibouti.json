@@ -1,0 +1,177 @@
+[
+  {
+    "name": "\u00celes Moucha \u0627\u0644\u062c\u0632\u0631 \u0645\u0648\u0634\u0627",
+    "lat": 11.7191937,
+    "lon": 43.1718877,
+    "osm_id": 316800294,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "\u00celes Moucha \u0627\u0644\u062c\u0632\u0631 \u0645\u0648\u0634\u0627",
+      "name:ar": "\u0627\u0644\u062c\u0632\u0631 \u0645\u0648\u0634\u0627",
+      "name:en": "Moucha Islands",
+      "name:fr": "\u00celes Moucha",
+      "name:hu": "Moucha-szigetek",
+      "place": "archipelago",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "\u00cele Maskali \u062c\u0632\u064a\u0631\u0629 \u0645\u0627\u0633\u0643\u0627\u0644\u064a",
+    "lat": 11.7139115,
+    "lon": 43.1570783,
+    "osm_id": 234743094,
+    "osm_type": "way",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "admin_level": "4",
+      "boundary": "administrative",
+      "name": "\u00cele Maskali \u062c\u0632\u064a\u0631\u0629 \u0645\u0627\u0633\u0643\u0627\u0644\u064a",
+      "name:ar": "\u062c\u0632\u064a\u0631\u0629 \u0645\u0627\u0633\u0643\u0627\u0644\u064a",
+      "name:en": "Maskali Island",
+      "name:fr": "\u00cele Maskali",
+      "name:hu": "Maskali Island",
+      "natural": "coastline",
+      "place": "islet",
+      "sport": "scuba_diving",
+      "wikidata": "Q23723098"
+    }
+  },
+  {
+    "name": "\u00cele Moucha \u062c\u0632\u064a\u0631\u0629 \u0645\u0648\u0634\u0627",
+    "lat": 11.7209561,
+    "lon": 43.195043,
+    "osm_id": 11092421,
+    "osm_type": "relation",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "is_in:country": "Djibouti",
+      "name": "\u00cele Moucha \u062c\u0632\u064a\u0631\u0629 \u0645\u0648\u0634\u0627",
+      "name:ar": "\u062c\u0632\u064a\u0631\u0629 \u0645\u0648\u0634\u0627",
+      "name:de": "Musha",
+      "name:en": "Moucha Island",
+      "name:es": "Isla Moucha",
+      "name:fr": "\u00cele Moucha",
+      "name:hu": "Moucha-szigetek",
+      "place": "island",
+      "sport": "scuba_diving",
+      "type": "multipolygon",
+      "wikidata": "Q258363",
+      "wikipedia": "es:Isla Moucha"
+    }
+  },
+  {
+    "name": "Moucha Island Reef",
+    "lat": 11.7,
+    "lon": 43.19,
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Maskali Island",
+    "lat": 11.72,
+    "lon": 43.21,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Iles des Sept Fr\u00e8res",
+    "lat": 12.45,
+    "lon": 43.38,
+    "depth": 25,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true"
+    }
+  },
+  {
+    "name": "Tadjoura Gulf",
+    "lat": 11.78,
+    "lon": 42.9,
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Arta Beach Reef",
+    "lat": 11.52,
+    "lon": 43.0,
+    "depth": 12,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Le Grumier Wreck",
+    "lat": 11.59,
+    "lon": 43.15,
+    "depth": 30,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Ghoubbet Al-Kharab",
+    "lat": 11.53,
+    "lon": 42.53,
+    "depth": 22,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Whale Shark Point",
+    "lat": 11.7,
+    "lon": 43.2,
+    "depth": 10,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  }
+]

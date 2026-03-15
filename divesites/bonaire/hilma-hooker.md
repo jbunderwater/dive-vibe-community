@@ -2,8 +2,8 @@
 name: Hilma Hooker
 lat: 12.1037524
 lng: -68.2901176
-difficulty: Advanced
-maxDepth: 30m
+difficulty: Intermediate
+maxDepth: 30
 entryType: shore
 siteType: wreck
 ref: 
@@ -20,9 +20,9 @@ The Hilma Hooker is Bonaire's most iconic wreck dive and one of the Caribbean's 
 
 ## Site Information
 - **Location**: South Bonaire (near Salt Pier)
-- **Entry Type**: Shore or boat entry
-- **Site Type**: Wreck
-- **Difficulty Level**: Advanced
+- **Entry Type**: Shore entry
+- **Site Type**: Wreck dive
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15-30 meters
 - **Current**: Can be moderate to strong

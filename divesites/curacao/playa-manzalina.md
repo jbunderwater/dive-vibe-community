@@ -2,10 +2,10 @@
 name: Playa Manzalina
 lat: 12.2454216
 lng: -69.1055983
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 25
 entryType: Shore
-siteType: Reef
+siteType: reef
 ref: null
 osmId: null
 addedBy: assistant
@@ -22,9 +22,9 @@ Playa Manzalina is a hidden gem located within Curaçao's San Juan Plantation on
 ## Site Information
 
 - **Location**: West coast, within San Juan Plantation
-- **Entry Type**: Shore dive from sandy/rocky beach
-- **Site Type**: Fringing coral reef
-- **Difficulty Level**: Beginner to Intermediate
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters (82 feet)
 - **Typical Visibility**: 20-25 meters (65-80 feet)
 - **Current**: Usually minimal to none

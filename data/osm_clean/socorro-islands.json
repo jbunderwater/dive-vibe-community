@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Roca Partida",
+    "lat": 19.0,
+    "lon": -112.0667,
+    "depth": 50,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "nautilusliveaboards.com, padi.com/dive-site/mexico/roca-partida, dive-the-world.com, bluewaterdivetravel.com"
+    }
+  },
+  {
+    "name": "The Boiler",
+    "lat": 19.3,
+    "lon": -110.8,
+    "depth": 35,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "nautilusliveaboards.com, scubadiving.com, dive-the-world.com, divertrek.com"
+    }
+  },
+  {
+    "name": "Cabo Pearce",
+    "lat": 18.73,
+    "lon": -110.95,
+    "depth": 30,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "nautilusliveaboards.com, manjulikapramod.com/cabo-pearce, dive-the-world.com"
+    }
+  },
+  {
+    "name": "Punta Tosca",
+    "lat": 18.71,
+    "lon": -110.98,
+    "depth": 25,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "nautilusliveaboards.com/punta-tosca, dive-the-world.com, zubludiving.com"
+    }
+  },
+  {
+    "name": "San Benedicto Canyon",
+    "lat": 19.3167,
+    "lon": -110.8167,
+    "depth": 40,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "dive-the-world.com, uwphotographyguide.com, adcdiving.be"
+    }
+  },
+  {
+    "name": "The Aquarium",
+    "lat": 19.31,
+    "lon": -110.81,
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "uwphotographyguide.com, scubago.com, dive-the-world.com"
+    }
+  },
+  {
+    "name": "O'Neal Rock",
+    "lat": 18.7917,
+    "lon": -110.9417,
+    "depth": 30,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "uwphotographyguide.com, scubago.com, dive-the-world.com"
+    }
+  },
+  {
+    "name": "Fondeadero",
+    "lat": 18.75,
+    "lon": -110.94,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "divertrek.com, adcdiving.be, uwphotographyguide.com"
+    }
+  }
+]

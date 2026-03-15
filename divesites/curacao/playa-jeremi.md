@@ -2,10 +2,10 @@
 name: Playa Jeremi
 lat: 12.3284212
 lng: -69.1505496
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 25
 entryType: Shore
-siteType: Reef
+siteType: reef
 ref: null
 osmId: null
 addedBy: assistant
@@ -22,9 +22,9 @@ Playa Jeremi is a hidden gem located on Curaçao's rugged northwest coast, offer
 ## Site Information
 
 - **Location**: Northwest coast of Curaçao, near Lagun village
-- **Entry Type**: Shore dive from small rocky beach
-- **Site Type**: Fringing coral reef in protected bay
-- **Difficulty Level**: Beginner to Intermediate
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters (82 feet)
 - **Typical Visibility**: 20-30 meters (65-100 feet)
 - **Current**: Usually minimal to none

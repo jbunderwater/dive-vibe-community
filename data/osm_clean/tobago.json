@@ -1,0 +1,179 @@
+[
+  {
+    "name": "Japanese Gardens",
+    "lat": 11.29,
+    "lon": -60.5,
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "Kelleston Drain",
+    "lat": 11.28,
+    "lon": -60.49,
+    "depth": 25,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "Cathedral",
+    "lat": 11.295,
+    "lon": -60.505,
+    "depth": 22,
+    "site_type": "cave",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "London Bridge",
+    "lat": 11.3,
+    "lon": -60.51,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "Maverick Wreck",
+    "lat": 11.18,
+    "lon": -60.74,
+    "depth": 30,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "Diver's Dream",
+    "lat": 11.285,
+    "lon": -60.495,
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "Bookends",
+    "lat": 11.305,
+    "lon": -60.515,
+    "depth": 16,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "Angel Reef",
+    "lat": 11.27,
+    "lon": -60.485,
+    "depth": 12,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "Flying Reef",
+    "lat": 11.31,
+    "lon": -60.52,
+    "depth": 28,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "Arnos Vale",
+    "lat": 11.21,
+    "lon": -60.79,
+    "depth": 10,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "Mt Irvine Wall",
+    "lat": 11.2,
+    "lon": -60.8,
+    "depth": 20,
+    "site_type": "wall",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "Sisters Rocks",
+    "lat": 11.275,
+    "lon": -60.488,
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "Buccoo Reef",
+    "lat": 11.1803339,
+    "lon": -60.8266527,
+    "osm_id": 489074818,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "leisure": "nature_reserve",
+      "name": "Buccoo Reef",
+      "natural": "reef",
+      "protect_class": "98",
+      "ramsar": "yes",
+      "ref:ramsar": "1496",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  }
+]

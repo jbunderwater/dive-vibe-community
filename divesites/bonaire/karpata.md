@@ -5,7 +5,7 @@ lng: -68.3521324
 difficulty: Intermediate
 maxDepth: 30
 entryType: shore
-siteType: reef
+siteType: wall
 ref: 
 osmId: 663869440
 addedBy: jbunderwater_ai
@@ -20,8 +20,8 @@ Karpata is one of Bonaire's most beautiful and photogenic dive sites, located in
 
 ## Site Information
 - **Location**: North Bonaire (near Washington Slagbaai National Park)
-- **Entry Type**: Shore entry (concrete platform)
-- **Site Type**: Reef
+- **Entry Type**: Shore entry
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-30 meters

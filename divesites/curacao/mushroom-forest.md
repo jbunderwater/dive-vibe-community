@@ -5,7 +5,7 @@ lng: -69.1543365
 difficulty: Intermediate
 maxDepth: 30
 entryType: Boat
-siteType: Reef
+siteType: reef
 ref: null
 osmId: null
 addedBy: assistant
@@ -22,8 +22,8 @@ Mushroom Forest is widely considered one of the Caribbean's most spectacular div
 ## Site Information
 
 - **Location**: Northwest coast off Santa Cruz Plantation
-- **Entry Type**: Boat dive only
-- **Site Type**: Unique coral formations on sloping reef
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters (100 feet)
 - **Typical Visibility**: 25-40 meters (80-130 feet)

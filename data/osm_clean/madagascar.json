@@ -1,0 +1,71 @@
+[
+  {
+    "name": "Shark Point",
+    "lat": -13.3233766,
+    "lon": 48.0195595,
+    "osm_id": 6943550642,
+    "osm_type": "node",
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Shark Point",
+      "scuba_diving:entry:boat": "yes",
+      "scuba_diving:type:sharks": "yes",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Manta divesite",
+    "lat": -13.3683279,
+    "lon": 48.0627584,
+    "osm_id": 6943571813,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Manta divesite",
+      "scuba_diving:entry:boat": "yes",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Rosado",
+    "lat": -13.3931342,
+    "lon": 48.0866988,
+    "osm_id": 6943571814,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Rosado",
+      "scuba_diving:entry:boat": "yes",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Chameau",
+    "lat": -13.3220658,
+    "lon": 48.0994665,
+    "osm_id": 6943573745,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Chameau",
+      "scuba_diving:entry:boat": "yes",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  }
+]

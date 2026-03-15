@@ -1,0 +1,140 @@
+[
+  {
+    "name": "Neptune Islands North",
+    "lat": -35.235,
+    "lon": 136.065,
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps",
+      "shark_cage": "true"
+    }
+  },
+  {
+    "name": "Neptune Islands South",
+    "lat": -35.335,
+    "lon": 136.12,
+    "depth": 22,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps",
+      "shark_cage": "true"
+    }
+  },
+  {
+    "name": "North Neptune Reef",
+    "lat": -35.22,
+    "lon": 136.05,
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps",
+      "shark_cage": "true"
+    }
+  },
+  {
+    "name": "The Monument",
+    "lat": -35.25,
+    "lon": 136.08,
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps",
+      "shark_cage": "true"
+    }
+  },
+  {
+    "name": "Great White Shark Cage Dive Site",
+    "lat": -35.24,
+    "lon": 136.07,
+    "depth": 12,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps",
+      "shark_cage": "true"
+    }
+  },
+  {
+    "name": "South Neptune Pinnacles",
+    "lat": -35.34,
+    "lon": 136.13,
+    "depth": 30,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Hopkins Island",
+    "lat": -35.2,
+    "lon": 136.04,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps",
+      "shark_cage": "true"
+    }
+  },
+  {
+    "name": "English Island Reef",
+    "lat": -35.26,
+    "lon": 136.09,
+    "depth": 16,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps",
+      "shark_cage": "true"
+    }
+  },
+  {
+    "name": "Williams Island Caves",
+    "lat": -35.28,
+    "lon": 136.1,
+    "depth": 20,
+    "site_type": "cave",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Langton Island",
+    "lat": -35.31,
+    "lon": 136.11,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps",
+      "shark_cage": "true"
+    }
+  }
+]

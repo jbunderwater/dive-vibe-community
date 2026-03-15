@@ -1,0 +1,4960 @@
+[
+  {
+    "name": "Light House",
+    "lat": 28.4984313,
+    "lon": 34.5206951,
+    "osm_id": 250735128,
+    "osm_type": "node",
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "description:en": "House reef for many diveclubs. Elephant statue under the water",
+      "description:ru": "\u0414\u043e\u043c\u0430\u0448\u043d\u0438\u0439 \u0440\u0438\u0444 \u0434\u043b\u044f \u0434\u0430\u0439\u0432 \u0446\u0435\u043d\u0442\u0440\u043e\u0432. \u0415\u0441\u0442\u044c \u0441\u0442\u0430\u0442\u0443\u044f \u0441\u043b\u043e\u043d\u0430 \u043f\u043e\u0434 \u0432\u043e\u0434\u043e\u0439.",
+      "name": "Light House",
+      "scuba_diving:depth": "18",
+      "scuba_diving:difficulty": "1",
+      "scuba_diving:entry": "shore",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Eel Garden",
+    "lat": 28.5053487,
+    "lon": 34.5212322,
+    "osm_id": 251193614,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "description:en": "Sand bottom with hundreds of eels",
+      "description:ru": "\u041f\u0435\u0441\u0447\u0430\u043d\u043e\u0435 \u0434\u043d\u043e \u0441 \u0441\u043e\u0442\u043d\u044f\u043c\u0438 \u0443\u0433\u0440\u0435\u0439.",
+      "name": "Eel Garden",
+      "scuba_diving:depth": "20",
+      "scuba_diving:difficulty": "1",
+      "scuba_diving:entry": "shore",
+      "source": "local_knowledge",
+      "sport": "scuba_diving",
+      "sport:scuba_diving": "yes",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "\u0627\u0644\u062c\u0632\u0631",
+    "lat": 28.4772304,
+    "lon": 34.5132459,
+    "osm_id": 251193886,
+    "osm_type": "node",
+    "depth": 16,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "alt_name": "\u0627\u0644\u062c\u0632\u0631",
+      "description:en": "Coral underwater islands-reefs, amazing landscape. Good for night diving. Turtle living here.",
+      "description:ru": "\u041f\u043e\u0442\u0440\u044f\u0441\u0430\u044e\u0449\u0438\u0439 \u043f\u043e\u0434\u0432\u043e\u0434\u043d\u044b\u0439 \u043b\u0430\u043d\u0434\u0448\u0430\u0444\u0442 \u0438\u0437 \u043a\u043e\u0440\u0430\u043b\u043b\u043e\u0432\u044b\u0445 \u043e\u0441\u0442\u0440\u043e\u0432\u043a\u043e\u0432. \u041f\u043e\u0434\u0445\u043e\u0434\u0438\u0442 \u0434\u043b\u044f \u043d\u043e\u0447\u043d\u044b\u0445 \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0439. \u041d\u0430 \u0440\u0438\u0444\u0435 \u0436\u0438\u0432\u0435\u0442 \u0447\u0435\u0440\u0435\u043f\u0430\u0445\u0430.",
+      "name": "\u0627\u0644\u062c\u0632\u0631",
+      "name:ar": "\u0627\u0644\u062c\u0632\u0631",
+      "name:ar1": "\u0627\u0644\u062c\u0632\u0631",
+      "name:en": "The Islands",
+      "scuba_diving:depth": "16",
+      "scuba_diving:entry": "shore",
+      "source": "local_knowledge",
+      "sport": "scuba_diving",
+      "sport:scuba_diving": "yes",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "SS Thistlegorm",
+    "lat": 27.814092,
+    "lon": 33.9200482,
+    "osm_id": 255316037,
+    "osm_type": "node",
+    "depth": 31,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "description:ru": "\u0411\u0440\u0438\u0442\u0430\u043d\u0441\u043a\u0438\u0439 \u0432\u043e\u043e\u0440\u0443\u0436\u0435\u043d\u043d\u044b\u0439 \u0441\u0443\u0445\u043e\u0433\u0440\u0443\u0437, \u0437\u0430\u0442\u043e\u043d\u0443\u043b 6 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 1941 \u0433\u043e\u0434\u0430",
+      "historic": "wreck",
+      "name": "SS Thistlegorm",
+      "seamark:type": "wreck",
+      "source": "survey",
+      "sport": "scuba_diving",
+      "sport:scuba_diving": "yes",
+      "wikidata": "Q32276",
+      "wikimedia_commons": "Category:Thistlegorm (ship, 1940)",
+      "wikipedia": "ar:\u0633\u0641\u064a\u0646\u0629 \u0632\u064a\u0633\u062a\u0644 \u062c\u0648\u0631\u0645",
+      "wreck:max_depth": "31"
+    }
+  },
+  {
+    "name": "St John's Caves",
+    "lat": 23.6366824,
+    "lon": 35.8249781,
+    "osm_id": 271178997,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "cave",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "St John's Caves",
+      "sport": "scuba_diving",
+      "sport:scuba_diving": "yes"
+    }
+  },
+  {
+    "name": "East Abu Dabab 3",
+    "lat": 25.3441825,
+    "lon": 34.7774058,
+    "osm_id": 271180017,
+    "osm_type": "node",
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "East Abu Dabab 3",
+      "scuba_diving:entry:boat": "yes",
+      "sport": "scuba_diving",
+      "sport:scuba_diving": "yes",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Sataya South",
+    "lat": 24.1564359,
+    "lon": 35.7108504,
+    "osm_id": 271180391,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Sataya South",
+      "scuba_diving:type": "reef",
+      "sport": "scuba_diving",
+      "sport:scuba_diving": "yes"
+    }
+  },
+  {
+    "name": "Shaab Maksour South",
+    "lat": 24.238811,
+    "lon": 35.6542264,
+    "osm_id": 271180623,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Shaab Maksour South",
+      "scuba_diving:entry:boat": "yes",
+      "sport": "scuba_diving",
+      "sport:scuba_diving": "yes",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Abu Galawa Soraya",
+    "lat": 24.2520395,
+    "lon": 35.5407835,
+    "osm_id": 271180625,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Abu Galawa Soraya",
+      "scuba_diving:entry:boat": "yes",
+      "sport": "scuba_diving",
+      "sport:scuba_diving": "yes",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Torfi, Wadi Gamal",
+    "lat": 24.674982,
+    "lon": 35.1457889,
+    "osm_id": 271180721,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Torfi, Wadi Gamal",
+      "sport": "scuba_diving",
+      "sport:scuba_diving": "yes",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Ras Shona",
+    "lat": 25.4684135,
+    "lon": 34.6819826,
+    "osm_id": 271180928,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Ras Shona",
+      "sport": "scuba_diving",
+      "sport:scuba_diving": "yes",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "The Bells",
+    "lat": 28.5734535,
+    "lon": 34.5392697,
+    "osm_id": 271181711,
+    "osm_type": "node",
+    "depth": 31,
+    "site_type": "wall",
+    "entry_type": "shore",
+    "difficulty": "Advanced",
+    "tags": {
+      "description:en": "Beautiful place with coral arches, narrow entrance. Named for knocking of tank to narrow coral tunnel.",
+      "description:ru": "\u041a\u0440\u0430\u0441\u0438\u0432\u044b\u0439 \u0434\u0430\u0439\u0432\u0441\u0430\u0439\u0442, \u0441 \u0443\u0437\u043a\u0438\u043c \u0442\u0443\u043d\u0435\u043b\u0435\u043c \u0432 \u043a\u043e\u0440\u0430\u043b\u043b\u0435, \u043f\u043e\u0441\u0442\u0435\u043f\u0435\u043d\u043d\u043e \u0443\u0445\u043e\u0434\u044f\u0449\u0435\u043c \u043d\u0430 \u0433\u043b\u0443\u0431\u0438\u043d\u0443 \u0438 \u0430\u0440\u043a\u043e\u0439 \u043d\u0430 \u0433\u043b\u0443\u0431\u0438\u043d\u0435 \u043e\u043a\u043e\u043b\u043e 25\u043c. \u041d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u043f\u043e\u043b\u0443\u0447\u0438\u043b \u0437\u0430 \u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u043d\u044b\u0439 \u0437\u0432\u0443\u043a \u0441\u0442\u0443\u043a\u0430 \u0431\u0430\u043b\u043e\u043d\u043e\u0432 \u043e \u043a\u043e\u0440\u0430\u043b\u043b\u043e\u0432\u044b\u0435 \u0441\u0442\u0435\u043d\u043a\u0438.",
+      "name": "The Bells",
+      "scuba_diving:depth": "31",
+      "scuba_diving:entry": "shore",
+      "sport": "scuba_diving",
+      "sport:scuba_diving": "yes",
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "scubaboard"
+    }
+  },
+  {
+    "name": "Shark Reef",
+    "lat": 27.7257079,
+    "lon": 34.259035,
+    "osm_id": 271182010,
+    "osm_type": "node",
+    "depth": 25,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Shark Reef",
+      "name:ru": "\u0440\u0438\u0444 \u0410\u043a\u0443\u043b\u0430",
+      "scuba_diving:entry:boat": "yes",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Anemone City",
+    "lat": 27.7274421,
+    "lon": 34.2588554,
+    "osm_id": 271182011,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Anemone City",
+      "scuba_diving:entry:boat": "yes",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Poseidon Reef",
+    "lat": 27.3992112,
+    "lon": 33.8623176,
+    "osm_id": 271188407,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Poseidon Reef",
+      "scuba_diving:entry:boat": "yes",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Shag Rock",
+    "lat": 27.7731513,
+    "lon": 33.8846486,
+    "osm_id": 271188523,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Shag Rock",
+      "scuba_diving:entry:boat": "yes",
+      "sport": "scuba_diving",
+      "sport:scuba_diving": "yes",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Satellite Reef",
+    "lat": 27.7244542,
+    "lon": 34.2575222,
+    "osm_id": 271195267,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Satellite Reef",
+      "scuba_diving:entry:boat": "yes",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Bluff Point",
+    "lat": 27.6812826,
+    "lon": 33.8080826,
+    "osm_id": 271196006,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "leisure": "pitch",
+      "name": "Bluff Point",
+      "scuba_diving:dangers:current": "yes",
+      "scuba_diving:difficulty": "2",
+      "scuba_diving:entry:boat": "yes",
+      "scuba_diving:type:boat": "yes",
+      "scuba_diving:type:drift": "yes",
+      "scuba_diving:type:reef": "yes",
+      "scuba_diving:type:wall": "yes",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Yolanda Reef",
+    "lat": 27.7247011,
+    "lon": 34.2583484,
+    "osm_id": 278086478,
+    "osm_type": "node",
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Yolanda Reef",
+      "scuba_diving:entry:boat": "yes",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Ras Ghozlani",
+    "lat": 27.7894435,
+    "lon": 34.2619429,
+    "osm_id": 278086479,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Ras Ghozlani",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Far Garden",
+    "lat": 27.9150053,
+    "lon": 34.3588754,
+    "osm_id": 278086483,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Far Garden",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Jackfish Alley",
+    "lat": 27.7441533,
+    "lon": 34.2569889,
+    "osm_id": 279806505,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Jackfish Alley",
+      "source": "survey",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Near Garden",
+    "lat": 27.9081038,
+    "lon": 34.3467116,
+    "osm_id": 279808469,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Near Garden",
+      "source": "survey",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Middle Garden",
+    "lat": 27.9129604,
+    "lon": 34.3511212,
+    "osm_id": 279811209,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Middle Garden",
+      "source": "extrapolation",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Louilla",
+    "lat": 27.9895604,
+    "lon": 34.4535007,
+    "osm_id": 280296847,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "historic": "wreck",
+      "name": "Louilla",
+      "scuba_diving:entry:boat": "yes",
+      "seamark:type": "wreck",
+      "source": "Bing",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "St John's Habili Gaffar",
+    "lat": 23.426923,
+    "lon": 35.8763941,
+    "osm_id": 315493984,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "alt_name": "Habili Gaffar;Habili Jaffar;Small Habili",
+      "name": "St John's Habili Gaffar",
+      "natural": "reef",
+      "scuba_diving:divespot": "yes",
+      "scuba_diving:entry": "boat",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Abu Echera",
+    "lat": 23.8147933,
+    "lon": 35.7858758,
+    "osm_id": 315494001,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Abu Echera",
+      "scuba_diving:entry:boat": "yes",
+      "sport": "scuba_diving",
+      "sport:scuba_diving": "yes",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Gota Sataia 1",
+    "lat": 24.1853193,
+    "lon": 35.6514175,
+    "osm_id": 315494005,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Gota Sataia 1",
+      "scuba_diving:entry:boat": "yes",
+      "sport": "scuba_diving",
+      "sport:scuba_diving": "yes",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Gota Sataia 2",
+    "lat": 24.1978179,
+    "lon": 35.6528478,
+    "osm_id": 315494009,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Gota Sataia 2",
+      "scuba_diving:entry:boat": "yes",
+      "sport": "scuba_diving",
+      "sport:scuba_diving": "yes",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Shilineat",
+    "lat": 24.669924,
+    "lon": 35.133319,
+    "osm_id": 315494013,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Shilineat",
+      "scuba_diving:entry:boat": "yes",
+      "sport": "scuba_diving",
+      "sport:scuba_diving": "yes",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Abu Dabab 6",
+    "lat": 25.3248029,
+    "lon": 34.7983978,
+    "osm_id": 315494021,
+    "osm_type": "node",
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Abu Dabab 6",
+      "scuba_diving:entry:boat": "yes",
+      "sport": "scuba_diving",
+      "sport:scuba_diving": "yes",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Shaab Shona",
+    "lat": 25.4698771,
+    "lon": 34.6828121,
+    "osm_id": 315494024,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Shaab Shona",
+      "sport": "scuba_diving",
+      "sport:scuba_diving": "yes",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Shaab Claudio",
+    "lat": 24.2201005,
+    "lon": 35.6120577,
+    "osm_id": 408451459,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Shaab Claudio",
+      "name:en": "Shaab Claudio",
+      "scuba_diving:entry:boat": "yes",
+      "sport": "scuba_diving",
+      "sport:scuba_diving": "yes",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Shaab Said South",
+    "lat": 24.2623827,
+    "lon": 35.5161726,
+    "osm_id": 416090835,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Shaab Said South",
+      "scuba_diving:entry:boat": "yes",
+      "sport": "scuba_diving",
+      "sport:scuba_diving": "yes",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Shaab Said North",
+    "lat": 24.2681362,
+    "lon": 35.5118303,
+    "osm_id": 416090839,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Shaab Said North",
+      "scuba_diving:entry:boat": "yes",
+      "sport": "scuba_diving",
+      "sport:scuba_diving": "yes",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Shaab Maksour North",
+    "lat": 24.2422132,
+    "lon": 35.6498051,
+    "osm_id": 416090842,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Shaab Maksour North",
+      "scuba_diving:entry:boat": "yes",
+      "sport": "scuba_diving",
+      "sport:scuba_diving": "yes",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Golden Blocks",
+    "lat": 28.439063,
+    "lon": 34.4660256,
+    "osm_id": 517332131,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Golden Blocks",
+      "note": "Only appox position",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Dahayla South",
+    "lat": 28.6117235,
+    "lon": 34.5535349,
+    "osm_id": 517346372,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Dahayla South",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Dahayla North",
+    "lat": 28.6147761,
+    "lon": 34.5600502,
+    "osm_id": 517346399,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Dahayla North",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Blue Belt",
+    "lat": 20.22675,
+    "lon": 37.3152166,
+    "osm_id": 663869680,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "historic": "wreck",
+      "name": "Blue Belt",
+      "seamark:type": "wreck",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Neptuna",
+    "lat": 23.6186333,
+    "lon": 36.2037666,
+    "osm_id": 663869750,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "historic": "wreck",
+      "name": "Neptuna",
+      "seamark:type": "wreck",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "South Point",
+    "lat": 23.6186333,
+    "lon": 36.2037666,
+    "osm_id": 663869751,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "South Point",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Big Stone",
+    "lat": 23.6186333,
+    "lon": 36.2037666,
+    "osm_id": 663869752,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Big Stone",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "East Point",
+    "lat": 23.6186333,
+    "lon": 36.2037666,
+    "osm_id": 663869753,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "East Point",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Rocky North",
+    "lat": 23.5658256,
+    "lon": 36.2454923,
+    "osm_id": 663869756,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Rocky North",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Rocky South",
+    "lat": 23.5611404,
+    "lon": 36.2462919,
+    "osm_id": 663869757,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Rocky South",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Rocky East",
+    "lat": 23.5644383,
+    "lon": 36.2492616,
+    "osm_id": 663869758,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Rocky East",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Rocky West",
+    "lat": 23.5630773,
+    "lon": 36.2422942,
+    "osm_id": 663869759,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Rocky West",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Zabargad Jetty",
+    "lat": 23.6186333,
+    "lon": 36.2037666,
+    "osm_id": 663869760,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Zabargad Jetty",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Siyal Island",
+    "lat": 22.8,
+    "lon": 36.183333,
+    "osm_id": 663869761,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Siyal Island",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Abu Galawa Kebir",
+    "lat": 24.2286658,
+    "lon": 35.5727769,
+    "osm_id": 663869765,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "historic": "wreck",
+      "name": "Abu Galawa Kebir",
+      "seamark:type": "wreck",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Shaab Sataya",
+    "lat": 24.1552833,
+    "lon": 35.685,
+    "osm_id": 663869767,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Shaab Sataya Amphoren",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Adantia K.",
+    "lat": 24.20885,
+    "lon": 35.56045,
+    "osm_id": 663869768,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "historic": "wreck",
+      "name": "Adantia K.",
+      "seamark:type": "wreck",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Hamada",
+    "lat": 24.4383333,
+    "lon": 35.2131166,
+    "osm_id": 663869769,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "historic": "wreck",
+      "name": "Hamada",
+      "seamark:type": "wreck",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Shaab Ini",
+    "lat": 24.2182333,
+    "lon": 35.5951,
+    "osm_id": 663869771,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Shaab Ini",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Shaab Malahi",
+    "lat": 24.1970524,
+    "lon": 35.660738,
+    "osm_id": 663869772,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Shaab Malahi",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Shaab Bohar Soraya",
+    "lat": 24.2922333,
+    "lon": 35.5387833,
+    "osm_id": 663869773,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Shaab Bohar Soraya",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Shaab Bohar Kebir Ost",
+    "lat": 24.295131,
+    "lon": 35.534869,
+    "osm_id": 663869774,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Shaab Bohar Kebir Ost",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Shaab Said Nord",
+    "lat": 24.27205,
+    "lon": 35.5085666,
+    "osm_id": 663869775,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Shaab Said Nord",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Salem Express",
+    "lat": 26.6397175,
+    "lon": 34.0615772,
+    "osm_id": 663869778,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "historic": "wreck",
+      "name": "Salem Express",
+      "scuba_diving:divespot": "yes",
+      "scuba_diving:type": "wreck",
+      "seamark:type": "wreck",
+      "sport": "scuba_diving",
+      "wreck:date_sunk": "11:13pm on December 14th, 1991"
+    }
+  },
+  {
+    "name": "\u0646\u0648\u0645\u064a\u062f\u064a\u0627",
+    "lat": 26.3156833,
+    "lon": 34.84145,
+    "osm_id": 663869779,
+    "osm_type": "node",
+    "depth": 30,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "historic": "wreck",
+      "name": "\u0646\u0648\u0645\u064a\u062f\u064a\u0627",
+      "name:ar": "\u0646\u0648\u0645\u064a\u062f\u064a\u0627",
+      "name:de": "Numidia",
+      "name:en": "Numidia",
+      "name:fr": "Numidia",
+      "scuba_diving:divespot": "yes",
+      "scuba_diving:type:wreck": "yes",
+      "seamark:type": "wreck",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "\u0639\u0627\u064a\u062f\u0629",
+    "lat": 26.3138104,
+    "lon": 34.8432379,
+    "osm_id": 663869780,
+    "osm_type": "node",
+    "depth": 30,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "brand:ar": "\u0639\u0627\u064a\u062f\u0629",
+      "brand:wikipedia": "ar:\u0639\u0627\u064a\u062f\u0629 (\u0633\u0641\u0646 \u0633\u064a\u0627\u062d\u064a\u0629)",
+      "historic": "wreck",
+      "name": "\u0639\u0627\u064a\u062f\u0629",
+      "name:ar": "\u0639\u0627\u064a\u062f\u0629",
+      "name:de": "Aida",
+      "name:en": "Aida",
+      "name:fr": "Aida",
+      "scuba_diving:divespot": "yes",
+      "scuba_diving:type:wreck": "yes",
+      "seamark:type": "wreck",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Ras Abu Soma Garden",
+    "lat": 26.840722,
+    "lon": 34.000684,
+    "osm_id": 663869787,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Ras Abu Soma Garden",
+      "natural": "reef",
+      "reef": "coral",
+      "scuba_diving:divespot": "yes",
+      "scuba_diving:entry": "boat",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Tobia Hamra",
+    "lat": 26.8312268,
+    "lon": 33.9859068,
+    "osm_id": 663869789,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Tobia Hamra",
+      "natural": "reef",
+      "reef": "coral",
+      "scuba_diving:divespot": "yes",
+      "scuba_diving:entry": "boat",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Sandy Island",
+    "lat": 26.8150661,
+    "lon": 33.9785314,
+    "osm_id": 663869790,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Sandy Island",
+      "natural": "reef",
+      "reef": "coral",
+      "scuba_diving:divespot": "yes",
+      "scuba_diving:entry": "boat",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Shaab Sabrina",
+    "lat": 27.2142867,
+    "lon": 33.9531476,
+    "osm_id": 663869792,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "description": "mooring place for dive boats",
+      "name": "Shaab Sabrina",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Umm Gamar",
+    "lat": 27.1925,
+    "lon": 33.9091666,
+    "osm_id": 663869793,
+    "osm_type": "node",
+    "depth": 25,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "historic": "wreck",
+      "name": "Shaabruhr Umm Gamar",
+      "seamark:type": "wreck",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Giftun Soraya",
+    "lat": 27.1856324,
+    "lon": 33.9787866,
+    "osm_id": 663869795,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "description": "mooring place for dive boats",
+      "name": "Giftun Soraya",
+      "sport": "scuba_diving",
+      "survey:date": "2018-06-08"
+    }
+  },
+  {
+    "name": "Abu Ramada South",
+    "lat": 27.158319,
+    "lon": 33.979164,
+    "osm_id": 663869797,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Abu Ramada South",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Abu Ramada Plateau",
+    "lat": 27.1734506,
+    "lon": 33.9846132,
+    "osm_id": 663869798,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "alt_name": "Abu Ramada North",
+      "alt_name:de": "Abu Ramada - Nord",
+      "description": "alt_name:reference Abu Ramada Plateau \"Red Sea Partners\"",
+      "name": "Abu Ramada Plateau",
+      "sport": "scuba_diving",
+      "survey:date": "2018-06-08"
+    }
+  },
+  {
+    "name": "Aquarium",
+    "lat": 27.139,
+    "lon": 33.9532666,
+    "osm_id": 663869799,
+    "osm_type": "node",
+    "depth": 16,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "description": "mooring place for dive boats",
+      "name": "Gota Abu Ramada - Aquarium",
+      "scuba_diving:attraction:night": "yes",
+      "scuba_diving:attraction:reef": "yes",
+      "scuba_diving:dangers:ship": "yes",
+      "scuba_diving:depth": "10",
+      "scuba_diving:entry:boat": "yes",
+      "scuba_diving:maxdepth": "16",
+      "scuba_diving:surface:brash": "yes",
+      "scuba_diving:surface:sand": "yes",
+      "scuba_diving:type:drift": "yes",
+      "scuba_diving:type:lake": "no",
+      "scuba_diving:type:sea": "yes",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Ham Ham",
+    "lat": 27.193028,
+    "lon": 33.984654,
+    "osm_id": 663869800,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "alt_name": "Police Station",
+      "name": "Ham Ham",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Stone Beach",
+    "lat": 27.237597,
+    "lon": 33.928654,
+    "osm_id": 663869801,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "alt_name": "Hamda",
+      "name": "Stone Beach",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Abu Ramada - Ost",
+    "lat": 27.162831,
+    "lon": 33.984414,
+    "osm_id": 663869802,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Abu Ramada - Ost",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Sha`ab Quais",
+    "lat": 27.167161,
+    "lon": 33.951024,
+    "osm_id": 663869803,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Sha`ab Quais",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Shaab Umm Gamar",
+    "lat": 27.333448,
+    "lon": 33.9177183,
+    "osm_id": 663869804,
+    "osm_type": "node",
+    "depth": 25,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "historic": "wreck",
+      "name": "Shaab Umm Gamar",
+      "scuba_diving:attraction:reef": "yes",
+      "scuba_diving:entry:boat": "yes",
+      "scuba_diving:surface:brash": "yes",
+      "scuba_diving:surface:sand": "yes",
+      "scuba_diving:type:drift": "yes",
+      "scuba_diving:type:sea": "yes",
+      "seamark:type": "wreck",
+      "sport": "scuba_diving",
+      "survey:date": "2015-09-13"
+    }
+  },
+  {
+    "name": "Carless Reef",
+    "lat": 27.3117631,
+    "lon": 33.9401961,
+    "osm_id": 663869805,
+    "osm_type": "node",
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Carless Reef",
+      "scuba_diving:attraction:biology": "yes",
+      "scuba_diving:attraction:reef": "yes",
+      "scuba_diving:depth": "15",
+      "scuba_diving:entry:boat": "yes",
+      "scuba_diving:maxdepth": "30",
+      "scuba_diving:type:drift": "yes",
+      "scuba_diving:type:sea": "yes",
+      "sport": "scuba_diving",
+      "survey:date": "2018-06-16"
+    }
+  },
+  {
+    "name": "El Fanadir Foc",
+    "lat": 27.2963432,
+    "lon": 33.8311215,
+    "osm_id": 663869807,
+    "osm_type": "node",
+    "depth": 16,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "tags": {
+      "alt_name": "El Fanadir Fog",
+      "description": "name_source El Fanadir Fog: \"Red Sea Partners\"",
+      "name": "El Fanadir Foc",
+      "scuba_diving:attraction:reef": "yes",
+      "scuba_diving:depth": "10",
+      "scuba_diving:entry:boat": "yes",
+      "scuba_diving:maxdepth": "16",
+      "scuba_diving:surface:sand": "yes",
+      "scuba_diving:type:drift": "yes",
+      "scuba_diving:type:sea": "yes",
+      "sport": "scuba_diving",
+      "survey:date": "2018-06-15"
+    }
+  },
+  {
+    "name": "Shaab El Erg",
+    "lat": 27.3975,
+    "lon": 33.872222,
+    "osm_id": 663869808,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Shaab El Erg",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Carnatic",
+    "lat": 27.5792666,
+    "lon": 33.92695,
+    "osm_id": 663869809,
+    "osm_type": "node",
+    "depth": 24,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "historic": "wreck",
+      "name": "Carnatic",
+      "seamark:type": "wreck",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Chrisoula K",
+    "lat": 27.5805307,
+    "lon": 33.9287744,
+    "osm_id": 663869810,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "alt_name": "Krisoula K",
+      "historic": "wreck",
+      "name": "Chrisoula K",
+      "seamark:type": "wreck",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Kimon M",
+    "lat": 27.5816666,
+    "lon": 33.9302166,
+    "osm_id": 663869811,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "historic": "wreck",
+      "name": "Kimon M",
+      "seamark:type": "wreck",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Giannis D",
+    "lat": 27.5774,
+    "lon": 33.9231833,
+    "osm_id": 663869812,
+    "osm_type": "node",
+    "depth": 27,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "historic": "wreck",
+      "name": "Giannis D",
+      "seamark:type": "wreck",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Manta Point.",
+    "lat": 27.422122,
+    "lon": 33.882601,
+    "osm_id": 663869813,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Manta Point.",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Barge de Gubal",
+    "lat": 27.6779833,
+    "lon": 33.8046,
+    "osm_id": 663869815,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "historic": "wreck",
+      "name": "Barge de Gubal",
+      "name:fr": "Barge de Gubal",
+      "seamark:type": "wreck",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Ulysses",
+    "lat": 27.6867,
+    "lon": 33.8021333,
+    "osm_id": 663869816,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "historic": "wreck",
+      "name": "Ulysses",
+      "seamark:type": "wreck",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Small Crack",
+    "lat": 27.7316476,
+    "lon": 34.0974959,
+    "osm_id": 663869817,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "mooring": "yes",
+      "name": "Small Crack",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Dunraven",
+    "lat": 27.7033333,
+    "lon": 34.1216666,
+    "osm_id": 663869819,
+    "osm_type": "node",
+    "depth": 28,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "historic": "wreck",
+      "name": "Dunraven",
+      "scuba_diving:entry:boat": "yes",
+      "seamark:type": "wreck",
+      "sport": "scuba_diving",
+      "tourism": "attraction",
+      "wikidata": "Q1266243",
+      "wikimedia_commons": "Category:Dunraven (ship, 1873)",
+      "wikipedia": "en:SS Dunraven"
+    }
+  },
+  {
+    "name": "Ras Katy",
+    "lat": 27.8466578,
+    "lon": 34.3024876,
+    "osm_id": 663869829,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Ras Katy",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Ras Umm Sid",
+    "lat": 27.847261,
+    "lon": 34.31648,
+    "osm_id": 663869830,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Ras Umm Sid",
+      "name:ar": "\u0631\u0623\u0633 \u0623\u0645 \u0633\u062f",
+      "name:en": "Ras Umm Sid",
+      "name:ru": "\u0420\u0430\u0441 \u0423\u043c\u043c \u0421\u0438\u0434",
+      "sport": "scuba_diving",
+      "tourism": "attraction",
+      "wikidata": "Q14218645",
+      "wikimedia_commons": "Category:Hadaba"
+    }
+  },
+  {
+    "name": "Pinky Wall",
+    "lat": 27.8708333,
+    "lon": 34.3233333,
+    "osm_id": 663869833,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Pinky Wall",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Sodfa",
+    "lat": 27.898308,
+    "lon": 34.3300597,
+    "osm_id": 663869837,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Sodfa",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Ras Bob Reef",
+    "lat": 27.963333,
+    "lon": 34.413333,
+    "osm_id": 663869842,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Ras Bob Reef",
+      "natural": "reef",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "White Knight",
+    "lat": 27.9566666,
+    "lon": 34.4,
+    "osm_id": 663869843,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "White Knight",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Ras Ghamila Reef",
+    "lat": 27.98,
+    "lon": 34.436667,
+    "osm_id": 663869845,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Ras Ghamila Reef",
+      "natural": "reef",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Hey Daroma",
+    "lat": 28.0567379,
+    "lon": 34.4482631,
+    "osm_id": 663869846,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "historic": "wreck",
+      "name": "Hey Daroma",
+      "seamark:type": "wreck",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Million Hope",
+    "lat": 28.0563889,
+    "lon": 34.4491711,
+    "osm_id": 663869847,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "historic": "wreck",
+      "name": "Million Hope",
+      "seamark:type": "wreck",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Kormoran",
+    "lat": 28.0333332,
+    "lon": 34.4933332,
+    "osm_id": 663869851,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Kormoran",
+      "name:ru": "\u041a\u043e\u0440\u043c\u043e\u0440\u0430\u043d",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Gabu El Bint",
+    "lat": 28.353708,
+    "lon": 34.433307,
+    "osm_id": 663869854,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Gabu El Bint",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Moray Garden",
+    "lat": 28.436899,
+    "lon": 34.4586269,
+    "osm_id": 663869855,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Moray Garden",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "7 Pinnacles",
+    "lat": 28.473125,
+    "lon": 34.497519,
+    "osm_id": 663869856,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "7 Pinnacles",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Umm Sid",
+    "lat": 28.4206141,
+    "lon": 34.4576882,
+    "osm_id": 663869857,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Umm Sid",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "3 Pools",
+    "lat": 28.4355923,
+    "lon": 34.4577903,
+    "osm_id": 663869859,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "3 Pools",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "South Oasis",
+    "lat": 28.44322,
+    "lon": 34.469712,
+    "osm_id": 663869861,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "South Oasis",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "The Caves",
+    "lat": 28.4168114,
+    "lon": 34.4565242,
+    "osm_id": 663869862,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "cave",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "The Caves",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Napoleon Reef",
+    "lat": 28.471104,
+    "lon": 34.509963,
+    "osm_id": 663869864,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Napoleon Reef",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Ras Abu Galum",
+    "lat": 28.611198,
+    "lon": 34.555709,
+    "osm_id": 663869865,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Ras Abu Galum",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Reeks Reef",
+    "lat": 28.563914,
+    "lon": 34.529901,
+    "osm_id": 663869867,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Reeks Reef",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "\u0633\u0646\u0633\u0628\u0644\u0627\u0634 \u0647\u0627\u0648\u0633 \u0631\u064a\u0641",
+    "lat": 28.486668,
+    "lon": 34.516587,
+    "osm_id": 663869868,
+    "osm_type": "node",
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "alt_name": "\u0633\u0646\u0633\u0628\u0644\u0627\u0634 \u0647\u0627\u0648\u0633 \u0631\u064a\u0641",
+      "name": "\u0633\u0646\u0633\u0628\u0644\u0627\u0634 \u0647\u0627\u0648\u0633 \u0631\u064a\u0641",
+      "name:ar": "\u0633\u0646\u0633\u0628\u0644\u0627\u0634 \u0647\u0627\u0648\u0633 \u0631\u064a\u0641",
+      "name:ar1": "\u0633\u0646\u0633\u0628\u0644\u0627\u0634 \u0647\u0627\u0648\u0633 \u0631\u064a\u0641",
+      "name:en": "Sunsplash Housereef",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Blue Hole",
+    "lat": 28.5723028,
+    "lon": 34.5373553,
+    "osm_id": 663869869,
+    "osm_type": "node",
+    "depth": 100,
+    "site_type": "cave",
+    "entry_type": "shore",
+    "difficulty": "Advanced",
+    "tags": {
+      "depth": "100",
+      "description:en": "One of the most popular deep dive site in the world. Blue hole arch under 50m depth",
+      "description:ru": "\u041e\u0434\u043d\u043e \u0438\u0437 \u0441\u0430\u043c\u044b\u0445 \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u044b\u0445 \u043c\u0435\u0441\u0442 \u0432 \u043c\u0438\u0440\u0435 \u0434\u043b\u044f \u0433\u043b\u0443\u0431\u043e\u043a\u043e\u0432\u043e\u0434\u043d\u044b\u0445 \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0439 - \u0430\u0440\u043a\u0430 \u0413\u043e\u043b\u0443\u0431\u043e\u0439 \u0434\u044b\u0440\u044b \u043d\u0430 \u0433\u043b\u0443\u0431\u0438\u043d\u0435 \u0431\u043e\u043bee 50\u043c",
+      "name": "Blue Hole",
+      "name:de": "Blaues Loch",
+      "scuba_diving:entry": "shore",
+      "sport": "scuba_diving",
+      "sport:scuba_diving": "yes",
+      "tourism": "attraction",
+      "wikidata": "Q885734",
+      "wikimedia_commons": "Category:Blue Hole (Red Sea)",
+      "wikipedia": "en:Blue Hole (Red Sea)"
+    }
+  },
+  {
+    "name": "Abu Helal",
+    "lat": 28.542381,
+    "lon": 34.516867,
+    "osm_id": 663869871,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Abu Helal",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Canyon",
+    "lat": 28.554359,
+    "lon": 34.5212059,
+    "osm_id": 663869872,
+    "osm_type": "node",
+    "depth": 39,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Advanced",
+    "tags": {
+      "description:en": "Amazing landscape, deep dive polular place.",
+      "description:ru": "\u041f\u043e\u0442\u0440\u044f\u0441\u0430\u044e\u0449\u0438\u0439 \u043b\u0430\u043d\u0434\u0448\u0430\u0444\u0442, \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u043e\u0435 \u043c\u0435\u0441\u0442\u043e \u0434\u043b\u044f \u0433\u043b\u0443\u0431\u043e\u043a\u043e\u0432\u043e\u0434\u043d\u044b\u0445 \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0439.",
+      "name": "Canyon",
+      "scuba_diving:depth": "39",
+      "scuba_diving:entry": "shore",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Yatouche",
+    "lat": 29.5038889,
+    "lon": 34.9197222,
+    "osm_id": 663869876,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "historic": "wreck",
+      "name": "Yatouche",
+      "name:en": "Yatouche",
+      "seamark:type": "wreck",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Cedar Pride",
+    "lat": 29.5216667,
+    "lon": 34.9883333,
+    "osm_id": 663869877,
+    "osm_type": "node",
+    "depth": 27,
+    "site_type": "wreck",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "tags": {
+      "historic": "wreck",
+      "name": "Cedar Pride",
+      "seamark:type": "wreck",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "\u05e1\u05d5\u05e4\u05d4",
+    "lat": 29.5447222,
+    "lon": 34.9539555,
+    "osm_id": 663869878,
+    "osm_type": "node",
+    "depth": 30,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "historic": "wreck",
+      "name": "\u05e1\u05d5\u05e4\u05d4",
+      "name:en": "Soufa",
+      "name:he": "\u05e1\u05d5\u05e4\u05d4",
+      "seamark:type": "wreck",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Ras Disha",
+    "lat": 27.0411335,
+    "lon": 33.9066738,
+    "osm_id": 700934169,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Ras Disha",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Ben El Gebel",
+    "lat": 27.2231368,
+    "lon": 33.9537536,
+    "osm_id": 700934171,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "alt_name": "Shaab Dorfa",
+      "alt_name:source": "referenced as Shaab Dorfa in \"Red Sea Partners\"",
+      "description": "mooring place for dive boats",
+      "name": "Ben El Gebel",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Fanous East",
+    "lat": 27.267748,
+    "lon": 33.88751,
+    "osm_id": 700934174,
+    "osm_type": "node",
+    "depth": 19,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "alt_name": "Dorfa El Fanus East",
+      "alt_name:source": "Red Sea Partner",
+      "name": "Fanous East",
+      "name:ar": "Fanous East",
+      "scuba_diving:depth": "11",
+      "scuba_diving:difficulty": "1",
+      "scuba_diving:entry": "boat",
+      "scuba_diving:maxdepth": "19",
+      "scuba_diving:type": "reef",
+      "sport": "scuba_diving",
+      "survey:date": "2015-09-18"
+    }
+  },
+  {
+    "name": "Abu Hashish Lagoon",
+    "lat": 27.01258,
+    "lon": 33.92393,
+    "osm_id": 700999354,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Abu Hashish Lagoon",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Abu Hashish Drift",
+    "lat": 27.016663,
+    "lon": 33.92424,
+    "osm_id": 700999355,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "drift",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Abu Hashish Drift",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Erg Abu Hashish",
+    "lat": 27.01056,
+    "lon": 33.92363,
+    "osm_id": 700999356,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Erg Abu Hashish",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "El Aruk Gigi",
+    "lat": 27.16942,
+    "lon": 33.95541,
+    "osm_id": 700999358,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "El Aruk Gigi",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Abu Ramada Cave",
+    "lat": 27.16058,
+    "lon": 33.98245,
+    "osm_id": 700999359,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "drift",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "description": "mooring place for dive boats",
+      "name": "Abu Ramada Cave",
+      "scuba_diving:attraction:cave": "yes",
+      "scuba_diving:attraction:reef": "yes",
+      "scuba_diving:attraction:rocks": "yes",
+      "scuba_diving:dangers:ship": "yes",
+      "scuba_diving:entry:boat": "yes",
+      "scuba_diving:type:drift": "yes",
+      "scuba_diving:type:sea": "yes",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Erg Somaya",
+    "lat": 27.19829,
+    "lon": 33.98408,
+    "osm_id": 700999362,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Erg Somaya Drift",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Erg Sabina",
+    "lat": 27.21621,
+    "lon": 33.95421,
+    "osm_id": 700999363,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "description": "mooring place for dive boats",
+      "name": "Erg Sabina",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Abu Nugar",
+    "lat": 27.34571,
+    "lon": 33.83949,
+    "osm_id": 700999364,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "alt_name": "Abo El Nogar",
+      "name": "Abu Nugar",
+      "scuba_diving:divespot": "yes",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Dolphin House",
+    "lat": 27.40791,
+    "lon": 33.85376,
+    "osm_id": 700999365,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Dolphin House",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Makadi Garden",
+    "lat": 27.00451,
+    "lon": 33.91343,
+    "osm_id": 701176785,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Makadi Garden",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Tofa Abu Hashish",
+    "lat": 27.02569,
+    "lon": 33.91144,
+    "osm_id": 701176786,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Tofa Abu Hashish",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Sharm Rashid",
+    "lat": 26.94517,
+    "lon": 33.93396,
+    "osm_id": 701176787,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Sharm Rashid",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Dangerous Reef",
+    "lat": 23.340197,
+    "lon": 35.8553141,
+    "osm_id": 701364652,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Dangerous Reef",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Habili Zabargad",
+    "lat": 23.60178,
+    "lon": 36.18395,
+    "osm_id": 701364655,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Habili Zabargad",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Habili Radir",
+    "lat": 24.86538,
+    "lon": 35.11724,
+    "osm_id": 701364658,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Habili Radir",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Abu Diab",
+    "lat": 24.05403,
+    "lon": 35.69067,
+    "osm_id": 701364661,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Abu Diab",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Sataya East",
+    "lat": 24.15956,
+    "lon": 35.71657,
+    "osm_id": 701364664,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Sataya East",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Shaab Hamam",
+    "lat": 24.2613,
+    "lon": 35.51712,
+    "osm_id": 701364666,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "alt_name": "Stairway to Heaven",
+      "name": "Shaab Hamam",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Abu Dabab 4",
+    "lat": 25.34062,
+    "lon": 34.79488,
+    "osm_id": 701364670,
+    "osm_type": "node",
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Abu Dabab 4",
+      "scuba_diving:entry:boat": "yes",
+      "sport": "scuba_diving",
+      "sport:scuba_diving": "yes",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Daedalus Reef South Plateau",
+    "lat": 24.9307762,
+    "lon": 35.8701908,
+    "osm_id": 701594783,
+    "osm_type": "node",
+    "depth": 40,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "alt_name": "Abu Kizan",
+      "name": "Daedalus Reef South Plateau",
+      "scuba_diving:dangers:current": "yes",
+      "scuba_diving:dangers:depth": "yes",
+      "scuba_diving:entry:boat": "yes",
+      "scuba_diving:type:rocks": "yes",
+      "scuba_diving:type:sharks": "yes",
+      "scuba_diving:type:wall": "yes",
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
+    }
+  },
+  {
+    "name": "Shab Sataya N-W",
+    "lat": 24.1671377,
+    "lon": 35.6755429,
+    "osm_id": 765971222,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Shab Sataya N-W",
+      "name:en": "Shab Sataya N-W",
+      "scuba_diving:type": "reef",
+      "sport": "scuba_diving",
+      "sport:scuba_diving": "yes"
+    }
+  },
+  {
+    "name": "Gota Wadi Gamal",
+    "lat": 24.6913821,
+    "lon": 35.1460703,
+    "osm_id": 765971224,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Gota Wadi Gamal",
+      "name:en": "Gota Wadi Gamal",
+      "scuba_diving:entry:boat": "yes",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "\u0634\u0631\u0645 \u0627\u0644\u0646\u0627\u0642\u0629",
+    "lat": 26.9,
+    "lon": 33.966667,
+    "osm_id": 767991726,
+    "osm_type": "node",
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "alt_name": "\u0634\u0631\u0645 \u0627\u0644\u0646\u0627\u0642\u0629",
+      "int_name": "Sharm el-N\u00e2qa, Sharm al Naqa",
+      "name": "\u0634\u0631\u0645 \u0627\u0644\u0646\u0627\u0642\u0629",
+      "name:ar": "\u0634\u0631\u0645 \u0627\u0644\u0646\u0627\u0642\u0629",
+      "name:ar1": "\u0634\u0631\u0645 \u0627\u0644\u0646\u0627\u0642\u0629",
+      "name:de": "Sharm al Naqa",
+      "name:en": "Sharm al Naqa",
+      "name:fr": "Sharm al Naqa",
+      "natural": "bay",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "\u0627\u0644\u0625\u0633\u0645 \u0627\u0644\u0639\u0631\u0628\u064a \u061f",
+    "lat": 27.7038233,
+    "lon": 34.127467,
+    "osm_id": 768031212,
+    "osm_type": "node",
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "alt_name": "\u0627\u0644\u0625\u0633\u0645 \u0627\u0644\u0639\u0631\u0628\u064a \u061f",
+      "int_name": "Beacon Rock, Beacon Rock",
+      "name": "\u0627\u0644\u0625\u0633\u0645 \u0627\u0644\u0639\u0631\u0628\u064a \u061f",
+      "name:ar": "\u0627\u0644\u0625\u0633\u0645 \u0627\u0644\u0639\u0631\u0628\u064a \u061f",
+      "name:ar1": "\u0627\u0644\u0625\u0633\u0645 \u0627\u0644\u0639\u0631\u0628\u064a \u061f",
+      "name:de": "Beacon Rock",
+      "name:en": "Beacon Rock",
+      "name:fr": "Beacon Rock",
+      "place": "locality",
+      "scuba_diving:type": "reef",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Aluminium",
+    "lat": 26.7666652,
+    "lon": 33.946426,
+    "osm_id": 947967822,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "leisure": "marina",
+      "name": "Aluminium",
+      "seamark:harbour:category": "marina",
+      "seamark:type": "harbour",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Turbo",
+    "lat": 24.0065731,
+    "lon": 35.6340114,
+    "osm_id": 1068557838,
+    "osm_type": "node",
+    "depth": 30,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "alt_name": "Atlas",
+      "historic": "wreck",
+      "name": "Turbo",
+      "seamark:type": "wreck",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Khanka",
+    "lat": 23.6166601,
+    "lon": 36.2047145,
+    "osm_id": 1068557880,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "historic": "wreck",
+      "name": "Khanka",
+      "seamark:type": "wreck",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Shaab Nakari",
+    "lat": 24.9425549,
+    "lon": 34.9851324,
+    "osm_id": 1068557985,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Shaab Nakari",
+      "source": "GPS",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Sirnaka Island",
+    "lat": 23.8292123,
+    "lon": 35.808667,
+    "osm_id": 1068558027,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "historic": "wreck",
+      "name": "Sirnaka Island",
+      "seamark:type": "wreck",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "\u062e\u0644\u064a\u062c \u0627\u0644\u0642\u0631\u0634",
+    "lat": 27.946547,
+    "lon": 34.3882994,
+    "osm_id": 1149253646,
+    "osm_type": "node",
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "alt_name:ar": "\u0634\u0627\u0631\u0643\u0633 \u0628\u064a;\u0634\u0627\u0631\u0643\u0633 \u0628\u0627\u064a",
+      "name": "\u062e\u0644\u064a\u062c \u0627\u0644\u0642\u0631\u0634",
+      "name:ar": "\u062e\u0644\u064a\u062c \u0627\u0644\u0642\u0631\u0634",
+      "name:en": "Shark's Bay",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "El Sheig Malik",
+    "lat": 25.7236346,
+    "lon": 34.549773,
+    "osm_id": 1493048050,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "El Sheig Malik",
+      "name:de": "El Sheig Malik",
+      "sport": "scuba_diving",
+      "sport:scuba_diving": "yes",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Soug Bahar",
+    "lat": 25.9823079,
+    "lon": 34.3473762,
+    "osm_id": 1493048051,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Soug Bahar",
+      "name:de": "Soug Bahar",
+      "sport": "scuba_diving",
+      "sport:scuba_diving": "yes",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Sham Fugami",
+    "lat": 25.8701711,
+    "lon": 34.4220774,
+    "osm_id": 1493059692,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Sham Fugami",
+      "name:de": "Sham Fugami",
+      "sport": "scuba_diving",
+      "sport:scuba_diving": "yes",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Maheleg",
+    "lat": 25.9025849,
+    "lon": 34.4131047,
+    "osm_id": 1493107203,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Maheleg",
+      "name:de": "Maheleg",
+      "sport": "scuba_diving",
+      "sport:scuba_diving": "yes",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Gordon reef",
+    "lat": 27.9848747,
+    "lon": 34.4535967,
+    "osm_id": 1556398712,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Gordon reef",
+      "scuba_diving:entry:boat": "yes",
+      "sport": "scuba_diving",
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "scubaboard"
+    }
+  },
+  {
+    "name": "Soma Gatden",
+    "lat": 26.8382668,
+    "lon": 33.9964122,
+    "osm_id": 1556438805,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Soma Gatden",
+      "natural": "reef",
+      "scuba_diving:divespot": "yes",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Ras Malah",
+    "lat": 28.7289145,
+    "lon": 34.6257147,
+    "osm_id": 1736403581,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "cave",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Ras Malah",
+      "scuba_diving:entry": "steps",
+      "scuba_diving:type:cave": "yes",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Tower",
+    "lat": 27.8822916,
+    "lon": 34.3262218,
+    "osm_id": 1979293589,
+    "osm_type": "node",
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Tower",
+      "source": "Bing",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Japanese Gardens Coral Reefs",
+    "lat": 29.429928,
+    "lon": 34.97325,
+    "osm_id": 2374261090,
+    "osm_type": "node",
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Japanese Gardens Coral Reefs",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Laguna Reef",
+    "lat": 28.0064435,
+    "lon": 34.4845061,
+    "osm_id": 2628832137,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Laguna Reef",
+      "name:ru": "\u0440\u0438\u0444 \u041b\u0430\u0433\u0443\u043d\u0430",
+      "natural": "reef",
+      "reef": "coral",
+      "sport": "scuba_diving",
+      "wikidata": "Q14213694"
+    }
+  },
+  {
+    "name": "Abu Salama",
+    "lat": 27.3416824,
+    "lon": 33.7829269,
+    "osm_id": 2894107064,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Abu Salama",
+      "name:de": "Gummib\u00e4rchenriff",
+      "natural": "reef",
+      "scuba_diving:divespot": "yes",
+      "scuba_diving:type:reef": "yes",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Shaab Samir",
+    "lat": 27.3213391,
+    "lon": 33.8077449,
+    "osm_id": 3395211634,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Shaab Samir",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "El Fanadir",
+    "lat": 27.275816,
+    "lon": 33.8334747,
+    "osm_id": 3755841120,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "El Fanadir Dacht Dacht",
+      "scuba_diving:attraction:reef": "yes",
+      "scuba_diving:entry:boat": "yes",
+      "scuba_diving:surface:sand": "yes",
+      "scuba_diving:type:drift": "yes",
+      "scuba_diving:type:sea": "yes",
+      "sport": "scuba_diving",
+      "survey:date": "2015-09-15"
+    }
+  },
+  {
+    "name": "Banana Reef",
+    "lat": 27.2210096,
+    "lon": 33.9512032,
+    "osm_id": 3755955535,
+    "osm_type": "node",
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "description": "mooring place for dive boats",
+      "name": "Banana Reef",
+      "scuba_diving:attraction:reef": "yes",
+      "scuba_diving:depth": "14",
+      "scuba_diving:entry:boat": "yes",
+      "scuba_diving:maxdepth": "20",
+      "scuba_diving:surface:sand": "yes",
+      "scuba_diving:type:drift": "yes",
+      "scuba_diving:type:sea": "yes",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Dorfa El Fanus West",
+    "lat": 27.2645883,
+    "lon": 33.8816251,
+    "osm_id": 3756288582,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "description": "mooring place for dive boats",
+      "name": "Dorfa El Fanus West",
+      "note": "alt_name:source \"Red Sea Partner\"",
+      "sport": "scuba_diving",
+      "survey:date": "2015-09-18"
+    }
+  },
+  {
+    "name": "Cedar Pride Shipwreck",
+    "lat": 29.4310657,
+    "lon": 34.9731609,
+    "osm_id": 4329102691,
+    "osm_type": "node",
+    "depth": 27,
+    "site_type": "wreck",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Cedar Pride Shipwreck",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Al Fahal East",
+    "lat": 22.291333,
+    "lon": 38.970667,
+    "osm_id": 4433719546,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Al Fahal East",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Al Fahal North",
+    "lat": 22.305,
+    "lon": 38.968667,
+    "osm_id": 4433719547,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Al Fahal North",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Al Fahal South",
+    "lat": 22.223167,
+    "lon": 38.968,
+    "osm_id": 4433719548,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Al Fahal South",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Al Fahal vis Wreck",
+    "lat": 22.2545,
+    "lon": 38.952667,
+    "osm_id": 4433719549,
+    "osm_type": "node",
+    "depth": 30,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Al Fahal vis Wreck",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Aquarium Reef",
+    "lat": 22.387667,
+    "lon": 38.918667,
+    "osm_id": 4433719550,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Aquarium Reef",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Cave Reef",
+    "lat": 22.385833,
+    "lon": 38.856,
+    "osm_id": 4433719551,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "cave",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Cave Reef",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Cement Reef",
+    "lat": 22.392167,
+    "lon": 38.854,
+    "osm_id": 4433719552,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Cement Reef",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Garden Reef",
+    "lat": 22.369167,
+    "lon": 38.892833,
+    "osm_id": 4433719553,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Garden Reef",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Horse Shoe Reef",
+    "lat": 22.421667,
+    "lon": 38.951667,
+    "osm_id": 4433719554,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Horse Shoe Reef",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Middle Reef",
+    "lat": 22.373333,
+    "lon": 38.855333,
+    "osm_id": 4433719555,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Middle Reef",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "North Long Reef",
+    "lat": 22.343167,
+    "lon": 38.854333,
+    "osm_id": 4433719556,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "North Long Reef",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Rose Reef",
+    "lat": 22.306333,
+    "lon": 38.885333,
+    "osm_id": 4433719557,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Rose Reef",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Sand Island",
+    "lat": 22.253333,
+    "lon": 39.023667,
+    "osm_id": 4433719558,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Sand Island",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Shi'b Nazar",
+    "lat": 22.318667,
+    "lon": 38.853667,
+    "osm_id": 4433719560,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Shi'b Nazar",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Marsalis Abu Galawa",
+    "lat": 27.3114849,
+    "lon": 33.7999544,
+    "osm_id": 4549503827,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Marsalis Abu Galawa",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Blue Water House Reef",
+    "lat": 27.2394085,
+    "lon": 33.8492709,
+    "osm_id": 4549503828,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Blue Water House Reef",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Gota Abu Galaua",
+    "lat": 27.3145926,
+    "lon": 33.8102405,
+    "osm_id": 4549503829,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Gota Abu Galaua",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Saddle",
+    "lat": 28.5720833,
+    "lon": 34.5375978,
+    "osm_id": 5061967231,
+    "osm_type": "node",
+    "depth": 6,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "description:en": "Saddle is the part of Blue hole wall destroyed by scientists",
+      "description:ru": "\u0421\u0435\u0434\u043b\u043e - \u0447\u0430\u0441\u0442\u044c \u0441\u0442\u0435\u043d\u043e\u043a \u043a\u043e\u0440\u0430\u043b\u043b\u043e\u0432\u043e\u0433\u043e \u043a\u043e\u043b\u043e\u0434\u0446\u0430 \u0440\u0430\u0437\u0440\u0443\u0448\u0435\u043d\u043d\u043e\u0435 \u0443\u0447\u0435\u043d\u044b\u043c\u0438.",
+      "name": "Saddle",
+      "scuba_diving:depth": "6",
+      "scuba_diving:entry": "shore",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Marsa Mubarak",
+    "lat": 25.5095405,
+    "lon": 34.6521265,
+    "osm_id": 5126304822,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "alt_name": "Umm Rus",
+      "name": "Marsa Mubarak",
+      "name:en": "Marsa Mares Bay",
+      "natural": "bay",
+      "sport": "scuba_diving",
+      "sport:scuba_diving": "yes",
+      "tourism": "attraction",
+      "wikidata": "Q23946315"
+    }
+  },
+  {
+    "name": "Shaab Pinky",
+    "lat": 27.2648011,
+    "lon": 33.9194156,
+    "osm_id": 5259828621,
+    "osm_type": "node",
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Shaab Pinky",
+      "scuba_diving:attraction:biology": "yes",
+      "scuba_diving:attraction:reef": "yes",
+      "scuba_diving:depth": "15",
+      "scuba_diving:entry:boat": "yes",
+      "scuba_diving:maxdepth": "30",
+      "scuba_diving:type:sea": "yes",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Gorgon 1",
+    "lat": 29.426193,
+    "lon": 34.9721236,
+    "osm_id": 5504662457,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Gorgon 1",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Tank",
+    "lat": 29.4187751,
+    "lon": 34.9716597,
+    "osm_id": 5522700737,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Tank",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Plane wreck",
+    "lat": 29.4180629,
+    "lon": 34.97162,
+    "osm_id": 5522700738,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Plane wreck",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Rainbow reef",
+    "lat": 29.4325243,
+    "lon": 34.9737847,
+    "osm_id": 5603008074,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Rainbow reef",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "El Casra",
+    "lat": 25.5464437,
+    "lon": 34.6409603,
+    "osm_id": 5610579023,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "El Casra",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "\u0645\u0648\u0642\u0639 \u0627\u0644\u063a\u0648\u0635 - \u062c\u0632\u064a\u0631\u0629 \u0627\u0644\u0623\u062e \u0627\u0644\u0635\u063a\u064a\u0631",
+    "lat": 26.3007944,
+    "lon": 34.862559,
+    "osm_id": 5610583021,
+    "osm_type": "node",
+    "depth": 30,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "attraction": "sport",
+      "name": "\u0645\u0648\u0642\u0639 \u0627\u0644\u063a\u0648\u0635 - \u062c\u0632\u064a\u0631\u0629 \u0627\u0644\u0623\u062e \u0627\u0644\u0635\u063a\u064a\u0631",
+      "name:ar": "\u0645\u0648\u0642\u0639 \u0627\u0644\u063a\u0648\u0635 - \u062c\u0632\u064a\u0631\u0629 \u0627\u0644\u0623\u062e \u0627\u0644\u0635\u063a\u064a\u0631",
+      "name:en": "Little Brother Dive Site",
+      "name:fr": "Little Brother",
+      "name:uk": "\u041c\u0430\u043b\u0438\u0439 \u0411\u0440\u0430\u0442 \u043c\u0456\u0441\u0446\u0435 \u0434\u043b\u044f \u0437\u0430\u043d\u0443\u0440\u0435\u043d\u043d\u044f",
+      "scuba_diving:divespot": "yes",
+      "sport": "scuba_diving",
+      "tourism": "attraction",
+      "validated": "true"
+    }
+  },
+  {
+    "name": "\u0645\u0648\u0642\u0639 \u0627\u0644\u063a\u0648\u0635 - \u062c\u0632\u064a\u0631\u0629 \u0627\u0644\u0623\u062e \u0627\u0644\u0623\u0643\u0628\u0631",
+    "lat": 26.3130389,
+    "lon": 34.8442682,
+    "osm_id": 5610583022,
+    "osm_type": "node",
+    "depth": 30,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "\u0645\u0648\u0642\u0639 \u0627\u0644\u063a\u0648\u0635 - \u062c\u0632\u064a\u0631\u0629 \u0627\u0644\u0623\u062e \u0627\u0644\u0623\u0643\u0628\u0631",
+      "name:ar": "\u0645\u0648\u0642\u0639 \u0627\u0644\u063a\u0648\u0635 - \u062c\u0632\u064a\u0631\u0629 \u0627\u0644\u0623\u062e \u0627\u0644\u0623\u0643\u0628\u0631",
+      "name:en": "Big Brother Dive Site",
+      "name:fr": "Big Brother",
+      "name:uk": "\u0412\u0435\u043b\u0438\u043a\u0438\u0439 \u0411\u0440\u0430\u0442 \u043c\u0456\u0441\u0446\u0435 \u0434\u043b\u044f \u0437\u0430\u043d\u0443\u0440\u0435\u043d\u043d\u044f",
+      "sport": "scuba_diving",
+      "tourism": "attraction",
+      "validated": "true"
+    }
+  },
+  {
+    "name": "Balena",
+    "lat": 27.1782408,
+    "lon": 33.831981,
+    "osm_id": 5708994007,
+    "osm_type": "node",
+    "depth": 3,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "historic": "wreck",
+      "name": "Balena",
+      "scuba_diving:dangers:ship": "yes",
+      "scuba_diving:depth": "3",
+      "scuba_diving:entry:boat": "yes",
+      "scuba_diving:maxdepth": "8.5",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Umm Gamar West",
+    "lat": 27.3676227,
+    "lon": 33.906362,
+    "osm_id": 5709269770,
+    "osm_type": "node",
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Umm Gamar West",
+      "scuba_diving:attraction:biology": "yes",
+      "scuba_diving:attraction:reef": "yes",
+      "scuba_diving:depth": "10",
+      "scuba_diving:entry:boat": "yes",
+      "scuba_diving:maxdepth": "25",
+      "scuba_diving:type:drift": "yes",
+      "scuba_diving:type:sea": "yes",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Sha'ab Bruce",
+    "lat": 27.3032589,
+    "lon": 33.8262069,
+    "osm_id": 5710652974,
+    "osm_type": "node",
+    "depth": 13,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Sha'ab Bruce",
+      "scuba_diving:attraction:biology": "yes",
+      "scuba_diving:attraction:reef": "yes",
+      "scuba_diving:depth": "7",
+      "scuba_diving:entry:boat": "yes",
+      "scuba_diving:maxdepth": "13",
+      "scuba_diving:type:sea": "yes",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Shaab Nenad",
+    "lat": 27.227837,
+    "lon": 33.9352761,
+    "osm_id": 5884434387,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Shaab Nenad",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Flamenco Hausriff",
+    "lat": 26.1653439,
+    "lon": 34.2456192,
+    "osm_id": 6018110087,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Flamenco Hausriff",
+      "name:de": "Sport-scuba-diving",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "panorama Reef North",
+    "lat": 26.757536,
+    "lon": 34.0784061,
+    "osm_id": 6585137658,
+    "osm_type": "node",
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "panorama Reef North",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Panorama Reef East",
+    "lat": 26.7539976,
+    "lon": 34.0827562,
+    "osm_id": 6585137659,
+    "osm_type": "node",
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Panorama Reef East",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Shaab Tiffany",
+    "lat": 27.1500955,
+    "lon": 33.8945873,
+    "osm_id": 6661183328,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Shaab Tiffany",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Wadi Lahmy Azur Housereef",
+    "lat": 24.2376318,
+    "lon": 35.416207,
+    "osm_id": 6920738901,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Wadi Lahmy Azur Housereef",
+      "natural": "reef",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Shaab Sakara",
+    "lat": 24.3747755,
+    "lon": 35.3662804,
+    "osm_id": 6920738902,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Shaab Sakara",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Siyal South",
+    "lat": 24.3784303,
+    "lon": 35.3846562,
+    "osm_id": 6920738903,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Siyal South",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Um El Sheikh",
+    "lat": 24.3127291,
+    "lon": 35.3990704,
+    "osm_id": 6920738918,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Um El Sheikh",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Marsa Bareika",
+    "lat": 27.7866024,
+    "lon": 34.2177797,
+    "osm_id": 8559506181,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Marsa Bareika",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Thomas reef",
+    "lat": 27.9921659,
+    "lon": 34.4614807,
+    "osm_id": 8559506183,
+    "osm_type": "node",
+    "depth": 30,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "Thomas reef",
+      "scuba_diving:entry:boat": "yes",
+      "sport": "scuba_diving",
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "scubaboard"
+    }
+  },
+  {
+    "name": "Jackson reef",
+    "lat": 28.0059666,
+    "lon": 34.472557,
+    "osm_id": 8559506184,
+    "osm_type": "node",
+    "depth": 30,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "Jackson reef",
+      "scuba_diving:entry:boat": "yes",
+      "sport": "scuba_diving",
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "scubaboard"
+    }
+  },
+  {
+    "name": "\u05d0\u05ea\u05e8 \u05e6\u05dc\u05d9\u05dc\u05d4 -\u05e1\u05d8\u05d9\"\u05dc (24 \u05de\u05d8\u05e8)",
+    "lat": 29.5145068,
+    "lon": 34.9270007,
+    "osm_id": 8577535117,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "historic": "wreck",
+      "name": "\u05d0\u05ea\u05e8 \u05e6\u05dc\u05d9\u05dc\u05d4 -\u05e1\u05d8\u05d9\"\u05dc (24 \u05de\u05d8\u05e8)",
+      "name:he": "\u05d0\u05ea\u05e8 \u05e6\u05dc\u05d9\u05dc\u05d4 -\u05e1\u05d8\u05d9\"\u05dc (24 \u05de\u05d8\u05e8)",
+      "seamark:type": "wreck",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Ras Za'atar",
+    "lat": 27.7644345,
+    "lon": 34.2557039,
+    "osm_id": 9230615505,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Ras Za'atar",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Shark Observatory",
+    "lat": 27.7310555,
+    "lon": 34.2597859,
+    "osm_id": 9230671030,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Shark Observatory",
+      "scuba_diving:entry:boat": "yes",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Ras Nasrani",
+    "lat": 27.9635263,
+    "lon": 34.4185241,
+    "osm_id": 9235927141,
+    "osm_type": "node",
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Ras Nasrani",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Habili Ali",
+    "lat": 23.3994861,
+    "lon": 35.984371,
+    "osm_id": 9720942896,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Habili Ali",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Gota Mesharifa",
+    "lat": 20.8608834,
+    "lon": 37.3190921,
+    "osm_id": 9720985226,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Gota Mesharifa",
+      "scuba_diving:type": "reef",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Pfeiffer Reef",
+    "lat": 21.5851974,
+    "lon": 37.1018372,
+    "osm_id": 9720985227,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Pfeiffer Reef",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Sweet Potato",
+    "lat": 21.8060622,
+    "lon": 36.9789438,
+    "osm_id": 9720985772,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Sweet Potato",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Shaab Rumi, Precontinent 2",
+    "lat": 19.9389634,
+    "lon": 37.4042343,
+    "osm_id": 9720994071,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "description": "Experimantal unterwater station Precontinent II run by Jacques-Yves Cousteau in 1963",
+      "historic:civilization": "modern",
+      "name": "Shaab Rumi, Precontinent 2",
+      "scuba_diving:type": "reef",
+      "sport": "scuba_diving",
+      "wikidata": "Q3408831",
+      "wikipedia": "en:Continental Shelf Station Two"
+    }
+  },
+  {
+    "name": "Daharat Abida",
+    "lat": 18.5028321,
+    "lon": 38.5989095,
+    "osm_id": 9721002510,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Daharat Abida",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Merlo Reef",
+    "lat": 20.844637,
+    "lon": 37.4186797,
+    "osm_id": 9721009908,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Merlo Reef",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Shaab Jimna",
+    "lat": 19.441989,
+    "lon": 37.7296579,
+    "osm_id": 9721012613,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Shaab Jimna",
+      "scuba_diving:type": "reef",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Dibsel Island",
+    "lat": 18.9018669,
+    "lon": 38.5891953,
+    "osm_id": 9721015872,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Dibsel Island",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Isar Island",
+    "lat": 18.5740921,
+    "lon": 38.7418876,
+    "osm_id": 9721017925,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Isar Island",
+      "scuba_diving:type": "reef",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Shab Rumi, Plateau S",
+    "lat": 19.9292342,
+    "lon": 37.4120877,
+    "osm_id": 9721022202,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "description": "Shab Rumi",
+      "name": "Shab Rumi, Plateau S",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Elba Reef",
+    "lat": 21.968583,
+    "lon": 37.0254548,
+    "osm_id": 9721028451,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Elba Reef",
+      "scuba_diving:type": "reef",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Karam Marsmarit",
+    "lat": 18.7979372,
+    "lon": 38.777359,
+    "osm_id": 9721031082,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Karam Marsmarit",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Abu Seif",
+    "lat": 21.7861348,
+    "lon": 37.0023768,
+    "osm_id": 9721031165,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Abu Seif",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Sanganeb Plauteua N",
+    "lat": 19.7788503,
+    "lon": 37.4465546,
+    "osm_id": 9721031166,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Sanganeb Plauteua N",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Angarosh",
+    "lat": 20.8632051,
+    "lon": 37.4380164,
+    "osm_id": 9721033179,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Angarosh",
+      "scuba_diving:type": "reef",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Elba Reef, South Plateau",
+    "lat": 21.9664172,
+    "lon": 37.0250213,
+    "osm_id": 9721215045,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Elba Reef, South Plateau",
+      "scuba_diving:type": "reef",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Elba Reef, North Plateau",
+    "lat": 21.9699494,
+    "lon": 37.0270919,
+    "osm_id": 9721215046,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Elba Reef, North Plateau",
+      "scuba_diving:type": "reef",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "SS Umbria",
+    "lat": 19.6367128,
+    "lon": 37.2906381,
+    "osm_id": 9721478944,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "SS Umbria, Wreck",
+      "scuba_diving:type": "wreck",
+      "sport": "scuba_diving",
+      "wikipedia": "en:SS Umbria",
+      "wreck:date_sunk": "9 June 1940"
+    }
+  },
+  {
+    "name": "Shark's Bay",
+    "lat": 27.9504099,
+    "lon": 34.3861399,
+    "osm_id": 10095632788,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Shark's Bay",
+      "scuba_diving:type": "reef",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Novotel House Reef",
+    "lat": 25.9540108,
+    "lon": 34.3817107,
+    "osm_id": 11082801709,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Novotel House Reef",
+      "natural": "reef",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Sachua Abu Galawa",
+    "lat": 27.325622,
+    "lon": 33.795697,
+    "osm_id": 11093005830,
+    "osm_type": "node",
+    "depth": 26,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Sachua Abu Galawa",
+      "scuba_diving:depth": "13",
+      "scuba_diving:difficulty": "1",
+      "scuba_diving:entry": "boat",
+      "scuba_diving:maxdepth": "26",
+      "scuba_diving:type": "reef",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Jotao Abu Galawa",
+    "lat": 27.31424,
+    "lon": 33.810292,
+    "osm_id": 11093005831,
+    "osm_type": "node",
+    "depth": 11,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Jotao Abu Galawa",
+      "scuba_diving:depth": "8",
+      "scuba_diving:difficulty": "1",
+      "scuba_diving:entry": "boat",
+      "scuba_diving:maxdepth": "11",
+      "scuba_diving:type": "reef",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "El Fanadir West",
+    "lat": 27.299403,
+    "lon": 33.83123,
+    "osm_id": 11093005833,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "El Fanadir West",
+      "scuba_diving:depth": "11",
+      "scuba_diving:difficulty": "1",
+      "scuba_diving:entry": "boat",
+      "scuba_diving:maxdepth": "30",
+      "scuba_diving:type": "reef",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Sha'ab El Erg",
+    "lat": 27.4128906,
+    "lon": 33.8560438,
+    "osm_id": 11238324660,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Sha'ab El Erg",
+      "natural": "reef",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Abu Fendira",
+    "lat": 23.661742,
+    "lon": 35.6964683,
+    "osm_id": 11271483160,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "alt_name": "Abu Fendera;Abu Fandira",
+      "fixme": "Approximative position",
+      "name": "Abu Fendira",
+      "scuba_diving:type": "reef",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Habili Omran",
+    "lat": 23.515712,
+    "lon": 35.8143568,
+    "osm_id": 11271483280,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "fixme": "Approximative position",
+      "name": "Habili Omran",
+      "scuba_diving:type": "reef",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Legend",
+    "lat": 25.072444,
+    "lon": 34.9373952,
+    "osm_id": 11331356919,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "historic": "wreck",
+      "name": "Legend",
+      "scuba_diving:divespot": "yes",
+      "scuba_diving:entry": "boat",
+      "scuba_diving:type": "wreck",
+      "seamark:type": "wreck",
+      "sport": "scuba_diving",
+      "wreck:date_sunk": "2002-10-17"
+    }
+  },
+  {
+    "name": "Heaven",
+    "lat": 25.3468646,
+    "lon": 34.7767845,
+    "osm_id": 11331356920,
+    "osm_type": "node",
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Heaven",
+      "scuba_diving:type": "wreck",
+      "sport": "scuba_diving",
+      "wreck:date_sunk": "2003"
+    }
+  },
+  {
+    "name": "Farsha Ergein Farayed",
+    "lat": 23.6333197,
+    "lon": 35.8874845,
+    "osm_id": 11332084442,
+    "osm_type": "node",
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "alt_name": "Sha'ab Hamada",
+      "depth": "25",
+      "fixme": "very approximative localization to correct (invisible on aerials)",
+      "leisure": "pitch",
+      "name": "Farsha Ergein Farayed",
+      "scuba_diving:type": "reef",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Marsa Nakari South reef",
+    "lat": 24.9262582,
+    "lon": 34.9635606,
+    "osm_id": 12754199512,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Marsa Nakari South reef",
+      "scuba_diving:divespot": "yes",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Marsa Nakari North reef",
+    "lat": 24.9278382,
+    "lon": 34.9629789,
+    "osm_id": 12754199513,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Marsa Nakari North reef",
+      "scuba_diving:divespot": "yes",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Daedalus Reef",
+    "lat": 24.932763,
+    "lon": 35.8708939,
+    "osm_id": 13044852766,
+    "osm_type": "node",
+    "depth": 40,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "Daedalus Reef",
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
+    }
+  },
+  {
+    "name": "Wreck of Grumman HU-16 Albatros Aircraft",
+    "lat": 22.3923132,
+    "lon": 36.5009282,
+    "osm_id": 13044982099,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Wreck of Grumman HU-16 Albatros Aircraft",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Elba Reef West (Fingers)",
+    "lat": 22.0044081,
+    "lon": 37.0004202,
+    "osm_id": 13045036764,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Elba Reef West (Fingers)",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Elba Reef, West-Plateau",
+    "lat": 21.9691591,
+    "lon": 37.0241608,
+    "osm_id": 13045036765,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Elba Reef, West-Plateau",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Levanzo Wreck",
+    "lat": 21.9878634,
+    "lon": 37.0452519,
+    "osm_id": 13045042048,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Levanzo Wreck",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Elba Reef East (Southplateau)",
+    "lat": 21.9827164,
+    "lon": 37.0406829,
+    "osm_id": 13045042999,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Elba Reef East (Southplateau)",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Elba Reef East (North-Plateau)",
+    "lat": 22.018038,
+    "lon": 37.011734,
+    "osm_id": 13045044599,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Elba Reef East (North-Plateau)",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Habili Dibia",
+    "lat": 22.4418574,
+    "lon": 36.6043807,
+    "osm_id": 13045053326,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Habili Dibia",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Sha'ab Ohroob / Wreck of Sabri Baba 1",
+    "lat": 22.626611,
+    "lon": 36.5593464,
+    "osm_id": 13045071433,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Sha'ab Ohroob / Wreck of Sabri Baba 1",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Shaab El Shaga",
+    "lat": 22.1182936,
+    "lon": 36.8670544,
+    "osm_id": 13045073421,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Shaab El Shaga",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Scubaworld",
+    "lat": 25.5980183,
+    "lon": 34.6101533,
+    "osm_id": 13330561431,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Scubaworld",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Abu Soma Paradise House Reef",
+    "lat": 26.7941145,
+    "lon": 33.9413036,
+    "osm_id": 13395759833,
+    "osm_type": "node",
+    "depth": 16,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Abu Soma Paradise House Reef",
+      "scuba_diving:depth": "16",
+      "scuba_diving:divespot": "yes",
+      "scuba_diving:drift": "no",
+      "scuba_diving:entry": "shore",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "\u0634\u0639\u0628 \u062a\u0648\u0645\u0627\u0633",
+    "lat": 27.9927336,
+    "lon": 34.4600961,
+    "osm_id": 23185890,
+    "osm_type": "way",
+    "depth": 30,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "\u0634\u0639\u0628 \u062a\u0648\u0645\u0627\u0633",
+      "name:ar": "\u0634\u0639\u0628 \u062a\u0648\u0645\u0627\u0633",
+      "name:de": "Thomas-Riff",
+      "name:en": "Thomas Reef",
+      "natural": "reef",
+      "reef": "coral",
+      "source": "landsat",
+      "sport": "scuba_diving",
+      "wikidata": "Q14221722",
+      "wikimedia_commons": "Category:Thomas Reef",
+      "validated": "true"
+    }
+  },
+  {
+    "name": "\u0634\u0639\u0628 \u0648\u0648\u062f\u0647\u0627\u0648\u0633",
+    "lat": 28.0012225,
+    "lon": 34.4649921,
+    "osm_id": 23185891,
+    "osm_type": "way",
+    "depth": 30,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "\u0634\u0639\u0628 \u0648\u0648\u062f\u0647\u0627\u0648\u0633",
+      "name:ar": "\u0634\u0639\u0628 \u0648\u0648\u062f\u0647\u0627\u0648\u0633",
+      "name:de": "Woodhouse-Riff",
+      "name:en": "Woodhouse Reef",
+      "natural": "reef",
+      "reef": "coral",
+      "source": "landsat",
+      "sport": "scuba_diving",
+      "wikidata": "Q14223403",
+      "validated": "true"
+    }
+  },
+  {
+    "name": "\u0634\u0639\u0628 \u062c\u0627\u0643\u0633\u0648\u0646",
+    "lat": 28.008815,
+    "lon": 34.4731592,
+    "osm_id": 23185893,
+    "osm_type": "way",
+    "depth": 30,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "\u0634\u0639\u0628 \u062c\u0627\u0643\u0633\u0648\u0646",
+      "name:ar": "\u0634\u0639\u0628 \u062c\u0627\u0643\u0633\u0648\u0646",
+      "name:de": "Jackson-Riff",
+      "name:en": "Jackson Reef",
+      "name:ru": "\u0440\u0438\u0444 \u0414\u0436\u0435\u043a\u0441\u043e\u043d",
+      "natural": "reef",
+      "reef": "coral",
+      "source": "landsat",
+      "sport": "scuba_diving",
+      "wikidata": "Q14212223",
+      "validated": "true"
+    }
+  },
+  {
+    "name": "Shaab Sharm",
+    "lat": 24.7885272,
+    "lon": 35.1787788,
+    "osm_id": 91978564,
+    "osm_type": "way",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "alt_name": "Gota Sharm",
+      "name": "Shaab Sharm",
+      "natural": "reef",
+      "reef": "coral",
+      "scuba_diving:divespot": "yes",
+      "scuba_diving:entry": "boat",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Abu Kafan",
+    "lat": 26.6556512,
+    "lon": 34.1076488,
+    "osm_id": 197754187,
+    "osm_type": "way",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "alt_name": "Abu Kefan",
+      "name": "Abu Kafan",
+      "natural": "reef",
+      "scuba_diving:divespot": "yes",
+      "scuba_diving:entry": "boat",
+      "sport": "scuba_diving",
+      "subsea": "reef"
+    }
+  },
+  {
+    "name": "Panorama Reef",
+    "lat": 26.7529844,
+    "lon": 34.0800887,
+    "osm_id": 197754194,
+    "osm_type": "way",
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "int_name": "Panorama Reef",
+      "name": "Panorama Reef",
+      "name:ar": "\u0627\u0644\u0625\u0633\u0645 \u0627\u0644\u0639\u0631\u0628\u064a \u061f",
+      "natural": "reef",
+      "scuba_diving:divespot": "yes",
+      "sport": "scuba_diving",
+      "sub_sea": "reef"
+    }
+  },
+  {
+    "name": "Abu Dabbab Ithnain",
+    "lat": 25.3481926,
+    "lon": 34.7766537,
+    "osm_id": 307508334,
+    "osm_type": "way",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "alt_name": "Abu Dabbab 2",
+      "name": "Abu Dabbab Ithnain",
+      "natural": "reef",
+      "sport": "scuba_diving",
+      "subsea": "reef",
+      "wikidata": "Q108884574"
+    }
+  },
+  {
+    "name": "Abu Dabbab Thalata",
+    "lat": 25.346402,
+    "lon": 34.7775606,
+    "osm_id": 307508338,
+    "osm_type": "way",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "alt_name": "Recif Abu Dabbab 3",
+      "name": "Abu Dabbab Thalata",
+      "natural": "reef",
+      "sport": "scuba_diving",
+      "subsea": "reef",
+      "wikidata": "Q108884583",
+      "wikimedia_commons": "Category:Abu Dabbab 3 Reef"
+    }
+  },
+  {
+    "name": "\u062c\u064a\u0631\u0629 \u062f\u064a\u062f\u0644\u0627\u0633",
+    "lat": 24.9348279,
+    "lon": 35.8681459,
+    "osm_id": 374758292,
+    "osm_type": "way",
+    "depth": 30,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "alt_name": "Abu el Kiz\u00e2n",
+      "int_name": "Didalas Reef;Daedalus Reef;Jairat Didalas",
+      "loc_name": "Abu Kizan",
+      "name": "\u062c\u064a\u0631\u0629 \u062f\u064a\u062f\u0644\u0627\u0633",
+      "name:ar": "\u062c\u064a\u0631\u0629 \u062f\u064a\u062f\u0644\u0627\u0633",
+      "name:de": "Daedalus Riff",
+      "name:en": "Daedalus Reef",
+      "name:fr": "Daedalus Reef",
+      "natural": "reef",
+      "reef": "coral",
+      "scuba_diving:divespot": "yes",
+      "scuba_diving:entry": "boat",
+      "scuba_diving:type": "wall",
+      "sport": "scuba_diving",
+      "wikidata": "Q15212511",
+      "wikipedia": "en:Daedalus Reef",
+      "validated": "true"
+    }
+  },
+  {
+    "name": "Elphinstone Reef",
+    "lat": 25.3093037,
+    "lon": 34.8607108,
+    "osm_id": 644356549,
+    "osm_type": "way",
+    "depth": 40,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "alt_name": "Shabrour Shagra",
+      "int_name": "Abu Hamra",
+      "name": "Elphinstone Reef",
+      "name:de": "Elphinstone-Riff",
+      "name:en": "Elphinstone Reef",
+      "name:fr": "R\u00e9cif d'Elphinstone",
+      "natural": "reef",
+      "scuba_diving:divespot": "yes",
+      "sport": "scuba_diving",
+      "wikidata": "Q1333272",
+      "wikipedia": "de:Elphinstone-Riff"
+    }
+  },
+  {
+    "name": "Fandera Hemera",
+    "lat": 23.3864466,
+    "lon": 35.7560084,
+    "osm_id": 1062701168,
+    "osm_type": "way",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Fandera Hemera",
+      "natural": "reef",
+      "scuba_diving:type": "reef",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "St John's Small Gota",
+    "lat": 23.4295735,
+    "lon": 35.9033203,
+    "osm_id": 1213850349,
+    "osm_type": "way",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "alt_name": "Gota Soraya",
+      "name": "St John's Small Gota",
+      "natural": "reef",
+      "reef": "coral",
+      "scuba_diving:divespot": "yes",
+      "scuba_diving:entry": "boat",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "St John's Gota Kebir",
+    "lat": 23.4146981,
+    "lon": 35.9306143,
+    "osm_id": 1213850351,
+    "osm_type": "way",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "St John's Gota Kebir",
+      "natural": "reef",
+      "reef": "coral",
+      "scuba_diving:divespot": "yes",
+      "scuba_diving:entry": "boat",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Gotta Hemera",
+    "lat": 23.4120497,
+    "lon": 35.7029484,
+    "osm_id": 1216458194,
+    "osm_type": "way",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Gotta Hemera",
+      "natural": "reef",
+      "scuba_diving:type": "reef",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Abu Dabbab Wahid",
+    "lat": 25.3475966,
+    "lon": 34.7723284,
+    "osm_id": 1221542877,
+    "osm_type": "way",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "alt_name": "Abu Dabbab 1",
+      "name": "Abu Dabbab Wahid",
+      "natural": "reef",
+      "sport": "scuba_diving",
+      "wikidata": "Q108884558"
+    }
+  },
+  {
+    "name": "Safaga Soraya",
+    "lat": 26.7740091,
+    "lon": 33.9924096,
+    "osm_id": 1396277160,
+    "osm_type": "way",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Safaga Soraya",
+      "natural": "reef",
+      "reef": "coral",
+      "scuba_diving:divespot": "yes",
+      "scuba_diving:entry": "boat",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Shaab Sheer",
+    "lat": 26.6434815,
+    "lon": 34.0496239,
+    "osm_id": 1396426964,
+    "osm_type": "way",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Shaab Sheer Soraya",
+      "natural": "reef",
+      "reef": "coral",
+      "scuba_diving:divespot": "yes",
+      "scuba_diving:entry": "boat",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Shaab Hamdallah",
+    "lat": 26.6300218,
+    "lon": 34.0612306,
+    "osm_id": 1396426968,
+    "osm_type": "way",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Shaab Hamdallah",
+      "natural": "reef",
+      "reef": "coral",
+      "scuba_diving:divespot": "yes",
+      "scuba_diving:entry": "boat",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "St John's Um Arouk",
+    "lat": 23.4310407,
+    "lon": 35.8645841,
+    "osm_id": 16660674,
+    "osm_type": "relation",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "alt_name": "Um Arouk;Um Erug",
+      "name": "St John's Um Arouk",
+      "natural": "reef",
+      "reef": "coral",
+      "scuba_diving:divespot": "yes",
+      "scuba_diving:entry": "boat",
+      "sport": "scuba_diving",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "name": "Abu Bassala",
+    "lat": 23.3878184,
+    "lon": 35.8109352,
+    "osm_id": 16662755,
+    "osm_type": "relation",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Abu Bassala",
+      "natural": "reef",
+      "scuba_diving:type": "reef",
+      "sport": "scuba_diving",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "name": "Alternatives",
+    "lat": 27.7311529,
+    "lon": 34.1968345,
+    "osm_id": 16662982,
+    "osm_type": "relation",
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Alternatives",
+      "scuba_diving:type": "reef",
+      "sport": "scuba_diving",
+      "type": "site"
+    }
+  },
+  {
+    "name": "Farewell Reef",
+    "lat": 24.2108294,
+    "lon": 35.558871,
+    "osm_id": 16663971,
+    "osm_type": "relation",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "alt_name": "Shaab Malkout",
+      "name": "Farewell Reef",
+      "scuba_diving:type": "reef",
+      "sport": "scuba_diving",
+      "type": "site"
+    }
+  },
+  {
+    "name": "Gamul Soraya",
+    "lat": 26.7958246,
+    "lon": 33.992026,
+    "osm_id": 19266049,
+    "osm_type": "relation",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Gamul Soraya",
+      "natural": "reef",
+      "reef": "coral",
+      "scuba_diving:divespot": "yes",
+      "scuba_diving:entry": "boat",
+      "sport": "scuba_diving",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "name": "Tobia Soraya",
+    "lat": 26.8050512,
+    "lon": 33.9943083,
+    "osm_id": 19266139,
+    "osm_type": "relation",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Tobia Soraya",
+      "natural": "reef",
+      "reef": "coral",
+      "scuba_diving:divespot": "yes",
+      "scuba_diving:entry": "boat",
+      "sport": "scuba_diving",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "name": "Tobia Kebir",
+    "lat": 26.8103188,
+    "lon": 33.9950932,
+    "osm_id": 19266140,
+    "osm_type": "relation",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Tobia Kebir",
+      "natural": "reef",
+      "reef": "coral",
+      "scuba_diving:divespot": "yes",
+      "scuba_diving:entry": "boat",
+      "sport": "scuba_diving",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "name": "Gamul Kebir",
+    "lat": 26.7864131,
+    "lon": 33.9871618,
+    "osm_id": 19266162,
+    "osm_type": "relation",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Gamul Kebir",
+      "natural": "reef",
+      "reef": "coral",
+      "scuba_diving:divespot": "yes",
+      "scuba_diving:entry": "boat",
+      "sport": "scuba_diving",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "name": "Tobia Araba",
+    "lat": 26.8366775,
+    "lon": 33.9913097,
+    "osm_id": 19266688,
+    "osm_type": "relation",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Tobia Araba",
+      "natural": "reef",
+      "reef": "coral",
+      "scuba_diving:divespot": "yes",
+      "scuba_diving:entry": "boat",
+      "sport": "scuba_diving",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "name": "Shaab Claude",
+    "lat": 26.6515025,
+    "lon": 34.0635483,
+    "osm_id": 19266690,
+    "osm_type": "relation",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Shaab Claude",
+      "natural": "reef",
+      "reef": "coral",
+      "scuba_diving:divespot": "yes",
+      "scuba_diving:entry": "boat",
+      "sport": "scuba_diving",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "name": "Shaab Marsa Alam",
+    "lat": 25.0742697,
+    "lon": 34.9357909,
+    "osm_id": 19269583,
+    "osm_type": "relation",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Shaab Marsa Alam",
+      "natural": "reef",
+      "reef": "coral",
+      "scuba_diving:divespot": "yes",
+      "scuba_diving:entry": "boat",
+      "sport": "scuba_diving",
+      "subsea": "reef",
+      "type": "multipolygon",
+      "wikidata": "Q108898080"
+    }
+  },
+  {
+    "name": "Paradise Reef",
+    "lat": 23.6284921,
+    "lon": 35.8220587,
+    "osm_id": 19269652,
+    "osm_type": "relation",
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "alt_name": "Orabi",
+      "name": "Paradise Reef",
+      "natural": "reef",
+      "reef": "coral",
+      "scuba_diving:divespot": "yes",
+      "scuba_diving:entry": "boat",
+      "sport": "scuba_diving",
+      "type": "multipolygon"
+    }
+  }
+]

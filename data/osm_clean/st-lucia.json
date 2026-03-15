@@ -1,0 +1,215 @@
+[
+  {
+    "name": "Superman's Flight",
+    "lat": 13.86,
+    "lon": -61.07,
+    "depth": 30,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "Anse Chastanet Reef",
+    "lat": 13.862,
+    "lon": -61.072,
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "Pinnacles (Anse Cochon)",
+    "lat": 13.92,
+    "lon": -61.06,
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "Key Hole Pinnacles",
+    "lat": 13.855,
+    "lon": -61.065,
+    "depth": 22,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "Turtle Reef",
+    "lat": 13.87,
+    "lon": -61.075,
+    "depth": 12,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "Lesleen M Wreck",
+    "lat": 13.91,
+    "lon": -61.055,
+    "depth": 20,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "Jalousie Beach Reef",
+    "lat": 13.84,
+    "lon": -61.06,
+    "depth": 10,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "Anse La Raye Wall",
+    "lat": 13.94,
+    "lon": -61.05,
+    "depth": 35,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "Daini Koyomaru Wreck",
+    "lat": 14.05,
+    "lon": -61.01,
+    "depth": 18,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "Coral Gardens Soufrière",
+    "lat": 13.848,
+    "lon": -61.068,
+    "depth": 8,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "The Drift (Pitons)",
+    "lat": 13.835,
+    "lon": -61.058,
+    "depth": 28,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "Grand Caille",
+    "lat": 13.95,
+    "lon": -61.045,
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "El Pirata Shipwreck",
+    "lat": 13.7296327,
+    "lon": -60.9721116,
+    "osm_id": 9385639518,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "access": "yes",
+      "historic": "wreck",
+      "name": "El Pirata Shipwreck",
+      "seamark:type": "wreck",
+      "seamark:wreck:category": "non-dangerous",
+      "wreck:visible_at_high_tide": "yes",
+      "wreck:visible_at_low_tide": "yes",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Fairyland",
+    "lat": 13.8627497,
+    "lon": -61.0779083,
+    "osm_id": 398450579,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "area": "yes",
+      "name": "Fairyland",
+      "sport": "scuba_diving",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Maria Island Reef",
+    "lat": 13.7362752,
+    "lon": -60.9342094,
+    "osm_id": 1022427960,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Maria Island Reef",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  }
+]

@@ -1,0 +1,265 @@
+[
+  {
+    "name": "Deep Turbo",
+    "lat": -8.3367441,
+    "lon": 116.0462579,
+    "osm_id": 2395669748,
+    "osm_type": "node",
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "Deep Turbo",
+      "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Halik",
+    "lat": -8.336235,
+    "lon": 116.038308,
+    "osm_id": 2395669750,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "drift",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Halik",
+      "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
+      "scuba_diving:type": "snorkeling",
+      "sport": "scuba_diving",
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "scubaboard"
+    }
+  },
+  {
+    "name": "Jack Point",
+    "lat": -8.337684,
+    "lon": 116.0255805,
+    "osm_id": 2395669751,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Jack Point",
+      "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Manta Point",
+    "lat": -8.363335,
+    "lon": 116.0265987,
+    "osm_id": 2395669753,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Manta Point",
+      "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Meno Wall",
+    "lat": -8.3452031,
+    "lon": 116.0498999,
+    "osm_id": 2395669756,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Meno Wall",
+      "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Shallow Turbo",
+    "lat": -8.3395246,
+    "lon": 116.0440257,
+    "osm_id": 2395669758,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Shallow Turbo",
+      "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
+      "scuba_diving:type": "snorkeling",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Shark Point",
+    "lat": -8.3425401,
+    "lon": 116.0236615,
+    "osm_id": 2395669759,
+    "osm_type": "node",
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "Shark Point",
+      "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
+    }
+  },
+  {
+    "name": "Trawangan Wall",
+    "lat": -8.3465756,
+    "lon": 116.0436158,
+    "osm_id": 2400061876,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "location": "underwater",
+      "name": "Trawangan Wall",
+      "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
+      "scuba_diving:type": "snorkeling",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Lombok Dive",
+    "lat": -8.3475991,
+    "lon": 116.0283794,
+    "osm_id": 4270913147,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Lombok Dive",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Vila Almarick Biorock",
+    "lat": -8.3461172,
+    "lon": 116.0433854,
+    "osm_id": 4813305042,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "location": "underwater",
+      "name": "Vila Almarick Biorock",
+      "scuba_diving:type": "snorkeling",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Bale Sampan Biorock",
+    "lat": -8.3479656,
+    "lon": 116.0438526,
+    "osm_id": 4813305043,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "location": "underwater",
+      "name": "Bale Sampan Biorock",
+      "scuba_diving:type": "snorkeling",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Samba Vilas Biorock",
+    "lat": -8.3481527,
+    "lon": 116.0439347,
+    "osm_id": 4813305044,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "location": "underwater",
+      "name": "Samba Vilas Biorock",
+      "scuba_diving:type": "snorkeling",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Trawangan Dive Biorock",
+    "lat": -8.3490364,
+    "lon": 116.0442834,
+    "osm_id": 4813305045,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "location": "underwater",
+      "name": "Trawangan Dive Biorock",
+      "scuba_diving:type": "snorkeling",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Gili Divers Biorock",
+    "lat": -8.3495698,
+    "lon": 116.0444604,
+    "osm_id": 4813305046,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "location": "underwater",
+      "name": "Gili Divers Biorock",
+      "scuba_diving:type": "snorkeling",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Turtle Point",
+    "lat": -8.3427036,
+    "lon": 116.0437832,
+    "osm_id": 6750981689,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "location": "underwater",
+      "name": "Turtle Point",
+      "name:en": "Turtle point",
+      "scuba_diving:type": "snorkeling",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  }
+]

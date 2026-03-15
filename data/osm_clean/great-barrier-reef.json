@@ -1,0 +1,451 @@
+[
+  {
+    "name": "Challenger Bay",
+    "lat": -14.9154407,
+    "lon": 145.6903158,
+    "osm_id": 270800741,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Challenger Bay",
+      "scuba_diving:entry:boat": "yes",
+      "sport": "scuba_diving",
+      "sport:scuba_diving": "yes",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Pixie Gardens",
+    "lat": -14.9280802,
+    "lon": 145.6772796,
+    "osm_id": 270802346,
+    "osm_type": "node",
+    "depth": 10,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Pixie Gardens",
+      "scuba_diving:entry:boat": "yes",
+      "sport": "scuba_diving",
+      "sport:scuba_diving": "yes",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Pixie Pinnacle",
+    "lat": -14.929769,
+    "lon": 145.6755024,
+    "osm_id": 270802347,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Pixie Pinnacle",
+      "scuba_diving:entry:boat": "yes",
+      "sport": "scuba_diving",
+      "sport:scuba_diving": "yes",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Cod Hole",
+    "lat": -14.663675,
+    "lon": 145.6634652,
+    "osm_id": 270802348,
+    "osm_type": "node",
+    "depth": 25,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Cod Hole",
+      "scuba_diving:entry:boat": "yes",
+      "sport": "scuba_diving",
+      "sport:scuba_diving": "yes",
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "scubaboard"
+    }
+  },
+  {
+    "name": "Round the Bend",
+    "lat": -13.891201,
+    "lon": 146.5528992,
+    "osm_id": 270802349,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Round the Bend",
+      "scuba_diving:entry:boat": "yes",
+      "sport": "scuba_diving",
+      "sport:scuba_diving": "yes",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Castle",
+    "lat": -13.851845,
+    "lon": 146.563382,
+    "osm_id": 270802350,
+    "osm_type": "node",
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Castle",
+      "scuba_diving:entry:boat": "yes",
+      "sport": "scuba_diving",
+      "sport:scuba_diving": "yes",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Halfway Wall",
+    "lat": -13.8487161,
+    "lon": 146.563876,
+    "osm_id": 270802351,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Halfway Wall",
+      "scuba_diving:entry:boat": "yes",
+      "sport": "scuba_diving",
+      "sport:scuba_diving": "yes",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "North Horn",
+    "lat": -13.8013992,
+    "lon": 146.5457903,
+    "osm_id": 270802352,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "North Horn",
+      "scuba_diving:entry:boat": "yes",
+      "sport": "scuba_diving",
+      "sport:scuba_diving": "yes",
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "scubaboard"
+    }
+  },
+  {
+    "name": "Steve's Bommie",
+    "lat": -15.5012397,
+    "lon": 145.7882636,
+    "osm_id": 270802353,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Steve's Bommie",
+      "scuba_diving:entry:boat": "yes",
+      "sport": "scuba_diving",
+      "sport:scuba_diving": "yes",
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "scubaboard"
+    }
+  },
+  {
+    "name": "Flare Point",
+    "lat": -15.5125869,
+    "lon": 145.7768157,
+    "osm_id": 270802354,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Flare Point",
+      "scuba_diving:entry:boat": "yes",
+      "sport": "scuba_diving",
+      "sport:scuba_diving": "yes",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Lighthouse Bommie",
+    "lat": -14.875091,
+    "lon": 145.689982,
+    "osm_id": 270802401,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Lighthouse Bommie",
+      "scuba_diving:entry:boat": "yes",
+      "sport": "scuba_diving",
+      "sport:scuba_diving": "yes",
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "scubaboard"
+    }
+  },
+  {
+    "name": "Admiralty Anchorage",
+    "lat": -13.8866784,
+    "lon": 146.5569376,
+    "osm_id": 270802966,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Admiralty Anchorage",
+      "scuba_diving:entry:boat": "yes",
+      "sport": "scuba_diving",
+      "sport:scuba_diving": "yes",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Plate Top",
+    "lat": -16.4270161,
+    "lon": 145.9904141,
+    "osm_id": 286279301,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "mooring": "yes",
+      "name": "Plate Top",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Troppo's",
+    "lat": -16.4192277,
+    "lon": 145.9965038,
+    "osm_id": 286279302,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "mooring": "yes",
+      "name": "Troppo's",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Clipper",
+    "lat": -16.4275949,
+    "lon": 145.9881647,
+    "osm_id": 286279303,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "mooring": "yes",
+      "name": "Clipper",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Moore Reef - 5 Ways",
+    "lat": -16.859583,
+    "lon": 146.2122,
+    "osm_id": 663869669,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Moore Reef - 5 Ways",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Agincourt Reef No. 1 - Trigger Fish City",
+    "lat": -16.039783,
+    "lon": 145.864417,
+    "osm_id": 663869671,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Agincourt Reef No. 1 - Trigger Fish City",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Agincourt Reef No. 4 - The Point",
+    "lat": -15.9677,
+    "lon": 145.819717,
+    "osm_id": 663869673,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Agincourt Reef No. 4 - The Point",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Light Reef - Phil`s Bommie",
+    "lat": -16.017967,
+    "lon": 145.806383,
+    "osm_id": 663869675,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Light Reef - Phil`s Bommie",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Moore Reef - Labyrinth",
+    "lat": -16.875833,
+    "lon": 146.19845,
+    "osm_id": 663869678,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Moore Reef - Labyrinth",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Just Magic",
+    "lat": -16.0213633,
+    "lon": 145.8070862,
+    "osm_id": 1939562723,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Just Magic",
+      "source": "survey",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Nursery Bommie",
+    "lat": -16.0309501,
+    "lon": 145.8563177,
+    "osm_id": 1939562752,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Nursery Bommie",
+      "source": "survey",
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
+    }
+  },
+  {
+    "name": "Wreck Bay",
+    "lat": -15.982229,
+    "lon": 145.8370152,
+    "osm_id": 1939562776,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Wreck Bay",
+      "source": "survey",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Cruise Whitsundays Pontoon",
+    "lat": -19.5714303,
+    "lon": 149.2695225,
+    "osm_id": 2490191153,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Cruise Whitsundays Pontoon",
+      "scuba_diving:entry:boat": "yes",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Goggle Gardens",
+    "lat": -14.95076,
+    "lon": 145.68395,
+    "osm_id": 3712170391,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Goggle Gardens",
+      "scuba_diving:entry:boat": "yes",
+      "sport": "scuba_diving",
+      "sport:scuba_diving": "yes",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Down Under Diving",
+    "lat": -16.523637,
+    "lon": 145.9851619,
+    "osm_id": 5229900922,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Down Under Diving",
+      "scuba_diving:entry:boat": "yes",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  }
+]

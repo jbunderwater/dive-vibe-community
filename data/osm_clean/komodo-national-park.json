@@ -1,0 +1,544 @@
+[
+  {
+    "name": "Pantai Merah",
+    "lat": -8.6009657,
+    "lon": 119.5261842,
+    "osm_id": 1485422409,
+    "osm_type": "node",
+    "depth": 12,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Pantai Merah",
+      "scuba_diving:type:reef": "yes",
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
+    }
+  },
+  {
+    "name": "Manta Point dive site",
+    "lat": -8.5415535,
+    "lon": 119.5997228,
+    "osm_id": 3948869068,
+    "osm_type": "node",
+    "depth": 15,
+    "site_type": "drift",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Manta Point dive site",
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
+    }
+  },
+  {
+    "name": "Mawan",
+    "lat": -8.558126,
+    "lon": 119.6361023,
+    "osm_id": 3948869069,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Mawan",
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
+    }
+  },
+  {
+    "name": "Crystal Bay Dive Site",
+    "lat": -8.4472423,
+    "lon": 119.5682314,
+    "osm_id": 5114515124,
+    "osm_type": "node",
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Crystal Bay Dive Site",
+      "sport": "scuba_diving",
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "scubaboard"
+    }
+  },
+  {
+    "name": "Pengah Kecil",
+    "lat": -8.5769535,
+    "lon": 119.6808266,
+    "osm_id": 5114515322,
+    "osm_type": "node",
+    "depth": 30,
+    "site_type": "drift",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "Pengah Kecil",
+      "name:de": "Pengah Kecil",
+      "sport": "scuba_diving",
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "scubaboard"
+    }
+  },
+  {
+    "name": "Siaba Besar dive site",
+    "lat": -8.558211,
+    "lon": 119.6450121,
+    "osm_id": 5114515324,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Siaba Besar dive site",
+      "name:de": "Siaba Besar",
+      "sport": "scuba_diving",
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "scubaboard"
+    }
+  },
+  {
+    "name": "Crystal Rock Dive Site",
+    "lat": -8.4416648,
+    "lon": 119.5677822,
+    "osm_id": 5767096953,
+    "osm_type": "node",
+    "depth": 30,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "Crystal Rock Dive Site",
+      "scuba_diving:dive_spot": "yes",
+      "sport": "scuba_diving",
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "scubaboard"
+    }
+  },
+  {
+    "name": "The Cauldron Dive Site",
+    "lat": -8.4609097,
+    "lon": 119.5633723,
+    "osm_id": 5875544788,
+    "osm_type": "node",
+    "depth": 22,
+    "site_type": "drift",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "alt_name": "Shot gun",
+      "name": "The Cauldron Dive Site",
+      "name:en": "The Cauldron Dive Site",
+      "scuba_diving:dive_spot": "yes",
+      "scuba_diving:entry": "Boat",
+      "scuba_diving:name": "The Cauldron",
+      "scuba_diving:type": "drift",
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
+    }
+  },
+  {
+    "name": "Batu Tiga Dive Site",
+    "lat": -8.5996016,
+    "lon": 119.5728673,
+    "osm_id": 7182686142,
+    "osm_type": "node",
+    "depth": 30,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "Batu Tiga Dive Site",
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
+    }
+  },
+  {
+    "name": "Bonsai dive site",
+    "lat": -8.6034515,
+    "lon": 119.6544647,
+    "osm_id": 7182733952,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Bonsai dive site",
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
+    }
+  },
+  {
+    "name": "3 Sisters",
+    "lat": -8.6881122,
+    "lon": 119.5736556,
+    "osm_id": 7182742081,
+    "osm_type": "node",
+    "depth": 30,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "3 Sisters",
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
+    }
+  },
+  {
+    "name": "Sabayor Kecil",
+    "lat": -8.5109788,
+    "lon": 119.695278,
+    "osm_id": 7182749565,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Sabayor Kecil",
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
+    }
+  },
+  {
+    "name": "Mini Wall",
+    "lat": -8.5081987,
+    "lon": 119.7040058,
+    "osm_id": 7182750968,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Mini Wall",
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
+    }
+  },
+  {
+    "name": "Pillarsteen",
+    "lat": -8.6946259,
+    "lon": 119.5675945,
+    "osm_id": 7182756520,
+    "osm_type": "node",
+    "depth": 35,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Pillarsteen",
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
+    }
+  },
+  {
+    "name": "Tatawa Besar dive site",
+    "lat": -8.5083587,
+    "lon": 119.6397238,
+    "osm_id": 7182756978,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "drift",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Tatawa Besar dive site",
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
+    }
+  },
+  {
+    "name": "Tatawa Kecil dive site",
+    "lat": -8.5252252,
+    "lon": 119.6332396,
+    "osm_id": 7182760644,
+    "osm_type": "node",
+    "depth": 30,
+    "site_type": "drift",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "Tatawa Kecil dive site",
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
+    }
+  },
+  {
+    "name": "Indihiang",
+    "lat": -8.6520619,
+    "lon": 119.4960867,
+    "osm_id": 7182760645,
+    "osm_type": "node",
+    "depth": 25,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "Indihiang",
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
+    }
+  },
+  {
+    "name": "Gaja Rock dive site",
+    "lat": -8.7451021,
+    "lon": 119.4825409,
+    "osm_id": 7182762315,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Gaja Rock dive site",
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
+    }
+  },
+  {
+    "name": "Loh Namu",
+    "lat": -8.641888,
+    "lon": 119.4868791,
+    "osm_id": 7182769497,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Loh Namu",
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
+    }
+  },
+  {
+    "name": "Pink Beach",
+    "lat": -8.60391,
+    "lon": 119.5184013,
+    "osm_id": 7182770013,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Pink Beach",
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
+    }
+  },
+  {
+    "name": "Wainilu",
+    "lat": -8.6255978,
+    "lon": 119.7074961,
+    "osm_id": 7182771889,
+    "osm_type": "node",
+    "depth": 12,
+    "site_type": "muck",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Wainilu",
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
+    }
+  },
+  {
+    "name": "Loh Sera dive site",
+    "lat": -8.7355061,
+    "lon": 119.4569802,
+    "osm_id": 7182771890,
+    "osm_type": "node",
+    "depth": 30,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "Loh Sera dive site",
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
+    }
+  },
+  {
+    "name": "Tanjung Loh Sera dive site",
+    "lat": -8.7432085,
+    "lon": 119.4720907,
+    "osm_id": 7182774875,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Tanjung Loh Sera dive site",
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
+    }
+  },
+  {
+    "name": "Gindang",
+    "lat": -8.6108571,
+    "lon": 119.7197489,
+    "osm_id": 7182785203,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Gindang",
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
+    }
+  },
+  {
+    "name": "Payong",
+    "lat": -8.6804164,
+    "lon": 119.6057521,
+    "osm_id": 7182786669,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Payong",
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
+    }
+  },
+  {
+    "name": "Sabolon besar dive site",
+    "lat": -8.3926698,
+    "lon": 119.8068523,
+    "osm_id": 8022562467,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Sabolon besar dive site",
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
+    }
+  },
+  {
+    "name": "Sabolon kecil dive site",
+    "lat": -8.3896766,
+    "lon": 119.7984087,
+    "osm_id": 8022562468,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Sabolon kecil dive site",
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
+    }
+  },
+  {
+    "name": "Lighthouse Reef Dive Site",
+    "lat": -8.4409708,
+    "lon": 119.5837837,
+    "osm_id": 8022562480,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Lighthouse Reef Dive Site",
+      "scuba_diving:dive_spot": "yes",
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
+    }
+  },
+  {
+    "name": "Sebayur dive site",
+    "lat": -8.5046306,
+    "lon": 119.7078895,
+    "osm_id": 8022733115,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Sebayur dive site",
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
+    }
+  },
+  {
+    "name": "Seraya kecil dive site",
+    "lat": -8.4181211,
+    "lon": 119.8625135,
+    "osm_id": 8022733116,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Seraya kecil dive site",
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
+    }
+  },
+  {
+    "name": "Makassar Reef (Manta Point)",
+    "lat": -8.5335442,
+    "lon": 119.5905966,
+    "osm_id": 10252897714,
+    "osm_type": "node",
+    "depth": 15,
+    "site_type": "drift",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Makassar Reef (Manta Point)",
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
+    }
+  }
+]

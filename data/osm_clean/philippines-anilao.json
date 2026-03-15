@@ -1,0 +1,198 @@
+[
+  {
+    "name": "Rockport Dive Site",
+    "lat": 13.8302954,
+    "lon": 120.9087054,
+    "osm_id": 1271234012,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Rockport Dive Site",
+      "scuba_diving:type": "reef",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Dive Site",
+    "lat": 13.794793,
+    "lon": 120.9143488,
+    "osm_id": 1271232216,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Dive Site",
+      "scuba_diving:type": "reef",
+      "sport": "scuba_diving",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Cathedral Rock",
+    "lat": 13.77,
+    "lon": 120.9,
+    "depth": 22,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Beatrice Rock",
+    "lat": 13.76,
+    "lon": 120.89,
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Sepok Wall",
+    "lat": 13.75,
+    "lon": 120.88,
+    "depth": 35,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Sombrero Island",
+    "lat": 13.78,
+    "lon": 120.91,
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Twin Rocks",
+    "lat": 13.74,
+    "lon": 120.87,
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Kirby's Rock",
+    "lat": 13.755,
+    "lon": 120.885,
+    "depth": 20,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true"
+    }
+  },
+  {
+    "name": "Secret Bay",
+    "lat": 13.79,
+    "lon": 120.92,
+    "depth": 8,
+    "site_type": "muck",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "scubaboard"
+    }
+  },
+  {
+    "name": "Mainit Point",
+    "lat": 13.745,
+    "lon": 120.875,
+    "depth": 28,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true"
+    }
+  },
+  {
+    "name": "Bahura",
+    "lat": 13.8,
+    "lon": 120.93,
+    "depth": 12,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Arthur's Rock",
+    "lat": 13.765,
+    "lon": 120.895,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Dead Palm",
+    "lat": 13.785,
+    "lon": 120.915,
+    "depth": 10,
+    "site_type": "muck",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true"
+    }
+  },
+  {
+    "name": "Koala Reef",
+    "lat": 13.735,
+    "lon": 120.865,
+    "depth": 20,
+    "site_type": "muck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true"
+    }
+  }
+]

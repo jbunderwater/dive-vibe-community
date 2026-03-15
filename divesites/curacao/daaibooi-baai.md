@@ -2,10 +2,10 @@
 name: Daaibooi Baai
 lat: 12.2119209
 lng: -69.0855754
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 30
 entryType: Shore
-siteType: Reef
+siteType: reef
 ref: null
 osmId: null
 addedBy: assistant
@@ -22,9 +22,9 @@ Daaibooi Baai (Daaibooi Beach) is a beloved shore diving destination located in 
 ## Site Information
 
 - **Location**: West coast, Sint Willibrordus area
-- **Entry Type**: Shore dive from sandy beach
-- **Site Type**: Protected bay with fringing coral reef
-- **Difficulty Level**: Beginner to Intermediate
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters (100 feet)
 - **Typical Visibility**: 15-25 meters (50-80 feet)
 - **Current**: Usually minimal to none

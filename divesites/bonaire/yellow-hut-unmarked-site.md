@@ -2,7 +2,7 @@
 name: Yellow Hut (unmarked site)
 lat: 12.0311599
 lng: -68.2562156
-difficulty: Intermediate
+difficulty: Beginner
 maxDepth: 30
 entryType: shore
 siteType: reef
@@ -18,9 +18,9 @@ Yellow Hut is a beautiful dive site located in southern Bonaire near Atlantis. T
 
 ## Site Information
 - **Location**: South Bonaire (near Atlantis)
-- **Entry Type**: Shore entry (easy sandy entry)
-- **Site Type**: Reef
-- **Difficulty Level**: Intermediate
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Difficulty Level**: Beginner
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-30 meters
 - **Current**: Usually light

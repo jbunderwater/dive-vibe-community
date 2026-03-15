@@ -2,7 +2,7 @@
 name: Something Special
 lat: 12.1613822
 lng: -68.2838525
-difficulty: Intermediate
+difficulty: Beginner
 maxDepth: 30
 entryType: shore
 siteType: reef
@@ -21,8 +21,8 @@ Something Special is a distinctive dive site located on Bonaire's northern coast
 ## Site Information
 - **Location**: Northern Bonaire (near Washington Slagbaai National Park)
 - **Entry Type**: Shore entry
-- **Site Type**: Reef
-- **Difficulty Level**: Intermediate
+- **Site Type**: Coral reef
+- **Difficulty Level**: Beginner
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15-25 meters
 - **Current**: Light to moderate

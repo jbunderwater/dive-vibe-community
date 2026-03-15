@@ -5,7 +5,7 @@ lng: -68.8619504
 difficulty: Beginner
 maxDepth: 5
 entryType: Shore
-siteType: Wreck
+siteType: wreck
 ref: null
 osmId: null
 addedBy: assistant
@@ -22,10 +22,10 @@ The Ship Wreck Tugboat, located in Caracasbaai (Caracas Bay), is arguably Curaç
 ## Site Information
 
 - **Location**: Caracasbaai (Caracas Bay), southeast coast
-- **Entry Type**: Shore dive from rocky area near pier
-- **Site Type**: Shallow water tugboat wreck
+- **Entry Type**: Shore entry
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 5 meters (15 feet)
+- **Maximum Depth**: 5 meters
 - **Typical Visibility**: 10-15 meters (30-50 feet)
 - **Current**: Usually minimal to none
 - **Best Time**: Year-round, excellent for all diving activities

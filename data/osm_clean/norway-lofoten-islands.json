@@ -1,0 +1,155 @@
+[
+  {
+    "name": "MS Hamburg",
+    "lat": 68.23333,
+    "lon": 14.534333,
+    "osm_id": 663871180,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "historic": "wreck",
+      "name": "MS Hamburg",
+      "seamark:type": "wreck",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "D/S General Suworow",
+    "lat": 68.1416033,
+    "lon": 13.5253098,
+    "osm_id": 11673361278,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "wreck",
+      "name": "D/S General Suworow",
+      "seamark:type": "wreck",
+      "wreck:date_sunk": "1919-08-05",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Ballstad Reef",
+    "lat": 68.075,
+    "lon": 13.54,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Nusfjord Wall",
+    "lat": 68.035,
+    "lon": 13.35,
+    "depth": 25,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Kabelvåg Shore",
+    "lat": 68.213,
+    "lon": 14.48,
+    "depth": 12,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Henningsvær Wall",
+    "lat": 68.151,
+    "lon": 14.2,
+    "depth": 30,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Svolvær Harbor",
+    "lat": 68.234,
+    "lon": 14.568,
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Reine Bay",
+    "lat": 67.932,
+    "lon": 13.09,
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Å Shore Dive",
+    "lat": 67.878,
+    "lon": 12.98,
+    "depth": 10,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Maelstrom Wall",
+    "lat": 67.9,
+    "lon": 13.0,
+    "depth": 35,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Stamsund Kelp Forest",
+    "lat": 68.12,
+    "lon": 13.85,
+    "depth": 14,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  }
+]

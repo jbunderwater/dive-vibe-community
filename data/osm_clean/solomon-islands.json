@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Bonegi 1 Wreck",
+    "lat": -9.3667,
+    "lon": 159.95,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 20,
+    "site_type": "wreck",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Bonegi 2 Wreck",
+    "lat": -9.3583,
+    "lon": 159.9417,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 25,
+    "site_type": "wreck",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Toa Maru Wreck",
+    "lat": -8.0167,
+    "lon": 156.8333,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 30,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Devil's Highway",
+    "lat": -9.05,
+    "lon": 160.1333,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Mary Island",
+    "lat": -9.3833,
+    "lon": 160.1833,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Leru Cut Florida Islands",
+    "lat": -9.0833,
+    "lon": 160.25,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 20,
+    "site_type": "cave",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Maravagi Passage",
+    "lat": -9.1,
+    "lon": 160.2,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 22,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Sandfly Passage",
+    "lat": -8.0833,
+    "lon": 156.85,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Custom's House Wreck",
+    "lat": -9.3833,
+    "lon": 160.0167,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 15,
+    "site_type": "wreck",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Mirror Pond Uepi",
+    "lat": -8.35,
+    "lon": 158.0667,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  }
+]

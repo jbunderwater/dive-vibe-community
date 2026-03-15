@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Amos Rock",
+    "filename": "amos-rock.md",
+    "lat": 8.8667,
+    "lng": 119.8833,
+    "difficulty": "Intermediate",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Shark Airport",
+    "filename": "shark-airport.md",
+    "lat": 8.85,
+    "lng": 119.8667,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Wall Street",
+    "filename": "wall-street.md",
+    "lat": 8.8583,
+    "lng": 119.875,
+    "difficulty": "Advanced",
+    "maxDepth": 35,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Black Rock",
+    "filename": "black-rock.md",
+    "lat": 8.8333,
+    "lng": 119.85,
+    "difficulty": "Intermediate",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Malayan Wreck",
+    "filename": "malayan-wreck.md",
+    "lat": 8.875,
+    "lng": 119.8917,
+    "difficulty": "Intermediate",
+    "maxDepth": 20,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Bird Islet Wall",
+    "filename": "bird-islet-wall.md",
+    "lat": 8.825,
+    "lng": 119.8417,
+    "difficulty": "Intermediate",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Ko-ok",
+    "filename": "ko-ok.md",
+    "lat": 8.8417,
+    "lng": 119.8583,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Delsan Wreck",
+    "filename": "delsan-wreck.md",
+    "lat": 8.8833,
+    "lng": 119.9,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Jesse Beazley Reef",
+    "filename": "jesse-beazley-reef.md",
+    "lat": 9.0466227,
+    "lng": 119.8142609,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 31974943
+  }
+]

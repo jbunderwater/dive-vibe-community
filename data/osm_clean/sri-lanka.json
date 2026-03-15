@@ -1,0 +1,160 @@
+[
+  {
+    "name": "Scuba Lanka",
+    "lat": 8.6104972,
+    "lon": 81.2190131,
+    "osm_id": 2896874870,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Scuba Lanka",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Bar Reef",
+    "lat": 8.3673231,
+    "lon": 79.7463453,
+    "osm_id": 4025127654,
+    "osm_type": "node",
+    "depth": 5,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "depth": "0.5-5",
+      "name": "Bar Reef",
+      "natural": "reef",
+      "reef": "coral",
+      "sport": "scuba_diving",
+      "sport:snorkeling": "yes"
+    }
+  },
+  {
+    "name": "Anchor Point",
+    "lat": 8.3172012,
+    "lon": 79.6940893,
+    "osm_id": 4055852991,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Anchor Point",
+      "natural": "reef",
+      "reef": "stone",
+      "sport": "scuba_diving;snorkelling",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Cave dive site",
+    "lat": 6.0004314,
+    "lon": 80.2381218,
+    "osm_id": 9448790419,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "cave",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Cave dive site",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Gala pita gala dive site",
+    "lat": 5.9991084,
+    "lon": 80.2385992,
+    "osm_id": 9448790420,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Gala pita gala dive site",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Conch dive site",
+    "lat": 6.1923896,
+    "lon": 80.047307,
+    "osm_id": 9448792092,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "wreck",
+      "name": "Conch dive site",
+      "seamark:type": "wreck",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Carreg dive site",
+    "lat": 7.1759409,
+    "lon": 79.7589118,
+    "osm_id": 9448835283,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "wreck",
+      "name": "Carreg dive site",
+      "seamark:type": "wreck",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Goddamahagale dive site",
+    "lat": 7.23653,
+    "lon": 79.7823526,
+    "osm_id": 9448835284,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Goddamahagale dive site",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Unuwatuna Coral Reef",
+    "lat": 6.0154279,
+    "lon": 80.2345346,
+    "osm_id": 397271677,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Unuwatuna Coral Reef",
+      "natural": "reef",
+      "reef": "coral",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  }
+]

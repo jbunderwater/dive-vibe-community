@@ -3,8 +3,20 @@
     "name": "Bonaire",
     "slug": "bonaire",
     "region": "Caribbean",
-    "center": [12.1836, -68.3177],
-    "bounds": [[12.10, -68.35], [12.30, -68.28]],
+    "center": [
+      12.1836,
+      -68.3177
+    ],
+    "bounds": [
+      [
+        12.02,
+        -68.42
+      ],
+      [
+        12.31,
+        -68.22
+      ]
+    ],
     "description": "A Caribbean island known for its pristine coral reefs and excellent shore diving opportunities.",
     "overviewFile": "overview.md",
     "countryCode": "BQ"
@@ -13,8 +25,20 @@
     "name": "Curacao",
     "slug": "curacao",
     "region": "Caribbean",
-    "center": [12.2210, -69.0103],
-    "bounds": [[12.0679, -69.1586], [12.3740, -68.8619]],
+    "center": [
+      12.221,
+      -69.0103
+    ],
+    "bounds": [
+      [
+        12.0679,
+        -69.1586
+      ],
+      [
+        12.374,
+        -68.8619
+      ]
+    ],
     "description": "Dutch Caribbean paradise offering world-class shore diving with colorful coral reefs, historic wrecks, and diverse marine life including sea turtles and tropical fish. Known for crystal-clear waters and excellent visibility.",
     "overviewFile": "overview.md",
     "countryCode": "CW"
@@ -23,8 +47,20 @@
     "name": "Bahamas",
     "slug": "bahamas",
     "region": "Caribbean",
-    "center": [24.25, -76.0],
-    "bounds": [[22.0, -80.0], [27.0, -72.0]],
+    "center": [
+      24.25,
+      -76.0
+    ],
+    "bounds": [
+      [
+        22.0,
+        -80.0
+      ],
+      [
+        27.0,
+        -72.0
+      ]
+    ],
     "description": "Crystal clear waters with blue holes, sharks, and pristine coral reefs including Tiger Beach.",
     "overviewFile": "overview.md",
     "countryCode": "BS"
@@ -33,8 +69,20 @@
     "name": "Belize Barrier Reef",
     "slug": "belize-barrier-reef",
     "region": "Caribbean",
-    "center": [16.7, -88.0],
-    "bounds": [[15.5, -89.0], [18.5, -87.0]],
+    "center": [
+      16.7,
+      -88.0
+    ],
+    "bounds": [
+      [
+        15.5,
+        -89.0
+      ],
+      [
+        18.5,
+        -87.0
+      ]
+    ],
     "description": "Home to the famous Blue Hole and spectacular reef walls with abundant marine life.",
     "overviewFile": "overview.md",
     "countryCode": "BZ"
@@ -43,8 +91,20 @@
     "name": "Cayman Islands",
     "slug": "cayman-islands",
     "region": "Caribbean",
-    "center": [19.35, -81.25],
-    "bounds": [[19.0, -82.0], [19.7, -80.5]],
+    "center": [
+      19.35,
+      -81.25
+    ],
+    "bounds": [
+      [
+        19.0,
+        -82.0
+      ],
+      [
+        19.8,
+        -79.7
+      ]
+    ],
     "description": "World-class wall dives, excellent visibility, and the famous Stingray City.",
     "overviewFile": "overview.md",
     "countryCode": "KY"
@@ -53,8 +113,20 @@
     "name": "Turks and Caicos",
     "slug": "turks-and-caicos",
     "region": "Caribbean",
-    "center": [21.8, -72.0],
-    "bounds": [[21.0, -73.0], [22.5, -71.0]],
+    "center": [
+      21.8,
+      -72.0
+    ],
+    "bounds": [
+      [
+        21.0,
+        -73.0
+      ],
+      [
+        22.5,
+        -71.0
+      ]
+    ],
     "description": "Pristine wall dives, reef sharks, and crystal-clear warm Caribbean waters.",
     "overviewFile": "overview.md",
     "countryCode": "TC"
@@ -63,8 +135,20 @@
     "name": "Saba",
     "slug": "saba",
     "region": "Caribbean",
-    "center": [17.63, -63.23],
-    "bounds": [[17.6, -63.3], [17.7, -63.2]],
+    "center": [
+      17.63,
+      -63.23
+    ],
+    "bounds": [
+      [
+        17.6,
+        -63.3
+      ],
+      [
+        17.7,
+        -63.2
+      ]
+    ],
     "description": "Dramatic pinnacle dives around an extinct volcanic island with pristine reefs.",
     "overviewFile": "overview.md",
     "countryCode": "BQ"
@@ -73,8 +157,20 @@
     "name": "Utila",
     "slug": "utila",
     "region": "Caribbean",
-    "center": [16.1, -86.9],
-    "bounds": [[16.0, -87.0], [16.2, -86.8]],
+    "center": [
+      16.1,
+      -86.9
+    ],
+    "bounds": [
+      [
+        16.0,
+        -87.0
+      ],
+      [
+        16.2,
+        -86.8
+      ]
+    ],
     "description": "Famous for whale shark encounters and affordable diving in Honduras.",
     "overviewFile": "overview.md",
     "countryCode": "HN"
@@ -83,8 +179,20 @@
     "name": "British Virgin Islands",
     "slug": "british-virgin-islands",
     "region": "Caribbean",
-    "center": [18.5, -64.5],
-    "bounds": [[18.0, -65.0], [19.0, -64.0]],
+    "center": [
+      18.5,
+      -64.5
+    ],
+    "bounds": [
+      [
+        18.0,
+        -65.0
+      ],
+      [
+        19.0,
+        -64.0
+      ]
+    ],
     "description": "Home to the famous RMS Rhone wreck and excellent reef diving.",
     "overviewFile": "overview.md",
     "countryCode": "VG"
@@ -93,8 +201,20 @@
     "name": "Cozumel",
     "slug": "cozumel",
     "region": "Caribbean",
-    "center": [20.4, -86.9],
-    "bounds": [[20.2, -87.1], [20.6, -86.7]],
+    "center": [
+      20.4,
+      -86.9
+    ],
+    "bounds": [
+      [
+        20.2,
+        -87.1
+      ],
+      [
+        20.6,
+        -86.7
+      ]
+    ],
     "description": "World-renowned drift diving through vibrant coral reefs with excellent visibility.",
     "overviewFile": "overview.md",
     "countryCode": "MX"
@@ -103,8 +223,20 @@
     "name": "Bermuda",
     "slug": "bermuda",
     "region": "Atlantic",
-    "center": [32.3, -64.8],
-    "bounds": [[32.0, -65.0], [32.5, -64.5]],
+    "center": [
+      32.3,
+      -64.8
+    ],
+    "bounds": [
+      [
+        32.0,
+        -65.0
+      ],
+      [
+        32.5,
+        -64.5
+      ]
+    ],
     "description": "World-class shipwreck diving, coral reefs, and mysterious blue holes.",
     "overviewFile": "overview.md",
     "countryCode": "BM"
@@ -113,8 +245,20 @@
     "name": "Monterey Bay",
     "slug": "monterey-bay",
     "region": "North America",
-    "center": [36.6002, -121.9000],
-    "bounds": [[36.5, -122.0], [36.7, -121.8]],
+    "center": [
+      36.6002,
+      -121.9
+    ],
+    "bounds": [
+      [
+        36.5,
+        -122.0
+      ],
+      [
+        36.7,
+        -121.8
+      ]
+    ],
     "description": "World-famous kelp forest diving with incredible marine biodiversity.",
     "overviewFile": "overview.md",
     "countryCode": "US"
@@ -123,8 +267,20 @@
     "name": "California Channel Islands",
     "slug": "california-channel-islands",
     "region": "North America",
-    "center": [34.0, -119.5],
-    "bounds": [[33.0, -120.5], [35.0, -118.5]],
+    "center": [
+      34.0,
+      -119.5
+    ],
+    "bounds": [
+      [
+        33.0,
+        -120.5
+      ],
+      [
+        35.0,
+        -118.5
+      ]
+    ],
     "description": "Giant kelp forests, sea lions, and diverse cold-water marine species.",
     "overviewFile": "overview.md",
     "countryCode": "US"
@@ -133,8 +289,20 @@
     "name": "Vancouver Island",
     "slug": "vancouver-island",
     "region": "North America",
-    "center": [49.5, -126.0],
-    "bounds": [[48.0, -128.0], [51.0, -124.0]],
+    "center": [
+      49.5,
+      -126.0
+    ],
+    "bounds": [
+      [
+        48.0,
+        -128.5
+      ],
+      [
+        51.0,
+        -123.0
+      ]
+    ],
     "description": "Premier cold-water diving with wolf eels, giant Pacific octopus, and colorful anemones.",
     "overviewFile": "overview.md",
     "countryCode": "CA"
@@ -143,8 +311,20 @@
     "name": "La Paz & Sea of Cortez",
     "slug": "la-paz-sea-of-cortez",
     "region": "North America",
-    "center": [24.1, -110.3],
-    "bounds": [[22.0, -112.0], [26.0, -108.0]],
+    "center": [
+      24.1,
+      -110.3
+    ],
+    "bounds": [
+      [
+        22.0,
+        -112.0
+      ],
+      [
+        26.0,
+        -108.0
+      ]
+    ],
     "description": "Jacques Cousteau's 'World's Aquarium' with sea lions, whale sharks, and diverse marine life.",
     "overviewFile": "overview.md",
     "countryCode": "MX"
@@ -153,8 +333,20 @@
     "name": "Florida Keys",
     "slug": "florida-keys",
     "region": "North America",
-    "center": [24.7, -81.0],
-    "bounds": [[24.3, -82.0], [25.5, -80.0]],
+    "center": [
+      24.7,
+      -81.0
+    ],
+    "bounds": [
+      [
+        24.3,
+        -82.0
+      ],
+      [
+        25.5,
+        -80.0
+      ]
+    ],
     "description": "Coral reefs, wreck trails, and marine sanctuaries in crystal-clear tropical waters.",
     "overviewFile": "overview.md",
     "countryCode": "US"
@@ -163,8 +355,20 @@
     "name": "North Carolina",
     "slug": "north-carolina",
     "region": "North America",
-    "center": [35.0, -76.0],
-    "bounds": [[33.5, -77.0], [36.5, -75.0]],
+    "center": [
+      35.0,
+      -76.0
+    ],
+    "bounds": [
+      [
+        33.5,
+        -77.0
+      ],
+      [
+        36.5,
+        -75.0
+      ]
+    ],
     "description": "WWII wrecks and sand tiger shark encounters in the 'Graveyard of the Atlantic'.",
     "overviewFile": "overview.md",
     "countryCode": "US"
@@ -173,8 +377,20 @@
     "name": "Great Lakes",
     "slug": "great-lakes",
     "region": "North America",
-    "center": [45.0, -84.0],
-    "bounds": [[41.0, -93.0], [49.0, -75.0]],
+    "center": [
+      45.0,
+      -84.0
+    ],
+    "bounds": [
+      [
+        41.0,
+        -93.0
+      ],
+      [
+        49.0,
+        -75.0
+      ]
+    ],
     "description": "Freshwater wreck diving with historic ships preserved in cold, clear waters.",
     "overviewFile": "overview.md",
     "countryCode": "US"
@@ -183,8 +399,20 @@
     "name": "Dry Tortugas",
     "slug": "dry-tortugas",
     "region": "North America",
-    "center": [24.6, -82.9],
-    "bounds": [[24.5, -83.0], [24.7, -82.8]],
+    "center": [
+      24.6,
+      -82.9
+    ],
+    "bounds": [
+      [
+        24.5,
+        -83.0
+      ],
+      [
+        24.7,
+        -82.8
+      ]
+    ],
     "description": "Pristine reefs and protected marine park with incredible biodiversity.",
     "overviewFile": "overview.md",
     "countryCode": "US"
@@ -193,8 +421,20 @@
     "name": "Newfoundland",
     "slug": "newfoundland",
     "region": "North America",
-    "center": [49.0, -56.0],
-    "bounds": [[46.5, -60.0], [51.5, -52.0]],
+    "center": [
+      49.0,
+      -56.0
+    ],
+    "bounds": [
+      [
+        46.5,
+        -60.0
+      ],
+      [
+        51.5,
+        -52.0
+      ]
+    ],
     "description": "Iceberg diving, historic shipwrecks, and cold-water marine life.",
     "overviewFile": "overview.md",
     "countryCode": "CA"
@@ -203,8 +443,20 @@
     "name": "Galápagos Islands",
     "slug": "galapagos-islands",
     "region": "South America",
-    "center": [-0.7, -90.5],
-    "bounds": [[-2.0, -92.0], [1.0, -89.0]],
+    "center": [
+      -0.7,
+      -90.5
+    ],
+    "bounds": [
+      [
+        -2.0,
+        -92.0
+      ],
+      [
+        1.0,
+        -89.0
+      ]
+    ],
     "description": "Legendary encounters with hammerhead schools, whale sharks, sea lions, and marine iguanas.",
     "overviewFile": "overview.md",
     "countryCode": "EC"
@@ -213,8 +465,20 @@
     "name": "Hawaii Big Island",
     "slug": "hawaii-big-island",
     "region": "Pacific",
-    "center": [19.5, -155.5],
-    "bounds": [[18.9, -156.1], [20.3, -154.8]],
+    "center": [
+      19.5,
+      -155.5
+    ],
+    "bounds": [
+      [
+        18.9,
+        -156.1
+      ],
+      [
+        20.3,
+        -154.8
+      ]
+    ],
     "description": "Famous manta ray night dives, lava tubes, and volcanic underwater landscapes.",
     "overviewFile": "overview.md",
     "countryCode": "US"
@@ -223,8 +487,20 @@
     "name": "Socorro Islands",
     "slug": "socorro-islands",
     "region": "Pacific",
-    "center": [18.8, -110.9],
-    "bounds": [[18.0, -111.5], [19.5, -110.0]],
+    "center": [
+      18.9,
+      -111.0
+    ],
+    "bounds": [
+      [
+        18.0,
+        -112.2
+      ],
+      [
+        19.5,
+        -110.0
+      ]
+    ],
     "description": "Remote Pacific paradise with giant manta rays, humpback whales, and massive shark schools.",
     "overviewFile": "overview.md",
     "countryCode": "MX"
@@ -233,8 +509,20 @@
     "name": "Cocos Island",
     "slug": "cocos-island",
     "region": "Pacific",
-    "center": [5.5, -87.0],
-    "bounds": [[5.0, -87.5], [6.0, -86.5]],
+    "center": [
+      5.5,
+      -87.0
+    ],
+    "bounds": [
+      [
+        5.0,
+        -87.5
+      ],
+      [
+        6.0,
+        -86.5
+      ]
+    ],
     "description": "Ultimate hammerhead shark aggregation site and deep-sea pelagic encounters.",
     "overviewFile": "overview.md",
     "countryCode": "CR"
@@ -243,8 +531,20 @@
     "name": "Palau",
     "slug": "palau",
     "region": "Pacific",
-    "center": [7.5, 134.5],
-    "bounds": [[6.0, 131.0], [9.0, 135.0]],
+    "center": [
+      7.5,
+      134.5
+    ],
+    "bounds": [
+      [
+        6.0,
+        131.0
+      ],
+      [
+        9.0,
+        135.0
+      ]
+    ],
     "description": "WWII wrecks, Blue Corner drift dives, and incredible shark encounters.",
     "overviewFile": "overview.md",
     "countryCode": "PW"
@@ -253,8 +553,20 @@
     "name": "Fiji",
     "slug": "fiji",
     "region": "Pacific",
-    "center": [-17.7, 178.0],
-    "bounds": [[-21.0, 176.0], [-12.0, -179.0]],
+    "center": [
+      -17.7,
+      178.0
+    ],
+    "bounds": [
+      [
+        -21.0,
+        176.0
+      ],
+      [
+        -12.0,
+        -179.0
+      ]
+    ],
     "description": "Soft coral capital of the world with vibrant reefs and thrilling shark dives.",
     "overviewFile": "overview.md",
     "countryCode": "FJ"
@@ -263,8 +575,20 @@
     "name": "French Polynesia",
     "slug": "french-polynesia",
     "region": "Pacific",
-    "center": [-15.0, -140.0],
-    "bounds": [[-28.0, -155.0], [-7.0, -134.0]],
+    "center": [
+      -15.0,
+      -140.0
+    ],
+    "bounds": [
+      [
+        -28.0,
+        -155.0
+      ],
+      [
+        -7.0,
+        -134.0
+      ]
+    ],
     "description": "Shark walls, drift dives, and encounters with big pelagic species in pristine atolls.",
     "overviewFile": "overview.md",
     "countryCode": "PF"
@@ -273,8 +597,20 @@
     "name": "Papua New Guinea",
     "slug": "papua-new-guinea",
     "region": "Pacific",
-    "center": [-6.0, 147.0],
-    "bounds": [[-12.0, 140.0], [-1.0, 156.0]],
+    "center": [
+      -6.0,
+      147.0
+    ],
+    "bounds": [
+      [
+        -12.0,
+        140.0
+      ],
+      [
+        -1.0,
+        156.0
+      ]
+    ],
     "description": "Remote pristine reefs, incredible biodiversity, and historic WWII wrecks.",
     "overviewFile": "overview.md",
     "countryCode": "PG"
@@ -283,8 +619,20 @@
     "name": "Chuuk Lagoon",
     "slug": "chuuk-lagoon",
     "region": "Pacific",
-    "center": [7.4, 151.8],
-    "bounds": [[7.0, 151.0], [8.0, 152.5]],
+    "center": [
+      7.4,
+      151.8
+    ],
+    "bounds": [
+      [
+        7.0,
+        151.0
+      ],
+      [
+        8.0,
+        152.5
+      ]
+    ],
     "description": "The world's greatest wreck diving destination with the WWII 'Ghost Fleet'.",
     "overviewFile": "overview.md",
     "countryCode": "FM"
@@ -293,8 +641,20 @@
     "name": "Solomon Islands",
     "slug": "solomon-islands",
     "region": "Pacific",
-    "center": [-8.0, 159.0],
-    "bounds": [[-12.0, 155.0], [-5.0, 167.0]],
+    "center": [
+      -8.0,
+      159.0
+    ],
+    "bounds": [
+      [
+        -12.0,
+        155.0
+      ],
+      [
+        -5.0,
+        167.0
+      ]
+    ],
     "description": "WWII wrecks and pristine coral reefs in remote Pacific waters.",
     "overviewFile": "overview.md",
     "countryCode": "SB"
@@ -303,8 +663,20 @@
     "name": "Vanuatu",
     "slug": "vanuatu",
     "region": "Pacific",
-    "center": [-16.0, 167.0],
-    "bounds": [[-21.0, 166.0], [-13.0, 171.0]],
+    "center": [
+      -16.0,
+      167.0
+    ],
+    "bounds": [
+      [
+        -21.0,
+        166.0
+      ],
+      [
+        -13.0,
+        171.0
+      ]
+    ],
     "description": "Famous SS President Coolidge wreck dive and vibrant coral reefs.",
     "overviewFile": "overview.md",
     "countryCode": "VU"
@@ -313,8 +685,20 @@
     "name": "Tonga",
     "slug": "tonga",
     "region": "Pacific",
-    "center": [-20.0, -175.0],
-    "bounds": [[-25.0, -177.0], [-15.0, -173.0]],
+    "center": [
+      -20.0,
+      -175.0
+    ],
+    "bounds": [
+      [
+        -25.0,
+        -177.0
+      ],
+      [
+        -15.0,
+        -173.0
+      ]
+    ],
     "description": "Seasonal humpback whale encounters and pristine Pacific coral reefs.",
     "overviewFile": "overview.md",
     "countryCode": "TO"
@@ -323,8 +707,20 @@
     "name": "Micronesia - Yap",
     "slug": "micronesia-yap",
     "region": "Pacific",
-    "center": [9.5, 138.1],
-    "bounds": [[9.0, 137.5], [10.0, 138.5]],
+    "center": [
+      9.5,
+      138.1
+    ],
+    "bounds": [
+      [
+        9.0,
+        137.5
+      ],
+      [
+        10.0,
+        138.5
+      ]
+    ],
     "description": "World-famous manta ray encounters, reef sharks, and unique cultural experiences.",
     "overviewFile": "overview.md",
     "countryCode": "FM"
@@ -333,8 +729,20 @@
     "name": "Marshall Islands",
     "slug": "marshall-islands",
     "region": "Pacific",
-    "center": [10.0, 167.0],
-    "bounds": [[4.0, 160.0], [15.0, 173.0]],
+    "center": [
+      10.0,
+      167.0
+    ],
+    "bounds": [
+      [
+        4.0,
+        160.0
+      ],
+      [
+        15.0,
+        173.0
+      ]
+    ],
     "description": "WWII wrecks, pristine coral atolls, and Pacific pelagic encounters.",
     "overviewFile": "overview.md",
     "countryCode": "MH"
@@ -343,8 +751,20 @@
     "name": "Maldives",
     "slug": "maldives",
     "region": "Asia",
-    "center": [3.2028, 73.2207],
-    "bounds": [[-0.7, 72.0], [7.0, 74.0]],
+    "center": [
+      3.2028,
+      73.2207
+    ],
+    "bounds": [
+      [
+        -0.7,
+        72.0
+      ],
+      [
+        7.0,
+        74.0
+      ]
+    ],
     "description": "Tropical paradise with manta rays, whale sharks, and pristine atolls.",
     "overviewFile": "overview.md",
     "countryCode": "MV"
@@ -353,8 +773,20 @@
     "name": "Raja Ampat",
     "slug": "raja-ampat",
     "region": "Asia",
-    "center": [-0.5, 130.5],
-    "bounds": [[-2.0, 129.0], [1.0, 132.0]],
+    "center": [
+      -0.5,
+      130.5
+    ],
+    "bounds": [
+      [
+        -2.0,
+        129.0
+      ],
+      [
+        1.0,
+        132.0
+      ]
+    ],
     "description": "The world's highest marine biodiversity with remote pristine reefs and endemic species.",
     "overviewFile": "overview.md",
     "countryCode": "ID"
@@ -363,8 +795,20 @@
     "name": "Sipadan",
     "slug": "sipadan",
     "region": "Asia",
-    "center": [4.1, 118.6],
-    "bounds": [[4.0, 118.5], [4.2, 118.7]],
+    "center": [
+      4.1,
+      118.6
+    ],
+    "bounds": [
+      [
+        4.0,
+        118.5
+      ],
+      [
+        4.2,
+        118.7
+      ]
+    ],
     "description": "Legendary for barracuda tornadoes, green turtle encounters, and dramatic wall diving.",
     "overviewFile": "overview.md",
     "countryCode": "MY"
@@ -373,8 +817,20 @@
     "name": "Komodo National Park",
     "slug": "komodo-national-park",
     "region": "Asia",
-    "center": [-8.5, 119.5],
-    "bounds": [[-9.0, 119.0], [-8.0, 120.0]],
+    "center": [
+      -8.5,
+      119.5
+    ],
+    "bounds": [
+      [
+        -9.0,
+        119.0
+      ],
+      [
+        -8.0,
+        120.0
+      ]
+    ],
     "description": "Famous manta ray cleaning stations, strong currents, and incredible biodiversity.",
     "overviewFile": "overview.md",
     "countryCode": "ID"
@@ -383,8 +839,20 @@
     "name": "Lembeh Strait",
     "slug": "lembeh-strait",
     "region": "Asia",
-    "center": [1.5, 125.2],
-    "bounds": [[1.3, 125.0], [1.7, 125.4]],
+    "center": [
+      1.5,
+      125.2
+    ],
+    "bounds": [
+      [
+        1.3,
+        125.0
+      ],
+      [
+        1.7,
+        125.4
+      ]
+    ],
     "description": "World capital of macro diving with rare critters and unique marine species.",
     "overviewFile": "overview.md",
     "countryCode": "ID"
@@ -393,8 +861,20 @@
     "name": "Thailand Similan Islands",
     "slug": "thailand-similan-islands",
     "region": "Asia",
-    "center": [8.6, 97.6],
-    "bounds": [[8.0, 97.0], [9.2, 98.2]],
+    "center": [
+      8.6,
+      97.6
+    ],
+    "bounds": [
+      [
+        8.0,
+        97.0
+      ],
+      [
+        9.2,
+        98.2
+      ]
+    ],
     "description": "Pristine reefs with whale sharks, manta rays, and crystal-clear waters.",
     "overviewFile": "overview.md",
     "countryCode": "TH"
@@ -403,8 +883,20 @@
     "name": "Philippines Tubbataha Reefs",
     "slug": "philippines-tubbataha-reefs",
     "region": "Asia",
-    "center": [9.0, 120.0],
-    "bounds": [[8.5, 119.5], [9.5, 120.5]],
+    "center": [
+      9.0,
+      120.0
+    ],
+    "bounds": [
+      [
+        8.5,
+        119.5
+      ],
+      [
+        9.5,
+        120.5
+      ]
+    ],
     "description": "Remote UNESCO World Heritage site with pristine reef walls and abundant sharks.",
     "overviewFile": "overview.md",
     "countryCode": "PH"
@@ -413,8 +905,20 @@
     "name": "Sri Lanka",
     "slug": "sri-lanka",
     "region": "Asia",
-    "center": [7.8, 80.7],
-    "bounds": [[5.9, 79.4], [9.8, 81.9]],
+    "center": [
+      7.8,
+      80.7
+    ],
+    "bounds": [
+      [
+        5.9,
+        79.4
+      ],
+      [
+        9.8,
+        81.9
+      ]
+    ],
     "description": "Historic shipwrecks, coral reefs, and seasonal whale shark encounters.",
     "overviewFile": "overview.md",
     "countryCode": "LK"
@@ -423,8 +927,20 @@
     "name": "Gili Islands",
     "slug": "gili-islands",
     "region": "Asia",
-    "center": [-8.35, 116.0],
-    "bounds": [[-8.4, 115.95], [-8.3, 116.05]],
+    "center": [
+      -8.35,
+      116.0
+    ],
+    "bounds": [
+      [
+        -8.4,
+        115.95
+      ],
+      [
+        -8.3,
+        116.05
+      ]
+    ],
     "description": "Turtle encounters, coral reef diving, and beginner-friendly sites off Lombok.",
     "overviewFile": "overview.md",
     "countryCode": "ID"
@@ -433,8 +949,20 @@
     "name": "Manado & Bunaken",
     "slug": "manado-bunaken",
     "region": "Asia",
-    "center": [1.5, 124.8],
-    "bounds": [[1.3, 124.6], [1.7, 125.0]],
+    "center": [
+      1.5,
+      124.8
+    ],
+    "bounds": [
+      [
+        1.3,
+        124.6
+      ],
+      [
+        1.7,
+        125.0
+      ]
+    ],
     "description": "Spectacular wall diving, macro life, and exceptional coral biodiversity.",
     "overviewFile": "overview.md",
     "countryCode": "ID"
@@ -443,8 +971,20 @@
     "name": "Bali",
     "slug": "bali",
     "region": "Asia",
-    "center": [-8.3, 115.1],
-    "bounds": [[-8.8, 114.4], [-8.0, 115.7]],
+    "center": [
+      -8.3,
+      115.1
+    ],
+    "bounds": [
+      [
+        -8.8,
+        114.4
+      ],
+      [
+        -8.0,
+        115.7
+      ]
+    ],
     "description": "Liberty wreck at Tulamben, mola mola encounters, and manta rays at Nusa Penida.",
     "overviewFile": "overview.md",
     "countryCode": "ID"
@@ -453,8 +993,20 @@
     "name": "Lombok",
     "slug": "lombok",
     "region": "Asia",
-    "center": [-8.6, 116.3],
-    "bounds": [[-9.0, 115.8], [-8.2, 116.8]],
+    "center": [
+      -8.6,
+      116.3
+    ],
+    "bounds": [
+      [
+        -9.0,
+        115.8
+      ],
+      [
+        -8.2,
+        116.8
+      ]
+    ],
     "description": "Muck diving, vibrant coral reefs, and potential hammerhead encounters.",
     "overviewFile": "overview.md",
     "countryCode": "ID"
@@ -463,8 +1015,20 @@
     "name": "Koh Tao",
     "slug": "koh-tao",
     "region": "Asia",
-    "center": [10.1, 99.8],
-    "bounds": [[10.0, 99.7], [10.2, 99.9]],
+    "center": [
+      10.1,
+      99.8
+    ],
+    "bounds": [
+      [
+        10.0,
+        99.7
+      ],
+      [
+        10.2,
+        99.9
+      ]
+    ],
     "description": "Affordable tropical diving, beginner-friendly sites, and pristine coral reefs.",
     "overviewFile": "overview.md",
     "countryCode": "TH"
@@ -473,8 +1037,20 @@
     "name": "Philippines Palawan",
     "slug": "philippines-palawan",
     "region": "Asia",
-    "center": [9.5, 118.7],
-    "bounds": [[7.0, 117.0], [12.0, 120.0]],
+    "center": [
+      9.5,
+      118.7
+    ],
+    "bounds": [
+      [
+        7.0,
+        117.0
+      ],
+      [
+        12.0,
+        120.0
+      ]
+    ],
     "description": "WWII wrecks, limestone karst formations, and pristine coral reefs.",
     "overviewFile": "overview.md",
     "countryCode": "PH"
@@ -483,8 +1059,20 @@
     "name": "Philippines Anilao",
     "slug": "philippines-anilao",
     "region": "Asia",
-    "center": [13.8, 120.9],
-    "bounds": [[13.7, 120.8], [13.9, 121.0]],
+    "center": [
+      13.8,
+      120.9
+    ],
+    "bounds": [
+      [
+        13.7,
+        120.8
+      ],
+      [
+        13.9,
+        121.0
+      ]
+    ],
     "description": "World-class critter diving and macro photography paradise.",
     "overviewFile": "overview.md",
     "countryCode": "PH"
@@ -493,8 +1081,20 @@
     "name": "Philippines Malapascua",
     "slug": "philippines-malapascua",
     "region": "Asia",
-    "center": [11.3, 124.1],
-    "bounds": [[11.2, 124.0], [11.4, 124.2]],
+    "center": [
+      11.3,
+      124.1
+    ],
+    "bounds": [
+      [
+        11.2,
+        124.0
+      ],
+      [
+        11.4,
+        124.2
+      ]
+    ],
     "description": "Famous thresher shark encounters, shipwrecks, and vibrant coral reefs.",
     "overviewFile": "overview.md",
     "countryCode": "PH"
@@ -503,8 +1103,20 @@
     "name": "Philippines Donsol",
     "slug": "philippines-donsol",
     "region": "Asia",
-    "center": [12.9, 123.6],
-    "bounds": [[12.8, 123.5], [13.0, 123.7]],
+    "center": [
+      12.9,
+      123.6
+    ],
+    "bounds": [
+      [
+        12.8,
+        123.5
+      ],
+      [
+        13.0,
+        123.7
+      ]
+    ],
     "description": "Seasonal whale shark aggregations and snorkeling encounters.",
     "overviewFile": "overview.md",
     "countryCode": "PH"
@@ -513,8 +1125,20 @@
     "name": "Okinawa",
     "slug": "okinawa",
     "region": "Asia",
-    "center": [26.2, 127.7],
-    "bounds": [[24.0, 122.9], [28.0, 131.3]],
+    "center": [
+      26.2,
+      127.7
+    ],
+    "bounds": [
+      [
+        24.0,
+        122.9
+      ],
+      [
+        28.0,
+        131.3
+      ]
+    ],
     "description": "WWII wrecks, coral reefs, and unique Japanese marine biodiversity.",
     "overviewFile": "overview.md",
     "countryCode": "JP"
@@ -523,8 +1147,20 @@
     "name": "Andaman Islands",
     "slug": "andaman-islands",
     "region": "Asia",
-    "center": [12.0, 92.8],
-    "bounds": [[10.5, 92.2], [13.7, 93.1]],
+    "center": [
+      12.0,
+      92.8
+    ],
+    "bounds": [
+      [
+        10.5,
+        92.2
+      ],
+      [
+        13.7,
+        93.1
+      ]
+    ],
     "description": "Untouched coral reefs and pristine pelagic encounters in remote Indian waters.",
     "overviewFile": "overview.md",
     "countryCode": "IN"
@@ -533,8 +1169,20 @@
     "name": "Great Barrier Reef",
     "slug": "great-barrier-reef",
     "region": "Oceania",
-    "center": [-18.2871, 147.6992],
-    "bounds": [[-24.0, 145.0], [-10.0, 154.0]],
+    "center": [
+      -18.2871,
+      147.6992
+    ],
+    "bounds": [
+      [
+        -24.0,
+        145.0
+      ],
+      [
+        -10.0,
+        154.0
+      ]
+    ],
     "description": "The world's largest coral reef system with unparalleled marine diversity.",
     "overviewFile": "overview.md",
     "countryCode": "AU"
@@ -543,8 +1191,20 @@
     "name": "Poor Knights Islands",
     "slug": "poor-knights-islands",
     "region": "Oceania",
-    "center": [-35.5, 174.7],
-    "bounds": [[-35.6, 174.6], [-35.4, 174.8]],
+    "center": [
+      -35.5,
+      174.7
+    ],
+    "bounds": [
+      [
+        -35.6,
+        174.6
+      ],
+      [
+        -35.4,
+        174.8
+      ]
+    ],
     "description": "Subtropical reefs, dramatic underwater caves, and diverse marine species.",
     "overviewFile": "overview.md",
     "countryCode": "NZ"
@@ -553,8 +1213,20 @@
     "name": "Lord Howe Island",
     "slug": "lord-howe-island",
     "region": "Oceania",
-    "center": [-31.5, 159.1],
-    "bounds": [[-31.6, 159.0], [-31.4, 159.2]],
+    "center": [
+      -31.55,
+      159.1
+    ],
+    "bounds": [
+      [
+        -31.8,
+        158.9
+      ],
+      [
+        -31.4,
+        159.3
+      ]
+    ],
     "description": "Pristine coral reefs with unique endemic species at the southernmost coral reef.",
     "overviewFile": "overview.md",
     "countryCode": "AU"
@@ -563,8 +1235,20 @@
     "name": "South Australia Neptune Islands",
     "slug": "south-australia-neptune-islands",
     "region": "Oceania",
-    "center": [-35.3, 136.1],
-    "bounds": [[-35.5, 135.9], [-35.1, 136.3]],
+    "center": [
+      -35.3,
+      136.1
+    ],
+    "bounds": [
+      [
+        -35.5,
+        135.9
+      ],
+      [
+        -35.1,
+        136.3
+      ]
+    ],
     "description": "Premier great white shark cage diving destination with crystal-clear waters.",
     "overviewFile": "overview.md",
     "countryCode": "AU"
@@ -573,8 +1257,20 @@
     "name": "Ningaloo Reef",
     "slug": "ningaloo-reef",
     "region": "Oceania",
-    "center": [-23.0, 113.8],
-    "bounds": [[-24.0, 113.0], [-21.8, 114.5]],
+    "center": [
+      -22.5,
+      113.8
+    ],
+    "bounds": [
+      [
+        -24.0,
+        113.0
+      ],
+      [
+        -21.7,
+        114.5
+      ]
+    ],
     "description": "Whale shark encounters and pristine coral gardens in Western Australia.",
     "overviewFile": "overview.md",
     "countryCode": "AU"
@@ -583,8 +1279,20 @@
     "name": "Christmas Island",
     "slug": "christmas-island",
     "region": "Oceania",
-    "center": [-10.5, 105.7],
-    "bounds": [[-10.6, 105.5], [-10.4, 105.8]],
+    "center": [
+      -10.5,
+      105.7
+    ],
+    "bounds": [
+      [
+        -10.6,
+        105.5
+      ],
+      [
+        -10.4,
+        105.8
+      ]
+    ],
     "description": "Whale sharks, dramatic coral walls, and pelagic action in remote waters.",
     "overviewFile": "overview.md",
     "countryCode": "CX"
@@ -593,8 +1301,20 @@
     "name": "Silfra Fissure",
     "slug": "silfra-fissure",
     "region": "Europe",
-    "center": [64.2, -21.1],
-    "bounds": [[64.1, -21.2], [64.3, -21.0]],
+    "center": [
+      64.2,
+      -21.1
+    ],
+    "bounds": [
+      [
+        64.1,
+        -21.2
+      ],
+      [
+        64.3,
+        -21.0
+      ]
+    ],
     "description": "Dive between tectonic plates in crystal-clear glacial water with 100m+ visibility.",
     "overviewFile": "overview.md",
     "countryCode": "IS"
@@ -603,8 +1323,20 @@
     "name": "Azores",
     "slug": "azores",
     "region": "Europe",
-    "center": [38.5, -28.0],
-    "bounds": [[36.5, -32.0], [40.0, -24.0]],
+    "center": [
+      38.5,
+      -28.0
+    ],
+    "bounds": [
+      [
+        36.5,
+        -32.0
+      ],
+      [
+        40.0,
+        -24.0
+      ]
+    ],
     "description": "Atlantic paradise with blue sharks, mobula rays, and pristine volcanic formations.",
     "overviewFile": "overview.md",
     "countryCode": "PT"
@@ -613,8 +1345,20 @@
     "name": "Scapa Flow",
     "slug": "scapa-flow",
     "region": "Europe",
-    "center": [58.9, -3.2],
-    "bounds": [[58.7, -3.5], [59.1, -2.9]],
+    "center": [
+      58.9,
+      -3.2
+    ],
+    "bounds": [
+      [
+        58.7,
+        -3.5
+      ],
+      [
+        59.1,
+        -2.9
+      ]
+    ],
     "description": "Historic WWI German fleet wrecks in Scotland's premier cold-water diving destination.",
     "overviewFile": "overview.md",
     "countryCode": "GB"
@@ -623,8 +1367,20 @@
     "name": "Sardinia",
     "slug": "sardinia",
     "region": "Europe",
-    "center": [40.0, 9.0],
-    "bounds": [[38.8, 8.1], [41.2, 9.9]],
+    "center": [
+      40.0,
+      9.0
+    ],
+    "bounds": [
+      [
+        38.8,
+        8.1
+      ],
+      [
+        41.2,
+        9.9
+      ]
+    ],
     "description": "Mediterranean caves, dramatic caverns, and historic shipwrecks in crystal-clear waters.",
     "overviewFile": "overview.md",
     "countryCode": "IT"
@@ -633,8 +1389,20 @@
     "name": "Malta and Gozo",
     "slug": "malta-and-gozo",
     "region": "Europe",
-    "center": [35.9, 14.4],
-    "bounds": [[35.7, 14.1], [36.1, 14.6]],
+    "center": [
+      35.9,
+      14.4
+    ],
+    "bounds": [
+      [
+        35.7,
+        14.1
+      ],
+      [
+        36.1,
+        14.6
+      ]
+    ],
     "description": "World-class cavern diving, historic wrecks, and exceptional Mediterranean visibility.",
     "overviewFile": "overview.md",
     "countryCode": "MT"
@@ -643,8 +1411,20 @@
     "name": "Norway Lofoten Islands",
     "slug": "norway-lofoten-islands",
     "region": "Europe",
-    "center": [68.2, 13.6],
-    "bounds": [[67.5, 12.0], [68.9, 15.2]],
+    "center": [
+      68.2,
+      13.6
+    ],
+    "bounds": [
+      [
+        67.5,
+        12.0
+      ],
+      [
+        68.9,
+        15.2
+      ]
+    ],
     "description": "Arctic diving with cold-water reefs, historic wrecks, and seasonal orca encounters.",
     "overviewFile": "overview.md",
     "countryCode": "NO"
@@ -653,8 +1433,20 @@
     "name": "Croatia",
     "slug": "croatia",
     "region": "Europe",
-    "center": [43.5, 16.0],
-    "bounds": [[42.4, 13.5], [46.5, 19.4]],
+    "center": [
+      43.5,
+      16.0
+    ],
+    "bounds": [
+      [
+        42.4,
+        13.5
+      ],
+      [
+        46.5,
+        19.4
+      ]
+    ],
     "description": "Adriatic wrecks, underwater caves, and pristine Mediterranean reefs.",
     "overviewFile": "overview.md",
     "countryCode": "HR"
@@ -663,8 +1455,20 @@
     "name": "Greece",
     "slug": "greece",
     "region": "Europe",
-    "center": [38.0, 23.7],
-    "bounds": [[34.8, 19.3], [41.7, 29.6]],
+    "center": [
+      38.0,
+      23.7
+    ],
+    "bounds": [
+      [
+        34.8,
+        19.3
+      ],
+      [
+        41.7,
+        29.6
+      ]
+    ],
     "description": "Ancient wrecks, underwater caves, and warm Mediterranean waters.",
     "overviewFile": "overview.md",
     "countryCode": "GR"
@@ -673,8 +1477,20 @@
     "name": "Turkey",
     "slug": "turkey",
     "region": "Europe",
-    "center": [36.8, 30.5],
-    "bounds": [[35.8, 26.0], [42.1, 45.0]],
+    "center": [
+      36.8,
+      30.5
+    ],
+    "bounds": [
+      [
+        35.8,
+        26.0
+      ],
+      [
+        42.1,
+        45.0
+      ]
+    ],
     "description": "Historic Mediterranean wrecks, caves, and pristine Turkish coast diving.",
     "overviewFile": "overview.md",
     "countryCode": "TR"
@@ -683,8 +1499,20 @@
     "name": "Red Sea",
     "slug": "red-sea",
     "region": "Middle East",
-    "center": [24.0, 36.0],
-    "bounds": [[12.0, 32.0], [30.0, 43.0]],
+    "center": [
+      24.0,
+      36.0
+    ],
+    "bounds": [
+      [
+        12.0,
+        32.0
+      ],
+      [
+        30.0,
+        43.0
+      ]
+    ],
     "description": "World-class diving with pristine coral reefs and exceptional visibility.",
     "overviewFile": "overview.md",
     "countryCode": "EG"
@@ -693,8 +1521,20 @@
     "name": "Sudan Red Sea",
     "slug": "sudan-red-sea",
     "region": "Middle East",
-    "center": [20.0, 37.0],
-    "bounds": [[15.0, 34.0], [22.0, 39.0]],
+    "center": [
+      20.0,
+      37.0
+    ],
+    "bounds": [
+      [
+        15.0,
+        34.0
+      ],
+      [
+        22.0,
+        39.0
+      ]
+    ],
     "description": "Pristine Red Sea reefs, shark encounters, and WWII wrecks in remote waters.",
     "overviewFile": "overview.md",
     "countryCode": "SD"
@@ -703,8 +1543,20 @@
     "name": "Oman",
     "slug": "oman",
     "region": "Middle East",
-    "center": [21.0, 57.0],
-    "bounds": [[16.6, 51.9], [26.4, 59.8]],
+    "center": [
+      21.0,
+      57.0
+    ],
+    "bounds": [
+      [
+        16.6,
+        51.9
+      ],
+      [
+        26.4,
+        59.8
+      ]
+    ],
     "description": "Dramatic fjords, pristine coral reefs, and diverse marine life.",
     "overviewFile": "overview.md",
     "countryCode": "OM"
@@ -713,8 +1565,20 @@
     "name": "UAE - Fujairah",
     "slug": "uae-fujairah",
     "region": "Middle East",
-    "center": [25.1, 56.3],
-    "bounds": [[25.0, 56.2], [25.3, 56.4]],
+    "center": [
+      25.5,
+      56.3
+    ],
+    "bounds": [
+      [
+        25.0,
+        56.1
+      ],
+      [
+        25.7,
+        56.4
+      ]
+    ],
     "description": "Arabian Sea coral reefs and warm-water diving in the Gulf of Oman.",
     "overviewFile": "overview.md",
     "countryCode": "AE"
@@ -723,8 +1587,20 @@
     "name": "Jordan - Aqaba",
     "slug": "jordan-aqaba",
     "region": "Middle East",
-    "center": [29.5, 35.0],
-    "bounds": [[29.3, 34.9], [29.6, 35.1]],
+    "center": [
+      29.5,
+      35.0
+    ],
+    "bounds": [
+      [
+        29.3,
+        34.9
+      ],
+      [
+        29.6,
+        35.1
+      ]
+    ],
     "description": "Red Sea diving with healthy coral reefs and accessible shore diving.",
     "overviewFile": "overview.md",
     "countryCode": "JO"
@@ -733,8 +1609,20 @@
     "name": "Mozambique",
     "slug": "mozambique",
     "region": "Africa",
-    "center": [-18.0, 35.0],
-    "bounds": [[-27.0, 30.0], [-10.0, 41.0]],
+    "center": [
+      -18.0,
+      35.0
+    ],
+    "bounds": [
+      [
+        -27.0,
+        30.0
+      ],
+      [
+        -10.0,
+        41.0
+      ]
+    ],
     "description": "Manta rays, whale sharks, and pristine coral reefs along the East African coast.",
     "overviewFile": "overview.md",
     "countryCode": "MZ"
@@ -743,8 +1631,20 @@
     "name": "Tanzania",
     "slug": "tanzania",
     "region": "Africa",
-    "center": [-6.0, 35.0],
-    "bounds": [[-12.0, 29.0], [-1.0, 41.0]],
+    "center": [
+      -6.0,
+      35.0
+    ],
+    "bounds": [
+      [
+        -12.0,
+        29.0
+      ],
+      [
+        -1.0,
+        41.0
+      ]
+    ],
     "description": "Pemba and Mafia Islands offer whale sharks, untouched reefs, and incredible biodiversity.",
     "overviewFile": "overview.md",
     "countryCode": "TZ"
@@ -753,8 +1653,20 @@
     "name": "South Africa",
     "slug": "south-africa",
     "region": "Africa",
-    "center": [-30.0, 25.0],
-    "bounds": [[-35.0, 16.0], [-22.0, 33.0]],
+    "center": [
+      -30.0,
+      25.0
+    ],
+    "bounds": [
+      [
+        -35.0,
+        16.0
+      ],
+      [
+        -22.0,
+        33.0
+      ]
+    ],
     "description": "Aliwal Shoal and Protea Banks offer ragged-tooth sharks, tiger sharks, and the sardine run.",
     "overviewFile": "overview.md",
     "countryCode": "ZA"
@@ -763,8 +1675,20 @@
     "name": "Madagascar",
     "slug": "madagascar",
     "region": "Africa",
-    "center": [-19.0, 46.0],
-    "bounds": [[-26.0, 43.0], [-12.0, 51.0]],
+    "center": [
+      -19.0,
+      46.0
+    ],
+    "bounds": [
+      [
+        -26.0,
+        43.0
+      ],
+      [
+        -12.0,
+        51.0
+      ]
+    ],
     "description": "Whale sharks, humpback whales, and pristine coral reefs in the Mozambique Channel.",
     "overviewFile": "overview.md",
     "countryCode": "MG"
@@ -773,8 +1697,20 @@
     "name": "Zanzibar",
     "slug": "zanzibar",
     "region": "Africa",
-    "center": [-6.1, 39.3],
-    "bounds": [[-6.5, 39.0], [-5.7, 39.6]],
+    "center": [
+      -6.1,
+      39.3
+    ],
+    "bounds": [
+      [
+        -6.5,
+        39.0
+      ],
+      [
+        -5.7,
+        39.6
+      ]
+    ],
     "description": "Coral reefs, green turtles, and seasonal whale shark encounters off Tanzania's coast.",
     "overviewFile": "overview.md",
     "countryCode": "TZ"
@@ -783,8 +1719,20 @@
     "name": "Seychelles",
     "slug": "seychelles",
     "region": "Africa",
-    "center": [-4.6, 55.5],
-    "bounds": [[-10.0, 46.0], [-3.7, 56.3]],
+    "center": [
+      -4.6,
+      55.5
+    ],
+    "bounds": [
+      [
+        -10.0,
+        46.0
+      ],
+      [
+        -3.7,
+        56.3
+      ]
+    ],
     "description": "Granitic reef structures and diverse tropical marine life in pristine waters.",
     "overviewFile": "overview.md",
     "countryCode": "SC"
@@ -793,8 +1741,20 @@
     "name": "Mauritius",
     "slug": "mauritius",
     "region": "Africa",
-    "center": [-20.3, 57.6],
-    "bounds": [[-20.5, 57.3], [-19.9, 63.5]],
+    "center": [
+      -20.3,
+      57.6
+    ],
+    "bounds": [
+      [
+        -20.5,
+        57.3
+      ],
+      [
+        -19.9,
+        63.5
+      ]
+    ],
     "description": "Historic shipwrecks, coral reefs, and diverse Indian Ocean marine biodiversity.",
     "overviewFile": "overview.md",
     "countryCode": "MU"
@@ -803,8 +1763,20 @@
     "name": "Djibouti",
     "slug": "djibouti",
     "region": "Africa",
-    "center": [11.8, 42.6],
-    "bounds": [[10.9, 41.8], [12.7, 43.4]],
+    "center": [
+      11.8,
+      42.6
+    ],
+    "bounds": [
+      [
+        10.9,
+        41.8
+      ],
+      [
+        12.7,
+        43.4
+      ]
+    ],
     "description": "Whale shark encounters in the Gulf of Tadjoura and pristine Red Sea reefs.",
     "overviewFile": "overview.md",
     "countryCode": "DJ"
@@ -813,8 +1785,20 @@
     "name": "Greenland",
     "slug": "greenland",
     "region": "Arctic",
-    "center": [72.0, -40.0],
-    "bounds": [[59.8, -73.0], [83.6, -12.0]],
+    "center": [
+      72.0,
+      -40.0
+    ],
+    "bounds": [
+      [
+        59.8,
+        -73.0
+      ],
+      [
+        83.6,
+        -12.0
+      ]
+    ],
     "description": "Extreme Arctic diving with icebergs and unique polar marine life.",
     "overviewFile": "overview.md",
     "countryCode": "GL"
@@ -823,10 +1807,880 @@
     "name": "Svalbard",
     "slug": "svalbard",
     "region": "Arctic",
-    "center": [78.9, 11.9],
-    "bounds": [[74.0, 10.0], [81.0, 33.0]],
+    "center": [
+      78.9,
+      11.9
+    ],
+    "bounds": [
+      [
+        74.0,
+        10.0
+      ],
+      [
+        81.0,
+        33.0
+      ]
+    ],
     "description": "Arctic marine life encounters and extreme ice diving conditions.",
     "overviewFile": "overview.md",
     "countryCode": "NO"
+  },
+  {
+    "name": "Roatán",
+    "slug": "roatan",
+    "region": "Caribbean",
+    "center": [
+      16.32,
+      -86.53
+    ],
+    "bounds": [
+      [
+        16.2,
+        -86.6
+      ],
+      [
+        16.45,
+        -86.3
+      ]
+    ],
+    "description": "Honduras Bay Island with the Mesoamerican Barrier Reef, offering pristine walls, channels, and over 100 dive sites with exceptional visibility.",
+    "overviewFile": "overview.md",
+    "countryCode": "HN"
+  },
+  {
+    "name": "Providencia Island",
+    "slug": "providencia-island",
+    "region": "Caribbean",
+    "center": [
+      13.35,
+      -81.37
+    ],
+    "bounds": [
+      [
+        13.3,
+        -81.45
+      ],
+      [
+        13.42,
+        -81.3
+      ]
+    ],
+    "description": "Remote Colombian Caribbean island with the third-largest coral reef in the world, a UNESCO Biosphere Reserve with pristine walls and exceptional visibility.",
+    "overviewFile": "overview.md",
+    "countryCode": "CO"
+  },
+  {
+    "name": "Bocas del Toro",
+    "slug": "bocas-del-toro",
+    "region": "Caribbean",
+    "center": [
+      9.35,
+      -82.25
+    ],
+    "bounds": [
+      [
+        9.1,
+        -82.4
+      ],
+      [
+        9.5,
+        -82.0
+      ]
+    ],
+    "description": "Panama's Caribbean archipelago with diverse coral gardens, sea grass beds, mangrove channels, and encounters with green sea turtles and nurse sharks.",
+    "overviewFile": "overview.md",
+    "countryCode": "PA"
+  },
+  {
+    "name": "Coiba National Park",
+    "slug": "coiba-national-park",
+    "region": "South America",
+    "center": [
+      7.5,
+      -81.75
+    ],
+    "bounds": [
+      [
+        7.1,
+        -82.0
+      ],
+      [
+        7.9,
+        -81.3
+      ]
+    ],
+    "description": "Panama's UNESCO marine park dubbed the 'Central American Galápagos' with whale sharks, giant mantas, hammerheads, and pristine Pacific reef systems.",
+    "overviewFile": "overview.md",
+    "countryCode": "PA"
+  },
+  {
+    "name": "Cape Town",
+    "slug": "cape-town",
+    "region": "Africa",
+    "center": [
+      -34.0,
+      18.5
+    ],
+    "bounds": [
+      [
+        -34.4,
+        18.3
+      ],
+      [
+        -33.7,
+        18.9
+      ]
+    ],
+    "description": "Unique kelp forest diving in the Great African Seaforest with over 13,000 endemic marine species, seven-gill cow sharks, and pyjama cat sharks.",
+    "overviewFile": "overview.md",
+    "countryCode": "ZA"
+  },
+  {
+    "name": "Kenya Coast",
+    "slug": "kenya-coast",
+    "region": "Africa",
+    "center": [
+      -4.35,
+      39.55
+    ],
+    "bounds": [
+      [
+        -4.7,
+        39.3
+      ],
+      [
+        -3.3,
+        40.2
+      ]
+    ],
+    "description": "East African coral gardens at Kisite-Mpunguti and Watamu Marine Parks with whale sharks, manta rays, sea turtles, and vibrant Indian Ocean reef life.",
+    "overviewFile": "overview.md",
+    "countryCode": "KE"
+  },
+  {
+    "name": "Ustica",
+    "slug": "ustica",
+    "region": "Europe",
+    "center": [
+      38.71,
+      13.18
+    ],
+    "bounds": [
+      [
+        38.68,
+        13.14
+      ],
+      [
+        38.74,
+        13.22
+      ]
+    ],
+    "description": "Volcanic Mediterranean island and Italy's first marine reserve since 1986, with dramatic lava formations, archaeological sites, and exceptional biodiversity.",
+    "overviewFile": "overview.md",
+    "countryCode": "IT"
+  },
+  {
+    "name": "Port-Cros",
+    "slug": "port-cros",
+    "region": "Europe",
+    "center": [
+      43.0,
+      6.4
+    ],
+    "bounds": [
+      [
+        42.95,
+        6.2
+      ],
+      [
+        43.1,
+        6.55
+      ]
+    ],
+    "description": "Europe's oldest marine reserve on France's Côte d'Azur, birthplace of modern scuba diving with over 50 dive sites and exceptional Mediterranean visibility.",
+    "overviewFile": "overview.md",
+    "countryCode": "FR"
+  },
+  {
+    "name": "Triton Bay",
+    "slug": "triton-bay",
+    "region": "Asia",
+    "center": [
+      -3.85,
+      134.1
+    ],
+    "bounds": [
+      [
+        -4.1,
+        133.7
+      ],
+      [
+        -3.5,
+        134.5
+      ]
+    ],
+    "description": "Remote Indonesian dive frontier with whale sharks feeding on bagan nets, world-class soft corals, endemic flasher wrasse, and pygmy seahorses.",
+    "overviewFile": "overview.md",
+    "countryCode": "ID"
+  },
+  {
+    "name": "Alor Archipelago",
+    "slug": "alor-archipelago",
+    "region": "Asia",
+    "center": [
+      -8.25,
+      124.5
+    ],
+    "bounds": [
+      [
+        -8.4,
+        123.8
+      ],
+      [
+        -8.0,
+        125.2
+      ]
+    ],
+    "description": "Indonesia's rising macro diving destination rivaling Lembeh Strait, with Rhinopias, rare critters, strong currents, and far fewer crowds.",
+    "overviewFile": "overview.md",
+    "countryCode": "ID"
+  },
+  {
+    "name": "Ambon",
+    "slug": "ambon",
+    "region": "Asia",
+    "center": [
+      -3.7,
+      128.2
+    ],
+    "bounds": [
+      [
+        -3.8,
+        128.0
+      ],
+      [
+        -3.5,
+        128.4
+      ]
+    ],
+    "description": "Northern Banda Sea muck diving paradise, home to the psychedelic frogfish found nowhere else on Earth, with world-class macro photography opportunities.",
+    "overviewFile": "overview.md",
+    "countryCode": "ID"
+  },
+  {
+    "name": "Grenada",
+    "slug": "grenada",
+    "region": "Caribbean",
+    "center": [
+      12.12,
+      -61.68
+    ],
+    "bounds": [
+      [
+        11.98,
+        -61.8
+      ],
+      [
+        12.24,
+        -61.58
+      ]
+    ],
+    "description": "Home to the Bianca C — the 'Titanic of the Caribbean' — and the world's first Underwater Sculpture Park, with pristine reefs and volcanic formations.",
+    "overviewFile": "overview.md",
+    "countryCode": "GD"
+  },
+  {
+    "name": "Dominica",
+    "slug": "dominica",
+    "region": "Caribbean",
+    "center": [
+      15.42,
+      -61.35
+    ],
+    "bounds": [
+      [
+        15.2,
+        -61.5
+      ],
+      [
+        15.65,
+        -61.2
+      ]
+    ],
+    "description": "The 'Nature Isle' of the Caribbean with volcanic underwater hot springs, Champagne Reef's bubble dive, and sperm whale encounters year-round.",
+    "overviewFile": "overview.md",
+    "countryCode": "DM"
+  },
+  {
+    "name": "St. Lucia",
+    "slug": "st-lucia",
+    "region": "Caribbean",
+    "center": [
+      13.91,
+      -60.97
+    ],
+    "bounds": [
+      [
+        13.7,
+        -61.08
+      ],
+      [
+        14.12,
+        -60.87
+      ]
+    ],
+    "description": "Dramatic Piton wall dives, the famous Superman's Flight drift dive at Anse Chastanet, with healthy coral gardens beneath volcanic twin peaks.",
+    "overviewFile": "overview.md",
+    "countryCode": "LC"
+  },
+  {
+    "name": "US Virgin Islands",
+    "slug": "us-virgin-islands",
+    "region": "Caribbean",
+    "center": [
+      18.1,
+      -64.8
+    ],
+    "bounds": [
+      [
+        17.6,
+        -65.1
+      ],
+      [
+        18.45,
+        -64.5
+      ]
+    ],
+    "description": "Buck Island's underwater trail in St. Croix, historic wrecks off St. Thomas, and coral-rich walls across three main islands.",
+    "overviewFile": "overview.md",
+    "countryCode": "VI"
+  },
+  {
+    "name": "Tobago",
+    "slug": "tobago",
+    "region": "Caribbean",
+    "center": [
+      11.22,
+      -60.67
+    ],
+    "bounds": [
+      [
+        11.1,
+        -60.9
+      ],
+      [
+        11.35,
+        -60.45
+      ]
+    ],
+    "description": "Speyside's world-class drift diving with the world's largest brain coral, giant manta rays, and nutrient-rich waters from South America.",
+    "overviewFile": "overview.md",
+    "countryCode": "TT"
+  },
+  {
+    "name": "Aruba",
+    "slug": "aruba",
+    "region": "Caribbean",
+    "center": [
+      12.51,
+      -69.97
+    ],
+    "bounds": [
+      [
+        12.4,
+        -70.07
+      ],
+      [
+        12.63,
+        -69.87
+      ]
+    ],
+    "description": "The SS Antilla — one of the largest wreck dives in the Caribbean — plus pristine reefs, completing the famous ABC island diving trio.",
+    "overviewFile": "overview.md",
+    "countryCode": "AW"
+  },
+  {
+    "name": "Guadeloupe",
+    "slug": "guadeloupe",
+    "region": "Caribbean",
+    "center": [
+      16.2,
+      -61.55
+    ],
+    "bounds": [
+      [
+        15.85,
+        -61.8
+      ],
+      [
+        16.5,
+        -61.15
+      ]
+    ],
+    "description": "Jacques Cousteau Reserve at Pigeon Island with exceptional marine biodiversity, volcanic reef formations, and France's premier Caribbean diving.",
+    "overviewFile": "overview.md",
+    "countryCode": "GP"
+  },
+  {
+    "name": "Barbados",
+    "slug": "barbados",
+    "region": "Caribbean",
+    "center": [
+      13.18,
+      -59.55
+    ],
+    "bounds": [
+      [
+        13.04,
+        -59.66
+      ],
+      [
+        13.34,
+        -59.42
+      ]
+    ],
+    "description": "Carlisle Bay's six shore-accessible wrecks, sea turtle encounters on every dive, and healthy Atlantic-side reef systems.",
+    "overviewFile": "overview.md",
+    "countryCode": "BB"
+  },
+  {
+    "name": "Sint Eustatius",
+    "slug": "sint-eustatius",
+    "region": "Caribbean",
+    "center": [
+      17.49,
+      -62.98
+    ],
+    "bounds": [
+      [
+        17.44,
+        -63.05
+      ],
+      [
+        17.54,
+        -62.92
+      ]
+    ],
+    "description": "Volcanic diving on the Dutch Caribbean's hidden gem with the Charles L. Brown wreck, pristine marine park, and historic anchor sites.",
+    "overviewFile": "overview.md",
+    "countryCode": "BQ"
+  },
+  {
+    "name": "Dominican Republic",
+    "slug": "dominican-republic",
+    "region": "Caribbean",
+    "center": [
+      18.75,
+      -69.95
+    ],
+    "bounds": [
+      [
+        17.5,
+        -72.0
+      ],
+      [
+        20.0,
+        -68.3
+      ]
+    ],
+    "description": "Silver Bank humpback whale encounters, Catalina Island wall dives, Bayahibe reef systems, and the historic wrecks of La Caleta.",
+    "overviewFile": "overview.md",
+    "countryCode": "DO"
+  },
+  {
+    "name": "Puerto Rico",
+    "slug": "puerto-rico",
+    "region": "Caribbean",
+    "center": [
+      18.22,
+      -66.5
+    ],
+    "bounds": [
+      [
+        17.9,
+        -68.0
+      ],
+      [
+        18.55,
+        -65.2
+      ]
+    ],
+    "description": "Remote Desecheo and Mona Island walls, La Parguera's bioluminescent bay, and diverse Caribbean reef ecosystems across the archipelago.",
+    "overviewFile": "overview.md",
+    "countryCode": "PR"
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "slug": "antigua-and-barbuda",
+    "region": "Caribbean",
+    "center": [
+      17.08,
+      -61.8
+    ],
+    "bounds": [
+      [
+        16.9,
+        -62.0
+      ],
+      [
+        17.75,
+        -61.65
+      ]
+    ],
+    "description": "Pillars of Hercules rock formations, Cades Reef marine park, and historic shipwrecks in the waters of Nelson's Dockyard.",
+    "overviewFile": "overview.md",
+    "countryCode": "AG"
+  },
+  {
+    "name": "St. Vincent and the Grenadines",
+    "slug": "st-vincent-grenadines",
+    "region": "Caribbean",
+    "center": [
+      13.15,
+      -61.2
+    ],
+    "bounds": [
+      [
+        12.5,
+        -61.5
+      ],
+      [
+        13.4,
+        -61.1
+      ]
+    ],
+    "description": "Tobago Cays Marine Park with pristine coral gardens, volcanic black sand sites, drift dives, and rich critter life in uncrowded waters.",
+    "overviewFile": "overview.md",
+    "countryCode": "VC"
+  },
+  {
+    "name": "Jamaica",
+    "slug": "jamaica",
+    "region": "Caribbean",
+    "center": [
+      18.1,
+      -77.3
+    ],
+    "bounds": [
+      [
+        17.7,
+        -78.4
+      ],
+      [
+        18.55,
+        -76.2
+      ]
+    ],
+    "description": "Montego Bay Marine Park, wreck diving off Kingston, vibrant coral walls, and the famous Widowmaker's Cave at Negril.",
+    "overviewFile": "overview.md",
+    "countryCode": "JM"
+  },
+  {
+    "name": "St. Kitts and Nevis",
+    "slug": "st-kitts-and-nevis",
+    "region": "Caribbean",
+    "center": [
+      17.3,
+      -62.73
+    ],
+    "bounds": [
+      [
+        17.08,
+        -62.88
+      ],
+      [
+        17.42,
+        -62.52
+      ]
+    ],
+    "description": "MV River Taw wreck dive, volcanic reef formations, healthy coral gardens, and uncrowded sites in the Lesser Antilles.",
+    "overviewFile": "overview.md",
+    "countryCode": "KN"
+  },
+  {
+    "name": "Martinique",
+    "slug": "martinique",
+    "region": "Caribbean",
+    "center": [
+      14.64,
+      -61.02
+    ],
+    "bounds": [
+      [
+        14.38,
+        -61.23
+      ],
+      [
+        14.88,
+        -60.81
+      ]
+    ],
+    "description": "Diamond Rock's dramatic pinnacle dive, historic St. Pierre wrecks from the 1902 eruption, and French Caribbean coral gardens.",
+    "overviewFile": "overview.md",
+    "countryCode": "MQ"
+  },
+  {
+    "name": "Hawaii - Maui",
+    "slug": "hawaii-maui",
+    "region": "Pacific",
+    "center": [
+      20.8,
+      -156.3
+    ],
+    "bounds": [
+      [
+        20.5,
+        -156.7
+      ],
+      [
+        21.05,
+        -155.95
+      ]
+    ],
+    "description": "World-famous for the Molokini Crater, Maui offers exceptional diving with manta rays, green sea turtles, and seasonal humpback whale encounters in crystal-clear Hawaiian waters.",
+    "overviewFile": "overview.md",
+    "countryCode": "US"
+  },
+  {
+    "name": "Hawaii - Oahu",
+    "slug": "hawaii-oahu",
+    "region": "Pacific",
+    "center": [
+      21.47,
+      -158.0
+    ],
+    "bounds": [
+      [
+        21.25,
+        -158.3
+      ],
+      [
+        21.72,
+        -157.65
+      ]
+    ],
+    "description": "Oahu delivers diverse diving from shipwrecks and reef systems to shark dives and turtle cleaning stations, with easy access from Honolulu and the North Shore.",
+    "overviewFile": "overview.md",
+    "countryCode": "US"
+  },
+  {
+    "name": "Hawaii - Kauai",
+    "slug": "hawaii-kauai",
+    "region": "Pacific",
+    "center": [
+      22.05,
+      -159.5
+    ],
+    "bounds": [
+      [
+        21.85,
+        -159.8
+      ],
+      [
+        22.25,
+        -159.28
+      ]
+    ],
+    "description": "The Garden Isle features dramatic lava tube formations, pristine reefs along the Na Pali Coast, and encounters with Hawaiian monk seals and spinner dolphins.",
+    "overviewFile": "overview.md",
+    "countryCode": "US"
+  },
+  {
+    "name": "San Diego - La Jolla",
+    "slug": "san-diego-la-jolla",
+    "region": "North America",
+    "center": [
+      32.85,
+      -117.28
+    ],
+    "bounds": [
+      [
+        32.6,
+        -117.5
+      ],
+      [
+        33.1,
+        -117.1
+      ]
+    ],
+    "description": "Southern California kelp forest diving at its best, featuring La Jolla Cove, Wreck Alley, and abundant marine life including leopard sharks, bat rays, and giant sea bass.",
+    "overviewFile": "overview.md",
+    "countryCode": "US"
+  },
+  {
+    "name": "Puget Sound",
+    "slug": "puget-sound",
+    "region": "North America",
+    "center": [
+      47.8,
+      -122.5
+    ],
+    "bounds": [
+      [
+        47.0,
+        -123.2
+      ],
+      [
+        48.8,
+        -122.0
+      ]
+    ],
+    "description": "Cold-water diving paradise in the Pacific Northwest with giant Pacific octopus, wolf eels, six-gill sharks, and colorful anemone gardens in nutrient-rich emerald waters.",
+    "overviewFile": "overview.md",
+    "countryCode": "US"
+  },
+  {
+    "name": "New England",
+    "slug": "new-england",
+    "region": "North America",
+    "center": [
+      41.5,
+      -70.5
+    ],
+    "bounds": [
+      [
+        40.5,
+        -72.0
+      ],
+      [
+        43.0,
+        -69.5
+      ]
+    ],
+    "description": "Historic wreck diving along the Massachusetts, Rhode Island, and Connecticut coasts, with lobster-filled boulder fields, seal encounters, and remnants of centuries of maritime history.",
+    "overviewFile": "overview.md",
+    "countryCode": "US"
+  },
+  {
+    "name": "New Jersey Shore",
+    "slug": "new-jersey",
+    "region": "North America",
+    "center": [
+      39.7,
+      -73.5
+    ],
+    "bounds": [
+      [
+        38.9,
+        -74.5
+      ],
+      [
+        40.5,
+        -73.0
+      ]
+    ],
+    "description": "The Wreck Capital of the Atlantic Coast, featuring hundreds of sunken vessels from WWII U-boat victims to modern artificial reefs, with sand tiger sharks and large pelagics.",
+    "overviewFile": "overview.md",
+    "countryCode": "US"
+  },
+  {
+    "name": "South Florida",
+    "slug": "south-florida",
+    "region": "North America",
+    "center": [
+      26.1,
+      -80.1
+    ],
+    "bounds": [
+      [
+        25.5,
+        -80.5
+      ],
+      [
+        26.7,
+        -79.9
+      ]
+    ],
+    "description": "Year-round warm-water diving from Palm Beach to Miami with drift dives along the Gulf Stream, extensive artificial reef programs, and the Blue Heron Bridge macro paradise.",
+    "overviewFile": "overview.md",
+    "countryCode": "US"
+  },
+  {
+    "name": "Flower Garden Banks",
+    "slug": "flower-garden-banks",
+    "region": "North America",
+    "center": [
+      27.9,
+      -93.8
+    ],
+    "bounds": [
+      [
+        27.5,
+        -94.5
+      ],
+      [
+        28.3,
+        -93.0
+      ]
+    ],
+    "description": "The northernmost coral reefs in the continental US, sitting atop salt domes 100 miles offshore Texas in the Gulf of Mexico, with massive coral heads, manta rays, and whale sharks.",
+    "overviewFile": "overview.md",
+    "countryCode": "US"
+  },
+  {
+    "name": "Alaska",
+    "slug": "alaska",
+    "region": "North America",
+    "center": [
+      58.3,
+      -134.4
+    ],
+    "bounds": [
+      [
+        54.0,
+        -170.0
+      ],
+      [
+        63.0,
+        -130.0
+      ]
+    ],
+    "description": "Extreme cold-water diving in pristine wilderness waters with giant Pacific octopus, king crab, sea otters, Steller sea lions, and orca encounters amid dramatic underwater topography.",
+    "overviewFile": "overview.md",
+    "countryCode": "US"
+  },
+  {
+    "name": "British Columbia",
+    "slug": "british-columbia",
+    "region": "North America",
+    "center": [
+      49.3,
+      -123.2
+    ],
+    "bounds": [
+      [
+        48.3,
+        -126.0
+      ],
+      [
+        52.0,
+        -122.0
+      ]
+    ],
+    "description": "Jacques Cousteau called BC waters the best temperate diving in the world. Features giant Pacific octopus, wolf eels, cloud sponge gardens, and the HMCS Saskatchewan artificial reef.",
+    "overviewFile": "overview.md",
+    "countryCode": "CA"
+  },
+  {
+    "name": "Nova Scotia",
+    "slug": "nova-scotia",
+    "region": "North America",
+    "center": [
+      44.6,
+      -63.5
+    ],
+    "bounds": [
+      [
+        43.3,
+        -66.5
+      ],
+      [
+        47.0,
+        -59.5
+      ]
+    ],
+    "description": "Cold Atlantic waters rich in maritime history, with WWII convoy wrecks, the Halifax Explosion aftermath, seal colonies, and the nutrient-rich Bay of Fundy with its extreme tides.",
+    "overviewFile": "overview.md",
+    "countryCode": "CA"
   }
-] 
+]

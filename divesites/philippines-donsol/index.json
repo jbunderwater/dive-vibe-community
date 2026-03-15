@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Manta Bowl",
+    "filename": "manta-bowl.md",
+    "lat": 12.905,
+    "lng": 123.59,
+    "difficulty": "Intermediate",
+    "maxDepth": 18,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Ticao Pass",
+    "filename": "ticao-pass.md",
+    "lat": 12.87,
+    "lng": 123.65,
+    "difficulty": "Advanced",
+    "maxDepth": 25,
+    "entryType": "boat",
+    "siteType": "drift",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "San Miguel Island",
+    "filename": "san-miguel-island.md",
+    "lat": 12.92,
+    "lng": 123.57,
+    "difficulty": "Beginner",
+    "maxDepth": 15,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Donsol Bank",
+    "filename": "donsol-bank.md",
+    "lat": 12.89,
+    "lng": 123.61,
+    "difficulty": "Intermediate",
+    "maxDepth": 20,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Balacag Point",
+    "filename": "balacag-point.md",
+    "lat": 12.935,
+    "lng": 123.58,
+    "difficulty": "Beginner",
+    "maxDepth": 12,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Donsol Whale Shark Area",
+    "filename": "donsol-whale-shark-area.md",
+    "lat": 12.91,
+    "lng": 123.595,
+    "difficulty": "Beginner",
+    "maxDepth": 10,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Jintotolo Channel",
+    "filename": "jintotolo-channel.md",
+    "lat": 12.85,
+    "lng": 123.64,
+    "difficulty": "Advanced",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "drift",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Burias Pass",
+    "filename": "burias-pass.md",
+    "lat": 12.96,
+    "lng": 123.56,
+    "difficulty": "Intermediate",
+    "maxDepth": 22,
+    "entryType": "boat",
+    "siteType": "drift",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "San Bernardino Strait",
+    "filename": "san-bernardino-strait.md",
+    "lat": 12.87,
+    "lng": 123.68,
+    "difficulty": "Advanced",
+    "maxDepth": 28,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Ticao Island South Wall",
+    "filename": "ticao-island-south-wall.md",
+    "lat": 12.855,
+    "lng": 123.66,
+    "difficulty": "Advanced",
+    "maxDepth": 35,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  }
+]

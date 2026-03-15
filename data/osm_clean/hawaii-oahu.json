@@ -1,0 +1,309 @@
+[
+  {
+    "name": "China Walls",
+    "lat": 21.2613639,
+    "lon": -157.7117049,
+    "osm_id": 3274026475,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "China Walls",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Half Point",
+    "lat": 21.2846716,
+    "lon": -157.6718538,
+    "osm_id": 6527650958,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Half Point",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Full Point",
+    "lat": 21.2840798,
+    "lon": -157.6700745,
+    "osm_id": 6527650959,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Full Point",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Turtle Alley",
+    "lat": 21.2758897,
+    "lon": -157.8412477,
+    "osm_id": 10703353556,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Turtle Alley",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Turtle Canyon",
+    "lat": 21.2738488,
+    "lon": -157.8393891,
+    "osm_id": 10703353557,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Turtle Canyon",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Kaneohe Sandbar",
+    "lat": 21.4665658,
+    "lon": -157.8105985,
+    "osm_id": 1068704684,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Kaneohe Sandbar",
+      "natural": "reef",
+      "reef": "sand",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Tripod Reef",
+    "lat": 21.3067851,
+    "lon": -158.0384924,
+    "osm_id": 1255992015,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": "Intermediate",
+    "tags": {
+      "area": "yes",
+      "biotic_reef:type": "fringing",
+      "name": "Tripod Reef",
+      "natural": "reef",
+      "reef": "coral",
+      "seamark:obstruction:category": "reef",
+      "seamark:obstruction:water_level": "submerged",
+      "seamark:type": "obstruction",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Aiea Shoal",
+    "lat": 21.3726975,
+    "lon": -157.9371492,
+    "osm_id": 1263209380,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": "Intermediate",
+    "tags": {
+      "area": "yes",
+      "biotic_reef:type": "fringing",
+      "name": "Aiea Shoal",
+      "natural": "reef",
+      "reef": "coral",
+      "seamark:obstruction:category": "reef",
+      "seamark:obstruction:water_level": "submerged",
+      "seamark:type": "obstruction",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "USS LST-480",
+    "lat": 21.3572154,
+    "lon": -157.9970834,
+    "osm_id": 1264959511,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": "Intermediate",
+    "tags": {
+      "building": "ship",
+      "description": "US Navy WWII tank landing ship sunk during accidental explosion.",
+      "historic": "wreck",
+      "name": "USS LST-480",
+      "seamark:type": "wreck",
+      "seamark:wreck:category": "hull_showing",
+      "seamark:wreck:water_level": "awash",
+      "start_date": "3 May 1943",
+      "wikidata": "Q7870965",
+      "wikipedia": "en:USS LST-480",
+      "wreck:date_sunk": "21 May 1944",
+      "wreck:visible_at_high_tide": "yes",
+      "wreck:visible_at_low_tide": "yes",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "YO-257 Wreck",
+    "lat": 21.257,
+    "lon": -157.873,
+    "depth": 30,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Sea Tiger Wreck",
+    "lat": 21.258,
+    "lon": -157.872,
+    "depth": 37,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Mahi Wreck",
+    "lat": 21.42,
+    "lon": -158.19,
+    "depth": 27,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Corsair Plane Wreck",
+    "lat": 21.259,
+    "lon": -157.871,
+    "depth": 32,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "San Pedro Wreck",
+    "lat": 21.2575,
+    "lon": -157.8715,
+    "depth": 30,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Sharks Cove",
+    "lat": 21.6519,
+    "lon": -158.0633,
+    "depth": 12,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Three Tables",
+    "lat": 21.65,
+    "lon": -158.0625,
+    "depth": 10,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Electric Beach (Kahe Point)",
+    "lat": 21.3544,
+    "lon": -158.1297,
+    "depth": 12,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Hanauma Bay",
+    "lat": 21.269,
+    "lon": -157.694,
+    "depth": 8,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Makaha Caverns",
+    "lat": 21.48,
+    "lon": -158.228,
+    "depth": 14,
+    "site_type": "cave",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  }
+]

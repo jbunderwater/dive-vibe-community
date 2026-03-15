@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Clown Valley",
+    "filename": "clown-valley.md",
+    "lat": -8.25,
+    "lng": 124.45,
+    "difficulty": "Beginner",
+    "maxDepth": 18,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "The Cathedral",
+    "filename": "the-cathedral.md",
+    "lat": -8.28,
+    "lng": 124.5,
+    "difficulty": "Advanced",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "cave",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Kal's Dream",
+    "filename": "kals-dream.md",
+    "lat": -8.23,
+    "lng": 124.42,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Shark Close",
+    "filename": "shark-close.md",
+    "lat": -8.3,
+    "lng": 124.53,
+    "difficulty": "Advanced",
+    "maxDepth": 28,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Mike's Delight",
+    "filename": "mikes-delight.md",
+    "lat": -8.26,
+    "lng": 124.47,
+    "difficulty": "Intermediate",
+    "maxDepth": 20,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Mucky Mosque",
+    "filename": "mucky-mosque.md",
+    "lat": -8.24,
+    "lng": 124.44,
+    "difficulty": "Beginner",
+    "maxDepth": 10,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Babylon",
+    "filename": "babylon.md",
+    "lat": -8.27,
+    "lng": 124.49,
+    "difficulty": "Intermediate",
+    "maxDepth": 22,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "The Boardroom",
+    "filename": "the-boardroom.md",
+    "lat": -8.22,
+    "lng": 124.41,
+    "difficulty": "Beginner",
+    "maxDepth": 15,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Pantar Strait",
+    "filename": "pantar-strait.md",
+    "lat": -8.31,
+    "lng": 124.55,
+    "difficulty": "Advanced",
+    "maxDepth": 35,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Beang Abang",
+    "filename": "beang-abang.md",
+    "lat": -8.2,
+    "lng": 124.4,
+    "difficulty": "Beginner",
+    "maxDepth": 12,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  }
+]

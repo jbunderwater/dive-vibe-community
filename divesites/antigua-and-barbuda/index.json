@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Pillars of Hercules",
+    "filename": "pillars-of-hercules.md",
+    "lat": 17.01,
+    "lng": -61.76,
+    "difficulty": "Intermediate",
+    "maxDepth": 22,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Cades Reef",
+    "filename": "cades-reef.md",
+    "lat": 17.03,
+    "lng": -61.87,
+    "difficulty": "Beginner",
+    "maxDepth": 15,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Andes Wreck",
+    "filename": "andes-wreck.md",
+    "lat": 17.04,
+    "lng": -61.78,
+    "difficulty": "Intermediate",
+    "maxDepth": 20,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Sunken Rock",
+    "filename": "sunken-rock.md",
+    "lat": 17.02,
+    "lng": -61.77,
+    "difficulty": "Advanced",
+    "maxDepth": 28,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Deep Bay Wreck (Andes)",
+    "filename": "deep-bay-wreck-andes.md",
+    "lat": 17.14,
+    "lng": -61.87,
+    "difficulty": "Beginner",
+    "maxDepth": 10,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Sandy Island Reef",
+    "filename": "sandy-island-reef.md",
+    "lat": 17.16,
+    "lng": -61.88,
+    "difficulty": "Beginner",
+    "maxDepth": 12,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Ariadne Shoal",
+    "filename": "ariadne-shoal.md",
+    "lat": 17.05,
+    "lng": -61.79,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Great Bird Island",
+    "filename": "great-bird-island.md",
+    "lat": 17.17,
+    "lng": -61.7,
+    "difficulty": "Beginner",
+    "maxDepth": 14,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Barbuda Reef",
+    "filename": "barbuda-reef.md",
+    "lat": 17.62,
+    "lng": -61.75,
+    "difficulty": "Intermediate",
+    "maxDepth": 18,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Carpenter's Reef",
+    "filename": "carpenters-reef.md",
+    "lat": 17.035,
+    "lng": -61.865,
+    "difficulty": "Intermediate",
+    "maxDepth": 20,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  }
+]

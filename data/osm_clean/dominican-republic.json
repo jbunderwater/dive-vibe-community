@@ -1,0 +1,264 @@
+[
+  {
+    "name": "Catalina Wall",
+    "lat": 18.22,
+    "lon": -68.95,
+    "depth": 30,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "St. George Wreck",
+    "lat": 18.47,
+    "lon": -69.88,
+    "depth": 22,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "La Caleta Underwater Park",
+    "lat": 18.43,
+    "lon": -69.75,
+    "depth": 18,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "Padre Nuestro",
+    "lat": 18.38,
+    "lon": -68.83,
+    "depth": 10,
+    "site_type": "cave",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "Bayahibe Reef",
+    "lat": 18.36,
+    "lon": -68.85,
+    "depth": 14,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "Saona Island",
+    "lat": 18.15,
+    "lon": -68.72,
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "Punta Cana Reef",
+    "lat": 18.52,
+    "lon": -68.37,
+    "depth": 12,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "Las Terrenas Drop-Off",
+    "lat": 19.32,
+    "lon": -69.53,
+    "depth": 35,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "Sosua Bay",
+    "lat": 19.76,
+    "lon": -70.51,
+    "depth": 16,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "El Dudú Cenote",
+    "lat": 19.69,
+    "lon": -69.88,
+    "depth": 25,
+    "site_type": "cave",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "Atlantic Princess Wreck",
+    "lat": 18.45,
+    "lon": -69.86,
+    "depth": 28,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "Zingara",
+    "lat": 19.7888514,
+    "lon": -70.4979794,
+    "osm_id": 270997633,
+    "osm_type": "node",
+    "depth": 35,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": "Advanced",
+    "tags": {
+      "historic": "wreck",
+      "name": "Zingara",
+      "position:accuracy": "30m",
+      "seamark:type": "wreck",
+      "sport": "water_sports",
+      "sport:scuba_diving": "yes",
+      "wreck:depth": "35m",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Aquarium",
+    "lat": 18.3644497,
+    "lon": -69.0248231,
+    "osm_id": 1561340043,
+    "osm_type": "node",
+    "depth": 12,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Aquarium",
+      "scuba": "yes",
+      "scuba_diving:depth": "12",
+      "scuba_diving:divespot": "Aquarium",
+      "scuba_diving:entry": "boat",
+      "scuba_diving:type": "reef",
+      "sport": "scuba_diving",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "The Wall",
+    "lat": 18.3708321,
+    "lon": -69.0038486,
+    "osm_id": 1561340047,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "The Wall",
+      "scuba": "yes",
+      "scuba_diving:depth": "20",
+      "scuba_diving:divespot": "The Wall",
+      "scuba_diving:entry": "boat",
+      "scuba_diving:type": "wall",
+      "sport": "scuba_diving",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Playita",
+    "lat": 19.2944746,
+    "lon": -69.2077604,
+    "osm_id": 3348737500,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Playita",
+      "sport": "scuba_diving",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Las Galeras Divers",
+    "lat": 19.2911794,
+    "lon": -69.1984232,
+    "osm_id": 7243017306,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Las Galeras Divers",
+      "sport": "scuba_diving",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Astron",
+    "lat": 18.7303783,
+    "lon": -68.4538206,
+    "osm_id": 170000345,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "wreck",
+      "name": "Astron",
+      "seamark:type": "wreck",
+      "sport": "scuba_diving",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  }
+]

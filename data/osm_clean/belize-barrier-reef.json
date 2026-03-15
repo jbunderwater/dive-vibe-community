@@ -1,0 +1,187 @@
+[
+  {
+    "name": "Hol Chan Cut",
+    "lat": 17.8627707,
+    "lon": -87.977162,
+    "osm_id": 1574464135,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Hol Chan Cut",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Long Caye Aquarium",
+    "lat": 17.2130056,
+    "lon": -87.6075978,
+    "osm_id": 5484628121,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Long Caye Aquarium",
+      "name:es": "Acuario de Cayo Largo",
+      "scuba_diving:divespot": "yes",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Half Moon Wall",
+    "lat": 17.2082863,
+    "lon": -87.5358197,
+    "osm_id": 5484628122,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Half Moon Wall",
+      "scuba_diving:divespot": "yes",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Catalan Rocks",
+    "lat": 17.9764707,
+    "lon": -87.9156451,
+    "osm_id": 8192575520,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Catalan Rocks",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Ermlund",
+    "lat": 17.2136335,
+    "lon": -87.527902,
+    "osm_id": 8433034767,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "access": "yes",
+      "historic": "wreck",
+      "name": "Ermlund",
+      "seamark:type": "wreck",
+      "seamark:wreck:category": "hull_showing",
+      "wreck:date_sunk": "1971",
+      "wreck:visible_at_high_tide": "yes",
+      "wreck:visible_at_low_tide": "yes",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "M/V Transfer",
+    "lat": 17.4022104,
+    "lon": -87.4601922,
+    "osm_id": 8433034768,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "access": "yes",
+      "historic": "wreck",
+      "name": "M/V Transfer",
+      "seamark:type": "wreck",
+      "seamark:wreck:category": "hull_visible",
+      "source": "osm_extended",
+      "wreck:date_sunk": "2005",
+      "wreck:visible_at_high_tide": "yes",
+      "wreck:visible_at_low_tide": "yes",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Columbus Reef",
+    "lat": 16.9249215,
+    "lon": -88.0741062,
+    "osm_id": 9991788218,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Columbus Reef",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Belize Barrier Reef",
+    "lat": 17.4154352,
+    "lon": -88.0577182,
+    "osm_id": 9991788219,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Belize Barrier Reef",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Gallows Point Reef",
+    "lat": 17.3968824,
+    "lon": -88.0374381,
+    "osm_id": 9993288817,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Gallows Point Reef",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Rusty Barge Wreck",
+    "lat": 17.5002648,
+    "lon": -88.0869874,
+    "osm_id": 9993288898,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "access": "yes",
+      "historic": "wreck",
+      "name": "Rusty Barge Wreck",
+      "seamark:type": "wreck",
+      "seamark:wreck:category": "non-dangerous",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  }
+]

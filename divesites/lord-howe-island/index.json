@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Ball's Pyramid",
+    "filename": "balls-pyramid.md",
+    "lat": -31.7544,
+    "lng": 159.2494,
+    "difficulty": "Advanced",
+    "maxDepth": 35,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Erscott's Hole",
+    "filename": "erscotts-hole.md",
+    "lat": -31.55,
+    "lng": 159.0667,
+    "difficulty": "Intermediate",
+    "maxDepth": 20,
+    "entryType": "boat",
+    "siteType": "cave",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Comets Hole",
+    "filename": "comets-hole.md",
+    "lat": -31.5333,
+    "lng": 159.05,
+    "difficulty": "Beginner",
+    "maxDepth": 15,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Malabar Reef",
+    "filename": "malabar-reef.md",
+    "lat": -31.5417,
+    "lng": 159.0583,
+    "difficulty": "Beginner",
+    "maxDepth": 12,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Admiralty Islands",
+    "filename": "admiralty-islands.md",
+    "lat": -31.5833,
+    "lng": 159.0333,
+    "difficulty": "Intermediate",
+    "maxDepth": 18,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Tenth of June",
+    "filename": "tenth-of-june.md",
+    "lat": -31.5167,
+    "lng": 159.0667,
+    "difficulty": "Intermediate",
+    "maxDepth": 20,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "North Bay Dropoff",
+    "filename": "north-bay-dropoff.md",
+    "lat": -31.5083,
+    "lng": 159.0833,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Sylph's Hole",
+    "filename": "sylphs-hole.md",
+    "lat": -31.5583,
+    "lng": 159.0417,
+    "difficulty": "Beginner",
+    "maxDepth": 15,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  }
+]

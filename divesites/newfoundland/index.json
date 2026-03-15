@@ -1,0 +1,122 @@
+[
+  {
+    "name": "SS Rose Castle",
+    "filename": "ss-rose-castle.md",
+    "lat": 47.6013424,
+    "lng": -52.9636225,
+    "difficulty": "Advanced",
+    "maxDepth": 35,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 6292677130
+  },
+  {
+    "name": "PM-27",
+    "filename": "pm-27.md",
+    "lat": 47.5994572,
+    "lng": -52.9716262,
+    "difficulty": "Advanced",
+    "maxDepth": 25,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 9802778108
+  },
+  {
+    "name": "SS Saganaga",
+    "filename": "ss-saganaga.md",
+    "lat": 47.5833032,
+    "lng": -52.9785067,
+    "difficulty": "Advanced",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 9802778109
+  },
+  {
+    "name": "SS Lord Strathcona",
+    "filename": "ss-lord-strathcona.md",
+    "lat": 47.588242,
+    "lng": -52.9681451,
+    "difficulty": "Advanced",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 9802778110
+  },
+  {
+    "name": "Troot Pool",
+    "filename": "troot-pool.md",
+    "lat": 46.7540211,
+    "lng": -56.2175723,
+    "difficulty": "Advanced",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 3747883905
+  },
+  {
+    "name": "S.S. Ilex",
+    "filename": "ss-ilex.md",
+    "lat": 46.9651507,
+    "lng": -52.9237188,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 12922072822
+  },
+  {
+    "name": "MSC Baltics III",
+    "filename": "msc-baltics-iii.md",
+    "lat": 49.0887117,
+    "lng": -58.423953,
+    "difficulty": "Advanced",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 13591376084
+  },
+  {
+    "name": "SS Kyle",
+    "filename": "ss-kyle.md",
+    "lat": 47.6705011,
+    "lng": -53.2537622,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 572715873
+  },
+  {
+    "name": "Le Muscadin",
+    "filename": "le-muscadin.md",
+    "lat": 47.0958229,
+    "lng": -56.3694737,
+    "difficulty": "Advanced",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 1317164200
+  },
+  {
+    "name": "Épave du Transpacific",
+    "filename": "épave-du-transpacific.md",
+    "lat": 46.7896773,
+    "lng": -56.1432856,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 20321746
+  }
+]

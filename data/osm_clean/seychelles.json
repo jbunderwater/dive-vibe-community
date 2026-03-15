@@ -1,0 +1,170 @@
+[
+  {
+    "name": "Roche Grand Maman",
+    "lat": -4.2900691,
+    "lon": 55.6859107,
+    "osm_id": 9865500503,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Roche Grand Maman",
+      "scuba_diving:entry:boat": "yes",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Remire Reef",
+    "lat": -5.0998656,
+    "lon": 53.34612,
+    "osm_id": 52577559,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Remire Reef",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Shark Bank",
+    "lat": -4.56,
+    "lon": 55.37,
+    "depth": 30,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true"
+    }
+  },
+  {
+    "name": "Brissare Rocks",
+    "lat": -4.58,
+    "lon": 55.4,
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Aldabra Atoll Channel",
+    "lat": -9.41,
+    "lon": 46.35,
+    "depth": 25,
+    "site_type": "drift",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Trompeuse Rocks",
+    "lat": -4.62,
+    "lon": 55.45,
+    "depth": 18,
+    "site_type": "drift",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true"
+    }
+  },
+  {
+    "name": "Conception Island",
+    "lat": -4.63,
+    "lon": 55.55,
+    "depth": 22,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Marianne Island",
+    "lat": -4.34,
+    "lon": 55.94,
+    "depth": 15,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true"
+    }
+  },
+  {
+    "name": "Ennerdale Wreck",
+    "lat": -4.6,
+    "lon": 55.42,
+    "depth": 28,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Ave Maria Rock",
+    "lat": -4.57,
+    "lon": 55.38,
+    "depth": 16,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true"
+    }
+  },
+  {
+    "name": "L'Ilot Island",
+    "lat": -4.55,
+    "lon": 55.5,
+    "depth": 12,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Whale Rock",
+    "lat": -4.54,
+    "lon": 55.35,
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  }
+]

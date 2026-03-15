@@ -1,0 +1,149 @@
+[
+  {
+    "name": "Dry Tortugas National Park",
+    "lat": 24.646585,
+    "lon": -82.8666228,
+    "osm_id": 4437721,
+    "osm_type": "relation",
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "boundary": "protected_area",
+      "gnis:feature_id": "307632",
+      "leisure": "nature_reserve",
+      "name": "Dry Tortugas National Park",
+      "name:de": "Dry-Tortugas-National Park",
+      "name:es": "Parque Nacional Tortugas Secas",
+      "name:zh": "海龟国家公园",
+      "network": "National Parks of the United States",
+      "network:wikidata": "Q34918903",
+      "operator:short": "NPS",
+      "operator:type": "public",
+      "operator:wikidata": "Q308439",
+      "operator:wikipedia": "en:National Park Service",
+      "ownership": "national",
+      "protect_class": "2",
+      "protected": "perpetuity",
+      "protected_area": "national_park",
+      "protection_title": "National Park",
+      "sport": "scuba_diving",
+      "type": "multipolygon",
+      "wikidata": "Q1143655",
+      "wikipedia": "en:Dry Tortugas National Park"
+    }
+  },
+  {
+    "name": "White Shoal",
+    "lat": 24.6370629,
+    "lon": -82.9018649,
+    "osm_id": 1033472465,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "White Shoal",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Brilliant Shoal",
+    "lat": 24.6608273,
+    "lon": -82.8902764,
+    "osm_id": 1033472471,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Brilliant Shoal",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Windjammer Wreck",
+    "lat": 24.62,
+    "lon": -82.87,
+    "depth": 8,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Little Africa Reef",
+    "lat": 24.63,
+    "lon": -82.88,
+    "depth": 12,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Texas Rock",
+    "lat": 24.64,
+    "lon": -82.86,
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Bird Key Reef",
+    "lat": 24.625,
+    "lon": -82.875,
+    "depth": 10,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Long Key Reef",
+    "lat": 24.615,
+    "lon": -82.89,
+    "depth": 14,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Fort Jefferson Wall",
+    "lat": 24.628,
+    "lon": -82.873,
+    "depth": 20,
+    "site_type": "wall",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  }
+]

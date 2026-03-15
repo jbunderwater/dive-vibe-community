@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Tobago Cays",
+    "filename": "tobago-cays.md",
+    "lat": 12.625,
+    "lng": -61.35,
+    "difficulty": "Beginner",
+    "maxDepth": 12,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "The Wall (Bequia)",
+    "filename": "the-wall-bequia.md",
+    "lat": 13.01,
+    "lng": -61.24,
+    "difficulty": "Advanced",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Anchor Reef",
+    "filename": "anchor-reef.md",
+    "lat": 13.15,
+    "lng": -61.2,
+    "difficulty": "Intermediate",
+    "maxDepth": 18,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Bottle Reef",
+    "filename": "bottle-reef.md",
+    "lat": 13.16,
+    "lng": -61.21,
+    "difficulty": "Intermediate",
+    "maxDepth": 22,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "New Guinea Reef",
+    "filename": "new-guinea-reef.md",
+    "lat": 13.175,
+    "lng": -61.19,
+    "difficulty": "Beginner",
+    "maxDepth": 14,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Critter Corner",
+    "filename": "critter-corner.md",
+    "lat": 13.17,
+    "lng": -61.195,
+    "difficulty": "Beginner",
+    "maxDepth": 10,
+    "entryType": "boat",
+    "siteType": "muck",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Mayreau Gardens",
+    "filename": "mayreau-gardens.md",
+    "lat": 12.64,
+    "lng": -61.39,
+    "difficulty": "Beginner",
+    "maxDepth": 16,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Petit St. Vincent Reef",
+    "filename": "petit-st-vincent-reef.md",
+    "lat": 12.54,
+    "lng": -61.38,
+    "difficulty": "Intermediate",
+    "maxDepth": 20,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Mustique Reef",
+    "filename": "mustique-reef.md",
+    "lat": 12.885,
+    "lng": -61.18,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Bat Cave (St. Vincent)",
+    "filename": "bat-cave-st-vincent.md",
+    "lat": 13.2,
+    "lng": -61.22,
+    "difficulty": "Intermediate",
+    "maxDepth": 15,
+    "entryType": "boat",
+    "siteType": "cave",
+    "ref": "",
+    "osmId": null
+  }
+]

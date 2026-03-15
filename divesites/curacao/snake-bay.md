@@ -2,10 +2,10 @@
 name: Snake Bay
 lat: 12.1384966
 lng: -68.99653
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 45
 entryType: Shore
-siteType: Reef
+siteType: reef
 ref: null
 osmId: null
 addedBy: assistant
@@ -22,9 +22,9 @@ Snake Bay (Boca Sami area) is a peaceful shore diving destination located on Cur
 ## Site Information
 
 - **Location**: Central west coast, Sint Michiel area
-- **Entry Type**: Shore dive from rocky coastline
-- **Site Type**: Sloping coral reef
-- **Difficulty Level**: Beginner to Intermediate
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 45 meters (150 feet)
 - **Typical Visibility**: 15-25 meters (50-80 feet)
 - **Current**: Usually minimal to none

@@ -1,0 +1,1499 @@
+[
+  {
+    "name": "Mares Diving Center",
+    "reasons": [
+      "name contains 'diving center'"
+    ],
+    "dest": "azores"
+  },
+  {
+    "name": "Flores Dive Center",
+    "reasons": [
+      "tag shop=scuba_diving",
+      "shop=scuba_diving",
+      "name contains 'dive center'",
+      "has phone/opening_hours",
+      "has street address"
+    ],
+    "dest": "azores"
+  },
+  {
+    "name": "Dive Abaco",
+    "reasons": [
+      "name matches pattern '^dive\\s'"
+    ],
+    "dest": "bahamas"
+  },
+  {
+    "name": "Dive Exuma",
+    "reasons": [
+      "name matches pattern '^dive\\s'",
+      "has phone/opening_hours"
+    ],
+    "dest": "bahamas"
+  },
+  {
+    "name": "Bahamas Divers",
+    "reasons": [
+      "tag shop=scuba_diving",
+      "shop=scuba_diving",
+      "name matches pattern '\\bdivers?\\b$'"
+    ],
+    "dest": "bahamas"
+  },
+  {
+    "name": "Crystal Divers",
+    "reasons": [
+      "name matches pattern '\\bdivers?\\b$'"
+    ],
+    "dest": "bali"
+  },
+  {
+    "name": "PADI Hammerhead Bali Dive",
+    "reasons": [
+      "name matches pattern '\\bpadi\\b'"
+    ],
+    "dest": "bali"
+  },
+  {
+    "name": "PADI Bali Scuba Masters",
+    "reasons": [
+      "name matches pattern '\\bpadi\\b'"
+    ],
+    "dest": "bali"
+  },
+  {
+    "name": "Seahua Ha Ha Tulamben Dive Resort",
+    "reasons": [
+      "name contains 'dive resort'"
+    ],
+    "dest": "bali"
+  },
+  {
+    "name": "Madha Dive Center",
+    "reasons": [
+      "name contains 'dive center'"
+    ],
+    "dest": "bali"
+  },
+  {
+    "name": "Liberty Dive Resort",
+    "reasons": [
+      "name contains 'dive resort'"
+    ],
+    "dest": "bali"
+  },
+  {
+    "name": "Bali International Diving Professionals (BIDP)",
+    "reasons": [
+      "has phone/opening_hours",
+      "has street address"
+    ],
+    "dest": "bali"
+  },
+  {
+    "name": "Drift Divers Nusa Lembonang",
+    "reasons": [
+      "has phone/opening_hours"
+    ],
+    "dest": "bali"
+  },
+  {
+    "name": "Scuba Center Asia",
+    "reasons": [
+      "name contains 'scuba center'",
+      "has phone/opening_hours",
+      "has street address"
+    ],
+    "dest": "bali"
+  },
+  {
+    "name": "Amed Zen Divers",
+    "reasons": [
+      "tag shop=scuba_diving",
+      "shop=scuba_diving",
+      "name matches pattern '\\bdivers?\\b$'",
+      "has phone/opening_hours"
+    ],
+    "dest": "bali"
+  },
+  {
+    "name": "Bintang Beach Club Dive And Water Sport",
+    "reasons": [
+      "name contains 'water sport'",
+      "has street address"
+    ],
+    "dest": "bali"
+  },
+  {
+    "name": "Fantasea Diving and Watersports",
+    "reasons": [
+      "tag shop=scuba_diving",
+      "shop=scuba_diving",
+      "name contains 'watersports'"
+    ],
+    "dest": "bermuda"
+  },
+  {
+    "name": "Dive with Martin",
+    "reasons": [
+      "name matches pattern '^dive\\s'"
+    ],
+    "dest": "cozumel"
+  },
+  {
+    "name": "Dive Center Krk",
+    "reasons": [
+      "name contains 'dive center'",
+      "name matches pattern '^dive\\s'",
+      "has phone/opening_hours"
+    ],
+    "dest": "croatia"
+  },
+  {
+    "name": "Sub-Aquatic Diving Center",
+    "reasons": [
+      "name contains 'diving center'"
+    ],
+    "dest": "croatia"
+  },
+  {
+    "name": "Scuba Libre",
+    "reasons": [
+      "has phone/opening_hours"
+    ],
+    "dest": "croatia"
+  },
+  {
+    "name": "Bo\u017eava Diving",
+    "reasons": [
+      "tag shop=scuba_diving",
+      "shop=scuba_diving"
+    ],
+    "dest": "croatia"
+  },
+  {
+    "name": "Galathea Diving Center",
+    "reasons": [
+      "name contains 'diving center'",
+      "has phone/opening_hours"
+    ],
+    "dest": "croatia"
+  },
+  {
+    "name": "Dive center Aquatica",
+    "reasons": [
+      "name contains 'dive center'",
+      "name matches pattern '^dive\\s'"
+    ],
+    "dest": "croatia"
+  },
+  {
+    "name": "Star Fish",
+    "reasons": [
+      "tag shop=scuba_diving",
+      "shop=scuba_diving"
+    ],
+    "dest": "croatia"
+  },
+  {
+    "name": "Nautilus",
+    "reasons": [
+      "tag shop=scuba_diving",
+      "shop=scuba_diving"
+    ],
+    "dest": "croatia"
+  },
+  {
+    "name": "Diving centar Pongo",
+    "reasons": [
+      "tag shop=scuba_diving",
+      "shop=scuba_diving",
+      "has phone/opening_hours"
+    ],
+    "dest": "croatia"
+  },
+  {
+    "name": "Scuba Adriatic Diving Center",
+    "reasons": [
+      "name contains 'diving center'"
+    ],
+    "dest": "croatia"
+  },
+  {
+    "name": "ronila\u010dki klub Ugljan",
+    "reasons": [
+      "tag shop=scuba_diving",
+      "shop=scuba_diving"
+    ],
+    "dest": "croatia"
+  },
+  {
+    "name": "CorrectDiving Krk",
+    "reasons": [
+      "has phone/opening_hours"
+    ],
+    "dest": "croatia"
+  },
+  {
+    "name": "DC MIHURIC",
+    "reasons": [
+      "has phone/opening_hours"
+    ],
+    "dest": "croatia"
+  },
+  {
+    "name": "KPA Marsonia",
+    "reasons": [
+      "has street address"
+    ],
+    "dest": "croatia"
+  },
+  {
+    "name": "Ronila\u010dki klub BUK",
+    "reasons": [
+      "has phone/opening_hours",
+      "has street address"
+    ],
+    "dest": "croatia"
+  },
+  {
+    "name": "Diving Center",
+    "reasons": [
+      "name contains 'diving center'"
+    ],
+    "dest": "croatia"
+  },
+  {
+    "name": "Dive Loft Krk",
+    "reasons": [
+      "name matches pattern '^dive\\s'",
+      "has street address"
+    ],
+    "dest": "croatia"
+  },
+  {
+    "name": "Diving Center Indie",
+    "reasons": [
+      "name contains 'diving center'",
+      "has phone/opening_hours",
+      "has street address"
+    ],
+    "dest": "croatia"
+  },
+  {
+    "name": "Pongo diving center",
+    "reasons": [
+      "name contains 'diving center'"
+    ],
+    "dest": "croatia"
+  },
+  {
+    "name": "Diving center Tri porte",
+    "reasons": [
+      "name contains 'diving center'"
+    ],
+    "dest": "croatia"
+  },
+  {
+    "name": "Tramonto",
+    "reasons": [
+      "has phone/opening_hours"
+    ],
+    "dest": "croatia"
+  },
+  {
+    "name": "Ancora",
+    "reasons": [
+      "has phone/opening_hours",
+      "has street address"
+    ],
+    "dest": "croatia"
+  },
+  {
+    "name": "Big Blue Diving",
+    "reasons": [
+      "has street address"
+    ],
+    "dest": "croatia"
+  },
+  {
+    "name": "Diving center Seehase",
+    "reasons": [
+      "name contains 'diving center'",
+      "has phone/opening_hours"
+    ],
+    "dest": "croatia"
+  },
+  {
+    "name": "KWS Diving Center Bibinje",
+    "reasons": [
+      "name contains 'diving center'"
+    ],
+    "dest": "croatia"
+  },
+  {
+    "name": "Nemo Divers",
+    "reasons": [
+      "name matches pattern '\\bdivers?\\b$'"
+    ],
+    "dest": "croatia"
+  },
+  {
+    "name": "Najada Diving",
+    "reasons": [
+      "has phone/opening_hours",
+      "has street address"
+    ],
+    "dest": "croatia"
+  },
+  {
+    "name": "Croatia Divers",
+    "reasons": [
+      "name matches pattern '\\bdivers?\\b$'"
+    ],
+    "dest": "croatia"
+  },
+  {
+    "name": "Manta",
+    "reasons": [
+      "has phone/opening_hours"
+    ],
+    "dest": "croatia"
+  },
+  {
+    "name": "Dive Shop",
+    "reasons": [
+      "tag shop=sports",
+      "shop=sports",
+      "name contains 'dive shop'",
+      "name matches pattern '^dive\\s'",
+      "has phone/opening_hours"
+    ],
+    "dest": "florida-keys"
+  },
+  {
+    "name": "Cudjoe Gardens Marina And Dive Center",
+    "reasons": [
+      "name contains 'dive center'"
+    ],
+    "dest": "florida-keys"
+  },
+  {
+    "name": "Top Dive",
+    "reasons": [
+      "tag shop=scuba_diving",
+      "shop=scuba_diving"
+    ],
+    "dest": "french-polynesia"
+  },
+  {
+    "name": "TopDive",
+    "reasons": [
+      "tag shop=scuba_diving",
+      "shop=scuba_diving"
+    ],
+    "dest": "french-polynesia"
+  },
+  {
+    "name": "6 passengers",
+    "reasons": [
+      "tag shop=scuba_diving",
+      "shop=scuba_diving"
+    ],
+    "dest": "french-polynesia"
+  },
+  {
+    "name": "Eleuthera Bora Diving Center",
+    "reasons": [
+      "tag shop=scuba_diving",
+      "shop=scuba_diving",
+      "name contains 'diving center'",
+      "has phone/opening_hours"
+    ],
+    "dest": "french-polynesia"
+  },
+  {
+    "name": "Moorea Blue Diving",
+    "reasons": [
+      "has phone/opening_hours"
+    ],
+    "dest": "french-polynesia"
+  },
+  {
+    "name": "Dive Center Silberstein",
+    "reasons": [
+      "name contains 'dive center'",
+      "name matches pattern '^dive\\s'"
+    ],
+    "dest": "galapagos-islands"
+  },
+  {
+    "name": "Macarron Scuba Divers",
+    "reasons": [
+      "tag shop=scuba_diving",
+      "shop=scuba_diving",
+      "name matches pattern '\\bdivers?\\b$'",
+      "has phone/opening_hours",
+      "has street address"
+    ],
+    "dest": "galapagos-islands"
+  },
+  {
+    "name": "Galaisa Adventure Travel Agency",
+    "reasons": [
+      "tag shop=scuba_diving",
+      "shop=scuba_diving",
+      "name contains 'travel agency'"
+    ],
+    "dest": "galapagos-islands"
+  },
+  {
+    "name": "Isabela Dive Center",
+    "reasons": [
+      "tag shop=scuba_diving",
+      "shop=scuba_diving",
+      "name contains 'dive center'"
+    ],
+    "dest": "galapagos-islands"
+  },
+  {
+    "name": "Gal\u00e1pagos Deep",
+    "reasons": [
+      "tag shop=scuba_diving",
+      "shop=scuba_diving"
+    ],
+    "dest": "galapagos-islands"
+  },
+  {
+    "name": "Ocho",
+    "reasons": [
+      "tag shop=travel_agency",
+      "shop=travel_agency"
+    ],
+    "dest": "galapagos-islands"
+  },
+  {
+    "name": "Scuba Eden",
+    "reasons": [
+      "tag shop=travel_agency",
+      "shop=travel_agency",
+      "has phone/opening_hours",
+      "has street address"
+    ],
+    "dest": "galapagos-islands"
+  },
+  {
+    "name": "Los Mantas Dive Center",
+    "reasons": [
+      "name contains 'dive center'"
+    ],
+    "dest": "galapagos-islands"
+  },
+  {
+    "name": "Dream Divers",
+    "reasons": [
+      "name matches pattern '\\bdivers?\\b$'"
+    ],
+    "dest": "gili-islands"
+  },
+  {
+    "name": "Gili Divers",
+    "reasons": [
+      "name matches pattern '\\bdivers?\\b$'"
+    ],
+    "dest": "gili-islands"
+  },
+  {
+    "name": "IQ Divers",
+    "reasons": [
+      "name matches pattern '\\bdivers?\\b$'"
+    ],
+    "dest": "gili-islands"
+  },
+  {
+    "name": "Lutwala Dive",
+    "reasons": [
+      "has phone/opening_hours"
+    ],
+    "dest": "gili-islands"
+  },
+  {
+    "name": "Big Bubble Dive",
+    "reasons": [
+      "tag shop=scuba_diving",
+      "shop=scuba_diving"
+    ],
+    "dest": "gili-islands"
+  },
+  {
+    "name": "Dive Central Gili",
+    "reasons": [
+      "name matches pattern '^dive\\s'"
+    ],
+    "dest": "gili-islands"
+  },
+  {
+    "name": "Turtle Snorkeling Spot",
+    "reasons": [
+      "has phone/opening_hours"
+    ],
+    "dest": "gili-islands"
+  },
+  {
+    "name": "Compass Divers",
+    "reasons": [
+      "name matches pattern '\\bdivers?\\b$'"
+    ],
+    "dest": "gili-islands"
+  },
+  {
+    "name": "Gili Sanctum",
+    "reasons": [
+      "tag shop=scuba_diving",
+      "shop=scuba_diving"
+    ],
+    "dest": "gili-islands"
+  },
+  {
+    "name": "Trawangan Dive",
+    "reasons": [
+      "has phone/opening_hours"
+    ],
+    "dest": "gili-islands"
+  },
+  {
+    "name": "Divers Wearhouse",
+    "reasons": [
+      "tag shop=scuba_diving",
+      "shop=scuba_diving",
+      "has street address"
+    ],
+    "dest": "great-lakes"
+  },
+  {
+    "name": "Turtle Beach Diving Center",
+    "reasons": [
+      "tag shop=scuba_diving",
+      "shop=scuba_diving",
+      "name contains 'diving center'"
+    ],
+    "dest": "greece"
+  },
+  {
+    "name": "Euro Divers",
+    "reasons": [
+      "name matches pattern '\\bdivers?\\b$'"
+    ],
+    "dest": "greece"
+  },
+  {
+    "name": "Dolphinland Diving Center",
+    "reasons": [
+      "name contains 'diving center'",
+      "has phone/opening_hours"
+    ],
+    "dest": "greece"
+  },
+  {
+    "name": "Turuncu Dal\u0131\u015f Merkezi",
+    "reasons": [
+      "has phone/opening_hours",
+      "has street address"
+    ],
+    "dest": "greece"
+  },
+  {
+    "name": "Nek Tec Rec Diving - \u039d\u03b5\u03ba\u03c4\u03ac\u03c1\u03b9\u03bf\u03c2 \u039a\u03b1\u03c4\u03c1\u03b9\u03b2\u03ad\u03c3\u03b7\u03c2",
+    "reasons": [
+      "has street address"
+    ],
+    "dest": "greece"
+  },
+  {
+    "name": "Dolphin Diving Center",
+    "reasons": [
+      "name contains 'diving center'"
+    ],
+    "dest": "greece"
+  },
+  {
+    "name": "Aegean Divers",
+    "reasons": [
+      "name matches pattern '\\bdivers?\\b$'",
+      "has phone/opening_hours",
+      "has street address"
+    ],
+    "dest": "greece"
+  },
+  {
+    "name": "Santorini Dive Center",
+    "reasons": [
+      "name contains 'dive center'"
+    ],
+    "dest": "greece"
+  },
+  {
+    "name": "Sea Adventure Scuba Diving Center",
+    "reasons": [
+      "name contains 'diving center'"
+    ],
+    "dest": "greece"
+  },
+  {
+    "name": "Mesta Chios Diving Center",
+    "reasons": [
+      "name contains 'diving center'"
+    ],
+    "dest": "greece"
+  },
+  {
+    "name": "Black Rock Dive Centre",
+    "reasons": [
+      "name contains 'dive centre'"
+    ],
+    "dest": "greece"
+  },
+  {
+    "name": "Hercules Marine Activities",
+    "reasons": [
+      "tag shop=scuba_diving",
+      "shop=scuba_diving"
+    ],
+    "dest": "greece"
+  },
+  {
+    "name": "Sifnos Diving Center",
+    "reasons": [
+      "name contains 'diving center'"
+    ],
+    "dest": "greece"
+  },
+  {
+    "name": "Aqualized Dive Adventures",
+    "reasons": [
+      "has street address"
+    ],
+    "dest": "greece"
+  },
+  {
+    "name": "Mediterranean Dive Club",
+    "reasons": [
+      "tag shop=scuba_diving",
+      "shop=scuba_diving",
+      "name contains 'dive club'"
+    ],
+    "dest": "greece"
+  },
+  {
+    "name": "Serifos Scuba Divers",
+    "reasons": [
+      "name matches pattern '\\bdivers?\\b$'"
+    ],
+    "dest": "greece"
+  },
+  {
+    "name": "Popeye Diving Center Thassos",
+    "reasons": [
+      "name contains 'diving center'",
+      "has phone/opening_hours"
+    ],
+    "dest": "greece"
+  },
+  {
+    "name": "The Waterhoppers",
+    "reasons": [
+      "has phone/opening_hours",
+      "has street address"
+    ],
+    "dest": "greece"
+  },
+  {
+    "name": "Islanders Zante Diving Center",
+    "reasons": [
+      "tag shop=scuba_diving",
+      "shop=scuba_diving",
+      "name contains 'diving center'"
+    ],
+    "dest": "greece"
+  },
+  {
+    "name": "Karpathos Diving Center",
+    "reasons": [
+      "name contains 'diving center'",
+      "has phone/opening_hours"
+    ],
+    "dest": "greece"
+  },
+  {
+    "name": "St. Nicholas Beach Diving Center",
+    "reasons": [
+      "name contains 'diving center'"
+    ],
+    "dest": "greece"
+  },
+  {
+    "name": "Plazhi i Manastirit",
+    "reasons": [
+      "has phone/opening_hours"
+    ],
+    "dest": "greece"
+  },
+  {
+    "name": "Center Action Thassos",
+    "reasons": [
+      "has phone/opening_hours"
+    ],
+    "dest": "greece"
+  },
+  {
+    "name": "Marina Divers",
+    "reasons": [
+      "name matches pattern '\\bdivers?\\b$'"
+    ],
+    "dest": "jordan-aqaba"
+  },
+  {
+    "name": "Phoenix Diver",
+    "reasons": [
+      "tag shop=scuba_diving",
+      "shop=scuba_diving",
+      "name matches pattern '\\bdivers?\\b$'"
+    ],
+    "dest": "koh-tao"
+  },
+  {
+    "name": "Rainbow Fish Divers",
+    "reasons": [
+      "tag shop=scuba_diving",
+      "shop=scuba_diving",
+      "name matches pattern '\\bdivers?\\b$'",
+      "has phone/opening_hours"
+    ],
+    "dest": "koh-tao"
+  },
+  {
+    "name": "Ocean Sound and Dive + Yoga",
+    "reasons": [
+      "tag shop=scuba_diving",
+      "shop=scuba_diving"
+    ],
+    "dest": "koh-tao"
+  },
+  {
+    "name": "U&I Place",
+    "reasons": [
+      "has phone/opening_hours",
+      "has street address"
+    ],
+    "dest": "koh-tao"
+  },
+  {
+    "name": "Twin Island Dive",
+    "reasons": [
+      "tag shop=sports",
+      "shop=sports"
+    ],
+    "dest": "komodo-national-park"
+  },
+  {
+    "name": "Cabo Pulmo Divers",
+    "reasons": [
+      "name matches pattern '\\bdivers?\\b$'"
+    ],
+    "dest": "la-paz-sea-of-cortez"
+  },
+  {
+    "name": "Dream Divers",
+    "reasons": [
+      "name matches pattern '\\bdivers?\\b$'"
+    ],
+    "dest": "lombok"
+  },
+  {
+    "name": "Gili Divers",
+    "reasons": [
+      "name matches pattern '\\bdivers?\\b$'"
+    ],
+    "dest": "lombok"
+  },
+  {
+    "name": "IQ Divers",
+    "reasons": [
+      "name matches pattern '\\bdivers?\\b$'"
+    ],
+    "dest": "lombok"
+  },
+  {
+    "name": "Lutwala Dive",
+    "reasons": [
+      "has phone/opening_hours"
+    ],
+    "dest": "lombok"
+  },
+  {
+    "name": "Gili Meno Divers",
+    "reasons": [
+      "name matches pattern '\\bdivers?\\b$'"
+    ],
+    "dest": "lombok"
+  },
+  {
+    "name": "Blue Coral Diving",
+    "reasons": [
+      "tag shop=travel_agency",
+      "shop=travel_agency"
+    ],
+    "dest": "lombok"
+  },
+  {
+    "name": "Big Bubble Dive",
+    "reasons": [
+      "tag shop=scuba_diving",
+      "shop=scuba_diving"
+    ],
+    "dest": "lombok"
+  },
+  {
+    "name": "Dive Central Gili",
+    "reasons": [
+      "name matches pattern '^dive\\s'"
+    ],
+    "dest": "lombok"
+  },
+  {
+    "name": "Turtle Snorkeling Spot",
+    "reasons": [
+      "has phone/opening_hours"
+    ],
+    "dest": "lombok"
+  },
+  {
+    "name": "Compass Divers",
+    "reasons": [
+      "name matches pattern '\\bdivers?\\b$'"
+    ],
+    "dest": "lombok"
+  },
+  {
+    "name": "Meno Dive Club",
+    "reasons": [
+      "name contains 'dive club'",
+      "has phone/opening_hours"
+    ],
+    "dest": "lombok"
+  },
+  {
+    "name": "Gili Sanctum",
+    "reasons": [
+      "tag shop=scuba_diving",
+      "shop=scuba_diving"
+    ],
+    "dest": "lombok"
+  },
+  {
+    "name": "DSM Dive",
+    "reasons": [
+      "tag shop=scuba_diving",
+      "shop=scuba_diving"
+    ],
+    "dest": "lombok"
+  },
+  {
+    "name": "Trawangan Dive",
+    "reasons": [
+      "has phone/opening_hours"
+    ],
+    "dest": "lombok"
+  },
+  {
+    "name": "Abalone",
+    "reasons": [
+      "has phone/opening_hours",
+      "has street address"
+    ],
+    "dest": "madagascar"
+  },
+  {
+    "name": "Diverland Embudu",
+    "reasons": [
+      "tag shop=scuba_diving",
+      "shop=scuba_diving"
+    ],
+    "dest": "maldives"
+  },
+  {
+    "name": "Dive Center",
+    "reasons": [
+      "name contains 'dive center'",
+      "name matches pattern '^dive\\s'"
+    ],
+    "dest": "maldives"
+  },
+  {
+    "name": "Ellaidhoo Chaaya Reef",
+    "reasons": [
+      "tag shop=scuba_diving",
+      "shop=scuba_diving"
+    ],
+    "dest": "maldives"
+  },
+  {
+    "name": "Shark Island Dive",
+    "reasons": [
+      "has phone/opening_hours",
+      "has street address"
+    ],
+    "dest": "maldives"
+  },
+  {
+    "name": "Oceanholic Dive Center",
+    "reasons": [
+      "name contains 'dive center'"
+    ],
+    "dest": "maldives"
+  },
+  {
+    "name": "Blue Waters Dive Cove",
+    "reasons": [
+      "tag shop=scuba_diving",
+      "shop=scuba_diving",
+      "has phone/opening_hours"
+    ],
+    "dest": "malta-and-gozo"
+  },
+  {
+    "name": "Saint Andrew's Divers Cove",
+    "reasons": [
+      "tag shop=scuba_diving",
+      "shop=scuba_diving"
+    ],
+    "dest": "malta-and-gozo"
+  },
+  {
+    "name": "Atlantis Diving Centre",
+    "reasons": [
+      "name contains 'diving centre'"
+    ],
+    "dest": "malta-and-gozo"
+  },
+  {
+    "name": "Dive Systems",
+    "reasons": [
+      "name matches pattern '^dive\\s'"
+    ],
+    "dest": "malta-and-gozo"
+  },
+  {
+    "name": "Dive Site & Shipwreck",
+    "reasons": [
+      "name matches pattern '^dive\\s'"
+    ],
+    "dest": "malta-and-gozo"
+  },
+  {
+    "name": "Sea Urchin Diving Centre",
+    "reasons": [
+      "tag shop=sports",
+      "shop=sports",
+      "name contains 'diving centre'",
+      "has phone/opening_hours",
+      "has street address"
+    ],
+    "dest": "mauritius"
+  },
+  {
+    "name": "Exploration Sous-Marine",
+    "reasons": [
+      "has phone/opening_hours",
+      "has street address"
+    ],
+    "dest": "mauritius"
+  },
+  {
+    "name": "Octopus Diving Centre",
+    "reasons": [
+      "name contains 'diving centre'",
+      "has phone/opening_hours",
+      "has street address"
+    ],
+    "dest": "mauritius"
+  },
+  {
+    "name": "Aqua BASE",
+    "reasons": [
+      "tag shop=sports",
+      "shop=sports"
+    ],
+    "dest": "mauritius"
+  },
+  {
+    "name": "Yap\u00a0Pacific Dive Resort",
+    "reasons": [
+      "name contains 'dive resort'"
+    ],
+    "dest": "micronesia-yap"
+  },
+  {
+    "name": "Enterprise Cannery",
+    "reasons": [
+      "shop=mall",
+      "has phone/opening_hours",
+      "has street address"
+    ],
+    "dest": "monterey-bay"
+  },
+  {
+    "name": "Aquarius Dive Shop",
+    "reasons": [
+      "name contains 'dive shop'",
+      "has street address"
+    ],
+    "dest": "monterey-bay"
+  },
+  {
+    "name": "Tofo Scuba",
+    "reasons": [
+      "tag shop=scuba_diving",
+      "shop=scuba_diving",
+      "has phone/opening_hours"
+    ],
+    "dest": "mozambique"
+  },
+  {
+    "name": "Divemasters delight",
+    "reasons": [
+      "name contains 'divemaster'"
+    ],
+    "dest": "oman"
+  },
+  {
+    "name": "Nomad Dive Center",
+    "reasons": [
+      "name contains 'dive center'"
+    ],
+    "dest": "oman"
+  },
+  {
+    "name": "Sea Oman Diving center",
+    "reasons": [
+      "name contains 'diving center'"
+    ],
+    "dest": "oman"
+  },
+  {
+    "name": "Bermuda Diving",
+    "reasons": [
+      "tag shop=scuba_diving",
+      "shop=scuba_diving",
+      "has phone/opening_hours"
+    ],
+    "dest": "oman"
+  },
+  {
+    "name": "ABT Divers",
+    "reasons": [
+      "name matches pattern '\\bdivers?\\b$'"
+    ],
+    "dest": "oman"
+  },
+  {
+    "name": "Dive Site",
+    "reasons": [
+      "name matches pattern '^dive\\s'"
+    ],
+    "dest": "philippines-anilao"
+  },
+  {
+    "name": "Arborek Dive Shop",
+    "reasons": [
+      "tag shop=sports",
+      "shop=sports",
+      "name contains 'dive shop'",
+      "has phone/opening_hours"
+    ],
+    "dest": "raja-ampat"
+  },
+  {
+    "name": "Sea Dancer",
+    "reasons": [
+      "tag shop=scuba_diving",
+      "shop=scuba_diving"
+    ],
+    "dest": "red-sea"
+  },
+  {
+    "name": "\u0628\u0648\u0632\u064a\u062f\u0648\u0646",
+    "reasons": [
+      "tag shop=sports",
+      "shop=sports"
+    ],
+    "dest": "red-sea"
+  },
+  {
+    "name": "\u0633\u0643\u0648\u0628\u0627 \u062a\u0643",
+    "reasons": [
+      "tag shop=sports",
+      "shop=sports"
+    ],
+    "dest": "red-sea"
+  },
+  {
+    "name": "Emperor Divers",
+    "reasons": [
+      "name matches pattern '\\bdivers?\\b$'"
+    ],
+    "dest": "red-sea"
+  },
+  {
+    "name": "Blue Water Dive Resort",
+    "reasons": [
+      "name contains 'dive resort'"
+    ],
+    "dest": "red-sea"
+  },
+  {
+    "name": "Orca Dive Club Safaga",
+    "reasons": [
+      "name contains 'dive club'"
+    ],
+    "dest": "red-sea"
+  },
+  {
+    "name": "Coraya Divers",
+    "reasons": [
+      "name matches pattern '\\bdivers?\\b$'",
+      "has phone/opening_hours"
+    ],
+    "dest": "red-sea"
+  },
+  {
+    "name": "Diving Centre",
+    "reasons": [
+      "name contains 'diving centre'"
+    ],
+    "dest": "red-sea"
+  },
+  {
+    "name": "Aquarius Diving Club",
+    "reasons": [
+      "name contains 'diving club'",
+      "has phone/opening_hours"
+    ],
+    "dest": "red-sea"
+  },
+  {
+    "name": "James & Mac Diving Center",
+    "reasons": [
+      "name contains 'diving center'",
+      "has phone/opening_hours"
+    ],
+    "dest": "red-sea"
+  },
+  {
+    "name": "Octopus World Dahab Dive Center",
+    "reasons": [
+      "tag shop=scuba_diving",
+      "shop=scuba_diving",
+      "name contains 'dive center'"
+    ],
+    "dest": "red-sea"
+  },
+  {
+    "name": "Freedom Divers",
+    "reasons": [
+      "name matches pattern '\\bdivers?\\b$'",
+      "has phone/opening_hours"
+    ],
+    "dest": "red-sea"
+  },
+  {
+    "name": "Planet Divers",
+    "reasons": [
+      "tag shop=scuba_diving",
+      "shop=scuba_diving",
+      "name matches pattern '\\bdivers?\\b$'",
+      "has phone/opening_hours",
+      "has street address"
+    ],
+    "dest": "red-sea"
+  },
+  {
+    "name": "Dive Center",
+    "reasons": [
+      "name contains 'dive center'",
+      "name matches pattern '^dive\\s'"
+    ],
+    "dest": "red-sea"
+  },
+  {
+    "name": "Sinai Divers Backpacker",
+    "reasons": [
+      "tag shop=scuba_diving",
+      "shop=scuba_diving"
+    ],
+    "dest": "red-sea"
+  },
+  {
+    "name": "Elphinstone",
+    "reasons": [
+      "has phone/opening_hours"
+    ],
+    "dest": "red-sea"
+  },
+  {
+    "name": "Fun Divers",
+    "reasons": [
+      "name matches pattern '\\bdivers?\\b$'"
+    ],
+    "dest": "red-sea"
+  },
+  {
+    "name": "Barakuda Lahami Bay",
+    "reasons": [
+      "has phone/opening_hours"
+    ],
+    "dest": "red-sea"
+  },
+  {
+    "name": "Extra Divers",
+    "reasons": [
+      "name matches pattern '\\bdivers?\\b$'",
+      "has phone/opening_hours"
+    ],
+    "dest": "red-sea"
+  },
+  {
+    "name": "Oonas Dive Center",
+    "reasons": [
+      "tag shop=scuba_diving",
+      "shop=scuba_diving",
+      "name contains 'dive center'"
+    ],
+    "dest": "red-sea"
+  },
+  {
+    "name": "Camel Dive Club & Hotel",
+    "reasons": [
+      "name contains 'dive club'",
+      "has phone/opening_hours"
+    ],
+    "dest": "red-sea"
+  },
+  {
+    "name": "Marina Divers",
+    "reasons": [
+      "name matches pattern '\\bdivers?\\b$'"
+    ],
+    "dest": "red-sea"
+  },
+  {
+    "name": "ORCA Dive Club Paradisio",
+    "reasons": [
+      "name contains 'dive club'"
+    ],
+    "dest": "red-sea"
+  },
+  {
+    "name": "Paradise Divers",
+    "reasons": [
+      "name matches pattern '\\bdivers?\\b$'",
+      "has phone/opening_hours"
+    ],
+    "dest": "red-sea"
+  },
+  {
+    "name": "Deep South Diving Center",
+    "reasons": [
+      "name contains 'diving center'"
+    ],
+    "dest": "red-sea"
+  },
+  {
+    "name": "Orca dive club Wadi Lahmy Azur",
+    "reasons": [
+      "name contains 'dive club'",
+      "has phone/opening_hours"
+    ],
+    "dest": "red-sea"
+  },
+  {
+    "name": "Nautilus Diving Center",
+    "reasons": [
+      "name contains 'diving center'",
+      "has phone/opening_hours"
+    ],
+    "dest": "sardinia"
+  },
+  {
+    "name": "Cala d'Oliva",
+    "reasons": [
+      "tag shop=sports",
+      "shop=sports"
+    ],
+    "dest": "sardinia"
+  },
+  {
+    "name": "Archeo Diving",
+    "reasons": [
+      "tag shop=sports",
+      "shop=sports",
+      "has phone/opening_hours",
+      "has street address"
+    ],
+    "dest": "sardinia"
+  },
+  {
+    "name": "Pisces Diving",
+    "reasons": [
+      "has phone/opening_hours"
+    ],
+    "dest": "south-africa"
+  },
+  {
+    "name": "Coral Divers",
+    "reasons": [
+      "name matches pattern '\\bdivers?\\b$'"
+    ],
+    "dest": "south-africa"
+  },
+  {
+    "name": "Submarine Diving School",
+    "reasons": [
+      "tag shop=scuba_diving",
+      "shop=scuba_diving",
+      "name contains 'diving school'"
+    ],
+    "dest": "sri-lanka"
+  },
+  {
+    "name": "Blue Water Dive Center",
+    "reasons": [
+      "tag shop=outdoor",
+      "shop=outdoor",
+      "name contains 'dive center'"
+    ],
+    "dest": "sri-lanka"
+  },
+  {
+    "name": "Swahil Divers",
+    "reasons": [
+      "name matches pattern '\\bdivers?\\b$'"
+    ],
+    "dest": "tanzania"
+  },
+  {
+    "name": "One Ocean Dive Centre",
+    "reasons": [
+      "name contains 'dive centre'"
+    ],
+    "dest": "tanzania"
+  },
+  {
+    "name": "Spanish dancer divers",
+    "reasons": [
+      "name matches pattern '\\bdivers?\\b$'",
+      "has phone/opening_hours"
+    ],
+    "dest": "tanzania"
+  },
+  {
+    "name": "Meliks Dive Center",
+    "reasons": [
+      "name contains 'dive center'"
+    ],
+    "dest": "tanzania"
+  },
+  {
+    "name": "Dolphinland Diving Center",
+    "reasons": [
+      "name contains 'diving center'",
+      "has phone/opening_hours"
+    ],
+    "dest": "turkey"
+  },
+  {
+    "name": "Turuncu Dal\u0131\u015f Merkezi",
+    "reasons": [
+      "has phone/opening_hours",
+      "has street address"
+    ],
+    "dest": "turkey"
+  },
+  {
+    "name": "Sea Adventure Scuba Diving Center",
+    "reasons": [
+      "name contains 'diving center'"
+    ],
+    "dest": "turkey"
+  },
+  {
+    "name": "The Waterhoppers",
+    "reasons": [
+      "has phone/opening_hours",
+      "has street address"
+    ],
+    "dest": "turkey"
+  },
+  {
+    "name": "Mediterranean diving center",
+    "reasons": [
+      "name contains 'diving center'"
+    ],
+    "dest": "turkey"
+  },
+  {
+    "name": "Ecomarine - Gunter's Dive shop",
+    "reasons": [
+      "name contains 'dive shop'",
+      "has phone/opening_hours",
+      "has street address"
+    ],
+    "dest": "utila"
+  },
+  {
+    "name": "Pacific Pro Dive",
+    "reasons": [
+      "tag shop=scuba_diving",
+      "shop=scuba_diving",
+      "has phone/opening_hours"
+    ],
+    "dest": "vancouver-island"
+  },
+  {
+    "name": "Les Pl\u00e9iades du Sud",
+    "reasons": [
+      "has phone/opening_hours"
+    ],
+    "dest": "vanuatu"
+  },
+  {
+    "name": "Aore Adventures Sports & Lodge",
+    "reasons": [
+      "has phone/opening_hours"
+    ],
+    "dest": "vanuatu"
+  },
+  {
+    "name": "One Ocean Dive Centre",
+    "reasons": [
+      "name contains 'dive centre'"
+    ],
+    "dest": "zanzibar"
+  },
+  {
+    "name": "Spanish dancer divers",
+    "reasons": [
+      "name matches pattern '\\bdivers?\\b$'",
+      "has phone/opening_hours"
+    ],
+    "dest": "zanzibar"
+  },
+  {
+    "name": "Meliks Dive Center",
+    "reasons": [
+      "name contains 'dive center'"
+    ],
+    "dest": "zanzibar"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Roca Partida",
+    "filename": "roca-partida.md",
+    "lat": 19.0,
+    "lng": -112.0667,
+    "difficulty": "Advanced",
+    "maxDepth": 50,
+    "entryType": "boat",
+    "siteType": "pinnacle",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "The Boiler",
+    "filename": "the-boiler.md",
+    "lat": 19.3,
+    "lng": -110.8,
+    "difficulty": "Advanced",
+    "maxDepth": 35,
+    "entryType": "boat",
+    "siteType": "pinnacle",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Cabo Pearce",
+    "filename": "cabo-pearce.md",
+    "lat": 18.73,
+    "lng": -110.95,
+    "difficulty": "Advanced",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Punta Tosca",
+    "filename": "punta-tosca.md",
+    "lat": 18.71,
+    "lng": -110.98,
+    "difficulty": "Advanced",
+    "maxDepth": 25,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "San Benedicto Canyon",
+    "filename": "san-benedicto-canyon.md",
+    "lat": 19.3167,
+    "lng": -110.8167,
+    "difficulty": "Advanced",
+    "maxDepth": 40,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "The Aquarium",
+    "filename": "the-aquarium.md",
+    "lat": 19.31,
+    "lng": -110.81,
+    "difficulty": "Advanced",
+    "maxDepth": 15,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "O'Neal Rock",
+    "filename": "oneal-rock.md",
+    "lat": 18.7917,
+    "lng": -110.9417,
+    "difficulty": "Advanced",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "pinnacle",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Fondeadero",
+    "filename": "fondeadero.md",
+    "lat": 18.75,
+    "lng": -110.94,
+    "difficulty": "Advanced",
+    "maxDepth": 18,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  }
+]

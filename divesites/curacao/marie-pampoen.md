@@ -2,10 +2,10 @@
 name: Marie Pampoen
 lat: 12.0897355
 lng: -68.9068508
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 40
 entryType: Shore
-siteType: Reef
+siteType: reef
 ref: null
 osmId: null
 addedBy: assistant
@@ -22,9 +22,9 @@ Marie Pampoen (Playa Marie Pampoen) is one of Curaçao's most accessible and wel
 ## Site Information
 
 - **Location**: Southeast coast of Curaçao, near Sunscape Resort
-- **Entry Type**: Shore dive from small harbor area
-- **Site Type**: Fringing coral reef with artificial reef elements
-- **Difficulty Level**: Beginner to Intermediate
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 40 meters (130 feet)
 - **Typical Visibility**: 15-20 meters (50-65 feet)
 - **Current**: Usually minimal to none

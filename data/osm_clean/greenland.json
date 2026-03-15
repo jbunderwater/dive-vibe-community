@@ -1,0 +1,397 @@
+[
+  {
+    "name": "Silfra",
+    "lat": 64.2551903,
+    "lon": -21.1169415,
+    "osm_id": 1817672135,
+    "osm_type": "node",
+    "depth": 18,
+    "site_type": "cave",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "tags": {
+      "attraction": "natural",
+      "description:en": "Fissure that is part of the boundary between North American and Eurasian geological plates.",
+      "name": "Silfra",
+      "name:en": "Silfra Diving",
+      "sport": "scuba_diving",
+      "tourism": "attraction",
+      "wikidata": "Q2286006",
+      "wikipedia": "en:Silfra"
+    }
+  },
+  {
+    "name": "Ashe Rocks",
+    "lat": 59.8836267,
+    "lon": -64.0399775,
+    "osm_id": 2182298311,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Ashe Rocks",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Hjallasker",
+    "lat": 64.1667231,
+    "lon": -21.8678168,
+    "osm_id": 3125601855,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Hjallasker",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Falado von Rhodos",
+    "lat": 64.0691667,
+    "lon": -23.0997222,
+    "osm_id": 3184281362,
+    "osm_type": "node",
+    "depth": 90,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": "Advanced",
+    "tags": {
+      "seamark:name": "Falado von Rhodos",
+      "seamark:type": "wreck",
+      "seamark:wreck:category": "non-dangerous",
+      "wikidata": "Q1393867",
+      "wikipedia": "de:Falado von Rhodos",
+      "wreck:depth": "90",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "T33 57-763 wreck",
+    "lat": 67.0630568,
+    "lon": -50.3856176,
+    "osm_id": 6221188219,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "aircraft:type": "military",
+      "historic": "wreck",
+      "inscription": "American T33 crashed in December 1968",
+      "memorial": "yes",
+      "name": "T33 57-763 wreck",
+      "wikidata": "Q12311699",
+      "wikipedia": "da:Flystyrt ved Sondrestrom Airbase",
+      "wreck:type": "plane",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "HMS Hood",
+    "lat": 63.333333,
+    "lon": -31.833333,
+    "osm_id": 6516945485,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "wreck",
+      "name": "HMS Hood",
+      "seamark:type": "wreck",
+      "wikidata": "Q220239",
+      "wikipedia": "en:HMS Hood",
+      "wreck:date_commissioned": "1920-05-15",
+      "wreck:date_sunk": "1916-05-31",
+      "wreck:depth": "2800 m",
+      "wreck:discoverer": "Blue Water Recoveries",
+      "wreck:discovery": "2001",
+      "wreck:location": "confirmed",
+      "wreck:type": "ship",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Aasiaat Nugguat",
+    "lat": 68.6867127,
+    "lon": -52.8904042,
+    "osm_id": 8664353637,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Aasiaat Nugguat",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "OY-ADH Blue Cheese",
+    "lat": 82.1711364,
+    "lon": -30.4531834,
+    "osm_id": 10784559906,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "aircraft:type": "Cessna 180",
+      "alt_name": "Ostehandlerens Fly",
+      "date": "26/05/1966",
+      "historic": "wreck",
+      "name": "OY-ADH Blue Cheese",
+      "wreck:type": "plane",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Higgins prammi við Hólmabúðir",
+    "lat": 63.9723821,
+    "lon": -22.4011428,
+    "osm_id": 12362291319,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "wreck",
+      "name": "Higgins prammi við Hólmabúðir",
+      "seamark:type": "wreck",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Otur ER-245",
+    "lat": 64.1199159,
+    "lon": -21.9087523,
+    "osm_id": 13056264560,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "description": "Remains of hull of Otur ER-245, a trawler who was moved here for disassembly in 1953-54, the remains were left to be reclaimed by the sea",
+      "historic": "wreck",
+      "name": "Otur ER-245",
+      "seamark:type": "wreck",
+      "seamark:wreck:category": "hull_showing",
+      "wreck:date_sunk": "1954",
+      "wreck:visible_at_high_tide": "no",
+      "wreck:visible_at_low_tide": "yes",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Belgica Banke",
+    "lat": 79.0612626,
+    "lon": -14.0313109,
+    "osm_id": 13200872865,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "comment": "landkort 78ø2 nr 41",
+      "name": "Belgica Banke",
+      "name:da": "Belgica Banke",
+      "natural": "reef",
+      "source": "osm_extended",
+      "source:ref": "12679",
+      "source:type": "BANK",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Maniitsup Ikkannersua, Maniitsup Ikkannera",
+    "lat": 65.0427909,
+    "lon": -53.6857742,
+    "osm_id": 13423445982,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "description": "Banke",
+      "name": "Maniitsup Ikkannersua, Maniitsup Ikkannera",
+      "name:da": "Sukkertoppen Banke",
+      "natural": "reef",
+      "source": "osm_extended",
+      "source:name": "NAA-t ataatsimiinnerat febr. 27-at ??. Suliaq 16.3.93",
+      "source:type": "BANK",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Skerjagarður, grunnsævi.",
+    "lat": 65.1453633,
+    "lon": -22.5826587,
+    "osm_id": 336732590,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Skerjagarður, grunnsævi.",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Sker, grunn",
+    "lat": 65.1503907,
+    "lon": -22.574835,
+    "osm_id": 337091902,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Sker, grunn",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Carl",
+    "lat": 74.7139341,
+    "lon": -18.2592338,
+    "osm_id": 1137623285,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "wreck",
+      "name": "Carl",
+      "seamark:type": "wreck",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Nuugaatsiaap Ikkannera",
+    "lat": 68.1279521,
+    "lon": -53.2311206,
+    "osm_id": 1414263941,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "alt_name": "Nûgâtsiaup íkánera",
+      "name": "Nuugaatsiaap Ikkannera",
+      "natural": "reef",
+      "reef": "rock",
+      "source:alt_name": "Kleinschmidt",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Qerruannguit",
+    "lat": 68.664034,
+    "lon": -53.144638,
+    "osm_id": 1418142364,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "alt_name": "Qerruánguit",
+      "name": "Qerruannguit",
+      "natural": "reef",
+      "reef": "rock",
+      "source:alt_name": "Kleinschmidt",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Ikkanneq",
+    "lat": 68.8404447,
+    "lon": -51.9139938,
+    "osm_id": 1422790325,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "alt_name": "Íkáneq",
+      "name": "Ikkanneq",
+      "natural": "reef",
+      "reef": "rock",
+      "source:alt_name": "Kleinschmidt",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Sandgerdi",
+    "lat": 64.9169179,
+    "lon": -23.8066489,
+    "osm_id": 1429901616,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "alt_name": "GK-2",
+      "historic": "wreck",
+      "name": "Sandgerdi",
+      "seamark:type": "wreck",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Rocky Ledge",
+    "lat": 65.4421105,
+    "lon": -63.5056457,
+    "osm_id": 1451152502,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Rocky Ledge",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  }
+]

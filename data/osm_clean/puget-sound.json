@@ -1,0 +1,644 @@
+[
+  {
+    "name": "Edmonds Underwater Park",
+    "lat": 47.8137076,
+    "lon": -122.384577,
+    "osm_id": 356542710,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": "Intermediate",
+    "tags": {
+      "ele": "0",
+      "gnis:feature_id": "1514165",
+      "name": "Edmonds Underwater Park",
+      "natural": "bay",
+      "scuba_diving:divespot": "yes",
+      "sport": "scuba_diving",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Tumbo Reef",
+    "lat": 48.7993212,
+    "lon": -123.053264,
+    "osm_id": 1631947869,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Tumbo Reef",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Shirt Tail Reef",
+    "lat": 48.5876066,
+    "lon": -123.0216542,
+    "osm_id": 1731207317,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Shirt Tail Reef",
+      "natural": "reef",
+      "source": "osm_extended",
+      "sub_sea": "reef",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "SS Dauntless",
+    "lat": 47.6970822,
+    "lon": -122.4053555,
+    "osm_id": 2261080075,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": "Intermediate",
+    "tags": {
+      "historic": "wreck",
+      "name": "SS Dauntless",
+      "wikidata": "Q5228059",
+      "wikipedia": "en:Dauntless (steamboat)",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Danger Rock",
+    "lat": 48.66382,
+    "lon": -123.0671742,
+    "osm_id": 3251209577,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Danger Rock",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Blake Island Reef",
+    "lat": 47.5295753,
+    "lon": -122.4945867,
+    "osm_id": 5002157910,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": "Intermediate",
+    "tags": {
+      "fixme": "position is estimated",
+      "name": "Blake Island Reef",
+      "natural": "reef",
+      "sport": "scuba_diving",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Osprey",
+    "lat": 48.7681908,
+    "lon": -122.5282916,
+    "osm_id": 9682570285,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": "Intermediate",
+    "tags": {
+      "historic": "wreck",
+      "name": "Osprey",
+      "seamark:type": "wreck",
+      "wreck:date_sunk": "2018-12-20",
+      "wreck:visible_at_high_tide": "yes",
+      "wreck:visible_at_low_tide": "yes",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Juanitas Rock",
+    "lat": 48.1440604,
+    "lon": -122.7773598,
+    "osm_id": 9978724359,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": "Intermediate",
+    "tags": {
+      "geological": "glacial_erratic",
+      "name": "Juanitas Rock",
+      "natural": "reef",
+      "seamark:rock:water_level": "dry",
+      "seamark:type": "rock",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Wreck of a PB4Y bomber",
+    "lat": 47.6774857,
+    "lon": -122.2413892,
+    "osm_id": 11846236191,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": "Intermediate",
+    "tags": {
+      "description": "Aproximatly at a depth of 155 feet just off Magnuson Park Swimming Beach lies the wreck of a PB4Y bomber that crashed in 1956 after suffering a malfuction shorter after takeoff.",
+      "hashtags": "#cwugeog",
+      "name": "Wreck of a PB4Y bomber",
+      "seamark:type": "wreck",
+      "source": "osm_extended",
+      "wreck:date_sunk": "1956",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Decatur Reef",
+    "lat": 47.5811921,
+    "lon": -122.4735262,
+    "osm_id": 13429609334,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": "Intermediate",
+    "tags": {
+      "gnis:feature_id": "1531595",
+      "name": "Decatur Reef",
+      "natural": "reef",
+      "place": "islet",
+      "source": "osm_extended",
+      "wikidata": "Q49615608",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Tyee Shoal",
+    "lat": 47.6112789,
+    "lon": -122.4864061,
+    "osm_id": 13429643555,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": "Intermediate",
+    "tags": {
+      "gnis:feature_id": "1510245",
+      "name": "Tyee Shoal",
+      "natural": "reef",
+      "place": "islet",
+      "source": "osm_extended",
+      "wikidata": "Q49623289",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Seacrest Park",
+    "lat": 47.5889246,
+    "lon": -122.3796806,
+    "osm_id": 49830903,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": "Intermediate",
+    "tags": {
+      "leisure": "park",
+      "name": "Seacrest Park",
+      "sport": "scuba_diving",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Entertainment Reef",
+    "lat": 48.7327201,
+    "lon": -123.0303725,
+    "osm_id": 277183068,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Entertainment Reef",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Equator",
+    "lat": 48.0039264,
+    "lon": -122.2180318,
+    "osm_id": 542865620,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": "Intermediate",
+    "tags": {
+      "building": "yes",
+      "historic": "wreck",
+      "name": "Equator",
+      "seamark:type": "wreck",
+      "wikidata": "Q5384243",
+      "wikipedia": "en:Equator (schooner)",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Center Reef",
+    "lat": 48.6357132,
+    "lon": -123.1616104,
+    "osm_id": 620673918,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Center Reef",
+      "natural": "reef",
+      "seamark:type": "weed",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Shag Reef",
+    "lat": 48.6541318,
+    "lon": -123.1339722,
+    "osm_id": 632577924,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Shag Reef",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Gull Reef",
+    "lat": 48.6547,
+    "lon": -123.1469422,
+    "osm_id": 632577932,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Gull Reef",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Shark Reef",
+    "lat": 48.4759257,
+    "lon": -122.9475209,
+    "osm_id": 632577933,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Shark Reef",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Leo Reef",
+    "lat": 48.5529527,
+    "lon": -122.8558186,
+    "osm_id": 632735255,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Leo Reef",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Turn Rock",
+    "lat": 48.5349255,
+    "lon": -122.9645732,
+    "osm_id": 632735265,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Turn Rock",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Lawson Reef",
+    "lat": 48.4024556,
+    "lon": -122.713943,
+    "osm_id": 844904383,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": "Intermediate",
+    "tags": {
+      "gnis:feature_id": "1506112",
+      "name": "Lawson Reef",
+      "natural": "reef",
+      "source": "osm_extended",
+      "wikidata": "Q49618325",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Mouatt Reef",
+    "lat": 48.6845784,
+    "lon": -123.046361,
+    "osm_id": 1198854415,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Mouatt Reef",
+      "natural": "reef",
+      "wikidata": "Q49619403",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Parker Reef",
+    "lat": 48.7257769,
+    "lon": -122.8933075,
+    "osm_id": 1198856783,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Parker Reef",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "USCGC Tiger",
+    "lat": 47.2949033,
+    "lon": -122.4200095,
+    "osm_id": 1304763529,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": "Intermediate",
+    "tags": {
+      "building": "ship",
+      "historic": "wreck",
+      "name": "USCGC Tiger",
+      "seamark:type": "wreck",
+      "seamark:wreck:category": "hull_showing",
+      "wikidata": "Q110818458",
+      "wikipedia": "en:USCGC Tiger",
+      "wreck:visible_at_high_tide": "yes",
+      "wreck:visible_at_low_tide": "yes",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Pacific Queen",
+    "lat": 47.8930647,
+    "lon": -122.3285542,
+    "osm_id": 1319352424,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": "Intermediate",
+    "tags": {
+      "historic": "wreck",
+      "name": "Pacific Queen",
+      "seamark:type": "wreck",
+      "seamark:wreck:category": "hull_showing",
+      "wreck:visible_at_high_tide": "yes",
+      "wreck:visible_at_low_tide": "yes",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Boat",
+    "lat": 47.9646714,
+    "lon": -122.0201225,
+    "osm_id": 1384791467,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": "Intermediate",
+    "tags": {
+      "historic": "wreck",
+      "name": "Boat",
+      "seamark:type": "wreck",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "MV Olympic",
+    "lat": 47.1609893,
+    "lon": -122.6304155,
+    "osm_id": 1433700226,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": "Intermediate",
+    "tags": {
+      "access": "private",
+      "historic": "wreck",
+      "name": "MV Olympic",
+      "seamark:type": "wreck",
+      "wreck:visible_at_high_tide": "yes",
+      "wreck:visible_at_low_tide": "yes",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Dennis Shoal",
+    "lat": 48.4579649,
+    "lon": -122.7142894,
+    "osm_id": 1467715296,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": "Intermediate",
+    "tags": {
+      "gnis:feature_id": "1504442",
+      "name": "Dennis Shoal",
+      "natural": "reef",
+      "source": "osm_extended",
+      "wikidata": "Q49615627",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Bakers Reef",
+    "lat": 48.6837218,
+    "lon": -122.6777526,
+    "osm_id": 1469826239,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": "Intermediate",
+    "tags": {
+      "gnis:feature_id": "1503136",
+      "name": "Bakers Reef",
+      "natural": "reef",
+      "source": "osm_extended",
+      "wikidata": "Q49613352",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Cypress Reef",
+    "lat": 48.6136022,
+    "lon": -122.7224932,
+    "osm_id": 1470400960,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": "Intermediate",
+    "tags": {
+      "gnis:feature_id": "1504311",
+      "name": "Cypress Reef",
+      "natural": "reef",
+      "source": "osm_extended",
+      "wikidata": "Q49615500",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Buckeye Shoal",
+    "lat": 48.6241418,
+    "lon": -122.7301123,
+    "osm_id": 1470402223,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": "Intermediate",
+    "tags": {
+      "gnis:feature_id": "1503611",
+      "name": "Buckeye Shoal",
+      "natural": "reef",
+      "source": "osm_extended",
+      "wikidata": "Q49614367",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Boulder Reef",
+    "lat": 48.6348115,
+    "lon": -122.690753,
+    "osm_id": 1470404677,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": "Intermediate",
+    "tags": {
+      "gnis:feature_id": "1503491",
+      "name": "Boulder Reef",
+      "natural": "reef",
+      "source": "osm_extended",
+      "wikidata": "Q49614145",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Yellow Bluff Reef",
+    "lat": 48.5363465,
+    "lon": -122.6533759,
+    "osm_id": 1471817869,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "wall",
+    "entry_type": null,
+    "difficulty": "Intermediate",
+    "tags": {
+      "gnis:feature_id": "1531687",
+      "name": "Yellow Bluff Reef",
+      "natural": "reef",
+      "source": "osm_extended",
+      "wikidata": "Q49624025",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Case Shoal",
+    "lat": 47.8489364,
+    "lon": -122.6726058,
+    "osm_id": 1473261925,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": "Intermediate",
+    "tags": {
+      "gnis:feature_id": "1503844",
+      "name": "Case Shoal",
+      "natural": "reef",
+      "source": "osm_extended",
+      "wikidata": "Q49614681",
+      "addedBy": "extended_overpass"
+    }
+  }
+]

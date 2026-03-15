@@ -5,7 +5,7 @@ lng: -68.308717
 difficulty: Intermediate
 maxDepth: 30
 entryType: shore
-siteType: reef
+siteType: wall
 ref: 
 osmId: 663869425
 addedBy: jbunderwater_ai
@@ -20,9 +20,9 @@ Oil Slick Leap is one of Bonaire's most thrilling dive sites, named for the dram
 
 ## Site Information
 - **Location**: Central Bonaire (near Bari Reef)
-- **Entry Type**: Shore entry (giant stride from rocky ledge)
-- **Site Type**: Reef
-- **Difficulty Level**: Intermediate to Advanced
+- **Entry Type**: Shore entry
+- **Site Type**: Wall dive
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-30 meters
 - **Current**: Usually light, but can be moderate
@@ -56,7 +56,7 @@ Nearby sites include Bari Reef, 18th Palm, and Calabas Reef. All are accessible 
 ## Additional Resources
 - **Website**: https://www.divers-guide.com/en/dive-spots/oil-slick-leap
 - **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Entry Type**: Famous for its dramatic cliff jump entry
+- **Entry Type**: Shore entry
 - **Last Updated**: 2025-06-24
 
 ---

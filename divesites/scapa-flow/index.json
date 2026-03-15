@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Tabarka (block ship)",
+    "filename": "tabarka-block-ship.md",
+    "lat": 58.9267702,
+    "lng": -3.3131054,
+    "difficulty": "Intermediate",
+    "maxDepth": 12,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 406542562
+  },
+  {
+    "name": "Gobernador",
+    "filename": "gobernador.md",
+    "lat": 58.9232016,
+    "lng": -3.3111347,
+    "difficulty": "Intermediate",
+    "maxDepth": 16,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 406542570
+  },
+  {
+    "name": "F2",
+    "filename": "f2.md",
+    "lat": 58.8454911,
+    "lng": -3.1945524,
+    "difficulty": "Intermediate",
+    "maxDepth": 15,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 406542573
+  },
+  {
+    "name": "SMS Karlsruhe",
+    "filename": "sms-karlsruhe.md",
+    "lat": 58.8895237,
+    "lng": -3.1870727,
+    "difficulty": "Intermediate",
+    "maxDepth": 27,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 406542586
+  },
+  {
+    "name": "SMS König",
+    "filename": "sms-könig.md",
+    "lat": 58.87055,
+    "lng": -3.151956,
+    "difficulty": "Advanced",
+    "maxDepth": 42,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 663869622
+  },
+  {
+    "name": "SMS Markgraf",
+    "filename": "sms-markgraf.md",
+    "lat": 58.891934,
+    "lng": -3.165273,
+    "difficulty": "Advanced",
+    "maxDepth": 47,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 663869624
+  },
+  {
+    "name": "SMS Brummer",
+    "filename": "sms-brummer.md",
+    "lat": 58.897233,
+    "lng": -3.151917,
+    "difficulty": "Intermediate",
+    "maxDepth": 36,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 663869626
+  },
+  {
+    "name": "SMS Dresden",
+    "filename": "sms-dresden.md",
+    "lat": 58.878549,
+    "lng": -3.183975,
+    "difficulty": "Intermediate",
+    "maxDepth": 38,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 663869628
+  },
+  {
+    "name": "SMS Cöln",
+    "filename": "sms-cöln.md",
+    "lat": 58.898052,
+    "lng": -3.145833,
+    "difficulty": "Intermediate",
+    "maxDepth": 36,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 663869630
+  },
+  {
+    "name": "SMS Kronprinz Wilhelm",
+    "filename": "sms-kronprinz-wilhelm.md",
+    "lat": 58.894165,
+    "lng": -3.163056,
+    "difficulty": "Advanced",
+    "maxDepth": 38,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 663869632
+  }
+]

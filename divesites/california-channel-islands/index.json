@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Cuba",
+    "filename": "cuba.md",
+    "lat": 34.0311269,
+    "lng": -120.4533995,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 2780214729
+  },
+  {
+    "name": "Ex-Tortuga",
+    "filename": "ex-tortuga.md",
+    "lat": 34.018605,
+    "lng": -120.3109867,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 2780226631
+  },
+  {
+    "name": "Aggi",
+    "filename": "aggi.md",
+    "lat": 34.0207459,
+    "lng": -120.2339267,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 2780228543
+  },
+  {
+    "name": "Goldenhorn",
+    "filename": "goldenhorn.md",
+    "lat": 33.9805038,
+    "lng": -120.2332333,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 2780229546
+  },
+  {
+    "name": "S.S. Chickasaw",
+    "filename": "ss-chickasaw.md",
+    "lat": 33.9032537,
+    "lng": -120.1381441,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 2780231677
+  },
+  {
+    "name": "Jane L. Stanford",
+    "filename": "jane-l-stanford.md",
+    "lat": 33.9843645,
+    "lng": -120.0004739,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 2780233183
+  },
+  {
+    "name": "Del Rio",
+    "filename": "del-rio.md",
+    "lat": 34.0072312,
+    "lng": -119.4085395,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 2780236171
+  },
+  {
+    "name": "Equator",
+    "filename": "equator.md",
+    "lat": 34.0053259,
+    "lng": -119.3855184,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 2780241696
+  },
+  {
+    "name": "Winfield Scott",
+    "filename": "winfield-scott.md",
+    "lat": 34.0090477,
+    "lng": -119.3859321,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 2780241699
+  },
+  {
+    "name": "Wreck of the La Jenelle",
+    "filename": "wreck-of-the-la-jenelle.md",
+    "lat": 34.1449079,
+    "lng": -119.2168501,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 1363693419
+  }
+]

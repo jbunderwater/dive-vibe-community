@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Yatouche",
+    "filename": "yatouche.md",
+    "lat": 29.5038889,
+    "lng": 34.9197222,
+    "difficulty": "Intermediate",
+    "maxDepth": 20,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 663869876
+  },
+  {
+    "name": "Cedar Pride",
+    "filename": "cedar-pride.md",
+    "lat": 29.5216667,
+    "lng": 34.9883333,
+    "difficulty": "Intermediate",
+    "maxDepth": 27,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 663869877
+  },
+  {
+    "name": "סופה",
+    "filename": "סופה.md",
+    "lat": 29.5447222,
+    "lng": 34.9539555,
+    "difficulty": "Intermediate",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 663869878
+  },
+  {
+    "name": "Japanese Gardens Coral Reefs",
+    "filename": "japanese-gardens-coral-reefs.md",
+    "lat": 29.429928,
+    "lng": 34.97325,
+    "difficulty": "Beginner",
+    "maxDepth": 15,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 2374261090
+  },
+  {
+    "name": "Cedar Pride Shipwreck",
+    "filename": "cedar-pride-shipwreck.md",
+    "lat": 29.4310657,
+    "lng": 34.9731609,
+    "difficulty": "Intermediate",
+    "maxDepth": 27,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 4329102691
+  },
+  {
+    "name": "Gorgon 1",
+    "filename": "gorgon-1.md",
+    "lat": 29.426193,
+    "lng": 34.9721236,
+    "difficulty": "Intermediate",
+    "maxDepth": 20,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 5504662457
+  },
+  {
+    "name": "Tank",
+    "filename": "tank.md",
+    "lat": 29.4187751,
+    "lng": 34.9716597,
+    "difficulty": "Intermediate",
+    "maxDepth": 20,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 5522700737
+  },
+  {
+    "name": "Plane wreck",
+    "filename": "plane-wreck.md",
+    "lat": 29.4180629,
+    "lng": 34.97162,
+    "difficulty": "Intermediate",
+    "maxDepth": 20,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 5522700738
+  },
+  {
+    "name": "Rainbow reef",
+    "filename": "rainbow-reef.md",
+    "lat": 29.4325243,
+    "lng": 34.9737847,
+    "difficulty": "Intermediate",
+    "maxDepth": 20,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 5603008074
+  },
+  {
+    "name": "אתר צלילה -סטי\"ל (24 מטר)",
+    "filename": "אתר-צלילה-סטיל-24-מטר.md",
+    "lat": 29.5145068,
+    "lng": 34.9270007,
+    "difficulty": "Intermediate",
+    "maxDepth": 20,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 8577535117
+  }
+]

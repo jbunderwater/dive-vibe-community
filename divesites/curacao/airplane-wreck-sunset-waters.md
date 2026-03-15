@@ -2,10 +2,10 @@
 name: Airplane Wreck (Sunset Waters)
 lat: 12.266944
 lng: -69.1276576
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 8
 entryType: Shore
-siteType: Wreck
+siteType: wreck
 ref: null
 osmId: null
 addedBy: assistant
@@ -22,9 +22,9 @@ The Airplane Wreck at Sunset Waters offers a fascinating and accessible wreck di
 ## Site Information
 
 - **Location**: West coast near Sunset Waters Beach Club
-- **Entry Type**: Shore dive from beach or rocky area
-- **Site Type**: Small aircraft wreck in shallow water
-- **Difficulty Level**: Beginner
+- **Entry Type**: Shore entry
+- **Site Type**: Wreck dive
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 8 meters (25 feet)
 - **Typical Visibility**: 15-20 meters (50-65 feet)
 - **Current**: Usually minimal to none

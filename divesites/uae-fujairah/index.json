@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Dibba Rock",
+    "filename": "dibba-rock.md",
+    "lat": 25.6167,
+    "lng": 56.2667,
+    "difficulty": "Beginner",
+    "maxDepth": 18,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Snoopy Island",
+    "filename": "snoopy-island.md",
+    "lat": 25.4917,
+    "lng": 56.3583,
+    "difficulty": "Beginner",
+    "maxDepth": 12,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Shark Island Fujairah",
+    "filename": "shark-island-fujairah.md",
+    "lat": 25.5,
+    "lng": 56.3667,
+    "difficulty": "Beginner",
+    "maxDepth": 15,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Martini Rock",
+    "filename": "martini-rock.md",
+    "lat": 25.6083,
+    "lng": 56.275,
+    "difficulty": "Intermediate",
+    "maxDepth": 22,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "The Car Cemetery",
+    "filename": "the-car-cemetery.md",
+    "lat": 25.5167,
+    "lng": 56.35,
+    "difficulty": "Intermediate",
+    "maxDepth": 18,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Inchcape 1",
+    "filename": "inchcape-1.md",
+    "lat": 25.5833,
+    "lng": 56.2917,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Inchcape 2",
+    "filename": "inchcape-2.md",
+    "lat": 25.575,
+    "lng": 56.3,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Al Munassir Wreck",
+    "filename": "al-munassir-wreck.md",
+    "lat": 25.5083,
+    "lng": 56.3583,
+    "difficulty": "Intermediate",
+    "maxDepth": 20,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Dibba Island",
+    "filename": "dibba-island.md",
+    "lat": 25.625,
+    "lng": 56.2583,
+    "difficulty": "Beginner",
+    "maxDepth": 15,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Three Rocks",
+    "filename": "three-rocks.md",
+    "lat": 25.55,
+    "lng": 56.3333,
+    "difficulty": "Beginner",
+    "maxDepth": 14,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  }
+]

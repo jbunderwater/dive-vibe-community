@@ -3,7 +3,7 @@ name: La Machaca
 lat: 12.171676
 lng: -68.2893863
 difficulty: Beginner
-maxDepth: 10m
+maxDepth: 10
 entryType: shore
 siteType: wreck
 ref: 
@@ -20,8 +20,8 @@ La Machaca is a beautiful dive site located in central Bonaire near Bari Reef, f
 
 ## Site Information
 - **Location**: Central Bonaire (near Bari Reef)
-- **Entry Type**: Shore entry (easy sandy entry)
-- **Site Type**: Wreck
+- **Entry Type**: Shore entry
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 10 meters
 - **Typical Visibility**: 20-30 meters

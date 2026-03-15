@@ -1,0 +1,197 @@
+[
+  {
+    "name": "Amoray",
+    "lat": -27.5408898,
+    "lon": 32.6789074,
+    "osm_id": 6579846285,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Amoray",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Aliwal Shoal",
+    "lat": -30.2667,
+    "lon": 30.8333,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 27,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Protea Banks",
+    "lat": -30.75,
+    "lon": 30.5333,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 40,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Sardine Run Reef",
+    "lat": -31.4167,
+    "lon": 29.9167,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Cathedral Sodwana",
+    "lat": -27.5333,
+    "lon": 32.6833,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Two Mile Reef Sodwana",
+    "lat": -27.5167,
+    "lon": 32.6833,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Caves Sodwana",
+    "lat": -27.55,
+    "lon": 32.6833,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 20,
+    "site_type": "cave",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Pinnacles Sodwana",
+    "lat": -27.525,
+    "lon": 32.6917,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Shark Alley Gansbaai",
+    "lat": -34.6,
+    "lon": 19.35,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 12,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Rocktail Bay",
+    "lat": -27.2,
+    "lon": 32.75,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "SAS Transvaal Wreck",
+    "lat": -33.9667,
+    "lon": 25.65,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 33,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Raggie Cave Aliwal",
+    "lat": -30.275,
+    "lon": 30.8417,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 18,
+    "site_type": "cave",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "MV Produce Wreck",
+    "lat": -30.2583,
+    "lon": 30.825,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 30,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  }
+]

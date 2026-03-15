@@ -1,0 +1,110 @@
+[
+  {
+    "name": "транспортный рефриджератор \"Петрозаводск\"",
+    "filename": "транспортный-рефриджератор-петрозаводск.md",
+    "lat": 74.3462521,
+    "lng": 19.0930712,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 5128182531
+  },
+  {
+    "name": "Ny-Ålesund Harbor",
+    "filename": "ny-ålesund-harbor.md",
+    "lat": 78.924,
+    "lng": 11.928,
+    "difficulty": "Advanced",
+    "maxDepth": 15,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Longyearbyen Pier",
+    "filename": "longyearbyen-pier.md",
+    "lat": 78.23,
+    "lng": 15.64,
+    "difficulty": "Advanced",
+    "maxDepth": 12,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Smeerenburg",
+    "filename": "smeerenburg.md",
+    "lat": 79.73,
+    "lng": 11.05,
+    "difficulty": "Advanced",
+    "maxDepth": 18,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Pyramiden Harbor",
+    "filename": "pyramiden-harbor.md",
+    "lat": 78.653,
+    "lng": 16.328,
+    "difficulty": "Advanced",
+    "maxDepth": 20,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Kongsfjorden",
+    "filename": "kongsfjorden.md",
+    "lat": 78.96,
+    "lng": 12.0,
+    "difficulty": "Advanced",
+    "maxDepth": 25,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Barentsburg Coast",
+    "filename": "barentsburg-coast.md",
+    "lat": 78.064,
+    "lng": 14.225,
+    "difficulty": "Advanced",
+    "maxDepth": 15,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Isfjorden Kelp Forest",
+    "filename": "isfjorden-kelp-forest.md",
+    "lat": 78.25,
+    "lng": 15.0,
+    "difficulty": "Intermediate",
+    "maxDepth": 10,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Alkhornet Cliff",
+    "filename": "alkhornet-cliff.md",
+    "lat": 78.23,
+    "lng": 13.83,
+    "difficulty": "Advanced",
+    "maxDepth": 22,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  }
+]

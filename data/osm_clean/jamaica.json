@@ -1,0 +1,529 @@
+[
+  {
+    "name": "Widowmaker's Cave",
+    "lat": 18.36,
+    "lon": -78.36,
+    "depth": 20,
+    "site_type": "cave",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "The Throne Room",
+    "lat": 18.365,
+    "lon": -78.355,
+    "depth": 25,
+    "site_type": "cave",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "Montego Bay Marine Park",
+    "lat": 18.48,
+    "lon": -77.93,
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "The Point (Negril)",
+    "lat": 18.34,
+    "lon": -78.37,
+    "depth": 30,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "Airport Reef",
+    "lat": 18.5,
+    "lon": -77.91,
+    "depth": 12,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "Shallow Plane Wreck",
+    "lat": 18.37,
+    "lon": -78.35,
+    "depth": 10,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "Arches (Negril)",
+    "lat": 18.35,
+    "lon": -78.365,
+    "depth": 18,
+    "site_type": "cave",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "Port Royal Reef",
+    "lat": 17.94,
+    "lon": -76.84,
+    "depth": 14,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "Ocho Rios Reef",
+    "lat": 18.41,
+    "lon": -77.1,
+    "depth": 16,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "Runaway Bay Wall",
+    "lat": 18.47,
+    "lon": -77.33,
+    "depth": 35,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "Cayman Trench Edge",
+    "lat": 18.355,
+    "lon": -78.36,
+    "depth": 40,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "The Coral Gardens",
+    "lat": 18.49,
+    "lon": -77.92,
+    "depth": 8,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "Lady G'Diver",
+    "lat": 18.1813572,
+    "lon": -76.4529264,
+    "osm_id": 2998062638,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Lady G'Diver",
+      "note": "PADI certified",
+      "sport": "scuba_diving",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Chubb Reef (Dive Site)",
+    "lat": 18.5265326,
+    "lon": -77.8594637,
+    "osm_id": 3092250389,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Chubb Reef (Dive Site)",
+      "natural": "reef",
+      "ref": "11",
+      "wikidata": "Q637555",
+      "wikipedia": "en:Montego Bay",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Bowden Reef",
+    "lat": 17.8673967,
+    "lon": -76.3179036,
+    "osm_id": 3357015943,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Bowden Reef",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Dead Man's Bones",
+    "lat": 17.8658813,
+    "lon": -76.33223,
+    "osm_id": 6978522058,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Dead Man's Bones",
+      "natural": "reef",
+      "wikidata": "Q27119118",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Bush Cay",
+    "lat": 18.4922365,
+    "lon": -77.6415289,
+    "osm_id": 6983613967,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Bush Cay",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Fish Pond (Dive Site)",
+    "lat": 18.5212169,
+    "lon": -77.8976503,
+    "osm_id": 13614819150,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Fish Pond (Dive Site)",
+      "natural": "reef",
+      "wikidata": "Q637555",
+      "wikipedia": "en:Montego Bay",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Fish Pond Edge (Dive Site)",
+    "lat": 18.5241047,
+    "lon": -77.8982873,
+    "osm_id": 13614819151,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Fish Pond Edge (Dive Site)",
+      "natural": "reef",
+      "wikidata": "Q637555",
+      "wikipedia": "en:Montego Bay",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Stingray City (Dive Site)",
+    "lat": 18.5263651,
+    "lon": -77.8757479,
+    "osm_id": 13614819152,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Stingray City (Dive Site)",
+      "natural": "reef",
+      "wikidata": "Q637555",
+      "wikipedia": "en:Montego Bay",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Pelican Reef (Dive Site)",
+    "lat": 18.5245786,
+    "lon": -77.8848557,
+    "osm_id": 13614819153,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Pelican Reef (Dive Site)",
+      "natural": "reef",
+      "wikidata": "Q637555",
+      "wikipedia": "en:Montego Bay",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Gun Cay",
+    "lat": 17.9303499,
+    "lon": -76.8359005,
+    "osm_id": 746173568,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Gun Cay",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Rackhmans Cay",
+    "lat": 17.9240465,
+    "lon": -76.8394787,
+    "osm_id": 746173569,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Rackhmans Cay",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "West Middle Shoal",
+    "lat": 17.9227603,
+    "lon": -76.847595,
+    "osm_id": 746173570,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "West Middle Shoal",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Drunkenmans Cay",
+    "lat": 17.905824,
+    "lon": -76.8455673,
+    "osm_id": 746173573,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Drunkenmans Cay",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "South East Cay",
+    "lat": 17.9010358,
+    "lon": -76.7977167,
+    "osm_id": 746173575,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "South East Cay",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Maiden Cay",
+    "lat": 17.9112756,
+    "lon": -76.8113208,
+    "osm_id": 746173576,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Maiden Cay",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "South Cay",
+    "lat": 17.896043,
+    "lon": -76.8232191,
+    "osm_id": 746173577,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "South Cay",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Bush Reef",
+    "lat": 17.8944251,
+    "lon": -76.8684358,
+    "osm_id": 746173582,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Bush Reef",
+      "natural": "reef",
+      "wikidata": "Q27120334",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "One Bush Cay",
+    "lat": 18.4722112,
+    "lon": -77.4175752,
+    "osm_id": 746216190,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "One Bush Cay",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Bare Bush Cay",
+    "lat": 17.7509958,
+    "lon": -77.0365405,
+    "osm_id": 746501570,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Bare Bush Cay",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Careening Island",
+    "lat": 17.8808609,
+    "lon": -77.0841873,
+    "osm_id": 746501571,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Careening Island",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Bucknors Reef",
+    "lat": 18.4639175,
+    "lon": -78.115089,
+    "osm_id": 755769609,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Bucknors Reef",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  }
+]

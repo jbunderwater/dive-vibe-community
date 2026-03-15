@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Fujikawa Maru",
+    "filename": "fujikawa-maru.md",
+    "lat": 7.3445825,
+    "lng": 151.8844405,
+    "difficulty": "Intermediate",
+    "maxDepth": 33,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 4031617721
+  },
+  {
+    "name": "Heian Maru",
+    "filename": "heian-maru.md",
+    "lat": 7.3827083,
+    "lng": 151.8556827,
+    "difficulty": "Advanced",
+    "maxDepth": 35,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 4031617722
+  },
+  {
+    "name": "Kensho Maru",
+    "filename": "kensho-maru.md",
+    "lat": 7.3768704,
+    "lng": 151.8457254,
+    "difficulty": "Intermediate",
+    "maxDepth": 40,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 4031617723
+  },
+  {
+    "name": "Kiyosumi Maru",
+    "filename": "kiyosumi-maru.md",
+    "lat": 7.3735956,
+    "lng": 151.8432342,
+    "difficulty": "Intermediate",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 4031617724
+  },
+  {
+    "name": "Rio de Janeiro Maru",
+    "filename": "rio-de-janeiro-maru.md",
+    "lat": 7.3041719,
+    "lng": 151.894137,
+    "difficulty": "Intermediate",
+    "maxDepth": 33,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 4031617725
+  },
+  {
+    "name": "Sankisan Maru",
+    "filename": "sankisan-maru.md",
+    "lat": 7.295224,
+    "lng": 151.8686103,
+    "difficulty": "Intermediate",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 4031617726
+  },
+  {
+    "name": "Shinkoku Maru",
+    "filename": "shinkoku-maru.md",
+    "lat": 7.400096,
+    "lng": 151.7789273,
+    "difficulty": "Intermediate",
+    "maxDepth": 39,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 4031617727
+  },
+  {
+    "name": "HIJMS Tachikaze",
+    "filename": "hijms-tachikaze.md",
+    "lat": 7.0972304,
+    "lng": 151.8400396,
+    "difficulty": "Advanced",
+    "maxDepth": 40,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 2408153986
+  }
+]

@@ -1,0 +1,347 @@
+[
+  {
+    "name": "Palancar Reef",
+    "lat": 20.296977,
+    "lon": -87.031974,
+    "osm_id": 663869323,
+    "osm_type": "node",
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Palancar Reef",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Punta Sur Reef",
+    "lat": 20.2873171,
+    "lon": -87.031631,
+    "osm_id": 663869325,
+    "osm_type": "node",
+    "depth": 35,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "Punta Sur Reef",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Paso El Cedral Reef",
+    "lat": 20.314525,
+    "lon": -87.033863,
+    "osm_id": 663869330,
+    "osm_type": "node",
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Paso El Cedral Reef",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "La Francesa",
+    "lat": 20.317584,
+    "lon": -87.031631,
+    "osm_id": 663869331,
+    "osm_type": "node",
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "La Francesa",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Punta Dalila",
+    "lat": 20.3079253,
+    "lon": -87.032318,
+    "osm_id": 663869332,
+    "osm_type": "node",
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Punta Dalila",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Yucab Reef",
+    "lat": 20.371342,
+    "lon": -87.0457077,
+    "osm_id": 663869333,
+    "osm_type": "node",
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Yucab Reef",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Punta Tunich Wall",
+    "lat": 20.3555713,
+    "lon": -87.046051,
+    "osm_id": 663869334,
+    "osm_type": "node",
+    "depth": 25,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Punta Tunich Wall",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Cardona",
+    "lat": 20.342695,
+    "lon": -87.043991,
+    "osm_id": 663869335,
+    "osm_type": "node",
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Cardona",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "San Frandsco Reef",
+    "lat": 20.327564,
+    "lon": -87.0426177,
+    "osm_id": 663869337,
+    "osm_type": "node",
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "San Frandsco Reef",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Las Palamas",
+    "lat": 20.384538,
+    "lon": -87.0405578,
+    "osm_id": 663869338,
+    "osm_type": "node",
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Las Palamas",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Tormentos Reef",
+    "lat": 20.373273,
+    "lon": -87.04193,
+    "osm_id": 663869341,
+    "osm_type": "node",
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Tormentos Reef",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Chankanaab Reef",
+    "lat": 20.37745,
+    "lon": -87.037124,
+    "osm_id": 663869344,
+    "osm_type": "node",
+    "depth": 12,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Chankanaab Reef",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Maracaibo Reef",
+    "lat": 20.262841,
+    "lon": -87.011375,
+    "osm_id": 663869356,
+    "osm_type": "node",
+    "depth": 35,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "Maracaibo Reef",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "El Islote",
+    "lat": 20.2592984,
+    "lon": -86.974983,
+    "osm_id": 663869357,
+    "osm_type": "node",
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "El Islote",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Chun Chacaaab Reef",
+    "lat": 20.277334,
+    "lon": -87.011375,
+    "osm_id": 663869358,
+    "osm_type": "node",
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Chun Chacaaab Reef",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Chen Rio",
+    "lat": 20.3467894,
+    "lon": -86.8947828,
+    "osm_id": 663869359,
+    "osm_type": "node",
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Chen Rio",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "El Mirador",
+    "lat": 20.3175844,
+    "lon": -86.911125,
+    "osm_id": 663869361,
+    "osm_type": "node",
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "El Mirador",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "San Juan Reef",
+    "lat": 20.5501874,
+    "lon": -86.94992,
+    "osm_id": 663869362,
+    "osm_type": "node",
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "San Juan Reef",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Barracuda Reef",
+    "lat": 20.568028,
+    "lon": -86.912326,
+    "osm_id": 663869363,
+    "osm_type": "node",
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Barracuda Reef",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Paraiso Reef",
+    "lat": 20.4167169,
+    "lon": -87.0309448,
+    "osm_id": 663869365,
+    "osm_type": "node",
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Paraiso Reef",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Villa Blanca Wall",
+    "lat": 20.4955268,
+    "lon": -86.979446,
+    "osm_id": 663869366,
+    "osm_type": "node",
+    "depth": 12,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Villa Blanca Wall",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Cantarell Sand Reef",
+    "lat": 20.534112,
+    "lon": -86.949577,
+    "osm_id": 663869367,
+    "osm_type": "node",
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Cantarell Sand Reef",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Wreck C-53",
+    "lat": 20.4467119,
+    "lon": -86.9988993,
+    "osm_id": 663869368,
+    "osm_type": "node",
+    "depth": 25,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Wreck C-53",
+      "sport": "scuba_diving"
+    }
+  }
+]

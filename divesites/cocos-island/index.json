@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Bajo Alcyone",
+    "filename": "bajo-alcyone.md",
+    "lat": 5.5167,
+    "lng": -87.0667,
+    "difficulty": "Advanced",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Dirty Rock",
+    "filename": "dirty-rock.md",
+    "lat": 5.5333,
+    "lng": -87.05,
+    "difficulty": "Advanced",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Manuelita Outside",
+    "filename": "manuelita-outside.md",
+    "lat": 5.5583,
+    "lng": -87.05,
+    "difficulty": "Advanced",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Manuelita Inside",
+    "filename": "manuelita-inside.md",
+    "lat": 5.56,
+    "lng": -87.0467,
+    "difficulty": "Advanced",
+    "maxDepth": 15,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Punta Maria",
+    "filename": "punta-maria.md",
+    "lat": 5.525,
+    "lng": -87.075,
+    "difficulty": "Advanced",
+    "maxDepth": 25,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Silverado",
+    "filename": "silverado.md",
+    "lat": 5.5417,
+    "lng": -87.0583,
+    "difficulty": "Advanced",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Viking Rock",
+    "filename": "viking-rock.md",
+    "lat": 5.55,
+    "lng": -87.0417,
+    "difficulty": "Advanced",
+    "maxDepth": 25,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Lobster Rock",
+    "filename": "lobster-rock.md",
+    "lat": 5.535,
+    "lng": -87.0633,
+    "difficulty": "Advanced",
+    "maxDepth": 18,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  }
+]
