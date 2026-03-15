@@ -23,9 +23,9 @@ The dive topography combines a shallow rocky platform at 10 meters with terraced
 
 - **Location**: East of Santiago Island, Galápagos
 - **Entry Type**: Boat dive
-- **Site Type**: Reef (rocky platform with terraced volcanic steps)
-- **Difficulty Level**: Intermediate — moderate currents; cold upwelling water
-- **Maximum Depth**: 27 meters (terraced steps; sandy bottom at 30 meters)
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 27 meters
 - **Typical Visibility**: 7–20 meters depending on season and upwelling
 - **Water Temperature**: 18–26°C; cold upwellings year-round
 - **Current**: Moderate; surge in the shallows around Pinnacle Rock

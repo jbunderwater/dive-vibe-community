@@ -23,8 +23,8 @@ The dive begins at a small cave where whitetip sharks rest, then moves along the
 
 - **Location**: The Daphne islets, north of Santa Cruz Island, Galápagos
 - **Entry Type**: Boat dive
-- **Site Type**: Wall with pinnacle and cave
-- **Difficulty Level**: Intermediate — moderate currents; wall diving requires depth awareness
+- **Site Type**: Wall dive
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 7–12 meters; better in the warm season
 - **Water Temperature**: 18–26°C depending on season

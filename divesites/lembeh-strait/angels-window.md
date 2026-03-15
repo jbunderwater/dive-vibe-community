@@ -23,7 +23,7 @@ The two rock peaks of Angel's Window create a varied topography: the sides of th
 
 - **Location**: Northern Lembeh Strait, Lembeh Island side, North Sulawesi, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Muck dive (with pinnacle and swim-through elements)
+- **Site Type**: Muck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 5–15 meters

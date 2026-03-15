@@ -25,7 +25,7 @@ The three Aer Bajo sites share the same black volcanic sand character that defin
 - **Entry Type**: Boat dive
 - **Site Type**: Muck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 20 meters (most productive zone: 4–15 m)
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 5–12 meters
 - **Water Temperature**: 26–29°C
 - **Current**: Minimal; sheltered location

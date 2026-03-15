@@ -13,54 +13,65 @@ addedBy: osm_import
 
 ## Retak Larry
 
-Retak Larry is a reef dive site in Lembeh Strait, Asia.
+Retak Larry is a muck dive site in the central Lembeh Strait celebrated for two distinct experiences: daytime critter hunting for hairy frogfish, coconut octopus, and wunderpus, and one of Lembeh's most spectacular dusk dive events — the mating dance of the mandarinfish (*Synchiropus splendidus*). At dusk, male dragonets court females in an elaborate ritual where they rise off the bottom together in a brief, synchronized ascent. It is one of the few sites in Lembeh where this behavior is regularly witnessed.
 
 ## Overview
 
-Retak Larry is a dive site in Lembeh Strait offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Retak Larry features the black volcanic sand and rubble characteristic of Lembeh muck diving. The site descends to approximately 25 meters and offers a productive mix of open sand, rubble patches, and scattered debris that concentrate critters. The dragonet mating behavior occurs in the shallow coral rubble zones at dusk — divers need to be in position before sunset and patient, as the females require considerable courtship before accepting. The display lasts only seconds but is memorable. Day dives on the same site are productive for frogfish and octopus.
 
 ## Site Information
 
-- **Location**: Lembeh Strait, Asia
+- **Location**: Central Lembeh Strait, North Sulawesi, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Muck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 5–15 meters
+- **Water Temperature**: 26–29°C
+- **Current**: Generally mild
+- **Best Time**: Year-round; dusk dives for dragonet mating near sunset
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Retak Larry is particularly reliable for several prized Lembeh species:
+
+- **Hairy frogfish** (*Antennarius striatus*) — regularly found on the sandy slope and rubble patches during day dives
+- **Coconut octopus** (*Amphioctopus marginatus*) — in shell clusters and debris on the sand flat
+- **Wunderpus octopus** (*Wunderpus photogenicus*) — occasionally encountered hunting in the open during day dives
+- **Dragonets / mandarinfish** (*Synchiropus splendidus*) — the male's spectacular blue and orange marbled coloration makes them among the most vivid fish in the Indo-Pacific; the dusk mating display is the signature event at this site
+- **Nudibranchs** — various species in rubble patches throughout the site
+- **Flatfish and flounder** — camouflaged on the open sand
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Day dives: Descend to the sand and work methodically down the slope, searching rubble patches for frogfish and scanning open sand for octopus. The mid-slope zone (8–18 m) tends to hold the most activity.
+
+Dusk dives: The dragonet mating zone is in the shallow coral rubble at 3–8 meters. Enter in the late afternoon and position yourself near the rubble patches where the dragonets shelter. Patience is required — the female may reject multiple advances before the pair rises together. The display lasts only a few seconds and is best captured with video due to its brief, fast-moving nature.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by dive boat. Giant stride entry. Current is generally mild. For dusk dives, coordinate timing with the operator to arrive in position before the event window. An SMB is required for ascent.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The dragonet mating display is one of the most extraordinary behaviors observable in Lembeh — do not miss the dusk dive if offered
+- Position yourself near the rubble patch at least 20 minutes before sunset and minimize movement; dragonets are easily spooked
+- Video is superior to stills for the mating display — the behavior is too brief for reliable manual focus
+- Day dives are equally productive; ask your guide for hairy frogfish and wunderpus specifically
+- Combining a day dive and a dusk dive on Retak Larry in the same afternoon is possible and highly recommended
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Conditions are generally benign during the day. Dusk and early night dives require torches and buddy discipline. Visibility decreases as natural light fades — establish your position and ascent route before darkness falls. Stonefish and scorpionfish are present throughout. Maintain good buoyancy to avoid disturbing dragonets in the coral rubble during the dusk display.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Retak Larry is primarily a macro and video site. Hairy frogfish against the dark sand produce strong contrast images with a 100mm macro. Coconut octopus in their shell dens suit close-up portrait setups. The dragonet mating display is best on video with a continuous focus tracking mode and strobes or video lights rigged for fast action in low ambient light. Still photographers targeting the display need pre-focus on the rubble zone and fast shutter speeds to freeze the rise.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Validated**: 2026-03-15
+- **Validation Sources**: zubludiving.com, lembehresort.com, dive-the-world.com
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*Dive site information researched from ZuBlu, Lembeh Resort, and Dive The World. Last updated 2026-03-15.*

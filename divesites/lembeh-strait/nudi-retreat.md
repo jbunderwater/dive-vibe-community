@@ -23,7 +23,7 @@ Nudi Retreat features a mix of terrain types uncommon for Lembeh: sandy muck slo
 
 - **Location**: Central Lembeh Strait, mainland side, North Sulawesi, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Muck dive (with coral garden elements)
+- **Site Type**: Muck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 5–15 meters

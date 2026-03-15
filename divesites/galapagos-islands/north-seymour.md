@@ -23,9 +23,9 @@ North Seymour Point features a gradually descending rocky reef from the shorelin
 
 - **Location**: North of Santa Cruz Island, Galápagos
 - **Entry Type**: Boat dive
-- **Site Type**: Reef (rocky platform with sandy bottom; drift diving in the channel)
-- **Difficulty Level**: Intermediate — moderate currents; occasionally strong in the channel
-- **Maximum Depth**: 18 meters (sandy bottom)
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 7–12 meters; up to 12 meters in warm season
 - **Water Temperature**: 18–26°C; colder in Humboldt season
 - **Current**: Moderate, sometimes strong in the Seymour Channel

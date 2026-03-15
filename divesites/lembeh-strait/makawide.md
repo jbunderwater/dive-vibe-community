@@ -23,7 +23,7 @@ Makawide 1 features shallow coral gardens (2–8 m) that are productive for snor
 
 - **Location**: Northern Lembeh Strait, mainland side, North Sulawesi, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Muck dive (with coral garden elements in the shallows)
+- **Site Type**: Muck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 24 meters
 - **Typical Visibility**: 5–15 meters

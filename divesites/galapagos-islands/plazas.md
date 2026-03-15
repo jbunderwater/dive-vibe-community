@@ -23,9 +23,9 @@ The dive wall drops from the island's uplifted edge into water reaching 20 meter
 
 - **Location**: Plaza Islets, northeast of Santa Cruz Island, Galápagos
 - **Entry Type**: Boat dive
-- **Site Type**: Wall (uplifted seabed cliffs with volcanic ridges)
-- **Difficulty Level**: Advanced — moderate to strong currents; comfort with drift required
-- **Maximum Depth**: 20 meters (dive profile); deeper beyond the main wall
+- **Site Type**: Wall dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10–20 meters; can improve significantly in the cold season
 - **Water Temperature**: 16–26°C depending on season and current
 - **Current**: Moderate to strong; variable direction

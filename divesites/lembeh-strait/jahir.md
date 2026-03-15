@@ -25,7 +25,7 @@ Jahir features a gentle black sand slope with scattered rubble, purple heart urc
 - **Entry Type**: Boat dive
 - **Site Type**: Muck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters (slope continues deeper but marine life concentrates 5–20 m)
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 5–15 meters
 - **Water Temperature**: 26–29°C
 - **Current**: Minimal; can be dived all day
