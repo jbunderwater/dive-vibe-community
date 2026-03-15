@@ -5,7 +5,7 @@ lng: 134.2266188
 difficulty: Intermediate
 maxDepth: 30
 entryType: boat
-siteType: reef
+siteType: cave
 ref: null
 osmId: 4031041879
 addedBy: osm_import
@@ -23,7 +23,7 @@ Siaes Tunnel is a dive site in Palau offering rewarding diving on healthy coral 
 
 - **Location**: Palau, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)

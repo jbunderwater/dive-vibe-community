@@ -23,7 +23,7 @@ Cave Reef is a dive site in Red Sea featuring underwater cave and cavern formati
 
 - **Location**: Red Sea, Middle East
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

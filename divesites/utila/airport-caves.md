@@ -23,7 +23,7 @@ Airport Caves is a dive site in Utila featuring underwater cave and cavern forma
 
 - **Location**: Utila, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

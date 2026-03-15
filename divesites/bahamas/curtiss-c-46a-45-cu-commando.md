@@ -23,7 +23,7 @@ Curtiss C-46A-45-CU Commando is a dive site in Bahamas featuring the wreck of th
 
 - **Location**: Bahamas, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

@@ -2,10 +2,10 @@
 name: Pengah Kecil
 lat: -8.5769535
 lng: 119.6808266
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Advanced
+maxDepth: 30
 entryType: boat
-siteType: reef
+siteType: drift
 ref: null
 osmId: 5114515322
 addedBy: osm_import
@@ -23,9 +23,9 @@ Pengah Kecil is a dive site in Komodo National Park offering rewarding diving on
 
 - **Location**: Komodo National Park, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Site Type**: Drift dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)

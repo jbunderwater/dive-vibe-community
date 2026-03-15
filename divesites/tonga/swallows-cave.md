@@ -23,7 +23,7 @@ Swallows Cave is a dive site in Tonga featuring underwater cave and cavern forma
 
 - **Location**: Tonga, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)

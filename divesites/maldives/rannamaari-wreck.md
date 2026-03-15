@@ -23,7 +23,7 @@ Rannamaari Wreck is a dive site in Maldives featuring the wreck of the Rannamaar
 
 - **Location**: Maldives, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

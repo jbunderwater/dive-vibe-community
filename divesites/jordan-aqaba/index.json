@@ -31,7 +31,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 30,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "wreck",
     "ref": "",
     "osmId": 663869878
   },
@@ -46,18 +46,6 @@
     "siteType": "reef",
     "ref": "",
     "osmId": 2374261090
-  },
-  {
-    "name": "אקווה ספורט",
-    "filename": "אקווה-ספורט.md",
-    "lat": 29.5124443,
-    "lng": 34.9248821,
-    "difficulty": "Intermediate",
-    "maxDepth": 30,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 3741890716
   },
   {
     "name": "Cedar Pride Shipwreck",

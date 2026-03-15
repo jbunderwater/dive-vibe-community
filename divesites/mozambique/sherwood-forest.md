@@ -2,10 +2,10 @@
 name: Sherwood Forest
 lat: -23.8667
 lng: 35.575
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Advanced
+maxDepth: 30
 entryType: boat
-siteType: reef
+siteType: pinnacle
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,9 +23,9 @@ Sherwood Forest is a dive site in Mozambique offering rewarding diving on health
 
 - **Location**: Mozambique, Africa
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Site Type**: Pinnacle/seamount
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)
 - **Current**: Moderate to strong
 - **Best Time**: October to March (East Africa), varies by location

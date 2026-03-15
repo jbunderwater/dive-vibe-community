@@ -2,10 +2,10 @@
 name: The Valley
 lat: 12.2185168
 lng: -69.0862994
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 35
 entryType: Shore
-siteType: Reef
+siteType: reef
 ref: null
 osmId: null
 addedBy: assistant
@@ -22,9 +22,9 @@ The Valley, also known as Porto Marie or Playa Porto Mari, is famous for its uni
 ## Site Information
 
 - **Location**: West coast of Curaçao, Sint Willibrordus area
-- **Entry Type**: Shore dive from sandy beach
-- **Site Type**: Double reef system with sandy valley
-- **Difficulty Level**: Beginner to Intermediate
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 35 meters (115 feet)
 - **Typical Visibility**: 15-25 meters (50-80 feet)
 - **Current**: Usually minimal, occasional mild current

@@ -23,7 +23,7 @@ Jane Sea Wreck is a dive site in Aruba featuring the wreck of the Jane Sea Wreck
 
 - **Location**: Aruba, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

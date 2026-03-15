@@ -2,7 +2,7 @@
 name: Boka di Tolo
 lat: 12.2152361
 lng: -68.3374389
-difficulty: Intermediate
+difficulty: Beginner
 maxDepth: 30
 entryType: shore
 siteType: reef
@@ -18,9 +18,9 @@ Boka di Tolo is a beautiful dive site located in northern Bonaire near Karpata. 
 
 ## Site Information
 - **Location**: North Bonaire (near Karpata)
-- **Entry Type**: Shore entry (easy sandy entry)
-- **Site Type**: Reef
-- **Difficulty Level**: Intermediate
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Difficulty Level**: Beginner
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-30 meters
 - **Current**: Usually light

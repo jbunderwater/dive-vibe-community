@@ -23,7 +23,7 @@ Caves Sodwana is a dive site in South Africa featuring underwater cave and caver
 
 - **Location**: South Africa, Africa
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)

@@ -2,7 +2,7 @@
 name: SS Lord Strathcona
 lat: 47.588242
 lng: -52.9681451
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 30
 entryType: boat
 siteType: wreck
@@ -23,8 +23,8 @@ SS Lord Strathcona is a dive site in Newfoundland featuring a historic wreck whi
 
 - **Location**: Newfoundland, North America
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
-- **Difficulty Level**: Intermediate
+- **Site Type**: Wreck dive
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 5-25 meters (15-80 feet)
 - **Current**: Variable, can be strong

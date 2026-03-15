@@ -23,7 +23,7 @@ HMCS Annapolis is a dive site in Vancouver Island featuring the wreck of the HMC
 
 - **Location**: Vancouver Island, North America
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 5-25 meters (15-80 feet)

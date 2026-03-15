@@ -23,7 +23,7 @@ Toa Maru Wreck is a dive site in Solomon Islands featuring the wreck of the Toa 
 
 - **Location**: Solomon Islands, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)

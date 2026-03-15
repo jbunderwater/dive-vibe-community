@@ -23,7 +23,7 @@ Windjammer Wreck is a dive site in Dry Tortugas featuring the wreck of the Windj
 
 - **Location**: Dry Tortugas, North America
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 8 meters
 - **Typical Visibility**: 5-25 meters (15-80 feet)

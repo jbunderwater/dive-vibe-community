@@ -23,7 +23,7 @@ Għar ta' Ras il-Qamħ is a dive site in Malta and Gozo featuring underwater cav
 
 - **Location**: Malta and Gozo, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

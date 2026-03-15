@@ -23,7 +23,7 @@ HMT Bedfordshire is a dive site in North Carolina featuring the wreck of the HMT
 
 - **Location**: North Carolina, North America
 - **Entry Type**: Shore entry
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 5-25 meters (15-80 feet)

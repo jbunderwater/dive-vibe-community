@@ -5,7 +5,7 @@ lng: 33.92424
 difficulty: Intermediate
 maxDepth: 20
 entryType: boat
-siteType: reef
+siteType: drift
 ref: null
 osmId: 700999355
 addedBy: osm_import
@@ -23,7 +23,7 @@ Abu Hashish Drift is a dive site in Red Sea offering rewarding diving on healthy
 
 - **Location**: Red Sea, Middle East
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Drift dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

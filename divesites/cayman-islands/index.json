@@ -48,18 +48,6 @@
     "osmId": null
   },
   {
-    "name": "USS Kittiwake",
-    "filename": "uss-kittiwake.md",
-    "lat": 19.3667,
-    "lng": -81.4,
-    "difficulty": "Intermediate",
-    "maxDepth": 20,
-    "entryType": "boat",
-    "siteType": "wreck",
-    "ref": "",
-    "osmId": null
-  },
-  {
     "name": "Devil's Grotto",
     "filename": "devils-grotto.md",
     "lat": 19.3083,
@@ -139,7 +127,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 18,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "drift",
     "ref": "",
     "osmId": null
   },

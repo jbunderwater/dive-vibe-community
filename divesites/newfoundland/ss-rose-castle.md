@@ -23,7 +23,7 @@ SS Rose Castle is a dive site in Newfoundland featuring a historic wreck which s
 
 - **Location**: Newfoundland, North America
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 35 meters
 - **Typical Visibility**: 5-25 meters (15-80 feet)

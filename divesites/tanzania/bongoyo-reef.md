@@ -4,7 +4,7 @@ lat: -6.7027291
 lng: 39.2755759
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
+entryType: boat
 siteType: reef
 ref: null
 osmId: 705038453
@@ -22,7 +22,7 @@ Bongoyo Reef is a dive site in Tanzania offering rewarding diving on healthy cor
 ## Site Information
 
 - **Location**: Tanzania, Africa
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters

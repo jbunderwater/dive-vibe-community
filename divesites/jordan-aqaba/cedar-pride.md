@@ -23,7 +23,7 @@ Cedar Pride is a renowned dive site in Jordan - Aqaba featuring the wreck of the
 
 - **Location**: Jordan - Aqaba, Middle East
 - **Entry Type**: Shore entry
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 27 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

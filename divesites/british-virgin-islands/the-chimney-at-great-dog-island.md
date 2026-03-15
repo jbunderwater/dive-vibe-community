@@ -23,7 +23,7 @@ The Chimney at Great Dog Island is a dive site in British Virgin Islands featuri
 
 - **Location**: British Virgin Islands, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

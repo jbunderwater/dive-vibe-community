@@ -23,7 +23,7 @@ La Tantine is a dive site in Port-Cros featuring the wreck of the La Tantine . p
 
 - **Location**: Port-Cros, Europe
 - **Entry Type**: Shore entry
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

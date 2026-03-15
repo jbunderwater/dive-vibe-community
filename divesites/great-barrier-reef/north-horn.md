@@ -5,7 +5,7 @@ lng: 146.5457903
 difficulty: Beginner
 maxDepth: 20
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: 270802352
 addedBy: osm_import
@@ -23,7 +23,7 @@ North Horn is a dive site in Great Barrier Reef offering excellent diving on hea
 
 - **Location**: Great Barrier Reef, Oceania
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15-40 meters (50-130 feet)

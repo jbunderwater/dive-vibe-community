@@ -23,7 +23,7 @@ Cathedral Reef is a dive site in Mauritius featuring underwater cave and cavern 
 
 - **Location**: Mauritius, Africa
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 28 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)

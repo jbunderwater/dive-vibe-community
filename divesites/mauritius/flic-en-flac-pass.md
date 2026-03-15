@@ -5,7 +5,7 @@ lng: 57.36
 difficulty: Advanced
 maxDepth: 30
 entryType: boat
-siteType: reef
+siteType: drift
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,7 +23,7 @@ Flic en Flac Pass is a dive site in Mauritius offering rewarding diving on healt
 
 - **Location**: Mauritius, Africa
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Drift dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)

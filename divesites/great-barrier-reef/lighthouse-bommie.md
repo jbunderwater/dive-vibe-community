@@ -5,7 +5,7 @@ lng: 145.689982
 difficulty: Beginner
 maxDepth: 20
 entryType: boat
-siteType: reef
+siteType: pinnacle
 ref: null
 osmId: 270802401
 addedBy: osm_import
@@ -23,7 +23,7 @@ Lighthouse Bommie is a dive site in Great Barrier Reef offering excellent diving
 
 - **Location**: Great Barrier Reef, Oceania
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15-40 meters (50-130 feet)

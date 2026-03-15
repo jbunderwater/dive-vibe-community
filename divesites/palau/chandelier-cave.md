@@ -23,7 +23,7 @@ Chandelier Cave is a dive site in Palau featuring underwater cave and cavern for
 
 - **Location**: Palau, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 12 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)

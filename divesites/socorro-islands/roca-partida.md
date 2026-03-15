@@ -3,9 +3,9 @@ name: Roca Partida
 lat: 19.0
 lng: -112.0667
 difficulty: Advanced
-maxDepth: 30
+maxDepth: 40
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,9 +23,9 @@ Roca Partida is a dive site in Socorro Islands offering rewarding diving on heal
 
 - **Location**: Socorro Islands, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)
 - **Current**: Moderate to strong
 - **Best Time**: April to November

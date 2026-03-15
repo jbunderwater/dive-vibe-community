@@ -5,7 +5,7 @@ lng: -61.365
 difficulty: Advanced
 maxDepth: 30
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,7 +23,7 @@ Scotts Head Pinnacle is a dive site in Dominica offering rewarding diving on hea
 
 - **Location**: Dominica, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

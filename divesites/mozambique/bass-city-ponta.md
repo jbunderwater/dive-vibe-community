@@ -2,8 +2,8 @@
 name: Bass City Ponta
 lat: -26.8167
 lng: 32.9167
-difficulty: Beginner
-maxDepth: 15
+difficulty: Advanced
+maxDepth: 22
 entryType: boat
 siteType: reef
 ref: null
@@ -24,8 +24,8 @@ Bass City Ponta is a dive site in Mozambique offering excellent diving on health
 - **Location**: Mozambique, Africa
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 meters
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 22 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)
 - **Current**: Moderate to strong
 - **Best Time**: October to March (East Africa), varies by location

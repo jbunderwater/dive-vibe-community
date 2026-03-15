@@ -4,8 +4,8 @@ lat: 9.3308072
 lng: -82.2224984
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
-siteType: reef
+entryType: boat
+siteType: wreck
 ref: null
 osmId: 12639496075
 addedBy: osm_import
@@ -22,8 +22,8 @@ Barco Hundido is a dive site in Bocas del Toro offering rewarding diving on heal
 ## Site Information
 
 - **Location**: Bocas del Toro, Caribbean
-- **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

@@ -23,7 +23,7 @@ El Natural Wreck is a dive site in Puerto Rico featuring the wreck of the El Nat
 
 - **Location**: Puerto Rico, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 28 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

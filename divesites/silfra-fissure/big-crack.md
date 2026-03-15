@@ -23,7 +23,7 @@ Big Crack is a dive site in Silfra Fissure featuring underwater cave and cavern 
 
 - **Location**: Silfra Fissure, Europe
 - **Entry Type**: Shore entry
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 12 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

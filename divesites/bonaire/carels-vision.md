@@ -2,7 +2,7 @@
 name: Carel's Vision
 lat: 12.230709
 lng: -68.4127451
-difficulty: Intermediate
+difficulty: Beginner
 maxDepth: 30
 entryType: shore
 siteType: reef
@@ -18,9 +18,9 @@ Carel's Vision is a beautiful dive site located in northern Bonaire near Washing
 
 ## Site Information
 - **Location**: North Bonaire (near Washington Slagbaai National Park)
-- **Entry Type**: Shore entry (easy sandy entry)
-- **Site Type**: Reef
-- **Difficulty Level**: Intermediate
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Difficulty Level**: Beginner
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-30 meters
 - **Current**: Usually light

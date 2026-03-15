@@ -5,7 +5,7 @@ lng: -76.7833
 difficulty: Intermediate
 maxDepth: 15
 entryType: boat
-siteType: reef
+siteType: drift
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,7 +23,7 @@ Current Cut Eleuthera is a dive site in Bahamas offering rewarding diving on hea
 
 - **Location**: Bahamas, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Drift dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

@@ -1,29 +1,5 @@
 [
   {
-    "name": "Ocean Spirit",
-    "filename": "ocean-spirit.md",
-    "lat": -19.993447,
-    "lng": 57.5920734,
-    "difficulty": "Intermediate",
-    "maxDepth": 20,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 5225994872
-  },
-  {
-    "name": "BASE Diving",
-    "filename": "base-diving.md",
-    "lat": -19.9930129,
-    "lng": 57.5924,
-    "difficulty": "Intermediate",
-    "maxDepth": 20,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 9236229535
-  },
-  {
     "name": "Cathedral Reef",
     "filename": "cathedral-reef.md",
     "lat": -20.25,
@@ -103,7 +79,7 @@
     "difficulty": "Advanced",
     "maxDepth": 30,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "drift",
     "ref": "",
     "osmId": null
   },

@@ -23,7 +23,7 @@ Bos 400 Wreck is a dive site in Cape Town featuring the wreck of the Bos 400 Wre
 
 - **Location**: Cape Town, Africa
 - **Entry Type**: Shore entry
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)

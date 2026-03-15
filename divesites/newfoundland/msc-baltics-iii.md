@@ -2,7 +2,7 @@
 name: MSC Baltics III
 lat: 49.0887117
 lng: -58.423953
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 25
 entryType: shore
 siteType: wreck
@@ -23,8 +23,8 @@ MSC Baltics III is a dive site in Newfoundland featuring the wreck of the MSC Ba
 
 - **Location**: Newfoundland, North America
 - **Entry Type**: Shore entry
-- **Site Type**: Wreck
-- **Difficulty Level**: Intermediate
+- **Site Type**: Wreck dive
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 5-25 meters (15-80 feet)
 - **Current**: Variable, can be strong

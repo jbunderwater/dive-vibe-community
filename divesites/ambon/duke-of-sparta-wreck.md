@@ -23,7 +23,7 @@ Duke of Sparta Wreck is a dive site in Ambon featuring the wreck of the Duke of 
 
 - **Location**: Ambon, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

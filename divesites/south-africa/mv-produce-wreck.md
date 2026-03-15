@@ -23,7 +23,7 @@ MV Produce Wreck is a dive site in South Africa featuring a historic wreck. Loca
 
 - **Location**: South Africa, Africa
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)

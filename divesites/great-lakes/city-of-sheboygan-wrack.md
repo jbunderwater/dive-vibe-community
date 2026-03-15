@@ -23,7 +23,7 @@ City of Sheboygan (Wrack) is a dive site in Great Lakes featuring the wreck of t
 
 - **Location**: Great Lakes, North America
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 5-25 meters (15-80 feet)

@@ -2,10 +2,10 @@
 name: Cabo Marshall
 lat: -0.24
 lng: -90.52
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 22
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,8 +23,8 @@ Cabo Marshall is a dive site in Galápagos Islands offering rewarding diving on 
 
 - **Location**: Galápagos Islands, South America
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
+- **Site Type**: Wall dive
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 22 meters
 - **Typical Visibility**: 10-25 meters (30-80 feet)
 - **Current**: Moderate to strong

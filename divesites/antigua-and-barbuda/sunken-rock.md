@@ -5,7 +5,7 @@ lng: -61.77
 difficulty: Advanced
 maxDepth: 28
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,7 +23,7 @@ Sunken Rock is a dive site in Antigua and Barbuda offering rewarding diving on h
 
 - **Location**: Antigua and Barbuda, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 28 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

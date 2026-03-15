@@ -23,7 +23,7 @@ Cartanser Sr Wreck is a dive site in US Virgin Islands featuring the wreck of th
 
 - **Location**: US Virgin Islands, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

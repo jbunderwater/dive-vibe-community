@@ -23,7 +23,7 @@ Keith Tibbetts Wreck Cayman Brac is a dive site in Cayman Islands featuring the 
 
 - **Location**: Cayman Islands, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

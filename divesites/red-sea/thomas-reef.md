@@ -2,10 +2,10 @@
 name: Thomas reef
 lat: 27.9921659
 lng: 34.4614807
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 30
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: 8559506183
 addedBy: osm_import
@@ -23,8 +23,8 @@ Thomas reef is a dive site in Red Sea offering rewarding diving on healthy coral
 
 - **Location**: Red Sea, Middle East
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
+- **Site Type**: Wall dive
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Moderate to strong

@@ -23,7 +23,7 @@ The Grotto is a dive site in Christmas Island featuring underwater cave and cave
 
 - **Location**: Christmas Island, Oceania
 - **Entry Type**: Shore entry
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 15-40 meters (50-130 feet)

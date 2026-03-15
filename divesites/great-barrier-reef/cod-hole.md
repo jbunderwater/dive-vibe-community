@@ -5,7 +5,7 @@ lng: 145.6634652
 difficulty: Intermediate
 maxDepth: 25
 entryType: boat
-siteType: reef
+siteType: pinnacle
 ref: null
 osmId: 270802348
 addedBy: osm_import
@@ -23,7 +23,7 @@ Cod Hole is a renowned dive site in Great Barrier Reef offering rewarding diving
 
 - **Location**: Great Barrier Reef, Oceania
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15-40 meters (50-130 feet)

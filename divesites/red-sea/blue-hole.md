@@ -23,7 +23,7 @@ Blue Hole is a dive site in Red Sea featuring underwater cave and cavern formati
 
 - **Location**: Red Sea, Middle East
 - **Entry Type**: Shore entry
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 100 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

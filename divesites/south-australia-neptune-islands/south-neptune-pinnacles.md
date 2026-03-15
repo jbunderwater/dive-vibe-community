@@ -5,7 +5,7 @@ lng: 136.13
 difficulty: Advanced
 maxDepth: 30
 entryType: boat
-siteType: wall
+siteType: pinnacle
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,7 +23,7 @@ South Neptune Pinnacles is a dive site in South Australia Neptune Islands featur
 
 - **Location**: South Australia Neptune Islands, Oceania
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15-40 meters (50-130 feet)

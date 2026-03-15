@@ -2,10 +2,10 @@
 name: Te Ava Mo’a
 lat: -16.8318081
 lng: -151.3466734
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 25
 entryType: boat
-siteType: reef
+siteType: drift
 ref: null
 osmId: 663869260
 addedBy: osm_import
@@ -23,8 +23,8 @@ Te Ava Mo’a is a dive site in French Polynesia offering rewarding diving on he
 
 - **Location**: French Polynesia, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
+- **Site Type**: Drift dive
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)
 - **Current**: Moderate to strong

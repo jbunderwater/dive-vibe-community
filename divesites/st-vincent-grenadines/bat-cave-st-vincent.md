@@ -23,7 +23,7 @@ Bat Cave (St. Vincent) is a dive site in St. Vincent and the Grenadines featurin
 
 - **Location**: St. Vincent and the Grenadines, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

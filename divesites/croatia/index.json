@@ -403,7 +403,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 25,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "cave",
     "ref": "",
     "osmId": 663870768
   },
@@ -468,18 +468,6 @@
     "osmId": 1874390437
   },
   {
-    "name": "Krnicadive",
-    "filename": "krnicadive.md",
-    "lat": 44.9540174,
-    "lng": 14.036103,
-    "difficulty": "Intermediate",
-    "maxDepth": 25,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 2355909547
-  },
-  {
     "name": "Pri Čolnarni, Velenjsko jezero",
     "filename": "pri-čolnarni-velenjsko-jezero.md",
     "lat": 46.3703993,
@@ -502,18 +490,6 @@
     "siteType": "reef",
     "ref": "",
     "osmId": 2641130374
-  },
-  {
-    "name": "Ronilački centar Prišćapac",
-    "filename": "ronilački-centar-prišćapac.md",
-    "lat": 42.9031385,
-    "lng": 16.8227837,
-    "difficulty": "Intermediate",
-    "maxDepth": 25,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 2870499614
   },
   {
     "name": "Vajavine",
@@ -540,30 +516,6 @@
     "osmId": 3084534473
   },
   {
-    "name": "diving Cres",
-    "filename": "diving-cres.md",
-    "lat": 44.9600066,
-    "lng": 14.391305,
-    "difficulty": "Intermediate",
-    "maxDepth": 25,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 3504657661
-  },
-  {
-    "name": "Sub-Net potapljanje",
-    "filename": "sub-net-potapljanje.md",
-    "lat": 45.5303516,
-    "lng": 13.5648604,
-    "difficulty": "Intermediate",
-    "maxDepth": 25,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 3615152349
-  },
-  {
     "name": "Secret beach",
     "filename": "secret-beach.md",
     "lat": 45.0784904,
@@ -574,54 +526,6 @@
     "siteType": "reef",
     "ref": "",
     "osmId": 3776941828
-  },
-  {
-    "name": "Moana",
-    "filename": "moana.md",
-    "lat": 43.7854894,
-    "lng": 15.6417072,
-    "difficulty": "Intermediate",
-    "maxDepth": 25,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 4300687041
-  },
-  {
-    "name": "Fundiving",
-    "filename": "fundiving.md",
-    "lat": 43.797432,
-    "lng": 15.6420578,
-    "difficulty": "Intermediate",
-    "maxDepth": 25,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 4410224495
-  },
-  {
-    "name": "\"AQUANAUT\"",
-    "filename": "aquanaut.md",
-    "lat": 43.822421,
-    "lng": 15.584026,
-    "difficulty": "Intermediate",
-    "maxDepth": 25,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 4414419539
-  },
-  {
-    "name": "Lamkra",
-    "filename": "lamkra.md",
-    "lat": 45.0804204,
-    "lng": 14.152071,
-    "difficulty": "Intermediate",
-    "maxDepth": 25,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 5749232704
   },
   {
     "name": "El Hawi Star Wrack",
@@ -694,18 +598,6 @@
     "siteType": "wreck",
     "ref": "",
     "osmId": 12498962266
-  },
-  {
-    "name": "Aquanaut Diving Centar Murter",
-    "filename": "aquanaut-diving-centar-murter.md",
-    "lat": 43.8214438,
-    "lng": 15.5870575,
-    "difficulty": "Intermediate",
-    "maxDepth": 25,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 429918950
   },
   {
     "name": "Stuka / Junkers Ju 87",

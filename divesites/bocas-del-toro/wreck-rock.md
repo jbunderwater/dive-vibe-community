@@ -23,7 +23,7 @@ Wreck Rock is a dive site in Bocas del Toro featuring a historic wreck. Located 
 
 - **Location**: Bocas del Toro, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 22 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

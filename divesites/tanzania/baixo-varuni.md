@@ -4,7 +4,7 @@ lat: -11.5564289
 lng: 40.5785122
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
+entryType: boat
 siteType: reef
 ref: null
 osmId: 259658609
@@ -22,7 +22,7 @@ Baixo Varuni is a dive site in Tanzania offering rewarding diving on healthy cor
 ## Site Information
 
 - **Location**: Tanzania, Africa
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters

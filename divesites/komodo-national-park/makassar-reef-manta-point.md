@@ -2,10 +2,10 @@
 name: Makassar Reef (Manta Point)
 lat: -8.5335442
 lng: 119.5905966
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Beginner
+maxDepth: 15
 entryType: boat
-siteType: reef
+siteType: drift
 ref: null
 osmId: 10252897714
 addedBy: osm_import
@@ -23,9 +23,9 @@ Makassar Reef (Manta Point) is a dive site in Komodo National Park offering rewa
 
 - **Location**: Komodo National Park, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Site Type**: Drift dive
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 15 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)

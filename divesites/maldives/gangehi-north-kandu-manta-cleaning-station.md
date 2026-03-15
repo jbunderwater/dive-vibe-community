@@ -5,7 +5,7 @@ lng: 72.7812266
 difficulty: Intermediate
 maxDepth: 25
 entryType: boat
-siteType: reef
+siteType: drift
 ref: null
 osmId: 8584458560
 addedBy: osm_import
@@ -23,7 +23,7 @@ Gangehi North Kandu - manta cleaning station is a dive site in Maldives offering
 
 - **Location**: Maldives, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Drift dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

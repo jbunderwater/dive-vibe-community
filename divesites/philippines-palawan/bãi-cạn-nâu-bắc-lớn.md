@@ -4,7 +4,7 @@ lat: 10.8848062
 lng: 117.3954798
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
+entryType: boat
 siteType: reef
 ref: null
 osmId: 845732613
@@ -22,7 +22,7 @@ Bãi cạn Nâu Bắc Lớn is a dive site in Philippines Palawan offering rewar
 ## Site Information
 
 - **Location**: Philippines Palawan, Asia
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters

@@ -5,7 +5,7 @@ lng: -87.05
 difficulty: Advanced
 maxDepth: 30
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,7 +23,7 @@ Dirty Rock is a dive site in Cocos Island offering rewarding diving on healthy c
 
 - **Location**: Cocos Island, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)

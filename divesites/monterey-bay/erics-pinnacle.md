@@ -5,7 +5,7 @@ lng: -121.898
 difficulty: Intermediate
 maxDepth: 22
 entryType: shore
-siteType: reef
+siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,7 +23,7 @@ Eric's Pinnacle is a dive site in Monterey Bay offering rewarding diving on heal
 
 - **Location**: Monterey Bay, North America
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 22 meters
 - **Typical Visibility**: 5-25 meters (15-80 feet)

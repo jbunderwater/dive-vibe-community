@@ -19,7 +19,7 @@
     "difficulty": "Advanced",
     "maxDepth": 30,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "wall",
     "ref": "",
     "osmId": null
   },
@@ -142,17 +142,5 @@
     "siteType": "reef",
     "ref": "",
     "osmId": null
-  },
-  {
-    "name": "Nature Island Dive",
-    "filename": "nature-island-dive.md",
-    "lat": 15.2323133,
-    "lng": -61.3610502,
-    "difficulty": "Intermediate",
-    "maxDepth": 25,
-    "entryType": "shore",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 277752275
   }
 ]

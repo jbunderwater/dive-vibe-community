@@ -5,7 +5,7 @@ lng: 120.865
 difficulty: Intermediate
 maxDepth: 20
 entryType: boat
-siteType: reef
+siteType: muck
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,7 +23,7 @@ Koala Reef is a dive site in Philippines Anilao offering rewarding diving on hea
 
 - **Location**: Philippines Anilao, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Muck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

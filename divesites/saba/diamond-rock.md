@@ -5,7 +5,7 @@ lng: -63.2567
 difficulty: Intermediate
 maxDepth: 30
 entryType: boat
-siteType: reef
+siteType: pinnacle
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,7 +23,7 @@ Diamond Rock is a dive site in Saba offering rewarding diving on healthy coral r
 
 - **Location**: Saba, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

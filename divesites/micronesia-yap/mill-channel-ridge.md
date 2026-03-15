@@ -5,7 +5,7 @@ lng: 138.1270354
 difficulty: Intermediate
 maxDepth: 20
 entryType: boat
-siteType: reef
+siteType: drift
 ref: null
 osmId: 4031012954
 addedBy: osm_import
@@ -23,7 +23,7 @@ Mill Channel: Ridge is a dive site in Micronesia - Yap offering rewarding diving
 
 - **Location**: Micronesia - Yap, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Drift dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)

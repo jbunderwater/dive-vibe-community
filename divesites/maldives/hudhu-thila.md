@@ -5,7 +5,7 @@ lng: 72.940986
 difficulty: Intermediate
 maxDepth: 25
 entryType: boat
-siteType: reef
+siteType: pinnacle
 ref: null
 osmId: 9572676008
 addedBy: osm_import
@@ -23,7 +23,7 @@ Hudhu Thila is a dive site in Maldives offering rewarding diving on healthy cora
 
 - **Location**: Maldives, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

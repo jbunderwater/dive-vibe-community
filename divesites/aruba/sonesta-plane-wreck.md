@@ -23,7 +23,7 @@ Sonesta Plane Wreck is a dive site in Aruba featuring the wreck of the Sonesta P
 
 - **Location**: Aruba, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 8 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

@@ -5,7 +5,7 @@ lng: -68.2894267
 difficulty: Intermediate
 maxDepth: 30
 entryType: shore
-siteType: reef
+siteType: wall
 ref: 
 osmId: 663869433
 addedBy: jbunderwater_ai
@@ -18,8 +18,8 @@ Cliff is a beautiful dive site located in central Bonaire near Bari Reef. The si
 
 ## Site Information
 - **Location**: Central Bonaire (near Bari Reef)
-- **Entry Type**: Shore entry (easy sandy entry)
-- **Site Type**: Reef
+- **Entry Type**: Shore entry
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-30 meters

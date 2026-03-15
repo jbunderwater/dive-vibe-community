@@ -23,7 +23,7 @@ KT Wreck is a dive site in Sardinia featuring the wreck of the KT Wreck. Located
 
 - **Location**: Sardinia, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 35 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

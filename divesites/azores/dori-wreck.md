@@ -23,7 +23,7 @@ Dori Wreck is a dive site in Azores featuring the wreck of the Dori Wreck. Locat
 
 - **Location**: Azores, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

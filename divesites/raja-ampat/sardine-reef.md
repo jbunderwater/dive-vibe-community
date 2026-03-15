@@ -5,7 +5,7 @@ lng: 130.7139487
 difficulty: Intermediate
 maxDepth: 20
 entryType: boat
-siteType: reef
+siteType: pinnacle
 ref: null
 osmId: 9865460718
 addedBy: osm_import
@@ -23,7 +23,7 @@ Sardine Reef is a dive site in Raja Ampat offering rewarding diving on healthy c
 
 - **Location**: Raja Ampat, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

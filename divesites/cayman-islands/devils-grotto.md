@@ -23,7 +23,7 @@ Devil's Grotto is a dive site in Cayman Islands featuring underwater cave and ca
 
 - **Location**: Cayman Islands, Caribbean
 - **Entry Type**: Shore entry
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

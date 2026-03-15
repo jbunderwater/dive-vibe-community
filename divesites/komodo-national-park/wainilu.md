@@ -2,10 +2,10 @@
 name: Wainilu
 lat: -8.6255978
 lng: 119.7074961
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Beginner
+maxDepth: 12
 entryType: boat
-siteType: reef
+siteType: muck
 ref: null
 osmId: 7182771889
 addedBy: osm_import
@@ -23,9 +23,9 @@ Wainilu is a dive site in Komodo National Park offering rewarding diving on heal
 
 - **Location**: Komodo National Park, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Site Type**: Muck dive
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 12 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)

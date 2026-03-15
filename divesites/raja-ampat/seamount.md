@@ -5,7 +5,7 @@ lng: 130.3102785
 difficulty: Intermediate
 maxDepth: 25
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: 13045665466
 addedBy: osm_import
@@ -23,7 +23,7 @@ Seamount is a dive site in Raja Ampat offering rewarding diving on healthy coral
 
 - **Location**: Raja Ampat, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

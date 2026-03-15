@@ -84,30 +84,6 @@
     "osmId": 2547460303
   },
   {
-    "name": "Korfu Diving",
-    "filename": "korfu-diving.md",
-    "lat": 39.673552,
-    "lng": 19.7002527,
-    "difficulty": "Intermediate",
-    "maxDepth": 25,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 5930686128
-  },
-  {
-    "name": "Thassos scuba diving",
-    "filename": "thassos-scuba-diving.md",
-    "lat": 40.6172674,
-    "lng": 24.5982384,
-    "difficulty": "Intermediate",
-    "maxDepth": 25,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 6823930974
-  },
-  {
     "name": "SS Probitas Shipwreck",
     "filename": "ss-probitas-shipwreck.md",
     "lat": 39.8705153,
@@ -175,7 +151,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 30,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "cave",
     "ref": "",
     "osmId": 11212100525
   },

@@ -5,7 +5,7 @@ lng: 37.4380164
 difficulty: Intermediate
 maxDepth: 20
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: 9721033179
 addedBy: osm_import
@@ -23,7 +23,7 @@ Angarosh is a dive site in Sudan Red Sea offering rewarding diving on healthy co
 
 - **Location**: Sudan Red Sea, Middle East
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

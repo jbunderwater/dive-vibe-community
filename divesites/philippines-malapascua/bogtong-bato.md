@@ -5,7 +5,7 @@ lng: 124.1027874
 difficulty: Intermediate
 maxDepth: 30
 entryType: boat
-siteType: reef
+siteType: pinnacle
 ref: null
 osmId: 4941394890
 addedBy: osm_import
@@ -23,7 +23,7 @@ Bogtong Bato is a dive site in Philippines Malapascua offering rewarding diving 
 
 - **Location**: Philippines Malapascua, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

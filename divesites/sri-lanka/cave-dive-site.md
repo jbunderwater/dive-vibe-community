@@ -5,7 +5,7 @@ lng: 80.2381218
 difficulty: Intermediate
 maxDepth: 25
 entryType: shore
-siteType: reef
+siteType: cave
 ref: null
 osmId: 9448790419
 addedBy: osm_import
@@ -23,7 +23,7 @@ Cave dive site is a dive site in Sri Lanka offering rewarding diving on healthy 
 
 - **Location**: Sri Lanka, Asia
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

@@ -4,7 +4,7 @@ lat: -6.6040117
 lng: 39.2344522
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
+entryType: boat
 siteType: reef
 ref: null
 osmId: 703808043
@@ -22,7 +22,7 @@ Fungu Yasini Reef is a dive site in Tanzania offering rewarding diving on health
 ## Site Information
 
 - **Location**: Tanzania, Africa
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters

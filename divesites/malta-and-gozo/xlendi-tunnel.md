@@ -5,7 +5,7 @@ lng: 14.214495
 difficulty: Intermediate
 maxDepth: 25
 entryType: shore
-siteType: reef
+siteType: cave
 ref: null
 osmId: 384941960
 addedBy: osm_import
@@ -23,7 +23,7 @@ Xlendi Tunnel is a dive site in Malta and Gozo offering rewarding diving on heal
 
 - **Location**: Malta and Gozo, Europe
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

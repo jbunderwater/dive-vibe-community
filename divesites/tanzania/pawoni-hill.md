@@ -4,7 +4,7 @@ lat: -6.3297416
 lng: 39.5795066
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
+entryType: boat
 siteType: reef
 ref: null
 osmId: 10224583150
@@ -22,7 +22,7 @@ Pawoni Hill is a dive site in Tanzania offering rewarding diving on healthy cora
 ## Site Information
 
 - **Location**: Tanzania, Africa
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters

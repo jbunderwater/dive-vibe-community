@@ -5,7 +5,7 @@ lng: 120.915
 difficulty: Beginner
 maxDepth: 10
 entryType: shore
-siteType: reef
+siteType: muck
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,7 +23,7 @@ Dead Palm is a dive site in Philippines Anilao offering excellent diving on heal
 
 - **Location**: Philippines Anilao, Asia
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Muck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 10 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

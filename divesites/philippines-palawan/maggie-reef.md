@@ -4,7 +4,7 @@ lat: 7.4027854
 lng: 117.2984421
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
+entryType: boat
 siteType: reef
 ref: null
 osmId: 6738675480
@@ -22,7 +22,7 @@ Maggie Reef is a dive site in Philippines Palawan offering rewarding diving on h
 ## Site Information
 
 - **Location**: Philippines Palawan, Asia
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters

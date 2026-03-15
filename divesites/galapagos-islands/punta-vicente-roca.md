@@ -2,7 +2,7 @@
 name: Punta Vicente Roca
 lat: -0.05
 lng: -91.56
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 20
 entryType: boat
 siteType: wall
@@ -24,7 +24,7 @@ Punta Vicente Roca is a dive site in Galápagos Islands featuring a dramatic ver
 - **Location**: Galápagos Islands, South America
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10-25 meters (30-80 feet)
 - **Current**: Moderate to strong

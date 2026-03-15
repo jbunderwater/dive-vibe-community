@@ -5,7 +5,7 @@ lng: -110.3
 difficulty: Advanced
 maxDepth: 30
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,7 +23,7 @@ El Bajo Seamount is a dive site in La Paz & Sea of Cortez offering rewarding div
 
 - **Location**: La Paz & Sea of Cortez, North America
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 5-25 meters (15-80 feet)

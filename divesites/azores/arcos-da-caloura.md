@@ -23,7 +23,7 @@ Arcos da Caloura is a dive site in Azores featuring underwater cave and cavern f
 
 - **Location**: Azores, Europe
 - **Entry Type**: Shore entry
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

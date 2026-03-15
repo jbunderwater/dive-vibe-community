@@ -2,10 +2,10 @@
 name: Faille d'Arue
 lat: -17.516584
 lng: -149.525421
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Advanced
+maxDepth: 60
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: 663869246
 addedBy: osm_import
@@ -23,9 +23,9 @@ Faille d'Arue is a dive site in French Polynesia offering rewarding diving on he
 
 - **Location**: French Polynesia, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Site Type**: Wall dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 60 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)
 - **Current**: Moderate to strong
 - **Best Time**: April to November

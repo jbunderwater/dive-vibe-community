@@ -5,7 +5,7 @@ lng: -121.9420552
 difficulty: Intermediate
 maxDepth: 25
 entryType: shore
-siteType: reef
+siteType: wall
 ref: null
 osmId: 79843825
 addedBy: osm_import
@@ -23,7 +23,7 @@ Bluefish Wall is a dive site in Monterey Bay offering rewarding diving on health
 
 - **Location**: Monterey Bay, North America
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 5-25 meters (15-80 feet)

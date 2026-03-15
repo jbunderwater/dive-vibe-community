@@ -12,18 +12,6 @@
     "osmId": 4437721
   },
   {
-    "name": "Windjammer",
-    "filename": "windjammer.md",
-    "lat": 24.6234352,
-    "lng": -82.9423306,
-    "difficulty": "Intermediate",
-    "maxDepth": 25,
-    "entryType": "shore",
-    "siteType": "wreck",
-    "ref": "",
-    "osmId": 8220897620
-  },
-  {
     "name": "White Shoal",
     "filename": "white-shoal.md",
     "lat": 24.6370629,

@@ -2,7 +2,7 @@
 name: Siaba Besar dive site
 lat: -8.558211
 lng: 119.6450121
-difficulty: Intermediate
+difficulty: Beginner
 maxDepth: 20
 entryType: boat
 siteType: reef
@@ -24,7 +24,7 @@ Siaba Besar dive site is a dive site in Komodo National Park offering rewarding 
 - **Location**: Komodo National Park, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong

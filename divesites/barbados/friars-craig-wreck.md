@@ -23,7 +23,7 @@ Friars Craig Wreck is a dive site in Barbados featuring the wreck of the Friars 
 
 - **Location**: Barbados, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

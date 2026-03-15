@@ -23,7 +23,7 @@ USNS General Hoyt S. Vandenberg is a dive site in Florida Keys featuring the wre
 
 - **Location**: Florida Keys, North America
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 5-25 meters (15-80 feet)

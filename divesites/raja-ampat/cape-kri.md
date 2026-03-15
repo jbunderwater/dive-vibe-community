@@ -5,7 +5,7 @@ lng: 130.6915275
 difficulty: Intermediate
 maxDepth: 30
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: 565524431
 addedBy: osm_import
@@ -23,7 +23,7 @@ Cape Kri is a renowned dive site in Raja Ampat offering rewarding diving on heal
 
 - **Location**: Raja Ampat, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

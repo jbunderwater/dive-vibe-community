@@ -23,7 +23,7 @@ Cathedral is a dive site in Tobago featuring underwater cave and cavern formatio
 
 - **Location**: Tobago, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 22 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

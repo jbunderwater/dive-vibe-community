@@ -5,7 +5,7 @@ lng: 14.2850034
 difficulty: Intermediate
 maxDepth: 44
 entryType: shore
-siteType: reef
+siteType: wreck
 ref: null
 osmId: 4159831403
 addedBy: osm_import
@@ -23,7 +23,7 @@ MV Xlendi is a dive site in Malta and Gozo offering rewarding diving on healthy 
 
 - **Location**: Malta and Gozo, Europe
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 44 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

@@ -1,17 +1,5 @@
 [
   {
-    "name": "Tent Reef",
-    "filename": "tent-reef.md",
-    "lat": 17.62,
-    "lng": -63.25,
-    "difficulty": "Intermediate",
-    "maxDepth": 30,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": null
-  },
-  {
     "name": "Tent Reef Wall",
     "filename": "tent-reef-wall.md",
     "lat": 17.6217,
@@ -28,10 +16,10 @@
     "filename": "third-encounter.md",
     "lat": 17.6167,
     "lng": -63.2667,
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "maxDepth": 30,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "pinnacle",
     "ref": "",
     "osmId": null
   },
@@ -55,7 +43,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 20,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "pinnacle",
     "ref": "",
     "osmId": null
   },
@@ -67,7 +55,7 @@
     "difficulty": "Advanced",
     "maxDepth": 28,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "pinnacle",
     "ref": "",
     "osmId": null
   },
@@ -79,7 +67,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 30,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "pinnacle",
     "ref": "",
     "osmId": null
   },
@@ -91,7 +79,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 20,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "pinnacle",
     "ref": "",
     "osmId": null
   },

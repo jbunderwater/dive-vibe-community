@@ -23,7 +23,7 @@ Ennerdale Wreck is a dive site in Seychelles featuring the wreck of the Ennerdal
 
 - **Location**: Seychelles, Africa
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 28 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)

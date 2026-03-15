@@ -2,10 +2,10 @@
 name: Chachacha Beach
 lat: 12.1460122
 lng: -68.276318
-difficulty: Intermediate
+difficulty: Beginner
 maxDepth: 30
 entryType: shore
-siteType: beach
+siteType: reef
 ref: 
 osmId: 4017913908
 addedBy: jbunderwater_ai
@@ -20,9 +20,9 @@ Chachacha Beach is a beautiful dive site located in central Bonaire near Oil Sli
 
 ## Site Information
 - **Location**: Central Bonaire (near Oil Slick Leap)
-- **Entry Type**: Shore entry (easy sandy beach entry)
-- **Site Type**: Beach
-- **Difficulty Level**: Intermediate
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Difficulty Level**: Beginner
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-30 meters
 - **Current**: Usually light

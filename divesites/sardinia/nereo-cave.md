@@ -23,7 +23,7 @@ Nereo Cave is a dive site in Sardinia featuring underwater cave and cavern forma
 
 - **Location**: Sardinia, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

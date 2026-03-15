@@ -23,7 +23,7 @@ Charles L. Brown Wreck is a dive site in Sint Eustatius featuring the wreck of t
 
 - **Location**: Sint Eustatius, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

@@ -23,7 +23,7 @@ Wreck of the La Jenelle is a dive site in California Channel Islands featuring a
 
 - **Location**: California Channel Islands, North America
 - **Entry Type**: Shore entry
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 5-25 meters (15-80 feet)

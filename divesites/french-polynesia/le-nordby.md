@@ -2,10 +2,10 @@
 name: Le Nordby
 lat: -16.741345
 lng: -151.435976
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Beginner
+maxDepth: 29
 entryType: boat
-siteType: reef
+siteType: wreck
 ref: null
 osmId: 663869256
 addedBy: osm_import
@@ -23,9 +23,9 @@ Le Nordby is a dive site in French Polynesia offering rewarding diving on health
 
 - **Location**: French Polynesia, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Site Type**: Wreck dive
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 29 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)
 - **Current**: Moderate to strong
 - **Best Time**: April to November

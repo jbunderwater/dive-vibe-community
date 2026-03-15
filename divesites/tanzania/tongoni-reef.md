@@ -4,7 +4,7 @@ lat: -5.3379545
 lng: 39.1074198
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
+entryType: boat
 siteType: reef
 ref: null
 osmId: 9486288675
@@ -22,7 +22,7 @@ Tongoni Reef is a dive site in Tanzania offering rewarding diving on healthy cor
 ## Site Information
 
 - **Location**: Tanzania, Africa
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters

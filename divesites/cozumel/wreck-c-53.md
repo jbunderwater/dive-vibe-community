@@ -23,7 +23,7 @@ Wreck C-53 is a dive site in Cozumel featuring a historic wreck. Located in the 
 
 - **Location**: Cozumel, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

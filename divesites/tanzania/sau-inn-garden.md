@@ -4,7 +4,7 @@ lat: -6.327524
 lng: 39.5788004
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
+entryType: boat
 siteType: reef
 ref: null
 osmId: 10224583149
@@ -22,7 +22,7 @@ Sau Inn Garden is a dive site in Tanzania offering rewarding diving on healthy c
 ## Site Information
 
 - **Location**: Tanzania, Africa
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters

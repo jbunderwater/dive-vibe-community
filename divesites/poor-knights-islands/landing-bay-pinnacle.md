@@ -5,7 +5,7 @@ lng: 174.7348497
 difficulty: Intermediate
 maxDepth: 25
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: 8070483247
 addedBy: osm_import
@@ -23,7 +23,7 @@ Landing Bay Pinnacle is a dive site in Poor Knights Islands offering rewarding d
 
 - **Location**: Poor Knights Islands, Oceania
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15-40 meters (50-130 feet)

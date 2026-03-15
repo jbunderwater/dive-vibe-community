@@ -23,7 +23,7 @@ Zero plane is a dive site in Micronesia - Yap featuring the wreck of the Zero pl
 
 - **Location**: Micronesia - Yap, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 2 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)

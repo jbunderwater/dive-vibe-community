@@ -23,7 +23,7 @@ Inchcape 1 is a dive site in UAE - Fujairah featuring the wreck of the Inchcape 
 
 - **Location**: UAE - Fujairah, Middle East
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

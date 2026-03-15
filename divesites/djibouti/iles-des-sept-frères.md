@@ -5,7 +5,7 @@ lng: 43.38
 difficulty: Advanced
 maxDepth: 25
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,7 +23,7 @@ Iles des Sept Frères is a dive site in Djibouti offering rewarding diving on he
 
 - **Location**: Djibouti, Africa
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)

@@ -23,7 +23,7 @@ Dean's Blue Hole is a renowned dive site in Bahamas featuring underwater cave an
 
 - **Location**: Bahamas, Caribbean
 - **Entry Type**: Shore entry
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 60 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

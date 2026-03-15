@@ -5,7 +5,7 @@ lng: 14.3193411
 difficulty: Intermediate
 maxDepth: 20
 entryType: boat
-siteType: reef
+siteType: cave
 ref: null
 osmId: 4159831396
 addedBy: osm_import
@@ -23,7 +23,7 @@ Cominotto Arch (Dive Site) is a dive site in Malta and Gozo offering rewarding d
 
 - **Location**: Malta and Gozo, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

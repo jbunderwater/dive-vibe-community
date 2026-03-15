@@ -23,7 +23,7 @@ SS Slavonia Wreck is a dive site in Azores featuring a historic wreck. Located i
 
 - **Location**: Azores, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

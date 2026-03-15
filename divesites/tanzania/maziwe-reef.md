@@ -4,7 +4,7 @@ lat: -5.5023548
 lng: 39.0701388
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
+entryType: boat
 siteType: reef
 ref: null
 osmId: 9486288643
@@ -22,7 +22,7 @@ Maziwe Reef is a dive site in Tanzania offering rewarding diving on healthy cora
 ## Site Information
 
 - **Location**: Tanzania, Africa
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters

@@ -23,7 +23,7 @@ Ata is a dive site in Tonga featuring the wreck of the Ata. Located in the Pacif
 
 - **Location**: Tonga, Pacific
 - **Entry Type**: Shore entry
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)

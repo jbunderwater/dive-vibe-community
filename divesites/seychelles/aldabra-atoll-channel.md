@@ -5,7 +5,7 @@ lng: 46.35
 difficulty: Advanced
 maxDepth: 25
 entryType: boat
-siteType: reef
+siteType: drift
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,7 +23,7 @@ Aldabra Atoll Channel is a dive site in Seychelles offering rewarding diving on 
 
 - **Location**: Seychelles, Africa
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Drift dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)

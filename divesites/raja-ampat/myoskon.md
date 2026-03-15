@@ -5,7 +5,7 @@ lng: 130.7268192
 difficulty: Intermediate
 maxDepth: 27
 entryType: boat
-siteType: reef
+siteType: pinnacle
 ref: null
 osmId: 7161892285
 addedBy: osm_import
@@ -23,7 +23,7 @@ Myoskon is a dive site in Raja Ampat offering rewarding diving on healthy coral 
 
 - **Location**: Raja Ampat, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 27 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

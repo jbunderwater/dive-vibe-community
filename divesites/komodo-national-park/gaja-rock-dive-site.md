@@ -5,7 +5,7 @@ lng: 119.4825409
 difficulty: Intermediate
 maxDepth: 20
 entryType: boat
-siteType: reef
+siteType: pinnacle
 ref: null
 osmId: 7182762315
 addedBy: osm_import
@@ -23,7 +23,7 @@ Gaja Rock dive site is a dive site in Komodo National Park offering rewarding di
 
 - **Location**: Komodo National Park, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

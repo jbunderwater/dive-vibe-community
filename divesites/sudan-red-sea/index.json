@@ -12,18 +12,6 @@
     "osmId": 663869680
   },
   {
-    "name": "Umbria",
-    "filename": "umbria.md",
-    "lat": 19.6367031,
-    "lng": 37.290526,
-    "difficulty": "Intermediate",
-    "maxDepth": 20,
-    "entryType": "boat",
-    "siteType": "wreck",
-    "ref": "",
-    "osmId": 663869681
-  },
-  {
     "name": "Gota Mesharifa",
     "filename": "gota-mesharifa.md",
     "lat": 20.8608834,
@@ -31,7 +19,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 20,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "wall",
     "ref": "",
     "osmId": 9720985226
   },
@@ -67,7 +55,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 20,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "wall",
     "ref": "",
     "osmId": 9720994071
   },
@@ -91,7 +79,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 20,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "wall",
     "ref": "",
     "osmId": 9721009908
   },
@@ -139,7 +127,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 20,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "wall",
     "ref": "",
     "osmId": 9721022202
   },
@@ -187,7 +175,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 20,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "wall",
     "ref": "",
     "osmId": 9721031166
   },
@@ -199,7 +187,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 20,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "wall",
     "ref": "",
     "osmId": 9721033179
   },
@@ -228,8 +216,8 @@
     "osmId": 9721215046
   },
   {
-    "name": "SS Umbria, Wreck",
-    "filename": "ss-umbria-wreck.md",
+    "name": "SS Umbria",
+    "filename": "ss-umbria.md",
     "lat": 19.6367128,
     "lng": 37.2906381,
     "difficulty": "Intermediate",
@@ -274,17 +262,5 @@
     "siteType": "reef",
     "ref": "",
     "osmId": 13045042999
-  },
-  {
-    "name": "Levanzo",
-    "filename": "levanzo.md",
-    "lat": 21.9877615,
-    "lng": 37.0452371,
-    "difficulty": "Intermediate",
-    "maxDepth": 20,
-    "entryType": "boat",
-    "siteType": "wreck",
-    "ref": "",
-    "osmId": 13064059226
   }
 ]

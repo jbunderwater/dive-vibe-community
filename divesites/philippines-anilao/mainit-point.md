@@ -5,7 +5,7 @@ lng: 120.875
 difficulty: Advanced
 maxDepth: 28
 entryType: boat
-siteType: wall
+siteType: reef
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,7 +23,7 @@ Mainit Point is a dive site in Philippines Anilao featuring a dramatic vertical 
 
 - **Location**: Philippines Anilao, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 28 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

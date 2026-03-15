@@ -23,7 +23,7 @@ Cathedral Bermuda is a dive site in Bermuda featuring underwater cave and cavern
 
 - **Location**: Bermuda, Atlantic
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 15-30 meters (50-100 feet)

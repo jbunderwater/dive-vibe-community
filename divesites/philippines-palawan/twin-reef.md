@@ -2,7 +2,7 @@
 name: Twin Reef
 lat: 10.4431259
 lng: 119.1645987
-difficulty: Intermediate
+difficulty: Beginner
 maxDepth: 20
 entryType: boat
 siteType: reef
@@ -24,7 +24,7 @@ Twin Reef is a dive site in Philippines Palawan offering rewarding diving on hea
 - **Location**: Philippines Palawan, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong

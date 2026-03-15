@@ -2,10 +2,10 @@
 name: Passe de Céran - TAHAA
 lat: -16.648034
 lng: -151.426964
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 25
 entryType: boat
-siteType: reef
+siteType: drift
 ref: null
 osmId: 663869261
 addedBy: osm_import
@@ -23,8 +23,8 @@ Passe de Céran - TAHAA is a dive site in French Polynesia offering rewarding di
 
 - **Location**: French Polynesia, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
+- **Site Type**: Drift dive
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)
 - **Current**: Moderate to strong

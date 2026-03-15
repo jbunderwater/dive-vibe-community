@@ -4,7 +4,7 @@ lat: -11.5222657
 lng: 40.5392667
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
+entryType: boat
 siteType: reef
 ref: null
 osmId: 259658606
@@ -22,7 +22,7 @@ Baixo Magive Cobua is a dive site in Tanzania offering rewarding diving on healt
 ## Site Information
 
 - **Location**: Tanzania, Africa
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters

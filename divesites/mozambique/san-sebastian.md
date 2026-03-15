@@ -2,10 +2,10 @@
 name: San Sebastian
 lat: -23.8583
 lng: 35.5792
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 22
 entryType: boat
-siteType: reef
+siteType: pinnacle
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,8 +23,8 @@ San Sebastian is a dive site in Mozambique offering rewarding diving on healthy 
 
 - **Location**: Mozambique, Africa
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
+- **Site Type**: Pinnacle/seamount
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 22 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)
 - **Current**: Moderate to strong

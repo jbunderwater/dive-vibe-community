@@ -2,8 +2,8 @@
 name: Two Mile Reef Ponta
 lat: -26.8333
 lng: 32.9
-difficulty: Beginner
-maxDepth: 12
+difficulty: Intermediate
+maxDepth: 18
 entryType: boat
 siteType: reef
 ref: null
@@ -24,8 +24,8 @@ Two Mile Reef Ponta is a dive site in Mozambique offering excellent diving on he
 - **Location**: Mozambique, Africa
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 12 meters
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)
 - **Current**: Moderate to strong
 - **Best Time**: October to March (East Africa), varies by location

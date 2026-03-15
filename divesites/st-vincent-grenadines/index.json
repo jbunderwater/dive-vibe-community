@@ -67,7 +67,7 @@
     "difficulty": "Beginner",
     "maxDepth": 10,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "muck",
     "ref": "",
     "osmId": null
   },

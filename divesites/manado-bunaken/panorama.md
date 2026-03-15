@@ -5,7 +5,7 @@ lng: 124.7673411
 difficulty: Intermediate
 maxDepth: 25
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: 7293852596
 addedBy: osm_import
@@ -23,7 +23,7 @@ Panorama is a dive site in Manado & Bunaken offering rewarding diving on healthy
 
 - **Location**: Manado & Bunaken, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

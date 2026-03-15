@@ -23,7 +23,7 @@ MV Karwela is a dive site in Malta and Gozo featuring a historic wreck which san
 
 - **Location**: Malta and Gozo, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 44 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

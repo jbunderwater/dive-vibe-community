@@ -4,8 +4,8 @@ lat: -6.2728904
 lng: 39.5532195
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
-siteType: reef
+entryType: boat
+siteType: drift
 ref: null
 osmId: 9943059717
 addedBy: osm_import
@@ -22,8 +22,8 @@ Barracuda Point is a dive site in Tanzania offering rewarding diving on healthy 
 ## Site Information
 
 - **Location**: Tanzania, Africa
-- **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Entry Type**: Boat dive
+- **Site Type**: Drift dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)

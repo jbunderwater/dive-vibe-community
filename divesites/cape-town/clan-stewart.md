@@ -23,7 +23,7 @@ Clan Stewart is a dive site in Cape Town featuring the wreck of the Clan Stewart
 
 - **Location**: Cape Town, Africa
 - **Entry Type**: Shore entry
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)

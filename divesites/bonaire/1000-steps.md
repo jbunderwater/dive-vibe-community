@@ -5,7 +5,7 @@ lng: -68.3217112
 difficulty: Intermediate
 maxDepth: 30
 entryType: shore
-siteType: beach
+siteType: wall
 ref: 16
 osmId: 313863131
 addedBy: jbunderwater_ai
@@ -20,8 +20,8 @@ A famous Bonaire dive site featuring a dramatic limestone staircase entry and ex
 
 ## Site Information
 - **Location**: North Bonaire (near Washington Slagbaai National Park)
-- **Entry Type**: Shore entry (down a limestone staircase)
-- **Site Type**: Beach
+- **Entry Type**: Shore entry
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-30 meters

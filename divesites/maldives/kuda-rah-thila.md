@@ -5,7 +5,7 @@ lng: 72.9230452
 difficulty: Intermediate
 maxDepth: 30
 entryType: boat
-siteType: reef
+siteType: pinnacle
 ref: null
 osmId: 8584302416
 addedBy: osm_import
@@ -23,7 +23,7 @@ Kuda Rah thila is a dive site in Maldives offering rewarding diving on healthy c
 
 - **Location**: Maldives, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

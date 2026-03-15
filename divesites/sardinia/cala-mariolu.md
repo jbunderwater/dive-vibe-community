@@ -23,7 +23,7 @@ Cala Mariolu is a dive site in Sardinia offering rewarding diving on healthy cor
 
 - **Location**: Sardinia, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Beach
+- **Site Type**: Beach dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

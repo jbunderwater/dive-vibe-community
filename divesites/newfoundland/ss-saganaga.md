@@ -2,7 +2,7 @@
 name: SS Saganaga
 lat: 47.5833032
 lng: -52.9785067
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 30
 entryType: boat
 siteType: wreck
@@ -23,8 +23,8 @@ SS Saganaga is a dive site in Newfoundland featuring a historic wreck which sank
 
 - **Location**: Newfoundland, North America
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
-- **Difficulty Level**: Intermediate
+- **Site Type**: Wreck dive
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 5-25 meters (15-80 feet)
 - **Current**: Variable, can be strong

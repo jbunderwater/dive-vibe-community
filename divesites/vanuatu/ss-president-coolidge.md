@@ -23,7 +23,7 @@ SS President Coolidge is a dive site in Vanuatu featuring a historic wreck. Loca
 
 - **Location**: Vanuatu, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 70 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)

@@ -23,7 +23,7 @@ Il-Bajja tax-Xwejni is a dive site in Malta and Gozo offering rewarding diving o
 
 - **Location**: Malta and Gozo, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Beach
+- **Site Type**: Beach dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

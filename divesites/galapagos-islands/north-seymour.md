@@ -2,10 +2,10 @@
 name: North Seymour
 lat: -0.38
 lng: -90.29
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 16
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,8 +23,8 @@ North Seymour is a dive site in Galápagos Islands offering rewarding diving on 
 
 - **Location**: Galápagos Islands, South America
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
+- **Site Type**: Wall dive
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 16 meters
 - **Typical Visibility**: 10-25 meters (30-80 feet)
 - **Current**: Moderate to strong

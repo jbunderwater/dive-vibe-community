@@ -23,7 +23,7 @@ Akitsushima is a dive site in Philippines Palawan featuring the wreck of the Aki
 
 - **Location**: Philippines Palawan, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 36 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

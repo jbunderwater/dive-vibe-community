@@ -5,7 +5,7 @@ lng: -81.82
 difficulty: Intermediate
 maxDepth: 22
 entryType: boat
-siteType: reef
+siteType: pinnacle
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,7 +23,7 @@ Montaña Rusa is a dive site in Coiba National Park offering rewarding diving on
 
 - **Location**: Coiba National Park, South America
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 22 meters
 - **Typical Visibility**: 10-25 meters (30-80 feet)

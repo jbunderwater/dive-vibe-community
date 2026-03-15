@@ -4,7 +4,7 @@ lat: 9.9898928
 lng: 118.6152723
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
+entryType: boat
 siteType: reef
 ref: null
 osmId: 1368048193
@@ -22,7 +22,7 @@ Dry Reef is a dive site in Philippines Palawan offering rewarding diving on heal
 ## Site Information
 
 - **Location**: Philippines Palawan, Asia
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters

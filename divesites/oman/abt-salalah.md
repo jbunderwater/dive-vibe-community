@@ -5,7 +5,7 @@ lng: 54.1517412
 difficulty: Intermediate
 maxDepth: 20
 entryType: boat
-siteType: reef
+siteType: wreck
 ref: null
 osmId: 306050061
 addedBy: osm_import
@@ -23,7 +23,7 @@ ABT Salalah is a dive site in Oman offering rewarding diving on healthy coral re
 
 - **Location**: Oman, Middle East
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

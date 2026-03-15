@@ -2,10 +2,10 @@
 name: Jesse Beazley Reef
 lat: 9.0466227
 lng: 119.8142609
-difficulty: Intermediate
-maxDepth: 25
-entryType: shore
-siteType: reef
+difficulty: Advanced
+maxDepth: 29
+entryType: boat
+siteType: wall
 ref: null
 osmId: 31974943
 addedBy: osm_import
@@ -22,10 +22,10 @@ Jesse Beazley Reef is a dive site in Philippines Palawan offering rewarding divi
 ## Site Information
 
 - **Location**: Philippines Palawan, Asia
-- **Entry Type**: Shore entry
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Entry Type**: Boat dive
+- **Site Type**: Wall dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 29 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)

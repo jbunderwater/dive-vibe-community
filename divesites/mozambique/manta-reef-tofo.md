@@ -2,10 +2,10 @@
 name: Manta Reef Tofo
 lat: -23.85
 lng: 35.5833
-difficulty: Intermediate
-maxDepth: 18
+difficulty: Advanced
+maxDepth: 26
 entryType: boat
-siteType: reef
+siteType: pinnacle
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,9 +23,9 @@ Manta Reef Tofo is a dive site in Mozambique offering rewarding diving on health
 
 - **Location**: Mozambique, Africa
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
+- **Site Type**: Pinnacle/seamount
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 26 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)
 - **Current**: Moderate to strong
 - **Best Time**: October to March (East Africa), varies by location

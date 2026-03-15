@@ -5,7 +5,7 @@ lng: 167.7287
 difficulty: Intermediate
 maxDepth: 25
 entryType: boat
-siteType: reef
+siteType: wreck
 ref: null
 osmId: 13042425106
 addedBy: osm_import
@@ -23,7 +23,7 @@ Junkpile-1 is a dive site in Marshall Islands offering rewarding diving on healt
 
 - **Location**: Marshall Islands, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)

@@ -2,8 +2,8 @@
 name: The Cauldron Dive Site
 lat: -8.4609097
 lng: 119.5633723
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Advanced
+maxDepth: 22
 entryType: boat
 siteType: drift
 ref: null
@@ -23,9 +23,9 @@ The Cauldron Dive Site is a dive site in Komodo National Park offering rewarding
 
 - **Location**: Komodo National Park, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Drift
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Site Type**: Drift dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 22 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)

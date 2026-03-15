@@ -4,7 +4,7 @@ lat: 7.8535398
 lng: 118.4203649
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
+entryType: boat
 siteType: reef
 ref: null
 osmId: 413035982
@@ -22,7 +22,7 @@ Valparaiso Shoal is a dive site in Philippines Palawan offering rewarding diving
 ## Site Information
 
 - **Location**: Philippines Palawan, Asia
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters

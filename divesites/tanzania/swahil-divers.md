@@ -4,7 +4,7 @@ lat: -4.9223877
 lng: 39.6756306
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
+entryType: boat
 siteType: reef
 ref: null
 osmId: 622526346
@@ -22,7 +22,7 @@ Swahil Divers is a dive site in Tanzania offering rewarding diving on healthy co
 ## Site Information
 
 - **Location**: Tanzania, Africa
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters

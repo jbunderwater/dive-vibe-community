@@ -5,7 +5,7 @@ lng: -63.2433
 difficulty: Advanced
 maxDepth: 28
 entryType: boat
-siteType: reef
+siteType: pinnacle
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,7 +23,7 @@ Eye of the Needle is a dive site in Saba offering rewarding diving on healthy co
 
 - **Location**: Saba, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 28 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

@@ -5,7 +5,7 @@ lng: 99.85696
 difficulty: Beginner
 maxDepth: 16
 entryType: boat
-siteType: reef
+siteType: pinnacle
 ref: null
 osmId: 3582426701
 addedBy: osm_import
@@ -23,7 +23,7 @@ Laem Thian Pinnacle is a dive site in Koh Tao offering excellent diving on healt
 
 - **Location**: Koh Tao, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 16 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

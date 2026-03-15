@@ -23,7 +23,7 @@ Pelinaion is a dive site in Bermuda featuring the wreck of the Pelinaion. Locate
 
 - **Location**: Bermuda, Atlantic
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 15-30 meters (50-100 feet)

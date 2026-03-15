@@ -4,7 +4,7 @@ lat: -11.6102665
 lng: 34.3060893
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
+entryType: boat
 siteType: reef
 ref: null
 osmId: 10224564252
@@ -22,7 +22,7 @@ Kampagne Point is a dive site in Tanzania offering rewarding diving on healthy c
 ## Site Information
 
 - **Location**: Tanzania, Africa
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters

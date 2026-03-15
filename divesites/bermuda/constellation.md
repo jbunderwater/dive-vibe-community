@@ -23,7 +23,7 @@ Constellation is a dive site in Bermuda featuring the wreck of the Constellation
 
 - **Location**: Bermuda, Atlantic
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 9 meters
 - **Typical Visibility**: 15-30 meters (50-100 feet)

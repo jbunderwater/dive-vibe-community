@@ -43,7 +43,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 20,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "wreck",
     "ref": "",
     "osmId": 306050061
   },
@@ -94,42 +94,6 @@
     "siteType": "reef",
     "ref": "",
     "osmId": 306112631
-  },
-  {
-    "name": "Extra Divers Musandam",
-    "filename": "extra-divers-musandam.md",
-    "lat": 26.2138898,
-    "lng": 56.2340282,
-    "difficulty": "Intermediate",
-    "maxDepth": 20,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 598562251
-  },
-  {
-    "name": "Dibba Rock",
-    "filename": "dibba-rock.md",
-    "lat": 25.6034329,
-    "lng": 56.3502417,
-    "difficulty": "Intermediate",
-    "maxDepth": 20,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 9865803545
-  },
-  {
-    "name": "Snoopy Island",
-    "filename": "snoopy-island.md",
-    "lat": 25.4926007,
-    "lng": 56.3635239,
-    "difficulty": "Intermediate",
-    "maxDepth": 20,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 9865811800
   },
   {
     "name": "Dibba Rock Reef",

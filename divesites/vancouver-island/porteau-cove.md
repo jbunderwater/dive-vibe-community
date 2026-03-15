@@ -23,7 +23,7 @@ Porteau Cove is a dive site in Vancouver Island featuring the wreck of the Porte
 
 - **Location**: Vancouver Island, North America
 - **Entry Type**: Shore entry
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 5-25 meters (15-80 feet)

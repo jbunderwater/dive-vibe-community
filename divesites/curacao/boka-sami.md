@@ -2,10 +2,10 @@
 name: Boka Sami
 lat: 12.1394983
 lng: -68.9972716
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 45
 entryType: Shore
-siteType: Reef
+siteType: reef
 ref: null
 osmId: null
 addedBy: assistant
@@ -22,9 +22,9 @@ Boka Sami is a popular shore diving destination located in Sint Michiel on Cura√
 ## Site Information
 
 - **Location**: Central west coast, Sint Michiel area
-- **Entry Type**: Shore dive from rocky coastline
-- **Site Type**: Sloping reef with drop-off
-- **Difficulty Level**: Beginner to Advanced
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 45 meters (150 feet)
 - **Typical Visibility**: 15-25 meters (50-80 feet)
 - **Current**: Usually minimal to none

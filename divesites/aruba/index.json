@@ -142,5 +142,29 @@
     "siteType": "reef",
     "ref": "",
     "osmId": null
+  },
+  {
+    "name": "California",
+    "filename": "california.md",
+    "lat": 12.6232643,
+    "lng": -70.0440699,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 7452989993
+  },
+  {
+    "name": "Shipwreck",
+    "filename": "shipwreck.md",
+    "lat": 12.5915464,
+    "lng": -70.0495811,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 454413853
   }
 ]

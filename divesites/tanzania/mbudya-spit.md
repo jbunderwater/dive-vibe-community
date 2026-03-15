@@ -4,7 +4,7 @@ lat: -6.6760949
 lng: 39.2864441
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
+entryType: boat
 siteType: reef
 ref: null
 osmId: 704649413
@@ -22,7 +22,7 @@ Mbudya Spit is a dive site in Tanzania offering rewarding diving on healthy cora
 ## Site Information
 
 - **Location**: Tanzania, Africa
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters

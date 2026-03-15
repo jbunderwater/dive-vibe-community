@@ -2,10 +2,10 @@
 name: Pa’ipa’i
 lat: -16.664726
 lng: -151.539059
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 25
 entryType: boat
-siteType: reef
+siteType: drift
 ref: null
 osmId: 663869257
 addedBy: osm_import
@@ -23,8 +23,8 @@ Pa’ipa’i is a dive site in French Polynesia offering rewarding diving on hea
 
 - **Location**: French Polynesia, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
+- **Site Type**: Drift dive
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)
 - **Current**: Moderate to strong

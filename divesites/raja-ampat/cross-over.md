@@ -5,7 +5,7 @@ lng: 130.6844603
 difficulty: Intermediate
 maxDepth: 25
 entryType: boat
-siteType: reef
+siteType: drift
 ref: null
 osmId: 12167300639
 addedBy: osm_import
@@ -23,7 +23,7 @@ Cross Over is a dive site in Raja Ampat offering rewarding diving on healthy cor
 
 - **Location**: Raja Ampat, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Drift dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

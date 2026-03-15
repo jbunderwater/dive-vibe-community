@@ -4,7 +4,7 @@ lat: -6.5710863
 lng: 39.2989734
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
+entryType: boat
 siteType: reef
 ref: null
 osmId: 704644194
@@ -22,7 +22,7 @@ Mbudya Patches is a dive site in Tanzania offering rewarding diving on healthy c
 ## Site Information
 
 - **Location**: Tanzania, Africa
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters

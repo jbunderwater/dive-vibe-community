@@ -23,7 +23,7 @@ City of Grand Rapids (steamer) is a dive site in Great Lakes featuring the wreck
 
 - **Location**: Great Lakes, North America
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 5 meters
 - **Typical Visibility**: 5-25 meters (15-80 feet)

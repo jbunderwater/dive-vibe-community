@@ -5,7 +5,7 @@ lng: 130.2960285
 difficulty: Intermediate
 maxDepth: 25
 entryType: boat
-siteType: reef
+siteType: drift
 ref: null
 osmId: 13045652322
 addedBy: osm_import
@@ -23,7 +23,7 @@ Keruo Channel is a dive site in Raja Ampat offering rewarding diving on healthy 
 
 - **Location**: Raja Ampat, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Drift dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

@@ -4,8 +4,8 @@ lat: -6.3633696
 lng: 39.58805
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
-siteType: reef
+entryType: boat
+siteType: wall
 ref: null
 osmId: 13165341861
 addedBy: osm_import
@@ -22,8 +22,8 @@ Napoleon Wall is a dive site in Tanzania offering rewarding diving on healthy co
 ## Site Information
 
 - **Location**: Tanzania, Africa
-- **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Entry Type**: Boat dive
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)

@@ -5,7 +5,7 @@ lng: -90.1425673
 difficulty: Advanced
 maxDepth: 30
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: 13123255819
 addedBy: osm_import
@@ -23,7 +23,7 @@ Gordon Rocks is a renowned dive site in Galápagos Islands offering rewarding di
 
 - **Location**: Galápagos Islands, South America
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-25 meters (30-80 feet)

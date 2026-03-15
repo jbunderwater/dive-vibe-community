@@ -5,7 +5,7 @@ lng: 72.7364113
 difficulty: Intermediate
 maxDepth: 25
 entryType: boat
-siteType: reef
+siteType: drift
 ref: null
 osmId: 8584373032
 addedBy: osm_import
@@ -23,7 +23,7 @@ Gangehi Kandu is a dive site in Maldives offering rewarding diving on healthy co
 
 - **Location**: Maldives, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Drift dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

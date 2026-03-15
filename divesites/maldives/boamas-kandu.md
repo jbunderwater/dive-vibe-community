@@ -5,7 +5,7 @@ lng: 73.399635
 difficulty: Intermediate
 maxDepth: 25
 entryType: boat
-siteType: reef
+siteType: drift
 ref: null
 osmId: 663869893
 addedBy: osm_import
@@ -23,7 +23,7 @@ Boamas Kandu is a dive site in Maldives offering rewarding diving on healthy cor
 
 - **Location**: Maldives, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Drift dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

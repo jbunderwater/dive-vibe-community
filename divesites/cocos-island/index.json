@@ -7,7 +7,7 @@
     "difficulty": "Advanced",
     "maxDepth": 30,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "wall",
     "ref": "",
     "osmId": null
   },
@@ -19,7 +19,7 @@
     "difficulty": "Advanced",
     "maxDepth": 30,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "wall",
     "ref": "",
     "osmId": null
   },
@@ -40,10 +40,10 @@
     "filename": "manuelita-inside.md",
     "lat": 5.56,
     "lng": -87.0467,
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "maxDepth": 15,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "wall",
     "ref": "",
     "osmId": null
   },
@@ -55,7 +55,7 @@
     "difficulty": "Advanced",
     "maxDepth": 25,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "wall",
     "ref": "",
     "osmId": null
   },
@@ -67,7 +67,7 @@
     "difficulty": "Advanced",
     "maxDepth": 30,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "wall",
     "ref": "",
     "osmId": null
   },
@@ -76,10 +76,10 @@
     "filename": "viking-rock.md",
     "lat": 5.55,
     "lng": -87.0417,
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "maxDepth": 25,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "wall",
     "ref": "",
     "osmId": null
   },
@@ -88,10 +88,10 @@
     "filename": "lobster-rock.md",
     "lat": 5.535,
     "lng": -87.0633,
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "maxDepth": 18,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "wall",
     "ref": "",
     "osmId": null
   }

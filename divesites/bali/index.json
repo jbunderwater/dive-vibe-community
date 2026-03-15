@@ -12,18 +12,6 @@
     "osmId": 1314452590
   },
   {
-    "name": "Seraya Beach Dive Site",
-    "filename": "seraya-beach-dive-site.md",
-    "lat": -8.2956657,
-    "lng": 115.611935,
-    "difficulty": "Intermediate",
-    "maxDepth": 25,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 2327924608
-  },
-  {
     "name": "USAT Liberty Wreck",
     "filename": "usat-liberty-wreck.md",
     "lat": -8.2739054,
@@ -84,30 +72,6 @@
     "osmId": 2969866045
   },
   {
-    "name": "Mama Dive",
-    "filename": "mama-dive.md",
-    "lat": -8.337772,
-    "lng": 115.6587537,
-    "difficulty": "Intermediate",
-    "maxDepth": 25,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 3477854124
-  },
-  {
-    "name": "Bali Aqua Diving",
-    "filename": "bali-aqua-diving.md",
-    "lat": -8.7057514,
-    "lng": 115.2531295,
-    "difficulty": "Intermediate",
-    "maxDepth": 25,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 3546785648
-  },
-  {
     "name": "Bali Scuba",
     "filename": "bali-scuba.md",
     "lat": -8.7057211,
@@ -118,30 +82,6 @@
     "siteType": "reef",
     "ref": "",
     "osmId": 3546785649
-  },
-  {
-    "name": "Marta Dive",
-    "filename": "marta-dive.md",
-    "lat": -8.2753636,
-    "lng": 115.5904646,
-    "difficulty": "Intermediate",
-    "maxDepth": 25,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 3744065624
-  },
-  {
-    "name": "Paradise Diving",
-    "filename": "paradise-diving.md",
-    "lat": -8.2738721,
-    "lng": 115.5904903,
-    "difficulty": "Intermediate",
-    "maxDepth": 25,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 3744068661
   },
   {
     "name": "Blue Hill Dive Site",
@@ -235,21 +175,9 @@
     "difficulty": "Beginner",
     "maxDepth": 25,
     "entryType": "shore",
-    "siteType": "reef",
+    "siteType": "wall",
     "ref": "",
     "osmId": 4527419399
-  },
-  {
-    "name": "Bali Dive Trek",
-    "filename": "bali-dive-trek.md",
-    "lat": -8.3312359,
-    "lng": 115.6309014,
-    "difficulty": "Intermediate",
-    "maxDepth": 25,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 4694084262
   },
   {
     "name": "Blue Lagoon",

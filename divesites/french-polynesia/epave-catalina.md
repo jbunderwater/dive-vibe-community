@@ -2,8 +2,8 @@
 name: Epave Catalina
 lat: -17.543573
 lng: -149.609009
-difficulty: Advanced
-maxDepth: 55
+difficulty: Beginner
+maxDepth: 20
 entryType: boat
 siteType: wreck
 ref: null
@@ -23,9 +23,9 @@ Epave Catalina is a dive site in French Polynesia featuring the wreck of the Epa
 
 - **Location**: French Polynesia, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 55 meters
+- **Site Type**: Wreck dive
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)
 - **Current**: Moderate to strong
 - **Best Time**: April to November

@@ -23,7 +23,7 @@ Midship is a dive site in Great Lakes featuring the wreck of the Midship which s
 
 - **Location**: Great Lakes, North America
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 160 meters
 - **Typical Visibility**: 5-25 meters (15-80 feet)

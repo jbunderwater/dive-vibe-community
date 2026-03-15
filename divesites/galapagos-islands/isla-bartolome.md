@@ -2,10 +2,10 @@
 name: Isla Bartolome
 lat: -0.28
 lng: -90.54
-difficulty: Beginner
+difficulty: Advanced
 maxDepth: 15
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,8 +23,8 @@ Isla Bartolome is a dive site in Galápagos Islands offering excellent diving on
 
 - **Location**: Galápagos Islands, South America
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
+- **Site Type**: Wall dive
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 10-25 meters (30-80 feet)
 - **Current**: Moderate to strong

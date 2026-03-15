@@ -5,7 +5,7 @@ lng: 6.2739333
 difficulty: Advanced
 maxDepth: 35
 entryType: shore
-siteType: reef
+siteType: wreck
 ref: null
 osmId: 663869693
 addedBy: osm_import
@@ -23,7 +23,7 @@ Wrack 'Sagona' (Le Grec) is a dive site in Port-Cros offering rewarding diving o
 
 - **Location**: Port-Cros, Europe
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 35 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

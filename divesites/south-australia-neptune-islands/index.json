@@ -67,7 +67,7 @@
     "difficulty": "Advanced",
     "maxDepth": 30,
     "entryType": "boat",
-    "siteType": "wall",
+    "siteType": "pinnacle",
     "ref": "",
     "osmId": null
   },

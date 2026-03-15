@@ -5,7 +5,7 @@ lng: 33.9084369
 difficulty: Intermediate
 maxDepth: 25
 entryType: boat
-siteType: reef
+siteType: wreck
 ref: null
 osmId: 3756356153
 addedBy: osm_import
@@ -23,7 +23,7 @@ Umm Gamar is a dive site in Red Sea offering rewarding diving on healthy coral r
 
 - **Location**: Red Sea, Middle East
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

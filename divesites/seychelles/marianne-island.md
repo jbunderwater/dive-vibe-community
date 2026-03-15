@@ -5,7 +5,7 @@ lng: 55.94
 difficulty: Beginner
 maxDepth: 15
 entryType: boat
-siteType: reef
+siteType: pinnacle
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,7 +23,7 @@ Marianne Island is a dive site in Seychelles offering excellent diving on health
 
 - **Location**: Seychelles, Africa
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)

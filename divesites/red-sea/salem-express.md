@@ -2,7 +2,7 @@
 name: Salem Express
 lat: 26.6397175
 lng: 34.0615772
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 20
 entryType: boat
 siteType: wreck
@@ -23,8 +23,8 @@ Salem Express is a dive site in Red Sea featuring the wreck of the Salem Express
 
 - **Location**: Red Sea, Middle East
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
-- **Difficulty Level**: Intermediate
+- **Site Type**: Wreck dive
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Moderate to strong

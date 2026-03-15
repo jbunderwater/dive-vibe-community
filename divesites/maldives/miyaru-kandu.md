@@ -23,7 +23,7 @@ Miyaru Kandu is a dive site in Maldives offering rewarding diving on healthy cor
 
 - **Location**: Maldives, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Drift
+- **Site Type**: Drift dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 35 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

@@ -5,7 +5,7 @@ lng: 6.2783333
 difficulty: Intermediate
 maxDepth: 25
 entryType: shore
-siteType: reef
+siteType: wreck
 ref: null
 osmId: 663869699
 addedBy: osm_import
@@ -23,7 +23,7 @@ Wrack 'Prosper Schiaffino' (Alias Donator) is a dive site in Port-Cros offering 
 
 - **Location**: Port-Cros, Europe
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

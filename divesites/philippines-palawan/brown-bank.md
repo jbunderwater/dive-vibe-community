@@ -4,7 +4,7 @@ lat: 10.8121361
 lng: 117.4042305
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
+entryType: boat
 siteType: reef
 ref: null
 osmId: 845732612
@@ -22,7 +22,7 @@ Brown Bank is a dive site in Philippines Palawan offering rewarding diving on he
 ## Site Information
 
 - **Location**: Philippines Palawan, Asia
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters

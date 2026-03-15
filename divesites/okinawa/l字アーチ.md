@@ -2,10 +2,10 @@
 name: L字アーチ
 lat: 24.8666616
 lng: 125.163257
-difficulty: Intermediate
-maxDepth: 30
+difficulty: Advanced
+maxDepth: 40
 entryType: boat
-siteType: reef
+siteType: cave
 ref: null
 osmId: 9280279110
 addedBy: osm_import
@@ -23,9 +23,9 @@ L字アーチ is a dive site in Okinawa offering rewarding diving on healthy cor
 
 - **Location**: Okinawa, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
+- **Site Type**: Cave/cavern
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)

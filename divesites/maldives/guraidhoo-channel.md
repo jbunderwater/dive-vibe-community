@@ -5,7 +5,7 @@ lng: 73.4635205
 difficulty: Intermediate
 maxDepth: 25
 entryType: boat
-siteType: reef
+siteType: drift
 ref: null
 osmId: 4584554103
 addedBy: osm_import
@@ -23,7 +23,7 @@ Guraidhoo Channel is a dive site in Maldives offering rewarding diving on health
 
 - **Location**: Maldives, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Drift dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

@@ -2,10 +2,10 @@
 name: Batu Tiga Dive Site
 lat: -8.5996016
 lng: 119.5728673
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Advanced
+maxDepth: 30
 entryType: boat
-siteType: reef
+siteType: pinnacle
 ref: null
 osmId: 7182686142
 addedBy: osm_import
@@ -23,9 +23,9 @@ Batu Tiga Dive Site is a dive site in Komodo National Park offering rewarding di
 
 - **Location**: Komodo National Park, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Site Type**: Pinnacle/seamount
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)

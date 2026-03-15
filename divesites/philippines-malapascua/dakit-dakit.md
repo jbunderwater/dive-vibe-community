@@ -5,7 +5,7 @@ lng: 124.1090875
 difficulty: Intermediate
 maxDepth: 20
 entryType: boat
-siteType: reef
+siteType: pinnacle
 ref: null
 osmId: 4003440589
 addedBy: osm_import
@@ -23,7 +23,7 @@ Dakit-Dakit is a dive site in Philippines Malapascua offering rewarding diving o
 
 - **Location**: Philippines Malapascua, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

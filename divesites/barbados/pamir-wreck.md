@@ -23,7 +23,7 @@ Pamir Wreck is a dive site in Barbados featuring the wreck of the Pamir Wreck. L
 
 - **Location**: Barbados, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 14 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

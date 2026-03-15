@@ -3,7 +3,7 @@ name: The Salon
 lat: -23.8333
 lng: 35.5917
 difficulty: Beginner
-maxDepth: 18
+maxDepth: 14
 entryType: boat
 siteType: reef
 ref: null
@@ -25,7 +25,7 @@ The Salon is a dive site in Mozambique offering excellent diving on healthy cora
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 18 meters
+- **Maximum Depth**: 14 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)
 - **Current**: Moderate to strong
 - **Best Time**: October to March (East Africa), varies by location

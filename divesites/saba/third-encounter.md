@@ -2,10 +2,10 @@
 name: Third Encounter
 lat: 17.6167
 lng: -63.2667
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 30
 entryType: boat
-siteType: reef
+siteType: pinnacle
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,8 +23,8 @@ Third Encounter is a dive site in Saba offering rewarding diving on healthy cora
 
 - **Location**: Saba, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
+- **Site Type**: Pinnacle/seamount
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate

@@ -23,7 +23,7 @@ Giannis D is a dive site in Red Sea featuring the wreck of the Giannis D. Locate
 
 - **Location**: Red Sea, Middle East
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 27 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

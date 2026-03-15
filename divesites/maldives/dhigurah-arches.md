@@ -5,7 +5,7 @@ lng: 72.9150945
 difficulty: Intermediate
 maxDepth: 25
 entryType: boat
-siteType: reef
+siteType: cave
 ref: null
 osmId: 9562074179
 addedBy: osm_import
@@ -23,7 +23,7 @@ Dhigurah Arches is a dive site in Maldives offering rewarding diving on healthy 
 
 - **Location**: Maldives, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

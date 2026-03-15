@@ -23,7 +23,7 @@ Cathedral Beqa is a dive site in Fiji featuring underwater cave and cavern forma
 
 - **Location**: Fiji, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)

@@ -5,7 +5,7 @@ lng: 116.0255805
 difficulty: Intermediate
 maxDepth: 20
 entryType: boat
-siteType: reef
+siteType: drift
 ref: null
 osmId: 2395669751
 addedBy: osm_import
@@ -23,7 +23,7 @@ Jack Point is a dive site in Lombok offering rewarding diving on healthy coral r
 
 - **Location**: Lombok, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Drift dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

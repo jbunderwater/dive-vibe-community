@@ -3,9 +3,9 @@ name: Pillarsteen
 lat: -8.6946259
 lng: 119.5675945
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 35
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: 7182756520
 addedBy: osm_import
@@ -23,9 +23,9 @@ Pillarsteen is a dive site in Komodo National Park offering rewarding diving on 
 
 - **Location**: Komodo National Park, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 35 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)

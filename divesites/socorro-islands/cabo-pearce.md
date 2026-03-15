@@ -3,7 +3,7 @@ name: Cabo Pearce
 lat: 18.73
 lng: -110.95
 difficulty: Advanced
-maxDepth: 25
+maxDepth: 30
 entryType: boat
 siteType: wall
 ref: null
@@ -25,7 +25,7 @@ Cabo Pearce is a dive site in Socorro Islands featuring a dramatic vertical wall
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)
 - **Current**: Moderate to strong
 - **Best Time**: April to November

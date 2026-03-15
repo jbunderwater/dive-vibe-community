@@ -142,5 +142,41 @@
     "siteType": "reef",
     "ref": "",
     "osmId": null
+  },
+  {
+    "name": "El Pirata Shipwreck",
+    "filename": "el-pirata-shipwreck.md",
+    "lat": 13.7296327,
+    "lng": -60.9721116,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 9385639518
+  },
+  {
+    "name": "Fairyland",
+    "filename": "fairyland.md",
+    "lat": 13.8627497,
+    "lng": -61.0779083,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 398450579
+  },
+  {
+    "name": "Maria Island Reef",
+    "filename": "maria-island-reef.md",
+    "lat": 13.7362752,
+    "lng": -60.9342094,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 1022427960
   }
 ]

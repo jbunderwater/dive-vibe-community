@@ -7,7 +7,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 20,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "muck",
     "ref": "",
     "osmId": 2138645003
   },
@@ -19,7 +19,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 20,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "muck",
     "ref": "",
     "osmId": null
   },
@@ -31,7 +31,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 18,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "muck",
     "ref": "",
     "osmId": null
   },
@@ -43,7 +43,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 20,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "muck",
     "ref": "",
     "osmId": null
   },
@@ -55,7 +55,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 22,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "muck",
     "ref": "",
     "osmId": null
   },
@@ -67,7 +67,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 25,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "muck",
     "ref": "",
     "osmId": null
   },
@@ -79,7 +79,7 @@
     "difficulty": "Beginner",
     "maxDepth": 12,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "muck",
     "ref": "",
     "osmId": null
   },
@@ -91,7 +91,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 18,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "muck",
     "ref": "",
     "osmId": null
   },
@@ -103,7 +103,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 20,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "muck",
     "ref": "",
     "osmId": null
   },
@@ -115,7 +115,7 @@
     "difficulty": "Beginner",
     "maxDepth": 15,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "muck",
     "ref": "",
     "osmId": null
   },
@@ -127,7 +127,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 20,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "muck",
     "ref": "",
     "osmId": null
   },
@@ -139,7 +139,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 22,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "muck",
     "ref": "",
     "osmId": null
   },
@@ -151,7 +151,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 25,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "muck",
     "ref": "",
     "osmId": null
   }

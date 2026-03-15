@@ -23,7 +23,7 @@ Ron's Wreck is a dive site in Utila featuring the wreck of the Ron's Wreck. Loca
 
 - **Location**: Utila, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

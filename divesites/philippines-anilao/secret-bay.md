@@ -5,7 +5,7 @@ lng: 120.92
 difficulty: Beginner
 maxDepth: 8
 entryType: shore
-siteType: reef
+siteType: muck
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,7 +23,7 @@ Secret Bay is a dive site in Philippines Anilao offering excellent diving on hea
 
 - **Location**: Philippines Anilao, Asia
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Muck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 8 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

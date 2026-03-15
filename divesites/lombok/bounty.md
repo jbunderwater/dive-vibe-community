@@ -23,7 +23,7 @@ Bounty is a dive site in Lombok featuring the wreck of the Bounty . source is Di
 
 - **Location**: Lombok, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

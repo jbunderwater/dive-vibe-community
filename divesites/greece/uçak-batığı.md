@@ -23,7 +23,7 @@ Uçak Batığı is a dive site in Greece featuring the wreck of the Uçak Batı�
 
 - **Location**: Greece, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

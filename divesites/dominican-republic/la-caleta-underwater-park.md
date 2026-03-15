@@ -23,7 +23,7 @@ La Caleta Underwater Park is a dive site in Dominican Republic featuring the wre
 
 - **Location**: Dominican Republic, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

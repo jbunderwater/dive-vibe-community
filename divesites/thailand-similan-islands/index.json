@@ -12,18 +12,6 @@
     "osmId": 270980741
   },
   {
-    "name": "Elephant Head",
-    "filename": "elephant-head.md",
-    "lat": 8.6196229,
-    "lng": 97.6408268,
-    "difficulty": "Intermediate",
-    "maxDepth": 20,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 270980993
-  },
-  {
     "name": "Boonsung Wreck",
     "filename": "boonsung-wreck.md",
     "lat": 8.7707571,
@@ -127,7 +115,7 @@
     "difficulty": "Advanced",
     "maxDepth": 30,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "wall",
     "ref": "",
     "osmId": null
   },
@@ -139,7 +127,7 @@
     "difficulty": "Advanced",
     "maxDepth": 28,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "wall",
     "ref": "",
     "osmId": null
   },

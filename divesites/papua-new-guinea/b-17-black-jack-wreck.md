@@ -23,7 +23,7 @@ B-17 Black Jack Wreck is a dive site in Papua New Guinea featuring the wreck of 
 
 - **Location**: Papua New Guinea, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 50 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)

@@ -18,7 +18,8 @@ scripts/
   gather_osm_extended.py       # Extended scraper (-d slug, --wrecks-only, --gaps-only)
   clean_osm_data.py            # Bulk cleaner
   fill_new_destinations.py     # Curated site gap-filler
-  generate_sites.py            # Markdown generator
+  generate_sites.py            # Markdown generator (full regeneration)
+  sync_sites.py                # Sync osm_clean changes to markdown frontmatter + index.json
 ```
 
 ## Data Quality Standards
@@ -78,7 +79,8 @@ Use the `/add-destinations` slash command for the full agentic workflow, or foll
 4. Run quality checks (`/quality-check`)
 5. Gap-fill if < 8 sites with curated data
 6. **Validate site types** (`/validate-sites`) — research each site against ScubaBoard and dive forums
-7. Run `python3 scripts/generate_sites.py` to generate markdown
+7. Run `python3 scripts/generate_sites.py` to generate markdown (first time only)
+8. Run `python3 scripts/sync_sites.py <slug>` after any osm_clean data changes to update markdown + index.json
 
 ## Agentic Research Pattern
 
@@ -89,3 +91,4 @@ For site validation and destination research, use parallel agents:
 - Always validate the destination's overall diving character BEFORE individual sites
 - Cold-water destinations: minimum Intermediate difficulty
 - Remote liveaboard destinations: minimum Advanced difficulty
+- After applying osm_clean changes, run `python3 scripts/sync_sites.py <slug>` to propagate to markdown files and index.json

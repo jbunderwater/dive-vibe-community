@@ -115,7 +115,7 @@
     "difficulty": "Advanced",
     "maxDepth": 28,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "wall",
     "ref": "",
     "osmId": null
   },
@@ -142,5 +142,29 @@
     "siteType": "reef",
     "ref": "",
     "osmId": null
+  },
+  {
+    "name": "Rhone",
+    "filename": "rhone.md",
+    "lat": 18.3689063,
+    "lng": -64.5345635,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 302028648
+  },
+  {
+    "name": "Eagle Shoal",
+    "filename": "eagle-shoal.md",
+    "lat": 18.3057086,
+    "lng": -64.6896876,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 893436066
   }
 ]

@@ -4,8 +4,8 @@ lat: -5.8281185
 lng: 39.3825609
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
-siteType: reef
+entryType: boat
+siteType: wall
 ref: null
 osmId: 10224583153
 addedBy: osm_import
@@ -22,8 +22,8 @@ Memba 2 is a dive site in Tanzania offering rewarding diving on healthy coral re
 ## Site Information
 
 - **Location**: Tanzania, Africa
-- **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Entry Type**: Boat dive
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)

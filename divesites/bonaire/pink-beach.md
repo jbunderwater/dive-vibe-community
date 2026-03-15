@@ -2,7 +2,7 @@
 name: Pink Beach
 lat: 12.0628465
 lng: -68.2822351
-difficulty: Intermediate
+difficulty: Beginner
 maxDepth: 30
 entryType: shore
 siteType: reef
@@ -21,8 +21,8 @@ Pink Beach is one of Bonaire's most picturesque dive sites, located on the south
 ## Site Information
 - **Location**: Southwest Bonaire (near Kralendijk)
 - **Entry Type**: Shore entry
-- **Site Type**: Reef
-- **Difficulty Level**: Intermediate
+- **Site Type**: Coral reef
+- **Difficulty Level**: Beginner
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15-25 meters
 - **Current**: Light to moderate

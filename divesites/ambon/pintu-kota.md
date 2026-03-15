@@ -23,7 +23,7 @@ Pintu Kota is a dive site in Ambon featuring underwater cave and cavern formatio
 
 - **Location**: Ambon, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

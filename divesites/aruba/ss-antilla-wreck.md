@@ -23,7 +23,7 @@ SS Antilla Wreck is a dive site in Aruba featuring a historic wreck. Located in 
 
 - **Location**: Aruba, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

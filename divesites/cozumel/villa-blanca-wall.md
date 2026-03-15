@@ -5,7 +5,7 @@ lng: -86.979446
 difficulty: Beginner
 maxDepth: 12
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: 663869366
 addedBy: osm_import
@@ -23,7 +23,7 @@ Villa Blanca Wall is a dive site in Cozumel offering excellent diving on healthy
 
 - **Location**: Cozumel, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

@@ -5,7 +5,7 @@ lng: 39.58805
 difficulty: Intermediate
 maxDepth: 25
 entryType: shore
-siteType: reef
+siteType: wall
 ref: null
 osmId: 13165341861
 addedBy: osm_import
@@ -23,7 +23,7 @@ Napoleon Wall is a dive site in Zanzibar offering rewarding diving on healthy co
 
 - **Location**: Zanzibar, Africa
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)

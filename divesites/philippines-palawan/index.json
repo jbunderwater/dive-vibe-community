@@ -16,10 +16,10 @@
     "filename": "biet-point.md",
     "lat": 11.1414055,
     "lng": 119.3047041,
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "maxDepth": 21,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "wall",
     "ref": "",
     "osmId": 9865420678
   },
@@ -41,9 +41,9 @@
     "lat": 11.1356437,
     "lng": 119.2806245,
     "difficulty": "Intermediate",
-    "maxDepth": 20,
+    "maxDepth": 22,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "wall",
     "ref": "",
     "osmId": 9865490958
   },
@@ -52,10 +52,10 @@
     "filename": "bikanayos-rock.md",
     "lat": 11.1439916,
     "lng": 119.2781609,
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "maxDepth": 20,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "wall",
     "ref": "",
     "osmId": 9865495623
   },
@@ -64,7 +64,7 @@
     "filename": "twin-reef.md",
     "lat": 10.4431259,
     "lng": 119.1645987,
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "maxDepth": 20,
     "entryType": "boat",
     "siteType": "reef",
@@ -77,7 +77,7 @@
     "lat": 10.4542766,
     "lng": 119.1612451,
     "difficulty": "Intermediate",
-    "maxDepth": 20,
+    "maxDepth": 25,
     "entryType": "boat",
     "siteType": "reef",
     "ref": "",
@@ -90,7 +90,7 @@
     "lng": 117.2566739,
     "difficulty": "Intermediate",
     "maxDepth": 25,
-    "entryType": "shore",
+    "entryType": "boat",
     "siteType": "reef",
     "ref": "",
     "osmId": 302105912
@@ -102,7 +102,7 @@
     "lng": 117.633333,
     "difficulty": "Intermediate",
     "maxDepth": 25,
-    "entryType": "shore",
+    "entryType": "boat",
     "siteType": "reef",
     "ref": "",
     "osmId": 302106076
@@ -114,7 +114,7 @@
     "lng": 117.633333,
     "difficulty": "Intermediate",
     "maxDepth": 25,
-    "entryType": "shore",
+    "entryType": "boat",
     "siteType": "reef",
     "ref": "",
     "osmId": 302106207
@@ -126,7 +126,7 @@
     "lng": 117.2984421,
     "difficulty": "Intermediate",
     "maxDepth": 25,
-    "entryType": "shore",
+    "entryType": "boat",
     "siteType": "reef",
     "ref": "",
     "osmId": 6738675480
@@ -138,7 +138,7 @@
     "lng": 117.2908884,
     "difficulty": "Intermediate",
     "maxDepth": 25,
-    "entryType": "shore",
+    "entryType": "boat",
     "siteType": "reef",
     "ref": "",
     "osmId": 6738682611
@@ -150,7 +150,7 @@
     "lng": 117.2826439,
     "difficulty": "Intermediate",
     "maxDepth": 25,
-    "entryType": "shore",
+    "entryType": "boat",
     "siteType": "reef",
     "ref": "",
     "osmId": 6738682612
@@ -162,7 +162,7 @@
     "lng": 117.3833679,
     "difficulty": "Intermediate",
     "maxDepth": 25,
-    "entryType": "shore",
+    "entryType": "boat",
     "siteType": "reef",
     "ref": "",
     "osmId": 6739186148
@@ -174,7 +174,7 @@
     "lng": 117.2535095,
     "difficulty": "Intermediate",
     "maxDepth": 25,
-    "entryType": "shore",
+    "entryType": "boat",
     "siteType": "reef",
     "ref": "",
     "osmId": 6739186149
@@ -184,10 +184,10 @@
     "filename": "jesse-beazley-reef.md",
     "lat": 9.0466227,
     "lng": 119.8142609,
-    "difficulty": "Intermediate",
-    "maxDepth": 25,
-    "entryType": "shore",
-    "siteType": "reef",
+    "difficulty": "Advanced",
+    "maxDepth": 29,
+    "entryType": "boat",
+    "siteType": "wall",
     "ref": "",
     "osmId": 31974943
   },
@@ -198,7 +198,7 @@
     "lng": 118.4203649,
     "difficulty": "Intermediate",
     "maxDepth": 25,
-    "entryType": "shore",
+    "entryType": "boat",
     "siteType": "reef",
     "ref": "",
     "osmId": 413035982
@@ -210,7 +210,7 @@
     "lng": 118.5626615,
     "difficulty": "Intermediate",
     "maxDepth": 25,
-    "entryType": "shore",
+    "entryType": "boat",
     "siteType": "reef",
     "ref": "",
     "osmId": 413035990
@@ -222,7 +222,7 @@
     "lng": 117.2411987,
     "difficulty": "Intermediate",
     "maxDepth": 25,
-    "entryType": "shore",
+    "entryType": "boat",
     "siteType": "reef",
     "ref": "",
     "osmId": 413036033
@@ -234,7 +234,7 @@
     "lng": 117.3516624,
     "difficulty": "Intermediate",
     "maxDepth": 25,
-    "entryType": "shore",
+    "entryType": "boat",
     "siteType": "reef",
     "ref": "",
     "osmId": 717550232
@@ -246,7 +246,7 @@
     "lng": 117.4353953,
     "difficulty": "Intermediate",
     "maxDepth": 25,
-    "entryType": "shore",
+    "entryType": "boat",
     "siteType": "reef",
     "ref": "",
     "osmId": 717648122
@@ -258,7 +258,7 @@
     "lng": 117.1671437,
     "difficulty": "Intermediate",
     "maxDepth": 25,
-    "entryType": "shore",
+    "entryType": "boat",
     "siteType": "reef",
     "ref": "",
     "osmId": 845732602
@@ -270,7 +270,7 @@
     "lng": 117.3608486,
     "difficulty": "Intermediate",
     "maxDepth": 25,
-    "entryType": "shore",
+    "entryType": "boat",
     "siteType": "reef",
     "ref": "",
     "osmId": 845732611
@@ -282,7 +282,7 @@
     "lng": 117.4042305,
     "difficulty": "Intermediate",
     "maxDepth": 25,
-    "entryType": "shore",
+    "entryType": "boat",
     "siteType": "reef",
     "ref": "",
     "osmId": 845732612
@@ -294,7 +294,7 @@
     "lng": 117.3954798,
     "difficulty": "Intermediate",
     "maxDepth": 25,
-    "entryType": "shore",
+    "entryType": "boat",
     "siteType": "reef",
     "ref": "",
     "osmId": 845732613
@@ -306,7 +306,7 @@
     "lng": 117.2200012,
     "difficulty": "Intermediate",
     "maxDepth": 25,
-    "entryType": "shore",
+    "entryType": "boat",
     "siteType": "reef",
     "ref": "",
     "osmId": 909901874
@@ -318,7 +318,7 @@
     "lng": 117.0789412,
     "difficulty": "Intermediate",
     "maxDepth": 25,
-    "entryType": "shore",
+    "entryType": "boat",
     "siteType": "reef",
     "ref": "",
     "osmId": 910874578
@@ -330,7 +330,7 @@
     "lng": 117.2728355,
     "difficulty": "Intermediate",
     "maxDepth": 25,
-    "entryType": "shore",
+    "entryType": "boat",
     "siteType": "reef",
     "ref": "",
     "osmId": 914181791
@@ -342,7 +342,7 @@
     "lng": 117.4581884,
     "difficulty": "Intermediate",
     "maxDepth": 25,
-    "entryType": "shore",
+    "entryType": "boat",
     "siteType": "reef",
     "ref": "",
     "osmId": 914181792
@@ -354,7 +354,7 @@
     "lng": 117.6451538,
     "difficulty": "Intermediate",
     "maxDepth": 25,
-    "entryType": "shore",
+    "entryType": "boat",
     "siteType": "reef",
     "ref": "",
     "osmId": 914181793
@@ -366,7 +366,7 @@
     "lng": 117.2926287,
     "difficulty": "Intermediate",
     "maxDepth": 25,
-    "entryType": "shore",
+    "entryType": "boat",
     "siteType": "reef",
     "ref": "",
     "osmId": 914181796
@@ -378,7 +378,7 @@
     "lng": 117.3573603,
     "difficulty": "Intermediate",
     "maxDepth": 25,
-    "entryType": "shore",
+    "entryType": "boat",
     "siteType": "reef",
     "ref": "",
     "osmId": 914181797
@@ -390,7 +390,7 @@
     "lng": 117.1743593,
     "difficulty": "Intermediate",
     "maxDepth": 25,
-    "entryType": "shore",
+    "entryType": "boat",
     "siteType": "reef",
     "ref": "",
     "osmId": 1317451379
@@ -402,7 +402,7 @@
     "lng": 117.023449,
     "difficulty": "Intermediate",
     "maxDepth": 25,
-    "entryType": "shore",
+    "entryType": "boat",
     "siteType": "reef",
     "ref": "",
     "osmId": 1352284995
@@ -414,7 +414,7 @@
     "lng": 118.6152723,
     "difficulty": "Intermediate",
     "maxDepth": 25,
-    "entryType": "shore",
+    "entryType": "boat",
     "siteType": "reef",
     "ref": "",
     "osmId": 1368048193
@@ -426,7 +426,7 @@
     "lng": 117.3899299,
     "difficulty": "Intermediate",
     "maxDepth": 25,
-    "entryType": "shore",
+    "entryType": "boat",
     "siteType": "reef",
     "ref": "",
     "osmId": 1434633827

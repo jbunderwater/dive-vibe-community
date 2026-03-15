@@ -2,10 +2,10 @@
 name: Jackson reef
 lat: 28.0059666
 lng: 34.472557
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 30
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: 8559506184
 addedBy: osm_import
@@ -23,8 +23,8 @@ Jackson reef is a dive site in Red Sea offering rewarding diving on healthy cora
 
 - **Location**: Red Sea, Middle East
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
+- **Site Type**: Wall dive
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Moderate to strong

@@ -2,10 +2,10 @@
 name: Lobster Rock
 lat: 5.535
 lng: -87.0633
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 18
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,8 +23,8 @@ Lobster Rock is a dive site in Cocos Island offering rewarding diving on healthy
 
 - **Location**: Cocos Island, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
+- **Site Type**: Wall dive
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)
 - **Current**: Moderate to strong

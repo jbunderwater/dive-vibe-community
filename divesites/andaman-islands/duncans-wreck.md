@@ -23,7 +23,7 @@ Duncan's Wreck is a dive site in Andaman Islands featuring the wreck of the Dunc
 
 - **Location**: Andaman Islands, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

@@ -115,7 +115,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 25,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "wreck",
     "ref": "",
     "osmId": 13042385000
   },
@@ -163,7 +163,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 30,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "wreck",
     "ref": "",
     "osmId": 13042425104
   },
@@ -175,7 +175,7 @@
     "difficulty": "Advanced",
     "maxDepth": 33,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "wreck",
     "ref": "",
     "osmId": 13042425105
   },
@@ -187,7 +187,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 25,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "wreck",
     "ref": "",
     "osmId": 13042425106
   },

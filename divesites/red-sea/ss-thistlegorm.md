@@ -2,7 +2,7 @@
 name: SS Thistlegorm
 lat: 27.814092
 lng: 33.9200482
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 31
 entryType: boat
 siteType: wreck
@@ -23,8 +23,8 @@ SS Thistlegorm is a renowned dive site in Red Sea featuring a historic wreck. Lo
 
 - **Location**: Red Sea, Middle East
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
-- **Difficulty Level**: Intermediate
+- **Site Type**: Wreck dive
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 31 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Moderate to strong

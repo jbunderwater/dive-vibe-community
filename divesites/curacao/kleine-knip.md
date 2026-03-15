@@ -2,10 +2,10 @@
 name: Kleine Knip
 lat: 12.341558
 lng: -69.1538671
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 25
 entryType: Shore
-siteType: Reef
+siteType: reef
 ref: null
 osmId: null
 addedBy: assistant
@@ -22,9 +22,9 @@ Kleine Knip, also known as Playa Kenepa Chiki, is one of Curaçao's most picture
 ## Site Information
 
 - **Location**: Northwest coast of Curaçao, between Westpunt and Lagun
-- **Entry Type**: Shore dive from sandy beach
-- **Site Type**: Fringing coral reef
-- **Difficulty Level**: Beginner to Intermediate
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters (82 feet)
 - **Typical Visibility**: 15-30 meters (50-100 feet)
 - **Current**: Usually minimal to none

@@ -23,7 +23,7 @@ MS Hamburg is a dive site in Norway Lofoten Islands featuring the wreck of the M
 
 - **Location**: Norway Lofoten Islands, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

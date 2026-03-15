@@ -2,7 +2,7 @@
 name: Angel City
 lat: 12.1033916
 lng: -68.2872133
-difficulty: Intermediate
+difficulty: Beginner
 maxDepth: 30
 entryType: shore
 siteType: reef
@@ -18,9 +18,9 @@ Angel City is a beautiful dive site located in southern Bonaire near Salt Pier. 
 
 ## Site Information
 - **Location**: South Bonaire (near Salt Pier)
-- **Entry Type**: Shore entry (easy sandy entry)
-- **Site Type**: Reef
-- **Difficulty Level**: Intermediate
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Difficulty Level**: Beginner
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-30 meters
 - **Current**: Usually light

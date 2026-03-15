@@ -3,9 +3,9 @@ name: Banayan Point
 lat: 11.1356437
 lng: 119.2806245
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 22
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: 9865490958
 addedBy: osm_import
@@ -23,9 +23,9 @@ Banayan Point is a dive site in Philippines Palawan offering rewarding diving on
 
 - **Location**: Philippines Palawan, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 22 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)

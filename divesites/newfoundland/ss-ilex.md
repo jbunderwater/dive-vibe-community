@@ -23,7 +23,7 @@ S.S. Ilex is a dive site in Newfoundland featuring the wreck of the S.S. Ilex. L
 
 - **Location**: Newfoundland, North America
 - **Entry Type**: Shore entry
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 5-25 meters (15-80 feet)

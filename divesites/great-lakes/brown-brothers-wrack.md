@@ -5,7 +5,7 @@ lng: -80.0983333
 difficulty: Advanced
 maxDepth: 40
 entryType: boat
-siteType: reef
+siteType: wreck
 ref: null
 osmId: 663869477
 addedBy: osm_import
@@ -23,7 +23,7 @@ Brown Brothers (Wrack) is a dive site in Great Lakes offering rewarding diving o
 
 - **Location**: Great Lakes, North America
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
 - **Typical Visibility**: 5-25 meters (15-80 feet)

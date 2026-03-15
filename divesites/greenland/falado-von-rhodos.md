@@ -23,7 +23,7 @@ Falado von Rhodos is a dive site in Greenland featuring the wreck of the Falado 
 
 - **Location**: Greenland, Arctic
 - **Entry Type**: Shore entry
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 90 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)

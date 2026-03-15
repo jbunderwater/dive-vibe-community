@@ -5,7 +5,7 @@ lng: -121.902
 difficulty: Advanced
 maxDepth: 28
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,7 +23,7 @@ Aumentos Pinnacle is a dive site in Monterey Bay offering rewarding diving on he
 
 - **Location**: Monterey Bay, North America
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 28 meters
 - **Typical Visibility**: 5-25 meters (15-80 feet)

@@ -43,7 +43,7 @@
     "difficulty": "Advanced",
     "maxDepth": 35,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "wall",
     "ref": "",
     "osmId": null
   },

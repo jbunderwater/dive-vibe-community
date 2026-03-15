@@ -2,7 +2,7 @@
 name: Tori's Reef
 lat: 12.0701968
 lng: -68.2805412
-difficulty: Intermediate
+difficulty: Beginner
 maxDepth: 30
 entryType: shore
 siteType: reef
@@ -21,8 +21,8 @@ Tori's Reef is a pristine dive site located on Bonaire's southwestern coast, off
 ## Site Information
 - **Location**: Southwest Bonaire (near Kralendijk)
 - **Entry Type**: Shore entry
-- **Site Type**: Reef
-- **Difficulty Level**: Intermediate
+- **Site Type**: Coral reef
+- **Difficulty Level**: Beginner
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15-25 meters
 - **Current**: Light to moderate

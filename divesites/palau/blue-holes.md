@@ -23,7 +23,7 @@ Blue Holes is a dive site in Palau featuring underwater cave and cavern formatio
 
 - **Location**: Palau, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)

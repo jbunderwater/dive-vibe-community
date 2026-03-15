@@ -7,7 +7,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 20,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "pinnacle",
     "ref": "",
     "osmId": 4003440589
   },
@@ -103,7 +103,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 20,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "pinnacle",
     "ref": "",
     "osmId": 4941394887
   },
@@ -115,7 +115,7 @@
     "difficulty": "Beginner",
     "maxDepth": 20,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "pinnacle",
     "ref": "",
     "osmId": 4941394888
   },
@@ -127,7 +127,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 20,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "pinnacle",
     "ref": "",
     "osmId": 4941394889
   },
@@ -139,7 +139,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 30,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "pinnacle",
     "ref": "",
     "osmId": 4941394890
   },
@@ -151,7 +151,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 50,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "pinnacle",
     "ref": "",
     "osmId": 6215139685
   },
@@ -190,17 +190,5 @@
     "siteType": "wreck",
     "ref": "",
     "osmId": 244536817
-  },
-  {
-    "name": "Monad Shoel",
-    "filename": "monad-shoel.md",
-    "lat": 11.308907,
-    "lng": 124.1882461,
-    "difficulty": "Intermediate",
-    "maxDepth": 50,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 485836542
   }
 ]

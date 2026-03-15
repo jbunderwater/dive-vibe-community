@@ -5,7 +5,7 @@ lng: 35.6340114
 difficulty: Advanced
 maxDepth: 30
 entryType: boat
-siteType: reef
+siteType: wreck
 ref: null
 osmId: 1068557838
 addedBy: osm_import
@@ -23,7 +23,7 @@ Turbo is a dive site in Red Sea offering rewarding diving on healthy coral reef 
 
 - **Location**: Red Sea, Middle East
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

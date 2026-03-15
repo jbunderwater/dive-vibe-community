@@ -2,10 +2,10 @@
 name: Plazas
 lat: -0.5796433
 lng: -90.1597537
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 20
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: 13123276912
 addedBy: osm_import
@@ -23,8 +23,8 @@ Plazas is a dive site in Galápagos Islands offering rewarding diving on healthy
 
 - **Location**: Galápagos Islands, South America
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
+- **Site Type**: Wall dive
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10-25 meters (30-80 feet)
 - **Current**: Moderate to strong

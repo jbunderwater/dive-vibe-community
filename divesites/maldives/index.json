@@ -108,18 +108,6 @@
     "osmId": 663869881
   },
   {
-    "name": "Fesdhoo",
-    "filename": "fesdhoo.md",
-    "lat": 3.9994333,
-    "lng": 72.7860333,
-    "difficulty": "Intermediate",
-    "maxDepth": 30,
-    "entryType": "boat",
-    "siteType": "wreck",
-    "ref": "",
-    "osmId": 663869882
-  },
-  {
     "name": "HimendhooThila West",
     "filename": "himendhoothila-west.md",
     "lat": 3.9155167,
@@ -199,7 +187,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 25,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "drift",
     "ref": "",
     "osmId": 663869889
   },
@@ -211,7 +199,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 25,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "drift",
     "ref": "",
     "osmId": 663869890
   },
@@ -235,7 +223,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 25,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "drift",
     "ref": "",
     "osmId": 663869892
   },
@@ -247,7 +235,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 25,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "drift",
     "ref": "",
     "osmId": 663869893
   },
@@ -324,18 +312,6 @@
     "osmId": 663869899
   },
   {
-    "name": "Rihiveli",
-    "filename": "rihiveli.md",
-    "lat": 3.820782,
-    "lng": 73.405026,
-    "difficulty": "Intermediate",
-    "maxDepth": 25,
-    "entryType": "boat",
-    "siteType": "wreck",
-    "ref": "",
-    "osmId": 663869900
-  },
-  {
     "name": "Fihalhohi Hausriff",
     "filename": "fihalhohi-hausriff.md",
     "lat": 3.877139,
@@ -403,7 +379,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 25,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "pinnacle",
     "ref": "",
     "osmId": 663869906
   },
@@ -415,7 +391,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 25,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "pinnacle",
     "ref": "",
     "osmId": 663869907
   },
@@ -576,18 +552,6 @@
     "osmId": 663869920
   },
   {
-    "name": "Vaageli Faru",
-    "filename": "vaageli-faru.md",
-    "lat": 3.949542,
-    "lng": 73.356496,
-    "difficulty": "Intermediate",
-    "maxDepth": 25,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 663869921
-  },
-  {
     "name": "Vaageli Bodu Faru",
     "filename": "vaageli-bodu-faru.md",
     "lat": 3.938861,
@@ -619,7 +583,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 25,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "pinnacle",
     "ref": "",
     "osmId": 663869924
   },
@@ -631,7 +595,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 25,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "pinnacle",
     "ref": "",
     "osmId": 663869925
   },
@@ -679,7 +643,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 25,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "drift",
     "ref": "",
     "osmId": 663869929
   },
@@ -859,7 +823,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 25,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "pinnacle",
     "ref": "",
     "osmId": 663869944
   },
@@ -883,7 +847,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 25,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "pinnacle",
     "ref": "",
     "osmId": 663869946
   },
@@ -907,7 +871,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 25,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "pinnacle",
     "ref": "",
     "osmId": 663869948
   },
@@ -931,7 +895,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 25,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "drift",
     "ref": "",
     "osmId": 663869950
   },
@@ -943,7 +907,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 25,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "drift",
     "ref": "",
     "osmId": 663869951
   },
@@ -970,18 +934,6 @@
     "siteType": "reef",
     "ref": "",
     "osmId": 672632386
-  },
-  {
-    "name": "Exit",
-    "filename": "exit.md",
-    "lat": 4.0864758,
-    "lng": 73.5101777,
-    "difficulty": "Intermediate",
-    "maxDepth": 25,
-    "entryType": "shore",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 682245357
   },
   {
     "name": "Main jetty exit",
@@ -1075,7 +1027,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 25,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "drift",
     "ref": "",
     "osmId": 4584554103
   },
@@ -1279,7 +1231,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 30,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "pinnacle",
     "ref": "",
     "osmId": 8584302416
   },
@@ -1303,7 +1255,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 25,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "drift",
     "ref": "",
     "osmId": 8584373032
   },
@@ -1315,7 +1267,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 25,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "pinnacle",
     "ref": "",
     "osmId": 8584458546
   },
@@ -1339,7 +1291,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 25,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "pinnacle",
     "ref": "",
     "osmId": 8584458550
   },
@@ -1363,7 +1315,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 30,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "pinnacle",
     "ref": "",
     "osmId": 8584458555
   },
@@ -1375,7 +1327,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 25,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "pinnacle",
     "ref": "",
     "osmId": 8584458557
   },
@@ -1387,7 +1339,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 25,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "drift",
     "ref": "",
     "osmId": 8584458560
   },
@@ -1399,7 +1351,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 25,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "pinnacle",
     "ref": "",
     "osmId": 9180047748
   },
@@ -1435,7 +1387,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 25,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "pinnacle",
     "ref": "",
     "osmId": 9180047752
   },
@@ -1567,7 +1519,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 30,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "pinnacle",
     "ref": "",
     "osmId": 9557518245
   },
@@ -1591,7 +1543,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 25,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "cave",
     "ref": "",
     "osmId": 9562074179
   },
@@ -1603,7 +1555,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 25,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "pinnacle",
     "ref": "",
     "osmId": 9572676008
   },
@@ -1639,7 +1591,7 @@
     "difficulty": "Beginner",
     "maxDepth": 16,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "pinnacle",
     "ref": "",
     "osmId": 10185709789
   },
@@ -1666,18 +1618,6 @@
     "siteType": "wreck",
     "ref": "",
     "osmId": 11300299755
-  },
-  {
-    "name": "Ocean Pro",
-    "filename": "ocean-pro.md",
-    "lat": 4.6345251,
-    "lng": 73.5637861,
-    "difficulty": "Intermediate",
-    "maxDepth": 25,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 44091147
   },
   {
     "name": "Keyodhoo Shipwreck",

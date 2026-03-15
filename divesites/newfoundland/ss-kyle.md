@@ -23,7 +23,7 @@ SS Kyle is a dive site in Newfoundland featuring a historic wreck which sank in 
 
 - **Location**: Newfoundland, North America
 - **Entry Type**: Shore entry
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 5-25 meters (15-80 feet)

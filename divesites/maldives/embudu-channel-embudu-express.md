@@ -5,7 +5,7 @@ lng: 73.5338869
 difficulty: Intermediate
 maxDepth: 25
 entryType: boat
-siteType: reef
+siteType: drift
 ref: null
 osmId: 663869950
 addedBy: osm_import
@@ -23,7 +23,7 @@ Embudu Channel / Embudu Express is a dive site in Maldives offering rewarding di
 
 - **Location**: Maldives, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Drift dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

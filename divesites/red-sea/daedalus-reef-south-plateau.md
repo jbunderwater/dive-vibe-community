@@ -5,7 +5,7 @@ lng: 35.8701908
 difficulty: Advanced
 maxDepth: 40
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: 701594783
 addedBy: osm_import
@@ -23,7 +23,7 @@ Daedalus Reef South Plateau is a dive site in Red Sea offering rewarding diving 
 
 - **Location**: Red Sea, Middle East
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

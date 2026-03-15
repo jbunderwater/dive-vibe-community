@@ -5,7 +5,7 @@ lng: -86.59
 difficulty: Intermediate
 maxDepth: 22
 entryType: boat
-siteType: reef
+siteType: drift
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,7 +23,7 @@ Blue Channel is a dive site in Roatán offering rewarding diving on healthy cora
 
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Drift dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 22 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

@@ -142,5 +142,53 @@
     "siteType": "reef",
     "ref": "",
     "osmId": null
+  },
+  {
+    "name": "Eillon",
+    "filename": "eillon.md",
+    "lat": 13.0866205,
+    "lng": -59.6119693,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 7075601814
+  },
+  {
+    "name": "Bajan Queen",
+    "filename": "bajan-queen.md",
+    "lat": 13.0863083,
+    "lng": -59.6120651,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 7075601815
+  },
+  {
+    "name": "SS Stavronikita",
+    "filename": "ss-stavronikita.md",
+    "lat": 13.18,
+    "lng": -59.642,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 13461568301
+  },
+  {
+    "name": "The Barge",
+    "filename": "the-barge.md",
+    "lat": 13.1865,
+    "lng": -59.6437,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 13461587401
   }
 ]

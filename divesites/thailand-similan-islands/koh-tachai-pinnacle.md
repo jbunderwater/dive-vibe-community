@@ -5,7 +5,7 @@ lng: 97.83
 difficulty: Advanced
 maxDepth: 28
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,7 +23,7 @@ Koh Tachai Pinnacle is a dive site in Thailand Similan Islands offering rewardin
 
 - **Location**: Thailand Similan Islands, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 28 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

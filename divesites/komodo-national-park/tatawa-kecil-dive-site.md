@@ -2,10 +2,10 @@
 name: Tatawa Kecil dive site
 lat: -8.5252252
 lng: 119.6332396
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Advanced
+maxDepth: 30
 entryType: boat
-siteType: reef
+siteType: drift
 ref: null
 osmId: 7182760644
 addedBy: osm_import
@@ -23,9 +23,9 @@ Tatawa Kecil dive site is a dive site in Komodo National Park offering rewarding
 
 - **Location**: Komodo National Park, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Site Type**: Drift dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)

@@ -5,7 +5,7 @@ lng: -81.73
 difficulty: Advanced
 maxDepth: 30
 entryType: boat
-siteType: reef
+siteType: pinnacle
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,7 +23,7 @@ Shark Point Coiba is a dive site in Coiba National Park offering rewarding divin
 
 - **Location**: Coiba National Park, South America
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-25 meters (30-80 feet)

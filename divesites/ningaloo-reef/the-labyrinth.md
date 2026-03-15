@@ -2,7 +2,7 @@
 name: The Labyrinth
 lat: -22.05
 lng: 113.9167
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 18
 entryType: boat
 siteType: reef
@@ -24,7 +24,7 @@ The Labyrinth is a dive site in Ningaloo Reef offering rewarding diving on healt
 - **Location**: Ningaloo Reef, Oceania
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 15-40 meters (50-130 feet)
 - **Current**: Variable

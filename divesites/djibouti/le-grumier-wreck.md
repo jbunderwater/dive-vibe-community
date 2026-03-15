@@ -23,7 +23,7 @@ Le Grumier Wreck is a dive site in Djibouti featuring the wreck of the Le Grumie
 
 - **Location**: Djibouti, Africa
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)

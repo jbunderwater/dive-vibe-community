@@ -23,7 +23,7 @@ China Wreck (direction 150deg) is a dive site in Oman featuring the wreck of the
 
 - **Location**: Oman, Middle East
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

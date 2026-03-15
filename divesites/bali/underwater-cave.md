@@ -23,7 +23,7 @@ Underwater Cave is a dive site in Bali featuring underwater cave and cavern form
 
 - **Location**: Bali, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

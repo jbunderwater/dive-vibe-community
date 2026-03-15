@@ -23,7 +23,7 @@ Cala Gonone is a dive site in Sardinia featuring underwater cave and cavern form
 
 - **Location**: Sardinia, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

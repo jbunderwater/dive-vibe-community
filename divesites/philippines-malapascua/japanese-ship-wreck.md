@@ -23,7 +23,7 @@ Japanese Ship Wreck is a dive site in Philippines Malapascua featuring the wreck
 
 - **Location**: Philippines Malapascua, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

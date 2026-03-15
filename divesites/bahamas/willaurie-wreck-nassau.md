@@ -23,7 +23,7 @@ Willaurie Wreck Nassau is a dive site in Bahamas featuring the wreck of the Will
 
 - **Location**: Bahamas, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 14 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

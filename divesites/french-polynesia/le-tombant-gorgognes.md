@@ -5,7 +5,7 @@ lng: -149.303253
 difficulty: Intermediate
 maxDepth: 25
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: 663869230
 addedBy: osm_import
@@ -23,7 +23,7 @@ Le tombant Gorgognes is a dive site in French Polynesia offering rewarding divin
 
 - **Location**: French Polynesia, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)

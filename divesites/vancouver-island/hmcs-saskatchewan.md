@@ -23,7 +23,7 @@ HMCS Saskatchewan is a dive site in Vancouver Island featuring the wreck of the 
 
 - **Location**: Vancouver Island, North America
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 56 meters
 - **Typical Visibility**: 5-25 meters (15-80 feet)

@@ -5,7 +5,7 @@ lng: 55.37
 difficulty: Advanced
 maxDepth: 30
 entryType: boat
-siteType: reef
+siteType: pinnacle
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,7 +23,7 @@ Shark Bank is a dive site in Seychelles offering rewarding diving on healthy cor
 
 - **Location**: Seychelles, Africa
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)

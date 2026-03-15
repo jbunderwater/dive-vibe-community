@@ -5,7 +5,7 @@ lng: 55.45
 difficulty: Intermediate
 maxDepth: 18
 entryType: boat
-siteType: reef
+siteType: drift
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,7 +23,7 @@ Trompeuse Rocks is a dive site in Seychelles offering rewarding diving on health
 
 - **Location**: Seychelles, Africa
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Drift dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)

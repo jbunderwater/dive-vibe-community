@@ -5,7 +5,7 @@ lng: -61.76
 difficulty: Intermediate
 maxDepth: 22
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,7 +23,7 @@ Pillars of Hercules is a dive site in Antigua and Barbuda offering rewarding div
 
 - **Location**: Antigua and Barbuda, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 22 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

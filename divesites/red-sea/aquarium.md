@@ -2,8 +2,8 @@
 name: Aquarium
 lat: 27.1393526
 lng: 33.9546855
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Beginner
+maxDepth: 16
 entryType: boat
 siteType: reef
 ref: null
@@ -24,8 +24,8 @@ Aquarium is a dive site in Red Sea offering rewarding diving on healthy coral re
 - **Location**: Red Sea, Middle East
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 16 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Moderate to strong
 - **Best Time**: September to May

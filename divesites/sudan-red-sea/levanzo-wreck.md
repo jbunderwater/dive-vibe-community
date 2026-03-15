@@ -23,7 +23,7 @@ Levanzo Wreck is a dive site in Sudan Red Sea featuring the wreck of the Levanzo
 
 - **Location**: Sudan Red Sea, Middle East
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

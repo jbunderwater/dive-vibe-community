@@ -23,7 +23,7 @@ Long Lava Tube is a dive site in Hawaii Big Island featuring underwater cave and
 
 - **Location**: Hawaii Big Island, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)

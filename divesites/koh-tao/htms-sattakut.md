@@ -23,7 +23,7 @@ HTMS Sattakut is a dive site in Koh Tao featuring the wreck of the HTMS Sattakut
 
 - **Location**: Koh Tao, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 32 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

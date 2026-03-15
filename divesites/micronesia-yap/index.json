@@ -7,7 +7,7 @@
     "difficulty": "Beginner",
     "maxDepth": 12,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "drift",
     "ref": "",
     "osmId": 4031012952
   },
@@ -19,7 +19,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 25,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "drift",
     "ref": "",
     "osmId": 4031012953
   },
@@ -31,7 +31,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 20,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "drift",
     "ref": "",
     "osmId": 4031012954
   },

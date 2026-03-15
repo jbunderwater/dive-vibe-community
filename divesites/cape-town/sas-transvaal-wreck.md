@@ -23,7 +23,7 @@ SAS Transvaal Wreck is a dive site in Cape Town featuring the wreck of the SAS T
 
 - **Location**: Cape Town, Africa
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 33 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)

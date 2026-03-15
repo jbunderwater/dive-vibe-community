@@ -23,7 +23,7 @@ Spooky Channel is a dive site in Roatán featuring underwater cave and cavern fo
 
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 28 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

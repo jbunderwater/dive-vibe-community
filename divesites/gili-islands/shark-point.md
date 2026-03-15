@@ -2,7 +2,7 @@
 name: Shark Point
 lat: -8.3425401
 lng: 116.0236615
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 25
 entryType: boat
 siteType: reef
@@ -24,7 +24,7 @@ Shark Point is a renowned dive site in Gili Islands offering rewarding diving on
 - **Location**: Gili Islands, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong

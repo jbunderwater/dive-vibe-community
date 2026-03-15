@@ -5,7 +5,7 @@ lng: 55.38
 difficulty: Beginner
 maxDepth: 16
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,7 +23,7 @@ Ave Maria Rock is a dive site in Seychelles offering excellent diving on healthy
 
 - **Location**: Seychelles, Africa
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 16 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)

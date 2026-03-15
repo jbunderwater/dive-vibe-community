@@ -19,7 +19,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 30,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "pinnacle",
     "ref": "",
     "osmId": 5338514522
   },
@@ -31,7 +31,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 25,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "wall",
     "ref": "",
     "osmId": 5349889523
   },
@@ -43,7 +43,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 25,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "pinnacle",
     "ref": "",
     "osmId": 5453434627
   },
@@ -79,7 +79,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 25,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "drift",
     "ref": "",
     "osmId": 5453439733
   },
@@ -103,7 +103,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 27,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "pinnacle",
     "ref": "",
     "osmId": 7161892285
   },
@@ -132,18 +132,6 @@
     "osmId": 9865439531
   },
   {
-    "name": "Aerborek Jetty",
-    "filename": "aerborek-jetty.md",
-    "lat": -0.5634152,
-    "lng": 130.5186131,
-    "difficulty": "Intermediate",
-    "maxDepth": 25,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 9865449636
-  },
-  {
     "name": "Sardine Reef",
     "filename": "sardine-reef.md",
     "lat": -0.5333183,
@@ -151,7 +139,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 20,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "pinnacle",
     "ref": "",
     "osmId": 9865460718
   },
@@ -240,18 +228,6 @@
     "osmId": 12167270979
   },
   {
-    "name": "Mayhem",
-    "filename": "mayhem.md",
-    "lat": -0.5139054,
-    "lng": 130.4454953,
-    "difficulty": "Intermediate",
-    "maxDepth": 25,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 12167275309
-  },
-  {
     "name": "Koh",
     "filename": "koh.md",
     "lat": -0.5529745,
@@ -262,18 +238,6 @@
     "siteType": "reef",
     "ref": "",
     "osmId": 12167277224
-  },
-  {
-    "name": "Kabui",
-    "filename": "kabui.md",
-    "lat": -0.4343816,
-    "lng": 130.6872477,
-    "difficulty": "Intermediate",
-    "maxDepth": 25,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 12167277390
   },
   {
     "name": "Kakatua reef",
@@ -295,7 +259,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 25,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "pinnacle",
     "ref": "",
     "osmId": 12167278047
   },
@@ -331,7 +295,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 25,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "drift",
     "ref": "",
     "osmId": 12167285438
   },
@@ -367,7 +331,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 25,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "pinnacle",
     "ref": "",
     "osmId": 12167293760
   },
@@ -403,7 +367,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 25,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "drift",
     "ref": "",
     "osmId": 12167300639
   },
@@ -427,7 +391,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 30,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "wall",
     "ref": "",
     "osmId": 12167303316
   },
@@ -540,18 +504,6 @@
     "osmId": 13041942033
   },
   {
-    "name": "The Passage",
-    "filename": "the-passage.md",
-    "lat": -0.4208683,
-    "lng": 130.5654502,
-    "difficulty": "Intermediate",
-    "maxDepth": 25,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 13041952531
-  },
-  {
     "name": "Way Pretty Shallows",
     "filename": "way-pretty-shallows.md",
     "lat": -0.5101972,
@@ -564,14 +516,14 @@
     "osmId": 13042087414
   },
   {
-    "name": "Soft corals in the passage",
-    "filename": "soft-corals-in-the-passage.md",
+    "name": "The Passage",
+    "filename": "the-passage.md",
     "lat": -0.4286672,
     "lng": 130.5610216,
     "difficulty": "Intermediate",
     "maxDepth": 25,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "drift",
     "ref": "",
     "osmId": 13042087868
   },
@@ -631,7 +583,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 25,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "pinnacle",
     "ref": "",
     "osmId": 13042123105
   },
@@ -811,7 +763,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 25,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "drift",
     "ref": "",
     "osmId": 13045652322
   },
@@ -835,7 +787,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 25,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "wall",
     "ref": "",
     "osmId": 13045665466
   },
@@ -871,7 +823,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 30,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "wall",
     "ref": "",
     "osmId": 565524431
   },
@@ -895,7 +847,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 25,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "wall",
     "ref": "",
     "osmId": 565524433
   },

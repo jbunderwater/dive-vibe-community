@@ -5,7 +5,7 @@ lng: 125.2409649
 difficulty: Intermediate
 maxDepth: 20
 entryType: boat
-siteType: reef
+siteType: muck
 ref: null
 osmId: 2138645003
 addedBy: osm_import
@@ -23,7 +23,7 @@ NAD Lembeh is a dive site in Lembeh Strait offering rewarding diving on healthy 
 
 - **Location**: Lembeh Strait, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Muck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

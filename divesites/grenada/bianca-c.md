@@ -23,7 +23,7 @@ Bianca C is a dive site in Grenada featuring the wreck of the Bianca C. Located 
 
 - **Location**: Grenada, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 50 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

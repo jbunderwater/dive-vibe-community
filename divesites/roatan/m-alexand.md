@@ -23,7 +23,7 @@ M Alexand is a dive site in Roatán featuring the wreck of the M Alexand which s
 
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Shore entry
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

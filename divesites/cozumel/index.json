@@ -247,7 +247,7 @@
     "difficulty": "Beginner",
     "maxDepth": 12,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "wall",
     "ref": "",
     "osmId": 663869366
   },

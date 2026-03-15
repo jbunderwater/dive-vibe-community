@@ -4,7 +4,7 @@ lat: -7.649833
 lng: 39.7214769
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
+entryType: boat
 siteType: reef
 ref: null
 osmId: 704741499
@@ -22,7 +22,7 @@ Nyororo Reef is a dive site in Tanzania offering rewarding diving on healthy cor
 ## Site Information
 
 - **Location**: Tanzania, Africa
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters

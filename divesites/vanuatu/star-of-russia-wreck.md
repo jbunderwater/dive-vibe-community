@@ -23,7 +23,7 @@ Star of Russia Wreck is a dive site in Vanuatu featuring the wreck of the Star o
 
 - **Location**: Vanuatu, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)

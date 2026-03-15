@@ -23,7 +23,7 @@ MV Dania Wreck is a dive site in Kenya Coast featuring a historic wreck. Located
 
 - **Location**: Kenya Coast, Africa
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)

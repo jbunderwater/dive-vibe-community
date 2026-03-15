@@ -5,7 +5,7 @@ lng: 116.0625884
 difficulty: Intermediate
 maxDepth: 20
 entryType: boat
-siteType: reef
+siteType: drift
 ref: null
 osmId: 2395669754
 addedBy: osm_import
@@ -23,7 +23,7 @@ Meno Corner is a dive site in Lombok offering rewarding diving on healthy coral 
 
 - **Location**: Lombok, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Drift dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

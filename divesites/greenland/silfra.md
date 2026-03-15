@@ -23,7 +23,7 @@ Silfra is a dive site in Greenland featuring underwater cave and cavern formatio
 
 - **Location**: Greenland, Arctic
 - **Entry Type**: Shore entry
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)

@@ -5,7 +5,7 @@ lng: 167.73253
 difficulty: Intermediate
 maxDepth: 25
 entryType: boat
-siteType: reef
+siteType: wreck
 ref: null
 osmId: 13042385000
 addedBy: osm_import
@@ -23,7 +23,7 @@ Toilet Bowl is a dive site in Marshall Islands offering rewarding diving on heal
 
 - **Location**: Marshall Islands, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)

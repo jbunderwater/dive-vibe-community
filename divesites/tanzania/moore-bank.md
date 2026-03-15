@@ -4,7 +4,7 @@ lat: -6.4575788
 lng: 39.3602024
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
+entryType: boat
 siteType: reef
 ref: null
 osmId: 704644197
@@ -22,7 +22,7 @@ Moore Bank is a dive site in Tanzania offering rewarding diving on healthy coral
 ## Site Information
 
 - **Location**: Tanzania, Africa
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters

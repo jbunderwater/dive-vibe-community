@@ -23,7 +23,7 @@ Kiyosumi Maru is a dive site in Chuuk Lagoon featuring the wreck of the Kiyosumi
 
 - **Location**: Chuuk Lagoon, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 27 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)

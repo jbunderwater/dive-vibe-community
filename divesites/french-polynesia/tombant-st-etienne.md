@@ -5,7 +5,7 @@ lng: -149.620071
 difficulty: Intermediate
 maxDepth: 25
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: 663869234
 addedBy: osm_import
@@ -23,7 +23,7 @@ Tombant St Etienne is a dive site in French Polynesia offering rewarding diving 
 
 - **Location**: French Polynesia, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)

@@ -23,7 +23,7 @@ Tie Dye Arch is a dive site in Poor Knights Islands featuring underwater cave an
 
 - **Location**: Poor Knights Islands, Oceania
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15-40 meters (50-130 feet)

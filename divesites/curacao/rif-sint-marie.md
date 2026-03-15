@@ -2,10 +2,10 @@
 name: Rif Sint Marie
 lat: 12.1985784
 lng: -69.079446
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 35
 entryType: Shore
-siteType: Reef
+siteType: reef
 ref: null
 osmId: null
 addedBy: assistant
@@ -22,9 +22,9 @@ Rif Sint Marie serves as the exclusive house reef for Coral Divers at Coral Esta
 ## Site Information
 
 - **Location**: West coast at Coral Estates Luxury Resort
-- **Entry Type**: Shore dive from resort beach
-- **Site Type**: Fringing coral reef
-- **Difficulty Level**: Beginner to Intermediate
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 35 meters (115 feet)
 - **Typical Visibility**: 20-25 meters (65-80 feet)
 - **Current**: Usually minimal to none

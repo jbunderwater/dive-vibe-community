@@ -3,9 +3,9 @@ name: Faille St Etienne
 lat: -17.618052
 lng: -149.620331
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 40
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: 663869233
 addedBy: osm_import
@@ -23,9 +23,9 @@ Faille St Etienne is a dive site in French Polynesia offering rewarding diving o
 
 - **Location**: French Polynesia, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)
 - **Current**: Moderate to strong
 - **Best Time**: April to November

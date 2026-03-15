@@ -4,7 +4,7 @@ lat: 10.7006614
 lng: 117.2566739
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
+entryType: boat
 siteType: reef
 ref: null
 osmId: 302105912
@@ -22,7 +22,7 @@ Brown Reef is a dive site in Philippines Palawan offering rewarding diving on he
 ## Site Information
 
 - **Location**: Philippines Palawan, Asia
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters

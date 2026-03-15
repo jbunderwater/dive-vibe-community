@@ -5,7 +5,7 @@ lng: 72.8146388
 difficulty: Intermediate
 maxDepth: 30
 entryType: boat
-siteType: reef
+siteType: pinnacle
 ref: null
 osmId: 9557518245
 addedBy: osm_import
@@ -23,7 +23,7 @@ addedBy: osm_import
 
 - **Location**: Maldives, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

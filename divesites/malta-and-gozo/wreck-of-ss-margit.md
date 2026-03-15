@@ -23,7 +23,7 @@ Wreck of SS Margit is a dive site in Malta and Gozo featuring a historic wreck w
 
 - **Location**: Malta and Gozo, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 24 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

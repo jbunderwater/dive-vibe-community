@@ -23,7 +23,7 @@ SMS König is a renowned dive site in Scapa Flow featuring the wreck of the SMS 
 
 - **Location**: Scapa Flow, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

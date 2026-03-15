@@ -23,7 +23,7 @@ USS Kittiwake Shipwreck is a dive site in Cayman Islands featuring a historic wr
 
 - **Location**: Cayman Islands, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

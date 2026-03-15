@@ -2,7 +2,7 @@
 name: Troot Pool
 lat: 46.7540211
 lng: -56.2175723
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 25
 entryType: shore
 siteType: wreck
@@ -23,8 +23,8 @@ Troot Pool is a dive site in Newfoundland featuring the wreck of the Troot Pool.
 
 - **Location**: Newfoundland, North America
 - **Entry Type**: Shore entry
-- **Site Type**: Wreck
-- **Difficulty Level**: Intermediate
+- **Site Type**: Wreck dive
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 5-25 meters (15-80 feet)
 - **Current**: Variable, can be strong

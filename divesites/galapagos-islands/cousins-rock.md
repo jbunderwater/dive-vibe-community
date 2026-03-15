@@ -2,10 +2,10 @@
 name: Cousins Rock
 lat: -0.2
 lng: -90.56
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 18
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,8 +23,8 @@ Cousins Rock is a dive site in Galápagos Islands offering rewarding diving on h
 
 - **Location**: Galápagos Islands, South America
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
+- **Site Type**: Wall dive
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 10-25 meters (30-80 feet)
 - **Current**: Moderate to strong

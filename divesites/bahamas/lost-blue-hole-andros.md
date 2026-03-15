@@ -23,7 +23,7 @@ Lost Blue Hole Andros is a dive site in Bahamas featuring underwater cave and ca
 
 - **Location**: Bahamas, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

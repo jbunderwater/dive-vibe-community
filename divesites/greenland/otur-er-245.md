@@ -23,7 +23,7 @@ Otur ER-245 is a dive site in Greenland featuring the wreck of the Otur ER-245 w
 
 - **Location**: Greenland, Arctic
 - **Entry Type**: Shore entry
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)

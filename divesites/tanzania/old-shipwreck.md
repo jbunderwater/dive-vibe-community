@@ -4,7 +4,7 @@ lat: -6.7596209
 lng: 39.2683104
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
+entryType: boat
 siteType: wreck
 ref: null
 osmId: 13265023321
@@ -22,8 +22,8 @@ old shipwreck is a dive site in Tanzania featuring the wreck of the old shipwrec
 ## Site Information
 
 - **Location**: Tanzania, Africa
-- **Entry Type**: Shore entry
-- **Site Type**: Wreck
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)

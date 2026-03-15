@@ -5,7 +5,7 @@ lng: 34.4535967
 difficulty: Intermediate
 maxDepth: 20
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: 1556398712
 addedBy: osm_import
@@ -23,7 +23,7 @@ Gordon reef is a dive site in Red Sea offering rewarding diving on healthy coral
 
 - **Location**: Red Sea, Middle East
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

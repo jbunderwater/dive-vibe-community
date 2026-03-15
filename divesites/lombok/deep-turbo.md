@@ -5,7 +5,7 @@ lng: 116.0462579
 difficulty: Advanced
 maxDepth: 30
 entryType: boat
-siteType: reef
+siteType: pinnacle
 ref: null
 osmId: 2395669748
 addedBy: osm_import
@@ -23,7 +23,7 @@ Deep Turbo is a dive site in Lombok offering rewarding diving on healthy coral r
 
 - **Location**: Lombok, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

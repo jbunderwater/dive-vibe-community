@@ -5,7 +5,7 @@ lng: 124.1024056
 difficulty: Beginner
 maxDepth: 20
 entryType: boat
-siteType: reef
+siteType: pinnacle
 ref: null
 osmId: 4941394888
 addedBy: osm_import
@@ -23,7 +23,7 @@ Lapus-Lapus is a dive site in Philippines Malapascua offering excellent diving o
 
 - **Location**: Philippines Malapascua, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

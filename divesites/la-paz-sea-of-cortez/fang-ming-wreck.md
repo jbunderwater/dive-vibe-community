@@ -23,7 +23,7 @@ Fang Ming Wreck is a dive site in La Paz & Sea of Cortez featuring the wreck of 
 
 - **Location**: La Paz & Sea of Cortez, North America
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 5-25 meters (15-80 feet)

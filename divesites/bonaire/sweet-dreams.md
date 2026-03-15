@@ -2,7 +2,7 @@
 name: Sweet Dreams
 lat: 12.0349171
 lng: -68.2627409
-difficulty: Intermediate
+difficulty: Beginner
 maxDepth: 30
 entryType: shore
 siteType: reef
@@ -21,8 +21,8 @@ Sweet Dreams is a serene dive site located on Bonaire's southern coast, known fo
 ## Site Information
 - **Location**: Southern Bonaire (near Willemstoren)
 - **Entry Type**: Shore entry
-- **Site Type**: Reef
-- **Difficulty Level**: Intermediate
+- **Site Type**: Coral reef
+- **Difficulty Level**: Beginner
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15-25 meters
 - **Current**: Light to moderate

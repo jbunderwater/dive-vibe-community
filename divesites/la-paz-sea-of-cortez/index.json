@@ -24,18 +24,6 @@
     "osmId": 1461976052
   },
   {
-    "name": "Cabo Pulmo Divers",
-    "filename": "cabo-pulmo-divers.md",
-    "lat": 23.4361148,
-    "lng": -109.427896,
-    "difficulty": "Intermediate",
-    "maxDepth": 25,
-    "entryType": "shore",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 441260249
-  },
-  {
     "name": "Los Islotes",
     "filename": "los-islotes.md",
     "lat": 24.595,
@@ -55,7 +43,7 @@
     "difficulty": "Advanced",
     "maxDepth": 30,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "wall",
     "ref": "",
     "osmId": null
   },

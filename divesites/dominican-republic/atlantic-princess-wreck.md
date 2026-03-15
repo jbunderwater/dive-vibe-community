@@ -23,7 +23,7 @@ Atlantic Princess Wreck is a dive site in Dominican Republic featuring the wreck
 
 - **Location**: Dominican Republic, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 28 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

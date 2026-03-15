@@ -2,10 +2,10 @@
 name: Bikanayos Rock
 lat: 11.1439916
 lng: 119.2781609
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 20
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: 9865495623
 addedBy: osm_import
@@ -23,8 +23,8 @@ Bikanayos Rock is a dive site in Philippines Palawan offering rewarding diving o
 
 - **Location**: Philippines Palawan, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
+- **Site Type**: Wall dive
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong

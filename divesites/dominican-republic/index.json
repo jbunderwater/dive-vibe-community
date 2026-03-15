@@ -130,5 +130,77 @@
     "siteType": "wreck",
     "ref": "",
     "osmId": null
+  },
+  {
+    "name": "Zingara",
+    "filename": "zingara.md",
+    "lat": 19.7888514,
+    "lng": -70.4979794,
+    "difficulty": "Advanced",
+    "maxDepth": 35,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 270997633
+  },
+  {
+    "name": "Aquarium",
+    "filename": "aquarium.md",
+    "lat": 18.3644497,
+    "lng": -69.0248231,
+    "difficulty": "Beginner",
+    "maxDepth": 12,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 1561340043
+  },
+  {
+    "name": "The Wall",
+    "filename": "the-wall.md",
+    "lat": 18.3708321,
+    "lng": -69.0038486,
+    "difficulty": "Intermediate",
+    "maxDepth": 20,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": 1561340047
+  },
+  {
+    "name": "Playita",
+    "filename": "playita.md",
+    "lat": 19.2944746,
+    "lng": -69.2077604,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 3348737500
+  },
+  {
+    "name": "Las Galeras Divers",
+    "filename": "las-galeras-divers.md",
+    "lat": 19.2911794,
+    "lng": -69.1984232,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 7243017306
+  },
+  {
+    "name": "Astron",
+    "filename": "astron.md",
+    "lat": 18.7303783,
+    "lng": -68.4538206,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 170000345
   }
 ]

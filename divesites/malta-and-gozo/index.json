@@ -31,7 +31,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 18,
     "entryType": "shore",
-    "siteType": "reef",
+    "siteType": "cave",
     "ref": "",
     "osmId": 384933337
   },
@@ -91,7 +91,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 25,
     "entryType": "shore",
-    "siteType": "reef",
+    "siteType": "cave",
     "ref": "",
     "osmId": 384941960
   },
@@ -211,7 +211,7 @@
     "difficulty": "Beginner",
     "maxDepth": 12,
     "entryType": "shore",
-    "siteType": "reef",
+    "siteType": "cave",
     "ref": "",
     "osmId": 4159831393
   },
@@ -247,7 +247,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 20,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "cave",
     "ref": "",
     "osmId": 4159831396
   },
@@ -319,7 +319,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 44,
     "entryType": "shore",
-    "siteType": "reef",
+    "siteType": "wreck",
     "ref": "",
     "osmId": 4159831403
   },
@@ -379,7 +379,7 @@
     "difficulty": "Beginner",
     "maxDepth": 12,
     "entryType": "shore",
-    "siteType": "reef",
+    "siteType": "cave",
     "ref": "",
     "osmId": 4159831409
   },

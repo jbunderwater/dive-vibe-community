@@ -2,8 +2,8 @@
 name: Vallée des requins
 lat: -17.542242
 lng: -149.619415
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Beginner
+maxDepth: 20
 entryType: boat
 siteType: reef
 ref: null
@@ -24,8 +24,8 @@ Vallée des requins is a dive site in French Polynesia offering rewarding diving
 - **Location**: French Polynesia, Pacific
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)
 - **Current**: Moderate to strong
 - **Best Time**: April to November

@@ -2,7 +2,7 @@
 name: Red Beryl
 lat: 12.0466404
 lng: -68.2685291
-difficulty: Intermediate
+difficulty: Beginner
 maxDepth: 30
 entryType: shore
 siteType: reef
@@ -18,9 +18,9 @@ Red Beryl is a beautiful dive site located in southern Bonaire near Atlantis. Th
 
 ## Site Information
 - **Location**: South Bonaire (near Atlantis)
-- **Entry Type**: Shore entry (easy sandy entry)
-- **Site Type**: Reef
-- **Difficulty Level**: Intermediate
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Difficulty Level**: Beginner
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-30 meters
 - **Current**: Usually light

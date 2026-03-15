@@ -3,9 +3,9 @@ name: Temaruata
 lat: -17.650995
 lng: -149.609741
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 30
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: 663869236
 addedBy: osm_import
@@ -23,9 +23,9 @@ Temaruata is a dive site in French Polynesia offering rewarding diving on health
 
 - **Location**: French Polynesia, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)
 - **Current**: Moderate to strong
 - **Best Time**: April to November

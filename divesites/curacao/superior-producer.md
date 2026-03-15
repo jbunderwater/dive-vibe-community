@@ -2,10 +2,10 @@
 name: Superior Producer
 lat: 12.1042457
 lng: -68.9466568
-difficulty: Advanced
+difficulty: Intermediate
 maxDepth: 30
 entryType: Shore and Boat
-siteType: Wreck
+siteType: wreck
 ref: null
 osmId: null
 addedBy: assistant
@@ -22,10 +22,10 @@ The Superior Producer is considered one of the Caribbean's premier wreck diving 
 ## Site Information
 
 - **Location**: Off Willemstad near the Mega Pier
-- **Entry Type**: Boat recommended, shore diving possible
-- **Site Type**: Intact cargo vessel wreck
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters (100 feet)
+- **Entry Type**: Shore entry
+- **Site Type**: Wreck dive
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15-25 meters (50-80 feet)
 - **Current**: Usually minimal, can be moderate
 - **Best Time**: Year-round, avoid when cruise ships are docked

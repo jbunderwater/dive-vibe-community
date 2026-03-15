@@ -4,7 +4,7 @@ lat: 7.3934834
 lng: 117.3516624
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
+entryType: boat
 siteType: reef
 ref: null
 osmId: 717550232
@@ -22,7 +22,7 @@ Kalang Kapal Buhuk is a dive site in Philippines Palawan offering rewarding divi
 ## Site Information
 
 - **Location**: Philippines Palawan, Asia
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters

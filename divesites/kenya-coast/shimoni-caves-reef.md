@@ -23,7 +23,7 @@ Shimoni Caves Reef is a dive site in Kenya Coast featuring underwater cave and c
 
 - **Location**: Kenya Coast, Africa
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)

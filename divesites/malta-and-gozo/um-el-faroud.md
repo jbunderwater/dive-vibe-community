@@ -23,7 +23,7 @@ Um El Faroud is a renowned dive site in Malta and Gozo featuring the wreck of th
 
 - **Location**: Malta and Gozo, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 35 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

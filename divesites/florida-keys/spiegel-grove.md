@@ -23,7 +23,7 @@ Spiegel Grove is a renowned dive site in Florida Keys featuring the wreck of the
 
 - **Location**: Florida Keys, North America
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
 - **Typical Visibility**: 5-25 meters (15-80 feet)

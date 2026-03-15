@@ -4,7 +4,7 @@ lat: 7.150012
 lng: 117.3833679
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
+entryType: boat
 siteType: reef
 ref: null
 osmId: 6739186148
@@ -22,7 +22,7 @@ Southeast Banggi Dangers is a dive site in Philippines Palawan offering rewardin
 ## Site Information
 
 - **Location**: Philippines Palawan, Asia
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters

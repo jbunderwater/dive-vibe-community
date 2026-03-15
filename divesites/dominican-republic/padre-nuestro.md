@@ -23,7 +23,7 @@ Padre Nuestro is a dive site in Dominican Republic featuring underwater cave and
 
 - **Location**: Dominican Republic, Caribbean
 - **Entry Type**: Shore entry
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 10 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

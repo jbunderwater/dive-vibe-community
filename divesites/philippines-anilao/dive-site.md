@@ -4,7 +4,7 @@ lat: 13.794793
 lng: 120.9143488
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
+entryType: boat
 siteType: reef
 ref: null
 osmId: 1271232216
@@ -22,7 +22,7 @@ Dive Site is a dive site in Philippines Anilao offering rewarding diving on heal
 ## Site Information
 
 - **Location**: Philippines Anilao, Asia
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters

@@ -23,7 +23,7 @@ Hoi Siong No. 6 Wreck is a dive site in Mauritius featuring the wreck of the Hoi
 
 - **Location**: Mauritius, Africa
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 32 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)

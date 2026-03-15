@@ -23,7 +23,7 @@ Billinghurst Cave is a dive site in Malta and Gozo featuring underwater cave and
 
 - **Location**: Malta and Gozo, Europe
 - **Entry Type**: Shore entry
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

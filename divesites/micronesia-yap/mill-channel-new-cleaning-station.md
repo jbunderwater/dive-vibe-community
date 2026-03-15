@@ -5,7 +5,7 @@ lng: 138.1366048
 difficulty: Beginner
 maxDepth: 12
 entryType: boat
-siteType: reef
+siteType: drift
 ref: null
 osmId: 4031012952
 addedBy: osm_import
@@ -23,7 +23,7 @@ Mill Channel new cleaning station is a dive site in Micronesia - Yap offering ex
 
 - **Location**: Micronesia - Yap, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Drift dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)

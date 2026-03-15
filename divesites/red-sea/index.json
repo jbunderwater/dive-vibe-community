@@ -40,7 +40,7 @@
     "filename": "ss-thistlegorm.md",
     "lat": 27.814092,
     "lng": 33.9200482,
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "maxDepth": 31,
     "entryType": "boat",
     "siteType": "wreck",
@@ -139,7 +139,7 @@
     "difficulty": "Advanced",
     "maxDepth": 31,
     "entryType": "shore",
-    "siteType": "reef",
+    "siteType": "wall",
     "ref": "",
     "osmId": 271181711
   },
@@ -274,18 +274,6 @@
     "siteType": "reef",
     "ref": "",
     "osmId": 279808469
-  },
-  {
-    "name": "Red Sea Diving College",
-    "filename": "red-sea-diving-college.md",
-    "lat": 27.9094107,
-    "lng": 34.3263071,
-    "difficulty": "Intermediate",
-    "maxDepth": 20,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 279809613
   },
   {
     "name": "Middle Garden",
@@ -492,18 +480,6 @@
     "osmId": 663869680
   },
   {
-    "name": "Umbria",
-    "filename": "umbria.md",
-    "lat": 19.6367031,
-    "lng": 37.290526,
-    "difficulty": "Intermediate",
-    "maxDepth": 20,
-    "entryType": "boat",
-    "siteType": "wreck",
-    "ref": "",
-    "osmId": 663869681
-  },
-  {
     "name": "Neptuna",
     "filename": "neptuna.md",
     "lat": 23.6186333,
@@ -624,18 +600,6 @@
     "osmId": 663869761
   },
   {
-    "name": "Shaab Sataya",
-    "filename": "shaab-sataya.md",
-    "lat": 24.1577,
-    "lng": 35.7118333,
-    "difficulty": "Intermediate",
-    "maxDepth": 20,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 663869764
-  },
-  {
     "name": "Abu Galawa Kebir",
     "filename": "abu-galawa-kebir.md",
     "lat": 24.2286658,
@@ -648,8 +612,8 @@
     "osmId": 663869765
   },
   {
-    "name": "Shaab Sataya Amphoren",
-    "filename": "shaab-sataya-amphoren.md",
+    "name": "Shaab Sataya",
+    "filename": "shaab-sataya.md",
     "lat": 24.1552833,
     "lng": 35.685,
     "difficulty": "Intermediate",
@@ -748,7 +712,7 @@
     "filename": "salem-express.md",
     "lat": 26.6397175,
     "lng": 34.0615772,
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "maxDepth": 20,
     "entryType": "boat",
     "siteType": "wreck",
@@ -760,10 +724,10 @@
     "filename": "نوميديا.md",
     "lat": 26.3156833,
     "lng": 34.84145,
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "maxDepth": 30,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "wreck",
     "ref": "",
     "osmId": 663869779
   },
@@ -772,10 +736,10 @@
     "filename": "عايدة.md",
     "lat": 26.3138104,
     "lng": 34.8432379,
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "maxDepth": 30,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "wreck",
     "ref": "",
     "osmId": 663869780
   },
@@ -828,14 +792,14 @@
     "osmId": 663869792
   },
   {
-    "name": "Shaabruhr Umm Gamar",
-    "filename": "shaabruhr-umm-gamar.md",
+    "name": "Umm Gamar",
+    "filename": "umm-gamar.md",
     "lat": 27.1925,
     "lng": 33.9091666,
     "difficulty": "Intermediate",
     "maxDepth": 25,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "wreck",
     "ref": "",
     "osmId": 663869793
   },
@@ -876,8 +840,8 @@
     "osmId": 663869798
   },
   {
-    "name": "Gota Abu Ramada - Aquarium",
-    "filename": "gota-abu-ramada-aquarium.md",
+    "name": "Aquarium",
+    "filename": "aquarium.md",
     "lat": 27.139,
     "lng": 33.9532666,
     "difficulty": "Beginner",
@@ -943,7 +907,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 25,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "wreck",
     "ref": "",
     "osmId": 663869804
   },
@@ -1411,7 +1375,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 30,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "wreck",
     "ref": "",
     "osmId": 663869878
   },
@@ -1471,7 +1435,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 20,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "drift",
     "ref": "",
     "osmId": 700999355
   },
@@ -1514,18 +1478,6 @@
   {
     "name": "Erg Somaya",
     "filename": "erg-somaya.md",
-    "lat": 27.19578,
-    "lng": 33.984,
-    "difficulty": "Intermediate",
-    "maxDepth": 20,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 700999360
-  },
-  {
-    "name": "Erg Somaya Drift",
-    "filename": "erg-somaya-drift.md",
     "lat": 27.19829,
     "lng": 33.98408,
     "difficulty": "Intermediate",
@@ -1699,7 +1651,7 @@
     "difficulty": "Advanced",
     "maxDepth": 40,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "wall",
     "ref": "",
     "osmId": 701594783
   },
@@ -1771,7 +1723,7 @@
     "difficulty": "Advanced",
     "maxDepth": 30,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "wreck",
     "ref": "",
     "osmId": 1068557838
   },
@@ -1879,7 +1831,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 20,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "wall",
     "ref": "",
     "osmId": 1556398712
   },
@@ -1932,30 +1884,6 @@
     "osmId": 2374261090
   },
   {
-    "name": "Extradivers",
-    "filename": "extradivers.md",
-    "lat": 25.5212136,
-    "lng": 34.645141,
-    "difficulty": "Intermediate",
-    "maxDepth": 20,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 2379877985
-  },
-  {
-    "name": "Nemo",
-    "filename": "nemo.md",
-    "lat": 26.7659865,
-    "lng": 33.9432729,
-    "difficulty": "Intermediate",
-    "maxDepth": 20,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 2613533331
-  },
-  {
     "name": "Laguna Reef",
     "filename": "laguna-reef.md",
     "lat": 28.0064435,
@@ -1992,20 +1920,8 @@
     "osmId": 3395211634
   },
   {
-    "name": "אקווה ספורט",
-    "filename": "אקווה-ספורט.md",
-    "lat": 29.5124443,
-    "lng": 34.9248821,
-    "difficulty": "Intermediate",
-    "maxDepth": 30,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 3741890716
-  },
-  {
-    "name": "El Fanadir Dacht Dacht",
-    "filename": "el-fanadir-dacht-dacht.md",
+    "name": "El Fanadir",
+    "filename": "el-fanadir.md",
     "lat": 27.275816,
     "lng": 33.8334747,
     "difficulty": "Intermediate",
@@ -2014,18 +1930,6 @@
     "siteType": "reef",
     "ref": "",
     "osmId": 3755841120
-  },
-  {
-    "name": "El Fanadir Dacht",
-    "filename": "el-fanadir-dacht.md",
-    "lat": 27.2847068,
-    "lng": 33.8317727,
-    "difficulty": "Intermediate",
-    "maxDepth": 16,
-    "entryType": "shore",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 3755841121
   },
   {
     "name": "Banana Reef",
@@ -2050,18 +1954,6 @@
     "siteType": "reef",
     "ref": "",
     "osmId": 3756288582
-  },
-  {
-    "name": "Umm Gamar",
-    "filename": "umm-gamar.md",
-    "lat": 27.3528822,
-    "lng": 33.9084369,
-    "difficulty": "Intermediate",
-    "maxDepth": 25,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 3756356153
   },
   {
     "name": "Cedar Pride Shipwreck",
@@ -2119,7 +2011,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 30,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "wreck",
     "ref": "",
     "osmId": 4433719549
   },
@@ -2380,10 +2272,10 @@
     "filename": "موقع-الغوص-جزيرة-الأخ-الصغير.md",
     "lat": 26.3007944,
     "lng": 34.862559,
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "maxDepth": 30,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "wall",
     "ref": "",
     "osmId": 5610583021
   },
@@ -2392,10 +2284,10 @@
     "filename": "موقع-الغوص-جزيرة-الأخ-الأكبر.md",
     "lat": 26.3130389,
     "lng": 34.8442682,
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "maxDepth": 30,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "wall",
     "ref": "",
     "osmId": 5610583022
   },
@@ -2448,18 +2340,6 @@
     "osmId": 5884434387
   },
   {
-    "name": "Aquarium",
-    "filename": "aquarium.md",
-    "lat": 27.1393526,
-    "lng": 33.9546855,
-    "difficulty": "Intermediate",
-    "maxDepth": 20,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 5896280466
-  },
-  {
     "name": "Flamenco Hausriff",
     "filename": "flamenco-hausriff.md",
     "lat": 26.1653439,
@@ -2470,18 +2350,6 @@
     "siteType": "reef",
     "ref": "",
     "osmId": 6018110087
-  },
-  {
-    "name": "Black Pearl - Red Sea",
-    "filename": "black-pearl-red-sea.md",
-    "lat": 27.8527251,
-    "lng": 34.2717691,
-    "difficulty": "Intermediate",
-    "maxDepth": 20,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 6247187286
   },
   {
     "name": "panorama Reef North",
@@ -2568,18 +2436,6 @@
     "osmId": 6920738918
   },
   {
-    "name": "Sea Pioneer",
-    "filename": "sea-pioneer.md",
-    "lat": 28.4995148,
-    "lng": 34.5194037,
-    "difficulty": "Intermediate",
-    "maxDepth": 20,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 8288608584
-  },
-  {
     "name": "Marsa Bareika",
     "filename": "marsa-bareika.md",
     "lat": 27.7866024,
@@ -2596,10 +2452,10 @@
     "filename": "thomas-reef.md",
     "lat": 27.9921659,
     "lng": 34.4614807,
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "maxDepth": 30,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "wall",
     "ref": "",
     "osmId": 8559506183
   },
@@ -2608,10 +2464,10 @@
     "filename": "jackson-reef.md",
     "lat": 28.0059666,
     "lng": 34.472557,
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "maxDepth": 30,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "wall",
     "ref": "",
     "osmId": 8559506184
   },
@@ -2880,8 +2736,8 @@
     "osmId": 9721215046
   },
   {
-    "name": "SS Umbria, Wreck",
-    "filename": "ss-umbria-wreck.md",
+    "name": "SS Umbria",
+    "filename": "ss-umbria.md",
     "lat": 19.6367128,
     "lng": 37.2906381,
     "difficulty": "Intermediate",
@@ -3043,7 +2899,7 @@
     "difficulty": "Advanced",
     "maxDepth": 40,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "wall",
     "ref": "",
     "osmId": 13044852766
   },
@@ -3156,18 +3012,6 @@
     "osmId": 13045073421
   },
   {
-    "name": "Levanzo",
-    "filename": "levanzo.md",
-    "lat": 21.9877615,
-    "lng": 37.0452371,
-    "difficulty": "Intermediate",
-    "maxDepth": 20,
-    "entryType": "boat",
-    "siteType": "wreck",
-    "ref": "",
-    "osmId": 13064059226
-  },
-  {
     "name": "Scubaworld",
     "filename": "scubaworld.md",
     "lat": 25.5980183,
@@ -3196,10 +3040,10 @@
     "filename": "شعب-توماس.md",
     "lat": 27.9927336,
     "lng": 34.4600961,
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "maxDepth": 30,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "wall",
     "ref": "",
     "osmId": 23185890
   },
@@ -3208,10 +3052,10 @@
     "filename": "شعب-وودهاوس.md",
     "lat": 28.0012225,
     "lng": 34.4649921,
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "maxDepth": 30,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "wall",
     "ref": "",
     "osmId": 23185891
   },
@@ -3220,10 +3064,10 @@
     "filename": "شعب-جاكسون.md",
     "lat": 28.008815,
     "lng": 34.4731592,
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "maxDepth": 30,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "wall",
     "ref": "",
     "osmId": 23185893
   },
@@ -3292,10 +3136,10 @@
     "filename": "جيرة-ديدلاس.md",
     "lat": 24.9348279,
     "lng": 35.8681459,
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "maxDepth": 30,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "wall",
     "ref": "",
     "osmId": 374758292
   },
@@ -3372,18 +3216,6 @@
     "osmId": 1221542877
   },
   {
-    "name": "Lagona Divers, Dahab North",
-    "filename": "lagona-divers-dahab-north.md",
-    "lat": 28.5519543,
-    "lng": 34.5181376,
-    "difficulty": "Intermediate",
-    "maxDepth": 20,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 1247686915
-  },
-  {
     "name": "Safaga Soraya",
     "filename": "safaga-soraya.md",
     "lat": 26.7740091,
@@ -3396,8 +3228,8 @@
     "osmId": 1396277160
   },
   {
-    "name": "Shaab Sheer Soraya",
-    "filename": "shaab-sheer-soraya.md",
+    "name": "Shaab Sheer",
+    "filename": "shaab-sheer.md",
     "lat": 26.6434815,
     "lng": 34.0496239,
     "difficulty": "Intermediate",
@@ -3526,18 +3358,6 @@
     "siteType": "reef",
     "ref": "",
     "osmId": 19266688
-  },
-  {
-    "name": "Shaab Sheer",
-    "filename": "shaab-sheer.md",
-    "lat": 26.6573803,
-    "lng": 34.0487575,
-    "difficulty": "Intermediate",
-    "maxDepth": 20,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 19266689
   },
   {
     "name": "Shaab Claude",

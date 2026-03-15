@@ -4,7 +4,7 @@ lat: 7.2459874
 lng: 117.3899299
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
+entryType: boat
 siteType: reef
 ref: null
 osmId: 1434633827
@@ -22,7 +22,7 @@ East Banggi Patches is a dive site in Philippines Palawan offering rewarding div
 ## Site Information
 
 - **Location**: Philippines Palawan, Asia
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters

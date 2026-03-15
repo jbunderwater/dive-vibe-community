@@ -2,8 +2,8 @@
 name: L'Aquarium
 lat: -16.713809
 lng: -151.489277
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Beginner
+maxDepth: 10
 entryType: boat
 siteType: reef
 ref: null
@@ -24,8 +24,8 @@ L'Aquarium is a dive site in French Polynesia offering rewarding diving on healt
 - **Location**: French Polynesia, Pacific
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 10 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)
 - **Current**: Moderate to strong
 - **Best Time**: April to November

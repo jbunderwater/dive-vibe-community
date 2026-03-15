@@ -2,10 +2,10 @@
 name: Grote Knip
 lat: 12.3514337
 lng: -69.153211
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 30
 entryType: Shore
-siteType: Reef
+siteType: reef
 ref: null
 osmId: null
 addedBy: assistant
@@ -22,9 +22,9 @@ Grote Knip, also known as Playa Kenepa Grandi or Playa Abou, is considered one o
 ## Site Information
 
 - **Location**: Northwest coast of Curaçao, Kenepa Plantation area
-- **Entry Type**: Shore dive from sandy beach
-- **Site Type**: Fringing coral reef with drop-off
-- **Difficulty Level**: Beginner to Intermediate
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters (100 feet)
 - **Typical Visibility**: 20-30 meters (65-100 feet)
 - **Current**: Usually minimal, occasional mild current

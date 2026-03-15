@@ -2,10 +2,10 @@
 name: W字アーチ
 lat: 24.8665753
 lng: 125.1600582
-difficulty: Advanced
-maxDepth: 30
+difficulty: Beginner
+maxDepth: 18
 entryType: boat
-siteType: wall
+siteType: cave
 ref: null
 osmId: 9280279109
 addedBy: osm_import
@@ -23,9 +23,9 @@ W字アーチ is a dive site in Okinawa featuring a dramatic vertical wall that 
 
 - **Location**: Okinawa, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
+- **Site Type**: Cave/cavern
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)

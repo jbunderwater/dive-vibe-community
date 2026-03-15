@@ -2,10 +2,10 @@
 name: Punta Tosca
 lat: 18.71
 lng: -110.98
-difficulty: Intermediate
-maxDepth: 18
+difficulty: Advanced
+maxDepth: 25
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,9 +23,9 @@ Punta Tosca is a dive site in Socorro Islands offering rewarding diving on healt
 
 - **Location**: Socorro Islands, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
+- **Site Type**: Wall dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)
 - **Current**: Moderate to strong
 - **Best Time**: April to November

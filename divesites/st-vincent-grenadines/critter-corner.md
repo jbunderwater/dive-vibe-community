@@ -5,7 +5,7 @@ lng: -61.195
 difficulty: Beginner
 maxDepth: 10
 entryType: boat
-siteType: reef
+siteType: muck
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,7 +23,7 @@ Critter Corner is a dive site in St. Vincent and the Grenadines offering excelle
 
 - **Location**: St. Vincent and the Grenadines, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Muck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 10 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

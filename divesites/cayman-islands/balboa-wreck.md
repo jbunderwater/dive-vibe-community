@@ -23,7 +23,7 @@ Balboa Wreck is a dive site in Cayman Islands featuring the wreck of the Balboa 
 
 - **Location**: Cayman Islands, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 9 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

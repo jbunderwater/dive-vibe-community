@@ -23,7 +23,7 @@ El Dudú Cenote is a dive site in Dominican Republic featuring underwater cave a
 
 - **Location**: Dominican Republic, Caribbean
 - **Entry Type**: Shore entry
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

@@ -23,7 +23,7 @@ Justin's Caves is a dive site in Cape Town featuring underwater cave and cavern 
 
 - **Location**: Cape Town, Africa
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)

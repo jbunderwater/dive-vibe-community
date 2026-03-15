@@ -4,7 +4,7 @@ lat: -6.294392
 lng: 39.5564155
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
+entryType: boat
 siteType: reef
 ref: null
 osmId: 10224583145
@@ -22,7 +22,7 @@ Lagoon Mounding is a dive site in Tanzania offering rewarding diving on healthy 
 ## Site Information
 
 - **Location**: Tanzania, Africa
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters

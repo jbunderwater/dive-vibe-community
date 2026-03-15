@@ -5,7 +5,7 @@ lng: -81.39
 difficulty: Advanced
 maxDepth: 35
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,7 +23,7 @@ The Pinnacle is a dive site in Providencia Island offering rewarding diving on h
 
 - **Location**: Providencia Island, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 35 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

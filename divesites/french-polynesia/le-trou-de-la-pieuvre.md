@@ -2,8 +2,8 @@
 name: Le trou de la Pieuvre
 lat: -16.686186
 lng: -151.449666
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Beginner
+maxDepth: 20
 entryType: boat
 siteType: reef
 ref: null
@@ -24,8 +24,8 @@ Le trou de la Pieuvre is a dive site in French Polynesia offering rewarding divi
 - **Location**: French Polynesia, Pacific
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)
 - **Current**: Moderate to strong
 - **Best Time**: April to November

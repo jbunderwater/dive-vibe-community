@@ -2,9 +2,9 @@
 name: Pantai Merah
 lat: -8.6009657
 lng: 119.5261842
-difficulty: Intermediate
-maxDepth: 20
-entryType: boat
+difficulty: Beginner
+maxDepth: 12
+entryType: shore
 siteType: reef
 ref: null
 osmId: 1485422409
@@ -22,10 +22,10 @@ Pantai Merah is a dive site in Komodo National Park offering rewarding diving on
 ## Site Information
 
 - **Location**: Komodo National Park, Asia
-- **Entry Type**: Boat dive
+- **Entry Type**: Shore entry
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 12 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)

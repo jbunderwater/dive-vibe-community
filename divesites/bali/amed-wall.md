@@ -5,7 +5,7 @@ lng: 115.6617295
 difficulty: Beginner
 maxDepth: 25
 entryType: shore
-siteType: reef
+siteType: wall
 ref: null
 osmId: 4527419399
 addedBy: osm_import
@@ -23,7 +23,7 @@ Amed wall is a dive site in Bali offering excellent diving on healthy coral reef
 
 - **Location**: Bali, Asia
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

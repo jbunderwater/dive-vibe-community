@@ -2,10 +2,10 @@
 name: Manuelita Inside
 lat: 5.56
 lng: -87.0467
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 15
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,8 +23,8 @@ Manuelita Inside is a dive site in Cocos Island offering rewarding diving on hea
 
 - **Location**: Cocos Island, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
+- **Site Type**: Wall dive
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)
 - **Current**: Moderate to strong

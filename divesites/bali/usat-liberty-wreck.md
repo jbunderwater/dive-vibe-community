@@ -23,7 +23,7 @@ USAT Liberty Wreck is a dive site in Bali featuring the wreck of the USAT Libert
 
 - **Location**: Bali, Asia
 - **Entry Type**: Shore entry
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

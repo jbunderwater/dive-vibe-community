@@ -4,7 +4,7 @@ lat: 10.616667
 lng: 117.633333
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
+entryType: boat
 siteType: reef
 ref: null
 osmId: 302106076
@@ -22,7 +22,7 @@ Fairie Queen is a dive site in Philippines Palawan offering rewarding diving on 
 ## Site Information
 
 - **Location**: Philippines Palawan, Asia
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters

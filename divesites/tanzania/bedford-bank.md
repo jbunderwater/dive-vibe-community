@@ -4,7 +4,7 @@ lat: -6.5235398
 lng: 39.4035815
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
+entryType: boat
 siteType: reef
 ref: null
 osmId: 704649411
@@ -22,7 +22,7 @@ Bedford Bank is a dive site in Tanzania offering rewarding diving on healthy cor
 ## Site Information
 
 - **Location**: Tanzania, Africa
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters

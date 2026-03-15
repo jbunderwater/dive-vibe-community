@@ -142,5 +142,17 @@
     "siteType": "reef",
     "ref": "",
     "osmId": null
+  },
+  {
+    "name": "Buccoo Reef",
+    "filename": "buccoo-reef.md",
+    "lat": 11.1803339,
+    "lng": -60.8266527,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 489074818
   }
 ]

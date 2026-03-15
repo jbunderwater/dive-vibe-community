@@ -5,7 +5,7 @@ lng: 14.3262397
 difficulty: Beginner
 maxDepth: 12
 entryType: shore
-siteType: reef
+siteType: cave
 ref: null
 osmId: 4159831393
 addedBy: osm_import
@@ -23,7 +23,7 @@ Blue Lagoon Tunnel Dive Site is a dive site in Malta and Gozo offering excellent
 
 - **Location**: Malta and Gozo, Europe
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

@@ -3,9 +3,9 @@ name: Tatawa Besar dive site
 lat: -8.5083587
 lng: 119.6397238
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 20
 entryType: boat
-siteType: reef
+siteType: drift
 ref: null
 osmId: 7182756978
 addedBy: osm_import
@@ -23,9 +23,9 @@ Tatawa Besar dive site is a dive site in Komodo National Park offering rewarding
 
 - **Location**: Komodo National Park, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Drift dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)

@@ -4,7 +4,7 @@ lat: -11.2821035
 lng: 40.6572523
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
+entryType: boat
 siteType: reef
 ref: null
 osmId: 260197575
@@ -22,7 +22,7 @@ Baixo Tambula is a dive site in Tanzania offering rewarding diving on healthy co
 ## Site Information
 
 - **Location**: Tanzania, Africa
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters

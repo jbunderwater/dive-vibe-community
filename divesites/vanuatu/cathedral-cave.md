@@ -23,7 +23,7 @@ Cathedral Cave is a dive site in Vanuatu featuring underwater cave and cavern fo
 
 - **Location**: Vanuatu, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)

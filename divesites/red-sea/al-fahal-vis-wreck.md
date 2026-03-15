@@ -5,7 +5,7 @@ lng: 38.952667
 difficulty: Intermediate
 maxDepth: 30
 entryType: boat
-siteType: reef
+siteType: wreck
 ref: null
 osmId: 4433719549
 addedBy: osm_import
@@ -23,7 +23,7 @@ Al Fahal vis Wreck is a dive site in Red Sea offering rewarding diving on health
 
 - **Location**: Red Sea, Middle East
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

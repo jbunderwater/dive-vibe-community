@@ -4,7 +4,7 @@ lat: -2.2579059
 lng: 40.9093621
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
+entryType: boat
 siteType: wreck
 ref: null
 osmId: 666532608
@@ -22,8 +22,8 @@ Tawasal is a dive site in Tanzania featuring the wreck of the Tawasal. Located i
 ## Site Information
 
 - **Location**: Tanzania, Africa
-- **Entry Type**: Shore entry
-- **Site Type**: Wreck
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)

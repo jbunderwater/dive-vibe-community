@@ -2,10 +2,10 @@
 name: Viking Rock
 lat: 5.55
 lng: -87.0417
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 25
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,8 +23,8 @@ Viking Rock is a dive site in Cocos Island offering rewarding diving on healthy 
 
 - **Location**: Cocos Island, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
+- **Site Type**: Wall dive
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)
 - **Current**: Moderate to strong

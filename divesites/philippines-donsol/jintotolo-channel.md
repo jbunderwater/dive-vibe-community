@@ -5,7 +5,7 @@ lng: 123.64
 difficulty: Advanced
 maxDepth: 30
 entryType: boat
-siteType: reef
+siteType: drift
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,7 +23,7 @@ Jintotolo Channel is a dive site in Philippines Donsol offering rewarding diving
 
 - **Location**: Philippines Donsol, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Drift dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

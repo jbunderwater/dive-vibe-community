@@ -5,7 +5,7 @@ lng: 92.9633935
 difficulty: Intermediate
 maxDepth: 20
 entryType: boat
-siteType: reef
+siteType: wreck
 ref: null
 osmId: 649984299
 addedBy: osm_import
@@ -23,7 +23,7 @@ MV Mars is a dive site in Andaman Islands offering rewarding diving on healthy c
 
 - **Location**: Andaman Islands, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

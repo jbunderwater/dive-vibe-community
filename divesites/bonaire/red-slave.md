@@ -2,10 +2,10 @@
 name: Red Slave
 lat: 12.0260699
 lng: -68.2515176
-difficulty: Intermediate
+difficulty: Beginner
 maxDepth: 30
 entryType: shore
-siteType: wreck
+siteType: reef
 ref: 
 osmId: 663869397
 addedBy: jbunderwater_ai
@@ -21,8 +21,8 @@ Red Slave is an intriguing wreck dive site located on Bonaire's southern coast, 
 ## Site Information
 - **Location**: Southern Bonaire (near Willemstoren)
 - **Entry Type**: Shore entry
-- **Site Type**: Wreck
-- **Difficulty Level**: Intermediate
+- **Site Type**: Coral reef
+- **Difficulty Level**: Beginner
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15-25 meters
 - **Current**: Light to moderate

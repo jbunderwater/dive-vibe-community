@@ -23,7 +23,7 @@ The Throne Room is a dive site in Jamaica featuring underwater cave and cavern f
 
 - **Location**: Jamaica, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

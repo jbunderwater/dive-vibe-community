@@ -66,7 +66,7 @@ For each site, determine:
 
 3. **Batch similar sites** — if a forum thread describes multiple sites at once, extract info for all of them
 
-4. **Update the data** with corrections, setting tags to track the source:
+4. **Update the osm_clean data** with corrections, setting tags to track the source:
    ```json
    {
      "site_type": "wall",
@@ -76,6 +76,15 @@ For each site, determine:
      }
    }
    ```
+
+5. **Sync to markdown files and index.json** — after updating osm_clean data, run:
+   ```bash
+   python3 scripts/sync_sites.py <slug>
+   ```
+   This propagates siteType, difficulty, maxDepth, and entryType changes to:
+   - `divesites/{slug}/*.md` frontmatter and "Site Information" section
+   - `divesites/{slug}/index.json`
+   - Removes markdown files for sites deleted from osm_clean
 
 ### Validation Rules
 

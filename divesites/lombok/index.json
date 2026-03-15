@@ -1,65 +1,5 @@
 [
   {
-    "name": "Buddha Dive",
-    "filename": "buddha-dive.md",
-    "lat": -8.3565541,
-    "lng": 116.0419207,
-    "difficulty": "Intermediate",
-    "maxDepth": 20,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 2380049552
-  },
-  {
-    "name": "Diversia",
-    "filename": "diversia.md",
-    "lat": -8.353901,
-    "lng": 116.043225,
-    "difficulty": "Intermediate",
-    "maxDepth": 20,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 2380049819
-  },
-  {
-    "name": "Gili Scuba Diving",
-    "filename": "gili-scuba-diving.md",
-    "lat": -8.3481208,
-    "lng": 116.042683,
-    "difficulty": "Intermediate",
-    "maxDepth": 20,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 2380050107
-  },
-  {
-    "name": "Mango Dive",
-    "filename": "mango-dive.md",
-    "lat": -8.3471433,
-    "lng": 116.0423383,
-    "difficulty": "Intermediate",
-    "maxDepth": 20,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 2380050388
-  },
-  {
-    "name": "Manta Dive Gili Trawangan",
-    "filename": "manta-dive-gili-trawangan.md",
-    "lat": -8.3534304,
-    "lng": 116.043375,
-    "difficulty": "Intermediate",
-    "maxDepth": 20,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 2380050395
-  },
-  {
     "name": "Air Wall",
     "filename": "air-wall.md",
     "lat": -8.3528396,
@@ -91,7 +31,7 @@
     "difficulty": "Advanced",
     "maxDepth": 30,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "pinnacle",
     "ref": "",
     "osmId": 2395669748
   },
@@ -115,7 +55,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 20,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "drift",
     "ref": "",
     "osmId": 2395669750
   },
@@ -127,7 +67,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 20,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "drift",
     "ref": "",
     "osmId": 2395669751
   },
@@ -151,7 +91,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 20,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "drift",
     "ref": "",
     "osmId": 2395669753
   },
@@ -163,7 +103,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 20,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "drift",
     "ref": "",
     "osmId": 2395669754
   },
@@ -223,7 +163,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 25,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "drift",
     "ref": "",
     "osmId": 2395669759
   },
@@ -262,18 +202,6 @@
     "siteType": "reef",
     "ref": "",
     "osmId": 2395670513
-  },
-  {
-    "name": "Blue Marlin Dive Gili Meno",
-    "filename": "blue-marlin-dive-gili-meno.md",
-    "lat": -8.3536363,
-    "lng": 116.0614862,
-    "difficulty": "Intermediate",
-    "maxDepth": 20,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 2400060177
   },
   {
     "name": "Trawangan Wall",

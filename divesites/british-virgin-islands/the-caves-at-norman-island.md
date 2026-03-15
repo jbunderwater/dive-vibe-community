@@ -23,7 +23,7 @@ The Caves at Norman Island is a dive site in British Virgin Islands featuring un
 
 - **Location**: British Virgin Islands, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

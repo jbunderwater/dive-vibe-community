@@ -23,7 +23,7 @@ Chief Minister Wreck is a dive site in Turks and Caicos featuring the wreck of t
 
 - **Location**: Turks and Caicos, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

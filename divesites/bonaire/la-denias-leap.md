@@ -5,7 +5,7 @@ lng: -68.3481483
 difficulty: Intermediate
 maxDepth: 30
 entryType: shore
-siteType: reef
+siteType: wall
 ref: 
 osmId: 663869441
 addedBy: jbunderwater_ai
@@ -18,8 +18,8 @@ La Denia's Leap is a beautiful dive site located in northern Bonaire near Karpat
 
 ## Site Information
 - **Location**: North Bonaire (near Karpata)
-- **Entry Type**: Shore entry (giant stride from rocky ledge)
-- **Site Type**: Reef
+- **Entry Type**: Shore entry
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-30 meters
@@ -54,7 +54,7 @@ Nearby sites include Karpata, Oil Slick Leap, and Boka Di Tolo. All are accessib
 ## Additional Resources
 - **Website**: https://www.divers-guide.com/en/la-danias-leap
 - **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Entry Type**: Giant stride from rocky ledge
+- **Entry Type**: Shore entry
 - **Last Updated**: 2025-06-24
 
 ---

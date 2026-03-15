@@ -2,8 +2,8 @@
 name: Clerke Reef
 lat: -22.65
 lng: 113.7333
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Advanced
+maxDepth: 25
 entryType: boat
 siteType: reef
 ref: null
@@ -24,8 +24,8 @@ Clerke Reef is a dive site in Ningaloo Reef offering rewarding diving on healthy
 - **Location**: Ningaloo Reef, Oceania
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15-40 meters (50-130 feet)
 - **Current**: Variable
 - **Best Time**: September to February

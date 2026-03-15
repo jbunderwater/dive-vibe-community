@@ -4,7 +4,7 @@ lat: 7.3761259
 lng: 117.2826439
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
+entryType: boat
 siteType: reef
 ref: null
 osmId: 6738682612
@@ -22,7 +22,7 @@ Kalang Besar is a dive site in Philippines Palawan offering rewarding diving on 
 ## Site Information
 
 - **Location**: Philippines Palawan, Asia
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters

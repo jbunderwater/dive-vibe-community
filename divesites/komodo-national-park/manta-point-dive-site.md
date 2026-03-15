@@ -2,10 +2,10 @@
 name: Manta Point dive site
 lat: -8.5415535
 lng: 119.5997228
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Beginner
+maxDepth: 15
 entryType: boat
-siteType: reef
+siteType: drift
 ref: null
 osmId: 3948869068
 addedBy: osm_import
@@ -23,9 +23,9 @@ Manta Point dive site is a dive site in Komodo National Park offering rewarding 
 
 - **Location**: Komodo National Park, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Site Type**: Drift dive
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 15 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)

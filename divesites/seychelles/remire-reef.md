@@ -4,7 +4,7 @@ lat: -5.0998656
 lng: 53.34612
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
+entryType: boat
 siteType: reef
 ref: null
 osmId: 52577559
@@ -22,7 +22,7 @@ Remire Reef is a dive site in Seychelles offering rewarding diving on healthy co
 ## Site Information
 
 - **Location**: Seychelles, Africa
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
