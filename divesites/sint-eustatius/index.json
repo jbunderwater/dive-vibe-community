@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Charles L. Brown Wreck",
+    "filename": "charles-l-brown-wreck.md",
+    "lat": 17.49,
+    "lng": -62.99,
+    "difficulty": "Intermediate",
+    "maxDepth": 20,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Anchor Point South",
+    "filename": "anchor-point-south.md",
+    "lat": 17.475,
+    "lng": -62.975,
+    "difficulty": "Intermediate",
+    "maxDepth": 18,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Blue Bead Hole",
+    "filename": "blue-bead-hole.md",
+    "lat": 17.48,
+    "lng": -62.98,
+    "difficulty": "Beginner",
+    "maxDepth": 15,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Stenapa Reef",
+    "filename": "stenapa-reef.md",
+    "lat": 17.485,
+    "lng": -62.985,
+    "difficulty": "Beginner",
+    "maxDepth": 12,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Hangover",
+    "filename": "hangover.md",
+    "lat": 17.5,
+    "lng": -62.995,
+    "difficulty": "Advanced",
+    "maxDepth": 28,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Crooks Castle",
+    "filename": "crooks-castle.md",
+    "lat": 17.47,
+    "lng": -62.97,
+    "difficulty": "Intermediate",
+    "maxDepth": 22,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Double Wreck",
+    "filename": "double-wreck.md",
+    "lat": 17.495,
+    "lng": -62.992,
+    "difficulty": "Intermediate",
+    "maxDepth": 16,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Nursing Station",
+    "filename": "nursing-station.md",
+    "lat": 17.465,
+    "lng": -62.968,
+    "difficulty": "Beginner",
+    "maxDepth": 8,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Five Fingers South",
+    "filename": "five-fingers-south.md",
+    "lat": 17.46,
+    "lng": -62.965,
+    "difficulty": "Advanced",
+    "maxDepth": 25,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "The Ledges",
+    "filename": "the-ledges.md",
+    "lat": 17.505,
+    "lng": -63.0,
+    "difficulty": "Intermediate",
+    "maxDepth": 20,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  }
+]

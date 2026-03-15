@@ -1,0 +1,122 @@
+[
+  {
+    "name": "MV River Taw Wreck",
+    "filename": "mv-river-taw-wreck.md",
+    "lat": 17.29,
+    "lng": -62.72,
+    "difficulty": "Beginner",
+    "maxDepth": 15,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Monkey Shoals",
+    "filename": "monkey-shoals.md",
+    "lat": 17.3,
+    "lng": -62.73,
+    "difficulty": "Intermediate",
+    "maxDepth": 18,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Brassball Wreck",
+    "filename": "brassball-wreck.md",
+    "lat": 17.31,
+    "lng": -62.74,
+    "difficulty": "Beginner",
+    "maxDepth": 12,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Coral Garden",
+    "filename": "coral-garden.md",
+    "lat": 17.28,
+    "lng": -62.71,
+    "difficulty": "Beginner",
+    "maxDepth": 10,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Grid Iron",
+    "filename": "grid-iron.md",
+    "lat": 17.32,
+    "lng": -62.75,
+    "difficulty": "Intermediate",
+    "maxDepth": 22,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Sandy Point Reef",
+    "filename": "sandy-point-reef.md",
+    "lat": 17.34,
+    "lng": -62.84,
+    "difficulty": "Intermediate",
+    "maxDepth": 20,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Nag's Head",
+    "filename": "nags-head.md",
+    "lat": 17.27,
+    "lng": -62.7,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Coconut Tree Reef",
+    "filename": "coconut-tree-reef.md",
+    "lat": 17.36,
+    "lng": -62.79,
+    "difficulty": "Beginner",
+    "maxDepth": 14,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Devil's Caves",
+    "filename": "devils-caves.md",
+    "lat": 17.13,
+    "lng": -62.6,
+    "difficulty": "Intermediate",
+    "maxDepth": 20,
+    "entryType": "boat",
+    "siteType": "cave",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Booby Shoals",
+    "filename": "booby-shoals.md",
+    "lat": 17.16,
+    "lng": -62.62,
+    "difficulty": "Beginner",
+    "maxDepth": 16,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  }
+]

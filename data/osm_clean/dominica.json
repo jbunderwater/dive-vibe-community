@@ -1,0 +1,177 @@
+[
+  {
+    "name": "Champagne Reef",
+    "lat": 15.235,
+    "lon": -61.37,
+    "depth": 12,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "Scotts Head Pinnacle",
+    "lat": 15.215,
+    "lon": -61.365,
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "Soufrière Pinnacle",
+    "lat": 15.225,
+    "lon": -61.36,
+    "depth": 25,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "Danglebens Pinnacles",
+    "lat": 15.24,
+    "lon": -61.38,
+    "depth": 35,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "Coral Gardens",
+    "lat": 15.25,
+    "lon": -61.375,
+    "depth": 10,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "L'Abym",
+    "lat": 15.26,
+    "lon": -61.385,
+    "depth": 28,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "Toucari Bay",
+    "lat": 15.625,
+    "lon": -61.475,
+    "depth": 14,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "Cabrits Drop",
+    "lat": 15.58,
+    "lon": -61.47,
+    "depth": 32,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "Point Guignard",
+    "lat": 15.28,
+    "lon": -61.39,
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "Nose Reef",
+    "lat": 15.21,
+    "lon": -61.358,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "Five Finger Rock",
+    "lat": 15.55,
+    "lon": -61.46,
+    "depth": 22,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "Rodney's Rock",
+    "lat": 15.27,
+    "lon": -61.378,
+    "depth": 16,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "Nature Island Dive",
+    "lat": 15.2323133,
+    "lon": -61.3610502,
+    "osm_id": 277752275,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "building": "yes",
+      "hurricane:damage": "moderate",
+      "name": "Nature Island Dive",
+      "sport": "scuba_diving",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  }
+]

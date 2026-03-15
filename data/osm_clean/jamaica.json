@@ -1,0 +1,158 @@
+[
+  {
+    "name": "Widowmaker's Cave",
+    "lat": 18.36,
+    "lon": -78.36,
+    "depth": 20,
+    "site_type": "cave",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "The Throne Room",
+    "lat": 18.365,
+    "lon": -78.355,
+    "depth": 25,
+    "site_type": "cave",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "Montego Bay Marine Park",
+    "lat": 18.48,
+    "lon": -77.93,
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "The Point (Negril)",
+    "lat": 18.34,
+    "lon": -78.37,
+    "depth": 30,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "Airport Reef",
+    "lat": 18.5,
+    "lon": -77.91,
+    "depth": 12,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "Shallow Plane Wreck",
+    "lat": 18.37,
+    "lon": -78.35,
+    "depth": 10,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "Arches (Negril)",
+    "lat": 18.35,
+    "lon": -78.365,
+    "depth": 18,
+    "site_type": "cave",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "Port Royal Reef",
+    "lat": 17.94,
+    "lon": -76.84,
+    "depth": 14,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "Ocho Rios Reef",
+    "lat": 18.41,
+    "lon": -77.1,
+    "depth": 16,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "Runaway Bay Wall",
+    "lat": 18.47,
+    "lon": -77.33,
+    "depth": 35,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "Cayman Trench Edge",
+    "lat": 18.355,
+    "lon": -78.36,
+    "depth": 40,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "The Coral Gardens",
+    "lat": 18.49,
+    "lon": -77.92,
+    "depth": 8,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  }
+]

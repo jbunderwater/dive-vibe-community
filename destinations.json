@@ -2066,5 +2066,357 @@
     "description": "Northern Banda Sea muck diving paradise, home to the psychedelic frogfish found nowhere else on Earth, with world-class macro photography opportunities.",
     "overviewFile": "overview.md",
     "countryCode": "ID"
+  },
+  {
+    "name": "Grenada",
+    "slug": "grenada",
+    "region": "Caribbean",
+    "center": [
+      12.12,
+      -61.68
+    ],
+    "bounds": [
+      [
+        11.98,
+        -61.8
+      ],
+      [
+        12.24,
+        -61.58
+      ]
+    ],
+    "description": "Home to the Bianca C — the 'Titanic of the Caribbean' — and the world's first Underwater Sculpture Park, with pristine reefs and volcanic formations.",
+    "overviewFile": "overview.md",
+    "countryCode": "GD"
+  },
+  {
+    "name": "Dominica",
+    "slug": "dominica",
+    "region": "Caribbean",
+    "center": [
+      15.42,
+      -61.35
+    ],
+    "bounds": [
+      [
+        15.2,
+        -61.5
+      ],
+      [
+        15.65,
+        -61.2
+      ]
+    ],
+    "description": "The 'Nature Isle' of the Caribbean with volcanic underwater hot springs, Champagne Reef's bubble dive, and sperm whale encounters year-round.",
+    "overviewFile": "overview.md",
+    "countryCode": "DM"
+  },
+  {
+    "name": "St. Lucia",
+    "slug": "st-lucia",
+    "region": "Caribbean",
+    "center": [
+      13.91,
+      -60.97
+    ],
+    "bounds": [
+      [
+        13.7,
+        -61.08
+      ],
+      [
+        14.12,
+        -60.87
+      ]
+    ],
+    "description": "Dramatic Piton wall dives, the famous Superman's Flight drift dive at Anse Chastanet, with healthy coral gardens beneath volcanic twin peaks.",
+    "overviewFile": "overview.md",
+    "countryCode": "LC"
+  },
+  {
+    "name": "US Virgin Islands",
+    "slug": "us-virgin-islands",
+    "region": "Caribbean",
+    "center": [
+      18.1,
+      -64.8
+    ],
+    "bounds": [
+      [
+        17.6,
+        -65.1
+      ],
+      [
+        18.45,
+        -64.5
+      ]
+    ],
+    "description": "Buck Island's underwater trail in St. Croix, historic wrecks off St. Thomas, and coral-rich walls across three main islands.",
+    "overviewFile": "overview.md",
+    "countryCode": "VI"
+  },
+  {
+    "name": "Tobago",
+    "slug": "tobago",
+    "region": "Caribbean",
+    "center": [
+      11.22,
+      -60.67
+    ],
+    "bounds": [
+      [
+        11.1,
+        -60.9
+      ],
+      [
+        11.35,
+        -60.45
+      ]
+    ],
+    "description": "Speyside's world-class drift diving with the world's largest brain coral, giant manta rays, and nutrient-rich waters from South America.",
+    "overviewFile": "overview.md",
+    "countryCode": "TT"
+  },
+  {
+    "name": "Aruba",
+    "slug": "aruba",
+    "region": "Caribbean",
+    "center": [
+      12.51,
+      -69.97
+    ],
+    "bounds": [
+      [
+        12.4,
+        -70.07
+      ],
+      [
+        12.63,
+        -69.87
+      ]
+    ],
+    "description": "The SS Antilla — one of the largest wreck dives in the Caribbean — plus pristine reefs, completing the famous ABC island diving trio.",
+    "overviewFile": "overview.md",
+    "countryCode": "AW"
+  },
+  {
+    "name": "Guadeloupe",
+    "slug": "guadeloupe",
+    "region": "Caribbean",
+    "center": [
+      16.2,
+      -61.55
+    ],
+    "bounds": [
+      [
+        15.85,
+        -61.8
+      ],
+      [
+        16.5,
+        -61.15
+      ]
+    ],
+    "description": "Jacques Cousteau Reserve at Pigeon Island with exceptional marine biodiversity, volcanic reef formations, and France's premier Caribbean diving.",
+    "overviewFile": "overview.md",
+    "countryCode": "GP"
+  },
+  {
+    "name": "Barbados",
+    "slug": "barbados",
+    "region": "Caribbean",
+    "center": [
+      13.18,
+      -59.55
+    ],
+    "bounds": [
+      [
+        13.04,
+        -59.66
+      ],
+      [
+        13.34,
+        -59.42
+      ]
+    ],
+    "description": "Carlisle Bay's six shore-accessible wrecks, sea turtle encounters on every dive, and healthy Atlantic-side reef systems.",
+    "overviewFile": "overview.md",
+    "countryCode": "BB"
+  },
+  {
+    "name": "Sint Eustatius",
+    "slug": "sint-eustatius",
+    "region": "Caribbean",
+    "center": [
+      17.49,
+      -62.98
+    ],
+    "bounds": [
+      [
+        17.44,
+        -63.05
+      ],
+      [
+        17.54,
+        -62.92
+      ]
+    ],
+    "description": "Volcanic diving on the Dutch Caribbean's hidden gem with the Charles L. Brown wreck, pristine marine park, and historic anchor sites.",
+    "overviewFile": "overview.md",
+    "countryCode": "BQ"
+  },
+  {
+    "name": "Dominican Republic",
+    "slug": "dominican-republic",
+    "region": "Caribbean",
+    "center": [
+      18.75,
+      -69.95
+    ],
+    "bounds": [
+      [
+        17.5,
+        -72.0
+      ],
+      [
+        20.0,
+        -68.3
+      ]
+    ],
+    "description": "Silver Bank humpback whale encounters, Catalina Island wall dives, Bayahibe reef systems, and the historic wrecks of La Caleta.",
+    "overviewFile": "overview.md",
+    "countryCode": "DO"
+  },
+  {
+    "name": "Puerto Rico",
+    "slug": "puerto-rico",
+    "region": "Caribbean",
+    "center": [
+      18.22,
+      -66.5
+    ],
+    "bounds": [
+      [
+        17.9,
+        -68.0
+      ],
+      [
+        18.55,
+        -65.2
+      ]
+    ],
+    "description": "Remote Desecheo and Mona Island walls, La Parguera's bioluminescent bay, and diverse Caribbean reef ecosystems across the archipelago.",
+    "overviewFile": "overview.md",
+    "countryCode": "PR"
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "slug": "antigua-and-barbuda",
+    "region": "Caribbean",
+    "center": [
+      17.08,
+      -61.8
+    ],
+    "bounds": [
+      [
+        16.9,
+        -62.0
+      ],
+      [
+        17.75,
+        -61.65
+      ]
+    ],
+    "description": "Pillars of Hercules rock formations, Cades Reef marine park, and historic shipwrecks in the waters of Nelson's Dockyard.",
+    "overviewFile": "overview.md",
+    "countryCode": "AG"
+  },
+  {
+    "name": "St. Vincent and the Grenadines",
+    "slug": "st-vincent-grenadines",
+    "region": "Caribbean",
+    "center": [
+      13.15,
+      -61.2
+    ],
+    "bounds": [
+      [
+        12.5,
+        -61.5
+      ],
+      [
+        13.4,
+        -61.1
+      ]
+    ],
+    "description": "Tobago Cays Marine Park with pristine coral gardens, volcanic black sand sites, drift dives, and rich critter life in uncrowded waters.",
+    "overviewFile": "overview.md",
+    "countryCode": "VC"
+  },
+  {
+    "name": "Jamaica",
+    "slug": "jamaica",
+    "region": "Caribbean",
+    "center": [
+      18.1,
+      -77.3
+    ],
+    "bounds": [
+      [
+        17.7,
+        -78.4
+      ],
+      [
+        18.55,
+        -76.2
+      ]
+    ],
+    "description": "Montego Bay Marine Park, wreck diving off Kingston, vibrant coral walls, and the famous Widowmaker's Cave at Negril.",
+    "overviewFile": "overview.md",
+    "countryCode": "JM"
+  },
+  {
+    "name": "St. Kitts and Nevis",
+    "slug": "st-kitts-and-nevis",
+    "region": "Caribbean",
+    "center": [
+      17.3,
+      -62.73
+    ],
+    "bounds": [
+      [
+        17.08,
+        -62.88
+      ],
+      [
+        17.42,
+        -62.52
+      ]
+    ],
+    "description": "MV River Taw wreck dive, volcanic reef formations, healthy coral gardens, and uncrowded sites in the Lesser Antilles.",
+    "overviewFile": "overview.md",
+    "countryCode": "KN"
+  },
+  {
+    "name": "Martinique",
+    "slug": "martinique",
+    "region": "Caribbean",
+    "center": [
+      14.64,
+      -61.02
+    ],
+    "bounds": [
+      [
+        14.38,
+        -61.23
+      ],
+      [
+        14.88,
+        -60.81
+      ]
+    ],
+    "description": "Diamond Rock's dramatic pinnacle dive, historic St. Pierre wrecks from the 1902 eruption, and French Caribbean coral gardens.",
+    "overviewFile": "overview.md",
+    "countryCode": "MQ"
   }
 ]

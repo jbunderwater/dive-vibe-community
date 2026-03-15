@@ -142,5 +142,77 @@
     "siteType": "wall",
     "ref": "",
     "osmId": null
+  },
+  {
+    "name": "Bocas Diving Pirates",
+    "filename": "bocas-diving-pirates.md",
+    "lat": 9.3425207,
+    "lng": -82.2411948,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 3380292448
+  },
+  {
+    "name": "Starfleet Scuba Diving",
+    "filename": "starfleet-scuba-diving.md",
+    "lat": 9.3385615,
+    "lng": -82.2403258,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 3506370477
+  },
+  {
+    "name": "La Buga Dive & Surf",
+    "filename": "la-buga-dive-surf.md",
+    "lat": 9.3371182,
+    "lng": -82.2405793,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 3506370479
+  },
+  {
+    "name": "Scuba 6 Eco Diving",
+    "filename": "scuba-6-eco-diving.md",
+    "lat": 9.3476977,
+    "lng": -82.2115114,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 6407783489
+  },
+  {
+    "name": "Casa Verde",
+    "filename": "casa-verde.md",
+    "lat": 9.3219472,
+    "lng": -82.2195889,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 12601627187
+  },
+  {
+    "name": "Barco Hundido",
+    "filename": "barco-hundido.md",
+    "lat": 9.3308072,
+    "lng": -82.2224984,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 12639496075
   }
 ]

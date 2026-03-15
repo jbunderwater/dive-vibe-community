@@ -118,5 +118,41 @@
     "siteType": "reef",
     "ref": "",
     "osmId": null
+  },
+  {
+    "name": "Le Piramidi",
+    "filename": "le-piramidi.md",
+    "lat": 38.7002335,
+    "lng": 13.152312,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 2137060566
+  },
+  {
+    "name": "Sutta zà Lisa",
+    "filename": "sutta-zà-lisa.md",
+    "lat": 38.6920525,
+    "lng": 13.1624883,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 2137061116
+  },
+  {
+    "name": "Grotta dei Gamberi",
+    "filename": "grotta-dei-gamberi.md",
+    "lat": 38.6949666,
+    "lng": 13.1830126,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "cave",
+    "ref": "",
+    "osmId": 2137062026
   }
 ]

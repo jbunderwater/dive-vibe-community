@@ -1,0 +1,145 @@
+[
+  {
+    "name": "Catalina Wall",
+    "lat": 18.22,
+    "lon": -68.95,
+    "depth": 30,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "St. George Wreck",
+    "lat": 18.47,
+    "lon": -69.88,
+    "depth": 22,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "La Caleta Underwater Park",
+    "lat": 18.43,
+    "lon": -69.75,
+    "depth": 18,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "Padre Nuestro",
+    "lat": 18.38,
+    "lon": -68.83,
+    "depth": 10,
+    "site_type": "cave",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "Bayahibe Reef",
+    "lat": 18.36,
+    "lon": -68.85,
+    "depth": 14,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "Saona Island",
+    "lat": 18.15,
+    "lon": -68.72,
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "Punta Cana Reef",
+    "lat": 18.52,
+    "lon": -68.37,
+    "depth": 12,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "Las Terrenas Drop-Off",
+    "lat": 19.32,
+    "lon": -69.53,
+    "depth": 35,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "Sosua Bay",
+    "lat": 19.76,
+    "lon": -70.51,
+    "depth": 16,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "El Dudú Cenote",
+    "lat": 19.69,
+    "lon": -69.88,
+    "depth": 25,
+    "site_type": "cave",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  },
+  {
+    "name": "Atlantic Princess Wreck",
+    "lat": 18.45,
+    "lon": -69.86,
+    "depth": 28,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    }
+  }
+]

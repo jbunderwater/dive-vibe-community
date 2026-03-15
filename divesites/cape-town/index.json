@@ -166,5 +166,101 @@
     "siteType": "wall",
     "ref": "",
     "osmId": null
+  },
+  {
+    "name": "Antipolis",
+    "filename": "antipolis.md",
+    "lat": -33.9837288,
+    "lng": 18.3562528,
+    "difficulty": "Beginner",
+    "maxDepth": 11,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 270978722
+  },
+  {
+    "name": "SELI1",
+    "filename": "seli1.md",
+    "lat": -33.8246505,
+    "lng": 18.4710634,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 1594626525
+  },
+  {
+    "name": "Het Huis te Kraaienstjin",
+    "filename": "het-huis-te-kraaienstjin.md",
+    "lat": -33.9806842,
+    "lng": 18.3620862,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 5310394646
+  },
+  {
+    "name": "Thomas T. Tucker",
+    "filename": "thomas-t-tucker.md",
+    "lat": -34.2734863,
+    "lng": 18.3808435,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 7025899718
+  },
+  {
+    "name": "Nolloth",
+    "filename": "nolloth.md",
+    "lat": -34.2838018,
+    "lng": 18.3884129,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 7025899719
+  },
+  {
+    "name": "Phyllisia Shipwreck",
+    "filename": "phyllisia-shipwreck.md",
+    "lat": -34.3078694,
+    "lng": 18.4018744,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 11051586533
+  },
+  {
+    "name": "Whittle Rock",
+    "filename": "whittle-rock.md",
+    "lat": -34.2480023,
+    "lng": 18.5539711,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 11831313172
+  },
+  {
+    "name": "Clan Stewart",
+    "filename": "clan-stewart.md",
+    "lat": -34.1717192,
+    "lng": 18.4304841,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 5555966
   }
 ]
