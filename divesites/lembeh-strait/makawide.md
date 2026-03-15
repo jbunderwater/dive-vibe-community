@@ -13,54 +13,70 @@ addedBy: osm_import
 
 ## Makawide
 
-Makawide is a reef dive site in Lembeh Strait, Asia.
+Makawide is a cluster of dive sites in the northern section of the Lembeh Strait, named after the nearby village. The primary site (Makawide 1) lies off a small island close to the mainland shore between Jahir and Nudi Retreat. Makawide offers more habitat diversity than most Lembeh muck sites — a combination of healthy shallow coral in the shallows, a rubble and sand slope to 24 meters, and a pair of pinnacles at Makawide 2 that hosts gorgonian sea fans. It is claimed by many divers to be one of the best sites in the strait for blue-ringed octopus sightings.
 
 ## Overview
 
-Makawide is a dive site in Lembeh Strait offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Makawide 1 features shallow coral gardens (2–8 m) that are productive for snorkeling and the beginning of the dive, followed by a sand and rubble slope descending to 24 meters. The little island is connected to the mainland by a shallow reef saddle, and the north-facing side of this saddle is where the main muck action unfolds. Makawide 2, with its two pinnacles, attracts cephalopods and nudibranchs and is also popular for snorkeling in the shallows. Currents at Makawide can be stronger than at more sheltered Lembeh sites, so some dive planning around slack tide is advisable.
 
 ## Site Information
 
-- **Location**: Lembeh Strait, Asia
+- **Location**: Northern Lembeh Strait, mainland side, North Sulawesi, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Muck dive
+- **Site Type**: Muck dive (with coral garden elements in the shallows)
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 24 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 5–15 meters
+- **Water Temperature**: 26–29°C
+- **Current**: Can be moderate to strong; plan around slack tide
+- **Best Time**: Year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Makawide is a cephalopod-rich site with additional diversity from the coral garden sections:
+
+- **Blue-ringed octopus** (*Hapalochlaena* sp.) — one of Lembeh's most reliable blue-ringed octopus sites; found in the rubble zone along the sandy slope
+- **Wunderpus octopus** — among the rubble and in the open sand
+- **Long-armed octopus** and **hairy octopus** — occasional sightings
+- **Mototi octopus** (*Amphioctopus mototi*) — a rare species that flashes blue rings when disturbed
+- **Flamboyant cuttlefish** — at Makawide 2 and along the sandy slope
+- **Pygmy seahorses** (*Hippocampus bargibanti*) — in gorgonian sea fans on the pinnacles at Makawide 2
+- **Painted frogfish** — on the rubble slope
+- **Ghost pipefish** — among coral rubble and algae
+- **Anemonefish** — various species in the shallow coral garden sections
+- **Blue and black ribbon eels** — in burrows along the slope
+- **Shrimp gobies** with their partner pistol shrimps on the sandy flat
+- **Cowrie shells** in the rubble
+- **Nudibranchs** — wide variety across the full depth range
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin the dive on the shallow coral garden, scanning for anemonefish and pygmy seahorses in sea fans. Descend the rubble slope searching for blue-ringed octopus and wunderpus in the mid-depth zone (8–18 m). Continue deeper for the full slope profile to 24 meters. If diving Makawide 2, the pinnacles reward careful searching of gorgonians for pygmy seahorses. Plan the dive with current conditions in mind — the site can run a current that makes the return leg challenging.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by dive boat. Giant stride or back roll entry. Monitor current strength at the surface before descending. Ascent with SMB is essential given the potential for current drift. Site is also used for snorkeling in the shallow coral section.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Makawide is one of the best sites in Lembeh for blue-ringed octopus — ask your guide to search the rubble patches systematically
+- Do not touch or handle the blue-ringed octopus; its venom is lethal
+- Bargibanti pygmy seahorses in the gorgonians at Makawide 2 require a sharp eye — your guide will point them out
+- Plan the dive around slack tide if the current is running; the site loses its charm in a strong flow
+- The shallow coral section is worth time — it contrasts with the muck slope and provides different subjects
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Current is the primary hazard at Makawide, unlike the more sheltered TK Bay sites. Plan dive direction to work into the current first. Blue-ringed octopus are present and must not be handled. Stonefish and scorpionfish are present throughout the site. SMB deployment during ascent is strongly recommended given the current risk.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Makawide offers a rare combination of macro subjects (blue-ringed octopus, nudibranchs, ghost pipefish) and wider subjects (anemonefish in coral gardens, pygmy seahorses in fans). A 100mm macro lens covers the primary subjects; bring a zoom or fish-eye for the shallow coral section. Blue-ringed octopus with iridescent blue rings against the dark substrate are among the most striking images achievable in Lembeh.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Validated**: 2026-03-15
+- **Validation Sources**: starfish.ch, lembehresort.com, zubludiving.com
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*Dive site information researched from starfish.ch Lembeh dive site database, Lembeh Resort, and ZuBlu. Last updated 2026-03-15.*
