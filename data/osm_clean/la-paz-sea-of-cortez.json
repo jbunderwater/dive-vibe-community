@@ -13,5 +13,170 @@
       "name": "The Cortez Club",
       "sport": "scuba_diving"
     }
+  },
+  {
+    "name": "Shipwrecks",
+    "lat": 23.1233557,
+    "lon": -109.5204339,
+    "osm_id": 1461976052,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Shipwrecks",
+      "seamark:type": "wreck",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Cabo Pulmo Divers",
+    "lat": 23.4361148,
+    "lon": -109.427896,
+    "osm_id": 441260249,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "building": "yes",
+      "name": "Cabo Pulmo Divers",
+      "sport": "scuba_diving",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Los Islotes",
+    "lat": 24.595,
+    "lon": -110.4,
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "El Bajo Seamount",
+    "lat": 24.72,
+    "lon": -110.3,
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Swanee Reef",
+    "lat": 24.59,
+    "lon": -110.395,
+    "depth": 22,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Salvatierra Wreck",
+    "lat": 24.25,
+    "lon": -110.03,
+    "depth": 18,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Isla Espiritu Santo - The Wall",
+    "lat": 24.5,
+    "lon": -110.36,
+    "depth": 35,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "La Reina",
+    "lat": 24.58,
+    "lon": -110.38,
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "San Rafaelito",
+    "lat": 24.3,
+    "lon": -110.1,
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Fang Ming Wreck",
+    "lat": 24.28,
+    "lon": -110.05,
+    "depth": 20,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Las Animas",
+    "lat": 25.1,
+    "lon": -110.5,
+    "depth": 28,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Isla Cerralvo North",
+    "lat": 24.2,
+    "lon": -109.95,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
   }
 ]

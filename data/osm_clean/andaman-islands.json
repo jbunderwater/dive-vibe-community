@@ -126,5 +126,28 @@
       "scuba_diving:divespot": "Lighthouse",
       "sport": "scuba_diving"
     }
+  },
+  {
+    "name": "MV Primrose",
+    "lat": 11.5934127,
+    "lon": 92.2123352,
+    "osm_id": 120523928,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "access": "no",
+      "historic": "wreck",
+      "name": "MV Primrose",
+      "seamark:type": "wreck",
+      "seamark:wreck:category": "hull_visible",
+      "wreck:date_sunk": "1981-08-02",
+      "wreck:visible_at_high_tide": "no",
+      "wreck:visible_at_low_tide": "yes",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
   }
 ]

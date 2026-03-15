@@ -70,5 +70,89 @@
     "siteType": "reef",
     "ref": "",
     "osmId": 13123276912
+  },
+  {
+    "name": "Kicker Rock (León Dormido)",
+    "filename": "kicker-rock-león-dormido.md",
+    "lat": -0.77,
+    "lng": -89.52,
+    "difficulty": "Advanced",
+    "maxDepth": 25,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Cabo Marshall",
+    "filename": "cabo-marshall.md",
+    "lat": -0.24,
+    "lng": -90.52,
+    "difficulty": "Intermediate",
+    "maxDepth": 22,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Cousins Rock",
+    "filename": "cousins-rock.md",
+    "lat": -0.2,
+    "lng": -90.56,
+    "difficulty": "Intermediate",
+    "maxDepth": 18,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Punta Vicente Roca",
+    "filename": "punta-vicente-roca.md",
+    "lat": -0.05,
+    "lng": -91.56,
+    "difficulty": "Intermediate",
+    "maxDepth": 20,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Isla Bartolome",
+    "filename": "isla-bartolome.md",
+    "lat": -0.28,
+    "lng": -90.54,
+    "difficulty": "Beginner",
+    "maxDepth": 15,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "North Seymour",
+    "filename": "north-seymour.md",
+    "lat": -0.38,
+    "lng": -90.29,
+    "difficulty": "Intermediate",
+    "maxDepth": 16,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Daphne Minor",
+    "filename": "daphne-minor.md",
+    "lat": -0.4,
+    "lng": -90.37,
+    "difficulty": "Intermediate",
+    "maxDepth": 20,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
   }
 ]

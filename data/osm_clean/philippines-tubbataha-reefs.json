@@ -118,5 +118,23 @@
       "source": "curated",
       "addedBy": "gap_fill"
     }
+  },
+  {
+    "name": "Jesse Beazley Reef",
+    "lat": 9.0466227,
+    "lon": 119.8142609,
+    "osm_id": 31974943,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Jesse Beazley Reef",
+      "natural": "reef",
+      "subsea": "coral_reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
   }
 ]

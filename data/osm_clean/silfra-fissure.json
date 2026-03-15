@@ -19,5 +19,83 @@
       "wikidata": "Q2286006",
       "wikipedia": "en:Silfra"
     }
+  },
+  {
+    "name": "Silfra Hall",
+    "lat": 64.256,
+    "lon": -21.117,
+    "depth": 18,
+    "site_type": "cave",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Silfra Cathedral",
+    "lat": 64.255,
+    "lon": -21.116,
+    "depth": 25,
+    "site_type": "cave",
+    "entry_type": "shore",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Silfra Lagoon",
+    "lat": 64.254,
+    "lon": -21.115,
+    "depth": 3,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Big Crack",
+    "lat": 64.253,
+    "lon": -21.118,
+    "depth": 12,
+    "site_type": "cave",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Davíðsgjá Fissure",
+    "lat": 64.26,
+    "lon": -21.1,
+    "depth": 20,
+    "site_type": "cave",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Strytan Hydrothermal Chimney",
+    "lat": 64.25,
+    "lon": -21.12,
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
   }
 ]

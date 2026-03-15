@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Windjammer",
+    "lat": 24.6234352,
+    "lon": -82.9423306,
+    "osm_id": 8220897620,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "wreck",
+      "name": "Windjammer",
+      "seamark:type": "wreck"
+    }
+  },
+  {
+    "name": "White Shoal",
+    "lat": 24.6370629,
+    "lon": -82.9018649,
+    "osm_id": 1033472465,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "White Shoal",
+      "natural": "reef"
+    }
+  },
+  {
+    "name": "Brilliant Shoal",
+    "lat": 24.6608273,
+    "lon": -82.8902764,
+    "osm_id": 1033472471,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Brilliant Shoal",
+      "natural": "reef"
+    }
+  }
+]

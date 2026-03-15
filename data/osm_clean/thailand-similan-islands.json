@@ -67,5 +67,148 @@
       "sport": "scuba_diving",
       "tourism": "attraction"
     }
+  },
+  {
+    "name": "Elephant Head Rock",
+    "lat": 8.57,
+    "lon": 97.64,
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Christmas Point",
+    "lat": 8.68,
+    "lon": 97.62,
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "East of Eden",
+    "lat": 8.59,
+    "lon": 97.66,
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Anita's Reef",
+    "lat": 8.56,
+    "lon": 97.635,
+    "depth": 22,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Deep Six",
+    "lat": 8.65,
+    "lon": 97.615,
+    "depth": 28,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "West of Six",
+    "lat": 8.64,
+    "lon": 97.61,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Koh Bon Pinnacle",
+    "lat": 8.96,
+    "lon": 97.78,
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Koh Tachai Pinnacle",
+    "lat": 9.13,
+    "lon": 97.83,
+    "depth": 28,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Beacon Reef",
+    "lat": 8.62,
+    "lon": 97.655,
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Turtle Rock",
+    "lat": 8.63,
+    "lon": 97.65,
+    "depth": 16,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Fantasea Reef",
+    "lat": 8.6,
+    "lon": 97.645,
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
   }
 ]

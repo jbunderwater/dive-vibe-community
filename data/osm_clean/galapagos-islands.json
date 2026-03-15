@@ -91,5 +91,96 @@
       "name": "Plazas",
       "sport": "scuba_diving"
     }
+  },
+  {
+    "name": "Kicker Rock (León Dormido)",
+    "lat": -0.77,
+    "lon": -89.52,
+    "depth": 25,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Cabo Marshall",
+    "lat": -0.24,
+    "lon": -90.52,
+    "depth": 22,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Cousins Rock",
+    "lat": -0.2,
+    "lon": -90.56,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Punta Vicente Roca",
+    "lat": -0.05,
+    "lon": -91.56,
+    "depth": 20,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Isla Bartolome",
+    "lat": -0.28,
+    "lon": -90.54,
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "North Seymour",
+    "lat": -0.38,
+    "lon": -90.29,
+    "depth": 16,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Daphne Minor",
+    "lat": -0.4,
+    "lon": -90.37,
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
   }
 ]

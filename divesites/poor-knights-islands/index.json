@@ -22,5 +22,113 @@
     "siteType": "wall",
     "ref": "",
     "osmId": 8070483249
+  },
+  {
+    "name": "Rikoriko Cave",
+    "filename": "rikoriko-cave.md",
+    "lat": -35.47,
+    "lng": 174.735,
+    "difficulty": "Advanced",
+    "maxDepth": 25,
+    "entryType": "boat",
+    "siteType": "cave",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Northern Arch",
+    "filename": "northern-arch.md",
+    "lat": -35.45,
+    "lng": 174.73,
+    "difficulty": "Advanced",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "cave",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Middle Arch",
+    "filename": "middle-arch.md",
+    "lat": -35.46,
+    "lng": 174.732,
+    "difficulty": "Intermediate",
+    "maxDepth": 20,
+    "entryType": "boat",
+    "siteType": "cave",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Blue Maomao Arch",
+    "filename": "blue-maomao-arch.md",
+    "lat": -35.465,
+    "lng": 174.728,
+    "difficulty": "Intermediate",
+    "maxDepth": 18,
+    "entryType": "boat",
+    "siteType": "cave",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Cream Garden",
+    "filename": "cream-garden.md",
+    "lat": -35.475,
+    "lng": 174.74,
+    "difficulty": "Intermediate",
+    "maxDepth": 22,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Barney's Rock",
+    "filename": "barneys-rock.md",
+    "lat": -35.48,
+    "lng": 174.745,
+    "difficulty": "Beginner",
+    "maxDepth": 15,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Tie Dye Arch",
+    "filename": "tie-dye-arch.md",
+    "lat": -35.458,
+    "lng": 174.72,
+    "difficulty": "Intermediate",
+    "maxDepth": 20,
+    "entryType": "boat",
+    "siteType": "cave",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Jan's Tunnel",
+    "filename": "jans-tunnel.md",
+    "lat": -35.468,
+    "lng": 174.738,
+    "difficulty": "Intermediate",
+    "maxDepth": 16,
+    "entryType": "boat",
+    "siteType": "cave",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Wild Beast Point",
+    "filename": "wild-beast-point.md",
+    "lat": -35.445,
+    "lng": 174.715,
+    "difficulty": "Advanced",
+    "maxDepth": 24,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
   }
 ]

@@ -33,5 +33,122 @@
       "sport": "scuba_diving",
       "tourism": "attraction"
     }
+  },
+  {
+    "name": "Rikoriko Cave",
+    "lat": -35.47,
+    "lon": 174.735,
+    "depth": 25,
+    "site_type": "cave",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Northern Arch",
+    "lat": -35.45,
+    "lon": 174.73,
+    "depth": 30,
+    "site_type": "cave",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Middle Arch",
+    "lat": -35.46,
+    "lon": 174.732,
+    "depth": 20,
+    "site_type": "cave",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Blue Maomao Arch",
+    "lat": -35.465,
+    "lon": 174.728,
+    "depth": 18,
+    "site_type": "cave",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Cream Garden",
+    "lat": -35.475,
+    "lon": 174.74,
+    "depth": 22,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Barney's Rock",
+    "lat": -35.48,
+    "lon": 174.745,
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Tie Dye Arch",
+    "lat": -35.458,
+    "lon": 174.72,
+    "depth": 20,
+    "site_type": "cave",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Jan's Tunnel",
+    "lat": -35.468,
+    "lon": 174.738,
+    "depth": 16,
+    "site_type": "cave",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Wild Beast Point",
+    "lat": -35.445,
+    "lon": 174.715,
+    "depth": 24,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
   }
 ]

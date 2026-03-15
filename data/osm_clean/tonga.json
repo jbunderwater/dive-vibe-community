@@ -118,5 +118,129 @@
       "source": "curated",
       "addedBy": "gap_fill"
     }
+  },
+  {
+    "name": "Takuo",
+    "lat": -20.2796977,
+    "lon": -174.804115,
+    "osm_id": 3088577512,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "wreck",
+      "name": "Takuo",
+      "ref:linz:hydrographic_id": "8269138",
+      "seamark:type": "wreck",
+      "seamark:wreck:category": "hull_showing",
+      "seamark:wreck:water_level": "covers",
+      "source": "osm_extended",
+      "wreck:type": "ship",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Marmer",
+    "lat": -21.1271397,
+    "lon": -175.159952,
+    "osm_id": 3184336699,
+    "osm_type": "node",
+    "depth": 2,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": "Beginner",
+    "tags": {
+      "alt_name": "Lady Lata",
+      "depth": "2.4",
+      "depth:source_quality": "least_depth_known",
+      "historic": "wreck",
+      "name": "Marmer",
+      "ref:linz:hydrographic_id": "3857299",
+      "seamark:type": "wreck",
+      "seamark:wreck:category": "dangerous",
+      "seamark:wreck:conspicuity": "conspicuous",
+      "seamark:wreck:water_level": "submerged",
+      "source": "osm_extended",
+      "wreck:type": "ship",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Ata",
+    "lat": -21.129817,
+    "lon": -175.163267,
+    "osm_id": 9222907394,
+    "osm_type": "node",
+    "depth": 12,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": "Beginner",
+    "tags": {
+      "depth": "12.5",
+      "depth:exposition": "shoaler",
+      "depth:source_quality": "least_depth_known",
+      "historic": "wreck",
+      "name": "Ata",
+      "ref:linz:hydrographic_id": "3857295",
+      "seamark:type": "wreck",
+      "seamark:wreck:category": "dangerous",
+      "seamark:wreck:water_level": "submerged",
+      "source": "osm_extended",
+      "wreck:type": "ship",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Hakau Mounu",
+    "lat": -21.126952,
+    "lon": -175.1878149,
+    "osm_id": 356690470,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Hakau Mounu",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Hakau Ualanga 'Uta",
+    "lat": -21.1154444,
+    "lon": -175.198852,
+    "osm_id": 356690471,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Hakau Ualanga 'Uta",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Hakau Tapu",
+    "lat": -21.0530339,
+    "lon": -175.3116212,
+    "osm_id": 398853912,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Hakau Tapu",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
   }
 ]

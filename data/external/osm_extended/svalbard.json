@@ -1,0 +1,24 @@
+[
+  {
+    "name": "транспортный рефриджератор \"Петрозаводск\"",
+    "lat": 74.3462521,
+    "lon": 19.0930712,
+    "osm_id": 5128182531,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "access": "yes",
+      "historic": "wreck",
+      "name": "транспортный рефриджератор \"Петрозаводск\"",
+      "name:en": "Petrozavodsk Ship",
+      "seamark:type": "wreck",
+      "seamark:wreck:category": "non-dangerous",
+      "wreck:date_sunk": "2009-05",
+      "wreck:visible_at_high_tide": "yes",
+      "wreck:visible_at_low_tide": "yes"
+    }
+  }
+]

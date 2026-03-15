@@ -34,5 +34,89 @@
     "siteType": "wall",
     "ref": "",
     "osmId": 5484628122
+  },
+  {
+    "name": "Catalan Rocks",
+    "filename": "catalan-rocks.md",
+    "lat": 17.9764707,
+    "lng": -87.9156451,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 8192575520
+  },
+  {
+    "name": "Ermlund",
+    "filename": "ermlund.md",
+    "lat": 17.2136335,
+    "lng": -87.527902,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 8433034767
+  },
+  {
+    "name": "M/V Transfer",
+    "filename": "mv-transfer.md",
+    "lat": 17.4022104,
+    "lng": -87.4601922,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 8433034768
+  },
+  {
+    "name": "Columbus Reef",
+    "filename": "columbus-reef.md",
+    "lat": 16.9249215,
+    "lng": -88.0741062,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 9991788218
+  },
+  {
+    "name": "Belize Barrier Reef",
+    "filename": "belize-barrier-reef.md",
+    "lat": 17.4154352,
+    "lng": -88.0577182,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 9991788219
+  },
+  {
+    "name": "Gallows Point Reef",
+    "filename": "gallows-point-reef.md",
+    "lat": 17.3968824,
+    "lng": -88.0374381,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 9993288817
+  },
+  {
+    "name": "Rusty Barge Wreck",
+    "filename": "rusty-barge-wreck.md",
+    "lat": 17.5002648,
+    "lng": -88.0869874,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 9993288898
   }
 ]

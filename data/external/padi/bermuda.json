@@ -1,0 +1,939 @@
+{
+  "loggedUser": "false",
+  "googletag": "window.googletag || {cmd: []}",
+  "templatePath": "https://d2p1cf6997m1ir.cloudfront.net/static/travel_dist/",
+  "signup_url": "https://travel.padi.com/sign-up/?source=padi-nav-header",
+  "logout_url": "https://travel.padi.com/logout/?source=padi-nav-header",
+  "adventuresPadiDomain": "https://travel.padi.com/",
+  "englishUrl": "/dive-sites/bermuda/",
+  "staticPath": "https://d2p1cf6997m1ir.cloudfront.net/static/",
+  "isSSR": "true",
+  "currency": "USD",
+  "languageCode": "en",
+  "pageType": "dive-sites",
+  "dsPage": "true",
+  "isNearBy": "false",
+  "distance": "50000",
+  "isDsl": "true",
+  "locationSlug": "bermuda",
+  "locationId": 8,
+  "locationType": "country",
+  "locationTitle": "Bermuda",
+  "filters": [
+    {
+      "title": "Dive Type",
+      "query_name": "dive_site_types",
+      "items": [
+        {
+          "id": "wreck",
+          "title": "Wreck",
+          "subitems": []
+        },
+        {
+          "id": "cave",
+          "title": "Cave",
+          "subitems": []
+        },
+        {
+          "id": "beach",
+          "title": "Beach",
+          "subitems": []
+        },
+        {
+          "id": "drift",
+          "title": "Drift",
+          "subitems": []
+        },
+        {
+          "id": "lake",
+          "title": "Lake",
+          "subitems": []
+        },
+        {
+          "id": "muck",
+          "title": "Muck",
+          "subitems": []
+        },
+        {
+          "id": "pinnacle",
+          "title": "Pinnacle",
+          "subitems": []
+        },
+        {
+          "id": "pool",
+          "title": "Pool",
+          "subitems": []
+        },
+        {
+          "id": "quarry",
+          "title": "Quarry",
+          "subitems": []
+        },
+        {
+          "id": "reef",
+          "title": "Reef",
+          "subitems": []
+        },
+        {
+          "id": "sandy-bottom",
+          "title": "Sandy bottom",
+          "subitems": []
+        },
+        {
+          "id": "sea-loch",
+          "title": "Sea Loch",
+          "subitems": []
+        },
+        {
+          "id": "wall",
+          "title": "Wall",
+          "subitems": []
+        },
+        {
+          "id": "archaeological",
+          "title": "Archaeological",
+          "subitems": []
+        },
+        {
+          "id": "cavern",
+          "title": "Cavern",
+          "subitems": []
+        },
+        {
+          "id": "channel",
+          "title": "Channel",
+          "subitems": []
+        },
+        {
+          "id": "fjord",
+          "title": "Fjord",
+          "subitems": []
+        },
+        {
+          "id": "ocean",
+          "title": "Ocean",
+          "subitems": []
+        },
+        {
+          "id": "river",
+          "title": "River",
+          "subitems": []
+        },
+        {
+          "id": "spring",
+          "title": "Spring",
+          "subitems": []
+        }
+      ],
+      "is_multiple": "true",
+      "name": "dive_site_types",
+      "title_en": "Dive Type"
+    },
+    {
+      "title": "Water Entry",
+      "query_name": "water_entries",
+      "items": [
+        {
+          "id": 2,
+          "title": "Boat",
+          "subitems": []
+        },
+        {
+          "id": 3,
+          "title": "Other",
+          "subitems": []
+        },
+        {
+          "id": 1,
+          "title": "Shore",
+          "subitems": []
+        }
+      ],
+      "is_multiple": "true",
+      "name": "water_entries",
+      "title_en": "Water Entry"
+    },
+    {
+      "title": "Marine Life",
+      "query_name": "marine_life_sightings",
+      "items": [
+        {
+          "id": "null",
+          "title": "Corals, Anemones and Jellyfish",
+          "subitems": [
+            {
+              "id": 110,
+              "title": "Jellyfish",
+              "subitems": []
+            },
+            {
+              "id": 99,
+              "title": "Coral",
+              "subitems": []
+            },
+            {
+              "id": 92,
+              "title": "Gorgonian fan",
+              "subitems": []
+            },
+            {
+              "id": 93,
+              "title": "Brain coral",
+              "subitems": []
+            },
+            {
+              "id": 107,
+              "title": "Sea anemone",
+              "subitems": []
+            },
+            {
+              "id": 105,
+              "title": "Reef Fish",
+              "subitems": []
+            }
+          ]
+        },
+        {
+          "id": "null",
+          "title": "Eels and Echinoderms",
+          "subitems": [
+            {
+              "id": 90,
+              "title": "Sea cucumber",
+              "subitems": []
+            },
+            {
+              "id": 89,
+              "title": "Sea urchin",
+              "subitems": []
+            },
+            {
+              "id": 98,
+              "title": "Eels",
+              "subitems": []
+            },
+            {
+              "id": 88,
+              "title": "Starfish",
+              "subitems": []
+            },
+            {
+              "id": 40,
+              "title": "Ribbon eel",
+              "subitems": []
+            },
+            {
+              "id": 36,
+              "title": "Giant moray",
+              "subitems": []
+            },
+            {
+              "id": 39,
+              "title": "Honeycomb moray",
+              "subitems": []
+            },
+            {
+              "id": 109,
+              "title": "Moray eel",
+              "subitems": []
+            },
+            {
+              "id": 37,
+              "title": "Whitemouth moray",
+              "subitems": []
+            },
+            {
+              "id": 38,
+              "title": "Garden eels",
+              "subitems": []
+            }
+          ]
+        },
+        {
+          "id": "null",
+          "title": "Freshwater Fish",
+          "subitems": [
+            {
+              "id": 136,
+              "title": "Paddlefish",
+              "subitems": []
+            },
+            {
+              "id": 144,
+              "title": "Trout",
+              "subitems": []
+            },
+            {
+              "id": 143,
+              "title": "Pike",
+              "subitems": []
+            },
+            {
+              "id": 142,
+              "title": "Bream",
+              "subitems": []
+            },
+            {
+              "id": 141,
+              "title": "Carp",
+              "subitems": []
+            },
+            {
+              "id": 140,
+              "title": "Siberian Taimen",
+              "subitems": []
+            },
+            {
+              "id": 137,
+              "title": "Giant Barb",
+              "subitems": []
+            },
+            {
+              "id": 139,
+              "title": "Perch",
+              "subitems": []
+            },
+            {
+              "id": 134,
+              "title": "Arapaima",
+              "subitems": []
+            },
+            {
+              "id": 132,
+              "title": "Mekong Giant Catfish",
+              "subitems": []
+            },
+            {
+              "id": 133,
+              "title": "Alligator Gar",
+              "subitems": []
+            },
+            {
+              "id": 138,
+              "title": "Sturgeon",
+              "subitems": []
+            },
+            {
+              "id": 131,
+              "title": "Beluga",
+              "subitems": []
+            },
+            {
+              "id": 129,
+              "title": "Salmon",
+              "subitems": []
+            },
+            {
+              "id": 135,
+              "title": "Freshwater Stingray",
+              "subitems": []
+            }
+          ]
+        },
+        {
+          "id": "null",
+          "title": "Mammals and Reptiles",
+          "subitems": [
+            {
+              "id": 44,
+              "title": "Minke whale",
+              "subitems": []
+            },
+            {
+              "id": 113,
+              "title": "Southern right whale",
+              "subitems": []
+            },
+            {
+              "id": 106,
+              "title": "Sea turtle",
+              "subitems": []
+            },
+            {
+              "id": 111,
+              "title": "Whales",
+              "subitems": []
+            },
+            {
+              "id": 51,
+              "title": "Seal",
+              "subitems": []
+            },
+            {
+              "id": 85,
+              "title": "Sea otter",
+              "subitems": []
+            },
+            {
+              "id": 81,
+              "title": "Leatherback sea turtle",
+              "subitems": []
+            },
+            {
+              "id": 84,
+              "title": "Common dolphin",
+              "subitems": []
+            },
+            {
+              "id": 49,
+              "title": "Dolphins",
+              "subitems": []
+            },
+            {
+              "id": 48,
+              "title": "Blue whale",
+              "subitems": []
+            },
+            {
+              "id": 45,
+              "title": "Pilot whale",
+              "subitems": []
+            },
+            {
+              "id": 46,
+              "title": "Sperm whale",
+              "subitems": []
+            },
+            {
+              "id": 80,
+              "title": "Loggerhead turtle",
+              "subitems": []
+            },
+            {
+              "id": 52,
+              "title": "Manatee (dugong)",
+              "subitems": []
+            },
+            {
+              "id": 42,
+              "title": "Grey whale",
+              "subitems": []
+            },
+            {
+              "id": 47,
+              "title": "Orca",
+              "subitems": []
+            },
+            {
+              "id": 79,
+              "title": "Hawksbill turtle",
+              "subitems": []
+            },
+            {
+              "id": 78,
+              "title": "Marine iguana",
+              "subitems": []
+            },
+            {
+              "id": 83,
+              "title": "Bottlenose dolphin",
+              "subitems": []
+            },
+            {
+              "id": 82,
+              "title": "Spinner dolphin",
+              "subitems": []
+            },
+            {
+              "id": 50,
+              "title": "Sea lion",
+              "subitems": []
+            },
+            {
+              "id": 41,
+              "title": "Turtle",
+              "subitems": []
+            },
+            {
+              "id": 77,
+              "title": "Sea snake",
+              "subitems": []
+            },
+            {
+              "id": 43,
+              "title": "Humpback whale",
+              "subitems": []
+            }
+          ]
+        },
+        {
+          "id": "null",
+          "title": "Molluscs and Crustaceans",
+          "subitems": [
+            {
+              "id": 86,
+              "title": "Crab",
+              "subitems": []
+            },
+            {
+              "id": 54,
+              "title": "Crayfish",
+              "subitems": []
+            },
+            {
+              "id": 53,
+              "title": "Lobster",
+              "subitems": []
+            },
+            {
+              "id": 57,
+              "title": "Nudibranch",
+              "subitems": []
+            },
+            {
+              "id": 91,
+              "title": "Clam",
+              "subitems": []
+            },
+            {
+              "id": 56,
+              "title": "Squid",
+              "subitems": []
+            },
+            {
+              "id": 55,
+              "title": "Octopus",
+              "subitems": []
+            },
+            {
+              "id": 115,
+              "title": "Giant cuttlefish",
+              "subitems": []
+            },
+            {
+              "id": 87,
+              "title": "Shrimp",
+              "subitems": []
+            }
+          ]
+        },
+        {
+          "id": "null",
+          "title": "Ocean Fish",
+          "subitems": [
+            {
+              "id": 31,
+              "title": "Clownfish",
+              "subitems": []
+            },
+            {
+              "id": 67,
+              "title": "Lionfish",
+              "subitems": []
+            },
+            {
+              "id": 27,
+              "title": "Stonefish",
+              "subitems": []
+            },
+            {
+              "id": 28,
+              "title": "Frogfish",
+              "subitems": []
+            },
+            {
+              "id": 119,
+              "title": "Parrot fish",
+              "subitems": []
+            },
+            {
+              "id": 60,
+              "title": "Sailfish",
+              "subitems": []
+            },
+            {
+              "id": 65,
+              "title": "Boxfish / pufferfish",
+              "subitems": []
+            },
+            {
+              "id": 64,
+              "title": "Surgeonfish",
+              "subitems": []
+            },
+            {
+              "id": 73,
+              "title": "Triggerfish",
+              "subitems": []
+            },
+            {
+              "id": 58,
+              "title": "Swordfish",
+              "subitems": []
+            },
+            {
+              "id": 72,
+              "title": "Bannerfish",
+              "subitems": []
+            },
+            {
+              "id": 71,
+              "title": "Batfish",
+              "subitems": []
+            },
+            {
+              "id": 70,
+              "title": "Angelfish",
+              "subitems": []
+            },
+            {
+              "id": 59,
+              "title": "Marlin",
+              "subitems": []
+            },
+            {
+              "id": 68,
+              "title": "Goatfish",
+              "subitems": []
+            },
+            {
+              "id": 66,
+              "title": "Scorpionfish",
+              "subitems": []
+            },
+            {
+              "id": 118,
+              "title": "Snapper",
+              "subitems": []
+            },
+            {
+              "id": 75,
+              "title": "Sweetlips",
+              "subitems": []
+            },
+            {
+              "id": 34,
+              "title": "Leaffish",
+              "subitems": []
+            },
+            {
+              "id": 69,
+              "title": "Trumpetfish / pipefish",
+              "subitems": []
+            },
+            {
+              "id": 63,
+              "title": "Parrotfish",
+              "subitems": []
+            },
+            {
+              "id": 25,
+              "title": "Tuna",
+              "subitems": []
+            },
+            {
+              "id": 76,
+              "title": "Pipefish",
+              "subitems": []
+            },
+            {
+              "id": 32,
+              "title": "Grouper",
+              "subitems": []
+            },
+            {
+              "id": 74,
+              "title": "Butterflyfish",
+              "subitems": []
+            },
+            {
+              "id": 61,
+              "title": "Jackfish",
+              "subitems": []
+            },
+            {
+              "id": 104,
+              "title": "Pelagic Fish",
+              "subitems": []
+            },
+            {
+              "id": 116,
+              "title": "Weedy sea dragon",
+              "subitems": []
+            },
+            {
+              "id": 108,
+              "title": "Big iconic",
+              "subitems": []
+            },
+            {
+              "id": 100,
+              "title": "Freshwater Fish",
+              "subitems": []
+            },
+            {
+              "id": 101,
+              "title": "Fish",
+              "subitems": []
+            },
+            {
+              "id": 26,
+              "title": "Barracuda",
+              "subitems": []
+            },
+            {
+              "id": 29,
+              "title": "Sunfish (mola mola)",
+              "subitems": []
+            },
+            {
+              "id": 30,
+              "title": "Napoleon fish",
+              "subitems": []
+            },
+            {
+              "id": 33,
+              "title": "Mandarinfish",
+              "subitems": []
+            },
+            {
+              "id": 35,
+              "title": "Seahorse",
+              "subitems": []
+            }
+          ]
+        },
+        {
+          "id": "null",
+          "title": "Sharks and Rays",
+          "subitems": [
+            {
+              "id": 94,
+              "title": "Silky Shark",
+              "subitems": []
+            },
+            {
+              "id": 114,
+              "title": "Sevengill shark",
+              "subitems": []
+            },
+            {
+              "id": 18,
+              "title": "Lemon shark",
+              "subitems": []
+            },
+            {
+              "id": 21,
+              "title": "Sting ray",
+              "subitems": []
+            },
+            {
+              "id": 20,
+              "title": "Manta ray",
+              "subitems": []
+            },
+            {
+              "id": 16,
+              "title": "Mako shark",
+              "subitems": []
+            },
+            {
+              "id": 13,
+              "title": "Leopard shark",
+              "subitems": []
+            },
+            {
+              "id": 12,
+              "title": "Whale shark",
+              "subitems": []
+            },
+            {
+              "id": 7,
+              "title": "Hammerhead shark",
+              "subitems": []
+            },
+            {
+              "id": 6,
+              "title": "Great white shark",
+              "subitems": []
+            },
+            {
+              "id": 5,
+              "title": "Bull shark",
+              "subitems": []
+            },
+            {
+              "id": 2,
+              "title": "Blacktip reef shark",
+              "subitems": []
+            },
+            {
+              "id": 1,
+              "title": "Whitetip reef shark",
+              "subitems": []
+            },
+            {
+              "id": 97,
+              "title": "Silvertip sharks",
+              "subitems": []
+            },
+            {
+              "id": 112,
+              "title": "Carpet shark",
+              "subitems": []
+            },
+            {
+              "id": 4,
+              "title": "Blue shark",
+              "subitems": []
+            },
+            {
+              "id": 102,
+              "title": "Sharks",
+              "subitems": []
+            },
+            {
+              "id": 19,
+              "title": "Eagle ray",
+              "subitems": []
+            },
+            {
+              "id": 22,
+              "title": "Cownose ray",
+              "subitems": []
+            },
+            {
+              "id": 10,
+              "title": "Thresher shark",
+              "subitems": []
+            },
+            {
+              "id": 9,
+              "title": "Oceanic whitetip shark",
+              "subitems": []
+            },
+            {
+              "id": 95,
+              "title": "Galapagos Sharks",
+              "subitems": []
+            },
+            {
+              "id": 11,
+              "title": "Tiger shark",
+              "subitems": []
+            },
+            {
+              "id": 17,
+              "title": "Cow shark",
+              "subitems": []
+            },
+            {
+              "id": 14,
+              "title": "Guitar shark",
+              "subitems": []
+            },
+            {
+              "id": 62,
+              "title": "Oceanic blacktip shark",
+              "subitems": []
+            },
+            {
+              "id": 23,
+              "title": "Mobula",
+              "subitems": []
+            },
+            {
+              "id": 8,
+              "title": "Nurse sharks",
+              "subitems": []
+            },
+            {
+              "id": 3,
+              "title": "Basking shark",
+              "subitems": []
+            },
+            {
+              "id": 96,
+              "title": "Grey Sharks",
+              "subitems": []
+            },
+            {
+              "id": 103,
+              "title": "Rays",
+              "subitems": []
+            },
+            {
+              "id": 15,
+              "title": "Sand tiger shark",
+              "subitems": []
+            },
+            {
+              "id": 24,
+              "title": "Electric ray",
+              "subitems": []
+            }
+          ]
+        }
+      ],
+      "is_multiple": "true",
+      "name": "marine_life_sightings",
+      "title_en": "Marine Life"
+    },
+    {
+      "title": "Max Depth",
+      "query_name": "maximum_depth",
+      "items": [
+        {
+          "id": 18,
+          "title": "18m/60ft",
+          "subitems": []
+        },
+        {
+          "id": 30,
+          "title": "30m/100ft",
+          "subitems": []
+        },
+        {
+          "id": 40,
+          "title": "40m/130ft",
+          "subitems": []
+        },
+        {
+          "id": 45,
+          "title": "45m/145ft",
+          "subitems": []
+        },
+        {
+          "id": 50,
+          "title": "50m/165ft",
+          "subitems": []
+        },
+        {
+          "id": 60,
+          "title": "60m/200ft",
+          "subitems": []
+        },
+        {
+          "id": 65,
+          "title": "65m/220ft",
+          "subitems": []
+        },
+        {
+          "id": 90,
+          "title": "90m/300ft",
+          "subitems": []
+        },
+        {
+          "id": 100,
+          "title": "100m/330ft",
+          "subitems": []
+        }
+      ],
+      "is_multiple": "true",
+      "name": "maximum_depth",
+      "title_en": "Max Depth"
+    }
+  ],
+  "ordering": "[{'title': 'A-Z', 'query_name': 'ordering', 'value': 'title'}, {'title': 'Z-A', 'query_name': 'ordering', 'value': '-title'}, {'title': 'Distance', 'query_name': 'ordering', 'value': 'distance'}, {'title': 'Rating (best first)', 'query_name': 'ordering', 'value': '-rating,-number_reviews'}, {'title': 'Rating (worst first)', 'query_name': 'ordering', 'value': 'rating,-number_reviews'}]",
+  "page_type": "shops",
+  "allUrl": "/dive-shops/all/",
+  "nearByPage": "/dive-sites/nearby/",
+  "description": "Explore the top dive sites  and make sure you make the most of your time there - don't miss out on these incredible experiences.",
+  "mentions": {
+    "wreck": 1,
+    "cave": 0,
+    "wall": 0,
+    "reef": 1
+  },
+  "extracted_site_names": []
+}

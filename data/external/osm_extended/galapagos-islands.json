@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Daphne",
+    "lat": -0.3955196,
+    "lon": -90.3529774,
+    "osm_id": 13121653577,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Daphne",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Mosquera",
+    "lat": -0.4085075,
+    "lon": -90.2772687,
+    "osm_id": 13121663404,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Mosquera",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Gordon Rocks",
+    "lat": -0.5673265,
+    "lon": -90.1425673,
+    "osm_id": 13123255819,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Gordon Rocks",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Plazas",
+    "lat": -0.5796433,
+    "lon": -90.1597537,
+    "osm_id": 13123276912,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Plazas",
+      "sport": "scuba_diving"
+    }
+  }
+]

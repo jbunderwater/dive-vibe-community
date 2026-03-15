@@ -1,8 +1,8 @@
 {
-  "total_sites": 1552,
-  "valid_sites": 1552,
+  "total_sites": 1996,
+  "valid_sites": 1996,
   "errors": 0,
-  "warnings": 8,
+  "warnings": 9,
   "issues": [
     {
       "site": "Edmund Fitzgerald",
@@ -59,6 +59,13 @@
       "issue": "DUPLICATE_COORDS",
       "severity": "warning",
       "detail": "Same location as 'Neptuna'"
+    },
+    {
+      "site": "San Benedicto Canyon",
+      "dest": "socorro-islands",
+      "issue": "DUPLICATE_COORDS",
+      "severity": "warning",
+      "detail": "Same location as 'The Boiler San Benedicto'"
     }
   ]
 }

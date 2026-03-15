@@ -94,5 +94,77 @@
     "siteType": "wall",
     "ref": "",
     "osmId": null
+  },
+  {
+    "name": "Takuo",
+    "filename": "takuo.md",
+    "lat": -20.2796977,
+    "lng": -174.804115,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 3088577512
+  },
+  {
+    "name": "Marmer",
+    "filename": "marmer.md",
+    "lat": -21.1271397,
+    "lng": -175.159952,
+    "difficulty": "Beginner",
+    "maxDepth": 2,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 3184336699
+  },
+  {
+    "name": "Ata",
+    "filename": "ata.md",
+    "lat": -21.129817,
+    "lng": -175.163267,
+    "difficulty": "Beginner",
+    "maxDepth": 12,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 9222907394
+  },
+  {
+    "name": "Hakau Mounu",
+    "filename": "hakau-mounu.md",
+    "lat": -21.126952,
+    "lng": -175.1878149,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 356690470
+  },
+  {
+    "name": "Hakau Ualanga 'Uta",
+    "filename": "hakau-ualanga-uta.md",
+    "lat": -21.1154444,
+    "lng": -175.198852,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 356690471
+  },
+  {
+    "name": "Hakau Tapu",
+    "filename": "hakau-tapu.md",
+    "lat": -21.0530339,
+    "lng": -175.3116212,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 398853912
   }
 ]

@@ -467,5 +467,28 @@
       "scuba_diving:type:wreck": "yes",
       "sport": "scuba_diving"
     }
+  },
+  {
+    "name": "HIJMS Tachikaze",
+    "lat": 7.0972304,
+    "lon": 151.8400396,
+    "osm_id": 2408153986,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "wreck",
+      "name": "HIJMS Tachikaze",
+      "website": "https://www.wrecksite.eu/wreck.aspx?57722",
+      "wikidata": "Q6128419",
+      "wikipedia": "en:Japanese destroyer Tachikaze",
+      "wreck:date_sunk": "1944-02-18",
+      "wreck:length": "102.7m",
+      "wreck:width": "9.1m",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
   }
 ]

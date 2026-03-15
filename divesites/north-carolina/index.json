@@ -82,5 +82,101 @@
     "siteType": "wreck",
     "ref": "",
     "osmId": 663869499
+  },
+  {
+    "name": "Queen Anne's Revenge Shipwreck",
+    "filename": "queen-annes-revenge-shipwreck.md",
+    "lat": 34.6980062,
+    "lng": -76.6704808,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 2863371154
+  },
+  {
+    "name": "USS Huron Shipwreck",
+    "filename": "uss-huron-shipwreck.md",
+    "lat": 35.9769451,
+    "lng": -75.6309881,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 4235881448
+  },
+  {
+    "name": "Smith Creek Wreck",
+    "filename": "smith-creek-wreck.md",
+    "lat": 35.5137624,
+    "lng": -76.4868808,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 7545732177
+  },
+  {
+    "name": "HMT Bedfordshire",
+    "filename": "hmt-bedfordshire.md",
+    "lat": 34.3141877,
+    "lng": -76.4526936,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 8733515573
+  },
+  {
+    "name": "SS Richmond Shipwreck",
+    "filename": "ss-richmond-shipwreck.md",
+    "lat": 35.5411471,
+    "lng": -75.464386,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 10860144383
+  },
+  {
+    "name": "USS Monitor",
+    "filename": "uss-monitor.md",
+    "lat": 35.0016689,
+    "lng": -75.4063896,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 10962633013
+  },
+  {
+    "name": "Diamond Shoals",
+    "filename": "diamond-shoals.md",
+    "lat": 35.206233,
+    "lng": -75.5101478,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 671198207
+  },
+  {
+    "name": "USS Pilgrim (SP-1204)",
+    "filename": "uss-pilgrim-sp-1204.md",
+    "lat": 34.7118002,
+    "lng": -76.5873046,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 1304189277
   }
 ]

@@ -22,5 +22,113 @@
     "siteType": "reef",
     "ref": "",
     "osmId": 9236229535
+  },
+  {
+    "name": "Cathedral Reef",
+    "filename": "cathedral-reef.md",
+    "lat": -20.25,
+    "lng": 57.52,
+    "difficulty": "Advanced",
+    "maxDepth": 28,
+    "entryType": "boat",
+    "siteType": "cave",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Whale Rock",
+    "filename": "whale-rock.md",
+    "lat": -20.3,
+    "lng": 57.6,
+    "difficulty": "Intermediate",
+    "maxDepth": 18,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Trou aux Biches Reef",
+    "filename": "trou-aux-biches-reef.md",
+    "lat": -20.03,
+    "lng": 57.53,
+    "difficulty": "Beginner",
+    "maxDepth": 12,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Blue Bay Marine Park",
+    "filename": "blue-bay-marine-park.md",
+    "lat": -20.44,
+    "lng": 57.71,
+    "difficulty": "Beginner",
+    "maxDepth": 8,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Stella Maru Wreck",
+    "filename": "stella-maru-wreck.md",
+    "lat": -20.295,
+    "lng": 57.59,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Colorado Point",
+    "filename": "colorado-point.md",
+    "lat": -20.35,
+    "lng": 57.55,
+    "difficulty": "Intermediate",
+    "maxDepth": 20,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Flic en Flac Pass",
+    "filename": "flic-en-flac-pass.md",
+    "lat": -20.28,
+    "lng": 57.36,
+    "difficulty": "Advanced",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Rempart Serpent",
+    "filename": "rempart-serpent.md",
+    "lat": -20.31,
+    "lng": 57.58,
+    "difficulty": "Beginner",
+    "maxDepth": 15,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Hoi Siong No. 6 Wreck",
+    "filename": "hoi-siong-no-6-wreck.md",
+    "lat": -20.16,
+    "lng": 57.5,
+    "difficulty": "Advanced",
+    "maxDepth": 32,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": null
   }
 ]

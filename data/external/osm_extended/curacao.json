@@ -1,0 +1,375 @@
+[
+  {
+    "name": "Kleine Knip",
+    "lat": 12.341558,
+    "lon": -69.1538671,
+    "osm_id": 447928252,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "addr:city": "Westpunt",
+      "addr:country": "CW",
+      "name": "Kleine Knip",
+      "name:pap": "Kenepa Chiki",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Grote Knip",
+    "lat": 12.3514337,
+    "lon": -69.153211,
+    "osm_id": 447928253,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "addr:city": "Westpunt",
+      "addr:country": "CW",
+      "name": "Grote Knip",
+      "name:pap": "Kenepa Grandi",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "The Valley",
+    "lat": 12.2185168,
+    "lon": -69.0862994,
+    "osm_id": 448022080,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "The Valley",
+      "sport": "scuba_diving",
+      "waterway": "weir"
+    }
+  },
+  {
+    "name": "Marie Pampoen",
+    "lat": 12.0897355,
+    "lon": -68.9068508,
+    "osm_id": 448022084,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Marie Pampoen",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Mushroom Forest",
+    "lat": 12.3018115,
+    "lon": -69.1543365,
+    "osm_id": 448747096,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Mushroom Forest",
+      "natural": "reef",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Playa Jeremi",
+    "lat": 12.3284212,
+    "lon": -69.1505496,
+    "osm_id": 448747097,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "access": "yes",
+      "addr:city": "Westpunt",
+      "addr:country": "CW",
+      "name": "Playa Jeremi",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Playa Kalki",
+    "lat": 12.3739947,
+    "lon": -69.1585735,
+    "osm_id": 449247479,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "addr:city": "Westpunt",
+      "addr:country": "CW",
+      "alt_name": "Alice in Wonderland",
+      "name": "Playa Kalki",
+      "natural": "reef",
+      "sport": "scuba_diving",
+      "wikidata": "Q22330080"
+    }
+  },
+  {
+    "name": "Superior Producer",
+    "lat": 12.1042457,
+    "lon": -68.9466568,
+    "osm_id": 450262196,
+    "osm_type": "node",
+    "depth": 30,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": "Intermediate",
+    "tags": {
+      "addr:country": "CW",
+      "depth": "30",
+      "historic": "wreck",
+      "name": "Superior Producer",
+      "note": "1.1 km west of harbor area according to: www.shorediving.com/Earth/ABC/Curacao/Superior_Producer/",
+      "seamark:type": "wreck",
+      "source": "www.dive-links.com",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Snake Bay",
+    "lat": 12.1384966,
+    "lon": -68.99653,
+    "osm_id": 663869379,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Snake Bay",
+      "source": "www.dive-links.com",
+      "sport": "scuba_diving",
+      "verified": "no, please check and del this tag",
+      "website": "http://www.dive-links.com/tauchplatz.php?id=933"
+    }
+  },
+  {
+    "name": "Boka Sami",
+    "lat": 12.1394983,
+    "lon": -68.9972716,
+    "osm_id": 663869380,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Boka Sami",
+      "source": "www.dive-links.com",
+      "sport": "scuba_diving",
+      "verified": "no, please check and del this tag",
+      "website": "http://www.dive-links.com/tauchplatz.php?id=932"
+    }
+  },
+  {
+    "name": "Airplane Wreck (Sunset Waters)",
+    "lat": 12.266944,
+    "lon": -69.1276576,
+    "osm_id": 663869381,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "addr:country": "CW",
+      "historic": "aircraft_wreck",
+      "name": "Airplane Wreck (Sunset Waters)",
+      "seamark:type": "wreck",
+      "source": "www.dive-links.com",
+      "sport": "scuba_diving",
+      "verified": "no, please check and del this tag",
+      "website": "http://www.dive-links.com/tauchplatz.php?id=968"
+    }
+  },
+  {
+    "name": "Playa Manzalina",
+    "lat": 12.2454216,
+    "lon": -69.1055983,
+    "osm_id": 663869383,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Playa Manzalina",
+      "source": "www.dive-links.com",
+      "sport": "scuba_diving",
+      "verified": "no, please check and del this tag",
+      "website": "http://www.dive-links.com/tauchplatz.php?id=923"
+    }
+  },
+  {
+    "name": "Rif Sint Marie",
+    "lat": 12.1985784,
+    "lon": -69.079446,
+    "osm_id": 663869384,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Rif Sint Marie",
+      "sport": "scuba_diving",
+      "verified": "no, please check and del this tag"
+    }
+  },
+  {
+    "name": "Daaibooi Baai",
+    "lat": 12.2119209,
+    "lon": -69.0855754,
+    "osm_id": 663869385,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "addr:city": "Sint Willibrordus",
+      "addr:country": "CW",
+      "name": "Daaibooi Baai",
+      "name:en": "Daaibooi Bay",
+      "source": "www.dive-links.com",
+      "sport": "scuba_diving",
+      "verified": "no, please check and del this tag",
+      "website": "http://www.dive-links.com/tauchplatz.php?id=927"
+    }
+  },
+  {
+    "name": "Playa Lagun",
+    "lat": 12.3181345,
+    "lon": -69.1508771,
+    "osm_id": 663869390,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Playa Lagun",
+      "source": "www.dive-links.com",
+      "sport": "scuba_diving",
+      "verified": "no, please check and del this tag",
+      "website": "http://www.dive-links.com/tauchplatz.php?id=918"
+    }
+  },
+  {
+    "name": "Playa Largu",
+    "lat": 12.2353033,
+    "lon": -69.098515,
+    "osm_id": 663869391,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Playa Largu",
+      "source": "www.dive-links.com",
+      "sport": "scuba_diving",
+      "verified": "no, please check and del this tag",
+      "website": "http://www.dive-links.com/tauchplatz.php?id=702"
+    }
+  },
+  {
+    "name": "Oswaldo's Drop Off",
+    "lat": 12.0881176,
+    "lon": -68.9016845,
+    "osm_id": 663869393,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Oswaldo's Drop Off",
+      "source": "www.dive-links.com",
+      "sport": "scuba_diving",
+      "verified": "no, please check and del this tag",
+      "website": "http://www.dive-links.com/tauchplatz.php?id=941"
+    }
+  },
+  {
+    "name": "Ship Wreck Tugboat",
+    "lat": 12.0679476,
+    "lon": -68.8619504,
+    "osm_id": 3190150020,
+    "osm_type": "node",
+    "depth": 5,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Ship Wreck Tugboat",
+      "seamark:type": "wreck",
+      "sport": "scuba_diving",
+      "wreck:depth": "5m"
+    }
+  },
+  {
+    "name": "Catherine",
+    "lat": 12.3041576,
+    "lon": -69.149572,
+    "osm_id": 7835202685,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "wreck",
+      "name": "Catherine",
+      "seamark:type": "wreck"
+    }
+  },
+  {
+    "name": "Ship wreck",
+    "lat": 12.0762578,
+    "lon": -68.8805685,
+    "osm_id": 11183920369,
+    "osm_type": "node",
+    "depth": 6,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Ship wreck",
+      "seamark:type": "wreck",
+      "sport": "scuba_diving",
+      "wreck:depth": "6m"
+    }
+  },
+  {
+    "name": "Reef edge",
+    "lat": 12.0722377,
+    "lon": -68.862294,
+    "osm_id": 491933672,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Reef edge",
+      "natural": "reef"
+    }
+  }
+]

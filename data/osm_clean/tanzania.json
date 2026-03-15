@@ -58,5 +58,636 @@
       "name": "THGI Nungwi",
       "sport": "scuba_diving"
     }
+  },
+  {
+    "name": "Swahil Divers",
+    "lat": -4.9223877,
+    "lon": 39.6756306,
+    "osm_id": 622526346,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Swahil Divers",
+      "sport": "scuba_diving",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Maziwe Reef",
+    "lat": -5.5023548,
+    "lon": 39.0701388,
+    "osm_id": 9486288643,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Maziwe Reef",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Tongoni Reef",
+    "lat": -5.3379545,
+    "lon": 39.1074198,
+    "osm_id": 9486288675,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Tongoni Reef",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Barracuda Point",
+    "lat": -6.2728904,
+    "lon": 39.5532195,
+    "osm_id": 9943059717,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Barracuda Point",
+      "natural": "reef",
+      "scuba_diving:divespot": "yes",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Playground Point",
+    "lat": -11.6052707,
+    "lon": 34.3031882,
+    "osm_id": 10224564251,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Playground Point",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Kampagne Point",
+    "lat": -11.6102665,
+    "lon": 34.3060893,
+    "osm_id": 10224564252,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Kampagne Point",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Kampagne South",
+    "lat": -11.6130404,
+    "lon": 34.3066042,
+    "osm_id": 10224564253,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Kampagne South",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Lagoon Mounding",
+    "lat": -6.294392,
+    "lon": 39.5564155,
+    "osm_id": 10224583145,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Lagoon Mounding",
+      "natural": "reef",
+      "scuba_diving:divespot": "yes",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Stingray city",
+    "lat": -6.3014954,
+    "lon": 39.5584061,
+    "osm_id": 10224583146,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Stingray city",
+      "natural": "reef",
+      "scuba_diving:divespot": "yes",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Jambiani Lagoon",
+    "lat": -6.3065501,
+    "lon": 39.5583202,
+    "osm_id": 10224583147,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Jambiani Lagoon",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Cement wall",
+    "lat": -6.320227,
+    "lon": 39.5781007,
+    "osm_id": 10224583148,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Cement wall",
+      "natural": "reef",
+      "scuba_diving:divespot": "yes",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Sau Inn Garden",
+    "lat": -6.327524,
+    "lon": 39.5788004,
+    "osm_id": 10224583149,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Sau Inn Garden",
+      "natural": "reef",
+      "scuba_diving:divespot": "yes",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Pawoni Hill",
+    "lat": -6.3297416,
+    "lon": 39.5795066,
+    "osm_id": 10224583150,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Pawoni Hill",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Woo south",
+    "lat": -6.3539863,
+    "lon": 39.5850976,
+    "osm_id": 10224583151,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Woo south",
+      "natural": "reef",
+      "scuba_diving:divespot": "yes",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Memba 1",
+    "lat": -5.8378141,
+    "lon": 39.3909732,
+    "osm_id": 10224583152,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Memba 1",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Memba 2",
+    "lat": -5.8281185,
+    "lon": 39.3825609,
+    "osm_id": 10224583153,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Memba 2",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Napoleon Wall",
+    "lat": -6.3633696,
+    "lon": 39.58805,
+    "osm_id": 13165341861,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Napoleon Wall",
+      "natural": "reef",
+      "scuba_diving:divespot": "yes",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "old shipwreck",
+    "lat": -6.7596209,
+    "lon": 39.2683104,
+    "osm_id": 13265023321,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "wreck",
+      "name": "old shipwreck",
+      "seamark:type": "wreck",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Mwamba Mkadya",
+    "lat": -6.6438807,
+    "lon": 39.2280277,
+    "osm_id": 47956101,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Mwamba Mkadya",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Baixo Techantia",
+    "lat": -11.923208,
+    "lon": 40.5715638,
+    "osm_id": 248091482,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Baixo Techantia",
+      "natural": "reef",
+      "source:name": "GNS",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Baixo Magive Cobua",
+    "lat": -11.5222657,
+    "lon": 40.5392667,
+    "osm_id": 259658606,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Baixo Magive Cobua",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Baixo Nameguo",
+    "lat": -11.4886894,
+    "lon": 40.6388407,
+    "osm_id": 259658607,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Baixo Nameguo",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Baixo Varuni",
+    "lat": -11.5564289,
+    "lon": 40.5785122,
+    "osm_id": 259658609,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Baixo Varuni",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Baixo Tambula",
+    "lat": -11.2821035,
+    "lon": 40.6572523,
+    "osm_id": 260197575,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Baixo Tambula",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Tawasal",
+    "lat": -2.2579059,
+    "lon": 40.9093621,
+    "osm_id": 666532608,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "access": "yes",
+      "historic": "wreck",
+      "name": "Tawasal",
+      "seamark:type": "wreck",
+      "seamark:wreck:category": "hull_visible",
+      "wreck:visible_at_high_tide": "yes",
+      "wreck:visible_at_low_tide": "yes",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Mwamba Kikweo",
+    "lat": -6.8322454,
+    "lon": 39.4257259,
+    "osm_id": 703803792,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "border_type": "contiguous",
+      "boundary": "maritime",
+      "name": "Mwamba Kikweo",
+      "natural": "reef",
+      "place": "island",
+      "reef": "sand",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Fungu Yasini Reef",
+    "lat": -6.6040117,
+    "lon": 39.2344522,
+    "osm_id": 703808043,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Fungu Yasini Reef",
+      "natural": "reef",
+      "reef": "sand",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Mbudya Patches",
+    "lat": -6.5710863,
+    "lon": 39.2989734,
+    "osm_id": 704644194,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Mbudya Patches",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Moore Bank",
+    "lat": -6.4575788,
+    "lon": 39.3602024,
+    "osm_id": 704644197,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Moore Bank",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Bedford Bank",
+    "lat": -6.5235398,
+    "lon": 39.4035815,
+    "osm_id": 704649411,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Bedford Bank",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Pungume Patches",
+    "lat": -6.4734841,
+    "lon": 39.3878745,
+    "osm_id": 704649412,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Pungume Patches",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Mbudya Spit",
+    "lat": -6.6760949,
+    "lon": 39.2864441,
+    "osm_id": 704649413,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Mbudya Spit",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Kankadya patch",
+    "lat": -6.7134537,
+    "lon": 39.3474483,
+    "osm_id": 704738419,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Kankadya patch",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Nyororo Reef",
+    "lat": -7.649833,
+    "lon": 39.7214769,
+    "osm_id": 704741499,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Nyororo Reef",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Bongoyo Reef",
+    "lat": -6.7027291,
+    "lon": 39.2755759,
+    "osm_id": 705038453,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Bongoyo Reef",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Pangavini Reef",
+    "lat": -6.6762494,
+    "lon": 39.2384433,
+    "osm_id": 705040324,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Pangavini Reef",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
   }
 ]

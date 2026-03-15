@@ -94,5 +94,17 @@
     "siteType": "wreck",
     "ref": "",
     "osmId": null
+  },
+  {
+    "name": "Jesse Beazley Reef",
+    "filename": "jesse-beazley-reef.md",
+    "lat": 9.0466227,
+    "lng": 119.8142609,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 31974943
   }
 ]

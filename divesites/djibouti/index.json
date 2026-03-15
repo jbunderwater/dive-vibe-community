@@ -34,5 +34,101 @@
     "siteType": "reef",
     "ref": "",
     "osmId": 11092421
+  },
+  {
+    "name": "Moucha Island Reef",
+    "filename": "moucha-island-reef.md",
+    "lat": 11.7,
+    "lng": 43.19,
+    "difficulty": "Beginner",
+    "maxDepth": 15,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Maskali Island",
+    "filename": "maskali-island.md",
+    "lat": 11.72,
+    "lng": 43.21,
+    "difficulty": "Intermediate",
+    "maxDepth": 18,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Iles des Sept Frères",
+    "filename": "iles-des-sept-frères.md",
+    "lat": 12.45,
+    "lng": 43.38,
+    "difficulty": "Advanced",
+    "maxDepth": 25,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Tadjoura Gulf",
+    "filename": "tadjoura-gulf.md",
+    "lat": 11.78,
+    "lng": 42.9,
+    "difficulty": "Intermediate",
+    "maxDepth": 20,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Arta Beach Reef",
+    "filename": "arta-beach-reef.md",
+    "lat": 11.52,
+    "lng": 43.0,
+    "difficulty": "Beginner",
+    "maxDepth": 12,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Le Grumier Wreck",
+    "filename": "le-grumier-wreck.md",
+    "lat": 11.59,
+    "lng": 43.15,
+    "difficulty": "Advanced",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Ghoubbet Al-Kharab",
+    "filename": "ghoubbet-al-kharab.md",
+    "lat": 11.53,
+    "lng": 42.53,
+    "difficulty": "Intermediate",
+    "maxDepth": 22,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Whale Shark Point",
+    "filename": "whale-shark-point.md",
+    "lat": 11.7,
+    "lng": 43.2,
+    "difficulty": "Beginner",
+    "maxDepth": 10,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
   }
 ]

@@ -30,5 +30,122 @@
       "name": "BASE Diving",
       "sport": "scuba_diving"
     }
+  },
+  {
+    "name": "Cathedral Reef",
+    "lat": -20.25,
+    "lon": 57.52,
+    "depth": 28,
+    "site_type": "cave",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Whale Rock",
+    "lat": -20.3,
+    "lon": 57.6,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Trou aux Biches Reef",
+    "lat": -20.03,
+    "lon": 57.53,
+    "depth": 12,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Blue Bay Marine Park",
+    "lat": -20.44,
+    "lon": 57.71,
+    "depth": 8,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Stella Maru Wreck",
+    "lat": -20.295,
+    "lon": 57.59,
+    "depth": 25,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Colorado Point",
+    "lat": -20.35,
+    "lon": 57.55,
+    "depth": 20,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Flic en Flac Pass",
+    "lat": -20.28,
+    "lon": 57.36,
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Rempart Serpent",
+    "lat": -20.31,
+    "lon": 57.58,
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
+  },
+  {
+    "name": "Hoi Siong No. 6 Wreck",
+    "lat": -20.16,
+    "lon": 57.5,
+    "depth": 32,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps"
+    }
   }
 ]

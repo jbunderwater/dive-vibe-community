@@ -10,5 +10,77 @@
     "siteType": "cave",
     "ref": "",
     "osmId": 1817672135
+  },
+  {
+    "name": "Silfra Hall",
+    "filename": "silfra-hall.md",
+    "lat": 64.256,
+    "lng": -21.117,
+    "difficulty": "Intermediate",
+    "maxDepth": 18,
+    "entryType": "shore",
+    "siteType": "cave",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Silfra Cathedral",
+    "filename": "silfra-cathedral.md",
+    "lat": 64.255,
+    "lng": -21.116,
+    "difficulty": "Advanced",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "cave",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Silfra Lagoon",
+    "filename": "silfra-lagoon.md",
+    "lat": 64.254,
+    "lng": -21.115,
+    "difficulty": "Beginner",
+    "maxDepth": 3,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Big Crack",
+    "filename": "big-crack.md",
+    "lat": 64.253,
+    "lng": -21.118,
+    "difficulty": "Intermediate",
+    "maxDepth": 12,
+    "entryType": "shore",
+    "siteType": "cave",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Davíðsgjá Fissure",
+    "filename": "davíðsgjá-fissure.md",
+    "lat": 64.26,
+    "lng": -21.1,
+    "difficulty": "Intermediate",
+    "maxDepth": 20,
+    "entryType": "shore",
+    "siteType": "cave",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Strytan Hydrothermal Chimney",
+    "filename": "strytan-hydrothermal-chimney.md",
+    "lat": 64.25,
+    "lng": -21.12,
+    "difficulty": "Intermediate",
+    "maxDepth": 15,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
   }
 ]

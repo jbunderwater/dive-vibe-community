@@ -82,5 +82,17 @@
     "siteType": "wreck",
     "ref": "",
     "osmId": 4031617727
+  },
+  {
+    "name": "HIJMS Tachikaze",
+    "filename": "hijms-tachikaze.md",
+    "lat": 7.0972304,
+    "lng": 151.8400396,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 2408153986
   }
 ]

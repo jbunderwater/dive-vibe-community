@@ -10,5 +10,113 @@
     "siteType": "reef",
     "ref": "",
     "osmId": 4437721
+  },
+  {
+    "name": "Windjammer",
+    "filename": "windjammer.md",
+    "lat": 24.6234352,
+    "lng": -82.9423306,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 8220897620
+  },
+  {
+    "name": "White Shoal",
+    "filename": "white-shoal.md",
+    "lat": 24.6370629,
+    "lng": -82.9018649,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 1033472465
+  },
+  {
+    "name": "Brilliant Shoal",
+    "filename": "brilliant-shoal.md",
+    "lat": 24.6608273,
+    "lng": -82.8902764,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 1033472471
+  },
+  {
+    "name": "Windjammer Wreck",
+    "filename": "windjammer-wreck.md",
+    "lat": 24.62,
+    "lng": -82.87,
+    "difficulty": "Beginner",
+    "maxDepth": 8,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Little Africa Reef",
+    "filename": "little-africa-reef.md",
+    "lat": 24.63,
+    "lng": -82.88,
+    "difficulty": "Beginner",
+    "maxDepth": 12,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Texas Rock",
+    "filename": "texas-rock.md",
+    "lat": 24.64,
+    "lng": -82.86,
+    "difficulty": "Intermediate",
+    "maxDepth": 15,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Bird Key Reef",
+    "filename": "bird-key-reef.md",
+    "lat": 24.625,
+    "lng": -82.875,
+    "difficulty": "Beginner",
+    "maxDepth": 10,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Long Key Reef",
+    "filename": "long-key-reef.md",
+    "lat": 24.615,
+    "lng": -82.89,
+    "difficulty": "Beginner",
+    "maxDepth": 14,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Fort Jefferson Wall",
+    "filename": "fort-jefferson-wall.md",
+    "lat": 24.628,
+    "lng": -82.873,
+    "difficulty": "Intermediate",
+    "maxDepth": 20,
+    "entryType": "shore",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
   }
 ]

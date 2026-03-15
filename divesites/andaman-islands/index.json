@@ -94,5 +94,17 @@
     "siteType": "reef",
     "ref": "",
     "osmId": 649985252
+  },
+  {
+    "name": "MV Primrose",
+    "filename": "mv-primrose.md",
+    "lat": 11.5934127,
+    "lng": 92.2123352,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 120523928
   }
 ]

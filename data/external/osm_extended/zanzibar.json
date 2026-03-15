@@ -1,0 +1,264 @@
+[
+  {
+    "name": "Barracuda Point",
+    "lat": -6.2728904,
+    "lon": 39.5532195,
+    "osm_id": 9943059717,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Barracuda Point",
+      "natural": "reef",
+      "scuba_diving:divespot": "yes"
+    }
+  },
+  {
+    "name": "Little Wall",
+    "lat": -5.8387967,
+    "lon": 39.3918874,
+    "osm_id": 10209111349,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Little Wall",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Big Wall",
+    "lat": -5.8015048,
+    "lon": 39.4182592,
+    "osm_id": 10209140310,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Big Wall",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Lagoon Mounding",
+    "lat": -6.294392,
+    "lon": 39.5564155,
+    "osm_id": 10224583145,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Lagoon Mounding",
+      "natural": "reef",
+      "scuba_diving:divespot": "yes"
+    }
+  },
+  {
+    "name": "Stingray city",
+    "lat": -6.3014954,
+    "lon": 39.5584061,
+    "osm_id": 10224583146,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Stingray city",
+      "natural": "reef",
+      "scuba_diving:divespot": "yes"
+    }
+  },
+  {
+    "name": "Jambiani Lagoon",
+    "lat": -6.3065501,
+    "lon": 39.5583202,
+    "osm_id": 10224583147,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Jambiani Lagoon",
+      "natural": "reef"
+    }
+  },
+  {
+    "name": "Cement wall",
+    "lat": -6.320227,
+    "lon": 39.5781007,
+    "osm_id": 10224583148,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Cement wall",
+      "natural": "reef",
+      "scuba_diving:divespot": "yes"
+    }
+  },
+  {
+    "name": "Sau Inn Garden",
+    "lat": -6.327524,
+    "lon": 39.5788004,
+    "osm_id": 10224583149,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Sau Inn Garden",
+      "natural": "reef",
+      "scuba_diving:divespot": "yes"
+    }
+  },
+  {
+    "name": "Pawoni Hill",
+    "lat": -6.3297416,
+    "lon": 39.5795066,
+    "osm_id": 10224583150,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Pawoni Hill",
+      "natural": "reef"
+    }
+  },
+  {
+    "name": "Woo south",
+    "lat": -6.3539863,
+    "lon": 39.5850976,
+    "osm_id": 10224583151,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Woo south",
+      "natural": "reef",
+      "scuba_diving:divespot": "yes"
+    }
+  },
+  {
+    "name": "Memba 1",
+    "lat": -5.8378141,
+    "lon": 39.3909732,
+    "osm_id": 10224583152,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Memba 1",
+      "natural": "reef"
+    }
+  },
+  {
+    "name": "Memba 2",
+    "lat": -5.8281185,
+    "lon": 39.3825609,
+    "osm_id": 10224583153,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Memba 2",
+      "natural": "reef"
+    }
+  },
+  {
+    "name": "Captain Muddy",
+    "lat": -5.7355216,
+    "lon": 39.2902305,
+    "osm_id": 10790374777,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Captain Muddy",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "THGI Nungwi",
+    "lat": -5.7301527,
+    "lon": 39.2926562,
+    "osm_id": 10790374783,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "THGI Nungwi",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Napoleon Wall",
+    "lat": -6.3633696,
+    "lon": 39.58805,
+    "osm_id": 13165341861,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Napoleon Wall",
+      "natural": "reef",
+      "scuba_diving:divespot": "yes"
+    }
+  },
+  {
+    "name": "Moore Bank",
+    "lat": -6.4575788,
+    "lon": 39.3602024,
+    "osm_id": 704644197,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Moore Bank",
+      "natural": "reef"
+    }
+  },
+  {
+    "name": "Pungume Patches",
+    "lat": -6.4734841,
+    "lon": 39.3878745,
+    "osm_id": 704649412,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Pungume Patches",
+      "natural": "reef"
+    }
+  }
+]

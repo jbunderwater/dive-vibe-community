@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "name": "Neptune Islands North",
+    "filename": "neptune-islands-north.md",
+    "lat": -35.235,
+    "lng": 136.065,
+    "difficulty": "Advanced",
+    "maxDepth": 20,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Neptune Islands South",
+    "filename": "neptune-islands-south.md",
+    "lat": -35.335,
+    "lng": 136.12,
+    "difficulty": "Advanced",
+    "maxDepth": 22,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "North Neptune Reef",
+    "filename": "north-neptune-reef.md",
+    "lat": -35.22,
+    "lng": 136.05,
+    "difficulty": "Intermediate",
+    "maxDepth": 15,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "The Monument",
+    "filename": "the-monument.md",
+    "lat": -35.25,
+    "lng": 136.08,
+    "difficulty": "Advanced",
+    "maxDepth": 25,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Great White Shark Cage Dive Site",
+    "filename": "great-white-shark-cage-dive-site.md",
+    "lat": -35.24,
+    "lng": 136.07,
+    "difficulty": "Beginner",
+    "maxDepth": 12,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "South Neptune Pinnacles",
+    "filename": "south-neptune-pinnacles.md",
+    "lat": -35.34,
+    "lng": 136.13,
+    "difficulty": "Advanced",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Hopkins Island",
+    "filename": "hopkins-island.md",
+    "lat": -35.2,
+    "lng": 136.04,
+    "difficulty": "Intermediate",
+    "maxDepth": 18,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "English Island Reef",
+    "filename": "english-island-reef.md",
+    "lat": -35.26,
+    "lng": 136.09,
+    "difficulty": "Intermediate",
+    "maxDepth": 16,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Williams Island Caves",
+    "filename": "williams-island-caves.md",
+    "lat": -35.28,
+    "lng": 136.1,
+    "difficulty": "Advanced",
+    "maxDepth": 20,
+    "entryType": "boat",
+    "siteType": "cave",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Langton Island",
+    "filename": "langton-island.md",
+    "lat": -35.31,
+    "lng": 136.11,
+    "difficulty": "Intermediate",
+    "maxDepth": 18,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  }
+]

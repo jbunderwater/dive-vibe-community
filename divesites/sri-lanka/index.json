@@ -34,5 +34,89 @@
     "siteType": "reef",
     "ref": "",
     "osmId": 4744764604
+  },
+  {
+    "name": "Anchor Point",
+    "filename": "anchor-point.md",
+    "lat": 8.3172012,
+    "lng": 79.6940893,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 4055852991
+  },
+  {
+    "name": "Cave dive site",
+    "filename": "cave-dive-site.md",
+    "lat": 6.0004314,
+    "lng": 80.2381218,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 9448790419
+  },
+  {
+    "name": "Gala pita gala dive site",
+    "filename": "gala-pita-gala-dive-site.md",
+    "lat": 5.9991084,
+    "lng": 80.2385992,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 9448790420
+  },
+  {
+    "name": "Conch dive site",
+    "filename": "conch-dive-site.md",
+    "lat": 6.1923896,
+    "lng": 80.047307,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 9448792092
+  },
+  {
+    "name": "Carreg dive site",
+    "filename": "carreg-dive-site.md",
+    "lat": 7.1759409,
+    "lng": 79.7589118,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 9448835283
+  },
+  {
+    "name": "Goddamahagale dive site",
+    "filename": "goddamahagale-dive-site.md",
+    "lat": 7.23653,
+    "lng": 79.7823526,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 9448835284
+  },
+  {
+    "name": "Unuwatuna Coral Reef",
+    "filename": "unuwatuna-coral-reef.md",
+    "lat": 6.0154279,
+    "lng": 80.2345346,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 397271677
   }
 ]
