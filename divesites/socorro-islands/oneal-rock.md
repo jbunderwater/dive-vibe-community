@@ -13,54 +13,53 @@ addedBy: osm_import
 
 ## O'Neal Rock
 
-O'Neal Rock is a reef dive site in Socorro Islands, Pacific.
+O'Neal Rock (also known as Roca O'Neal, and nicknamed "Hammerhead Central") is a pinnacle off Socorro Island in the Revillagigedo Archipelago. The pinnacle flattens into a plateau at 10–12 meters depth, and below this plateau a cavern descends further — one of the few notable topographical enclosed features among the Socorro sites.
 
 ## Overview
 
-O'Neal Rock is a dive site in Socorro Islands offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+O'Neal Rock earns its "Hammerhead Central" nickname from the reliable aggregations of scalloped hammerhead sharks that traverse the area. The plateau at 10–12 meters provides a staging area to observe hammerheads passing through, while the cavern below offers additional shelter and its own resident species. Galapagos sharks, gray reef sharks, and silky sharks round out the shark diversity. The pinnacle structure is consistent with the volcanic seamount character throughout the Revillagigedo Archipelago.
 
 ## Site Information
 
-- **Location**: Socorro Islands, Pacific
-- **Entry Type**: Boat dive
-- **Site Type**: Pinnacle/seamount
-- **Difficulty Level**: Advanced
+- **Location**: Socorro Island, Revillagigedo Archipelago (liveaboard only)
+- **Entry Type**: Boat dive (zodiac tender)
+- **Site Type**: Pinnacle
+- **Difficulty Level**: Advanced — remote liveaboard location, open-ocean environment, currents possible
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
+- **Typical Visibility**: 20–25 meters
 - **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Best Time**: November to June
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Scalloped hammerhead sharks are the primary draw — the site's "Hammerhead Central" nickname reflects their predictable presence here. Multiple shark species coexist at the site: Galapagos sharks, gray reef sharks, and silky sharks patrol the pinnacle walls and plateau. The plateau itself at 10–12 meters supports lobsters and schools of small reef fish. The cavern below the plateau is a habitat feature that rewards exploration. The site is part of Socorro Island, where giant Pacific manta rays, dolphins, and occasional whale sharks operate across multiple sites in the same area.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descent to the plateau at 10–12 meters, where lobsters and reef fish are visible and the elevated position provides good visibility for watching hammerheads approach. From the plateau, divers can explore the cavern below. Hammerheads typically patrol at mid-water around the pinnacle rather than at depth. Working shallow extends bottom time and maximizes time watching sharks. Safety stop in blue water with SMB deployment.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Liveaboard access only. Zodiac tender entry via giant stride. SMB required for ascent and zodiac pickup.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Position yourself on the plateau and wait for hammerheads to swing past — chasing them is ineffective
+- Explore the cavern carefully; good buoyancy control protects the formation and its inhabitants
+- The shallow plateau makes this one of the better air-management sites in Socorro — use the extended bottom time strategically
+- 5mm wetsuit; water temperature 22–26°C
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Current and open-ocean conditions apply as at all Revillagigedo sites. Cavern exploration requires comfortable overhead environment skills — this is not a true cave dive, but maintaining situational awareness is important. All liveaboard operators require Advanced certification and 50+ logged dives for the Revillagigedo Archipelago.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The hammerhead sharks at O'Neal Rock make it a strong site for wide-angle shark photography. Shoot upward from the plateau to capture hammerhead silhouettes against the water column above. The cavern provides an interesting contextual foreground for compositions. Lobsters and reef fish on the plateau offer macro opportunities while waiting for shark passes.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-03-15
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*Validated against UWPhotographyGuide, ScubaGo Socorro site listings, and Dive-the-World site descriptions. Last updated 2026-03-15.*
