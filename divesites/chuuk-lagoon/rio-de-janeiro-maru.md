@@ -1,9 +1,9 @@
 ---
-name: Rio de janeiro Maru
+name: Rio de Janeiro Maru
 lat: 7.3041719
 lng: 151.894137
 difficulty: Intermediate
-maxDepth: 28
+maxDepth: 33
 entryType: boat
 siteType: wreck
 ref: null
@@ -11,57 +11,54 @@ osmId: 4031617725
 addedBy: osm_import
 ---
 
-## Rio de janeiro Maru
+## Rio de Janeiro Maru
 
-Rio de janeiro Maru is a historic wreck dive in Chuuk Lagoon, Pacific.
+A large WWII passenger-cargo liner and former submarine tender resting on her starboard side off Uman Island, the Rio de Janeiro Maru is one of the most accessible major wrecks in Chuuk Lagoon. Her stern gun, large gun turrets, engine room loaded with sake bottles, and still-readable name on the hull make her a favourite of both Open Water and Advanced divers.
 
 ## Overview
 
-Rio de janeiro Maru is a dive site in Chuuk Lagoon featuring the wreck of the Rio de janeiro Maru. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Built in 1929 by Mitsubishi Shipbuilding in Nagasaki for the Osaka Shosen Kaisha (OSK) Line, the 141-metre (461-foot) Rio de Janeiro Maru served commercial routes between Japan and South America before the war. She was converted into a submarine tender for the Imperial Japanese Navy, then reconverted into a transport vessel after Japan's submarine fleet was decimated. She survived multiple torpedo attacks before Operation Hailstone caught her at anchor east of Uman Island on February 17, 1944. Multiple 1,000-pound bombs — likely from USS Yorktown and USS Bunker Hill aircraft — struck her throughout the day; Captain Kanemasu was killed in the attack and posthumously promoted to Rear Admiral. She finally sank around midnight on February 18.
+
+She now rests 411 metres from the shore of Uman Island, lying on her starboard side with the vessel's name still readable on the exposed port hull.
 
 ## Site Information
 
-- **Location**: Chuuk Lagoon, Pacific
+- **Location**: Chuuk Lagoon, east side of Uman Island, Federated States of Micronesia
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck (WWII passenger-cargo liner, ex-submarine tender)
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 28 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Maximum Depth**: 33 metres (seabed); top of wreck at approximately 10 metres
+- **Typical Visibility**: 20–35 metres
+- **Water Temperature**: 28–30°C year-round
+- **Best Time**: Year-round; December to April for calmest conditions
 
-## Marine Life
+## What Divers See
 
-Divers at this site can expect to encounter coral growth, anemones, lionfish, scorpionfish, glassy sweepers, manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks. Additional species commonly sighted include sea turtles, napoleon wrasse, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The dive commonly starts at the bow, where the vessel's name can still be read on the hull. Descending the wreck's length toward the stern reveals the defining feature: a large stern gun, one of the most photographed subjects among Chuuk's wrecks. Several large gun turrets and gun barrels lie in the forward holds.
+
+The engine room, accessible through explosion holes created during the 1944 attack, contains unopened sake bottles and gun barrels — an eerie preserved snapshot of the moment of sinking. The fore section sustained intense fire as shells exploded from the inside heat, weakening the bow section, which is now gradually collapsing. Divers can explore at least two or three times from bow to stern to take in the full length.
+
+The intense fires that consumed the fore section during sinking caused internal shell explosions, and the damage is still visible. Multiple explosion holes throughout the hull create good access to the interior without requiring technical penetration.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 28 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The top of the wreck sits at around 10 metres, with the main hull lying through 20–30 metres, and the deepest point at 33 metres. The accessible depth profile keeps no-decompression limits generous on recreational air; diving with 32% nitrox extends bottom time at maximum depth to approximately 25 minutes. Two or three dives are recommended to cover the full 141-metre length.
 
-## Entry and Exit
+## Marine Life
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+Marine life is diverse across the hull. Coral and sponge growth encrust the exposed port-side surfaces. Schools of fish occupy the interior spaces. Grey reef sharks and turtles are regularly seen patrolling the exterior.
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The starboard-side orientation creates some inverted spaces inside — navigate carefully and carry a torch. The collapsing bow section should be approached cautiously. All Chuuk Lagoon wrecks are designated war graves; no artifacts may be removed. Dive with a local guide familiar with the wreck's current structural condition.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The stern gun is one of the most dramatic photographic subjects in Chuuk Lagoon — large enough to frame a diver easily in a wide-angle shot. The readable ship's name on the hull offers a unique compositional opportunity. Interior explosion-hole lighting creates strong natural-light wide-angle shots.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-03-15
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*Validated against Scuba Diving Earth, Master Liveaboards, and Diver Trek. Note: OSM data listed as "Rio de janeiro Maru" — corrected to proper capitalisation. Last updated 2026-03-15.*
