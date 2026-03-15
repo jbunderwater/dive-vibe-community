@@ -22,7 +22,7 @@
     "osm_id": 79843825,
     "osm_type": "way",
     "depth": null,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": null,
     "difficulty": null,
     "tags": {
@@ -141,7 +141,7 @@
     "lat": 36.612,
     "lon": -121.898,
     "depth": 22,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "shore",
     "difficulty": "Intermediate",
     "tags": {
@@ -180,7 +180,7 @@
     "lat": 36.616,
     "lon": -121.902,
     "depth": 28,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {

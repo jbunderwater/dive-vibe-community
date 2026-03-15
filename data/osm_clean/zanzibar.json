@@ -137,7 +137,7 @@
     "osm_id": 10224583148,
     "osm_type": "node",
     "depth": null,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": null,
     "difficulty": null,
     "tags": {
@@ -242,7 +242,7 @@
     "osm_id": 13165341861,
     "osm_type": "node",
     "depth": null,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": null,
     "difficulty": null,
     "tags": {

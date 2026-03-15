@@ -1028,7 +1028,7 @@
     "osm_id": 13045652322,
     "osm_type": "node",
     "depth": 25,
-    "site_type": "reef",
+    "site_type": "drift",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
@@ -1060,7 +1060,7 @@
     "osm_id": 13045665466,
     "osm_type": "node",
     "depth": 25,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {

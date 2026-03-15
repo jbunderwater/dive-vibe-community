@@ -495,7 +495,7 @@
     "osm_id": 663869307,
     "osm_type": "node",
     "depth": null,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": null,
     "difficulty": "Intermediate",
     "tags": {
@@ -2270,7 +2270,7 @@
     "osm_id": 11729292641,
     "osm_type": "node",
     "depth": null,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": null,
     "difficulty": "Intermediate",
     "tags": {
@@ -2287,7 +2287,7 @@
     "osm_id": 11732411226,
     "osm_type": "node",
     "depth": null,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": null,
     "difficulty": "Intermediate",
     "tags": {
@@ -2304,7 +2304,7 @@
     "osm_id": 11732411227,
     "osm_type": "node",
     "depth": null,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": null,
     "difficulty": "Intermediate",
     "tags": {
@@ -2338,7 +2338,7 @@
     "osm_id": 11732411229,
     "osm_type": "node",
     "depth": null,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": null,
     "difficulty": "Intermediate",
     "tags": {
@@ -2372,7 +2372,7 @@
     "osm_id": 11732411236,
     "osm_type": "node",
     "depth": null,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": null,
     "difficulty": "Intermediate",
     "tags": {
@@ -2389,7 +2389,7 @@
     "osm_id": 11732411243,
     "osm_type": "node",
     "depth": null,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": null,
     "difficulty": "Intermediate",
     "tags": {
@@ -3299,7 +3299,7 @@
     "osm_id": 1471817869,
     "osm_type": "way",
     "depth": null,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": null,
     "difficulty": "Intermediate",
     "tags": {

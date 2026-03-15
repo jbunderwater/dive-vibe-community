@@ -162,7 +162,7 @@
     "osm_id": 865081862,
     "osm_type": "node",
     "depth": 35,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
@@ -221,7 +221,7 @@
     "osm_type": "node",
     "depth": 16,
     "minDepth": 5,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {

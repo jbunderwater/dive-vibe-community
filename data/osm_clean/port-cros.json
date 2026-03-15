@@ -162,7 +162,7 @@
     "osm_id": 663869693,
     "osm_type": "node",
     "depth": 35,
-    "site_type": "reef",
+    "site_type": "wreck",
     "entry_type": null,
     "difficulty": "Advanced",
     "tags": {
@@ -180,7 +180,7 @@
     "osm_id": 663869699,
     "osm_type": "node",
     "depth": 25,
-    "site_type": "reef",
+    "site_type": "wreck",
     "entry_type": null,
     "difficulty": "Intermediate",
     "tags": {

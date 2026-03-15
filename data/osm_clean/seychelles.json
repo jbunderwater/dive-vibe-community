@@ -64,7 +64,7 @@
     "lat": -9.41,
     "lon": 46.35,
     "depth": 25,
-    "site_type": "reef",
+    "site_type": "drift",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {

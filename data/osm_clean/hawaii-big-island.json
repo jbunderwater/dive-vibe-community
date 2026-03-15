@@ -126,7 +126,7 @@
     "osm_id": null,
     "osm_type": null,
     "depth": 18,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {

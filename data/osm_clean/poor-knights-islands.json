@@ -7,7 +7,7 @@
     "osm_type": "node",
     "depth": 25,
     "minDepth": 14,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {

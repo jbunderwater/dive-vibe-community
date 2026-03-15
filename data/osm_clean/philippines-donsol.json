@@ -17,7 +17,7 @@
     "lat": 12.87,
     "lon": 123.65,
     "depth": 25,
-    "site_type": "reef",
+    "site_type": "drift",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
@@ -82,7 +82,7 @@
     "lat": 12.85,
     "lon": 123.64,
     "depth": 30,
-    "site_type": "reef",
+    "site_type": "drift",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
@@ -95,7 +95,7 @@
     "lat": 12.96,
     "lon": 123.56,
     "depth": 22,
-    "site_type": "reef",
+    "site_type": "drift",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {

@@ -49,7 +49,7 @@
     "lat": 24.72,
     "lon": -110.3,
     "depth": 30,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {

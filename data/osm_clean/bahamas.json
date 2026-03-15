@@ -138,7 +138,7 @@
     "osm_id": null,
     "osm_type": null,
     "depth": 15,
-    "site_type": "reef",
+    "site_type": "drift",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {

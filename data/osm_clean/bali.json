@@ -253,7 +253,7 @@
     "osm_id": 4527419399,
     "osm_type": "node",
     "depth": 25,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "shore",
     "difficulty": "Beginner",
     "tags": {

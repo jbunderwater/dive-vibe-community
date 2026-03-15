@@ -6,7 +6,7 @@
     "osm_id": 4031012952,
     "osm_type": "node",
     "depth": 12,
-    "site_type": "reef",
+    "site_type": "drift",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
@@ -27,7 +27,7 @@
     "osm_id": 4031012953,
     "osm_type": "node",
     "depth": 25,
-    "site_type": "reef",
+    "site_type": "drift",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
@@ -44,7 +44,7 @@
     "osm_id": 4031012954,
     "osm_type": "node",
     "depth": 20,
-    "site_type": "reef",
+    "site_type": "drift",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
