@@ -456,14 +456,16 @@
     "osm_id": 13042385000,
     "osm_type": "node",
     "depth": 25,
-    "site_type": "reef",
+    "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "abandoned:amenity": "toilets",
       "diving:type": "manmade",
       "name": "Toilet Bowl",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -524,14 +526,16 @@
     "osm_id": 13042425104,
     "osm_type": "node",
     "depth": 30,
-    "site_type": "reef",
+    "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "depth": "30",
       "diving:type": "recreational",
       "name": "Junkpile-3",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -541,14 +545,16 @@
     "osm_id": 13042425105,
     "osm_type": "node",
     "depth": 33,
-    "site_type": "reef",
+    "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "depth": "33",
       "diving:type": "recreational",
       "name": "Junkpile-2",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -558,13 +564,15 @@
     "osm_id": 13042425106,
     "osm_type": "node",
     "depth": 25,
-    "site_type": "reef",
+    "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "diving:type": "recreational",
       "name": "Junkpile-1",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {

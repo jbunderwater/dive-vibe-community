@@ -21,12 +21,14 @@
     "osm_id": null,
     "osm_type": null,
     "depth": 30,
-    "site_type": "reef",
+    "site_type": "pinnacle",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -51,12 +53,14 @@
     "osm_id": null,
     "osm_type": null,
     "depth": 20,
-    "site_type": "reef",
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -66,12 +70,14 @@
     "osm_id": null,
     "osm_type": null,
     "depth": 28,
-    "site_type": "reef",
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -81,12 +87,14 @@
     "osm_id": null,
     "osm_type": null,
     "depth": 30,
-    "site_type": "reef",
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -96,12 +104,14 @@
     "osm_id": null,
     "osm_type": null,
     "depth": 20,
-    "site_type": "reef",
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
