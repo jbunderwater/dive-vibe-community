@@ -154,5 +154,40 @@
       "source": "curated",
       "addedBy": "fill_caribbean"
     }
+  },
+  {
+    "name": "Rhone",
+    "lat": 18.3689063,
+    "lon": -64.5345635,
+    "osm_id": 302028648,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "wreck",
+      "name": "Rhone",
+      "seamark:type": "wreck",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Eagle Shoal",
+    "lat": 18.3057086,
+    "lon": -64.6896876,
+    "osm_id": 893436066,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Eagle Shoal",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
   }
 ]

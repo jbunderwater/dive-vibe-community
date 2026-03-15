@@ -1,0 +1,57 @@
+[
+  {
+    "name": "California",
+    "lat": 12.6232643,
+    "lon": -70.0440699,
+    "osm_id": 7452989993,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "wreck",
+      "name": "California",
+      "seamark:type": "wreck",
+      "wreck:date_sunk": "September 23rd, 1891"
+    }
+  },
+  {
+    "name": "SS Antilla",
+    "lat": 12.602079,
+    "lon": -70.0577154,
+    "osm_id": 337807284,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "wreck",
+      "name": "SS Antilla",
+      "seamark:type": "wreck",
+      "sport": "scuba_diving",
+      "wikipedia": "en:SS Antilla (1939)",
+      "wreck:date_sunk": "‎10 May 1940"
+    }
+  },
+  {
+    "name": "Shipwreck",
+    "lat": 12.5915464,
+    "lon": -70.0495811,
+    "osm_id": 454413853,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "wreck",
+      "name": "Shipwreck",
+      "seamark:type": "wreck",
+      "seamark:wreck:category": "hull_visible",
+      "sport": "scuba_diving",
+      "wreck:visible_at_low_tide": "yes"
+    }
+  }
+]

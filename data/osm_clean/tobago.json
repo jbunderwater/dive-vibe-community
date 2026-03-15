@@ -154,5 +154,45 @@
       "source": "curated",
       "addedBy": "fill_caribbean"
     }
+  },
+  {
+    "name": "Extra Divers",
+    "lat": 11.1590592,
+    "lon": -60.8360693,
+    "osm_id": 2399563723,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "leisure": "sports_centre",
+      "name": "Extra Divers",
+      "sport": "scuba_diving",
+      "website": "http://www.extradiverstobago.eu",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Buccoo Reef",
+    "lat": 11.1803339,
+    "lon": -60.8266527,
+    "osm_id": 489074818,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "leisure": "nature_reserve",
+      "name": "Buccoo Reef",
+      "natural": "reef",
+      "protect_class": "98",
+      "ramsar": "yes",
+      "ref:ramsar": "1496",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
   }
 ]

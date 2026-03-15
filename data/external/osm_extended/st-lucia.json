@@ -1,0 +1,85 @@
+[
+  {
+    "name": "El Pirata Shipwreck",
+    "lat": 13.7296327,
+    "lon": -60.9721116,
+    "osm_id": 9385639518,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "access": "yes",
+      "historic": "wreck",
+      "name": "El Pirata Shipwreck",
+      "seamark:type": "wreck",
+      "seamark:wreck:category": "non-dangerous",
+      "wreck:visible_at_high_tide": "yes",
+      "wreck:visible_at_low_tide": "yes"
+    }
+  },
+  {
+    "name": "Turtle Reef",
+    "lat": 13.866573,
+    "lon": -61.0789468,
+    "osm_id": 398450578,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "area": "yes",
+      "name": "Turtle Reef",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Fairyland",
+    "lat": 13.8627497,
+    "lon": -61.0779083,
+    "osm_id": 398450579,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "area": "yes",
+      "name": "Fairyland",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Maria Island Reef",
+    "lat": 13.7362752,
+    "lon": -60.9342094,
+    "osm_id": 1022427960,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Maria Island Reef",
+      "natural": "reef"
+    }
+  },
+  {
+    "name": "Dive Fair Haven",
+    "lat": 13.9669866,
+    "lon": -61.0261004,
+    "osm_id": 1372008160,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "building": "yes",
+      "name": "Dive Fair Haven",
+      "sport": "scuba_diving"
+    }
+  }
+]
