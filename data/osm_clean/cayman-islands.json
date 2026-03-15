@@ -69,21 +69,6 @@
     }
   },
   {
-    "name": "USS Kittiwake",
-    "lat": 19.3667,
-    "lon": -81.4,
-    "osm_id": null,
-    "osm_type": null,
-    "depth": 20,
-    "site_type": "wreck",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "source": "curated",
-      "addedBy": "gap_fill"
-    }
-  },
-  {
     "name": "Devil's Grotto",
     "lat": 19.3083,
     "lon": -81.3833,

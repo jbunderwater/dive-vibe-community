@@ -175,27 +175,6 @@
     }
   },
   {
-    "name": "SS Antilla",
-    "lat": 12.602079,
-    "lon": -70.0577154,
-    "osm_id": 337807284,
-    "osm_type": "way",
-    "depth": null,
-    "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": null,
-    "tags": {
-      "historic": "wreck",
-      "name": "SS Antilla",
-      "seamark:type": "wreck",
-      "sport": "scuba_diving",
-      "wikipedia": "en:SS Antilla (1939)",
-      "wreck:date_sunk": "‎10 May 1940",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass"
-    }
-  },
-  {
     "name": "Shipwreck",
     "lat": 12.5915464,
     "lon": -70.0495811,

@@ -1,20 +1,5 @@
 [
   {
-    "name": "Tent Reef",
-    "lat": 17.62,
-    "lon": -63.25,
-    "osm_id": null,
-    "osm_type": null,
-    "depth": 30,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "source": "curated",
-      "addedBy": "gap_fill"
-    }
-  },
-  {
     "name": "Tent Reef Wall",
     "lat": 17.6217,
     "lon": -63.2517,

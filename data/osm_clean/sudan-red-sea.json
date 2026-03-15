@@ -17,28 +17,6 @@
     }
   },
   {
-    "name": "Umbria",
-    "lat": 19.6367031,
-    "lon": 37.290526,
-    "osm_id": 663869681,
-    "osm_type": "node",
-    "depth": 20,
-    "site_type": "wreck",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "access": "yes",
-      "historic": "wreck",
-      "name": "Umbria",
-      "seamark:type": "wreck",
-      "sport": "scuba_diving",
-      "wikipedia": "en:SS Umbria",
-      "wreck:date_sunk": "9 June 1940",
-      "wreck:visible_at_high_tide": "no",
-      "wreck:visible_at_low_tide": "no"
-    }
-  },
-  {
     "name": "Gota Mesharifa",
     "lat": 20.8608834,
     "lon": 37.3190921,
@@ -307,7 +285,7 @@
     }
   },
   {
-    "name": "SS Umbria, Wreck",
+    "name": "SS Umbria",
     "lat": 19.6367128,
     "lon": 37.2906381,
     "osm_id": 9721478944,
@@ -367,28 +345,6 @@
     "tags": {
       "name": "Elba Reef East (Southplateau)",
       "sport": "scuba_diving"
-    }
-  },
-  {
-    "name": "Levanzo",
-    "lat": 21.9877615,
-    "lon": 37.0452371,
-    "osm_id": 13064059226,
-    "osm_type": "node",
-    "depth": 20,
-    "site_type": "wreck",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "check_date": "2025-07-29",
-      "ele": "-16",
-      "historic": "wreck",
-      "name": "Levanzo",
-      "seamark:type": "wreck",
-      "sport": "scuba_diving",
-      "wreck:date_sunk": "1923-03-14",
-      "wreck:visible_at_high_tide": "no",
-      "wreck:visible_at_low_tide": "no"
     }
   }
 ]

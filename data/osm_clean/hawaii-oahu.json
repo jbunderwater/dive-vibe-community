@@ -8,7 +8,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Canoes Surf Break",
       "natural": "reef",
@@ -25,7 +25,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "China Walls",
       "natural": "reef",
@@ -42,7 +42,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Queen's Surf Break",
       "natural": "reef",
@@ -59,7 +59,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Public's Surf Break",
       "natural": "reef",
@@ -76,7 +76,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Popular's Surf Break",
       "natural": "reef",
@@ -94,7 +94,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Paradise Surf Break",
       "natural": "reef",
@@ -111,7 +111,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Three's Surf Break",
       "natural": "reef",
@@ -128,7 +128,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Four's Surf Break",
       "natural": "reef",
@@ -145,7 +145,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Kaiser's Surf Break",
       "natural": "reef",
@@ -162,7 +162,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Rockpiles Surf Break",
       "natural": "reef",
@@ -179,7 +179,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Ala Moana Bowls Surf Break",
       "natural": "reef",
@@ -196,7 +196,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Half Point",
       "natural": "reef",
@@ -213,7 +213,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Full Point",
       "natural": "reef",
@@ -230,7 +230,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Turtle Alley",
       "natural": "reef",
@@ -247,7 +247,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Turtle Canyon",
       "natural": "reef",
@@ -264,7 +264,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Kaneohe Sandbar",
       "natural": "reef",
@@ -282,7 +282,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "area": "yes",
       "biotic_reef:type": "fringing",
@@ -305,7 +305,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "area": "yes",
       "biotic_reef:type": "fringing",
@@ -328,7 +328,7 @@
     "depth": null,
     "site_type": "wreck",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "building": "ship",
       "description": "US Navy WWII tank landing ship sunk during accidental explosion.",

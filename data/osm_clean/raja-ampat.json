@@ -182,22 +182,6 @@
     }
   },
   {
-    "name": "Aerborek Jetty",
-    "lat": -0.5634152,
-    "lon": 130.5186131,
-    "osm_id": 9865449636,
-    "osm_type": "node",
-    "depth": 25,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "name": "Aerborek Jetty",
-      "sport": "scuba_diving",
-      "tourism": "attraction"
-    }
-  },
-  {
     "name": "Sardine Reef",
     "lat": -0.5333183,
     "lon": 130.7139487,
@@ -329,22 +313,6 @@
     }
   },
   {
-    "name": "Mayhem",
-    "lat": -0.5139054,
-    "lon": 130.4454953,
-    "osm_id": 12167275309,
-    "osm_type": "node",
-    "depth": 25,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "name": "Mayhem",
-      "sport": "scuba_diving",
-      "tourism": "attraction"
-    }
-  },
-  {
     "name": "Koh",
     "lat": -0.5529745,
     "lon": 130.6979979,
@@ -356,22 +324,6 @@
     "difficulty": "Beginner",
     "tags": {
       "name": "Koh",
-      "sport": "scuba_diving",
-      "tourism": "attraction"
-    }
-  },
-  {
-    "name": "Kabui",
-    "lat": -0.4343816,
-    "lon": 130.6872477,
-    "osm_id": 12167277390,
-    "osm_type": "node",
-    "depth": 25,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "name": "Kabui",
       "sport": "scuba_diving",
       "tourism": "attraction"
     }
@@ -723,22 +675,6 @@
     }
   },
   {
-    "name": "The Passage",
-    "lat": -0.4208683,
-    "lon": 130.5654502,
-    "osm_id": 13041952531,
-    "osm_type": "node",
-    "depth": 25,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "name": "The Passage",
-      "sport": "scuba_diving",
-      "tourism": "attraction"
-    }
-  },
-  {
     "name": "Way Pretty Shallows",
     "lat": -0.5101972,
     "lon": 130.448606,
@@ -755,7 +691,7 @@
     }
   },
   {
-    "name": "Soft corals in the passage",
+    "name": "The Passage",
     "lat": -0.4286672,
     "lon": 130.5610216,
     "osm_id": 13042087868,

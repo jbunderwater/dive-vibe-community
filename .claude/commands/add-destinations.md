@@ -95,21 +95,41 @@ Run validation checks on all new data:
 3. No remaining commercial tags or contact info
 4. No URLs or email addresses anywhere in tag values
 
-### Step 6: Gap-Fill Low-Coverage Destinations
+### Step 6: Site Type & Difficulty Validation (CRITICAL)
+
+**Do NOT skip this step.** The Overpass scraper defaults most sites to `site_type=reef`, which is often wrong. For each new destination:
+
+1. **Web search** the destination to understand what type of diving it's known for
+2. **Correct `site_type`** based on research:
+   - `muck` — for muck/critter diving destinations (e.g., Lembeh Strait)
+   - `wall` — for wall diving, vertical drop-offs, and volcanic pinnacles/pelagic sites (e.g., Bunaken, Socorro, Galapagos)
+   - `wreck` — for wreck-focused destinations; also scan site names for wreck keywords (SS, HMS, wreck, ship, etc.)
+   - `reef` — for actual coral reef diving
+   - `cave` — for cenotes, caverns, lava tubes
+   - `beach` — for beach/shore dives
+3. **Set `difficulty`** for every entry (never leave as None):
+   - Remote liveaboard-only destinations: minimum Intermediate, usually Advanced
+   - Cold-water destinations (drysuits required): minimum Intermediate
+   - Use depth when available: <18m = Beginner, 18-30m = Intermediate, >30m = Advanced
+4. **Check for near-duplicates** from overlapping gap-fill passes — same site with slightly different names (e.g., "The Boiler" vs "The Boiler San Benedicto")
+
+### Step 7: Gap-Fill Low-Coverage Destinations
 
 If a destination has fewer than 8 sites after scraping and cleaning:
 - Add well-known dive sites as curated entries with `tags: {"source": "curated", "addedBy": "gap_fill"}`
 - Research real dive sites for the area — use well-established, widely-known sites
-- Each curated entry needs: `name`, `lat`, `lon`, `depth`, `site_type` (reef/wreck/wall/cave/beach), `entry_type` (shore/boat), `difficulty` (Beginner/Intermediate/Advanced)
+- Each curated entry needs: `name`, `lat`, `lon`, `depth`, `site_type` (reef/wreck/wall/cave/beach/muck), `entry_type` (shore/boat), `difficulty` (Beginner/Intermediate/Advanced)
+- Set `site_type` correctly based on Step 6 research — do NOT default everything to "reef"
 
-### Step 7: Final Summary
+### Step 8: Final Summary
 
 Print a summary table showing:
 - Each new destination
 - Site count
+- Site type distribution
 - Data sources (OSM / extended / curated)
 - Any remaining concerns
 
-### Step 8: Commit and Push
+### Step 9: Commit and Push
 
 Stage all changed files and commit with a descriptive message listing all new destinations and their site counts.

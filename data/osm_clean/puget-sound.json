@@ -8,7 +8,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "ele": "0",
       "gnis:feature_id": "1514165",
@@ -29,7 +29,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Tumbo Reef",
       "natural": "reef",
@@ -46,7 +46,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Shirt Tail Reef",
       "natural": "reef",
@@ -64,7 +64,7 @@
     "depth": null,
     "site_type": "wreck",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "historic": "wreck",
       "name": "SS Dauntless",
@@ -83,7 +83,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Danger Rock",
       "natural": "reef",
@@ -100,7 +100,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "fixme": "position is estimated",
       "name": "Blake Island Reef",
@@ -119,7 +119,7 @@
     "depth": null,
     "site_type": "wreck",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "historic": "wreck",
       "name": "Osprey",
@@ -140,7 +140,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "geological": "glacial_erratic",
       "name": "Juanitas Rock",
@@ -160,7 +160,7 @@
     "depth": null,
     "site_type": "wreck",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "description": "Aproximatly at a depth of 155 feet just off Magnuson Park Swimming Beach lies the wreck of a PB4Y bomber that crashed in 1956 after suffering a malfuction shorter after takeoff.",
       "hashtags": "#cwugeog",
@@ -180,7 +180,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "gnis:feature_id": "1531595",
       "name": "Decatur Reef",
@@ -200,7 +200,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "gnis:feature_id": "1510245",
       "name": "Tyee Shoal",
@@ -220,7 +220,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "leisure": "park",
       "name": "Seacrest Park",
@@ -238,7 +238,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Entertainment Reef",
       "natural": "reef",
@@ -255,7 +255,7 @@
     "depth": null,
     "site_type": "wreck",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "building": "yes",
       "historic": "wreck",
@@ -276,7 +276,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Center Reef",
       "natural": "reef",
@@ -294,7 +294,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Shag Reef",
       "natural": "reef",
@@ -311,7 +311,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Gull Reef",
       "natural": "reef",
@@ -328,7 +328,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Shark Reef",
       "natural": "reef",
@@ -345,7 +345,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Leo Reef",
       "natural": "reef",
@@ -362,7 +362,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Turn Rock",
       "natural": "reef",
@@ -379,7 +379,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "gnis:feature_id": "1506112",
       "name": "Lawson Reef",
@@ -398,7 +398,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Mouatt Reef",
       "natural": "reef",
@@ -416,7 +416,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Parker Reef",
       "natural": "reef",
@@ -433,7 +433,7 @@
     "depth": null,
     "site_type": "wreck",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "building": "ship",
       "historic": "wreck",
@@ -457,7 +457,7 @@
     "depth": null,
     "site_type": "wreck",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "historic": "wreck",
       "name": "Pacific Queen",
@@ -478,7 +478,7 @@
     "depth": null,
     "site_type": "wreck",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "historic": "wreck",
       "name": "Boat",
@@ -496,7 +496,7 @@
     "depth": null,
     "site_type": "wreck",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "access": "private",
       "historic": "wreck",
@@ -517,7 +517,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "gnis:feature_id": "1504442",
       "name": "Dennis Shoal",
@@ -536,7 +536,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "gnis:feature_id": "1503136",
       "name": "Bakers Reef",
@@ -555,7 +555,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "gnis:feature_id": "1504311",
       "name": "Cypress Reef",
@@ -574,7 +574,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "gnis:feature_id": "1503611",
       "name": "Buckeye Shoal",
@@ -593,7 +593,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "gnis:feature_id": "1503491",
       "name": "Boulder Reef",
@@ -612,7 +612,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "gnis:feature_id": "1531687",
       "name": "Yellow Bluff Reef",
@@ -631,7 +631,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "gnis:feature_id": "1503844",
       "name": "Case Shoal",

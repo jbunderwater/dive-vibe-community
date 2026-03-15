@@ -6,27 +6,12 @@
     "osm_id": 3667973195,
     "osm_type": "node",
     "depth": 20,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "amenity": "tourism",
       "name": "Galapagos fan dive",
-      "sport": "scuba_diving"
-    }
-  },
-  {
-    "name": "Daphne",
-    "lat": -0.3955196,
-    "lon": -90.3529774,
-    "osm_id": 13121653577,
-    "osm_type": "node",
-    "depth": 20,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "name": "Daphne",
       "sport": "scuba_diving"
     }
   },
@@ -37,7 +22,7 @@
     "osm_id": 13121663404,
     "osm_type": "node",
     "depth": 20,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
@@ -52,7 +37,7 @@
     "osm_id": 13123255819,
     "osm_type": "node",
     "depth": 30,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
@@ -67,7 +52,7 @@
     "osm_id": 13123276912,
     "osm_type": "node",
     "depth": 20,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
@@ -93,7 +78,7 @@
     "lat": -0.24,
     "lon": -90.52,
     "depth": 22,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
@@ -106,7 +91,7 @@
     "lat": -0.2,
     "lon": -90.56,
     "depth": 18,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
@@ -132,7 +117,7 @@
     "lat": -0.28,
     "lon": -90.54,
     "depth": 15,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
@@ -145,7 +130,7 @@
     "lat": -0.38,
     "lon": -90.29,
     "depth": 16,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
@@ -158,7 +143,7 @@
     "lat": -0.4,
     "lon": -90.37,
     "depth": 20,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {

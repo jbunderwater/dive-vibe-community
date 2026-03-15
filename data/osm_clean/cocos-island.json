@@ -6,7 +6,7 @@
     "osm_id": null,
     "osm_type": null,
     "depth": 30,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
@@ -21,7 +21,7 @@
     "osm_id": null,
     "osm_type": null,
     "depth": 30,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
@@ -51,7 +51,7 @@
     "osm_id": null,
     "osm_type": null,
     "depth": 15,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
@@ -66,7 +66,7 @@
     "osm_id": null,
     "osm_type": null,
     "depth": 25,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
@@ -81,7 +81,7 @@
     "osm_id": null,
     "osm_type": null,
     "depth": 30,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
@@ -96,7 +96,7 @@
     "osm_id": null,
     "osm_type": null,
     "depth": 25,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
@@ -111,7 +111,7 @@
     "osm_id": null,
     "osm_type": null,
     "depth": 18,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {

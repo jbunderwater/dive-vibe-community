@@ -8,7 +8,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Advanced",
     "tags": {
       "name": "Hastings Reef",
       "natural": "reef",
@@ -25,7 +25,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Advanced",
     "tags": {
       "name": "Haswell Reef",
       "natural": "reef",
@@ -42,7 +42,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Advanced",
     "tags": {
       "name": "Observatory Rock",
       "natural": "reef",
@@ -59,7 +59,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Advanced",
     "tags": {
       "name": "Wimble Rocks",
       "natural": "reef",
@@ -76,7 +76,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Advanced",
     "tags": {
       "name": "Alert Rock",
       "natural": "reef",
@@ -93,7 +93,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Advanced",
     "tags": {
       "name": "Chanal Reef",
       "natural": "reef",
@@ -110,7 +110,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Advanced",
     "tags": {
       "name": "Marchand Reef",
       "natural": "reef",
@@ -127,7 +127,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Advanced",
     "tags": {
       "name": "Testlatlints Rock",
       "natural": "reef",
@@ -144,7 +144,7 @@
     "depth": null,
     "site_type": "wreck",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Advanced",
     "tags": {
       "access": "yes",
       "historic": "wreck",
@@ -166,7 +166,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Advanced",
     "tags": {
       "description": "\"Descriptive name given by USC&GS in 1927 on Chart 8703.\"  Dictionary of Alaska Place Names, Orth, 1971.",
       "name": "Table Rock",
@@ -184,7 +184,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Advanced",
     "tags": {
       "name": "Client Reefs",
       "natural": "reef",
@@ -201,7 +201,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Advanced",
     "tags": {
       "name": "Escape Reefs",
       "natural": "reef",
@@ -218,7 +218,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Advanced",
     "tags": {
       "name": "Kipcke Rock",
       "natural": "reef",
@@ -235,7 +235,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Advanced",
     "tags": {
       "name": "Gatenby Rock",
       "natural": "reef",
@@ -252,7 +252,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Advanced",
     "tags": {
       "name": "Harvey Rock",
       "natural": "reef",
@@ -269,7 +269,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Advanced",
     "tags": {
       "name": "Douglas Rock",
       "natural": "reef",
@@ -286,7 +286,7 @@
     "depth": null,
     "site_type": "wreck",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Advanced",
     "tags": {
       "historic": "wreck",
       "name": "Boat Graveyard",
@@ -304,7 +304,7 @@
     "depth": null,
     "site_type": "wreck",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Advanced",
     "tags": {
       "historic": "wreck",
       "name": "Grebe",
@@ -324,7 +324,7 @@
     "depth": null,
     "site_type": "wreck",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Advanced",
     "tags": {
       "historic": "wreck",
       "name": "Polar Bear",
@@ -344,7 +344,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Advanced",
     "tags": {
       "name": "Bligh Reef",
       "natural": "reef",
@@ -364,7 +364,7 @@
     "depth": null,
     "site_type": "wreck",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Advanced",
     "tags": {
       "access": "yes",
       "designation": "Shipwreck",
@@ -391,7 +391,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Advanced",
     "tags": {
       "name": "La Perouse Reef",
       "natural": "reef",
@@ -408,7 +408,7 @@
     "depth": null,
     "site_type": "wreck",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Advanced",
     "tags": {
       "historic": "wreck",
       "name": "USS Coldbrook",
@@ -428,7 +428,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Advanced",
     "tags": {
       "name": "Pleasant Island Reef",
       "natural": "reef",
@@ -446,7 +446,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Advanced",
     "tags": {
       "name": "Cohen Reef",
       "natural": "reef",
@@ -463,7 +463,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Advanced",
     "tags": {
       "name": "Eagle Reef",
       "natural": "reef",
@@ -480,7 +480,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Advanced",
     "tags": {
       "name": "Desconocida Reef",
       "natural": "reef",
@@ -497,7 +497,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Advanced",
     "tags": {
       "name": "Vanderbilt Reef",
       "name:es": "Arrecife de Vanderbilt",
@@ -516,7 +516,7 @@
     "depth": null,
     "site_type": "wreck",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Advanced",
     "tags": {
       "historic": "wreck",
       "name": "Swan Lake Wooden Barge",
@@ -534,7 +534,7 @@
     "depth": null,
     "site_type": "wreck",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Advanced",
     "tags": {
       "historic": "wreck",
       "name": "F/V Lily",
@@ -552,7 +552,7 @@
     "depth": null,
     "site_type": "wreck",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Advanced",
     "tags": {
       "access": "yes",
       "historic": "wreck",

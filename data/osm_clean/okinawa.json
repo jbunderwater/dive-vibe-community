@@ -440,32 +440,6 @@
     }
   },
   {
-    "name": "佐久原",
-    "lat": 26.1773273,
-    "lon": 127.2745971,
-    "osm_id": 11333164772,
-    "osm_type": "node",
-    "depth": 30,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "name": "佐久原",
-      "name:en": "Sakubaru",
-      "name:fr": "Sakubaru",
-      "name:ja-Hira": "さくばる",
-      "name:ja-Latn": "Sakubaru",
-      "scuba_diving:divespot": "yes",
-      "scuba_diving:entry": "boat",
-      "seamark:buoy_special_purpose:colour": "white",
-      "seamark:buoy_special_purpose:shape": "barrel",
-      "seamark:mooring:category": "buoy",
-      "seamark:type": "mooring",
-      "source": "survey;local knowledge;gps",
-      "sport": "scuba_diving"
-    }
-  },
-  {
     "name": "嘉比裏・がひうら",
     "lat": 26.2152559,
     "lon": 127.287906,

@@ -51,19 +51,46 @@ Check these specific tag keys which should be stripped:
 
 Also check `source`, `source_ref`, `note` for embedded URLs.
 
-### 3. Data Integrity
+### 3. Near-Duplicate Detection
+
+Scan each destination for entries that are likely the same site entered twice (e.g., from overlapping gap-fill passes):
+- **Exact case-insensitive matches**: Always duplicates
+- **Substring matches with close coordinates** (<500m): e.g., "The Boiler" vs "The Boiler San Benedicto"
+- **EXCLUDE from duplicate detection**: Numbered variants (1/2/3), directional pairs (North/South/East/West), named sub-sections (Hall/Cathedral/Lagoon/Plateau), and depth variants (Deep/Shallow)
+
+When removing a duplicate, prefer keeping the entry with more metadata (depth, difficulty, entry_type). For names, prefer the established/shorter name over verbose variants.
+
+### 4. Site Type & Difficulty Validation
+
+Verify that `site_type` and `difficulty` accurately reflect each destination's diving character. Common misclassifications to catch:
+
+**Site type research**: Do a brief web search for any destination where >90% of sites share the same `site_type`. Many destinations have a signature diving style that differs from the default "reef":
+- **Muck diving**: Lembeh Strait — site_type should be `muck`, not `reef`
+- **Wall diving**: Bunaken, Bonaire, Cayman — many sites should be `wall`
+- **Pelagic/pinnacles**: Socorro, Galapagos, Cocos Island — `wall` (volcanic pinnacles), not `reef`
+- **Kelp forest**: Monterey, Channel Islands, San Diego — `reef` is acceptable
+- **Wreck diving**: New Jersey, Chuuk, Scapa Flow, Great Lakes — check wreck names are tagged `wreck`
+- **Cold water**: Alaska, BC, Puget Sound, Nova Scotia, New England — verify difficulty is at least Intermediate
+
+**Difficulty validation**:
+- No "Beginner" at remote liveaboard-only destinations (Socorro, Cocos, etc.)
+- Cold-water destinations should default to Intermediate minimum (drysuit required)
+- All entries should have a difficulty set (not None)
+
+### 5. Data Integrity
 
 For every entry in every file:
 - Has non-empty `name`
 - Has valid `lat` (between -90 and 90)
 - Has valid `lon` (between -180 and 180)
 - No duplicate names within the same destination file
+- Has `difficulty` set (not None)
 
-### 4. Coverage Assessment
+### 6. Coverage Assessment
 
 Report destinations with fewer than 8 sites — these need gap-filling with curated data.
 
-### 5. Cross-Destination Duplicates
+### 7. Cross-Destination Duplicates
 
 Check if the same `osm_id` appears in multiple destination files (legitimate if a site is near a boundary, but worth flagging).
 

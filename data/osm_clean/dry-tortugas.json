@@ -35,24 +35,6 @@
     }
   },
   {
-    "name": "Windjammer",
-    "lat": 24.6234352,
-    "lon": -82.9423306,
-    "osm_id": 8220897620,
-    "osm_type": "node",
-    "depth": null,
-    "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": null,
-    "tags": {
-      "historic": "wreck",
-      "name": "Windjammer",
-      "seamark:type": "wreck",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass"
-    }
-  },
-  {
     "name": "White Shoal",
     "lat": 24.6370629,
     "lon": -82.9018649,

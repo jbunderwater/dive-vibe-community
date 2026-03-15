@@ -8,7 +8,7 @@
     "depth": null,
     "site_type": "wreck",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "historic": "wreck",
       "name": "Ada K. Damon",
@@ -25,7 +25,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Godfrey's Ledge",
       "natural": "reef",
@@ -44,7 +44,7 @@
     "depth": null,
     "site_type": "wreck",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "historic": "wreck",
       "name": "Wanderer",
@@ -63,7 +63,7 @@
     "depth": null,
     "site_type": "wreck",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "access": "no",
       "historic": "wreck",
@@ -88,7 +88,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "ele": "0",
       "gnis:feature_id": "973329",
@@ -107,7 +107,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "ele": "0",
       "gnis:feature_id": "616159",
@@ -130,7 +130,7 @@
     "depth": null,
     "site_type": "wreck",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "historic": "wreck",
       "name": "SS Pendleton",
@@ -151,7 +151,7 @@
     "depth": null,
     "site_type": "wreck",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "historic": "wreck",
       "name": "Frances",
@@ -171,7 +171,7 @@
     "depth": null,
     "site_type": "wreck",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "access": "yes",
       "historic": "wreck",
@@ -192,7 +192,7 @@
     "depth": null,
     "site_type": "wreck",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "description": "WWII US Navy minesweeper ran aground on reef and destroyed",
       "historic": "wreck",
@@ -214,7 +214,7 @@
     "depth": null,
     "site_type": "wreck",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "historic": "wreck",
       "name": "California",
@@ -233,7 +233,7 @@
     "depth": null,
     "site_type": "wreck",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "historic": "wreck",
       "name": "Charles S. Haight",
@@ -252,7 +252,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "The Clump",
       "natural": "reef",
@@ -269,7 +269,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Cedar Island Ledge",
       "natural": "reef",
@@ -287,7 +287,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "area": "yes",
       "disused": "yes",
@@ -314,7 +314,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "hazzard": "yes",
       "name": "Half Tide Rock",
@@ -337,7 +337,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "alt_name": "Gangway Rock",
       "ele": "0",
@@ -364,7 +364,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Bar Rock",
       "natural": "reef",
@@ -385,9 +385,9 @@
     "osm_id": 441445427,
     "osm_type": "way",
     "depth": null,
-    "site_type": "reef",
+    "site_type": "wreck",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "ele": "0",
       "gnis:feature_id": "617550",
@@ -413,7 +413,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "disused": "yes",
       "disused:man_made": "breakwater",
@@ -440,7 +440,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Black Rocks",
       "natural": "reef",
@@ -463,7 +463,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "ele": "0",
       "name": "Sow and Pigs",
@@ -485,7 +485,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "alt_name": "Lunts Rock",
       "ele": "0",
@@ -511,7 +511,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "hazard": "yes",
       "name": "Gangway Rocks",
@@ -533,7 +533,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "gnis:feature_id": "613629",
       "name": "Badgers Rock",
@@ -558,7 +558,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Watch Hill Reef",
       "natural": "reef",
@@ -575,7 +575,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Catumb Rocks",
       "natural": "reef",
@@ -592,7 +592,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Planet Rock",
       "natural": "reef",
@@ -611,7 +611,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Cormorant Reef",
       "natural": "reef",
@@ -628,7 +628,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Inner Breakers",
       "natural": "reef",
@@ -645,7 +645,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Three and One-half Fathom Ledge",
       "natural": "reef",
@@ -662,7 +662,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Martin Ledge",
       "natural": "reef",
@@ -679,7 +679,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Tewksbury Rock",
       "natural": "reef",
@@ -696,7 +696,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Utonia Ledge",
       "natural": "reef",
@@ -713,7 +713,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Harding Ledge",
       "natural": "reef",
@@ -730,7 +730,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Enos Ledge",
       "natural": "reef",
@@ -747,7 +747,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Minots Ledge",
       "natural": "reef",
@@ -764,7 +764,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Davis Ledge",
       "natural": "reef",
@@ -781,7 +781,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Tobias Ledge",
       "natural": "reef",
@@ -798,7 +798,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Mikes Ledge",
       "natural": "reef",
@@ -815,7 +815,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "ele": "0",
       "gnis:feature_id": "616118",
@@ -835,7 +835,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "area": "yes",
       "ele": "0",
@@ -856,7 +856,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "area": "yes",
       "ele": "0",
@@ -877,7 +877,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "heritage": "2",
       "heritage:operator": "nrhp",
@@ -907,7 +907,7 @@
     "depth": null,
     "site_type": "wreck",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "access": "yes",
       "description": "1890s cargo steamship that was abandoned and left to sink",
@@ -932,7 +932,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Green Jacket Shoal",
       "natural": "reef",
@@ -952,7 +952,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "ele": "0",
       "gnis:feature_id": "209713",
@@ -972,7 +972,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Brenton Reef",
       "natural": "reef",

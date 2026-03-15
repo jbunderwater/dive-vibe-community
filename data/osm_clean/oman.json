@@ -127,39 +127,6 @@
     }
   },
   {
-    "name": "Dibba Rock",
-    "lat": 25.6034329,
-    "lon": 56.3502417,
-    "osm_id": 9865803545,
-    "osm_type": "node",
-    "depth": 20,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "name": "Dibba Rock",
-      "scuba_diving:entry:boat": "yes",
-      "sport": "scuba_diving",
-      "tourism": "attraction"
-    }
-  },
-  {
-    "name": "Snoopy Island",
-    "lat": 25.4926007,
-    "lon": 56.3635239,
-    "osm_id": 9865811800,
-    "osm_type": "node",
-    "depth": 20,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "name": "Snoopy Island",
-      "sport": "scuba_diving",
-      "tourism": "attraction"
-    }
-  },
-  {
     "name": "Dibba Rock Reef",
     "lat": 25.6031152,
     "lon": 56.3508923,

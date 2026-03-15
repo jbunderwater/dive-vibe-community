@@ -234,25 +234,6 @@
     }
   },
   {
-    "name": "Pain de Sucre",
-    "lat": 15.8650393,
-    "lon": -61.6003257,
-    "osm_id": 9383506616,
-    "osm_type": "node",
-    "depth": null,
-    "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
-    "tags": {
-      "name": "Pain de Sucre",
-      "scuba_diving:type": "wall",
-      "scuba_diving:type:wall": "yes",
-      "sport": "scuba_diving",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass"
-    }
-  },
-  {
     "name": "Le Sec Pâté",
     "lat": 15.9010173,
     "lon": -61.6555095,

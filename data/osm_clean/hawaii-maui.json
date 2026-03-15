@@ -8,7 +8,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Edge of the World",
       "sport": "scuba_diving",
@@ -25,7 +25,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Enenue",
       "sport": "scuba_diving",
@@ -42,7 +42,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Flying Sea Cliffs",
       "sport": "scuba_diving",
@@ -59,7 +59,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Middle Reef",
       "sport": "scuba_diving",
@@ -76,7 +76,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Reef's End",
       "sport": "scuba_diving",
@@ -93,7 +93,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Shark Condos",
       "sport": "scuba_diving",
@@ -110,7 +110,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Tako Flats",
       "sport": "scuba_diving",
@@ -127,7 +127,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "The Back Side",
       "sport": "scuba_diving",

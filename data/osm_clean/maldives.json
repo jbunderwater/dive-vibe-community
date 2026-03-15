@@ -141,26 +141,6 @@
     }
   },
   {
-    "name": "Fesdhoo",
-    "lat": 3.9994333,
-    "lon": 72.7860333,
-    "osm_id": 663869882,
-    "osm_type": "node",
-    "depth": 30,
-    "site_type": "wreck",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "historic": "wreck",
-      "name": "Fesdhoo",
-      "scuba_diving:depth": "30",
-      "scuba_diving:entry:boat": "yes",
-      "seamark:type": "wreck",
-      "sport": "scuba_diving",
-      "tourism": "attraction"
-    }
-  },
-  {
     "name": "HimendhooThila West",
     "lat": 3.9155167,
     "lon": 72.7155667,
@@ -452,26 +432,6 @@
       "name": "Kudarah",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
-      "sport": "scuba_diving",
-      "tourism": "attraction"
-    }
-  },
-  {
-    "name": "Rihiveli",
-    "lat": 3.820782,
-    "lon": 73.405026,
-    "osm_id": 663869900,
-    "osm_type": "node",
-    "depth": 25,
-    "site_type": "wreck",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "historic": "wreck",
-      "name": "Rihiveli",
-      "natural": "reef",
-      "scuba_diving:entry:boat": "yes",
-      "seamark:type": "wreck",
       "sport": "scuba_diving",
       "tourism": "attraction"
     }
@@ -830,24 +790,6 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Vaageli Corner",
-      "natural": "reef",
-      "scuba_diving:entry:boat": "yes",
-      "sport": "scuba_diving",
-      "tourism": "attraction"
-    }
-  },
-  {
-    "name": "Vaageli Faru",
-    "lat": 3.949542,
-    "lon": 73.356496,
-    "osm_id": 663869921,
-    "osm_type": "node",
-    "depth": 25,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "name": "Vaageli Faru",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
@@ -1432,23 +1374,6 @@
     }
   },
   {
-    "name": "Exit",
-    "lat": 4.0864758,
-    "lon": 73.5101777,
-    "osm_id": 682245357,
-    "osm_type": "node",
-    "depth": 25,
-    "site_type": "reef",
-    "entry_type": "shore",
-    "difficulty": "Intermediate",
-    "tags": {
-      "name": "Exit",
-      "note": "Position estimated",
-      "scuba_diving:entry": "shore",
-      "sport": "scuba_diving"
-    }
-  },
-  {
     "name": "Main jetty exit",
     "lat": 4.0845674,
     "lon": 73.5132801,
@@ -1541,25 +1466,6 @@
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
       "tourism": "attraction"
-    }
-  },
-  {
-    "name": "House Reef",
-    "lat": 4.0050368,
-    "lon": 72.9487609,
-    "osm_id": 1563574505,
-    "osm_type": "node",
-    "depth": 25,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "name": "House Reef",
-      "scuba_diving:type:cavern": "yes",
-      "scuba_diving:type:drift": "yes",
-      "scuba_diving:type:reef": "yes",
-      "scuba_diving:type:wall": "yes",
-      "sport": "scuba_diving"
     }
   },
   {

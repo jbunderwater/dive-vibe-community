@@ -8,7 +8,7 @@
     "depth": null,
     "site_type": "wreck",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "historic": "wreck",
       "name": "South Bedford Island",
@@ -27,7 +27,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Race Rocks - West and Central",
       "source": "osm_extended",
@@ -44,7 +44,7 @@
     "depth": null,
     "site_type": "wreck",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "historic": "wreck",
       "name": "Barnard Castle",
@@ -63,7 +63,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Swordfish Island",
       "source": "osm_extended",
@@ -80,7 +80,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Saxe Point",
       "source": "osm_extended",
@@ -97,7 +97,7 @@
     "depth": null,
     "site_type": "wreck",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "historic": "wreck",
       "name": "S. F. Tolmie",
@@ -117,7 +117,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Johnstone Reef",
       "natural": "reef",
@@ -135,7 +135,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Ogden Point (The Breakwater)",
       "source": "osm_extended",
@@ -152,7 +152,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Spring Bay",
       "source": "osm_extended",
@@ -169,7 +169,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Telegraph Cove",
       "source": "osm_extended",
@@ -186,7 +186,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Ten Mile Point",
       "source": "osm_extended",
@@ -203,7 +203,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Discovery Island",
       "source": "osm_extended",
@@ -220,7 +220,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Fulford Reef",
       "natural": "reef",
@@ -238,7 +238,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Chain Islet",
       "source": "osm_extended",
@@ -255,7 +255,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Brinn Rock",
       "source": "osm_extended",
@@ -272,7 +272,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Virtue Rock",
       "source": "osm_extended",
@@ -289,7 +289,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Mouat Reef",
       "natural": "reef",
@@ -307,7 +307,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "McKenzie Bright",
       "source": "osm_extended",
@@ -324,7 +324,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Willis Point",
       "source": "osm_extended",
@@ -341,7 +341,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Senanus Island",
       "source": "osm_extended",
@@ -358,7 +358,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Henderson Point",
       "source": "osm_extended",
@@ -375,7 +375,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Tozier Rock",
       "source": "osm_extended",
@@ -392,7 +392,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "White Lady (Repulse Rock)",
       "source": "osm_extended",
@@ -409,7 +409,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Dyer Rocks",
       "source": "osm_extended",
@@ -426,7 +426,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Wain Rock",
       "source": "osm_extended",
@@ -443,7 +443,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Arbutus Island",
       "source": "osm_extended",
@@ -460,7 +460,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Patey Rock",
       "natural": "reef",
@@ -478,7 +478,7 @@
     "depth": null,
     "site_type": "wreck",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "historic": "wreck",
       "name": "G.B. Church",
@@ -497,7 +497,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Graham`s Wall",
       "source": "osm_extended",
@@ -514,7 +514,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Reay Island",
       "source": "osm_extended",
@@ -531,7 +531,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Joan Rock",
       "source": "osm_extended",
@@ -548,7 +548,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Little Group Islands",
       "source": "osm_extended",
@@ -565,7 +565,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Forest Island",
       "source": "osm_extended",
@@ -582,7 +582,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Cooper Reef",
       "source": "osm_extended",
@@ -599,7 +599,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Rubly Island",
       "source": "osm_extended",
@@ -616,7 +616,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Arachne Reef",
       "natural": "reef",
@@ -634,7 +634,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "North Cod Reef",
       "natural": "reef",
@@ -652,7 +652,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "South Cod Reef",
       "natural": "reef",
@@ -670,7 +670,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Imrie Island",
       "source": "osm_extended",
@@ -687,7 +687,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Canoe Rock",
       "source": "osm_extended",
@@ -704,7 +704,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Tumbo Reef",
       "natural": "reef",
@@ -721,7 +721,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Celia Reefs",
       "natural": "reef",
@@ -738,7 +738,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Shirt Tail Reef",
       "natural": "reef",
@@ -756,7 +756,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Escape Reef",
       "natural": "reef",
@@ -773,7 +773,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Danger Reefs",
       "natural": "reef",
@@ -790,7 +790,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Heddington Reef",
       "natural": "reef",
@@ -807,7 +807,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Pope Rocks",
       "natural": "reef",
@@ -824,7 +824,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Village Reef",
       "natural": "reef",
@@ -842,7 +842,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Verbeke Reef",
       "natural": "reef",
@@ -860,7 +860,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Power Squadron Reef",
       "natural": "reef",
@@ -878,7 +878,7 @@
     "depth": null,
     "site_type": "wreck",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "historic": "wreck",
       "name": "SS Valencia",
@@ -900,7 +900,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Danger Rock",
       "natural": "reef",
@@ -917,7 +917,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Conconi Reef",
       "natural": "reef",
@@ -934,7 +934,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Enterprise Reef",
       "natural": "reef",
@@ -951,7 +951,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Russell Reef",
       "natural": "reef",
@@ -968,7 +968,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Scarrow Reef",
       "natural": "reef",
@@ -985,7 +985,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Glimpse Reefs",
       "natural": "reef",
@@ -1002,7 +1002,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Coghlan Rock",
       "natural": "reef",
@@ -1019,7 +1019,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Quartertide Rocks",
       "natural": "reef",
@@ -1036,7 +1036,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Kellett Rock",
       "natural": "reef",
@@ -1053,7 +1053,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Satellite Reef",
       "natural": "reef",
@@ -1071,7 +1071,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Carpenter Rock",
       "natural": "reef",
@@ -1089,7 +1089,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Palliser Rock",
       "natural": "reef",
@@ -1106,7 +1106,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Maude Reef",
       "natural": "reef",
@@ -1124,7 +1124,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Musgrave Rock",
       "natural": "reef",
@@ -1141,7 +1141,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Shute Reef",
       "natural": "reef",
@@ -1158,7 +1158,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Grant Reefs",
       "natural": "reef",
@@ -1175,7 +1175,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Janit Reef",
       "natural": "reef",
@@ -1192,7 +1192,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Miller Reef",
       "natural": "reef",
@@ -1209,7 +1209,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Hornby Rock",
       "natural": "reef",
@@ -1226,7 +1226,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Schooner Reef",
       "natural": "reef",
@@ -1244,7 +1244,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Impérieuse Rock",
       "natural": "reef",
@@ -1262,7 +1262,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Nonooa Rock",
       "natural": "reef",
@@ -1280,7 +1280,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Clarke Rock",
       "natural": "reef",
@@ -1298,7 +1298,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Beacon Rock",
       "natural": "reef",
@@ -1316,7 +1316,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Oregon Rock",
       "natural": "reef",
@@ -1334,7 +1334,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Brodie Rock",
       "natural": "reef",
@@ -1351,7 +1351,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "North Reef",
       "natural": "reef",
@@ -1368,7 +1368,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Chesil Bank",
       "natural": "reef",
@@ -1385,7 +1385,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Rose Rock",
       "natural": "reef",
@@ -1402,7 +1402,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Peck Reef",
       "natural": "reef",
@@ -1419,7 +1419,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Horda Shoals",
       "natural": "reef",
@@ -1436,7 +1436,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Batt Rock",
       "natural": "reef",
@@ -1453,7 +1453,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Money Maker Reef",
       "natural": "reef",
@@ -1470,7 +1470,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Atkins Reef",
       "natural": "reef",
@@ -1487,7 +1487,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Centre Reef",
       "natural": "reef",
@@ -1504,7 +1504,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Ben Mohr Rock",
       "natural": "reef",
@@ -1521,7 +1521,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Louisa Rock",
       "natural": "reef",
@@ -1538,7 +1538,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Sleeper Rock",
       "natural": "reef",
@@ -1556,7 +1556,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Georgina Shoals",
       "natural": "reef",
@@ -1573,7 +1573,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Virago Rock",
       "natural": "reef",
@@ -1590,7 +1590,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Templar Rock",
       "natural": "reef",
@@ -1607,7 +1607,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Brotchie Ledge",
       "natural": "reef",
@@ -1624,7 +1624,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Kirby Rock",
       "natural": "reef",
@@ -1641,7 +1641,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Nash Bank",
       "natural": "reef",
@@ -1658,7 +1658,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Seal Reef",
       "natural": "reef",
@@ -1675,7 +1675,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Jeffrey Rock",
       "natural": "reef",
@@ -1692,7 +1692,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Temple Rock",
       "natural": "reef",
@@ -1709,7 +1709,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Sentry Shoal",
       "natural": "reef",
@@ -1726,7 +1726,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Brant Reef",
       "natural": "reef",
@@ -1744,7 +1744,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Wilby Shoals",
       "natural": "reef",
@@ -1761,7 +1761,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Defender Shoal",
       "natural": "reef",
@@ -1778,7 +1778,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Warspite Rock",
       "natural": "reef",
@@ -1795,7 +1795,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Min Rock",
       "natural": "reef",
@@ -1812,7 +1812,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Barnsley Shoal",
       "natural": "reef",
@@ -1829,7 +1829,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Entrance Bank",
       "natural": "reef",
@@ -1846,7 +1846,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Nixon Rock",
       "natural": "reef",
@@ -1863,7 +1863,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Dorcas Rock",
       "natural": "reef",
@@ -1881,7 +1881,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Cottam Reef",
       "natural": "reef",
@@ -1899,7 +1899,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Tusko Rock",
       "natural": "reef",
@@ -1916,7 +1916,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Ripple Shoal",
       "natural": "reef",
@@ -1933,7 +1933,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Bentley Rock",
       "natural": "reef",
@@ -1950,7 +1950,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Thorn Reef",
       "natural": "reef",
@@ -1967,7 +1967,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Surprise Reef",
       "natural": "reef",
@@ -1984,7 +1984,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Sargison Bank",
       "natural": "reef",
@@ -2001,7 +2001,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Warner Rock",
       "natural": "reef",
@@ -2018,7 +2018,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Tattenham Ledge",
       "natural": "reef",
@@ -2035,7 +2035,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Egerton Rock",
       "natural": "reef",
@@ -2052,7 +2052,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Fraser Rock",
       "natural": "reef",
@@ -2069,7 +2069,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Yaculta Bank",
       "natural": "reef",
@@ -2086,7 +2086,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Atrevida Reef",
       "natural": "reef",
@@ -2103,7 +2103,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Exeter Shoal",
       "natural": "reef",
@@ -2120,7 +2120,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Oswald Bank",
       "natural": "reef",
@@ -2137,7 +2137,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Western Rock",
       "natural": "reef",
@@ -2154,7 +2154,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Neville Rock",
       "natural": "reef",
@@ -2171,7 +2171,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Kinghorn Rocks",
       "natural": "reef",
@@ -2188,7 +2188,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Sky Pilot Rock",
       "natural": "reef",
@@ -2205,7 +2205,7 @@
     "depth": null,
     "site_type": "wreck",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "access": "yes",
       "historic": "wreck",
@@ -2230,7 +2230,7 @@
     "depth": null,
     "site_type": "wreck",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "access": "no",
       "historic": "wreck",
@@ -2251,7 +2251,7 @@
     "depth": null,
     "site_type": "wreck",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "historic": "wreck",
       "name": "Osprey",
@@ -2272,7 +2272,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "East Wall",
       "natural": "reef",
@@ -2289,7 +2289,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Small wall 40'",
       "natural": "reef",
@@ -2306,7 +2306,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Mid wall 50-60'",
       "natural": "reef",
@@ -2323,7 +2323,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Maze 40-60'",
       "natural": "reef",
@@ -2340,7 +2340,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Main wall 90'",
       "natural": "reef",
@@ -2357,7 +2357,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Bull Kelp 20'",
       "natural": "reef",
@@ -2374,7 +2374,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Wall beach out 30 return 210/230 50-90'",
       "natural": "reef",
@@ -2391,7 +2391,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "The jib wall: shallow 270 HD deep 220 over 100'",
       "natural": "reef",
@@ -2408,7 +2408,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Cottam Point Reef 0/180",
       "natural": "reef",
@@ -2425,7 +2425,7 @@
     "depth": null,
     "site_type": "wreck",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "description": "WWI & WWII US Navy Destroyer, sunk as a breakwater in 1947",
       "historic": "wreck",
@@ -2450,7 +2450,7 @@
     "depth": null,
     "site_type": "wreck",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "description": "WWII destroyer sunk as part of breakwater",
       "historic": "wreck",
@@ -2473,7 +2473,7 @@
     "depth": null,
     "site_type": "wreck",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "description": "Early 1900s schooner sunk as part of a breakwater",
       "historic": "wreck",
@@ -2496,7 +2496,7 @@
     "depth": null,
     "site_type": "wreck",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "access": "yes",
       "historic": "wreck",
@@ -2517,7 +2517,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Concrete Block Reef",
       "natural": "reef",
@@ -2534,7 +2534,7 @@
     "depth": null,
     "site_type": "wreck",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "description": "Popular scuba and freediving site",
       "historic": "wreck",
@@ -2553,7 +2553,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Kelvin Grove Dive Site",
       "sport": "scuba_diving",
@@ -2570,7 +2570,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "description": "Several artificial reefs and wrecks",
       "name": "Porteau Cove Diving Area",
@@ -2588,7 +2588,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "description": "Popular diving area for beginners and advanced divers.",
       "name": "Whytecliff Park Dive Site",
@@ -2606,7 +2606,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "description": "Popular scuba and freediving site.",
       "name": "Ansell Point Dive Site",
@@ -2624,7 +2624,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Cluster Rocks",
       "natural": "reef",
@@ -2641,7 +2641,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Collins Shoal",
       "natural": "reef",
@@ -2658,7 +2658,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Entertainment Reef",
       "natural": "reef",
@@ -2675,7 +2675,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Center Reef",
       "natural": "reef",
@@ -2693,7 +2693,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Shag Reef",
       "natural": "reef",
@@ -2710,7 +2710,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Gull Reef",
       "natural": "reef",
@@ -2727,7 +2727,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Shark Reef",
       "natural": "reef",
@@ -2744,7 +2744,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Leo Reef",
       "natural": "reef",
@@ -2761,7 +2761,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Turn Rock",
       "natural": "reef",
@@ -2778,7 +2778,7 @@
     "depth": null,
     "site_type": "wreck",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "historic": "wreck",
       "name": "USS Charleston (C-22)",
@@ -2800,7 +2800,7 @@
     "depth": null,
     "site_type": "wreck",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "area": "yes",
       "historic": "wreck",
@@ -2821,7 +2821,7 @@
     "depth": null,
     "site_type": "wreck",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "area": "yes",
       "historic": "wreck",
@@ -2842,7 +2842,7 @@
     "depth": null,
     "site_type": "wreck",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "area": "yes",
       "historic": "wreck",
@@ -2863,7 +2863,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "gnis:feature_id": "1506112",
       "name": "Lawson Reef",
@@ -2882,7 +2882,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Collinson Reef",
       "natural": "reef",
@@ -2899,7 +2899,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Mouatt Reef",
       "natural": "reef",
@@ -2917,7 +2917,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Parker Reef",
       "natural": "reef",
@@ -2934,7 +2934,7 @@
     "depth": null,
     "site_type": "wreck",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "access": "private",
       "historic": "wreck",
@@ -2957,7 +2957,7 @@
     "depth": null,
     "site_type": "wreck",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "access": "private",
       "historic": "wreck",
@@ -2980,7 +2980,7 @@
     "depth": null,
     "site_type": "wreck",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "access": "private",
       "historic": "wreck",
@@ -3003,7 +3003,7 @@
     "depth": null,
     "site_type": "wreck",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "access": "private",
       "historic": "wreck",
@@ -3026,7 +3026,7 @@
     "depth": null,
     "site_type": "wreck",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "access": "private",
       "historic": "wreck",
@@ -3049,7 +3049,7 @@
     "depth": null,
     "site_type": "wreck",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "access": "private",
       "historic": "wreck",
@@ -3072,7 +3072,7 @@
     "depth": null,
     "site_type": "wreck",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "access": "private",
       "historic": "wreck",
@@ -3095,7 +3095,7 @@
     "depth": null,
     "site_type": "wreck",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "access": "private",
       "historic": "wreck",
@@ -3118,7 +3118,7 @@
     "depth": null,
     "site_type": "wreck",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "access": "private",
       "historic": "wreck",
@@ -3141,7 +3141,7 @@
     "depth": null,
     "site_type": "wreck",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "description": "Early 1900s barquentine lumber freighter sank as a breakwater",
       "historic": "wreck",
@@ -3164,7 +3164,7 @@
     "depth": null,
     "site_type": "wreck",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "description": "Early 1900s sail cargo ship, converted into barge and sunk as breakwater",
       "historic": "wreck",
@@ -3187,7 +3187,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "gnis:feature_id": "1504442",
       "name": "Dennis Shoal",
@@ -3206,7 +3206,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "gnis:feature_id": "1533334",
       "name": "Alden Bank",
@@ -3225,7 +3225,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "gnis:feature_id": "1503136",
       "name": "Bakers Reef",
@@ -3244,7 +3244,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "gnis:feature_id": "1504311",
       "name": "Cypress Reef",
@@ -3263,7 +3263,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "gnis:feature_id": "1503611",
       "name": "Buckeye Shoal",
@@ -3282,7 +3282,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "gnis:feature_id": "1503491",
       "name": "Boulder Reef",
@@ -3301,7 +3301,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": null,
-    "difficulty": null,
+    "difficulty": "Intermediate",
     "tags": {
       "gnis:feature_id": "1531687",
       "name": "Yellow Bluff Reef",

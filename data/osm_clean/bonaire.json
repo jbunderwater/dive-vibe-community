@@ -753,23 +753,6 @@
     }
   },
   {
-    "name": "Andrea I",
-    "lat": 12.188411,
-    "lon": -68.296732,
-    "osm_id": 663869426,
-    "osm_type": "node",
-    "depth": null,
-    "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
-    "tags": {
-      "name": "Andrea I",
-      "sport": "scuba_diving",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass"
-    }
-  },
-  {
     "name": "Boka di Tolo",
     "lat": 12.2152361,
     "lon": -68.3374389,

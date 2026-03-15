@@ -728,28 +728,6 @@
     }
   },
   {
-    "name": "Umbria",
-    "lat": 19.6367031,
-    "lon": 37.290526,
-    "osm_id": 663869681,
-    "osm_type": "node",
-    "depth": 20,
-    "site_type": "wreck",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "access": "yes",
-      "historic": "wreck",
-      "name": "Umbria",
-      "seamark:type": "wreck",
-      "sport": "scuba_diving",
-      "wikipedia": "en:SS Umbria",
-      "wreck:date_sunk": "9 June 1940",
-      "wreck:visible_at_high_tide": "no",
-      "wreck:visible_at_low_tide": "no"
-    }
-  },
-  {
     "name": "Neptuna",
     "lat": 23.6186333,
     "lon": 36.2037666,
@@ -902,21 +880,6 @@
     }
   },
   {
-    "name": "Shaab Sataya",
-    "lat": 24.1577,
-    "lon": 35.7118333,
-    "osm_id": 663869764,
-    "osm_type": "node",
-    "depth": 20,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "name": "Shaab Sataya",
-      "sport": "scuba_diving"
-    }
-  },
-  {
     "name": "Abu Galawa Kebir",
     "lat": 24.2286658,
     "lon": 35.5727769,
@@ -934,7 +897,7 @@
     }
   },
   {
-    "name": "Shaab Sataya Amphoren",
+    "name": "Shaab Sataya",
     "lat": 24.1552833,
     "lon": 35.685,
     "osm_id": 663869767,
@@ -1199,7 +1162,7 @@
     }
   },
   {
-    "name": "Shaabruhr Umm Gamar",
+    "name": "Umm Gamar",
     "lat": 27.1925,
     "lon": 33.9091666,
     "osm_id": 663869793,
@@ -1267,7 +1230,7 @@
     }
   },
   {
-    "name": "Gota Abu Ramada - Aquarium",
+    "name": "Aquarium",
     "lat": 27.139,
     "lon": 33.9532666,
     "osm_id": 663869799,
@@ -2188,21 +2151,6 @@
   },
   {
     "name": "Erg Somaya",
-    "lat": 27.19578,
-    "lon": 33.984,
-    "osm_id": 700999360,
-    "osm_type": "node",
-    "depth": 20,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "name": "Erg Somaya",
-      "sport": "scuba_diving"
-    }
-  },
-  {
-    "name": "Erg Somaya Drift",
     "lat": 27.19829,
     "lon": 33.98408,
     "osm_id": 700999362,
@@ -2836,7 +2784,7 @@
     }
   },
   {
-    "name": "El Fanadir Dacht Dacht",
+    "name": "El Fanadir",
     "lat": 27.275816,
     "lon": 33.8334747,
     "osm_id": 3755841120,
@@ -2854,32 +2802,6 @@
       "scuba_diving:type:sea": "yes",
       "sport": "scuba_diving",
       "survey:date": "2015-09-15"
-    }
-  },
-  {
-    "name": "El Fanadir Dacht",
-    "lat": 27.2847068,
-    "lon": 33.8317727,
-    "osm_id": 3755841121,
-    "osm_type": "node",
-    "depth": 16,
-    "site_type": "reef",
-    "entry_type": "shore",
-    "difficulty": "Intermediate",
-    "tags": {
-      "description": "mooring place for dive boats",
-      "description:name": "\"Red Sea Partners\"",
-      "name": "El Fanadir Dacht",
-      "scuba_diving:attraction:night": "yes",
-      "scuba_diving:attraction:reef": "yes",
-      "scuba_diving:depth": "10",
-      "scuba_diving:entry:boat": "yes",
-      "scuba_diving:maxdepth": "16",
-      "scuba_diving:surface:sand": "yes",
-      "scuba_diving:type:drift": "yes",
-      "scuba_diving:type:sea": "yes",
-      "sport": "scuba_diving",
-      "survey:date": "2018-06-10"
     }
   },
   {
@@ -2921,30 +2843,6 @@
       "note": "alt_name:source \"Red Sea Partner\"",
       "sport": "scuba_diving",
       "survey:date": "2015-09-18"
-    }
-  },
-  {
-    "name": "Umm Gamar",
-    "lat": 27.3528822,
-    "lon": 33.9084369,
-    "osm_id": 3756356153,
-    "osm_type": "node",
-    "depth": 25,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "description": "mooring place for dive boats",
-      "name": "Umm Gamar",
-      "scuba_diving:attraction:drop_off": "yes",
-      "scuba_diving:attraction:reef": "yes",
-      "scuba_diving:attraction:rocks": "yes",
-      "scuba_diving:entry:boat": "yes",
-      "scuba_diving:surface:brash": "yes",
-      "scuba_diving:surface:sand": "yes",
-      "scuba_diving:type:drift": "yes",
-      "scuba_diving:type:sea": "yes",
-      "sport": "scuba_diving"
     }
   },
   {
@@ -3480,21 +3378,6 @@
     }
   },
   {
-    "name": "Aquarium",
-    "lat": 27.1393526,
-    "lon": 33.9546855,
-    "osm_id": 5896280466,
-    "osm_type": "node",
-    "depth": 20,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "name": "Aquarium",
-      "sport": "scuba_diving"
-    }
-  },
-  {
     "name": "Flamenco Hausriff",
     "lat": 26.1653439,
     "lon": 34.2456192,
@@ -4017,7 +3900,7 @@
     }
   },
   {
-    "name": "SS Umbria, Wreck",
+    "name": "SS Umbria",
     "lat": 19.6367128,
     "lon": 37.2906381,
     "osm_id": 9721478944,
@@ -4418,28 +4301,6 @@
     }
   },
   {
-    "name": "Levanzo",
-    "lat": 21.9877615,
-    "lon": 37.0452371,
-    "osm_id": 13064059226,
-    "osm_type": "node",
-    "depth": 20,
-    "site_type": "wreck",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "check_date": "2025-07-29",
-      "ele": "-16",
-      "historic": "wreck",
-      "name": "Levanzo",
-      "seamark:type": "wreck",
-      "sport": "scuba_diving",
-      "wreck:date_sunk": "1923-03-14",
-      "wreck:visible_at_high_tide": "no",
-      "wreck:visible_at_low_tide": "no"
-    }
-  },
-  {
     "name": "Scubaworld",
     "lat": 25.5980183,
     "lon": 34.6101533,
@@ -4804,7 +4665,7 @@
     }
   },
   {
-    "name": "Shaab Sheer Soraya",
+    "name": "Shaab Sheer",
     "lat": 26.6434815,
     "lon": 34.0496239,
     "osm_id": 1396426964,
@@ -5007,27 +4868,6 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Tobia Araba",
-      "natural": "reef",
-      "reef": "coral",
-      "scuba_diving:divespot": "yes",
-      "scuba_diving:entry": "boat",
-      "sport": "scuba_diving",
-      "type": "multipolygon"
-    }
-  },
-  {
-    "name": "Shaab Sheer",
-    "lat": 26.6573803,
-    "lon": 34.0487575,
-    "osm_id": 19266689,
-    "osm_type": "relation",
-    "depth": 20,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "name": "Shaab Sheer",
-      "name:eg": "Shoab Sheer",
       "natural": "reef",
       "reef": "coral",
       "scuba_diving:divespot": "yes",

@@ -18,24 +18,6 @@
     }
   },
   {
-    "name": "Elephant Head",
-    "lat": 8.6196229,
-    "lon": 97.6408268,
-    "osm_id": 270980993,
-    "osm_type": "node",
-    "depth": 20,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "name": "Elephant Head",
-      "scuba_diving:entry:boat": "yes",
-      "sport": "scuba_diving",
-      "sport:scuba_diving": "yes",
-      "tourism": "attraction"
-    }
-  },
-  {
     "name": "Boonsung Wreck",
     "lat": 8.7707571,
     "lon": 98.1863863,
