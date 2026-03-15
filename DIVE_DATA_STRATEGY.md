@@ -82,6 +82,85 @@ Beyond OSM and Wikidata, there are several high-value sources we can integrate t
 
 ---
 
+### Tier 2b: Marine Species & Taxonomy Databases
+
+#### FishBase / SeaLifeBase
+- **URL**: https://www.fishbase.org/ (API: https://ropensci.github.io/fishbaseapidocs/)
+- **License**: CC-BY-NC
+- **Data**: Species biology, ecology, morphology, distribution, common names, habitat, depth ranges, images for 30,000+ fish species. SeaLifeBase covers ~200,000 aquatic species.
+- **Access**: S3/Parquet endpoints, R package (`rfishbase`), legacy REST API
+- **Value**: Authoritative species detail. For every species we list under "Marine Life," we can pull depth range, habitat description, common names in multiple languages, and photos. Turns "you may see angelfish" into "French Angelfish (Pomacanthus paru) — commonly found at 5-30m on coral reefs."
+
+#### WoRMS (World Register of Marine Species)
+- **URL**: https://www.marinespecies.org/ (REST API at marinespecies.org/rest)
+- **License**: CC-BY
+- **Data**: Taxonomic names, classification hierarchy, synonyms, vernacular names for 247,000+ valid marine species. AphiaIDs enable cross-linking between OBIS, GBIF, and FishBase.
+- **Access**: REST API, R package (`worrms`)
+- **Value**: Taxonomic backbone — ensures species names are correct and standardized across all our content. Prevents misidentification errors.
+
+#### iNaturalist
+- **URL**: https://www.inaturalist.org/ (API: https://api.inaturalist.org/v1/docs/)
+- **License**: Varies per observation (many CC-BY-NC); research-grade data flows to GBIF
+- **Data**: Species observations with photos, coordinates, community ID verification. Growing marine content from divers/snorkelers.
+- **Access**: REST API (v1/v2), Python (`pyinaturalist`). Rate limit ~1 req/sec. Bulk via GBIF export.
+- **Value**: Photo-verified species sightings at specific coordinates. Supplements GBIF data with visual proof and recent observations.
+
+---
+
+### Tier 2c: Reef & Coral Monitoring
+
+#### Allen Coral Atlas
+- **URL**: https://allencoralatlas.org/
+- **License**: Free with citation (Zenodo DOI: 10.5281/zenodo.3833242)
+- **Data**: Geomorphic zonation, benthic habitat classification, reef extent, bleaching alerts, turbidity — all at **5m pixel resolution** from PlanetScope satellite imagery.
+- **Access**: Direct download by country, Google Earth Engine API (`ACA/reef_habitat/v2_0`)
+- **Value**: The best available global reef map. Can annotate every reef dive site with habitat type (e.g., "outer reef slope," "back reef," "lagoon") and monitor bleaching risk.
+
+#### NOAA Coral Reef Watch
+- **URL**: https://coralreefwatch.noaa.gov/
+- **License**: Public domain (US government)
+- **Data**: Sea surface temperature, bleaching alerts (degree heating weeks), near-real-time satellite monitoring at 5km resolution.
+- **Access**: ERDDAP, data downloads, near-real-time feeds
+- **Value**: Dynamic environmental context — "current bleaching risk: low" or seasonal temperature ranges for each destination.
+
+#### NOAA ERDDAP
+- **URL**: https://coastwatch.pfeg.noaa.gov/erddap/
+- **License**: Public domain
+- **Data**: SST, bathymetry (ETOPO), ocean currents, chlorophyll, salinity — hundreds of datasets.
+- **Access**: RESTful OPeNDAP API. Outputs: JSON, CSV, NetCDF.
+- **Value**: Environmental data layers for every destination — water temperature by month, current patterns, visibility proxies (chlorophyll). Makes our "Best Time to Visit" sections data-driven rather than guesswork.
+
+#### MERMAID (Marine Ecological Research Management Aid)
+- **URL**: https://datamermaid.org/
+- **Data**: Coral reef survey data, fish/benthic transects, bleaching observations
+- **Access**: Cloud API for data sharing
+- **Value**: Standardized reef monitoring data from research sites — adds scientific credibility to reef health descriptions.
+
+---
+
+### Tier 2d: Dive Log & App Platforms
+
+#### SSI MyDiveGuide
+- **URL**: https://www.divessi.com/en/mydiveguide
+- **Data**: **65,000+ dive sites** with GPS coordinates, wildlife lists, dive conditions
+- **Access**: No public API — data locked in MySSI app. Would need partnership or reverse engineering.
+- **Value**: The single largest dive site database. If access can be negotiated, it would be transformative.
+
+#### Subsurface Dive Log (Open Source)
+- **URL**: https://subsurface-divelog.org/ / https://github.com/subsurface/subsurface
+- **License**: GPL (open source)
+- **Data**: Dive site names, GPS coordinates, depths, temperature, dive profiles in XML format. Community-shared dive site directory.
+- **Access**: XML export/import, companion website
+- **Value**: Open source dive log with structured site data. XML format is easily parseable.
+
+#### dive.io API
+- **URL**: https://dive.io/api
+- **Data**: Dive sites, dive logs
+- **Access**: REST API with documentation
+- **Value**: Additional cross-reference source for site data.
+
+---
+
 ### Tier 3: Community & Operator Sources
 
 #### Wannadive.net
@@ -95,6 +174,18 @@ Beyond OSM and Wikidata, there are several high-value sources we can integrate t
 - **Data**: Community-contributed site descriptions, coordinates, and reviews
 - **Access**: Forum scraping
 - **Value**: Experienced diver insights and tips that are hard to find elsewhere.
+
+#### The Dive Atlas
+- **URL**: https://thediveatlas.com/
+- **Data**: Map-based dive site locations, community-contributed
+- **Access**: Web scraping (no API)
+- **Value**: Additional community pins for cross-referencing coordinates.
+
+#### Open Dive Sites (ODS)
+- **URL**: https://opendivesites.org/
+- **Data**: Dive site descriptions, dive maps, community wiki
+- **Access**: Wiki-style (no API)
+- **Value**: Detailed for California coast; limited elsewhere but growing.
 
 #### Dive Operator Websites
 - **Data**: Site-specific conditions, depth profiles, marine life, access instructions
@@ -142,7 +233,29 @@ ocean_mask = globe.is_ocean(lats, lons)
 land_sites = [s for s, valid in zip(all_sites, ocean_mask) if not valid]
 ```
 
-**Limitation**: ~1km resolution means shore dive sites very close to the coastline may incorrectly flag as "land." This is expected — shore dives are *supposed* to be near land.
+**Limitation**: ~1km resolution means shore dive sites very close to the coastline may incorrectly flag as "land." This is expected — shore dives are *supposed* to be near land. Lakes are also classified as "land."
+
+### Layer 1b (Alternative): OSM Water Polygons — Highest Free Resolution
+
+[OSM water polygons](https://osmdata.openstreetmap.de/data/water-polygons.html) are pre-built coastline shapefiles regenerated daily from OSM `natural=coastline` ways. Significantly higher resolution (~10-50m) than Natural Earth or global-land-mask.
+
+```python
+import geopandas as gpd
+from shapely.geometry import Point
+
+# Load OSM water polygons (download from osmdata.openstreetmap.de)
+water = gpd.read_file("water-polygons-split-4326/water_polygons.shp")
+
+# Build spatial index for fast batch queries
+sindex = water.sindex
+
+def is_in_water(lat, lon):
+    point = Point(lon, lat)
+    possible_matches = list(sindex.intersection(point.bounds))
+    return any(water.iloc[i].geometry.contains(point) for i in possible_matches)
+```
+
+**Trade-off**: Larger file size than global-land-mask but much more accurate near coastlines. Best for the high-res recheck layer.
 
 ### Layer 2: Coastline-Aware Validation with Natural Earth + Shapely
 
@@ -251,15 +364,51 @@ Add a `validate_coordinates.py` script that:
 
 ## Recommended Source Priority for Implementation
 
+### Phase 1: Foundation (Site Discovery + Validation)
 | Priority | Source | Why | Effort |
 |---|---|---|---|
 | 1 | OpenDeepMap | Open license, structured, closest to our schema | Low |
 | 2 | Divestop (GitHub) | Direct JSON merge, open source | Low |
-| 3 | GBIF (Diveboard + RLS) | Real species data, public domain, good API | Medium |
-| 4 | GEBCO + global-land-mask | Coordinate validation + depth verification | Medium |
-| 5 | The Dive API | Large dataset, operator info | Medium |
-| 6 | Diveboard API | Diver-reported conditions and species | Medium |
-| 7 | OBIS | Aggregated marine species | Medium |
-| 8 | WDPA | Marine protected area annotations | Medium |
-| 9 | REEF | Species frequency per site | Medium-High |
-| 10 | Wannadive / ScubaBoard | Community knowledge gap-filling | High (scraping) |
+| 3 | The Dive API | 17,000+ sites, REST API, operator data | Medium |
+| 4 | GEBCO + global-land-mask + OSM Water Polygons | Coordinate validation + depth verification | Medium |
+| 5 | Divesites.com API | Weather/tide data for "Best Time" fields | Low-Medium |
+
+### Phase 2: Enrichment (Species + Environment)
+| Priority | Source | Why | Effort |
+|---|---|---|---|
+| 6 | GBIF (Diveboard + RLS) | Real species data, public domain, good API | Medium |
+| 7 | FishBase / WoRMS | Species detail + taxonomic standardization | Medium |
+| 8 | OBIS | Aggregated marine species occurrences | Medium |
+| 9 | Allen Coral Atlas | 5m-resolution reef habitat classification | Medium |
+| 10 | NOAA ERDDAP / Coral Reef Watch | SST, currents, bleaching risk | Medium |
+
+### Phase 3: Deep Enrichment (Community + MPA)
+| Priority | Source | Why | Effort |
+|---|---|---|---|
+| 11 | Diveboard API | Diver-reported conditions and species | Medium |
+| 12 | WDPA / Protected Planet | Marine protected area annotations | Medium |
+| 13 | REEF | Species frequency per named site | Medium-High |
+| 14 | iNaturalist | Photo-verified recent sightings | Medium |
+| 15 | Subsurface (open source) | Dive profiles, temperatures | Medium |
+
+### Phase 4: Gap-Filling (Scraping + Partnerships)
+| Priority | Source | Why | Effort |
+|---|---|---|---|
+| 16 | Wannadive / ScubaBoard / Dive Atlas | Community knowledge for gaps | High (scraping) |
+| 17 | SSI MyDiveGuide | 65,000+ sites — largest single DB | High (partnership needed) |
+| 18 | Dive operator websites | Most operationally accurate site data | High (per-operator) |
+
+---
+
+## Total Source Count: 30+ Data Sources
+
+| Category | Sources | Combined Sites |
+|---|---|---|
+| Dive site databases (APIs) | 6 | ~20,000+ unique sites |
+| Scientific marine databases | 5 | Species data for all sites |
+| Reef & coral monitoring | 4 | Habitat + health data |
+| Government (NOAA) | 3 | Environmental context |
+| Marine protected areas | 1 | Regulatory annotations |
+| Community/wiki sources | 4 | Gap-filling |
+| Dive apps/platforms | 3 | 65,000+ (if SSI accessible) |
+| Bathymetry/validation | 3 | Validation for all sites |
