@@ -124,10 +124,10 @@
     "lon": 113.7333,
     "osm_id": null,
     "osm_type": null,
-    "depth": 20,
+    "depth": 25,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
@@ -161,7 +161,7 @@
     "depth": 18,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
