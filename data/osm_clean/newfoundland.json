@@ -7,7 +7,7 @@
     "osm_type": "node",
     "depth": 35,
     "site_type": "wreck",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "access": "yes",
@@ -31,7 +31,7 @@
     "osm_type": "node",
     "depth": 25,
     "site_type": "wreck",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "access": "yes",
@@ -55,7 +55,7 @@
     "osm_type": "node",
     "depth": 30,
     "site_type": "wreck",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "access": "yes",
@@ -79,7 +79,7 @@
     "osm_type": "node",
     "depth": 30,
     "site_type": "wreck",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "access": "yes",

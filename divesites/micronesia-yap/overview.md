@@ -12,7 +12,8 @@ Micronesia - Yap is a notable diving destination in the Pacific region, offering
 
 ### Diving Opportunities
 
-- **Shore Diving**: 5 accessible shore dive sites offering convenient, self-guided diving experiences
+- **Boat Diving**: 5 boat-accessible sites reached through local dive operators
+- **Wreck Diving**: 1 wreck sites ranging from historic vessels to purpose-sunk artificial reefs
 - **Reef Diving**: Healthy coral reef systems supporting diverse marine ecosystems
 - **Night Diving**: After-dark diving reveals nocturnal marine species and different reef behaviors
 

@@ -7,7 +7,7 @@
     "osm_type": "node",
     "depth": 12,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "name": "Mill Channel new cleaning station",
@@ -28,7 +28,7 @@
     "osm_type": "node",
     "depth": 25,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Mill Channel old cleaning station",
@@ -43,10 +43,10 @@
     "lon": 138.1270354,
     "osm_id": 4031012954,
     "osm_type": "node",
-    "depth": null,
+    "depth": 20,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Mill Channel: Ridge",
       "scuba_diving:type:bigfish": "yes",
@@ -60,8 +60,8 @@
     "osm_id": 4031013296,
     "osm_type": "node",
     "depth": 22,
-    "site_type": "reef",
-    "entry_type": null,
+    "site_type": "wall",
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Vertigo",
@@ -79,8 +79,8 @@
     "osm_id": 4031013297,
     "osm_type": "node",
     "depth": 2,
-    "site_type": "reef",
-    "entry_type": null,
+    "site_type": "wreck",
+    "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "name": "Zero plane",

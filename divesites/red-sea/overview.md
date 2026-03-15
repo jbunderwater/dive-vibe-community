@@ -12,8 +12,8 @@ Red Sea is a premier diving destination in the Middle East region, offering 298 
 
 ### Diving Opportunities
 
-- **Shore Diving**: 271 accessible shore dive sites offering convenient, self-guided diving experiences
-- **Boat Diving**: 27 boat-accessible sites reached through local dive operators
+- **Shore Diving**: 20 accessible shore dive sites offering convenient, self-guided diving experiences
+- **Boat Diving**: 278 boat-accessible sites reached through local dive operators
 - **Wreck Diving**: 32 wreck sites ranging from historic vessels to purpose-sunk artificial reefs
 - **Reef Diving**: Healthy coral reef systems supporting diverse marine ecosystems
 - **Night Diving**: After-dark diving reveals nocturnal marine species and different reef behaviors

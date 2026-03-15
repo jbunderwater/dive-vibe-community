@@ -8,12 +8,13 @@ World-class cavern diving, historic wrecks, and exceptional Mediterranean visibi
 
 ## Description
 
-Malta and Gozo is a premier diving destination in the Europe region, offering 39 documented dive sites with depths ranging from 24 to 70 meters. Malta and Gozo is particularly known for cavern and cave diving, historic wrecks, Blue Hole. Notable sites include Blue Hole (Gozo), HMS Maori, Um El Faroud. Water temperatures average 10-25°C (50-77°F), with visibility typically reaching 10-40 meters (30-130 feet). The diving season runs May to October, with the best conditions during May to October.
+Malta and Gozo is a premier diving destination in the Europe region, offering 39 documented dive sites with depths ranging from 12 to 70 meters. Malta and Gozo is particularly known for cavern and cave diving, historic wrecks, Blue Hole. Notable sites include Blue Hole (Gozo), HMS Maori, Um El Faroud. Water temperatures average 10-25°C (50-77°F), with visibility typically reaching 10-40 meters (30-130 feet). The diving season runs May to October, with the best conditions during May to October.
 
 ### Diving Opportunities
 
-- **Shore Diving**: 39 accessible shore dive sites offering convenient, self-guided diving experiences
-- **Wreck Diving**: 8 wreck sites ranging from historic vessels to purpose-sunk artificial reefs
+- **Shore Diving**: 7 accessible shore dive sites offering convenient, self-guided diving experiences
+- **Boat Diving**: 32 boat-accessible sites reached through local dive operators
+- **Wreck Diving**: 7 wreck sites ranging from historic vessels to purpose-sunk artificial reefs
 - **Night Diving**: After-dark diving reveals nocturnal marine species and different reef behaviors
 
 ### Accessibility

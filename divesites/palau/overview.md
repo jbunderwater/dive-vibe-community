@@ -12,8 +12,8 @@ Palau is a notable diving destination in the Pacific region, offering 17 documen
 
 ### Diving Opportunities
 
-- **Shore Diving**: 15 accessible shore dive sites offering convenient, self-guided diving experiences
-- **Boat Diving**: 2 boat-accessible sites reached through local dive operators
+- **Shore Diving**: 1 accessible shore dive sites offering convenient, self-guided diving experiences
+- **Boat Diving**: 16 boat-accessible sites reached through local dive operators
 - **Wreck Diving**: 2 wreck sites ranging from historic vessels to purpose-sunk artificial reefs
 - **Reef Diving**: Healthy coral reef systems supporting diverse marine ecosystems
 - **Night Diving**: After-dark diving reveals nocturnal marine species and different reef behaviors
@@ -23,7 +23,7 @@ Palau is a notable diving destination in the Pacific region, offering 17 documen
 - **Getting There**: Palau is accessible via international and regional flights to nearby airports. Check with airlines for current routes and connections.
 - **Dive Operators**: Professional dive operators offer equipment rental, guided dives, certification courses, and boat trips to offshore sites.
 - **Accommodation**: Options range from dedicated dive resorts to budget-friendly guesthouses, with many properties located near popular dive sites.
-- **Transportation**: Rental vehicles are recommended for accessing shore dive sites independently.
+- **Transportation**: Local transportation and dive operator transfers are the primary means of reaching dive sites.
 - **Facilities**: Dive sites vary in available amenities; operator-run sites typically provide comprehensive facilities while remote sites may have limited infrastructure.
 
 ### Marine Life & Environment

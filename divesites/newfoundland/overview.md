@@ -12,7 +12,7 @@ Newfoundland is a notable diving destination in the North America region, offeri
 
 ### Diving Opportunities
 
-- **Shore Diving**: 4 accessible shore dive sites offering convenient, self-guided diving experiences
+- **Boat Diving**: 4 boat-accessible sites reached through local dive operators
 - **Wreck Diving**: 4 wreck sites ranging from historic vessels to purpose-sunk artificial reefs
 - **Night Diving**: After-dark diving reveals nocturnal marine species and different reef behaviors
 

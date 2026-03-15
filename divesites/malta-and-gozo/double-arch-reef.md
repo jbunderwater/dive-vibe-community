@@ -3,7 +3,7 @@ name: Double Arch Reef
 lat: 36.0817379
 lng: 14.2465145
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 18
 entryType: shore
 siteType: reef
 ref: null
@@ -25,7 +25,7 @@ Double Arch Reef is a dive site in Malta and Gozo offering rewarding diving on h
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: May to October
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter groupers, moray eels, octopus, barra
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 

@@ -6,7 +6,7 @@
     "lng": -52.9636225,
     "difficulty": "Advanced",
     "maxDepth": 35,
-    "entryType": "shore",
+    "entryType": "boat",
     "siteType": "wreck",
     "ref": "",
     "osmId": 6292677130
@@ -18,7 +18,7 @@
     "lng": -52.9716262,
     "difficulty": "Intermediate",
     "maxDepth": 25,
-    "entryType": "shore",
+    "entryType": "boat",
     "siteType": "wreck",
     "ref": "",
     "osmId": 9802778108
@@ -30,7 +30,7 @@
     "lng": -52.9785067,
     "difficulty": "Intermediate",
     "maxDepth": 30,
-    "entryType": "shore",
+    "entryType": "boat",
     "siteType": "wreck",
     "ref": "",
     "osmId": 9802778109
@@ -42,7 +42,7 @@
     "lng": -52.9681451,
     "difficulty": "Intermediate",
     "maxDepth": 30,
-    "entryType": "shore",
+    "entryType": "boat",
     "siteType": "wreck",
     "ref": "",
     "osmId": 9802778110

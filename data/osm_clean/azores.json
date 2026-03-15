@@ -5,10 +5,10 @@
     "lon": -29.9476204,
     "osm_id": 5875583620,
     "osm_type": "node",
-    "depth": null,
+    "depth": 35,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "name": "princess alice bank",
       "sport": "scuba_diving"

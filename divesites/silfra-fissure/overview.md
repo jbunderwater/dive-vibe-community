@@ -8,7 +8,7 @@ Dive between tectonic plates in crystal-clear glacial water with 100m+ visibilit
 
 ## Description
 
-Silfra Fissure is a notable diving destination in the Europe region, offering 1 documented dive sites with depths ranging from 25 to 25 meters. Silfra Fissure is particularly known for diving between tectonic plates, 100m+ visibility, glacial water. Notable sites include Silfra Cathedral, Silfra Hall, Silfra Lagoon. Water temperatures average 10-25°C (50-77°F), with visibility typically reaching 10-40 meters (30-130 feet). The diving season runs May to October, with the best conditions during May to October.
+Silfra Fissure is a notable diving destination in the Europe region, offering 1 documented dive sites with depths ranging from 18 to 18 meters. Silfra Fissure is particularly known for diving between tectonic plates, 100m+ visibility, glacial water. Notable sites include Silfra Cathedral, Silfra Hall, Silfra Lagoon. Water temperatures average 10-25°C (50-77°F), with visibility typically reaching 10-40 meters (30-130 feet). The diving season runs May to October, with the best conditions during May to October.
 
 ### Diving Opportunities
 

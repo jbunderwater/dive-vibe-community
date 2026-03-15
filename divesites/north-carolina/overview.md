@@ -8,11 +8,11 @@ WWII wrecks and sand tiger shark encounters in the 'Graveyard of the Atlantic'.
 
 ## Description
 
-North Carolina is a notable diving destination in the North America region, offering 7 documented dive sites with depths ranging from 25 to 25 meters. North Carolina is particularly known for WWII U-boat wrecks, sand tiger sharks, Graveyard of the Atlantic. Notable sites include U-352, Caribsea, Papoose. Water temperatures average 7-24°C (45-75°F), with visibility typically reaching 5-25 meters (15-80 feet). The diving season runs June to October, with the best conditions during June to October.
+North Carolina is a notable diving destination in the North America region, offering 7 documented dive sites with depths ranging from 20 to 20 meters. North Carolina is particularly known for WWII U-boat wrecks, sand tiger sharks, Graveyard of the Atlantic. Notable sites include U-352, Caribsea, Papoose. Water temperatures average 7-24°C (45-75°F), with visibility typically reaching 5-25 meters (15-80 feet). The diving season runs June to October, with the best conditions during June to October.
 
 ### Diving Opportunities
 
-- **Shore Diving**: 7 accessible shore dive sites offering convenient, self-guided diving experiences
+- **Boat Diving**: 7 boat-accessible sites reached through local dive operators
 - **Wreck Diving**: 7 wreck sites ranging from historic vessels to purpose-sunk artificial reefs
 - **Night Diving**: After-dark diving reveals nocturnal marine species and different reef behaviors
 
@@ -21,7 +21,7 @@ North Carolina is a notable diving destination in the North America region, offe
 - **Getting There**: North Carolina is accessible via international and regional flights to nearby airports. Check with airlines for current routes and connections.
 - **Dive Operators**: Professional dive operators offer equipment rental, guided dives, certification courses, and boat trips to offshore sites.
 - **Accommodation**: Options range from dedicated dive resorts to budget-friendly guesthouses, with many properties located near popular dive sites.
-- **Transportation**: Rental vehicles are recommended for accessing shore dive sites independently.
+- **Transportation**: Local transportation and dive operator transfers are the primary means of reaching dive sites.
 - **Facilities**: Dive sites vary in available amenities; operator-run sites typically provide comprehensive facilities while remote sites may have limited infrastructure.
 
 ### Marine Life & Environment

@@ -5,7 +5,7 @@ lng: 34.5373553
 difficulty: Advanced
 maxDepth: 100
 entryType: shore
-siteType: reef
+siteType: cave
 ref: null
 osmId: 663869869
 addedBy: osm_import
@@ -13,17 +13,17 @@ addedBy: osm_import
 
 ## Blue Hole
 
-Blue Hole is a reef dive site in Red Sea, Middle East.
+Blue Hole is a cave dive site in Red Sea, Middle East.
 
 ## Overview
 
-Blue Hole is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Blue Hole is a dive site in Red Sea featuring underwater cave and cavern formations. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
 
 ## Site Information
 
 - **Location**: Red Sea, Middle East
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Cave/Cavern
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 100 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
@@ -32,7 +32,7 @@ Blue Hole is a dive site in Red Sea offering rewarding diving on healthy coral r
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
 
 ## Dive Profile
 

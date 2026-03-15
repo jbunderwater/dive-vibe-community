@@ -8,7 +8,7 @@ Extreme Arctic diving with icebergs and unique polar marine life.
 
 ## Description
 
-Greenland is a notable diving destination in the Arctic region, offering 1 documented dive sites with depths ranging from 25 to 25 meters. Water temperatures average -1 to 8°C (30-46°F), with visibility typically reaching 10-30 meters (30-100 feet). The diving season runs June to September, with the best conditions during June to September.
+Greenland is a notable diving destination in the Arctic region, offering 1 documented dive sites with depths ranging from 18 to 18 meters. Water temperatures average -1 to 8°C (30-46°F), with visibility typically reaching 10-30 meters (30-100 feet). The diving season runs June to September, with the best conditions during June to September.
 
 ### Diving Opportunities
 

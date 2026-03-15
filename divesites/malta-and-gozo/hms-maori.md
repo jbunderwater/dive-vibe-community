@@ -2,8 +2,8 @@
 name: HMS Maori
 lat: 35.9026619
 lng: 14.5155983
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Beginner
+maxDepth: 14
 entryType: shore
 siteType: wreck
 ref: null
@@ -24,8 +24,8 @@ HMS Maori is a renowned dive site in Malta and Gozo featuring a historic wreck w
 - **Location**: Malta and Gozo, Europe
 - **Entry Type**: Shore entry
 - **Site Type**: Wreck
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 14 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: May to October
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter conger eels, lobsters, crabs, anemon
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 25 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 14 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -44,12 +44,12 @@ Enter from the shore following established entry points. Check conditions before
 
 ## Tips and Recommendations
 
+- Excellent site for newer divers — calm conditions and easy navigation
 - Bring a dive torch to illuminate wreck interiors and dark overhangs
 - Maintain proper buoyancy to avoid disturbing silt inside the wreck
 - Do not attempt penetration without proper training and equipment
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 

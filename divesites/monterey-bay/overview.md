@@ -8,11 +8,11 @@ World-famous kelp forest diving with incredible marine biodiversity.
 
 ## Description
 
-Monterey Bay is a notable diving destination in the North America region, offering 1 documented dive sites with depths ranging from 25 to 25 meters. Water temperatures average 7-24°C (45-75°F), with visibility typically reaching 5-25 meters (15-80 feet). The diving season runs June to October, with the best conditions during June to October.
+Monterey Bay is a notable diving destination in the North America region, offering 1 documented dive sites with depths ranging from 20 to 20 meters. Water temperatures average 7-24°C (45-75°F), with visibility typically reaching 5-25 meters (15-80 feet). The diving season runs June to October, with the best conditions during June to October.
 
 ### Diving Opportunities
 
-- **Shore Diving**: 1 accessible shore dive sites offering convenient, self-guided diving experiences
+- **Boat Diving**: 1 boat-accessible sites reached through local dive operators
 - **Wreck Diving**: Historic shipwrecks preserved in the region's waters
 - **Night Diving**: After-dark diving reveals nocturnal marine species and different reef behaviors
 

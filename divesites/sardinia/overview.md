@@ -12,7 +12,7 @@ Sardinia is a notable diving destination in the Europe region, offering 3 docume
 
 ### Diving Opportunities
 
-- **Shore Diving**: 3 accessible shore dive sites offering convenient, self-guided diving experiences
+- **Boat Diving**: 3 boat-accessible sites reached through local dive operators
 - **Wreck Diving**: Historic shipwrecks preserved in the region's waters
 - **Night Diving**: After-dark diving reveals nocturnal marine species and different reef behaviors
 

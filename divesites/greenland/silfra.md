@@ -3,9 +3,9 @@ name: Silfra
 lat: 64.2551903
 lng: -21.1169415
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 18
 entryType: shore
-siteType: reef
+siteType: cave
 ref: null
 osmId: 1817672135
 addedBy: osm_import
@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Silfra
 
-Silfra is a reef dive site in Greenland, Arctic.
+Silfra is a cave dive site in Greenland, Arctic.
 
 ## Overview
 
-Silfra is a dive site in Greenland offering rewarding diving on healthy coral reef structures. Located in the Arctic region, this site offers 10-30 meters of visibility with water temperatures averaging -1 to 8°C.
+Silfra is a dive site in Greenland featuring underwater cave and cavern formations. Located in the Arctic region, this site offers 10-30 meters of visibility with water temperatures averaging -1 to 8°C.
 
 ## Site Information
 
 - **Location**: Greenland, Arctic
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Cave/Cavern
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)
 - **Current**: Variable, tidal currents
 - **Best Time**: June to September
 
 ## Marine Life
 
-Divers at this site can expect to encounter seals (harbor, bearded, ringed), walruses, beluga whales, narwhals, polar cod, sea anemones, soft corals, kelp forests. Additional species commonly sighted include sea urchins, starfish, crabs.
+Divers at this site can expect to encounter seals (harbor, bearded, ringed), walruses, beluga whales, narwhals, polar cod, sea anemones, soft corals, kelp forests. Additional species commonly sighted include sea urchins, starfish, crabs. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 

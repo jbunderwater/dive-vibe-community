@@ -2,7 +2,7 @@
 name: El Fanadir Dacht
 lat: 27.2847068
 lng: 33.8317727
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 16
 entryType: shore
 siteType: reef
@@ -17,14 +17,14 @@ El Fanadir Dacht is a reef dive site in Red Sea, Middle East.
 
 ## Overview
 
-El Fanadir Dacht is a dive site in Red Sea offering excellent diving on healthy coral reef structures . mooring place for dive boats. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+El Fanadir Dacht is a dive site in Red Sea offering rewarding diving on healthy coral reef structures . mooring place for dive boats. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
 
 ## Site Information
 
 - **Location**: Red Sea, Middle East
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 16 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Moderate to strong
@@ -44,7 +44,6 @@ Enter from the shore following established entry points. Check conditions before
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
 - Respect marine life and maintain proper buoyancy to protect the reef

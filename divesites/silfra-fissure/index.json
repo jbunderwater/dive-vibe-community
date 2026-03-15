@@ -5,9 +5,9 @@
     "lat": 64.2551903,
     "lng": -21.1169415,
     "difficulty": "Intermediate",
-    "maxDepth": 25,
+    "maxDepth": 18,
     "entryType": "shore",
-    "siteType": "reef",
+    "siteType": "cave",
     "ref": "",
     "osmId": 1817672135
   }

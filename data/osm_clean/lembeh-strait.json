@@ -5,10 +5,10 @@
     "lon": 125.2409649,
     "osm_id": 2138645003,
     "osm_type": "node",
-    "depth": null,
+    "depth": 20,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "NAD Lembeh",
       "sport": "scuba_diving"

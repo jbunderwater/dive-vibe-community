@@ -6,8 +6,8 @@
     "osm_id": 1873948248,
     "osm_type": "node",
     "depth": 70,
-    "site_type": "reef",
-    "entry_type": null,
+    "site_type": "wreck",
+    "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "name": "SS President Coolidge",
@@ -24,8 +24,8 @@
     "osm_id": 1874302192,
     "osm_type": "node",
     "depth": 50,
-    "site_type": "reef",
-    "entry_type": null,
+    "site_type": "wreck",
+    "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "name": "Million Dollar Point",

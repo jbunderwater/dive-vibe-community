@@ -6,7 +6,7 @@
     "lng": 174.7348497,
     "difficulty": "Intermediate",
     "maxDepth": 25,
-    "entryType": "shore",
+    "entryType": "boat",
     "siteType": "reef",
     "ref": "",
     "osmId": 8070483247
@@ -18,7 +18,7 @@
     "lng": 174.7337301,
     "difficulty": "Intermediate",
     "maxDepth": 25,
-    "entryType": "shore",
+    "entryType": "boat",
     "siteType": "wall",
     "ref": "",
     "osmId": 8070483249

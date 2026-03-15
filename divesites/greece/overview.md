@@ -8,13 +8,12 @@ Ancient wrecks, underwater caves, and warm Mediterranean waters.
 
 ## Description
 
-Greece is a notable diving destination in the Europe region, offering 17 documented dive sites with depths ranging from 7 to 25 meters. Water temperatures average 10-25°C (50-77°F), with visibility typically reaching 10-40 meters (30-130 feet). The diving season runs May to October, with the best conditions during May to October.
+Greece is a notable diving destination in the Europe region, offering 17 documented dive sites with depths ranging from 7 to 30 meters. Water temperatures average 10-25°C (50-77°F), with visibility typically reaching 10-40 meters (30-130 feet). The diving season runs May to October, with the best conditions during May to October.
 
 ### Diving Opportunities
 
-- **Shore Diving**: 15 accessible shore dive sites offering convenient, self-guided diving experiences
-- **Boat Diving**: 2 boat-accessible sites reached through local dive operators
-- **Wreck Diving**: 2 wreck sites ranging from historic vessels to purpose-sunk artificial reefs
+- **Boat Diving**: 17 boat-accessible sites reached through local dive operators
+- **Wreck Diving**: 3 wreck sites ranging from historic vessels to purpose-sunk artificial reefs
 - **Night Diving**: After-dark diving reveals nocturnal marine species and different reef behaviors
 
 ### Accessibility
@@ -22,7 +21,7 @@ Greece is a notable diving destination in the Europe region, offering 17 documen
 - **Getting There**: Greece is accessible via international and regional flights to nearby airports. Check with airlines for current routes and connections.
 - **Dive Operators**: Professional dive operators offer equipment rental, guided dives, certification courses, and boat trips to offshore sites.
 - **Accommodation**: Options range from dedicated dive resorts to budget-friendly guesthouses, with many properties located near popular dive sites.
-- **Transportation**: Rental vehicles are recommended for accessing shore dive sites independently.
+- **Transportation**: Local transportation and dive operator transfers are the primary means of reaching dive sites.
 - **Facilities**: Dive sites vary in available amenities; operator-run sites typically provide comprehensive facilities while remote sites may have limited infrastructure.
 
 ### Marine Life & Environment

@@ -8,12 +8,12 @@ World-class wall dives, excellent visibility, and the famous Stingray City.
 
 ## Description
 
-Cayman Islands is a notable diving destination in the Caribbean region, offering 2 documented dive sites with depths ranging from 25 to 25 meters. Cayman Islands is particularly known for Stingray City, wall diving, excellent visibility. Notable sites include Stingray City, Bloody Bay Wall, USS Kittiwake. Water temperatures average 26-29°C (79-84°F), with visibility typically reaching 20-40 meters (65-130 feet). Year-round diving is possible, with the best conditions during December to April (dry season).
+Cayman Islands is a notable diving destination in the Caribbean region, offering 2 documented dive sites with depths ranging from 20 to 25 meters. Cayman Islands is particularly known for Stingray City, wall diving, excellent visibility. Notable sites include Stingray City, Bloody Bay Wall, USS Kittiwake. Water temperatures average 26-29°C (79-84°F), with visibility typically reaching 20-40 meters (65-130 feet). Year-round diving is possible, with the best conditions during December to April (dry season).
 
 ### Diving Opportunities
 
-- **Shore Diving**: 2 accessible shore dive sites offering convenient, self-guided diving experiences
-- **Wreck Diving**: 1 wreck sites ranging from historic vessels to purpose-sunk artificial reefs
+- **Boat Diving**: 2 boat-accessible sites reached through local dive operators
+- **Wreck Diving**: 2 wreck sites ranging from historic vessels to purpose-sunk artificial reefs
 - **Reef Diving**: Healthy coral reef systems supporting diverse marine ecosystems
 - **Night Diving**: After-dark diving reveals nocturnal marine species and different reef behaviors
 

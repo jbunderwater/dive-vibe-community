@@ -6,7 +6,7 @@
     "lng": 29.6091391,
     "difficulty": "Intermediate",
     "maxDepth": 25,
-    "entryType": "shore",
+    "entryType": "boat",
     "siteType": "reef",
     "ref": "",
     "osmId": 27147064
@@ -17,8 +17,8 @@
     "lat": 36.3776033,
     "lng": 28.2372284,
     "difficulty": "Intermediate",
-    "maxDepth": 25,
-    "entryType": "shore",
+    "maxDepth": 30,
+    "entryType": "boat",
     "siteType": "reef",
     "ref": "",
     "osmId": 793101120
@@ -30,7 +30,7 @@
     "lng": 28.2263974,
     "difficulty": "Intermediate",
     "maxDepth": 25,
-    "entryType": "shore",
+    "entryType": "boat",
     "siteType": "reef",
     "ref": "",
     "osmId": 793101328
@@ -42,7 +42,7 @@
     "lng": 27.0360789,
     "difficulty": "Intermediate",
     "maxDepth": 25,
-    "entryType": "shore",
+    "entryType": "boat",
     "siteType": "reef",
     "ref": "",
     "osmId": 2547460303
@@ -54,8 +54,8 @@
     "lng": 27.4325639,
     "difficulty": "Intermediate",
     "maxDepth": 25,
-    "entryType": "shore",
-    "siteType": "reef",
+    "entryType": "boat",
+    "siteType": "wreck",
     "ref": "",
     "osmId": 10973665012
   },
@@ -66,7 +66,7 @@
     "lng": 27.4129862,
     "difficulty": "Intermediate",
     "maxDepth": 25,
-    "entryType": "shore",
+    "entryType": "boat",
     "siteType": "reef",
     "ref": "",
     "osmId": 10973665013
@@ -78,7 +78,7 @@
     "lng": 27.4864435,
     "difficulty": "Intermediate",
     "maxDepth": 25,
-    "entryType": "shore",
+    "entryType": "boat",
     "siteType": "reef",
     "ref": "",
     "osmId": 10973665014
@@ -89,9 +89,9 @@
     "lat": 36.2025045,
     "lng": 28.1425738,
     "difficulty": "Intermediate",
-    "maxDepth": 25,
-    "entryType": "shore",
-    "siteType": "cave",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "reef",
     "ref": "",
     "osmId": 11212100525
   },
@@ -102,7 +102,7 @@
     "lng": 28.2169361,
     "difficulty": "Intermediate",
     "maxDepth": 25,
-    "entryType": "shore",
+    "entryType": "boat",
     "siteType": "reef",
     "ref": "",
     "osmId": 11842033099

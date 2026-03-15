@@ -5,10 +5,10 @@
     "lon": 14.534333,
     "osm_id": 663871180,
     "osm_type": "node",
-    "depth": null,
+    "depth": 20,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "historic": "wreck",
       "name": "MS Hamburg",

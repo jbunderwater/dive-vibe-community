@@ -6,8 +6,8 @@
     "lng": 167.2352421,
     "difficulty": "Advanced",
     "maxDepth": 70,
-    "entryType": "shore",
-    "siteType": "reef",
+    "entryType": "boat",
+    "siteType": "wreck",
     "ref": "",
     "osmId": 1873948248
   },
@@ -18,8 +18,8 @@
     "lng": 167.2452199,
     "difficulty": "Advanced",
     "maxDepth": 50,
-    "entryType": "shore",
-    "siteType": "reef",
+    "entryType": "boat",
+    "siteType": "wreck",
     "ref": "",
     "osmId": 1874302192
   }

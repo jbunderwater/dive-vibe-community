@@ -4,8 +4,8 @@ lat: 4.2776362
 lng: 72.9388788
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
-siteType: reef
+entryType: boat
+siteType: drift
 ref: null
 osmId: 8584208529
 addedBy: osm_import
@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Kuramathi North
 
-Kuramathi North is a reef dive site in Maldives, Asia.
+Kuramathi North is a drift dive site in Maldives, Asia.
 
 ## Overview
 
@@ -22,8 +22,8 @@ Kuramathi North is a dive site in Maldives offering rewarding diving on healthy 
 ## Site Information
 
 - **Location**: Maldives, Asia
-- **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Entry Type**: Boat dive
+- **Site Type**: Drift
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
@@ -40,10 +40,11 @@ The site offers diving at depths ranging from shallow reef areas down to approxi
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
+- Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
 - Respect marine life and maintain proper buoyancy to protect the reef

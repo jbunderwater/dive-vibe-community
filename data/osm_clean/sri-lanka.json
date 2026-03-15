@@ -5,10 +5,10 @@
     "lon": 81.2190131,
     "osm_id": 2896874870,
     "osm_type": "node",
-    "depth": null,
+    "depth": 20,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Scuba Lanka",
       "sport": "scuba_diving"
@@ -22,7 +22,7 @@
     "osm_type": "node",
     "depth": 5,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "depth": "0.5-5",
@@ -39,10 +39,10 @@
     "lon": 80.2499319,
     "osm_id": 4744764604,
     "osm_type": "node",
-    "depth": null,
+    "depth": 20,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "amenity": "dive_centre",
       "name": "sea horse",

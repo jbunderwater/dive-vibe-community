@@ -5,10 +5,10 @@
     "lon": 39.3918874,
     "osm_id": 10209111349,
     "osm_type": "node",
-    "depth": null,
+    "depth": 20,
     "site_type": "wall",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Little Wall",
       "sport": "scuba_diving"
@@ -20,10 +20,10 @@
     "lon": 39.4182592,
     "osm_id": 10209140310,
     "osm_type": "node",
-    "depth": null,
+    "depth": 20,
     "site_type": "wall",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Big Wall",
       "sport": "scuba_diving"
@@ -35,10 +35,10 @@
     "lon": 39.2902305,
     "osm_id": 10790374777,
     "osm_type": "node",
-    "depth": null,
+    "depth": 20,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Captain Muddy",
       "sport": "scuba_diving"
@@ -50,10 +50,10 @@
     "lon": 39.2926562,
     "osm_id": 10790374783,
     "osm_type": "node",
-    "depth": null,
+    "depth": 20,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "THGI Nungwi",
       "sport": "scuba_diving"

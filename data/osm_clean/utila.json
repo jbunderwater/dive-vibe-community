@@ -5,10 +5,10 @@
     "lon": -86.9490156,
     "osm_id": 820354025,
     "osm_type": "node",
-    "depth": null,
+    "depth": 20,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "The Maze",
       "source": "survey",

@@ -4,7 +4,7 @@ lat: -18.0657234
 lng: -140.974016
 difficulty: Beginner
 maxDepth: 17
-entryType: shore
+entryType: boat
 siteType: wreck
 ref: null
 osmId: 10164697267
@@ -22,7 +22,7 @@ Mairie II is a dive site in French Polynesia featuring the wreck of the Mairie I
 ## Site Information
 
 - **Location**: French Polynesia, Pacific
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Wreck
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 17 meters
@@ -40,7 +40,7 @@ The dive typically begins with a descent to the top of the wreck structure. Plan
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
@@ -48,8 +48,8 @@ Enter from the shore following established entry points. Check conditions before
 - Bring a dive torch to illuminate wreck interiors and dark overhangs
 - Maintain proper buoyancy to avoid disturbing silt inside the wreck
 - Do not attempt penetration without proper training and equipment
+- Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
 
 ## Safety Considerations
 

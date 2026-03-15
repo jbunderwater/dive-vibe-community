@@ -8,11 +8,11 @@ Arctic diving with cold-water reefs, historic wrecks, and seasonal orca encounte
 
 ## Description
 
-Norway Lofoten Islands is a notable diving destination in the Europe region, offering 1 documented dive sites with depths ranging from 25 to 25 meters. Water temperatures average 10-25°C (50-77°F), with visibility typically reaching 10-40 meters (30-130 feet). The diving season runs May to October, with the best conditions during May to October.
+Norway Lofoten Islands is a notable diving destination in the Europe region, offering 1 documented dive sites with depths ranging from 20 to 20 meters. Water temperatures average 10-25°C (50-77°F), with visibility typically reaching 10-40 meters (30-130 feet). The diving season runs May to October, with the best conditions during May to October.
 
 ### Diving Opportunities
 
-- **Shore Diving**: 1 accessible shore dive sites offering convenient, self-guided diving experiences
+- **Boat Diving**: 1 boat-accessible sites reached through local dive operators
 - **Wreck Diving**: 1 wreck sites ranging from historic vessels to purpose-sunk artificial reefs
 - **Night Diving**: After-dark diving reveals nocturnal marine species and different reef behaviors
 

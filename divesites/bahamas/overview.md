@@ -8,11 +8,11 @@ Crystal clear waters with blue holes, sharks, and pristine coral reefs including
 
 ## Description
 
-Bahamas is a notable diving destination in the Caribbean region, offering 2 documented dive sites with depths ranging from 25 to 25 meters. Bahamas is particularly known for blue holes, shark dives at Tiger Beach, shallow reef systems. Notable sites include Dean's Blue Hole, Tiger Beach, Thunderball Grotto. Water temperatures average 26-29°C (79-84°F), with visibility typically reaching 20-40 meters (65-130 feet). Year-round diving is possible, with the best conditions during December to April (dry season).
+Bahamas is a notable diving destination in the Caribbean region, offering 2 documented dive sites with depths ranging from 20 to 20 meters. Bahamas is particularly known for blue holes, shark dives at Tiger Beach, shallow reef systems. Notable sites include Dean's Blue Hole, Tiger Beach, Thunderball Grotto. Water temperatures average 26-29°C (79-84°F), with visibility typically reaching 20-40 meters (65-130 feet). Year-round diving is possible, with the best conditions during December to April (dry season).
 
 ### Diving Opportunities
 
-- **Shore Diving**: 2 accessible shore dive sites offering convenient, self-guided diving experiences
+- **Boat Diving**: 2 boat-accessible sites reached through local dive operators
 - **Wreck Diving**: 2 wreck sites ranging from historic vessels to purpose-sunk artificial reefs
 - **Reef Diving**: Healthy coral reef systems supporting diverse marine ecosystems
 - **Night Diving**: After-dark diving reveals nocturnal marine species and different reef behaviors
