@@ -1,0 +1,205 @@
+[
+  {
+    "name": "S.S. Inchulva / Delray Wreck (Wrack)",
+    "lat": 26.453632,
+    "lon": -80.056344,
+    "osm_id": 663869458,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "description": "The old shipwreck know as the Delray Wreck rests at the bottom of the ocean in 25 feet of water about 150 yards offshore the south end of Delray’s municipal beach.",
+      "historic": "wreck",
+      "name": "S.S. Inchulva / Delray Wreck (Wrack)",
+      "seamark:type": "wreck",
+      "source": "osm_extended",
+      "sport": "scuba_diving",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Julia Tuttle Causeway Artifical Reef",
+    "lat": 25.811326,
+    "lon": -80.1719249,
+    "osm_id": 9206478762,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Julia Tuttle Causeway Artifical Reef",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Lofthus",
+    "lat": 26.562778,
+    "lon": -80.038333,
+    "osm_id": 12601944496,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "access": "yes",
+      "alt_name": "Cashmere",
+      "heritage": "2",
+      "heritage:operator": "nrhp",
+      "heritage:ref": "03001363",
+      "historic": "wreck",
+      "name": "Lofthus",
+      "nrhp:criteria": "(D)",
+      "nrhp:inscription_date": "2004-01-06",
+      "ref:nrhp": "03001363",
+      "seamark:type": "wreck",
+      "seamark:wreck:category": "distributed_remains",
+      "sport": "scuba_diving",
+      "wikidata": "Q6666695",
+      "wikipedia": "en:Lofthus (shipwreck)",
+      "wreck:date_sunk": "1898-02-04",
+      "wreck:type": "ship",
+      "wreck:visible_at_high_tide": "no",
+      "wreck:visible_at_low_tide": "no",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "SS Copenhagen Shipwreck",
+    "lat": 26.2059282,
+    "lon": -80.0838659,
+    "osm_id": 13430788646,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "description": "SS Copenhagen is a shipwreck off the town of Lauderdale-by-the-Sea, Florida, United States. She was a cargo steamship, built in England in 1898. She was wrecked on a reef south of Hillsboro Inlet in 1900.",
+      "historic": "wreck",
+      "name": "SS Copenhagen Shipwreck",
+      "scuba_diving:divespot": "yes",
+      "seamark:type": "wreck",
+      "sport": "scuba_diving",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Anglin’s Pier Reef",
+    "lat": 26.1869951,
+    "lon": -80.0932907,
+    "osm_id": 1464171000,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "description": "Lauderdale-by-the-Sea is nicknamed the “Shore Dive Capital of South Florida” for a reason: its living coral reefs are a mere 100–400 feet from the beach, making it one of the easiest and most accessible dive spots in the world.",
+      "name": "Anglin’s Pier Reef",
+      "natural": "reef",
+      "scuba_diving:divespot": "yes",
+      "sport": "scuba_diving",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Blue Heron Bridge",
+    "lat": 26.7768,
+    "lon": -80.0426,
+    "depth": 6,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Breakers Reef",
+    "lat": 26.725,
+    "lon": -80.025,
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Tenneco Towers",
+    "lat": 26.1167,
+    "lon": -80.0633,
+    "depth": 25,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Haulover Ledge",
+    "lat": 25.9033,
+    "lon": -80.1,
+    "depth": 22,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Neptune Memorial Reef",
+    "lat": 25.6917,
+    "lon": -80.0983,
+    "depth": 12,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Deerfield Beach Artificial Reef",
+    "lat": 26.3167,
+    "lon": -80.0583,
+    "depth": 20,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Lauderdale-by-the-Sea Beach",
+    "lat": 26.1917,
+    "lon": -80.0917,
+    "depth": 5,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  }
+]

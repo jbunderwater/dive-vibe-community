@@ -1,0 +1,53 @@
+[
+  {
+    "name": "East Flower Garden Bank",
+    "lat": 27.9285288,
+    "lon": -93.6071848,
+    "osm_id": 6013525235,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "East Flower Garden Bank",
+      "natural": "reef",
+      "seamark:name": "East Flower Garden Bank",
+      "seamark:type": "seabed_area"
+    }
+  },
+  {
+    "name": "West Flower Garden Bank",
+    "lat": 27.8681933,
+    "lon": -93.8240273,
+    "osm_id": 6013570427,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "West Flower Garden Bank",
+      "natural": "reef",
+      "seamark:name": "West Flower Garden Bank",
+      "seamark:type": "seabed_area"
+    }
+  },
+  {
+    "name": "Stetson Bank",
+    "lat": 28.163431,
+    "lon": -94.2990745,
+    "osm_id": 6014024399,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Stetson Bank",
+      "natural": "reef",
+      "seamark:name": "Stetson Bank",
+      "seamark:type": "seabed_area"
+    }
+  }
+]

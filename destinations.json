@@ -2418,5 +2418,269 @@
     "description": "Diamond Rock's dramatic pinnacle dive, historic St. Pierre wrecks from the 1902 eruption, and French Caribbean coral gardens.",
     "overviewFile": "overview.md",
     "countryCode": "MQ"
+  },
+  {
+    "name": "Hawaii - Maui",
+    "slug": "hawaii-maui",
+    "region": "Pacific",
+    "center": [
+      20.8,
+      -156.3
+    ],
+    "bounds": [
+      [
+        20.5,
+        -156.7
+      ],
+      [
+        21.05,
+        -155.95
+      ]
+    ],
+    "description": "World-famous for the Molokini Crater, Maui offers exceptional diving with manta rays, green sea turtles, and seasonal humpback whale encounters in crystal-clear Hawaiian waters.",
+    "overviewFile": "overview.md",
+    "countryCode": "US"
+  },
+  {
+    "name": "Hawaii - Oahu",
+    "slug": "hawaii-oahu",
+    "region": "Pacific",
+    "center": [
+      21.47,
+      -158.0
+    ],
+    "bounds": [
+      [
+        21.25,
+        -158.3
+      ],
+      [
+        21.72,
+        -157.65
+      ]
+    ],
+    "description": "Oahu delivers diverse diving from shipwrecks and reef systems to shark dives and turtle cleaning stations, with easy access from Honolulu and the North Shore.",
+    "overviewFile": "overview.md",
+    "countryCode": "US"
+  },
+  {
+    "name": "Hawaii - Kauai",
+    "slug": "hawaii-kauai",
+    "region": "Pacific",
+    "center": [
+      22.05,
+      -159.5
+    ],
+    "bounds": [
+      [
+        21.85,
+        -159.8
+      ],
+      [
+        22.25,
+        -159.28
+      ]
+    ],
+    "description": "The Garden Isle features dramatic lava tube formations, pristine reefs along the Na Pali Coast, and encounters with Hawaiian monk seals and spinner dolphins.",
+    "overviewFile": "overview.md",
+    "countryCode": "US"
+  },
+  {
+    "name": "San Diego - La Jolla",
+    "slug": "san-diego-la-jolla",
+    "region": "North America",
+    "center": [
+      32.85,
+      -117.28
+    ],
+    "bounds": [
+      [
+        32.6,
+        -117.5
+      ],
+      [
+        33.1,
+        -117.1
+      ]
+    ],
+    "description": "Southern California kelp forest diving at its best, featuring La Jolla Cove, Wreck Alley, and abundant marine life including leopard sharks, bat rays, and giant sea bass.",
+    "overviewFile": "overview.md",
+    "countryCode": "US"
+  },
+  {
+    "name": "Puget Sound",
+    "slug": "puget-sound",
+    "region": "North America",
+    "center": [
+      47.8,
+      -122.5
+    ],
+    "bounds": [
+      [
+        47.0,
+        -123.2
+      ],
+      [
+        48.8,
+        -122.0
+      ]
+    ],
+    "description": "Cold-water diving paradise in the Pacific Northwest with giant Pacific octopus, wolf eels, six-gill sharks, and colorful anemone gardens in nutrient-rich emerald waters.",
+    "overviewFile": "overview.md",
+    "countryCode": "US"
+  },
+  {
+    "name": "New England",
+    "slug": "new-england",
+    "region": "North America",
+    "center": [
+      41.5,
+      -70.5
+    ],
+    "bounds": [
+      [
+        40.5,
+        -72.0
+      ],
+      [
+        43.0,
+        -69.5
+      ]
+    ],
+    "description": "Historic wreck diving along the Massachusetts, Rhode Island, and Connecticut coasts, with lobster-filled boulder fields, seal encounters, and remnants of centuries of maritime history.",
+    "overviewFile": "overview.md",
+    "countryCode": "US"
+  },
+  {
+    "name": "New Jersey Shore",
+    "slug": "new-jersey",
+    "region": "North America",
+    "center": [
+      39.7,
+      -73.5
+    ],
+    "bounds": [
+      [
+        38.9,
+        -74.5
+      ],
+      [
+        40.5,
+        -73.0
+      ]
+    ],
+    "description": "The Wreck Capital of the Atlantic Coast, featuring hundreds of sunken vessels from WWII U-boat victims to modern artificial reefs, with sand tiger sharks and large pelagics.",
+    "overviewFile": "overview.md",
+    "countryCode": "US"
+  },
+  {
+    "name": "South Florida",
+    "slug": "south-florida",
+    "region": "North America",
+    "center": [
+      26.1,
+      -80.1
+    ],
+    "bounds": [
+      [
+        25.5,
+        -80.5
+      ],
+      [
+        26.7,
+        -79.9
+      ]
+    ],
+    "description": "Year-round warm-water diving from Palm Beach to Miami with drift dives along the Gulf Stream, extensive artificial reef programs, and the Blue Heron Bridge macro paradise.",
+    "overviewFile": "overview.md",
+    "countryCode": "US"
+  },
+  {
+    "name": "Flower Garden Banks",
+    "slug": "flower-garden-banks",
+    "region": "North America",
+    "center": [
+      27.9,
+      -93.8
+    ],
+    "bounds": [
+      [
+        27.5,
+        -94.5
+      ],
+      [
+        28.3,
+        -93.0
+      ]
+    ],
+    "description": "The northernmost coral reefs in the continental US, sitting atop salt domes 100 miles offshore Texas in the Gulf of Mexico, with massive coral heads, manta rays, and whale sharks.",
+    "overviewFile": "overview.md",
+    "countryCode": "US"
+  },
+  {
+    "name": "Alaska",
+    "slug": "alaska",
+    "region": "North America",
+    "center": [
+      58.3,
+      -134.4
+    ],
+    "bounds": [
+      [
+        54.0,
+        -170.0
+      ],
+      [
+        63.0,
+        -130.0
+      ]
+    ],
+    "description": "Extreme cold-water diving in pristine wilderness waters with giant Pacific octopus, king crab, sea otters, Steller sea lions, and orca encounters amid dramatic underwater topography.",
+    "overviewFile": "overview.md",
+    "countryCode": "US"
+  },
+  {
+    "name": "British Columbia",
+    "slug": "british-columbia",
+    "region": "North America",
+    "center": [
+      49.3,
+      -123.2
+    ],
+    "bounds": [
+      [
+        48.3,
+        -126.0
+      ],
+      [
+        52.0,
+        -122.0
+      ]
+    ],
+    "description": "Jacques Cousteau called BC waters the best temperate diving in the world. Features giant Pacific octopus, wolf eels, cloud sponge gardens, and the HMCS Saskatchewan artificial reef.",
+    "overviewFile": "overview.md",
+    "countryCode": "CA"
+  },
+  {
+    "name": "Nova Scotia",
+    "slug": "nova-scotia",
+    "region": "North America",
+    "center": [
+      44.6,
+      -63.5
+    ],
+    "bounds": [
+      [
+        43.3,
+        -66.5
+      ],
+      [
+        47.0,
+        -59.5
+      ]
+    ],
+    "description": "Cold Atlantic waters rich in maritime history, with WWII convoy wrecks, the Halifax Explosion aftermath, seal colonies, and the nutrient-rich Bay of Fundy with its extreme tides.",
+    "overviewFile": "overview.md",
+    "countryCode": "CA"
   }
 ]

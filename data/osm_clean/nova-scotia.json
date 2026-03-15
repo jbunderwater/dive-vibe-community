@@ -1,0 +1,961 @@
+[
+  {
+    "name": "Metahead Bank",
+    "lat": 44.4760765,
+    "lon": -63.5444633,
+    "osm_id": 979895836,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Metahead Bank",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Basque Reef",
+    "lat": 45.5762383,
+    "lon": -60.6431735,
+    "osm_id": 1238036783,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Basque Reef",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Margarets Reef",
+    "lat": 46.0218906,
+    "lon": -61.561959,
+    "osm_id": 1324060222,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Margarets Reef",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Cape Wolfe Rock",
+    "lat": 46.7183789,
+    "lon": -64.4042121,
+    "osm_id": 1806822691,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Cape Wolfe Rock",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Little Rock",
+    "lat": 46.5034654,
+    "lon": -63.7619732,
+    "osm_id": 1918094018,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Little Rock",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Jerrys Rock",
+    "lat": 46.5628042,
+    "lon": -63.7076866,
+    "osm_id": 1918106823,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Jerrys Rock",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Picard Reef",
+    "lat": 45.5036793,
+    "lon": -61.0908317,
+    "osm_id": 1987403889,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Picard Reef",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Boughton Ledge",
+    "lat": 46.1865042,
+    "lon": -62.3905482,
+    "osm_id": 2186380554,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Boughton Ledge",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Long Bar",
+    "lat": 45.587964,
+    "lon": -60.9094897,
+    "osm_id": 2331034871,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Long Bar",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Bald Reef",
+    "lat": 45.3510655,
+    "lon": -60.9858059,
+    "osm_id": 2331209917,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Bald Reef",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Crow Reef",
+    "lat": 45.3379801,
+    "lon": -60.940513,
+    "osm_id": 2331209949,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Crow Reef",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "The Reef",
+    "lat": 45.3431321,
+    "lon": -60.9288023,
+    "osm_id": 2331210871,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "The Reef",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Bald Rock Reef",
+    "lat": 45.2366888,
+    "lon": -61.0427681,
+    "osm_id": 2362575134,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Bald Rock Reef",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Lucas Ledge",
+    "lat": 45.0977609,
+    "lon": -61.7215885,
+    "osm_id": 2435962842,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Lucas Ledge",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Weavers Ledge",
+    "lat": 45.0990322,
+    "lon": -61.7259758,
+    "osm_id": 2435962865,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Weavers Ledge",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Shag Reef",
+    "lat": 45.0505198,
+    "lon": -61.8918876,
+    "osm_id": 2436118672,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Shag Reef",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Steering Reef",
+    "lat": 45.021897,
+    "lon": -61.8884702,
+    "osm_id": 2436118689,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Steering Reef",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Warrior Reef",
+    "lat": 45.6462461,
+    "lon": -62.4586316,
+    "osm_id": 2440833010,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Warrior Reef",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "McAulays Reef",
+    "lat": 45.7881646,
+    "lon": -62.9733273,
+    "osm_id": 2475922780,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "McAulays Reef",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Caribou Reef",
+    "lat": 45.7657721,
+    "lon": -62.6793068,
+    "osm_id": 2475956861,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Caribou Reef",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "East End Reef",
+    "lat": 45.8266765,
+    "lon": -62.5037377,
+    "osm_id": 2475956865,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "East End Reef",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Jollimore Reef",
+    "lat": 45.7693262,
+    "lon": -63.2135764,
+    "osm_id": 2482676955,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Jollimore Reef",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Rocky Ledge",
+    "lat": 45.8611332,
+    "lon": -63.705258,
+    "osm_id": 2487301907,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Rocky Ledge",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Pugwash Reef",
+    "lat": 45.8786444,
+    "lon": -63.6776675,
+    "osm_id": 2487326125,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Pugwash Reef",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Schooner Gertrude de Costa (1950)",
+    "lat": 44.623752,
+    "lon": -63.543703,
+    "osm_id": 5896532310,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "wreck",
+      "name": "Schooner Gertrude de Costa (1950)",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Schooner Reaper (1899)",
+    "lat": 44.6253783,
+    "lon": -63.542655,
+    "osm_id": 5896532311,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "wreck",
+      "name": "Schooner Reaper (1899)",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "CN Barges (3), c. 1941",
+    "lat": 44.6239281,
+    "lon": -63.5393365,
+    "osm_id": 5896532312,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "wreck",
+      "name": "CN Barges (3), c. 1941",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "British tanker Kars (1942)",
+    "lat": 44.6262796,
+    "lon": -63.5356978,
+    "osm_id": 5896532314,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "wreck",
+      "name": "British tanker Kars (1942)",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Sea Fury fighter bomber plane (1952)",
+    "lat": 44.6218964,
+    "lon": -63.5226571,
+    "osm_id": 5896532319,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "wreck",
+      "name": "Sea Fury fighter bomber plane (1952)",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Hudson bomber plane (1944)",
+    "lat": 44.6232845,
+    "lon": -63.5260193,
+    "osm_id": 5896532320,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "wreck",
+      "name": "Hudson bomber plane (1944)",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "American (Virginia) brig, name unknown (1824)",
+    "lat": 44.6057437,
+    "lon": -63.5277222,
+    "osm_id": 5896570166,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "wreck",
+      "name": "American (Virginia) brig, name unknown (1824)",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Norwegian barque Tordenskjold (1879)",
+    "lat": 44.6052878,
+    "lon": -63.5288138,
+    "osm_id": 5896570167,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "wreck",
+      "name": "Norwegian barque Tordenskjold (1879)",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Royal Canadian Navy gate vessel HMCS Ypres (1940)",
+    "lat": 44.6048007,
+    "lon": -63.5299199,
+    "osm_id": 5896570168,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "wreck",
+      "name": "Royal Canadian Navy gate vessel HMCS Ypres (1940)",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Dominion Coal Company barges Freeman (date unknown) and Lucia P. Dow (1957)",
+    "lat": 44.6045683,
+    "lon": -63.5124523,
+    "osm_id": 5896570181,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "wreck",
+      "name": "Dominion Coal Company barges Freeman (date unknown) and Lucia P. Dow (1957)",
+      "seamark:type": "wreck",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Wellesly Rock",
+    "lat": 44.7112073,
+    "lon": -63.6571353,
+    "osm_id": 12042303789,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Wellesly Rock",
+      "natural": "reef",
+      "seamark:rock:water_level": "submerged",
+      "seamark:type": "rock",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Lone Rock",
+    "lat": 44.478532,
+    "lon": -64.302938,
+    "osm_id": 12119091913,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Lone Rock",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Marco Polo",
+    "lat": 46.5072299,
+    "lon": -63.4217238,
+    "osm_id": 13041531189,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "wreck",
+      "name": "Marco Polo",
+      "seamark:type": "wreck",
+      "seamark:wreck:category": "distributed_remains",
+      "wikidata": "Q3290148",
+      "wikipedia": "en:Marco Polo (1851 ship)",
+      "wreck:date_sunk": "1883-07-22",
+      "wreck:visible_at_high_tide": "no",
+      "wreck:visible_at_low_tide": "no",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Big Ledge",
+    "lat": 44.4908382,
+    "lon": -64.0287244,
+    "osm_id": 70650913,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Big Ledge",
+      "natural": "reef",
+      "place": "locality",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Little Ledge",
+    "lat": 44.4864964,
+    "lon": -64.0323838,
+    "osm_id": 70650915,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Little Ledge",
+      "natural": "reef",
+      "place": "locality",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Inchcape Rock",
+    "lat": 44.447716,
+    "lon": -64.365894,
+    "osm_id": 75119025,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "description": "Below MHWM. Exposed at low tide. Unmarked.",
+      "name": "Inchcape Rock",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Gull Ledge",
+    "lat": 44.4377448,
+    "lon": -64.2699923,
+    "osm_id": 75601094,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Gull Ledge",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Whales Back",
+    "lat": 43.3981022,
+    "lon": -66.004475,
+    "osm_id": 98856905,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Whales Back",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Mathesons Rock",
+    "lat": 45.6244299,
+    "lon": -60.5161735,
+    "osm_id": 107776174,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "area": "yes",
+      "name": "Mathesons Rock",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Beaver Tail",
+    "lat": 44.8258192,
+    "lon": -62.3383908,
+    "osm_id": 170988094,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "area": "yes",
+      "name": "Beaver Tail",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Round Reef",
+    "lat": 45.2589451,
+    "lon": -66.0524449,
+    "osm_id": 202502814,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Round Reef",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Fox Point Beach",
+    "lat": 44.5978829,
+    "lon": -64.0620955,
+    "osm_id": 349599178,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "access": "yes",
+      "name": "Fox Point Beach",
+      "natural": "beach",
+      "sport": "scuba_diving",
+      "surface": "sand",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Ovens Reef",
+    "lat": 44.3149553,
+    "lon": -64.2524112,
+    "osm_id": 444426689,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Ovens Reef",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Western Reef",
+    "lat": 44.5773121,
+    "lon": -63.4990782,
+    "osm_id": 1299909406,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Western Reef",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Chicken Rocks",
+    "lat": 44.7150001,
+    "lon": -63.6611575,
+    "osm_id": 1300086121,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Chicken Rocks",
+      "natural": "reef",
+      "seamark:type": "rock",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Young Ledge",
+    "lat": 44.4722313,
+    "lon": -64.2637543,
+    "osm_id": 1308671858,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Young Ledge",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Southwest Ledge",
+    "lat": 44.4329163,
+    "lon": -64.2726875,
+    "osm_id": 1308671859,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Southwest Ledge",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "USS LSM-56",
+    "lat": 45.1931099,
+    "lon": -66.2717246,
+    "osm_id": 1389695455,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "building": "abandoned",
+      "historic": "wreck",
+      "name": "USS LSM-56",
+      "seamark:type": "wreck",
+      "seamark:wreck:category": "hull_showing",
+      "wikidata": "Q110326414",
+      "wikipedia": "en:USS LSM-56",
+      "wreck:date_sunk": "1960",
+      "wreck:visible_at_high_tide": "yes",
+      "wreck:visible_at_low_tide": "yes",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "LSM-[??]",
+    "lat": 45.191363,
+    "lon": -66.2664465,
+    "osm_id": 1389695462,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "wreck",
+      "name": "LSM-[??]",
+      "seamark:type": "wreck",
+      "wikidata": "Q325884",
+      "wikipedia": "en:Landing Ship Medium",
+      "wreck:date_sunk": "1960",
+      "wreck:visible_at_low_tide": "yes",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "MV Fosdyke Trader",
+    "lat": 43.4084565,
+    "lon": -66.0117372,
+    "osm_id": 20319687,
+    "osm_type": "relation",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "alt_name": "MV Fermont",
+      "building": "service",
+      "historic": "wreck",
+      "name": "MV Fosdyke Trader",
+      "seamark:type": "wreck",
+      "seamark:wreck:category": "hull_showing",
+      "type": "multipolygon",
+      "wikidata": "Q16224183",
+      "wikipedia": "en:MV Fosdyke Trader",
+      "wreck:date_sunk": "1991-11-17",
+      "wreck:visible_at_low_tide": "yes",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  }
+]

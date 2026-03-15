@@ -1,0 +1,517 @@
+[
+  {
+    "name": "Hastings Reef",
+    "lat": 54.062115,
+    "lon": -132.5486784,
+    "osm_id": 3006129460,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Hastings Reef",
+      "natural": "reef",
+      "source": "NRCan-CanVec-10.0"
+    }
+  },
+  {
+    "name": "Haswell Reef",
+    "lat": 54.0467772,
+    "lon": -132.5622524,
+    "osm_id": 3006129461,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Haswell Reef",
+      "natural": "reef",
+      "source": "NRCan-CanVec-10.0"
+    }
+  },
+  {
+    "name": "Observatory Rock",
+    "lat": 54.0054873,
+    "lon": -132.5810912,
+    "osm_id": 3006129467,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Observatory Rock",
+      "natural": "reef",
+      "source": "NRCan-CanVec-10.0"
+    }
+  },
+  {
+    "name": "Wimble Rocks",
+    "lat": 54.0252178,
+    "lon": -132.1867517,
+    "osm_id": 3018633510,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Wimble Rocks",
+      "natural": "reef",
+      "source": "NRCan-CanVec-10.0"
+    }
+  },
+  {
+    "name": "Alert Rock",
+    "lat": 54.1849827,
+    "lon": -132.9762767,
+    "osm_id": 3024829333,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Alert Rock",
+      "natural": "reef",
+      "source": "NRCan-CanVec-10.0"
+    }
+  },
+  {
+    "name": "Chanal Reef",
+    "lat": 54.1883173,
+    "lon": -133.0304704,
+    "osm_id": 3024829339,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Chanal Reef",
+      "natural": "reef",
+      "source": "NRCan-CanVec-10.0"
+    }
+  },
+  {
+    "name": "Marchand Reef",
+    "lat": 54.1797401,
+    "lon": -133.0197148,
+    "osm_id": 3024829363,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Marchand Reef",
+      "natural": "reef",
+      "source": "NRCan-CanVec-10.0"
+    }
+  },
+  {
+    "name": "Testlatlints Rock",
+    "lat": 54.1887083,
+    "lon": -132.9960287,
+    "osm_id": 3024829829,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Testlatlints Rock",
+      "natural": "reef",
+      "source": "NRCan-CanVec-10.0"
+    }
+  },
+  {
+    "name": "MV Vashon",
+    "lat": 54.9766101,
+    "lon": -132.1090888,
+    "osm_id": 4689742558,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "access": "yes",
+      "historic": "wreck",
+      "is_in": "Pacific Ocean",
+      "name": "MV Vashon",
+      "seamark:type": "wreck",
+      "wreck:cargo": "human",
+      "wreck:date_sunk": "1986-06"
+    }
+  },
+  {
+    "name": "Table Rock",
+    "lat": 55.0213177,
+    "lon": -162.2381493,
+    "osm_id": 5315845245,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "description": "\"Descriptive name given by USC&GS in 1927 on Chart 8703.\"  Dictionary of Alaska Place Names, Orth, 1971.",
+      "name": "Table Rock",
+      "natural": "reef"
+    }
+  },
+  {
+    "name": "Client Reefs",
+    "lat": 54.1064017,
+    "lon": -130.3189445,
+    "osm_id": 5704027532,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Client Reefs",
+      "natural": "reef"
+    }
+  },
+  {
+    "name": "Escape Reefs",
+    "lat": 54.4658333,
+    "lon": -130.4747222,
+    "osm_id": 5707922325,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Escape Reefs",
+      "natural": "reef"
+    }
+  },
+  {
+    "name": "Kipcke Rock",
+    "lat": 54.2508055,
+    "lon": -130.9175572,
+    "osm_id": 5707922374,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Kipcke Rock",
+      "natural": "reef"
+    }
+  },
+  {
+    "name": "Gatenby Rock",
+    "lat": 54.1236667,
+    "lon": -133.14205,
+    "osm_id": 5729239763,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Gatenby Rock",
+      "natural": "reef"
+    }
+  },
+  {
+    "name": "Harvey Rock",
+    "lat": 54.2076167,
+    "lon": -133.0368333,
+    "osm_id": 5729282195,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Harvey Rock",
+      "natural": "reef"
+    }
+  },
+  {
+    "name": "Douglas Rock",
+    "lat": 54.1716167,
+    "lon": -132.9524,
+    "osm_id": 5729282196,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Douglas Rock",
+      "natural": "reef"
+    }
+  },
+  {
+    "name": "Boat Graveyard",
+    "lat": 56.2535381,
+    "lon": -134.6504016,
+    "osm_id": 10312458191,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "wreck",
+      "name": "Boat Graveyard",
+      "seamark:type": "wreck"
+    }
+  },
+  {
+    "name": "Grebe",
+    "lat": 60.542068,
+    "lon": -145.7611338,
+    "osm_id": 13016036474,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "wreck",
+      "name": "Grebe",
+      "seamark:type": "wreck",
+      "wreck:visible_at_high_tide": "yes",
+      "wreck:visible_at_low_tide": "yes"
+    }
+  },
+  {
+    "name": "Polar Bear",
+    "lat": 60.5625654,
+    "lon": -145.8054132,
+    "osm_id": 13016036475,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "wreck",
+      "name": "Polar Bear",
+      "seamark:type": "wreck",
+      "wreck:visible_at_high_tide": "yes",
+      "wreck:visible_at_low_tide": "yes"
+    }
+  },
+  {
+    "name": "Bligh Reef",
+    "lat": 60.844151,
+    "lon": -146.8777986,
+    "osm_id": 452633840,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Bligh Reef",
+      "natural": "reef",
+      "note": "Location of the 1989 Exxon-Valdez oil spill.",
+      "wikidata": "Q2906582",
+      "wikipedia": "en:Bligh Reef"
+    }
+  },
+  {
+    "name": "MV Leschi",
+    "lat": 60.7951304,
+    "lon": -148.5326992,
+    "osm_id": 477220058,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "access": "yes",
+      "designation": "Shipwreck",
+      "historic": "wreck",
+      "name": "MV Leschi",
+      "seamark:type": "wreck",
+      "seamark:wreck:category": "hull_showing",
+      "wikidata": "Q6530304",
+      "wikimedia_commons": "Ferry LESCHI on Lake Washington, Washington, ca 1915 (WASTATE 1824).jpeg",
+      "wikipedia": "en:Leschi (steam ferry)",
+      "wreck:cargo": "human",
+      "wreck:date_sunk": "1978",
+      "wreck:visible_at_low_tide": "yes"
+    }
+  },
+  {
+    "name": "La Perouse Reef",
+    "lat": 54.0128818,
+    "lon": -133.176924,
+    "osm_id": 603529133,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "La Perouse Reef",
+      "natural": "reef",
+      "source": "Bing Sat"
+    }
+  },
+  {
+    "name": "USS Coldbrook",
+    "lat": 59.4271357,
+    "lon": -146.3573015,
+    "osm_id": 665637588,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "wreck",
+      "name": "USS Coldbrook",
+      "seamark:type": "wreck",
+      "wreck:visible_at_high_tide": "yes",
+      "wreck:visible_at_low_tide": "yes"
+    }
+  },
+  {
+    "name": "Pleasant Island Reef",
+    "lat": 58.3103895,
+    "lon": -135.6570769,
+    "osm_id": 679432092,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Pleasant Island Reef",
+      "natural": "reef",
+      "source:position": "USGS Topo"
+    }
+  },
+  {
+    "name": "Cohen Reef",
+    "lat": 58.431229,
+    "lon": -134.8045421,
+    "osm_id": 835907748,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Cohen Reef",
+      "natural": "reef"
+    }
+  },
+  {
+    "name": "Eagle Reef",
+    "lat": 58.4598235,
+    "lon": -134.8237682,
+    "osm_id": 835907749,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Eagle Reef",
+      "natural": "reef"
+    }
+  },
+  {
+    "name": "Desconocida Reef",
+    "lat": 55.6928138,
+    "lon": -133.5229612,
+    "osm_id": 874133656,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Desconocida Reef",
+      "natural": "reef"
+    }
+  },
+  {
+    "name": "Vanderbilt Reef",
+    "lat": 58.5908999,
+    "lon": -135.0190567,
+    "osm_id": 1035594535,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Vanderbilt Reef",
+      "name:es": "Arrecife de Vanderbilt",
+      "natural": "reef",
+      "wikidata": "Q2037696"
+    }
+  },
+  {
+    "name": "Swan Lake Wooden Barge",
+    "lat": 55.2519582,
+    "lon": -162.7094579,
+    "osm_id": 1338542641,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "wreck",
+      "name": "Swan Lake Wooden Barge",
+      "seamark:type": "wreck"
+    }
+  },
+  {
+    "name": "F/V Lily",
+    "lat": 55.2187109,
+    "lon": -161.3643482,
+    "osm_id": 1351757632,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "wreck",
+      "name": "F/V Lily",
+      "seamark:type": "wreck"
+    }
+  },
+  {
+    "name": "M/V Oduna",
+    "lat": 54.665264,
+    "lon": -163.1081187,
+    "osm_id": 20298347,
+    "osm_type": "relation",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "access": "yes",
+      "historic": "wreck",
+      "name": "M/V Oduna",
+      "seamark:type": "wreck",
+      "seamark:wreck:category": "hull_showing",
+      "type": "multipolygon",
+      "wreck:date_sunk": "1965-11-26",
+      "wreck:visible_at_high_tide": "yes",
+      "wreck:visible_at_low_tide": "yes"
+    }
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "name": "U-869 (Wrack)",
+    "lat": 39.5637,
+    "lon": -73.0344,
+    "osm_id": 663869526,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "wreck",
+      "name": "U-869 (Wrack)",
+      "seamark:type": "wreck",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Sea King",
+    "lat": 39.7533579,
+    "lon": -74.101544,
+    "osm_id": 1404734824,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "wreck",
+      "name": "Sea King",
+      "seamark:type": "wreck",
+      "start_date": "1963-02"
+    }
+  },
+  {
+    "name": "Tices Shoal",
+    "lat": 39.8335824,
+    "lon": -74.092767,
+    "osm_id": 601883648,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Tices Shoal",
+      "natural": "reef",
+      "wikidata": "Q7800579",
+      "wikipedia": "en:Tices shoal"
+    }
+  }
+]

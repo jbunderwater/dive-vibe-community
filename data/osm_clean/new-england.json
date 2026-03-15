@@ -1,0 +1,983 @@
+[
+  {
+    "name": "Ada K. Damon",
+    "lat": 42.6911874,
+    "lon": -70.7829233,
+    "osm_id": 4966629820,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "wreck",
+      "name": "Ada K. Damon",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Godfrey's Ledge",
+    "lat": 42.9524146,
+    "lon": -70.7789613,
+    "osm_id": 5264599976,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Godfrey's Ledge",
+      "natural": "reef",
+      "reef": "rock",
+      "surface": "unpaved",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Wanderer",
+    "lat": 41.4215648,
+    "lon": -70.9432337,
+    "osm_id": 6566512233,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "wreck",
+      "name": "Wanderer",
+      "seamark:type": "wreck",
+      "wreck:date_sunk": "1924-08-26",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "SS James Longstreet",
+    "lat": 41.8310725,
+    "lon": -70.0428526,
+    "osm_id": 7918973462,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "access": "no",
+      "historic": "wreck",
+      "name": "SS James Longstreet",
+      "seamark:type": "wreck",
+      "seamark:wreck:category": "dangerous",
+      "wikidata": "Q7393888",
+      "wikipedia": "en:SS James Longstreet",
+      "wreck:date_sunk": "04-25-1945",
+      "wreck:visible_at_high_tide": "no",
+      "wreck:visible_at_low_tide": "yes",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Latimer Reef",
+    "lat": 41.304485,
+    "lon": -71.9279169,
+    "osm_id": 8584836255,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "ele": "0",
+      "gnis:feature_id": "973329",
+      "name": "Latimer Reef",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Avery Ledge",
+    "lat": 42.6685804,
+    "lon": -70.5874731,
+    "osm_id": 9525654150,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "ele": "0",
+      "gnis:feature_id": "616159",
+      "name": "Avery Ledge",
+      "natural": "reef",
+      "reef": "rock",
+      "seamark:obstruction:category": "reef",
+      "seamark:rock:water_level": "submerged",
+      "seamark:type": "rock",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "SS Pendleton",
+    "lat": 41.5860622,
+    "lon": -69.9625855,
+    "osm_id": 10995111387,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "wreck",
+      "name": "SS Pendleton",
+      "seamark:type": "wreck",
+      "wreck:date_sunk": "1952-02-18",
+      "wreck:visible_at_high_tide": "no",
+      "wreck:visible_at_low_tide": "no",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Frances",
+    "lat": 42.0566511,
+    "lon": -70.0850436,
+    "osm_id": 10996436258,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "wreck",
+      "name": "Frances",
+      "seamark:type": "wreck",
+      "wreck:date_sunk": "1872-12-27",
+      "wreck:type": "ship",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "U.S.S Yankee Exempt Site",
+    "lat": 41.5416667,
+    "lon": -70.8777778,
+    "osm_id": 11980577311,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "access": "yes",
+      "historic": "wreck",
+      "name": "U.S.S Yankee Exempt Site",
+      "seamark:type": "wreck",
+      "seamark:wreck:category": "distributed_remains",
+      "wreck:date_sunk": "1908",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "USS Grouse (AMS-15)",
+    "lat": 42.6735381,
+    "lon": -70.5745277,
+    "osm_id": 12077564743,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "description": "WWII US Navy minesweeper ran aground on reef and destroyed",
+      "historic": "wreck",
+      "name": "USS Grouse (AMS-15)",
+      "seamark:type": "wreck",
+      "wikidata": "Q7869880",
+      "wikipedia": "en:USS Grouse (AMS-15)",
+      "wreck:date_sunk": "21 September 1963",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "California",
+    "lat": 42.6736209,
+    "lon": -70.5723291,
+    "osm_id": 12077564744,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "wreck",
+      "name": "California",
+      "seamark:type": "wreck",
+      "source": "osm_extended",
+      "wreck:date_sunk": "15 September 1955",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Charles S. Haight",
+    "lat": 42.6776213,
+    "lon": -70.5842758,
+    "osm_id": 12077564745,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "wreck",
+      "name": "Charles S. Haight",
+      "seamark:type": "wreck",
+      "wreck:date_sunk": "1946",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "The Clump",
+    "lat": 41.5500176,
+    "lon": -71.420037,
+    "osm_id": 12996047689,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "The Clump",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Cedar Island Ledge",
+    "lat": 42.9751995,
+    "lon": -70.5987139,
+    "osm_id": 82311066,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Cedar Island Ledge",
+      "natural": "reef",
+      "note": "Submerged at high tide.",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Ruins of Old Breakwater",
+    "lat": 42.8077339,
+    "lon": -70.8258141,
+    "osm_id": 266696959,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "area": "yes",
+      "disused": "yes",
+      "disused:man_made": "breakwater",
+      "layer": "-1",
+      "name": "Ruins of Old Breakwater",
+      "natural": "reef",
+      "reef": "rock",
+      "ruin_type": "breakwater",
+      "ruins": "yes",
+      "seamark:rock:water_level": "covers",
+      "seamark:type": "rock",
+      "source": "osm_extended",
+      "tidal": "yes",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Half Tide Rock",
+    "lat": 42.7239202,
+    "lon": -70.8011882,
+    "osm_id": 293601453,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "hazzard": "yes",
+      "name": "Half Tide Rock",
+      "natural": "reef",
+      "reef": "rock",
+      "seamark:rock:water_level": "covers",
+      "seamark:type": "rock",
+      "source": "osm_extended",
+      "source_ref": "survey",
+      "tidal": "yes",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Half Tide Rocks",
+    "lat": 42.8120885,
+    "lon": -70.8584844,
+    "osm_id": 322041507,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "alt_name": "Gangway Rock",
+      "ele": "0",
+      "gnis:feature_id": "617655",
+      "hazard": "yes",
+      "name": "Half Tide Rocks",
+      "natural": "reef",
+      "note": "This group of rocks is called Half Tide Rocks, and formerly contained one rock called Gangway Rock, but it was removed under a US Army contract in the 1880s (see note:ref). This group of rocks is still called Gangway Rock in some modern maps.",
+      "note:ref": "1881 Report of the Chief of Engineers U.S. Army, Part 1 --- page 512",
+      "reef": "rock",
+      "seamark:rock:water_level": "covers",
+      "seamark:type": "rock",
+      "source": "osm_extended",
+      "tidal": "yes",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Bar Rock",
+    "lat": 42.7010853,
+    "lon": -70.7594461,
+    "osm_id": 365015706,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Bar Rock",
+      "natural": "reef",
+      "place": "locality",
+      "reef": "rock",
+      "seamark:obstruction:category": "foul_ground",
+      "seamark:rock:water_level": "submerged",
+      "seamark:type": "rock",
+      "source": "osm_extended",
+      "tidal": "no",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Bass Rock",
+    "lat": 42.6978193,
+    "lon": -70.7835881,
+    "osm_id": 441445427,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "ele": "0",
+      "gnis:feature_id": "617550",
+      "hazard": "yes",
+      "name": "Bass Rock",
+      "natural": "reef",
+      "place": "locality",
+      "reef": "rock",
+      "seamark:rock:water_level": "covers",
+      "seamark:type": "rock",
+      "source": "osm_extended",
+      "surface": "rock",
+      "tidal": "yes",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Ruins of Old Dike",
+    "lat": 42.8127191,
+    "lon": -70.8200078,
+    "osm_id": 540116955,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "disused": "yes",
+      "disused:man_made": "breakwater",
+      "material": "stone",
+      "name": "Ruins of Old Dike",
+      "natural": "reef",
+      "reef": "rock",
+      "ruin_type": "breakwater",
+      "ruins": "yes",
+      "seamark:rock:water_level": "covers",
+      "seamark:type": "rock",
+      "source": "osm_extended",
+      "start_date": "1883",
+      "tidal": "yes",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Black Rocks",
+    "lat": 42.8210429,
+    "lon": -70.8274091,
+    "osm_id": 551978868,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Black Rocks",
+      "natural": "reef",
+      "place": "locality",
+      "reef": "rock",
+      "seamark:obstruction:category": "foul_ground",
+      "seamark:rock:water_level": "covers",
+      "seamark:type": "rock",
+      "tidal": "yes",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Sow and Pigs",
+    "lat": 42.8146926,
+    "lon": -70.8654885,
+    "osm_id": 552655591,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "ele": "0",
+      "name": "Sow and Pigs",
+      "natural": "reef",
+      "reef": "rock",
+      "seamark:rock:water_level": "covers",
+      "seamark:type": "rock",
+      "source": "osm_extended",
+      "tidal": "yes",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Lunts Rock",
+    "lat": 42.8205478,
+    "lon": -70.835417,
+    "osm_id": 556854518,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "alt_name": "Lunts Rock",
+      "ele": "0",
+      "gnis:feature_id": "613703",
+      "name": "Lunts Rock",
+      "natural": "reef",
+      "place": "locality",
+      "reef": "rock",
+      "seamark:obstruction:category": "foul_ground",
+      "seamark:rock:water_level": "covers",
+      "seamark:type": "rock",
+      "source": "osm_extended",
+      "tidal": "yes",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Gangway Rocks",
+    "lat": 42.8139389,
+    "lon": -70.8575009,
+    "osm_id": 560790775,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "hazard": "yes",
+      "name": "Gangway Rocks",
+      "natural": "reef",
+      "reef": "rock",
+      "seamark:rock:water_level": "submerged",
+      "seamark:type": "rock",
+      "source": "osm_extended",
+      "tidal": "no",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Badgers Rock",
+    "lat": 42.8203024,
+    "lon": -70.8225862,
+    "osm_id": 561068596,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "gnis:feature_id": "613629",
+      "name": "Badgers Rock",
+      "natural": "reef",
+      "place": "locality",
+      "reef": "rock",
+      "seamark:obstruction:category": "foul_ground",
+      "seamark:rock:water_level": "covers",
+      "seamark:type": "rock",
+      "tidal": "yes",
+      "wikidata": "Q4840869",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Watch Hill Reef",
+    "lat": 41.2948654,
+    "lon": -71.8635249,
+    "osm_id": 803747664,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Watch Hill Reef",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Catumb Rocks",
+    "lat": 41.2916994,
+    "lon": -71.8828556,
+    "osm_id": 803747665,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Catumb Rocks",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Planet Rock",
+    "lat": 41.3107252,
+    "lon": -71.9918579,
+    "osm_id": 803747675,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Planet Rock",
+      "natural": "reef",
+      "seamark:sea_area:category": "reef",
+      "seamark:type": "sea_area",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Cormorant Reef",
+    "lat": 41.3263877,
+    "lon": -71.9520324,
+    "osm_id": 803747681,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Cormorant Reef",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Inner Breakers",
+    "lat": 42.5218778,
+    "lon": -70.7718981,
+    "osm_id": 816347617,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Inner Breakers",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Three and One-half Fathom Ledge",
+    "lat": 42.3534381,
+    "lon": -70.8453155,
+    "osm_id": 816347618,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Three and One-half Fathom Ledge",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Martin Ledge",
+    "lat": 42.3453979,
+    "lon": -70.8588982,
+    "osm_id": 816347619,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Martin Ledge",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Tewksbury Rock",
+    "lat": 42.3451997,
+    "lon": -70.8690155,
+    "osm_id": 816347620,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Tewksbury Rock",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Utonia Ledge",
+    "lat": 42.3184948,
+    "lon": -70.8659148,
+    "osm_id": 816347621,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Utonia Ledge",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Harding Ledge",
+    "lat": 42.304912,
+    "lon": -70.8476973,
+    "osm_id": 816347622,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Harding Ledge",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Enos Ledge",
+    "lat": 42.2637647,
+    "lon": -70.7630361,
+    "osm_id": 816347623,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Enos Ledge",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Minots Ledge",
+    "lat": 42.2680997,
+    "lon": -70.7586694,
+    "osm_id": 816347624,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Minots Ledge",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Davis Ledge",
+    "lat": 42.2694177,
+    "lon": -70.7509661,
+    "osm_id": 816347625,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Davis Ledge",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Tobias Ledge",
+    "lat": 42.2548158,
+    "lon": -70.7612175,
+    "osm_id": 816347626,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Tobias Ledge",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Mikes Ledge",
+    "lat": 42.2535611,
+    "lon": -70.7536027,
+    "osm_id": 816347627,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Mikes Ledge",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Pine Island",
+    "lat": 41.5172947,
+    "lon": -70.680557,
+    "osm_id": 974080147,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "ele": "0",
+      "gnis:feature_id": "616118",
+      "name": "Pine Island",
+      "natural": "reef",
+      "note": "island not visible on any imagery, only at some places",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Abbot Rock",
+    "lat": 42.5303526,
+    "lon": -70.8623613,
+    "osm_id": 1030215774,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "area": "yes",
+      "ele": "0",
+      "gnis:feature_id": "614628",
+      "name": "Abbot Rock",
+      "natural": "reef",
+      "reef": "rock",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Middle Ground",
+    "lat": 42.5298886,
+    "lon": -70.852879,
+    "osm_id": 1030215775,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "area": "yes",
+      "ele": "0",
+      "gnis:feature_id": "614736",
+      "name": "Middle Ground",
+      "natural": "reef",
+      "reef": "rock",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Derby Powderhouse Wharf",
+    "lat": 42.5261412,
+    "lon": -70.8716986,
+    "osm_id": 1030242408,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "heritage": "2",
+      "heritage:operator": "nrhp",
+      "historic": "maritime",
+      "name": "Derby Powderhouse Wharf",
+      "natural": "reef",
+      "nrhp:criteria": "(A), (C)",
+      "nrhp:inscription_date": "1994-04-14",
+      "protection_title": "Town of Salem Massachusetts",
+      "reef": "stone",
+      "ref:MACRIS": "SAL.931",
+      "ref:nrhp": "94000335",
+      "ruins": "pier",
+      "seamark:obstruction:category": "reef",
+      "seamark:type": "obstruction",
+      "start_date": "1765",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "City of Taunton",
+    "lat": 41.7098184,
+    "lon": -71.1784689,
+    "osm_id": 1304169108,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "access": "yes",
+      "description": "1890s cargo steamship that was abandoned and left to sink",
+      "historic": "wreck",
+      "name": "City of Taunton",
+      "seamark:type": "wreck",
+      "seamark:wreck:category": "hull_showing",
+      "wikidata": "Q5123949",
+      "wikipedia": "en:City of Taunton (ship)",
+      "wreck:date_sunk": "circa 1930",
+      "wreck:visible_at_low_tide": "yes",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Green Jacket Shoal",
+    "lat": 41.8140536,
+    "lon": -71.3932944,
+    "osm_id": 1304349266,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Green Jacket Shoal",
+      "natural": "reef",
+      "seamark:sea_area:category": "shoal",
+      "wikidata": "Q27724573",
+      "wikipedia": "en:Green Jacket Shoal",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Perch Island",
+    "lat": 41.3265146,
+    "lon": -71.8649195,
+    "osm_id": 1341965143,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "ele": "0",
+      "gnis:feature_id": "209713",
+      "name": "Perch Island",
+      "natural": "reef",
+      "wikidata": "Q31828706",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Brenton Reef",
+    "lat": 41.4438428,
+    "lon": -71.3583688,
+    "osm_id": 1414289712,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Brenton Reef",
+      "natural": "reef",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  }
+]

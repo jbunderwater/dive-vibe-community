@@ -1,0 +1,94 @@
+[
+  {
+    "name": "S.S. Inchulva / Delray Wreck (Wrack)",
+    "lat": 26.453632,
+    "lon": -80.056344,
+    "osm_id": 663869458,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "description": "The old shipwreck know as the Delray Wreck rests at the bottom of the ocean in 25 feet of water about 150 yards offshore the south end of Delray’s municipal beach.",
+      "historic": "wreck",
+      "name": "S.S. Inchulva / Delray Wreck (Wrack)",
+      "seamark:type": "wreck",
+      "source": "www.dive-links.com",
+      "sport": "scuba_diving",
+      "verified": "no, please check and del this tag",
+      "website": "http://www.dive-links.com/tauchplatz.php?id=1983"
+    }
+  },
+  {
+    "name": "Lofthus",
+    "lat": 26.562778,
+    "lon": -80.038333,
+    "osm_id": 12601944496,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "access": "yes",
+      "alt_name": "Cashmere",
+      "heritage": "2",
+      "heritage:operator": "nrhp",
+      "heritage:ref": "03001363",
+      "heritage:website": "https://npgallery.nps.gov/AssetDetail/NRIS/03001363",
+      "historic": "wreck",
+      "name": "Lofthus",
+      "nrhp:criteria": "(D)",
+      "nrhp:inscription_date": "2004-01-06",
+      "ref:nrhp": "03001363",
+      "seamark:type": "wreck",
+      "seamark:wreck:category": "distributed_remains",
+      "sport": "scuba_diving",
+      "wikidata": "Q6666695",
+      "wikipedia": "en:Lofthus (shipwreck)",
+      "wreck:date_sunk": "1898-02-04",
+      "wreck:type": "ship",
+      "wreck:visible_at_high_tide": "no",
+      "wreck:visible_at_low_tide": "no"
+    }
+  },
+  {
+    "name": "SS Copenhagen Shipwreck",
+    "lat": 26.2059282,
+    "lon": -80.0838659,
+    "osm_id": 13430788646,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "description": "SS Copenhagen is a shipwreck off the town of Lauderdale-by-the-Sea, Florida, United States. She was a cargo steamship, built in England in 1898. She was wrecked on a reef south of Hillsboro Inlet in 1900.",
+      "historic": "wreck",
+      "name": "SS Copenhagen Shipwreck",
+      "scuba_diving:divespot": "yes",
+      "seamark:type": "wreck",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Anglin’s Pier Reef",
+    "lat": 26.1869951,
+    "lon": -80.0932907,
+    "osm_id": 1464171000,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "description": "Lauderdale-by-the-Sea is nicknamed the “Shore Dive Capital of South Florida” for a reason: its living coral reefs are a mere 100–400 feet from the beach, making it one of the easiest and most accessible dive spots in the world.",
+      "name": "Anglin’s Pier Reef",
+      "natural": "reef",
+      "scuba_diving:divespot": "yes",
+      "sport": "scuba_diving",
+      "website": "https://www.discoverlbts.com/diving-snorkeling/"
+    }
+  }
+]

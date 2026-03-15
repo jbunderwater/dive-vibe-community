@@ -1,0 +1,858 @@
+[
+  {
+    "name": "South Bedford Island",
+    "lat": 48.311667,
+    "lon": -123.603333,
+    "osm_id": 663869264,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "wreck",
+      "name": "South Bedford Island",
+      "seamark:type": "wreck",
+      "source": "www.dive-links.com",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Race Rocks - West and Central",
+    "lat": 48.300677,
+    "lon": -123.539121,
+    "osm_id": 663869266,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Race Rocks - West and Central",
+      "source": "www.dive-links.com",
+      "sport": "scuba_diving",
+      "verified": "no, please check and del this tag",
+      "website": "http://www.dive-links.com/tauchplatz.php?id=1912"
+    }
+  },
+  {
+    "name": "Barnard Castle",
+    "lat": 48.31211,
+    "lon": -123.541408,
+    "osm_id": 663869269,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "wreck",
+      "name": "Barnard Castle",
+      "seamark:type": "wreck",
+      "source": "www.dive-links.com",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Swordfish Island",
+    "lat": 48.310238,
+    "lon": -123.582582,
+    "osm_id": 663869270,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Swordfish Island",
+      "source": "www.dive-links.com",
+      "sport": "scuba_diving",
+      "verified": "no, please check and del this tag",
+      "website": "http://www.dive-links.com/tauchplatz.php?id=1916"
+    }
+  },
+  {
+    "name": "Saxe Point",
+    "lat": 48.423333,
+    "lon": -123.418333,
+    "osm_id": 663869272,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Saxe Point",
+      "source": "www.dive-links.com",
+      "sport": "scuba_diving",
+      "verified": "no, please check and del this tag",
+      "website": "http://www.dive-links.com/tauchplatz.php?id=1896"
+    }
+  },
+  {
+    "name": "S. F. Tolmie",
+    "lat": 48.417403,
+    "lon": -123.402219,
+    "osm_id": 663869274,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "wreck",
+      "name": "S. F. Tolmie",
+      "seamark:type": "wreck",
+      "source": "www.dive-links.com;MacFarlane;John M. (2017) The S.F. Tolmie: Four–Masted Barquentine. Nauticapedia.ca 2017. http://nauticapedia.ca/Gallery/SF_Tolmie.php",
+      "sport": "scuba_diving",
+      "wreck:date_sunk": "1944-12-27"
+    }
+  },
+  {
+    "name": "Johnstone Reef",
+    "lat": 48.478333,
+    "lon": -123.271667,
+    "osm_id": 663869275,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Johnstone Reef",
+      "natural": "reef",
+      "source": "www.dive-links.com",
+      "sport": "scuba_diving",
+      "verified": "no, please check and del this tag",
+      "website": "http://www.dive-links.com/tauchplatz.php?id=1817"
+    }
+  },
+  {
+    "name": "Ogden Point (The Breakwater)",
+    "lat": 48.41487,
+    "lon": -123.384114,
+    "osm_id": 663869277,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Ogden Point (The Breakwater)",
+      "source": "www.dive-links.com",
+      "sport": "scuba_diving",
+      "verified": "no, please check and del this tag",
+      "website": "http://www.dive-links.com/tauchplatz.php?id=1895"
+    }
+  },
+  {
+    "name": "Spring Bay",
+    "lat": 48.455882,
+    "lon": -123.268763,
+    "osm_id": 663869278,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Spring Bay",
+      "source": "www.dive-links.com",
+      "sport": "scuba_diving",
+      "verified": "no, please check and del this tag",
+      "website": "http://www.dive-links.com/tauchplatz.php?id=1897"
+    }
+  },
+  {
+    "name": "Telegraph Cove",
+    "lat": 48.463861,
+    "lon": -123.270272,
+    "osm_id": 663869279,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Telegraph Cove",
+      "source": "www.dive-links.com",
+      "sport": "scuba_diving",
+      "verified": "no, please check and del this tag",
+      "website": "http://www.dive-links.com/tauchplatz.php?id=1904"
+    }
+  },
+  {
+    "name": "Ten Mile Point",
+    "lat": 48.455614,
+    "lon": -123.266006,
+    "osm_id": 663869281,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Ten Mile Point",
+      "source": "www.dive-links.com",
+      "sport": "scuba_diving",
+      "verified": "no, please check and del this tag",
+      "website": "http://www.dive-links.com/tauchplatz.php?id=1898"
+    }
+  },
+  {
+    "name": "Discovery Island",
+    "lat": 48.423333,
+    "lon": -123.251667,
+    "osm_id": 663869283,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Discovery Island",
+      "source": "www.dive-links.com",
+      "sport": "scuba_diving",
+      "verified": "no, please check and del this tag",
+      "website": "http://www.dive-links.com/tauchplatz.php?id=1900"
+    }
+  },
+  {
+    "name": "Fulford Reef",
+    "lat": 48.4456302,
+    "lon": -123.2401753,
+    "osm_id": 663869284,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Fulford Reef",
+      "natural": "reef",
+      "source": "NRCan-CanVec-8.0;www.dive-links.com",
+      "sport": "scuba_diving",
+      "verified": "no, please check and del this tag",
+      "website": "http://www.dive-links.com/tauchplatz.php?id=1908"
+    }
+  },
+  {
+    "name": "Chain Islet",
+    "lat": 48.421667,
+    "lon": -123.266667,
+    "osm_id": 663869285,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Chain Islet",
+      "source": "www.dive-links.com",
+      "sport": "scuba_diving",
+      "verified": "no, please check and del this tag",
+      "website": "http://www.dive-links.com/tauchplatz.php?id=1907"
+    }
+  },
+  {
+    "name": "Brinn Rock",
+    "lat": 48.4245893,
+    "lon": -123.2225531,
+    "osm_id": 663869286,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Brinn Rock",
+      "source": "www.dive-links.com",
+      "sport": "scuba_diving",
+      "verified": "no, please check and del this tag",
+      "website": "http://www.dive-links.com/tauchplatz.php?id=1906"
+    }
+  },
+  {
+    "name": "Virtue Rock",
+    "lat": 48.4178454,
+    "lon": -123.254072,
+    "osm_id": 663869288,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Virtue Rock",
+      "source": "www.dive-links.com",
+      "sport": "scuba_diving",
+      "verified": "no, please check and del this tag",
+      "website": "http://www.dive-links.com/tauchplatz.php?id=1910"
+    }
+  },
+  {
+    "name": "Mouat Reef",
+    "lat": 48.408333,
+    "lon": -123.298333,
+    "osm_id": 663869289,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Mouat Reef",
+      "natural": "reef",
+      "source": "www.dive-links.com",
+      "sport": "scuba_diving",
+      "verified": "no, please check and del this tag",
+      "website": "http://www.dive-links.com/tauchplatz.php?id=1909"
+    }
+  },
+  {
+    "name": "McKenzie Bright",
+    "lat": 48.558333,
+    "lon": -123.505,
+    "osm_id": 663869292,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "McKenzie Bright",
+      "source": "www.dive-links.com",
+      "sport": "scuba_diving",
+      "verified": "no, please check and del this tag",
+      "website": "http://www.dive-links.com/tauchplatz.php?id=1920"
+    }
+  },
+  {
+    "name": "Willis Point",
+    "lat": 48.5783336,
+    "lon": -123.484987,
+    "osm_id": 663869293,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Willis Point",
+      "source": "www.dive-links.com",
+      "sport": "scuba_diving",
+      "verified": "no, please check and del this tag",
+      "website": "http://www.dive-links.com/tauchplatz.php?id=1921"
+    }
+  },
+  {
+    "name": "Senanus Island",
+    "lat": 48.5919298,
+    "lon": -123.4860212,
+    "osm_id": 663869294,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Senanus Island",
+      "source": "www.dive-links.com",
+      "sport": "scuba_diving",
+      "verified": "no, please check and del this tag",
+      "website": "http://www.dive-links.com/tauchplatz.php?id=1924"
+    }
+  },
+  {
+    "name": "Henderson Point",
+    "lat": 48.597889,
+    "lon": -123.480744,
+    "osm_id": 663869295,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Henderson Point",
+      "source": "www.dive-links.com",
+      "sport": "scuba_diving",
+      "verified": "no, please check and del this tag",
+      "website": "http://www.dive-links.com/tauchplatz.php?id=1919"
+    }
+  },
+  {
+    "name": "Tozier Rock",
+    "lat": 48.618333,
+    "lon": -123.513333,
+    "osm_id": 663869296,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Tozier Rock",
+      "source": "www.dive-links.com",
+      "sport": "scuba_diving",
+      "verified": "no, please check and del this tag",
+      "website": "http://www.dive-links.com/tauchplatz.php?id=1925"
+    }
+  },
+  {
+    "name": "White Lady (Repulse Rock)",
+    "lat": 48.5460203,
+    "lon": -123.5396496,
+    "osm_id": 663869297,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "White Lady (Repulse Rock)",
+      "source": "www.dive-links.com",
+      "sport": "scuba_diving",
+      "verified": "no, please check and del this tag",
+      "website": "http://www.dive-links.com/tauchplatz.php?id=1926"
+    }
+  },
+  {
+    "name": "Dyer Rocks",
+    "lat": 48.623333,
+    "lon": -123.483333,
+    "osm_id": 663869298,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Dyer Rocks",
+      "source": "www.dive-links.com",
+      "sport": "scuba_diving",
+      "verified": "no, please check and del this tag",
+      "website": "http://www.dive-links.com/tauchplatz.php?id=1927"
+    }
+  },
+  {
+    "name": "Wain Rock",
+    "lat": 48.688333,
+    "lon": -123.488333,
+    "osm_id": 663869299,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Wain Rock",
+      "source": "www.dive-links.com",
+      "sport": "scuba_diving",
+      "verified": "no, please check and del this tag",
+      "website": "http://www.dive-links.com/tauchplatz.php?id=1929"
+    }
+  },
+  {
+    "name": "Arbutus Island",
+    "lat": 48.706667,
+    "lon": -123.435,
+    "osm_id": 663869300,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Arbutus Island",
+      "source": "www.dive-links.com",
+      "sport": "scuba_diving",
+      "verified": "no, please check and del this tag",
+      "website": "http://www.dive-links.com/tauchplatz.php?id=1931"
+    }
+  },
+  {
+    "name": "Patey Rock",
+    "lat": 48.7,
+    "lon": -123.52,
+    "osm_id": 663869301,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Patey Rock",
+      "natural": "reef",
+      "source": "www.dive-links.com",
+      "sport": "scuba_diving",
+      "verified": "no, please check and del this tag",
+      "website": "http://www.dive-links.com/tauchplatz.php?id=1928"
+    }
+  },
+  {
+    "name": "G.B. Church",
+    "lat": 48.67,
+    "lon": -123.2866667,
+    "osm_id": 663869306,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "wreck",
+      "name": "G.B. Church",
+      "seamark:type": "wreck",
+      "source": "www.dive-links.com",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Graham`s Wall",
+    "lat": 48.67,
+    "lon": -123.321667,
+    "osm_id": 663869307,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wall",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Graham`s Wall",
+      "source": "www.dive-links.com",
+      "sport": "scuba_diving",
+      "verified": "no, please check and del this tag",
+      "website": "http://www.dive-links.com/tauchplatz.php?id=1933"
+    }
+  },
+  {
+    "name": "Reay Island",
+    "lat": 48.676667,
+    "lon": -123.328333,
+    "osm_id": 663869310,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Reay Island",
+      "source": "www.dive-links.com",
+      "sport": "scuba_diving",
+      "verified": "no, please check and del this tag",
+      "website": "http://www.dive-links.com/tauchplatz.php?id=1944"
+    }
+  },
+  {
+    "name": "Joan Rock",
+    "lat": 48.69,
+    "lon": -123.316667,
+    "osm_id": 663869311,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Joan Rock",
+      "source": "www.dive-links.com",
+      "sport": "scuba_diving",
+      "verified": "no, please check and del this tag",
+      "website": "http://www.dive-links.com/tauchplatz.php?id=1942"
+    }
+  },
+  {
+    "name": "Little Group Islands",
+    "lat": 48.671667,
+    "lon": -123.366667,
+    "osm_id": 663869312,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Little Group Islands",
+      "source": "www.dive-links.com",
+      "sport": "scuba_diving",
+      "verified": "no, please check and del this tag",
+      "website": "http://www.dive-links.com/tauchplatz.php?id=1943"
+    }
+  },
+  {
+    "name": "Forest Island",
+    "lat": 48.66,
+    "lon": -123.333333,
+    "osm_id": 663869313,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Forest Island",
+      "source": "www.dive-links.com",
+      "sport": "scuba_diving",
+      "verified": "no, please check and del this tag",
+      "website": "http://www.dive-links.com/tauchplatz.php?id=1940"
+    }
+  },
+  {
+    "name": "Cooper Reef",
+    "lat": 48.6709185,
+    "lon": -123.2767469,
+    "osm_id": 663869314,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Cooper Reef",
+      "source": "www.dive-links.com",
+      "sport": "scuba_diving",
+      "verified": "no, please check and del this tag",
+      "website": "http://www.dive-links.com/tauchplatz.php?id=1939"
+    }
+  },
+  {
+    "name": "Rubly Island",
+    "lat": 48.6653,
+    "lon": -123.311467,
+    "osm_id": 663869315,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Rubly Island",
+      "source": "www.dive-links.com",
+      "sport": "scuba_diving",
+      "verified": "no, please check and del this tag",
+      "website": "http://www.dive-links.com/tauchplatz.php?id=1936"
+    }
+  },
+  {
+    "name": "Arachne Reef",
+    "lat": 48.6847226,
+    "lon": -123.2936772,
+    "osm_id": 663869316,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Arachne Reef",
+      "natural": "reef",
+      "source": "www.dive-links.com",
+      "sport": "scuba_diving",
+      "verified": "no, please check and del this tag",
+      "website": "http://www.dive-links.com/tauchplatz.php?id=1937"
+    }
+  },
+  {
+    "name": "North Cod Reef",
+    "lat": 48.6576056,
+    "lon": -123.3002013,
+    "osm_id": 663869317,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "North Cod Reef",
+      "natural": "reef",
+      "source": "NRCan-CanVec-8.0;www.dive-links.com",
+      "sport": "scuba_diving",
+      "verified": "no, please check and del this tag",
+      "website": "http://www.dive-links.com/tauchplatz.php?id=1935"
+    }
+  },
+  {
+    "name": "South Cod Reef",
+    "lat": 48.653333,
+    "lon": -123.3,
+    "osm_id": 663869319,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "South Cod Reef",
+      "natural": "reef",
+      "source": "www.dive-links.com",
+      "sport": "scuba_diving",
+      "verified": "no, please check and del this tag",
+      "website": "http://www.dive-links.com/tauchplatz.php?id=1946"
+    }
+  },
+  {
+    "name": "Imrie Island",
+    "lat": 48.6945172,
+    "lon": -123.3331116,
+    "osm_id": 663869320,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Imrie Island",
+      "source": "www.dive-links.com",
+      "sport": "scuba_diving",
+      "verified": "no, please check and del this tag",
+      "website": "http://www.dive-links.com/tauchplatz.php?id=1941"
+    }
+  },
+  {
+    "name": "Canoe Rock",
+    "lat": 48.733333,
+    "lon": -123.338333,
+    "osm_id": 663869321,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Canoe Rock",
+      "source": "www.dive-links.com",
+      "sport": "scuba_diving",
+      "verified": "no, please check and del this tag",
+      "website": "http://www.dive-links.com/tauchplatz.php?id=1938"
+    }
+  },
+  {
+    "name": "Pacific Pro Dive",
+    "lat": 49.6785025,
+    "lon": -124.983656,
+    "osm_id": 2533133166,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "addr:postcode": "V9N 2L4",
+      "addr:unit": "101",
+      "email": "info@scubashark.com",
+      "name": "Pacific Pro Dive",
+      "name:en": "Pacific Pro Dive and Marine Adventures",
+      "opening_hours": "Mo-Sa 09:30-17:30",
+      "phone": "+1-250-338-6829",
+      "shop": "scuba_diving",
+      "sport": "scuba_diving",
+      "website": "https://biganimalencounters.com/"
+    }
+  },
+  {
+    "name": "Kelvin Grove Dive Site",
+    "lat": 49.4500039,
+    "lon": -123.240248,
+    "osm_id": 12589860894,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Kelvin Grove Dive Site",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Porteau Cove Diving Area",
+    "lat": 49.5602726,
+    "lon": -123.2351748,
+    "osm_id": 12589864608,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "description": "Several artificial reefs and wrecks",
+      "name": "Porteau Cove Diving Area",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Whytecliff Park Dive Site",
+    "lat": 49.3717094,
+    "lon": -123.291608,
+    "osm_id": 12589868010,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "description": "Popular diving area for beginners and advanced divers.",
+      "name": "Whytecliff Park Dive Site",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Ansell Point Dive Site",
+    "lat": 49.3968729,
+    "lon": -123.2520372,
+    "osm_id": 12592552419,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "description": "Popular scuba and freediving site.",
+      "name": "Ansell Point Dive Site",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Nanaimo Dive Outfitters",
+    "lat": 49.1916793,
+    "lon": -123.9927305,
+    "osm_id": 12803611100,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "addr:unit": "101",
+      "name": "Nanaimo Dive Outfitters",
+      "opening_hours": "Mo-Fr 10:00-17:30; Sa 09:00-17:00",
+      "phone": "+1 250 756-1863",
+      "shop": "sports",
+      "sport": "scuba_diving",
+      "website": "https://www.nanaimodiveoutfitters.ca/"
+    }
+  },
+  {
+    "name": "Sundown Diving",
+    "lat": 49.1630025,
+    "lon": -123.9329535,
+    "osm_id": 671676674,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "addr:housenumber": "22",
+      "addr:street": "Esplanade",
+      "building": "yes",
+      "name": "Sundown Diving",
+      "phone": "+1 250 753-1880",
+      "shop": "sports",
+      "source:addr": "StatCan Open Data",
+      "sport": "scuba_diving",
+      "website": "https://www.sundowndiving.com/"
+    }
+  }
+]

@@ -1,0 +1,206 @@
+[
+  {
+    "name": "SS Monte Carlo",
+    "lat": 32.6742831,
+    "lon": -117.1731815,
+    "osm_id": 6518067885,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "access": "yes",
+      "description": "Concrete ship used as offshore gambling hub during prohibition, sent aground during a storm and abandoned.",
+      "historic": "wreck",
+      "name": "SS Monte Carlo",
+      "seamark:type": "wreck",
+      "seamark:wreck:category": "distributed_remains",
+      "wikidata": "Q3460064",
+      "wikipedia": "en:SS Monte Carlo",
+      "wreck:date_sunk": "January 1, 1937",
+      "wreck:visible_at_high_tide": "no",
+      "wreck:visible_at_low_tide": "yes",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Sunken Harbor",
+    "lat": 32.7715438,
+    "lon": -117.261989,
+    "osm_id": 7024798825,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "access": "yes",
+      "historic": "wreck",
+      "maritime": "shipwreck",
+      "natural": "bay",
+      "scuba_diving:type": "artificial_reef",
+      "seamark:name": "Sunken Harbor",
+      "seamark:type": "wreck",
+      "seamark:wreck:category": "distributed_remains",
+      "wreck:visible_at_high_tide": "no",
+      "wreck:visible_at_low_tide": "no",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "USS PC-815",
+    "lat": 32.6320386,
+    "lon": -117.2369421,
+    "osm_id": 12072350823,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "access": "yes",
+      "description": "WWII patrol craft infamous for several incidents, sunk in collision with USS Laffey.",
+      "ele": "-27",
+      "historic": "wreck",
+      "name": "USS PC-815",
+      "seamark:type": "wreck",
+      "start_date": "20 April 1943",
+      "wikidata": "Q7872596",
+      "wikimedia_commons": "File:Uss pc-815 2.jpg",
+      "wikipedia": "en:USS PC-815",
+      "wreck:date_sunk": "11 September 1945",
+      "wreck:visible_at_high_tide": "no",
+      "wreck:visible_at_low_tide": "no",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "HMCS Yukon (DDE 265)",
+    "lat": 32.7715817,
+    "lon": -117.2710459,
+    "osm_id": 12072605584,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "access": "yes",
+      "description": "Cold War Royal Canadian Navy destroyer escort sunk as an artificial reef.",
+      "historic": "wreck",
+      "name": "HMCS Yukon (DDE 265)",
+      "seamark:type": "wreck",
+      "seamark:wreck:category": "non-dangerous",
+      "source": "osm_extended",
+      "start_date": "25 May 1963",
+      "wikidata": "Q5630972",
+      "wikipedia": "en:HMCS Yukon (DDE 263)",
+      "wreck:date_sunk": "15 July 2000",
+      "wreck:visible_at_high_tide": "no",
+      "wreck:visible_at_low_tide": "no",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Zuñiga Jetty",
+    "lat": 32.6689247,
+    "lon": -117.223125,
+    "osm_id": 25284140,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Zuñiga Jetty",
+      "natural": "reef",
+      "reef": "rock",
+      "seamark:obstruction:category": "reef",
+      "seamark:obstruction:water_level": "submerged",
+      "seamark:type": "obstruction",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Wreck Alley",
+    "lat": 32.7736123,
+    "lon": -117.2693522,
+    "osm_id": 838730250,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "boat": "yes",
+      "marine": "artificial_reef",
+      "maritime": "yes",
+      "name": "Wreck Alley",
+      "natural": "reef",
+      "seamark:navigation_line:category": "fixed_marks",
+      "seamark:restricted_area:restriction": "no_anchoring",
+      "seamark:type": "sea_area",
+      "sub_sea": "reef",
+      "submarine": "yes",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "La Jolla Cove",
+    "lat": 32.8508,
+    "lon": -117.2726,
+    "depth": 10,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "La Jolla Shores",
+    "lat": 32.8575,
+    "lon": -117.2575,
+    "depth": 10,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "La Jolla Canyon",
+    "lat": 32.856,
+    "lon": -117.265,
+    "depth": 30,
+    "site_type": "wall",
+    "entry_type": "shore",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Yukon Wreck (DE-429)",
+    "lat": 32.6825,
+    "lon": -117.267,
+    "depth": 30,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  }
+]
