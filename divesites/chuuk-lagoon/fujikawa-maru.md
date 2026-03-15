@@ -25,9 +25,9 @@ The Times named it one of the top 10 wreck dives in the world, and it is regarde
 
 - **Location**: Chuuk Lagoon, Federated States of Micronesia
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck (WWII aircraft transport)
-- **Difficulty Level**: Intermediate (Open Water for exterior; Advanced/Wreck specialty for penetration)
-- **Maximum Depth**: 33 metres (keel) — deck at 18m, top of superstructure at 9m
+- **Site Type**: Wreck dive
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 33 meters
 - **Typical Visibility**: 20–40 metres
 - **Water Temperature**: 28–30°C year-round
 - **Best Time**: Year-round; December to April for calmest conditions

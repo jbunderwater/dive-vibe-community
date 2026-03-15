@@ -25,9 +25,9 @@ She rests upright, which, combined with her modest depth profile, makes her one 
 
 - **Location**: Chuuk Lagoon, Federated States of Micronesia
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck (WWII cargo/repair vessel)
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 40 metres (keel); superstructure at 12 metres, engine room at 18 metres
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 20–35 metres
 - **Water Temperature**: 28–30°C year-round
 - **Best Time**: Year-round; December to April for calmest conditions

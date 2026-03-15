@@ -24,10 +24,10 @@ Strýtan was discovered by divers Erlendur Bogason and Árni Halldósson in 1997
 ## Site Information
 
 - **Location**: Eyjafjörður fjord, near Hjalteyri and Akureyri, North Iceland (NOT near Silfra/Thingvellir)
-- **Entry Type**: Boat dive (Zodiac from Strýtan Divecenter at Hjalteyri)
-- **Site Type**: Hydrothermal chimney / pinnacle
+- **Entry Type**: Boat dive
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 40 meters (chimney base at 65m; typical dive to 25-40m)
+- **Maximum Depth**: 40 meters
 - **Chimney Top Depth**: 15 meters
 - **Typical Visibility**: 20–40 meters
 - **Water Temperature**: 4–8°C ambient fjord water; vent fluid at 75°C creates visible halocline and thermocline

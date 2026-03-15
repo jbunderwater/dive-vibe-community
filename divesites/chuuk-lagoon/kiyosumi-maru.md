@@ -23,9 +23,9 @@ Built in 1934 by Kawasaki Dockyard in Kobe, the 137-metre (450-foot), 8,614-ton 
 
 - **Location**: Chuuk Lagoon, Federated States of Micronesia
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck (WWII armed merchant cruiser)
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 metres (port side on seabed); starboard side at 15 metres
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20–35 metres
 - **Water Temperature**: 28–30°C year-round
 - **Best Time**: Year-round; December to April for calmest conditions

@@ -4,47 +4,68 @@ addedBy: osm_import
 
 ## Silfra Fissure
 
-Dive between tectonic plates in crystal-clear glacial water with 100m+ visibility.
+Dive between tectonic plates in crystal-clear glacial water with 100m+ visibility — the clearest diving water on Earth.
 
 ## Description
 
-Silfra Fissure is a notable diving destination in the Europe region, offering 1 documented dive sites with depths ranging from 18 to 18 meters. Silfra Fissure is particularly known for diving between tectonic plates, 100m+ visibility, glacial water. Notable sites include Silfra Cathedral, Silfra Hall, Silfra Lagoon. Water temperatures average 10-25°C (50-77°F), with visibility typically reaching 10-40 meters (30-130 feet). The diving season runs May to October, with the best conditions during May to October.
+Silfra Fissure is one of the world's most extraordinary dive destinations, located in Thingvellir National Park on Iceland's Golden Circle route, approximately one hour from Reykjavik. It is the only place on Earth where divers can swim directly in the rift between two diverging tectonic plates: the North American plate to the west and the Eurasian plate to the east. The plates separate at approximately 2 cm per year, making Silfra a continuously widening crack in the Earth's crust.
+
+The water filling Silfra is glacial meltwater from the Langjökull glacier, filtered through porous lava rock for 30 to 100 years before emerging as a spring. This filtration produces water so pure that it is safe to drink mid-dive. Visibility consistently exceeds 100 meters — widely recognized as the clearest diving water in the world. Water temperature holds at 2–4°C year-round; a drysuit is mandatory for all diving and snorkeling.
+
+Ranked among PADI's top 10 dive sites worldwide, Silfra is also included in the UNESCO World Heritage Site of Thingvellir National Park. The dive site has no coral, no saltwater species, and no tropical marine life — its appeal is entirely geological and visual. The dominant "marine life" is neon-green freshwater algae known locally as "troll hair."
+
+The Silfra fissure system includes four connected sections dived as a continuous drift: Big Crack (narrowest, where you can touch both plates), Silfra Hall (widest, with a 45m cave system beneath), Silfra Cathedral (a dramatic 100m-long blue corridor), and Silfra Lagoon (shallow exit with the highest visibility and most algae). Davíðsgjá is a separate fissure on the northeast shore of Thingvallavatn Lake, popular with local divers and combined with Silfra for full-day two-dive itineraries.
+
+Strýtan Hydrothermal Chimney, also included in this destination, is a separate site located in Eyjafjörður fjord near Akureyri in North Iceland (approximately 300 km north of Silfra). It is an Advanced-only boat dive to the world's only accessible hydrothermal chimney.
 
 ### Diving Opportunities
 
-- **Shore Diving**: 1 accessible shore dive sites offering convenient, self-guided diving experiences
-- **Wreck Diving**: Historic shipwrecks preserved in the region's waters
-- **Night Diving**: After-dark diving reveals nocturnal marine species and different reef behaviors
+- **Tectonic fissure diving**: 5 shore dive sites within the Thingvellir fissure system (Silfra Big Crack, Silfra Hall, Silfra Cathedral, Silfra Lagoon, and Davíðsgjá)
+- **Hydrothermal chimney diving**: Strýtan, the world's only diveable active hydrothermal vent, near Akureyri (Advanced only, boat dive)
+- **Photography**: World-class wide-angle and ambient-light photography in 100m+ visibility freshwater
 
 ### Accessibility
 
-- **Getting There**: Silfra Fissure is accessible via international and regional flights to nearby airports. Check with airlines for current routes and connections.
-- **Dive Operators**: Professional dive operators offer equipment rental, guided dives, certification courses, and boat trips to offshore sites.
-- **Accommodation**: Options range from dedicated dive resorts to budget-friendly guesthouses, with many properties located near popular dive sites.
-- **Transportation**: Local transportation and dive operator transfers are the primary means of reaching dive sites.
-- **Facilities**: Dive sites vary in available amenities; operator-run sites typically provide comprehensive facilities while remote sites may have limited infrastructure.
+- **Getting There**: Fly into Reykjavik (Keflavik International Airport). Silfra and Thingvellir are approximately 1 hour by car on the Golden Circle route. Strýtan is near Akureyri in North Iceland — fly from Reykjavik Domestic Airport or drive 4–5 hours.
+- **Dive Operators**: Diving in Silfra requires booking with an authorized operator licensed to operate in Thingvellir National Park. Major operators include DIVE.IS and Magmadive. Strýtan is operated exclusively by the Strýtan Divecenter at Hjalteyri.
+- **Accommodation**: Reykjavik offers the widest accommodation options for Silfra. Akureyri for Strýtan.
+- **Regulations**: One dive per day per person in Silfra (national park regulation). All dives must be with an authorized guide. Drysuit certification or documented recent drysuit experience required for all sites.
 
-### Marine Life & Environment
+### Equipment Requirements
 
-- **Water Conditions**: Water temperatures range from 10-25°C (50-77°F) with visibility of 10-40 meters (30-130 feet). Currents are generally light to moderate.
-- **Marine Biodiversity**: The waters support diverse marine ecosystems including groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses, posidonia seagrass, red coral.
-- **Conservation**: Local conservation efforts help protect marine habitats and ensure sustainable diving practices.
+- **Drysuit**: Mandatory. No wetsuit diving is permitted in Silfra or Davíðsgjá. Drysuit certification or proof of minimum 10 logged drysuit dives within the last 2 years required.
+- **Minimum Certification**: Open Water for Silfra and Davíðsgjá; Advanced Open Water for Strýtan.
+- **Rental equipment**: Drysuits and all equipment can be rented from operators if needed.
+
+### Water Conditions
+
+- **Water Temperature**: 2–4°C (35–39°F) at Silfra and Davíðsgjá year-round. Slightly warmer (4–8°C) in Eyjafjörður at Strýtan.
+- **Visibility**: 100–120+ meters at Silfra; 20–40 meters at Strýtan.
+- **Current**: Minimal in Silfra fissure. Can be significant at Strýtan in Eyjafjörður.
+- **Marine Life**: Freshwater sites (Silfra, Davíðsgjá): troll-hair algae, dwarf char, Arctic char (August–September), brown trout. Saltwater site (Strýtan): cod, pollock, wolffish, lumpsucker, nudibranchs, starfish, starry rays.
+
+### Conservation
+
+Thingvellir National Park is a UNESCO World Heritage Site. All diving must be conducted with authorized operators who enforce strict no-contact guidelines for the fissure walls. Strýtan became the first protected underwater area in Iceland in 2001.
 
 ## Additional Information
 
-- **Best Time to Visit**: May to October. Outside the main season, conditions may be less favorable.
+- **Best Time to Visit**: Year-round for Silfra (conditions are consistent). April to October preferred for Davíðsgjá (winter road closures and ice possible). Strýtan is year-round.
 - **Currency**: Icelandic Króna (ISK)
-- **Language**: Icelandic
-- **Safety**: Always dive within certification limits. Be aware of cold water (north), currents, boat traffic. Verify the location of the nearest hyperbaric chamber before diving.
+- **Language**: Icelandic; English widely spoken
+- **Safety**: The primary risk at all Iceland dive sites is cold-water exposure. Manage drysuit buoyancy carefully. One-dive-per-day limit at Silfra. Nearest recompression chambers are in Reykjavik.
 
 ## Sources
 
-- OpenStreetMap dive site data and community contributions
-- Regional diving guides and operator information
-- Marine conservation organization reports
-- Local tourism board resources
+- dive.is (DIVE.IS Iceland — authorized Silfra and Strýtan operator)
+- strytan.is (Strýtan Divecenter)
+- magmadive.is (Magmadive Iceland)
+- adventures.is
+- wikipedia.org (Silfra, Strýtan vent field)
+- xray-mag.com, alertdiver.eu (Strýtan)
+- scubadiving.com, scuba.com
 
 ---
 
 *Last updated: March 2026*
-*Compiled from OpenStreetMap data, regional diving knowledge, and authoritative marine sources*
+*Compiled from operator sites, Wikipedia, dive operator databases, and ScubaBoard research.*

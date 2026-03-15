@@ -25,9 +25,9 @@ The bow sits just below the surface — at times visible from the surface — ma
 
 - **Location**: Chuuk Lagoon, near Uman Island, Federated States of Micronesia
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck (WWII cargo ship)
-- **Difficulty Level**: Intermediate (main wreck 3–30m; stern crater at 48m is Advanced/Technical)
-- **Maximum Depth**: 30 metres (main wreck); 48 metres (stern section and crater — rarely visited, Advanced/Technical)
+- **Site Type**: Wreck dive
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20–35 metres
 - **Water Temperature**: 28–30°C year-round
 - **Best Time**: Year-round; December to April for calmest conditions

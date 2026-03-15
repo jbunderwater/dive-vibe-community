@@ -2,9 +2,9 @@
 name: HIJMS Tachikaze
 lat: 7.0972304
 lng: 151.8400396
-difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+difficulty: Advanced
+maxDepth: 40
+entryType: boat
 siteType: wreck
 ref: null
 osmId: 2408153986
@@ -13,56 +13,51 @@ addedBy: osm_import
 
 ## HIJMS Tachikaze
 
-HIJMS Tachikaze is a historic wreck dive in Chuuk Lagoon, Pacific.
+A Minekaze-class Imperial Japanese Navy destroyer sunk during Operation Hailstone, the Tachikaze was torpedoed on February 18, 1944, while immobilised after having run aground two weeks earlier. She is one of four Japanese destroyers lost during the two-day American carrier assault on Truk Lagoon.
 
 ## Overview
 
-HIJMS Tachikaze is a dive site in Chuuk Lagoon featuring the wreck of the HIJMS Tachikaze which sank in 1944-02-18. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+The HIJMS Tachikaze (立風, meaning "Earth Wind") was a Minekaze-class destroyer of the Imperial Japanese Navy, measuring 102.7 metres (337 feet) in length and 9.1 metres in beam. She ran aground on February 4, 1944, leaving her stranded in the lagoon when Operation Hailstone commenced. Unable to manoeuvre, she was hit by a torpedo and sunk on February 18, 1944 — the second day of the American carrier raids. She was one of four destroyers lost during Operation Hailstone, alongside Oite, Fumizuki, and Maikaze.
+
+As a destroyer-class vessel, the Tachikaze carried the distinctive armament layout of a frontline warship: deck guns fore and aft, torpedo launchers, depth charge racks, and anti-aircraft guns — unlike the transport and cargo wrecks that form the majority of the Ghost Fleet.
 
 ## Site Information
 
-- **Location**: Chuuk Lagoon, Pacific
-- **Entry Type**: Shore entry
+- **Location**: Chuuk Lagoon, Federated States of Micronesia
+- **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 40 meters
+- **Typical Visibility**: 20–35 metres
+- **Water Temperature**: 28–30°C year-round
+- **Best Time**: Year-round; December to April for calmest conditions
 
-## Marine Life
+## What Divers See
 
-Divers at this site can expect to encounter coral growth, anemones, lionfish, scorpionfish, glassy sweepers, manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks. Additional species commonly sighted include sea turtles, napoleon wrasse, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The Tachikaze is a less frequently dived wreck compared to the major cargo ships, which contributes to a more remote and undisturbed atmosphere. The compact 102.7-metre destroyer hull preserves the features characteristic of a warship: deck guns, torpedo tube launchers, and depth charge equipment typical of Minekaze-class vessels. The relatively slender destroyer hull contrasts sharply with the massive cargo ships that dominate Chuuk itineraries.
+
+Coral growth has colonised the wreck over eight decades, softening the profile of the naval hardware. The destroyer's narrow beam makes interior penetration extremely tight and is not generally recommended without specialist wreck penetration training and guide support.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 25 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The Tachikaze rests at approximately 40 metres maximum depth, making this an Advanced-level dive with limited no-decompression time on recreational air. Nitrox is strongly recommended for meaningful bottom time on the wreck. Due to the limited documentation of this wreck compared to the main Ghost Fleet sites, diving with a local guide who knows the site is essential.
 
-## Entry and Exit
+## Marine Life
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+Marine life colonising the hull includes corals, sponges, and the reef fish community typical of Chuuk Lagoon. The relatively undisturbed nature of this site may support a quieter, less visited marine environment than the heavily trafficked major wrecks.
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+At approximately 40 metres maximum depth, this dive requires careful gas planning and falls outside the recreational range for some agencies. Nitrox certification is recommended. The destroyer hull is narrow and penetration is extremely restricted — do not attempt without appropriate wreck penetration qualifications and a local guide. All Chuuk Lagoon wrecks are designated war graves under FSM law; no artifacts may be removed.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The destroyer's profile and naval hardware make this a distinctive photographic contrast to the freighters and tankers that dominate Chuuk Lagoon diving. Wide-angle shots of the deck gun and torpedo launcher installations document a warship type rarely encountered at recreational depths.
 
 ## Additional Resources
 
-- **Website**: https://www.wrecksite.eu/wreck.aspx?57722
+- **Wikipedia**: [Japanese destroyer Tachikaze](https://en.wikipedia.org/wiki/Japanese_destroyer_Tachikaze)
 - **Last Updated**: 2026-03-15
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*Validated against Wikipedia (Japanese destroyer Tachikaze), Operation Hailstone historical records. Note: this wreck is less documented than the main Ghost Fleet sites; depths are approximate based on OSM data and destroyer displacement. Dive with local guide. Last updated 2026-03-15.*

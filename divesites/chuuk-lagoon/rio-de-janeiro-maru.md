@@ -25,9 +25,9 @@ She now rests 411 metres from the shore of Uman Island, lying on her starboard s
 
 - **Location**: Chuuk Lagoon, east side of Uman Island, Federated States of Micronesia
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck (WWII passenger-cargo liner, ex-submarine tender)
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 33 metres (seabed); top of wreck at approximately 10 metres
+- **Maximum Depth**: 33 meters
 - **Typical Visibility**: 20–35 metres
 - **Water Temperature**: 28–30°C year-round
 - **Best Time**: Year-round; December to April for calmest conditions

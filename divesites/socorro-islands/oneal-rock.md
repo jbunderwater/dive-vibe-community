@@ -22,9 +22,9 @@ O'Neal Rock earns its "Hammerhead Central" nickname from the reliable aggregatio
 ## Site Information
 
 - **Location**: Socorro Island, Revillagigedo Archipelago (liveaboard only)
-- **Entry Type**: Boat dive (zodiac tender)
-- **Site Type**: Pinnacle
-- **Difficulty Level**: Advanced — remote liveaboard location, open-ocean environment, currents possible
+- **Entry Type**: Boat dive
+- **Site Type**: Pinnacle/seamount
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20–25 meters
 - **Current**: Moderate to strong

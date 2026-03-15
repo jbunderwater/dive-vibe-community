@@ -13,55 +13,68 @@ addedBy: osm_import
 
 ## Police Pier
 
-Police Pier is a reef dive site in Lembeh Strait, Asia.
+Despite the name, Police Pier is not a pier dive — there is no structure to dive beneath. The site is named after the nearby Lembeh police station on shore, and the diving takes place over flat black sand and silt, rubble, and scattered soft coral gardens in the shallows. This is a classic critter-hunting muck site that has appeared in National Geographic, BBC documentaries, and countless dive photography books. It is one of Lembeh's most productive beginner and night dive sites.
 
 ## Overview
 
-Police Pier is a dive site in Lembeh Strait offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Police Pier is located on the Bitung mainland side of the southern strait, in an area of silty black sand and soft coral patches. The bottom appears grey and lifeless at first glance, but on closer inspection reveals a teeming ecosystem of camouflaged predators and unusual invertebrates. Between 8 and 15 meters, rocky patches host dense aggregations of Banggai cardinalfish, an endemic species found only in this region of Indonesia. Scorpionfish, lionfish, and flamboyant cuttlefish work the open sand. Night dives here are highly regarded.
 
 ## Site Information
 
-- **Location**: Lembeh Strait, Asia
+- **Location**: Southern Lembeh Strait, mainland side, North Sulawesi, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Muck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 5–12 meters
+- **Water Temperature**: 26–29°C
+- **Current**: Generally minimal
+- **Best Time**: Year-round; night dives especially productive
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Police Pier is known for its reliable scorpionfish and cuttlefish sightings, as well as some of Lembeh's most unusual encounters:
+
+- **Flamboyant cuttlefish** — walking along the sandy bottom using arm tips while flashing warning colors; a photographic highlight
+- **Scorpionfish and lionfish** — multiple species resting camouflaged across the sandy substrate
+- **Humpback scorpionfish** — found year-round during daytime dives
+- **Painted frogfish** — seasonal appearances, well documented at this site
+- **Banggai cardinalfish** (*Pterapogon kauderni*) — endemic to the region; hundreds of individuals schooling in rocky patches at 8–15 m
+- **Snake eels** — heads visible above the sand, often attended by cleaner shrimps
+- **Stargazers** — buried in sand with eyes visible; spectacular night dive targets
+- **Dragonets** (finger dragonets) — on the sandy bottom
+- **Long-armed octopus** — moving across the open sand
+- **Bobtail squid** — a night dive special, emerging from the sand after dark
+- **Bobbit worm** (*Eunice aphroditois*) — guides have documented this spectacular nocturnal ambush predator at the site
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The dive is conducted over relatively flat ground, making navigation straightforward. Start at the sand flat and work toward the rocky patch zone at 8–15 meters for the Banggai cardinalfish. The open sand between these zones is the best hunting ground for flamboyant cuttlefish and flatfish. Maximum depth of 15 meters means generous bottom time. Night dives focus on the sandy areas where stargazers emerge and bobtail squid appear.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by dive boat. Giant stride or back roll entry. No current management required. Night diving is available through local operators and recommended. A torch is essential for night dives; dual torches are recommended.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Police Pier is ideal for newer divers — easy depth, minimal current, and excellent guide support
+- The Banggai cardinalfish aggregation in the rocky patch is a spectacular and uniquely Lembeh experience
+- Look very carefully at the grey/brown substrate — humpback scorpionfish and stonefish are essentially invisible until your eye learns to see them
+- Night dives are among the best in the strait — the sand transforms into an active hunting ground
+- Ask your guide specifically for the Bobbit worm at night — it's a rare sighting but documented at this site
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+This is one of Lembeh's most benign sites for conditions — shallow, calm, and no significant current. The main safety concern is venomous species on the substrate: stonefish and scorpionfish are genuinely dangerous and completely camouflaged. Never kneel on or touch the sandy bottom. Maintain buoyancy control throughout. Night diving requires buddy pairs and torch discipline.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Police Pier's flat sand offers excellent setup opportunities for close-focus subjects. Flamboyant cuttlefish are exceptionally photogenic and often allow slow approaches. The Banggai cardinalfish school rewards wide-angle shots in natural light during the day. Night sessions with strobes capture stargazers, bobtail squid, and dragonets with clean black backgrounds. A 60mm macro lens handles most subjects here.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Validated**: 2026-03-15
+- **Validation Sources**: starfish.ch, zubludiving.com, blog.padi.com
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*Dive site information researched from starfish.ch Lembeh dive site database, ZuBlu, and PADI Blog. Last updated 2026-03-15.*
