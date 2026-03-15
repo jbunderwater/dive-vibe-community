@@ -1,1 +1,146 @@
-[]
+[
+  {
+    "name": "Navy Pier",
+    "filename": "navy-pier.md",
+    "lat": -21.8097,
+    "lng": 114.1578,
+    "difficulty": "Intermediate",
+    "maxDepth": 12,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Lighthouse Bay",
+    "filename": "lighthouse-bay.md",
+    "lat": -21.8833,
+    "lng": 114.15,
+    "difficulty": "Beginner",
+    "maxDepth": 8,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Turquoise Bay",
+    "filename": "turquoise-bay.md",
+    "lat": -22.0264,
+    "lng": 113.9881,
+    "difficulty": "Beginner",
+    "maxDepth": 5,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Bundegi Reef",
+    "filename": "bundegi-reef.md",
+    "lat": -21.7833,
+    "lng": 114.1833,
+    "difficulty": "Beginner",
+    "maxDepth": 8,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Tantabiddi",
+    "filename": "tantabiddi.md",
+    "lat": -21.9167,
+    "lng": 113.9667,
+    "difficulty": "Beginner",
+    "maxDepth": 10,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Lakeside",
+    "filename": "lakeside.md",
+    "lat": -21.9333,
+    "lng": 113.95,
+    "difficulty": "Beginner",
+    "maxDepth": 10,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Blizzard Ridge",
+    "filename": "blizzard-ridge.md",
+    "lat": -22.7,
+    "lng": 113.6667,
+    "difficulty": "Intermediate",
+    "maxDepth": 15,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Clerke Reef",
+    "filename": "clerke-reef.md",
+    "lat": -22.65,
+    "lng": 113.7333,
+    "difficulty": "Intermediate",
+    "maxDepth": 20,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Mandu Wall",
+    "filename": "mandu-wall.md",
+    "lat": -22.1333,
+    "lng": 113.8667,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "The Labyrinth",
+    "filename": "the-labyrinth.md",
+    "lat": -22.05,
+    "lng": 113.9167,
+    "difficulty": "Intermediate",
+    "maxDepth": 18,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Norwegian Bay",
+    "filename": "norwegian-bay.md",
+    "lat": -21.85,
+    "lng": 114.1667,
+    "difficulty": "Beginner",
+    "maxDepth": 12,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Oyster Stacks",
+    "filename": "oyster-stacks.md",
+    "lat": -22.0333,
+    "lng": 113.9833,
+    "difficulty": "Beginner",
+    "maxDepth": 4,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  }
+]

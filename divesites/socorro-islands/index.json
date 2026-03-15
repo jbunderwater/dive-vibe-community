@@ -1,1 +1,86 @@
-[]
+[
+  {
+    "name": "Roca Partida",
+    "filename": "roca-partida.md",
+    "lat": 19.0,
+    "lng": -112.0667,
+    "difficulty": "Advanced",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "The Boiler San Benedicto",
+    "filename": "the-boiler-san-benedicto.md",
+    "lat": 19.3,
+    "lng": -110.8,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Cabo Pearce Socorro",
+    "filename": "cabo-pearce-socorro.md",
+    "lat": 18.7833,
+    "lng": -110.95,
+    "difficulty": "Advanced",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Punta Tosca Socorro",
+    "filename": "punta-tosca-socorro.md",
+    "lat": 18.7667,
+    "lng": -110.9667,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Canyon San Benedicto",
+    "filename": "canyon-san-benedicto.md",
+    "lat": 19.3167,
+    "lng": -110.8167,
+    "difficulty": "Advanced",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "The Aquarium San Benedicto",
+    "filename": "the-aquarium-san-benedicto.md",
+    "lat": 19.2833,
+    "lng": -110.7833,
+    "difficulty": "Intermediate",
+    "maxDepth": 15,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "O'Neal Rock",
+    "filename": "oneal-rock.md",
+    "lat": 18.7917,
+    "lng": -110.9417,
+    "difficulty": "Advanced",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  }
+]

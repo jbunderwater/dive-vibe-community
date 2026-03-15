@@ -13,5 +13,185 @@
       "name": "NAD Lembeh",
       "sport": "scuba_diving"
     }
+  },
+  {
+    "name": "Hairball",
+    "lat": 1.4667,
+    "lon": 125.2333,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "TK1",
+    "lat": 1.475,
+    "lon": 125.2417,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "TK2",
+    "lat": 1.4767,
+    "lon": 125.24,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "TK3",
+    "lat": 1.4783,
+    "lon": 125.2383,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 22,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Nudi Falls",
+    "lat": 1.4833,
+    "lon": 125.25,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Police Pier",
+    "lat": 1.4583,
+    "lon": 125.2167,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 12,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Jahir",
+    "lat": 1.4917,
+    "lon": 125.2583,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Makawide",
+    "lat": 1.47,
+    "lon": 125.2283,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Aer Bajo",
+    "lat": 1.5,
+    "lon": 125.2667,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Nudi Retreat",
+    "lat": 1.485,
+    "lon": 125.2533,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Angel's Window",
+    "lat": 1.4633,
+    "lon": 125.22,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 22,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Retak Larry",
+    "lat": 1.48,
+    "lon": 125.245,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
   }
 ]

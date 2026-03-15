@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "name": "The Wall at Northwest Point",
+    "filename": "the-wall-at-northwest-point.md",
+    "lat": 21.8667,
+    "lng": -72.3333,
+    "difficulty": "Intermediate",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Shark Hotel",
+    "filename": "shark-hotel.md",
+    "lat": 21.8333,
+    "lng": -72.2333,
+    "difficulty": "Intermediate",
+    "maxDepth": 18,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Black Forest",
+    "filename": "black-forest.md",
+    "lat": 21.85,
+    "lng": -72.3,
+    "difficulty": "Intermediate",
+    "maxDepth": 20,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "The Amphitheatre",
+    "filename": "the-amphitheatre.md",
+    "lat": 21.8417,
+    "lng": -72.25,
+    "difficulty": "Beginner",
+    "maxDepth": 12,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "G-Spot",
+    "filename": "g-spot.md",
+    "lat": 21.8583,
+    "lng": -72.3167,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Chief Minister Wreck",
+    "filename": "chief-minister-wreck.md",
+    "lat": 21.4333,
+    "lng": -71.1333,
+    "difficulty": "Intermediate",
+    "maxDepth": 20,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Southwind Wreck",
+    "filename": "southwind-wreck.md",
+    "lat": 21.875,
+    "lng": -72.1833,
+    "difficulty": "Beginner",
+    "maxDepth": 15,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Coral Gardens Grace Bay",
+    "filename": "coral-gardens-grace-bay.md",
+    "lat": 21.8167,
+    "lng": -72.2167,
+    "difficulty": "Beginner",
+    "maxDepth": 10,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "The Hole in the Wall",
+    "filename": "the-hole-in-the-wall.md",
+    "lat": 21.7167,
+    "lng": -71.6167,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "West Caicos Wall",
+    "filename": "west-caicos-wall.md",
+    "lat": 21.7,
+    "lng": -72.45,
+    "difficulty": "Advanced",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  }
+]

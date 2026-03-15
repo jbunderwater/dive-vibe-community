@@ -37,5 +37,230 @@
       "wreck:visible_at_high_tide": "no",
       "wreck:visible_at_low_tide": "no"
     }
+  },
+  {
+    "name": "Stingray City",
+    "lat": 19.3833,
+    "lon": -81.3167,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 4,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Bloody Bay Wall",
+    "lat": 19.7,
+    "lon": -80.0833,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 30,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "USS Kittiwake",
+    "lat": 19.3667,
+    "lon": -81.4,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 20,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Devil's Grotto",
+    "lat": 19.3083,
+    "lon": -81.3833,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 15,
+    "site_type": "cave",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Babylon Grand Cayman",
+    "lat": 19.2833,
+    "lon": -81.4333,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 30,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Ghost Mountain",
+    "lat": 19.7083,
+    "lon": -80.075,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Orange Canyon",
+    "lat": 19.275,
+    "lon": -81.4417,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 20,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Balboa Wreck",
+    "lat": 19.325,
+    "lon": -81.3667,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 9,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Chinese Wall",
+    "lat": 19.2667,
+    "lon": -81.45,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 25,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Eagle Ray Pass",
+    "lat": 19.3583,
+    "lon": -81.4083,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Japanese Garden Grand Cayman",
+    "lat": 19.35,
+    "lon": -81.4167,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 12,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Doc Poulson Wreck",
+    "lat": 19.3417,
+    "lon": -81.4083,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 18,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Keith Tibbetts Wreck Cayman Brac",
+    "lat": 19.7167,
+    "lon": -79.8,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 30,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Trinity Caves",
+    "lat": 19.2917,
+    "lon": -81.425,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 18,
+    "site_type": "cave",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Mixing Bowl Little Cayman",
+    "lat": 19.6833,
+    "lon": -80.0667,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 25,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
   }
 ]

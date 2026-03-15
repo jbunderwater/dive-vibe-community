@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "name": "Thundercliff Cave",
+    "lat": -10.4833,
+    "lon": 105.7,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 22,
+    "site_type": "cave",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Flying Fish Cove",
+    "lat": -10.4278,
+    "lon": 105.6753,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Ethel Beach",
+    "lat": -10.45,
+    "lon": 105.6167,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 12,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "The Grotto",
+    "lat": -10.4367,
+    "lon": 105.67,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 18,
+    "site_type": "cave",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Egeria Point",
+    "lat": -10.4833,
+    "lon": 105.6333,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 30,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "West White Beach",
+    "lat": -10.4333,
+    "lon": 105.6,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Perpendicular Wall",
+    "lat": -10.5,
+    "lon": 105.65,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 40,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Dolly Beach",
+    "lat": -10.4667,
+    "lon": 105.6833,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  }
+]

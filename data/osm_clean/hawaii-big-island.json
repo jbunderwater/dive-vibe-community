@@ -1,1 +1,152 @@
-[]
+[
+  {
+    "name": "Manta Ray Night Dive Kona",
+    "lat": 19.5775,
+    "lon": -155.9703,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 12,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Kealakekua Bay",
+    "lat": 19.4803,
+    "lon": -155.9267,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Honokohau Harbor",
+    "lat": 19.6672,
+    "lon": -156.0267,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Garden Eel Cove",
+    "lat": 19.5797,
+    "lon": -155.9694,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 10,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Suck Em Up",
+    "lat": 19.65,
+    "lon": -156.0167,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Puako Reef",
+    "lat": 19.9667,
+    "lon": -155.85,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Kohala Coast",
+    "lat": 19.9333,
+    "lon": -155.8667,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Long Lava Tube",
+    "lat": 19.5833,
+    "lon": -155.975,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 12,
+    "site_type": "cave",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Turtle Pinnacle",
+    "lat": 19.6333,
+    "lon": -156.0083,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Aquarium",
+    "lat": 19.5806,
+    "lon": -155.97,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 10,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  }
+]

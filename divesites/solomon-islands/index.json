@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "name": "Bonegi 1 Wreck",
+    "filename": "bonegi-1-wreck.md",
+    "lat": -9.3667,
+    "lng": 159.95,
+    "difficulty": "Intermediate",
+    "maxDepth": 20,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Bonegi 2 Wreck",
+    "filename": "bonegi-2-wreck.md",
+    "lat": -9.3583,
+    "lng": 159.9417,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Toa Maru Wreck",
+    "filename": "toa-maru-wreck.md",
+    "lat": -8.0167,
+    "lng": 156.8333,
+    "difficulty": "Intermediate",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Devil's Highway",
+    "filename": "devils-highway.md",
+    "lat": -9.05,
+    "lng": 160.1333,
+    "difficulty": "Advanced",
+    "maxDepth": 25,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Mary Island",
+    "filename": "mary-island.md",
+    "lat": -9.3833,
+    "lng": 160.1833,
+    "difficulty": "Intermediate",
+    "maxDepth": 18,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Leru Cut Florida Islands",
+    "filename": "leru-cut-florida-islands.md",
+    "lat": -9.0833,
+    "lng": 160.25,
+    "difficulty": "Intermediate",
+    "maxDepth": 20,
+    "entryType": "boat",
+    "siteType": "cave",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Maravagi Passage",
+    "filename": "maravagi-passage.md",
+    "lat": -9.1,
+    "lng": 160.2,
+    "difficulty": "Intermediate",
+    "maxDepth": 22,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Sandfly Passage",
+    "filename": "sandfly-passage.md",
+    "lat": -8.0833,
+    "lng": 156.85,
+    "difficulty": "Advanced",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Custom's House Wreck",
+    "filename": "customs-house-wreck.md",
+    "lat": -9.3833,
+    "lng": 160.0167,
+    "difficulty": "Beginner",
+    "maxDepth": 15,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Mirror Pond Uepi",
+    "filename": "mirror-pond-uepi.md",
+    "lat": -8.35,
+    "lng": 158.0667,
+    "difficulty": "Beginner",
+    "maxDepth": 15,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  }
+]

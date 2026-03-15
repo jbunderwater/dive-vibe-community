@@ -1,1 +1,152 @@
-[]
+[
+  {
+    "name": "Tent Reef",
+    "lat": 17.62,
+    "lon": -63.25,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Tent Reef Wall",
+    "lat": 17.6217,
+    "lon": -63.2517,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 40,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Third Encounter",
+    "lat": 17.6167,
+    "lon": -63.2667,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Hot Springs",
+    "lat": 17.6133,
+    "lon": -63.2583,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Ladder Labyrinth",
+    "lat": 17.625,
+    "lon": -63.245,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Eye of the Needle",
+    "lat": 17.6283,
+    "lon": -63.2433,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 28,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Diamond Rock",
+    "lat": 17.63,
+    "lon": -63.2567,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Man O War Shoals",
+    "lat": 17.6083,
+    "lon": -63.27,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Torrens Point",
+    "lat": 17.635,
+    "lon": -63.235,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Green Island",
+    "lat": 17.6117,
+    "lon": -63.2733,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 22,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  }
+]

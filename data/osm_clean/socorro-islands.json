@@ -1,1 +1,107 @@
-[]
+[
+  {
+    "name": "Roca Partida",
+    "lat": 19.0,
+    "lon": -112.0667,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "The Boiler San Benedicto",
+    "lat": 19.3,
+    "lon": -110.8,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Cabo Pearce Socorro",
+    "lat": 18.7833,
+    "lon": -110.95,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Punta Tosca Socorro",
+    "lat": 18.7667,
+    "lon": -110.9667,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Canyon San Benedicto",
+    "lat": 19.3167,
+    "lon": -110.8167,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 30,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "The Aquarium San Benedicto",
+    "lat": 19.2833,
+    "lon": -110.7833,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "O'Neal Rock",
+    "lat": 18.7917,
+    "lon": -110.9417,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  }
+]

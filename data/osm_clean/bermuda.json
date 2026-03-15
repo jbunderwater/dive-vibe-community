@@ -1,1 +1,227 @@
-[]
+[
+  {
+    "name": "Montana",
+    "lat": 32.3625,
+    "lon": -64.6478,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 12,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Constellation",
+    "lat": 32.3622,
+    "lon": -64.6481,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 9,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Cristobal Colon",
+    "lat": 32.45,
+    "lon": -64.6333,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 17,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Hermes",
+    "lat": 32.35,
+    "lon": -64.7833,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 25,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "King George",
+    "lat": 32.3667,
+    "lon": -64.7667,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 22,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Taunton",
+    "lat": 32.355,
+    "lon": -64.655,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 12,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "North Carolina",
+    "lat": 32.3533,
+    "lon": -64.6467,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 14,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Pelinaion",
+    "lat": 32.3583,
+    "lon": -64.6433,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 18,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Darlington",
+    "lat": 32.3567,
+    "lon": -64.6517,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 11,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Mary Celestia",
+    "lat": 32.275,
+    "lon": -64.8417,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 17,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Minnie Breslauer",
+    "lat": 32.2833,
+    "lon": -64.8333,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 20,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Lartington",
+    "lat": 32.36,
+    "lon": -64.65,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 10,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Southwest Breaker",
+    "lat": 32.25,
+    "lon": -64.8833,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 8,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Cathedral Bermuda",
+    "lat": 32.3475,
+    "lon": -64.66,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 18,
+    "site_type": "cave",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Tarpon Hole",
+    "lat": 32.345,
+    "lon": -64.665,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 12,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  }
+]

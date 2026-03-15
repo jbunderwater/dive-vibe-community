@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "name": "Barracuda Point",
+    "filename": "barracuda-point.md",
+    "lat": 4.1147,
+    "lng": 118.6289,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "South Point",
+    "filename": "south-point.md",
+    "lat": 4.11,
+    "lng": 118.6267,
+    "difficulty": "Intermediate",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Drop Off",
+    "filename": "drop-off.md",
+    "lat": 4.1167,
+    "lng": 118.63,
+    "difficulty": "Advanced",
+    "maxDepth": 40,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Turtle Cavern",
+    "filename": "turtle-cavern.md",
+    "lat": 4.1133,
+    "lng": 118.6278,
+    "difficulty": "Advanced",
+    "maxDepth": 20,
+    "entryType": "boat",
+    "siteType": "cave",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "White Tip Avenue",
+    "filename": "white-tip-avenue.md",
+    "lat": 4.1117,
+    "lng": 118.6256,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Hanging Gardens",
+    "filename": "hanging-gardens.md",
+    "lat": 4.1183,
+    "lng": 118.6322,
+    "difficulty": "Intermediate",
+    "maxDepth": 18,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Coral Gardens Sipadan",
+    "filename": "coral-gardens-sipadan.md",
+    "lat": 4.12,
+    "lng": 118.6333,
+    "difficulty": "Beginner",
+    "maxDepth": 12,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Mid Reef",
+    "filename": "mid-reef.md",
+    "lat": 4.115,
+    "lng": 118.6311,
+    "difficulty": "Intermediate",
+    "maxDepth": 20,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Lobster Lairs",
+    "filename": "lobster-lairs.md",
+    "lat": 4.1083,
+    "lng": 118.6244,
+    "difficulty": "Intermediate",
+    "maxDepth": 22,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Staghorn Crest",
+    "filename": "staghorn-crest.md",
+    "lat": 4.1167,
+    "lng": 118.6278,
+    "difficulty": "Beginner",
+    "maxDepth": 15,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  }
+]

@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "name": "Manta Ray Night Dive Kona",
+    "filename": "manta-ray-night-dive-kona.md",
+    "lat": 19.5775,
+    "lng": -155.9703,
+    "difficulty": "Beginner",
+    "maxDepth": 12,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Kealakekua Bay",
+    "filename": "kealakekua-bay.md",
+    "lat": 19.4803,
+    "lng": -155.9267,
+    "difficulty": "Beginner",
+    "maxDepth": 18,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Honokohau Harbor",
+    "filename": "honokohau-harbor.md",
+    "lat": 19.6672,
+    "lng": -156.0267,
+    "difficulty": "Beginner",
+    "maxDepth": 15,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Garden Eel Cove",
+    "filename": "garden-eel-cove.md",
+    "lat": 19.5797,
+    "lng": -155.9694,
+    "difficulty": "Beginner",
+    "maxDepth": 10,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Suck Em Up",
+    "filename": "suck-em-up.md",
+    "lat": 19.65,
+    "lng": -156.0167,
+    "difficulty": "Intermediate",
+    "maxDepth": 18,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Puako Reef",
+    "filename": "puako-reef.md",
+    "lat": 19.9667,
+    "lng": -155.85,
+    "difficulty": "Beginner",
+    "maxDepth": 15,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Kohala Coast",
+    "filename": "kohala-coast.md",
+    "lat": 19.9333,
+    "lng": -155.8667,
+    "difficulty": "Intermediate",
+    "maxDepth": 20,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Long Lava Tube",
+    "filename": "long-lava-tube.md",
+    "lat": 19.5833,
+    "lng": -155.975,
+    "difficulty": "Beginner",
+    "maxDepth": 12,
+    "entryType": "boat",
+    "siteType": "cave",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Turtle Pinnacle",
+    "filename": "turtle-pinnacle.md",
+    "lat": 19.6333,
+    "lng": -156.0083,
+    "difficulty": "Intermediate",
+    "maxDepth": 18,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Aquarium",
+    "filename": "aquarium.md",
+    "lat": 19.5806,
+    "lng": -155.97,
+    "difficulty": "Beginner",
+    "maxDepth": 10,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  }
+]

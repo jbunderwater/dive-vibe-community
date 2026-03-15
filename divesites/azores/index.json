@@ -10,5 +10,113 @@
     "siteType": "reef",
     "ref": "",
     "osmId": 5875583620
+  },
+  {
+    "name": "Caneiro dos Meros",
+    "filename": "caneiro-dos-meros.md",
+    "lat": 37.7833,
+    "lng": -25.5167,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Dom João de Castro Bank",
+    "filename": "dom-joão-de-castro-bank.md",
+    "lat": 38.2167,
+    "lng": -26.6333,
+    "difficulty": "Advanced",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Ilhéu de Vila Franca do Campo",
+    "filename": "ilhéu-de-vila-franca-do-campo.md",
+    "lat": 37.71,
+    "lng": -25.43,
+    "difficulty": "Intermediate",
+    "maxDepth": 20,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Dori Wreck",
+    "filename": "dori-wreck.md",
+    "lat": 37.75,
+    "lng": -25.6667,
+    "difficulty": "Intermediate",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Arcos da Caloura",
+    "filename": "arcos-da-caloura.md",
+    "lat": 37.7167,
+    "lng": -25.5,
+    "difficulty": "Beginner",
+    "maxDepth": 15,
+    "entryType": "shore",
+    "siteType": "cave",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Baixa da Barra",
+    "filename": "baixa-da-barra.md",
+    "lat": 38.5333,
+    "lng": -28.6833,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Terceira Reef",
+    "filename": "terceira-reef.md",
+    "lat": 38.65,
+    "lng": -27.2167,
+    "difficulty": "Intermediate",
+    "maxDepth": 20,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Gruta dos Encharéus Faial",
+    "filename": "gruta-dos-encharéus-faial.md",
+    "lat": 38.5167,
+    "lng": -28.7,
+    "difficulty": "Intermediate",
+    "maxDepth": 18,
+    "entryType": "boat",
+    "siteType": "cave",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "SS Slavonia Wreck",
+    "filename": "ss-slavonia-wreck.md",
+    "lat": 38.6667,
+    "lng": -28.05,
+    "difficulty": "Intermediate",
+    "maxDepth": 18,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": null
   }
 ]

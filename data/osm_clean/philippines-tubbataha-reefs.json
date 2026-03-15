@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "name": "Amos Rock",
+    "lat": 8.8667,
+    "lon": 119.8833,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 30,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Shark Airport",
+    "lat": 8.85,
+    "lon": 119.8667,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Wall Street",
+    "lat": 8.8583,
+    "lon": 119.875,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 35,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Black Rock",
+    "lat": 8.8333,
+    "lon": 119.85,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Malayan Wreck",
+    "lat": 8.875,
+    "lon": 119.8917,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 20,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Bird Islet Wall",
+    "lat": 8.825,
+    "lon": 119.8417,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 30,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Ko-ok",
+    "lat": 8.8417,
+    "lon": 119.8583,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Delsan Wreck",
+    "lat": 8.8833,
+    "lon": 119.9,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 25,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  }
+]

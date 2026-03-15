@@ -1,1 +1,182 @@
-[]
+[
+  {
+    "name": "RMS Rhone",
+    "lat": 18.3733,
+    "lon": -64.6269,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 25,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "The Indians",
+    "lat": 18.4333,
+    "lon": -64.5167,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "The Caves at Norman Island",
+    "lat": 18.3167,
+    "lon": -64.6167,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 12,
+    "site_type": "cave",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Santa Monica Rock",
+    "lat": 18.35,
+    "lon": -64.6333,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Blonde Rock",
+    "lat": 18.36,
+    "lon": -64.62,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Alice in Wonderland",
+    "lat": 18.4,
+    "lon": -64.4333,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 12,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Wreck Alley",
+    "lat": 18.45,
+    "lon": -64.6167,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 27,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Anegada Reef",
+    "lat": 18.7167,
+    "lon": -64.3833,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "The Chimney at Great Dog Island",
+    "lat": 18.4833,
+    "lon": -64.4833,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 18,
+    "site_type": "cave",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Dry Rocks East",
+    "lat": 18.3833,
+    "lon": -64.5833,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 14,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Ginger Steps",
+    "lat": 18.35,
+    "lon": -64.55,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 20,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Playgrounds Anegada",
+    "lat": 18.7333,
+    "lon": -64.3667,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 10,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  }
+]

@@ -1,1 +1,98 @@
-[]
+[
+  {
+    "name": "Swallows Cave",
+    "filename": "swallows-cave.md",
+    "lat": -18.6583,
+    "lng": -174.0417,
+    "difficulty": "Beginner",
+    "maxDepth": 15,
+    "entryType": "boat",
+    "siteType": "cave",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "The Coral Garden Vavau",
+    "filename": "the-coral-garden-vavau.md",
+    "lat": -18.65,
+    "lng": -174.05,
+    "difficulty": "Beginner",
+    "maxDepth": 12,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "The Ledge Vavau",
+    "filename": "the-ledge-vavau.md",
+    "lat": -18.7,
+    "lng": -174.0333,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "St Catherine Wreck",
+    "filename": "st-catherine-wreck.md",
+    "lat": -18.6667,
+    "lng": -174.0167,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Humpback Wall",
+    "filename": "humpback-wall.md",
+    "lat": -18.7167,
+    "lng": -174.05,
+    "difficulty": "Intermediate",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Fonualei",
+    "filename": "fonualei.md",
+    "lat": -18.0167,
+    "lng": -174.3167,
+    "difficulty": "Advanced",
+    "maxDepth": 25,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Mariner's Cave",
+    "filename": "mariners-cave.md",
+    "lat": -18.675,
+    "lng": -174.0333,
+    "difficulty": "Advanced",
+    "maxDepth": 8,
+    "entryType": "boat",
+    "siteType": "cave",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Eua Island",
+    "filename": "eua-island.md",
+    "lat": -21.3833,
+    "lng": -174.9333,
+    "difficulty": "Intermediate",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  }
+]

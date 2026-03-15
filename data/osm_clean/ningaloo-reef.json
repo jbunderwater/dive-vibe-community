@@ -1,1 +1,182 @@
-[]
+[
+  {
+    "name": "Navy Pier",
+    "lat": -21.8097,
+    "lon": 114.1578,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 12,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Lighthouse Bay",
+    "lat": -21.8833,
+    "lon": 114.15,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 8,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Turquoise Bay",
+    "lat": -22.0264,
+    "lon": 113.9881,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 5,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Bundegi Reef",
+    "lat": -21.7833,
+    "lon": 114.1833,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 8,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Tantabiddi",
+    "lat": -21.9167,
+    "lon": 113.9667,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 10,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Lakeside",
+    "lat": -21.9333,
+    "lon": 113.95,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 10,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Blizzard Ridge",
+    "lat": -22.7,
+    "lon": 113.6667,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Clerke Reef",
+    "lat": -22.65,
+    "lon": 113.7333,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Mandu Wall",
+    "lat": -22.1333,
+    "lon": 113.8667,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 25,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "The Labyrinth",
+    "lat": -22.05,
+    "lon": 113.9167,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Norwegian Bay",
+    "lat": -21.85,
+    "lon": 114.1667,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 12,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Oyster Stacks",
+    "lat": -22.0333,
+    "lon": 113.9833,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 4,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  }
+]

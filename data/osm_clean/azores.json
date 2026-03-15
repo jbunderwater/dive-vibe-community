@@ -13,5 +13,140 @@
       "name": "princess alice bank",
       "sport": "scuba_diving"
     }
+  },
+  {
+    "name": "Caneiro dos Meros",
+    "lat": 37.7833,
+    "lon": -25.5167,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Dom João de Castro Bank",
+    "lat": 38.2167,
+    "lon": -26.6333,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Ilhéu de Vila Franca do Campo",
+    "lat": 37.71,
+    "lon": -25.43,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Dori Wreck",
+    "lat": 37.75,
+    "lon": -25.6667,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 30,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Arcos da Caloura",
+    "lat": 37.7167,
+    "lon": -25.5,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 15,
+    "site_type": "cave",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Baixa da Barra",
+    "lat": 38.5333,
+    "lon": -28.6833,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Terceira Reef",
+    "lat": 38.65,
+    "lon": -27.2167,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Gruta dos Encharéus Faial",
+    "lat": 38.5167,
+    "lon": -28.7,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 18,
+    "site_type": "cave",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "SS Slavonia Wreck",
+    "lat": 38.6667,
+    "lon": -28.05,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 18,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
   }
 ]

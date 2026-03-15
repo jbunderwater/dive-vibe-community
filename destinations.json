@@ -44,7 +44,7 @@
     "slug": "cayman-islands",
     "region": "Caribbean",
     "center": [19.35, -81.25],
-    "bounds": [[19.0, -82.0], [19.7, -80.5]],
+    "bounds": [[19.0, -82.0], [19.8, -79.7]],
     "description": "World-class wall dives, excellent visibility, and the famous Stingray City.",
     "overviewFile": "overview.md",
     "countryCode": "KY"
@@ -134,7 +134,7 @@
     "slug": "vancouver-island",
     "region": "North America",
     "center": [49.5, -126.0],
-    "bounds": [[48.0, -128.0], [51.0, -124.0]],
+    "bounds": [[48.0, -128.5], [51.0, -123.0]],
     "description": "Premier cold-water diving with wolf eels, giant Pacific octopus, and colorful anemones.",
     "overviewFile": "overview.md",
     "countryCode": "CA"
@@ -223,8 +223,8 @@
     "name": "Socorro Islands",
     "slug": "socorro-islands",
     "region": "Pacific",
-    "center": [18.8, -110.9],
-    "bounds": [[18.0, -111.5], [19.5, -110.0]],
+    "center": [18.9, -111.0],
+    "bounds": [[18.0, -112.2], [19.5, -110.0]],
     "description": "Remote Pacific paradise with giant manta rays, humpback whales, and massive shark schools.",
     "overviewFile": "overview.md",
     "countryCode": "MX"
@@ -553,8 +553,8 @@
     "name": "Lord Howe Island",
     "slug": "lord-howe-island",
     "region": "Oceania",
-    "center": [-31.5, 159.1],
-    "bounds": [[-31.6, 159.0], [-31.4, 159.2]],
+    "center": [-31.55, 159.1],
+    "bounds": [[-31.8, 158.9], [-31.4, 159.3]],
     "description": "Pristine coral reefs with unique endemic species at the southernmost coral reef.",
     "overviewFile": "overview.md",
     "countryCode": "AU"
@@ -573,8 +573,8 @@
     "name": "Ningaloo Reef",
     "slug": "ningaloo-reef",
     "region": "Oceania",
-    "center": [-23.0, 113.8],
-    "bounds": [[-24.0, 113.0], [-21.8, 114.5]],
+    "center": [-22.5, 113.8],
+    "bounds": [[-24.0, 113.0], [-21.7, 114.5]],
     "description": "Whale shark encounters and pristine coral gardens in Western Australia.",
     "overviewFile": "overview.md",
     "countryCode": "AU"
@@ -713,8 +713,8 @@
     "name": "UAE - Fujairah",
     "slug": "uae-fujairah",
     "region": "Middle East",
-    "center": [25.1, 56.3],
-    "bounds": [[25.0, 56.2], [25.3, 56.4]],
+    "center": [25.5, 56.3],
+    "bounds": [[25.0, 56.1], [25.7, 56.4]],
     "description": "Arabian Sea coral reefs and warm-water diving in the Gulf of Oman.",
     "overviewFile": "overview.md",
     "countryCode": "AE"
