@@ -6,7 +6,7 @@
     "osm_id": 4003440589,
     "osm_type": "node",
     "depth": 20,
-    "site_type": "reef",
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
@@ -14,7 +14,9 @@
       "name": "Dakit-Dakit",
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -156,7 +158,7 @@
     "osm_id": 4941394887,
     "osm_type": "node",
     "depth": 20,
-    "site_type": "reef",
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
@@ -164,7 +166,9 @@
       "name": "North Point",
       "natural": "reef",
       "scuba_diving:divespot": "yes",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -174,7 +178,7 @@
     "osm_id": 4941394888,
     "osm_type": "node",
     "depth": 20,
-    "site_type": "reef",
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
@@ -185,7 +189,9 @@
       "scuba_diving:divespot": "yes",
       "scuba_diving:entry": "boat",
       "sport": "scuba_diving",
-      "tourism": "yes"
+      "tourism": "yes",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -195,7 +201,7 @@
     "osm_id": 4941394889,
     "osm_type": "node",
     "depth": 20,
-    "site_type": "reef",
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
@@ -206,7 +212,9 @@
       "scuba_diving:maxdepth": "20",
       "scuba_diving:type": "reef",
       "sport": "scuba_diving",
-      "tourism": "yes"
+      "tourism": "yes",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -216,7 +224,7 @@
     "osm_id": 4941394890,
     "osm_type": "node",
     "depth": 30,
-    "site_type": "reef",
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
@@ -228,7 +236,9 @@
       "scuba_diving:maxdepth": "30",
       "scuba_diving:type": "reef",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -239,7 +249,7 @@
     "osm_type": "node",
     "depth": 50,
     "minDepth": 5,
-    "site_type": "reef",
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
@@ -252,7 +262,9 @@
       "scuba_diving:mindepth": "5",
       "scuba_diving:type": "shark;reef;rocks",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -309,18 +321,18 @@
     }
   },
   {
-    "name": "Monad Shoel",
+    "name": "Monad Shoal",
     "lat": 11.308907,
     "lon": 124.1882461,
     "osm_id": 485836542,
     "osm_type": "way",
     "depth": 50,
     "minDepth": 5,
-    "site_type": "reef",
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
-      "name": "Monad Shoel",
+      "name": "Monad Shoal",
       "natural": "reef",
       "scuba_diving:depth": "30",
       "scuba_diving:difficulty": "2",
@@ -328,7 +340,9 @@
       "scuba_diving:maxdepth": "50",
       "scuba_diving:mindepth": "5",
       "scuba_diving:type": "shark;reef;rocks",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   }
 ]

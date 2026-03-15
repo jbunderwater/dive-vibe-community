@@ -23,8 +23,8 @@
     "osm_type": "node",
     "depth": null,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Dive Site",
       "scuba_diving:type": "reef",
@@ -103,12 +103,13 @@
     "lat": 13.755,
     "lon": 120.885,
     "depth": 20,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true"
     }
   },
   {
@@ -116,12 +117,14 @@
     "lat": 13.79,
     "lon": 120.92,
     "depth": 8,
-    "site_type": "reef",
+    "site_type": "muck",
     "entry_type": "shore",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -129,12 +132,13 @@
     "lat": 13.745,
     "lon": 120.875,
     "depth": 28,
-    "site_type": "wall",
+    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true"
     }
   },
   {
@@ -168,12 +172,13 @@
     "lat": 13.785,
     "lon": 120.915,
     "depth": 10,
-    "site_type": "reef",
+    "site_type": "muck",
     "entry_type": "shore",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true"
     }
   },
   {
@@ -181,12 +186,13 @@
     "lat": 13.735,
     "lon": 120.865,
     "depth": 20,
-    "site_type": "reef",
+    "site_type": "muck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true"
     }
   }
 ]
