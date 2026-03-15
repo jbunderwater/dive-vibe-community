@@ -141,6 +141,40 @@ claude "/validate-sites --region Pacific"
 claude "/coverage-report Pacific"
 ```
 
+### Batch Validation (Overnight Runs)
+
+For bulk validation of all 122 destinations, use the batch scripts:
+
+```bash
+# Check current validation progress
+./scripts/validate_batch.sh status
+
+# Run a specific batch (1-9)
+./scripts/validate_batch.sh 3
+
+# Run the next unprocessed batch
+./scripts/validate_batch.sh next
+
+# Run all remaining batches overnight (start before bed)
+nohup ./scripts/validate_overnight.sh >> logs/validate.log 2>&1 &
+
+# Monitor progress
+tail -f logs/validate.log
+```
+
+Destinations are grouped into 9 batches by priority:
+1. Specialty sites (wrecks, muck, pelagic) — highest misclassification risk
+2. Caribbean (part 1)
+3. Caribbean (part 2)
+4. Southeast Asia
+5. Pacific & East Asia
+6. Europe & Middle East
+7. Africa & Indian Ocean
+8. North America (East) & Oceania
+9. North America (West) & remaining
+
+Each batch commits and pushes its changes automatically.
+
 ### Manual Data Updates
 
 If you edit `data/osm_clean/{slug}.json` directly (changing depths, types, difficulty), sync the changes to markdown:
