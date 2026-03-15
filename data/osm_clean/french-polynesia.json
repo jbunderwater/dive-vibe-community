@@ -28,7 +28,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Le fer \u00e0 cheval",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -43,7 +45,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Vall\u00e9e aux Mur\u00e8nes",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -52,13 +56,15 @@
     "lon": -149.620331,
     "osm_id": 663869233,
     "osm_type": "node",
-    "depth": 25,
-    "site_type": "reef",
+    "depth": 40,
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Faille St Etienne",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -84,13 +90,15 @@
     "lon": -149.609741,
     "osm_id": 663869236,
     "osm_type": "node",
-    "depth": 25,
-    "site_type": "reef",
+    "depth": 30,
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Temaruata",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -105,7 +113,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "La source",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -120,7 +130,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Plateau aux tortues",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -129,13 +141,15 @@
     "lon": -149.619415,
     "osm_id": 663869239,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 20,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Vall\u00e9e des requins",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -150,7 +164,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "La virgule",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -165,7 +181,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "La zel\u00e9e",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -180,7 +198,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Les Roses",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -196,7 +216,9 @@
     "tags": {
       "name": "Grottes du Tahara",
       "natural": "cave_entrance",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -205,13 +227,15 @@
     "lon": -149.525421,
     "osm_id": 663869246,
     "osm_type": "node",
-    "depth": 25,
-    "site_type": "reef",
+    "depth": 60,
+    "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Faille d'Arue",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -220,13 +244,15 @@
     "lon": -149.609009,
     "osm_id": 663869247,
     "osm_type": "node",
-    "depth": 55,
+    "depth": 20,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Advanced",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Epave Catalina",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -241,7 +267,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Aquarium",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -256,7 +284,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Papa Whisky",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -265,13 +295,15 @@
     "lon": -151.449666,
     "osm_id": 663869250,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 20,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Le trou de la Pieuvre",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -280,13 +312,15 @@
     "lon": -151.489277,
     "osm_id": 663869252,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 10,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "name": "L'Aquarium",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -321,7 +355,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Les rairas",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -355,7 +391,7 @@
     "depth": 29,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Le Nordby",
       "sport": "scuba_diving",
@@ -473,7 +509,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Tao-tao",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -499,7 +537,9 @@
       "wreck:date_sunk": "Novembre 1989",
       "wreck:visible_at_high_tide": "no",
       "wreck:visible_at_low_tide": "no",
-      "wreck:width": "50m"
+      "wreck:width": "50m",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   }
 ]
