@@ -3,9 +3,9 @@ name: Tabarka (block ship)
 lat: 58.9267702
 lng: -3.3131054
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 12
 entryType: boat
-siteType: reef
+siteType: wreck
 ref: null
 osmId: 406542562
 addedBy: osm_import
@@ -13,53 +13,37 @@ addedBy: osm_import
 
 ## Tabarka (block ship)
 
-Tabarka (block ship) is a reef dive site in Scapa Flow, Europe.
+A WWII blockship lying inverted in Burra Sound, the Tabarka is one of Scapa Flow's most rewarding shallow wreck dives — featuring intact boilers, a triple-expansion engine, and brightly coloured anemone-encrusted hull plates.
 
 ## Overview
 
-Tabarka (block ship) is a dive site in Scapa Flow offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The Tabarka was originally a steel single-screw steamer (GRT: 2,624), built at Rotterdam in 1909 and known originally as the *Pollux*. Seized by the Royal Navy at Falmouth in 1940, she was sailed to Scapa Flow and initially sunk as a blockship in Kirk Sound. She was then refloated on 27 July 1944 and repositioned to Burra Sound, where she was resunk as the westernmost of the Burra Sound blockship group — part of Scapa Flow's ongoing defensive scheme.
 
-## Site Information
-
-- **Location**: Scapa Flow, Europe
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: May to October
+She now lies upside down in around 12 metres of water, her inverted hull stabilised by blast holes made during sinking. Inside the hull, three large boilers and a triple-expansion steam engine survive largely in place, creating a fascinating internal dive in very shallow water. The hull has corroded through in places, allowing shafts of light to penetrate the interior and producing what divers describe as an ethereal, almost cathedral-like atmosphere.
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
+The fierce tidal race through Burra Sound (4–5 knots at peak flow) brings constant nutrients to the wreck, making the Tabarka one of the most colourful sites in Scapa Flow. The hull is blanketed in brightly coloured plumose anemones, sea squirts, dead man's fingers, and encrusting sponges. Crabs, lobsters, and squat lobsters occupy the deeper recesses, while shoals of pollock and saithe hover above the hull in the shallower sections. Seals are regularly encountered.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The wreck sits inverted with its shallowest point at around 6 metres and the seabed at approximately 12 metres. Two main areas of interest are the quarry full of boulders (loaded into the hull to aid sinking) and the substantial boiler room, where three large boilers have dropped from their original mounting points. The forepeak can be entered through the first bulkhead, where an internal deck divides the space into swim-through sections. The con-rods of the triple-expansion engine have collapsed, and the pistons now lie alongside the crankshaft.
+
+Because the wreck is so shallow, no-stop bottom time is generous — well over an hour is theoretically possible, though the short slack-water window is the practical limiting factor.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+All dives on the Tabarka are by day charter boat from Stromness or St Margaret's Hope. Burra Sound carries a tidal race of 4–5 knots and can only be safely dived during slack water. Slack occurs approximately 15 minutes before high water and 30 minutes after low water at Widewall Bay, and typically lasts less than 30 minutes. A negative entry — rolling in and descending immediately — is essential to reach the wreck before the current picks up. Your skipper will time the drop precisely; listen to the boat briefing carefully.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- A drysuit is mandatory — water temperature in Scapa Flow ranges from 6°C in winter to 12°C in summer
+- Dive the Tabarka during the middle of your week once you are comfortable with negative entries and Scapa Flow conditions
+- A dive torch is useful for illuminating the boiler room interior and spotting nudibranchs on the hull plates
+- Visibility in Burra Sound is often 15–25 metres — better than the deeper German fleet sites — thanks to the tidal flushing
+- The Tabarka is sometimes combined with the nearby Gobernador Bories and Inverlane in a single Burra Sound session
+- Best months: May to September for longest day and most settled weather
 
 ## Safety Considerations
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-15
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+The tidal race through Burra Sound is the primary hazard. If you miss the slack window, surface currents can reach 5 knots — sufficient to carry a diver out of the sound rapidly. Always confirm the slack time with your charter skipper before entering. Deploy a surface marker buoy (SMB) on ascent. The water in Scapa Flow is cold year-round (6–12°C); hypothermia risk is real without a drysuit.

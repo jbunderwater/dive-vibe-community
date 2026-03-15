@@ -5,14 +5,16 @@
     "lon": -3.3131054,
     "osm_id": 406542562,
     "osm_type": "node",
-    "depth": 20,
-    "site_type": "reef",
+    "depth": 12,
+    "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Tabarka (block ship)",
       "scuba_diving:divespot": "wreck",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scapaflowwrecks.com"
     }
   },
   {
@@ -21,14 +23,16 @@
     "lon": -3.3111347,
     "osm_id": 406542570,
     "osm_type": "node",
-    "depth": 20,
-    "site_type": "reef",
+    "depth": 16,
+    "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Gobernador",
       "scuba_diving:divespot": "wreck",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "divernet.com"
     }
   },
   {
@@ -37,14 +41,16 @@
     "lon": -3.1945524,
     "osm_id": 406542573,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 15,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "F2",
       "scuba_diving:divespot": "wreck",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scapa-flow.co.uk"
     }
   },
   {
@@ -53,14 +59,16 @@
     "lon": -3.1870727,
     "osm_id": 406542586,
     "osm_type": "node",
-    "depth": 20,
-    "site_type": "reef",
+    "depth": 27,
+    "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "SMS Karlsruhe",
       "scuba_diving:divespot": "wreck",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scapaflowwrecks.com"
     }
   },
   {
@@ -69,15 +77,17 @@
     "lon": -3.151956,
     "osm_id": 663869622,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 42,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "historic": "wreck",
       "name": "SMS König",
       "seamark:type": "wreck",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scapaflowwrecks.com"
     }
   },
   {
@@ -86,7 +96,7 @@
     "lon": -3.165273,
     "osm_id": 663869624,
     "osm_type": "node",
-    "depth": 45,
+    "depth": 47,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -96,7 +106,9 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving",
       "wikidata": "Q481485",
-      "wikipedia": "en:SMS Markgraf"
+      "wikipedia": "en:SMS Markgraf",
+      "validated": "true",
+      "validation_source": "scapaflowwrecks.com"
     }
   },
   {
@@ -105,7 +117,7 @@
     "lon": -3.151917,
     "osm_id": 663869626,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 36,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -113,7 +125,9 @@
       "historic": "wreck",
       "name": "SMS Brummer",
       "seamark:type": "wreck",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scapaflowwrecks.com"
     }
   },
   {
@@ -122,7 +136,7 @@
     "lon": -3.183975,
     "osm_id": 663869628,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 38,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -130,7 +144,9 @@
       "historic": "wreck",
       "name": "SMS Dresden",
       "seamark:type": "wreck",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scapaflowwrecks.com"
     }
   },
   {
@@ -139,7 +155,7 @@
     "lon": -3.145833,
     "osm_id": 663869630,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 36,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -150,7 +166,9 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving",
       "wikidata": "Q155159",
-      "wikipedia": "en:SMS Cöln (1916)"
+      "wikipedia": "en:SMS Cöln (1916)",
+      "validated": "true",
+      "validation_source": "scapaflowwrecks.com"
     }
   },
   {
@@ -170,7 +188,9 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving",
       "wikidata": "Q470400",
-      "wikipedia": "en:SMS Kronprinz"
+      "wikipedia": "en:SMS Kronprinz",
+      "validated": "true",
+      "validation_source": "scapaflowwrecks.com"
     }
   }
 ]

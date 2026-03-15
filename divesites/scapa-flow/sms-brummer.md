@@ -3,7 +3,7 @@ name: SMS Brummer
 lat: 58.897233
 lng: -3.151917
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 36
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,56 +13,35 @@ addedBy: osm_import
 
 ## SMS Brummer
 
-SMS Brummer is a historic wreck dive in Scapa Flow, Europe.
+A fast WWI mine-laying cruiser famous for its remarkably preserved anti-magnetic brass bridge — a feature unlike anything else in the German fleet, and one of the most photographed structures in all of Scapa Flow.
 
 ## Overview
 
-SMS Brummer is a dive site in Scapa Flow featuring the wreck of the SMS Brummer. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+SMS Brummer was a specialist mine-laying vessel built at AG Vulcan, Stettin in 1915, displacing 4,385 tons and measuring 140 metres in length. Built for speed at 28 knots, she carried lighter armour than a true cruiser but packed 400 mines and four 15cm guns. Her most famous action came in October 1917, when she and her sister ship SMS Bremse ambushed a British convoy en route from Bergen to Lerwick — painted dark grey to resemble a British cruiser, she deceived the convoy's escorts before opening fire. She interned at Scapa Flow in November 1918 and was scuttled on 21 June 1919.
 
-## Site Information
-
-- **Location**: Scapa Flow, Europe
-- **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: May to October
+She now lies on her starboard side in about 36 metres of water, rising to 22 metres at the shallowest point. Salvage was concentrated on the engine room, leaving the rest of the wreck largely intact — and it shows. The Brummer is one of the best-preserved of the German cruisers, offering a coherent tour from bow to stern.
 
 ## Marine Life
 
-Divers at this site can expect to encounter conger eels, lobsters, crabs, anemones, coral encrustation, groupers, moray eels, octopus. Additional species commonly sighted include barracuda, sea bream, amberjack. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The Brummer is teeming with life. Pollock and saithe school above the wreck, and cod and ling are regularly seen patrolling the hull. Conger eels occupy sheltered spaces in the lower hull. Lobsters, edible crabs, and velvet crabs are abundant throughout. The hull surfaces are draped in dead man's fingers, plumose anemones, and encrusting sponges. Seals are frequently encountered playing around visiting divers — a highlight at this site.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 20 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend to the bow, where the graceful curved stem designed for speed is immediately apparent. Anchor chains run across the deck and around twin capstans before descending through the spurling pipes. Moving aft, the brass bridge is the centrepiece of the dive: constructed of non-magnetic brass to avoid interfering with the ship's magnetic compasses, it has resisted corrosion far better than the steel structures on the other wrecks. Most Scapa Flow bridges now look like bare scaffolding; the Brummer's retains recognisable form and detail. Just forward of the bridge, the armoured conning tower is a solid cylindrical structure with slit windows — the T-shaped rangefinder is visible on the roof. Two 5.9-inch guns are accessible: one forward of the bridge, one aft. Further aft, an iris-style searchlight housing is a distinctive camera-like fitting. The engine room section has been heavily salvaged; some collapse has occurred in recent years, making this area more intricate to navigate than it once was. The entire wreck can be circumnavigated in one dive with an experienced guide.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Day charter boats and liveaboards depart from Stromness and St Margaret's Hope. The Brummer can be dived at most tidal states with very little current. Descent on the shot line. Deploy an SMB at the 5–6 metre safety stop on ascent.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- A drysuit is mandatory — water temperature 6–12°C year-round
+- The brass bridge is the standout photographic subject — bring a wide-angle lens
+- Hire a local guide for the first dive; the wreck is straightforward but knowing where to find the searchlight housing and gun positions saves time
+- Some internal sections have collapsed in recent years; do not push into unstable areas without proper wreck penetration training
+- Best months: May to September
+- Visibility at this site is typically 5–15 metres; summer months can bring clearer water
 
 ## Safety Considerations
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Website**: http://www.dive-links.com/tauchplatz.php?id=1865
-- **Last Updated**: 2026-03-15
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+At 36m maximum depth, narcosis risk is present on air. Monitor for symptoms and ascend if impaired. Cold water (6–12°C) is the constant hazard; ensure your drysuit and undersuit are rated for the conditions. The engine room section has experienced partial collapse — approach with caution and do not enter without overhead environment training. Deploy an SMB on ascent.
