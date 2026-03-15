@@ -78,17 +78,26 @@ Use the `/add-destinations` slash command for the full agentic workflow, or foll
 3. Run extended scraper: `python3 scripts/gather_osm_extended.py -d <slug>`
 4. Run quality checks (`/quality-check`)
 5. Gap-fill if < 8 sites with curated data
-6. **Validate site types** (`/validate-sites`) — research each site against ScubaBoard and dive forums
+6. **Validate site types and descriptions** (`/validate-sites`) — research each site against ScubaBoard and dive forums, update both JSON data and markdown descriptions
 7. Run `python3 scripts/generate_sites.py` to generate markdown (first time only)
-8. Run `python3 scripts/sync_sites.py <slug>` after any osm_clean data changes to update markdown + index.json
+8. Run `python3 scripts/sync_sites.py <slug>` after any osm_clean data changes to sync frontmatter + index.json
 
 ## Agentic Research Pattern
 
 For site validation and destination research, use parallel agents:
 - Launch web search agents for groups of 5-10 sites at a time
+- Use Perplexity MCP tools (`perplexity_ask`, `perplexity_research`) for detailed site research
 - Primary source: `site:scubaboard.com "[site name]" "[destination]" dive`
 - Secondary: dive operator sites, DiveAdvisor, Wannadive, PADI Travel
 - Always validate the destination's overall diving character BEFORE individual sites
 - Cold-water destinations: minimum Intermediate difficulty
 - Remote liveaboard destinations: minimum Advanced difficulty
-- After applying osm_clean changes, run `python3 scripts/sync_sites.py <slug>` to propagate to markdown files and index.json
+
+### Data + Description Update Flow
+
+When validating a destination, agents must update **three things**:
+1. **`data/osm_clean/{slug}.json`** — site_type, difficulty, depth, entry_type, validation tags
+2. **`divesites/{slug}/*.md`** — rewrite generic template descriptions with site-specific content from research (see quality standard in `/validate-sites` command)
+3. **Run `python3 scripts/sync_sites.py <slug>`** — propagates frontmatter fields from osm_clean to markdown files and rebuilds index.json
+
+The quality standard for descriptions is the hand-curated Bonaire/Curaçao files. Generic template text like "rewarding diving on healthy coral reef structures" must be replaced with specific, researched content when information is available.
