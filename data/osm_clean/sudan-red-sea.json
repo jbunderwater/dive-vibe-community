@@ -23,13 +23,15 @@
     "osm_id": 9720985226,
     "osm_type": "node",
     "depth": 20,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Gota Mesharifa",
       "scuba_diving:type": "reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -69,7 +71,7 @@
     "osm_id": 9720994071,
     "osm_type": "node",
     "depth": 20,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
@@ -79,7 +81,9 @@
       "scuba_diving:type": "reef",
       "sport": "scuba_diving",
       "wikidata": "Q3408831",
-      "wikipedia": "en:Continental Shelf Station Two"
+      "wikipedia": "en:Continental Shelf Station Two",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -104,12 +108,14 @@
     "osm_id": 9721009908,
     "osm_type": "node",
     "depth": 20,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Merlo Reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -166,13 +172,15 @@
     "osm_id": 9721022202,
     "osm_type": "node",
     "depth": 20,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "description": "Shab Rumi",
       "name": "Shab Rumi, Plateau S",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -228,12 +236,14 @@
     "osm_id": 9721031166,
     "osm_type": "node",
     "depth": 20,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Sanganeb Plauteua N",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -243,13 +253,15 @@
     "osm_id": 9721033179,
     "osm_type": "node",
     "depth": 20,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Angarosh",
       "scuba_diving:type": "reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {

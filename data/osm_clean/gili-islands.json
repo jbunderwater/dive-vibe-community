@@ -22,7 +22,7 @@
     "osm_id": 2395669750,
     "osm_type": "node",
     "depth": 20,
-    "site_type": "reef",
+    "site_type": "drift",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
@@ -30,7 +30,9 @@
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
       "scuba_diving:type": "snorkeling",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -108,11 +110,13 @@
     "depth": 25,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Shark Point",
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
