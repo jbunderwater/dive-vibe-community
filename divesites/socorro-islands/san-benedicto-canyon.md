@@ -3,7 +3,7 @@ name: San Benedicto Canyon
 lat: 19.3
 lng: -110.8
 difficulty: Advanced
-maxDepth: 35
+maxDepth: 40
 entryType: boat
 siteType: wall
 ref: null
@@ -25,7 +25,7 @@ San Benedicto Canyon is a dive site in Socorro Islands featuring a dramatic vert
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 35 meters
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)
 - **Current**: Moderate to strong
 - **Best Time**: April to November

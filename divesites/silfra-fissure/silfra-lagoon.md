@@ -2,10 +2,10 @@
 name: Silfra Lagoon
 lat: 64.254
 lng: -21.115
-difficulty: Beginner
-maxDepth: 3
+difficulty: Intermediate
+maxDepth: 5
 entryType: shore
-siteType: reef
+siteType: cave
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,9 +23,9 @@ Silfra Lagoon is a renowned dive site in Silfra Fissure offering excellent divin
 
 - **Location**: Silfra Fissure, Europe
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 3 meters
+- **Site Type**: Cave/cavern
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 5 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: May to October

@@ -2,10 +2,10 @@
 name: Strytan Hydrothermal Chimney
 lat: 64.25
 lng: -21.12
-difficulty: Intermediate
-maxDepth: 15
+difficulty: Advanced
+maxDepth: 40
 entryType: boat
-siteType: reef
+siteType: pinnacle
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,9 +23,9 @@ Strytan Hydrothermal Chimney is a dive site in Silfra Fissure offering rewarding
 
 - **Location**: Silfra Fissure, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 15 meters
+- **Site Type**: Pinnacle/seamount
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: May to October

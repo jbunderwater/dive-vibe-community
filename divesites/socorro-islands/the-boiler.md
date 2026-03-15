@@ -3,9 +3,9 @@ name: The Boiler
 lat: 18.72
 lng: -110.97
 difficulty: Advanced
-maxDepth: 30
+maxDepth: 35
 entryType: boat
-siteType: wall
+siteType: pinnacle
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,9 +23,9 @@ The Boiler is a dive site in Socorro Islands offering rewarding diving on health
 
 - **Location**: Socorro Islands, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
+- **Maximum Depth**: 35 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)
 - **Current**: Moderate to strong
 - **Best Time**: April to November

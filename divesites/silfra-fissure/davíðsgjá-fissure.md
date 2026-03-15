@@ -3,7 +3,7 @@ name: Davíðsgjá Fissure
 lat: 64.26
 lng: -21.1
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 21
 entryType: shore
 siteType: cave
 ref: null
@@ -25,7 +25,7 @@ Davíðsgjá Fissure is a dive site in Silfra Fissure featuring underwater cave 
 - **Entry Type**: Shore entry
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 21 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: May to October

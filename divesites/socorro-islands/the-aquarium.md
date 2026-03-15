@@ -2,10 +2,10 @@
 name: The Aquarium
 lat: 19.31
 lng: -110.81
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 15
 entryType: boat
-siteType: wall
+siteType: reef
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,8 +23,8 @@ The Aquarium is a dive site in Socorro Islands offering excellent diving on heal
 
 - **Location**: Socorro Islands, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
+- **Site Type**: Coral reef
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)
 - **Current**: Moderate to strong

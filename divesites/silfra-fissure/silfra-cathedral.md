@@ -2,8 +2,8 @@
 name: Silfra Cathedral
 lat: 64.255
 lng: -21.116
-difficulty: Advanced
-maxDepth: 25
+difficulty: Intermediate
+maxDepth: 20
 entryType: shore
 siteType: cave
 ref: null
@@ -24,8 +24,8 @@ Silfra Cathedral is a renowned dive site in Silfra Fissure featuring underwater 
 - **Location**: Silfra Fissure, Europe
 - **Entry Type**: Shore entry
 - **Site Type**: Cave/cavern
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 25 meters
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: May to October

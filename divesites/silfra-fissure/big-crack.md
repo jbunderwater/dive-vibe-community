@@ -3,7 +3,7 @@ name: Big Crack
 lat: 64.253
 lng: -21.118
 difficulty: Intermediate
-maxDepth: 12
+maxDepth: 18
 entryType: shore
 siteType: cave
 ref: null
@@ -25,7 +25,7 @@ Big Crack is a dive site in Silfra Fissure featuring underwater cave and cavern 
 - **Entry Type**: Shore entry
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 12 meters
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: May to October

@@ -13,52 +13,54 @@ addedBy: osm_import
 
 ## Silfra Hall
 
-Silfra Hall is a cave dive site in Silfra Fissure, Europe.
+Silfra Hall is the widest section of the Silfra tectonic fissure in Thingvellir National Park, Iceland. It sits immediately downstream of Big Crack and marks a dramatic opening in the fissure where the canyon walls spread up to 8 meters apart before narrowing again into Silfra Cathedral.
 
 ## Overview
 
-Silfra Hall is a renowned dive site in Silfra Fissure featuring underwater cave and cavern formations. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+After the constricted passage of Big Crack, Silfra Hall opens into a larger, more open section of the fissure with the widest horizontal span of any section. The Hall has a maximum recreational depth of 18 meters, consistent with the park-mandated limit across all Silfra sections. Beneath the recreational zone, a cave system descends to approximately 45 meters — these passages are off-limits to all guided recreational dives and have been explored by only a small number of technical cave divers. Water temperature is 2–4°C year-round with visibility exceeding 100 meters.
 
 ## Site Information
 
-- **Location**: Silfra Fissure, Europe
-- **Entry Type**: Shore entry
-- **Site Type**: Cave/cavern
+- **Location**: Thingvellir National Park, Iceland (second section of Silfra fissure)
+- **Entry Type**: Shore entry (accessed as part of Silfra dive, same entry platform)
+- **Site Type**: Tectonic fissure / freshwater cave
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: May to October
+- **Maximum Depth**: 18 meters (recreational limit; cave system beneath reaches 45m)
+- **Typical Visibility**: 100+ meters
+- **Water Temperature**: 2–4°C (35–39°F) year-round
+- **Current**: Minimal
+- **Best Time**: Year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+The lava walls of Silfra Hall are draped in neon-green "troll hair" algae — the signature visual element of the Silfra system. Because the Hall's opening is wider than other sections, light penetrates more freely, encouraging algae growth. Divers may look upward and spot local ducks or geese paddling on the surface above. Dwarf char occasionally shelter in the crevices along the walls. No fish schools, no coral — the biodiversity is entirely adapted to near-freezing freshwater conditions.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Silfra Hall is not a standalone dive site — it is the second of four sections dived sequentially from the shore entry platform. Divers pass through Big Crack first, then enter the Hall. The average depth through the Hall is 8–14 meters. The fissure floor here has loose volcanic rock and sediment; buoyancy control is important to avoid silting up the crystal-clear water. From the Hall, the dive continues naturally into Silfra Cathedral.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Entry is via the same Silfra shore platform. Exit is at Silfra Lagoon, the natural endpoint of the drift through all four sections. The Hall cannot be entered or exited independently — it is an intermediate section of the connected fissure system. One dive per person per day is permitted by Icelandic park regulations.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- This section rewards slow, controlled diving — hover in the wider opening and look up at the walls to appreciate the scale
+- Use a dive torch to illuminate the troll-hair algae and reveal the vivid greens against the blue-filtered light
+- Buoyancy must be precise: the cave system below is sealed off and stirring sediment reduces visibility for all divers behind you
+- A drysuit and recent drysuit experience are mandatory for all Silfra dives
 
 ## Safety Considerations
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+The 45-meter cave system beneath Silfra Hall is strictly off-limits. These passages involve long, unlit swim-throughs with no overhead exits and are dangerous even for trained cave divers without proper planning and equipment. Any dive below 18 meters in this area is outside the permitted recreational zone. Stay within the main fissure channel and follow your guide toward Cathedral.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Silfra Hall's wider opening allows for more ambient light than Big Crack, making it one of the better sections for wide-angle photography without strobes. Look for the interplay of blue light filtering down from the surface against the green algae-coated walls. If diving with a buddy, position them against the far wall to convey the scale of the fissure.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-03-15
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from dive.is, silfra.org, wikipedia.org (Silfra), and adventures.is. Last updated 2026-03-15.*
