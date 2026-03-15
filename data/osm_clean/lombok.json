@@ -38,13 +38,14 @@
     "osm_id": 2395669748,
     "osm_type": "node",
     "depth": 30,
-    "site_type": "reef",
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "name": "Deep Turbo",
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true"
     }
   },
   {
@@ -70,7 +71,7 @@
     "osm_id": 2395669750,
     "osm_type": "node",
     "depth": 20,
-    "site_type": "reef",
+    "site_type": "drift",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
@@ -78,7 +79,8 @@
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
       "scuba_diving:type": "snorkeling",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": "true"
     }
   },
   {
@@ -88,13 +90,14 @@
     "osm_id": 2395669751,
     "osm_type": "node",
     "depth": 20,
-    "site_type": "reef",
+    "site_type": "drift",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Jack Point",
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true"
     }
   },
   {
@@ -120,13 +123,14 @@
     "osm_id": 2395669753,
     "osm_type": "node",
     "depth": 20,
-    "site_type": "reef",
+    "site_type": "drift",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Manta Point",
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true"
     }
   },
   {
@@ -136,13 +140,14 @@
     "osm_id": 2395669754,
     "osm_type": "node",
     "depth": 20,
-    "site_type": "reef",
+    "site_type": "drift",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Meno Corner",
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true"
     }
   },
   {
@@ -218,13 +223,14 @@
     "osm_id": 2395669759,
     "osm_type": "node",
     "depth": 25,
-    "site_type": "reef",
+    "site_type": "drift",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Shark Point",
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true"
     }
   },
   {

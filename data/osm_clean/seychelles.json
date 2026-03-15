@@ -24,8 +24,8 @@
     "osm_type": "way",
     "depth": null,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Remire Reef",
       "natural": "reef",
@@ -38,12 +38,13 @@
     "lat": -4.56,
     "lon": 55.37,
     "depth": 30,
-    "site_type": "reef",
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true"
     }
   },
   {
@@ -77,12 +78,13 @@
     "lat": -4.62,
     "lon": 55.45,
     "depth": 18,
-    "site_type": "reef",
+    "site_type": "drift",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true"
     }
   },
   {
@@ -103,12 +105,13 @@
     "lat": -4.34,
     "lon": 55.94,
     "depth": 15,
-    "site_type": "reef",
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true"
     }
   },
   {
@@ -129,12 +132,13 @@
     "lat": -4.57,
     "lon": 55.38,
     "depth": 16,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true"
     }
   },
   {
