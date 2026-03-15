@@ -1405,7 +1405,7 @@
     }
   },
   {
-    "name": "Brisants de l'Île au Bois",
+    "name": "Brisants de l'\u00cele au Bois",
     "lat": 51.3810073,
     "lon": -57.1471524,
     "osm_id": 1848818179,
@@ -1415,7 +1415,7 @@
     "entry_type": null,
     "difficulty": "Advanced",
     "tags": {
-      "name": "Brisants de l'Île au Bois",
+      "name": "Brisants de l'\u00cele au Bois",
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass"
@@ -1456,7 +1456,7 @@
     }
   },
   {
-    "name": "Récifs Blanche",
+    "name": "R\u00e9cifs Blanche",
     "lat": 51.427501,
     "lon": -57.556842,
     "osm_id": 3275437510,
@@ -1466,14 +1466,14 @@
     "entry_type": null,
     "difficulty": "Advanced",
     "tags": {
-      "name": "Récifs Blanche",
+      "name": "R\u00e9cifs Blanche",
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass"
     }
   },
   {
-    "name": "Récifs Whale",
+    "name": "R\u00e9cifs Whale",
     "lat": 51.3492264,
     "lon": -57.6936027,
     "osm_id": 3277008095,
@@ -1483,7 +1483,7 @@
     "entry_type": null,
     "difficulty": "Advanced",
     "tags": {
-      "name": "Récifs Whale",
+      "name": "R\u00e9cifs Whale",
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass"
@@ -1524,7 +1524,7 @@
     }
   },
   {
-    "name": "Récifs des Îles aux Chiens",
+    "name": "R\u00e9cifs des \u00celes aux Chiens",
     "lat": 51.3011777,
     "lon": -57.884366,
     "osm_id": 3380415961,
@@ -1534,7 +1534,7 @@
     "entry_type": null,
     "difficulty": "Advanced",
     "tags": {
-      "name": "Récifs des Îles aux Chiens",
+      "name": "R\u00e9cifs des \u00celes aux Chiens",
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass"
@@ -1558,7 +1558,7 @@
     }
   },
   {
-    "name": "Rocher Éléonore",
+    "name": "Rocher \u00c9l\u00e9onore",
     "lat": 51.2862402,
     "lon": -58.0216406,
     "osm_id": 3381983945,
@@ -1568,7 +1568,7 @@
     "entry_type": null,
     "difficulty": "Advanced",
     "tags": {
-      "name": "Rocher Éléonore",
+      "name": "Rocher \u00c9l\u00e9onore",
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass"
@@ -1592,7 +1592,7 @@
     }
   },
   {
-    "name": "Récif Fishery",
+    "name": "R\u00e9cif Fishery",
     "lat": 50.840756,
     "lon": -58.9515503,
     "osm_id": 3420603840,
@@ -1602,14 +1602,14 @@
     "entry_type": null,
     "difficulty": "Advanced",
     "tags": {
-      "name": "Récif Fishery",
+      "name": "R\u00e9cif Fishery",
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass"
     }
   },
   {
-    "name": "Récif Flat",
+    "name": "R\u00e9cif Flat",
     "lat": 50.8395335,
     "lon": -58.9479844,
     "osm_id": 3420603841,
@@ -1619,14 +1619,14 @@
     "entry_type": null,
     "difficulty": "Advanced",
     "tags": {
-      "name": "Récif Flat",
+      "name": "R\u00e9cif Flat",
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass"
     }
   },
   {
-    "name": "Récif à Alphonse",
+    "name": "R\u00e9cif \u00e0 Alphonse",
     "lat": 50.861804,
     "lon": -58.9565063,
     "osm_id": 3420603842,
@@ -1636,7 +1636,7 @@
     "entry_type": null,
     "difficulty": "Advanced",
     "tags": {
-      "name": "Récif à Alphonse",
+      "name": "R\u00e9cif \u00e0 Alphonse",
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass"
@@ -1745,7 +1745,7 @@
     }
   },
   {
-    "name": "Récif du Centre",
+    "name": "R\u00e9cif du Centre",
     "lat": 50.3428666,
     "lon": -59.7055156,
     "osm_id": 3558523184,
@@ -1755,14 +1755,14 @@
     "entry_type": null,
     "difficulty": "Advanced",
     "tags": {
-      "name": "Récif du Centre",
+      "name": "R\u00e9cif du Centre",
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass"
     }
   },
   {
-    "name": "Récif Cutter",
+    "name": "R\u00e9cif Cutter",
     "lat": 50.3366161,
     "lon": -59.771885,
     "osm_id": 3558946550,
@@ -1772,14 +1772,14 @@
     "entry_type": null,
     "difficulty": "Advanced",
     "tags": {
-      "name": "Récif Cutter",
+      "name": "R\u00e9cif Cutter",
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass"
     }
   },
   {
-    "name": "Récifs Noirs",
+    "name": "R\u00e9cifs Noirs",
     "lat": 50.3513917,
     "lon": -59.786974,
     "osm_id": 3558946551,
@@ -1789,7 +1789,7 @@
     "entry_type": null,
     "difficulty": "Advanced",
     "tags": {
-      "name": "Récifs Noirs",
+      "name": "R\u00e9cifs Noirs",
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass"
@@ -1899,7 +1899,7 @@
     }
   },
   {
-    "name": "Épave du Transpacific",
+    "name": "\u00c9pave du Transpacific",
     "lat": 46.7896773,
     "lon": -56.1432856,
     "osm_id": 20321746,
@@ -1911,7 +1911,7 @@
     "tags": {
       "access": "yes",
       "historic": "wreck",
-      "name": "Épave du Transpacific",
+      "name": "\u00c9pave du Transpacific",
       "seamark:type": "wreck",
       "seamark:wreck:category": "non-dangerous",
       "type": "multipolygon",

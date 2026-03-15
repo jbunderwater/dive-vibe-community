@@ -68,14 +68,16 @@
     "osm_id": 5114515322,
     "osm_type": "node",
     "depth": 20,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Pengah Kecil",
       "name:de": "Pengah Kecil",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -96,20 +98,22 @@
     }
   },
   {
-    "name": "Cystal Rock Dive Site",
+    "name": "Crystal Rock Dive Site",
     "lat": -8.4416648,
     "lon": 119.5677822,
     "osm_id": 5767096953,
     "osm_type": "node",
     "depth": 20,
-    "site_type": "reef",
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
-      "name": "Cystal Rock Dive Site",
+      "name": "Crystal Rock Dive Site",
       "scuba_diving:dive_spot": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -170,12 +174,14 @@
     "osm_id": 7182742081,
     "osm_type": "node",
     "depth": 20,
-    "site_type": "reef",
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "3 Sisters",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -205,7 +211,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Mini Wall",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -220,7 +228,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Pillarsteen",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -275,12 +285,14 @@
     "osm_id": 7182762315,
     "osm_type": "node",
     "depth": 20,
-    "site_type": "reef",
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Gaja Rock dive site",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -320,12 +332,14 @@
     "osm_id": 7182771889,
     "osm_type": "node",
     "depth": 20,
-    "site_type": "reef",
+    "site_type": "muck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Wainilu",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
