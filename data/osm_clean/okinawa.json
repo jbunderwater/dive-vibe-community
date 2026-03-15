@@ -1,6 +1,6 @@
 [
   {
-    "name": "砂辺",
+    "name": "\u7802\u8fba",
     "lat": 26.3291056,
     "lon": 127.743972,
     "osm_id": 602948140,
@@ -10,7 +10,7 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
-      "name": "砂辺",
+      "name": "\u7802\u8fba",
       "name:en": "Sunabe",
       "sport": "scuba_diving"
     }
@@ -46,7 +46,7 @@
     }
   },
   {
-    "name": "ハナダイの根",
+    "name": "\u30cf\u30ca\u30c0\u30a4\u306e\u6839",
     "lat": 24.8646379,
     "lon": 125.1794846,
     "osm_id": 9280279106,
@@ -56,36 +56,38 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
-      "name": "ハナダイの根",
+      "name": "\u30cf\u30ca\u30c0\u30a4\u306e\u6839",
       "name:en": "Hanadainone",
-      "name:ja": "ハナダイの根",
-      "name:ja-Hira": "はなだいのね",
-      "note": "Position estimated / 位置推定",
+      "name:ja": "\u30cf\u30ca\u30c0\u30a4\u306e\u6839",
+      "name:ja-Hira": "\u306f\u306a\u3060\u3044\u306e\u306d",
+      "note": "Position estimated / \u4f4d\u7f6e\u63a8\u5b9a",
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving"
     }
   },
   {
-    "name": "クロスホール",
+    "name": "\u30af\u30ed\u30b9\u30db\u30fc\u30eb",
     "lat": 24.8651791,
     "lon": 125.155917,
     "osm_id": 9280279108,
     "osm_type": "node",
     "depth": 30,
-    "site_type": "reef",
+    "site_type": "cave",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
-      "name": "クロスホール",
-      "name:en": "Kurosuhôru",
-      "name:ja": "クロスホール",
-      "note": "Position estimated / 位置推定",
+      "name": "\u30af\u30ed\u30b9\u30db\u30fc\u30eb",
+      "name:en": "Kurosuh\u00f4ru",
+      "name:ja": "\u30af\u30ed\u30b9\u30db\u30fc\u30eb",
+      "note": "Position estimated / \u4f4d\u7f6e\u63a8\u5b9a",
       "scuba_diving:divespot": "yes",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
-    "name": "W字アーチ",
+    "name": "W\u5b57\u30a2\u30fc\u30c1",
     "lat": 24.8665753,
     "lon": 125.1600582,
     "osm_id": 9280279109,
@@ -95,94 +97,102 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
-      "name": "W字アーチ",
+      "name": "W\u5b57\u30a2\u30fc\u30c1",
       "name:en": "W-Achi",
-      "name:ja": "W字アーチ",
-      "note": "Position estimated / 位置推定",
+      "name:ja": "W\u5b57\u30a2\u30fc\u30c1",
+      "note": "Position estimated / \u4f4d\u7f6e\u63a8\u5b9a",
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving"
     }
   },
   {
-    "name": "L字アーチ",
+    "name": "L\u5b57\u30a2\u30fc\u30c1",
     "lat": 24.8666616,
     "lon": 125.163257,
     "osm_id": 9280279110,
     "osm_type": "node",
     "depth": 30,
-    "site_type": "reef",
+    "site_type": "cave",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
-      "name": "L字アーチ",
+      "name": "L\u5b57\u30a2\u30fc\u30c1",
       "name:en": "L-Achi",
-      "name:ja": "L字アーチ",
-      "note": "Position estimated / 位置推定",
+      "name:ja": "L\u5b57\u30a2\u30fc\u30c1",
+      "note": "Position estimated / \u4f4d\u7f6e\u63a8\u5b9a",
       "scuba_diving:divespot": "yes",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
-    "name": "中の島チャンネル",
+    "name": "\u4e2d\u306e\u5cf6\u30c1\u30e3\u30f3\u30cd\u30eb",
     "lat": 24.8126365,
     "lon": 125.1422811,
     "osm_id": 9280303155,
     "osm_type": "node",
     "depth": 30,
-    "site_type": "reef",
+    "site_type": "cave",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
-      "name": "中の島チャンネル",
+      "name": "\u4e2d\u306e\u5cf6\u30c1\u30e3\u30f3\u30cd\u30eb",
       "name:en": "Nakanojima Channel",
-      "name:ja": "中の島チャンネル",
-      "name:ja-Hira": "なかのじまチャンネル",
-      "note": "Position estimated / 位置推定",
+      "name:ja": "\u4e2d\u306e\u5cf6\u30c1\u30e3\u30f3\u30cd\u30eb",
+      "name:ja-Hira": "\u306a\u304b\u306e\u3058\u307e\u30c1\u30e3\u30f3\u30cd\u30eb",
+      "note": "Position estimated / \u4f4d\u7f6e\u63a8\u5b9a",
       "scuba_diving:divespot": "yes",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
-    "name": "アントニオガウデイ",
+    "name": "\u30a2\u30f3\u30c8\u30cb\u30aa\u30ac\u30a6\u30c7\u30a4",
     "lat": 24.8206072,
     "lon": 125.1367128,
     "osm_id": 9280303156,
     "osm_type": "node",
     "depth": 30,
-    "site_type": "reef",
+    "site_type": "cave",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
-      "name": "アントニオガウデイ",
+      "name": "\u30a2\u30f3\u30c8\u30cb\u30aa\u30ac\u30a6\u30c7\u30a4",
       "name:en": "Antoniogaudei",
-      "name:ja": "アントニオガウデイ",
-      "note": "Position estimated / 位置推定",
+      "name:ja": "\u30a2\u30f3\u30c8\u30cb\u30aa\u30ac\u30a6\u30c7\u30a4",
+      "note": "Position estimated / \u4f4d\u7f6e\u63a8\u5b9a",
       "scuba_diving:divespot": "yes",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
-    "name": "通り池",
+    "name": "\u901a\u308a\u6c60",
     "lat": 24.8238108,
     "lon": 125.1350391,
     "osm_id": 9280303157,
     "osm_type": "node",
     "depth": 30,
-    "site_type": "reef",
+    "site_type": "cave",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
-      "name": "通り池",
+      "name": "\u901a\u308a\u6c60",
       "name:en": "Toriike",
-      "name:ja": "通り池",
-      "name:ja-Hira": "とおりいけ",
-      "note": "Position estimated / 位置推定",
+      "name:ja": "\u901a\u308a\u6c60",
+      "name:ja-Hira": "\u3068\u304a\u308a\u3044\u3051",
+      "note": "Position estimated / \u4f4d\u7f6e\u63a8\u5b9a",
       "scuba_diving:divespot": "yes",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
-    "name": "西浜・にしはま",
+    "name": "\u897f\u6d5c\u30fb\u306b\u3057\u306f\u307e",
     "lat": 26.2026775,
     "lon": 127.289473,
     "osm_id": 11333126061,
@@ -192,7 +202,7 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
-      "name": "西浜・にしはま",
+      "name": "\u897f\u6d5c\u30fb\u306b\u3057\u306f\u307e",
       "name:en": "Nishi Hama",
       "scuba_diving:divespot": "yes",
       "scuba_diving:entry": "boat",
@@ -205,7 +215,7 @@
     }
   },
   {
-    "name": "イボイボサンゴ",
+    "name": "\u30a4\u30dc\u30a4\u30dc\u30b5\u30f3\u30b4",
     "lat": 26.2149439,
     "lon": 127.2868536,
     "osm_id": 11333126062,
@@ -215,7 +225,7 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
-      "name": "イボイボサンゴ",
+      "name": "\u30a4\u30dc\u30a4\u30dc\u30b5\u30f3\u30b4",
       "name:en": "Ibo-ibo Sango",
       "scuba_diving:divespot": "yes",
       "scuba_diving:entry": "boat",
@@ -228,7 +238,7 @@
     }
   },
   {
-    "name": "阿嘉桟橋前",
+    "name": "\u963f\u5609\u685f\u6a4b\u524d",
     "lat": 26.1844702,
     "lon": 127.2790989,
     "osm_id": 11333126063,
@@ -238,10 +248,10 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
-      "name": "阿嘉桟橋前",
+      "name": "\u963f\u5609\u685f\u6a4b\u524d",
       "name:en": "Akasanbashi Mae",
-      "name:fr": "En face de la jetée d'Aka",
-      "name:ja-Hira": "あかさんばしまえ",
+      "name:fr": "En face de la jet\u00e9e d'Aka",
+      "name:ja-Hira": "\u3042\u304b\u3055\u3093\u3070\u3057\u307e\u3048",
       "name:ja-Latn": "Aka sanbashi mae",
       "scuba_diving:divespot": "yes",
       "scuba_diving:entry": "boat",
@@ -254,7 +264,7 @@
     }
   },
   {
-    "name": "阿真牛瀬・あまうしじ",
+    "name": "\u963f\u771f\u725b\u702c\u30fb\u3042\u307e\u3046\u3057\u3058",
     "lat": 26.2196483,
     "lon": 127.2803828,
     "osm_id": 11333126064,
@@ -264,7 +274,7 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
-      "name": "阿真牛瀬・あまうしじ",
+      "name": "\u963f\u771f\u725b\u702c\u30fb\u3042\u307e\u3046\u3057\u3058",
       "name:en": "Ama Ushiji",
       "scuba_diving:divespot": "yes",
       "scuba_diving:entry": "boat",
@@ -277,7 +287,7 @@
     }
   },
   {
-    "name": "嘉比前・がひまえ",
+    "name": "\u5609\u6bd4\u524d\u30fb\u304c\u3072\u307e\u3048",
     "lat": 26.2201294,
     "lon": 127.2885224,
     "osm_id": 11333126065,
@@ -287,7 +297,7 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
-      "name": "嘉比前・がひまえ",
+      "name": "\u5609\u6bd4\u524d\u30fb\u304c\u3072\u307e\u3048",
       "name:en": "Gahi Mae",
       "scuba_diving:divespot": "yes",
       "scuba_diving:entry": "boat",
@@ -300,7 +310,7 @@
     }
   },
   {
-    "name": "宇論の崎・うるるのさち",
+    "name": "\u5b87\u8ad6\u306e\u5d0e\u30fb\u3046\u308b\u308b\u306e\u3055\u3061",
     "lat": 26.2233739,
     "lon": 127.2926197,
     "osm_id": 11333126066,
@@ -310,7 +320,7 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
-      "name": "宇論の崎・うるるのさち",
+      "name": "\u5b87\u8ad6\u306e\u5d0e\u30fb\u3046\u308b\u308b\u306e\u3055\u3061",
       "name:en": "Uroro no Sachi",
       "scuba_diving:divespot": "yes",
       "scuba_diving:entry": "boat",
@@ -323,7 +333,7 @@
     }
   },
   {
-    "name": "ウフタマ",
+    "name": "\u30a6\u30d5\u30bf\u30de",
     "lat": 26.2066203,
     "lon": 127.3167776,
     "osm_id": 11333126067,
@@ -333,7 +343,7 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
-      "name": "ウフタマ",
+      "name": "\u30a6\u30d5\u30bf\u30de",
       "name:en": "Ufutama",
       "scuba_diving:divespot": "yes",
       "scuba_diving:entry": "boat",
@@ -346,7 +356,7 @@
     }
   },
   {
-    "name": "佐久原漁礁",
+    "name": "\u4f50\u4e45\u539f\u6f01\u7901",
     "lat": 26.1793895,
     "lon": 127.2755939,
     "osm_id": 11333126068,
@@ -356,10 +366,10 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
-      "name": "佐久原漁礁",
+      "name": "\u4f50\u4e45\u539f\u6f01\u7901",
       "name:en": "Sakubaru Gyosho",
-      "name:fr": "Récif de pêche de Sakuhara",
-      "name:ja-Hira": "さくばるぎょしょう",
+      "name:fr": "R\u00e9cif de p\u00eache de Sakuhara",
+      "name:ja-Hira": "\u3055\u304f\u3070\u308b\u304e\u3087\u3057\u3087\u3046",
       "scuba_diving:divespot": "yes",
       "scuba_diving:entry": "boat",
       "seamark:buoy_special_purpose:colour": "white",
@@ -371,7 +381,7 @@
     }
   },
   {
-    "name": "阿真ビーチ前・あまびーちまえ",
+    "name": "\u963f\u771f\u30d3\u30fc\u30c1\u524d\u30fb\u3042\u307e\u3073\u30fc\u3061\u307e\u3048",
     "lat": 26.224414,
     "lon": 127.289969,
     "osm_id": 11333164769,
@@ -381,7 +391,7 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
-      "name": "阿真ビーチ前・あまびーちまえ",
+      "name": "\u963f\u771f\u30d3\u30fc\u30c1\u524d\u30fb\u3042\u307e\u3073\u30fc\u3061\u307e\u3048",
       "name:en": "Ama Beach Mae",
       "scuba_diving:divespot": "yes",
       "scuba_diving:entry": "boat",
@@ -394,7 +404,7 @@
     }
   },
   {
-    "name": "アダン前",
+    "name": "\u30a2\u30c0\u30f3\u524d",
     "lat": 26.2154634,
     "lon": 127.2930042,
     "osm_id": 11333164770,
@@ -404,7 +414,7 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
-      "name": "アダン前",
+      "name": "\u30a2\u30c0\u30f3\u524d",
       "name:en": "Adan Mae",
       "scuba_diving:divespot": "yes",
       "scuba_diving:entry": "boat",
@@ -417,7 +427,7 @@
     }
   },
   {
-    "name": "安慶名敷枝サンゴ・あげなしくえださんご",
+    "name": "\u5b89\u6176\u540d\u6577\u679d\u30b5\u30f3\u30b4\u30fb\u3042\u3052\u306a\u3057\u304f\u3048\u3060\u3055\u3093\u3054",
     "lat": 26.2188955,
     "lon": 127.2938405,
     "osm_id": 11333164771,
@@ -427,7 +437,7 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
-      "name": "安慶名敷枝サンゴ・あげなしくえださんご",
+      "name": "\u5b89\u6176\u540d\u6577\u679d\u30b5\u30f3\u30b4\u30fb\u3042\u3052\u306a\u3057\u304f\u3048\u3060\u3055\u3093\u3054",
       "name:en": "Agenashikueda Sango",
       "scuba_diving:divespot": "yes",
       "scuba_diving:entry": "boat",
@@ -440,7 +450,7 @@
     }
   },
   {
-    "name": "嘉比裏・がひうら",
+    "name": "\u5609\u6bd4\u88cf\u30fb\u304c\u3072\u3046\u3089",
     "lat": 26.2152559,
     "lon": 127.287906,
     "osm_id": 11333164773,
@@ -450,7 +460,7 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
-      "name": "嘉比裏・がひうら",
+      "name": "\u5609\u6bd4\u88cf\u30fb\u304c\u3072\u3046\u3089",
       "name:en": "Gahi Ura",
       "scuba_diving:divespot": "yes",
       "scuba_diving:entry": "boat",
@@ -463,17 +473,17 @@
     }
   },
   {
-    "name": "新田洞窟・にたどうくつ",
+    "name": "\u65b0\u7530\u6d1e\u7a9f\u30fb\u306b\u305f\u3069\u3046\u304f\u3064",
     "lat": 26.2393817,
     "lon": 127.2928487,
     "osm_id": 11333164774,
     "osm_type": "node",
     "depth": 30,
-    "site_type": "reef",
+    "site_type": "cave",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
-      "name": "新田洞窟・にたどうくつ",
+      "name": "\u65b0\u7530\u6d1e\u7a9f\u30fb\u306b\u305f\u3069\u3046\u304f\u3064",
       "name:en": "Nita Doukutsu",
       "scuba_diving:divespot": "yes",
       "scuba_diving:entry": "boat",
@@ -482,11 +492,13 @@
       "seamark:mooring:category": "buoy",
       "seamark:type": "mooring",
       "source": "survey;local knowledge;gps",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
-    "name": "シル東",
+    "name": "\u30b7\u30eb\u6771",
     "lat": 26.2172875,
     "lon": 127.3099786,
     "osm_id": 11333164775,
@@ -496,7 +508,7 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
-      "name": "シル東",
+      "name": "\u30b7\u30eb\u6771",
       "name:en": "Shiru Higashi",
       "scuba_diving:divespot": "yes",
       "scuba_diving:entry": "boat",
