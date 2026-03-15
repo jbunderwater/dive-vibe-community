@@ -1,0 +1,184 @@
+[
+  {
+    "name": "Il Balenottero",
+    "lat": -17.0004747,
+    "lon": 49.8513054,
+    "osm_id": 678832023,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "leisure": "sports_centre",
+      "name": "Il Balenottero",
+      "note": "Dive center - Centre de plongée",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Mora Mora",
+    "lat": -23.1227101,
+    "lon": 43.6102441,
+    "osm_id": 1346805796,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "amenity": "dive_centre",
+      "name": "Mora Mora",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Le Grand Bleu",
+    "lat": -23.1254202,
+    "lon": 43.608619,
+    "osm_id": 1346833560,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "amenity": "dive_centre",
+      "name": "Le Grand Bleu",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Atimo Plongée",
+    "lat": -23.1226029,
+    "lon": 43.6095579,
+    "osm_id": 1346896474,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "amenity": "dive_centre",
+      "name": "Atimo Plongée",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Fifi Diving",
+    "lat": -23.1247053,
+    "lon": 43.6090448,
+    "osm_id": 1346896544,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "amenity": "dive_centre",
+      "name": "Fifi Diving",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Tropical Diving",
+    "lat": -13.4001602,
+    "lon": 48.207616,
+    "osm_id": 2430780237,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "amenity": "dive_centre",
+      "name": "Tropical Diving",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Balala Diving",
+    "lat": -13.598744,
+    "lon": 47.8184136,
+    "osm_id": 6072440123,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "building": "yes",
+      "name": "Balala Diving",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Shark Point",
+    "lat": -13.3233766,
+    "lon": 48.0195595,
+    "osm_id": 6943550642,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Shark Point",
+      "scuba_diving:entry:boat": "yes",
+      "scuba_diving:type:sharks": "yes",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Manta divesite",
+    "lat": -13.3683279,
+    "lon": 48.0627584,
+    "osm_id": 6943571813,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Manta divesite",
+      "scuba_diving:entry:boat": "yes",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Rosado",
+    "lat": -13.3931342,
+    "lon": 48.0866988,
+    "osm_id": 6943571814,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Rosado",
+      "scuba_diving:entry:boat": "yes",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Chameau",
+    "lat": -13.3220658,
+    "lon": 48.0994665,
+    "osm_id": 6943573745,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Chameau",
+      "scuba_diving:entry:boat": "yes",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  }
+]

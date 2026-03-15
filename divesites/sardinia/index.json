@@ -1,0 +1,38 @@
+[
+  {
+    "name": "MuMart (museo sommerso)",
+    "filename": "mumart-museo-sommerso.md",
+    "lat": 40.9991561,
+    "lng": 9.6124256,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 4840240367
+  },
+  {
+    "name": "Diving Archimete",
+    "filename": "diving-archimete.md",
+    "lat": 40.5917382,
+    "lng": 8.1682842,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 10537548720
+  },
+  {
+    "name": "Cala Mariolu",
+    "filename": "cala-mariolu.md",
+    "lat": 40.1232825,
+    "lng": 9.6767178,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "beach",
+    "ref": "",
+    "osmId": 184754084
+  }
+]

@@ -1,0 +1,315 @@
+[
+  {
+    "name": "Καλλιθέα",
+    "lat": 36.3776033,
+    "lon": 28.2372284,
+    "osm_id": 793101120,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "int_name": "Kalithea",
+      "name": "Καλλιθέα",
+      "name:de": "Kalithea Therme",
+      "name:el": "Kalithea Therme",
+      "name:en": "Kalithea",
+      "name:tr": "Kalatiz",
+      "operator": "Waterhoppers",
+      "place": "suburb",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Waterhoppers",
+    "lat": 36.4477122,
+    "lon": 28.2263974,
+    "osm_id": 793101328,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "description": "Info point only",
+      "name": "Waterhoppers",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "fighter plane wrack world war II",
+    "lat": 36.8275723,
+    "lon": 25.4221525,
+    "osm_id": 2092439797,
+    "osm_type": "node",
+    "depth": 7,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": "Beginner",
+    "tags": {
+      "depth": "7",
+      "historic": "wreck",
+      "name": "fighter plane wrack world war II",
+      "scuba_diving:type": "wreck",
+      "seamark:type": "wreck",
+      "seamark:wreck:category": "non-dangerous",
+      "seamark:wreck:water_level": "submerged",
+      "source": "local survey and GPS mark 2019",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "point of interest? rock?",
+    "lat": 36.4465995,
+    "lon": 25.446825,
+    "osm_id": 2350952544,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "fixme": "key trourism:viewpoint was obviously incorrect, please identify source of interest for this point with local knowledge",
+      "name": "point of interest? rock?",
+      "seamark:rock:water_level": "submerged",
+      "seamark:type": "rock",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Lygaria",
+    "lat": 35.4022795,
+    "lon": 25.0280717,
+    "osm_id": 2467454824,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Lygaria",
+      "scuba_diving:depth": "20",
+      "scuba_diving:entry": "boat",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Mononaftis",
+    "lat": 35.4082835,
+    "lon": 25.0230868,
+    "osm_id": 2467454825,
+    "osm_type": "node",
+    "depth": 22,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Mononaftis",
+      "scuba_diving:depth": "22",
+      "scuba_diving:entry": "boat",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Kerveli scouba diving",
+    "lat": 37.7325497,
+    "lon": 27.0360789,
+    "osm_id": 2547460303,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "leisure": "pitch",
+      "name": "Kerveli scouba diving",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Korfu Diving",
+    "lat": 39.673552,
+    "lon": 19.7002527,
+    "osm_id": 5930686128,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "amenity": "dive_centre",
+      "name": "Korfu Diving",
+      "sport": "scuba_diving",
+      "website": "https://www.korfudiving.com/"
+    }
+  },
+  {
+    "name": "Thassos scuba diving",
+    "lat": 40.6172674,
+    "lon": 24.5982384,
+    "osm_id": 6823930974,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Thassos scuba diving",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "SS Probitas Shipwreck",
+    "lat": 39.8705153,
+    "lon": 20.0116347,
+    "osm_id": 9489868295,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "access": "yes",
+      "historic": "wreck",
+      "name": "SS Probitas Shipwreck",
+      "scuba_diving:type": "wreck",
+      "seamark:type": "wreck",
+      "seamark:wreck:category": "non-dangerous",
+      "sport": "scuba_diving",
+      "tourism": "attraction",
+      "wreck:date_sunk": "1943",
+      "wreck:visible_at_high_tide": "no",
+      "wreck:visible_at_low_tide": "no"
+    }
+  },
+  {
+    "name": "Le Grande Bleu",
+    "lat": 36.6501675,
+    "lon": 25.3823493,
+    "osm_id": 9968656595,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "contact:website": "https://en.unifrance.org/movie/8233/the-big-blue#",
+      "depth:source_quality": "unreliable",
+      "description": "diving boat scenes of the movie The Big Blue in front of Manganari and/or Tris Klisies bay",
+      "name": "Le Grande Bleu",
+      "name:en": "The Big Blue",
+      "name:fr": "Le Grande Bleu",
+      "scuba_diving:type:sea": "yes",
+      "source": "interview with Manganari local diver, records of Spiti Louka",
+      "sport": "scuba_diving",
+      "wikipedia": "en:The Big Blue"
+    }
+  },
+  {
+    "name": "Uçak Batığı",
+    "lat": 36.9870592,
+    "lon": 27.4325639,
+    "osm_id": 10973665012,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Uçak Batığı",
+      "scuba_diving:type": "wreck",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Büyük Resif",
+    "lat": 37.0056664,
+    "lon": 27.4129862,
+    "osm_id": 10973665013,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Büyük Resif",
+      "scuba_diving:type": "reef",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Aksona",
+    "lat": 36.9599139,
+    "lon": 27.4864435,
+    "osm_id": 10973665014,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Aksona",
+      "scuba_diving:type": "yes",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Σπήλαιο Αρχαγγέλου",
+    "lat": 36.2025045,
+    "lon": 28.1425738,
+    "osm_id": 11212100525,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "cave",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "description": "Natural Caves and Grottos",
+      "name": "Σπήλαιο Αρχαγγέλου",
+      "name:el": "Σπήλαιο Αρχαγγέλου",
+      "name:en": "Archangelos Cave",
+      "natural": "cave_entrance",
+      "scuba_diving:divespot": "no",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Psarapoula",
+    "lat": 36.453164,
+    "lon": 28.2169361,
+    "osm_id": 11842033099,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Psarapoula",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Φαρι",
+    "lat": 40.6351692,
+    "lon": 24.5243531,
+    "osm_id": 2766866,
+    "osm_type": "relation",
+    "depth": null,
+    "site_type": "beach",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "access": "yes",
+      "name": "Φαρι",
+      "name:en": "Fari",
+      "natural": "beach",
+      "sport": "scuba_diving",
+      "supervised": "no",
+      "surface": "pebblestone",
+      "type": "multipolygon",
+      "wheelchair": "no"
+    }
+  }
+]

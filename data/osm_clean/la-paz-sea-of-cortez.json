@@ -1,0 +1,17 @@
+[
+  {
+    "name": "The Cortez Club",
+    "lat": 24.2035416,
+    "lon": -110.3003817,
+    "osm_id": 2371780313,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "The Cortez Club",
+      "sport": "scuba_diving"
+    }
+  }
+]

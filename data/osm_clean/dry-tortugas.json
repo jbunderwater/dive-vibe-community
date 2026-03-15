@@ -1,0 +1,39 @@
+[
+  {
+    "name": "Dry Tortugas National Park",
+    "lat": 24.646585,
+    "lon": -82.8666228,
+    "osm_id": 4437721,
+    "osm_type": "relation",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "boundary": "protected_area",
+      "gnis:feature_id": "307632",
+      "leisure": "nature_reserve",
+      "name": "Dry Tortugas National Park",
+      "name:de": "Dry-Tortugas-National Park",
+      "name:es": "Parque Nacional Tortugas Secas",
+      "name:zh": "海龟国家公园",
+      "network": "National Parks of the United States",
+      "network:wikidata": "Q34918903",
+      "operator": "National Park Service",
+      "operator:short": "NPS",
+      "operator:type": "public",
+      "operator:wikidata": "Q308439",
+      "operator:wikipedia": "en:National Park Service",
+      "ownership": "national",
+      "protect_class": "2",
+      "protected": "perpetuity",
+      "protected_area": "national_park",
+      "protection_title": "National Park",
+      "sport": "scuba_diving",
+      "type": "multipolygon",
+      "website": "https://www.nps.gov/drto/",
+      "wikidata": "Q1143655",
+      "wikipedia": "en:Dry Tortugas National Park"
+    }
+  }
+]

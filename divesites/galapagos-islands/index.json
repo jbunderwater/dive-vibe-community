@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Galapagos People",
+    "filename": "galapagos-people.md",
+    "lat": -0.7429614,
+    "lng": -90.3119827,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 1761225926
+  },
+  {
+    "name": "Galapagos fan dive",
+    "filename": "galapagos-fan-dive.md",
+    "lat": -0.9010163,
+    "lng": -89.6106449,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 3667973195
+  },
+  {
+    "name": "Daphne",
+    "filename": "daphne.md",
+    "lat": -0.3955196,
+    "lng": -90.3529774,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 13121653577
+  },
+  {
+    "name": "Mosquera",
+    "filename": "mosquera.md",
+    "lat": -0.4085075,
+    "lng": -90.2772687,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 13121663404
+  },
+  {
+    "name": "Gordon Rocks",
+    "filename": "gordon-rocks.md",
+    "lat": -0.5673265,
+    "lng": -90.1425673,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 13123255819
+  },
+  {
+    "name": "Plazas",
+    "filename": "plazas.md",
+    "lat": -0.5796433,
+    "lng": -90.1597537,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 13123276912
+  }
+]

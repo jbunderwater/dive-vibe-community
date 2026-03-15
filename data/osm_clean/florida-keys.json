@@ -1,0 +1,76 @@
+[
+  {
+    "name": "USNS General Hoyt S. Vandenberg",
+    "lat": 24.45,
+    "lon": -81.7333,
+    "osm_id": 663869444,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "wreck",
+      "name": "USNS General Hoyt S. Vandenberg",
+      "old_name": "USS General Harry Taylor",
+      "seamark:type": "wreck",
+      "sport": "scuba_diving",
+      "website": "http://www.dive-links.com/tauchplatz.php?id=2904",
+      "wikidata": "Q2468048",
+      "wikipedia": "en:USNS General Hoyt S. Vandenberg (T-AGM-10)",
+      "wreck:date_sunk": "2009-05-27"
+    }
+  },
+  {
+    "name": "Spiegel Grove",
+    "lat": 25.06667,
+    "lon": -80.31084,
+    "osm_id": 663869445,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "wreck",
+      "name": "Spiegel Grove",
+      "seamark:type": "wreck",
+      "source": "www.dive-links.com",
+      "sport": "scuba_diving",
+      "verified": "no, please check and del this tag",
+      "website": "http://www.dive-links.com/tauchplatz.php?id=658"
+    }
+  },
+  {
+    "name": "Triumph Reef",
+    "lat": 25.4741304,
+    "lon": -80.1080594,
+    "osm_id": 10683604672,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Triumph Reef",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Molasses Reef",
+    "lat": 25.0204936,
+    "lon": -80.3729239,
+    "osm_id": 1464177482,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "description": "Molasses Reef is a world-renowned, easily accessible coral reef located southeast of Key Largo in the Florida Keys National Marine Sanctuary, famous for its stunning clear water, diverse coral formations",
+      "name": "Molasses Reef",
+      "natural": "reef",
+      "sport": "scuba_diving"
+    }
+  }
+]

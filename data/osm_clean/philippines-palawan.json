@@ -1,0 +1,127 @@
+[
+  {
+    "name": "Akitsushima",
+    "lat": 11.9871,
+    "lon": 119.9735333,
+    "osm_id": 663871197,
+    "osm_type": "node",
+    "depth": 36,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": "Advanced",
+    "tags": {
+      "description": "Akitsushima wreck - Navy seaplane tender - 118m (22 to 36m)",
+      "historic": "wreck",
+      "name": "Akitsushima",
+      "scuba_diving:depth": "22",
+      "scuba_diving:maxdepth": "36",
+      "scuba_diving:type:wreck": "yes",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Biet Point",
+    "lat": 11.1414055,
+    "lon": 119.3047041,
+    "osm_id": 9865420678,
+    "osm_type": "node",
+    "depth": 21,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": "Intermediate",
+    "tags": {
+      "description": "you may observe a large amount of corals and sponges, Pseudocaranx dentex, barracudas, angelfish, cuttle fish and squids",
+      "name": "Biet Point",
+      "natural": "reef",
+      "scuba_diving:divespot": "yes",
+      "scuba_diving:maxdepth": "21m",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Cave",
+    "lat": 11.1536768,
+    "lon": 119.279235,
+    "osm_id": 9865472184,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "cave",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Cave",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Banayan Point",
+    "lat": 11.1356437,
+    "lon": 119.2806245,
+    "osm_id": 9865490958,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Banayan Point",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Bikanayos Rock",
+    "lat": 11.1439916,
+    "lon": 119.2781609,
+    "osm_id": 9865495623,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Bikanayos Rock",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Twin Reef",
+    "lat": 10.4431259,
+    "lon": 119.1645987,
+    "osm_id": 1354585119,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Twin Reef",
+      "natural": "reef",
+      "reef": "coral",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Fantastic Reef",
+    "lat": 10.4542766,
+    "lon": 119.1612451,
+    "osm_id": 1354585330,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Fantastic Reef",
+      "natural": "reef",
+      "reef": "coral",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  }
+]

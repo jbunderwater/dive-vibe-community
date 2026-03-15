@@ -4,7 +4,7 @@
     "slug": "bonaire",
     "region": "Caribbean",
     "center": [12.1836, -68.3177],
-    "bounds": [[12.10, -68.35], [12.30, -68.28]],
+    "bounds": [[12.02, -68.42], [12.31, -68.22]],
     "description": "A Caribbean island known for its pristine coral reefs and excellent shore diving opportunities.",
     "overviewFile": "overview.md",
     "countryCode": "BQ"

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Cali Ship Wreck",
+    "filename": "cali-ship-wreck.md",
+    "lat": 19.2985241,
+    "lng": -81.3828514,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 5801869438
+  },
+  {
+    "name": "USS Kittiwake Shipwreck",
+    "filename": "uss-kittiwake-shipwreck.md",
+    "lat": 19.3620753,
+    "lng": -81.4013551,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 8817882426
+  }
+]

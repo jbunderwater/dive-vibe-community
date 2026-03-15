@@ -1,0 +1,118 @@
+[
+  {
+    "name": "Sea Urchin Diving Centre",
+    "lat": -20.276286,
+    "lon": 57.3701074,
+    "osm_id": 828423370,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "addr:city": "Flic en Flac",
+      "addr:street": "Flic en Flac Road",
+      "amenity": "dive_centre",
+      "name": "Sea Urchin Diving Centre",
+      "name:en": "SeaUrchin Diving Center",
+      "opening_hours": "Mo-Sa 08:00-16:00",
+      "phone": "+230 453 8825",
+      "shop": "sports",
+      "sport": "scuba_diving",
+      "website": "http://www.diveseaurchin.com/"
+    }
+  },
+  {
+    "name": "Exploration Sous-Marine",
+    "lat": -20.2758489,
+    "lon": 57.369129,
+    "osm_id": 4888172009,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "access": "yes",
+      "addr:city": "Flic en Flac",
+      "addr:country": "MU",
+      "addr:street": "C/O Villas Caroline",
+      "amenity": "dive_centre",
+      "email": "Pascalava1208@gmail.com",
+      "name": "Exploration Sous-Marine",
+      "phone": "+230 4538 450;+230 5758 2375",
+      "sport": "scuba_diving",
+      "website": "https://www.exploration-sous-marine.com/"
+    }
+  },
+  {
+    "name": "Ocean Spirit",
+    "lat": -19.993447,
+    "lon": 57.5920734,
+    "osm_id": 5225994872,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "amenity": "dive_centre",
+      "name": "Ocean Spirit",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Octopus Diving Centre",
+    "lat": -19.9953655,
+    "lon": 57.590267,
+    "osm_id": 5963354885,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "addr:city": "Pereybere",
+      "addr:country": "MU",
+      "addr:street": "Royal Road",
+      "amenity": "dive_centre",
+      "contact:phone": "+23 57289303",
+      "contact:website": "http://octopusdivingcentre.com",
+      "name": "Octopus Diving Centre",
+      "scuba_diving:courses": "yes",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Aqua BASE",
+    "lat": -19.9930936,
+    "lon": 57.5924134,
+    "osm_id": 9236229534,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Aqua BASE",
+      "shop": "sports",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "BASE Diving",
+    "lat": -19.9930129,
+    "lon": 57.5924,
+    "osm_id": 9236229535,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "amenity": "dive_centre",
+      "name": "BASE Diving",
+      "sport": "scuba_diving"
+    }
+  }
+]

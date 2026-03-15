@@ -1,0 +1,1261 @@
+[
+  {
+    "name": "Manta Point",
+    "lat": -0.5809433,
+    "lon": 130.5409632,
+    "osm_id": 3946860634,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Manta Point",
+      "scuba_diving:current": "2",
+      "scuba_diving:type": "bigfish",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Blue Magic",
+    "lat": -0.5074179,
+    "lon": 130.7368162,
+    "osm_id": 5338514522,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Blue Magic",
+      "name:fr": "Site de plongée Blue Magic",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Friwen Bonda",
+    "lat": -0.4750988,
+    "lon": 130.6981206,
+    "osm_id": 5349889523,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Friwen Bonda",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Mayhem Dive Site",
+    "lat": -0.5110819,
+    "lon": 130.4465905,
+    "osm_id": 5453434627,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Mayhem Dive Site",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Melissa's Garden",
+    "lat": -0.5898694,
+    "lon": 130.3152067,
+    "osm_id": 5453439730,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Melissa's Garden",
+      "scuba_diving:divespot": "yes",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Batu Rufas Dive Site",
+    "lat": -0.5659022,
+    "lon": 130.2844014,
+    "osm_id": 5453439732,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Batu Rufas Dive Site",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Citrus Ridge Dive Site",
+    "lat": -0.510554,
+    "lon": 130.4555644,
+    "osm_id": 5453439733,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "description": "Good corals and good quantity of fishes. The stream kindly bring you to the south.",
+      "name": "Citrus Ridge Dive Site",
+      "scuba_diving:type:snorkeling": "yes",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Arborek shark point",
+    "lat": -0.5672128,
+    "lon": 130.5071587,
+    "osm_id": 6132126174,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Arborek shark point",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Myoskon",
+    "lat": -0.497365,
+    "lon": 130.7268192,
+    "osm_id": 7161892285,
+    "osm_type": "node",
+    "depth": 27,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": "Intermediate",
+    "tags": {
+      "depth": "5-27",
+      "name": "Myoskon",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Fam Wall",
+    "lat": -0.5915939,
+    "lon": 130.2967816,
+    "osm_id": 9865430908,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wall",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Fam Wall",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Sawandarek Jetty",
+    "lat": -0.5897798,
+    "lon": 130.6033001,
+    "osm_id": 9865439531,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Sawandarek Jetty",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Aerborek Jetty",
+    "lat": -0.5634152,
+    "lon": 130.5186131,
+    "osm_id": 9865449636,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Aerborek Jetty",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Sardine Reef",
+    "lat": -0.5333183,
+    "lon": 130.7139487,
+    "osm_id": 9865460718,
+    "osm_type": "node",
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": "Intermediate",
+    "tags": {
+      "depth": "5-30",
+      "name": "Sardine Reef",
+      "scuba_diving:entry:boat": "yes",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Batu Lima",
+    "lat": -0.4501697,
+    "lon": 130.6986886,
+    "osm_id": 12167186038,
+    "osm_type": "node",
+    "depth": 27,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": "Intermediate",
+    "tags": {
+      "depth": "5-27m",
+      "name": "Batu Lima",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Friwen Garden",
+    "lat": -0.4713256,
+    "lon": 130.6985472,
+    "osm_id": 12167193373,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Friwen Garden",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Yembuba Diving",
+    "lat": -0.5718143,
+    "lon": 130.6618405,
+    "osm_id": 12167193374,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Yembuba Diving",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Lalosi",
+    "lat": -0.5457583,
+    "lon": 130.496442,
+    "osm_id": 12167206795,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Lalosi",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "The Cathedral",
+    "lat": -0.4200947,
+    "lon": 130.5683194,
+    "osm_id": 12167252226,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "The Cathedral",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Chicken Reef",
+    "lat": -0.5465947,
+    "lon": 130.7025224,
+    "osm_id": 12167252227,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Chicken Reef",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Friwen Laut",
+    "lat": -0.4744472,
+    "lon": 130.7000962,
+    "osm_id": 12167270979,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Friwen Laut",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Mayhem",
+    "lat": -0.5139054,
+    "lon": 130.4454953,
+    "osm_id": 12167275309,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Mayhem",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Koh",
+    "lat": -0.5529745,
+    "lon": 130.6979979,
+    "osm_id": 12167277224,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Koh",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Kabui",
+    "lat": -0.4343816,
+    "lon": 130.6872477,
+    "osm_id": 12167277390,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Kabui",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Kakatua reef",
+    "lat": -0.415233,
+    "lon": 130.6744537,
+    "osm_id": 12167277473,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Kakatua reef",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Mioskun",
+    "lat": -0.4970983,
+    "lon": 130.719783,
+    "osm_id": 12167278047,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Mioskun",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Manta Sandy",
+    "lat": -0.5532675,
+    "lon": 130.5299532,
+    "osm_id": 12167282450,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Manta Sandy",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Ot Di Ma",
+    "lat": -0.5297741,
+    "lon": 130.6385512,
+    "osm_id": 12167284772,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Ot Di Ma",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Selat Kabui",
+    "lat": -0.4321515,
+    "lon": 130.5515835,
+    "osm_id": 12167285438,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "alt_name": "The Passage",
+      "name": "Selat Kabui",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Mangrove",
+    "lat": -0.5251113,
+    "lon": 130.461759,
+    "osm_id": 12167289732,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Mangrove",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Francisco",
+    "lat": -0.4673361,
+    "lon": 130.6941364,
+    "osm_id": 12167291184,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Francisco",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Lao lao",
+    "lat": -0.5038958,
+    "lon": 130.718396,
+    "osm_id": 12167293760,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Lao lao",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Andrea's Point",
+    "lat": -0.4641228,
+    "lon": 130.690372,
+    "osm_id": 12167296132,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Andrea's Point",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "West Mensuar",
+    "lat": -0.6087297,
+    "lon": 130.5466783,
+    "osm_id": 12167296133,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "West Mensuar",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Cross Over",
+    "lat": -0.5495349,
+    "lon": 130.6844603,
+    "osm_id": 12167300639,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Cross Over",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Urai",
+    "lat": -0.4125069,
+    "lon": 130.6995888,
+    "osm_id": 12167301105,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Urai",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Mike's Point",
+    "lat": -0.5136831,
+    "lon": 130.674383,
+    "osm_id": 12167303316,
+    "osm_type": "node",
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": "Intermediate",
+    "tags": {
+      "depth": "3-30",
+      "name": "Mike's Point",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Ransiwor",
+    "lat": -0.565852,
+    "lon": 130.6591085,
+    "osm_id": 12167303501,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Ransiwor",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Wai FPW",
+    "lat": -0.7021871,
+    "lon": 130.7126716,
+    "osm_id": 12182208860,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Wai FPW",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Anita's Garden",
+    "lat": -0.5435233,
+    "lon": 130.2511258,
+    "osm_id": 12185383593,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Anita's Garden",
+      "source": "Erens",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Erens New",
+    "lat": -0.5823501,
+    "lon": 130.643081,
+    "osm_id": 12185384429,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Erens New",
+      "source": "Erens Diving Center Sawandarek",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Irvin's Mantas",
+    "lat": -0.7930622,
+    "lon": 130.5047585,
+    "osm_id": 12185388276,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Irvin's Mantas",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Swallope",
+    "lat": -1.275924,
+    "lon": 129.6614347,
+    "osm_id": 13041145029,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wall",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Swallope",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Otdima Reef",
+    "lat": -0.5403458,
+    "lon": 130.6308988,
+    "osm_id": 13041188231,
+    "osm_type": "node",
+    "depth": 27,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": "Intermediate",
+    "tags": {
+      "depth": "5-27",
+      "name": "Otdima Reef",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Telma",
+    "lat": -0.303633,
+    "lon": 130.9035058,
+    "osm_id": 13041776210,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Telma",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "West Reef's End",
+    "lat": -0.4649679,
+    "lon": 130.8493593,
+    "osm_id": 13041942033,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "West Reef's End",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "The Passage",
+    "lat": -0.4208683,
+    "lon": 130.5654502,
+    "osm_id": 13041952531,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "The Passage",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Way Pretty Shallows",
+    "lat": -0.5101972,
+    "lon": 130.448606,
+    "osm_id": 13042087414,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Way Pretty Shallows",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Soft corals in the passage",
+    "lat": -0.4286672,
+    "lon": 130.5610216,
+    "osm_id": 13042087868,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "description": "Soft corals and sea fans",
+      "name": "Soft corals in the passage",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Fuzzy Rock",
+    "lat": -0.4470521,
+    "lon": 130.4581085,
+    "osm_id": 13042100995,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Fuzzy Rock",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Gam Ridge",
+    "lat": -0.5094497,
+    "lon": 130.4547141,
+    "osm_id": 13042104622,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "description": "Good corals and good quantity of fish. Saw a turtle and some clown fishes. Saw a nice black murena hidden under coral.",
+      "name": "Gam Ridge",
+      "scuba_diving:type:snorkeling": "yes",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Mangrove Ridge",
+    "lat": -0.5129865,
+    "lon": 130.459773,
+    "osm_id": 13042110418,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Mangrove Ridge",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "GA's Flash",
+    "lat": -0.5117444,
+    "lon": 130.4551455,
+    "osm_id": 13042113856,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "description": "Not much nice corals to see while snorkeling.",
+      "name": "GA's Flash",
+      "scuba_diving:type:snorkeling": "yes",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Deep Rock",
+    "lat": -0.5138244,
+    "lon": 130.4405035,
+    "osm_id": 13042123105,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Deep Rock",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Mangrove and Slope",
+    "lat": -0.5154423,
+    "lon": 130.4618957,
+    "osm_id": 13042126227,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Mangrove and Slope",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Batu Laut",
+    "lat": -0.548034,
+    "lon": 130.4981147,
+    "osm_id": 13042160207,
+    "osm_type": "node",
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": "Intermediate",
+    "tags": {
+      "depth": "5-30",
+      "name": "Batu Laut",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Manta Ridge",
+    "lat": -0.5617019,
+    "lon": 130.537349,
+    "osm_id": 13042160972,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": "Intermediate",
+    "tags": {
+      "depth": "5-20",
+      "name": "Manta Ridge",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Yeben Shallows",
+    "lat": -0.4917346,
+    "lon": 130.3342607,
+    "osm_id": 13042168610,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Yeben Shallows",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "The Lagoon",
+    "lat": -0.5660946,
+    "lon": 130.2856301,
+    "osm_id": 13045224672,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "The Lagoon",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Barracuda West",
+    "lat": -0.5418952,
+    "lon": 130.250866,
+    "osm_id": 13045300274,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Barracuda West",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Pulau Memyai",
+    "lat": -0.3676028,
+    "lon": 131.1827303,
+    "osm_id": 13045303478,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": "Intermediate",
+    "tags": {
+      "depth": "5-20",
+      "name": "Pulau Memyai",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "White Arrow",
+    "lat": -0.2055018,
+    "lon": 130.2554037,
+    "osm_id": 13045309934,
+    "osm_type": "node",
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": "Intermediate",
+    "tags": {
+      "depth": "5-30",
+      "name": "White Arrow",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Barracuda East",
+    "lat": -0.5427047,
+    "lon": 130.2518139,
+    "osm_id": 13045311305,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Barracuda East",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "West Penemu",
+    "lat": -0.5615678,
+    "lon": 130.2565689,
+    "osm_id": 13045320123,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "West Penemu",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Harto's Reef",
+    "lat": -0.5934078,
+    "lon": 130.2895933,
+    "osm_id": 13045339714,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Harto's Reef",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Imbekwan Bommies",
+    "lat": -0.3997071,
+    "lon": 131.2043113,
+    "osm_id": 13045621436,
+    "osm_type": "node",
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": "Intermediate",
+    "tags": {
+      "depth": "3-30",
+      "name": "Imbekwan Bommies",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Imbekwan wall",
+    "lat": -0.4002043,
+    "lon": 131.206949,
+    "osm_id": 13045635629,
+    "osm_type": "node",
+    "depth": 30,
+    "site_type": "wall",
+    "entry_type": null,
+    "difficulty": "Intermediate",
+    "tags": {
+      "depth": "3-30",
+      "name": "Imbekwan wall",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Swarm",
+    "lat": -0.708643,
+    "lon": 130.3055331,
+    "osm_id": 13045645666,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Swarm",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Keruo Channel",
+    "lat": -0.5888295,
+    "lon": 130.2960285,
+    "osm_id": 13045652322,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Keruo Channel",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "My Reef",
+    "lat": -0.6065187,
+    "lon": 130.2893836,
+    "osm_id": 13045663969,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "My Reef",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Seamount",
+    "lat": -0.5894517,
+    "lon": 130.3102785,
+    "osm_id": 13045665466,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Seamount",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Keruo Night Dive",
+    "lat": -0.5930296,
+    "lon": 130.3044533,
+    "osm_id": 13045665467,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Keruo Night Dive",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Cave Lagoon",
+    "lat": -0.524805,
+    "lon": 130.593602,
+    "osm_id": 13046100778,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "cave",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Cave Lagoon",
+      "natural": "cave_entrance",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Cape Kri",
+    "lat": -0.5562761,
+    "lon": 130.6915275,
+    "osm_id": 565524431,
+    "osm_type": "way",
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": "Intermediate",
+    "tags": {
+      "area": "yes",
+      "depth": "5-30",
+      "description": "Good corals, a lot of turtles but not a big variety of fishes. But still this spot worth a try. The stream kindly bring you to the west, so you can look the coral around the south of the island.",
+      "name": "Cape Kri",
+      "note": "Checked on diving map",
+      "scuba_diving:type:snorkeling": "yes",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Yenkoranu Jetty",
+    "lat": -0.5575219,
+    "lon": 130.6720492,
+    "osm_id": 565524432,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "area": "yes",
+      "name": "Yenkoranu Jetty",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Cape Mansuar",
+    "lat": -0.569893,
+    "lon": 130.6584611,
+    "osm_id": 565524433,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "area": "yes",
+      "description": "Perfect snorkeling spot. A lot of fishes, some turtles and clown fishes.",
+      "name": "Cape Mansuar",
+      "scuba_diving:type:snorkeling": "yes",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Aerborek Jetty Dive Site",
+    "lat": -0.5633165,
+    "lon": 130.5184177,
+    "osm_id": 568677752,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "area": "yes",
+      "name": "Aerborek Jetty Dive Site",
+      "scuba_diving:divespot": "yes",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Friwen Wall",
+    "lat": -0.4774477,
+    "lon": 130.6960298,
+    "osm_id": 672703117,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "wall",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "area": "yes",
+      "name": "Friwen Wall",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  }
+]

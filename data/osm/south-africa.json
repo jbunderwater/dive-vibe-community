@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Pisces Diving",
+    "lat": -27.5408231,
+    "lon": 32.6790135,
+    "osm_id": 3270398763,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "contact:mobile": "+27 83 462 5022",
+      "name": "Pisces Diving",
+      "phone": "+27 82 651 1870",
+      "sport": "scuba_diving",
+      "website": "https://www.piscesdiving.co.za/"
+    }
+  },
+  {
+    "name": "Amoray",
+    "lat": -27.5408898,
+    "lon": 32.6789074,
+    "osm_id": 6579846285,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Amoray",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Coral Divers",
+    "lat": -27.5407559,
+    "lon": 32.678705,
+    "osm_id": 13072599540,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Coral Divers",
+      "sport": "scuba_diving"
+    }
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Paposse (Wrack)",
+    "filename": "paposse-wrack.md",
+    "lat": 34.1445,
+    "lng": -76.652,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 663869490
+  },
+  {
+    "name": "Bedfordshire (Wrack)",
+    "filename": "bedfordshire-wrack.md",
+    "lat": 34.3120167,
+    "lng": -76.45025,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 663869492
+  },
+  {
+    "name": "U-576 (Wrack)",
+    "filename": "u-576-wrack.md",
+    "lat": 34.51,
+    "lng": -75.22,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 663869495
+  },
+  {
+    "name": "U-85 (Wrack)",
+    "filename": "u-85-wrack.md",
+    "lat": 35.55,
+    "lng": -75.13,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 663869496
+  },
+  {
+    "name": "U-352 (Wrack)",
+    "filename": "u-352-wrack.md",
+    "lat": 34.22767,
+    "lng": -76.56597,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 663869497
+  },
+  {
+    "name": "Indra (Wrack)",
+    "filename": "indra-wrack.md",
+    "lat": 34.5616667,
+    "lng": -76.8516667,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 663869498
+  },
+  {
+    "name": "Aeolus (Wrack)",
+    "filename": "aeolus-wrack.md",
+    "lat": 34.27805,
+    "lng": -76.64417,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 663869499
+  }
+]

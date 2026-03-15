@@ -1,0 +1,199 @@
+[
+  {
+    "name": "Yatouche",
+    "lat": 29.5038889,
+    "lon": 34.9197222,
+    "osm_id": 663869876,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "wreck",
+      "name": "Yatouche",
+      "name:en": "Yatouche",
+      "seamark:type": "wreck",
+      "sport": "scuba_diving",
+      "verified": "no, please check and del this tag"
+    }
+  },
+  {
+    "name": "Cedar Pride",
+    "lat": 29.5216667,
+    "lon": 34.9883333,
+    "osm_id": 663869877,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "wreck",
+      "name": "Cedar Pride",
+      "seamark:type": "wreck",
+      "sport": "scuba_diving",
+      "verified": "no, please check and del this tag"
+    }
+  },
+  {
+    "name": "סופה",
+    "lat": 29.5447222,
+    "lon": 34.9539555,
+    "osm_id": 663869878,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "wreck",
+      "name": "סופה",
+      "name:en": "Soufa",
+      "name:he": "סופה",
+      "seamark:type": "wreck",
+      "sport": "scuba_diving",
+      "verified": "no, please check and del this tag"
+    }
+  },
+  {
+    "name": "Japanese Gardens Coral Reefs",
+    "lat": 29.429928,
+    "lon": 34.97325,
+    "osm_id": 2374261090,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Japanese Gardens Coral Reefs",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "אקווה ספורט",
+    "lat": 29.5124443,
+    "lon": 34.9248821,
+    "osm_id": 3741890716,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "amenity": "dive_centre",
+      "name": "אקווה ספורט",
+      "name:en": "Aqua Sport",
+      "name:he": "אקווה ספורט",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Cedar Pride Shipwreck",
+    "lat": 29.4310657,
+    "lon": 34.9731609,
+    "osm_id": 4329102691,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Cedar Pride Shipwreck",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Gorgon 1",
+    "lat": 29.426193,
+    "lon": 34.9721236,
+    "osm_id": 5504662457,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Gorgon 1",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Tank",
+    "lat": 29.4187751,
+    "lon": 34.9716597,
+    "osm_id": 5522700737,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Tank",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Plane wreck",
+    "lat": 29.4180629,
+    "lon": 34.97162,
+    "osm_id": 5522700738,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Plane wreck",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Rainbow reef",
+    "lat": 29.4325243,
+    "lon": 34.9737847,
+    "osm_id": 5603008074,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Rainbow reef",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "אתר צלילה -סטי\"ל (24 מטר)",
+    "lat": 29.5145068,
+    "lon": 34.9270007,
+    "osm_id": 8577535117,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "wreck",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b0/IHM_אתר_צלילה_-סטי\"ל_(24_מטר).jpeg",
+      "image1": "https://upload.wikimedia.org/wikipedia/commons/f/f4/IHM_אתר_צלילה_-סטי\"ל_(24_מטר)_1.jpeg",
+      "image2": "https://upload.wikimedia.org/wikipedia/commons/2/2f/IHM_אתר_צלילה_-סטי\"ל_(24_מטר)_2.jpeg",
+      "image3": "https://upload.wikimedia.org/wikipedia/commons/e/eb/IHM_אתר_צלילה_-סטי\"ל_(24_מטר)_3.jpeg",
+      "image4": "https://upload.wikimedia.org/wikipedia/commons/b/b0/IHM_אתר_צלילה_-סטי\"ל_(24_מטר).jpeg",
+      "image5": "https://upload.wikimedia.org/wikipedia/commons/f/f4/IHM_אתר_צלילה_-סטי\"ל_(24_מטר)_1.jpeg",
+      "image6": "https://upload.wikimedia.org/wikipedia/commons/2/2f/IHM_אתר_צלילה_-סטי\"ל_(24_מטר)_2.jpeg",
+      "image7": "https://upload.wikimedia.org/wikipedia/commons/e/eb/IHM_אתר_צלילה_-סטי\"ל_(24_מטר)_3.jpeg",
+      "name": "אתר צלילה -סטי\"ל (24 מטר)",
+      "name:he": "אתר צלילה -סטי\"ל (24 מטר)",
+      "seamark:type": "wreck",
+      "sport": "scuba_diving",
+      "tourism": "attraction",
+      "website": "https://www.diving.org.il/%D7%94%D7%A1%D7%98%D7%99%D7%9C-%D7%A1%D7%95%D7%A4%D7%94"
+    }
+  }
+]

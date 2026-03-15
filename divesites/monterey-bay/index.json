@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Diving Area",
+    "filename": "diving-area.md",
+    "lat": 36.5217937,
+    "lng": -121.9405398,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 5163864
+  }
+]

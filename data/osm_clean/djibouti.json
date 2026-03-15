@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Îles Moucha الجزر موشا",
+    "lat": 11.7191937,
+    "lon": 43.1718877,
+    "osm_id": 316800294,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Îles Moucha الجزر موشا",
+      "name:ar": "الجزر موشا",
+      "name:en": "Moucha Islands",
+      "name:fr": "Îles Moucha",
+      "name:hu": "Moucha-szigetek",
+      "place": "archipelago",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Île Maskali جزيرة ماسكالي",
+    "lat": 11.7139115,
+    "lon": 43.1570783,
+    "osm_id": 234743094,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "admin_level": "4",
+      "boundary": "administrative",
+      "name": "Île Maskali جزيرة ماسكالي",
+      "name:ar": "جزيرة ماسكالي",
+      "name:en": "Maskali Island",
+      "name:fr": "Île Maskali",
+      "name:hu": "Maskali Island",
+      "natural": "coastline",
+      "place": "islet",
+      "sport": "scuba_diving",
+      "wikidata": "Q23723098"
+    }
+  },
+  {
+    "name": "Île Moucha جزيرة موشا",
+    "lat": 11.7209561,
+    "lon": 43.195043,
+    "osm_id": 11092421,
+    "osm_type": "relation",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "is_in:country": "Djibouti",
+      "name": "Île Moucha جزيرة موشا",
+      "name:ar": "جزيرة موشا",
+      "name:de": "Musha",
+      "name:en": "Moucha Island",
+      "name:es": "Isla Moucha",
+      "name:fr": "Île Moucha",
+      "name:hu": "Moucha-szigetek",
+      "place": "island",
+      "sport": "scuba_diving",
+      "type": "multipolygon",
+      "wikidata": "Q258363",
+      "wikipedia": "es:Isla Moucha"
+    }
+  }
+]

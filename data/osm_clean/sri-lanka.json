@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Scuba Lanka",
+    "lat": 8.6104972,
+    "lon": 81.2190131,
+    "osm_id": 2896874870,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Scuba Lanka",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Bar Reef",
+    "lat": 8.3673231,
+    "lon": 79.7463453,
+    "osm_id": 4025127654,
+    "osm_type": "node",
+    "depth": 5,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": "Beginner",
+    "tags": {
+      "depth": "0.5-5",
+      "name": "Bar Reef",
+      "natural": "reef",
+      "reef": "coral",
+      "sport": "scuba_diving",
+      "sport:snorkeling": "yes"
+    }
+  },
+  {
+    "name": "sea horse",
+    "lat": 6.0096563,
+    "lon": 80.2499319,
+    "osm_id": 4744764604,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "amenity": "dive_centre",
+      "name": "sea horse",
+      "sport": "scuba_diving"
+    }
+  }
+]

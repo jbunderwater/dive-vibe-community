@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Hol Chan Cut",
+    "filename": "hol-chan-cut.md",
+    "lat": 17.8627707,
+    "lng": -87.977162,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 1574464135
+  },
+  {
+    "name": "Long Caye Aquarium",
+    "filename": "long-caye-aquarium.md",
+    "lat": 17.2130056,
+    "lng": -87.6075978,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 5484628121
+  },
+  {
+    "name": "Half Moon Wall",
+    "filename": "half-moon-wall.md",
+    "lat": 17.2082863,
+    "lng": -87.5358197,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": 5484628122
+  }
+]

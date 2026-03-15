@@ -1,0 +1,14 @@
+[
+  {
+    "name": "NAD Lembeh",
+    "filename": "nad-lembeh.md",
+    "lat": 1.4447743,
+    "lng": 125.2409649,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 2138645003
+  }
+]

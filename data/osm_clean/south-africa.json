@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Amoray",
+    "lat": -27.5408898,
+    "lon": 32.6789074,
+    "osm_id": 6579846285,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Amoray",
+      "sport": "scuba_diving"
+    }
+  }
+]

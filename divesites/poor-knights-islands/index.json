@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Landing Bay Pinnacle",
+    "filename": "landing-bay-pinnacle.md",
+    "lat": -35.4647573,
+    "lng": 174.7348497,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 8070483247
+  },
+  {
+    "name": "Ann's Rock / Astrid's Wall",
+    "filename": "anns-rock-astrids-wall.md",
+    "lat": -35.4473675,
+    "lng": 174.7337301,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": 8070483249
+  }
+]

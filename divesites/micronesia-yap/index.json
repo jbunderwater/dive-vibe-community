@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Mill Channel new cleaning station",
+    "filename": "mill-channel-new-cleaning-station.md",
+    "lat": 9.6015185,
+    "lng": 138.1366048,
+    "difficulty": "Beginner",
+    "maxDepth": 12,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 4031012952
+  },
+  {
+    "name": "Mill Channel old cleaning station",
+    "filename": "mill-channel-old-cleaning-station.md",
+    "lat": 9.60112,
+    "lng": 138.1301774,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 4031012953
+  },
+  {
+    "name": "Mill Channel: Ridge",
+    "filename": "mill-channel-ridge.md",
+    "lat": 9.6044595,
+    "lng": 138.1270354,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 4031012954
+  },
+  {
+    "name": "Vertigo",
+    "filename": "vertigo.md",
+    "lat": 9.5929632,
+    "lng": 138.1125339,
+    "difficulty": "Intermediate",
+    "maxDepth": 22,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 4031013296
+  },
+  {
+    "name": "Zero plane",
+    "filename": "zero-plane.md",
+    "lat": 9.5926867,
+    "lng": 138.1168957,
+    "difficulty": "Beginner",
+    "maxDepth": 2,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 4031013297
+  }
+]

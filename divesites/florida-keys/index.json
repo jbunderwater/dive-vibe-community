@@ -1,0 +1,50 @@
+[
+  {
+    "name": "USNS General Hoyt S. Vandenberg",
+    "filename": "usns-general-hoyt-s-vandenberg.md",
+    "lat": 24.45,
+    "lng": -81.7333,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 663869444
+  },
+  {
+    "name": "Spiegel Grove",
+    "filename": "spiegel-grove.md",
+    "lat": 25.06667,
+    "lng": -80.31084,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 663869445
+  },
+  {
+    "name": "Triumph Reef",
+    "filename": "triumph-reef.md",
+    "lat": 25.4741304,
+    "lng": -80.1080594,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 10683604672
+  },
+  {
+    "name": "Molasses Reef",
+    "filename": "molasses-reef.md",
+    "lat": 25.0204936,
+    "lng": -80.3729239,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 1464177482
+  }
+]

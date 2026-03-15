@@ -1,0 +1,56 @@
+[
+  {
+    "name": "MuMart (museo sommerso)",
+    "lat": 40.9991561,
+    "lon": 9.6124256,
+    "osm_id": 4840240367,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "monument",
+      "name": "MuMart (museo sommerso)",
+      "sport": "scuba_diving",
+      "website": "https://www.golfoaranciturismo.it/arte-e-cultura/il-mumart/"
+    }
+  },
+  {
+    "name": "Diving Archimete",
+    "lat": 40.5917382,
+    "lon": 8.1682842,
+    "osm_id": 10537548720,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "club": "sport",
+      "name": "Diving Archimete",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Cala Mariolu",
+    "lat": 40.1232825,
+    "lon": 9.6767178,
+    "osm_id": 184754084,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "beach",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "fee": "no",
+      "loc_name": "Ispuligedenie",
+      "name": "Cala Mariolu",
+      "name:sc": "Ispuligedenie",
+      "natural": "beach",
+      "source": "https://www.calamariolu.it",
+      "sport": "scuba_diving",
+      "surface": "pebblestone"
+    }
+  }
+]

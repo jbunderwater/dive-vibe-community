@@ -1,0 +1,14 @@
+[
+  {
+    "name": "The Maze",
+    "filename": "the-maze.md",
+    "lat": 16.1127403,
+    "lng": -86.9490156,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 820354025
+  }
+]

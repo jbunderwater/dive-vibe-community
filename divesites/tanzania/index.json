@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Little Wall",
+    "filename": "little-wall.md",
+    "lat": -5.8387967,
+    "lng": 39.3918874,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": 10209111349
+  },
+  {
+    "name": "Big Wall",
+    "filename": "big-wall.md",
+    "lat": -5.8015048,
+    "lng": 39.4182592,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": 10209140310
+  },
+  {
+    "name": "Captain Muddy",
+    "filename": "captain-muddy.md",
+    "lat": -5.7355216,
+    "lng": 39.2902305,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 10790374777
+  },
+  {
+    "name": "THGI Nungwi",
+    "filename": "thgi-nungwi.md",
+    "lat": -5.7301527,
+    "lng": 39.2926562,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 10790374783
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "SS President Coolidge",
+    "filename": "ss-president-coolidge.md",
+    "lat": -15.5230823,
+    "lng": 167.2352421,
+    "difficulty": "Advanced",
+    "maxDepth": 70,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 1873948248
+  },
+  {
+    "name": "Million Dollar Point",
+    "filename": "million-dollar-point.md",
+    "lat": -15.5255116,
+    "lng": 167.2452199,
+    "difficulty": "Advanced",
+    "maxDepth": 50,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 1874302192
+  }
+]

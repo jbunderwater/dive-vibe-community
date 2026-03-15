@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Diving Area",
+    "lat": 36.5217937,
+    "lon": -121.9405398,
+    "osm_id": 5163864,
+    "osm_type": "relation",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Diving Area",
+      "sport": "scuba_diving",
+      "type": "multipolygon"
+    }
+  }
+]

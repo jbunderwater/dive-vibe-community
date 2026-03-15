@@ -1,0 +1,71 @@
+[
+  {
+    "name": "Twin Peaks",
+    "lat": 9.0562852,
+    "lon": 97.8150386,
+    "osm_id": 270980741,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": null,
+    "tags": {
+      "name": "Twin Peaks",
+      "scuba_diving:entry": "boat",
+      "scuba_diving:type:reef": "yes",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Elephant Head",
+    "lat": 8.6196229,
+    "lon": 97.6408268,
+    "osm_id": 270980993,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Elephant Head",
+      "scuba_diving:entry:boat": "yes",
+      "sport": "scuba_diving",
+      "sport:scuba_diving": "yes",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Boonsung Wreck",
+    "lat": 8.7707571,
+    "lon": 98.1863863,
+    "osm_id": 6146706985,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Boonsung Wreck",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "The Dome",
+    "lat": 9.0563523,
+    "lon": 97.8122901,
+    "osm_id": 6164080185,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "The Dome",
+      "name:en": "Koh Tachai Pinnacle",
+      "scuba_diving:entry:boat": "yes",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  }
+]

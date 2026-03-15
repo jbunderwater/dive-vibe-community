@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Roche Grand Maman",
+    "filename": "roche-grand-maman.md",
+    "lat": -4.2900691,
+    "lng": 55.6859107,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 9865500503
+  }
+]

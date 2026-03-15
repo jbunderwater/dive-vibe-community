@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Dry Tortugas National Park",
+    "filename": "dry-tortugas-national-park.md",
+    "lat": 24.646585,
+    "lng": -82.8666228,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 4437721
+  }
+]

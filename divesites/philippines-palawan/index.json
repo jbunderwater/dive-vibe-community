@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Akitsushima",
+    "filename": "akitsushima.md",
+    "lat": 11.9871,
+    "lng": 119.9735333,
+    "difficulty": "Advanced",
+    "maxDepth": 36,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 663871197
+  },
+  {
+    "name": "Biet Point",
+    "filename": "biet-point.md",
+    "lat": 11.1414055,
+    "lng": 119.3047041,
+    "difficulty": "Intermediate",
+    "maxDepth": 21,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 9865420678
+  },
+  {
+    "name": "Cave",
+    "filename": "cave.md",
+    "lat": 11.1536768,
+    "lng": 119.279235,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "cave",
+    "ref": "",
+    "osmId": 9865472184
+  },
+  {
+    "name": "Banayan Point",
+    "filename": "banayan-point.md",
+    "lat": 11.1356437,
+    "lng": 119.2806245,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 9865490958
+  },
+  {
+    "name": "Bikanayos Rock",
+    "filename": "bikanayos-rock.md",
+    "lat": 11.1439916,
+    "lng": 119.2781609,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 9865495623
+  },
+  {
+    "name": "Twin Reef",
+    "filename": "twin-reef.md",
+    "lat": 10.4431259,
+    "lng": 119.1645987,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 1354585119
+  },
+  {
+    "name": "Fantastic Reef",
+    "filename": "fantastic-reef.md",
+    "lat": 10.4542766,
+    "lng": 119.1612451,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 1354585330
+  }
+]

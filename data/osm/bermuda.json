@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Fantasea Diving and Watersports",
+    "lat": 32.323482,
+    "lon": -64.8350586,
+    "osm_id": 2367151091,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "amenity": "dive_centre",
+      "name": "Fantasea Diving and Watersports",
+      "shop": "scuba_diving",
+      "sport": "scuba_diving",
+      "website": "http://www.fantasea.bm/diving/"
+    }
+  }
+]

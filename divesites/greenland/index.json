@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Silfra",
+    "filename": "silfra.md",
+    "lat": 64.2551903,
+    "lng": -21.1169415,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 1817672135
+  }
+]

@@ -1,0 +1,215 @@
+[
+  {
+    "name": "The Wall",
+    "lat": 16.9426945,
+    "lon": 54.804763,
+    "osm_id": 306049996,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wall",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "diving:entry": "yes",
+      "name": "The Wall",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Aquarium",
+    "lat": 16.9462204,
+    "lon": 54.8045232,
+    "osm_id": 306050015,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "diving:entry": "yes",
+      "name": "Aquarium",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "China Wreck (direction 150deg)",
+    "lat": 16.9678903,
+    "lon": 54.707109,
+    "osm_id": 306050042,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "diving:entry": "yes",
+      "name": "China Wreck (direction 150deg)",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "ABT Salalah",
+    "lat": 17.0087552,
+    "lon": 54.1517412,
+    "osm_id": 306050061,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "ABT Salalah",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Flamingo Beach: Side Entry",
+    "lat": 16.95053,
+    "lon": 54.8188777,
+    "osm_id": 306100677,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "diving:entry": "yes",
+      "name": "Flamingo Beach: Side Entry",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Flamingo Beach: New Entry",
+    "lat": 16.9500559,
+    "lon": 54.8192384,
+    "osm_id": 306100678,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "diving:entry": "yes",
+      "name": "Flamingo Beach: New Entry",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Flamingo Beach: Beach Entry",
+    "lat": 16.9512786,
+    "lon": 54.8158953,
+    "osm_id": 306105649,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "diving:entry": "yes",
+      "name": "Flamingo Beach: Beach Entry",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Eagle Bay",
+    "lat": 16.9402373,
+    "lon": 54.798294,
+    "osm_id": 306112631,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "diving:entry": "yes",
+      "name": "Eagle Bay",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Extra Divers Musandam",
+    "lat": 26.2138898,
+    "lon": 56.2340282,
+    "osm_id": 598562251,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "amenity": "dive_centre",
+      "name": "Extra Divers Musandam",
+      "name:en": "Extra Divers Musandam",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Dibba Rock",
+    "lat": 25.6034329,
+    "lon": 56.3502417,
+    "osm_id": 9865803545,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Dibba Rock",
+      "scuba_diving:entry:boat": "yes",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Snoopy Island",
+    "lat": 25.4926007,
+    "lon": 56.3635239,
+    "osm_id": 9865811800,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Snoopy Island",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Dibba Rock Reef",
+    "lat": 25.6031152,
+    "lon": 56.3508923,
+    "osm_id": 3357581,
+    "osm_type": "relation",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "boundary": "protected_area",
+      "name": "Dibba Rock Reef",
+      "name:en": "Dibba Rock Reef",
+      "sport": "scuba_diving",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "name": "Snoopy Island Reef",
+    "lat": 25.4922406,
+    "lon": 56.3640027,
+    "osm_id": 3357593,
+    "osm_type": "relation",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "boundary": "protected_area",
+      "name": "Snoopy Island Reef",
+      "name:en": "Snoopy Island Reef",
+      "sport": "scuba_diving",
+      "type": "multipolygon"
+    }
+  }
+]

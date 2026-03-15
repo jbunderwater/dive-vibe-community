@@ -1,0 +1,41 @@
+[
+  {
+    "name": "SS President Coolidge",
+    "lat": -15.5230823,
+    "lon": 167.2352421,
+    "osm_id": 1873948248,
+    "osm_type": "node",
+    "depth": 70,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "SS President Coolidge",
+      "scuba_diving:depth": "40m",
+      "scuba_diving:maxdepth": "70m",
+      "scuba_diving:type": "wreck",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Million Dollar Point",
+    "lat": -15.5255116,
+    "lon": 167.2452199,
+    "osm_id": 1874302192,
+    "osm_type": "node",
+    "depth": 50,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "Million Dollar Point",
+      "scuba_diving:depth": "30m",
+      "scuba_diving:divespot": "yes",
+      "scuba_diving:maxdepth": "50m",
+      "scuba_diving:type": "wreck",
+      "sport": "scuba_diving",
+      "wikidata": "Q1343406",
+      "wikipedia": "de:Million Dollar Point"
+    }
+  }
+]

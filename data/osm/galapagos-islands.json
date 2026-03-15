@@ -1,0 +1,268 @@
+[
+  {
+    "name": "Dive Center Silberstein",
+    "lat": -0.7427033,
+    "lon": -90.3110817,
+    "osm_id": 797404406,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "amenity": "dive_centre",
+      "name": "Dive Center Silberstein",
+      "scuba_diving:education": "yes",
+      "scuba_diving:guided_tours": "yes",
+      "scuba_diving:organization": "PADI",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Macarron Scuba Divers",
+    "lat": -0.7435349,
+    "lon": -90.3123161,
+    "osm_id": 1078971534,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "addr:street": "Charles Darwin",
+      "name": "Macarron Scuba Divers",
+      "opening_hours": "07:00-12:00,02:30-08:00; Su 04:00-08:00",
+      "operator": "Macarron",
+      "scuba_diving:education": "yes",
+      "scuba_diving:guided_tours": "yes",
+      "scuba_diving:organization": "PADI",
+      "shop": "scuba_diving",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Galaisa Adventure Travel Agency",
+    "lat": -0.9554825,
+    "lon": -90.966512,
+    "osm_id": 1594223848,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "check_date": "2025-10-18",
+      "name": "Galaisa Adventure Travel Agency",
+      "office": "guide",
+      "scuba_diving:education": "yes",
+      "scuba_diving:guided_tours": "yes",
+      "shop": "scuba_diving",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Isabela Dive Center",
+    "lat": -0.9566136,
+    "lon": -90.964939,
+    "osm_id": 1597046074,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "amenity": "dive_centre",
+      "name": "Isabela Dive Center",
+      "scuba_diving:education": "yes",
+      "scuba_diving:guided_tours": "yes",
+      "shop": "scuba_diving",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Galápagos Deep",
+    "lat": -0.7439921,
+    "lon": -90.3133297,
+    "osm_id": 1742558923,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "amenity": "dive_centre",
+      "name": "Galápagos Deep",
+      "shop": "scuba_diving",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Galapagos People",
+    "lat": -0.7429614,
+    "lon": -90.3119827,
+    "osm_id": 1761225926,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "amenity": "dive_centre",
+      "name": "Galapagos People",
+      "scuba_diving:guided_tours": "yes",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Ocho",
+    "lat": -0.9017234,
+    "lon": -89.61164,
+    "osm_id": 1769692030,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "amenity": "tourism",
+      "level": "0",
+      "name": "Ocho",
+      "scuba_diving:guided_tours": "yes",
+      "shop": "travel_agency",
+      "sport": "scuba_diving",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "name": "Scuba Eden",
+    "lat": -0.9015365,
+    "lon": -89.6112535,
+    "osm_id": 3667968844,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "addr:city": "Puerto Baquerizo Moreno",
+      "addr:street": "Teodoro Wolf",
+      "amenity": "tourism",
+      "check_date": "2025-10-13",
+      "name": "Scuba Eden",
+      "operator": "Scuba Eden Diving Center",
+      "phone": "+593 99 678 9640",
+      "shop": "travel_agency",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Galapagos fan dive",
+    "lat": -0.9010163,
+    "lon": -89.6106449,
+    "osm_id": 3667973195,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "amenity": "tourism",
+      "name": "Galapagos fan dive",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Los Mantas Dive Center",
+    "lat": -0.9017815,
+    "lon": -89.6108878,
+    "osm_id": 3671051394,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "amenity": "tourism",
+      "name": "Los Mantas Dive Center",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Daphne",
+    "lat": -0.3955196,
+    "lon": -90.3529774,
+    "osm_id": 13121653577,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Daphne",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Mosquera",
+    "lat": -0.4085075,
+    "lon": -90.2772687,
+    "osm_id": 13121663404,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Mosquera",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Gordon Rocks",
+    "lat": -0.5673265,
+    "lon": -90.1425673,
+    "osm_id": 13123255819,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Gordon Rocks",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Plazas",
+    "lat": -0.5796433,
+    "lon": -90.1597537,
+    "osm_id": 13123276912,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Plazas",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Café Scuba",
+    "lat": -0.7383927,
+    "lon": -90.3113775,
+    "osm_id": 166505477,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "amenity": "cafe",
+      "building": "yes",
+      "guide": "scuba_diving",
+      "name": "Café Scuba",
+      "sport": "scuba_diving"
+    }
+  }
+]

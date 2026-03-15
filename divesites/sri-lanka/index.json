@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Scuba Lanka",
+    "filename": "scuba-lanka.md",
+    "lat": 8.6104972,
+    "lng": 81.2190131,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 2896874870
+  },
+  {
+    "name": "Bar Reef",
+    "filename": "bar-reef.md",
+    "lat": 8.3673231,
+    "lng": 79.7463453,
+    "difficulty": "Beginner",
+    "maxDepth": 5,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 4025127654
+  },
+  {
+    "name": "sea horse",
+    "filename": "sea-horse.md",
+    "lat": 6.0096563,
+    "lng": 80.2499319,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 4744764604
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Mares Diving Center",
+    "lat": 38.5295252,
+    "lon": -28.3215683,
+    "osm_id": 4441978177,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Mares Diving Center",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Flores Dive Center",
+    "lat": 39.4515455,
+    "lon": -31.2643192,
+    "osm_id": 5058520461,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "addr:city": "Fajã Grande",
+      "addr:postcode": "9960-030",
+      "addr:street": "Rua das Courelas",
+      "email": "miguel@floresdivecenter.com",
+      "name": "Flores Dive Center",
+      "phone": "+351 964794943",
+      "scuba_diving": "yes",
+      "shop": "scuba_diving",
+      "source": "https://www.floresdivecenter.com",
+      "sport": "scuba_diving",
+      "website": "https://www.floresdivecenter.com"
+    }
+  },
+  {
+    "name": "princess alice bank",
+    "lat": 38.4046516,
+    "lon": -29.9476204,
+    "osm_id": 5875583620,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "princess alice bank",
+      "sport": "scuba_diving"
+    }
+  }
+]

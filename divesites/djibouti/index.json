@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Îles Moucha الجزر موشا",
+    "filename": "îles-moucha-الجزر-موشا.md",
+    "lat": 11.7191937,
+    "lng": 43.1718877,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 316800294
+  },
+  {
+    "name": "Île Maskali جزيرة ماسكالي",
+    "filename": "île-maskali-جزيرة-ماسكالي.md",
+    "lat": 11.7139115,
+    "lng": 43.1570783,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 234743094
+  },
+  {
+    "name": "Île Moucha جزيرة موشا",
+    "filename": "île-moucha-جزيرة-موشا.md",
+    "lat": 11.7209561,
+    "lng": 43.195043,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 11092421
+  }
+]

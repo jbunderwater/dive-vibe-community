@@ -1,0 +1,14 @@
+[
+  {
+    "name": "The Cortez Club",
+    "filename": "the-cortez-club.md",
+    "lat": 24.2035416,
+    "lng": -110.3003817,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 2371780313
+  }
+]

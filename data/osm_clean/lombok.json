@@ -1,0 +1,527 @@
+[
+  {
+    "name": "Buddha Dive",
+    "lat": -8.3565541,
+    "lon": 116.0419207,
+    "osm_id": 2380049552,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "accommodation": "yes",
+      "amenity": "dive_centre",
+      "name": "Buddha Dive",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Diversia",
+    "lat": -8.353901,
+    "lon": 116.043225,
+    "osm_id": 2380049819,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "amenity": "dive_centre",
+      "name": "Diversia",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Gili Scuba Diving",
+    "lat": -8.3481208,
+    "lon": 116.042683,
+    "osm_id": 2380050107,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "accommodation": "yes",
+      "amenity": "dive_centre",
+      "description": "Brothers Bungalows and Restaurant is attached",
+      "name": "Gili Scuba Diving",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Mango Dive",
+    "lat": -8.3471433,
+    "lon": 116.0423383,
+    "osm_id": 2380050388,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "accommodation": "yes",
+      "amenity": "dive_centre",
+      "name": "Mango Dive",
+      "restaurant": "no",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Manta Dive Gili Trawangan",
+    "lat": -8.3534304,
+    "lon": 116.043375,
+    "osm_id": 2380050395,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "accommodation": "yes",
+      "amenity": "dive_centre",
+      "description": "Scuba Diving Center and Resort Accommodation",
+      "name": "Manta Dive Gili Trawangan",
+      "restaurant": "yes",
+      "sport": "scuba_diving",
+      "website": "https://manta-dive.com/"
+    }
+  },
+  {
+    "name": "Air Wall",
+    "lat": -8.3528396,
+    "lon": 116.0738278,
+    "osm_id": 2395669745,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wall",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Air Wall",
+      "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Bounty",
+    "lat": -8.3568341,
+    "lon": 116.0512706,
+    "osm_id": 2395669747,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Bounty",
+      "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Deep Turbo",
+    "lat": -8.3367441,
+    "lon": 116.0462579,
+    "osm_id": 2395669748,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Deep Turbo",
+      "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Frog Fish Point",
+    "lat": -8.3474561,
+    "lon": 116.0886552,
+    "osm_id": 2395669749,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Frog Fish Point",
+      "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Halik",
+    "lat": -8.336235,
+    "lon": 116.038308,
+    "osm_id": 2395669750,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Halik",
+      "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
+      "scuba_diving:type": "snorkeling",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Jack Point",
+    "lat": -8.337684,
+    "lon": 116.0255805,
+    "osm_id": 2395669751,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Jack Point",
+      "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Malang",
+    "lat": -8.3296167,
+    "lon": 116.0701857,
+    "osm_id": 2395669752,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Malang",
+      "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Manta Point",
+    "lat": -8.363335,
+    "lon": 116.0265987,
+    "osm_id": 2395669753,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Manta Point",
+      "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Meno Corner",
+    "lat": -8.3588705,
+    "lon": 116.0625884,
+    "osm_id": 2395669754,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Meno Corner",
+      "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Meno Slope",
+    "lat": -8.3517823,
+    "lon": 116.0500957,
+    "osm_id": 2395669755,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Meno Slope",
+      "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Meno Wall",
+    "lat": -8.3452031,
+    "lon": 116.0498999,
+    "osm_id": 2395669756,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wall",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Meno Wall",
+      "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Mirkos Reef",
+    "lat": -8.3510773,
+    "lon": 116.0657213,
+    "osm_id": 2395669757,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Mirkos Reef",
+      "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Shallow Turbo",
+    "lat": -8.3395246,
+    "lon": 116.0440257,
+    "osm_id": 2395669758,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Shallow Turbo",
+      "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
+      "scuba_diving:type": "snorkeling",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Shark Point",
+    "lat": -8.3425401,
+    "lon": 116.0236615,
+    "osm_id": 2395669759,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Shark Point",
+      "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Simons Reef",
+    "lat": -8.3347077,
+    "lon": 116.065643,
+    "osm_id": 2395669760,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Simons Reef",
+      "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Segaluh",
+    "lat": -8.3344744,
+    "lon": 116.0982787,
+    "osm_id": 2395670512,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Segaluh",
+      "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Teluk NBoro",
+    "lat": -8.4042153,
+    "lon": 116.0591248,
+    "osm_id": 2395670513,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Teluk NBoro",
+      "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Blue Marlin Dive Gili Meno",
+    "lat": -8.3536363,
+    "lon": 116.0614862,
+    "osm_id": 2400060177,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "amenity": "dive_centre",
+      "name": "Blue Marlin Dive Gili Meno",
+      "operator": "Blue Marlin Dive",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Trawangan Wall",
+    "lat": -8.3465756,
+    "lon": 116.0436158,
+    "osm_id": 2400061876,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wall",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "location": "underwater",
+      "name": "Trawangan Wall",
+      "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
+      "scuba_diving:type": "snorkeling",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Lombok Dive",
+    "lat": -8.3475991,
+    "lon": 116.0283794,
+    "osm_id": 4270913147,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Lombok Dive",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Vila Almarick Biorock",
+    "lat": -8.3461172,
+    "lon": 116.0433854,
+    "osm_id": 4813305042,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "location": "underwater",
+      "name": "Vila Almarick Biorock",
+      "scuba_diving:type": "snorkeling",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Bale Sampan Biorock",
+    "lat": -8.3479656,
+    "lon": 116.0438526,
+    "osm_id": 4813305043,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "location": "underwater",
+      "name": "Bale Sampan Biorock",
+      "scuba_diving:type": "snorkeling",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Samba Vilas Biorock",
+    "lat": -8.3481527,
+    "lon": 116.0439347,
+    "osm_id": 4813305044,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "location": "underwater",
+      "name": "Samba Vilas Biorock",
+      "scuba_diving:type": "snorkeling",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Trawangan Dive Biorock",
+    "lat": -8.3490364,
+    "lon": 116.0442834,
+    "osm_id": 4813305045,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "location": "underwater",
+      "name": "Trawangan Dive Biorock",
+      "scuba_diving:type": "snorkeling",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Gili Divers Biorock",
+    "lat": -8.3495698,
+    "lon": 116.0444604,
+    "osm_id": 4813305046,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "location": "underwater",
+      "name": "Gili Divers Biorock",
+      "scuba_diving:type": "snorkeling",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Turtle Point",
+    "lat": -8.3427036,
+    "lon": 116.0437832,
+    "osm_id": 6750981689,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "location": "underwater",
+      "name": "Turtle Point",
+      "name:en": "Turtle point",
+      "scuba_diving:type": "snorkeling",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  }
+]

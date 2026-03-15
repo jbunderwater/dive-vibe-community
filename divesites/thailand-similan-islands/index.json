@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Twin Peaks",
+    "filename": "twin-peaks.md",
+    "lat": 9.0562852,
+    "lng": 97.8150386,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 270980741
+  },
+  {
+    "name": "Elephant Head",
+    "filename": "elephant-head.md",
+    "lat": 8.6196229,
+    "lng": 97.6408268,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 270980993
+  },
+  {
+    "name": "Boonsung Wreck",
+    "filename": "boonsung-wreck.md",
+    "lat": 8.7707571,
+    "lng": 98.1863863,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 6146706985
+  },
+  {
+    "name": "The Dome",
+    "filename": "the-dome.md",
+    "lat": 9.0563523,
+    "lng": 97.8122901,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 6164080185
+  }
+]

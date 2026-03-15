@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Pacific Pro Dive",
+    "lat": 49.6785025,
+    "lon": -124.983656,
+    "osm_id": 2533133166,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "addr:postcode": "V9N 2L4",
+      "addr:unit": "101",
+      "email": "info@scubashark.com",
+      "name": "Pacific Pro Dive",
+      "name:en": "Pacific Pro Dive and Marine Adventures",
+      "opening_hours": "Mo-Sa 09:30-17:30",
+      "phone": "+1-250-338-6829",
+      "shop": "scuba_diving",
+      "sport": "scuba_diving",
+      "website": "https://biganimalencounters.com/"
+    }
+  }
+]

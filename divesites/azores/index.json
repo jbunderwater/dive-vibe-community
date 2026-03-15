@@ -1,0 +1,14 @@
+[
+  {
+    "name": "princess alice bank",
+    "filename": "princess-alice-bank.md",
+    "lat": 38.4046516,
+    "lng": -29.9476204,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 5875583620
+  }
+]

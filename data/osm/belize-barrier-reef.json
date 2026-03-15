@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Hol Chan Cut",
+    "lat": 17.8627707,
+    "lon": -87.977162,
+    "osm_id": 1574464135,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Hol Chan Cut",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Long Caye Aquarium",
+    "lat": 17.2130056,
+    "lon": -87.6075978,
+    "osm_id": 5484628121,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Long Caye Aquarium",
+      "name:es": "Acuario de Cayo Largo",
+      "scuba_diving:divespot": "yes",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Half Moon Wall",
+    "lat": 17.2082863,
+    "lon": -87.5358197,
+    "osm_id": 5484628122,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wall",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Half Moon Wall",
+      "scuba_diving:divespot": "yes",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  }
+]

@@ -1,0 +1,332 @@
+[
+  {
+    "name": "Dakit-Dakit",
+    "lat": 11.3235603,
+    "lon": 124.1090875,
+    "osm_id": 4003440589,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "description": "Dive Site",
+      "name": "Dakit-Dakit",
+      "scuba_diving:divespot": "yes",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Ka-Osting / Bantigue",
+    "lat": 11.3456001,
+    "lon": 124.1193512,
+    "osm_id": 4557974264,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "description": "Dive Site",
+      "name": "Ka-Osting / Bantigue",
+      "natural": "reef",
+      "scuba_diving:divespot": "yes",
+      "sport": "scuba_diving",
+      "tourism": "yes"
+    }
+  },
+  {
+    "name": "Evo House Reef",
+    "lat": 11.3311789,
+    "lon": 124.126316,
+    "osm_id": 4557974267,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "description": "Dive Site",
+      "name": "Evo House Reef",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Deep Slope",
+    "lat": 11.3483754,
+    "lon": 124.1203631,
+    "osm_id": 4941391019,
+    "osm_type": "node",
+    "depth": 24,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": "Intermediate",
+    "tags": {
+      "description": "Dive Site",
+      "name": "Deep Slope",
+      "natural": "reef",
+      "scuba_diving:depth": "24",
+      "scuba_diving:divespot": "yes",
+      "scuba_diving:type": "reef",
+      "sport": "scuba_diving",
+      "tourism": "yes"
+    }
+  },
+  {
+    "name": "Secret Wall",
+    "lat": 11.3501906,
+    "lon": 124.1158957,
+    "osm_id": 4941391020,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wall",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "description": "Dive Site",
+      "name": "Secret Wall",
+      "scuba_diving:divespot": "yes",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Exotic House Reef",
+    "lat": 11.3291169,
+    "lon": 124.1260138,
+    "osm_id": 4941392222,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "description": "Dive Site",
+      "name": "Exotic House Reef",
+      "natural": "reef",
+      "scuba_diving:divespot": "yes",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Lighthouse",
+    "lat": 11.3421901,
+    "lon": 124.1097625,
+    "osm_id": 4941394885,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "description": "Dive Site",
+      "name": "Lighthouse",
+      "natural": "reef",
+      "scuba_diving:divespot": "yes",
+      "sport": "scuba_diving",
+      "tourism": "yes"
+    }
+  },
+  {
+    "name": "Los Bamboos",
+    "lat": 11.3431335,
+    "lon": 124.108851,
+    "osm_id": 4941394886,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "description": "Dive Site",
+      "name": "Los Bamboos",
+      "natural": "reef",
+      "scuba_diving:divespot": "yes",
+      "sport": "scuba_diving",
+      "tourism": "yes"
+    }
+  },
+  {
+    "name": "North Point",
+    "lat": 11.3467707,
+    "lon": 124.1056477,
+    "osm_id": 4941394887,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "description": "Dive Site",
+      "name": "North Point",
+      "natural": "reef",
+      "scuba_diving:divespot": "yes",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Lapus-Lapus",
+    "lat": 11.3461986,
+    "lon": 124.1024056,
+    "osm_id": 4941394888,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "description": "Dive Site",
+      "name": "Lapus-Lapus",
+      "natural": "reef",
+      "scuba_diving:difficulty": "1",
+      "scuba_diving:divespot": "yes",
+      "scuba_diving:entry": "boat",
+      "sport": "scuba_diving",
+      "tourism": "yes"
+    }
+  },
+  {
+    "name": "Lapus-Lapus 2",
+    "lat": 11.3485435,
+    "lon": 124.1023051,
+    "osm_id": 4941394889,
+    "osm_type": "node",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": "Intermediate",
+    "tags": {
+      "description": "Dive Site",
+      "name": "Lapus-Lapus 2",
+      "natural": "reef",
+      "scuba_diving:divespot": "yes",
+      "scuba_diving:maxdepth": "20",
+      "scuba_diving:type": "reef",
+      "sport": "scuba_diving",
+      "tourism": "yes"
+    }
+  },
+  {
+    "name": "Bogtong Bato",
+    "lat": 11.3512234,
+    "lon": 124.1027874,
+    "osm_id": 4941394890,
+    "osm_type": "node",
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "description": "Dive Site",
+      "name": "Bogtong Bato",
+      "name:en": "Deep Rock",
+      "scuba_diving:divespot": "yes",
+      "scuba_diving:entry": "boat",
+      "scuba_diving:maxdepth": "30",
+      "scuba_diving:type": "reef",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Monad Shoal",
+    "lat": 11.3133913,
+    "lon": 124.1947241,
+    "osm_id": 6215139685,
+    "osm_type": "node",
+    "depth": 50,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Monad Shoal",
+      "natural": "reef",
+      "scuba_diving:depth": "30",
+      "scuba_diving:difficulty": "2",
+      "scuba_diving:entry": "boat",
+      "scuba_diving:maxdepth": "50",
+      "scuba_diving:mindepth": "5",
+      "scuba_diving:type": "shark;reef;rocks",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Coral Garden Marine Protected Area",
+    "lat": 11.3402682,
+    "lon": 124.1232727,
+    "osm_id": 126419898,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "boundary": "protected_area",
+      "leisure": "nature_reserve",
+      "name": "Coral Garden Marine Protected Area",
+      "sport": "scuba_diving",
+      "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Marine Protected Area",
+    "lat": 11.3472894,
+    "lon": 124.1056222,
+    "osm_id": 244531732,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "boundary": "protected_area",
+      "fixme": "name",
+      "leisure": "nature_reserve",
+      "name": "Marine Protected Area",
+      "sport": "scuba_diving",
+      "tourism": "yes"
+    }
+  },
+  {
+    "name": "Japanese Ship Wreck",
+    "lat": 11.3412456,
+    "lon": 124.1079016,
+    "osm_id": 244536817,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "fixme": "location approximate",
+      "name": "Japanese Ship Wreck",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Monad Shoel",
+    "lat": 11.308907,
+    "lon": 124.1882461,
+    "osm_id": 485836542,
+    "osm_type": "way",
+    "depth": 50,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Monad Shoel",
+      "natural": "reef",
+      "scuba_diving:depth": "30",
+      "scuba_diving:difficulty": "2",
+      "scuba_diving:entry": "boat",
+      "scuba_diving:maxdepth": "50",
+      "scuba_diving:mindepth": "5",
+      "scuba_diving:type": "shark;reef;rocks",
+      "sport": "scuba_diving"
+    }
+  }
+]

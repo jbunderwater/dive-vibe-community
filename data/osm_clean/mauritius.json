@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Ocean Spirit",
+    "lat": -19.993447,
+    "lon": 57.5920734,
+    "osm_id": 5225994872,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "amenity": "dive_centre",
+      "name": "Ocean Spirit",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "BASE Diving",
+    "lat": -19.9930129,
+    "lon": 57.5924,
+    "osm_id": 9236229535,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "amenity": "dive_centre",
+      "name": "BASE Diving",
+      "sport": "scuba_diving"
+    }
+  }
+]

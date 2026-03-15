@@ -1,0 +1,50 @@
+[
+  {
+    "name": "SS Rose Castle",
+    "filename": "ss-rose-castle.md",
+    "lat": 47.6013424,
+    "lng": -52.9636225,
+    "difficulty": "Advanced",
+    "maxDepth": 35,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 6292677130
+  },
+  {
+    "name": "PM-27",
+    "filename": "pm-27.md",
+    "lat": 47.5994572,
+    "lng": -52.9716262,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 9802778108
+  },
+  {
+    "name": "SS Saganaga",
+    "filename": "ss-saganaga.md",
+    "lat": 47.5833032,
+    "lng": -52.9785067,
+    "difficulty": "Intermediate",
+    "maxDepth": 30,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 9802778109
+  },
+  {
+    "name": "SS Lord Strathcona",
+    "filename": "ss-lord-strathcona.md",
+    "lat": 47.588242,
+    "lng": -52.9681451,
+    "difficulty": "Intermediate",
+    "maxDepth": 30,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 9802778110
+  }
+]

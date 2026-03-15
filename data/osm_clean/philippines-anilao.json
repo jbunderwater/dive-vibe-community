@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Rockport Dive Site",
+    "lat": 13.8302954,
+    "lon": 120.9087054,
+    "osm_id": 1271234012,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Rockport Dive Site",
+      "scuba_diving:type": "reef",
+      "sport": "scuba_diving"
+    }
+  }
+]

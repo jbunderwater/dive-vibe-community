@@ -1,0 +1,14 @@
+[
+  {
+    "name": "MS Hamburg",
+    "filename": "ms-hamburg.md",
+    "lat": 68.23333,
+    "lng": 14.534333,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 663871180
+  }
+]

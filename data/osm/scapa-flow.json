@@ -1,0 +1,194 @@
+[
+  {
+    "name": "Tabarka (block ship)",
+    "lat": 58.9267702,
+    "lon": -3.3131054,
+    "osm_id": 406542562,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Tabarka (block ship)",
+      "scuba_diving:divespot": "wreck",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Gobernador",
+    "lat": 58.9232016,
+    "lon": -3.3111347,
+    "osm_id": 406542570,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Gobernador",
+      "scuba_diving:divespot": "wreck",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "F2",
+    "lat": 58.8454911,
+    "lon": -3.1945524,
+    "osm_id": 406542573,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "F2",
+      "scuba_diving:divespot": "wreck",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "SMS Karlsruhe",
+    "lat": 58.8895237,
+    "lon": -3.1870727,
+    "osm_id": 406542586,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "SMS Karlsruhe",
+      "scuba_diving:divespot": "wreck",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "SMS König",
+    "lat": 58.87055,
+    "lon": -3.151956,
+    "osm_id": 663869622,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "wreck",
+      "name": "SMS König",
+      "seamark:type": "wreck",
+      "source": "www.dive-links.com",
+      "sport": "scuba_diving",
+      "verified": "no, please check and del this tag",
+      "website": "http://www.dive-links.com/tauchplatz.php?id=1864"
+    }
+  },
+  {
+    "name": "SMS Markgraf",
+    "lat": 58.891934,
+    "lon": -3.165273,
+    "osm_id": 663869624,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "wreck",
+      "name": "SMS Markgraf",
+      "seamark:type": "wreck",
+      "source": "www.dive-links.com",
+      "sport": "scuba_diving",
+      "verified": "no, please check and del this tag",
+      "website": "http://www.dive-links.com/tauchplatz.php?id=1866",
+      "wikidata": "Q481485",
+      "wikipedia": "en:SMS Markgraf"
+    }
+  },
+  {
+    "name": "SMS Brummer",
+    "lat": 58.897233,
+    "lon": -3.151917,
+    "osm_id": 663869626,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "wreck",
+      "name": "SMS Brummer",
+      "seamark:type": "wreck",
+      "source": "www.dive-links.com",
+      "sport": "scuba_diving",
+      "verified": "no, please check and del this tag",
+      "website": "http://www.dive-links.com/tauchplatz.php?id=1865"
+    }
+  },
+  {
+    "name": "SMS Dresden",
+    "lat": 58.878549,
+    "lon": -3.183975,
+    "osm_id": 663869628,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "wreck",
+      "name": "SMS Dresden",
+      "seamark:type": "wreck",
+      "source": "www.dive-links.com",
+      "sport": "scuba_diving",
+      "verified": "no, please check and del this tag",
+      "website": "http://www.dive-links.com/tauchplatz.php?id=1867"
+    }
+  },
+  {
+    "name": "SMS Cöln",
+    "lat": 58.898052,
+    "lon": -3.145833,
+    "osm_id": 663869630,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "wreck",
+      "name": "SMS Cöln",
+      "scuba_diving:divespot": "wreck",
+      "seamark:type": "wreck",
+      "source": "www.dive-links.com",
+      "sport": "scuba_diving",
+      "verified": "no, please check and del this tag",
+      "website": "http://www.dive-links.com/tauchplatz.php?id=1862",
+      "wikidata": "Q155159",
+      "wikipedia": "en:SMS Cöln (1916)"
+    }
+  },
+  {
+    "name": "SMS Kronprinz Wilhelm",
+    "lat": 58.894165,
+    "lon": -3.163056,
+    "osm_id": 663869632,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "wreck",
+      "name": "SMS Kronprinz Wilhelm",
+      "scuba_diving:divespot": "wreck",
+      "seamark:type": "wreck",
+      "source": "www.dive-links.com",
+      "sport": "scuba_diving",
+      "verified": "no, please check and del this tag",
+      "website": "http://www.dive-links.com/tauchplatz.php?id=1863",
+      "wikidata": "Q470400",
+      "wikipedia": "en:SMS Kronprinz"
+    }
+  }
+]

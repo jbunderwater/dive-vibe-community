@@ -1,0 +1,50 @@
+---
+addedBy: osm_import
+---
+
+## Greenland
+
+Extreme Arctic diving with icebergs and unique polar marine life.
+
+## Description
+
+Greenland is a notable diving destination in the Arctic region, offering 1 documented dive sites with depths ranging from 25 to 25 meters. Water temperatures average -1 to 8°C (30-46°F), with visibility typically reaching 10-30 meters (30-100 feet). The diving season runs June to September, with the best conditions during June to September.
+
+### Diving Opportunities
+
+- **Shore Diving**: 1 accessible shore dive sites offering convenient, self-guided diving experiences
+- **Wreck Diving**: Historic shipwrecks preserved in the region's waters
+- **Night Diving**: After-dark diving reveals nocturnal marine species and different reef behaviors
+
+### Accessibility
+
+- **Getting There**: Greenland is accessible via international and regional flights to nearby airports. Check with airlines for current routes and connections.
+- **Dive Operators**: Professional dive operators offer equipment rental, guided dives, certification courses, and boat trips to offshore sites.
+- **Accommodation**: Options range from dedicated dive resorts to budget-friendly guesthouses, with many properties located near popular dive sites.
+- **Transportation**: Local transportation and dive operator transfers are the primary means of reaching dive sites.
+- **Facilities**: Dive sites vary in available amenities; operator-run sites typically provide comprehensive facilities while remote sites may have limited infrastructure.
+
+### Marine Life & Environment
+
+- **Water Conditions**: Water temperatures range from -1 to 8°C (30-46°F) with visibility of 10-30 meters (30-100 feet). Currents are generally variable, tidal currents.
+- **Marine Biodiversity**: The waters support diverse marine ecosystems including seals (harbor, bearded, ringed), walruses, beluga whales, narwhals, polar cod, sea anemones, soft corals, kelp forests, sea urchins, starfish.
+- **Conservation**: Local conservation efforts help protect marine habitats and ensure sustainable diving practices.
+
+## Additional Information
+
+- **Best Time to Visit**: June to September. Outside the main season, conditions may be less favorable.
+- **Currency**: Danish Krone (DKK)
+- **Language**: Greenlandic, Danish
+- **Safety**: Always dive within certification limits. Be aware of extreme cold, hypothermia risk, ice. Verify the location of the nearest hyperbaric chamber before diving.
+
+## Sources
+
+- OpenStreetMap dive site data and community contributions
+- Regional diving guides and operator information
+- Marine conservation organization reports
+- Local tourism board resources
+
+---
+
+*Last updated: March 2026*
+*Compiled from OpenStreetMap data, regional diving knowledge, and authoritative marine sources*
