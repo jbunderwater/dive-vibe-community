@@ -7,8 +7,8 @@
     "osm_type": "node",
     "depth": null,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Bari Reef",
       "ref": "30",
@@ -24,16 +24,18 @@
     "osm_id": 313863131,
     "osm_type": "node",
     "depth": null,
-    "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "site_type": "wall",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "1000 Steps",
       "natural": "beach",
       "ref": "16",
       "sport": "scuba_diving",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -44,8 +46,8 @@
     "osm_type": "node",
     "depth": null,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Boy Scout",
       "sport": "scuba_diving",
@@ -61,8 +63,8 @@
     "osm_type": "node",
     "depth": null,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Buddy's Reef",
       "sport": "scuba_diving",
@@ -78,7 +80,7 @@
     "osm_type": "node",
     "depth": 10,
     "site_type": "wreck",
-    "entry_type": null,
+    "entry_type": "shore",
     "difficulty": "Beginner",
     "tags": {
       "historic": "wreck",
@@ -98,8 +100,8 @@
     "osm_type": "node",
     "depth": null,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "name": "English Garden",
       "sport": "scuba_diving",
@@ -115,8 +117,8 @@
     "osm_type": "node",
     "depth": null,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Alice in Wonderland",
       "sport": "scuba_diving",
@@ -132,7 +134,7 @@
     "osm_type": "node",
     "depth": 30,
     "site_type": "wreck",
-    "entry_type": null,
+    "entry_type": "shore",
     "difficulty": "Intermediate",
     "tags": {
       "historic": "wreck",
@@ -158,7 +160,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": "shore",
-    "difficulty": null,
+    "difficulty": "Beginner",
     "tags": {
       "alt_name": "North Belnem",
       "name": "Corporal Meiss",
@@ -177,8 +179,8 @@
     "osm_type": "node",
     "depth": null,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Something Special",
       "sport": "scuba_diving",
@@ -194,8 +196,8 @@
     "osm_type": "node",
     "depth": null,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Andrea II",
       "sport": "scuba_diving",
@@ -211,8 +213,8 @@
     "osm_type": "node",
     "depth": null,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Jeff Davis Memorial",
       "sport": "scuba_diving",
@@ -228,8 +230,8 @@
     "osm_type": "node",
     "depth": null,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "alt_name": "Witches Hut",
       "name": "Weber's Joy",
@@ -246,8 +248,8 @@
     "osm_type": "node",
     "depth": null,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Willemstoren Lighthouse",
       "source": "osm_extended",
@@ -263,8 +265,8 @@
     "osm_type": "node",
     "depth": null,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Sweet Dreams",
       "source": "osm_extended",
@@ -280,8 +282,8 @@
     "osm_type": "node",
     "depth": null,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Vista Blue",
       "source": "osm_extended",
@@ -296,16 +298,16 @@
     "osm_id": 663869397,
     "osm_type": "node",
     "depth": null,
-    "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": null,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
-      "historic": "wreck",
       "name": "Red Slave",
-      "seamark:type": "wreck",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -317,7 +319,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": "shore",
-    "difficulty": null,
+    "difficulty": "Beginner",
     "tags": {
       "name": "Lighthouse Point",
       "scuba_diving:divespot": "yes",
@@ -336,7 +338,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": "shore",
-    "difficulty": null,
+    "difficulty": "Beginner",
     "tags": {
       "name": "Punt Vierkant",
       "scuba_diving:divespot": "yes",
@@ -354,8 +356,8 @@
     "osm_type": "node",
     "depth": null,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Margate Bay",
       "source": "osm_extended",
@@ -371,14 +373,17 @@
     "osm_type": "node",
     "depth": null,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Salt Pier",
       "note": "Not allowed to access when there's a ship at the pier",
       "sport": "scuba_diving",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "scubaboard",
+      "site_note": "pier dive"
     }
   },
   {
@@ -389,8 +394,8 @@
     "osm_type": "node",
     "depth": null,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Invisibles",
       "sport": "scuba_diving",
@@ -406,8 +411,8 @@
     "osm_type": "node",
     "depth": null,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Salt City",
       "sport": "scuba_diving",
@@ -423,8 +428,8 @@
     "osm_type": "node",
     "depth": null,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Pink Beach",
       "source": "osm_extended",
@@ -440,8 +445,8 @@
     "osm_type": "node",
     "depth": null,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Tori's Reef",
       "sport": "scuba_diving",
@@ -457,8 +462,8 @@
     "osm_type": "node",
     "depth": null,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Atlantis",
       "source": "osm_extended",
@@ -474,8 +479,8 @@
     "osm_type": "node",
     "depth": null,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Red Beryl",
       "source": "osm_extended",
@@ -492,7 +497,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": "shore",
-    "difficulty": null,
+    "difficulty": "Beginner",
     "tags": {
       "name": "White Slave",
       "scuba_diving:divespot": "yes",
@@ -510,8 +515,8 @@
     "osm_type": "node",
     "depth": null,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Aquarius",
       "sport": "scuba_diving",
@@ -527,8 +532,8 @@
     "osm_type": "node",
     "depth": null,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Larry's Lair",
       "sport": "scuba_diving",
@@ -544,8 +549,8 @@
     "osm_type": "node",
     "depth": null,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "name": "White Hole",
       "scuba_diving:divespot": "yes",
@@ -562,8 +567,8 @@
     "osm_type": "node",
     "depth": null,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Jeannie's Glory",
       "sport": "scuba_diving",
@@ -579,8 +584,8 @@
     "osm_type": "node",
     "depth": null,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Bachelor's Beach",
       "scuba_diving:divespot": "yes",
@@ -597,8 +602,8 @@
     "osm_type": "node",
     "depth": null,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Angel City",
       "sport": "scuba_diving",
@@ -614,8 +619,8 @@
     "osm_type": "node",
     "depth": null,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Cai",
       "scuba_diving:divespot": "yes",
@@ -632,8 +637,8 @@
     "osm_type": "node",
     "depth": null,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "name": "The Lake",
       "sport": "scuba_diving",
@@ -649,8 +654,8 @@
     "osm_type": "node",
     "depth": null,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Boka Slagbaai",
       "sport": "scuba_diving",
@@ -666,8 +671,8 @@
     "osm_type": "node",
     "depth": null,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Playa Benge",
       "scuba_diving:divespot": "yes",
@@ -684,8 +689,8 @@
     "osm_type": "node",
     "depth": null,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Playa Funchi",
       "sport": "scuba_diving",
@@ -702,7 +707,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": "shore",
-    "difficulty": null,
+    "difficulty": "Beginner",
     "tags": {
       "alt_name": "Doblet",
       "name": "Nukove",
@@ -722,7 +727,7 @@
     "depth": null,
     "site_type": "reef",
     "entry_type": "shore",
-    "difficulty": null,
+    "difficulty": "Beginner",
     "tags": {
       "name": "Calabas Reef",
       "natural": "reef",
@@ -740,16 +745,18 @@
     "osm_id": 663869425,
     "osm_type": "node",
     "depth": null,
-    "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "site_type": "wall",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Oil Slick Leap",
       "scuba_diving:divespot": "yes",
       "scuba_diving:entry": "ladder",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -760,8 +767,8 @@
     "osm_type": "node",
     "depth": null,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "alt_name": "Ol' Blue",
       "name": "Boka di Tolo",
@@ -779,8 +786,8 @@
     "osm_type": "node",
     "depth": null,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Windsock",
       "sport": "scuba_diving",
@@ -796,13 +803,15 @@
     "osm_type": "node",
     "depth": null,
     "site_type": "wall",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Cliff",
       "sport": "scuba_diving",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -812,14 +821,16 @@
     "osm_id": 663869440,
     "osm_type": "node",
     "depth": null,
-    "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "site_type": "wall",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Karpata",
       "sport": "scuba_diving",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -829,15 +840,17 @@
     "osm_id": 663869441,
     "osm_type": "node",
     "depth": null,
-    "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "site_type": "wall",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "La Denia's Leap",
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -848,8 +861,8 @@
     "osm_type": "node",
     "depth": null,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Boka Bartol",
       "sport": "scuba_diving",
@@ -865,8 +878,8 @@
     "osm_type": "node",
     "depth": null,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "name": "18th Palm",
       "sport": "scuba_diving",
@@ -882,8 +895,8 @@
     "osm_type": "node",
     "depth": null,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Carel's Vision",
       "sport": "scuba_diving",
@@ -899,8 +912,8 @@
     "osm_type": "node",
     "depth": null,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Taylor Made",
       "sport": "scuba_diving",
@@ -916,8 +929,8 @@
     "osm_type": "node",
     "depth": null,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Playa Frans",
       "sport": "scuba_diving",
@@ -933,8 +946,8 @@
     "osm_type": "node",
     "depth": null,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "name": "The Rock",
       "sport": "scuba_diving",
@@ -949,14 +962,16 @@
     "osm_id": 2625769975,
     "osm_type": "node",
     "depth": null,
-    "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "site_type": "wreck",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Windjammer",
       "sport": "scuba_diving",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -967,8 +982,8 @@
     "osm_type": "node",
     "depth": null,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Chachacha Beach",
       "natural": "beach",
@@ -978,17 +993,17 @@
     }
   },
   {
-    "name": "Bisé Morto",
+    "name": "Bis\u00e9 Morto",
     "lat": 12.2935303,
     "lon": -68.4132212,
     "osm_id": 4200486589,
     "osm_type": "node",
     "depth": null,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
-      "name": "Bisé Morto",
+      "name": "Bis\u00e9 Morto",
       "source": "osm_extended",
       "sport": "scuba_diving",
       "addedBy": "extended_overpass"
@@ -1002,8 +1017,8 @@
     "osm_type": "node",
     "depth": null,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Wayaka 2",
       "sport": "scuba_diving",
@@ -1019,8 +1034,8 @@
     "osm_type": "node",
     "depth": null,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Boka Katuna",
       "sport": "scuba_diving",
@@ -1036,8 +1051,8 @@
     "osm_type": "node",
     "depth": null,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Hidden Beach (unmarked site)",
       "sport": "scuba_diving",
@@ -1053,8 +1068,8 @@
     "osm_type": "node",
     "depth": null,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Yellow Hut (unmarked site)",
       "sport": "scuba_diving",
@@ -1070,8 +1085,8 @@
     "osm_type": "node",
     "depth": null,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Soft Coral Garden (unmarked site)",
       "sport": "scuba_diving",
