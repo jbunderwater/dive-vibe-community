@@ -13,55 +13,65 @@ addedBy: osm_import
 
 ## Aer Bajo
 
-Aer Bajo is a reef dive site in Lembeh Strait, Asia.
+Aer Bajo (also spelled Air Bajo, meaning "Sea Gypsy" in Indonesian) is a classic muck dive area in the northern Lembeh Strait, encompassing three distinct dive sites within the same general location. Each sub-site begins with a shallow sandy flat at 4–6 meters, then a gentle sand slope to around 20 meters. The site is consistently described as one of Lembeh's classics — accessible to beginners yet productive enough for experienced critter hunters. Coconut octopus sightings are reliable here.
 
 ## Overview
 
-Aer Bajo is a dive site in Lembeh Strait offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The three Aer Bajo sites share the same black volcanic sand character that defines Lembeh muck diving, with the gentle slope topology making the dive physically easy and well-suited to slow, deliberate critter searching. The site sits on the Lembeh Island side of the northern strait, where sheltered conditions prevail year-round. Visibility is typical of Lembeh — adequate for macro photography without the clarity of open-water reef sites, but the dark sand background actually enhances close-up photography of colorful subjects.
 
 ## Site Information
 
-- **Location**: Lembeh Strait, Asia
+- **Location**: Northern Lembeh Strait, Lembeh Island side, North Sulawesi, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Muck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 20 meters (most productive zone: 4–15 m)
+- **Typical Visibility**: 5–12 meters
+- **Water Temperature**: 26–29°C
+- **Current**: Minimal; sheltered location
+- **Best Time**: Year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Aer Bajo is a well-rounded muck site with a variety of classic Lembeh critters:
+
+- **Coconut octopus** (*Amphioctopus marginatus*) — documented by dive guides in Aer Bajo II; uses shells, halved coconuts, and debris as portable shelters
+- **Seahorses** — common and thorny seahorses in sponge and algae patches
+- **Frogfish** — various species on the sand slope
+- **Nudibranchs** — scattered across the sandy flat and rubble patches
+- **Crustaceans** — a plethora of shrimp species and crabs in the rubble zones
+- **Octopus** — multiple species across the three sites
+- **Flatfish and flounder** — camouflaged on the open sand
+- **Gobies** with partner pistol shrimps on the sandy edges
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Each of the three sub-sites follows a similar profile: drop onto the shallow sand flat (4–6 m), then work the gentle slope down to 15–20 meters. Coverage of all three sites can be combined into two or three successive dives in the same morning, or each site can be dived individually for thorough exploration. The shallow section is particularly good for coconut octopus, which tend to set up in the rubble at the base of the flat. The slope is productive for seahorses and frogfish.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by dive boat. Giant stride or back roll entry. Very calm conditions; no current management required. An SMB is recommended for boat pickup during the ascent. Suitable for divers working on buoyancy certification as the conditions are forgiving.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Aer Bajo is an ideal entry-level Lembeh site — perfect for first-time muck divers building confidence on black sand
+- Check rubble piles and shell clusters thoroughly for coconut octopus den sites
+- Slow, methodical movement is key — the critters here are well-camouflaged and easily overlooked
+- Three dives on the Aer Bajo complex in a single morning provide comprehensive coverage without reusing the same ground
+- A torch (even on day dives) helps illuminate subjects tucked under rubble
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Very benign site conditions. Minimal current and gentle depth profile make this accessible to all levels. Main hazard remains the presence of stonefish and scorpionfish resting on the substrate — never touch the sandy bottom with hands. Good buoyancy control prevents silt disturbance that would end the dive for everyone in the group.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Aer Bajo's gentle slope and calm conditions make it excellent for practicing underwater macro techniques. Coconut octopus in their shell dens are a classic Lembeh portrait subject. The open sand creates a uniform dark background that suits close-up macro work. A 60mm or 100mm macro lens is appropriate; super-macro extension tubes reward patient photographers seeking shrimp and tiny juvenile fish.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Validated**: 2026-03-15
+- **Validation Sources**: starfish.ch, zubludiving.com, lembehresort.com
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*Dive site information researched from starfish.ch Lembeh dive site database, ZuBlu, and Lembeh Resort. Last updated 2026-03-15.*
