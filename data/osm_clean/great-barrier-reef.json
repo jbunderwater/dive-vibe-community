@@ -60,7 +60,7 @@
     "osm_id": 270802348,
     "osm_type": "node",
     "depth": 25,
-    "site_type": "reef",
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
@@ -68,7 +68,9 @@
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
       "sport:scuba_diving": "yes",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -132,7 +134,7 @@
     "osm_id": 270802352,
     "osm_type": "node",
     "depth": 20,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
@@ -140,7 +142,9 @@
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
       "sport:scuba_diving": "yes",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -150,7 +154,7 @@
     "osm_id": 270802353,
     "osm_type": "node",
     "depth": 20,
-    "site_type": "reef",
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
@@ -158,7 +162,9 @@
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
       "sport:scuba_diving": "yes",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -186,7 +192,7 @@
     "osm_id": 270802401,
     "osm_type": "node",
     "depth": 20,
-    "site_type": "reef",
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
@@ -194,7 +200,9 @@
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
       "sport:scuba_diving": "yes",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -361,13 +369,15 @@
     "osm_id": 1939562752,
     "osm_type": "node",
     "depth": 20,
-    "site_type": "reef",
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "name": "Nursery Bommie",
       "source": "survey",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {

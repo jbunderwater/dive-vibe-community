@@ -7,8 +7,8 @@
     "osm_type": "node",
     "depth": null,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "name": "East Flower Garden Bank",
       "natural": "reef",
@@ -26,8 +26,8 @@
     "osm_type": "node",
     "depth": null,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "name": "West Flower Garden Bank",
       "natural": "reef",
@@ -44,16 +44,18 @@
     "osm_id": 6014024399,
     "osm_type": "node",
     "depth": null,
-    "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Stetson Bank",
       "natural": "reef",
       "seamark:name": "Stetson Bank",
       "seamark:type": "seabed_area",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "noaa"
     }
   },
   {
