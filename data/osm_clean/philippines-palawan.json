@@ -27,9 +27,9 @@
     "osm_id": 9865420678,
     "osm_type": "node",
     "depth": 21,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "description": "you may observe a large amount of corals and sponges, Pseudocaranx dentex, barracudas, angelfish, cuttle fish and squids",
       "name": "Biet Point",
@@ -37,7 +37,9 @@
       "scuba_diving:divespot": "yes",
       "scuba_diving:maxdepth": "21m",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -62,14 +64,16 @@
     "lon": 119.2806245,
     "osm_id": 9865490958,
     "osm_type": "node",
-    "depth": 20,
-    "site_type": "reef",
+    "depth": 22,
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Banayan Point",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "sangat.com.ph"
     }
   },
   {
@@ -79,13 +83,14 @@
     "osm_id": 9865495623,
     "osm_type": "node",
     "depth": 20,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Bikanayos Rock",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": "true"
     }
   },
   {
@@ -97,7 +102,7 @@
     "depth": 20,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Twin Reef",
       "natural": "reef",
@@ -112,7 +117,7 @@
     "lon": 119.1612451,
     "osm_id": 1354585330,
     "osm_type": "way",
-    "depth": 20,
+    "depth": 25,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -280,16 +285,18 @@
     "lon": 119.8142609,
     "osm_id": 31974943,
     "osm_type": "way",
-    "depth": null,
-    "site_type": "reef",
+    "depth": 29,
+    "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Jesse Beazley Reef",
       "natural": "reef",
       "subsea": "coral_reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "asiadivesite.com"
     }
   },
   {
