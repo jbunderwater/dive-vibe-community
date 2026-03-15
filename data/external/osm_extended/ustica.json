@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Le Piramidi",
+    "lat": 38.7002335,
+    "lon": 13.152312,
+    "osm_id": 2137060566,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "attraction": "scuba_diving",
+      "name": "Le Piramidi",
+      "scuba_diving:divespot": "yes",
+      "scuba_diving:type": "sea",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Sutta zà Lisa",
+    "lat": 38.6920525,
+    "lon": 13.1624883,
+    "osm_id": 2137061116,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Sutta zà Lisa",
+      "scuba_diving:divespot": "yes",
+      "sport": "scuba_diving"
+    }
+  },
+  {
+    "name": "Grotta dei Gamberi",
+    "lat": 38.6949666,
+    "lon": 13.1830126,
+    "osm_id": 2137062026,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "cave",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Grotta dei Gamberi",
+      "natural": "cave_entrance",
+      "sport": "scuba_diving"
+    }
+  }
+]

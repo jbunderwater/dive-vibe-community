@@ -1,0 +1,151 @@
+[
+  {
+    "name": "Antipolis",
+    "lat": -33.9837288,
+    "lon": 18.3562528,
+    "osm_id": 270978722,
+    "osm_type": "node",
+    "depth": 11,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": "Beginner",
+    "tags": {
+      "historic": "wreck",
+      "name": "Antipolis",
+      "note": "Position is a guess since I did not have a GPS on the surface swim to the wreck.",
+      "position:accuracy": "1000m",
+      "seamark:type": "wreck",
+      "website": "https://en.wikivoyage.org/wiki/Diving_the_Cape_Peninsula_and_False_Bay/MV_Antipolis",
+      "wikidata": "Q14213801",
+      "wikimedia_commons": "Category:Dive site Antipolis",
+      "wreck:depth": "11m"
+    }
+  },
+  {
+    "name": "SELI1",
+    "lat": -33.8246505,
+    "lon": 18.4710634,
+    "osm_id": 1594626525,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "wreck",
+      "name": "SELI1",
+      "seamark:type": "wreck",
+      "seamark:wreck:category": "hull_showing"
+    }
+  },
+  {
+    "name": "Het Huis te Kraaienstjin",
+    "lat": -33.9806842,
+    "lon": 18.3620862,
+    "osm_id": 5310394646,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "wreck",
+      "name": "Het Huis te Kraaienstjin",
+      "seamark:type": "wreck",
+      "wreck:date_sunk": "1670"
+    }
+  },
+  {
+    "name": "Thomas T. Tucker",
+    "lat": -34.2734863,
+    "lon": 18.3808435,
+    "osm_id": 7025899718,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "access": "permit",
+      "historic": "wreck",
+      "name": "Thomas T. Tucker",
+      "seamark:type": "wreck",
+      "seamark:wreck:category": "dangerous",
+      "wreck:date_sunk": "1942-11-27",
+      "wreck:visible_at_high_tide": "yes",
+      "wreck:visible_at_low_tide": "yes"
+    }
+  },
+  {
+    "name": "Nolloth",
+    "lat": -34.2838018,
+    "lon": 18.3884129,
+    "osm_id": 7025899719,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "wreck",
+      "name": "Nolloth",
+      "seamark:type": "wreck",
+      "wreck:date_sunk": "1965"
+    }
+  },
+  {
+    "name": "Phyllisia Shipwreck",
+    "lat": -34.3078694,
+    "lon": 18.4018744,
+    "osm_id": 11051586533,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "access": "permissive",
+      "historic": "wreck",
+      "name": "Phyllisia Shipwreck",
+      "seamark:type": "wreck",
+      "seamark:wreck:category": "hull_showing",
+      "wreck:date_sunk": "3 May 1968",
+      "wreck:visible_at_low_tide": "yes"
+    }
+  },
+  {
+    "name": "Whittle Rock",
+    "lat": -34.2480023,
+    "lon": 18.5539711,
+    "osm_id": 11831313172,
+    "osm_type": "node",
+    "depth": null,
+    "site_type": "reef",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "name": "Whittle Rock",
+      "natural": "reef",
+      "wikidata": "Q110064499",
+      "wikipedia": "en:Whittle Rock"
+    }
+  },
+  {
+    "name": "Clan Stewart",
+    "lat": -34.1717192,
+    "lon": 18.4304841,
+    "osm_id": 5555966,
+    "osm_type": "relation",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "historic": "wreck",
+      "name": "Clan Stewart",
+      "seamark:type": "wreck",
+      "type": "multipolygon",
+      "wreck:date_sunk": "1914-11-21"
+    }
+  }
+]

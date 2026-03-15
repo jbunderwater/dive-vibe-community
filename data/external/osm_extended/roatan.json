@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Sea Angel I",
+    "lat": 16.3129574,
+    "lon": -86.5365944,
+    "osm_id": 1481583198,
+    "osm_type": "way",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "access": "yes",
+      "historic": "wreck",
+      "name": "Sea Angel I",
+      "seamark:type": "wreck",
+      "seamark:wreck:category": "hull_showing",
+      "wreck:visible_at_high_tide": "yes",
+      "wreck:visible_at_low_tide": "yes"
+    }
+  },
+  {
+    "name": "M Alexand",
+    "lat": 16.3273466,
+    "lon": -86.5007403,
+    "osm_id": 20255613,
+    "osm_type": "relation",
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": null,
+    "difficulty": null,
+    "tags": {
+      "access": "yes",
+      "historic": "wreck",
+      "name": "M Alexand",
+      "seamark:type": "wreck",
+      "seamark:wreck:category": "hull_showing",
+      "type": "multipolygon",
+      "wreck:date_sunk": "1981",
+      "wreck:visible_at_high_tide": "yes",
+      "wreck:visible_at_low_tide": "yes"
+    }
+  }
+]
