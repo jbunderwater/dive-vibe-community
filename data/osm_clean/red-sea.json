@@ -11,7 +11,7 @@
     "difficulty": "Beginner",
     "tags": {
       "description:en": "House reef for many diveclubs. Elephant statue under the water",
-      "description:ru": "Домашний риф для дайв центров. Есть статуя слона под водой.",
+      "description:ru": "\u0414\u043e\u043c\u0430\u0448\u043d\u0438\u0439 \u0440\u0438\u0444 \u0434\u043b\u044f \u0434\u0430\u0439\u0432 \u0446\u0435\u043d\u0442\u0440\u043e\u0432. \u0415\u0441\u0442\u044c \u0441\u0442\u0430\u0442\u0443\u044f \u0441\u043b\u043e\u043d\u0430 \u043f\u043e\u0434 \u0432\u043e\u0434\u043e\u0439.",
       "name": "Light House",
       "scuba_diving:depth": "18",
       "scuba_diving:difficulty": "1",
@@ -32,7 +32,7 @@
     "difficulty": "Beginner",
     "tags": {
       "description:en": "Sand bottom with hundreds of eels",
-      "description:ru": "Песчаное дно с сотнями угрей.",
+      "description:ru": "\u041f\u0435\u0441\u0447\u0430\u043d\u043e\u0435 \u0434\u043d\u043e \u0441 \u0441\u043e\u0442\u043d\u044f\u043c\u0438 \u0443\u0433\u0440\u0435\u0439.",
       "name": "Eel Garden",
       "scuba_diving:depth": "20",
       "scuba_diving:difficulty": "1",
@@ -44,7 +44,7 @@
     }
   },
   {
-    "name": "الجزر",
+    "name": "\u0627\u0644\u062c\u0632\u0631",
     "lat": 28.4772304,
     "lon": 34.5132459,
     "osm_id": 251193886,
@@ -54,12 +54,12 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
-      "alt_name": "الجزر",
+      "alt_name": "\u0627\u0644\u062c\u0632\u0631",
       "description:en": "Coral underwater islands-reefs, amazing landscape. Good for night diving. Turtle living here.",
-      "description:ru": "Потрясающий подводный ландшафт из коралловых островков. Подходит для ночных погружений. На рифе живет черепаха.",
-      "name": "الجزر",
-      "name:ar": "الجزر",
-      "name:ar1": "الجزر",
+      "description:ru": "\u041f\u043e\u0442\u0440\u044f\u0441\u0430\u044e\u0449\u0438\u0439 \u043f\u043e\u0434\u0432\u043e\u0434\u043d\u044b\u0439 \u043b\u0430\u043d\u0434\u0448\u0430\u0444\u0442 \u0438\u0437 \u043a\u043e\u0440\u0430\u043b\u043b\u043e\u0432\u044b\u0445 \u043e\u0441\u0442\u0440\u043e\u0432\u043a\u043e\u0432. \u041f\u043e\u0434\u0445\u043e\u0434\u0438\u0442 \u0434\u043b\u044f \u043d\u043e\u0447\u043d\u044b\u0445 \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0439. \u041d\u0430 \u0440\u0438\u0444\u0435 \u0436\u0438\u0432\u0435\u0442 \u0447\u0435\u0440\u0435\u043f\u0430\u0445\u0430.",
+      "name": "\u0627\u0644\u062c\u0632\u0631",
+      "name:ar": "\u0627\u0644\u062c\u0632\u0631",
+      "name:ar1": "\u0627\u0644\u062c\u0632\u0631",
       "name:en": "The Islands",
       "scuba_diving:depth": "16",
       "scuba_diving:entry": "shore",
@@ -78,9 +78,9 @@
     "depth": 31,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
-      "description:ru": "Британский вооруженный сухогруз, затонул 6 октября 1941 года",
+      "description:ru": "\u0411\u0440\u0438\u0442\u0430\u043d\u0441\u043a\u0438\u0439 \u0432\u043e\u043e\u0440\u0443\u0436\u0435\u043d\u043d\u044b\u0439 \u0441\u0443\u0445\u043e\u0433\u0440\u0443\u0437, \u0437\u0430\u0442\u043e\u043d\u0443\u043b 6 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 1941 \u0433\u043e\u0434\u0430",
       "historic": "wreck",
       "name": "SS Thistlegorm",
       "seamark:type": "wreck",
@@ -89,7 +89,7 @@
       "sport:scuba_diving": "yes",
       "wikidata": "Q32276",
       "wikimedia_commons": "Category:Thistlegorm (ship, 1940)",
-      "wikipedia": "ar:سفينة زيستل جورم",
+      "wikipedia": "ar:\u0633\u0641\u064a\u0646\u0629 \u0632\u064a\u0633\u062a\u0644 \u062c\u0648\u0631\u0645",
       "wreck:max_depth": "31"
     }
   },
@@ -221,18 +221,20 @@
     "osm_id": 271181711,
     "osm_type": "node",
     "depth": 31,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "shore",
     "difficulty": "Advanced",
     "tags": {
       "description:en": "Beautiful place with coral arches, narrow entrance. Named for knocking of tank to narrow coral tunnel.",
-      "description:ru": "Красивый дайвсайт, с узким тунелем в коралле, постепенно уходящем на глубину и аркой на глубине около 25м. Название получил за характерный звук стука балонов о коралловые стенки.",
+      "description:ru": "\u041a\u0440\u0430\u0441\u0438\u0432\u044b\u0439 \u0434\u0430\u0439\u0432\u0441\u0430\u0439\u0442, \u0441 \u0443\u0437\u043a\u0438\u043c \u0442\u0443\u043d\u0435\u043b\u0435\u043c \u0432 \u043a\u043e\u0440\u0430\u043b\u043b\u0435, \u043f\u043e\u0441\u0442\u0435\u043f\u0435\u043d\u043d\u043e \u0443\u0445\u043e\u0434\u044f\u0449\u0435\u043c \u043d\u0430 \u0433\u043b\u0443\u0431\u0438\u043d\u0443 \u0438 \u0430\u0440\u043a\u043e\u0439 \u043d\u0430 \u0433\u043b\u0443\u0431\u0438\u043d\u0435 \u043e\u043a\u043e\u043b\u043e 25\u043c. \u041d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u043f\u043e\u043b\u0443\u0447\u0438\u043b \u0437\u0430 \u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u043d\u044b\u0439 \u0437\u0432\u0443\u043a \u0441\u0442\u0443\u043a\u0430 \u0431\u0430\u043b\u043e\u043d\u043e\u0432 \u043e \u043a\u043e\u0440\u0430\u043b\u043b\u043e\u0432\u044b\u0435 \u0441\u0442\u0435\u043d\u043a\u0438.",
       "name": "The Bells",
       "scuba_diving:depth": "31",
       "scuba_diving:entry": "shore",
       "sport": "scuba_diving",
       "sport:scuba_diving": "yes",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -247,7 +249,7 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Shark Reef",
-      "name:ru": "риф Акула",
+      "name:ru": "\u0440\u0438\u0444 \u0410\u043a\u0443\u043b\u0430",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
       "tourism": "attraction"
@@ -1029,7 +1031,7 @@
     "depth": 20,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "historic": "wreck",
       "name": "Salem Express",
@@ -1041,7 +1043,7 @@
     }
   },
   {
-    "name": "نوميديا",
+    "name": "\u0646\u0648\u0645\u064a\u062f\u064a\u0627",
     "lat": 26.3156833,
     "lon": 34.84145,
     "osm_id": 663869779,
@@ -1049,11 +1051,11 @@
     "depth": 30,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "historic": "wreck",
-      "name": "نوميديا",
-      "name:ar": "نوميديا",
+      "name": "\u0646\u0648\u0645\u064a\u062f\u064a\u0627",
+      "name:ar": "\u0646\u0648\u0645\u064a\u062f\u064a\u0627",
       "name:de": "Numidia",
       "name:en": "Numidia",
       "name:fr": "Numidia",
@@ -1064,7 +1066,7 @@
     }
   },
   {
-    "name": "عايدة",
+    "name": "\u0639\u0627\u064a\u062f\u0629",
     "lat": 26.3138104,
     "lon": 34.8432379,
     "osm_id": 663869780,
@@ -1072,13 +1074,13 @@
     "depth": 30,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
-      "brand:ar": "عايدة",
-      "brand:wikipedia": "ar:عايدة (سفن سياحية)",
+      "brand:ar": "\u0639\u0627\u064a\u062f\u0629",
+      "brand:wikipedia": "ar:\u0639\u0627\u064a\u062f\u0629 (\u0633\u0641\u0646 \u0633\u064a\u0627\u062d\u064a\u0629)",
       "historic": "wreck",
-      "name": "عايدة",
-      "name:ar": "عايدة",
+      "name": "\u0639\u0627\u064a\u062f\u0629",
+      "name:ar": "\u0639\u0627\u064a\u062f\u0629",
       "name:de": "Aida",
       "name:en": "Aida",
       "name:fr": "Aida",
@@ -1590,9 +1592,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Ras Umm Sid",
-      "name:ar": "رأس أم سد",
+      "name:ar": "\u0631\u0623\u0633 \u0623\u0645 \u0633\u062f",
       "name:en": "Ras Umm Sid",
-      "name:ru": "Рас Умм Сид",
+      "name:ru": "\u0420\u0430\u0441 \u0423\u043c\u043c \u0421\u0438\u0434",
       "sport": "scuba_diving",
       "tourism": "attraction",
       "wikidata": "Q14218645",
@@ -1722,7 +1724,7 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Kormoran",
-      "name:ru": "Корморан",
+      "name:ru": "\u041a\u043e\u0440\u043c\u043e\u0440\u0430\u043d",
       "sport": "scuba_diving"
     }
   },
@@ -1877,7 +1879,7 @@
     }
   },
   {
-    "name": "سنسبلاش هاوس ريف",
+    "name": "\u0633\u0646\u0633\u0628\u0644\u0627\u0634 \u0647\u0627\u0648\u0633 \u0631\u064a\u0641",
     "lat": 28.486668,
     "lon": 34.516587,
     "osm_id": 663869868,
@@ -1887,10 +1889,10 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
-      "alt_name": "سنسبلاش هاوس ريف",
-      "name": "سنسبلاش هاوس ريف",
-      "name:ar": "سنسبلاش هاوس ريف",
-      "name:ar1": "سنسبلاش هاوس ريف",
+      "alt_name": "\u0633\u0646\u0633\u0628\u0644\u0627\u0634 \u0647\u0627\u0648\u0633 \u0631\u064a\u0641",
+      "name": "\u0633\u0646\u0633\u0628\u0644\u0627\u0634 \u0647\u0627\u0648\u0633 \u0631\u064a\u0641",
+      "name:ar": "\u0633\u0646\u0633\u0628\u0644\u0627\u0634 \u0647\u0627\u0648\u0633 \u0631\u064a\u0641",
+      "name:ar1": "\u0633\u0646\u0633\u0628\u0644\u0627\u0634 \u0647\u0627\u0648\u0633 \u0631\u064a\u0641",
       "name:en": "Sunsplash Housereef",
       "sport": "scuba_diving"
     }
@@ -1908,7 +1910,7 @@
     "tags": {
       "depth": "100",
       "description:en": "One of the most popular deep dive site in the world. Blue hole arch under 50m depth",
-      "description:ru": "Одно из самых популярных мест в мире для глубоководных погружений - арка Голубой дыры на глубине болee 50м",
+      "description:ru": "\u041e\u0434\u043d\u043e \u0438\u0437 \u0441\u0430\u043c\u044b\u0445 \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u044b\u0445 \u043c\u0435\u0441\u0442 \u0432 \u043c\u0438\u0440\u0435 \u0434\u043b\u044f \u0433\u043b\u0443\u0431\u043e\u043a\u043e\u0432\u043e\u0434\u043d\u044b\u0445 \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0439 - \u0430\u0440\u043a\u0430 \u0413\u043e\u043b\u0443\u0431\u043e\u0439 \u0434\u044b\u0440\u044b \u043d\u0430 \u0433\u043b\u0443\u0431\u0438\u043d\u0435 \u0431\u043e\u043bee 50\u043c",
       "name": "Blue Hole",
       "name:de": "Blaues Loch",
       "scuba_diving:entry": "shore",
@@ -1947,7 +1949,7 @@
     "difficulty": "Advanced",
     "tags": {
       "description:en": "Amazing landscape, deep dive polular place.",
-      "description:ru": "Потрясающий ландшафт, популярное место для глубоководных погружений.",
+      "description:ru": "\u041f\u043e\u0442\u0440\u044f\u0441\u0430\u044e\u0449\u0438\u0439 \u043b\u0430\u043d\u0434\u0448\u0430\u0444\u0442, \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u043e\u0435 \u043c\u0435\u0441\u0442\u043e \u0434\u043b\u044f \u0433\u043b\u0443\u0431\u043e\u043a\u043e\u0432\u043e\u0434\u043d\u044b\u0445 \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0439.",
       "name": "Canyon",
       "scuba_diving:depth": "39",
       "scuba_diving:entry": "shore",
@@ -1991,7 +1993,7 @@
     }
   },
   {
-    "name": "סופה",
+    "name": "\u05e1\u05d5\u05e4\u05d4",
     "lat": 29.5447222,
     "lon": 34.9539555,
     "osm_id": 663869878,
@@ -2002,9 +2004,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "historic": "wreck",
-      "name": "סופה",
+      "name": "\u05e1\u05d5\u05e4\u05d4",
       "name:en": "Soufa",
-      "name:he": "סופה",
+      "name:he": "\u05e1\u05d5\u05e4\u05d4",
       "seamark:type": "wreck",
       "sport": "scuba_diving"
     }
@@ -2373,7 +2375,7 @@
     "osm_id": 701594783,
     "osm_type": "node",
     "depth": 40,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
@@ -2385,7 +2387,9 @@
       "scuba_diving:type:rocks": "yes",
       "scuba_diving:type:sharks": "yes",
       "scuba_diving:type:wall": "yes",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -2425,7 +2429,7 @@
     }
   },
   {
-    "name": "شرم الناقة",
+    "name": "\u0634\u0631\u0645 \u0627\u0644\u0646\u0627\u0642\u0629",
     "lat": 26.9,
     "lon": 33.966667,
     "osm_id": 767991726,
@@ -2435,11 +2439,11 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
-      "alt_name": "شرم الناقة",
-      "int_name": "Sharm el-Nâqa, Sharm al Naqa",
-      "name": "شرم الناقة",
-      "name:ar": "شرم الناقة",
-      "name:ar1": "شرم الناقة",
+      "alt_name": "\u0634\u0631\u0645 \u0627\u0644\u0646\u0627\u0642\u0629",
+      "int_name": "Sharm el-N\u00e2qa, Sharm al Naqa",
+      "name": "\u0634\u0631\u0645 \u0627\u0644\u0646\u0627\u0642\u0629",
+      "name:ar": "\u0634\u0631\u0645 \u0627\u0644\u0646\u0627\u0642\u0629",
+      "name:ar1": "\u0634\u0631\u0645 \u0627\u0644\u0646\u0627\u0642\u0629",
       "name:de": "Sharm al Naqa",
       "name:en": "Sharm al Naqa",
       "name:fr": "Sharm al Naqa",
@@ -2448,7 +2452,7 @@
     }
   },
   {
-    "name": "الإسم العربي ؟",
+    "name": "\u0627\u0644\u0625\u0633\u0645 \u0627\u0644\u0639\u0631\u0628\u064a \u061f",
     "lat": 27.7038233,
     "lon": 34.127467,
     "osm_id": 768031212,
@@ -2458,11 +2462,11 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
-      "alt_name": "الإسم العربي ؟",
+      "alt_name": "\u0627\u0644\u0625\u0633\u0645 \u0627\u0644\u0639\u0631\u0628\u064a \u061f",
       "int_name": "Beacon Rock, Beacon Rock",
-      "name": "الإسم العربي ؟",
-      "name:ar": "الإسم العربي ؟",
-      "name:ar1": "الإسم العربي ؟",
+      "name": "\u0627\u0644\u0625\u0633\u0645 \u0627\u0644\u0639\u0631\u0628\u064a \u061f",
+      "name:ar": "\u0627\u0644\u0625\u0633\u0645 \u0627\u0644\u0639\u0631\u0628\u064a \u061f",
+      "name:ar1": "\u0627\u0644\u0625\u0633\u0645 \u0627\u0644\u0639\u0631\u0628\u064a \u061f",
       "name:de": "Beacon Rock",
       "name:en": "Beacon Rock",
       "name:fr": "Beacon Rock",
@@ -2558,7 +2562,7 @@
     }
   },
   {
-    "name": "خليج القرش",
+    "name": "\u062e\u0644\u064a\u062c \u0627\u0644\u0642\u0631\u0634",
     "lat": 27.946547,
     "lon": 34.3882994,
     "osm_id": 1149253646,
@@ -2568,9 +2572,9 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
-      "alt_name:ar": "شاركس بي;شاركس باي",
-      "name": "خليج القرش",
-      "name:ar": "خليج القرش",
+      "alt_name:ar": "\u0634\u0627\u0631\u0643\u0633 \u0628\u064a;\u0634\u0627\u0631\u0643\u0633 \u0628\u0627\u064a",
+      "name": "\u062e\u0644\u064a\u062c \u0627\u0644\u0642\u0631\u0634",
+      "name:ar": "\u062e\u0644\u064a\u062c \u0627\u0644\u0642\u0631\u0634",
       "name:en": "Shark's Bay",
       "sport": "scuba_diving"
     }
@@ -2654,14 +2658,16 @@
     "osm_id": 1556398712,
     "osm_type": "node",
     "depth": 20,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Gordon reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -2742,7 +2748,7 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Laguna Reef",
-      "name:ru": "риф Лагуна",
+      "name:ru": "\u0440\u0438\u0444 \u041b\u0430\u0433\u0443\u043d\u0430",
       "natural": "reef",
       "reef": "coral",
       "sport": "scuba_diving",
@@ -2761,7 +2767,7 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Abu Salama",
-      "name:de": "Gummibärchenriff",
+      "name:de": "Gummib\u00e4rchenriff",
       "natural": "reef",
       "scuba_diving:divespot": "yes",
       "scuba_diving:type:reef": "yes",
@@ -3128,7 +3134,7 @@
     "difficulty": "Beginner",
     "tags": {
       "description:en": "Saddle is the part of Blue hole wall destroyed by scientists",
-      "description:ru": "Седло - часть стенок кораллового колодца разрушенное учеными.",
+      "description:ru": "\u0421\u0435\u0434\u043b\u043e - \u0447\u0430\u0441\u0442\u044c \u0441\u0442\u0435\u043d\u043e\u043a \u043a\u043e\u0440\u0430\u043b\u043b\u043e\u0432\u043e\u0433\u043e \u043a\u043e\u043b\u043e\u0434\u0446\u0430 \u0440\u0430\u0437\u0440\u0443\u0448\u0435\u043d\u043d\u043e\u0435 \u0443\u0447\u0435\u043d\u044b\u043c\u0438.",
       "name": "Saddle",
       "scuba_diving:depth": "6",
       "scuba_diving:entry": "shore",
@@ -3258,45 +3264,47 @@
     }
   },
   {
-    "name": "موقع الغوص - جزيرة الأخ الصغير",
+    "name": "\u0645\u0648\u0642\u0639 \u0627\u0644\u063a\u0648\u0635 - \u062c\u0632\u064a\u0631\u0629 \u0627\u0644\u0623\u062e \u0627\u0644\u0635\u063a\u064a\u0631",
     "lat": 26.3007944,
     "lon": 34.862559,
     "osm_id": 5610583021,
     "osm_type": "node",
     "depth": 30,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "attraction": "sport",
-      "name": "موقع الغوص - جزيرة الأخ الصغير",
-      "name:ar": "موقع الغوص - جزيرة الأخ الصغير",
+      "name": "\u0645\u0648\u0642\u0639 \u0627\u0644\u063a\u0648\u0635 - \u062c\u0632\u064a\u0631\u0629 \u0627\u0644\u0623\u062e \u0627\u0644\u0635\u063a\u064a\u0631",
+      "name:ar": "\u0645\u0648\u0642\u0639 \u0627\u0644\u063a\u0648\u0635 - \u062c\u0632\u064a\u0631\u0629 \u0627\u0644\u0623\u062e \u0627\u0644\u0635\u063a\u064a\u0631",
       "name:en": "Little Brother Dive Site",
       "name:fr": "Little Brother",
-      "name:uk": "Малий Брат місце для занурення",
+      "name:uk": "\u041c\u0430\u043b\u0438\u0439 \u0411\u0440\u0430\u0442 \u043c\u0456\u0441\u0446\u0435 \u0434\u043b\u044f \u0437\u0430\u043d\u0443\u0440\u0435\u043d\u043d\u044f",
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": "true"
     }
   },
   {
-    "name": "موقع الغوص - جزيرة الأخ الأكبر",
+    "name": "\u0645\u0648\u0642\u0639 \u0627\u0644\u063a\u0648\u0635 - \u062c\u0632\u064a\u0631\u0629 \u0627\u0644\u0623\u062e \u0627\u0644\u0623\u0643\u0628\u0631",
     "lat": 26.3130389,
     "lon": 34.8442682,
     "osm_id": 5610583022,
     "osm_type": "node",
     "depth": 30,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
-      "name": "موقع الغوص - جزيرة الأخ الأكبر",
-      "name:ar": "موقع الغوص - جزيرة الأخ الأكبر",
+      "name": "\u0645\u0648\u0642\u0639 \u0627\u0644\u063a\u0648\u0635 - \u062c\u0632\u064a\u0631\u0629 \u0627\u0644\u0623\u062e \u0627\u0644\u0623\u0643\u0628\u0631",
+      "name:ar": "\u0645\u0648\u0642\u0639 \u0627\u0644\u063a\u0648\u0635 - \u062c\u0632\u064a\u0631\u0629 \u0627\u0644\u0623\u062e \u0627\u0644\u0623\u0643\u0628\u0631",
       "name:en": "Big Brother Dive Site",
       "name:fr": "Big Brother",
-      "name:uk": "Великий Брат місце для занурення",
+      "name:uk": "\u0412\u0435\u043b\u0438\u043a\u0438\u0439 \u0411\u0440\u0430\u0442 \u043c\u0456\u0441\u0446\u0435 \u0434\u043b\u044f \u0437\u0430\u043d\u0443\u0440\u0435\u043d\u043d\u044f",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": "true"
     }
   },
   {
@@ -3523,14 +3531,16 @@
     "osm_id": 8559506183,
     "osm_type": "node",
     "depth": 30,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Thomas reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -3540,18 +3550,20 @@
     "osm_id": 8559506184,
     "osm_type": "node",
     "depth": 30,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Jackson reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
-    "name": "אתר צלילה -סטי\"ל (24 מטר)",
+    "name": "\u05d0\u05ea\u05e8 \u05e6\u05dc\u05d9\u05dc\u05d4 -\u05e1\u05d8\u05d9\"\u05dc (24 \u05de\u05d8\u05e8)",
     "lat": 29.5145068,
     "lon": 34.9270007,
     "osm_id": 8577535117,
@@ -3562,8 +3574,8 @@
     "difficulty": "Intermediate",
     "tags": {
       "historic": "wreck",
-      "name": "אתר צלילה -סטי\"ל (24 מטר)",
-      "name:he": "אתר צלילה -סטי\"ל (24 מטר)",
+      "name": "\u05d0\u05ea\u05e8 \u05e6\u05dc\u05d9\u05dc\u05d4 -\u05e1\u05d8\u05d9\"\u05dc (24 \u05de\u05d8\u05e8)",
+      "name:he": "\u05d0\u05ea\u05e8 \u05e6\u05dc\u05d9\u05dc\u05d4 -\u05e1\u05d8\u05d9\"\u05dc (24 \u05de\u05d8\u05e8)",
       "seamark:type": "wreck",
       "sport": "scuba_diving",
       "tourism": "attraction"
@@ -4157,12 +4169,14 @@
     "osm_id": 13044852766,
     "osm_type": "node",
     "depth": 40,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "name": "Daedalus Reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "scubaboard"
     }
   },
   {
@@ -4335,18 +4349,18 @@
     }
   },
   {
-    "name": "شعب توماس",
+    "name": "\u0634\u0639\u0628 \u062a\u0648\u0645\u0627\u0633",
     "lat": 27.9927336,
     "lon": 34.4600961,
     "osm_id": 23185890,
     "osm_type": "way",
     "depth": 30,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
-      "name": "شعب توماس",
-      "name:ar": "شعب توماس",
+      "name": "\u0634\u0639\u0628 \u062a\u0648\u0645\u0627\u0633",
+      "name:ar": "\u0634\u0639\u0628 \u062a\u0648\u0645\u0627\u0633",
       "name:de": "Thomas-Riff",
       "name:en": "Thomas Reef",
       "natural": "reef",
@@ -4354,52 +4368,55 @@
       "source": "landsat",
       "sport": "scuba_diving",
       "wikidata": "Q14221722",
-      "wikimedia_commons": "Category:Thomas Reef"
+      "wikimedia_commons": "Category:Thomas Reef",
+      "validated": "true"
     }
   },
   {
-    "name": "شعب وودهاوس",
+    "name": "\u0634\u0639\u0628 \u0648\u0648\u062f\u0647\u0627\u0648\u0633",
     "lat": 28.0012225,
     "lon": 34.4649921,
     "osm_id": 23185891,
     "osm_type": "way",
     "depth": 30,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
-      "name": "شعب وودهاوس",
-      "name:ar": "شعب وودهاوس",
+      "name": "\u0634\u0639\u0628 \u0648\u0648\u062f\u0647\u0627\u0648\u0633",
+      "name:ar": "\u0634\u0639\u0628 \u0648\u0648\u062f\u0647\u0627\u0648\u0633",
       "name:de": "Woodhouse-Riff",
       "name:en": "Woodhouse Reef",
       "natural": "reef",
       "reef": "coral",
       "source": "landsat",
       "sport": "scuba_diving",
-      "wikidata": "Q14223403"
+      "wikidata": "Q14223403",
+      "validated": "true"
     }
   },
   {
-    "name": "شعب جاكسون",
+    "name": "\u0634\u0639\u0628 \u062c\u0627\u0643\u0633\u0648\u0646",
     "lat": 28.008815,
     "lon": 34.4731592,
     "osm_id": 23185893,
     "osm_type": "way",
     "depth": 30,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
-      "name": "شعب جاكسون",
-      "name:ar": "شعب جاكسون",
+      "name": "\u0634\u0639\u0628 \u062c\u0627\u0643\u0633\u0648\u0646",
+      "name:ar": "\u0634\u0639\u0628 \u062c\u0627\u0643\u0633\u0648\u0646",
       "name:de": "Jackson-Riff",
       "name:en": "Jackson Reef",
-      "name:ru": "риф Джексон",
+      "name:ru": "\u0440\u0438\u0444 \u0414\u0436\u0435\u043a\u0441\u043e\u043d",
       "natural": "reef",
       "reef": "coral",
       "source": "landsat",
       "sport": "scuba_diving",
-      "wikidata": "Q14212223"
+      "wikidata": "Q14212223",
+      "validated": "true"
     }
   },
   {
@@ -4455,7 +4472,7 @@
     "tags": {
       "int_name": "Panorama Reef",
       "name": "Panorama Reef",
-      "name:ar": "الإسم العربي ؟",
+      "name:ar": "\u0627\u0644\u0625\u0633\u0645 \u0627\u0644\u0639\u0631\u0628\u064a \u061f",
       "natural": "reef",
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
@@ -4502,21 +4519,21 @@
     }
   },
   {
-    "name": "جيرة ديدلاس",
+    "name": "\u062c\u064a\u0631\u0629 \u062f\u064a\u062f\u0644\u0627\u0633",
     "lat": 24.9348279,
     "lon": 35.8681459,
     "osm_id": 374758292,
     "osm_type": "way",
     "depth": 30,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
-      "alt_name": "Abu el Kizân",
+      "alt_name": "Abu el Kiz\u00e2n",
       "int_name": "Didalas Reef;Daedalus Reef;Jairat Didalas",
       "loc_name": "Abu Kizan",
-      "name": "جيرة ديدلاس",
-      "name:ar": "جيرة ديدلاس",
+      "name": "\u062c\u064a\u0631\u0629 \u062f\u064a\u062f\u0644\u0627\u0633",
+      "name:ar": "\u062c\u064a\u0631\u0629 \u062f\u064a\u062f\u0644\u0627\u0633",
       "name:de": "Daedalus Riff",
       "name:en": "Daedalus Reef",
       "name:fr": "Daedalus Reef",
@@ -4527,7 +4544,8 @@
       "scuba_diving:type": "wall",
       "sport": "scuba_diving",
       "wikidata": "Q15212511",
-      "wikipedia": "en:Daedalus Reef"
+      "wikipedia": "en:Daedalus Reef",
+      "validated": "true"
     }
   },
   {
@@ -4546,7 +4564,7 @@
       "name": "Elphinstone Reef",
       "name:de": "Elphinstone-Riff",
       "name:en": "Elphinstone Reef",
-      "name:fr": "Récif d'Elphinstone",
+      "name:fr": "R\u00e9cif d'Elphinstone",
       "natural": "reef",
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",

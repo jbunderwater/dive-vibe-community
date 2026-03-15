@@ -1236,7 +1236,7 @@
     }
   },
   {
-    "name": "Impérieuse Rock",
+    "name": "Imp\u00e9rieuse Rock",
     "lat": 49.2613562,
     "lon": -124.1252523,
     "osm_id": 5777590757,
@@ -1246,7 +1246,7 @@
     "entry_type": null,
     "difficulty": "Intermediate",
     "tags": {
-      "name": "Impérieuse Rock",
+      "name": "Imp\u00e9rieuse Rock",
       "natural": "reef",
       "wikidata": "Q22427417",
       "source": "osm_extended",
@@ -2222,27 +2222,6 @@
     }
   },
   {
-    "name": "M.V. Shirley",
-    "lat": 49.2269594,
-    "lon": -122.3573498,
-    "osm_id": 8836420680,
-    "osm_type": "node",
-    "depth": null,
-    "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": "Intermediate",
-    "tags": {
-      "access": "no",
-      "historic": "wreck",
-      "name": "M.V. Shirley",
-      "seamark:type": "wreck",
-      "seamark:wreck:category": "hull_showing",
-      "wreck:type": "ship",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass"
-    }
-  },
-  {
     "name": "Osprey",
     "lat": 48.7681908,
     "lon": -122.5282916,
@@ -2450,7 +2429,7 @@
     "depth": null,
     "site_type": "wreck",
     "entry_type": null,
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "description": "WWII destroyer sunk as part of breakwater",
       "historic": "wreck",
@@ -2770,28 +2749,6 @@
     }
   },
   {
-    "name": "USS Charleston (C-22)",
-    "lat": 50.3944052,
-    "lon": -125.9545159,
-    "osm_id": 817763083,
-    "osm_type": "way",
-    "depth": null,
-    "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": "Intermediate",
-    "tags": {
-      "historic": "wreck",
-      "name": "USS Charleston (C-22)",
-      "seamark:type": "wreck",
-      "seamark:wreck:category": "hull_showing",
-      "wreck:date_sunk": "1930",
-      "wreck:visible_at_high_tide": "yes",
-      "wreck:visible_at_low_tide": "yes",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass"
-    }
-  },
-  {
     "name": "HMCS Runnymede",
     "lat": 50.39475,
     "lon": -125.9558585,
@@ -2926,213 +2883,6 @@
     }
   },
   {
-    "name": "Hulk Armand Considere",
-    "lat": 49.8689513,
-    "lon": -124.5591122,
-    "osm_id": 1282076490,
-    "osm_type": "way",
-    "depth": null,
-    "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": "Intermediate",
-    "tags": {
-      "access": "private",
-      "historic": "wreck",
-      "name": "Hulk Armand Considere",
-      "seamark:type": "wreck",
-      "seamark:wreck:category": "hull_showing",
-      "wreck:date_sunk": "still afloat as hulk",
-      "wreck:visible_at_high_tide": "yes",
-      "wreck:visible_at_low_tide": "yes",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass"
-    }
-  },
-  {
-    "name": "Hulk L. J. Vicat",
-    "lat": 49.8679652,
-    "lon": -124.5596463,
-    "osm_id": 1282076491,
-    "osm_type": "way",
-    "depth": null,
-    "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": "Intermediate",
-    "tags": {
-      "access": "private",
-      "historic": "wreck",
-      "name": "Hulk L. J. Vicat",
-      "seamark:type": "wreck",
-      "seamark:wreck:category": "hull_showing",
-      "wreck:date_sunk": "Still afloat but tied down",
-      "wreck:visible_at_high_tide": "yes",
-      "wreck:visible_at_low_tide": "yes",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass"
-    }
-  },
-  {
-    "name": "Hulk Thaddeus Merriman",
-    "lat": 49.866975,
-    "lon": -124.5594034,
-    "osm_id": 1282076492,
-    "osm_type": "way",
-    "depth": null,
-    "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": "Intermediate",
-    "tags": {
-      "access": "private",
-      "historic": "wreck",
-      "name": "Hulk Thaddeus Merriman",
-      "seamark:type": "wreck",
-      "seamark:wreck:category": "hull_showing",
-      "wreck:date_sunk": "Floating hulk",
-      "wreck:visible_at_high_tide": "yes",
-      "wreck:visible_at_low_tide": "yes",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass"
-    }
-  },
-  {
-    "name": "Hulk John Smeaton",
-    "lat": 49.8663253,
-    "lon": -124.558419,
-    "osm_id": 1282076493,
-    "osm_type": "way",
-    "depth": null,
-    "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": "Intermediate",
-    "tags": {
-      "access": "private",
-      "historic": "wreck",
-      "name": "Hulk John Smeaton",
-      "seamark:type": "wreck",
-      "seamark:wreck:category": "hull_showing",
-      "wreck:date_sunk": "Floating breakwater",
-      "wreck:visible_at_high_tide": "yes",
-      "wreck:visible_at_low_tide": "yes",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass"
-    }
-  },
-  {
-    "name": "Hulk P.M. Anderson",
-    "lat": 49.866042,
-    "lon": -124.5568531,
-    "osm_id": 1282076494,
-    "osm_type": "way",
-    "depth": null,
-    "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": "Intermediate",
-    "tags": {
-      "access": "private",
-      "historic": "wreck",
-      "name": "Hulk P.M. Anderson",
-      "seamark:type": "wreck",
-      "seamark:wreck:category": "hull_showing",
-      "wreck:date_sunk": "Afloat as fixed breakwater",
-      "wreck:visible_at_high_tide": "yes",
-      "wreck:visible_at_low_tide": "yes",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass"
-    }
-  },
-  {
-    "name": "Hulk M.H. Le Chatelier",
-    "lat": 49.8653623,
-    "lon": -124.5557721,
-    "osm_id": 1282076495,
-    "osm_type": "way",
-    "depth": null,
-    "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": "Intermediate",
-    "tags": {
-      "access": "private",
-      "historic": "wreck",
-      "name": "Hulk M.H. Le Chatelier",
-      "seamark:type": "wreck",
-      "seamark:wreck:category": "hull_showing",
-      "wreck:date_sunk": "Fixed in place as floating breakwater",
-      "wreck:visible_at_high_tide": "yes",
-      "wreck:visible_at_low_tide": "yes",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass"
-    }
-  },
-  {
-    "name": "Hulk Emile N. Vidal",
-    "lat": 49.8643679,
-    "lon": -124.5551338,
-    "osm_id": 1282076496,
-    "osm_type": "way",
-    "depth": null,
-    "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": "Intermediate",
-    "tags": {
-      "access": "private",
-      "historic": "wreck",
-      "name": "Hulk Emile N. Vidal",
-      "seamark:type": "wreck",
-      "seamark:wreck:category": "hull_showing",
-      "wreck:date_sunk": "Fixed in place as floating breakwater",
-      "wreck:visible_at_high_tide": "yes",
-      "wreck:visible_at_low_tide": "yes",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass"
-    }
-  },
-  {
-    "name": "Hulk USS Quartz",
-    "lat": 49.8633221,
-    "lon": -124.5544352,
-    "osm_id": 1282076497,
-    "osm_type": "way",
-    "depth": null,
-    "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": "Intermediate",
-    "tags": {
-      "access": "private",
-      "historic": "wreck",
-      "name": "Hulk USS Quartz",
-      "seamark:type": "wreck",
-      "seamark:wreck:category": "hull_showing",
-      "wreck:date_sunk": "Afloat as breakwater",
-      "wreck:visible_at_high_tide": "yes",
-      "wreck:visible_at_low_tide": "yes",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass"
-    }
-  },
-  {
-    "name": "Hulk SS Peralta",
-    "lat": 49.862212,
-    "lon": -124.5537125,
-    "osm_id": 1282076498,
-    "osm_type": "way",
-    "depth": null,
-    "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": "Intermediate",
-    "tags": {
-      "access": "private",
-      "historic": "wreck",
-      "name": "Hulk SS Peralta",
-      "seamark:type": "wreck",
-      "seamark:wreck:category": "hull_showing",
-      "wreck:date_sunk": "Afloat as breakwater",
-      "wreck:visible_at_high_tide": "yes",
-      "wreck:visible_at_low_tide": "yes",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass"
-    }
-  },
-  {
     "name": "Forest Friend",
     "lat": 49.6536127,
     "lon": -124.9488236,
@@ -3150,29 +2900,6 @@
       "seamark:wreck:category": "distributed_remains",
       "source": "osm_extended",
       "wreck:date_sunk": "1950s",
-      "wreck:visible_at_high_tide": "yes",
-      "wreck:visible_at_low_tide": "yes",
-      "addedBy": "extended_overpass"
-    }
-  },
-  {
-    "name": "Comet",
-    "lat": 49.6545024,
-    "lon": -124.9469836,
-    "osm_id": 1304387928,
-    "osm_type": "way",
-    "depth": null,
-    "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": "Intermediate",
-    "tags": {
-      "description": "Early 1900s sail cargo ship, converted into barge and sunk as breakwater",
-      "historic": "wreck",
-      "name": "Comet",
-      "seamark:type": "wreck",
-      "seamark:wreck:category": "hull_showing",
-      "source": "osm_extended",
-      "wreck:date_sunk": "1962",
       "wreck:visible_at_high_tide": "yes",
       "wreck:visible_at_low_tide": "yes",
       "addedBy": "extended_overpass"
