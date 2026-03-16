@@ -13,42 +13,42 @@ addedBy: osm_import
 
 # El Chimo
 
-Cathedral pinnacles at the southern edge of Banderas Bay — Las Iglesias rock columns rising from depth, manta rays, and pelagic fish in clear open-ocean water
+Southernmost dive point in Banderas Bay near Chimo village — cathedral-shaped rock formations called Las Iglesias, exceptional giant manta ray encounters, dense fish schools, and strong currents at 1h45m from Puerto Vallarta
 
 ## Overview
 
-El Chimo is an advanced dive site located at the southern tip of Banderas Bay, approximately 25-26 miles south of Puerto Vallarta near a small fishing village at the bay's southern edge. Unlike the more sheltered sites around Los Arcos and Mismaloya, Chimo sits on the boundary between the bay and the open Pacific, which brings in cleaner, clearer water and regular pelagic visitors.
+El Chimo sits at the southern edge of Banderas Bay near the small village of Chimo, approximately 1 hour and 45 minutes by boat from Puerto Vallarta — making it one of the most remote sites regularly visited by local operators. The distance and required minimum dive count (50+ logged dives) keep the site less crowded than closer destinations, and the reward for the boat ride is a genuinely different underwater environment that sits on the boundary between the bay and the open Pacific.
 
-The site's defining feature is Las Iglesias (The Churches): a series of underwater pinnacles and vertical rock columns that rise from the seafloor in formations described as resembling cathedral pillars. The entire structure spans more than 400 meters across and creates a dramatic underwater landscape unlike anything found in the northern or central bay. The columns and pinnacles are draped in healthy invertebrate growth — colorful corals, gorgonians, and invertebrates taking advantage of the nutrient-rich current that sweeps the exposed formations.
+The site's centerpiece is Las Iglesias (The Churches) — a set of rock formations with openings shaped like church porticos, including arch-like entrances and vertical rock columns that rise from the bottom. Three named dive zones — Potrerillo, Torrecillas, and Iglesias — cover different sections of the El Chimo reef system. The clean water arriving from the open ocean end of the bay brings the nutrients that support the dense fish schools and pelagic visitors that make El Chimo one of the most coveted dives on the Pacific Mexico coast.
 
 ## Site Information
 
-- **Location**: Southern tip of Banderas Bay, 25-26 miles south of Puerto Vallarta
+- **Location**: Southern tip of Banderas Bay, ~1h45m from Puerto Vallarta
 - **Entry Type**: Boat dive
-- **Site Type**: Reef with pinnacles
+- **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 37 meters (typical dives: 12-30 meters)
-- **Typical Visibility**: 7-24 meters
+- **Maximum Depth**: 37 meters
+- **Typical Visibility**: 10-24 meters
 - **Water Temperature**: 19-27°C
-- **Current**: Strong surface currents possible; calmer at depth
+- **Current**: Strong; currents are the reason this site requires experience
 - **Best Time**: May to November
 
 ## Marine Life
 
-Giant manta rays are one of El Chimo's headline attractions — the site is considered one of the better locations in the Puerto Vallarta area for consistent manta encounters. Large schools of tropical fish aggregate around the pinnacles. Sea turtles are regularly seen. The rock formations shelter giant moray eels. Healthy coral growth and invertebrate communities cover the column surfaces. The clean open-ocean water occasionally delivers pelagic visitors including larger sharks and open-water fish species passing through the southern bay entrance. Stingrays and electric rays inhabit the sandy areas between formations.
+Giant manta rays are the headline attraction at El Chimo — the site is one of the most consistent locations in the Puerto Vallarta area for manta encounters, and their appearance is tied to current flow across the southern bay entrance. Dense schools of tropical fish aggregate around the rock formations throughout the dive. Sea turtles are regular visitors. The church-shaped rock formations shelter large moray eels in their arched openings. Stingrays and electric rays rest on the sandy areas between formations. The occasional hammerhead or bull shark passes through when conditions bring pelagic activity up from the open Pacific.
 
 ## Dive Profile
 
-Dives at El Chimo typically run 12-30 meters, though the site extends deeper. The cathedral columns of Las Iglesias are the primary destination — divers work along the formations, navigating between the pillars and exploring the crevices and overhangs at depth. Strong surface currents can be present, particularly when tidal flow moves across the bay entrance, though conditions are typically calmer at depth around the column bases. The 90-minute boat ride from Puerto Vallarta means this is a full-day commitment; most operators run two-tank dive trips to justify the travel time.
+Dives at El Chimo cover the three named zones — Potrerillo, Torrecillas, and Iglesias — depending on conditions and group experience. The Las Iglesias formation is the primary destination, where divers navigate through the church portico-shaped openings and along the vertical rock columns. Depths run to 37 meters, and the terrain demands confident buoyancy control to navigate the architectural rock formations without contact. Strong surface currents can be present; descend quickly and find shelter behind rock formations at depth where conditions are typically calmer. A 50-dive minimum is recommended — not an arbitrary rule but a reflection of the skill level genuinely needed to enjoy the site safely.
 
 ## Entry and Exit
 
-Boat ride approximately 90 minutes from Puerto Vallarta marina. Minimum group sizes typically apply (four or more divers). Giant stride entry; ascend with SMB deployed at depth given the current exposure and open-water location. Advanced Open Water certification or equivalent experience required — the depth, current, and remote location make this unsuitable for inexperienced divers.
+Boat access only, approximately 1 hour and 45 minutes from the Puerto Vallarta marina. The distance means operators typically run two-tank trips. Giant stride entry; ascend with SMB deployed given the current exposure and remote location. Minimum 50 logged dives required by most operators.
 
 ## Tips and Recommendations
 
-- Advanced certification and recent deep dive experience are essential; this is not a site for newly certified divers
-- Brief conditions with the operator carefully before diving — surface current can be significant and affects the descent
-- Manta encounters are most reliable when current is running and visibility is high
-- Allow budget for two tanks — the travel time makes a single-tank trip poor value and a second dive significantly extends time on site
-- The southern bay location means rougher boat conditions in the open bay on windy days; check forecasts before booking
+- The 50-dive minimum is a genuine experience requirement, not a formality — currents and depth demand solid buoyancy and navigation skills
+- Manta encounters are most reliable when current is running across the bay entrance; a calm, windless day may mean fewer pelagics
+- The two-tank format is standard and necessary — the boat ride makes a single-tank trip impractical, and the second dive extends site exploration significantly
+- Brief conditions thoroughly with the operator before entry — surface currents affect the descent and the approach to the formations
+- Las Iglesias' arch openings are large enough for comfortable navigation but reward careful buoyancy; stay neutral to avoid disturbing the rock surfaces

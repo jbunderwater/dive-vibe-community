@@ -13,42 +13,42 @@ addedBy: osm_import
 
 # Las Caletas
 
-Sheltered south-facing cove accessible only by boat — one of Puerto Vallarta's most beginner-friendly dive sites, with calm conditions, good visibility, garden eels, and sea turtles
+Sheltered south-facing cove with two underwater trails around rock formations and small sunken panga boats — Puerto Vallarta's most beginner-friendly dive site, perfect for Discover Scuba and first certification dives
 
 ## Overview
 
-Las Caletas is a secluded, south-facing cove tucked into the coastline south of Puerto Vallarta, accessible only by boat. The cove's orientation provides natural protection from the swells and chop that affect more exposed sites in Banderas Bay, making it one of the most consistently diveable locations in the region regardless of surface conditions elsewhere.
+Las Caletas is a secluded south-facing cove on the southern shore of Banderas Bay, accessible only by boat and one of the most consistently calm dive sites in the Puerto Vallarta area. The cove's orientation provides natural protection from the swells and surface chop that affect more exposed sites, making it a reliable option regardless of bay conditions on any given day.
 
-The site features a mix of reef structure and sandy bottom from shallow to mid-range depths. Its protected character makes it well-suited for new divers working through certification dives or visitors doing a Discover Scuba experience. Two sunken shipwrecks within the cove add a secondary objective for certified divers. Las Caletas is also home to a private beach club, and operators frequently combine diving here with surface activities and a beach visit.
+The site features two established underwater trails that guide divers around the rock formations flanking the cove. The north trail includes a sand drop line — a descent line anchored in sand — and small sunken panga boats that provide an additional focal point for beginner divers exploring their first artificial structure. The south trail covers additional rock formations. The combination of shallow depth (maximum 12 meters), reliable calm conditions, two defined routes, and small accessible wrecks makes Las Caletas the standard choice for Discover Scuba experiences and early certification dives in the PV area.
 
 ## Site Information
 
-- **Location**: South of Puerto Vallarta; boat access only
+- **Location**: Southern Banderas Bay, boat access only; ~45 min from Puerto Vallarta
 - **Entry Type**: Boat dive
-- **Site Type**: Reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 12 meters (typical); site extends to ~30 meters
-- **Typical Visibility**: 15-18 meters
-- **Water Temperature**: 18-31°C (65-88°F) seasonal variation
-- **Current**: Gentle; well-protected cove
-- **Best Time**: Year-round; most consistent conditions May to November
+- **Maximum Depth**: 12 meters
+- **Typical Visibility**: 10-18 meters
+- **Water Temperature**: 22-28°C (72-82°F)
+- **Current**: Minimal; well-protected cove
+- **Best Time**: Year-round
 
 ## Marine Life
 
-Garden eels rising from sandy patches are a reliable and memorable sighting at Las Caletas. Sea turtles visit regularly and tend to be relaxed around divers given the low disturbance inside the protected cove. Eagle rays are occasionally seen. Reef fish include pufferfish, angelfish, damselfish, cornets, and parrotfish across the reef sections. Jawfish peek from burrows on the sand flats. Manta rays have been reported at the site. The calm, low-disturbance conditions support healthy invertebrate communities on the rocky reef sections.
+Garden eels emerge from sandy patches throughout the site in notable density, making this one of the easier places in the bay to observe them. Sea turtles visit regularly and tend to be relaxed around divers due to the low-disturbance environment inside the protected cove. Pufferfish, angelfish, damselfish, and parrotfish are the backbone of the reef fish community on the rock formations. Jawfish inhabit the sandy bottom sections, peeking from their burrows and retreating as divers approach — patient observation rewards close study. The small sunken panga boats have developed their own invertebrate and fish communities since sinking and are excellent subjects for new divers learning to explore structure.
 
 ## Dive Profile
 
-Depths range from around 8 to 30 meters across the full cove, but most diving occurs in the 5-12 meter range where conditions are calmest and fish life is most abundant. Certified divers can access deeper sections and explore the wrecks. The gentle current and clear sight lines make navigation straightforward. Introductory dives are typically limited to 12 meters with direct supervision. The shallow reef sections provide long bottom times.
+Las Caletas is designed for shallow diving: the two underwater trails stay at or below 12 meters, and most beginner and introductory dives run 6-10 meters where conditions are optimal and fish life is densest. The north trail follows rock formations and leads to the sand drop line and sunken pangas — a natural introduction to structural diving for first-timers. The south trail covers a different section of the same reef with similar marine life. Both trails have clear start and end points, making navigation straightforward for divers without open-water experience.
 
 ## Entry and Exit
 
-Access is entirely by boat; Las Caletas has no road access. The boat ride from Puerto Vallarta takes approximately 45 minutes. Entry and exit are from the dive boat or the beach club dock, depending on the operator. Shore entry from the cove's beach is possible for operators based at the beach club.
+Access is entirely by boat from Puerto Vallarta, approximately 45 minutes each way. No road access exists. Entry from the boat by giant stride or from the beach at the private beach club operated at Las Caletas. Shore entry from the cove beach is available for beach club operators. Conditions inside the cove are calm in virtually all weather.
 
 ## Tips and Recommendations
 
-- One of the best choices for first-time divers or certification dives — consistent calm conditions make it reliable
-- Bring a macro lens: garden eels and jawfish reward patient, close-up photography
-- The wrecks in the cove give certified divers an additional objective beyond the reef
-- Combine with a beach break at the private beach club for a full day trip
-- Morning departures offer the best light and clearest water before afternoon boat traffic
+- This is the best choice for first-time divers doing a Discover Scuba experience — calm, shallow, and full of easily visible marine life
+- The garden eels require a patient, slow approach from a distance to observe before they retract into the sand
+- The sunken pangas give beginner divers a concrete objective and an introduction to wreck/structure diving at low depth
+- Combine the dive with a beach break at the private beach club for a full-day excursion — Las Caletas is a destination as well as a dive site
+- Morning departures allow best light penetration to the sandy bottom areas where garden eels are most visible

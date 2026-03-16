@@ -11,57 +11,43 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Colomitos
+# Colomitos
 
-Colomitos is a wall dive site in Puerto Vallarta, Central America.
+Small secluded cove between Boca de Tomatlán and Las Caletas — well-protected wall and reef with exceptional visibility even when conditions are poor elsewhere in the bay
 
 ## Overview
 
-Colomitos is a dive site in Puerto Vallarta featuring a dramatic vertical wall that drops into the deep blue. Located in the Central America region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Colomitos is a small, secluded cove located between Boca de Tomatlán and Las Caletas on the southern shore of Banderas Bay, about 45 minutes from Puerto Vallarta by boat. The cove is notably well-protected from wave action, and local operators frequently recommend it as one of the most reliable alternatives when swell or wind makes other sites marginal — visibility at Colomitos often remains good even on days when other sites in the bay are affected by surface conditions.
+
+The underwater topography combines wall sections with reef and sandy bottom, dropping to around 37 meters at depth. The sheltered position of the cove and the wall orientation create varied diving across a relatively compact area. Rays are a particular highlight — the site is known for encounters with multiple ray species including stingrays, electric rays, and broader bat rays across the sandy sections and deeper sandy flats.
 
 ## Site Information
 
-- **Location**: Puerto Vallarta, Central America
+- **Location**: Between Boca de Tomatlán and Las Caletas; 45 minutes from Puerto Vallarta
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 37 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: Typically very good; reliable even in rough bay conditions
+- **Water Temperature**: 22-28°C (72-82°F)
+- **Current**: Generally mild inside the cove
+- **Best Time**: Year-round; particularly useful as an alternative when other sites are rough
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Rays are the defining marine life at Colomitos — stingrays, electric rays, and bat rays are regularly encountered across the sandy sections. Butterflyfish are abundant on the reef areas. The wall sections host moray eels, nudibranchs, and invertebrates typical of southern Banderas Bay reef structure. Sea turtles visit the cove, and eagle rays pass through occasionally. The reef-to-sand transition zones are particularly productive for small creatures and juvenile fish.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-37 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Dives at Colomitos work from the shallower reef areas down the wall to around 30-37 meters. The wall sections provide interesting relief and crevice life. Most of the productive reef diving occurs between 10-25 meters. The sandy flats below the wall are worth visiting for the ray species that rest there. The protected cove makes ascending and performing safety stops comfortable regardless of surface conditions.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by dive boat, approximately 45 minutes from Puerto Vallarta. Giant stride entry; exits back to the boat. The protected cove allows comfortable entry and exit in most conditions.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+- This is one of the best fallback sites in the bay when swell affects Los Arcos or the more exposed southern sites
+- Scan the sand carefully for electric rays — they partially bury themselves and are easy to miss
+- The wall sections reward slow exploration — work the crevices for nudibranchs and cleaning stations
+- A torch improves visibility in the deeper wall sections and reveals creatures tucked into crevices

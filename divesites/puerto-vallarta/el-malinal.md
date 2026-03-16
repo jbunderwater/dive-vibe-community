@@ -11,56 +11,43 @@ osmId: null
 addedBy: osm_import
 ---
 
-## El Malinal
+# El Malinal
 
-El Malinal is a pinnacle dive site in Puerto Vallarta, Central America.
+Uncrowded seamount outside Banderas Bay near Punta de Mita — a dramatic rock tunnel, crystal-clear water, and diverse reef life far from the main Puerto Vallarta dive traffic
 
 ## Overview
 
-El Malinal is a dive site in Puerto Vallarta offering rewarding diving on healthy coral reef structures. Located in the Central America region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+El Malinal is a seamount located outside Banderas Bay on the Nayarit side of the bay entrance, approximately 15 minutes by boat from Punta de Mita in front of Litibu Beach. Unlike the busier sites around Los Arcos and Mismaloya, El Malinal sees far fewer diving groups, and the relative remoteness means cleaner water, less disturbance to resident marine life, and a more exploratory dive experience.
+
+The site's defining feature is a dramatic tunnel that cuts completely through the main rock formation — divers enter on one side and exit on the other, navigating through the passage with a torch. Outside the tunnel, the seamount's rock faces support a diverse community of invertebrates: octopus, eels, shrimp, sponges, nudibranchs, and mollusks in the crevices, with large schools of fish aggregating in the open water around the structure. The crystal-clear visibility typical of the bay-edge location makes this particularly rewarding for photography.
 
 ## Site Information
 
-- **Location**: Puerto Vallarta, Central America
+- **Location**: Outside Banderas Bay near Punta de Mita; 15 minutes from Punta de Mita
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: Typically excellent — among the best in the region
+- **Water Temperature**: 22-27°C (72-80°F)
+- **Current**: Moderate; can strengthen on the exposed faces
+- **Best Time**: May to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Large schools of fish are the most immediately striking feature — they aggregate around the seamount in numbers that exceed most inshore sites. Octopus are common on the rock faces. Moray eels and giant morays inhabit the tunnel walls and surrounding crevices. Nudibranchs, shrimp, sponges, and mollusks cover the rock surfaces where current delivers nutrients. The open-water position means pelagic visitors — including manta rays and eagle rays — are possible, particularly when current is running across the formation.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Dives at El Malinal run from shallow sections on the formation's top to 20-30 meters on the deeper flanks. The tunnel is the centerpiece of most dives — navigate through it with a torch, then explore the surrounding rock faces before ascending to shallower sections. Two-tank trips are standard given the boat ride from Punta de Mita. The combination of the tunnel, schools of fish, and macro life rewards extended bottom time.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Punta de Mita (approximately 15 minutes) or from Puerto Vallarta marina (longer transit). Giant stride entry; SMB deployment recommended given the open-water position of the seamount.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+- El Malinal is a strong alternative to Los Arcos for divers wanting clearer water and fewer other dive boats at the site
+- A dive torch is essential for the tunnel — bring one with sufficient battery life for the full passage
+- The bay-edge position means the boat ride can be rougher on the open-water side; check conditions before booking
+- Pairs well with a dive at Las Marietas Islands on a full-day northern bay trip

@@ -11,56 +11,44 @@ osmId: null
 addedBy: osm_import
 ---
 
-## El Sequial
+# El Sequial
 
-El Sequial is a pinnacle dive site in Puerto Vallarta, Central America.
+Remote offshore pinnacle beyond La Corbeteña — advanced dive in open Pacific conditions with pelagic fish, sharks, and rays far from the main Banderas Bay sites
 
 ## Overview
 
-El Sequial is a dive site in Puerto Vallarta offering rewarding diving on healthy coral reef structures. Located in the Central America region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+El Sequial is an advanced offshore pinnacle located in the open Pacific beyond the mouth of Banderas Bay, at a similar longitude to La Corbeteña and northwest of Puerto Vallarta. The coordinates place it well offshore in oceanic water, accessible only on full-day expeditions in suitable sea conditions. Like La Corbeteña, the remote open-ocean position means the site is subject to current, swells, and thermoclines that require experience and preparation to manage safely.
+
+The pinnacle structure rises from deep water to its shallowest point at around 27 meters, with the surrounding seafloor dropping well beyond recreational limits. The open Pacific setting brings in oceanic species that rarely appear at inshore sites, and the strong current sweeping the formation keeps the water clear and the marine life active. El Sequial is typically combined with La Corbeteña on multi-day or liveaboard-style day trips.
 
 ## Site Information
 
-- **Location**: Puerto Vallarta, Central America
+- **Location**: Open Pacific, northwest of Puerto Vallarta beyond La Corbeteña
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 27 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 15-30+ meters in good conditions
+- **Water Temperature**: 17-26°C (variable; thermoclines common)
+- **Current**: Strong; variable
+- **Best Time**: May to November (calmer crossing conditions)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+The oceanic position of El Sequial makes pelagic encounters more likely than at inshore sites. Manta rays — including Giant Pacific mantas — are drawn to the current sweeping the pinnacle. Sharks, including hammerheads and reef species, patrol the deeper edge of the formation. Large schools of jacks, tuna, and other open-water fish aggregate around the structure. Rays and sea turtles are regularly seen. The pinnacle's hard surfaces support encrusting life where the depth allows light penetration.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 27 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+All diving at El Sequial occurs on the pinnacle structure in 15-27 meter range. The site is current-exposed throughout, meaning drift diving techniques are often necessary. Plan your descent around the current direction briefed by the divemaster and maintain situational awareness of the formation's position relative to your drift. Deploy an SMB before ascending from depth; open-water conditions mean pick-up requires clear signaling. Advanced Open Water certification and genuine deep-diving experience are necessary prerequisites.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Full-day boat expedition required from Puerto Vallarta marina; expect a 2+ hour crossing depending on conditions. Weather windows are critical — the open Pacific is genuinely rough in poor conditions. Giant stride entry; drift ascent with SMB in open water.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+- This is a destination for experienced divers who are comfortable with open-ocean conditions, current diving, and managing thermoclines
+- Combine with La Corbeteña on the same day to maximize the long boat ride
+- Seasickness medication is strongly advised — the open Pacific crossing can be rough even in summer
+- Bring a thicker wetsuit (5mm or more) for thermoclines below the surface layer
+- Confirm conditions with the operator the morning of departure — the site is frequently skipped in rough weather

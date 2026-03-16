@@ -11,57 +11,44 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Love Rocks
+# Love Rocks
 
-Love Rocks is a reef dive site in Puerto Vallarta, Central America.
+Very shallow beginner reef near Las Marietas Islands — ideal for snorkeling crossover and introductory dives, with a rocky reef floor packed with damselfish, parrotfish, and sea turtles at 10 meters maximum
 
 ## Overview
 
-Love Rocks is a dive site in Puerto Vallarta offering excellent diving on healthy coral reef structures. Located in the Central America region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Love Rocks is a shallow reef site located near the Las Marietas Islands in the northern part of Banderas Bay, with a maximum depth of just 10 meters. The extremely shallow profile makes it one of the most accessible dive sites in the Puerto Vallarta area, suitable for introductory dives, snorkelers making their first scuba attempt, and newly certified divers building confidence in a forgiving environment.
+
+The site sits within the Las Marietas marine protected area zone, which means the usual benefits of park protection apply: bolder marine life, better reef condition, and no fishing pressure. At 10 meters, natural light is strong throughout the dive, which means excellent visibility of the reef and its inhabitants without requiring artificial light for basic exploration.
 
 ## Site Information
 
-- **Location**: Puerto Vallarta, Central America
+- **Location**: Near Las Marietas Islands, northern Banderas Bay
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 10 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 10-15 meters
+- **Water Temperature**: 17-28°C (seasonal; cooler near Marietas)
+- **Current**: Usually mild; check conditions near the islands
+- **Best Time**: November to May for best visibility
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+The shallow reef supports a dense population of damselfish, which are visible in large numbers across the rocky substrate. Parrotfish work the reef surface constantly. Sea turtles visit the site regularly within the protected area. The rocky reef provides habitat for moray eels, nudibranchs, and small invertebrates accessible at snorkeling depth. Triggerfish and pufferfish are common. The strong natural light at 10 meters means colors are vivid without a torch.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 10 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-10 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+All diving at Love Rocks occurs at 5-10 meters, making this a genuinely shallow site where depth management is simple and bottom times are essentially unlimited. Buoyancy control at shallow depth requires attention — overweighted divers or those with poor trim will constantly hover above the reef. The reef structure provides natural route-finding. This site is ideal for practicing buoyancy and reef-interaction skills at low risk.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive combined with Las Marietas Islands trips. Approximately 70 minutes from Puerto Vallarta marina. Las Marietas protected area fees apply.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+- Love Rocks works well as a warm-up dive before deeper Marietas sites or as a standalone introductory experience
+- The shallow depth makes it appropriate for snorkelers attempting their first scuba equipment experience
+- Practice neutral buoyancy carefully at 10 meters — the reef is very close and good trim matters
+- Water near Las Marietas can be cooler than the main bay; a wetsuit is recommended even in summer
+- Strong natural light means photos taken here look vivid without a strobe if shooting in the shallower sections

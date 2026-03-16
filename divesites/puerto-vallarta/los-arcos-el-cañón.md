@@ -11,57 +11,44 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Los Arcos - El Cañón
+# Los Arcos - El Cañón
 
-Los Arcos - El Cañón is a wall dive site in Puerto Vallarta, Central America.
+Also called La Quijada del Diablo (Devil's Jaw) — a dramatic 244-meter vertical wall on the west face of Los Arcos with schools of tuna, large grouper, manta rays, and sea turtles on the current-swept drop-off
 
 ## Overview
 
-Los Arcos - El Cañón is a dive site in Puerto Vallarta featuring a dramatic vertical wall that drops into the deep blue. Located in the Central America region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+El Cañón — locally known as La Quijada del Diablo, or Devil's Jaw — is the advanced dive at Los Arcos and arguably the most dramatic site in the immediate Puerto Vallarta area. Located on the west-facing wall of the main Los Arcos island, this is a true vertical wall dive: the drop-off begins at 18 meters and the canyon structure runs from 24 to 37 meters, with the wall face extending well beyond recreational depth into blue water.
+
+The wall earned its nickname from its appearance — the canyon cuts into the rock face like a massive open jaw, creating a dramatic underwater canyon environment. Unlike the sheltered eastern side of Los Arcos, the western wall is fully exposed to Pacific swells and currents, which means notably different fish populations. The current exposure delivers nutrients and draws pelagic species that rarely appear on the calmer sections. This is the only site at Los Arcos where manta rays and open-water tuna are regular sightings.
 
 ## Site Information
 
-- **Location**: Puerto Vallarta, Central America
+- **Location**: West face of Los Arcos main island, 12 km south of Puerto Vallarta
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 37 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 12-25 meters
+- **Water Temperature**: 20-28°C (68-82°F)
+- **Current**: Moderate to strong; can be significant on exposed wall
+- **Best Time**: May to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Schools of yellowfin and bigeye tuna move along the wall face, attracted by the current and the baitfish it sweeps past the drop-off. Large grouper hold position in the deeper canyon sections and under ledge overhangs. Sea turtles are reliably present, resting on ledges or ascending the wall. Manta rays appear regularly, cruising the current-rich water adjacent to the wall. Large moray eels occupy crevices throughout the canyon. The wall face itself supports encrusting corals, sea fans, and sponges in the sections that receive most current.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-37 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Entry is from the boat on the western, exposed side of the formation. Descend to the wall face at around 18 meters where the drop-off begins and follow the wall deeper into the canyon zone at 24-37 meters. Current management is the primary skill requirement — divers must monitor position relative to the wall and avoid being swept past the formation. The canyon walls provide shelter from the current in places, which is where the grouper and eels concentrate. Ascend along the wall and conduct the safety stop in the shallower section, deploying an SMB before surfacing given the current exposure.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access only; operators typically approach the western face in calm conditions or drift dive the wall when current is running. Confirm conditions with the divemaster before descending — this side of the formation can be rougher than the eastern arches. Advanced Open Water certification minimum; experience with current diving recommended.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+- Advanced certification and current-diving experience are required — this is not an introduction to wall diving
+- Tuna and large pelagics appear most reliably when current is running; a flat, calm day may mean fewer open-water sightings
+- The canyon's deepest sections are genuinely dark — a dive torch helps with grouper identification and wall photography
+- Deploy an SMB at depth before ascending; the exposed location and current make a surface-level dive flag essential
+- Brief the divemaster about your experience with wall dives before descending — conditions here are significantly different from the park's eastern side

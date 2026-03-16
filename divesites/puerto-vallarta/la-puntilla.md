@@ -11,57 +11,43 @@ osmId: null
 addedBy: osm_import
 ---
 
-## La Puntilla
+# La Puntilla
 
-La Puntilla is a reef dive site in Puerto Vallarta, Central America.
+Sheltered reef point near Las Marietas Islands — beginner-friendly diving with tropical fish, moray eels, nudibranchs, and sea turtles in protected marine reserve waters
 
 ## Overview
 
-La Puntilla is a dive site in Puerto Vallarta offering excellent diving on healthy coral reef structures. Located in the Central America region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+La Puntilla is a reef dive site located near the Las Marietas Islands in the northern part of Banderas Bay, sitting within or adjacent to the Marietas marine protected area. The coordinates place it near the Las Marietas island group on the Nayarit side of the bay, where the protected status and relatively low boat traffic create conditions favorable for beginner diving and relaxed marine life encounters.
+
+The site features reef structure at accessible depths, with the typical volcanic rock and hard coral growth characteristic of the Marietas area. As a beginner-rated site, La Puntilla is used for introductory dives and early certification work on trips that combine it with the main Las Marietas diving sites, offering a lower-stress entry to Marietas-area conditions before advancing to the deeper walls and caves.
 
 ## Site Information
 
-- **Location**: Puerto Vallarta, Central America
+- **Location**: Near Las Marietas Islands, northern Banderas Bay
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 22 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 10-15 meters
+- **Water Temperature**: 17-28°C (seasonal; thermoclines possible near Marietas)
+- **Current**: Usually mild; can increase on exposed faces
+- **Best Time**: November to May (better visibility season near Marietas)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Sea turtles are common in the Las Marietas area and visit La Puntilla regularly, benefiting from the marine protected area status. Moray eels inhabit the volcanic rock crevices throughout the site. Nudibranchs appear on the reef surfaces, with species diversity typical of the protected northern bay. Reef fish include angelfish, damselfish, parrotfish, and snapper. The gorgonians and sea fans growing on the rocky sections support invertebrate communities that reward close observation.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 22 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Dives at La Puntilla typically run 5-20 meters, staying within the comfortable range for beginner divers. The reef structure provides clear visual reference for navigation. Most of the interesting marine life is concentrated in the 8-15 meter range on the rocky reef sections. The site's beginner orientation means it's often combined with a deeper Marietas dive on the same trip — La Puntilla serves as the introductory or warm-up dive.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive, typically combined with trips to the main Las Marietas dive sites. Approximately 70-80 minutes from Puerto Vallarta marina. Giant stride entry; exit to the dive boat.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+- This site works well as a first dive on Las Marietas trips — use it to check your weighting and buoyancy before attempting the deeper walls and caves at La Pared
+- Water near the Marietas can be cooler than the main bay; bring at least a 3mm wetsuit and 5mm if diving outside summer months
+- Sea turtles in the Marietas area are protected and accustomed to divers — observe without approaching too close
+- The marine protected area fee applies to all Marietas diving, including La Puntilla

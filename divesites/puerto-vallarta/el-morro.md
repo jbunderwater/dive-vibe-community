@@ -25,7 +25,7 @@ The site's most distinctive feature is a rock cavern containing a roughly 15-met
 
 - **Location**: Northern Banderas Bay, near Las Marietas Islands
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle with wall sections and tunnel
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 46 meters
 - **Typical Visibility**: 12-36 meters

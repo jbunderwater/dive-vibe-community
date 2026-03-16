@@ -11,56 +11,44 @@ osmId: null
 addedBy: osm_import
 ---
 
-## El Bajo de Corbeteña
+# El Bajo de Corbeteña
 
-El Bajo de Corbeteña is a pinnacle dive site in Puerto Vallarta, Central America.
+Premier offshore seamount 36-40 miles northwest of Puerto Vallarta — Giant Pacific manta rays, hammerhead sharks, whale sharks, sailfish, and humpback whales in open Pacific conditions
 
 ## Overview
 
-El Bajo de Corbeteña is a dive site in Puerto Vallarta offering rewarding diving on healthy coral reef structures. Located in the Central America region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+El Bajo de Corbeteña (La Corbeteña) is widely considered one of the finest dive sites on Mexico's Pacific coast — an offshore seamount rising from deep oceanic water approximately 36-40 miles northwest of Puerto Vallarta. The two-hour boat journey across open water is part of the experience: divers arrive at a site defined by clear blue oceanic visibility, strong current, and the kind of pelagic marine life normally associated with liveaboard expeditions.
+
+The underwater structure features hidden caves, arches, and steep ocean walls. The pinnacle top is at around 12-18 meters, with the walls dropping into blue water well beyond recreational limits. What draws divers here is not the reef structure but what moves through the surrounding water: Giant Pacific manta rays with wingspans up to 6 meters are the signature encounter, along with multiple shark species, large schools of jacks, and seasonal megafauna. The site sits where the Banderas Bay ecosystem meets open Pacific conditions — a convergence zone for extraordinary marine biodiversity.
 
 ## Site Information
 
-- **Location**: Puerto Vallarta, Central America
+- **Location**: 36-40 miles northwest of Puerto Vallarta (approximately 2-hour boat ride)
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 18-36 meters; can exceed 30 meters in ideal conditions
+- **Water Temperature**: 17-28°C (varies significantly by season and thermocline)
+- **Current**: Strong; variable direction
+- **Best Time**: Summer (calmer seas, optimal pelagic encounters); Dec-March for humpbacks
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Giant Pacific manta rays are the headline species — individual mantas with wingspans of 4-6 meters are regularly encountered, and multiple animals are sometimes seen on a single dive. Hammerhead sharks patrol the deeper edges of the seamount. Whale sharks have been documented at the site seasonally. During December through March, humpback whales pass through and can sometimes be seen or heard during dives. Reef sharks (whitetip and silvertip), large schools of yellowfin tuna, sailfish, and marlin inhabit the surrounding water. Dense schools of horse-eye jacks and bigeye trevally aggregate around the pinnacle structure. Nurse sharks rest in the caverns at depth.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Dives at La Corbeteña typically run 12-36 meters. The top of the seamount provides the richest concentration of pelagic encounters, while the walls and arches at depth offer cave and structure diving. Current direction and strength varies; the divemaster will brief conditions and likely run a drift or anchor approach depending on the day. Plan air consumption conservatively — the two-hour return boat ride means there is no option to cut the surface interval short. Advanced certification or a minimum of 25 logged dives is required by most operators, and recent deep dive experience is strongly recommended.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+A full-day commitment from Puerto Vallarta marina, with the boat ride taking approximately 1.5-2 hours each way depending on sea conditions. Operators require Advanced Open Water certification or equivalent logged dives. Giant stride entry; drift ascent with SMB in open water is common given the current. Sea conditions in the open water between the bay and the seamount can be rough — expect a genuine ocean boat ride.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+- Book through a reputable Puerto Vallarta operator familiar with La Corbeteña; conditions vary significantly by day and season
+- The boat ride can be rough — take seasickness precautions if you're susceptible
+- Bring a wetsuit appropriate for thermoclines; water temperature below 20 meters can drop noticeably below surface temperatures
+- Giant manta encounters are most likely when current is running and plankton concentrations are high
+- December to March adds the possibility of humpback whale encounters; June to November offers the best sea conditions for the crossing
