@@ -2,10 +2,10 @@
 name: Henderson Point
 lat: 48.597889
 lng: -123.480744
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Advanced
+maxDepth: 30
 entryType: shore
-siteType: reef
+siteType: wall
 ref: null
 osmId: 663869295
 addedBy: osm_import
@@ -23,9 +23,9 @@ Henderson Point is a dive site in British Columbia offering rewarding diving on 
 
 - **Location**: British Columbia, North America
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Site Type**: Wall dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 5-25 meters (15-80 feet)
 - **Current**: Variable, can be strong
 - **Best Time**: June to October

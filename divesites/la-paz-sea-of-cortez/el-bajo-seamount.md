@@ -3,9 +3,9 @@ name: El Bajo Seamount
 lat: 24.72
 lng: -110.3
 difficulty: Advanced
-maxDepth: 30
+maxDepth: 40
 entryType: boat
-siteType: wall
+siteType: seamount
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## El Bajo Seamount
 
-El Bajo Seamount is a wall dive site in La Paz & Sea of Cortez, North America.
+El Bajo Seamount is a legendary seamount dive site renowned for hammerhead shark encounters and dramatic walls.
 
 ## Overview
 
-El Bajo Seamount is a dive site in La Paz & Sea of Cortez featuring a dramatic vertical wall that drops into the deep blue. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+El Bajo is actually a group of three isolated seamounts located 8 miles from Los Islotes within Espiritu Santo National Park. Rising from deep water with steep walls and canyons, El Bajo is considered one of the world's premier hammerhead shark dive sites. Approximately 90 minutes by boat from La Paz, this advanced site attracts massive schools of pelagic fish, eagle rays, mobula rays, marlin, tuna, and dolphins alongside the iconic scalloped hammerhead sharks.
 
 ## Site Information
 
-- **Location**: La Paz & Sea of Cortez, North America
+- **Location**: Espiritu Santo National Park, 8 miles from Los Islotes
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Site Type**: Seamount
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 40 meters
+- **Typical Visibility**: 15-30 meters (weather dependent)
+- **Current**: Strong and consistent—advanced divers only
+- **Best Time**: July to November (optimal conditions and marine life activity)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+El Bajo is world-renowned for encounters with scalloped hammerhead sharks, often found schooling around the seamount. The site also features vibrant coral and sponge-covered boulders hosting diverse species: mobula rays, giant mantas, eagle rays, marlin, wahoo, trevally, amberjacks, tuna, octopus, and occasionally whale sharks. Dolphin pods and sea lions frequent the area during peak season.
 
 ## Dive Profile
 

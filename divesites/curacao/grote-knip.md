@@ -2,10 +2,10 @@
 name: Grote Knip
 lat: 12.3514337
 lng: -69.153211
-difficulty: Intermediate
-maxDepth: 30
+difficulty: Beginner
+maxDepth: 25
 entryType: Shore
-siteType: reef
+siteType: wall
 ref: null
 osmId: null
 addedBy: assistant
@@ -13,22 +13,22 @@ addedBy: assistant
 
 ## Grote Knip
 
-Grote Knip (Playa Kenepa Grandi) is a spectacular shore dive featuring pristine coral reefs and diverse marine life, adjacent to one of Curaçao's most beautiful beaches.
+Grote Knip (Playa Kenepa Grandi or Playa Abou) is a spectacular shore dive featuring easy access and a dramatic wall drop, perfect for divers seeking Curaçao's characteristic Caribbean wall diving experience.
 
 ## Overview
 
-Grote Knip, also known as Playa Kenepa Grandi or Playa Abou, is considered one of Curaçao's premier dive sites, offering exceptional underwater experiences in a breathtaking natural setting. Located just north of its smaller sister site Kleine Knip, this protected bay features a larger diving area with more extensive coral formations and deeper water. The site is renowned for its excellent snorkeling and diving conditions, supported by a well-developed reef system that extends along the bay's perimeter. The combination of easy shore access, diverse marine life, and stunning topside scenery makes this a must-visit destination for divers of all levels.
+Grote Knip is one of Curaçao's most beloved shore dive sites, famous for its ease of access and dramatic underwater topography. Located on the northwest coast between Westpunt and Lagun, this protected bay features a long sandy beach and a relaxed diving atmosphere. After a brief surface swim across sandy bottom, divers encounter the reef edge and wall formations that are characteristic of Curaçao's best diving. The wall drops from shallow water (around 8-10 meters) to depths suitable for intermediate exploration. The site is a favorite among local divers and instructors due to its accessibility and reliable conditions. Healthy coral coverage, abundant tropical fish, and the occasional sea turtle make Grote Knip an excellent introduction to Curaçao's wall diving character.
 
 ## Site Information
 
-- **Location**: Northwest coast of Curaçao, Kenepa Plantation area
-- **Entry Type**: Shore entry
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters (100 feet)
-- **Typical Visibility**: 20-30 meters (65-100 feet)
+- **Location**: Northwest coast, between Westpunt and Lagun
+- **Entry Type**: Shore
+- **Site Type**: Wall dive
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 25 meters
+- **Typical Visibility**: 25 meters (80 feet)
 - **Current**: Usually minimal, occasional mild current
-- **Best Time**: Year-round, best conditions January-April
+- **Best Time**: Year-round, excellent conditions
 
 ## Marine Life
 
@@ -36,7 +36,7 @@ Grote Knip supports an exceptional diversity of Caribbean marine life. The healt
 
 ## Dive Profile
 
-The dive begins from the sandy beach in shallow water (1-2 meters), making it ideal for beginners and underwater photographers. The reef gradually slopes away from shore, with the most diverse marine life found along the rocky edges and coral formations. The left side of the bay offers excellent coral gardens at depths of 10-20 meters, while the right side features more dramatic topography with steeper slopes reaching 25-30 meters. The outer edges of the bay provide access to deeper water and occasional pelagic encounters. Multiple entry and exit points allow for varied dive profiles and easy surface intervals on the beach.
+Entry is from the extensive sandy beach in very shallow water (1-2 meters), making it accessible for all skill levels. A brief surface swim of approximately 8-10 minutes is required to reach the reef edge. The wall begins around 8-10 meters depth and extends to 25 meters or deeper. The site features a long swim over sand before reef contact, which characterizes several of Curaçao's northwest coast sites. The wall is covered with healthy coral formations including brain coral and soft corals, with excellent fish populations at all depths. The extended sand portion makes this site particularly good for practicing navigation and building water confidence before reaching the reef structure.
 
 ## Entry and Exit
 

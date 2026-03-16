@@ -2,10 +2,10 @@
 name: Cottam Point Reef 0/180
 lat: 49.3171882
 lng: -124.2151396
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Advanced
+maxDepth: 30
 entryType: shore
-siteType: reef
+siteType: wall
 ref: null
 osmId: 11732411251
 addedBy: osm_import
@@ -23,9 +23,9 @@ Cottam Point Reef 0/180 is a dive site in British Columbia offering rewarding di
 
 - **Location**: British Columbia, North America
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Site Type**: Wall dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 5-25 meters (15-80 feet)
 - **Current**: Variable, can be strong
 - **Best Time**: June to October

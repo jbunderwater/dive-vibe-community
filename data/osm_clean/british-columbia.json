@@ -5,17 +5,19 @@
     "lon": -123.603333,
     "osm_id": 663869264,
     "osm_type": "node",
-    "depth": null,
+    "depth": 28,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": "Intermediate",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "historic": "wreck",
       "name": "South Bedford Island",
       "seamark:type": "wreck",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -24,15 +26,17 @@
     "lon": -123.539121,
     "osm_id": 663869266,
     "osm_type": "node",
-    "depth": null,
+    "depth": 35,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": "Intermediate",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Race Rocks - West and Central",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -41,17 +45,19 @@
     "lon": -123.541408,
     "osm_id": 663869269,
     "osm_type": "node",
-    "depth": null,
+    "depth": 28,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": "Intermediate",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "historic": "wreck",
       "name": "Barnard Castle",
       "seamark:type": "wreck",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -60,15 +66,17 @@
     "lon": -123.582582,
     "osm_id": 663869270,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Swordfish Island",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -77,15 +85,17 @@
     "lon": -123.418333,
     "osm_id": 663869272,
     "osm_type": "node",
-    "depth": null,
-    "site_type": "reef",
-    "entry_type": null,
-    "difficulty": "Intermediate",
+    "depth": 30,
+    "site_type": "wall",
+    "entry_type": "shore",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Saxe Point",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -94,10 +104,10 @@
     "lon": -123.402219,
     "osm_id": 663869274,
     "osm_type": "node",
-    "depth": null,
+    "depth": 28,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": "Intermediate",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "historic": "wreck",
       "name": "S. F. Tolmie",
@@ -105,7 +115,9 @@
       "source": "osm_extended",
       "sport": "scuba_diving",
       "wreck:date_sunk": "1944-12-27",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -114,16 +126,18 @@
     "lon": -123.271667,
     "osm_id": 663869275,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Johnstone Reef",
       "natural": "reef",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -132,15 +146,17 @@
     "lon": -123.384114,
     "osm_id": 663869277,
     "osm_type": "node",
-    "depth": null,
-    "site_type": "reef",
-    "entry_type": null,
+    "depth": 25,
+    "site_type": "wall",
+    "entry_type": "shore",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Ogden Point (The Breakwater)",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -149,15 +165,17 @@
     "lon": -123.268763,
     "osm_id": 663869278,
     "osm_type": "node",
-    "depth": null,
-    "site_type": "reef",
-    "entry_type": null,
+    "depth": 15,
+    "site_type": "muck",
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Spring Bay",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -166,15 +184,17 @@
     "lon": -123.270272,
     "osm_id": 663869279,
     "osm_type": "node",
-    "depth": null,
-    "site_type": "reef",
-    "entry_type": null,
+    "depth": 15,
+    "site_type": "muck",
+    "entry_type": "shore",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Telegraph Cove",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -183,15 +203,17 @@
     "lon": -123.266006,
     "osm_id": 663869281,
     "osm_type": "node",
-    "depth": null,
-    "site_type": "reef",
-    "entry_type": null,
-    "difficulty": "Intermediate",
+    "depth": 30,
+    "site_type": "wall",
+    "entry_type": "shore",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Ten Mile Point",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -200,15 +222,17 @@
     "lon": -123.251667,
     "osm_id": 663869283,
     "osm_type": "node",
-    "depth": null,
-    "site_type": "reef",
-    "entry_type": null,
+    "depth": 15,
+    "site_type": "muck",
+    "entry_type": "shore",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Discovery Island",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -217,16 +241,18 @@
     "lon": -123.2401753,
     "osm_id": 663869284,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Fulford Reef",
       "natural": "reef",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -235,15 +261,17 @@
     "lon": -123.266667,
     "osm_id": 663869285,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Chain Islet",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -252,15 +280,17 @@
     "lon": -123.2225531,
     "osm_id": 663869286,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Brinn Rock",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -269,15 +299,17 @@
     "lon": -123.254072,
     "osm_id": 663869288,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Virtue Rock",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -286,16 +318,18 @@
     "lon": -123.298333,
     "osm_id": 663869289,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Mouat Reef",
       "natural": "reef",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -304,15 +338,17 @@
     "lon": -123.505,
     "osm_id": 663869292,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "McKenzie Bright",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -321,15 +357,17 @@
     "lon": -123.484987,
     "osm_id": 663869293,
     "osm_type": "node",
-    "depth": null,
-    "site_type": "reef",
-    "entry_type": null,
-    "difficulty": "Intermediate",
+    "depth": 30,
+    "site_type": "wall",
+    "entry_type": "shore",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Willis Point",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -338,15 +376,17 @@
     "lon": -123.4860212,
     "osm_id": 663869294,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Senanus Island",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -355,15 +395,17 @@
     "lon": -123.480744,
     "osm_id": 663869295,
     "osm_type": "node",
-    "depth": null,
-    "site_type": "reef",
-    "entry_type": null,
-    "difficulty": "Intermediate",
+    "depth": 30,
+    "site_type": "wall",
+    "entry_type": "shore",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Henderson Point",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -372,15 +414,17 @@
     "lon": -123.513333,
     "osm_id": 663869296,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Tozier Rock",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -389,15 +433,17 @@
     "lon": -123.5396496,
     "osm_id": 663869297,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "White Lady (Repulse Rock)",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -406,15 +452,17 @@
     "lon": -123.483333,
     "osm_id": 663869298,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Dyer Rocks",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -423,15 +471,17 @@
     "lon": -123.488333,
     "osm_id": 663869299,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Wain Rock",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -440,15 +490,17 @@
     "lon": -123.435,
     "osm_id": 663869300,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Arbutus Island",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -457,16 +509,18 @@
     "lon": -123.52,
     "osm_id": 663869301,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Patey Rock",
       "natural": "reef",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -475,17 +529,19 @@
     "lon": -123.2866667,
     "osm_id": 663869306,
     "osm_type": "node",
-    "depth": null,
+    "depth": 28,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": "Intermediate",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "historic": "wreck",
       "name": "G.B. Church",
       "seamark:type": "wreck",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -494,15 +550,17 @@
     "lon": -123.321667,
     "osm_id": 663869307,
     "osm_type": "node",
-    "depth": null,
+    "depth": 30,
     "site_type": "wall",
-    "entry_type": null,
-    "difficulty": "Intermediate",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Graham`s Wall",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -511,15 +569,17 @@
     "lon": -123.328333,
     "osm_id": 663869310,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Reay Island",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -528,15 +588,17 @@
     "lon": -123.316667,
     "osm_id": 663869311,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Joan Rock",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -545,15 +607,17 @@
     "lon": -123.366667,
     "osm_id": 663869312,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Little Group Islands",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -562,15 +626,17 @@
     "lon": -123.333333,
     "osm_id": 663869313,
     "osm_type": "node",
-    "depth": null,
-    "site_type": "reef",
-    "entry_type": null,
+    "depth": 12,
+    "site_type": "kelp",
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Forest Island",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -579,15 +645,17 @@
     "lon": -123.2767469,
     "osm_id": 663869314,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Cooper Reef",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -596,15 +664,17 @@
     "lon": -123.311467,
     "osm_id": 663869315,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Rubly Island",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -613,16 +683,18 @@
     "lon": -123.2936772,
     "osm_id": 663869316,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Arachne Reef",
       "natural": "reef",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -631,16 +703,18 @@
     "lon": -123.3002013,
     "osm_id": 663869317,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "North Cod Reef",
       "natural": "reef",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -649,16 +723,18 @@
     "lon": -123.3,
     "osm_id": 663869319,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "South Cod Reef",
       "natural": "reef",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -667,15 +743,17 @@
     "lon": -123.3331116,
     "osm_id": 663869320,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Imrie Island",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -684,15 +762,17 @@
     "lon": -123.338333,
     "osm_id": 663869321,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Canoe Rock",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -701,15 +781,17 @@
     "lon": -123.053264,
     "osm_id": 1631947869,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Tumbo Reef",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -718,15 +800,17 @@
     "lon": -123.3783908,
     "osm_id": 1676321804,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Celia Reefs",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -735,16 +819,18 @@
     "lon": -123.0216542,
     "osm_id": 1731207317,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Shirt Tail Reef",
       "natural": "reef",
       "source": "osm_extended",
       "sub_sea": "reef",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -753,15 +839,17 @@
     "lon": -123.6619397,
     "osm_id": 1792735963,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Escape Reef",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -770,15 +858,17 @@
     "lon": -123.7163425,
     "osm_id": 1796612554,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Danger Reefs",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -787,15 +877,17 @@
     "lon": -125.4724493,
     "osm_id": 1800153581,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Heddington Reef",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -804,15 +896,17 @@
     "lon": -125.3521003,
     "osm_id": 1800153894,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Pope Rocks",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -821,16 +915,18 @@
     "lon": -125.2891832,
     "osm_id": 1800155602,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Village Reef",
       "natural": "reef",
       "wikidata": "Q22423349",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -839,16 +935,18 @@
     "lon": -125.3749492,
     "osm_id": 1800163576,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Verbeke Reef",
       "natural": "reef",
       "wikidata": "Q22415141",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -857,16 +955,18 @@
     "lon": -123.9184456,
     "osm_id": 2106744832,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Power Squadron Reef",
       "natural": "reef",
       "wikidata": "Q22561591",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -875,10 +975,10 @@
     "lon": -125.0070774,
     "osm_id": 2452316961,
     "osm_type": "node",
-    "depth": null,
+    "depth": 30,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": "Intermediate",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "historic": "wreck",
       "name": "SS Valencia",
@@ -888,7 +988,9 @@
       "wreck:cargo": "human",
       "wreck:date_sunk": "1906-04-15",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -897,15 +999,17 @@
     "lon": -123.0671742,
     "osm_id": 3251209577,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Danger Rock",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -914,15 +1018,17 @@
     "lon": -123.2923329,
     "osm_id": 5629470504,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Conconi Reef",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -931,15 +1037,17 @@
     "lon": -123.3487032,
     "osm_id": 5629470511,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Enterprise Reef",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -948,15 +1056,17 @@
     "lon": -123.1645905,
     "osm_id": 5629471128,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Russell Reef",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -965,15 +1075,17 @@
     "lon": -123.5115456,
     "osm_id": 5629585152,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Scarrow Reef",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -982,15 +1094,17 @@
     "lon": -123.3736646,
     "osm_id": 5629799045,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Glimpse Reefs",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -999,15 +1113,17 @@
     "lon": -123.4779995,
     "osm_id": 5629821915,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Coghlan Rock",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1016,15 +1132,17 @@
     "lon": -124.4747804,
     "osm_id": 5631309825,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Quartertide Rocks",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1033,15 +1151,17 @@
     "lon": -124.4868496,
     "osm_id": 5631348308,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Kellett Rock",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1050,16 +1170,18 @@
     "lon": -123.9266167,
     "osm_id": 5633987771,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Satellite Reef",
       "natural": "reef",
       "wikidata": "Q22428945",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1068,16 +1190,18 @@
     "lon": -123.9349722,
     "osm_id": 5634295660,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Carpenter Rock",
       "natural": "reef",
       "wikidata": "Q22445012",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1086,15 +1210,17 @@
     "lon": -124.8357405,
     "osm_id": 5634545286,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Palliser Rock",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1103,16 +1229,18 @@
     "lon": -124.6841373,
     "osm_id": 5635622656,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Maude Reef",
       "natural": "reef",
       "wikidata": "Q22453848",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1121,15 +1249,17 @@
     "lon": -123.5482167,
     "osm_id": 5643069013,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Musgrave Rock",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1138,15 +1268,17 @@
     "lon": -123.4322539,
     "osm_id": 5643261229,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Shute Reef",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1155,15 +1287,17 @@
     "lon": -124.7712333,
     "osm_id": 5650737682,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Grant Reefs",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1172,15 +1306,17 @@
     "lon": -125.36685,
     "osm_id": 5680657263,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Janit Reef",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1189,15 +1325,17 @@
     "lon": -125.3254333,
     "osm_id": 5680657264,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Miller Reef",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1206,15 +1344,17 @@
     "lon": -125.2952,
     "osm_id": 5680657265,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Hornby Rock",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1223,16 +1363,18 @@
     "lon": -124.1301866,
     "osm_id": 5777590274,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Schooner Reef",
       "natural": "reef",
       "wikidata": "Q22546665",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1241,16 +1383,18 @@
     "lon": -124.1252523,
     "osm_id": 5777590757,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Imp\u00e9rieuse Rock",
       "natural": "reef",
       "wikidata": "Q22427417",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1259,16 +1403,18 @@
     "lon": -124.108909,
     "osm_id": 5777590758,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Nonooa Rock",
       "natural": "reef",
       "wikidata": "Q22364362",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1277,16 +1423,18 @@
     "lon": -123.9414614,
     "osm_id": 6372876071,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Clarke Rock",
       "natural": "reef",
       "wikidata": "Q22508154",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1295,16 +1443,18 @@
     "lon": -123.9340883,
     "osm_id": 6377610172,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Beacon Rock",
       "natural": "reef",
       "wikidata": "Q22540086",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1313,16 +1463,18 @@
     "lon": -123.9415421,
     "osm_id": 6377611152,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Oregon Rock",
       "natural": "reef",
       "wikidata": "Q22448317",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1331,15 +1483,17 @@
     "lon": -123.2850189,
     "osm_id": 6389039359,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Brodie Rock",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1348,15 +1502,17 @@
     "lon": -123.6269498,
     "osm_id": 6389059655,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "North Reef",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1365,15 +1521,17 @@
     "lon": -123.369133,
     "osm_id": 6389059656,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Chesil Bank",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1382,15 +1540,17 @@
     "lon": -123.3981171,
     "osm_id": 6389060310,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Rose Rock",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1399,15 +1559,17 @@
     "lon": -123.4066565,
     "osm_id": 6389060311,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Peck Reef",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1416,15 +1578,17 @@
     "lon": -123.4180527,
     "osm_id": 6389060312,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Horda Shoals",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1433,15 +1597,17 @@
     "lon": -123.4239197,
     "osm_id": 6389060506,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Batt Rock",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1450,15 +1616,17 @@
     "lon": -123.4602814,
     "osm_id": 6389076532,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Money Maker Reef",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1467,15 +1635,17 @@
     "lon": -123.4700815,
     "osm_id": 6389076533,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Atkins Reef",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1484,15 +1654,17 @@
     "lon": -123.6384506,
     "osm_id": 6389076534,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Centre Reef",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1501,15 +1673,17 @@
     "lon": -123.3920135,
     "osm_id": 6389076535,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Ben Mohr Rock",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1518,15 +1692,17 @@
     "lon": -123.4153007,
     "osm_id": 6389730806,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Louisa Rock",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1535,16 +1711,18 @@
     "lon": -123.3855112,
     "osm_id": 6389730807,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Sleeper Rock",
       "natural": "reef",
       "wikidata": "Q22638263",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1553,15 +1731,17 @@
     "lon": -123.2867386,
     "osm_id": 6389732360,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Georgina Shoals",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1570,15 +1750,17 @@
     "lon": -123.5928274,
     "osm_id": 6389732616,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Virago Rock",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1587,15 +1769,17 @@
     "lon": -123.32827,
     "osm_id": 6389732617,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Templar Rock",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1604,15 +1788,17 @@
     "lon": -123.3881989,
     "osm_id": 6416967672,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Brotchie Ledge",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1621,15 +1807,17 @@
     "lon": -125.31633,
     "osm_id": 6417239182,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Kirby Rock",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1638,15 +1826,17 @@
     "lon": -124.6154633,
     "osm_id": 6422598566,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Nash Bank",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1655,15 +1845,17 @@
     "lon": -124.2343674,
     "osm_id": 6422598567,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Seal Reef",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1672,15 +1864,17 @@
     "lon": -124.3787537,
     "osm_id": 6422601046,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Jeffrey Rock",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1689,15 +1883,17 @@
     "lon": -124.097084,
     "osm_id": 6422601047,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Temple Rock",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1706,15 +1902,17 @@
     "lon": -124.991333,
     "osm_id": 6422601048,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Sentry Shoal",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1723,16 +1921,18 @@
     "lon": -123.6773529,
     "osm_id": 6422601086,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Brant Reef",
       "natural": "reef",
       "wikidata": "Q22589832",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1741,15 +1941,17 @@
     "lon": -125.1421356,
     "osm_id": 6422601087,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Wilby Shoals",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1758,15 +1960,17 @@
     "lon": -125.3811798,
     "osm_id": 6422617278,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Defender Shoal",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1775,15 +1979,17 @@
     "lon": -125.3047028,
     "osm_id": 6422619556,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Warspite Rock",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1792,15 +1998,17 @@
     "lon": -125.3814316,
     "osm_id": 6422619557,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Min Rock",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1809,15 +2017,17 @@
     "lon": -125.2011642,
     "osm_id": 6422619558,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Barnsley Shoal",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1826,15 +2036,17 @@
     "lon": -125.2511826,
     "osm_id": 6422622400,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Entrance Bank",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1843,15 +2055,17 @@
     "lon": -125.3658981,
     "osm_id": 6422622401,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Nixon Rock",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1860,16 +2074,18 @@
     "lon": -124.1913834,
     "osm_id": 6457133060,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Dorcas Rock",
       "natural": "reef",
       "wikidata": "Q22586534",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1878,16 +2094,18 @@
     "lon": -124.1898193,
     "osm_id": 6457133102,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Cottam Reef",
       "natural": "reef",
       "wikidata": "Q22353881",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1896,15 +2114,17 @@
     "lon": -125.149086,
     "osm_id": 6522075365,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Tusko Rock",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1913,15 +2133,17 @@
     "lon": -125.8111649,
     "osm_id": 6522097549,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Ripple Shoal",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1930,15 +2152,17 @@
     "lon": -125.2312164,
     "osm_id": 6522122252,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Bentley Rock",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1947,15 +2171,17 @@
     "lon": -125.9308319,
     "osm_id": 6527669639,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Thorn Reef",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1964,15 +2190,17 @@
     "lon": -125.947998,
     "osm_id": 6527673532,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Surprise Reef",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1981,15 +2209,17 @@
     "lon": -125.435463,
     "osm_id": 6541412469,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Sargison Bank",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1998,15 +2228,17 @@
     "lon": -125.36203,
     "osm_id": 6541413390,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Warner Rock",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -2015,15 +2247,17 @@
     "lon": -123.9826508,
     "osm_id": 6812455980,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Tattenham Ledge",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -2032,15 +2266,17 @@
     "lon": -123.9489136,
     "osm_id": 6813606314,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Egerton Rock",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -2049,15 +2285,17 @@
     "lon": -123.949501,
     "osm_id": 6813625758,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Fraser Rock",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -2066,15 +2304,17 @@
     "lon": -125.2266846,
     "osm_id": 6835848489,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Yaculta Bank",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -2083,15 +2323,17 @@
     "lon": -124.6598163,
     "osm_id": 6907613174,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Atrevida Reef",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -2100,15 +2342,17 @@
     "lon": -124.6505814,
     "osm_id": 6907656688,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Exeter Shoal",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -2117,15 +2361,17 @@
     "lon": -124.6146469,
     "osm_id": 6907674373,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Oswald Bank",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -2134,15 +2380,17 @@
     "lon": -124.2935867,
     "osm_id": 6907686582,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Western Rock",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -2151,15 +2399,17 @@
     "lon": -124.2733002,
     "osm_id": 6919458411,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Neville Rock",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -2168,15 +2418,17 @@
     "lon": -124.8555715,
     "osm_id": 7217231377,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Kinghorn Rocks",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -2185,15 +2437,17 @@
     "lon": -124.7277696,
     "osm_id": 7217231687,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Sky Pilot Rock",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -2202,10 +2456,10 @@
     "lon": -123.330204,
     "osm_id": 8526894453,
     "osm_type": "node",
-    "depth": null,
+    "depth": 46,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": "Intermediate",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "access": "yes",
       "historic": "wreck",
@@ -2218,7 +2472,9 @@
       "wreck:date_sunk": "4 April 2015",
       "wreck:length": "111.6m",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -2227,10 +2483,10 @@
     "lon": -122.5282916,
     "osm_id": 9682570285,
     "osm_type": "node",
-    "depth": null,
+    "depth": 28,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": "Intermediate",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "historic": "wreck",
       "name": "Osprey",
@@ -2239,7 +2495,9 @@
       "wreck:visible_at_high_tide": "yes",
       "wreck:visible_at_low_tide": "yes",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -2248,15 +2506,17 @@
     "lon": -124.1405165,
     "osm_id": 11729292641,
     "osm_type": "node",
-    "depth": null,
+    "depth": 30,
     "site_type": "wall",
-    "entry_type": null,
-    "difficulty": "Intermediate",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "name": "East Wall",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -2265,15 +2525,17 @@
     "lon": -124.2431964,
     "osm_id": 11732411226,
     "osm_type": "node",
-    "depth": null,
+    "depth": 30,
     "site_type": "wall",
-    "entry_type": null,
-    "difficulty": "Intermediate",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Small wall 40'",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -2282,15 +2544,17 @@
     "lon": -124.2421152,
     "osm_id": 11732411227,
     "osm_type": "node",
-    "depth": null,
+    "depth": 30,
     "site_type": "wall",
-    "entry_type": null,
-    "difficulty": "Intermediate",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Mid wall 50-60'",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -2299,15 +2563,17 @@
     "lon": -124.2408873,
     "osm_id": 11732411228,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Maze 40-60'",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -2316,15 +2582,17 @@
     "lon": -124.2393625,
     "osm_id": 11732411229,
     "osm_type": "node",
-    "depth": null,
+    "depth": 30,
     "site_type": "wall",
-    "entry_type": null,
-    "difficulty": "Intermediate",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Main wall 90'",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -2333,15 +2601,17 @@
     "lon": -124.2166297,
     "osm_id": 11732411235,
     "osm_type": "node",
-    "depth": null,
-    "site_type": "reef",
-    "entry_type": null,
+    "depth": 12,
+    "site_type": "kelp",
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Bull Kelp 20'",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -2350,15 +2620,17 @@
     "lon": -124.213618,
     "osm_id": 11732411236,
     "osm_type": "node",
-    "depth": null,
+    "depth": 30,
     "site_type": "wall",
-    "entry_type": null,
-    "difficulty": "Intermediate",
+    "entry_type": "shore",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Wall beach out 30 return 210/230 50-90'",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -2367,15 +2639,17 @@
     "lon": -124.2069556,
     "osm_id": 11732411243,
     "osm_type": "node",
-    "depth": null,
+    "depth": 30,
     "site_type": "wall",
-    "entry_type": null,
-    "difficulty": "Intermediate",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "name": "The jib wall: shallow 270 HD deep 220 over 100'",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -2384,15 +2658,17 @@
     "lon": -124.2151396,
     "osm_id": 11732411251,
     "osm_type": "node",
-    "depth": null,
-    "site_type": "reef",
-    "entry_type": null,
-    "difficulty": "Intermediate",
+    "depth": 30,
+    "site_type": "wall",
+    "entry_type": "shore",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Cottam Point Reef 0/180",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -2401,10 +2677,10 @@
     "lon": -124.9489777,
     "osm_id": 12079625180,
     "osm_type": "node",
-    "depth": null,
+    "depth": 28,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": "Intermediate",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "description": "WWI & WWII US Navy Destroyer, sunk as a breakwater in 1947",
       "historic": "wreck",
@@ -2417,7 +2693,9 @@
       "wreck:date_sunk": "1947",
       "wreck:visible_at_high_tide": "yes",
       "wreck:visible_at_low_tide": "yes",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -2426,9 +2704,9 @@
     "lon": -124.9481017,
     "osm_id": 12079625209,
     "osm_type": "node",
-    "depth": null,
+    "depth": 28,
     "site_type": "wreck",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "description": "WWII destroyer sunk as part of breakwater",
@@ -2440,7 +2718,9 @@
       "wikidata": "Q615525",
       "wikipedia": "en:HMS Express (H61)",
       "wreck:date_sunk": "1948",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -2449,10 +2729,10 @@
     "lon": -124.9469888,
     "osm_id": 12079625276,
     "osm_type": "node",
-    "depth": null,
+    "depth": 28,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": "Intermediate",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "description": "Early 1900s schooner sunk as part of a breakwater",
       "historic": "wreck",
@@ -2463,7 +2743,9 @@
       "wreck:date_sunk": "August 19th 1936",
       "wreck:visible_at_high_tide": "no",
       "wreck:visible_at_low_tide": "no",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -2472,10 +2754,10 @@
     "lon": -123.2356617,
     "osm_id": 12410699145,
     "osm_type": "node",
-    "depth": null,
+    "depth": 28,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": "Intermediate",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "access": "yes",
       "historic": "wreck",
@@ -2484,7 +2766,9 @@
       "wreck:visible_at_high_tide": "no",
       "wreck:visible_at_low_tide": "no",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -2493,15 +2777,17 @@
     "lon": -123.2353142,
     "osm_id": 12410699146,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Concrete Block Reef",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -2510,17 +2796,19 @@
     "lon": -123.2076498,
     "osm_id": 12589834904,
     "osm_type": "node",
-    "depth": null,
+    "depth": 28,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": "Intermediate",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "description": "Popular scuba and freediving site",
       "historic": "wreck",
       "name": "The Ready Shipwreck",
       "seamark:type": "wreck",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -2529,15 +2817,17 @@
     "lon": -123.240248,
     "osm_id": 12589860894,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Kelvin Grove Dive Site",
       "sport": "scuba_diving",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -2546,16 +2836,18 @@
     "lon": -123.2351748,
     "osm_id": 12589864608,
     "osm_type": "node",
-    "depth": null,
-    "site_type": "reef",
-    "entry_type": null,
+    "depth": 18,
+    "site_type": "muck",
+    "entry_type": "shore",
     "difficulty": "Intermediate",
     "tags": {
       "description": "Several artificial reefs and wrecks",
       "name": "Porteau Cove Diving Area",
       "sport": "scuba_diving",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -2564,16 +2856,18 @@
     "lon": -123.291608,
     "osm_id": 12589868010,
     "osm_type": "node",
-    "depth": null,
-    "site_type": "reef",
-    "entry_type": null,
+    "depth": 18,
+    "site_type": "kelp",
+    "entry_type": "shore",
     "difficulty": "Intermediate",
     "tags": {
       "description": "Popular diving area for beginners and advanced divers.",
       "name": "Whytecliff Park Dive Site",
       "sport": "scuba_diving",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -2582,16 +2876,18 @@
     "lon": -123.2520372,
     "osm_id": 12592552419,
     "osm_type": "node",
-    "depth": null,
-    "site_type": "reef",
-    "entry_type": null,
-    "difficulty": "Intermediate",
+    "depth": 30,
+    "site_type": "wall",
+    "entry_type": "shore",
+    "difficulty": "Advanced",
     "tags": {
       "description": "Popular scuba and freediving site.",
       "name": "Ansell Point Dive Site",
       "sport": "scuba_diving",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -2600,15 +2896,17 @@
     "lon": -123.7893643,
     "osm_id": 155928933,
     "osm_type": "way",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Cluster Rocks",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -2617,15 +2915,17 @@
     "lon": -123.7621819,
     "osm_id": 155928935,
     "osm_type": "way",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Collins Shoal",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -2634,15 +2934,17 @@
     "lon": -123.0303725,
     "osm_id": 277183068,
     "osm_type": "way",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Entertainment Reef",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -2651,16 +2953,18 @@
     "lon": -123.1616104,
     "osm_id": 620673918,
     "osm_type": "way",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Center Reef",
       "natural": "reef",
       "seamark:type": "weed",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -2669,15 +2973,17 @@
     "lon": -123.1339722,
     "osm_id": 632577924,
     "osm_type": "way",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Shag Reef",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -2686,15 +2992,17 @@
     "lon": -123.1469422,
     "osm_id": 632577932,
     "osm_type": "way",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Gull Reef",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -2703,15 +3011,17 @@
     "lon": -122.9475209,
     "osm_id": 632577933,
     "osm_type": "way",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Shark Reef",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -2720,15 +3030,17 @@
     "lon": -122.8558186,
     "osm_id": 632735255,
     "osm_type": "way",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Leo Reef",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -2737,15 +3049,17 @@
     "lon": -122.9645732,
     "osm_id": 632735265,
     "osm_type": "way",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Turn Rock",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -2754,10 +3068,10 @@
     "lon": -125.9558585,
     "osm_id": 817763091,
     "osm_type": "way",
-    "depth": null,
+    "depth": 28,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": "Intermediate",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "area": "yes",
       "historic": "wreck",
@@ -2766,7 +3080,9 @@
       "wikidata": "Q17017238",
       "wikipedia": "en:HMCS Runnymede",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -2775,10 +3091,10 @@
     "lon": -125.9580361,
     "osm_id": 817763093,
     "osm_type": "way",
-    "depth": null,
+    "depth": 28,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": "Intermediate",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "area": "yes",
       "historic": "wreck",
@@ -2787,7 +3103,9 @@
       "wikidata": "Q5630838",
       "wikipedia": "en:HMCS Longueuil (K672)",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -2796,10 +3114,10 @@
     "lon": -125.9587111,
     "osm_id": 817763094,
     "osm_type": "way",
-    "depth": null,
+    "depth": 28,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": "Intermediate",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "area": "yes",
       "historic": "wreck",
@@ -2808,7 +3126,9 @@
       "wikidata": "Q16995900",
       "wikipedia": "en:HMCS Lasalle",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -2817,9 +3137,9 @@
     "lon": -122.713943,
     "osm_id": 844904383,
     "osm_type": "way",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "gnis:feature_id": "1506112",
@@ -2827,7 +3147,9 @@
       "natural": "reef",
       "source": "osm_extended",
       "wikidata": "Q49618325",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -2836,15 +3158,17 @@
     "lon": -123.3487307,
     "osm_id": 977990342,
     "osm_type": "way",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Collinson Reef",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -2853,16 +3177,18 @@
     "lon": -123.046361,
     "osm_id": 1198854415,
     "osm_type": "way",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Mouatt Reef",
       "natural": "reef",
       "wikidata": "Q49619403",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -2871,15 +3197,17 @@
     "lon": -122.8933075,
     "osm_id": 1198856783,
     "osm_type": "way",
-    "depth": null,
-    "site_type": "reef",
-    "entry_type": null,
+    "depth": 12,
+    "site_type": "kelp",
+    "entry_type": "shore",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Parker Reef",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -2888,9 +3216,9 @@
     "lon": -124.9488236,
     "osm_id": 1304387925,
     "osm_type": "way",
-    "depth": null,
-    "site_type": "wreck",
-    "entry_type": null,
+    "depth": 12,
+    "site_type": "kelp",
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "description": "Early 1900s barquentine lumber freighter sank as a breakwater",
@@ -2902,7 +3230,9 @@
       "wreck:date_sunk": "1950s",
       "wreck:visible_at_high_tide": "yes",
       "wreck:visible_at_low_tide": "yes",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -2911,9 +3241,9 @@
     "lon": -122.7142894,
     "osm_id": 1467715296,
     "osm_type": "way",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "gnis:feature_id": "1504442",
@@ -2921,7 +3251,9 @@
       "natural": "reef",
       "source": "osm_extended",
       "wikidata": "Q49615627",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -2930,9 +3262,9 @@
     "lon": -122.8309846,
     "osm_id": 1469542009,
     "osm_type": "way",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "gnis:feature_id": "1533334",
@@ -2940,7 +3272,9 @@
       "natural": "reef",
       "source": "osm_extended",
       "wikidata": "Q49613115",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -2949,9 +3283,9 @@
     "lon": -122.6777526,
     "osm_id": 1469826239,
     "osm_type": "way",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "gnis:feature_id": "1503136",
@@ -2959,7 +3293,9 @@
       "natural": "reef",
       "source": "osm_extended",
       "wikidata": "Q49613352",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -2968,17 +3304,19 @@
     "lon": -122.7224932,
     "osm_id": 1470400960,
     "osm_type": "way",
-    "depth": null,
-    "site_type": "reef",
-    "entry_type": null,
-    "difficulty": "Intermediate",
+    "depth": 28,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "gnis:feature_id": "1504311",
       "name": "Cypress Reef",
       "natural": "reef",
       "source": "osm_extended",
       "wikidata": "Q49615500",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -2987,9 +3325,9 @@
     "lon": -122.7301123,
     "osm_id": 1470402223,
     "osm_type": "way",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "gnis:feature_id": "1503611",
@@ -2997,7 +3335,9 @@
       "natural": "reef",
       "source": "osm_extended",
       "wikidata": "Q49614367",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -3006,9 +3346,9 @@
     "lon": -122.690753,
     "osm_id": 1470404677,
     "osm_type": "way",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "gnis:feature_id": "1503491",
@@ -3016,7 +3356,9 @@
       "natural": "reef",
       "source": "osm_extended",
       "wikidata": "Q49614145",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -3025,17 +3367,19 @@
     "lon": -122.6533759,
     "osm_id": 1471817869,
     "osm_type": "way",
-    "depth": null,
+    "depth": 30,
     "site_type": "wall",
-    "entry_type": null,
-    "difficulty": "Intermediate",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "gnis:feature_id": "1531687",
       "name": "Yellow Bluff Reef",
       "natural": "reef",
       "source": "osm_extended",
       "wikidata": "Q49624025",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   }
 ]

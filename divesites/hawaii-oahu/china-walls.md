@@ -3,9 +3,9 @@ name: China Walls
 lat: 21.2613639
 lng: -157.7117049
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
-siteType: reef
+maxDepth: 42
+entryType: boat
+siteType: wall
 ref: null
 osmId: 3274026475
 addedBy: osm_import
@@ -13,26 +13,31 @@ addedBy: osm_import
 
 ## China Walls
 
-China Walls is a reef dive site in Hawaii - Oahu, Pacific.
+China Walls is a dramatic wall dive on Oahu's southeast shore with caves, ledges, and treacherous surface conditions that make it infamous for both breathtaking beauty and dangerous currents.
 
 ## Overview
 
-China Walls is a dive site in Hawaii - Oahu offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Located on Oahu's southeast shore in the Portlock area, China Walls is a 35-50 foot wall dive featuring a variety of caves and ledges to explore. The dive follows the cliff wall in an out-and-back pattern, generally swimming south then southeast against the current. The site is best done by boat due to the challenging entry conditions and dangerous shore conditions.
 
 ## Site Information
 
-- **Location**: Hawaii - Oahu, Pacific
-- **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Location**: Southeast shore of Oahu (Portlock area)
+- **Entry Type**: Boat dive
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Maximum Depth**: 42 meters
+- **Typical Visibility**: Variable, can drop significantly near entry/exit
+- **Current**: Against current on descent (out-and-back navigation)
+- **Best Time**: Year-round when ocean conditions permit
+- **Special Features**: Caves, ledges, sheer walls
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Green sea turtles, moray eels, and occasionally spotted eagle rays are regularly sighted at this dive site. The wall structure provides excellent habitat for various reef fish and invertebrates.
+
+## Safety and Access
+
+China Walls is infamous in Hawaii for its breathtaking beauty coupled with treacherous waters. Numerous fatalities have occurred at the site due to unpredictable and dangerous ocean conditions. Waves frequently batter the cliffs, and visibility near entry/exit areas can drop significantly. The site requires athleticism for entry and exit and is NOT recommended for divers with limited mobility or injuries. A giant stride entry of 2-5 feet is typical depending on tide and location. Exit requires using natural foot and hand holds plus swells to lift out of the water. This is a serious dive for experienced divers only.
 
 ## Dive Profile
 

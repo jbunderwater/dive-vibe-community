@@ -2,7 +2,7 @@
 name: Long Lava Tube
 lat: 19.5833
 lng: -155.975
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 12
 entryType: boat
 siteType: cave
@@ -13,55 +13,74 @@ addedBy: osm_import
 
 ## Long Lava Tube
 
-Long Lava Tube is a cave dive site in Hawaii Big Island, Pacific.
+An extended underwater cavern system showcasing the dramatic geology of Kona's volcanic past, Long Lava Tube features interconnected chambers, dramatic lighting effects through skylights, and a rich ecosystem adapted to cave living.
 
 ## Overview
 
-Long Lava Tube is a dive site in Hawaii Big Island featuring underwater cave and cavern formations. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Long Lava Tube is a boat dive site featuring an extended lava cavern system with multiple chambers and passages. The site is named for its length and the substantial cave passages that traverse the reef. Unlike some volcanic sites that are more scenic formations on open reef, Long Lava Tube emphasizes the actual cavern exploration experience while remaining accessible to intermediate divers without advanced cave training.
 
 ## Site Information
 
-- **Location**: Hawaii Big Island, Pacific
+- **Location**: Kona Coast
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
-- **Difficulty Level**: Beginner
+- **Site Type**: Cave/cavern
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 12 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
+- **Typical Visibility**: 15-25 meters (50-80 feet)
+- **Water Temperature**: 26-28°C (78-82°F)
 - **Best Time**: April to November
+
+## Cavern Features
+
+The site features flat, vast cavern chambers with low ceilings typical of lava tube formations. Most chambers remain only a couple of meters away from open water, keeping them in the "cavern zone" (penetration without specialized training). Natural skylights allow sunlight to penetrate, creating dramatic lighting effects and reducing disorientation concerns. The tunnel structure creates an intuitive pathways to navigate, with clear visual landmarks.
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+The cave environment hosts a specialized ecosystem of low-light adapted species. Crustaceans are abundant, including large spiny lobsters, tiny transparent shrimp, and various crabs. Porcupine pufferfish are frequently encountered in the caverns. Small fish species shelter in the overhangs. Octopus are occasionally seen. The darkness provides excellent habitat for nocturnal species.
 
-## Dive Profile
+## Diving the Site
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Entry is typically at the cave mouth on the reef. Divers descend and navigate through the primary passage and interconnected chambers. With good buoyancy control and steady movement, navigation is straightforward. Experienced divemasters manage the group to prevent contact with cave ceilings or walls. Descent into the darker inner chambers requires good lighting. Return is via the same route, maintaining safe buoyancy throughout.
 
-## Entry and Exit
+## Lighting and Photography
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Bring quality underwater lights—essential for safe navigation and photography. Lights illuminate the true colors of crustaceans and reef life (which appear nearly colorless in darkness). The natural skylights create dramatic contrast between lit and dark areas, offering excellent compositional opportunities. Cave formations photograph well with wide-angle setups.
+
+## Technical Aspects
+
+This site requires better buoyancy and spatial awareness than open-water reef dives. Cavern navigation, while not requiring advanced cave training, demands attention to positioning and awareness of the overhead environment. Newer divers should get oriented with better fundamentals before attempting deep cavern dives.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- **Lighting is essential**: Bring your own quality light in addition to any provided by operators
+- **Buoyancy practice**: Practice excellent mid-water buoyancy control before the dive
+- **Respect the ceiling**: Never force contact with cave formations
+- **Stay with the group**: Separation in cavern systems can lead to disorientation
+- **Clear hand signals**: Establish communication protocols with your buddy before descent
+- **Macro photography**: Bring close-focus lenses for crustacean photography
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+- Intermediate certification or advanced Open Water with cavern experience recommended
+- Maintain excellent buoyancy to avoid contact with cave ceiling and walls
+- Bring backup lighting in addition to primary dive light
+- Use a surface signaling device when returning to the boat
+- Stay with your divemaster and buddy at all times
+- Do not penetrate beyond light-penetrating areas into full darkness
+- Be aware of limited visibility in dark chambers; stay calm and move deliberately
+- Ascend in a controlled manner with proper safety stops
 
-## Photography
+## Entry Requirements
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+This is not a beginner site. Divers should have solid Open Water fundamentals, good buoyancy control, and prior cavern-adjacent diving experience. If you're hesitant about cavern diving, consider doing several open-water lava reef dives first to build confidence.
+
+## Why Long Lava Tube?
+
+This site offers a unique diving experience showcasing Hawaii's volcanic geology from the interior, with dramatic cavern features and specialized marine life. It's a step beyond standard reef diving but remains accessible without technical cave training.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was researched from Kona cavern diving guides, lava tube diving resources, and Kona dive operator reviews. Last updated 2026-03-16.*

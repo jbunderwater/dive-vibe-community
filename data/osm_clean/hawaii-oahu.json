@@ -5,15 +5,17 @@
     "lon": -157.7117049,
     "osm_id": 3274026475,
     "osm_type": "node",
-    "depth": null,
-    "site_type": "reef",
-    "entry_type": null,
+    "depth": 42,
+    "site_type": "wall",
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "China Walls",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -22,15 +24,17 @@
     "lon": -157.6718538,
     "osm_id": 6527650958,
     "osm_type": "node",
-    "depth": null,
+    "depth": 35,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Half Point",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -39,15 +43,17 @@
     "lon": -157.6700745,
     "osm_id": 6527650959,
     "osm_type": "node",
-    "depth": null,
+    "depth": 35,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Full Point",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -56,15 +62,18 @@
     "lon": -157.8412477,
     "osm_id": 10703353556,
     "osm_type": "node",
-    "depth": null,
+    "depth": 35,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Turtle Alley",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "web_research",
+      "marine_life": "Hawaiian green sea turtles, reef fish"
     }
   },
   {
@@ -73,15 +82,17 @@
     "lon": -157.8393891,
     "osm_id": 10703353557,
     "osm_type": "node",
-    "depth": null,
+    "depth": 45,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": "Intermediate",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Turtle Canyon",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -90,16 +101,18 @@
     "lon": -157.8105985,
     "osm_id": 1068704684,
     "osm_type": "way",
-    "depth": null,
+    "depth": 3,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": "Intermediate",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Kaneohe Sandbar",
       "natural": "reef",
       "reef": "sand",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -108,10 +121,10 @@
     "lon": -158.0384924,
     "osm_id": 1255992015,
     "osm_type": "way",
-    "depth": null,
+    "depth": 20,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": "Intermediate",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
     "tags": {
       "area": "yes",
       "biotic_reef:type": "fringing",
@@ -122,7 +135,9 @@
       "seamark:obstruction:water_level": "submerged",
       "seamark:type": "obstruction",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -131,10 +146,10 @@
     "lon": -157.9371492,
     "osm_id": 1263209380,
     "osm_type": "way",
-    "depth": null,
+    "depth": 25,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": "Intermediate",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
     "tags": {
       "area": "yes",
       "biotic_reef:type": "fringing",
@@ -145,7 +160,9 @@
       "seamark:obstruction:water_level": "submerged",
       "seamark:type": "obstruction",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -154,13 +171,13 @@
     "lon": -157.9970834,
     "osm_id": 1264959511,
     "osm_type": "way",
-    "depth": null,
+    "depth": 29,
     "site_type": "wreck",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "building": "ship",
-      "description": "US Navy WWII tank landing ship sunk during accidental explosion.",
+      "description": "US Navy WWII tank landing ship sunk during West Loch disaster, May 1944.",
       "historic": "wreck",
       "name": "USS LST-480",
       "seamark:type": "wreck",
@@ -173,7 +190,9 @@
       "wreck:visible_at_high_tide": "yes",
       "wreck:visible_at_low_tide": "yes",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -186,7 +205,10 @@
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research",
+      "description": "WWII-era Navy refueling vessel (165 ft), 100 ft deep with strong currents. Full penetration opportunities."
     }
   },
   {
@@ -199,7 +221,10 @@
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research",
+      "description": "51m freighter sunk 1999. 110 ft deep with excellent visibility. Eagle rays, reef sharks, nudibranchs common."
     }
   },
   {
@@ -212,7 +237,10 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research",
+      "description": "Navy minesweeper (63m), upright in 60-95 ft water. No penetration—collapsed areas. Famous for eagle rays."
     }
   },
   {
@@ -225,7 +253,10 @@
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research",
+      "description": "Vought F4U WWII fighter plane (115 ft). Fully intact, upright on sandy bottom. Garden eels, jacks, stingrays."
     }
   },
   {
@@ -238,7 +269,10 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research",
+      "description": "Japanese fishing vessel (90 ft), intentionally sunk 1996. Main deck 60 ft. Beginner wreck dive with cargo holds. Turtles, eagle rays common."
     }
   },
   {
@@ -251,7 +285,10 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research",
+      "description": "North Shore shore dive with lava formations, caves, and swim-throughs. Summer only (May-Sept). Rocky entry, sea urchins in crevices."
     }
   },
   {
@@ -264,7 +301,10 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research",
+      "description": "Shallow lava shelf with three rock formations. Lava tubes, ledges, and arches. Summer only (May-Sept). Whitetip reef sharks, colorful fish, occasional turtles."
     }
   },
   {
@@ -277,7 +317,10 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research",
+      "description": "Warm water effluent from power plant attracts marine life. Dolphins, sea turtles, eagle rays. Strong currents offshore. Free access, sandy beach entry."
     }
   },
   {
@@ -290,7 +333,10 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research",
+      "description": "Protected marine preserve in volcanic crater. 400+ fish species, Hawaiian green turtles. Closed Mon-Tue, 48-hour reservation required. $25 entry fee."
     }
   },
   {
@@ -303,7 +349,10 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research",
+      "description": "Interconnected lava tubes on West Shore. Fun swim-throughs in shallow water. Turtles, pufferfish, spiney lobsters, whitetip sharks. Dive light required."
     }
   }
 ]

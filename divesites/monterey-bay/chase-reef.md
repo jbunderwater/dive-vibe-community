@@ -4,62 +4,95 @@ lat: 36.617
 lng: -121.905
 difficulty: Intermediate
 maxDepth: 20
-entryType: shore
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
 addedBy: osm_import
+validated: true
 ---
 
 ## Chase Reef
 
-Chase Reef is a reef dive site in Monterey Bay, North America.
+Chase Reef is a boat-accessible reef dive with healthy invertebrate coverage, colorful anemones, fish-eating anemones, and moderate boat traffic considerations in Monterey Bay.
 
 ## Overview
 
-Chase Reef is a dive site in Monterey Bay offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Chase Reef is located offshore from the northern tip of the Monterey Peninsula between Point Pinos and Coral Street Beach. Named for the Chase family (honored for philanthropy by bestowing their name on a Pacific Grove park and this reef), Chase Reef features colorful rocky ledges with red strawberry anemones, orange and yellow sponges, and orange bryozoans. Access is by boat only.
 
 ## Site Information
 
-- **Location**: Monterey Bay, North America
-- **Entry Type**: Shore entry
+- **Location**: Offshore from Coral Street Beach, Pacific Grove (36°38.045′ N, 121°55.135′ W)
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Typical Visibility**: 10-20 meters (30-65 feet)
+- **Water Temperature**: 10-13°C (50-55°F) — requires 5-7mm wetsuit
+- **Current**: Moderate, watch for thick kelp and surge
+- **Boat Access**: Monterey Breakwater or Fisherman's Wharf launch areas
+- **Best Time**: Calm days with minimal surge
 
-## Marine Life
+## Reef Structure and Diving
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Chase Reef is composed of two distinct sections:
+
+**Inner Reef**: Begins 200-300 yards offshore from Coral Street Beach, consisting of a series of rocky ledges and pinnacles that drop from 30 feet to a sand bottom in 50-60 feet of water. This is the more accessible section suitable for intermediate divers.
+
+**Outer Reef**: Located in deeper water (40-110 feet) further offshore and north of Point Pinos. Access is by boat only. More advanced diving.
+
+## Marine Life and Features
+
+The reef is covered with healthy growth of invertebrates, including:
+- Bright red strawberry anemones
+- Red, orange, and yellow sponges
+- Orange bryozoans
+- Large fish-eating anemones (conspicuous by their bright red base and impressive size)
+
+The robust invertebrate coverage and healthy reef ecology make this a colorful dive destination.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Boat operators typically drop divers at the Inner Reef section (depths 30-50 feet). Navigate the rocky ledges and pinnacles, exploring the diverse invertebrate coverage. The sand bottom at 50-60 feet provides a safe depth limit for intermediate divers. Ascend along the rocky structures back to shallower depths.
 
-## Entry and Exit
+## Access and Boat Operators
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Access is exclusively by boat. Boats launch from:
+- Monterey Breakwater
+- Fisherman's Wharf
+- Between Fisherman's Wharf and Wharf #2
+
+Local dive operators regularly visit Chase Reef. Book through established Monterey dive operators familiar with the site and current conditions.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Watch for thick kelp—surge and kelp interaction requires good awareness
+- Bring cameras to photograph the colorful anemone and sponge coverage
+- Monitor boat traffic in the area
+- Follow dive operator briefing for descent and ascent procedures
+- This is an excellent intermediate reef dive with good biodiversity
+
+## Conditions and Hazards
+
+**Kelp**: Thick kelp is a common hazard—watch for strong surge interaction with kelp that can cause disorientation.
+
+**Boat Traffic**: This is an active boating area—monitor surface conditions and use an SMB for boat crew awareness on ascent.
+
+**Current**: Moderate currents are common. Monitor your position and be prepared for changes.
+
+## Cold Water Considerations
+
+Monterey's 50-55°F water at 20 meters demands proper thermal protection (5-7mm wetsuits). The moderate depths and reef structure make this an excellent intermediate cold-water diving site.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Always deploy an SMB on ascent for boat crew awareness. Maintain buddy contact throughout, particularly when navigating kelp. Watch for current changes. Follow the dive operator's briefing for descent and ascent procedures. Only dive on days with suitable conditions for the boat—sea state and visibility matter.
 
 ## Additional Resources
 
+- **Monterey Breakwater**: Boat launch point
 - **Last Updated**: 2026-03-16
+- **Validation Source**: Perplexity research, California Diving News, dive guides
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*Chase Reef is a solid intermediate boat dive with healthy invertebrate populations. Updated 2026-03-16.*

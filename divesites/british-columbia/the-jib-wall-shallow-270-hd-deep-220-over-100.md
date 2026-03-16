@@ -2,9 +2,9 @@
 name: The jib wall: shallow 270 HD deep 220 over 100'
 lat: 49.3067913
 lng: -124.2069556
-difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+difficulty: Advanced
+maxDepth: 30
+entryType: boat
 siteType: wall
 ref: null
 osmId: 11732411243
@@ -22,10 +22,10 @@ The jib wall: shallow 270 HD deep 220 over 100' is a dive site in British Columb
 ## Site Information
 
 - **Location**: British Columbia, North America
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 5-25 meters (15-80 feet)
 - **Current**: Variable, can be strong
 - **Best Time**: June to October

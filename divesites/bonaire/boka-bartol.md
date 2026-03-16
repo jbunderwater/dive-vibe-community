@@ -2,8 +2,8 @@
 name: Boka Bartol
 lat: 12.3048091
 lng: -68.3975477
-difficulty: Beginner
-maxDepth: 30
+difficulty: Intermediate
+maxDepth: 20
 entryType: shore
 siteType: reef
 ref: 
@@ -20,8 +20,8 @@ Boka Bartol is a beautiful dive site located in northern Bonaire near Washington
 - **Location**: North Bonaire (near Washington Slagbaai National Park)
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 30 meters
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-30 meters
 - **Current**: Usually light
 - **Best Time**: Morning to early afternoon

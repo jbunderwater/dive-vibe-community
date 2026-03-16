@@ -2,8 +2,8 @@
 name: Bahia Damas
 lat: 7.5
 lng: -81.78
-difficulty: Intermediate
-maxDepth: 18
+difficulty: Advanced
+maxDepth: 30
 entryType: boat
 siteType: reef
 ref: null
@@ -13,54 +13,63 @@ addedBy: osm_import
 
 ## Bahia Damas
 
-Bahia Damas is a reef dive site in Coiba National Park, South America.
+Bahia Damas is Central America's largest coral reef and the second-largest in the eastern Pacific, featuring vast hard and soft coral gardens hosting extraordinary biodiversity.
 
 ## Overview
 
-Bahia Damas is a dive site in Coiba National Park offering rewarding diving on healthy coral reef structures. Located in the South America region, this site offers 10-25 meters of visibility with water temperatures averaging 15-26°C.
+Located along Coiba Island's eastern shore, Bahia Damas Reef is a UNESCO World Heritage site supporting immense fish schools and 33 shark species. This reef system is over 5,000 years old with some coral colonies spanning centuries. Massive hard and soft coral structures create pinnacle formations across variable depths. Water temperatures range from 24-29°C with visibility typically 15-25 meters, though plankton-rich upwelling (January-April) occasionally reduces viz while attracting pelagic megafauna (whale sharks, giant mantas, humpback whales). Strong variable currents demand solid Advanced technique and awareness.
 
 ## Site Information
 
-- **Location**: Coiba National Park, South America
+- **Location**: Eastern Coiba Island, Panama (90 minutes by lancha from Santa Catalina)
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 10-25 meters (30-80 feet)
-- **Current**: Moderate to strong
-- **Best Time**: June to November
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 30 meters
+- **Typical Visibility**: 15-25 meters (50-80 feet)
+- **Current**: Variable to strong (plan drift diving)
+- **Water Temperature**: 24-29°C (75-84°F)
+- **Best Time**: January-April for pelagics; December-April for calmer conditions
 
 ## Marine Life
 
-Divers at this site can expect to encounter hammerhead sharks, whale sharks, sea lions, marine iguanas, manta rays, eagle rays, sea turtles, dolphins. Additional species commonly sighted include penguins, moray eels.
+Bahia Damas supports 33 shark species including bull sharks, whale sharks (seasonal), oceanic blacktips, and reef sharks in enormous schools. Pelagic megafauna include giant manta rays, eagle rays, and seasonal humpback whales. Healthy hard and soft coral gardens host massive fish schools (snappers, jacks, barracuda, fusiliers). This is one of the world's richest reef ecosystems.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend into the coral pinnacle formations and explore at depths from 15-30 meters depending on current strength and profile depth. Navigate among massive coral structures, allowing natural currents to guide drift diving approach. Time in upper coral zones (15-20m) provides optimal balance of light, air consumption, and marine life encounters. Multiple dives over multi-day liveaboard trips allow exploration of different reef sections and depth profiles.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat entry from lancha positioned upwind of reef. Giant stride or back roll entry before descent to reef top (15m). Anticipate current direction from crew briefing; descent may be steep depending on flow. Follow natural drift along reef structure. Ascent via SMB signal coordinated with boat; final 5-meter safety stop in water column with crew visual confirmation.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Book only with UNESCO-aware operators respecting Coiba's Protected Area status
+- Bring excellent wide-angle lens for coral structure and baitball photography
+- Schedule Bahia Damas dives for acclimated days (not first day post-travel)
+- Monitor air consumption carefully; currents can push some divers to higher consumption
+- Expect 33+ shark species; remain calm and follow crew shark-safety protocols
+- Respect ancient coral—avoid touching, holding, or kneeling on reef
 
 ## Safety Considerations
 
-Be aware of strong currents, cold thermoclines, surge in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Variable currents demand solid buoyancy and streamlined profile. Strong current days may warrant experienced-divers-only dives. Cold thermoclines below 20m warrant thermal protection. Shark presence is overwhelming—fear is normal; education helps. Maintain buddy contact and communicate regularly. Abort dive if overwhelmed by current, shark density, or personal limits; no shame in surface safely.
 
-## Photography
+## Seasonal Notes
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+**January-April (Peak Season)**: Upwelling brings cold (24°C) plankton-rich water attracting whale sharks, giant mantas, humpbacks, and maximum shark diversity. Visibility reduced by plankton but fish feeding activity intense. North winds create rougher seas; rougher morning conditions, calmer afternoons common.
+
+**May-November**: Warmer surface water (27-29°C), clearer visibility, calmer seas. Fewer pelagic megafauna but reef sharks and fish still abundant. Optimal conditions for photography and easier diving.
+
+## Conservation Note
+
+Bahia Damas is a UNESCO World Heritage Site. All divers are ambassadors; report reef damage or illegal fishing to operators immediately.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-03-16
+- **Validation Source**: Perplexity research (March 2026)
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*Dive site information researched March 2026. Updated with biodiversity and conservation-focused data for this UNESCO reef.*

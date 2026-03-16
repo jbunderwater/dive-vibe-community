@@ -2,7 +2,7 @@
 name: Nukove
 lat: 12.2407008
 lng: -68.4128282
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 30
 entryType: shore
 siteType: reef
@@ -20,7 +20,7 @@ Nukove is a beautiful dive site located in northern Bonaire near Washington Slag
 - **Location**: North Bonaire (near Washington Slagbaai National Park)
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-30 meters
 - **Current**: Usually light

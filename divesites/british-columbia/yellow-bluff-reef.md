@@ -2,9 +2,9 @@
 name: Yellow Bluff Reef
 lat: 48.5363465
 lng: -122.6533759
-difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+difficulty: Advanced
+maxDepth: 30
+entryType: boat
 siteType: wall
 ref: null
 osmId: 1471817869
@@ -22,10 +22,10 @@ Yellow Bluff Reef is a dive site in British Columbia featuring a dramatic vertic
 ## Site Information
 
 - **Location**: British Columbia, North America
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 5-25 meters (15-80 feet)
 - **Current**: Variable, can be strong
 - **Best Time**: June to October

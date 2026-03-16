@@ -2,9 +2,9 @@
 name: HMCS Annapolis
 lat: 49.4492839
 lng: -123.330204
-difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+difficulty: Advanced
+maxDepth: 46
+entryType: boat
 siteType: wreck
 ref: null
 osmId: 8526894453
@@ -13,47 +13,90 @@ addedBy: osm_import
 
 ## HMCS Annapolis
 
-HMCS Annapolis is a historic wreck dive in British Columbia, North America.
+HMCS Annapolis is a 111-meter Canadian naval destroyer deliberately sunk in 2015 to create an artificial reef in Halkett Bay Marine Park off Gambier Island, British Columbia.
 
 ## Overview
 
-HMCS Annapolis is a dive site in British Columbia featuring the wreck of the HMCS Annapolis which sank in 4 April 2015. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+HMCS Annapolis was a St. Laurent-class destroyer that served the Royal Canadian Navy from 1955 onwards. The ship was scuttled on April 4, 2015 by the Artificial Reef Society of British Columbia in one of Canada's most ambitious artificial reef projects. Unlike many HMCS wrecks, the Annapolis was specially prepared for diving with large hull cutaways, safe penetration routes, and walkways making it accessible to divers of various skill levels while maintaining Advanced-level technical requirements due to depth.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
-- **Entry Type**: Shore entry
-- **Site Type**: Wreck
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Location**: Halkett Bay Marine Park, Gambier Island, Howe Sound, British Columbia
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 46 meters
+- **Typical Visibility**: 8-15 meters
+- **Current**: Moderate, manageable
+- **Best Time**: June to September
+- **Water Temperature**: 8-12°C (cold water diving required)
+
+## Ship Specifications
+
+- **Type**: St. Laurent-class destroyer
+- **Length**: 111 meters
+- **Tonnage**: 2,800 tons
+- **Built**: 1955
+- **Service**: Royal Canadian Navy (1955-1974), Canadian Coast Guard vessel
+
+## Wreck Characteristics
+
+The Annapolis rests upright on the seabed in Halkett Bay. Unlike many accessible wrecks, this vessel was deliberately prepared for recreational diving:
+- Large hull cutaways engineered for safe interior viewing without specialized wreck training
+- Covered walkways on both sides
+- Open helicopter hangar accessible to recreational divers
+- Strategically-cut openings prevent entanglement hazards
+- Shallow highest point (10.5m) allows decompression and profile flexibility
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The wreck has become a thriving marine habitat:
+- Wolf eels
+- Giant Pacific octopus
+- Lingcod and various rockfish species
+- Sea urchins and anemones
+- Nudibranchs in seasonal abundance
+- Occasional seals and sea lions
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 25 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+- Descent via shot line to wreck (2-4 minutes)
+- Exterior exploration at 35-46m (15-20 minute bottom time typical)
+- Optional interior exploration through cutaway sections (with experienced guide)
+- Helicopter hangar exploration (recreational depth)
+- Ascent to 5m for extended safety stop (5+ minutes recommended)
+- Decompress at safety stop due to depth
 
-## Entry and Exit
+## Penetration Diving
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Interior exploration of the Annapolis is possible for divers with:
+- Advanced Wreck Diver certification minimum
+- Experience with technical equipment
+- Understanding of penetration protocols
+- Guided entry strongly recommended first visit
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Book with experienced local dive operators (Armstrong Diving, others)
+- Plan multi-level dive profile to manage air consumption
+- Bring high-capacity tank and/or stage bottles if planning penetration
+- Use dive torch for interior exploration and macro photography
+- Maintain excellent buoyancy to avoid silt stirring
+- The cutaway sections allow safe viewing without full penetration training
+- Cold water demands proper thermal protection and gradual adaptation
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+This is an Advanced wreck requiring:
+- Advanced Open Water minimum
+- Wreck Diver specialty strongly recommended
+- Cold water diving experience (8-12°C)
+- Maximum depth experience to 46m
+- Strong buoyancy control skills
+- Excellent air management for 30+ minute dives
+- Technical gear considerations for deep bottom time
+- Always dive with a buddy and use proper signaling devices
+- Surface marker buoy essential for boat communication
 
 ## Photography
 

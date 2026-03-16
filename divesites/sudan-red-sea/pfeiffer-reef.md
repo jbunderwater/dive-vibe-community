@@ -2,8 +2,8 @@
 name: Pfeiffer Reef
 lat: 21.5851974
 lng: 37.1018372
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Advanced
+maxDepth: 25
 entryType: boat
 siteType: reef
 ref: null
@@ -13,46 +13,48 @@ addedBy: osm_import
 
 ## Pfeiffer Reef
 
-Pfeiffer Reef is a reef dive site in Sudan Red Sea, Middle East.
+Pfeiffer Reef is an advanced-level coral reef dive on the return route of northern Sudan liveaboard itineraries, visited as part of expeditions to sites like Sha'ab Rumi and St. John's.
 
 ## Overview
 
-Pfeiffer Reef is a dive site in Sudan Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Pfeiffer Reef is one of Sudan's pristine, lesser-known coral reefs accessed exclusively via liveaboard diving safaris. The site showcases the remarkable biodiversity and exceptional visibility that make Sudan a premier dive destination. As a remote offshore reef, Pfeiffer sits in pristine, largely undiscovered waters rarely visited by recreational divers. The reef features healthy coral structures, abundant fish life, and strong currents typical of Sudan's deep Blue water environments. Divers should expect excellent visibility (25-40+ meters) and encounters with large pelagic species.
 
 ## Site Information
 
-- **Location**: Sudan Red Sea, Middle East
+- **Location**: Northern Sudan Red Sea, 50+ km offshore
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 25 meters
+- **Typical Visibility**: 25-40+ meters (80-130+ feet)
 - **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Best Time**: January to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Pfeiffer Reef is home to diverse marine life attracted by strong currents and pristine coral structures. Grey reef sharks, hammerheads, and occasional silvertip sharks patrol the reef edges. Massive schools of pelagic fish including tuna, jacks, and snappers are common. Napoleon wrasse, giant groupers, and moray eels shelter in reef crevices. Manta rays, eagle rays, and sea turtles are regularly encountered. The healthy coral reef supports abundant anthias, fusiliers, and other reef fish species.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin your descent on the reef slope and work along the reef face between 15-25 meters. The current often pushes divers along the reef structure, providing excellent drift diving opportunities. Most of the marine life aggregates at the reef edge where currents bring nutrient-rich water. Plan for good buoyancy control and be prepared to navigate moderate to strong current conditions. Ascending, use the reef structure for safety stop positioning.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is exclusively via liveaboard dive boat, typically as part of multi-day diving expeditions. Entry uses giant stride or back roll in moderate sea states. The boat follows the reef structure for descent and follows drift divers downstream. Deploy a high-visibility surface marker buoy (SMB) for safety stop signaling and boat pickup.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Pfeiffer is best suited for Advanced certified divers comfortable with current
+- Use a dive computer to monitor depth and plan decompression stops
+- Bring extra weight to maintain proper buoyancy in current
+- Underwater camera essential—this site offers exceptional photographic subjects
+- Book only with experienced Sudan liveaboard operators
+- Carry signaling mirror and high-visibility SMB
+- Check forecast for current direction before diving
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Strong currents are the defining feature of Pfeiffer Reef. Always dive with a buddy and abort the dive if currents exceed your comfort level. Fire coral, lionfish, and stinging hydroids are present—avoid touching reef. Pressure drops rapidly with depth—monitor depth gauge closely. The remote location means immediate evacuation is limited—only dive if you are confident in your abilities and health status.
 
 ## Photography
 

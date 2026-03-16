@@ -11,7 +11,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "The Cortez Club",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -20,41 +22,47 @@
     "lon": -109.5204339,
     "osm_id": 1461976052,
     "osm_type": "node",
-    "depth": null,
+    "depth": 25,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Shipwrecks",
       "seamark:type": "wreck",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
     "name": "Los Islotes",
     "lat": 24.595,
     "lon": -110.4,
-    "depth": 20,
+    "depth": 26,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
     "name": "El Bajo Seamount",
     "lat": 24.72,
     "lon": -110.3,
-    "depth": 30,
-    "site_type": "wall",
+    "depth": 40,
+    "site_type": "seamount",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -67,20 +75,24 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
     "name": "Salvatierra Wreck",
     "lat": 24.25,
     "lon": -110.03,
-    "depth": 18,
+    "depth": 19,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -93,7 +105,9 @@
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -106,7 +120,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -119,20 +135,24 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
     "name": "Fang Ming Wreck",
     "lat": 24.28,
     "lon": -110.05,
-    "depth": 20,
+    "depth": 22,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -140,12 +160,14 @@
     "lat": 25.1,
     "lon": -110.5,
     "depth": 28,
-    "site_type": "reef",
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -158,7 +180,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   }
 ]

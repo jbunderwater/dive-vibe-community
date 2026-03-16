@@ -13,26 +13,31 @@ addedBy: osm_import
 
 ## Corsair Plane Wreck
 
-Corsair Plane Wreck is a historic wreck dive in Hawaii - Oahu, Pacific.
+The Corsair is Hawaii's most iconic airplane wreck and one of the world's most photographed wreck dives—a fully intact WWII-era fighter plane sitting upright on a pristine sandy seafloor.
 
 ## Overview
 
-Corsair Plane Wreck is a dive site in Hawaii - Oahu featuring the wreck of the Corsair Plane Wreck. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Located approximately 3 miles offshore from Hawaii Kai marina on Oahu's southeast coast, the Corsair is a Vought F4U fighter plane that came to rest on the ocean floor in 1948 after a smooth water landing. The aircraft is 33 feet long, 16 feet high, with a distinctive 41-foot wingspan, and rests upright facing southwest with its tail pointing toward Koko Head. The plane remains completely intact—cockpit, tail, propeller, and fuselage all clearly visible—making it a dream dive for aviation and photography enthusiasts.
 
 ## Site Information
 
-- **Location**: Hawaii - Oahu, Pacific
+- **Location**: 3 miles offshore from Hawaii Kai (southeast Oahu)
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 32 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: Excellent
+- **Current**: Moderate
+- **Best Time**: May-September for calmest conditions
+- **Bottom Time**: ~15 minutes at depth with required decompression stops
 
 ## Marine Life
 
-Divers at this site can expect to encounter coral growth, anemones, lionfish, scorpionfish, glassy sweepers, manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks. Additional species commonly sighted include sea turtles, napoleon wrasse, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The sandy seafloor around the Corsair hosts garden eels, jacks, and stingrays. The aircraft structure itself has become colonized by marine invertebrates and provides shelter for various reef fish species.
+
+## Historical Context
+
+The Corsair was piloted by a seasoned aviator who, after his engines failed during a routine training mission, executed a perfect water landing with wheels up and flaps slightly extended. The pilot was rescued floating nearby in his lifejacket, and the aircraft remained undamaged until it eventually settled to the ocean floor.
 
 ## Dive Profile
 

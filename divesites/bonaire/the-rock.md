@@ -3,7 +3,7 @@ name: The Rock
 lat: 12.0760025
 lng: -68.2799587
 difficulty: Beginner
-maxDepth: 30
+maxDepth: 27
 entryType: shore
 siteType: reef
 ref: 
@@ -21,7 +21,7 @@ The Rock is a beautiful dive site located in southern Bonaire near Salt Pier. Th
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 30 meters
+- **Maximum Depth**: 27 meters
 - **Typical Visibility**: 20-30 meters
 - **Current**: Usually light
 - **Best Time**: Morning to early afternoon

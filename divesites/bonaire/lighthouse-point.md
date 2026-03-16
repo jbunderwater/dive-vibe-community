@@ -2,8 +2,8 @@
 name: Lighthouse Point
 lat: 12.1139501
 lng: -68.2952067
-difficulty: Beginner
-maxDepth: 30
+difficulty: Intermediate
+maxDepth: 25
 entryType: shore
 siteType: reef
 ref: 
@@ -20,8 +20,8 @@ Lighthouse Point is a beautiful dive site located in southern Bonaire near Punt 
 - **Location**: South Bonaire (near Punt Vierkant)
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 30 meters
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20-30 meters
 - **Current**: Usually light
 - **Best Time**: Morning to early afternoon

@@ -3,7 +3,7 @@ name: Elba Reef East (Southplateau)
 lat: 21.9827164
 lng: 37.0406829
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 16
 entryType: boat
 siteType: reef
 ref: null
@@ -25,7 +25,7 @@ Elba Reef East (Southplateau) is a dive site in Sudan Red Sea offering rewarding
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 16 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Moderate to strong
 - **Best Time**: September to May

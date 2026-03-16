@@ -2,8 +2,8 @@
 name: Airplane Wreck (Sunset Waters)
 lat: 12.266944
 lng: -69.1276576
-difficulty: Intermediate
-maxDepth: 8
+difficulty: Beginner
+maxDepth: 18
 entryType: Shore
 siteType: wreck
 ref: null
@@ -21,14 +21,14 @@ The Airplane Wreck at Sunset Waters offers a fascinating and accessible wreck di
 
 ## Site Information
 
-- **Location**: West coast near Sunset Waters Beach Club
-- **Entry Type**: Shore entry
+- **Location**: West coast, near Santa Martha Bay (Soto area)
+- **Entry Type**: Shore
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 8 meters (25 feet)
-- **Typical Visibility**: 15-20 meters (50-65 feet)
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 18 meters
+- **Typical Visibility**: 15-25 meters (50-80 feet)
 - **Current**: Usually minimal to none
-- **Best Time**: Year-round, excellent for training dives
+- **Best Time**: Year-round, excellent for training and beginners
 
 ## Marine Life
 
@@ -36,7 +36,7 @@ The airplane wreck has become an artificial reef attracting diverse marine life 
 
 ## Dive Profile
 
-The dive begins from shore in very shallow water (1-2 meters), making it extremely accessible for beginners. The airplane wreck sits at a maximum depth of 8 meters, allowing for extended bottom times and thorough exploration. The shallow depth makes it ideal for training dives, photography practice, and snorkeling. The wreck can be fully explored and circumnavigated multiple times during a single dive. The calm conditions and minimal depth changes make it perfect for practicing buoyancy skills and underwater navigation.
+Entry is from the beach near Santa Martha Bay in shallow water (1-2 meters). Divers swim across sandy bottom before encountering the airplane wreck at approximately 18 meters depth. The wreck provides excellent exploration opportunities with multiple access points and viewing angles. The shallow surrounding bottom allows for extended bottom times. The calm conditions and moderate depth make it ideal for beginner divers, training exercises, and underwater photography practice. The aircraft structure can be fully explored during a single dive.
 
 ## Entry and Exit
 

@@ -5,13 +5,16 @@
     "lon": -155.9703,
     "osm_id": null,
     "osm_type": null,
-    "depth": 12,
-    "site_type": "reef",
+    "depth": 9,
+    "site_type": "manta",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research",
+      "notes": "Iconic night dive, shallow sandy bottom, avg 5-6 mantas per dive, 80-90% success rate"
     }
   },
   {
@@ -20,13 +23,16 @@
     "lon": -155.9267,
     "osm_id": null,
     "osm_type": null,
-    "depth": 18,
+    "depth": 30,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research",
+      "notes": "Marine Life Conservation District, pristine reef, spinner dolphins, 100ft+ visibility"
     }
   },
   {
@@ -41,7 +47,10 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research",
+      "notes": "Harbor access point, departure for boat dives, accessible from shore"
     }
   },
   {
@@ -50,13 +59,16 @@
     "lon": -155.9694,
     "osm_id": null,
     "osm_type": null,
-    "depth": 10,
-    "site_type": "reef",
+    "depth": 9,
+    "site_type": "manta",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research",
+      "notes": "Also called Manta Ray Heaven, day/night site, garden eels during day, 70%+ manta sightings"
     }
   },
   {
@@ -65,13 +77,16 @@
     "lon": -156.0167,
     "osm_id": null,
     "osm_type": null,
-    "depth": 18,
-    "site_type": "reef",
+    "depth": 8,
+    "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research",
+      "notes": "40ft lava tube with surge effects, skylights, photo-friendly, surge-dependent"
     }
   },
   {
@@ -80,13 +95,16 @@
     "lon": -155.85,
     "osm_id": null,
     "osm_type": null,
-    "depth": 15,
+    "depth": 18,
     "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research",
+      "notes": "Extensive shore reef, lava tunnels, turtles, white-tip sharks, Kohala Coast access"
     }
   },
   {
@@ -95,13 +113,16 @@
     "lon": -155.8667,
     "osm_id": null,
     "osm_type": null,
-    "depth": 20,
-    "site_type": "reef",
+    "depth": 25,
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research",
+      "notes": "Lava tubes, arches, bommies, 600+ tropical fish species, dramatic formations"
     }
   },
   {
@@ -113,10 +134,13 @@
     "depth": 12,
     "site_type": "cave",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research",
+      "notes": "Extended lava cavern system, crustaceans, pufferfish, arches and skylights"
     }
   },
   {
@@ -132,7 +156,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": "true"
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -141,13 +166,16 @@
     "lon": -155.97,
     "osm_id": null,
     "osm_type": null,
-    "depth": 10,
-    "site_type": "reef",
+    "depth": 12,
+    "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research",
+      "notes": "Miloli'i Bay, basalt rock with grottoes, collapsed lava tubes, abundant turtles"
     }
   }
 ]

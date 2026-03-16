@@ -2,10 +2,10 @@
 name: Shaab Jimna
 lat: 19.441989
 lng: 37.7296579
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Advanced
+maxDepth: 28
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: 9721012613
 addedBy: osm_import
@@ -13,46 +13,47 @@ addedBy: osm_import
 
 ## Shaab Jimna
 
-Shaab Jimna is a reef dive site in Sudan Red Sea, Middle East.
+Shaab Jimna (also spelled Jibna or Jumna) is one of Sudan's most distinctive and highly regarded dive sites, famous for caves, reef walls, and extraordinary hammerhead shark aggregations. This pelagic-influenced reef sits over 50 km offshore southeast of Port Sudan.
 
 ## Overview
 
-Shaab Jimna is a dive site in Sudan Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Shaab Jimna is a quaint but dramatic dive site distinguished by caves winding through its reef structure and reef walls where fish dart through crevices. The site's primary draw is the potential for extraordinary encounters with large schools of hammerheads that cruise nearby, surrounding and amazing divers with the beauty and poetry of their movements. The pelagic location and offshore position create dynamic encounters with large sharks, schooling fish, and occasionally other large marine life. The caves add a sense of exploration and excitement beyond typical reef diving.
 
 ## Site Information
 
-- **Location**: Sudan Red Sea, Middle East
+- **Location**: 50+ km offshore, southeast of Port Sudan
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Site Type**: Wall dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 28 meters
+- **Typical Visibility**: 25-35 meters (80-115 feet)
 - **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Best Time**: January to May
 
-## Marine Life
+## Marine Life Highlights
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The signature attraction is schools of scalloped hammerhead sharks that often cruise the site in significant numbers. Pelagic location means encounters with large schooling fish, jacks, tuna, and barracuda. Reef sharks, manta rays, and occasional other large species add to the dynamic environment. Fish sheltering in reef crevices and caves include moray eels, groupers, and resident reef species. The hammerhead aggregation is best encountered during stronger current periods.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend along the reef wall or into the cave system depending on your dive guide's briefing. Most diving occurs between 15-28 meters. Caves provide opportunities for careful exploration; do not penetrate deeply without cave training. The reef edges offer best fish and shark encounters, particularly where currents are strongest. Hammerhead sightings are unpredictable but possible on any dive—watch the blue water beyond the reef. Buoyancy control is essential for navigating the wall and caves safely.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is exclusively via liveaboard dive boat. Entry typically uses giant stride in moderate to strong current. Descents follow the reef wall or guide into cave zones. Deploy a high-visibility surface marker buoy (SMB) during safety stops. The offshore location and strong currents mean careful coordination with the boat crew for pickup.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Bring underwater camera for potential hammerhead encounters
+- If attempting cave exploration, have cave training; do not penetrate beyond your comfort zone
+- Use a dive light for cave illumination and for signaling to your buddy
+- Excellent current requires good buoyancy control and weight distribution
+- Book with Sudan liveaboard operators experienced in Shaab Jimna conditions
+- Multiple dives at the site offer different encounters depending on current and time of day
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Strong offshore currents are significant and require advanced current management. The cave system adds navigation and entanglement risks—exploration is optional and requires caution. Fire coral, lionfish, and stinging hydroids are present. Nitrogen narcosis begins to affect judgment below 30m—stay above 28m. Abort cave exploration if visibility drops significantly or if you feel disoriented. Always dive with a buddy and carry redundant signaling devices (SMB and mirror).
 
 ## Photography
 

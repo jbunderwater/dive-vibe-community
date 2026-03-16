@@ -3,9 +3,9 @@ name: Kohala Coast
 lat: 19.9333
 lng: -155.8667
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 25
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,54 +13,77 @@ addedBy: osm_import
 
 ## Kohala Coast
 
-Kohala Coast is a reef dive site in Hawaii Big Island, Pacific.
+The Kohala Coast represents some of Hawaii's most dramatic and unique diving, featuring extensive lava formations, intricate caverns, and outstanding biodiversity. This is diving "off the beaten track" with a character distinct from the more popular Kona dive sites.
 
 ## Overview
 
-Kohala Coast is a dive site in Hawaii Big Island offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+The Kohala Coast encompasses multiple dive sites along the northern shore of Hawaii's Big Island, in the leeward (western) shadow of Kohala volcano—last erupted 120,000 years ago. The underwater landscape has been sculpted by ancient volcanic activity into a dramatic playground of lava tubes, arches, pinnacles (bommies), and walls. The best sites on the Kohala Coast are Black Point, Frog Rock, and Lava Dome, which are accessed primarily by boat from Kohala Divers and similar operators.
 
 ## Site Information
 
-- **Location**: Hawaii Big Island, Pacific
+- **Location**: Northwestern Big Island (Kohala Peninsula area)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Maximum Depth**: 25 meters
+- **Typical Visibility**: 15-25 meters (50-80 feet)
+- **Water Temperature**: 25-27°C (77-80°F)
+- **Best Time**: May to October (calmer conditions)
+
+## Geological Character
+
+The Kohala Coast's lava formations have been twisted and sculpted from molten magma into unique geological features: pinnacles, lava tubes, arches, and bommies (coral-encrusted rock formations). These structures have been encrusted by more than 50 species of Hawaii's stony coral colonies. The variety of depth zones creates a complex topography suitable for intermediate divers who enjoy navigation and geological exploration.
+
+## Key Dive Sites
+
+**Black Point**: Features a dramatic black lava wall and caverns, offering excellent navigation and exploration.
+
+**Frog Rock**: A pinnacle site with coral-encrusted lava formations and abundant fish life.
+
+**Lava Dome**: Features dome-shaped lava formations and cavern systems with excellent photo opportunities.
+
+**Kei Kei Caverns**: Located on the northwestern Kohala peninsula, featuring caves, caverns, and tunnels formed from ancient lava flows.
+
+**Puako**: Often considered the "heaven of the Kohala Coast," featuring lava tubes, garden eels, abundant fish, and frequent turtle encounters (accessible as shore dive).
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Over 600 species of tropical fish inhabit the Kohala Coast, with many species found nowhere else in the world. Unique species include snowball nudibranchs, marbled shrimps, and endemic Hawaiian fish. Sea turtles, octopus, reef sharks, and eels are commonly encountered. The cavern environment provides habitat for species adapted to low-light conditions.
 
-## Dive Profile
+## Diving the Kohala Coast
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Dives typically focus on navigation through pinnacles, exploration of lava formations, and cavern viewing (open water level, not technical cavern penetration). Buoyancy skills are important for maintaining position on depth and avoiding reef damage. The sites offer excellent opportunities for photography due to dramatic formations and good lighting in shallow areas.
 
-## Entry and Exit
+## Technical Requirements
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+The Kohala Coast requires better buoyancy and navigation skills than typical Kona dives. Cavern diving requires your best buoyancy skills. If you feel unsure, additional training is recommended before attempting Kohala Coast dives. This is not a beginner destination, though sites can be done by Open Water divers with good fundamentals.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- **Buoyancy practice**: Practice mid-water buoyancy control before these dives
+- **Lighting**: Bring quality lights to explore caverns and reveal true colors
+- **Navigation skills**: Compass bearings and natural landmarks aid orientation
+- **Photography**: Dramatic formations offer exceptional composition opportunities
+- **Book Kohala Divers**: Specialized operator for Kohala Coast diving
+- **Timing**: Best conditions early season (May-July); winter can be rougher
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+- Intermediate certification recommended (or equivalent experience with good fundamentals)
+- Maintain excellent buoyancy control; surging through caverns can disorient
+- Do not penetrate caverns beyond light-penetrating areas
+- Bring backup lighting and surface signaling devices
+- Be aware of currents; discuss conditions with operators beforehand
+- Allow adequate air for ascent and safety stops
+- Always dive with a buddy and stay with your divemaster group
 
-## Photography
+## Why Kohala Coast?
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+If you're bored with standard reef diving and want to experience Hawaii's unique volcanic diving character, the Kohala Coast delivers. The dramatic geology, unique species, and less-crowded conditions make this an excellent choice for intermediate divers seeking adventure beyond typical resort dives.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was researched from PADI Kohala diving guides, lava tube diving resources, and Kohala Divers operator information. Last updated 2026-03-16.*

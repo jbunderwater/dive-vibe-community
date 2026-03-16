@@ -2,8 +2,8 @@
 name: Playa Lagun
 lat: 12.3181345
 lng: -69.1508771
-difficulty: Intermediate
-maxDepth: 30
+difficulty: Beginner
+maxDepth: 25
 entryType: Shore
 siteType: reef
 ref: null
@@ -22,10 +22,10 @@ Playa Lagun is one of Curaçao's most beloved shore diving destinations, renowne
 ## Site Information
 
 - **Location**: Northwest coast, village of Lagun
-- **Entry Type**: Shore entry
+- **Entry Type**: Shore
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters (100 feet)
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20-30 meters (65-100 feet)
 - **Current**: Usually minimal to none
 - **Best Time**: Year-round, excellent for turtle encounters

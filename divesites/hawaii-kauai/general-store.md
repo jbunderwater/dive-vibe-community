@@ -3,7 +3,7 @@ name: General Store
 lat: 21.876
 lng: -159.445
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 80
 entryType: boat
 siteType: reef
 ref: null
@@ -13,26 +13,27 @@ addedBy: osm_import
 
 ## General Store
 
-General Store is a reef dive site in Hawaii - Kauai, Pacific.
+General Store is named for its plentiful fish selection and is a deeper drift dive located in Poipu that features ship wreckage and diverse marine life encounters.
 
 ## Overview
 
-General Store is a dive site in Hawaii - Kauai offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+General Store is a drift dive site on Kauai's South Shore, deeper than typical shore dives but accessible via boat. The site features remnants of ship wreckage amidst a productive reef environment. This is a current-dependent drift dive, requiring good buoyancy control and current awareness, but offering an exciting drift experience with diverse fish schools and macro opportunities. The plentiful and varied fish life justifies its "General Store" name.
 
 ## Site Information
 
-- **Location**: Hawaii - Kauai, Pacific
+- **Location**: Poipu area, South Shore, Kauai
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Maximum Depth**: 80 meters
+- **Typical Visibility**: 20-45 meters (65-150 feet)
+- **Current**: Moderate to strong (drift dive)
+- **Best Time**: May-September (calmer season)
+- **Water Temperature**: 24-27°C (75-81°F)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Black triggers, milletseed and pennant butterflyfish, white-tip reef sharks, spotted puffer, giant porcupine, lemon butterfly fish, helmet conch, octopus, sea turtles, eagle rays, and frogfish. The diverse selection includes both schooling fish and larger pelagic species that cruise the reef structures.
 
 ## Dive Profile
 

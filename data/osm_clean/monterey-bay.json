@@ -6,13 +6,15 @@
     "osm_id": 5163864,
     "osm_type": "relation",
     "depth": 20,
-    "site_type": "reef",
+    "site_type": "kelp",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Diving Area",
       "sport": "scuba_diving",
-      "type": "multipolygon"
+      "type": "multipolygon",
+      "validated": "true",
+      "validation_source": "perplexity_research"
     }
   },
   {
@@ -21,15 +23,17 @@
     "lon": -121.9420552,
     "osm_id": 79843825,
     "osm_type": "way",
-    "depth": null,
+    "depth": 35,
     "site_type": "wall",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Bluefish Wall",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity_research"
     }
   },
   {
@@ -37,12 +41,14 @@
     "lat": 36.614,
     "lon": -121.895,
     "depth": 18,
-    "site_type": "reef",
+    "site_type": "kelp",
     "entry_type": "shore",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "perplexity_research"
     }
   },
   {
@@ -50,77 +56,89 @@
     "lat": 36.618,
     "lon": -121.9,
     "depth": 15,
-    "site_type": "reef",
+    "site_type": "kelp",
     "entry_type": "shore",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "perplexity_research"
     }
   },
   {
     "name": "Lovers Point",
     "lat": 36.625,
     "lon": -121.915,
-    "depth": 12,
-    "site_type": "reef",
+    "depth": 21,
+    "site_type": "pinnacle",
     "entry_type": "shore",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "perplexity_research"
     }
   },
   {
     "name": "Point Lobos - Bluefish Cove",
     "lat": 36.52,
     "lon": -121.942,
-    "depth": 25,
-    "site_type": "reef",
+    "depth": 35,
+    "site_type": "wall",
     "entry_type": "shore",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "perplexity_research"
     }
   },
   {
     "name": "Point Lobos - Whalers Cove",
     "lat": 36.519,
     "lon": -121.938,
-    "depth": 20,
-    "site_type": "reef",
+    "depth": 21,
+    "site_type": "kelp",
     "entry_type": "shore",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "perplexity_research"
     }
   },
   {
     "name": "Monastery Beach",
     "lat": 36.524,
     "lon": -121.928,
-    "depth": 30,
+    "depth": 40,
     "site_type": "wall",
     "entry_type": "shore",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "perplexity_research"
     }
   },
   {
     "name": "Coral Street Beach",
     "lat": 36.63,
     "lon": -121.92,
-    "depth": 10,
-    "site_type": "reef",
+    "depth": 18,
+    "site_type": "kelp",
     "entry_type": "shore",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "perplexity_research"
     }
   },
   {
@@ -128,25 +146,29 @@
     "lat": 36.633,
     "lon": -121.925,
     "depth": 14,
-    "site_type": "reef",
+    "site_type": "kelp",
     "entry_type": "shore",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "perplexity_research"
     }
   },
   {
     "name": "Eric's Pinnacle",
     "lat": 36.612,
     "lon": -121.898,
-    "depth": 22,
-    "site_type": "wall",
+    "depth": 20,
+    "site_type": "pinnacle",
     "entry_type": "shore",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "perplexity_research"
     }
   },
   {
@@ -159,7 +181,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "perplexity_research"
     }
   },
   {
@@ -168,24 +192,28 @@
     "lon": -121.905,
     "depth": 20,
     "site_type": "reef",
-    "entry_type": "shore",
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "perplexity_research"
     }
   },
   {
     "name": "Aumentos Pinnacle",
     "lat": 36.616,
     "lon": -121.902,
-    "depth": 28,
-    "site_type": "wall",
+    "depth": 40,
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "perplexity_research"
     }
   }
 ]

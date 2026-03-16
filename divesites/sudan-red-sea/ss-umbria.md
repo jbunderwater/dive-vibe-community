@@ -3,7 +3,7 @@ name: SS Umbria
 lat: 19.6367128
 lng: 37.2906381
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 38
 entryType: boat
 siteType: wreck
 ref: null
@@ -23,9 +23,9 @@ SS Umbria is a dive site in Sudan Red Sea featuring a historic wreck which sank 
 
 - **Location**: Sudan Red Sea, Middle East
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 38 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Moderate to strong
 - **Best Time**: September to May

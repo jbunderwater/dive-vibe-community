@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## The Cortez Club
 
-The Cortez Club is a reef dive site in La Paz & Sea of Cortez, North America.
+The Cortez Club is a productive reef dive site close to La Paz offering consistent intermediate diving and good marine diversity.
 
 ## Overview
 
-The Cortez Club is a dive site in La Paz & Sea of Cortez offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The Cortez Club is a well-established reef dive site near La Paz, accessible from local dive operators as a convenient day dive. The site features healthy reef structures in the warm, clear waters of the Sea of Cortez. The site offers straightforward navigation and good visibility conditions, making it reliable for intermediate divers. The reef habitat supports abundant fish life and occasional pelagic visitors.
 
 ## Site Information
 
-- **Location**: La Paz & Sea of Cortez, North America
+- **Location**: Near La Paz, Sea of Cortez
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Typical Visibility**: 15-25 meters
+- **Current**: Mild to moderate
+- **Best Time**: July to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+The site features reef fish including snappers, groupers, jacks, and various damselfish and parrotfish species. Sea lions occasionally visit, and rays including eagle rays and mobula rays may be encountered. The reef structures are decorated with corals and sponges, providing macro subjects and habitat for crustaceans and nudibranchs. During peak season, whale sharks may be sighted in nearby offshore waters.
 
 ## Dive Profile
 

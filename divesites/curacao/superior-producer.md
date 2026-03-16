@@ -3,8 +3,8 @@ name: Superior Producer
 lat: 12.1042457
 lng: -68.9466568
 difficulty: Intermediate
-maxDepth: 30
-entryType: Shore and Boat
+maxDepth: 33
+entryType: Boat
 siteType: wreck
 ref: null
 osmId: null
@@ -17,18 +17,18 @@ The Superior Producer is Curaçao's most famous wreck dive, offering exceptional
 
 ## Overview
 
-The Superior Producer is considered one of the Caribbean's premier wreck diving destinations and consistently ranks among the world's best shipwreck dives. This 50-meter (165-foot) cargo vessel sank on September 30, 1977, and now rests upright on a sandy bottom at 30 meters (100 feet) depth. The wreck is located approximately 500 meters from shore near Willemstad's mega pier, making it accessible by both boat and adventurous shore divers. Over the decades, the ship has transformed into a thriving artificial reef, covered in colorful corals and sponges while attracting abundant marine life. The wreck's excellent preservation, easy penetration opportunities, and spectacular marine life make it a must-dive destination for advanced divers visiting Curaçao.
+The Superior Producer is one of the Caribbean's premier wreck diving destinations and consistently ranks among the world's best shipwreck dives. This 165-foot Dutch cargo ship sank on September 30, 1977, after encountering rough seas while leaving Willemstad harbor. The ship now rests upright at 33 meters (110 feet) depth, intact with its cargo holds and wheelhouse accessible for exploration. Over the decades, the wreck has transformed into a thriving artificial reef covered in colorful corals and sponges, attracting abundant marine life including Caribbean spiny lobsters, parrotfish, angelfish, turtles, and scorpionfish. The wreck's excellent preservation, accessible penetration opportunities, and spectacular marine life make it a premier destination for intermediate and advanced divers visiting Curaçao.
 
 ## Site Information
 
-- **Location**: Off Willemstad near the Mega Pier
-- **Entry Type**: Shore entry
+- **Location**: Off Willemstad near the Mega Pier (St. Anna Bay entrance)
+- **Entry Type**: Boat
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
+- **Maximum Depth**: 33 meters
 - **Typical Visibility**: 15-25 meters (50-80 feet)
-- **Current**: Usually minimal, can be moderate
-- **Best Time**: Year-round, avoid when cruise ships are docked
+- **Current**: Usually minimal to moderate
+- **Best Time**: Year-round, avoid cruise ship activity
 
 ## Marine Life
 

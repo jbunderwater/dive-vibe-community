@@ -3,9 +3,9 @@ name: Spring Bay
 lat: 48.455882
 lng: -123.268763
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
-siteType: reef
+maxDepth: 15
+entryType: boat
+siteType: muck
 ref: null
 osmId: 663869278
 addedBy: osm_import
@@ -22,10 +22,10 @@ Spring Bay is a dive site in British Columbia offering rewarding diving on healt
 ## Site Information
 
 - **Location**: British Columbia, North America
-- **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Entry Type**: Boat dive
+- **Site Type**: Muck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 15 meters
 - **Typical Visibility**: 5-25 meters (15-80 feet)
 - **Current**: Variable, can be strong
 - **Best Time**: June to October

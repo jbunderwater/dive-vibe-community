@@ -13,26 +13,31 @@ addedBy: osm_import
 
 ## Sharks Cove
 
-Sharks Cove is a reef dive site in Hawaii - Oahu, Pacific.
+Sharks Cove is one of the world's top 12 shore dives, recognized by Scuba Diving Magazine for its dramatic lava formations, caves, and caverns on Oahu's North Shore.
 
 ## Overview
 
-Sharks Cove is a dive site in Hawaii - Oahu offering excellent diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Located on Oahu's North Shore as part of Pupukea Beach Park, between the famous Waimea Bay and Sunset Beach, Sharks Cove is recognized globally as a world-class shore dive destination. The cove features massive concentrations of underwater caves, caverns, walls, overhangs, and lava tubes created by ancient lava flows. The left side reaches depths up to 40 feet with more marine life, while the right side is shallower with spectacular lava swim-throughs. The site offers unique geological wonders from beneath the ocean surface.
 
 ## Site Information
 
-- **Location**: Hawaii - Oahu, Pacific
+- **Location**: North Shore of Oahu (Pupukea Beach Park)
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: Good when calm
+- **Current**: Minimal when conditions are good
+- **Best Time**: Summer only (late April - early October). Winter waves make diving dangerous/impossible.
+- **Special Features**: Underwater caves, lava tubes, swim-throughs
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+The cove hosts a diverse array of marine life including colorful tropical fish, Hawaiian green sea turtles, octopuses, eels, and various types of coral. The left side typically offers more marine life encounters.
+
+## Entry and Safety
+
+Entry can be tricky with a rocky, steep trail from the parking lot. The water entry is rocky with large underwater rocks that can strike tanks and legs. The site functions as a tide pool with abundant sea urchins in crevices, so divers should be mindful of hand placement. Entry is typically on the south side of the cove after walking around to the east. Rocky entry makes this more suitable for experienced shore divers despite beginner-level depths.
 
 ## Dive Profile
 

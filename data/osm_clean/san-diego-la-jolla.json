@@ -5,10 +5,10 @@
     "lon": -117.1731815,
     "osm_id": 6518067885,
     "osm_type": "node",
-    "depth": null,
+    "depth": 20,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
     "tags": {
       "access": "yes",
       "description": "Concrete ship used as offshore gambling hub during prohibition, sent aground during a storm and abandoned.",
@@ -22,7 +22,9 @@
       "wreck:visible_at_high_tide": "no",
       "wreck:visible_at_low_tide": "yes",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -31,10 +33,10 @@
     "lon": -117.261989,
     "osm_id": 7024798825,
     "osm_type": "node",
-    "depth": null,
+    "depth": 30,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "access": "yes",
       "historic": "wreck",
@@ -47,7 +49,9 @@
       "wreck:visible_at_high_tide": "no",
       "wreck:visible_at_low_tide": "no",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -56,10 +60,10 @@
     "lon": -117.2369421,
     "osm_id": 12072350823,
     "osm_type": "node",
-    "depth": null,
+    "depth": 27,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "access": "yes",
       "description": "WWII patrol craft infamous for several incidents, sunk in collision with USS Laffey.",
@@ -75,7 +79,9 @@
       "wreck:visible_at_high_tide": "no",
       "wreck:visible_at_low_tide": "no",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -84,10 +90,10 @@
     "lon": -117.2710459,
     "osm_id": 12072605584,
     "osm_type": "node",
-    "depth": null,
+    "depth": 30,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "access": "yes",
       "description": "Cold War Royal Canadian Navy destroyer escort sunk as an artificial reef.",
@@ -102,7 +108,9 @@
       "wreck:date_sunk": "15 July 2000",
       "wreck:visible_at_high_tide": "no",
       "wreck:visible_at_low_tide": "no",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -111,10 +119,10 @@
     "lon": -117.223125,
     "osm_id": 25284140,
     "osm_type": "way",
-    "depth": null,
+    "depth": 25,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Zuñiga Jetty",
       "natural": "reef",
@@ -123,7 +131,9 @@
       "seamark:obstruction:water_level": "submerged",
       "seamark:type": "obstruction",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -132,10 +142,10 @@
     "lon": -117.2693522,
     "osm_id": 838730250,
     "osm_type": "way",
-    "depth": null,
+    "depth": 30,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "boat": "yes",
       "marine": "artificial_reef",
@@ -148,33 +158,39 @@
       "sub_sea": "reef",
       "submarine": "yes",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
     "name": "La Jolla Cove",
     "lat": 32.8508,
     "lon": -117.2726,
-    "depth": 10,
+    "depth": 15,
     "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
     "name": "La Jolla Shores",
     "lat": 32.8575,
     "lon": -117.2575,
-    "depth": 10,
+    "depth": 20,
     "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -182,12 +198,14 @@
     "lat": 32.856,
     "lon": -117.265,
     "depth": 30,
-    "site_type": "wall",
+    "site_type": "canyon",
     "entry_type": "shore",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -200,7 +218,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   }
 ]

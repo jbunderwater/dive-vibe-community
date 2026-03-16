@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Isla Espiritu Santo - The Wall
 
-Isla Espiritu Santo - The Wall is a wall dive site in La Paz & Sea of Cortez, North America.
+Isla Espiritu Santo - The Wall is a dramatic 75-foot+ wall dive along the northern point of the protected marine park island.
 
 ## Overview
 
-Isla Espiritu Santo - The Wall is a dive site in La Paz & Sea of Cortez featuring a dramatic vertical wall that drops into the deep blue. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Located at the northernmost point of Isla Espiritu Santo within the protected Espiritu Santo National Park, this wall dive features a long vertical descent covered in fan coral and inhabited by numerous species of rockfish and reef fish. The wall structure creates a dynamic diving environment with varying light conditions and pelagic encounters in the open water beyond the wall.
 
 ## Site Information
 
-- **Location**: La Paz & Sea of Cortez, North America
+- **Location**: Northern point of Isla Espiritu Santo, Espiritu Santo National Park
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 35 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Typical Visibility**: 15-25 meters
+- **Current**: Mild to moderate
+- **Best Time**: July to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+The wall is decorated with colorful fan coral, sponges, and soft corals hosting abundant reef fish including rockfish, cabrilla, groupers, snappers, and jacks. Larger species include sea lions, eagle rays, mobula rays, and occasionally dolphin pods. Macro diving opportunities abound with crustaceans, nudibranchs, and sea stars visible on the wall structures.
 
 ## Dive Profile
 

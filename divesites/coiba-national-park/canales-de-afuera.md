@@ -3,9 +3,9 @@ name: Canales de Afuera
 lat: 7.4
 lng: -81.85
 difficulty: Advanced
-maxDepth: 35
+maxDepth: 30
 entryType: boat
-siteType: wall
+siteType: reef
 ref: null
 osmId: null
 addedBy: osm_import
@@ -17,51 +17,55 @@ Canales de Afuera is a wall dive site in Coiba National Park, South America.
 
 ## Overview
 
-Canales de Afuera is a dive site in Coiba National Park featuring a dramatic vertical wall that drops into the deep blue. Located in the South America region, this site offers 10-25 meters of visibility with water temperatures averaging 15-26°C.
+Canales de Afuera (also known as Isla Canales de Afuera or Punta Faro) sits at the exposed western tip of Coiba featuring a rocky Pacific reef with hard corals and dramatic blue-water pelagic encounters. This Advanced site experiences strong, variable currents funneling food and pelagic life through its channels. Water temperatures range 24-28°C with visibility 15-25 meters. The site is known for consistent bull shark, oceanic blacktip, and white-tip reef shark activity, plus occasional hammerheads during peak season. Strong currents and pelagic exposure make this a technical deep-water reef requiring solid buoyancy, air management, and shark comfort.
 
 ## Site Information
 
-- **Location**: Coiba National Park, South America
+- **Location**: Western tip of Coiba Island, Panama (1.5-hour boat from Santa Catalina)
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 35 meters
-- **Typical Visibility**: 10-25 meters (30-80 feet)
-- **Current**: Moderate to strong
-- **Best Time**: June to November
+- **Maximum Depth**: 30 meters
+- **Typical Visibility**: 15-25 meters (50-80 feet)
+- **Current**: Strong and variable (drift diving typical)
+- **Water Temperature**: 24-28°C (75-82°F)
+- **Best Time**: December-April (calmer, peak pelagics)
 
 ## Marine Life
 
-Divers at this site can expect to encounter hammerhead sharks, whale sharks, sea lions, marine iguanas, manta rays, eagle rays, sea turtles, dolphins. Additional species commonly sighted include penguins, moray eels. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Bull sharks, oceanic blacktip sharks, white-tip reef sharks, and occasional hammerheads patrol the site regularly. Large fish schools (jacks, barracuda, snappers) concentrate in current zones. Turtles, garden eels, rays, and moray eels add to site diversity. Plankton-rich upwelling (January-April) attracts peak pelagic activity.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-35 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Descend in shallow sandy entry (4-5 meters) before sloping gradually to reef structure at 15-30 meters. Navigate along rocky formations and hard coral sections. Expect strong currents guiding natural drift pattern. Hold position on rocks if needed using reef hooks or careful hand placement. Explore deeper sections only on second+ dives in trip and with excellent air management. Plan conservative bottom timing; currents increase air consumption.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat anchors in shallow water (4-5 meters). Giant stride or back roll entry before descent into current. Descend along reef structure or sandy slope. Current direction varies—brief will clarify intended drift pattern. Ascend along same structure with natural current assistance toward surface. Final safety stop in water column with SMB signal to boat crew.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Reef hooks recommended for holding position in strong current
+- Plan first dives early in trip for acclimatization; schedule deeper explorations for acclimated days
+- Bring wide-angle lens for pelagic action and blue-water photography
+- Carry enriched air (Nitrox) for extended bottom times and deeper profiles
+- Watch air consumption carefully; current resistance increases breathing rate
+- Expect regular shark encounters; remain calm and follow crew briefing
 
 ## Safety Considerations
 
-Be aware of strong currents, cold thermoclines, surge in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Strong currents are core feature requiring solid buoyancy and streamlined technique. Cold thermoclines below 20m warrant thermal protection. Rapid depth changes possible—monitor SPG and depth constantly. Shark presence guaranteed; maintain calm behavior. Plan conservative bottom times and abort if overwhelmed by current, depth, or shark activity. Never dive alone; buddy check essential.
 
-## Photography
+## Seasonal Notes
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+**December-April**: Dry season winds create strong, consistent currents. Peak pelagic activity including occasional hammerheads. Calmer conditions generally in afternoons; mornings can be rough.
+
+**May-November**: Reduced current, warmer surface water, calmer seas. Fewer pelagic encounters but reef sharks still active. Easier dive profile.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-03-16
+- **Validation Source**: Perplexity research (March 2026)
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*Dive site information researched March 2026. Updated with current and pelagic data for this exposed Coiba reef.*

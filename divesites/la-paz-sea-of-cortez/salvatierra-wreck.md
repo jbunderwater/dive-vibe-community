@@ -3,7 +3,7 @@ name: Salvatierra Wreck
 lat: 24.25
 lng: -110.03
 difficulty: Intermediate
-maxDepth: 18
+maxDepth: 19
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Salvatierra Wreck
 
-Salvatierra Wreck is a historic wreck dive in La Paz & Sea of Cortez, North America.
+The Salvatierra is a historic ferry wreck famous for causing the discovery of Swanee Reef, a hazardous maritime landmark in the San Lorenzo Channel.
 
 ## Overview
 
-Salvatierra Wreck is a dive site in La Paz & Sea of Cortez featuring the wreck of the Salvatierra Wreck. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The Salvatierra ferry collided with Swanee Reef in the mid-1970s and sank shortly after, settling at a depth of 18-20 meters in the San Lorenzo Channel near Isla Espiritu Santo. Before salvage crews could recover the vessel, Hurricane Liza struck La Paz, ripping most of the ferry's upper structures from its deck. Today, the Salvatierra's remains rest on the seafloor as a thriving artificial reef, providing shelter for abundant marine life while serving as a historical reminder of maritime navigation hazards in the region.
 
 ## Site Information
 
-- **Location**: La Paz & Sea of Cortez, North America
+- **Location**: San Lorenzo Channel, near Isla Espiritu Santo, Espiritu Santo National Park
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 19 meters
+- **Typical Visibility**: 15-25 meters
+- **Current**: Mild to moderate
+- **Best Time**: July to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The Salvatierra wreck is now encrusted with soft and hard corals, hosting schools of reef fish including snappers, groupers, jacks, and amberjacks. Macro diving opportunities are excellent with numerous crustaceans, nudibranchs, and sea stars visible on the wreck structure. Sea lions occasionally visit the site, and eagle rays and mobula rays may be encountered in the surrounding channel waters.
 
 ## Dive Profile
 

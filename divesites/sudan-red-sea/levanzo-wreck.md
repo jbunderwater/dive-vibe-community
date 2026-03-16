@@ -2,8 +2,8 @@
 name: Levanzo Wreck
 lat: 21.9878634
 lng: 37.0452519
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Advanced
+maxDepth: 65
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,47 +13,50 @@ addedBy: osm_import
 
 ## Levanzo Wreck
 
-Levanzo Wreck is a historic wreck dive in Sudan Red Sea, Middle East.
+Levanzo Wreck (SS Isola di Levanzo) is an advanced-level wreck dive at Elba Reef near the Egypt-Sudan border. This large Italian cargo ship sank in 1923 and now rests as an artificial reef at significant depth, requiring advanced wreck diving training and experience.
 
 ## Overview
 
-Levanzo Wreck is a dive site in Sudan Red Sea featuring the wreck of the Levanzo Wreck. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The SS Isola di Levanzo is an Italian cargo vessel (113 meters long, 3,713 tons, built 1901) that sank on March 14, 1923, after going ashore on Elba Reef. While under salvage on March 28, 1923, the ship broke its towing hawser, drifted onto rocks, and sank. Now resting at the edge of Elba Reef's South Plateau, the wreck has become a thriving artificial reef with abundant marine life. The wreck begins at 22 meters with broken sections at 40 meters and reaches a maximum depth of 65 meters, demanding Advanced Open Water certification or equivalent and significant wreck diving experience.
 
 ## Site Information
 
-- **Location**: Sudan Red Sea, Middle East
+- **Location**: Elba Reef, Egypt-Sudan border (Halaib Triangle)
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Site Type**: Wreck dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 65 meters
+- **Wreck Top**: 22 meters
+- **Broken Sections**: 40 meters
+- **Typical Visibility**: 25-40+ meters (80-130+ feet)
+- **Current**: Moderate
+- **Best Time**: March to November
 
-## Marine Life
+## Wreck Structure & Marine Life
 
-Divers at this site can expect to encounter glassy sweepers, lionfish, groupers, coral growth, soft corals, whale sharks, manta rays, hammerhead sharks. Additional species commonly sighted include oceanic whitetip sharks, sea turtles, dolphins. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The SS Isola di Levanzo is a 113-meter vessel with distinct diving zones. The top sections at 22 meters feature large openings and natural light. Broken sections at 40 meters are more challenging and require conservative depth planning. Schools of jackfish and barracuda patrol the wreck structure. Colorful corals and sponges encrust the surfaces, demonstrating decades of artificial reef colonization. The wreck provides excellent habitat for groupers, snappers, morays, and countless smaller reef fish species.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 20 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend to the wreck top at 22 meters and explore the accessible exterior sections first. Divers with wreck training and deep diving experience can explore broken sections at 40 meters if properly planned. Advanced divers attempt the deeper sections (50-65m) only with significant decompression planning and backup gas. This is NOT a site for casual deep diving. Nitrogen narcosis becomes significant below 40m—monitor your judgment carefully. Plan conservative bottom times and multiple safety stops. Most recreational dives stay to the 22-40m range.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by liveaboard dive boat from Elba Reef operators. Entry via giant stride or back roll in moderate sea state. Descents follow the wreck structure with guidance from the dive guide. Multiple safety stops are mandatory due to depth; ascend through the water column and maintain staged decompression. Deploy high-visibility surface marker buoy (SMB) for safety stop signaling.
 
-## Tips and Recommendations
+## Tips & Requirements
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Advanced wreck diving certification strongly recommended
+- Carry dive computer and depth gauge—two depth instruments are wise
+- Bring dive torch with backup—interior sections are dark
+- Maintain exceptional buoyancy to avoid silt disturbance
+- Do NOT attempt deep penetration (>40m) without extensive wreck experience
+- Carry redundant air supply if attempting deeper sections
+- Underwater camera captures excellent artificial reef documentation
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Critical hazards include nitrogen narcosis below 40m, decompression sickness, entanglement risks, silt entrapment in wreck sections, and deep diving risks. The wreck is partially broken/unstable in sections—avoid uncertain structures. Only dive sections you can clearly see; turn back before visibility drops. Nitrogen narcosis impairs judgment significantly at 45-65m—abort immediately if affected. Always dive with an experienced buddy. Mandatory staged decompression on ascent. This is NOT a site for divers pushing their limits.
 
 ## Photography
 

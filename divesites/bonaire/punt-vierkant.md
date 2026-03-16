@@ -2,8 +2,8 @@
 name: Punt Vierkant
 lat: 12.108785
 lng: -68.291505
-difficulty: Beginner
-maxDepth: 30
+difficulty: Intermediate
+maxDepth: 25
 entryType: shore
 siteType: reef
 ref: 
@@ -22,8 +22,8 @@ Punt Vierkant is a beautiful dive site located on Bonaire's western coast, known
 - **Location**: Western Bonaire (north of Kralendijk)
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 30 meters
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15-25 meters
 - **Current**: Light to moderate
 - **Best Time**: Morning to early afternoon

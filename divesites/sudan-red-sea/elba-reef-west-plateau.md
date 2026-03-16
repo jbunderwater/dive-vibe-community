@@ -2,10 +2,10 @@
 name: Elba Reef, West-Plateau
 lat: 21.9691591
 lng: 37.0241608
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Advanced
+maxDepth: 32
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: 13045036765
 addedBy: osm_import
@@ -23,9 +23,9 @@ Elba Reef, West-Plateau is a dive site in Sudan Red Sea offering rewarding divin
 
 - **Location**: Sudan Red Sea, Middle East
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Site Type**: Wall dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 32 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Moderate to strong
 - **Best Time**: September to May

@@ -3,7 +3,7 @@ name: Ni'ihau
 lat: 21.9
 lng: -160.15
 difficulty: Advanced
-maxDepth: 30
+maxDepth: 120
 entryType: boat
 siteType: wall
 ref: null
@@ -13,26 +13,27 @@ addedBy: osm_import
 
 ## Ni'ihau
 
-Ni'ihau is a wall dive site in Hawaii - Kauai, Pacific.
+Ni'ihau, Hawaii's "Forbidden Island," is a world-class diving destination with pristine reefs, exceptional visibility, and one of the highest concentrations of endangered Hawaiian monk seals in the islands.
 
 ## Overview
 
-Ni'ihau is a dive site in Hawaii - Kauai featuring a dramatic vertical wall that drops into the deep blue. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Located north of Kauai, Ni'ihau is a private island with no tourism infrastructure, preserving an underwater environment unlike anywhere else in Hawaii. The island's surrounding waters are described as "one of the last untouched frontiers" with vibrant, healthy coral formations, relatively untouched reefs, and abundant marine life. Visibility regularly exceeds 100 feet, and dives frequently encounter large pelagic species including schools of 30+ grey reef sharks, sandbar, tiger, and oceanic blacktip sharks, plus the occasional whale shark. The critically endangered Hawaiian monk seal is commonly sighted here due to the island's protected status.
 
 ## Site Information
 
-- **Location**: Hawaii - Kauai, Pacific
+- **Location**: Private island north of Kauai (boat charter required)
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
+- **Maximum Depth**: 120 meters
+- **Typical Visibility**: 30-100+ meters (100-330+ feet)
 - **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Best Time**: May-September
+- **Water Temperature**: 24-27°C (75-81°F)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Sandbar sharks, tiger sharks, oceanic blacktip sharks, grey reef sharks (often in schools 30+), manta rays, eagle rays, whale sharks (rare), critically endangered Hawaiian monk seals, vibrant coral formations, schooling pelagic fish. The remote location and protected status make this one of the premier spots for seeing large sharks and marine megafauna in Hawaii.
 
 ## Dive Profile
 

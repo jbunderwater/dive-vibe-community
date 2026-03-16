@@ -2,10 +2,10 @@
 name: Isar Island
 lat: 18.5740921
 lng: 38.7418876
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Advanced
+maxDepth: 32
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: 9721017925
 addedBy: osm_import
@@ -13,22 +13,22 @@ addedBy: osm_import
 
 ## Isar Island
 
-Isar Island is a reef dive site in Sudan Red Sea, Middle East.
+Isar Island is an advanced reef dive in Sudan's extreme southern Red Sea, part of deep south liveaboard expeditions near the Eritrean border. The site features walls, strong currents, and exceptional marine life in pristine, remote waters.
 
 ## Overview
 
-Isar Island is a dive site in Sudan Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Isar Island is part of the exclusive circuit of remote southern sites visited only by specialized liveaboards venturing south of Port Sudan. The site showcases pristine walls and reef structures with abundant, undisturbed marine life including shark aggregations and large pelagic species. Strong currents driven through the straits create dynamic diving environments. This is destination diving for experienced adventurers seeking pristine, rarely-visited waters.
 
 ## Site Information
 
-- **Location**: Sudan Red Sea, Middle East
+- **Location**: Extreme south archipelago, 30+ nm from Port Sudan
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Site Type**: Wall dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 32 meters
+- **Typical Visibility**: 25-40+ meters (80-130+ feet)
+- **Current**: Strong
+- **Best Time**: February to April
 
 ## Marine Life
 

@@ -2,8 +2,8 @@
 name: Playa Jeremi
 lat: 12.3284212
 lng: -69.1505496
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Beginner
+maxDepth: 20
 entryType: Shore
 siteType: reef
 ref: null
@@ -13,22 +13,22 @@ addedBy: assistant
 
 ## Playa Jeremi
 
-Playa Jeremi is a tranquil and picturesque shore diving site offering excellent snorkeling and diving conditions in a pristine natural setting on Curaçao's northwest coast.
+Playa Jeremi is a beautiful shore dive offering calm conditions and a healthy coral reef system in a serene, crowd-free setting on Curaçao's northwest coast.
 
 ## Overview
 
-Playa Jeremi is a hidden gem located on Curaçao's rugged northwest coast, offering excellent shore diving in a secluded and pristine setting. This small, protected bay is surrounded by dramatic limestone cliffs and features crystal-clear waters with excellent visibility. The site is known for its calm conditions, making it ideal for beginner divers, underwater photography, and peaceful diving experiences away from crowds. The healthy coral reef system starts close to shore and provides habitat for diverse marine life typical of Curaçao's pristine northwest coast. The combination of easy access, beautiful scenery, and reliable diving conditions makes Playa Jeremi a favorite among local divers and those seeking a more intimate diving experience.
+Playa Jeremi is a charming shore diving destination located on Curaçao's northwest coast near Lagun village. This small, protected bay is surrounded by dramatic limestone cliffs and offers direct reef access in shallow water. The site is known for its calm, peaceful conditions and lack of crowds, making it ideal for divers seeking a quiet, intimate diving experience. The healthy coral reef system starts immediately offshore, with diverse marine life typical of Curaçao's pristine northwest coast. Sea turtle encounters are common, and the site attracts a variety of Caribbean reef fish. The combination of easy beach access, good visibility, and reliable conditions makes Playa Jeremi a favorite among local divers.
 
 ## Site Information
 
-- **Location**: Northwest coast of Curaçao, near Lagun village
-- **Entry Type**: Shore entry
+- **Location**: Northwest coast, near Lagun village
+- **Entry Type**: Shore
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters (82 feet)
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-30 meters (65-100 feet)
 - **Current**: Usually minimal to none
-- **Best Time**: Year-round, excellent for afternoon diving
+- **Best Time**: Year-round, excellent conditions
 
 ## Marine Life
 

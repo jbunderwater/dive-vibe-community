@@ -2,8 +2,8 @@
 name: Browning Wall
 lat: 50.9167
 lng: -127.7667
-difficulty: Intermediate
-maxDepth: 30
+difficulty: Advanced
+maxDepth: 40
 entryType: boat
 siteType: wall
 ref: null
@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Browning Wall
 
-Browning Wall is a wall dive site in Vancouver Island, North America.
+One of the finest wall dives in North America, Browning Wall is located in God's Pocket Marine Provincial Park off the northern tip of Vancouver Island. This dramatic vertical wall features dense invertebrate life in a palette of brilliant colors created by soft corals, sponges, and anemones.
 
 ## Overview
 
-Browning Wall is a dive site in Vancouver Island featuring a dramatic vertical wall that drops into the deep blue. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Browning Wall in God's Pocket is a world-class cold-water wall dive that showcases the temperate marine ecosystem. The sheer rock face drops steeply from the surface to approximately 40 meters, with the best viewing between 30-40 meters. The wall's exceptional biodiversity is fueled by strong tidal currents that upwell nutrient-rich deep water, creating optimal conditions for colorful invertebrate communities.
 
 ## Site Information
 
-- **Location**: Vancouver Island, North America
+- **Location**: God's Pocket Marine Provincial Park, 20km northwest of Port Hardy
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 40 meters
+- **Typical Visibility**: 10-20 meters (seasonal variation)
+- **Current**: Strong tidal currents (timed to slack tide)
+- **Best Time**: Early spring and fall (avoid summer algae blooms)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+This site is densely populated with marine life. The wall is covered in a checkerboard of orange and red soft corals, white anemones, yellow sponges, and numerous species of nudibranchs. Additional residents include rockfish, lingcod, cabezon, wolf eels, and occasionally pelagic visitors. Giant Pacific octopus are regularly spotted in wall crevices.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-30 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Dives are timed to slack tide and typically begin with a controlled descent along the wall. Most of the colorful invertebrate life is between 20-40 meters. Plan a bottom time of 20-25 minutes to allow adequate time for your safety stop. The interplay of color and the sheer face make this a favorite for photography.
 
 ## Entry and Exit
 
@@ -51,17 +51,37 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 - Check local weather and sea conditions before diving
 - Respect marine life and maintain proper buoyancy to protect the reef
 
+## Tips and Recommendations
+
+- Book with reputable local operators (God's Pocket Resort, charter companies)
+- Dives MUST be timed to slack tide — strong currents make other times unsafe
+- Early morning light provides excellent photography
+- Bring high-quality dive lights for close-up photography of invertebrates
+- Expect cold water (8-12°C) — proper thermal protection essential
+- Check seasonal visibility forecasts; spring/fall offer best conditions
+- File a dive plan with your operator
+
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+This is an advanced-only site requiring the following:
+- Advanced Open Water certification minimum
+- Strong understanding of cold-water diving and current management
+- Excellent buoyancy control essential
+- Always dive with an experienced buddy
+- Use SMB/safety sausage for controlled ascents
+- Carry appropriate signaling devices
+- Be prepared to abort if conditions deteriorate
+
+Strong tidal currents are the defining feature — dives outside slack tide windows are not advised. Cold water (8-12°C) requires proper thermal protection.
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+Wall dives offer exceptional wide-angle opportunities with the interplay of color and shadow along the face creating dramatic compositions. The dense invertebrate life provides countless macro subjects in wall crevices and overhangs. Bring underwater lights to illuminate the vibrant reds, oranges, and yellows of soft corals.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-03-16
+- **Validation Source**: Web research (2026-03)
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from OpenStreetMap data and regional diving research. Last updated 2026-03-16.*

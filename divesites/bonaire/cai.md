@@ -2,8 +2,8 @@
 name: Cai
 lat: 12.1032167
 lng: -68.2224528
-difficulty: Beginner
-maxDepth: 30
+difficulty: Advanced
+maxDepth: 35
 entryType: shore
 siteType: reef
 ref: 
@@ -20,8 +20,8 @@ Cai is a beautiful dive site located in southern Bonaire near Willemstoren Light
 - **Location**: South Bonaire (near Willemstoren Lighthouse)
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 30 meters
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 35 meters
 - **Typical Visibility**: 20-30 meters
 - **Current**: Usually light
 - **Best Time**: Morning to early afternoon

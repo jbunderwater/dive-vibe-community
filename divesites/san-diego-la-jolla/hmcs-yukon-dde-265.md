@@ -3,8 +3,8 @@ name: HMCS Yukon (DDE 265)
 lat: 32.7715817
 lng: -117.2710459
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+maxDepth: 30
+entryType: boat
 siteType: wreck
 ref: null
 osmId: 12072605584
@@ -13,30 +13,34 @@ addedBy: osm_import
 
 ## HMCS Yukon (DDE 265)
 
-HMCS Yukon (DDE 265) is a historic wreck dive in San Diego - La Jolla, North America.
+HMCS Yukon is the crown jewel of Wreck Alley, featuring a massive 366-foot Canadian destroyer escort intentionally sunk as an artificial reef.
 
 ## Overview
 
-HMCS Yukon (DDE 265) is a dive site in San Diego - La Jolla featuring the wreck of the HMCS Yukon (DDE 265) which sank in 15 July 2000 . Cold War Royal Canadian Navy destroyer escort sunk as an artificial reef.. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The HMCS Yukon (DDE 263/265) was a St. Laurent-class destroyer escort commissioned by the Royal Canadian Navy in 1963. Decommissioned and sold for scrap, the ship was deliberately sunk on July 15, 2000, approximately two miles west of Mission Beach in San Diego to create an artificial reef for recreational diving. The vessel is 366 feet long with 40-foot beam and contains six decks and over 100 compartments. Before sinking, the ship was extensively modified with "Swiss-cheesing"—dozens of access holes cut into the hull and interior bulkheads removed—to ensure divers always have multiple exit routes.
 
 ## Site Information
 
-- **Location**: San Diego - La Jolla, North America
-- **Entry Type**: Shore entry
-- **Site Type**: Wreck
+- **Location**: Wreck Alley, off Mission Beach, San Diego
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 5-25 meters (15-80 feet)
 - **Current**: Variable, can be strong
 - **Best Time**: June to October
 
+## Key Features
+
+The intact superstructure includes the bridge, deck gear, and twin three-inch gun turrets. Notable features include the forward and aft gun mounts, dolphin cutouts on the bow, and the mortar well near the stern. The ship lies on her port side with excellent structural integrity for exploration. The extensive modifications make this wreck highly diver-friendly with multiple entry and exit points throughout the vessel.
+
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The wreck supports a vibrant artificial reef ecosystem with lingcod, rockfish, cabezon, wolf eels, garibaldi, sheephead, and kelp bass. Resident species have colonized every surface, from small nudibranchs and anemones to larger fish sheltering in compartments and along the hull. Sea lions occasionally visit from nearby colonies.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 25 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Begin with a descent to the deck (20-23 meters) and plan to explore the accessible compartments and external features. The superstructure provides excellent navigation references and natural boundaries. Typical dives focus on one section (forward guns, bridge, or stern area) to manage bottom time effectively. Monitor depth and air supply carefully, as the three-dimensional nature of wreck exploration can lead to depth overruns.
 
 ## Entry and Exit
 

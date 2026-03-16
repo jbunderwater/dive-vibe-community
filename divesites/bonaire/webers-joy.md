@@ -3,7 +3,7 @@ name: Weber's Joy
 lat: 12.2065395
 lng: -68.3165738
 difficulty: Beginner
-maxDepth: 30
+maxDepth: 40
 entryType: shore
 siteType: reef
 ref: 
@@ -21,7 +21,7 @@ Weber's Joy is a beautiful dive site located in northern Bonaire near Washington
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 30 meters
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 20-30 meters
 - **Current**: Usually light
 - **Best Time**: Morning to early afternoon

@@ -5,7 +5,7 @@ lng: -68.9972716
 difficulty: Intermediate
 maxDepth: 45
 entryType: Shore
-siteType: reef
+siteType: wall
 ref: null
 osmId: null
 addedBy: assistant
@@ -13,22 +13,22 @@ addedBy: assistant
 
 ## Boka Sami
 
-Boka Sami is an accessible shore diving site featuring a gentle drop-off, diverse coral formations, and excellent marine life encounters in Sint Michiel.
+Boka Sami is an accessible shore dive featuring a gentle drop-off that descends to impressive depths, perfect for intermediate divers seeking wall diving on Curaçao's west coast.
 
 ## Overview
 
-Boka Sami is a popular shore diving destination located in Sint Michiel on Curaçao's central west coast, known for its easy access and excellent diving conditions suitable for all experience levels. The site features a gentle sloping reef that transitions into a dramatic drop-off, providing diverse underwater topography and abundant marine life. Starting in shallow water around 6 meters, the reef gradually descends to depths of 45 meters, offering something for every diver from beginners to advanced enthusiasts. The site is particularly popular for its reliable calm conditions, healthy coral formations, and frequent encounters with large marine life including sea turtles and eagle rays. The combination of easy access, diverse depths, and excellent visibility makes Boka Sami a favorite training site and recreational diving destination.
+Boka Sami is a popular shore diving destination in Sint Michiel on Curaçao's central west coast. The site features a shallow entry leading to a gentle drop-off that begins around 6 meters and descends to significant depths of 45+ meters. This accessible wall configuration allows intermediate divers to explore at their certification level while providing deeper areas for advanced exploration. The wall features vibrant corals, sea turtles, eagle rays, and excellent fish populations. The protected bay conditions and easy shore access make Boka Sami a favorite among local divers seeking wall diving experiences at moderate depths.
 
 ## Site Information
 
 - **Location**: Central west coast, Sint Michiel area
-- **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Entry Type**: Shore
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 45 meters (150 feet)
-- **Typical Visibility**: 15-25 meters (50-80 feet)
-- **Current**: Usually minimal to none
-- **Best Time**: Year-round, excellent for all diving activities
+- **Maximum Depth**: 45 meters
+- **Typical Visibility**: 20-30 meters (65-100 feet)
+- **Current**: Usually minimal, occasional mild current
+- **Best Time**: Year-round, excellent conditions
 
 ## Marine Life
 

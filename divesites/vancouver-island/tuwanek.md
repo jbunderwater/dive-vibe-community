@@ -3,9 +3,9 @@ name: Tuwanek
 lat: 49.5167
 lng: -123.7833
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 37
 entryType: shore
-siteType: reef
+siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,53 +13,66 @@ addedBy: osm_import
 
 ## Tuwanek
 
-Tuwanek is a reef dive site in Vancouver Island, North America.
+Tuwanek Point is one of the most scenic and marine-rich dive sites on British Columbia's Sunshine Coast. The site features two rocky islets surrounded by beautiful granite walls and diverse invertebrate life. Excellent visibility and abundant giant octopus, wolf eels, and seals make this an intermediate-to-advanced dive location.
 
 ## Overview
 
-Tuwanek is a dive site in Vancouver Island offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Tuwanek is located in the peaceful cottage community of Tuwanek on the eastern side of Sechelt Inlet. Two islets in a large bay feature a complex rock reef structure with surrounding walls. The granite-walled bays have smooth, sloping profiles like the shoulders of a giant, with clinging boot sponges, feather stars, sea cucumbers, and anemones. The site is accessible as both a day and night dive.
 
 ## Site Information
 
-- **Location**: Vancouver Island, North America
+- **Location**: Sechelt Inlet, near Sechelt, BC (Sunshine Coast)
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 37 meters
+- **Typical Visibility**: 10-20 meters (excellent for the area)
+- **Current**: Generally manageable; occasional drift
+- **Best Time**: Year-round (summer warmest)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Tuwanek is famous for its marine megafauna and invertebrate diversity. Giant Pacific octopus, wolf eels, seals, and sea lions are commonly seen. Additional residents include lingcod, flatfish, rockfish, greenlings, crabs, nudibranchs, cloud sponges, boot sponges, feather stars, sea cucumbers, anemones, and numerous other invertebrates and fish species.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Dives typically begin in the shallower areas around the islets' outer edges (10-15 meters) exploring the reef structure and marine life, then descend along the granite walls to 25-37 meters. Most divers focus exploration between 10-30 meters where colorful invertebrate life and marine megafauna are abundant. Bottom time of 30-40 minutes is typical for intermediate divers at moderate depths. Night dives are also popular here.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Entry is from the shore at Tuwanek Beach with easy water access. Descend gradually to reach the outer islets. Return to entry point for exit. The peaceful bay setting makes entry/exit straightforward.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Excellent intermediate dive site combining walls, reefs, and marine life
+- Bring quality underwater camera for octopus and eel photography
+- Giant octopus are regularly spotted in wall crevices — look carefully
+- Boot sponges and feather stars create beautiful photos
+- Calm bay conditions make this suitable for skill development
+- Check local weather; the Sunshine Coast can experience surge
+- Both day and night dives are rewarding here
+- Cold water (8-12°C) requires proper thermal protection
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+This is an intermediate-level site with the following:
+- Intermediate Open Water certification recommended minimum
+- Cold-water diving experience (8-12°C)
+- Excellent buoyancy control for wall dives
+- Thermal protection essential (7mm+ wetsuit or drysuit)
+- Always dive with a buddy
+- Watch depth carefully as walls drop significantly
+- Use SMB for ascents
+- The site can have occasional drift current; be prepared
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+This site is exceptional for macro photography of nudibranchs, feather stars, and other invertebrates. Wide-angle shots of the islet formations and walls create dramatic compositions. Octopus and eel encounters provide unforgettable subjects. The calm water often creates excellent visibility for photography.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-03-16
+- **Validation Source**: Web research (2026-03)
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from OpenStreetMap data and regional diving research. Last updated 2026-03-16.*

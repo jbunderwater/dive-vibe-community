@@ -2,8 +2,8 @@
 name: Ogden Point
 lat: 48.4125
 lng: -123.3881
-difficulty: Beginner
-maxDepth: 15
+difficulty: Intermediate
+maxDepth: 27
 entryType: shore
 siteType: wall
 ref: null
@@ -13,55 +13,66 @@ addedBy: osm_import
 
 ## Ogden Point
 
-Ogden Point is a wall dive site in Vancouver Island, North America.
+Ogden Point Breakwater in Victoria is the premier world-renowned cold-water dive site with suitable sections for nearly all skill levels. The dramatic breakwater wall extends underwater with multiple depth zones, making it accessible to beginners in inner areas and challenging for advanced divers at deeper sections.
 
 ## Overview
 
-Ogden Point is a dive site in Vancouver Island featuring a dramatic vertical wall that drops into the deep blue. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Ogden Point Breakwater is a working harbor facility with an underwater wall structure popular across all certification levels. The inner cove offers depths of 5-12 meters suitable for open water courses, while the main wall and ridge extend to 27+ meters for certified and advanced divers. The site features dense marine life and excellent visibility during optimal tidal phases.
 
 ## Site Information
 
-- **Location**: Vancouver Island, North America
+- **Location**: Victoria Breakwater, British Columbia (inner harbor area)
 - **Entry Type**: Shore entry
 - **Site Type**: Wall dive
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 27 meters
+- **Typical Visibility**: 5-25 meters (seasonal/tidal dependent)
+- **Current**: Variable, can be strong; timing improves with tidal slack
+- **Best Time**: Year-round (summer warmest, spring/fall clearest)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Marine biodiversity includes rockfish, lingcod, sculpin, harbor seals, occasional wolf eels, and giant Pacific octopus. Colorful invertebrates include crab, starfish, anemones, and nudibranchs in wall crevices. The structure creates habitat for species at varying depths.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-15 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Beginner dives stay in the inner cove area (5-12m) along the sloping bottom, exploring the reef structure and marine life. Open Water course training typically occurs here. Intermediate and advanced dives proceed to the main wall and ridge, descending to 20-27m. The wall provides a natural descent path; depths increase as you move outward from shore. Most divers target 20-30 minutes bottom time depending on depth.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Entry is from the shore at established access points. Descend carefully initially due to surging and waves — many divers experience difficulty with entry. Established entry points help minimize underwater navigation challenges. Exit at the same location; approach the shore carefully watching for surge and underwater obstacles. Tidal slack timing improves entry/exit conditions.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Bring an underwater camera — this site offers excellent photography opportunities
+- Expect barnacle-covered concrete and bull kelp at entry — wear gloves
+- Optimal diving is during slack tide (reduced surge and better conditions)
+- Local guide recommended for first-time dives to navigate surge zones
+- Cold water (8-12°C) requires proper thermal protection
+- Excellent site for learning cold-water diving techniques
+- Bring underwater camera — excellent photography opportunities
+- Watch depth carefully to avoid unintended deeper descents on wall
 - Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+This is a beginner-friendly site with considerations:
+- Beginner areas (inner cove) suitable for newly certified divers
+- Cold water (8-12°C) minimum Intermediate for outer wall dives
+- Surge and surge-induced visibility loss possible at entry/exit
+- Strong currents possible; timing to slack tide is recommended
+- Proper thermal protection essential (7mm+ wetsuit or drysuit)
+- Always dive with a buddy
+- Avoid diving in heavy weather or large swell
+- Barnacles on entry point create sharp surfaces — watch footing
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+Wide-angle opportunities abound with the wall's dramatic vertical drop. The light and shadow interplay on the wall creates compelling depth and perspective. Macro photography in wall crevices and overhangs reveals nudibranchs and other invertebrates. Kelp forests provide additional subjects.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-03-16
+- **Validation Source**: Web research (2026-03)
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from OpenStreetMap data and regional diving research. Last updated 2026-03-16.*

@@ -2,9 +2,9 @@
 name: Sunken Harbor
 lat: 32.7715438
 lng: -117.261989
-difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+difficulty: Advanced
+maxDepth: 30
+entryType: boat
 siteType: wreck
 ref: null
 osmId: 7024798825
@@ -13,19 +13,19 @@ addedBy: osm_import
 
 ## Sunken Harbor
 
-Sunken Harbor is a historic wreck dive in San Diego - La Jolla, North America.
+Sunken Harbor is an advanced artificial reef complex located one mile offshore from Mission Bay, featuring multiple intentionally sunken shipwrecks.
 
 ## Overview
 
-Sunken Harbor is a dive site in San Diego - La Jolla featuring the wreck of the Sunken Harbor. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Sunken Harbor comprises a thriving artificial reef system approximately one mile off the coast between La Jolla and Point Loma. Multiple vessels have been sunk here to create habitat for marine life, making this an excellent site for experienced wreck divers. The cold, nutrient-rich waters support dense populations of fish, anemones, crabs, and other marine life that colonize the wreck structures. Boat access is required, with charter operations departing from Mission Bay.
 
 ## Site Information
 
-- **Location**: San Diego - La Jolla, North America
-- **Entry Type**: Shore entry
-- **Site Type**: Wreck
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Location**: 1 mile offshore, Mission Bay area, San Diego
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 5-25 meters (15-80 feet)
 - **Current**: Variable, can be strong
 - **Best Time**: June to October

@@ -2,8 +2,8 @@
 name: Los Islotes
 lat: 24.595
 lng: -110.4
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Beginner
+maxDepth: 26
 entryType: boat
 siteType: reef
 ref: null
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Los Islotes
 
-Los Islotes is a reef dive site in La Paz & Sea of Cortez, North America.
+Los Islotes is an iconic reef and wall dive site in La Paz & Sea of Cortez, famous for its playful California sea lion colony.
 
 ## Overview
 
-Los Islotes is a dive site in La Paz & Sea of Cortez offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Los Islotes ranks among the most iconic dive sites in La Paz, featuring two rocky islets at the northern tip of the Espiritu Santo Archipelago within Espiritu Santo National Park. The site is home to over 900 California sea lions, with curious juveniles often compared to underwater puppies. Los Islotes offers diverse diving opportunities, from snorkeling in shallow areas to wall dives descending to 26+ meters.
 
 ## Site Information
 
-- **Location**: La Paz & Sea of Cortez, North America
+- **Location**: Espiritu Santo National Park, La Paz, Sea of Cortez
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 26 meters
+- **Typical Visibility**: 15-30 meters (excellent in good conditions)
 - **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Best Time**: July to November (warm water, peak megafauna season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Los Islotes is renowned for its California sea lion encounters—playful juveniles are a highlight for most divers. The site features fan coral-covered walls inhabited by numerous species of rockfish including Cabrilla and Grouper. Other common encounters include stonefish, eagle rays, mobula rays, dolphin pods, and during peak season (October-February), whale sharks in nearby waters.
 
 ## Dive Profile
 

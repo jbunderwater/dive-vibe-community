@@ -3,7 +3,7 @@ name: Elba Reef, South Plateau
 lat: 21.9664172
 lng: 37.0250213
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 14
 entryType: boat
 siteType: reef
 ref: null
@@ -25,7 +25,7 @@ Elba Reef, South Plateau is a dive site in Sudan Red Sea offering rewarding divi
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 14 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Moderate to strong
 - **Best Time**: September to May

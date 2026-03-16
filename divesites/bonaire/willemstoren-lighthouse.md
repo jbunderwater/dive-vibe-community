@@ -2,8 +2,8 @@
 name: Willemstoren Lighthouse
 lat: 12.0276628
 lng: -68.2367651
-difficulty: Beginner
-maxDepth: 30
+difficulty: Advanced
+maxDepth: 25
 entryType: shore
 siteType: reef
 ref: 
@@ -22,8 +22,8 @@ Willemstoren Lighthouse is a unique dive site located at Bonaire's southernmost 
 - **Location**: Southern tip of Bonaire (Willemstoren)
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 30 meters
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20-30 meters
 - **Current**: Light to moderate
 - **Best Time**: Morning to early afternoon

@@ -2,8 +2,8 @@
 name: Blue Belt
 lat: 20.22675
 lng: 37.3152166
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Expert
+maxDepth: 45
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,47 +13,54 @@ addedBy: osm_import
 
 ## Blue Belt
 
-Blue Belt is a historic wreck dive in Sudan Red Sea, Middle East.
+Blue Belt is an expert-level wreck dive featuring the Toyota Wreck in Sudan's Red Sea, located 75km north of Port Sudan.
 
 ## Overview
 
-Blue Belt is a dive site in Sudan Red Sea featuring the wreck of the Blue Belt. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Blue Belt, also known as the Toyota Wreck, is the wreck of the Saudi Arabian cargo vessel that sank on December 2, 1977, after striking Shaab Suedi reef. The ship was laden with Toyota vehicles and spare parts en route to Port Sudan. Today, the wreck rests upside down on a sloping seabed, stretching from depths of 21 to 90 meters, making this an expert-level diving destination suitable only for highly experienced wreck divers. This deep site requires advanced decompression planning and exceptional comfort with deep diving techniques.
 
 ## Site Information
 
-- **Location**: Sudan Red Sea, Middle East
+- **Location**: Shaab Suedi Reef, Sudan Red Sea
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Site Type**: Wreck dive
+- **Difficulty Level**: Expert
+- **Maximum Depth**: 45 meters
+- **Safe Depth for Most Divers**: 21-50 meters (external wreck only)
+- **Typical Visibility**: 20-30 meters
+- **Current**: Moderate
+- **Best Time**: January to May
+- **Note**: Wreck is unstable and upsidedown—deep dives only
+
+## Wreck History
+
+The MV Blue Belt (2,399 tons displacement) was a Saudi Arabian general cargo vessel that struck Shaab Suedi reef on December 2, 1977. Salvage attempts were made and partial cargo recovery occurred, leaving scattered Toyota vehicles and spare parts across the seabed. The ship eventually settled upside down on the sloping bottom.
 
 ## Marine Life
 
-Divers at this site can expect to encounter glassy sweepers, lionfish, groupers, coral growth, soft corals, whale sharks, manta rays, hammerhead sharks. Additional species commonly sighted include oceanic whitetip sharks, sea turtles, dolphins. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The wreck attracts schools of big-eye trevallies, snappers, and impressive lunartail groupers. White-tip reef sharks are frequently sighted patrolling the site. The deep nature of this wreck limits the biodiversity compared to shallower reefs, but pelagic species and large groupers make it an exceptional technical diving destination.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 20 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Blue Belt is an advanced technical wreck dive requiring careful planning. Most recreational dives focus on the upper sections visible at 21-50 meters depth. Advanced technical divers with deep diving certifications can explore deeper sections. Mandatory decompression is required for dives beyond 40 meters. The wreck's inverted position means descending to it involves a moderately steep slope descent, requiring excellent buoyancy control. Plan conservative bottom times and strict depth adherence.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is exclusively via liveaboard dive boat from Port Sudan operators. Entry typically uses giant stride entry in moderate sea states. Descents follow the slope toward the wreck structure guided by the dive guide. Due to depth and technicality, shore-based diving is not available. Ascent requires staged decompression with multiple safety stops.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Only for divers with technical deep diving certifications (preferably TDI or IANTD Adv. Nitrox & Decompression)
+- Plan your dive profile with the liveaboard dive guides—no casual exploration
+- Bring redundant depth computers and timers
+- Use high-visibility surface marker buoy (SMB) for safety stop
+- Carry adequate decompression gas and backup lighting
+- Excellent buoyancy control is essential to prevent unplanned descents
+- This is NOT a site for beginners or intermediate divers seeking "deeper diving"
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+This is a demanding deep technical dive. Hazards include nitrogen narcosis below 40m, decompression sickness, shallow water blackout, entanglement risks on the unstable wreck structure, and limited visibility in silt. Only dive if you have deep diving training and recent experience with technical decompression. Shallow water blackout is a real risk on ascent—always maintain proper buoyancy and controlled ascent rates. Abort the dive immediately if visibility drops significantly or if you experience any signs of nitrogen narcosis affecting judgment.
 
 ## Photography
 

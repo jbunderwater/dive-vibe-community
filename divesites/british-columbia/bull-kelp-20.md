@@ -3,9 +3,9 @@ name: Bull Kelp 20'
 lat: 49.3039119
 lng: -124.2166297
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
-siteType: reef
+maxDepth: 12
+entryType: boat
+siteType: kelp
 ref: null
 osmId: 11732411235
 addedBy: osm_import
@@ -22,10 +22,10 @@ Bull Kelp 20' is a dive site in British Columbia offering rewarding diving on he
 ## Site Information
 
 - **Location**: British Columbia, North America
-- **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Entry Type**: Boat dive
+- **Site Type**: Kelp
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 12 meters
 - **Typical Visibility**: 5-25 meters (15-80 feet)
 - **Current**: Variable, can be strong
 - **Best Time**: June to October

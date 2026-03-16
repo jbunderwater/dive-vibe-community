@@ -2,9 +2,9 @@
 name: Osprey
 lat: 48.7681908
 lng: -122.5282916
-difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+difficulty: Advanced
+maxDepth: 28
+entryType: boat
 siteType: wreck
 ref: null
 osmId: 9682570285
@@ -22,10 +22,10 @@ Osprey is a dive site in British Columbia featuring the wreck of the Osprey whic
 ## Site Information
 
 - **Location**: British Columbia, North America
-- **Entry Type**: Shore entry
-- **Site Type**: Wreck
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 28 meters
 - **Typical Visibility**: 5-25 meters (15-80 feet)
 - **Current**: Variable, can be strong
 - **Best Time**: June to October

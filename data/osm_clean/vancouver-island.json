@@ -5,13 +5,16 @@
     "lon": -127.7667,
     "osm_id": null,
     "osm_type": null,
-    "depth": 30,
+    "depth": 40,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research",
+      "validation_notes": "Strong currents, timed to slack tide. Colorful invertebrate life, soft corals, sponges, anemones."
     }
   },
   {
@@ -20,13 +23,16 @@
     "lon": -123.2333,
     "osm_id": null,
     "osm_type": null,
-    "depth": 56,
+    "depth": 30,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research",
+      "validation_notes": "Destroyer artificial reef. 366ft long. Dive 80-100ft mostly. Wreck penetration setup. Cabezon, anemones, cloud sponges, grunt sculpins."
     }
   },
   {
@@ -35,13 +41,16 @@
     "lon": -123.25,
     "osm_id": null,
     "osm_type": null,
-    "depth": 30,
+    "depth": 42,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research",
+      "validation_notes": "442ft Victory Class ship. Keel at 140ft, deck at 70ft. World's second largest artificial reef. Swiss cheese design for penetration. Octopus, wolf eels, lingcod, cabezon."
     }
   },
   {
@@ -50,13 +59,16 @@
     "lon": -124.05,
     "osm_id": null,
     "osm_type": null,
-    "depth": 30,
+    "depth": 33,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research",
+      "validation_notes": "Destroyer escort DDH, 366ft, sunk 2015 in Halkett Bay. Well-prepared with cutaways and safe penetration. Sits upright 110ft depth. 80 species recorded."
     }
   },
   {
@@ -65,13 +77,16 @@
     "lon": -123.2906,
     "osm_id": null,
     "osm_type": null,
-    "depth": 20,
-    "site_type": "reef",
+    "depth": 12,
+    "site_type": "wall",
     "entry_type": "shore",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research",
+      "validation_notes": "Premier dive spot multiple skill levels. Inner cove for beginners (15-40ft). Wall dive beyond for advanced. MPA. Rockfish, lingcod, wolf eel, octopus."
     }
   },
   {
@@ -80,13 +95,16 @@
     "lon": -123.2375,
     "osm_id": null,
     "osm_type": null,
-    "depth": 15,
-    "site_type": "wreck",
+    "depth": 18,
+    "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research",
+      "validation_notes": "Provincial Park. Multiple wrecks: Granthall barge, Centennial sailboat, Leaning Tower concrete pillars. Nakaya minesweeper at 70-100ft (advanced). Safe artificial reefs 6-18m."
     }
   },
   {
@@ -95,13 +113,16 @@
     "lon": -123.7833,
     "osm_id": null,
     "osm_type": null,
-    "depth": 25,
-    "site_type": "reef",
+    "depth": 37,
+    "site_type": "wall",
     "entry_type": "shore",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research",
+      "validation_notes": "Sunshine Coast. Two islets with rock reef. Granite walls with boot sponges, feather stars, anemones. Max 120ft+. Giant octopus, wolf eels, seals, sea lions, nudibranchs."
     }
   },
   {
@@ -110,13 +131,16 @@
     "lon": -123.8167,
     "osm_id": null,
     "osm_type": null,
-    "depth": 18,
-    "site_type": "reef",
+    "depth": 21,
+    "site_type": "drift",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research",
+      "validation_notes": "Extreme tidal drift between Cedar and Mudge Islands. Currents 5-9 knots. Live boat drop required. Can ride current through narrows. Requires experienced guide."
     }
   },
   {
@@ -126,12 +150,15 @@
     "osm_id": null,
     "osm_type": null,
     "depth": 25,
-    "site_type": "reef",
+    "site_type": "drift",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research",
+      "validation_notes": "Extreme tidal currents 5-7 knots. Slack tide only (6.5hr windows). 17km SW of Victoria. Ecological reserve. Sea lions, kelp forests, wreck debris. Spring/Fall best."
     }
   },
   {
@@ -140,13 +167,16 @@
     "lon": -123.3881,
     "osm_id": null,
     "osm_type": null,
-    "depth": 15,
+    "depth": 27,
     "site_type": "wall",
     "entry_type": "shore",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research",
+      "validation_notes": "Victoria Breakwater. Beginner-accessible inner sections (few ft to 25ft), advanced sections beyond (to 90ft). Cold water. Currents possible. Excellent photography. Barnacles/kelp on entry."
     }
   },
   {
@@ -155,13 +185,16 @@
     "lon": -123.9,
     "osm_id": null,
     "osm_type": null,
-    "depth": 15,
-    "site_type": "reef",
-    "entry_type": "shore",
-    "difficulty": "Advanced",
+    "depth": 20,
+    "site_type": "drift",
+    "entry_type": "boat",
+    "difficulty": "Expert",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research",
+      "validation_notes": "World's fastest tidal rapids. 16-17.68 knots current. North America's fastest. 2m height difference. Extreme rare slack tide windows. Scuba equivalent of Everest. Emerald-green water."
     }
   },
   {
@@ -170,13 +203,16 @@
     "lon": -127.6833,
     "osm_id": null,
     "osm_type": null,
-    "depth": 25,
+    "depth": 30,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research",
+      "validation_notes": "20km NW Port Hardy, Hurst Island. Strong current walls, timed to slack tide. Browning Wall: one of best in North America. Orange/red anemones, soft corals, sponges, nudibranchs."
     }
   },
   {
@@ -186,12 +222,15 @@
     "osm_id": null,
     "osm_type": null,
     "depth": 18,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "shore",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research",
+      "validation_notes": "26km N of Nanaimo, 15km S of Parksville. Madrona Point: multiple walls (Small, Mid, Maze to 60ft; Main to 90ft advanced). Wall Beach. Sea lions 1000+ lbs. Octopus, rockfish, lingcod."
     }
   },
   {
@@ -200,13 +239,16 @@
     "lon": -123.2667,
     "osm_id": null,
     "osm_type": null,
-    "depth": 20,
-    "site_type": "reef",
+    "depth": 27,
+    "site_type": "wall",
     "entry_type": "shore",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research",
+      "validation_notes": "Lions Bay, 10km N of Horseshoe Bay, Howe Sound. Protected bay + sheer walls. Two walls to 130ft+. Rocky reef near beach (12m). Boot sponges, cloud sponges. Octopus common."
     }
   }
 ]

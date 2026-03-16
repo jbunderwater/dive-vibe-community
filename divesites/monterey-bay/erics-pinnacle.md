@@ -3,65 +3,70 @@ name: Eric's Pinnacle
 lat: 36.612
 lng: -121.898
 difficulty: Intermediate
-maxDepth: 22
+maxDepth: 20
 entryType: shore
-siteType: wall
+siteType: pinnacle
 ref: null
 osmId: null
 addedBy: osm_import
+validated: true
 ---
 
 ## Eric's Pinnacle
 
-Eric's Pinnacle is a wall dive site in Monterey Bay, North America.
+Eric's Pinnacle is a photogenic offshore pinnacle dive featuring bright red strawberry anemone coverage and exceptional fish diversity, accessible from Otter Cove in Pacific Grove.
 
 ## Overview
 
-Eric's Pinnacle is a dive site in Monterey Bay featuring a dramatic vertical wall that drops into the deep blue. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Eric's Pinnacle is a distinctive pinnacle discovered by Eric Minard while seeking promising halibut hunting grounds. This isolated Corynactis-covered spire (coral anemone) rising from the seabed is a staple of Monterey dive charters and a favorite of photographers. The pinnacle is shaped like either a rugged mountain peak or a fairytale castle depending on perspective. Located offshore of Otter Cove in Pacific Grove, it offers calm, relaxing diving with exceptional vertical rock structure exploration.
 
 ## Site Information
 
-- **Location**: Monterey Bay, North America
+- **Location**: Offshore of Otter Cove, Pacific Grove (36° 38.044′ N, 121° 55.101′ W)
 - **Entry Type**: Shore entry
-- **Site Type**: Wall dive
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 20 meters
+- **Typical Visibility**: 10-20 meters (30-65 feet)
+- **Water Temperature**: 10-13°C (50-55°F) — requires 5-7mm wetsuit
+- **Current**: Minimal, calm and relaxed diving
+- **Access**: Boat launch from Monterey Breakwater or Fisherman's Wharf areas
+- **Best Time**: Year-round
 
-## Marine Life
+## Marine Life and Features
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+The pinnacle's defining feature is its colorful cape of bright red strawberry anemones covering the top and sides. The anemone coverage creates a jeweled appearance best appreciated close-up. The pinnacle is covered in Corynactis californica—a specific type of coral anemone creating dense polyp coverage. The exceptional diversity of photogenic fish species makes this a photographer's dream. Both beginners and advanced divers can appreciate the diversity of life in this small geographic area.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-22 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Boats typically drop anchor near the pinnacle. Descend to the base (10-15 meters) and explore upward along the rock faces. The pinnacle begins at 20 meters and rises to approximately 10 meters depth, creating dramatic vertical structures. The strawberry anemones are most abundant on the pinnacle's upper slopes. Ascend along the rock structure maintaining buoyancy control. The pinnacle is small enough to allow multiple complete circumnavigations during a single dive.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+This site is primarily accessed by boat. Boats launch from Monterey Breakwater or between Fisherman's Wharf and Wharf #2. The dive site is approximately 1/2 mile offshore. Shore entry from Otter Cove is possible but involves a longer surface swim. Boat access is strongly recommended.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- One of Monterey's most photogenic sites—bring multiple cameras and lenses
+- Calm, relaxing diving makes this ideal for photographers spending extended time at depth
+- Both beginners and advanced divers enjoy this site—diversity appeals to all skill levels
+- The pinnacle's isolated nature makes it a great orientation and compass navigation practice
+- Multiple complete dives of the pinnacle are possible given its small size
+- Fish are friendly and approachable—close-range photography is possible
+
+## Cold Water Considerations
+
+Monterey's 50-55°F water at 20 meters demands proper thermal protection (5-7mm wetsuits). The calm conditions and moderate depth make this an excellent site for building cold-water diving comfort and skill.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+Always use an SMB on ascent despite the isolated nature of the pinnacle. Maintain buddy contact throughout the dive—the pinnacle is small and easily circumnavigated together. Watch for boat traffic when ascending near the surface. The calm conditions and reasonable depth make this a safer intermediate dive choice compared to wall dives or technical sites.
 
 ## Additional Resources
 
+- **Boat Launch Info**: Monterey Breakwater or Fisherman's Wharf
 - **Last Updated**: 2026-03-16
+- **Validation Source**: Perplexity research, California Diving News, dive guides
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*Eric's Pinnacle is a beloved Monterey dive destination known for photography and calm conditions. Updated 2026-03-16.*

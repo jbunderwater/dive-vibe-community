@@ -3,8 +3,8 @@ name: Sentry Shoal
 lat: 49.9139175
 lng: -124.991333
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+maxDepth: 18
+entryType: boat
 siteType: reef
 ref: null
 osmId: 6422601048
@@ -22,10 +22,10 @@ Sentry Shoal is a dive site in British Columbia offering rewarding diving on hea
 ## Site Information
 
 - **Location**: British Columbia, North America
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 5-25 meters (15-80 feet)
 - **Current**: Variable, can be strong
 - **Best Time**: June to October

@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Isla Cerralvo North
 
-Isla Cerralvo North is a reef dive site in La Paz & Sea of Cortez, North America.
+Isla Cerralvo North is a reef dive site along the remote Isla Cerralvo, offering moderate diving with diverse marine life.
 
 ## Overview
 
-Isla Cerralvo North is a dive site in La Paz & Sea of Cortez offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Located at the northern end of Isla Cerralvo, a remote island in the southern Sea of Cortez, this site features productive reef structures with good marine diversity. Isla Cerralvo is less visited than the popular Espiritu Santo sites, offering a quieter diving experience while still providing encounters with abundant reef fish, pelagic species, and occasional sharks. The site is suitable for intermediate divers with some current experience.
 
 ## Site Information
 
-- **Location**: La Paz & Sea of Cortez, North America
+- **Location**: Northern end of Isla Cerralvo, Sea of Cortez
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Typical Visibility**: 15-25 meters
+- **Current**: Mild to moderate
+- **Best Time**: July to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+The site features reef fish including snappers, groupers, jacks, and cabrilla. Larger species include sea lions, eagle rays, mobula rays, and occasionally hammerhead sharks and whale sharks. Soft and hard corals decorate the reef structures, providing habitat for macro subjects including nudibranchs, crustaceans, and sea stars. The remote location offers good opportunities for encountering pelagic species.
 
 ## Dive Profile
 

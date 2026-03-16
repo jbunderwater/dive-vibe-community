@@ -3,8 +3,8 @@ name: Brotchie Ledge
 lat: 48.4066162
 lng: -123.3881989
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+maxDepth: 18
+entryType: boat
 siteType: reef
 ref: null
 osmId: 6416967672
@@ -22,10 +22,10 @@ Brotchie Ledge is a dive site in British Columbia offering rewarding diving on h
 ## Site Information
 
 - **Location**: British Columbia, North America
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 5-25 meters (15-80 feet)
 - **Current**: Variable, can be strong
 - **Best Time**: June to October

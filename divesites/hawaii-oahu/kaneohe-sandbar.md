@@ -2,9 +2,9 @@
 name: Kaneohe Sandbar
 lat: 21.4665658
 lng: -157.8105985
-difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+difficulty: Beginner
+maxDepth: 3
+entryType: boat
 siteType: reef
 ref: null
 osmId: 1068704684
@@ -13,26 +13,31 @@ addedBy: osm_import
 
 ## Kaneohe Sandbar
 
-Kaneohe Sandbar is a reef dive site in Hawaii - Oahu, Pacific.
+The Kaneohe Sandbar is Oahu's only barrier reef system, creating a unique and protected marine environment ideal for beginner-friendly snorkeling and diving with calm, shallow waters.
 
 ## Overview
 
-Kaneohe Sandbar is a dive site in Hawaii - Oahu offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Located on Oahu's windward (east) coast in Kaneohe Bay, the Kaneohe Sandbar is part of Hawaii's only barrier reef system. This unique geological feature creates protected, shallow waters that are perfect for all skill levels. Tours depart from He'eia Kea Boat Harbor with a range of shared and private options offering snorkeling, kayaking, banana boats, and other water activities. The fringing reefs surrounding the sandbar are home to about 40 different species of coral and abundant marine life including Hawaiian green sea turtles.
 
 ## Site Information
 
-- **Location**: Hawaii - Oahu, Pacific
-- **Entry Type**: Shore entry
+- **Location**: Kaneohe Bay, windward (east) Oahu
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Difficulty Level**: Beginner
+- **Water Depth**: Waist-deep at high tide, ankle-deep at low tide
+- **Typical Visibility**: Good in reef-protected waters
+- **Current**: Minimal—bay is protected
+- **Best Time**: Year-round
+- **Special Feature**: Only barrier reef in Hawaii
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+The area features colorful schools of fish, 40+ species of coral (including finger coral and rice coral), Hawaiian green sea turtles, rays, and numerous reef fish. The barrier reef protection creates stable conditions for a thriving marine ecosystem.
+
+## Activities
+
+Tours typically include snorkeling, kayaking, stand-up paddle boarding (SUP), water volleyball, and floating platform lounging. Many tour packages include banana boat and bumper tube rides, and meal options. Live Hawaiian music is often featured on tours.
 
 ## Dive Profile
 

@@ -2,9 +2,9 @@
 name: The Ready Shipwreck
 lat: 49.6195937
 lng: -123.2076498
-difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+difficulty: Advanced
+maxDepth: 28
+entryType: boat
 siteType: wreck
 ref: null
 osmId: 12589834904
@@ -22,10 +22,10 @@ The Ready Shipwreck is a dive site in British Columbia featuring the wreck of th
 ## Site Information
 
 - **Location**: British Columbia, North America
-- **Entry Type**: Shore entry
-- **Site Type**: Wreck
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 28 meters
 - **Typical Visibility**: 5-25 meters (15-80 feet)
 - **Current**: Variable, can be strong
 - **Best Time**: June to October

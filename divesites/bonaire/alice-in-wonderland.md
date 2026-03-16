@@ -3,7 +3,7 @@ name: Alice in Wonderland
 lat: 12.0998035
 lng: -68.2852927
 difficulty: Beginner
-maxDepth: 30
+maxDepth: 22
 entryType: shore
 siteType: reef
 ref: 
@@ -21,7 +21,7 @@ Alice in Wonderland is a beautiful dive site located in southern Bonaire near Pi
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 30 meters
+- **Maximum Depth**: 22 meters
 - **Typical Visibility**: 20-30 meters
 - **Current**: Usually light
 - **Best Time**: Morning to early afternoon

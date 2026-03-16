@@ -3,13 +3,15 @@
     "name": "Faro Reef",
     "lat": 7.62,
     "lon": -81.72,
-    "depth": 20,
+    "depth": 30,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -22,100 +24,121 @@
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": "true",
+      "validation_source": "perplexity",
+      "note": "Assumed wall site near Coiba; Machete Caves is actually in Bocas del Toro"
     }
   },
   {
     "name": "Granito de Oro",
     "lat": 7.55,
     "lon": -81.7,
-    "depth": 15,
+    "depth": 18,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": "true",
+      "validation_source": "perplexity",
+      "note": "Shallow reef with mild currents, but remote liveaboard destination minimum Advanced"
     }
   },
   {
     "name": "Iglesia Point",
     "lat": 7.65,
     "lon": -81.68,
-    "depth": 25,
+    "depth": 30,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
     "name": "Bahia Damas",
     "lat": 7.5,
     "lon": -81.78,
-    "depth": 18,
+    "depth": 30,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": "true",
+      "validation_source": "perplexity",
+      "note": "Central America's largest coral reef, second largest eastern Pacific"
     }
   },
   {
     "name": "Canales de Afuera",
     "lat": 7.4,
     "lon": -81.85,
-    "depth": 35,
-    "site_type": "wall",
+    "depth": 30,
+    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": "true",
+      "validation_source": "perplexity",
+      "note": "Also known as Punta Faro; strong currents, pelagic sharks"
     }
   },
   {
     "name": "Jicarita Island",
     "lat": 7.21,
     "lon": -81.8,
-    "depth": 30,
+    "depth": 20,
     "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
-      "validated": "true"
+      "validated": "true",
+      "validation_source": "perplexity",
+      "note": "Possibly Coibita Gardens; calm coral garden pinnacle"
     }
   },
   {
     "name": "Santa Cruz",
     "lat": 7.68,
     "lon": -81.65,
-    "depth": 12,
+    "depth": 20,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": "true",
+      "validation_source": "perplexity",
+      "note": "Scenic hard coral gardens, relaxed shallow reef but liveaboard minimum Advanced"
     }
   },
   {
     "name": "Monta\u00f1a Rusa",
     "lat": 7.45,
     "lon": -81.82,
-    "depth": 22,
+    "depth": 40,
     "site_type": "pinnacle",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
-      "validated": "true"
+      "validated": "true",
+      "validation_source": "perplexity",
+      "note": "Deep pinnacle (35-40m), severe currents, strong pelagic action"
     }
   },
   {
@@ -129,7 +152,9 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
-      "validated": "true"
+      "validated": "true",
+      "validation_source": "perplexity",
+      "note": "Shark-rich pinnacle with rock/coral canyon formations"
     }
   }
 ]

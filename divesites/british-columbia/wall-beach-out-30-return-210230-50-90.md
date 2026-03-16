@@ -2,8 +2,8 @@
 name: Wall beach out 30 return 210/230 50-90'
 lat: 49.3047092
 lng: -124.213618
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Advanced
+maxDepth: 30
 entryType: shore
 siteType: wall
 ref: null
@@ -24,8 +24,8 @@ Wall beach out 30 return 210/230 50-90' is a dive site in British Columbia featu
 - **Location**: British Columbia, North America
 - **Entry Type**: Shore entry
 - **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 5-25 meters (15-80 feet)
 - **Current**: Variable, can be strong
 - **Best Time**: June to October

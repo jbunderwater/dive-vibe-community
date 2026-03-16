@@ -2,9 +2,9 @@
 name: HMCS Runnymede
 lat: 50.39475
 lng: -125.9558585
-difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+difficulty: Advanced
+maxDepth: 28
+entryType: boat
 siteType: wreck
 ref: null
 osmId: 817763091
@@ -22,10 +22,10 @@ HMCS Runnymede is a dive site in British Columbia featuring the wreck of the HMC
 ## Site Information
 
 - **Location**: British Columbia, North America
-- **Entry Type**: Shore entry
-- **Site Type**: Wreck
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 28 meters
 - **Typical Visibility**: 5-25 meters (15-80 feet)
 - **Current**: Variable, can be strong
 - **Best Time**: June to October

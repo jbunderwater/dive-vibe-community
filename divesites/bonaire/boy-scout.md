@@ -3,7 +3,7 @@ name: Boy Scout
 lat: 12.1589381
 lng: -68.2810107
 difficulty: Beginner
-maxDepth: 30
+maxDepth: 25
 entryType: shore
 siteType: reef
 ref: 
@@ -21,7 +21,7 @@ Boy Scout is a beautiful dive site located in central Bonaire near Bari Reef. Th
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 30 meters
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20-30 meters
 - **Current**: Usually light
 - **Best Time**: Morning to early afternoon

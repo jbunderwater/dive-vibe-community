@@ -2,8 +2,8 @@
 name: Santa Cruz
 lat: 7.68
 lng: -81.65
-difficulty: Beginner
-maxDepth: 12
+difficulty: Advanced
+maxDepth: 20
 entryType: boat
 siteType: reef
 ref: null
@@ -13,55 +13,57 @@ addedBy: osm_import
 
 ## Santa Cruz
 
-Santa Cruz is a reef dive site in Coiba National Park, South America.
+Santa Cruz is a scenic shallow reef dive known for its vibrant hard coral gardens and peaceful aquarium-like atmosphere, making it an excellent "rest" dive in Coiba's Advanced schedule.
 
 ## Overview
 
-Santa Cruz is a dive site in Coiba National Park offering excellent diving on healthy coral reef structures. Located in the South America region, this site offers 10-25 meters of visibility with water temperatures averaging 15-26°C.
+Santa Cruz features beautiful hard coral formations creating an aquarium-like environment with marine life arranged among colorful corals. This shallow, scenic reef offers relaxed shallow diving with mild currents and excellent visibility, making it popular as a recovery dive or early-trip acclimatization site. Despite its beginner-friendly terrain and shallow depths (6-20 meters), this remote liveaboard destination requires Advanced certification due to Coiba's remote location and overall diving demands. Water temperatures average 26-30°C year-round with excellent 15-30 meter visibility.
 
 ## Site Information
 
-- **Location**: Coiba National Park, South America
+- **Location**: Eastern Coiba Island, Panama
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 12 meters
-- **Typical Visibility**: 10-25 meters (30-80 feet)
-- **Current**: Moderate to strong
-- **Best Time**: June to November
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 20 meters
+- **Typical Visibility**: 15-30 meters (50-100 feet)
+- **Current**: Mild to none
+- **Water Temperature**: 26-30°C (79-86°F) year-round
+- **Best Time**: Year-round diveable
 
 ## Marine Life
 
-Divers at this site can expect to encounter hammerhead sharks, whale sharks, sea lions, marine iguanas, manta rays, eagle rays, sea turtles, dolphins. Additional species commonly sighted include penguins, moray eels.
+Abundant colorful reef fish species, scorpionfish (rare sightings), diverse fish fauna, and vibrant hard coral gardens. Occasional reef sharks and stingrays pass through, though this site emphasizes coral ecology and smaller species over pelagic megafauna. Excellent macro habitat with diverse invertebrates.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin in shallow water (6-9 meters) exploring vibrant hard coral gardens. Spend most dive time in upper 15 meters where light is optimal and coral color saturates brilliantly. Optional deeper exploration to 20 meters if conditions permit. Leisurely pace allows extended coral observation and macro photography. Ascend slowly while enjoying final coral zone views before surfacing.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Shallow water boat entry (5-8 meters) with giant stride or controlled entry. Descend along coral formations at leisurely pace. Light buoyancy work near corals essential. Ascend through same coral zone with final safety stop 3-5 meters in shallow water. SMB optional due to calm conditions but recommended for crew awareness.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Excellent "reset" dive after deeper or more challenging sites
+- Perfect for multi-dive days due to minimal air consumption at shallow depths
+- Bring macro lens for fish and coral photography
+- Ideal third-day dive for trip accumulation
+- Watch for camouflaged scorpionfish—excellent photography subject
+- Neutral buoyancy critical to protect delicate corals
 
 ## Safety Considerations
 
-Be aware of strong currents, cold thermoclines, surge in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Mild conditions allow very relaxed diving, but maintain buddy contact throughout. Sun exposure high on shallow dives—liberal sunscreen essential. Maintain excellent buoyancy control to avoid coral damage. Current can shift unexpectedly; monitor briefing carefully. Always use SMB for boat communication. Enjoy the peaceful dive while remaining vigilant.
 
-## Photography
+## Seasonal Notes
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Year-round diving excellent. Dry season (December-April) offers warmest surface temps (29-30°C) and brightest morning light. Rainy season (May-November) maintains excellent visibility with slightly cooler water (26-28°C).
 
 ## Additional Resources
 
 - **Last Updated**: 2026-03-16
+- **Validation Source**: Perplexity research (March 2026)
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*Dive site information researched March 2026. Updated with site-specific characteristics of this scenic Coiba reef.*

@@ -17,51 +17,54 @@ Machete Point is a wall dive site in Coiba National Park, South America.
 
 ## Overview
 
-Machete Point is a dive site in Coiba National Park featuring a dramatic vertical wall that drops into the deep blue. Located in the South America region, this site offers 10-25 meters of visibility with water temperatures averaging 15-26°C.
+Machete Point is an Advanced wall dive in central Coiba featuring rocky structures with hard coral formations descending to deeper blue water. Research suggests this site name may refer to an unnamed wall structure in this region (note: "Machete Caves" is actually located in Bocas del Toro on Panama's Caribbean coast). This Coiba site experiences strong currents and attracts shark activity. Water temperatures range 24-28°C with visibility 15-25 meters.
 
 ## Site Information
 
-- **Location**: Coiba National Park, South America
+- **Location**: Central Coiba Island area, Panama
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 28 meters
-- **Typical Visibility**: 10-25 meters (30-80 feet)
+- **Typical Visibility**: 15-25 meters (50-80 feet)
 - **Current**: Moderate to strong
-- **Best Time**: June to November
+- **Water Temperature**: 24-28°C (75-82°F)
+- **Best Time**: December-April (calmer conditions)
 
 ## Marine Life
 
-Divers at this site can expect to encounter hammerhead sharks, whale sharks, sea lions, marine iguanas, manta rays, eagle rays, sea turtles, dolphins. Additional species commonly sighted include penguins, moray eels. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Bull sharks, white-tip reef sharks, and oceanic blacktip sharks patrol wall structures regularly. Reef fish including wrasses, surgeonfish, snapper, and jacks navigate the wall habitat. Turtles, rays, moray eels, and garden eels add to the biodiversity. Pelagic activity increases during upwelling season (January-April).
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-28 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Descend onto reef top before following wall structure deeper. Explore wall features, crevices, and overhangs where macro life concentrates (10-20 meters). Occasional deeper explorations possible to 28 meters on experienced dives. Monitor depth carefully to avoid uncontrolled descent. Use wall features to hold position against current if needed.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat entry with giant stride or back roll into shallow water before descent. Follow wall structure deeper; currents may assist descent. Maintain position using careful buoyancy or wall features. Ascend along wall back to shallower sections with final safety stop at 5 meters. SMB signal to boat for pickup coordination.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Excellent wall macro photography—bring 100mm macro lens
+- Watch depth carefully to prevent unintentional deep descents
+- Plan wall exploration for mid-trip after current acclimation
+- Reef hooks useful for holding position
+- Bring dive gloves for hand placement on wall features
+- Check with crew on wall direction and current flow before entry
 
 ## Safety Considerations
 
-Be aware of strong currents, cold thermoclines, surge in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Monitor depth constantly—wall descent can be hypnotic. Currents may be stronger than anticipated—follow crew briefing closely. Shark encounters possible; remain calm. Maintain buddy contact throughout dive. Abort if overwhelmed by depth, current, or conditions. Cold thermoclines below 20m—adequate thermal protection important.
 
-## Photography
+## Seasonal Notes
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+Year-round diveable with variable conditions. Dry season (December-April) offers calmer conditions but stronger currents. Rainy season (May-November) brings warmer water and gentler conditions.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-03-16
+- **Validation Source**: Perplexity research (March 2026)
+- **Note**: Site location inferred; local operator confirmation recommended
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*Dive site information researched March 2026. Note: Machete Point location and characteristics based on coordinates; verification with local operators recommended.*

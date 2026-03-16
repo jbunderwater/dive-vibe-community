@@ -13,26 +13,28 @@ addedBy: osm_import
 
 ## Mahi Wreck
 
-Mahi Wreck is a historic wreck dive in Hawaii - Oahu, Pacific.
+The Mahi is a Navy minesweeper and one of Oahu's most famous wreck dives, renowned for its pristine condition and abundant white-spotted eagle rays.
 
 ## Overview
 
-Mahi Wreck is a dive site in Hawaii - Oahu featuring the wreck of the Mahi Wreck. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Located off Waianae on Oahu's West Shore, the Mahi is a 190-foot (63-meter) Navy vessel that sits upright on the seafloor. The vessel was intentionally sunk to create an artificial reef and is now heavily encrusted with coral. While the wreck has some collapsed areas making interior penetration unsafe, exterior exploration is excellent. The site is famous for encounters with schools of eagle rays, making it a spectacular dive.
 
 ## Site Information
 
-- **Location**: Hawaii - Oahu, Pacific
+- **Location**: Waianae, West Oahu
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 27 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Main Deck Depth**: ~20 meters (65 feet)
+- **Typical Visibility**: Exceeds 100 feet on good days
+- **Current**: Moderate
+- **Best Time**: Year-round, though calmer May-September
+- **Bottom Time**: ~30 minutes
 
 ## Marine Life
 
-Divers at this site can expect to encounter coral growth, anemones, lionfish, scorpionfish, glassy sweepers, manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks. Additional species commonly sighted include sea turtles, napoleon wrasse, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The Mahi is famous for its eagle ray encounters, with white-spotted eagle rays frequently seen at this site. Other common sightings include schools of pufferfish, octopus, nudibranchs, and whitetip reef sharks. The coral-encrusted structure provides excellent habitat for reef fish and invertebrates.
 
 ## Dive Profile
 

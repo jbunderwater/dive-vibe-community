@@ -2,8 +2,8 @@
 name: Playa Frans
 lat: 12.245742
 lng: -68.4141402
-difficulty: Beginner
-maxDepth: 30
+difficulty: Intermediate
+maxDepth: 35
 entryType: shore
 siteType: reef
 ref: 
@@ -20,8 +20,8 @@ Playa Frans is a beautiful dive site located in northern Bonaire near Washington
 - **Location**: North Bonaire (near Washington Slagbaai National Park)
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 30 meters
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 35 meters
 - **Typical Visibility**: 20-30 meters
 - **Current**: Usually light
 - **Best Time**: Morning to early afternoon

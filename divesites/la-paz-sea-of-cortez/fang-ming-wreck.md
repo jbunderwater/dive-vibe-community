@@ -3,7 +3,7 @@ name: Fang Ming Wreck
 lat: 24.28
 lng: -110.05
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 22
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Fang Ming Wreck
 
-Fang Ming Wreck is a historic wreck dive in La Paz & Sea of Cortez, North America.
+The Fang Ming is an intentionally-sunk Chinese fishing vessel that has become one of Latin America's greatest artificial reef dive attractions.
 
 ## Overview
 
-Fang Ming Wreck is a dive site in La Paz & Sea of Cortez featuring the wreck of the Fang Ming Wreck. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The Fang Ming was a Chinese fishing vessel later converted to a cargo ship, captured by the Mexican Navy in April 1995 on an illegal mission to smuggle Chinese workers to the US. Rather than scrapping the vessel, Mexico made a visionary decision: in November 1999, the Fang Ming was deliberately sunk as a controlled artificial reef, becoming the first intentionally sunken ship in Latin America. Positioned on the west side of Espiritu Santo Island at a protected depth of 22 meters, away from navigation channels, the wreck has transformed into a thriving marine ecosystem hosting abundant coral growth and diverse fish life.
 
 ## Site Information
 
-- **Location**: La Paz & Sea of Cortez, North America
+- **Location**: West side of Espiritu Santo Island, Espiritu Santo National Park
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 22 meters
+- **Typical Visibility**: 15-25 meters
+- **Current**: Mild to moderate
+- **Best Time**: July to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The Fang Ming now hosts a magnificent coral reef ecosystem with colorful soft and hard corals encrusting the hull. Fish life includes amberjacks, snappers, groupers, jacks, angelfish, pufferfish, and numerous species of reef fish. Macro subjects abound, with nudibranchs, sea stars, and crustaceans visible on encrusted surfaces. Occasionally, sea lions, eagle rays, and mobula rays pass through the site.
 
 ## Dive Profile
 

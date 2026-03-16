@@ -3,9 +3,9 @@ name: Snake Bay
 lat: 12.1384966
 lng: -68.99653
 difficulty: Intermediate
-maxDepth: 45
+maxDepth: 22
 entryType: Shore
-siteType: reef
+siteType: wall
 ref: null
 osmId: null
 addedBy: assistant
@@ -13,22 +13,22 @@ addedBy: assistant
 
 ## Snake Bay
 
-Snake Bay is a serene shore diving site offering excellent coral formations, abundant marine life, and occasional dolphin encounters in Sint Michiel.
+Snake Bay is a dramatic wall dive featuring a gentle slope to deep water and abundant marine life on Curaçao's central west coast.
 
 ## Overview
 
-Snake Bay (Boca Sami area) is a peaceful shore diving destination located on Curaçao's central west coast, offering excellent diving conditions in a less crowded environment. The site features a gentle sloping reef with diverse coral formations and abundant marine life typical of Curaçao's healthy reef systems. Snake Bay is known for its reliable calm conditions, making it suitable for divers of all experience levels and particularly popular for training dives and underwater photography. The site has gained reputation for occasional wild dolphin encounters and regular turtle sightings. The combination of easy access, diverse marine life, and tranquil setting makes Snake Bay a favorite among local divers seeking a peaceful underwater experience.
+Snake Bay is a shore diving destination located on Curaçao's central west coast. The site features distinctive wall diving topography characteristic of Curaçao, with a gentle slope from shallow water descending to depths suitable for intermediate divers. The wall begins around 6 meters depth and extends to 22+ meters with vibrant coral formations and excellent marine life encounters. The protected bay conditions and accessible wall make Snake Bay a favorite among divers seeking Curaçao's signature Caribbean wall diving experience. Regular encounters with sea turtles, eagle rays, and schools of tropical fish are typical at this site.
 
 ## Site Information
 
 - **Location**: Central west coast, Sint Michiel area
-- **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Entry Type**: Shore
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 45 meters (150 feet)
-- **Typical Visibility**: 15-25 meters (50-80 feet)
-- **Current**: Usually minimal to none
-- **Best Time**: Year-round, excellent for afternoon diving
+- **Maximum Depth**: 22 meters
+- **Typical Visibility**: 20-30 meters (65-100 feet)
+- **Current**: Usually minimal, occasional mild current
+- **Best Time**: Year-round, excellent conditions
 
 ## Marine Life
 
@@ -36,7 +36,7 @@ Snake Bay supports diverse Caribbean marine life with the added excitement of oc
 
 ## Dive Profile
 
-The dive begins from a rocky shoreline in shallow water (2-3 meters), with the reef extending directly offshore. The site features a gentle slope from shallow coral gardens to deeper reef areas reaching 30-45 meters for experienced divers. The diverse topography includes coral formations, sandy patches, and rocky areas providing varied habitats. The large reef area allows for extended exploration with interesting marine life at all depths. The gentle slope makes it ideal for multi-level diving profiles and gradual ascents.
+Entry is from a rocky shoreline in shallow water (2-3 meters). The wall begins around 6 meters depth with a gentle slope descending to 22+ meters. The wall features healthy coral formations including brain corals and soft corals, with abundant tropical fish life at all depths. The accessible wall topography and protective bay conditions make Snake Bay ideal for intermediate divers seeking wall diving experience. The site accommodates varied dive profiles from shallow reef exploration to deeper wall diving depending on diver certification and experience.
 
 ## Entry and Exit
 

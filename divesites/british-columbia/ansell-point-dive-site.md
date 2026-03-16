@@ -2,10 +2,10 @@
 name: Ansell Point Dive Site
 lat: 49.3968729
 lng: -123.2520372
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Advanced
+maxDepth: 30
 entryType: shore
-siteType: reef
+siteType: wall
 ref: null
 osmId: 12592552419
 addedBy: osm_import
@@ -23,9 +23,9 @@ Ansell Point Dive Site is a dive site in British Columbia offering rewarding div
 
 - **Location**: British Columbia, North America
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Site Type**: Wall dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 5-25 meters (15-80 feet)
 - **Current**: Variable, can be strong
 - **Best Time**: June to October

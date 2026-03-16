@@ -3,8 +3,8 @@ name: Turn Rock
 lat: 48.5349255
 lng: -122.9645732
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+maxDepth: 18
+entryType: boat
 siteType: reef
 ref: null
 osmId: 632735265
@@ -22,10 +22,10 @@ Turn Rock is a dive site in British Columbia offering rewarding diving on health
 ## Site Information
 
 - **Location**: British Columbia, North America
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 5-25 meters (15-80 feet)
 - **Current**: Variable, can be strong
 - **Best Time**: June to October

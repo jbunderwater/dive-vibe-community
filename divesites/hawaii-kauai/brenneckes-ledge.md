@@ -3,7 +3,7 @@ name: Brennecke's Ledge
 lat: 21.873
 lng: -159.439
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 75
 entryType: boat
 siteType: reef
 ref: null
@@ -13,26 +13,27 @@ addedBy: osm_import
 
 ## Brennecke's Ledge
 
-Brennecke's Ledge is a reef dive site in Hawaii - Kauai, Pacific.
+Brennecke's Ledge features a massive lava shelf that runs parallel to Kauai's southeast shore for miles, topped with a dramatic 90-foot wall drop into deeper water.
 
 ## Overview
 
-Brennecke's Ledge is a dive site in Hawaii - Kauai offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Brennecke's Ledge is a dramatic volcanic reef dive running parallel to the southeastern shore. The broad lava shelf is peppered with pink and white cauliflower coral housing hermit crabs and other crustaceans. The shelf's numerous overhangs are decorated with vibrant orange cup coral and soft corals, attracting nudibranchs, sea stars, and the rare orange-banded cowry. The drop-off creates spectacular wall diving with strong marine life activity at multiple depth zones, making this an excellent intermediate dive with dramatic topography.
 
 ## Site Information
 
-- **Location**: Hawaii - Kauai, Pacific
+- **Location**: Southeast shore, Poipu area, Kauai
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
+- **Maximum Depth**: 75 meters
+- **Typical Visibility**: 20-45 meters (65-150 feet)
 - **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Best Time**: May-September
+- **Water Temperature**: 24-27°C (75-81°F)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Green sea turtles (abundant), white-tip sharks, giant trevally, schools of blue-striped snapper, macro critters including nudibranchs and frogfish, reef crabs, lobsters, banded angelfish, pincushion sea stars, and Triton's trumpet shells. The reef structure attracts both schooling fish and larger predators patrolling the drop-off.
 
 ## Dive Profile
 

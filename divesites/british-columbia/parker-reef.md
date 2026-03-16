@@ -3,9 +3,9 @@ name: Parker Reef
 lat: 48.7257769
 lng: -122.8933075
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 12
 entryType: shore
-siteType: reef
+siteType: kelp
 ref: null
 osmId: 1198856783
 addedBy: osm_import
@@ -23,9 +23,9 @@ Parker Reef is a dive site in British Columbia offering rewarding diving on heal
 
 - **Location**: British Columbia, North America
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Kelp
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 12 meters
 - **Typical Visibility**: 5-25 meters (15-80 feet)
 - **Current**: Variable, can be strong
 - **Best Time**: June to October

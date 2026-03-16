@@ -2,9 +2,9 @@
 name: Tripod Reef
 lat: 21.3067851
 lng: -158.0384924
-difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+difficulty: Beginner
+maxDepth: 20
+entryType: boat
 siteType: reef
 ref: null
 osmId: 1255992015
@@ -13,26 +13,27 @@ addedBy: osm_import
 
 ## Tripod Reef
 
-Tripod Reef is a reef dive site in Hawaii - Oahu, Pacific.
+Tripod Reef is a fringing coral reef with shallow, accessible depths ideal for beginner and intermediate divers exploring Oahu's diverse reef systems.
 
 ## Overview
 
-Tripod Reef is a dive site in Hawaii - Oahu offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Located off Oahu's west central coast, Tripod Reef is a fringing coral reef formation with good coral coverage and shallow to moderate depths. The reef features a sandy bottom in some areas and established coral formations. The site is accessible via boat dive and offers reliable diving conditions with good visibility on most days. The name likely refers to its structure or distinctive navigation markers.
 
 ## Site Information
 
-- **Location**: Hawaii - Oahu, Pacific
-- **Entry Type**: Shore entry
+- **Location**: West-central Oahu
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 20 meters
+- **Typical Visibility**: Good
+- **Current**: Light to moderate
+- **Best Time**: Year-round, calmer May-September
+- **Water Temperature**: 75-80°F (24-27°C) year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Tripod Reef supports healthy coral formations including various hard coral species and provides habitat for reef fish, invertebrates, and occasional sea turtles. The shallow depths and coral coverage make this a good site for photography and detailed reef observation.
 
 ## Dive Profile
 

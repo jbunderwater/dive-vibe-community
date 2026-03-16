@@ -3,7 +3,7 @@ name: La Jolla Cove
 lat: 32.8508
 lng: -117.2726
 difficulty: Beginner
-maxDepth: 10
+maxDepth: 15
 entryType: shore
 siteType: reef
 ref: null
@@ -13,30 +13,40 @@ addedBy: osm_import
 
 ## La Jolla Cove
 
-La Jolla Cove is a reef dive site in San Diego - La Jolla, North America.
+La Jolla Cove is an iconic beginner-friendly shore dive featuring abundant marine life, towering kelp forests, and the famous Seven Caves in a protected marine reserve.
 
 ## Overview
 
-La Jolla Cove is a dive site in San Diego - La Jolla offering excellent diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+La Jolla Cove, part of the Matlahuayl State Marine Reserve, is one of California's most spectacular and accessible dive sites. The protected cove features crystal-clear waters that descend over rocky reefs and kelp beds to approximately 15 meters. The area is famous for three things: the thriving kelp forest canopy, leopard sharks that congregate here in summer (June-September), and resident sea lions that often interact with divers. The cove features several large sea caves and rocky formations that provide shelter for abundant fish species. Calm morning conditions make this ideal for newer divers and photographers.
 
 ## Site Information
 
-- **Location**: San Diego - La Jolla, North America
+- **Location**: La Jolla Cove, San Diego (32°51'01.9"N 117°16'21.4"W)
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 10 meters
+- **Maximum Depth**: 15 meters
 - **Typical Visibility**: 5-25 meters (15-80 feet)
 - **Current**: Variable, can be strong
 - **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+**Leopard Sharks**: Summer visitors (June-September) with populations reaching thousands. Typically found at 5-15 meters, generally harmless and curious toward divers.
+
+**Sea Lions**: Year-round residents with juveniles particularly active in early mornings. Often approach divers for interaction.
+
+**Fish**: Garibaldi (bright orange), opaleye, halfmoon, sheephead, kelp bass, and giant sea bass shelter in the rocky reef.
+
+**Invertebrates**: Sea urchins, anemones, and numerous nudibranchs cover rock surfaces. Occasional bat rays and horn sharks hunt along the sandy areas.
+
+## Site Features
+
+The cove contains four distinct habitats: seagrass meadows, kelp beds, reefs, and the famous "Seven Caves"—shallow chambers within the rock formations that are accessible and exciting for exploration. Ledges, rock piles, and sand channels provide varied diving throughout the cove.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 10 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-10 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin in the shallow entry area (3-5 meters) and descend along the reef slope. Early mornings offer the best sea lion encounters. Work your way through the reef exploring the various habitat types. The Seven Caves are best explored with good buoyancy control to avoid disturbing the delicate ecosystem inside. Typical dives stay in the 5-15 meter range with relaxed bottom times of 60+ minutes.
 
 ## Entry and Exit
 

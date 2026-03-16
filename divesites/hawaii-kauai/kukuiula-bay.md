@@ -13,26 +13,28 @@ addedBy: osm_import
 
 ## Kukuiula Bay
 
-Kukuiula Bay is a reef dive site in Hawaii - Kauai, Pacific.
+Kukuiula Harbor and Beach offer calm, sheltered diving on Kauai's South Shore, with convenient facilities and an excellent base for shore diving exploration.
 
 ## Overview
 
-Kukuiula Bay is a dive site in Hawaii - Kauai offering excellent diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Kukuiula Harbor is located on the sunny southern coast of Kauai, nestled between the famous Spouting Horn blowhole and the golden sands of Po'ipu Beach. The harbor's protective breakwater keeps large waves at bay, creating calm waters ideal for a leisurely shore dive. This tranquil escape offers less crowded conditions than nearby Po'ipu beaches while providing convenient facilities. The small beach is sheltered and calm, making it perfect for beginner divers. From May through September, Kukuiula Harbor serves as the launch point for boat dives along the south shore and exclusive Ni'ihau charters for operators like Kauai Sea Sports and Fathom Five.
 
 ## Site Information
 
-- **Location**: Hawaii - Kauai, Pacific
+- **Location**: Poipu area (12 miles southwest of Lihue Airport), South Shore, Kauai
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 10 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 15-40 meters (50-130 feet)
+- **Current**: Mild to light
+- **Best Time**: Year-round (calm south shore)
+- **Water Temperature**: 25-28°C (77-82°F)
+- **Facilities**: Restrooms, showers on-site; no lifeguard
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Reef fish, sea turtles, coral structures, and typical south shore tropical species. The protected harbor waters make this ideal for beginners while still offering decent reef diving opportunities.
 
 ## Dive Profile
 

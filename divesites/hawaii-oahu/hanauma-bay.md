@@ -13,26 +13,31 @@ addedBy: osm_import
 
 ## Hanauma Bay
 
-Hanauma Bay is a reef dive site in Hawaii - Oahu, Pacific.
+Hanauma Bay is Oahu's most protected and popular marine preserve, a pristine marine ecosystem within a volcanic crater offering exceptional snorkeling and beginner diving.
 
 ## Overview
 
-Hanauma Bay is a dive site in Hawaii - Oahu offering excellent diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Located on Oahu's southeast coast approximately 10 miles east of Waikiki, Hanauma Bay is a designated State Nature Preserve formed within a volcanic crater. The bay protects an extraordinary marine ecosystem with over 400 species of fish and numerous Hawaiian green sea turtles. The calm, shallow, protected waters and dense concentration of coral just offshore make this an ideal location for beginning divers and snorkelers. However, visitor access is strictly managed through a reservation system to protect the marine environment.
 
 ## Site Information
 
-- **Location**: Hawaii - Oahu, Pacific
+- **Location**: Southeast coast of Oahu (Kahalu'u)
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 8 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: Good to excellent in protected bay
+- **Current**: Minimal—bay is protected
+- **Best Time**: Any day during operating hours
+- **Water Temperature**: 75-80°F (24-27°C) year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Hanauma Bay hosts over 400 species of fish including trigger fish, yellow tang, angel fish, trumpet fish, parrot fish, and butterfly fish. Hawaiian green sea turtles are frequently seen. The dense concentration of hard and soft coral throughout the bay provides food and shelter for the thriving marine community.
+
+## Visitor Information
+
+The bay is open Wednesday-Sunday only (closed Mondays and Tuesdays for reef recovery). All visitors are required to watch a 9-minute educational video covering marine life, ecosystem protection, and safety rules. Entry fee: $25 per adult (children 12 and under are free). 48-hour advance reservations are REQUIRED.
 
 ## Dive Profile
 

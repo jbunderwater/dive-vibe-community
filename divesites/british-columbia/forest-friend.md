@@ -3,9 +3,9 @@ name: Forest Friend
 lat: 49.6536127
 lng: -124.9488236
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
-siteType: wreck
+maxDepth: 12
+entryType: boat
+siteType: kelp
 ref: null
 osmId: 1304387925
 addedBy: osm_import
@@ -22,10 +22,10 @@ Forest Friend is a dive site in British Columbia featuring the wreck of the Fore
 ## Site Information
 
 - **Location**: British Columbia, North America
-- **Entry Type**: Shore entry
-- **Site Type**: Wreck
+- **Entry Type**: Boat dive
+- **Site Type**: Kelp
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 12 meters
 - **Typical Visibility**: 5-25 meters (15-80 feet)
 - **Current**: Variable, can be strong
 - **Best Time**: June to October

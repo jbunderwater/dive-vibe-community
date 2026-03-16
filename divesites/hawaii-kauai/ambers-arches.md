@@ -13,26 +13,27 @@ addedBy: osm_import
 
 ## Amber's Arches
 
-Amber's Arches is a cave dive site in Hawaii - Kauai, Pacific.
+Amber's Arches features three distinctive fingers of lava forming impressive underwater arches and is rated as one of Kauai's best dive sites for both beginners and advanced certified divers.
 
 ## Overview
 
-Amber's Arches is a dive site in Hawaii - Kauai featuring underwater cave and cavern formations. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Amber's Arches sits just outside Kukuiula Harbor and features three fingers of lava creating a unique geologic formation. The site consists of huge underwater boulders making large caverns ideal for exploration. A short traverse across the plateau leads to a drop-off with dramatic rock structures, including interesting undercut ledges and swim-through holes. The lava formations create natural habitats for eels, lobsters, and a variety of dark-loving reef fish seeking shelter in crevices and overhangs.
 
 ## Site Information
 
-- **Location**: Hawaii - Kauai, Pacific
+- **Location**: Just outside Kukuiula Harbor, South Shore, Kauai
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 20-45 meters (65-150 feet)
+- **Current**: Mild to moderate
+- **Best Time**: Year-round
+- **Water Temperature**: 26-28°C (79-82°F)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+Lots of sea turtles, schooling fish, and reef sharks. The cave environment hosts eels, lobsters, crustaceans, and cryptic reef species adapted to low-light conditions within the caverns. The dramatic lava structures provide habitat for multiple depth zones of marine life.
 
 ## Dive Profile
 

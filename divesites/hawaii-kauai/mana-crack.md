@@ -3,7 +3,7 @@ name: Mana Crack
 lat: 21.9551
 lng: -159.7725
 difficulty: Advanced
-maxDepth: 30
+maxDepth: 130
 entryType: boat
 siteType: wall
 ref: null
@@ -13,26 +13,27 @@ addedBy: osm_import
 
 ## Mana Crack
 
-Mana Crack is a wall dive site in Hawaii - Kauai, Pacific.
+Mana Crack is an 11-mile sunken barrier reef with multiple drop points and is the furthest offshore dive site in the state of Hawaii, requiring advanced skills and live boat diving due to strong currents and significant depths.
 
 ## Overview
 
-Mana Crack is a dive site in Hawaii - Kauai featuring a dramatic vertical wall that drops into the deep blue. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Mana Crack is an 11-mile-long sunken fringing reef off Kauai's north shore with many different drop points suitable for advanced diver exploration. The rock wall drops to depths exceeding 130 feet with possible strong currents requiring experience and careful dive planning. Since there are no moorings and currents can be strong, this dive is always conducted as a live boat dive, requiring divers to enter the water, drift with the current, and maintain contact with the support boat for pickup. Tours typically conduct two dives on Mana Crack during a 60-mile round trip, with views of the dramatic Na Pali coast between dives. This is one of Kauai's premier advanced dives for pelagic marine life encounters.
 
 ## Site Information
 
-- **Location**: Hawaii - Kauai, Pacific
+- **Location**: 11-mile sunken barrier reef off north shore, Kauai
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Maximum Depth**: 130 meters
+- **Typical Visibility**: 20-45 meters (65-150 feet)
+- **Current**: Strong (live boat drift required)
+- **Best Time**: May-September (calmer season, fewer swells)
+- **Water Temperature**: 24-26°C (75-79°F)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Large barracuda, spotted eagle rays, white-tip reef sharks, endangered Hawaiian monk seals. The open water wall and pelagic zone attract large fish and marine megafauna, making this an exciting dive for experienced underwater explorers.
 
 ## Dive Profile
 

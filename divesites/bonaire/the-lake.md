@@ -3,7 +3,7 @@ name: The Lake
 lat: 12.1071283
 lng: -68.29
 difficulty: Beginner
-maxDepth: 30
+maxDepth: 27
 entryType: shore
 siteType: reef
 ref: 
@@ -21,7 +21,7 @@ The Lake is a beautiful dive site located in central Bonaire near Salt Pier. The
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 30 meters
+- **Maximum Depth**: 27 meters
 - **Typical Visibility**: 20-30 meters
 - **Current**: Usually light
 - **Best Time**: Morning to early afternoon

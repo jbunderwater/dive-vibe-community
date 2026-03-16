@@ -3,9 +3,9 @@ name: Forest Island
 lat: 48.66
 lng: -123.333333
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
-siteType: reef
+maxDepth: 12
+entryType: boat
+siteType: kelp
 ref: null
 osmId: 663869313
 addedBy: osm_import
@@ -22,10 +22,10 @@ Forest Island is a dive site in British Columbia offering rewarding diving on he
 ## Site Information
 
 - **Location**: British Columbia, North America
-- **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Entry Type**: Boat dive
+- **Site Type**: Kelp
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 12 meters
 - **Typical Visibility**: 5-25 meters (15-80 feet)
 - **Current**: Variable, can be strong
 - **Best Time**: June to October

@@ -13,30 +13,34 @@ addedBy: osm_import
 
 ## Yukon Wreck (DE-429)
 
-Yukon Wreck (DE-429) is a historic wreck dive in San Diego - La Jolla, North America.
+The Yukon Wreck is a classic destroyer escort wreck in San Diego's Wreck Alley, offering excellent wreck diving with abundant marine life colonization.
 
 ## Overview
 
-Yukon Wreck (DE-429) is a dive site in San Diego - La Jolla featuring the wreck of the Yukon Wreck (DE-429). Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The USS or HMCS Yukon (DE-429/DDE-265) is a primary wreck dive in the Wreck Alley area off Mission Beach. This destroyer escort was intentionally sunk to create an artificial reef and has become heavily colonized with marine life. The wreck features substantial structural integrity with exposed deck features, compartments, and superstructure that provide excellent diving opportunities for intermediate divers. The site is accessible via local boat charters and offers consistent conditions with good visibility and minimal current.
 
 ## Site Information
 
-- **Location**: San Diego - La Jolla, North America
+- **Location**: Wreck Alley, off Mission Beach, San Diego
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 5-25 meters (15-80 feet)
 - **Current**: Variable, can be strong
 - **Best Time**: June to October
 
+## Wreck Features
+
+The destroyer escort structure provides multiple diving opportunities, from external hull exploration to interior compartment access. Deck features and superstructure elements create natural navigation landmarks. The solid construction means excellent long-term durability as an artificial reef.
+
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The wreck supports thriving populations of lingcod, rockfish, cabezon, and other fish species that shelter within the structure. Garibaldi, sheephead, and kelp bass are abundant. Invertebrate life includes anemones, nudibranchs, sea urchins, and crustaceans covering the hull surfaces. Occasional sea lions visit from nearby colonies. The diverse habitats created by the wreck structure support a rich ecology.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 30 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend to the top of the wreck (20-25 meters) and begin systematic exploration of the exterior. Divers can work around the hull, exploring exposed features and any "Swiss-cheesed" openings that allow safe penetration. Most dives focus on 35-45 minutes of bottom time with appropriate air management for the depth. The three-dimensional nature of wreck exploration can lead to inadvertent depth gain, so careful monitoring is essential.
 
 ## Entry and Exit
 

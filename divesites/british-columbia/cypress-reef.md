@@ -2,10 +2,10 @@
 name: Cypress Reef
 lat: 48.6136022
 lng: -122.7224932
-difficulty: Intermediate
-maxDepth: 25
-entryType: shore
-siteType: reef
+difficulty: Advanced
+maxDepth: 28
+entryType: boat
+siteType: wreck
 ref: null
 osmId: 1470400960
 addedBy: osm_import
@@ -22,10 +22,10 @@ Cypress Reef is a dive site in British Columbia offering rewarding diving on hea
 ## Site Information
 
 - **Location**: British Columbia, North America
-- **Entry Type**: Shore entry
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 28 meters
 - **Typical Visibility**: 5-25 meters (15-80 feet)
 - **Current**: Variable, can be strong
 - **Best Time**: June to October

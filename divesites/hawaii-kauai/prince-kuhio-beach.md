@@ -13,26 +13,27 @@ addedBy: osm_import
 
 ## Prince Kuhio Beach
 
-Prince Kuhio Beach is a reef dive site in Hawaii - Kauai, Pacific.
+Prince Kuhio Beach is an easily accessible shore dive on Kauai's South Shore with healthy reef structures and diverse tropical marine life suitable for beginner divers.
 
 ## Overview
 
-Prince Kuhio Beach is a dive site in Hawaii - Kauai offering excellent diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Prince Kuhio Beach offers an excellent entry point for beginning shore divers on Kauai's calm South Shore. The site features healthy reef structures with abundant tropical fish life and relatively shallow depths. Its convenient shore access and easy navigation make it ideal for newer divers seeking to explore Kauai's reef systems without the need for a boat charter. The accessible beach entry and shallow maximum depth provide confidence-building diving while still offering the colorful marine life for which Kauai is known.
 
 ## Site Information
 
-- **Location**: Hawaii - Kauai, Pacific
+- **Location**: South Shore, Poipu area, Kauai
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 10 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 15-40 meters (50-130 feet)
+- **Current**: Mild to light
+- **Best Time**: Year-round
+- **Water Temperature**: 25-28°C (77-82°F)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Reef fish, sea turtles, coral structures, and tropical fish species typical of Kauai's South Shore reefs. The shallow depth and protected location make this ideal for encountering macro reef life and colorful reef fish.
 
 ## Dive Profile
 

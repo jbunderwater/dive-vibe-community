@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Swanee Reef
 
-Swanee Reef is a reef dive site in La Paz & Sea of Cortez, North America.
+Swanee Reef is a natural rocky reef formation famous for its historic collision with the Salvatierra ferry and as a productive reef diving site.
 
 ## Overview
 
-Swanee Reef is a dive site in La Paz & Sea of Cortez offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Swanee Reef is a natural reef located in the San Lorenzo Channel, situated between Isla Espiritu Santo and Isla Cerralvo. The reef is historically significant as the site where the Salvatierra ferry collided and sank in the 1970s. The reef itself is an excellent natural dive site offering diverse marine life and reef structures. The reef maximum depth is approximately 12 meters, with scenic rocky formations and kelp forests creating a dynamic underwater landscape.
 
 ## Site Information
 
-- **Location**: La Paz & Sea of Cortez, North America
+- **Location**: San Lorenzo Channel, between Isla Espiritu Santo and Isla Cerralvo
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 22 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Typical Visibility**: 15-25 meters
+- **Current**: Variable, can increase with tidal exchange
+- **Best Time**: July to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Swanee Reef supports abundant reef fish including snappers, groupers, jacks, and cabrilla. Sea lions frequent the area, and kelp forests provide habitat for numerous species. Eagle rays, mobula rays, and occasional whale sharks may be encountered in the surrounding waters. The reef structures host soft and hard corals with productive macro diving opportunities.
 
 ## Dive Profile
 

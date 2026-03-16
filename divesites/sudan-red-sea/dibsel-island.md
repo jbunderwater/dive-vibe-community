@@ -2,10 +2,10 @@
 name: Dibsel Island
 lat: 18.9018669
 lng: 38.5891953
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Advanced
+maxDepth: 30
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: 9721015872
 addedBy: osm_import
@@ -13,22 +13,22 @@ addedBy: osm_import
 
 ## Dibsel Island
 
-Dibsel Island is a reef dive site in Sudan Red Sea, Middle East.
+Dibsel Island is an advanced reef dive in Sudan's remote southern Red Sea, part of expedition routes to the deep south archipelago near the Eritrean border. The island features wall diving with abundant marine life and strong currents.
 
 ## Overview
 
-Dibsel Island is a dive site in Sudan Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Dibsel Island is a remote southern site visited on specialized liveaboard expeditions to Sudan's least-visited waters. Like other deep south sites, it combines pristine, mostly undiscovered conditions with exceptional shark aggregations and abundant marine life undisturbed by regular diving pressure. The walls and reef structure create dynamic encounters with pelagic species driven by strong currents and nutrient-rich water. This is remote-area diving for experienced adventurers.
 
 ## Site Information
 
-- **Location**: Sudan Red Sea, Middle East
+- **Location**: Remote southern Red Sea, 30+ nm from Port Sudan
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Site Type**: Wall dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 30 meters
+- **Typical Visibility**: 25-40+ meters (80-130+ feet)
+- **Current**: Strong
+- **Best Time**: February to April
 
 ## Marine Life
 

@@ -5,7 +5,7 @@ lng: -117.265
 difficulty: Advanced
 maxDepth: 30
 entryType: shore
-siteType: wall
+siteType: canyon
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,30 +13,44 @@ addedBy: osm_import
 
 ## La Jolla Canyon
 
-La Jolla Canyon is a wall dive site in San Diego - La Jolla, North America.
+La Jolla Submarine Canyon is a spectacular advanced-only shore dive featuring dramatic vertical canyon walls that plunge from 70 to 900+ feet into the abyss.
 
 ## Overview
 
-La Jolla Canyon is a dive site in San Diego - La Jolla featuring a dramatic vertical wall that drops into the deep blue. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The Scripps/La Jolla Submarine Canyon is a massive geological feature that creates one of Southern California's most dramatic diving experiences. The canyon walls rise sharply from the seafloor, creating a striking vertical landscape with steep walls that descend far beyond recreational diving limits. Accessible ledges range from 40 to 100 feet (12-30 meters), with the dramatic "Amphitheatre" site featuring a semi-circular wall descending from approximately 60 feet to 110 feet. The strong vertical topography creates an otherworldly diving environment with excellent visibility and frequent pelagic encounters. This site demands advanced planning, fitness, and air management.
 
 ## Site Information
 
-- **Location**: San Diego - La Jolla, North America
+- **Location**: La Jolla Shores area, accessed via shore near Scripps Pier (32°51'22"N 117°15'54"W)
 - **Entry Type**: Shore entry
-- **Site Type**: Wall dive
+- **Site Type**: Canyon
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 5-25 meters (15-80 feet)
 - **Current**: Variable, can be strong
 - **Best Time**: June to October
 
+## Key Features
+
+**Canyon Ledges**: Accessible from 40-80 feet depth, the ledges provide navigation points and marine life observation zones. The "Amphitheatre" site features a prominent shelf at 100 feet.
+
+**Vertical Walls**: Sheer rock faces ascending from the sandy bottom create dramatic photography opportunities and shelter for wall-dwelling species.
+
+**Pelagic Zone**: The blue water beyond the wall offers opportunities to encounter larger fish species, including ocean sunfish, grouper, and occasionally larger sharks.
+
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+**Resident Fish**: Garibaldi, sheephead, kelp bass, rockfish, and lingcod shelter along the wall.
+
+**Bottom Dwellers**: Sea lions and harbor seals visit. Bat rays and horn sharks hunt along sandy areas within the canyon.
+
+**Wall Invertebrates**: Anemones, sea urchins, nudibranchs, and other encrusting organisms coat the vertical rock surfaces.
+
+**Pelagic Visitors**: The open blue water beyond the wall attracts mackerel, barracuda, and occasionally larger predatory fish. Sunfish are common in summer. Sea stars and other invertebrates colonize every available surface.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-30 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Descend with extended horizontal swim out from shore (200+ meters). Navigate to the canyon ledges at 40-50 feet and descend along the wall structure. Plan to spend most of bottom time at 60-80 feet along the wall with carefully managed depth and air consumption. The visual progression as depth increases creates excellent navigation landmarks. Typical dives cover 30-40 minutes of bottom time with careful ascent management and safety stops. The stamina required for the surface swim and descent makes pre-dive fitness essential.
 
 ## Entry and Exit
 

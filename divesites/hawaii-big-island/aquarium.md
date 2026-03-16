@@ -3,9 +3,9 @@ name: Aquarium
 lat: 19.5806
 lng: -155.97
 difficulty: Beginner
-maxDepth: 10
+maxDepth: 12
 entryType: boat
-siteType: reef
+siteType: cave
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,55 +13,59 @@ addedBy: osm_import
 
 ## Aquarium
 
-Aquarium is a reef dive site in Hawaii Big Island, Pacific.
+Named for its exceptional abundance and diversity of marine life, the Aquarium is a unique cavern and grottoes dive site in Miloli'i Bay. The underwater topography—featuring grottoes and collapsed lava tubes—makes this one of Kona's most visually interesting reef dives.
 
 ## Overview
 
-Aquarium is a dive site in Hawaii Big Island offering excellent diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+The Aquarium is well-named: it's so full of active marine life that you feel like you're diving inside an actual aquarium. Located in Miloli'i Bay, the site features fields of coral-covered basalt rock interspersed with grottoes and caverns formed from collapsed ancient lava tubes. Many of these caverns have openings in their ceilings that allow sunlight to spill through, creating dramatic lighting and distinctive visual appeal.
 
 ## Site Information
 
-- **Location**: Hawaii Big Island, Pacific
+- **Location**: Miloli'i Bay, South Kona Coast
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 10 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
+- **Maximum Depth**: 12 meters
+- **Typical Visibility**: 15-25 meters (50-80 feet)
+- **Water Temperature**: 26-28°C (78-82°F)
 - **Best Time**: April to November
+
+## Underwater Features
+
+The site's primary appeal lies in its unique underwater topography. Extensive grottoes and caverns are created from collapsed lava tubes, with natural skylights piercing through openings in the ceiling. This creates a maze-like underwater playground with dramatic lighting effects. The basalt rock formations are encrusted with corals, and the nooks and crannies of the caverns provide habitat for diverse marine life.
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Green sea turtles (honu) are abundant and well-accustomed to divers, making close encounters common. The grottoes and caverns host numerous small fish, crustaceans, octopus, and other invertebrates. While the site name suggests abundant fish life, the real value is in the dramatic topography and the reliable turtle encounters.
 
-## Dive Profile
+## Diving the Site
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 10 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-10 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Dives typically navigate between the various grottoes and caverns. The site requires attentive buoyancy to navigate the cavern systems while avoiding damage to corals. Divers descend to explore multiple chambers, often stopping to observe the turtles and other marine life. The natural lighting through skylights creates excellent opportunities for photography.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- **Buoyancy control**: Practice good buoyancy to navigate caverns without touching corals
+- **Lighting**: Bring a dive light to illuminate the dark grottoes and reveal colors
+- **Turtle etiquette**: Observe turtles without pursuing or touching them
+- **Timing**: Morning dives offer the best lighting and visibility
+- **Photography**: Bring a camera for the unique cavern topography and turtle portraits
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+- Maintain proper buoyancy in confined grottoes
+- Use lights to avoid disorientation in darker cavern areas
+- Never penetrate beyond the "no light zone" into full cavern territory
+- Stay close to your buddy and divemaster
+- Be aware of sharp lava rock—avoid contact with skin
+- Descend and ascend in a controlled manner
 
-## Photography
+## Cavern Navigation
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+This site does not require advanced cavern training for the typical tourist dive, as experienced divemasters keep divers in light-penetrating areas with clear exits. However, respect the limitations of the cavern environment and follow your divemaster's guidance closely.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was researched from Kona dive operator reviews and underwater topography guides. Last updated 2026-03-16.*

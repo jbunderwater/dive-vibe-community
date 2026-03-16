@@ -3,7 +3,7 @@ name: Jicarita Island
 lat: 7.21
 lng: -81.8
 difficulty: Advanced
-maxDepth: 30
+maxDepth: 20
 entryType: boat
 siteType: pinnacle
 ref: null
@@ -17,50 +17,53 @@ Jicarita Island is a pinnacle dive site in Coiba National Park, South America.
 
 ## Overview
 
-Jicarita Island is a dive site in Coiba National Park offering rewarding diving on healthy coral reef structures. Located in the South America region, this site offers 10-25 meters of visibility with water temperatures averaging 15-26°C.
+Jicarita Island (possibly referencing Coibita Gardens based on research) is a calm coral pinnacle in Coiba National Park ideal for second and subsequent dives. This sheltered site features colorful coral gardens with abundant reef fish and benign current conditions. Water temperatures average 26-30°C with excellent 15-30 meter visibility. The peaceful setting and mild currents make this an excellent "reset" dive after more challenging deep or current-swept sites, while still maintaining Advanced difficulty due to Coiba's remote liveaboard environment.
 
 ## Site Information
 
-- **Location**: Coiba National Park, South America
+- **Location**: Southern Coiba area, Panama (possibly Coibita Gardens region)
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-25 meters (30-80 feet)
-- **Current**: Moderate to strong
-- **Best Time**: June to November
+- **Maximum Depth**: 20 meters
+- **Typical Visibility**: 15-30 meters (50-100 feet)
+- **Current**: Mild to none
+- **Water Temperature**: 26-30°C (79-86°F) year-round
+- **Best Time**: Year-round diveable
 
 ## Marine Life
 
-Divers at this site can expect to encounter hammerhead sharks, whale sharks, sea lions, marine iguanas, manta rays, eagle rays, sea turtles, dolphins. Additional species commonly sighted include penguins, moray eels.
+Colorful coral gardens host abundant reef fish species including snappers, jacks, wrasses, surgeonfish, and angelfish. Sea turtles frequent the site. Occasional reef sharks and stingrays pass through. This site emphasizes reef ecology and macro life rather than pelagic encounters. Garden eels, moray eels, and diverse invertebrates populate sandy areas between coral formations.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin in shallow water (8-12 meters) exploring coral gardens before gradually deepening to 20 meters. Leisurely pace allows extended time photographing the colorful reef ecosystem. Navigate between coral pinnacles and sand channels. Abundant time in upper 15 meters for relaxed diving and macro observation. Perfect for multi-dive days where stamina preservation is priority.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Shallow water boat entry (5-8 meters) with giant stride or controlled descent. Explore coral structures at leisurely pace. Light buoyancy work necessary in shallow zones to avoid crushing corals. Ascent through coral zone with final safety stop in shallows (3-5 meters). SMB deployment optional due to calm conditions but recommended for crew awareness.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Ideal second-day dive for acclimatization to Coiba
+- Bring macro lens for fish and invertebrate photography
+- Perfect reef reset dive between deeper, more demanding sites
+- Excellent snorkel option for non-diving companions
+- Watch for nesting turtles on nearby beaches (seasonal)
+- Neutral buoyancy essential to protect delicate corals
 
 ## Safety Considerations
 
-Be aware of strong currents, cold thermoclines, surge in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Mild conditions allow relaxed diving, but maintain buddy contact and follow all safety protocols. Sun exposure high on shallow dives—generous sunscreen essential. Respect coral; maintain perfect neutral buoyancy and avoid touching. Current can shift unexpectedly; monitor briefing carefully. Always use SMB for boat communication. Enjoy the relative ease but remain vigilant.
 
-## Photography
+## Seasonal Notes
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Year-round diving available. Dry season (December-April) provides warmest water (29-30°C) and brightest light conditions. Rainy season (May-November) maintains excellent visibility with slightly cooler surface temps (26-28°C).
 
 ## Additional Resources
 
 - **Last Updated**: 2026-03-16
+- **Validation Source**: Perplexity research (March 2026)
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*Dive site information researched March 2026. Updated with site-specific characteristics of this calm Coiba pinnacle.*

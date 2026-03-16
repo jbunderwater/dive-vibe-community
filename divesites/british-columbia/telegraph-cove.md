@@ -3,9 +3,9 @@ name: Telegraph Cove
 lat: 48.463861
 lng: -123.270272
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 15
 entryType: shore
-siteType: reef
+siteType: muck
 ref: null
 osmId: 663869279
 addedBy: osm_import
@@ -23,9 +23,9 @@ Telegraph Cove is a dive site in British Columbia offering rewarding diving on h
 
 - **Location**: British Columbia, North America
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Muck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 15 meters
 - **Typical Visibility**: 5-25 meters (15-80 feet)
 - **Current**: Variable, can be strong
 - **Best Time**: June to October

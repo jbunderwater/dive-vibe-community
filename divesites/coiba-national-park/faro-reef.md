@@ -2,8 +2,8 @@
 name: Faro Reef
 lat: 7.62
 lng: -81.72
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Advanced
+maxDepth: 30
 entryType: boat
 siteType: reef
 ref: null
@@ -13,54 +13,57 @@ addedBy: osm_import
 
 ## Faro Reef
 
-Faro Reef is a reef dive site in Coiba National Park, South America.
+Faro Reef (also called Punta Faro) is a scenic rocky reef dive site in Coiba National Park, featuring swim-through canyons, strong currents, and consistent shark activity.
 
 ## Overview
 
-Faro Reef is a dive site in Coiba National Park offering rewarding diving on healthy coral reef structures. Located in the South America region, this site offers 10-25 meters of visibility with water temperatures averaging 15-26°C.
+Faro Reef is one of Coiba's premier reef dives, featuring rocky structures with hard coral gardens, gorgonians, and dramatic swim-through canyons. This is a current-rich site attracting plentiful pelagic activity, especially during the dry season upwelling (January-April). Located 1-1.5 hours by boat from Santa Catalina, this remote Pacific site demands Advanced-level diving skills and shark comfort. Water temperatures range from 24-29°C, with cooler thermoclines below 20 meters during peak upwelling season.
 
 ## Site Information
 
-- **Location**: Coiba National Park, South America
+- **Location**: Western Coiba National Park, Panama
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-25 meters (30-80 feet)
-- **Current**: Moderate to strong
-- **Best Time**: June to November
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 30 meters
+- **Typical Visibility**: 15-25 meters (50-80 feet)
+- **Current**: Variable to strong
+- **Water Temperature**: 24-29°C (75-84°F)
+- **Best Time**: December-April (dry season, peak upwelling)
 
 ## Marine Life
 
-Divers at this site can expect to encounter hammerhead sharks, whale sharks, sea lions, marine iguanas, manta rays, eagle rays, sea turtles, dolphins. Additional species commonly sighted include penguins, moray eels.
+Faro Reef consistently hosts white-tip reef sharks and bull sharks. Plankton-rich waters draw occasional oceanic blacktip sharks and rays. Additional marine life includes garden eels, sea turtles, rainbow wrasse, razor surgeonfish, black-nosed butterflyfish, and diverse reef fish species. Gorgonians, hard corals, and sponge gardens provide excellent habitat.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin in shallow entry areas (6-8 meters) at the reef ends before descending into the rocky canyon systems and deeper reef structures. Dives typically explore depths from 15-30 meters along the sloping reef. Most abundant marine life concentrates between 10-25 meters. Plan for a steady descent and possible drift diving with the current. Maintain excellent buoyancy control to avoid damaging the delicate coral and gorgonian gardens.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access via liveaboard or day-boat operations from Santa Catalina. Boat entry with anchor in shallow sandy zone before descending. Drift diving is common; coordinate with boat crew for pickup location. Exit by ascending to safety stop depth and signaling boat for pickup with SMB.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Book only with experienced Coiba liveaboard or dive operators
+- Ensure Advanced certification minimum; experience with strong currents required
+- Bring enriched air (Nitrox) for deeper explorations and extended bottom time
+- Shark comfort is essential — expect regular encounters
+- Plan this dive early in a multi-day trip to acclimate to local conditions
+- Bring dive gloves for holding rocks in strong current if needed
 
 ## Safety Considerations
 
-Be aware of strong currents, cold thermoclines, surge in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Variable currents can be moderate to strong; plan drift diving technique with crew. Cold thermoclines exist below 20 meters—bring adequate thermal protection. Strong plankton upwelling (January-April) reduces visibility but attracts pelagics. Always dive with a buddy and use SMB. Abide by crew briefing; conditions can deteriorate quickly. Advanced certification and solid buoyancy control are non-negotiable.
 
-## Photography
+## Seasonal Notes
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+December-April brings dramatic plankton-rich upwelling creating colder deeper water (24°C) and attracting sharks, rays, and other pelagics. May-November offers warmer surface water but generally weaker pelagic activity. Site diveable year-round with proper experience and conditions assessment by local operators.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-03-16
+- **Validation Source**: Perplexity research (March 2026)
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*Dive site information researched March 2026. Updated with field-verified pelagic and current data specific to Coiba's advanced diving environment.*

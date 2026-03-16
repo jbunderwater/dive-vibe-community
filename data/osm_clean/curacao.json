@@ -5,17 +5,19 @@
     "lon": -69.1538671,
     "osm_id": 447928252,
     "osm_type": "node",
-    "depth": null,
-    "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "depth": 20,
+    "site_type": "wall",
+    "entry_type": "Shore",
+    "difficulty": "Beginner",
     "tags": {
       "addr:country": "CW",
       "name": "Kleine Knip",
       "name:pap": "Kenepa Chiki",
       "sport": "scuba_diving",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -24,17 +26,19 @@
     "lon": -69.153211,
     "osm_id": 447928253,
     "osm_type": "node",
-    "depth": null,
-    "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "depth": 25,
+    "site_type": "wall",
+    "entry_type": "Shore",
+    "difficulty": "Beginner",
     "tags": {
       "addr:country": "CW",
       "name": "Grote Knip",
       "name:pap": "Kenepa Grandi",
       "sport": "scuba_diving",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -43,16 +47,18 @@
     "lon": -69.0862994,
     "osm_id": 448022080,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "Shore",
+    "difficulty": "Beginner",
     "tags": {
       "name": "The Valley",
       "sport": "scuba_diving",
       "waterway": "weir",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -61,15 +67,17 @@
     "lon": -68.9068508,
     "osm_id": 448022084,
     "osm_type": "node",
-    "depth": null,
-    "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "depth": 20,
+    "site_type": "wall",
+    "entry_type": "Shore",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Marie Pampoen",
       "sport": "scuba_diving",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -78,16 +86,18 @@
     "lon": -69.1543365,
     "osm_id": 448747096,
     "osm_type": "node",
-    "depth": null,
+    "depth": 30,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "Boat",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Mushroom Forest",
       "natural": "reef",
       "sport": "scuba_diving",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -96,17 +106,19 @@
     "lon": -69.1505496,
     "osm_id": 448747097,
     "osm_type": "node",
-    "depth": null,
+    "depth": 20,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "Shore",
+    "difficulty": "Beginner",
     "tags": {
       "access": "yes",
       "addr:country": "CW",
       "name": "Playa Jeremi",
       "sport": "scuba_diving",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -115,10 +127,10 @@
     "lon": -69.1585735,
     "osm_id": 449247479,
     "osm_type": "node",
-    "depth": null,
-    "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "depth": 35,
+    "site_type": "wall",
+    "entry_type": "Shore",
+    "difficulty": "Intermediate",
     "tags": {
       "addr:country": "CW",
       "alt_name": "Alice in Wonderland",
@@ -127,7 +139,9 @@
       "sport": "scuba_diving",
       "wikidata": "Q22330080",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -136,19 +150,21 @@
     "lon": -68.9466568,
     "osm_id": 450262196,
     "osm_type": "node",
-    "depth": 30,
+    "depth": 33,
     "site_type": "wreck",
-    "entry_type": null,
+    "entry_type": "Boat",
     "difficulty": "Intermediate",
     "tags": {
       "addr:country": "CW",
-      "depth": "30",
+      "depth": "33",
       "historic": "wreck",
       "name": "Superior Producer",
       "seamark:type": "wreck",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -157,15 +173,17 @@
     "lon": -68.99653,
     "osm_id": 663869379,
     "osm_type": "node",
-    "depth": null,
-    "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "depth": 22,
+    "site_type": "wall",
+    "entry_type": "Shore",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Snake Bay",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -174,15 +192,17 @@
     "lon": -68.9972716,
     "osm_id": 663869380,
     "osm_type": "node",
-    "depth": null,
-    "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "depth": 45,
+    "site_type": "wall",
+    "entry_type": "Shore",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Boka Sami",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -191,10 +211,10 @@
     "lon": -69.1276576,
     "osm_id": 663869381,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "Shore",
+    "difficulty": "Beginner",
     "tags": {
       "addr:country": "CW",
       "historic": "aircraft_wreck",
@@ -202,7 +222,9 @@
       "seamark:type": "wreck",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -211,15 +233,17 @@
     "lon": -69.1055983,
     "osm_id": 663869383,
     "osm_type": "node",
-    "depth": null,
+    "depth": 20,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "Shore",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Playa Manzalina",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -228,15 +252,17 @@
     "lon": -69.079446,
     "osm_id": 663869384,
     "osm_type": "node",
-    "depth": null,
+    "depth": 25,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "Shore",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Rif Sint Marie",
       "sport": "scuba_diving",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -245,17 +271,19 @@
     "lon": -69.0855754,
     "osm_id": 663869385,
     "osm_type": "node",
-    "depth": null,
+    "depth": 35,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "Shore",
+    "difficulty": "Beginner",
     "tags": {
       "addr:country": "CW",
       "name": "Daaibooi Baai",
       "name:en": "Daaibooi Bay",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -264,15 +292,17 @@
     "lon": -69.1508771,
     "osm_id": 663869390,
     "osm_type": "node",
-    "depth": null,
+    "depth": 25,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "Shore",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Playa Lagun",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -281,15 +311,17 @@
     "lon": -69.098515,
     "osm_id": 663869391,
     "osm_type": "node",
-    "depth": null,
+    "depth": 22,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "Shore",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Playa Largu",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -298,15 +330,17 @@
     "lon": -68.9016845,
     "osm_id": 663869393,
     "osm_type": "node",
-    "depth": null,
+    "depth": 40,
     "site_type": "wall",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "Shore",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Oswaldo's Drop Off",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -317,7 +351,7 @@
     "osm_type": "node",
     "depth": 5,
     "site_type": "wreck",
-    "entry_type": null,
+    "entry_type": "Shore",
     "difficulty": "Beginner",
     "tags": {
       "name": "Ship Wreck Tugboat",
@@ -325,7 +359,9 @@
       "sport": "scuba_diving",
       "wreck:depth": "5m",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -334,16 +370,18 @@
     "lon": -69.149572,
     "osm_id": 7835202685,
     "osm_type": "node",
-    "depth": null,
+    "depth": 20,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "Shore",
+    "difficulty": "Beginner",
     "tags": {
       "historic": "wreck",
       "name": "Catherine",
       "seamark:type": "wreck",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -354,7 +392,7 @@
     "osm_type": "node",
     "depth": 6,
     "site_type": "wreck",
-    "entry_type": null,
+    "entry_type": "Shore",
     "difficulty": "Beginner",
     "tags": {
       "name": "Ship wreck",
@@ -362,7 +400,9 @@
       "sport": "scuba_diving",
       "wreck:depth": "6m",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -371,15 +411,17 @@
     "lon": -68.862294,
     "osm_id": 491933672,
     "osm_type": "way",
-    "depth": null,
+    "depth": 20,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "Shore",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Reef edge",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   }
 ]

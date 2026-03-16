@@ -5,7 +5,7 @@ lng: -69.1585735
 difficulty: Intermediate
 maxDepth: 35
 entryType: Shore
-siteType: reef
+siteType: wall
 ref: null
 osmId: null
 addedBy: assistant
@@ -22,10 +22,10 @@ Playa Kalki is one of Curaçao's most celebrated dive sites, famous for the "Ali
 ## Site Information
 
 - **Location**: Northwest tip of Curaçao, Westpunt area
-- **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Entry Type**: Shore
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 35+ meters (115+ feet)
+- **Maximum Depth**: 35 meters
 - **Typical Visibility**: 20-30 meters (65-100 feet)
 - **Current**: Usually minimal, occasional mild current
 - **Best Time**: Year-round, excellent for all diving activities

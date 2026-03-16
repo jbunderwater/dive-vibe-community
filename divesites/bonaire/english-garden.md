@@ -3,7 +3,7 @@ name: English Garden
 lat: 12.0597582
 lng: -68.2822176
 difficulty: Beginner
-maxDepth: 30
+maxDepth: 25
 entryType: shore
 siteType: reef
 ref: 
@@ -21,7 +21,7 @@ English Garden is a beautiful dive site located in southern Bonaire near Pink Be
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 30 meters
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20-30 meters
 - **Current**: Usually light
 - **Best Time**: Morning to early afternoon

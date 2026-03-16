@@ -5,15 +5,18 @@
     "lon": 37.3152166,
     "osm_id": 663869680,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 45,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Expert",
     "tags": {
       "historic": "wreck",
       "name": "Blue Belt",
       "seamark:type": "wreck",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity",
+      "note": "Toyota wreck, sank 1977, now 21-90m depth, unstable structure, very deep diving"
     }
   },
   {
@@ -40,13 +43,15 @@
     "lon": 37.1018372,
     "osm_id": 9720985227,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 25,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Pfeiffer Reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -55,13 +60,16 @@
     "lon": 36.9789438,
     "osm_id": 9720985772,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 18,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Sweet Potato",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity",
+      "note": "Grouper aggregation site, 30+ potato groupers, strong currents"
     }
   },
   {
@@ -92,13 +100,16 @@
     "lon": 38.5989095,
     "osm_id": 9721002510,
     "osm_type": "node",
-    "depth": 20,
-    "site_type": "reef",
+    "depth": 35,
+    "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Expert",
     "tags": {
       "name": "Daharat Abida",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity",
+      "note": "Extreme south near Eritrea, rare hammerheads and silky sharks, pristine walls and plateaus"
     }
   },
   {
@@ -124,14 +135,17 @@
     "lon": 37.7296579,
     "osm_id": 9721012613,
     "osm_type": "node",
-    "depth": 20,
-    "site_type": "reef",
+    "depth": 28,
+    "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Shaab Jimna",
       "scuba_diving:type": "reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity",
+      "note": "50+ km offshore, caves and walls, hammerhead aggregation, pelagic sharks"
     }
   },
   {
@@ -140,13 +154,16 @@
     "lon": 38.5891953,
     "osm_id": 9721015872,
     "osm_type": "node",
-    "depth": 20,
-    "site_type": "reef",
+    "depth": 30,
+    "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Dibsel Island",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity",
+      "note": "Remote southern site, shark aggregation, strong currents, pristine walls"
     }
   },
   {
@@ -155,14 +172,17 @@
     "lon": 38.7418876,
     "osm_id": 9721017925,
     "osm_type": "node",
-    "depth": 20,
-    "site_type": "reef",
+    "depth": 32,
+    "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Isar Island",
       "scuba_diving:type": "reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity",
+      "note": "Remote southern site, walls, strong currents, abundant marine life"
     }
   },
   {
@@ -189,14 +209,17 @@
     "lon": 37.0254548,
     "osm_id": 9721028451,
     "osm_type": "node",
-    "depth": 20,
-    "site_type": "reef",
+    "depth": 35,
+    "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Elba Reef",
       "scuba_diving:type": "reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity",
+      "note": "Triple plateau structure, north plateau 20-45m, massive coral fans, hammerheads"
     }
   },
   {
@@ -205,13 +228,16 @@
     "lon": 38.777359,
     "osm_id": 9721031082,
     "osm_type": "node",
-    "depth": 20,
-    "site_type": "reef",
+    "depth": 40,
+    "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Karam Marsmarit",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity",
+      "note": "SE side has deeper walls, shark aggregation, napoleons, strong currents"
     }
   },
   {
@@ -220,13 +246,16 @@
     "lon": 37.0023768,
     "osm_id": 9721031165,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 12,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Abu Seif",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity",
+      "note": "Shallow relaxed reef, cracks and crevices, excellent visibility, clownfish and anemones"
     }
   },
   {
@@ -270,14 +299,17 @@
     "lon": 37.0250213,
     "osm_id": 9721215045,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 14,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Elba Reef, South Plateau",
       "scuba_diving:type": "reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity",
+      "note": "South plateau 5-14m, coral blocks, excellent for night diving, hammerheads"
     }
   },
   {
@@ -286,14 +318,17 @@
     "lon": 37.0270919,
     "osm_id": 9721215046,
     "osm_type": "node",
-    "depth": 20,
-    "site_type": "reef",
+    "depth": 33,
+    "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Elba Reef, North Plateau",
       "scuba_diving:type": "reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity",
+      "note": "North plateau 20-45m, dramatic drop, massive coral fans, pelagics, strong currents"
     }
   },
   {
@@ -302,7 +337,7 @@
     "lon": 37.2906381,
     "osm_id": 9721478944,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 38,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -311,7 +346,10 @@
       "scuba_diving:type": "wreck",
       "sport": "scuba_diving",
       "wikipedia": "en:SS Umbria",
-      "wreck:date_sunk": "9 June 1940"
+      "wreck:date_sunk": "9 June 1940",
+      "validated": "true",
+      "validation_source": "perplexity",
+      "note": "Italian cargo ship, sank 1940, depth 5-38m, safe accessible wreck, excellent penetration"
     }
   },
   {
@@ -320,13 +358,16 @@
     "lon": 37.0241608,
     "osm_id": 13045036765,
     "osm_type": "node",
-    "depth": 20,
-    "site_type": "reef",
+    "depth": 32,
+    "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Elba Reef, West-Plateau",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity",
+      "note": "Western plateau section, deep walls, shark aggregation, pristine coral"
     }
   },
   {
@@ -335,13 +376,16 @@
     "lon": 37.0452519,
     "osm_id": 13045042048,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 65,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Levanzo Wreck",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity",
+      "note": "Italian cargo ship, sank 1923, depth 22-65m, large wreck with broken sections"
     }
   },
   {
@@ -350,13 +394,16 @@
     "lon": 37.0406829,
     "osm_id": 13045042999,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 16,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Elba Reef East (Southplateau)",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity",
+      "note": "Eastern section of south plateau, shallow coral structures, accessible diving"
     }
   }
 ]

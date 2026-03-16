@@ -2,8 +2,8 @@
 name: Soft Coral Garden (unmarked site)
 lat: 12.0334365
 lng: -68.2604963
-difficulty: Beginner
-maxDepth: 30
+difficulty: Intermediate
+maxDepth: 25
 entryType: shore
 siteType: reef
 ref: 
@@ -20,8 +20,8 @@ Soft Coral Garden is a beautiful dive site located in southern Bonaire near Atla
 - **Location**: South Bonaire (near Atlantis)
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 30 meters
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20-30 meters
 - **Current**: Usually light
 - **Best Time**: Morning to early afternoon

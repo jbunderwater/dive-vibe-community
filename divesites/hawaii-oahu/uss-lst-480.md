@@ -3,8 +3,8 @@ name: USS LST-480
 lat: 21.3572154
 lng: -157.9970834
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+maxDepth: 29
+entryType: boat
 siteType: wreck
 ref: null
 osmId: 1264959511
@@ -13,26 +13,30 @@ addedBy: osm_import
 
 ## USS LST-480
 
-USS LST-480 is a historic wreck dive in Hawaii - Oahu, Pacific.
+USS LST-480 is a WWII tank landing ship that met its end in Pearl Harbor's "West Loch Disaster," one of the Pacific War's forgotten tragedies. Though no longer diveable (located in restricted Pearl Harbor waters), its history is remarkable.
 
 ## Overview
 
-USS LST-480 is a dive site in Hawaii - Oahu featuring a historic wreck which sank in 21 May 1944 . US Navy WWII tank landing ship sunk during accidental explosion.. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+USS LST-480 was an LST-1-class tank landing ship built for the United States Navy and used in the Asiatic-Pacific Theater during World War II. On May 21, 1944, the ship was moored near Waipio peninsula in Pearl Harbor's West Loch, loading ammunition and supplies in preparation for the invasion of Saipan. An explosion aboard LST-353 triggered a catastrophic chain reaction that would sink LST-480, LST-353, and four other LSTs, killing at least 163 sailors—making it one of the Pacific War's most significant non-combat losses of life.
 
 ## Site Information
 
-- **Location**: Hawaii - Oahu, Pacific
-- **Entry Type**: Shore entry
-- **Site Type**: Wreck
+- **Location**: West Loch, Pearl Harbor (Restricted military area—NOT diveable)
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Maximum Depth**: 29 meters
+- **Vessel Length**: 110 feet
+- **Wreck Condition**: Hull remains, rusted and beached; bow visible on shore
+- **Sunk**: May 21, 1944
 
-## Marine Life
+## Historical Significance
 
-Divers at this site can expect to encounter coral growth, anemones, lionfish, scorpionfish, glassy sweepers, manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks. Additional species commonly sighted include sea turtles, napoleon wrasse, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+USS LST-480 remains the only visible external evidence of the West Loch disaster. Its rusted bow sits beached where it was grounded during the tragic incident. The site represents a solemn reminder of the sacrifices made and the often-overlooked casualties of wartime naval operations. Pearl Harbor is a restricted military zone, and recreational diving on the LST is not permitted.
+
+## Pearl Harbor Wreck Diving
+
+While USS LST-480 itself is not accessible, other WWII-era wrecks are diveable off Oahu, including the YO-257, Sea Tiger, Corsair, and Mahi wrecks, which offer similar historical significance and world-class diving experiences.
 
 ## Dive Profile
 

@@ -3,7 +3,7 @@ name: Calabas Reef
 lat: 12.1444535
 lng: -68.276667
 difficulty: Beginner
-maxDepth: 30
+maxDepth: 35
 entryType: shore
 siteType: reef
 ref: 
@@ -21,7 +21,7 @@ Calabas Reef is a beautiful dive site located in central Bonaire near Oil Slick 
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 30 meters
+- **Maximum Depth**: 35 meters
 - **Typical Visibility**: 20-30 meters
 - **Current**: Usually light
 - **Best Time**: Morning to early afternoon

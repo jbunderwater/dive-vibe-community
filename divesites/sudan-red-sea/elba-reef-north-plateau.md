@@ -2,10 +2,10 @@
 name: Elba Reef, North Plateau
 lat: 21.9699494
 lng: 37.0270919
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Advanced
+maxDepth: 33
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: 9721215046
 addedBy: osm_import
@@ -23,9 +23,9 @@ Elba Reef, North Plateau is a dive site in Sudan Red Sea offering rewarding divi
 
 - **Location**: Sudan Red Sea, Middle East
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Site Type**: Wall dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 33 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Moderate to strong
 - **Best Time**: September to May

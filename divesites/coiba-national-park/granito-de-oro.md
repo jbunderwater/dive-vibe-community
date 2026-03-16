@@ -2,8 +2,8 @@
 name: Granito de Oro
 lat: 7.55
 lng: -81.7
-difficulty: Beginner
-maxDepth: 15
+difficulty: Advanced
+maxDepth: 18
 entryType: boat
 siteType: reef
 ref: null
@@ -13,55 +13,56 @@ addedBy: osm_import
 
 ## Granito de Oro
 
-Granito de Oro is a reef dive site in Coiba National Park, South America.
+Granito de Oro (Golden Grain) is a shallow, scenic volcanic islet reef in Coiba National Park, renowned for its colorful coral gardens and peaceful diving atmosphere.
 
 ## Overview
 
-Granito de Oro is a dive site in Coiba National Park offering excellent diving on healthy coral reef structures. Located in the South America region, this site offers 10-25 meters of visibility with water temperatures averaging 15-26°C.
+Granito de Oro sits off Isla Coiba's northeastern coast and features sloping, colorful coral reefs around a small volcanic outcropping that shelters abundant marine life. This protected reef site offers mild currents and excellent visibility, making it popular for first-day dives and mixed-ability groups. Despite its beginner-friendly terrain, this remote liveaboard destination requires Advanced certification due to Coiba's remote location, strong regional currents, and pelagic shark activity. Water temperatures range from 26-30°C year-round with excellent 15-30 meter visibility typically available.
 
 ## Site Information
 
-- **Location**: Coiba National Park, South America
+- **Location**: Northeastern Coiba Island, Panama
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 meters
-- **Typical Visibility**: 10-25 meters (30-80 feet)
-- **Current**: Moderate to strong
-- **Best Time**: June to November
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 18 meters
+- **Typical Visibility**: 15-30 meters (50-100 feet)
+- **Current**: Mild to moderate
+- **Water Temperature**: 26-30°C (79-86°F) year-round
+- **Best Time**: Year-round diveable
 
 ## Marine Life
 
-Divers at this site can expect to encounter hammerhead sharks, whale sharks, sea lions, marine iguanas, manta rays, eagle rays, sea turtles, dolphins. Additional species commonly sighted include penguins, moray eels.
+Granito de Oro teems with colorful reef fish species, sea turtles, eels, and large schools of fish. Occasional reef sharks and stingrays pass through. The volcanic outcropping and surrounding reefs provide habitat for abundant macro life and healthy hard coral gardens creating an aquarium-like setting. This site emphasizes colorful reef ecology over large pelagics.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Entry in shallow waters (5 meters) before sloping gradually deeper toward 18 meters. Most time spent in upper 15 meters exploring coral gardens where macro life concentrates. Extended bottom times possible in clear, calm waters. Excellent for photography and leisure diving. Ascend slowly while exploring shallower reef zones before final safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat entry via anchor in shallow zone. Entry by giant stride with shallow water entry. Ascent along coral structure or sand slope; final 3-5 meters in coral gardens before surfacing. SMB deployment recommended for boat crew coordination.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Excellent second-day dive after acclimating to remote conditions
+- Bring macro lens for fish and invertebrate photography
+- Ideal "reset" dive to relax between deeper, more challenging sites
+- Snorkeling available; good for dive-snorkel mixed groups
+- Watch for turtles nesting on nearby beaches (seasonal)
 
 ## Safety Considerations
 
-Be aware of strong currents, cold thermoclines, surge in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Despite mild site conditions, Coiba's remote location demands Advanced certification minimum. Respect wildlife and maintain neutral buoyancy around coral. Sun exposure high on shallow profiles—apply sunscreen liberally. Watch for sudden currents; follow briefing closely. Always dive with buddy; maintain good air management on shallow multi-dive days.
 
-## Photography
+## Seasonal Notes
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Year-round diving available. Dry season (December-April) offers calmest conditions and warmest surface water (29-30°C). Rainy season (May-November) maintains excellent visibility with slightly cooler surface temps (26-28°C) but occasional strong currents.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-03-16
+- **Validation Source**: Perplexity research (March 2026)
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*Dive site information researched March 2026. Updated with site-specific characteristics of this scenic Coiba reef.*

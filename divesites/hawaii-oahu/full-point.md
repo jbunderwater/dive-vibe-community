@@ -3,8 +3,8 @@ name: Full Point
 lat: 21.2840798
 lng: -157.6700745
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+maxDepth: 35
+entryType: boat
 siteType: reef
 ref: null
 osmId: 6527650959
@@ -13,26 +13,27 @@ addedBy: osm_import
 
 ## Full Point
 
-Full Point is a reef dive site in Hawaii - Oahu, Pacific.
+Full Point is a healthy offshore reef dive on Oahu's southeast shore, adjacent to Half Point and offering similar reef diving conditions with excellent coral formations.
 
 ## Overview
 
-Full Point is a dive site in Hawaii - Oahu offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Located on Oahu's southeast coast and accessible via boat dive charter, Full Point is a reef site that works well as a companion dive to nearby Half Point. The site features established coral reef structures with moderate depth suitable for intermediate divers. Like Half Point, the name likely refers to its position along this productive reef zone. Reliable visibility and moderate conditions make this a good choice for reef diving exploration.
 
 ## Site Information
 
-- **Location**: Hawaii - Oahu, Pacific
-- **Entry Type**: Shore entry
+- **Location**: Southeast shore of Oahu
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Maximum Depth**: 35 meters
+- **Typical Visibility**: Good to excellent
+- **Current**: Moderate
+- **Best Time**: Year-round, calmer May-September
+- **Water Temperature**: 75-80°F (24-27°C) year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Full Point supports a healthy reef ecosystem with abundant fish life, sea turtles, octopuses, moray eels, and whitetip reef sharks. The hard coral formations throughout the site provide shelter and food for numerous reef species.
 
 ## Dive Profile
 

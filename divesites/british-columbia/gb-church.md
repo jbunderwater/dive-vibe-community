@@ -2,9 +2,9 @@
 name: G.B. Church
 lat: 48.67
 lng: -123.2866667
-difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+difficulty: Advanced
+maxDepth: 28
+entryType: boat
 siteType: wreck
 ref: null
 osmId: 663869306
@@ -22,10 +22,10 @@ G.B. Church is a dive site in British Columbia featuring the wreck of the G.B. C
 ## Site Information
 
 - **Location**: British Columbia, North America
-- **Entry Type**: Shore entry
-- **Site Type**: Wreck
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 28 meters
 - **Typical Visibility**: 5-25 meters (15-80 feet)
 - **Current**: Variable, can be strong
 - **Best Time**: June to October

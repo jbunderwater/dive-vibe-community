@@ -13,54 +13,65 @@ addedBy: osm_import
 
 ## Honokohau Harbor
 
-Honokohau Harbor is a reef dive site in Hawaii Big Island, Pacific.
+Honokohau Harbor is a major hub for Kona diving operations and serves as the departure point for many of the island's most famous boat dives. Beyond its role as a dive center, the harbor offers shore access to nearby reefs with opportunities to observe megafauna including tiger sharks and diverse tropical fish.
 
 ## Overview
 
-Honokohau Harbor is a dive site in Hawaii Big Island offering excellent diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Located between Kona International Airport and Kailua-Kona town, Honokohau Harbor is the infrastructure backbone of Kona diving. Multiple dive operators—including Manta Ray Dives of Hawaii, Kona Honu Divers, Big Island Divers, and others—check in and out from this harbor for boat dives to some of Hawaii's most iconic sites. The harbor also offers shore diving access to Crescent Beach and nearby reef areas.
 
 ## Site Information
 
-- **Location**: Hawaii Big Island, Pacific
+- **Location**: Between Kona Airport and Kailua-Kona
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 15-25 meters (50-80 feet)
+- **Water Temperature**: 26-28°C (78-82°F)
+- **Best Time**: Year-round
+
+## Honokohau Harbor as a Diving Hub
+
+This working harbor is the operational center for Kona diving. All major dive operators have boats here. If you're planning any Kona boat dives—manta rays, wrecks, or other pelagic dives—you'll likely depart from Honokohau Harbor. The harbor provides facilities, parking, and easy boat access to numerous offshore sites.
+
+## Shore Diving Opportunities
+
+Crescent Beach, located just outside Honokohau Harbor, is accessible for shore diving and is famous for large megafauna visits, especially tiger sharks. The shallow reef areas near the harbor offer good entry/exit conditions for beginners exploring nearby reef structures.
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Megafauna including tiger sharks, manta rays, dolphins, and whale sharks make regular appearances. Typical reef fish, sea turtles, and octopus are common in the shallower areas.
 
-## Dive Profile
+## Practical Information
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+- **Facilities**: Parking, restrooms, boat rental services
+- **Dive Operators**: Multiple shops available; book directly with operators
+- **Accessibility**: Easy access from Kailua-Kona and airport
+- **Season**: Consistent conditions year-round
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- **Boat dive hub**: Use this location to arrange boat dives to famous offshore sites
+- **Shore diving alternative**: Try Crescent Beach if you want to dive independently
+- **Arrive early**: Boat dives typically depart early morning (6-7 AM)
+- **Shop around**: Multiple operators offer competitive pricing; compare before booking
+- **Book in advance**: Popular dive sites depart full; advance booking recommended
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+- Shore dives: Check conditions before entering; respect surge and currents
+- Boat dives: Bring seasickness medication if prone; wear sunscreen
+- Tiger sharks are present; maintain distance and respect wildlife
+- Always dive with a buddy
+- Follow operator briefings and protocols
 
-## Photography
+## Access Note
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+This is primarily a working harbor and diving hub rather than a standalone dive site. Most divers use Honokohau as the launching point for boat adventures rather than diving directly from the shore here. The adjacent Crescent Beach offers the best shore diving access.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was researched from Kona harbor operator websites and dive community reviews. Last updated 2026-03-16.*

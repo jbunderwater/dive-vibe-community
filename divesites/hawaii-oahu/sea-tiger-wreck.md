@@ -13,26 +13,27 @@ addedBy: osm_import
 
 ## Sea Tiger Wreck
 
-Sea Tiger Wreck is a historic wreck dive in Hawaii - Oahu, Pacific.
+The Sea Tiger is the closest major wreck dive to Waikiki—a 51-meter freighter that was intentionally sunk in 1999 as an artificial reef. It's become one of Hawaii's most popular advanced wreck dives.
 
 ## Overview
 
-Sea Tiger Wreck is a dive site in Hawaii - Oahu featuring the wreck of the Sea Tiger Wreck. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Located just 10 minutes by boat from Kewalo Basin in Waikiki, the Sea Tiger offers an exceptional deep dive experience with excellent visibility. The 168-foot vessel sits upright in 110 feet of water with a maximum depth of 121 feet, and has become heavily encrusted with coral and marine life since sinking over two decades ago. Outer sections allow experienced penetration with appropriate training.
 
 ## Site Information
 
-- **Location**: Hawaii - Oahu, Pacific
+- **Location**: South shore of Oahu, near Honolulu
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 37 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 22-24 meters (70-80 feet)
+- **Current**: Moderate
+- **Water Temperature**: 75-80°F (24-27°C) year-round
+- **Best Time**: Year-round diving possible
 
 ## Marine Life
 
-Divers at this site can expect to encounter coral growth, anemones, lionfish, scorpionfish, glassy sweepers, manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks. Additional species commonly sighted include sea turtles, napoleon wrasse, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The Sea Tiger hosts an impressive array of marine life thanks to its large structure and depth. Divers regularly encounter resting sea turtles, eagle rays, reef sharks, nudibranchs, and frogfish hiding along the coral-encrusted walls. The diversity of species reflects the wreck's importance as an artificial reef ecosystem.
 
 ## Dive Profile
 

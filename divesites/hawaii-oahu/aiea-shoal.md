@@ -2,9 +2,9 @@
 name: Aiea Shoal
 lat: 21.3726975
 lng: -157.9371492
-difficulty: Intermediate
+difficulty: Beginner
 maxDepth: 25
-entryType: shore
+entryType: boat
 siteType: reef
 ref: null
 osmId: 1263209380
@@ -13,26 +13,27 @@ addedBy: osm_import
 
 ## Aiea Shoal
 
-Aiea Shoal is a reef dive site in Hawaii - Oahu, Pacific.
+Aiea Shoal is a productive fringing coral reef on Oahu's south-central coast, featuring healthy hard coral formations and moderate depths suitable for beginner-friendly diving.
 
 ## Overview
 
-Aiea Shoal is a dive site in Hawaii - Oahu offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Located off Oahu's south-central coast near Pearl Harbor, Aiea Shoal is a fringing coral reef with established hard coral formations. The site features moderate depths and good coral coverage, making it accessible for beginner to intermediate divers. The name "shoal" refers to the shallow, elevated reef formation in the otherwise deeper offshore waters. The site is accessible via boat dive and offers reliable conditions with good visibility.
 
 ## Site Information
 
-- **Location**: Hawaii - Oahu, Pacific
-- **Entry Type**: Shore entry
+- **Location**: South-central Oahu near Pearl Harbor
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Beginner
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: Good
+- **Current**: Light to moderate
+- **Best Time**: Year-round, calmer May-September
+- **Water Temperature**: 75-80°F (24-27°C) year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Aiea Shoal is home to healthy hard coral formations that support abundant reef fish life, invertebrates, and occasionally sea turtles. The diverse coral formations provide food and shelter for numerous reef species, making this a productive ecosystem.
 
 ## Dive Profile
 

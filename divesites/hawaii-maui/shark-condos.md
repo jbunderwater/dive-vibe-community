@@ -23,7 +23,7 @@ Shark Condos is a dive site in Hawaii - Maui featuring underwater cave and caver
 
 - **Location**: Hawaii - Maui, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)

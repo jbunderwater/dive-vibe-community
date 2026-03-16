@@ -3,9 +3,9 @@ name: Tunnels Beach (Makua)
 lat: 22.2203
 lng: -159.5695
 difficulty: Beginner
-maxDepth: 12
+maxDepth: 15
 entryType: shore
-siteType: reef
+siteType: cave
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,26 +13,27 @@ addedBy: osm_import
 
 ## Tunnels Beach (Makua)
 
-Tunnels Beach (Makua) is a reef dive site in Hawaii - Kauai, Pacific.
+Tunnels Beach is named for its many underwater lava tubes, caverns, cathedrals, and tunnels that create a snorkeling and diving paradise on Kauai's scenic north shore.
 
 ## Overview
 
-Tunnels Beach (Makua) is a dive site in Hawaii - Kauai offering excellent diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Tunnels Beach (Makua) is a picture-postcard tropical beach on the north shore featuring an excellent coral reef that comes within a few feet of dry land at low tide. The fantastic lava tube formations provide exciting exploration opportunities for certified divers, with free shore access requiring no tour booking or entrance fees. Calm summer conditions make this ideal for diving (May-September), though winter brings strong waves and currents requiring caution. The beach is one of Hawaii's best spots to encounter Hawaiian monk seals coming to feed on the drop-off.
 
 ## Site Information
 
-- **Location**: Hawaii - Kauai, Pacific
+- **Location**: Haena, North Shore, Kauai
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 12 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Maximum Depth**: 15 meters
+- **Typical Visibility**: 15-30 meters (50-100 feet)
+- **Current**: Mild to moderate (summer); strong (winter)
+- **Best Time**: May-September (calm north shore season)
+- **Water Temperature**: 24-27°C (75-81°F)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Hawaiian monk seals (common), colorful reef fish, sea turtles (honu), tropical fish species. The lava structures create habitat for multiple reef fish communities, with unique dive experiences in the various tunnels and cavern systems.
 
 ## Dive Profile
 

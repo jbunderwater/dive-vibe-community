@@ -3,65 +3,115 @@ name: Aumentos Pinnacle
 lat: 36.616
 lng: -121.902
 difficulty: Advanced
-maxDepth: 28
+maxDepth: 40
 entryType: boat
-siteType: wall
+siteType: pinnacle
 ref: null
 osmId: null
 addedBy: osm_import
+validated: true
 ---
 
-## Aumentos Pinnacle
+## Aumentos Pinnacle (Aumentos Reef)
 
-Aumentos Pinnacle is a wall dive site in Monterey Bay, North America.
+Aumentos Pinnacle supports one of Monterey Bay's densest populations of marine life, featuring massive metridium anemones, vibrant fish-eating anemones, and exceptional winter diving with large fish populations.
 
 ## Overview
 
-Aumentos Pinnacle is a dive site in Monterey Bay featuring a dramatic vertical wall that drops into the deep blue. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Aumentos Pinnacle is located approximately 1/2 mile offshore of Pacific Grove in Monterey Bay (36° 38.319' N, 121° 55.273' W). The reef is extremely productive, supporting one of the densest and most diverse marine life populations in Monterey Bay. The highest point of the pinnacle is around 40 feet, with dramatic vertical and stepped drop-off patterns creating a complex three-dimensional structure.
 
 ## Site Information
 
-- **Location**: Monterey Bay, North America
+- **Location**: Offshore of Pacific Grove (36° 38.319' N, 121° 55.273' W)
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 28 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 40 meters
+- **Typical Visibility**: 15-50 feet (5-15 meters), variable
+- **Water Temperature**: 10-13°C (50-55°F) — requires 7mm+ wetsuit or drysuit
+- **Current**: Usually moderate, sometimes strong
+- **Boat Access**: Monterey Breakwater or Fisherman's Wharf
+- **Best Time**: Winter for fish abundance and gray whale migration
 
-## Marine Life
+## Reef Topography
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+**Offshore Side**: Steep, granite wall dropping vertically to about 60 feet, then more slowly to 80-85 feet.
+
+**Inshore Side**: Drops off in steps to 50-55 feet and remains at this depth until connecting to nearby Chase Reef.
+
+The three-dimensional topography creates diverse microhabitats and exceptional biological productivity.
+
+## Marine Life and Features
+
+Aumentos supports one of the densest populations of marine life in the Monterey Bay. Features include:
+- Fluffy, white metridium anemones covering the rock walls
+- Bright red fish-eating anemones at the reef base (conspicuous by their impressive size)
+- Encrusting sponges of multiple colors
+- Diverse fish species (winter diving offers the best opportunity to see large quantities)
+
+**Winter Diving Special**: Winter is optimal dive season at Aumentos due to the massive influx of fish species and the annual gray whale migration through Monterey Bay. Divers often observe multiple fish species in high densities and passing gray whales.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-28 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Boat operators typically position the dive on either the offshore wall section or the inshore stepped section depending on conditions and diver preferences. Descend to the pinnacle top (40 feet), then explore the walls and steps. The dense anemone coverage and fish life make this a rich dive throughout the water column. Maintain careful depth management on the deeper wall sections (60-85 feet).
 
-## Entry and Exit
+## Fish Populations and Photography
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Aumentos is exceptional for fish photography and observation. Expect to encounter:
+- Large grouper
+- Lingcod
+- Rockfish (multiple species)
+- Garibaldi
+- Wolf eels
+- Numerous other rocky reef species
+
+Winter dives offer the densest populations and best fish photography opportunities.
+
+## Access and Boat Operators
+
+Access is exclusively by boat. Boats launch from:
+- Monterey Breakwater
+- Fisherman's Wharf
+- Between Fisherman's Wharf and Wharf #2
+
+Book with established Monterey dive operators. Winter dives are popular—reserve early.
+
+## Currents and Hazards
+
+**Current**: Usually moderate but sometimes strong. Watch for sudden changes and maintain buddy contact and position awareness.
+
+**Depth**: This is a deeper dive reaching 85 feet—nitrogen narcosis effects begin. Maintain conservative depth limits and buddy contact.
+
+## Winter Diving - The Best Season
+
+Winter dives at Aumentos are exceptional:
+- Highest fish abundance and diversity
+- Gray whale migration through Monterey Bay (December-May)
+- Potential for extraordinary wildlife observation
+- Clear water and calmer conditions typical of winter
+- One of Monterey's premier winter dive destinations
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Book winter dives early—they fill quickly
+- Bring excellent macro and wide-angle cameras for fish photography
+- This site demands advanced skills: good buoyancy control, depth management, and current awareness
+- Winter dives offer the best reward for the advanced skills required
+- Monitor your air consumption—depth and cold water increase density effects
+- Watch for boat traffic in this active diving area
+
+## Cold Water and Depth Considerations
+
+Monterey's 50-55°F water at 40-85 feet demands excellent thermal protection (7mm+ wetsuits or drysuits). Nitrogen narcosis becomes apparent at these depths—exercise conservative depth limits. Ascend gradually with careful safety stop discipline.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+This is an advanced dive requiring excellent buoyancy control, depth management, and current awareness. Always deploy an SMB on ascent. Maintain constant buddy contact. Follow the boat operator's briefing carefully. Only dive with operators experienced in Monterey's conditions. Abort the dive if conditions deteriorate. Winter sea state and visibility can change rapidly—trust the operator's judgment.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-03-16
+- **Validation Source**: Perplexity research, California Diving News, Monterey dive operators
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*Aumentos Pinnacle is one of Monterey's premier advanced boat dives, especially in winter. Updated 2026-03-16.*

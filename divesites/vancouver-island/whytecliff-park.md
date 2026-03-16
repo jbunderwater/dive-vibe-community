@@ -3,9 +3,9 @@ name: Whytecliff Park
 lat: 49.3714
 lng: -123.2906
 difficulty: Beginner
-maxDepth: 20
+maxDepth: 12
 entryType: shore
-siteType: reef
+siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,54 +13,67 @@ addedBy: osm_import
 
 ## Whytecliff Park
 
-Whytecliff Park is a reef dive site in Vancouver Island, North America.
+Whytecliff Park is the premier dive site on Vancouver Island's North Shore, accommodating divers of all skill levels. Located on the western tip of West Vancouver just south of Horseshoe Bay, it features an inner cove suitable for beginners and certification training, while advanced divers venture to deeper walls toward the Queen Charlotte Channel. Whytecliff Park Marine Protected Area is a designated conservation zone.
 
 ## Overview
 
-Whytecliff Park is a dive site in Vancouver Island offering excellent diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Whytecliff Park is a world-renowned dive destination featuring different depth zones and challenges for all experience levels. The inner cove offers shallow diving (15-40 feet) ideal for beginners and certification training. Intermediate and advanced divers explore an extensive network of walls, ridges, and deeper terrain. The site features excellent marine life, clear water, and comprehensive park facilities making it one of North America's most accessible quality dive sites.
 
 ## Site Information
 
-- **Location**: Vancouver Island, North America
+- **Location**: West Vancouver, western tip, 15 minutes from Lions Gate Bridge
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 12 meters
+- **Typical Visibility**: 10-20 meters
+- **Current**: Variable, can be strong (more in outer areas)
+- **Best Time**: Year-round (summer warmest)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Whytecliff Park Marine Protected Area features diverse marine life including rockfish, lingcod, crab, sculpin, anemones, starfish, occasional wolf eels, and giant Pacific octopus. The MPA status protects these populations. Harbor seals are regular visitors.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Beginner dives explore the inner cove (5-12 meters) with walls of stars and various depths. Certification classes typically occur here with safe, controlled environments. Intermediate dives progress to the ridge and plumose anemone forest (12-20 meters). Advanced/technical divers venture beyond the ridge to sloping walls with sandy ledges reaching well beyond recreational limits. Most recreational diving occurs between 5-20 meters.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Shore entry requires careful navigation through the park's rocky area. Divers descend from the cove area to the underwater terrain. Entry becomes easier with experience and local knowledge. Exit at the same location. The park has ample parking, concession stand, and change facilities making logistics straightforward.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Excellent beginner site — most accessible quality North Shore dive
+- Ideal for certification training in protected inner cove
+- Park facilities (parking, changing rooms, showers) are excellent
+- Multiple dive plans prevent repetitive visits
+- Bring underwater camera — excellent photography opportunities
+- Local guide recommended for first visits to navigate optimal entry point
+- Good visibility compared to other North Shore locations
+- Cold water (8-12°C) requires proper thermal protection
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+This is a beginner-to-expert site with considerations:
+- Beginner areas (inner cove 5-12m) suitable for newly certified divers
+- Advanced areas (outer walls) require experience and depth certification
+- Cold water (8-12°C) essential
+- Thermal protection required (7mm+ wetsuit or drysuit)
+- Designated Marine Protected Area — respect conservation status
+- Always dive with buddy
+- Currents possible, especially in outer areas
+- Use SMB for ascents
+- Entry/exit can involve surge — time entry carefully
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Excellent opportunities for all skill levels. Beginner photographers can capture the wall structures and marine life. Advanced photographers can pursue macro subjects in wall crevices and anemone fields. The MPA status means healthy, thriving ecosystems with excellent photographic subjects.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-03-16
+- **Validation Source**: Web research (2026-03)
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from OpenStreetMap data and regional diving research. Last updated 2026-03-16.*

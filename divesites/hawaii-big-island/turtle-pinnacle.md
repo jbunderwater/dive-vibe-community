@@ -23,7 +23,7 @@ Turtle Pinnacle is a dive site in Hawaii Big Island offering rewarding diving on
 
 - **Location**: Hawaii Big Island, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)

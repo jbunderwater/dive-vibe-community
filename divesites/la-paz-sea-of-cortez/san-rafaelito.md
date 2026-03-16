@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## San Rafaelito
 
-San Rafaelito is a reef dive site in La Paz & Sea of Cortez, North America.
+San Rafaelito is a gentle beginner-friendly reef site offering excellent introduction to warm-water Sea of Cortez diving.
 
 ## Overview
 
-San Rafaelito is a dive site in La Paz & Sea of Cortez offering excellent diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+San Rafaelito is a shallow, protected reef site near Isla Cerralvo, offering an excellent introduction to diving in the warm, clear waters of the Sea of Cortez. The site features calm conditions, excellent visibility, and straightforward reef structures, making it ideal for open-water certification dives and newly certified divers. The shallow maximum depth and minimal current provide a safe, comfortable diving environment.
 
 ## Site Information
 
-- **Location**: La Paz & Sea of Cortez, North America
+- **Location**: Near Isla Cerralvo, Sea of Cortez
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Typical Visibility**: 15-25 meters
+- **Current**: Mild and protected
+- **Best Time**: Year-round (warmest July-November)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+The site features abundant reef fish including snappers, groupers, damselfish, parrotfish, and various jacks. Rays including eagle rays and mobula rays are common, and sea lions may be encountered. Soft and hard corals decorate the reef structures, and macro subjects including nudibranchs, crustaceans, and sea stars are easily observed. The calm conditions make wildlife photography accessible for all skill levels.
 
 ## Dive Profile
 

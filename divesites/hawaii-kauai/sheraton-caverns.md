@@ -3,7 +3,7 @@ name: Sheraton Caverns
 lat: 21.8748
 lng: -159.4505
 difficulty: Intermediate
-maxDepth: 18
+maxDepth: 26
 entryType: boat
 siteType: cave
 ref: null
@@ -13,26 +13,27 @@ addedBy: osm_import
 
 ## Sheraton Caverns
 
-Sheraton Caverns is a cave dive site in Hawaii - Kauai, Pacific.
+Sheraton Caverns is a world-renowned cave dive site on Kauai's South Shore and is considered one of the best dives for sea turtles in the world, with typical dives encountering 15+ turtles.
 
 ## Overview
 
-Sheraton Caverns is a dive site in Hawaii - Kauai featuring underwater cave and cavern formations. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Sheraton Caverns features a dramatic underwater landscape of 26+ documented lava tubes and caverns, including tubes over 75 feet long that tunnel toward the shore. The site is a sea turtle sanctuary, where hundreds of Hawaiian green sea turtles graze on algae, rest in rocky crevices, and create a unique encounter with one of Hawaii's most cherished marine creatures. The reef's collapsed lava formations create an incredible maze-like diving experience in warm, calm South Shore waters.
 
 ## Site Information
 
-- **Location**: Hawaii - Kauai, Pacific
+- **Location**: 2 miles from Kukuiula Harbor, South Shore, Kauai
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Maximum Depth**: 26 meters
+- **Typical Visibility**: 40-100+ meters (130-330+ feet)
+- **Current**: Mild to moderate
+- **Best Time**: Year-round (best conditions May-September)
+- **Water Temperature**: 26-28°C (79-82°F)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+Sea turtles are the star attraction—expect 15+ sightings on most dives. Other inhabitants include white-tip reef sharks, manta rays, whale sharks (rare but possible), schooling reef fish, moray eels, octopuses, and nudibranchs. The low-light cave environment hosts crustaceans and cryptic reef fish seeking shelter in the cavern overhangs.
 
 ## Dive Profile
 

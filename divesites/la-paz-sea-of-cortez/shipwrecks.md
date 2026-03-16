@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Shipwrecks
 
-Shipwrecks is a historic wreck dive in La Paz & Sea of Cortez, North America.
+Shipwrecks is a wreck diving site in the southern Sea of Cortez featuring multiple wreck structures accessible by boat.
 
 ## Overview
 
-Shipwrecks is a dive site in La Paz & Sea of Cortez featuring the wreck of the Shipwrecks. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The Shipwrecks site consists of several wreck structures in the southern Sea of Cortez (near the Baja California Sur coast). This remote wreck site is accessible primarily by boat and offers intermediate diving on the wreck structures with good historical and ecological value. The wrecks have become artificial reefs supporting abundant marine life, making the site both historically interesting and biologically productive.
 
 ## Site Information
 
-- **Location**: La Paz & Sea of Cortez, North America
+- **Location**: Southern Sea of Cortez, Baja California Sur coast
 - **Entry Type**: Shore entry
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Typical Visibility**: 15-25 meters
+- **Current**: Mild to moderate
+- **Best Time**: July to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The wreck structures provide excellent habitat for reef fish including snappers, groupers, jacks, and numerous other fish species. Corals and sponges encrust the wrecks, and macro subjects including nudibranchs and crustaceans are abundant. Sea lions, eagle rays, mobula rays, and occasionally larger pelagic species may be encountered. The remote location offers good opportunities for experiencing less-crowded wreck diving.
 
 ## Dive Profile
 

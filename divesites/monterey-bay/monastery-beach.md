@@ -3,65 +3,74 @@ name: Monastery Beach
 lat: 36.524
 lng: -121.928
 difficulty: Advanced
-maxDepth: 30
+maxDepth: 40
 entryType: shore
 siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import
+validated: true
 ---
 
-## Monastery Beach
+## Monastery Beach (North Monastery)
 
-Monastery Beach is a wall dive site in Monterey Bay, North America.
+Monastery Beach features a dramatic nearly vertical wall descending hundreds of feet into the Monterey Submarine Canyon, offering expert-only diving with brief access to deep water and exceptional marine life, but a treacherous beach entry and exit.
 
 ## Overview
 
-Monastery Beach is a dive site in Monterey Bay featuring a dramatic vertical wall that drops into the deep blue. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Located along Highway 1 just south of Carmel-by-the-Sea, Monastery Beach is named for the working monastery that overlooks the shore. The site is known for its easy access to exceptionally deep water—the bottom drops steeply to the Monterey Canyon just offshore. This is advanced diving only, suitable only for experienced cold-water divers comfortable with strong entries and difficult surf conditions.
 
 ## Site Information
 
-- **Location**: Monterey Bay, North America
+- **Location**: Monastery Beach, South of Carmel-by-the-Sea, Highway 1
 - **Entry Type**: Shore entry
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 40 meters
+- **Typical Visibility**: 20-80 feet (6-24 meters) on good days
+- **Water Temperature**: 10-13°C (50-55°F) — requires 7mm wetsuit or drysuit
+- **Current**: Moderate to strong variable
+- **Hazard**: Treacherous shore break and unstable beach conditions
+- **Best Time**: Calm days only (June-September typically)
 
-## Marine Life
+## Marine Life and Features
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+The wall is covered with colorful encrusting marine life, including bright pink and purple hydrocoral—some of the largest and best-preserved hydrocoral specimens in Central California. Lingcod, cabezon (especially nesting in winter), rockfish, wolf eels, and nudibranchs are common. Cold inflows bring hundreds of brightly-colored egg-yolk jellyfish and additional nudibranch species. Distant boat dives at this site have recorded sea otters, harbor seals, and deep-water species in deeper water.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-30 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+This is not a typical shallow-deep progression. The site features a nearly vertical wall that begins close to shore at 10-15 meters and drops continuously to 40+ meters. The immediate wall descent means rapid depth gain—control your descent rate carefully. Most divers stay between 25-40 meters where the wall structure is most interesting and marine life abundant. Nitrogen narcosis effects begin at these depths—monitor your cognition and buddy contact carefully.
 
-## Entry and Exit
+## Entry and Exit: The Critical Hazard
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Monastery Beach's entry and exit are famously difficult. The beach has a steep slope with coarse sand that produces large, plunging breakers and unstable footing. This site earned the dark nickname "Mortuary Beach" after several high-profile dive fatalities related to rough shore conditions. **Only dive this site on calm days after checking local conditions thoroughly.** Entry and exit technique is critical:
+
+- Gear up above the high tide line
+- Time entry with incoming sets of smaller waves
+- Enter quickly with deliberate forward momentum
+- Exit the same way—head straight toward shore with speed to avoid being caught in the surf zone
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- **Only dive on genuinely calm days**—serious conditions are life-threatening
+- Buddy contact is essential at depth and through the surf zone
+- Use a safety SMB on ascent to maintain surface contact
+- This site demands drysuit comfort and excellent buoyancy control
+- The reward is dramatic wall diving and exceptional marine life
+- Plan dives with experienced local guides when possible
+
+## Cold Water and Nitrogen Narcosis
+
+Monterey's 50-55°F water at 40 meters demands a 7mm wetsuit or drysuit. At 40+ meters, nitrogen narcosis effects are significant—maintain buddy contact and use conservative depth and time limits. Ascend to shallower depths (20-25 meters) if narcosis becomes pronounced.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+This site carries genuine risk from the shore break, cold water, and depth. Divers have died here—approach with extreme respect for conditions. Never dive Monastery Beach on days with any appreciable swell. Always use an SMB on ascent. Buddy separation at depth or in the surf zone can be fatal. This is a site for advanced, experienced cold-water divers only.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-03-16
+- **Validation Source**: Perplexity research, California Diving News, dive accident databases
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*Monastery Beach is a world-class but serious dive site. This page has been thoroughly researched against local conditions and accident reports. Dive safely. Updated 2026-03-16.*

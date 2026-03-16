@@ -2,10 +2,10 @@
 name: Kleine Knip
 lat: 12.341558
 lng: -69.1538671
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Beginner
+maxDepth: 20
 entryType: Shore
-siteType: reef
+siteType: wall
 ref: null
 osmId: null
 addedBy: assistant
@@ -13,22 +13,22 @@ addedBy: assistant
 
 ## Kleine Knip
 
-Kleine Knip (Playa Kenepa Chiki) is a stunning shallow reef dive located on Curaçao's scenic northwest coast, offering excellent snorkeling and beginner-friendly diving conditions.
+Kleine Knip (Playa Kenepa Chiki) is a beautiful shore dive featuring a dramatic wall with Star Coral formations, perfect for beginner divers exploring Curaçao's stunning northwest coast.
 
 ## Overview
 
-Kleine Knip, also known as Playa Kenepa Chiki, is one of Curaçao's most picturesque dive sites, combining beautiful above-water scenery with excellent underwater exploration opportunities. Located in a protected bay between dramatic limestone cliffs, this site offers crystal-clear waters and diverse marine life just steps from a pristine white sand beach. The protected nature of the bay provides consistently calm conditions, making it ideal for new divers and underwater photographers. The reef features healthy coral formations, particularly impressive elkhorn corals, and attracts a variety of Caribbean marine species including sea turtles, octopus, and colorful tropical fish.
+Kleine Knip is a beloved shore dive site located below Landhuis Knip on Curaçao's northwest coast. The site features an accessible public beach with shallow entry leading to dramatic wall formations and impressive Star Coral structures. After a brief swim across sandy bottom, divers encounter the reef and wall starting around 8-10 meters, with Star Coral formations visible at moderate depths. The wall gradually descends to depths suitable for intermediate divers, creating a site that welcomes all experience levels. The combination of easy beach access, calm conditions, and abundant marine life typical of Curaçao's cold-water wall diving makes Kleine Knip a must-visit destination.
 
 ## Site Information
 
-- **Location**: Northwest coast of Curaçao, between Westpunt and Lagun
-- **Entry Type**: Shore entry
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters (82 feet)
-- **Typical Visibility**: 15-30 meters (50-100 feet)
-- **Current**: Usually minimal to none
-- **Best Time**: Year-round, early morning for best fish activity
+- **Location**: Northwest coast, near Landhuis Knip village
+- **Entry Type**: Shore
+- **Site Type**: Wall dive
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 20 meters
+- **Typical Visibility**: 20-30 meters (65-100 feet)
+- **Current**: Usually minimal, occasional mild current
+- **Best Time**: Year-round, excellent conditions
 
 ## Marine Life
 
@@ -36,7 +36,7 @@ The protected bay at Kleine Knip supports diverse marine life typical of healthy
 
 ## Dive Profile
 
-The dive begins in shallow water (2-3 meters) directly from the beach, making it perfect for beginners. The reef gradually slopes from the shoreline, with the most interesting marine life concentrated along the rocky edges of the bay. The left side of the bay offers excellent coral formations with large elkhorn corals at depths of 8-15 meters. Swimming around the rocky point reveals more diverse coral species and deeper areas reaching 20-25 meters. The right side of the bay also provides good diving with soft corals and fish aggregations. Surface intervals can be spent relaxing on the beautiful beach under natural palm shade.
+Entry is from the sandy public beach directly below the car park, in shallow water (1-2 meters). Divers wade out and swim across a sandy bottom (approximately 50-100 meters) before encountering the reef and wall formations. The wall begins around 8-10 meters depth and features prominent Star Coral formations rising from the wall structure. The gradually descending topography allows beginners to explore the shallower sections while intermediate divers can venture to the full wall depth of 20 meters. The site accommodates varying experience levels, with excellent coral and fish life at all depths. Extended bottom times are possible given the moderate depth, making it ideal for photography and unhurried exploration.
 
 ## Entry and Exit
 

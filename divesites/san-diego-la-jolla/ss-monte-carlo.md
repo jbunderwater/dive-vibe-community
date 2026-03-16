@@ -3,7 +3,7 @@ name: SS Monte Carlo
 lat: 32.6742831
 lng: -117.1731815
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 20
 entryType: shore
 siteType: wreck
 ref: null
@@ -13,22 +13,22 @@ addedBy: osm_import
 
 ## SS Monte Carlo
 
-SS Monte Carlo is a historic wreck dive in San Diego - La Jolla, North America.
+SS Monte Carlo is a historic wreck dive off Coronado Beach in San Diego featuring a concrete oil tanker that operated as a floating gambling casino.
 
 ## Overview
 
-SS Monte Carlo is a dive site in San Diego - La Jolla featuring a historic wreck which sank in January 1, 1937 . Concrete ship used as offshore gambling hub during prohibition, sent aground during a storm and abandoned.. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The SS Monte Carlo (originally SS McKittrick) was a concrete and iron oil tanker converted into a gambling ship in 1932. After being run aground during a severe storm on New Year's Day 1937, the wreck remains on the seafloor off Coronado in shallow water. The wreck sits in strong surge with poor to fair visibility, best attempted during calm conditions with minimal surge. Diving here is challenging due to the dynamic water movement that forces divers into crevices and tight spaces. Occasional El Niño storms expose portions of the massive concrete frame at low tide.
 
 ## Site Information
 
-- **Location**: San Diego - La Jolla, North America
+- **Location**: Coronado, San Diego - La Jolla
 - **Entry Type**: Shore entry
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 20 meters
+- **Typical Visibility**: 1-5 meters (highly variable, worst during calm periods when silt is heavy)
+- **Current**: Powerful surge and water movement, especially with tide changes
+- **Best Time**: Summer months when seas are calmest and surge is manageable
 
 ## Marine Life
 

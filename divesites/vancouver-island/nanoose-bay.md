@@ -5,7 +5,7 @@ lng: -124.1333
 difficulty: Beginner
 maxDepth: 18
 entryType: shore
-siteType: reef
+siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,54 +13,66 @@ addedBy: osm_import
 
 ## Nanoose Bay
 
-Nanoose Bay is a reef dive site in Vancouver Island, North America.
+Nanoose Bay, located 26 kilometers north of Nanaimo and 15 kilometers south of Parksville, is the best shore dive location on central Vancouver Island. Madrona Point is considered one of the finest dive sites on all of Vancouver Island, offering multiple wall dive progressions suitable for all skill levels with good shore access and diverse dive plans.
 
 ## Overview
 
-Nanoose Bay is a dive site in Vancouver Island offering excellent diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Nanoose Bay features multiple dive sites with the crown jewel being Madrona Point. The bay offers accessible shore diving with multiple walls at varying depths. The Small Wall, Mid Wall, and Maze provide beginner-to-intermediate exploration at maximum depths of 18-20 meters. The Main Wall extends to advanced depths of 27+ meters. The site is known for large California and Steller sea lions (often exceeding 1000 lbs) that interact with divers.
 
 ## Site Information
 
-- **Location**: Vancouver Island, North America
+- **Location**: Nanoose Bay, 26km N of Nanaimo / 15km S of Parksville, BC
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Typical Visibility**: 10-20 meters
+- **Current**: Generally manageable
+- **Best Time**: Summer and early fall
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Nanoose Bay is famous for sea lion encounters. California Sea Lions and Steller Sea Lions (often 1000+ lbs) are commonly seen and interact with divers. Additional marine life includes rockfish, lingcod, giant Pacific octopus, colorful invertebrates, crustaceans, and mollusks.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Beginner dives typically explore the Small Wall, Mid Wall, and Maze structures to maximum depths of 18-20 meters. These walls offer interesting reef topography and excellent marine life viewing. More experienced divers can progress to the Main Wall at depths to 27+ meters. Multiple dive plan options make the site versatile. Sea lion encounters are likely at any depth. Bottom time of 40-50 minutes is typical for beginner-level depths.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Shore entry is straightforward with good access and clear water entry point. Descend gradually to reach the wall structures. Return to entry point for exit. The accessible bay conditions make entry/exit manageable.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- One of the best shore dive locations on central Vancouver Island
+- Multiple wall options allow dives for all skill levels
+- Sea lion encounters are frequent — enjoy the interaction but maintain distance
+- Cold water (8-12°C) requires proper thermal protection
+- Bring quality camera for sea lion photography
+- Multiple wall options prevent repetitive diving
+- Good visibility for the central island region
+- Check local conditions; the Vancouver Island east coast can experience surge
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+This is a beginner-to-advanced site with important considerations:
+- Beginner walls (Small, Mid, Maze) suitable for newly certified divers
+- Main Wall requires Advanced certification and experience
+- Cold-water diving (8-12°C)
+- Thermal protection essential (7mm+ wetsuit or drysuit)
+- Always dive with a buddy
+- Sea lions are intelligent and curious but never approach if they seem uncomfortable
+- Use SMB for ascents
+- Watch depth carefully on wall dives
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Exceptional opportunities for sea lion and marine life photography. Wide-angle shots of walls and sea lion interactions create memorable images. Macro subjects on wall crevices and invertebrates provide detail. Early morning provides optimal light.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-03-16
+- **Validation Source**: Web research (2026-03)
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from OpenStreetMap data and regional diving research. Last updated 2026-03-16.*

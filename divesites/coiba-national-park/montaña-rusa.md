@@ -2,8 +2,8 @@
 name: Montaña Rusa
 lat: 7.45
 lng: -81.82
-difficulty: Intermediate
-maxDepth: 22
+difficulty: Advanced
+maxDepth: 40
 entryType: boat
 siteType: pinnacle
 ref: null
@@ -13,54 +13,68 @@ addedBy: osm_import
 
 ## Montaña Rusa
 
-Montaña Rusa is a pinnacle dive site in Coiba National Park, South America.
+Montaña Rusa (Roller Coaster) is a deep, technical pinnacle dive featuring dramatic underwater canyons and valleys with severe currents and intense pelagic action—considered the deepest and most challenging site in Coiba's rotation.
 
 ## Overview
 
-Montaña Rusa is a dive site in Coiba National Park offering rewarding diving on healthy coral reef structures. Located in the South America region, this site offers 10-25 meters of visibility with water temperatures averaging 15-26°C.
+Montaña Rusa features dramatic pinnacles and underwater canyons in open Pacific waters, with depths reaching 35-40 meters. This exposed, technical site experiences strong, sometimes severe currents that sweep through channels, bringing abundant schooling fish and pelagic action. Oceanic blacktip sharks (larger than reef sharks), white-tip reef sharks, bull sharks, hammerheads, and black-tip reef sharks patrol the site alongside massive fish schools (barracuda, bigeye jacks, bluefin trevallies, dog snappers) and baitballs. Only for Expert+ divers or Advanced divers on acclimated multi-day liveaboards. Water temperatures 24-28°C; visibility 15-25 meters typically.
 
 ## Site Information
 
-- **Location**: Coiba National Park, South America
+- **Location**: Open Pacific, Coiba area, Panama
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 meters
-- **Typical Visibility**: 10-25 meters (30-80 feet)
-- **Current**: Moderate to strong
-- **Best Time**: June to November
+- **Site Type**: Pinnacle/seamount
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 40 meters
+- **Typical Visibility**: 15-25 meters (50-80 feet)
+- **Current**: Strong to severe (frequent, sometimes severe)
+- **Water Temperature**: 24-28°C (75-82°F)
+- **Best Time**: December-April (dry season, peak sharks)
 
 ## Marine Life
 
-Divers at this site can expect to encounter hammerhead sharks, whale sharks, sea lions, marine iguanas, manta rays, eagle rays, sea turtles, dolphins. Additional species commonly sighted include penguins, moray eels.
+Oceanic blacktip sharks (much larger than reef sharks), white-tip reef sharks, bull sharks, hammerhead sharks, black-tip reef sharks, longtail stingrays, massive schooling barracuda, bigeye jacks, bluefin trevallies, and enormous dog snappers. Baitballs of schooling fish create feeding frenzies. Pelagic action intense; shark density highest of all Coiba sites.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 22 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+This is a deep technical dive requiring conservative bottom timing and excellent air management. Descend via anchor line to reef top (16m), then navigate pinnacle structures deeper to 35-40 meters. Dives typically profile to 35-40m for 15-20 minute bottom times on recreational air (less with Nitrox). Current allows natural drift alignment; divers may need to hold rocks to maintain group position. Ascend conservatively with extended safety stop (10+ minutes at 5m) accounting for nitrogen loading at depth.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat anchors on pinnacle top. Entry via giant stride or controlled descent before anchoring to descent line. Descend hand-over-hand following rope to reef top, maintaining buoyancy for bottom depth. Drift with current as briefed. Ascend via natural bouyancy or line; extended 5m safety stop essential. SMB signal to boat for pickup confirmation.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- **Schedule last** in multi-day trip when fully acclimated to Coiba's conditions
+- Enriched air (Nitrox) strongly recommended for extended bottom times and decompression safety
+- Bring robust wide-angle lens for fish baitballs and shark action
+- Reef hooks useful for maintaining position in severe current
+- Dive gloves essential for rock-holding in strong current
+- Negative water entry sometimes necessary—confirm with crew pre-dive
+- Expect overwhelming shark density; confidence and calm essential
 
 ## Safety Considerations
 
-Be aware of strong currents, cold thermoclines, surge in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+**This is the most technically demanding site in Coiba's rotation.** Severe currents can sweep divers from group if unprepared. Deep depths (35-40m) exceed recreational no-decompression limits; decompression obligations likely. Cold thermoclines below 25m; nitrogen narcosis probable at depths. Shark encounters absolutely guaranteed; remain calm. Recommended for Expert or Advanced-with-lots-of-deep-experience divers only. Never dive alone. Monitor SPG obsessively. Abort if overwhelmed by current, depth, narcosis, or shark density. Safety always trumps adventure.
 
-## Photography
+## Seasonal Notes
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+**January-April (Peak)**: Dry season winds create consistent strong currents. Upwelling brings cooler (24°C) plankton-rich water and maximum shark/pelagic diversity. Mornings can be rough; afternoons often calmer.
+
+**May-November**: Gentler currents, warmer water (27-28°C), calmer seas. Reduced shark frequency but still excellent pelagic action.
+
+## Decompression & Technical Notes
+
+- Recreational air profiles to 35m may incur decompression obligations
+- Nitrox (32-36%) strongly recommended for bottom times >15 minutes
+- TEC certification (or equivalent deep dive training) advisable
+- Buddy team should have synchronized SPGs and agreement on turnaround times
+- Carry backup regulators and additional gas supplies
 
 ## Additional Resources
 
 - **Last Updated**: 2026-03-16
+- **Validation Source**: Perplexity research (March 2026)
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*Dive site information researched March 2026. Updated with deep-technical and pelagic encounter data for Coiba's most advanced site.*

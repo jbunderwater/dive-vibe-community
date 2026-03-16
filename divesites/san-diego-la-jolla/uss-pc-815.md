@@ -2,9 +2,9 @@
 name: USS PC-815
 lat: 32.6320386
 lng: -117.2369421
-difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+difficulty: Advanced
+maxDepth: 27
+entryType: boat
 siteType: wreck
 ref: null
 osmId: 12072350823
@@ -13,19 +13,19 @@ addedBy: osm_import
 
 ## USS PC-815
 
-USS PC-815 is a historic wreck dive in San Diego - La Jolla, North America.
+USS PC-815 is a challenging deep wreck dive featuring the remains of a World War II naval patrol craft that sank in a dramatic collision.
 
 ## Overview
 
-USS PC-815 is a dive site in San Diego - La Jolla featuring a historic wreck which sank in 11 September 1945 . WWII patrol craft infamous for several incidents, sunk in collision with USS Laffey.. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The USS PC-815 was a sub-chaser commissioned in April 1943 with an unfortunate history of accidents—earning it the nickname the "jinxed sub-chaser." On September 11, 1945, the vessel collided with the destroyer USS Laffey in dense fog off San Diego Bay. The Laffey struck the PC-815 just aft of the bridge on the port side, causing the patrol craft to catch fire and sink within five minutes with one sailor lost. Navy demolition teams later demolished the wreck in November 1945, reducing it to scattered remains on the seafloor. This is an advanced-only site requiring excellent air management and deep diving experience.
 
 ## Site Information
 
-- **Location**: San Diego - La Jolla, North America
-- **Entry Type**: Shore entry
-- **Site Type**: Wreck
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Location**: San Diego Bay area (32°37'54"N 117°14'12"W)
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 27 meters
 - **Typical Visibility**: 5-25 meters (15-80 feet)
 - **Current**: Variable, can be strong
 - **Best Time**: June to October

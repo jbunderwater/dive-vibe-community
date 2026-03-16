@@ -13,26 +13,27 @@ addedBy: osm_import
 
 ## YO-257 Wreck
 
-YO-257 Wreck is a historic wreck dive in Hawaii - Oahu, Pacific.
+The YO-257 is one of Oahu's premier deep wreck dives—a 165-foot Navy fuel barge from the WWII era, offering excellent penetration opportunities for advanced divers.
 
 ## Overview
 
-YO-257 Wreck is a dive site in Hawaii - Oahu featuring the wreck of the YO-257 Wreck. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+The YO-257 sits approximately 3 miles offshore from Kewalo Basin, making this a quick 10-15 minute boat ride from Waikiki. This iconic wreck has numerous levels to explore and is known for its strong currents and excellent photographic subjects. The vessel bottoms out around 100-110 feet, with the main deck resting at approximately 65 feet.
 
 ## Site Information
 
-- **Location**: Hawaii - Oahu, Pacific
+- **Location**: South Shore of Oahu, near Waikiki
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 22-24 meters (70-80 feet)
+- **Current**: Moderate to strong (can be extreme at times)
+- **Best Time**: Year-round, though calmer conditions typically May-September
+- **Bottom Time**: 15-30 minutes depending on depth and location
 
 ## Marine Life
 
-Divers at this site can expect to encounter coral growth, anemones, lionfish, scorpionfish, glassy sweepers, manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks. Additional species commonly sighted include sea turtles, napoleon wrasse, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The wreck hosts abundant marine life including resting sea turtles, eagle rays, reef sharks, nudibranchs, and frogfish. The coral-encrusted structure provides shelter for thousands of reef fish, creating a thriving artificial reef ecosystem.
 
 ## Dive Profile
 

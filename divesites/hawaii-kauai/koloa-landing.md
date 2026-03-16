@@ -13,26 +13,27 @@ addedBy: osm_import
 
 ## Koloa Landing
 
-Koloa Landing is a reef dive site in Hawaii - Kauai, Pacific.
+Koloa Landing, also known as Whalers Cove, is a protected reef dive site on Kauai's South Shore and was voted one of the Best Shore Dives in the Pacific by Scuba Diving Magazine.
 
 ## Overview
 
-Koloa Landing is a dive site in Hawaii - Kauai offering excellent diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Koloa Landing offers excellent shore diving with vibrant stony corals and abundant marine life. The large horseshoe-shaped bay allows divers to explore two distinct areas with multiple entry points and easy navigation. With no real swell break and protection from the bay, this is an ideal site for divers of all skill levels seeking colorful, life-filled diving in calm water.
 
 ## Site Information
 
-- **Location**: Hawaii - Kauai, Pacific
+- **Location**: Poipu area, South Shore, Kauai
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 15-45 meters (50-150 feet)
+- **Current**: Mild to moderate
+- **Best Time**: Year-round (calmer May-September)
+- **Water Temperature**: 24-27°C (75-81°F)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Koloa Landing is known as a colorful dive, full of vibrant stony corals and diverse reef inhabitants. Expect to see Hawaiian green sea turtles (common), moray eels, triggerfish, surgeonfish, parrotfish, butterflyfish, frogfish, and scorpionfish. On rare occasions, divers encounter spotted eagle rays, dolphins, or even reef sharks. During December-April, humpback whale songs may be heard during dives.
 
 ## Dive Profile
 

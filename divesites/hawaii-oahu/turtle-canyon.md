@@ -2,9 +2,9 @@
 name: Turtle Canyon
 lat: 21.2738488
 lng: -157.8393891
-difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+difficulty: Beginner
+maxDepth: 45
+entryType: boat
 siteType: reef
 ref: null
 osmId: 10703353557
@@ -13,26 +13,27 @@ addedBy: osm_import
 
 ## Turtle Canyon
 
-Turtle Canyon is a reef dive site in Hawaii - Oahu, Pacific.
+Turtle Canyon is one of Hawaii's most beloved and accessible reef dives, famous for close encounters with Hawaiian green sea turtles at dedicated cleaning stations.
 
 ## Overview
 
-Turtle Canyon is a dive site in Hawaii - Oahu offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Located just 1.5-2.5 miles offshore from Waikiki on Oahu's south shore, Turtle Canyon is accessible via a 10-20 minute boat ride from Kewalo Basin. This shallow offshore reef features volcanic lava formations with finger-like structures and is known for its exceptional turtle encounters. The presence of turtle cleaning stations, where reef fish gently clean the turtles' shells, creates magical and unique diving experiences. Visibility can reach 100 feet on good days, and the site is diveable year-round.
 
 ## Site Information
 
-- **Location**: Hawaii - Oahu, Pacific
-- **Entry Type**: Shore entry
+- **Location**: South shore of Oahu, off Waikiki
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Difficulty Level**: Beginner
+- **Depth Range**: 30-50 feet (9-15 meters)
+- **Typical Visibility**: Excellent, up to 100 feet
+- **Current**: Moderate
+- **Best Time**: Year-round, calmer May-September
+- **Water Temperature**: 75-80°F (24-27°C) year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Hawaiian green sea turtles are the star attraction at Turtle Canyon. The cleaning stations draw turtles regularly, allowing divers to observe them being groomed by gold ring surgeonfish and other small reef fish. The reef also hosts abundant fish life including moray eels, white-tip reef sharks, octopi, and large coral heads with Christmas tree worms. This is an ideal site for spotting endemic Hawaiian fish species.
 
 ## Dive Profile
 

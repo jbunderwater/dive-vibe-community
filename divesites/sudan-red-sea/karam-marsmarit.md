@@ -2,10 +2,10 @@
 name: Karam Marsmarit
 lat: 18.7979372
 lng: 38.777359
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Advanced
+maxDepth: 40
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: 9721031082
 addedBy: osm_import
@@ -13,46 +13,47 @@ addedBy: osm_import
 
 ## Karam Marsmarit
 
-Karam Marsmarit is a reef dive site in Sudan Red Sea, Middle East.
+Karam Marsmarit is an advanced reef dive in Sudan's remote southern Red Sea, part of expeditions to the extreme south archipelago near the Eritrean border. The southeastern side features deeper walls where sharks and napoleons congregate.
 
 ## Overview
 
-Karam Marsmarit is a dive site in Sudan Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Karam Marsmarit is visited as part of specialized deep south liveaboard itineraries that also explore sites like Barra Mussa, the reefs of Keary, Pender, Logan, and Protector, Shaab Ambar, and the Umbria wreck. The site is known for deeper wall diving where the most dramatic marine life encounters occur. The southeastern wall side descends significantly, creating a magnet for pelagic fish, sharks, and napoleons seeking the dynamic ecosystem created by depth changes and current. Pristine, mostly undiscovered waters with minimal diving pressure mean marine life remains abundant and less cautious than in heavily dived areas.
 
 ## Site Information
 
-- **Location**: Sudan Red Sea, Middle East
+- **Location**: Remote south archipelago, 30+ nm from Port Sudan
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Site Type**: Wall dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 40 meters
+- **Typical Visibility**: 25-40 meters (80-130+ feet)
+- **Current**: Strong
+- **Best Time**: February to April
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Karam Marsmarit's southeastern wall is a shark aggregation site. Grey reef sharks, silvertip sharks, and hammerheads visit regularly. Massive napoleons (groupers) shelter in deep crevices, especially on the deeper walls. Large schools of jacks, tuna, emperors, and snappers patrol the walls. Barracuda and other predatory fish add to the dynamic environment. The wall structure and deep water create an ecosystem different from shallower reefs, with emphasis on large, robust pelagic species rather than reef-dwelling fish.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend along the wall to 30-40 meters and follow the reef face, working with the current. The deepest and most dramatic sections (35-40m) host the largest napoleons and are where the most dramatic shark encounters occur. Most diving is between 25-40 meters. Nitrogen narcosis becomes a factor below 30m—monitor your judgment carefully and maintain depth discipline. Strong current means drift diving; coordinate with the boat crew. Plan conservative bottom times for depth and decompression.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access only via specialized south-expedition liveaboards. Descents follow the wall structure with strong current providing natural drift. Entry and exit are coordinated with the liveaboard crew. High-visibility surface marker buoy (SMB) is mandatory for safety stop signaling and boat pickup.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Underwater camera essential for documenting sharks and napoleons
+- Excellent buoyancy control is critical at 35-40m depths
+- Use a depth computer to track depth and decompression
+- Carry redundant depth monitor and dive light
+- Book only with experienced deep-south expedition operators
+- Plan a conservative dive profile and depth limit before descent
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Significant hazards include strong currents, nitrogen narcosis below 30m, and deep diving dangers. The remote location limits emergency response—only dive if you have 50+ logged deep dives and strong current experience. Maintain strict depth discipline and monitor air consumption carefully; bottom times at 35-40m must be conservative. Abort immediately if nitrogen narcosis impairs judgment or if current becomes unmanageable. Always dive with an experienced buddy and carry redundant signaling equipment (SMB, mirror, light).
 
 ## Photography
 

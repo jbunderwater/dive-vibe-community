@@ -13,26 +13,32 @@ addedBy: osm_import
 
 ## Makaha Caverns
 
-Makaha Caverns is a cave dive site in Hawaii - Oahu, Pacific.
+Makaha Caverns features some of Hawaii's most dramatic examples of volcanic lava topography with interconnected lava tubes and fun swim-throughs in shallow water on Oahu's West Shore.
 
 ## Overview
 
-Makaha Caverns is a dive site in Hawaii - Oahu featuring underwater cave and cavern formations. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Located on the Farrington Highway on Oahu's West Shore, Makaha Caverns is a series of interconnected lava tubes with spectacular cave formations. The site is typically accessed by boat, though swimming from the beach is possible (approximately 150 yards). The caverns are filled with tons of wildlife, swim-throughs, and rock formations—showcasing trenches, lava tubes, and caverns with excellent lava formations and light penetration for non-penetration exploration.
 
 ## Site Information
 
-- **Location**: Hawaii - Oahu, Pacific
+- **Location**: West Shore of Oahu (Waianae area)
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
+- **Average Depth**: 8 meters (26 feet)
 - **Maximum Depth**: 14 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 10-30 meters
+- **Current**: Low
+- **Dive Time**: ~50 minutes bottom time
+- **Best Time**: Year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+Makaha Caverns hosts turtles as frequent residents (napping in caves), massive pufferfish, spiney lobsters, and schools of fish. Whitetip reef sharks are also commonly encountered. The cave environment provides shelter for species adapted to low-light conditions, including crustaceans and small fish seeking protection in the overhangs.
+
+## Special Considerations
+
+Divers are strongly recommended to bring a good dive light (and backup) when exploring caverns or swim-throughs. Buddy systems, signaling devices, and surface marker buoys are essential. Dive flags are mandatory, and lifeguards may stop divers before water entry to ensure compliance with safety requirements.
 
 ## Dive Profile
 

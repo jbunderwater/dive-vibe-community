@@ -3,8 +3,8 @@ name: Turtle Alley
 lat: 21.2758897
 lng: -157.8412477
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+maxDepth: 35
+entryType: boat
 siteType: reef
 ref: null
 osmId: 10703353556
@@ -13,26 +13,27 @@ addedBy: osm_import
 
 ## Turtle Alley
 
-Turtle Alley is a reef dive site in Hawaii - Oahu, Pacific.
+Turtle Alley is a healthy offshore reef dive near Turtle Canyon on Oahu's south shore, named for its frequent Hawaiian green sea turtle encounters.
 
 ## Overview
 
-Turtle Alley is a dive site in Hawaii - Oahu offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Located on Oahu's south shore off Waikiki, Turtle Alley is an offshore reef site accessible via a short boat ride from Kewalo Basin. The site is part of the same reef system as nearby Turtle Canyon and offers similar opportunities for encountering Hawaiian green sea turtles along with abundant reef fish and healthy coral formations. The moderate depth makes this an excellent site for intermediate divers.
 
 ## Site Information
 
-- **Location**: Hawaii - Oahu, Pacific
-- **Entry Type**: Shore entry
+- **Location**: South shore of Oahu, off Waikiki
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Maximum Depth**: 35 meters
+- **Typical Visibility**: Excellent, up to 100 feet
+- **Current**: Moderate
+- **Best Time**: Year-round, calmer May-September
+- **Water Temperature**: 75-80°F (24-27°C) year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+The site is known for frequent Hawaiian green sea turtle encounters, particularly at cleaning stations where turtles gather to be groomed by smaller reef fish. Other marine life includes reef fish, octopi, moray eels, whitetip reef sharks, and large coral heads. Endemic Hawaiian fish species are commonly sighted.
 
 ## Dive Profile
 

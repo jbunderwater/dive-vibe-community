@@ -13,54 +13,57 @@ addedBy: osm_import
 
 ## Shark Point Coiba
 
-Shark Point Coiba is a pinnacle dive site in Coiba National Park, South America.
+Shark Point Coiba is a protected pinnacle dive site featuring rock and hard coral canyon formations, known for reliable shark encounters and excellent macro habitat.
 
 ## Overview
 
-Shark Point Coiba is a dive site in Coiba National Park offering rewarding diving on healthy coral reef structures. Located in the South America region, this site offers 10-25 meters of visibility with water temperatures averaging 15-26°C.
+Shark Point Coiba features a relatively protected point near shore with a bottom composed of rocks and hard corals forming dramatic canyon structures. Despite "protected" positioning, this Advanced site hosts consistent shark activity with reef sharks, bull sharks, and occasional pelagic visitors. Water temperatures average 26-30°C with visibility typically 15-25 meters. Well-suited for mid-trip sharks-and-canyons dives when divers are acclimated to regular shark encounters at Coiba.
 
 ## Site Information
 
-- **Location**: Coiba National Park, South America
+- **Location**: Central Coiba Island area, Panama
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-25 meters (30-80 feet)
-- **Current**: Moderate to strong
-- **Best Time**: June to November
+- **Typical Visibility**: 15-25 meters (50-80 feet)
+- **Current**: Mild to moderate
+- **Water Temperature**: 26-30°C (79-86°F) year-round
+- **Best Time**: December-April (calmer conditions)
 
 ## Marine Life
 
-Divers at this site can expect to encounter hammerhead sharks, whale sharks, sea lions, marine iguanas, manta rays, eagle rays, sea turtles, dolphins. Additional species commonly sighted include penguins, moray eels.
+Reef sharks, bull sharks, white-tip reef sharks, and occasional pelagic visitors patrol canyon structures. Abundant reef fish species navigate rock and coral formations. Lobsters, moray eels, rays, and diverse invertebrates inhabit canyons and crevices. Canyon habitat supports excellent macro life and crustacean photography.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin in shallow water (8-12 meters) exploring canyon entrances and rock formations. Descend along canyon walls to 20-30 meters exploring overhang structures and crevices. Navigate through smaller canyons where macro life concentrates. Most productive diving in 15-25 meter range balancing light, air consumption, and marine life density. Ascend along same canyon structures with final safety stop in upper canyon section (5-10 meters).
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat entry with giant stride or controlled descent into shallow water. Descend along canyon formation edges. Follow canyon structure deeper while maintaining contact with buddy and canyon features. Ascend along same natural formation. Final 5-meter safety stop can occur in upper canyon or open water per crew direction. SMB deployment recommended for crew coordination.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Excellent macro photography site—bring 100mm lens for invertebrates
+- Plan for mid-trip dive after shark acclimatization
+- Bring reef hooks for holding position in canyon narrows if current increases
+- Watch for camouflaged moray eels and lobsters in crevices
+- Neutral buoyancy essential to avoid damaging coral
+- Shark encounters reliable; excellent site for building comfort
 
 ## Safety Considerations
 
-Be aware of strong currents, cold thermoclines, surge in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Rock/coral bottoms require careful buoyancy to avoid damage. Currents can increase in narrow canyons—monitor position closely. Shark presence guaranteed; maintain calm, controlled diving. Disorientation possible in complex canyon structures; maintain clear visual reference to exit. Always use buddy system and communicate regularly. Abort if overwhelmed by sharks, currents, or diving conditions.
 
-## Photography
+## Seasonal Notes
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Year-round diveable. Dry season (December-April) offers calmer conditions, warmest water (29-30°C), and best light for macro photography. Rainy season (May-November) maintains excellent visibility with slightly cooler water (26-28°C) and variable currents.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-03-16
+- **Validation Source**: Perplexity research (March 2026)
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*Dive site information researched March 2026. Updated with site-specific characteristics of Coiba's shark-rich pinnacle.*

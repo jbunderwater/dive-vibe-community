@@ -2,7 +2,7 @@
 name: Margate Bay
 lat: 12.0513405
 lng: -68.2722056
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 30
 entryType: shore
 siteType: reef
@@ -20,7 +20,7 @@ Margate Bay is a beautiful dive site located in southern Bonaire near Pink Beach
 - **Location**: South Bonaire (near Pink Beach)
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-30 meters
 - **Current**: Usually light

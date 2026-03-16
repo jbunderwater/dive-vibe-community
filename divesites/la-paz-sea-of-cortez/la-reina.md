@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## La Reina
 
-La Reina is a reef dive site in La Paz & Sea of Cortez, North America.
+La Reina is a rocky islet dive site offering reef and wall structures off Isla Cerralvo.
 
 ## Overview
 
-La Reina is a dive site in La Paz & Sea of Cortez offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+La Reina, meaning "The Queen" in Spanish, is a rocky islet just off the northern tip of Isla Cerralvo in the southern Sea of Cortez. The site offers interesting reef and wall structures with good marine life diversity. The location provides moderate difficulty diving suitable for intermediate to advanced divers seeking a less-visited alternative to the crowded northern sites.
 
 ## Site Information
 
-- **Location**: La Paz & Sea of Cortez, North America
+- **Location**: Northern tip of Isla Cerralvo, Sea of Cortez
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Typical Visibility**: 15-25 meters
+- **Current**: Mild to moderate
+- **Best Time**: July to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+La Reina features abundant reef fish including snappers, groupers, jacks, and cabrilla inhabiting the rocky structures. Sea lions occasionally visit, and pelagic species including eagle rays, mobula rays, and seasonal whale sharks may be encountered. Soft and hard corals decorate the rocky formations, providing habitat for macro subjects including nudibranchs, crustaceans, and sea stars.
 
 ## Dive Profile
 

@@ -2,8 +2,8 @@
 name: Andrea II
 lat: 12.1913607
 lng: -68.2978203
-difficulty: Beginner
-maxDepth: 30
+difficulty: Intermediate
+maxDepth: 38
 entryType: shore
 siteType: reef
 ref: 
@@ -20,8 +20,8 @@ Andrea II is a beautiful dive site located in northern Bonaire, just north of An
 - **Location**: North Bonaire (just north of Andrea I, similar conditions)
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 30 meters
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 38 meters
 - **Typical Visibility**: 20-30 meters
 - **Current**: Usually light
 - **Best Time**: Morning to early afternoon

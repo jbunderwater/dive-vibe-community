@@ -22,10 +22,10 @@ Mushroom Forest is widely considered one of the Caribbean's most spectacular div
 ## Site Information
 
 - **Location**: Northwest coast off Santa Cruz Plantation
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters (100 feet)
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 25-40 meters (80-130 feet)
 - **Current**: Usually minimal, occasional mild current
 - **Best Time**: Year-round, best conditions February-May

@@ -3,9 +3,9 @@ name: Suck Em Up
 lat: 19.65
 lng: -156.0167
 difficulty: Intermediate
-maxDepth: 18
+maxDepth: 8
 entryType: boat
-siteType: reef
+siteType: cave
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,54 +13,68 @@ addedBy: osm_import
 
 ## Suck Em Up
 
-Suck Em Up is a reef dive site in Hawaii Big Island, Pacific.
+One of Kona's most dramatic lava tube dives, Suck Em Up features a 40-foot tunnel running parallel to the shoreline with dynamic surge effects and natural skylights. This intermediate dive combines technical interest with accessible depth, making it popular with divers seeking more than a simple reef experience.
 
 ## Overview
 
-Suck Em Up is a dive site in Hawaii Big Island offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Suck Em Up gets its memorable name from the powerful ocean surge that can create a "plunger effect" within the lava tubes—pushing and pulling divers with the swell. The site features a complex system of lava tubes and caverns with multiple entrances, exits, and skylights. Sunlight pierces through openings in the lava rock ceiling, creating dramatic light beams that dance through the water, a photographer's dream.
 
 ## Site Information
 
-- **Location**: Hawaii Big Island, Pacific
+- **Location**: North Kona Coast
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Maximum Depth**: 8 meters
+- **Typical Visibility**: 15-25 meters (50-80 feet)
+- **Water Temperature**: 26-28°C (78-82°F)
+- **Best Time**: April to September (calmer conditions for surge navigation)
+
+## The Lava Tube System
+
+The signature feature is a 100-foot long lava tube with a 40-foot primary passage that runs roughly parallel to the shoreline. The tube opens onto the reef at about 25 feet. There are various openings, exits, and a series of skylights distributed along the system. The network creates a natural underwater maze suitable for intermediate buoyancy skills.
+
+## Surge and Dynamics
+
+The site is famous for surge—ocean swell pushes water into the tubes and pulls it back out in a rhythmic pattern. In calm conditions, surge is minimal and the dive is straightforward. In rougher conditions, surge can be dramatic, making entries and exits challenging. This is both the appeal and the challenge of the site. Some divers enjoy the dynamic challenge; others prefer calmer conditions.
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
-
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Within the tubes you'll find crustaceans (including large spiny lobsters), small reef fish, octopus, and porcupine pufferfish. The reef surrounding the tubes supports typical Hawaiian reef fish communities. Few large animals, but the environment is rich with interesting invertebrates and small species.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Exceptional opportunities for lighting and composition. The natural skylights create dramatic shadows and light beams. The dramatic rock formations within the tubes provide excellent abstract and detail photography subjects. Bring underwater lights to illuminate the interior caverns and reveal the true colors of marine life.
+
+## Diving the Site
+
+Most divers enter the tube system from the reef side, exploring the main passage and skylights, then exiting the way they came. With good buoyancy, the navigation is straightforward. Avoid touching walls to prevent disturbing sediment and to protect the delicate cavern environment. Move deliberately and smoothly to maintain control in surge.
+
+## Tips and Recommendations
+
+- **Buoyancy practice**: Practice mid-water buoyancy control before this dive if unfamiliar
+- **Lights are essential**: Bring quality underwater lights to explore the darker chambers and reveal colors
+- **Surge awareness**: Ask your operator about conditions beforehand; high surge days can be challenging
+- **Calm conditions preferred**: Schedule this dive during calm, low-surf forecasts if possible
+- **Photography setup**: Consider a wide-angle setup for the dramatic tube interiors
+
+## Safety Considerations
+
+- Intermediate certification recommended (or equivalent experience)
+- Maintain excellent buoyancy control to prevent stirring up sediment
+- In surge conditions, maintain a safe distance from the group and divemaster
+- Do not penetrate beyond light-penetrating areas (about 100 feet into the tubes)
+- Be aware that surge can create unexpected currents; discuss exit strategy beforehand
+- Bring a safety light and maintain good spatial awareness
+- Do not touch the lava rock walls—they are sharp and fragile ecosystems
+
+## Site Condition Considerations
+
+This is a surge-dependent dive. On calm days, it's an excellent intermediate site. On high-swell days, it can be more challenging. Experienced operators will recommend postponement if surge is excessive. Check local conditions and swell forecasts before booking.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was researched from Kona dive operator reviews, diver trip reports, and lava tube diving guides. Last updated 2026-03-16.*

@@ -3,8 +3,8 @@ name: Half Point
 lat: 21.2846716
 lng: -157.6718538
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+maxDepth: 35
+entryType: boat
 siteType: reef
 ref: null
 osmId: 6527650958
@@ -13,26 +13,27 @@ addedBy: osm_import
 
 ## Half Point
 
-Half Point is a reef dive site in Hawaii - Oahu, Pacific.
+Half Point is a scenic reef dive site on Oahu's southeast shore, featuring healthy hard coral formations and an active reef ecosystem with good visibility.
 
 ## Overview
 
-Half Point is a dive site in Hawaii - Oahu offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Half Point is located on Oahu's southeast coast off the Windward side and is accessible via boat dive charter. The site features a healthy coral reef with moderate depth, making it suitable for intermediate divers. The name likely refers to its position relative to nearby reef markers. Good visibility and moderate currents make this a reliable diving destination with diverse marine life.
 
 ## Site Information
 
-- **Location**: Hawaii - Oahu, Pacific
-- **Entry Type**: Shore entry
+- **Location**: Southeast shore of Oahu
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Maximum Depth**: 35 meters
+- **Typical Visibility**: Good to excellent
+- **Current**: Moderate
+- **Best Time**: Year-round, calmer May-September
+- **Water Temperature**: 75-80°F (24-27°C) year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+The reef supports a diverse marine community including reef fish, sea turtles, octopuses, moray eels, and whitetip reef sharks. The hard coral formations provide excellent habitat for various reef fish species and invertebrates.
 
 ## Dive Profile
 

@@ -9,46 +9,62 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research",
+      "notable_features": "horseshoe bay, colorful stony corals, abundant marine life",
+      "marine_life": "Hawaiian green sea turtles, moray eels, triggerfish, surgeonfish, parrotfish, butterflyfish, frogfish, scorpionfish, spotted eagle rays, dolphins"
     }
   },
   {
     "name": "Sheraton Caverns",
     "lat": 21.8748,
     "lon": -159.4505,
-    "depth": 18,
+    "depth": 26,
     "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research",
+      "notable_features": "26+ lava tubes and caverns, sea turtle sanctuary, collapsed lava formations",
+      "marine_life": "hundreds of sea turtles, white-tip reef sharks, manta rays, whale sharks, schooling reef fish, eels, octopuses, nudibranchs"
     }
   },
   {
     "name": "General Store",
     "lat": 21.876,
     "lon": -159.445,
-    "depth": 20,
+    "depth": 80,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research",
+      "notable_features": "drift dive, ship wreckage, deep reef structure, plentiful fish selection",
+      "marine_life": "black triggers, butterfly fish, white-tip reef sharks, spotted puffer, giant porcupine, lemon butterfly fish, helmet conch, octopus, turtles, eagle rays, frogfish"
     }
   },
   {
     "name": "Brennecke's Ledge",
     "lat": 21.873,
     "lon": -159.439,
-    "depth": 20,
+    "depth": 75,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research",
+      "notable_features": "lava shelf with 90-foot wall drop, cauliflower coral, overhangs with orange cup coral, dramatic volcanic features",
+      "marine_life": "green sea turtles, whitetip sharks, giant trevally, blue-striped snapper, nudibranchs, frogfish, hermit crabs, reef crabs, lobsters, sea stars"
     }
   },
   {
@@ -61,46 +77,63 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research",
+      "notable_features": "three fingers of lava forming arches, huge boulders, large caverns, undercut ledges, holes to swim through",
+      "marine_life": "lots of turtles, schooling fish, sharks, eels, lobsters, dark-loving crustaceans"
     }
   },
   {
     "name": "Tunnels Beach (Makua)",
     "lat": 22.2203,
     "lon": -159.5695,
-    "depth": 12,
-    "site_type": "reef",
+    "depth": 15,
+    "site_type": "cave",
     "entry_type": "shore",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research",
+      "notable_features": "many lava tubes, caverns, cathedrals, tunnels in reef, excellent coral near shore, free access",
+      "marine_life": "Hawaiian monk seals, colorful reef fish, sea turtles, tropical fish",
+      "seasonal_note": "best May-September (calmer north shore), avoid winter high surf"
     }
   },
   {
     "name": "Ni'ihau",
     "lat": 21.9,
     "lon": -160.15,
-    "depth": 30,
+    "depth": 120,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research",
+      "notable_features": "pristine private island, untouched reefs, hundreds of feet visibility, world-class pelagic diving, Vertical Awareness pinnacle (300ft bottom to 45ft top)",
+      "marine_life": "sandbar, tiger and oceanic blacktip sharks, manta rays, eagle rays, whale sharks, endangered Hawaiian monk seals (prolific populations), grey reef sharks, healthy vibrant corals"
     }
   },
   {
     "name": "Mana Crack",
     "lat": 21.9551,
     "lon": -159.7725,
-    "depth": 30,
+    "depth": 130,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research",
+      "notable_features": "11-mile sunken barrier reef, furthest offshore dive site in Hawaii, live boat only, strong currents, wall drops 130+ feet",
+      "marine_life": "large barracuda, spotted eagle rays, white-tip reef sharks, endangered Hawaiian monk seals"
     }
   },
   {
@@ -113,7 +146,11 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research",
+      "notable_features": "sheltered harbor with breakwater, calm protected waters, small beach, on-site facilities (restrooms, showers), south shore location",
+      "marine_life": "reef fish, coral structures, typical south shore tropical species"
     }
   },
   {
@@ -126,7 +163,11 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research",
+      "notable_features": "accessible shore dive, healthy reef, tropical fish abundance",
+      "marine_life": "reef fish, sea turtles, coral structures"
     }
   }
 ]

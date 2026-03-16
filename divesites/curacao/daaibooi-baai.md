@@ -2,8 +2,8 @@
 name: Daaibooi Baai
 lat: 12.2119209
 lng: -69.0855754
-difficulty: Intermediate
-maxDepth: 30
+difficulty: Beginner
+maxDepth: 35
 entryType: Shore
 siteType: reef
 ref: null
@@ -13,22 +13,22 @@ addedBy: assistant
 
 ## Daaibooi Baai
 
-Daaibooi Baai is a peaceful shore diving destination featuring calm, clear waters and diverse marine life encounters in a protected bay setting on Curaçao's west coast.
+Daaibooi Baai (also known as Daaibooi Bay) is a protected shore dive featuring calm, clear waters and an accessible coral reef system with abundant marine life including sea turtles, rays, and colorful tropical fish.
 
 ## Overview
 
-Daaibooi Baai (Daaibooi Beach) is a beloved shore diving destination located in Sint Willibrordus on Curaçao's west coast, known for its exceptionally calm conditions and crystal-clear waters. This protected bay offers easy shore access to a healthy coral reef system that starts close to shore and extends into deeper water. The site is particularly famous for its reliable calm conditions, making it perfect for beginner divers, training courses, and underwater photography. The beach features beautiful white sand and turquoise waters, creating a tropical paradise both above and below the surface. The healthy reef system supports diverse Caribbean marine life, including frequent sightings of sea turtles, rays, and colorful tropical fish.
+Daaibooi Baai, located in Sint Willibrordus on Curaçao's west coast, is a beloved shore diving destination famous for its exceptional calm conditions and reliable diving year-round. The protected bay offers easy access to a healthy coral reef that starts offshore after a brief surface swim across sandy bottom. While the drop-off is far from shore requiring a longer surface swim, divers are rewarded with vibrant coral biodiversity including soft coral, Elephant Ear sponges, and brain corals. The site accommodates all experience levels and is particularly popular for beginner divers seeking safe, calm conditions. Regular encounters with sea turtles, eagle rays, pipefish, and cuttlefish make Daaibooi Baai a favorite among local divers seeking a peaceful underwater experience.
 
 ## Site Information
 
 - **Location**: West coast, Sint Willibrordus area
-- **Entry Type**: Shore entry
+- **Entry Type**: Shore
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters (100 feet)
-- **Typical Visibility**: 15-25 meters (50-80 feet)
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 35 meters
+- **Typical Visibility**: 20-30 meters (65-100 feet)
 - **Current**: Usually minimal to none
-- **Best Time**: Year-round, excellent for calm water diving
+- **Best Time**: Year-round, excellent calm water conditions
 
 ## Marine Life
 
@@ -36,7 +36,7 @@ Daaibooi Baai supports exceptional marine biodiversity with frequent encounters 
 
 ## Dive Profile
 
-The dive begins from a beautiful sandy beach in shallow water (1-2 meters), making it ideal for beginners and training dives. The reef starts close to shore with interesting coral formations beginning at depths of 5-8 meters. The bay gradually deepens toward the mouth, reaching maximum depths of 25-30 meters for more experienced divers. The calm conditions and varied topography allow for flexible dive profiles, from shallow reef exploration to deeper wall diving. The protected nature of the bay ensures excellent conditions for extended underwater exploration and multiple dive profiles.
+Entry is from the sandy beach in very shallow water (1-2 meters). A longer surface swim of approximately 5-10 minutes is required to reach the reef drop-off, which is located far from shore. This characteristic of many Curaçao sites requires comfortable surface swimming skills. Once reaching the reef, divers encounter vibrant coral formations including soft coral, sponges, and brain coral at depths beginning around 8-10 meters. The drop-off extends to depths of 35 meters or deeper for advanced divers. The calm protected bay conditions and long surface approach make this site particularly suitable for beginners learning open water diving skills.
 
 ## Entry and Exit
 

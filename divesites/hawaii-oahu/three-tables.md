@@ -13,26 +13,32 @@ addedBy: osm_import
 
 ## Three Tables
 
-Three Tables is a reef dive site in Hawaii - Oahu, Pacific.
+Three Tables is a picturesque North Shore dive site named after the three flat lava rock formations that protrude from the ocean at low tide, offering excellent beginner snorkeling and diving conditions.
 
 ## Overview
 
-Three Tables is a dive site in Hawaii - Oahu offering excellent diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Located along Kamehameha Highway in Haleiwa on Oahu's North Shore, just south of Shark's Cove within Pupukea Beach Park, Three Tables is a favorite summer dive spot. The site features three distinctive flat lava "fingers" (hence the name) extending offshore from a rocky lava shelf. The shallow waters, unique lava formations, and abundant marine life make this an ideal destination for snorkeling and beginner scuba diving.
 
 ## Site Information
 
-- **Location**: Hawaii - Oahu, Pacific
+- **Location**: North Shore of Oahu (Pupukea Beach Park), Haleiwa
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 10 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: Good when calm
+- **Current**: Minimal when conditions are good
+- **Water Temperature**: 75-80°F (24-27°C) year-round
+- **Best Time**: Summer only (May-September) when ocean is calm
+- **Winter Conditions**: Dangerous, NOT advised due to powerful surf
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Three Tables offers excellent opportunities to encounter white-tip reef sharks (left side), occasional Hawaiian green sea turtles, colorful reef fish, and various coral types. The site is particularly famous for its abundance of fish life and underwater lava formations, with left and right sides offering different characteristics.
+
+## Special Features
+
+The site is called "Three Tables" because of the three flat rock formations that are visible above water at low tide, making the site very easy to identify. Visitors will find underwater lava tubes, ledges, and arches created by ancient volcanic activity. There are no lifeguards on duty, and divers should always check conditions before entering.
 
 ## Dive Profile
 

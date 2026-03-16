@@ -22,7 +22,7 @@ The Ship Wreck Tugboat, located in Caracasbaai (Caracas Bay), is arguably Curaç
 ## Site Information
 
 - **Location**: Caracasbaai (Caracas Bay), southeast coast
-- **Entry Type**: Shore entry
+- **Entry Type**: Shore
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 5 meters
