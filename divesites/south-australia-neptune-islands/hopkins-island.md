@@ -3,7 +3,7 @@ name: Hopkins Island
 lat: -35.2
 lng: 136.04
 difficulty: Intermediate
-maxDepth: 18
+maxDepth: 15
 entryType: boat
 siteType: reef
 ref: null
@@ -13,53 +13,54 @@ addedBy: osm_import
 
 ## Hopkins Island
 
-Hopkins Island is a reef dive site in South Australia Neptune Islands, Oceania.
+Unique seal encounter dive site featuring Australian sea lion and fur seal interactions in shallow reef waters.
 
 ## Overview
 
-Hopkins Island is a dive site in South Australia Neptune Islands offering rewarding diving on healthy coral reef structures. Located in the Oceania region, this site offers 15-40 meters of visibility with water temperatures averaging 20-29°C.
+Hopkins Island is a recreational dive site renowned for intimate encounters with Australian sea lions and long-nosed fur seals. Located in the northern Neptune Islands, Hopkins Island offers shallow reef diving combined with unforgettable seal interactions. Playful seals approach divers; this is one of the few locations worldwide where divers can safely interact with wild seals in their natural habitat. Suitable for intermediate divers with good buoyancy control.
 
 ## Site Information
 
-- **Location**: South Australia Neptune Islands, Oceania
+- **Location**: Hopkins Island, northern Neptune Islands, 40 nautical miles south of Port Lincoln, South Australia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 15-40 meters (50-130 feet)
-- **Current**: Variable
-- **Best Time**: September to February
+- **Depth**: 5-15 meters (16-50 feet)
+- **Typical Visibility**: 15-20 meters (50-65 feet)
+- **Current**: Generally mild
+- **Water Temperature**: 14-22°C (57-72°F) — coldest June-August, warmest December-May
+- **Best Time**: April-August (breeding season) for seal pup encounters; year-round seal interactions possible
 
 ## Marine Life
 
-Divers at this site can expect to encounter great white sharks, grey nurse sharks, whale sharks, manta rays, sea turtles, dolphins, dugongs, potato cod. Additional species commonly sighted include maori wrasse, giant trevally, hard corals, soft corals.
+Australian sea lions (curiosity-driven, interactive with divers), long-nosed fur seals, seal pups (April-August), cold-water reef fish, cuttlefish, sea urchins, crustaceans, kelp forest invertebrates.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to shallow reef at 5-8 meters around Hopkins Island. Seals are typically attracted to the sound of bubbles and will approach divers to investigate. Maintain calm, neutral buoyancy and avoid chasing seals; let them approach you. Allow 40-50 minutes for interaction time. Ascend gradually while remaining open to final seal encounters. Most interactions occur in 5-12 meter depth zone. Safety stop at 5 meters before surfacing.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+PADI Open Water certification or equivalent required. Giant stride or back roll entry from boat; descend to island's shallow reef structure. Seal interactions occur naturally; avoid sudden movements or chasing. Ascent via natural buoyancy, maintaining awareness of seal positions. Deploy SMB during final safety stop. Coordinate with boat crew for pickup, noting that seals may follow you toward the surface.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- PADI Open Water certification required
+- Wear 5-7mm semi-dry wetsuit for 14-22°C water
+- Maintain neutral buoyancy for seal comfort and safe interactions
+- Let seals approach you; never chase seals or be aggressive
+- April-August: peak season for playful seal pups and interactive behavior
+- Bring underwater camera for once-in-a-lifetime seal photographs
+- Go early in dive to maximize seal interaction time
+- Be prepared for 2-5 seals per dive; activity varies with season
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish (box jellyfish in summer), crocodiles (north) in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Seals are naturally inquisitive but wild animals; respect their behavior. Excellent buoyancy control essential to avoid scraping rocky substrate and to provide stable platform for seal interactions. Cold water (14-22°C) requires proper thermal protection and energy management. Maintain buddy awareness while distracted by seal encounters. Standard open water diving protocols apply: equalization, air monitoring, safety stop compliance. Always dive with a buddy. Verify current seal activity and interaction guidelines with local operators before diving.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

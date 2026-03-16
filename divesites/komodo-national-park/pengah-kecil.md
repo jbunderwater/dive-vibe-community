@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Pengah Kecil
 
-Rocky island with steep walls, vibrant coral plateaus, and rich marine life.
+Pengah Kecil is a pinnacle dive site in Komodo National Park, Asia.
 
 ## Overview
 
-Pengah Kecil is a small rocky island in central Komodo offering steep walls and vibrant plateaus. The site features dramatic underwater topography with steep walls, mini-walls, and coral-covered slopes creating pockets of shelter from current. The varying topography creates excellent habitats for diverse marine life. Depths range from shallow coral platforms to 25+ meters. Suitable for intermediate divers with some current experience.
+Pengah Kecil is a dive site in Komodo National Park offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Central Komodo, Pengah Kecil Island
+- **Location**: Komodo National Park, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle/seamount
+- **Site Type**: Pinnacle
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 27 meters
-- **Typical Visibility**: 15–30 meters (50–100 feet)
-- **Current**: Variable; moderate to strong depending on tidal phase
-- **Best Time**: May to October; year-round diveable
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Bumphead parrotfish, eagle rays, white-tip reef sharks, jackfish, hard and soft corals, sea fans, and feather stars. Small reef fish, nudibranchs, and crustaceans abundant in coral heads.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
 
 ## Dive Profile
 
-Descend to a pinnacle top (starting 10–15m) and explore the surrounding topography. Work the walls and plateaus, using rock features as reference points. Ascend gradually, spending extra time in shallow coral patches for macro work.
+The site offers diving at depths ranging from shallow reef areas down to approximately 27 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
-Boat drop. Giant stride entry. Descend to pinnacle structure. Exit via SMB.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-- Scout the varying topography for compositional diversity
-- Look for resting sharks in protected pockets
-- Plan time for both macro and wide-angle photography
-- Current can vary; adjust routing accordingly
-- Good intermediate-level dive with high marine life density
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
+- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
-Currents can increase throughout dive. Maintain buoyancy control to avoid depth creep. Navigate using rock formations as references. Plan air conservatively.
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-Excellent wide-angle compositions of the rocky islands and coral coverage. Macro opportunities in coral heads. Variable depths provide diverse lighting options.
+This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

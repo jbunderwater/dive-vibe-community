@@ -23,7 +23,7 @@ MV Cominoland is a dive site in Malta and Gozo featuring a historic wreck which 
 
 - **Location**: Malta and Gozo, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 41 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
@@ -61,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

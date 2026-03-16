@@ -13,22 +13,22 @@ addedBy: osm_import
 
 ## S.S. Sapona
 
-S.S. Sapona is a shallow, historically significant concrete-hulled wreck off Bimini famous for both snorkeling and diving, visible at both high and low tide.
+S.S. Sapona is a historic wreck dive in Bahamas, Caribbean.
 
 ## Overview
 
-The SS Sapona is one of the most accessible and photogenic wrecks in the Bahamas, resting in only 5 meters (15 feet) of water off Bimini. Originally a WWI-era concrete cargo steamer built during steel shortages, she became a floating warehouse during Prohibition before running aground in 1926. During WWII, the U.S. military used her as target practice, leaving her partially destroyed but still recognizable. Today the wreck teems with tropical fish including eels, French angelfish, spotfin butterflyfish, barracuda, sergeant majors, snappers, and jacks. The surrounding waters vibrate with coral growth and fish life, making this wreck both a historical artifact and a thriving marine habitat.
+S.S. Sapona is a dive site in Bahamas featuring the wreck of the S.S. Sapona which sank in 1926. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Bimini, Bahamas
+- **Location**: Bahamas, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 5 meters
-- **Typical Visibility**: 15-25 meters (50-80 feet)
-- **Current**: Light
-- **Best Time**: December to April (dry season), year-round accessible
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Light to moderate
+- **Best Time**: December to April (dry season)
 
 ## Marine Life
 
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter groupers, snappers, soldierfish, gla
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 20 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 5 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -44,12 +44,12 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
+- Excellent site for newer divers — calm conditions and easy navigation
 - Bring a dive torch to illuminate wreck interiors and dark overhangs
 - Maintain proper buoyancy to avoid disturbing silt inside the wreck
 - Do not attempt penetration without proper training and equipment
 - Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
 
 ## Safety Considerations
 
@@ -61,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

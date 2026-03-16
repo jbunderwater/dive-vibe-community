@@ -17,19 +17,18 @@ Anse Dufour is a reef dive site in Martinique, Caribbean.
 
 ## Overview
 
-Anse Dufour is a dream destination for divers seeking to encounter sea turtles in their natural habitat. This peaceful cove features a sandy shore with healthy coral reef structures and seagrass beds where green and hawksbill turtles are regularly observed. The calm, clear water and modest depths make it an ideal site for beginners and photographers.
+Anse Dufour is a dive site in Martinique offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Anse Dufour, Les Anses d'Arlet, Martinique
+- **Location**: Martinique, Caribbean
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Minimal
+- **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
-- **Special Feature**: Excellent turtle encounters, especially in seagrass areas mid-bay
 
 ## Marine Life
 
@@ -60,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

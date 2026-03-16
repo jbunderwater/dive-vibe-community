@@ -17,13 +17,13 @@ Um El Faroud is a historic wreck dive in Malta and Gozo, Europe.
 
 ## Overview
 
-The Um El Faroud is a 115-meter Libyan oil tanker (15.5m beam) sunk in 1998, one of Malta's premier wreck dives. The wreck sits upright on sandy bottom with funnel at 15m and propeller at 36m. It was purpose-scuttled with doors and windows removed and penetration holes cut for diving. Strong currents possible; requires advanced wreck training for penetration. Excellent visibility (20-40m) and thriving artificial reef ecosystem.
+Um El Faroud is a renowned dive site in Malta and Gozo featuring the wreck of the Um El Faroud which sank in 1998-09-02 . 115m oil tanker wreck (115m x 15.5m) sitting upright on sandy bottom. Funnel at 15m, propeller at 36m. Penetrable with strong currents possible.. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
 
 ## Site Information
 
 - **Location**: Malta and Gozo, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 36 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter conger eels, lobsters, crabs, anemon
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 35 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 36 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -53,7 +53,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -61,8 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Website**: http://www.dive-links.com/tauchplatz.php?id=1175
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

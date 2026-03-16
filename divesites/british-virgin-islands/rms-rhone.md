@@ -13,31 +13,30 @@ addedBy: osm_import
 
 ## RMS Rhone
 
-The RMS Rhone is considered one of the best wreck dives in the world and the most iconic dive site in the British Virgin Islands. This 310-meter passenger ship sank during a hurricane in 1867 and now lies on the seafloor off Salt Island as a living monument and thriving marine habitat.
+RMS Rhone is a historic wreck dive in British Virgin Islands, Caribbean.
 
 ## Overview
 
-The RMS Rhone represents a world-class recreational wreck dive with minimal penetration risk. Unlike many wrecks, the Rhone was blown open by the explosion that sank it, creating large, roomy swim-throughs with multiple exit points rather than tight, entrapment-prone passageways. The wreck is naturally divided into two distinct sections approximately 30 meters apart, offering multiple dives to fully experience the site. The bow lies on its side in deeper water with dramatic features including openings, cannons, and the foremast with crow's nest, while the shallower stern section includes the propeller and rudder visible from 5 meters up.
+RMS Rhone is a dive site in British Virgin Islands featuring the wreck of the RMS Rhone. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Black Rock Point, West side of Salt Island, British Virgin Islands
+- **Location**: British Virgin Islands, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 26 meters
-- **Shallow Point**: 5 meters (propeller and rudder)
-- **Typical Visibility**: 15-22 meters (50-75 feet)
-- **Current**: Periodic and variable, usually flowing north
-- **Best Time**: December to April (dry season), though diveable year-round
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Light to moderate
+- **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-The wreck structure provides shelter and habitat for a thriving marine ecosystem. Common sightings include groupers, snappers, soldierfish, glassy sweepers, coral growth, and sponge encrustation. Sea turtles (green and hawksbill), southern stingrays, eagle rays, and nurse sharks are frequently encountered. The diverse coral and sponge growth has transformed the wreck into a living reef.
+Divers at this site can expect to encounter groupers, snappers, soldierfish, glassy sweepers, coral growth, sponge encrustation, sea turtles (green, hawksbill), southern stingrays. Additional species commonly sighted include eagle rays, nurse sharks, reef sharks, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
 
 ## Dive Profile
 
-The RMS Rhone requires a minimum of two dives to fully experience both the bow and stern sections. The bow section features dramatic swim-throughs, external features, and deep structure to 24 meters. The stern section is shallower and more accessible for those with less depth experience. Plan your descent with the boat's anchor line and navigate to either section based on your dive briefing. The wreck's open design allows flexible dive planning and multiple route options. Most divers spend 40-60 minutes at depth, allowing ample time to explore exterior features and major swim-throughs at your comfort level.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 26 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -62,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

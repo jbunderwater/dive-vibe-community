@@ -17,27 +17,26 @@ La Gabinière is a reef dive site in Port-Cros, Europe.
 
 ## Overview
 
-La Gabinière is the crown jewel of Port-Cros diving—an exceptional reef site renowned for its dramatic drop-offs and extraordinary grouper population. This protected integral reserve hosts over 300 brown groupers that are accustomed to divers, making it one of the richest dive sites in continental France. The islet is only accessible by sea and reaches depths beyond 40 meters on its eastern face.
+La Gabinière is a dive site in Port-Cros offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
 
 ## Site Information
 
-- **Location**: Port-Cros National Park, Côte d'Azur, France
+- **Location**: Port-Cros, Europe
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 45 meters
-- **Typical Visibility**: 15-35 meters
-- **Current**: Light to moderate (more exposed areas)
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Light to moderate
 - **Best Time**: May to October
-- **Water Temperature**: 15-24°C
 
 ## Marine Life
 
-La Gabinière is famous for its dense population of brown groupers (mérou brun), particularly in the 20-40 meter depth range. Schools of Mediterranean barracudas patrol the drop-offs. Other common species include moray eels, octopus, sea bream, dentex, and vibrant red gorgonians. The surrounding posidonia seagrass meadows provide critical habitat for juvenile fish and invertebrates.
+Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 40 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 45 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -60,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

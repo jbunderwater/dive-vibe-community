@@ -1,39 +1,44 @@
 [
   {
-    "name": "S.S. Inchulva / Delray Wreck (Wrack)",
+    "name": "S.S. Inchulva / Delray Wreck",
     "lat": 26.453632,
     "lon": -80.056344,
     "osm_id": 663869458,
     "osm_type": "node",
-    "depth": null,
+    "depth": 7.6,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
-      "description": "The old shipwreck know as the Delray Wreck rests at the bottom of the ocean in 25 feet of water about 150 yards offshore the south end of Delray’s municipal beach.",
+      "description": "Historic 1903 steamship wreck resting in 25 feet (7.6m) of water approximately 150 yards offshore from Delray Beach. The wreck is accessible as a shore dive from Delray Beach municipal beach. Most of the vessel is buried and deteriorated; the boiler field is the primary remaining intact feature. Site is home to abundant fish life including tarpon. Scattered boiler debris across a 70-foot field creates an interesting exploration for beginner to intermediate divers.",
       "historic": "wreck",
-      "name": "S.S. Inchulva / Delray Wreck (Wrack)",
+      "name": "S.S. Inchulva / Delray Wreck",
       "seamark:type": "wreck",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "web_research"
     }
   },
   {
-    "name": "Julia Tuttle Causeway Artifical Reef",
+    "name": "Julia Tuttle Causeway Artificial Reef",
     "lat": 25.811326,
     "lon": -80.1719249,
     "osm_id": 9206478762,
     "osm_type": "node",
-    "depth": null,
+    "depth": 9,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Beginner",
     "tags": {
-      "name": "Julia Tuttle Causeway Artifical Reef",
+      "name": "Julia Tuttle Causeway Artificial Reef",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "web_research",
+      "description": "Artificial reef built in April 2019 for Miami-Dade County, consisting of 727 tons of limestone boulders. The reef is designed as a marine habitat to attract fish and reef life. Located near the Julia Tuttle Causeway in Biscayne Bay, this relatively new reef structure attracts diverse marine species and provides an accessible diving opportunity for all skill levels."
     }
   },
   {
@@ -42,10 +47,10 @@
     "lon": -80.038333,
     "osm_id": 12601944496,
     "osm_type": "node",
-    "depth": null,
+    "depth": 6,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Beginner",
     "tags": {
       "access": "yes",
       "alt_name": "Cashmere",
@@ -67,7 +72,10 @@
       "wreck:visible_at_high_tide": "no",
       "wreck:visible_at_low_tide": "no",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "web_research",
+      "description": "Historic shipwreck from 1898 located off Manalapan and Boynton Beach in shallow water (15-20 feet / 5-6 meters). The wreck rises approximately 6 feet off the sandy sea floor depending on sand movement. Designated as Florida's eighth Underwater Archaeological Preserve and listed on the National Register of Historic Places in 2004. The shallow depth and snorkel-accessible conditions make this an ideal site for beginner divers and snorkelers."
     }
   },
   {
@@ -76,91 +84,107 @@
     "lon": -80.0838659,
     "osm_id": 13430788646,
     "osm_type": "node",
-    "depth": null,
+    "depth": 7.3,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Beginner",
     "tags": {
-      "description": "SS Copenhagen is a shipwreck off the town of Lauderdale-by-the-Sea, Florida, United States. She was a cargo steamship, built in England in 1898. She was wrecked on a reef south of Hillsboro Inlet in 1900.",
+      "description": "Historic 1900 cargo steamship wreck resting in 16-31 feet (5-9.5m) of water south of Hillsboro Inlet. The wreck features approximately 300 feet of scattered wreckage on a reef ledge. Known as one of Florida's most popular underwater preserves with an estimated 10,000 visitors annually. Open water and novice divers can safely explore the site, though caution should be exercised near the tubes due to silt accumulation. Accessible by boat and also reachable as a shore dive from Lauderdale-by-the-Sea beaches.",
       "historic": "wreck",
       "name": "SS Copenhagen Shipwreck",
       "scuba_diving:divespot": "yes",
       "seamark:type": "wreck",
       "sport": "scuba_diving",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "web_research"
     }
   },
   {
-    "name": "Anglin’s Pier Reef",
+    "name": "Anglins Pier Reef",
     "lat": 26.1869951,
     "lon": -80.0932907,
     "osm_id": 1464171000,
     "osm_type": "way",
-    "depth": null,
+    "depth": 5.5,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
-      "description": "Lauderdale-by-the-Sea is nicknamed the “Shore Dive Capital of South Florida” for a reason: its living coral reefs are a mere 100–400 feet from the beach, making it one of the easiest and most accessible dive spots in the world.",
-      "name": "Anglin’s Pier Reef",
+      "description": "Premier shore dive located south of Anglins Fishing Pier in Lauderdale-by-the-Sea, known as the Shore Dive Capital of South Florida. The reef system features three distinct zones at depths of 12-18 feet (3.7-5.5m), with the first reef beginning approximately 100 feet from shore and accessible via entry from Datura Avenue beach. A 10-12 foot ledge runs parallel to shore. Abundant marine life includes reef sharks, sea turtles, nurse sharks, stingrays, Caribbean reef sharks, Blue Tangs, lobsters, and scorpionfish. The living coral reef sits just 100-400 feet from the beach, making it one of the most accessible dive spots in the world.",
+      "name": "Anglins Pier Reef",
       "natural": "reef",
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "web_research"
     }
   },
   {
     "name": "Blue Heron Bridge",
     "lat": 26.7768,
     "lon": -80.0426,
-    "depth": 6,
+    "depth": 3,
     "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": true,
+      "validation_source": "web_research",
+      "description": "Iconic shallow-water shore dive at Phil Foster Park in Riviera Beach, accessible year-round during high tide. Depths range from 2-6 meters (5-20 feet) with maximum depth around 9 meters (30 feet). Protected location in Lake Worth Lagoon stays divable in poor surface conditions. High-tide slack water provides 45 minutes to 2 hours of excellent bottom time. Outstanding macro photography destination featuring rare tropical macro life: seahorses, pipefish, mimic octopuses, frogfish, sea robins, batfish, and flying gurnards. Mandatory dive flag required. Boat channel runs parallel to shore 30 meters out. Stay clear of center area under bridge."
     }
   },
   {
     "name": "Breakers Reef",
     "lat": 26.725,
     "lon": -80.025,
-    "depth": 20,
+    "depth": 17,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": true,
+      "validation_source": "web_research",
+      "description": "Iconic reef system extending for miles off West Palm Beach adjacent to the historic Breakers Hotel. Depths range from 42-65 feet (12.8-19.8m) with shallower ledge formations (5-10 feet relief). Popular drift dive destination for open water certified divers experiencing consistent current conditions. Pristine coral formations with excellent macro and wide-angle photography opportunities. Marine life includes groupers, snappers, and various pelagic species."
     }
   },
   {
     "name": "Tenneco Towers",
     "lat": 26.1167,
     "lon": -80.0633,
-    "depth": 25,
+    "depth": 24,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": true,
+      "validation_source": "web_research",
+      "description": "Fort Lauderdale's largest artificial reef complex consisting of five decommissioned oil platforms sunk in 1985, aligned in an east-west line at depths of 60, 80, 100, and 200 feet (18-61m). Advanced Open Water certification required due to depth and potential currents. Exceptional marine habitat with dense soft coral growth covering structures, particularly following Hurricane Andrew 1992 damage which created unique growth opportunity. Wildlife includes barracudas, bull sharks, angelfish, hogfish, and coral formations. Visibility ranges 10-30 meters (33-98 feet). Excellent photography and technical diving opportunities."
     }
   },
   {
     "name": "Haulover Ledge",
     "lat": 25.9033,
     "lon": -80.1,
-    "depth": 22,
+    "depth": 13,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": true,
+      "validation_source": "web_research",
+      "description": "Ledge reef system in the Haulover area north of Miami. Depths range from 20-30 feet (6-9m) with some areas reaching 60 feet (18m). Strong tidal currents of 4-6 knots make this an intermediate-level site best suited for current-aware divers. Marine life includes snapper, roaming grouper, hogfish, and various reef fish. Part of a broader North Miami reef network providing excellent diving 10 minutes north of Haulover Inlet. North Canyon/Deep Trench area provides current relief and shelter."
     }
   },
   {
@@ -173,7 +197,10 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": true,
+      "validation_source": "web_research",
+      "description": "Unique underwater memorial reef designed as an artistic representation of the Lost City of Atlantis, located 3.25 miles offshore from Key Biscayne at 40 feet (12m) depth. The site functions as an underwater cemetery for memorial ashes and serves as a living reef habitat. Accessible for divers of all skill levels due to shallow depth and protected location. The elaborate underwater structures create an otherworldly diving experience while supporting marine life growth."
     }
   },
   {
@@ -186,7 +213,10 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": true,
+      "validation_source": "web_research",
+      "description": "Part of Broward County's comprehensive artificial reef program which has deployed over 76 artificial reefs on the ocean floor. Deerfield Beach features multiple adjacent artificial reef sites including the Rapa Nui Reef (150-foot barge rising 9 feet off bottom in 67 feet/20m depth) and other boulder and wreck configurations at depths of 13-22 feet (4-7m). Excellent marine habitat with prolific fish life and coral growth. Intermediate diver certification recommended due to exposure and current conditions."
     }
   },
   {
@@ -199,7 +229,10 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": true,
+      "validation_source": "web_research",
+      "description": "Primary beach entry point for Lauderdale-by-the-Sea's renowned shore diving, offering direct access to shallow reef systems. Depths of 5 feet (1.5m) at entry, extending to 12-18 feet (3.7-5.5m) at the reef structure. Perfect beginner destination with excellent visibility and minimal current exposure. Access via Datura Avenue provides entry to the broader Lauderdale-by-the-Sea reef system within 100-400 feet of shore. Abundant tropical reef fish and marine life with protected water conditions."
     }
   }
 ]

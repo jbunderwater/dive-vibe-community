@@ -13,31 +13,30 @@ addedBy: osm_import
 
 ## Manta Ray Bay
 
-Manta Ray Bay is named for Yap's famous resident manta population.
+Manta Ray Bay is a drift dive site in Micronesia - Yap, Pacific.
 
 ## Overview
 
-Manta Ray Bay is named for Yap's famous resident manta population, which is protected by a marine sanctuary established in 2008. This shallow drift dive offers access to Yap's most compelling marine phenomenon: close encounters with manta rays in their daily cleaning stations. The site takes advantage of the natural aggregation of manta rays that come into the lagoons each day to feed and have their bodies cleaned by small fish. This is beginner-friendly diving at its most thrilling.
+Manta Ray Bay is a dive site in Micronesia - Yap offering excellent diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
 - **Location**: Micronesia - Yap, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Drift dive
+- **Site Type**: Drift
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
-- **Typical Visibility**: 15-18 meters (50-60 feet)
-- **Current**: Mild to moderate drift
-- **Best Time**: Year-round (most concentrated Nov-May)
-- **Special Feature**: Manta Ray Sanctuary (established 2008)
+- **Typical Visibility**: 20-50 meters (65-160 feet)
+- **Current**: Moderate to strong
+- **Best Time**: April to November
 
 ## Marine Life
 
-Manta rays (up to 4 meters wide) are the star attraction, with nearly 100% encounter rate during manta season. Most rays are local residents with predictable daily patterns. Schools of small cleaner fish service the rays at specific sites. The presence of mantas attracts other pelagics including sharks, tuna, and jacks.
+Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
 
 ## Dive Profile
 
-Divers hold position at cleaning station depth (8-12 meters) with excellent buoyancy control. Rays approach and hover while being cleaned. During winter months (Dec-Apr), rays also perform courtship dances across the reef. This is a static observation dive requiring patience and calm behavior to enjoy intimate manta encounters. Maximum dive time is limited by bottom time at depth.
+The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -62,7 +61,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

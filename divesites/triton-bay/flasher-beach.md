@@ -13,48 +13,46 @@ addedBy: osm_import
 
 ## Flasher Beach
 
-Flasher Beach is a hard coral reef site famous for the spectacular mating displays of the colorful Nursalim Flasher Wrasse. Located on an island 30 minutes north-west of Aiduma Island outside the main bay, this site offers stunning hard coral formations transitioning to rubble habitat ideal for observing flasher wrasse behavior.
+Flasher Beach is a reef dive site in Triton Bay, Asia.
 
 ## Overview
 
-Named for its signature fish species, Flasher Beach features bright hard coral growths in the shallows that transition to rubble habitat with depth. This shallow-focused site is known for the brilliant colors and rapid fin-fluttering displays of male flasher wrasses, particularly during late afternoon dives when males perform their most intense mating displays. The site combines excellent conditions for macro observation and wide-angle coral photography.
+Flasher Beach is a dive site in Triton Bay offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Island north-west of Aiduma, Triton Bay, West Papua, Indonesia
+- **Location**: Triton Bay, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 10-20 meters (30-65 feet)
-- **Current**: Variable but manageable
-- **Best Time**: October to April; best late afternoon for flasher wrasse displays
-- **Water Temperature**: 27-30°C
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Flasher Beach is world-renowned among macro photographers for its exceptional Flasher Wrasse populations. Males display brilliant colors—blues, oranges, and yellows—during spawning events in late afternoon. Additionally, expect mantas, giant groupers, black coral trees, and epic swim-throughs under islands. The rubble habitat supports a variety of crustaceans, nudibranchs, and small reef fish. Eagle rays and jacks are occasional visitors.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
 
 ## Dive Profile
 
-Concentrate the majority of your dive in the shallow hard coral sections (3-8 meters) where flasher wrasse activity is concentrated. Explore the deeper rubble transition zone (8-15 meters) for macro species and additional hunting jacks. If planning an afternoon dive to capture wrasse displays, begin shallow and plan your dive to keep options in shallower water where the mating behaviors are most visible. Use a slow, attentive diving style to maximize flasher wrasse observations.
+The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
-Access is exclusively by dive boat (30-minute journey from Aiduma or resort). Entry is via giant stride or back roll. Currents are generally manageable but can vary; follow guide direction for descent points. Deploy a surface marker buoy (SMB) during your safety stop. Coordinate exit timing with boat crew.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-- Plan an afternoon dive (ideally 3:00 PM - sunset) for optimal flasher wrasse mating displays
-- Bring macro lens equipment—the wrasses and critter life reward close photography
-- Move slowly and deliberately to avoid startling the fish
-- Scout the rubble zone for small critters and hunting fish
-- Expect to spend significant time in the shallow coral areas
-- Late afternoon dives offer the most dynamic fish behavior
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
+- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
-Dive within your Intermediate certification limits. Although current is generally moderate, follow your guide's descent recommendations. The remote location requires reliable boat communication. Maintain precise buoyancy to avoid damaging the delicate hard coral growths. Always dive with a buddy. The long boat journey to reach this site means coordinate timing to ensure adequate daylight for return travel.
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -62,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

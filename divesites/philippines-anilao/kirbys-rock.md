@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Kirby's Rock
 
-Kirby's Rock is a spectacular wall dive located northwest of Tingloy Island in the middle of the Verde Passage, part of the Maricaban Island system.
+Kirby's Rock is a wall dive site in Philippines Anilao, Asia.
 
 ## Overview
 
-Kirby's Rock features a spectacular vertical wall adorned with corals and sponges, with depths ranging from 12 to 35 meters. The site is known for great visibility, a beautiful wall filled with life, and a surprising number of macro subjects. This is a shallow little wall with a fantastic array of small critters to keep divers entertained throughout the dive. Strong currents can attract larger pelagic species, making it exciting for advanced divers.
+Kirby's Rock is a dive site in Philippines Anilao featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Northwest of Tingloy Island, Verde Passage, Maricaban
+- **Location**: Philippines Anilao, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
@@ -32,11 +32,11 @@ Kirby's Rock features a spectacular vertical wall adorned with corals and sponge
 
 ## Marine Life
 
-Kirby's Rock is known for large pelagic species like jacks and barracudas due to strong currents. However, the site is equally renowned for its abundance of macro subjects including nudibranchs, small crustaceans, and unusual critters typical of Anilao's macro diving reputation. The wall's vertical structure provides microhabitats supporting diverse species at varying depths.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-Begin in the shallow sections near the reef top and descend along the wall to around 20 meters. Watch your depth carefully as wall dives can lead to unintentional deeper descents. Most of the interesting features and macro subjects are found between 10-20 meters. Maintain good buoyancy control and monitor your depth gauge regularly. Look in crevices and overhangs for hidden macro subjects.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-20 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
@@ -45,12 +45,11 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 ## Tips and Recommendations
 
 - Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden macro subjects
+- Look in crevices and overhangs for hidden marine life
 - Book with reputable local dive operators who know the site conditions
-- Bring a macro lens — excellent opportunities for small critter photography
+- Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
 - Respect marine life and maintain proper buoyancy to protect the reef
-- Best diving: mid-November to mid-April for calm surface conditions and 15-20m visibility
 
 ## Safety Considerations
 
@@ -58,11 +57,11 @@ Be aware of strong currents, jellyfish, sea urchins in this area. Dive within yo
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

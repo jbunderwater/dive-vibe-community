@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## The Wall (Bequia)
 
-The Wall is a dramatic wall dive site off the island of Bequia in St. Vincent and the Grenadines, Caribbean.
+The Wall (Bequia) is a wall dive site in St. Vincent and the Grenadines, Caribbean.
 
 ## Overview
 
-The Wall features an impressive vertical wall structure that descends to significant depths, offering dramatic wide-angle and macro photography opportunities. This advanced dive site showcases the transition from shallow reef top through various depths with pelagic visitors in the blue water beyond the wall. The wall is decorated with gorgonians, black corals, and features numerous swim-throughs and crevices that shelter diverse reef and wall-dependent marine life.
+The Wall (Bequia) is a dive site in St. Vincent and the Grenadines featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
@@ -61,7 +61,7 @@ Wall dives offer stunning wide-angle opportunities with dramatic depth perspecti
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

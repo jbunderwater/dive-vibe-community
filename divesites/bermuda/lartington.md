@@ -13,34 +13,30 @@ addedBy: osm_import
 
 ## Lartington
 
-The Lartington is an extremely photogenic wreck dive that forms the northern point of Bermuda's historic "Shipwreck Triangle." This tramp steamer, built in 1875 in Sunderland, England, sank on December 12, 1879, after a reportedly 100-foot wave cracked her hull while bound for Russia with 4,000 bales of cotton.
+Lartington is a historic wreck dive in Bermuda, Atlantic.
 
 ## Overview
 
-The Lartington came to rest just north of the Montana and Constellation, creating a concentration of three major wrecks within diving distance of each other. Her upturned bow lies on its port side mostly intact, coming within inches of the surface at low tide. The mid-section is crumbling and scattered, but boilers remain recognizable and a broken propeller highlights the stern exploration.
+Lartington is a dive site in Bermuda featuring the wreck of the Lartington. Located in the Atlantic region, this site offers 15-30 meters of visibility with water temperatures averaging 20-28°C.
 
 ## Site Information
 
-- **Location**: North Shore, north of Montana and Constellation
+- **Location**: Bermuda, Atlantic
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 10 meters
-- **Typical Visibility**: 70-200+ feet (21-61+ meters) - excellent visibility
+- **Typical Visibility**: 15-30 meters (50-100 feet)
 - **Current**: Light to moderate
-- **Best Time**: Year-round (winter visibility exceeds 200 feet)
-- **Ship Type**: Tramp steamer (built 1875)
-- **Year Sunk**: December 12, 1879
-- **Cargo**: 4,000 bales of cotton
-- **Special Feature**: Shipwreck Triangle with Montana and Constellation
+- **Best Time**: May to October
 
 ## Marine Life
 
-Schools of barracuda, snappers, groupers, and jacks frequent this wreck. The wreck is rich with coral and sponge growth, providing habitat for numerous reef fish and crustaceans.
+Divers at this site can expect to encounter groupers, snappers, barracuda, coral encrustation, sea turtles, reef sharks, groupers, snappers. Additional species commonly sighted include parrotfish, angelfish. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
 
 ## Dive Profile
 
-Descend to explore the upturned bow in shallow water. Examine the intact bow features visible inches below the surface at low tide. Explore the scattered mid-section and recognizable boilers. The broken propeller at the stern is the highlight. Extended bottom time available due to shallow depth. Ascend with a 3-5 minute safety stop at 15 feet.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 10 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -65,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

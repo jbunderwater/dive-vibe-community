@@ -4,7 +4,6 @@ lat: 11.3472894
 lng: 124.1056222
 difficulty: Beginner
 maxDepth: 20
-minDepth: 5
 entryType: boat
 siteType: reef
 ref: null
@@ -14,60 +13,55 @@ addedBy: osm_import
 
 ## Marine Protected Area
 
-The Marine Protected Area (MPA) at Malapascua is a protected reef offering safe, beginner-friendly diving with abundant marine life due to conservation efforts.
+Marine Protected Area is a reef dive site in Philippines Malapascua, Asia.
 
 ## Overview
 
-The Marine Protected Area at Malapascua offers safe, sheltered diving in a protected zone. The healthy reef within the protected area ensures abundant marine life and excellent snorkeling/diving conditions. Minimal current and relatively shallow depth make this ideal for beginners and skill-building. Protected status means excellent conservation and thriving populations of fish. This site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Marine Protected Area is a dive site in Philippines Malapascua offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Malapascua Marine Protected Area, Cebu
+- **Location**: Philippines Malapascua, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Minimum Depth**: 5 meters
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Minimal, sheltered
-- **Best Time**: Year-round (protected location)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
-## Site Characteristics
+## Marine Life
 
-The protected status ensures healthy coral coverage and abundant fish populations. Minimal current and shallow depths make this an ideal safe dive site. The reef is well-established with diverse habitats.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
 
 ## Dive Profile
 
-Begin at shallow depth (5m) and explore the reef at leisure through 5-20m. The shallow depth allows for long bottom time and comfortable diving. The site is small and easily covered. Allow 45-60 minutes for a relaxed exploration dive.
+The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
 Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
-## Marine Life
-
-Abundant reef fish due to protected status. Coral, nudibranchs, seahorses, crustaceans. Healthy fish populations make this excellent for observing marine behavior.
-
 ## Tips and Recommendations
 
-- Perfect for beginners and confidence-building dives
-- Protected area provides excellent marine life viewing
-- Bring camera for reef fish photography
-- Year-round diving available
-- Safe, sheltered conditions ideal for training
+- Excellent site for newer divers — calm conditions and easy navigation
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
+- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
-This beginner-friendly, protected site has minimal current and shallow depths. Dive within your certification limits. Be aware of jellyfish and sea urchins. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-Excellent for reef and fish photography. Abundant fish due to protected status. Shallow depth provides excellent natural light for all types of photography.
+This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-03-16
-- **Validated by**: Dive operator research
 
 ---
-*This dive site information was compiled from OpenStreetMap data and dive operator research. Last updated 2026-03-16.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

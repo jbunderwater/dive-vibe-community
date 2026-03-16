@@ -13,43 +13,55 @@ addedBy: osm_import
 
 ## Plazas
 
-The Plaza Islets are two uninhabited islands formed by a seabed uplift on the northeastern side of Santa Cruz Island. The dramatic underwater walls drop from the uplifted plateau into open water, and the site sits at the convergence of currents that supply nutrients from multiple directions — creating conditions that attract both large pelagics and abundant reef fish.
+Plazas is a wall dive site in Galápagos Islands, South America.
 
 ## Overview
 
-The dive wall drops from the island's uplifted edge into water reaching 20 meters, with additional drop-offs beyond into deeper water. Volcanic ridges and plateaus at 20 meters function as focal points for schooling fish and serve as cleaning stations. The area lies within the Galápagos Marine Reserve and sits close enough to Gordon Rocks that hammerhead schools occasionally pass between the two sites. Currents are moderate to strong and variable, driven by the confluence of the Panama Current and Humboldt Current upwellings.
+Plazas is a dive site in Galápagos Islands featuring a dramatic vertical wall that drops into the deep blue. Located in the South America region, this site offers 10-25 meters of visibility with water temperatures averaging 15-26°C.
 
 ## Site Information
 
-- **Location**: Plaza Islets, northeast of Santa Cruz Island, Galápagos
+- **Location**: Galápagos Islands, South America
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10–20 meters; can improve significantly in the cold season
-- **Water Temperature**: 16–26°C depending on season and current
-- **Current**: Moderate to strong; variable direction
-- **Best Time**: December–May for hammerheads and calmer conditions; June–November for whale sharks
+- **Typical Visibility**: 10-25 meters (30-80 feet)
+- **Current**: Moderate to strong
+- **Best Time**: June to November
 
 ## Marine Life
 
-Scalloped hammerhead sharks cruise the wall edge and ridges, often in schools. Galápagos sharks and whitetip reef sharks are resident. Whale sharks are recorded passing through during the cold season. Eagle rays, including spotted eagle and golden cownose rays, sweep along the wall. Green sea turtles, Galápagos sea lions, and marine iguanas are all present in and around the site. Large schools of black-striped salema, snapper, jacks, and barracuda fill the mid-water column. Stingrays rest on the sandy bottom below the wall. Manta rays visit during the warm season (December–May).
+Divers at this site can expect to encounter hammerhead sharks, whale sharks, sea lions, marine iguanas, manta rays, eagle rays, sea turtles, dolphins. Additional species commonly sighted include penguins, moray eels. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-Descent is along the island wall, following the ridge line or plateau at 20 meters. Drift diving with the current is typical — check current direction on entry and plan the route accordingly. Cleaning station areas on the ridges reward patient hovering. Ascent is from open water with SMB deployment; boat pickup is in blue water.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-20 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+
+## Entry and Exit
+
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+
+## Tips and Recommendations
+
+- Watch your depth carefully — wall dives can lead to unintentional deep descents
+- Look in crevices and overhangs for hidden marine life
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 
-Strong currents are the primary hazard. Drift diving experience is required. Carry a reef hook for holding position in current at cleaning stations. Always deploy an SMB before ascending from open water — surface conditions can be choppy. A 7 mm wetsuit is recommended year-round given cold thermoclines.
+Be aware of strong currents, cold thermoclines, surge in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-The site's wall and ridge structure frames hammerhead and Galápagos shark portraits well against the blue water. Eagle ray formations sweeping along the plateau are a classic wide-angle subject. Schooling fish at the cleaning stations provide dramatic fish-school compositions. Marine iguana encounters at the water's edge provide topside opportunities between dives.
+Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from Dive The World Galápagos dive guide, The Portuguese Traveler Galápagos diving guide, and PADI Galápagos Islands destination pages. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

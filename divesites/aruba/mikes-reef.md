@@ -13,23 +13,22 @@ addedBy: osm_import
 
 ## Mike's Reef
 
-Mike's Reef is a boat-accessible coral reef site featuring enormous gorgonian clusters, massive brain and star coral formations, and vibrant sponges creating an excellent macro and wide-angle photography destination.
+Mike's Reef is a reef dive site in Aruba, Caribbean.
 
 ## Overview
 
-Mike's Reef showcases spectacular coral formations with enormous clusters of gorgonians, massive brain and star coral structures, and brilliant purple and orange sponges creating a colorful backdrop for reef fish and barracuda. The site spans depths from 8 to 27 meters, allowing divers to explore varied coral zones and life communities. The reef is particularly renowned as a macro hotspot for underwater photographers, with abundant detail and colorful subjects. The site is accessible to divers of various skill levels, though the deeper sections (18-27 meters) are better suited for intermediate divers. Located approximately 45 minutes by boat from Oranjestad, Mike's Reef offers an excellent balance of accessibility, diversity, and photographic opportunities.
+Mike's Reef is a dive site in Aruba offering excellent diving on healthy coral reef structures . Depths 8-27m, gorgonians and massive corals, excellent for macro photography, barracuda. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Southern Aruba, Caribbean (~45 min boat from Oranjestad)
+- **Location**: Aruba, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 15-25 meters (50-80 feet)
+- **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
-- **Special Features**: Gorgonian clusters, macro photography hotspot
 
 ## Marine Life
 
@@ -37,7 +36,7 @@ Divers at this site can expect to encounter sea turtles (green, hawksbill), sout
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -45,6 +44,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
+- Excellent site for newer divers — calm conditions and easy navigation
 - Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

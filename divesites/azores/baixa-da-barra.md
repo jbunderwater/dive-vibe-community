@@ -17,26 +17,26 @@ Baixa da Barra is a reef dive site in Azores, Europe.
 
 ## Overview
 
-Baixa da Barra is a seamount or bank site in the Azores offshore zone, part of the archipelago's system of submerged geological features. Located between Faial and Pico islands, the site offers excellent visibility typical of deep-water seamount diving and opportunities for pelagic encounters with Gulf Stream-delivered marine life. Research on this site is limited, and divers should consult with local operators for current conditions and marine life observations.
+Baixa da Barra is a dive site in Azores offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
 
 ## Site Information
 
-- **Location**: Azores, between Faial and Pico islands
+- **Location**: Azores, Europe
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 25-35 meters (80-115 feet)
-- **Current**: Moderate to strong pelagic
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Light to moderate
 - **Best Time**: May to October
 
 ## Marine Life
 
-Seamount sites in the Azores attract diverse pelagic species including jacks, barracuda, tunas, and occasionally rays and sharks. Schooling baitfish and reef-associated species inhabit the bank structure. Gulf Stream upwellings bring nutrient-rich waters supporting abundant marine life.
+Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
 
 ## Dive Profile
 
-Descend to the bank structure and navigate the seamount topography. Strong currents typical of offshore seamount sites may require drift diving techniques. Positioning on the bank allows observation of pelagic species passing through. Given limited specific site data, consult local dive operators for precise site conditions, current patterns, and entry/exit procedures.
+The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -59,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

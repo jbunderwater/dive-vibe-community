@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Northern Exposure
 
-Northern Exposure is an excellent site for all divers, beginning along a shallow patch of sand where crustaceans, including huge conch, are abundant. The reef features an eel garden at approximately 6 meters.
+Northern Exposure is a reef dive site in Grenada, Caribbean.
 
 ## Overview
 
-Northern Exposure offers accessible reef diving with a gentle slope from shallow sand flats down to 23 meters. The site is ideal for exploratory diving with diverse marine life at multiple depth levels. The eel garden is a distinctive feature, along with abundant crustacean life on shallow sand areas. Located in the Caribbean region, this site offers excellent visibility with water temperatures averaging 26-29°C.
+Northern Exposure is a dive site in Grenada offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
@@ -32,11 +32,11 @@ Northern Exposure offers accessible reef diving with a gentle slope from shallow
 
 ## Marine Life
 
-This site is known for porcupine fish, Spanish hogfish, abundant yellowtail snapper, schoolmasters, Creole wrasse, and parrotfish. The shallow sand flats are home to large conch and other crustaceans. The eel garden at 6 meters is a distinctive feature. Sea turtles, southern stingrays, and other reef fish are commonly sighted throughout the dive.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
 
 ## Dive Profile
 
-Begin your dive on the shallow sand flat (2-4 meters) to observe conch and crustaceans, then move to the eel garden at 6 meters. The reef slopes gently downward to meet the seabed at approximately 23 meters. Marine life is abundant throughout the water column. This gentle profile makes the site accessible for all skill levels and allows flexibility in dive planning.
+The site offers diving at depths ranging from shallow reef areas down to approximately 23 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -44,6 +44,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
+- Excellent site for newer divers — calm conditions and easy navigation
 - Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
@@ -59,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

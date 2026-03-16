@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## The Pinnacle
 
-The Pinnacle is a reef dive site in Providencia Island, Caribbean.
+The Pinnacle is a wall dive site in Providencia Island, Caribbean.
 
 ## Overview
 
-The Pinnacle is an advanced wall dive site featuring dramatic drop-offs and strong vertical structure. This site showcases Providencia's pristine barrier reef system with deep wall diving opportunities suitable for experienced divers seeking challenging diving in the Colombian Caribbean.
+The Pinnacle is a dive site in Providencia Island featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
@@ -32,11 +32,11 @@ The Pinnacle is an advanced wall dive site featuring dramatic drop-offs and stro
 
 ## Marine Life
 
-The deep wall provides opportunities to encounter pelagic species, reef sharks, eagle rays, and other large fish species. The vertical ecosystem of the wall supports diverse species at varying depths.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-Begin at the reef top at shallower depths before descending along the dramatic wall structure. The wall descends to significant depths beyond 35 meters. Most interesting features are found along the wall structure, with varying depths depending on your dive plan. Careful depth management and buoyancy control are essential for this advanced site.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-35 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
@@ -44,6 +44,8 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
+- Watch your depth carefully — wall dives can lead to unintentional deep descents
+- Look in crevices and overhangs for hidden marine life
 - Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
@@ -55,11 +57,11 @@ Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

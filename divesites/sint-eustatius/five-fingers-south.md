@@ -13,31 +13,30 @@ addedBy: osm_import
 
 ## Five Fingers South
 
-Five Fingers is named after huge coral-covered lava bombs—the result of violent underwater eruptions from the Quill volcano. These distinctive lava fingers and bombs create a stark visual contrast with surrounding white sand fields, forming a unique landscape both shallow enough for beginners and deep enough to fascinate experienced divers.
+Five Fingers South is a reef dive site in Sint Eustatius, Caribbean.
 
 ## Overview
 
-A perfect dive site for all levels, Five Fingers offers shallow depth (suitable for beginners) but features complex geology that appeals to experienced divers. The lava formations create numerous micro-habitats supporting macro life. Pike bennies, orange-sided gobies, and decorated neck crabs are the main characters for macro photographers. The site is part of Sint Eustatius's officially managed marine park, protected by mooring systems to save the reef from anchor damage.
+Five Fingers South is a dive site in Sint Eustatius offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Sint Eustatius (Statia), Caribbean
+- **Location**: Sint Eustatius, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-30 meters (65-100 feet)
+- **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
-- **Protected by**: STENAPA Marine Park mooring
 
 ## Marine Life
 
-Macro specialists will find pike bennies, orange-sided gobies, and decorated neck crabs. The lava formations create shelter for diverse fish species. Sharks, dolphins, whales, and turtles occasionally visit. The contrast between lava structures and white sand creates diverse habitats supporting varied marine communities.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -52,7 +51,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -60,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

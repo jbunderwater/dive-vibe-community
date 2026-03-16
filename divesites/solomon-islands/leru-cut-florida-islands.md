@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Leru Cut Florida Islands
 
-Leru Cut is one of the most iconic dive sites in the Solomon Islands and the entire Coral Sea—a renowned passage cut deep into the island accessible only by diving through crystal-clear water in spectacular silence.
+Leru Cut Florida Islands is a cave dive site in Solomon Islands, Pacific.
 
 ## Overview
 
-Leru Cut is a long passage cut deep into Leru Island (Russell Islands), almost but not quite wide enough for two divers to swim side-by-side. Open to the air at the top (though you cannot always see vertically upwards), the passage is illuminated by slanting shafts of sunlight in parts. Divers descend and follow the cut along the sandy bottom at 15-20 meter depths toward the interior of the island while sunlight gently filters down. After approximately 100 meters through the passage, divers can surface inside a small enclosed lagoon surrounded by dense tropical rainforest. The site has been made famous by underwater photographers capturing silhouettes of divers in the soft, ethereal light seeping down into the shadows—one of the most photographed dive sites in the region.
+Leru Cut Florida Islands is a dive site in Solomon Islands featuring underwater cave and cavern formations. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
-- **Location**: Leru Island, Russell Islands
+- **Location**: Solomon Islands, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/cavern
+- **Site Type**: Cave/Cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: Excellent—20-50 meters (65-160 feet)
-- **Current**: Minimal
+- **Typical Visibility**: 20-50 meters (65-160 feet)
+- **Current**: Moderate to strong
 - **Best Time**: April to November
 
 ## Marine Life
 
-The protected passage hosts reef fish, invertebrates on the passage walls, and crustaceans adapted to the cavern environment. Upon exiting into the lagoon, you encounter a shallow reef system with colorful reef fish.
+Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
 
 ## Dive Profile
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

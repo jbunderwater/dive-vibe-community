@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Ticao Island South Wall
 
-Ticao Island South Wall is known as "The Great Wall of Ticao," a dramatic vertical wall rising from the abyss with pelagic activity and soft coral ecosystems.
+Ticao Island South Wall is a wall dive site in Philippines Donsol, Asia.
 
 ## Overview
 
-Located on Burubangkaso Island near Ticao, this wall dive features a vertical wall formation that rises from over 300 meters depth. The wall supports diverse soft coral encrustation, nudibranchs, and small reef fish. Pelagic activity including tunas and larger fish is common in the blue water beyond the wall. The spectacular vertical topography and nutrient-rich waters make this an iconic deep-wall dive destination in the Ticao region.
+Ticao Island South Wall is a dive site in Philippines Donsol featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Ticao Island South Wall (Burubangkaso Island), Masbate Province
+- **Location**: Philippines Donsol, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 35 meters
-- **Typical Visibility**: 20-40 meters
-- **Current**: Variable, can be strong
-- **Best Time**: November to May
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Tunas, various nudibranchs, soft corals embedded in the wall, and reef fish colonize the dramatic wall structure. Pelagic visitors frequent the blue water beyond the wall. The wall's soft coral encrustation provides habitat for small creatures and creates a colorful, layered ecosystem descending into the deep.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-Begin at the reef top and descend along the vertical wall, reaching maximum depths around 35 meters at recreational limits. The wall extends far deeper (300+ meters), so strict depth management is critical. Most visual interest and marine life concentrate between 10-35 meters. The dramatic vertical profile creates a powerful visual impression as you descend alongside the wall face.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-35 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
@@ -44,13 +44,12 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Excellent wall dive for photographers—dramatic vertical profiles and soft coral colors
-- Constant depth gauge monitoring essential to avoid exceeding recreational limits
-- Neutral buoyancy critical to maintain distance from wall
-- Wide-angle lens captures the dramatic wall structure; macro lens for nudibranchs and coral details
-- Consider deep-diver specialization training before attempting deeper sections
-- Current can be strong—reef hooks useful for certain sections
-- Iconic site for wall diving—one of the region's most dramatic topographies
+- Watch your depth carefully — wall dives can lead to unintentional deep descents
+- Look in crevices and overhangs for hidden marine life
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 
@@ -62,7 +61,7 @@ Wall dives offer stunning wide-angle opportunities with dramatic depth perspecti
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

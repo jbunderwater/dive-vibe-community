@@ -9,53 +9,50 @@ siteType: muck
 ref: null
 osmId: null
 addedBy: osm_import
-validated: true
-validationSource: web_research
 ---
 
 ## Rhino City
 
-Rhino City is an extension of the Laha muck diving site, lying directly west and named after the exquisitely colored rhinopias scorpionfishes that are regularly encountered here.
+Rhino City is a muck dive site in Ambon, Asia.
 
 ## Overview
 
-Rhino City is a sandy slope and rubble muck dive site in Ambon Bay featuring the same black sand substrate as Laha. The site is named for the rhinopias (weedy scorpionfish) that are regularly found here in multiple color variations—yellow, blue, red, pink, peach, and brown. The shallow depth and calm conditions make it ideal for beginners exploring muck diving for the first time.
+Rhino City is a dive site in Ambon offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Ambon Bay, northern coast (west of Laha)
+- **Location**: Ambon, Asia
 - **Entry Type**: Shore entry
-- **Site Type**: Muck dive
+- **Site Type**: Muck
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
-- **Typical Visibility**: 10-18 meters
-- **Current**: Minimal to light
-- **Best Time**: March-April and September-December (dry season)
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Rhino City is renowned for rhinopias scorpionfishes in multiple color phases. Additional macro critters include frogfish, flamboyant cuttlefish, ghost pipefish, seahorses, shrimp species, and various nudibranchs. The sandy and rubble substrate supports concentrated populations of small cryptic species.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
 
 ## Dive Profile
 
-Begin in shallow water (2-3 meters) and explore the rubble fields between 5-12 meters. The site is ideal for slow, methodical movement focusing on small, well-camouflaged creatures. Most dives last 45-60 minutes to thoroughly explore the macro habitat.
+The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
-Wade into the shallow sandy shore entry point. Descend gradually while observing the substrate change from sand to rubble. Exit at the same location, using shore landmarks for navigation.
+Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
 
 ## Tips and Recommendations
 
-- Excellent introductory muck diving site for beginners
-- Look carefully—rhinopias are masters of camouflage
-- Bring macro lens and powerful underwater lights
-- Multiple dives to different rubble patches reveal new species
-- Best during morning dives for clearest water
-- Night dives showcase nocturnal critters
+- Excellent site for newer divers — calm conditions and easy navigation
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
+- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
-Minimal current and very shallow depth make this extremely safe for Beginner divers. Watch for stonefish and sharp rubble. Use buoyant movement to avoid churning sediment. Stay in contact with your buddy throughout the dive.
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -63,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

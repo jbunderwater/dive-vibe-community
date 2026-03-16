@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Rainbow Wall
 
-Rainbow Wall is one of Yap's premier deep wall diving destinations.
+Rainbow Wall is a wall dive site in Micronesia - Yap, Pacific.
 
 ## Overview
 
-Rainbow Wall is one of Yap's premier wall dive sites, offering a dramatic vertical wall drop at significant depth. This advanced dive site requires strong diving skills, excellent depth management, and experience with deep wall diving. The wall provides the full vertical ecosystem experience that makes Yap's walls legendary among advanced divers.
+Rainbow Wall is a dive site in Micronesia - Yap featuring a dramatic vertical wall that drops into the deep blue. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
@@ -61,7 +61,7 @@ Wall dives offer stunning wide-angle opportunities with dramatic depth perspecti
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

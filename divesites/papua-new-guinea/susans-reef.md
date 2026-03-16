@@ -17,7 +17,7 @@ Susan's Reef is a reef dive site in Papua New Guinea, Pacific.
 
 ## Overview
 
-Susan's Reef is an underwater ridge featuring vibrant soft corals, colorful sea fans, and distinctive red sea whips (Ellisella sp.) that create a unique and visually striking landscape. The site is renowned among underwater photographers for its spectacular wide-angle photography opportunities and the mélange of gorgonians, soft corals, whip corals, and colorful sponges that adorn the reef structure.
+Susan's Reef is a dive site in Papua New Guinea offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

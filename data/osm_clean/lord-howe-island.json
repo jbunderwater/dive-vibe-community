@@ -5,13 +5,15 @@
     "lon": 159.2494,
     "osm_id": null,
     "osm_type": null,
-    "depth": 35,
+    "depth": 25,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -20,13 +22,15 @@
     "lon": 159.0667,
     "osm_id": null,
     "osm_type": null,
-    "depth": 20,
+    "depth": 8,
     "site_type": "cave",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -35,13 +39,15 @@
     "lon": 159.05,
     "osm_id": null,
     "osm_type": null,
-    "depth": 15,
+    "depth": 7,
     "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -50,13 +56,15 @@
     "lon": 159.0583,
     "osm_id": null,
     "osm_type": null,
-    "depth": 12,
+    "depth": 18,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -65,13 +73,15 @@
     "lon": 159.0333,
     "osm_id": null,
     "osm_type": null,
-    "depth": 18,
-    "site_type": "reef",
+    "depth": 40,
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -80,13 +90,15 @@
     "lon": 159.0667,
     "osm_id": null,
     "osm_type": null,
-    "depth": 20,
-    "site_type": "reef",
+    "depth": 30,
+    "site_type": "pinnacle",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -101,7 +113,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -110,13 +124,15 @@
     "lon": 159.0417,
     "osm_id": null,
     "osm_type": null,
-    "depth": 15,
+    "depth": 10,
     "site_type": "reef",
-    "entry_type": "boat",
+    "entry_type": "shore",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   }
 ]

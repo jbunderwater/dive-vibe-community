@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Shark Reef
 
-Shark Reef is one of the world's top-ten dive sites and the most famous site in Ras Mohammed National Park. Named for the frequent shark sightings, this wall dive is known for dramatic topography and abundant pelagic action.
+Shark Reef is a wall dive site in Red Sea, Middle East.
 
 ## Overview
 
-The reef features sheer walls dropping from 10-15 meters down to depths exceeding 800 meters into the abyss. The combination of dramatic walls, pelagic species including reef sharks, jacks, barracudas, and snappers makes this an advanced dive site. Strong currents are common and necessary for the drift diving that defines the site. Visibility typically reaches 20-40 meters, ideal for spotting deep-water species.
+Shark Reef is a dive site in Red Sea featuring a dramatic vertical wall that drops into the deep blue. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
 
 ## Site Information
 
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter whale sharks, manta rays, hammerhead
 
 ## Dive Profile
 
-This is a drift dive along dramatic vertical walls. Entry is typically via drift descent into blue water, with the reef appearing below. Divers drift along the wall face from 10-30 meters, monitoring the wall for marine life while maintaining distance from the vertical drop-off. This drift dive requires strong current competency and excellent buoyancy control. The most dramatic topography and frequent shark sightings occur between 15-30 meters. Plan the dive with the boat for pickup at the drift exit point. Ascend with an SMB for boat location.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-25 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
@@ -53,7 +53,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -61,7 +61,7 @@ Wall dives offer stunning wide-angle opportunities with dramatic depth perspecti
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

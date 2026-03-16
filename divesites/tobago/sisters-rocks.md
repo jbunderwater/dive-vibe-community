@@ -13,25 +13,22 @@ addedBy: osm_import
 
 ## Sisters Rocks
 
-Sisters Rocks is a challenging advanced-only dive site consisting of five rocky pinnacles rising from depths of 130 meters off Bloody Bay. The site is famous for frequent hammerhead shark encounters and strong oceanic currents.
+Sisters Rocks is a pinnacle dive site in Tobago, Caribbean.
 
 ## Overview
 
-Located about two miles offshore north of Bloody Bay, Sisters Rocks consists of a cluster of five rocky pinnacles that break the surface and drop to depths of 40 meters. Sheer rock faces on the northern and western sides contrast with shallower coral reef on the eastern landward side, which teems with schools of brown chromis, black durgeons, and creole wrasse. The site is renowned for astounding frequency of hammerhead shark encounters. However, due to its offshore location, Sisters Rocks is often subject to strong currents, large swells, and unpredictable weather patterns that can render the site undiveable. This is strictly an advanced dive for experienced divers not averse to pushing recreational diving limits.
+Sisters Rocks is a dive site in Tobago offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: North of Bloody Bay, offshore Tobago
+- **Location**: Tobago, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle/seamount
+- **Site Type**: Pinnacle
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
-- **Depth Range**: 12-40 meters (40-131 feet)
-- **Typical Visibility**: 15-30 meters on good days
-- **Water Temperature**: 27-30°C (81-86°F)
-- **Current**: Strong to very strong (unpredictable)
-- **Conditions**: Often subject to large swells and rough weather; frequently undiveable
-- **Best Time**: December to April (dry season, relatively better conditions)
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Light to moderate
+- **Best Time**: December to April (dry season)
 
 ## Marine Life
 
@@ -39,7 +36,7 @@ Divers at this site can expect to encounter sea turtles (green, hawksbill), sout
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 40 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -62,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

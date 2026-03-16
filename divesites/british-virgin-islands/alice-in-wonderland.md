@@ -13,31 +13,30 @@ addedBy: osm_import
 
 ## Alice in Wonderland
 
-Alice in Wonderland, off Ginger Island's south shore, is one of the most popular dive sites in the British Virgin Islands and a favorite among divers of all levels. Named for its whimsical underwater "Wonderland" of coral formations, the site features spectacular mushroom-shaped coral heads, excellent visibility, abundant marine life, and a spur and groove reef structure that makes navigation intuitive and easy.
+Alice in Wonderland is a reef dive site in British Virgin Islands, Caribbean.
 
 ## Overview
 
-Alice in Wonderland offers beginner and intermediate divers some of the best scuba diving in the BVI. The spur and groove reef formation features channels running north-south, making it easy to stay oriented while exploring. Visibility often exceeds 30 meters, allowing you to see the full beauty of the coral gardens. The site is relatively sheltered and protected, with boat access, making it ideal for newer divers. Eagle rays, southern stingrays, hawksbill turtles, and occasional crevalle jacks are commonly encountered. The coral formations are simply stunning and worth the dive alone.
+Alice in Wonderland is a dive site in British Virgin Islands offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Off Ginger Island, south shore
+- **Location**: British Virgin Islands, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 21 meters
-- **Typical Visibility**: 30-40+ meters (100-130+ feet)
+- **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
-- **Conditions**: Relatively protected and sheltered location
 
 ## Marine Life
 
-Alice in Wonderland hosts abundant marine life including soft sponges, angelfish, lobsters, turtles, spotted eagle rays, southern stingrays, and hawksbill turtles. Crevalle jacks and other pelagics are not uncommon. The mushroom-shaped coral formations themselves are magnificent, and the site is known for excellent opportunities to see sharks (nurse sharks and reef sharks) in a natural reef environment.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
 
 ## Dive Profile
 
-Begin your descent along the anchor line and orient yourself to the spur and groove structure. The channels running north-south make navigation straightforward—pick a direction and explore. Most marine life and coral features are found between 5-21 meters. The sheltered conditions and intuitive layout make this site easy for newer divers to navigate independently while enjoying quality bottom time.
+The site offers diving at depths ranging from shallow reef areas down to approximately 21 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -61,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

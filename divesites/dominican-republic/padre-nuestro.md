@@ -13,24 +13,22 @@ addedBy: osm_import
 
 ## Padre Nuestro
 
-Padre Nuestro is a freshwater cave system in Bayahibe featuring crystal-clear water and stunning limestone formations. This beginner-friendly cavern offers wide-open passages decorated with stalactites after the initial restriction. The cave displays dramatic geology with narrow passages transitioning to spacious halls.
+Padre Nuestro is a cave dive site in Dominican Republic, Caribbean.
 
 ## Overview
 
-Located in Bayahibe, Padre Nuestro offers an incredible underground tunnel decorated with stunning limestone formations and pure, crystal-clear freshwater. The first part of the cave is highly decorated, and after passing through a restriction, divers enter a large hall with giant stalactites. The system changes from narrow passages to wide rooms with silt on the bottom requiring buoyancy awareness. Open Water divers can explore this cenote safely, making it an excellent introduction to cave diving.
+Padre Nuestro is a dive site in Dominican Republic featuring underwater cave and cavern formations. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Bayahibe, La Altagracia, Dominican Republic
+- **Location**: Dominican Republic, Caribbean
 - **Entry Type**: Shore entry
-- **Site Type**: Cave/cavern
+- **Site Type**: Cave/Cavern
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 10 meters
-- **Water Temperature**: 25°C (77°F) - freshwater
-- **Typical Visibility**: Excellent (freshwater clarity)
-- **Current**: None (freshwater system)
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
-- **Requirements**: Registration with Medio Ambiente office in Bayahibe, park fee required
 
 ## Marine Life
 
@@ -61,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Fish Factory
 
-Fish Factory is a productive wall dive site on the Rainbow Reef, named for the abundance of fish schools that congregate on the wall.
+Fish Factory is a wall dive site in Fiji, Pacific.
 
 ## Overview
 
-Located in the Somosomo Strait off Taveuni, Fish Factory features a wall structure descending from 6 meters to depths beyond 27 meters, with soft corals adorning the top and sides. The site is named for the exceptional concentration of fish life, with schools of parrotfish, humphead parrotfish, Spanish mackerel, angelfish, trevally, and cod common throughout. Larger pelagics including occasional manta rays and sharks patrol the site, while moray eels and leaf scorpionfish shelter in wall crevices.
+Fish Factory is a dive site in Fiji featuring a dramatic vertical wall that drops into the deep blue. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
-- **Location**: Taveuni, Somosomo Strait, Fiji
+- **Location**: Fiji, Pacific
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 17 meters
-- **Typical Visibility**: 20-40 meters
+- **Typical Visibility**: 20-50 meters (65-160 feet)
 - **Current**: Moderate to strong
 - **Best Time**: April to November
 
 ## Marine Life
 
-Fish Factory is renowned for dense concentrations of fish life including schools of parrotfish, humphead parrotfish, Spanish mackerel, trevally, and cod. Larger species such as manta rays and reef sharks visit the site regularly. Macro life includes moray eels, leaf scorpionfish, stonefish, and various invertebrates sheltering in the coral-covered wall.
+Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-17 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
@@ -44,11 +44,12 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
+- Watch your depth carefully — wall dives can lead to unintentional deep descents
+- Look in crevices and overhangs for hidden marine life
 - Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
 - Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
@@ -56,11 +57,11 @@ Be aware of strong currents, remote locations, jellyfish in this area. Dive with
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

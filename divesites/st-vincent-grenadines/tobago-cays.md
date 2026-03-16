@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Tobago Cays
 
-Tobago Cays is a pristine reef dive site within the protected Tobago Cays Marine Park in St. Vincent and the Grenadines, Caribbean.
+Tobago Cays is a reef dive site in St. Vincent and the Grenadines, Caribbean.
 
 ## Overview
 
-The Tobago Cays Marine Park encompasses five uninhabited cays ringed by a spectacular horseshoe barrier reef. This protected marine area offers excellent diving and snorkeling with abundant green and hawksbill sea turtles, stingrays, and eagle rays. The site is renowned for its healthy coral reef structures, clear turquoise waters, and beginner-friendly shallow reef zones that gradually transition to deeper areas.
+Tobago Cays is a dive site in St. Vincent and the Grenadines offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

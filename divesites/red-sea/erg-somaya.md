@@ -1,13 +1,13 @@
 ---
 name: Erg Somaya
-lat: 27.19578
-lng: 33.984
+lat: 27.19829
+lng: 33.98408
 difficulty: Intermediate
 maxDepth: 20
 entryType: boat
 siteType: reef
 ref: null
-osmId: 700999360
+osmId: 700999362
 addedBy: osm_import
 ---
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

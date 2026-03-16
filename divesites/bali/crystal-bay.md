@@ -17,26 +17,26 @@ Crystal Bay is a reef dive site in Bali, Asia.
 
 ## Overview
 
-Crystal Bay (also called Penida Bay) is one of the world's most famous sites for encountering mola mola (ocean sunfish). This is an advanced dive requiring significant current awareness and experience. The site is heavily current-dependent with notorious strong downcurrents that have caused numerous diving accidents. Divers must use experienced local guides. Peak mola season runs July to mid-November with 40-90% encounter rates in July-October.
+Crystal Bay is a renowned dive site in Bali offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Nusa Penida, Bali, Indonesia
+- **Location**: Bali, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
-- **Typical Visibility**: Variable, 15-40 meters depending on season
-- **Current**: STRONG and unpredictable, downcurrents can force rapid unintended depth increases
-- **Best Time**: July-mid November (mola season), calmer conditions March-April for reef diving
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-The primary attraction is mola mola (ocean sunfish), particularly July-October. These unusual fish visit the reef to be cleaned by smaller wrasses, removing parasites. Peak encounter probability: July-October (40-90%), rest of season (10-20%). Secondary species include reef sharks, manta rays, sea turtles, and diverse tropical reef fish.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 40 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -52,7 +52,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-CRITICAL: This site has a reputation for danger with multiple documented deaths from decompression illness and downcurrent incidents. Only dive with experienced local guides. Downcurrents can rapidly force unintended depth increases. Hazards include sudden violent currents, strong downcurrents, and rapid condition changes. Mandatory: Advanced Open Water certification minimum, 50+ dives preferred, excellent buoyancy control, experienced guide. Always carry SMB, follow dive briefing precisely, be prepared to abort at any sign of dangerous conditions. Never dive solo. Dive within your experience limits.
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

@@ -13,39 +13,39 @@ addedBy: osm_import
 
 ## Stenapa Reef
 
-Stenapa Reef is managed by the Sint Eustatius National Parks Foundation (STENAPA), which oversees the island's entire marine protection system. The site features an artificial reef created from a sunken barge, offering unique diving opportunities among historical and man-made structures.
+Stenapa Reef is a reef dive site in Sint Eustatius, Caribbean.
 
 ## Overview
 
-Located next to Chien Tong dive site, Stenapa Reef showcases how artificial structures become thriving marine ecosystems. A massive sunken barge's deck is now completely covered in sponges, while a large pipe section from the oil terminal creates additional reef structure. Within sandy spaces between structures, extensive colonies of Garden Eels and numerous Southern Stingrays make their homes. The site is perfect for spotting octopus—look for discarded mollusk and clam shells indicating nearby dens.
+Stenapa Reef is a dive site in Sint Eustatius offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Sint Eustatius (Statia), Caribbean
+- **Location**: Sint Eustatius, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 6 meters
-- **Typical Visibility**: 20-30 meters (65-100 feet)
-- **Current**: Light
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
-- **Protected by**: STENAPA Marine Park
 
 ## Marine Life
 
-Garden Eels abundant in sandy areas, Southern Stingrays common throughout, Octopus sightings likely. Sponges completely cover the barge structure. The site provides excellent opportunities for observing behavioral ecology as creatures adapt to artificial reef habitats.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 6 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-6 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
 - Excellent site for newer divers — calm conditions and easy navigation
+- Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
 - Respect marine life and maintain proper buoyancy to protect the reef
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

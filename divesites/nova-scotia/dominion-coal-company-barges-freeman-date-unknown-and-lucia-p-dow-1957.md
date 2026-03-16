@@ -1,0 +1,69 @@
+---
+name: Dominion Coal Company barges Freeman (date unknown) and Lucia P. Dow (1957)
+lat: 44.6045683
+lng: -63.5124523
+difficulty: Advanced
+maxDepth: 22
+entryType: boat
+siteType: wreck
+ref: null
+osmId: 5896570181
+addedBy: osm_import
+---
+
+## Dominion Coal Company barges Freeman (date unknown) and Lucia P. Dow (1957)
+
+Two coal barges comprise this dual-wreck site in the Shubenacadie Channel at 22 meters. The Freeman (date unknown) and Lucia P. Dow (1957) sit in proximity, creating an interesting multi-wreck exploration opportunity. The site reflects Nova Scotia's industrial maritime heritage and provides good accessibility for advanced divers. Moderate-to-strong tidal currents are typical.
+
+## Overview
+
+Dominion Coal Company barges Freeman (date unknown) and Lucia P. Dow (1957) is a wreck dive site in Nova Scotia, North America. Cold Atlantic waters (4-18°C year-round) require proper thermal protection and training. The site features typical Atlantic diving characteristics with variable currents, good marine life encounters, and dramatic underwater topography.
+
+## Site Information
+
+- **Location**: Nova Scotia, North America
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 22 meters
+- **Typical Visibility**: 5-20 meters (16-65 feet)
+- **Water Temperature**: 4-15°C (winter-summer)
+- **Current**: Variable, can be strong
+- **Best Time**: June to October
+
+## Marine Life
+
+Nova Scotia's cold Atlantic waters support unique marine species. Expect to encounter harbor seals, Atlantic wolffish, Atlantic halibut, lobsters, sea urchins, and cold-water anemones. Kelp forests are common in shallower areas. Depending on depth and season, pelagic species may be present.
+
+## Dive Profile
+
+The site offers diving at depths ranging from 18–22 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. Monitor your bottom time carefully in cold water. Plan your dive within your certification limits and allow adequate air for a safety stop with a 3-minute decompression stop at 5 meters minimum.
+
+## Entry and Exit
+
+Access by charter boat or private vessel. Descend along the mooring line or natural descent path. Monitor your depth and bottom time carefully. Ascend with a safety stop at 5 meters for at least 3 minutes. Surface slowly near the boat maintaining visual contact with the crew.
+
+## Tips and Recommendations
+
+- Bring proper thermal protection — Nova Scotia water is cold year-round
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy
+- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Bring an underwater light for deeper dives and exploration
+
+## Safety Considerations
+
+Be aware of cold water, variable currents, and moderate-to-strong surge in this area. Dive within your certification limits and experience level. Advanced training is recommended for deeper sites. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB). Nova Scotia diving demands respect for the Atlantic environment.
+
+## Photography
+
+This site offers opportunities for marine life and geological photography. Atlantic kelp, colorful crustaceans, and sometimes seals provide diverse subjects. Natural light conditions are typically best during morning hours.
+
+## Additional Resources
+
+- **Last Updated**: 2026-03-16
+- **Water Type**: Cold Atlantic
+- **Region**: Nova Scotia
+
+---
+*This dive site information was compiled from OpenStreetMap data, regional diving knowledge, and Atlantic marine research. Last updated 2026-03-16.*

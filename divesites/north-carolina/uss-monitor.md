@@ -11,61 +11,57 @@ osmId: 10962633013
 addedBy: osm_import
 ---
 
-## USS Monitor (Wreck)
+## USS Monitor
 
-The USS Monitor was the U.S. Navy's first iron-hulled ironclad warship, famous for her battle with the CSS Virginia (Merrimack) during the Civil War. She sank in a storm on December 31, 1862, 16 nautical miles south-southeast of Cape Hatteras, North Carolina, taking 16 crew members with her. The wreck lies at 240 feet (73 meters) — far beyond recreational scuba limits — and is protected as the Monitor National Marine Sanctuary, the nation's first national marine sanctuary designated in 1975. Diving requires a special permit from NOAA and is limited to qualified technical divers.
+USS Monitor is a historic wreck dive in North Carolina, North America.
 
 ## Overview
 
-The Monitor rests upside-down at 240 feet on a sandy bottom at the edge of the Gulf Stream. Her revolving gun turret, which became iconic in Civil War history, lies alongside the inverted hull where it fell when the ship sank. The interaction between the warm Gulf Stream and cold Labrador Current at this location creates unpredictable eddies, rapidly changing weather, and abrupt temperature swings that make the site extremely challenging — even for technical divers. NOAA conducts periodic expeditions to document the wreck and has removed the gun turret and other artifacts for conservation at The Mariners' Museum in Newport News, Virginia.
+USS Monitor is a dive site in North Carolina featuring a historic wreck which sank in 1862-12-24. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
 
 ## Site Information
 
-- **Location**: 16 nautical miles south-southeast of Cape Hatteras, North Carolina
+- **Location**: North Carolina, North America
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 73 meters
-- **Typical Visibility**: Variable — 10–20 meters when Gulf Stream is present, much less otherwise
-- **Current**: Dangerous and unpredictable — Gulf Stream/Labrador Current interaction
-- **Water Temperature**: Can swing from 24°C to 15°C within minutes due to current changes
-- **Access**: NOAA permit required; recreational diving not permitted without authorization
-- **Best Season**: Research expeditions typically occur in summer months
-
-## Historical Significance
-
-The USS Monitor's battle with the CSS Virginia on March 8–9, 1862, changed naval warfare forever — iron-hulled steam warships made wooden sailing vessels obsolete overnight. The Monitor was under tow to Beaufort, NC when she foundered in a storm off Cape Hatteras on December 31, 1862. NOAA has conducted multiple expeditions to document and recover artifacts, including the iconic revolving gun turret (recovered 2002) and the ship's engine (recovered 2001). These artifacts are on display at The Mariners' Museum in Newport News, Virginia.
-
-## Diving Access
-
-The Monitor National Marine Sanctuary requires a special-use permit from NOAA for all diving activity at the site. Permits are granted only to qualified technical diving teams meeting specific training and equipment requirements. The depth of 240 feet mandates mixed gas (trimix) and decompression diving. Surface conditions at the site are frequently challenging due to the Gulf Stream/Labrador Current boundary.
+- **Typical Visibility**: 5-25 meters (15-80 feet)
+- **Current**: Variable, can be strong
+- **Best Time**: June to October
 
 ## Marine Life
 
-Despite the depth and challenging conditions, the Monitor hosts impressive marine life. Large schools of amberjack and bluefish patrol the wreck. Barracuda are common. The encrusted hull supports a diverse invertebrate community. Sand tiger sharks and large grouper inhabit the deeper sections of the structure.
+Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+
+## Dive Profile
+
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 73 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+
+## Entry and Exit
+
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-- Apply for a NOAA special-use permit months in advance for any planned expedition
-- Technical diving certification (trimix, decompression) is mandatory at this depth
-- The Mariners' Museum in Newport News, VA displays recovered Monitor artifacts — an excellent alternative for non-technical divers
-- NOAA runs public expeditions periodically that can be followed online
-- Monitor National Marine Sanctuary's website has detailed information about the site and permit process
+- Bring a dive torch to illuminate wreck interiors and dark overhangs
+- Maintain proper buoyancy to avoid disturbing silt inside the wreck
+- Do not attempt penetration without proper training and equipment
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
 
 ## Safety Considerations
 
-This is one of the most demanding dive sites on the East Coast. The 73-meter depth requires trimix gas, multiple decompression cylinders, and extensive technical training. Unpredictable current and temperature changes add significant risk. This site should only be attempted by highly experienced technical diving teams with full support from an appropriate vessel.
+Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-Technical expedition divers have captured compelling imagery of the inverted hull, remaining armor plating, and encrusted machinery. Wide-angle lenses with powerful strobes reveal the scale of the 172-foot ironclad. The site demands careful buoyancy management to avoid disturbing the silt that settles heavily on the wreck's flat surfaces.
+The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
 
 ## Additional Resources
 
-- **NOAA Monitor National Marine Sanctuary**: https://monitor.noaa.gov/shipwrecks/uss_monitor.html
-- **Scuba Diving Magazine**: https://www.scubadiving.com/diving-monitor-national-marine-sanctuary
-- **The Mariners' Museum (artifacts on display)**: https://www.marinersmuseum.org/
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*Researched from NOAA Monitor National Marine Sanctuary, Scuba Diving Magazine, and Scuba Diver Life. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

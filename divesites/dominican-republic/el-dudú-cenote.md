@@ -13,24 +13,22 @@ addedBy: osm_import
 
 ## El Dudú Cenote
 
-El Dudú is an intermediate cave system stretching over 100 meters with average depths of 6-7 meters and a maximum of 20 meters. The cave features an easy surface swim to a large tunnel with an air dome 50 meters inside. The halocline and breakdown areas offer challenging navigation in a well-preserved cave environment.
+El Dudú Cenote is a cave dive site in Dominican Republic, Caribbean.
 
 ## Overview
 
-Located in the northern Dominican Republic, El Dudú offers intermediate cave diving through a 100+ meter system with dramatic passages and a large airspace chamber. The cave begins with an easy descent and transitions to a spacious tunnel system with breakdown slabs, cavern lines, and a mystique halocline boundary. Dive duration is typically 45 minutes to 1 hour. The site requires proper cave training and is recommended for intermediate to advanced cave divers.
+El Dudú Cenote is a dive site in Dominican Republic featuring underwater cave and cavern formations. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Northern Dominican Republic
+- **Location**: Dominican Republic, Caribbean
 - **Entry Type**: Shore entry
-- **Site Type**: Cave/cavern
+- **Site Type**: Cave/Cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Average Depth**: 6-7 meters (20-23 feet)
-- **Cave Length**: 100+ meters (328+ feet)
-- **Typical Visibility**: Excellent (freshwater)
-- **Current**: None (freshwater system)
-- **Best Time**: Year-round
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Light to moderate
+- **Best Time**: December to April (dry season)
 
 ## Marine Life
 
@@ -38,7 +36,7 @@ Divers at this site can expect to encounter sea turtles (green, hawksbill), sout
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -60,7 +58,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

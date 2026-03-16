@@ -13,38 +13,37 @@ addedBy: osm_import
 
 ## Elephant Head Rock
 
-Elephant Head Rock is the most famous pinnacle in the Similan Islands, featuring giant granite boulders, swim-throughs, and strong currents with large sharks and pelagic fish.
+Elephant Head Rock is a pinnacle dive site in Thailand Similan Islands, Asia.
 
 ## Overview
 
-Elephant Head Rock is probably the most famous dive site in the Similan Islands, consisting of dozens of huge granite boulders stacked to form a large pinnacle extending from the sandy seabed at 40 meters to above the surface. The site's exposed rock breaks the surface and resembles an archway at low tide, providing easy surface identification. Swim-throughs, arches, caverns, and gullies between boulders create a maze-like topography.
+Elephant Head Rock is a dive site in Thailand Similan Islands offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Between Island 8 and Island south, ~1.5km offshore, Similan Islands
-- **Entry Type**: liveaboard
-- **Site Type**: Pinnacle/seamount
+- **Location**: Thailand Similan Islands, Asia
+- **Entry Type**: Liveaboard
+- **Site Type**: Pinnacle
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
-- **Typical Visibility**: 15-30 meters (50-100 feet)
-- **Current**: Medium to strong, with surge
-- **Best Time**: November to April
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Elephant Head Rock hosts several species of medium-sized sharks including whitetip reef sharks, blacktip reef sharks, and leopard sharks. Endemic species include the Andaman Sweetlips and Andaman Jawfish. Other residents include turtles, rays, grouper, snapper, barracuda, and tropical reef fish.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
 
 ## Dive Profile
 
-Navigate the maze of giant boulders at 40 meters, ascending through swim-throughs and arches to shallower areas. The site is famous for its complexity and topography—expect to work through gaps, navigate caverns, and discover hidden features between the rocks. Currents and surge may be challenging; use boulder features for shelter and buoyancy control.
+The site offers diving at depths ranging from shallow reef areas down to approximately 40 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+This site can be accessed from shore or by boat. Shore entry follows established paths to the water. Boat access is available through local dive operators. Check conditions and choose the most appropriate entry method based on weather and sea state.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
 - Respect marine life and maintain proper buoyancy to protect the reef
@@ -60,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

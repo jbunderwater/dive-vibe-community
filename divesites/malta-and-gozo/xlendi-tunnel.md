@@ -13,17 +13,17 @@ addedBy: osm_import
 
 ## Xlendi Tunnel
 
-Xlendi Tunnel is a reef dive site in Malta and Gozo, Europe.
+Xlendi Tunnel is a cave dive site in Malta and Gozo, Europe.
 
 ## Overview
 
-Xlendi Tunnel is a shallow, beginner-friendly cave tunnel - ideal first cave dive. A 70m tunnel runs through limestone headland connecting two bays. Entrance at 5m, gentle descent to 8-10m, with cracks in ceiling letting light through creating a magical effect. Not a true overhead environment - surfaces available in many sections. No previous cave experience needed, though proper technique advised. Calm conditions, easy shore entry, excellent for both divers and sightseers.
+Xlendi Tunnel is a dive site in Malta and Gozo featuring underwater cave and cavern formations. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
 
 ## Site Information
 
 - **Location**: Malta and Gozo, Europe
 - **Entry Type**: Shore entry
-- **Site Type**: Cave/cavern
+- **Site Type**: Cave/Cavern
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 10 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
@@ -32,11 +32,11 @@ Xlendi Tunnel is a shallow, beginner-friendly cave tunnel - ideal first cave div
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
+Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 10 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-10 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -44,6 +44,7 @@ Enter from the shore following established entry points. Check conditions before
 
 ## Tips and Recommendations
 
+- Excellent site for newer divers — calm conditions and easy navigation
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
 - Respect marine life and maintain proper buoyancy to protect the reef
@@ -58,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

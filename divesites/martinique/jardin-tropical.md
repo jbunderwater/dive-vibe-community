@@ -17,27 +17,26 @@ Jardin Tropical is a reef dive site in Martinique, Caribbean.
 
 ## Overview
 
-Jardin Tropical (Tropical Garden) offers perfect comforting conditions for beginners with shallow depths and close proximity to shore. A few meters from Pointe de Salomon, you will discover a garden formed of gorgons, sponges, and corals - a place ideal for novice divers or children's first underwater experiences. Advanced divers will also appreciate the near drop-off with its rich fauna and flora.
+Jardin Tropical is a dive site in Martinique offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Near Pointe de Salomon, Martinique
+- **Location**: Martinique, Caribbean
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 10 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Minimal
+- **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
-- **Special Features**: Ideal for children's first dives and underwater biology study
 
 ## Marine Life
 
-The tropical garden features a mix of multicolored corals and sponges, all inhabited by a variety of fish including Sardinian, parrot, royal angel, trigger, mackerel and spotted fish. Sea turtles are commonly found here. The healthy coral and sponge growth supports diverse reef-associated fauna and flora.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
 
 ## Dive Profile
 
-Explore the shallow tropical garden formed by gorgons, sponges, and corals. The minimal depth and close proximity to shore make this ideal for children and first-time divers. Spend time in the shallow garden area observing coral structures and fish behavior. For experienced divers, a near drop-off with richer fauna is available. The site is excellent for photographers and underwater biology enthusiasts due to the abundant organisms and clear water.
+The site offers diving at depths ranging from shallow reef areas down to approximately 10 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-10 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -60,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

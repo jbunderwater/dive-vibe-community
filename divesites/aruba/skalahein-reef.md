@@ -13,23 +13,22 @@ addedBy: osm_import
 
 ## Skalahein Reef
 
-Skalahein Reef is an intermediate drift dive known for its fine coral formations, abundant barracuda populations, and dramatic drop-off structure. The site is particularly popular for drift diving with excellent visibility.
+Skalahein Reef is a reef dive site in Aruba, Caribbean.
 
 ## Overview
 
-Skalahein Reef features fine hard coral formations sloping to great depth, making it an excellent choice for drift diving. The site is particularly distinguished by its large population of barracudas, though diverse reef fish also populate the area. The reef drops from shallow areas (5+ meters) to depths exceeding 30 meters, with the most interesting coral formations and marine life found between 15-30 meters. The site follows the characteristic pattern of the Balashi Reef complex with excellent visibility and good current conditions for drift dives. This is one of Aruba's designated "deep" dive sites where divers can expect depths ranging from 13-30 meters, suitable for intermediate to advanced recreational divers.
+Skalahein Reef is a dive site in Aruba offering rewarding diving on healthy coral reef structures . Drift dive with drop-off from 5-40m, hard corals, abundant barracuda, good for photography. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Eastern coast, Aruba, Caribbean (Balashi Reef complex)
+- **Location**: Aruba, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 23 meters
-- **Typical Visibility**: 20-25 meters (65-80+ feet)
-- **Current**: Moderate (drift dive)
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
-- **Special Features**: Fine coral formations, abundant barracuda, drift dive
 
 ## Marine Life
 
@@ -37,7 +36,7 @@ Divers at this site can expect to encounter sea turtles (green, hawksbill), sout
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 23 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -60,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Buck Island Reef
 
-Buck Island Reef is a world-class reef dive site located at the heart of Buck Island Reef National Monument on St. Croix.
+Buck Island Reef is a reef dive site in US Virgin Islands, Caribbean.
 
 ## Overview
 
-Buck Island Reef National Monument offers diving on an exceptional elkhorn coral barrier reef system surrounding this uninhabited island, just 1.5 miles offshore. The site features a marked underwater trail with dramatic coral formations and abundant marine life. Visibility typically ranges 20-40 meters with warm Caribbean waters averaging 26-29°C year-round.
+Buck Island Reef is a dive site in US Virgin Islands offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: St. Croix, US Virgin Islands, Caribbean
+- **Location**: US Virgin Islands, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter sea turtles (green, hawksbill), sout
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 10 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-10 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

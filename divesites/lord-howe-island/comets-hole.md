@@ -3,7 +3,7 @@ name: Comets Hole
 lat: -31.5333
 lng: 159.05
 difficulty: Beginner
-maxDepth: 15
+maxDepth: 7
 entryType: shore
 siteType: reef
 ref: null
@@ -13,30 +13,31 @@ addedBy: osm_import
 
 ## Comets Hole
 
-Comets Hole is a reef dive site in Lord Howe Island, Oceania.
+Comets Hole is Lord Howe Island's house reef and premier beginner site, a shallow lagoon hole teeming with marine life, popular among photographers.
 
 ## Overview
 
-Comets Hole is a dive site in Lord Howe Island offering excellent diving on healthy coral reef structures. Located in the Oceania region, this site offers 15-40 meters of visibility with water temperatures averaging 20-29°C.
+Comets Hole is Lord Howe Island's most accessible and easiest dive site, formed by natural freshwater upwelling. Located just minutes from the boatshed within the shelter of the lagoon, it's diveable in nearly all weather conditions. The site is famous for swarming marine life and excellent photography opportunities. This is considered one of the best dives on the island for its ease and abundance of marine life.
 
 ## Site Information
 
-- **Location**: Lord Howe Island, Oceania
+- **Location**: Within Lord Howe Island lagoon (house reef)
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 meters
+- **Maximum Depth**: 7 meters
 - **Typical Visibility**: 15-40 meters (50-130 feet)
-- **Current**: Variable
-- **Best Time**: September to February
+- **Current**: Minimal (protected lagoon)
+- **Coral Wall**: 3-4 meter high coral reef wall surrounding the hole
+- **Best Time**: Year-round, nearly all weather conditions
 
 ## Marine Life
 
-Divers at this site can expect to encounter great white sharks, grey nurse sharks, whale sharks, manta rays, sea turtles, dolphins, dugongs, potato cod. Additional species commonly sighted include maori wrasse, giant trevally, hard corals, soft corals.
+Comets Hole is renowned for its abundance of fish life. Species include endemic McCulloch's anemonefish, large schools of lined catfish, decorator crabs, coral gobies, white-mouthed moray, slipper crayfish, trevally, painted morwong, silver drummer, three-striped butterflyfish, and three types of lionfish. Larger pelagic visitors include bull rays, long-tailed whip rays, and Galapagos whaler sharks cruising along the reef edge.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site features a natural hole surrounded by a 3-4 meter high coral reef wall. Maximum depth is approximately 7 meters. The hole was formed by natural freshwater upwelling and never fills with sand. Explore the hole's interior and the surrounding coral walls. The shallow depth allows for extended bottom time and relaxed diving.
 
 ## Entry and Exit
 
@@ -59,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

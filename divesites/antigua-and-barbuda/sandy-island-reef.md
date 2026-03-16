@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Sandy Island Reef
 
-Sandy Island Reef, located at the entrance to St. John's Harbor, encompasses multiple named dive sites with diverse underwater terrain and marine environments.
+Sandy Island Reef is a reef dive site in Antigua and Barbuda, Caribbean.
 
 ## Overview
 
-This reef system is one of Antigua's most frequently dived areas, suitable for all experience levels. Multiple distinct sites (The Ledge, Jewel Box, Sunken Barge) provide variety in a single boat trip. Explore vibrant corals, gorgonians, and thriving reef fish populations in shallow, protected waters.
+Sandy Island Reef is a dive site in Antigua and Barbuda offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ This reef system is one of Antigua's most frequently dived areas, suitable for a
 
 ## Marine Life
 
-The reefs host colorful corals, sea fans, and gorgonians. In sandy areas adjacent to the coral, you'll find stingrays, garden eels, and various bottom-dwelling species. Reef fish include parrotfish, snapper, spadefish, and barracuda. The Sunken Barge site attracts schools of fish using the wreck as shelter.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
 
 ## Dive Profile
 
@@ -44,11 +44,11 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Multiple dive sites in one location — plan a two-dive trip to explore different areas
-- The Jewel Box is excellent for macro photography and critter hunting
-- Harbor proximity means easy logistics and often less boat traffic than offshore sites
-- Good combination site with other harbor-area wrecks and reefs
-- Sandy patches adjacent to coral are ideal for observing shy species like garden eels
+- Excellent site for newer divers — calm conditions and easy navigation
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

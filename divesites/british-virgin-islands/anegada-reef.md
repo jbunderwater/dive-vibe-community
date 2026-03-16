@@ -13,31 +13,30 @@ addedBy: osm_import
 
 ## Anegada Reef
 
-Anegada Reef is one of the pristine coral reef sites around Anegada, the northernmost island of the British Virgin Islands. These reefs are part of the 29-kilometer Horseshoe Reef, one of the largest barrier reefs in the Caribbean, and offer pristine diving experiences with rich, vibrant coral ecosystems and diverse marine life rarely seen in over-dived destinations.
+Anegada Reef is a reef dive site in British Virgin Islands, Caribbean.
 
 ## Overview
 
-Anegada Reef represents the less-frequented but more pristine corner of BVI diving. The reefs here feature rich and vibrant coral gardens with colorful corals, large schools of tropical fish, and potentially rays and sharks in a natural, undisturbed setting. The shallow conditions and abundance of coral heads require careful navigation and the use of a local guide due to the density of the reef and shallow waters. Divers exploring Anegada reefs are rewarded with some of the most pristine reef ecosystems in the Caribbean, where marine life is abundant and the coral structures are in excellent health.
+Anegada Reef is a dive site in British Virgin Islands offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Anegada, northern BVI
+- **Location**: British Virgin Islands, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 10 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light
+- **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
-- **Special Requirements**: Local guide required due to shallow coral-dense conditions
 
 ## Marine Life
 
-Anegada reefs host diverse marine life in pristine conditions: schools of tropical fish, colorful corals, nurse sharks, rays, turtles, barracuda, and large groupers. The relative lack of diving pressure means fish are abundant and unaccustomed to divers, creating unique wildlife observation opportunities. The coral ecosystems are particularly healthy and diverse.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 10 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-10 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -45,6 +44,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
+- Excellent site for newer divers — calm conditions and easy navigation
 - Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

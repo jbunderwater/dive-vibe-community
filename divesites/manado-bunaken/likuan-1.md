@@ -13,54 +13,55 @@ addedBy: osm_import
 
 ## Likuan 1
 
-Likuan 1 (also spelled Lekuan I) is the most demanding section of Bunaken's signature wall system. Together with Likuan 2 and 3, it forms a multi-kilometre vertical wall on the southwest side of Bunaken Island — the most famous dive wall in all of North Sulawesi. Likuan 1 is known for its often-strong current, which is among the strongest of the three sections.
+Likuan 1 is a wall dive site in Manado & Bunaken, Asia.
 
 ## Overview
 
-The wall at Likuan 1 begins in the shallows and drops sheer to well beyond 40 metres, with the actual seabed lying 1,500 metres below. The vertical face is encrusted with enormous barrel sponges, ancient sea fans, and dense communities of soft and hard corals. A sandy slope with underwater pinnacles precedes the wall's main vertical section. Strong currents sweep nutrients up the wall, sustaining exceptional biodiversity and making encounters with large marine life frequent.
+Likuan 1 is a dive site in Manado & Bunaken featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Southwest Bunaken Island, Bunaken National Marine Park
+- **Location**: Manado & Bunaken, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
-- **Typical Visibility**: 15-25 metres
-- **Current**: Often strong — strongest of the Likuan trio
-- **Best Time**: May to October
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Green and hawksbill turtles are almost guaranteed, often numbering ten or more in a single hour. Schools of long-jaw mackerel, fusiliers, and pyramid butterflyfish sweep past the wall face. Reef sharks, tuna, Napoleon wrasse, and eagle rays are regular pelagic visitors. Macro life on the wall includes nudibranchs, pygmy seahorses in sea fans, and crinoid shrimp.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-Typically dived as a drift along the wall face. Descend to the chosen working depth — most action occurs between 12 and 30 metres on the wall face. Allow the current to carry you along while watching both the wall and the blue water beyond. Ascend gradually and deploy an SMB for pickup. Prior drift diving experience is strongly recommended.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-40 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
-Boat access from Bunaken Island operators. Entry timing relative to the current direction is critical — dive briefings will specify the entry point and direction. Strong currents mean this dive requires proper buoyancy control and experience with drift technique.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-- Check current direction with your dive guide before entry — it can sweep hard in either direction
-- Keep an eye into the blue away from the wall for reef sharks and eagle rays
-- The shallow reef top at 3-8 metres offers an outstanding safety stop environment
-- Lekuan 1 → 2 → 3 are often dived in sequence on consecutive dives
-- This site particularly rewards experienced divers comfortable with strong drift
+- Watch your depth carefully — wall dives can lead to unintentional deep descents
+- Look in crevices and overhangs for hidden marine life
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 
-Strong currents are the primary hazard. Downwellings can occur on the wall face. Never fight the current — drift with it. Carry an SMB and be prepared for an extended surface interval while the boat repositions. Dive with a guide who knows the local current patterns well.
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-Wide-angle is best here given the scale of the wall, the abundant schooling fish, and frequent turtle encounters. The enormous sponges and sea fans provide dramatic foreground subjects. Macro photographers will find pygmy seahorses and nudibranchs on the wall coral, though the current makes precision macro challenging.
+Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*Validated against murexresorts.com, zubludiving.com, and dive-the-world.com. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

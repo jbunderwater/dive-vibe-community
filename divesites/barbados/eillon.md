@@ -6,73 +6,62 @@ difficulty: Beginner
 maxDepth: 17
 entryType: boat
 siteType: wreck
-ref: osm_7075601814
+ref: null
 osmId: 7075601814
-addedBy: osm_extended
+addedBy: osm_import
 ---
 
 ## Eillon
 
-The Eillon is a 110-foot drug enforcement vessel sunk in June 1996, located in Carlisle Bay at 17 meters. This popular wreck features an air pocket in the bow and is an excellent beginner-friendly wreck dive within the protected marine park.
+Eillon is a historic wreck dive in Barbados, Caribbean.
 
 ## Overview
 
-The Eillon is a fascinating piece of Barbados' maritime history—a former drug interdiction patrol boat donated to the Coastal Zone Management Unit. The vessel was deliberately scuttled on June 8, 1996, to create an artificial reef and dive site. It rests in relatively shallow, calm waters within Carlisle Bay Marine Park, making it accessible to beginner and intermediate divers. The wreck features an intact air pocket in the bow section, a unique characteristic that attracts photographers and technical diving enthusiasts. The site has developed into a thriving artificial reef with healthy coral and sponge growth.
+Eillon is a dive site in Barbados featuring the wreck of the Eillon. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Carlisle Bay Marine Park, Barbados
+- **Location**: Barbados, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 17 meters
-- **Typical Visibility**: 20-30 meters (65-100 feet)
-- **Current**: Light, typically calm
-- **Best Time**: December to April (dry season) - calmest conditions
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Light to moderate
+- **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-The Eillon supports a diverse marine ecosystem. Coral and sponge encrustation covers much of the hull, providing habitat for numerous species. Common sightings include groupers, snappers, soldierfish, glassy sweepers, parrotfish, angelfish, and damselfish. The wreck's interior provides shelter for moray eels and octopus. Sea turtles occasionally visit the site. Stingrays and eagle rays are frequently encountered on the sandy bottom. The cargo hold and bow sections provide habitat for cleaner shrimp, spiny lobsters, and various invertebrates. Schools of jacks may patrol the perimeter.
+Divers at this site can expect to encounter groupers, snappers, soldierfish, glassy sweepers, coral growth, sponge encrustation, sea turtles (green, hawksbill), southern stingrays. Additional species commonly sighted include eagle rays, nurse sharks, reef sharks, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
 
 ## Dive Profile
 
-The dive begins with a moored descent to the wreck structure. Most divers explore the exterior hull, cargo hold openings, and the intact deck areas. The bow section is relatively accessible and features the characteristic air pocket—an excellent opportunity for snorkelers and divers to experience a natural air chamber. The shallow depth permits extended bottom times, ideal for thorough exploration and photography. Careful entry into the bow air pocket is possible with proper buoyancy control and torch lighting. Typically ascend along the wreck structure to complete the circuit and perform a safety stop at 5 meters.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 17 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
-Access is by dive boat from local Carlisle Bay operators. Entry is typically via giant stride or back roll from the boat. The mooring line provides reference for descent and ascent. Exit procedures are coordinated with the boat crew, typically completing a safety stop on ascent before being picked up.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-- Don't miss the air pocket in the bow section—an unforgettable experience
-- Bring a dive torch to explore interior compartments and reveal colors
-- Excellent macro photography opportunities on encrusted surfaces
-- The shallow depth makes this ideal for longer, relaxed exploration
-- Part of the famous Carlisle Bay wreck trail—easily combined with other nearby wrecks in one outing
-- Good site for divers new to wreck exploration
-- Early morning dives often offer clearer water and fewer other boats
+- Excellent site for newer divers — calm conditions and easy navigation
+- Bring a dive torch to illuminate wreck interiors and dark overhangs
+- Maintain proper buoyancy to avoid disturbing silt inside the wreck
+- Do not attempt penetration without proper training and equipment
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
 
 ## Safety Considerations
 
-Watch for boat traffic within Carlisle Bay—maintain surface awareness and deploy a surface marker buoy (SMB). Fire coral, sea urchins, and sharp metal edges present hazards; wear protective gloves and maintain good buoyancy control. The air pocket is accessible but requires careful entry and buoyancy control to avoid disturbing silt. Never attempt wreck penetration beyond the bow air pocket without proper training. Always dive with a buddy and follow standard safety protocols. The site is suitable for beginner divers; the shallow depth and relatively stable wreck structure make this an excellent training site.
+Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-The Eillon offers excellent photography opportunities. The shallow depth and good visibility allow extended photography sessions. Wide-angle shots of the entire wreck are achievable. Macro opportunities abound on encrusted surfaces. The air pocket creates unique compositions when properly lit. Early morning light provides excellent silhouette opportunities against surface water.
-
-## Nearby Sites
-
-- **Carlisle Bay Marine Park**: Home to six shipwrecks in close proximity
-- **Bajan Queen**: Former tugboat wreck nearby, similarly shallow and beginner-friendly
-- **The Barge**: Shallowest Carlisle Bay wreck (4m), ideal for extension dives
-- **Stavronikita**: Famous deep wreck (40m) for advanced divers in the same bay
+The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
 
 ## Additional Resources
 
-- **Carlisle Bay Marine Park Authority**: Manages moorings and conservation efforts
-- **Local dive operators**: Offer guided tours and current site conditions
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-
-*This dive site information compiled from OSM data, local dive operators, and dive site databases. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

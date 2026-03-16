@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## The Point (Negril)
 
-The Point (Negril) is one of Negril's most dramatic wall dives, featuring a sheer vertical drop requiring Advanced certification and excellent depth management.
+The Point (Negril) is a wall dive site in Jamaica, Caribbean.
 
 ## Overview
 
-The Point marks the beginning of Negril's famous wall system, where the reef drops steeply from shallow depths into the Caribbean blue. This advanced dive requires careful attention to depth gauge and air consumption, as the wall extends well beyond safe recreational diving limits (90+ feet). The site features rich coral growth on the wall face, with abundant marine life including nurse sharks, barracudas, and schools of snappers. Excellent water clarity (65-130 feet visibility) and moderate currents characterize this challenging dive.
+The Point (Negril) is a dive site in Jamaica featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter sea turtles (green, hawksbill), sout
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-30 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-35 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
@@ -61,7 +61,7 @@ Wall dives offer stunning wide-angle opportunities with dramatic depth perspecti
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

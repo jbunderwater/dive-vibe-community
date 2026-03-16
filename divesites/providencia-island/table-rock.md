@@ -13,17 +13,17 @@ addedBy: osm_import
 
 ## Table Rock
 
-Table Rock is a reef dive site in Providencia Island, Caribbean.
+Table Rock is a cave dive site in Providencia Island, Caribbean.
 
 ## Overview
 
-Table Rock is a shallow site featuring interconnected cave structures and large schools of silversides. The site is located near Point of Reef approximately 16.8 kilometers (10.5 miles) from the northern point of Santa Catalina Island, offering unique geological formations within Providencia's third-longest barrier reef.
+Table Rock is a dive site in Providencia Island featuring underwater cave and cavern formations. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
 - **Location**: Providencia Island, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/cavern
+- **Site Type**: Cave/Cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
@@ -32,11 +32,11 @@ Table Rock is a shallow site featuring interconnected cave structures and large 
 
 ## Marine Life
 
-Large schools of silversides dominate the interconnected cave systems, creating dynamic schooling displays. The caves shelter reef fish and are a distinctive feature of this site, attracting divers interested in exploring cave formations and observing schooling fish behavior.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
 
 ## Dive Profile
 
-Table Rock features interconnected cave structures suitable for intermediate divers. Begin your dive exploring the cave systems and transition between them, observing the silverside schools. Depths range from shallow entry points to approximately 25 meters. Maintain good buoyancy control within the cave passages and allow adequate air for exit and safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -59,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

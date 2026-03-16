@@ -4,7 +4,6 @@ lat: 11.3402682
 lng: 124.1232727
 difficulty: Intermediate
 maxDepth: 30
-minDepth: 12
 entryType: boat
 siteType: reef
 ref: null
@@ -14,60 +13,54 @@ addedBy: osm_import
 
 ## Coral Garden Marine Protected Area
 
-Coral Garden is a protected reef featuring varied topography: a sloping reef at 12m transitioning to a mini wall at 20m and eventually becoming a coral garden tapering to 30m.
+Coral Garden Marine Protected Area is a reef dive site in Philippines Malapascua, Asia.
 
 ## Overview
 
-Coral Garden Marine Protected Area features interesting topography with varied depth transitions. A sloping reef at approximately 12 meters joins a mini wall section to 20 meters, then gradually transitions to a coral garden tapering down to 30 meters. The protected status ensures healthy coral and abundant marine life. This site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Coral Garden Marine Protected Area is a dive site in Philippines Malapascua offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Philippines Malapascua, Cebu
+- **Location**: Philippines Malapascua, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Minimum Depth**: 12 meters
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Mild to moderate
-- **Best Time**: October to April
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
-## Site Characteristics
+## Marine Life
 
-Coral Garden features three distinct sections: a sloping reef starting at 12m, a mini wall section around 20m, and finally a coral garden that tapers to 30m. The protected area status ensures vibrant coral coverage and excellent marine biodiversity. Each section presents different diving characteristics.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
 
 ## Dive Profile
 
-Begin on the sloping reef section (12m), follow the transition to the mini wall (around 20m), then explore the coral garden as it tapers toward 30m. The varied topography makes this an interesting site for exploring different reef ecosystem types. Allow 45-60 minutes to enjoy all three sections.
+The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
 Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
-## Marine Life
-
-Healthy coral coverage throughout (protected status). Reef fish, nudibranchs, seahorses, crustaceans. The varied topography supports different species communities at different depth zones.
-
 ## Tips and Recommendations
 
-- Excellent for exploring varied reef topography
-- Bring camera for reef and coral garden photography
-- Check local conditions before diving
-- Great site for intermediate divers practicing depth transitions
-- Protected area means excellent marine health
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
+- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
-Mild to moderate currents possible. Divers should maintain buoyancy awareness through depth transitions. Be aware of jellyfish and sea urchins. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-Good opportunities for reef topography photography. The transitions between sections create interesting compositional elements. Coral and fish life provide excellent subjects.
+This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-03-16
-- **Validated by**: Dive operator research
 
 ---
-*This dive site information was compiled from OpenStreetMap data and dive operator research. Last updated 2026-03-16.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

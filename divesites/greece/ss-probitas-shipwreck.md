@@ -13,31 +13,30 @@ addedBy: osm_import
 
 ## SS Probitas Shipwreck
 
-The SS Probitas is a 100-meter cargo ship sunk in 1943 during an air raid, now lying at accessible depth near the Greek islands. This well-preserved wreck offers beginner-friendly exploration with portions visible from just 3 meters below the surface.
+SS Probitas Shipwreck is a historic wreck dive in Greece, Europe.
 
 ## Overview
 
-Originally an Italian cargo vessel, the SS Probitas was sunk during a German bombing campaign in 1943. The wreck sits just 50 meters from shore in peaceful diving conditions, making it accessible to beginner and recreational divers. The well-preserved structure shows impacts from bombing and offers excellent historical context alongside healthy marine encrustation.
+SS Probitas Shipwreck is a dive site in Greece featuring a historic wreck which sank in 1943. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
 
 ## Site Information
 
-- **Location**: Greek islands, Ionian Sea
+- **Location**: Greece, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 22 meters
-- **Typical Visibility**: 10-25 meters (30-80 feet)
-- **Current**: Light
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Light to moderate
 - **Best Time**: May to October
-- **Historical Context**: Italian cargo ship sunk August 1943
 
 ## Marine Life
 
-The wreck is heavily colonized by encrusting corals, sponges, and anemones. Common residents include groupers, moray eels, cuttlefish, and crustaceans in crevices. Coral encrustation and plant growth have transformed the vessel into a thriving reef structure.
+Divers at this site can expect to encounter conger eels, lobsters, crabs, anemones, coral encrustation, groupers, moray eels, octopus. Additional species commonly sighted include barracuda, sea bream, amberjack. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
 
 ## Dive Profile
 
-The well-preserved wreck begins in very shallow water (3 meters) and extends to 22 meters maximum. Explore the exterior structure, visible impact holes, and cargo hold areas at safe depths. Clear silt patterns allow external exploration without penetration risk. Outstanding for photography and historical interest.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 22 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -45,12 +44,12 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
+- Excellent site for newer divers — calm conditions and easy navigation
 - Bring a dive torch to illuminate wreck interiors and dark overhangs
 - Maintain proper buoyancy to avoid disturbing silt inside the wreck
 - Do not attempt penetration without proper training and equipment
 - Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
 
 ## Safety Considerations
 
@@ -62,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

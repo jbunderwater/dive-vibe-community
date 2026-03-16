@@ -3,7 +3,7 @@ name: Windjammer Wreck
 lat: 24.62
 lng: -82.87
 difficulty: Beginner
-maxDepth: 8
+maxDepth: 6.4
 entryType: boat
 siteType: wreck
 ref: null
@@ -25,7 +25,7 @@ Windjammer Wreck is a dive site in Dry Tortugas featuring the wreck of the Windj
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 8 meters
+- **Maximum Depth**: 6.4 meters
 - **Typical Visibility**: 5-25 meters (15-80 feet)
 - **Current**: Variable, can be strong
 - **Best Time**: June to October
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eel
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 8 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 6.4 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -61,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

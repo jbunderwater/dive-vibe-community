@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Inchcape 1
 
-Inchcape 1 is an advanced-level shipwreck dive featuring a decommissioned supply and transport vessel with significant coral colonization.
+Inchcape 1 is a historic wreck dive in UAE - Fujairah, Middle East.
 
 ## Overview
 
-Inchcape 1 is a deeper wreck dive at 32 meters requiring Advanced certification. The vessel served as a crew and supply transport for Inchcape Shipping Services between Dubai and Fujairah oil platforms before decommissioning in 2001. The wreck sits upright on sandy bottom and has become thoroughly colonized by corals and marine life over two decades. Significant coral growth makes this a striking artificial reef.
+Inchcape 1 is a dive site in UAE - Fujairah featuring the wreck of the Inchcape 1. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
 
 ## Site Information
 
-- **Location**: UAE - Fujairah, Gulf of Oman
+- **Location**: UAE - Fujairah, Middle East
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 32 meters
-- **Typical Visibility**: 15-20 meters
-- **Current**: Moderate
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Moderate to strong
 - **Best Time**: September to May
 
 ## Marine Life
 
-The wreck provides excellent habitat for fish schools and larger species. Groupers, snappers, barracudas, and jacks patrol the structure. Neon sponges, soft corals, and gorgonians have extensively colonized the vessel. The site attracts diverse reef fish and occasional larger pelagics.
+Divers at this site can expect to encounter glassy sweepers, lionfish, groupers, coral growth, soft corals, whale sharks, manta rays, hammerhead sharks. Additional species commonly sighted include oceanic whitetip sharks, sea turtles, dolphins. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 25 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 32 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -53,7 +53,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -61,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

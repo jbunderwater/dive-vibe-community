@@ -13,26 +13,22 @@ addedBy: osm_import
 
 ## Jane Sea Wreck
 
-The Jane Sea is a 170-foot English freighter intentionally sunk in 1988 to create an artificial reef, located near Barcadera Reef in southern Aruba.
+Jane Sea Wreck is a historic wreck dive in Aruba, Caribbean.
 
 ## Overview
 
-The Jane Sea is an intermediate-level wreck dive featuring depths from 18 to 27 meters as the vessel slopes across the sandy bottom. The ship sits upright with its bow intact, providing excellent structural exploration and photography opportunities. Coral and sponge growth has colonized the wreck, and the site attracts schools of fish and larger pelagics. The site is particularly popular for night diving, when coral polyps extend and create a halo effect around the wreck structure. Good visibility and minimal current conditions (typical for Aruba's leeward side) make this an accessible intermediate dive with commercial viability for recreational operators.
+Jane Sea Wreck is a dive site in Aruba featuring the wreck of the Jane Sea Wreck . Depths 18-27m across bow to stern, good for night diving. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Near Barcadera Reef, southern Aruba
+- **Location**: Aruba, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Wreck Length**: 170 feet (52 meters)
-- **Wreck Type**: English freighter
-- **Year Sunk**: 1988 (intentional)
-- **Typical Visibility**: 15-25 meters (50-80 feet)
+- **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
-- **Special Note**: Excellent for night diving
 
 ## Marine Life
 
@@ -40,7 +36,7 @@ Divers at this site can expect to encounter groupers, snappers, soldierfish, gla
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 25 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 18 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -65,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

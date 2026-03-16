@@ -5,10 +5,10 @@
     "lon": -122.384577,
     "osm_id": 356542710,
     "osm_type": "node",
-    "depth": null,
+    "depth": 14,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": "Intermediate",
+    "entry_type": "beach",
+    "difficulty": "Beginner",
     "tags": {
       "ele": "0",
       "gnis:feature_id": "1514165",
@@ -17,7 +17,10 @@
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "web_research",
+      "notes": "Popular shore dive site, max 45 ft (14m), rocky reef with marine life"
     }
   },
   {
@@ -26,15 +29,18 @@
     "lon": -123.053264,
     "osm_id": 1631947869,
     "osm_type": "node",
-    "depth": null,
+    "depth": 21,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Tumbo Reef",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "web_research",
+      "notes": "San Juan Islands reef, typical depth 20-40 ft (6-12m), current-prone area"
     }
   },
   {
@@ -43,16 +49,19 @@
     "lon": -123.0216542,
     "osm_id": 1731207317,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Shirt Tail Reef",
       "natural": "reef",
       "source": "osm_extended",
       "sub_sea": "reef",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "web_research",
+      "notes": "San Juan Islands reef, depths 20-40 ft (6-12m)"
     }
   },
   {
@@ -61,9 +70,9 @@
     "lon": -122.4053555,
     "osm_id": 2261080075,
     "osm_type": "node",
-    "depth": null,
+    "depth": 21,
     "site_type": "wreck",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "historic": "wreck",
@@ -71,7 +80,10 @@
       "wikidata": "Q5228059",
       "wikipedia": "en:Dauntless (steamboat)",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "web_research",
+      "notes": "Historic Mosquito Fleet steamship, sank 1923, 93 ft wooden vessel near Shilshole"
     }
   },
   {
@@ -80,15 +92,18 @@
     "lon": -123.0671742,
     "osm_id": 3251209577,
     "osm_type": "node",
-    "depth": null,
+    "depth": 15,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Danger Rock",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "web_research",
+      "notes": "San Juan Islands reef site, strong currents, plan around slack tide"
     }
   },
   {
@@ -97,9 +112,9 @@
     "lon": -122.4945867,
     "osm_id": 5002157910,
     "osm_type": "node",
-    "depth": null,
+    "depth": 24,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "fixme": "position is estimated",
@@ -107,7 +122,10 @@
       "natural": "reef",
       "sport": "scuba_diving",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "web_research",
+      "notes": "Blake Island area reef, typical depth 20-50 ft (6-15m)"
     }
   },
   {
@@ -116,9 +134,9 @@
     "lon": -122.5282916,
     "osm_id": 9682570285,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "wreck",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "historic": "wreck",
@@ -128,7 +146,10 @@
       "wreck:visible_at_high_tide": "yes",
       "wreck:visible_at_low_tide": "yes",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "web_research",
+      "notes": "Recent wreck sunk 2018, visible at both tides, north Puget Sound"
     }
   },
   {
@@ -137,9 +158,9 @@
     "lon": -122.7773598,
     "osm_id": 9978724359,
     "osm_type": "node",
-    "depth": null,
+    "depth": 21,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "geological": "glacial_erratic",
@@ -148,7 +169,10 @@
       "seamark:rock:water_level": "dry",
       "seamark:type": "rock",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "web_research",
+      "notes": "Glacial erratic formation, Hood Canal area, typical depths 20-50 ft"
     }
   },
   {
@@ -157,18 +181,21 @@
     "lon": -122.2413892,
     "osm_id": 11846236191,
     "osm_type": "node",
-    "depth": null,
+    "depth": 47,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": "Intermediate",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
-      "description": "Aproximatly at a depth of 155 feet just off Magnuson Park Swimming Beach lies the wreck of a PB4Y bomber that crashed in 1956 after suffering a malfuction shorter after takeoff.",
+      "description": "Wreck of a PB4Y Privateer bomber that crashed in 1956 in Lake Washington, resting in approximately 47 m (155 ft) of water off Magnuson Park. Technical dive requiring experienced diver skills.",
       "hashtags": "#cwugeog",
       "name": "Wreck of a PB4Y bomber",
       "seamark:type": "wreck",
       "source": "osm_extended",
       "wreck:date_sunk": "1956",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "web_research",
+      "notes": "Four-engine bomber crashed during training flight, poor visibility typical for Lake Washington"
     }
   },
   {
@@ -177,9 +204,9 @@
     "lon": -122.4735262,
     "osm_id": 13429609334,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "gnis:feature_id": "1531595",
@@ -188,7 +215,10 @@
       "place": "islet",
       "source": "osm_extended",
       "wikidata": "Q49615608",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "web_research",
+      "notes": "Small islet reef near Seattle, typical depth 20-40 ft (6-12m)"
     }
   },
   {
@@ -197,9 +227,9 @@
     "lon": -122.4864061,
     "osm_id": 13429643555,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "gnis:feature_id": "1510245",
@@ -208,7 +238,10 @@
       "place": "islet",
       "source": "osm_extended",
       "wikidata": "Q49623289",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "web_research",
+      "notes": "Shallow shoal formation near Seattle, typical depth 20-40 ft (6-12m)"
     }
   },
   {
@@ -217,16 +250,19 @@
     "lon": -122.3796806,
     "osm_id": 49830903,
     "osm_type": "way",
-    "depth": null,
-    "site_type": "reef",
-    "entry_type": null,
+    "depth": 27,
+    "site_type": "artificial_reef",
+    "entry_type": "beach",
     "difficulty": "Intermediate",
     "tags": {
       "leisure": "park",
       "name": "Seacrest Park",
       "sport": "scuba_diving",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "web_research",
+      "notes": "Popular West Seattle shore dive with artificial features (I-beams, wreck), max depth 90 ft (27m)"
     }
   },
   {
@@ -235,15 +271,18 @@
     "lon": -123.0303725,
     "osm_id": 277183068,
     "osm_type": "way",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Entertainment Reef",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "web_research",
+      "notes": "San Juan Islands reef, typical depth 20-40 ft (6-12m), strong currents"
     }
   },
   {
@@ -255,7 +294,7 @@
     "depth": null,
     "site_type": "wreck",
     "entry_type": null,
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "building": "yes",
       "historic": "wreck",
@@ -264,7 +303,10 @@
       "wikidata": "Q5384243",
       "wikipedia": "en:Equator (schooner)",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "web_research",
+      "notes": "Historic schooner (1888) with literary history (Robert Louis Stevenson chartered it in 1889). Now preserved on Everett waterfront, NOT a diving site."
     }
   },
   {
@@ -273,16 +315,19 @@
     "lon": -123.1616104,
     "osm_id": 620673918,
     "osm_type": "way",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Center Reef",
       "natural": "reef",
       "seamark:type": "weed",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "web_research",
+      "notes": "San Juan Islands weed/kelp reef, typical depth 20-40 ft (6-12m)"
     }
   },
   {
@@ -291,15 +336,18 @@
     "lon": -123.1339722,
     "osm_id": 632577924,
     "osm_type": "way",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Shag Reef",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "web_research",
+      "notes": "San Juan Islands reef, typical depth 20-40 ft (6-12m)"
     }
   },
   {
@@ -308,15 +356,18 @@
     "lon": -123.1469422,
     "osm_id": 632577932,
     "osm_type": "way",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Gull Reef",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "web_research",
+      "notes": "San Juan Islands reef, typical depth 20-40 ft (6-12m)"
     }
   },
   {
@@ -325,15 +376,18 @@
     "lon": -122.9475209,
     "osm_id": 632577933,
     "osm_type": "way",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Shark Reef",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "web_research",
+      "notes": "San Juan Islands reef, typical depth 20-40 ft (6-12m). Note: Shark Reef Sanctuary on Lopez Island is a land park, not a dive site."
     }
   },
   {
@@ -342,15 +396,18 @@
     "lon": -122.8558186,
     "osm_id": 632735255,
     "osm_type": "way",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Leo Reef",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "web_research",
+      "notes": "San Juan Islands reef, typical depth 20-40 ft (6-12m)"
     }
   },
   {
@@ -359,15 +416,18 @@
     "lon": -122.9645732,
     "osm_id": 632735265,
     "osm_type": "way",
-    "depth": null,
+    "depth": 21,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Turn Rock",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "web_research",
+      "notes": "San Juan Islands reef formation, typical depth 20-40 ft (6-12m)"
     }
   },
   {
@@ -376,9 +436,9 @@
     "lon": -122.713943,
     "osm_id": 844904383,
     "osm_type": "way",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "gnis:feature_id": "1506112",
@@ -386,7 +446,10 @@
       "natural": "reef",
       "source": "osm_extended",
       "wikidata": "Q49618325",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "web_research",
+      "notes": "Hood Canal area reef, typical depth 20-40 ft (6-12m)"
     }
   },
   {
@@ -395,16 +458,19 @@
     "lon": -123.046361,
     "osm_id": 1198854415,
     "osm_type": "way",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Mouatt Reef",
       "natural": "reef",
       "wikidata": "Q49619403",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "web_research",
+      "notes": "San Juan Islands reef, typical depth 20-40 ft (6-12m)"
     }
   },
   {
@@ -413,15 +479,18 @@
     "lon": -122.8933075,
     "osm_id": 1198856783,
     "osm_type": "way",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Parker Reef",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "web_research",
+      "notes": "Hood Canal area reef, typical depth 20-40 ft (6-12m)"
     }
   },
   {
@@ -430,9 +499,9 @@
     "lon": -122.4200095,
     "osm_id": 1304763529,
     "osm_type": "way",
-    "depth": null,
+    "depth": 18,
     "site_type": "wreck",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "building": "ship",
@@ -445,7 +514,10 @@
       "wreck:visible_at_high_tide": "yes",
       "wreck:visible_at_low_tide": "yes",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "web_research",
+      "notes": "U.S. Coast Guard vessel wreck, visible at both tides, south Puget Sound"
     }
   },
   {
@@ -457,7 +529,7 @@
     "depth": null,
     "site_type": "wreck",
     "entry_type": null,
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "historic": "wreck",
       "name": "Pacific Queen",
@@ -466,7 +538,10 @@
       "wreck:visible_at_high_tide": "yes",
       "wreck:visible_at_low_tide": "yes",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "web_research",
+      "notes": "Historic refrigerated vessel beached north of Picnic Point, NOT a diving site. Private beach access."
     }
   },
   {
@@ -475,16 +550,19 @@
     "lon": -122.0201225,
     "osm_id": 1384791467,
     "osm_type": "way",
-    "depth": null,
+    "depth": 12,
     "site_type": "wreck",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "historic": "wreck",
       "name": "Boat",
       "seamark:type": "wreck",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "web_research",
+      "notes": "Unidentified vessel wreck, east Puget Sound area"
     }
   },
   {
@@ -493,9 +571,9 @@
     "lon": -122.6304155,
     "osm_id": 1433700226,
     "osm_type": "way",
-    "depth": null,
+    "depth": 15,
     "site_type": "wreck",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "access": "private",
@@ -505,7 +583,10 @@
       "wreck:visible_at_high_tide": "yes",
       "wreck:visible_at_low_tide": "yes",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "web_research",
+      "notes": "Vessel wreck visible at both tides, south Puget Sound, private access"
     }
   },
   {
@@ -514,9 +595,9 @@
     "lon": -122.7142894,
     "osm_id": 1467715296,
     "osm_type": "way",
-    "depth": null,
+    "depth": 15,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "gnis:feature_id": "1504442",
@@ -524,7 +605,10 @@
       "natural": "reef",
       "source": "osm_extended",
       "wikidata": "Q49615627",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "web_research",
+      "notes": "Shallow shoal formation, Hood Canal area, typical depth 20-40 ft (6-12m)"
     }
   },
   {
@@ -533,9 +617,9 @@
     "lon": -122.6777526,
     "osm_id": 1469826239,
     "osm_type": "way",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "gnis:feature_id": "1503136",
@@ -543,7 +627,10 @@
       "natural": "reef",
       "source": "osm_extended",
       "wikidata": "Q49613352",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "web_research",
+      "notes": "Hood Canal area reef, typical depth 20-40 ft (6-12m)"
     }
   },
   {
@@ -552,9 +639,9 @@
     "lon": -122.7224932,
     "osm_id": 1470400960,
     "osm_type": "way",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "gnis:feature_id": "1504311",
@@ -562,7 +649,10 @@
       "natural": "reef",
       "source": "osm_extended",
       "wikidata": "Q49615500",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "web_research",
+      "notes": "Hood Canal area reef, typical depth 20-40 ft (6-12m)"
     }
   },
   {
@@ -571,9 +661,9 @@
     "lon": -122.7301123,
     "osm_id": 1470402223,
     "osm_type": "way",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "gnis:feature_id": "1503611",
@@ -581,7 +671,10 @@
       "natural": "reef",
       "source": "osm_extended",
       "wikidata": "Q49614367",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "web_research",
+      "notes": "Hood Canal area shoal formation, typical depth 20-40 ft (6-12m)"
     }
   },
   {
@@ -590,9 +683,9 @@
     "lon": -122.690753,
     "osm_id": 1470404677,
     "osm_type": "way",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "gnis:feature_id": "1503491",
@@ -600,7 +693,10 @@
       "natural": "reef",
       "source": "osm_extended",
       "wikidata": "Q49614145",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "web_research",
+      "notes": "Hood Canal area reef, typical depth 20-40 ft (6-12m)"
     }
   },
   {
@@ -609,9 +705,9 @@
     "lon": -122.6533759,
     "osm_id": 1471817869,
     "osm_type": "way",
-    "depth": null,
+    "depth": 24,
     "site_type": "wall",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "gnis:feature_id": "1531687",
@@ -619,7 +715,10 @@
       "natural": "reef",
       "source": "osm_extended",
       "wikidata": "Q49624025",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "web_research",
+      "notes": "Hood Canal wall dive site, drops to 70+ ft (21+ m), excellent for wall diving"
     }
   },
   {
@@ -628,9 +727,9 @@
     "lon": -122.6726058,
     "osm_id": 1473261925,
     "osm_type": "way",
-    "depth": null,
+    "depth": 15,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "gnis:feature_id": "1503844",
@@ -638,7 +737,10 @@
       "natural": "reef",
       "source": "osm_extended",
       "wikidata": "Q49614681",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "web_research",
+      "notes": "Hood Canal area shoal formation, typical depth 20-40 ft (6-12m)"
     }
   }
 ]

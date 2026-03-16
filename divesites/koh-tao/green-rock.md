@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Green Rock
 
-Green Rock is an advanced reef dive site featuring a dramatic collection of large boulders piled against one another with numerous swim-throughs at varying depths. Named for the green-colored rocks visible at the surface, this site is known for strong currents and famous for Titan triggerfish encounters. It's a popular location for whale shark sightings.
+Green Rock is a reef dive site in Koh Tao, Asia.
 
 ## Overview
 
-Green Rock is a challenging site suited for experienced divers, featuring complex granite boulder formations with exciting tunnels and swim-throughs. The site is renowned for its abundance of Titan triggerfish, particularly aggressive fish that require careful attention. Marine pelagics including whale sharks frequent this site. Visibility ranges from 10-40 meters with water temperatures averaging 26-30°C year-round.
+Green Rock is a dive site in Koh Tao offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
@@ -52,7 +52,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

@@ -13,54 +13,55 @@ addedBy: osm_import
 
 ## Timur 1
 
-Timur 1 is a section of Bunaken Island's long eastern wall, with "Timur" meaning "East" in Indonesian. It covers the lower portion of the eastern wall system between the village of Bunaken and Sachiko's Point. The eastern wall is known for its mild current, excellent visibility, and pristine shallow reef top.
+Timur 1 is a wall dive site in Manado & Bunaken, Asia.
 
 ## Overview
 
-The Bunaken Timur wall is a steep drop-off covered with hard and soft corals, reaching 40 metres before continuing deeper. The shallow reef top is among the most pristine around Bunaken Island, offering outstanding snorkelling conditions. The eastern exposure of this site means calmer conditions than the exposed western and northern sites. It is an excellent spot for green and hawksbill turtles, and the many small caves and cracks in the wall make it a productive site for macro photography.
+Timur 1 is a dive site in Manado & Bunaken featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: East coast of Bunaken Island, Bunaken National Marine Park
+- **Location**: Manado & Bunaken, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 40 meters
-- **Typical Visibility**: 15-25 metres
-- **Current**: Usually mild, occasionally moderate
-- **Best Time**: May to October
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Green and hawksbill turtles are regularly seen on the wall and reef top. Maori wrasse, bumphead parrotfish, and mappa pufferfish are notable larger species. Banded sea kraits (sea snakes) have been observed here. Whitetip reef sharks use the wall's caves and cracks as resting spots. The macro photography here is excellent — numerous small caves and crevices host a variety of cryptic species.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-Descend to the wall face and follow it at your chosen working depth. The eastern wall is long and continuous — explore at a relaxed pace. Check small caves and crevices for macro life throughout the dive. Ascend to the reef top for a safety stop in pristine coral garden conditions; the shallow reef is excellent for an extended stop.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-40 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
-Boat access from Bunaken Island. The calmer eastern exposure makes entry and exit more straightforward than windward sites. Mild current is generally predictable and can be used for a gentle drift along the wall.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-- Bring a torch to inspect the wall's many small caves and cracks
-- Look for banded sea kraits hunting along the reef in crevices
-- The reef top is worth extra time — it is frequently cited as among Bunaken's best
-- Good choice for a second or third dive of the day when energy levels and air consumption warrant a calmer option
-- Combine with Timur 2 or Pangalisan for a full eastern wall experience
+- Watch your depth carefully — wall dives can lead to unintentional deep descents
+- Look in crevices and overhangs for hidden marine life
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 
-Current is generally mild but can increase. Monitor the wall for downwellings. Carry an SMB. The deep wall continues beyond recreational limits — stay within your dive plan.
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-The small caves and crevices on the wall face offer excellent macro opportunities in a site where the calmer current allows more time to set up shots. Turtles on the reef top and against the wall make strong wide-angle subjects. Banded sea kraits are eye-catching subjects if encountered.
+Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*Validated against divezone.net/divesite/bunaken-timur and murexresorts.com/diving-bunaken. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

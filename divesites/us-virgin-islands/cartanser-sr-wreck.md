@@ -13,17 +13,17 @@ addedBy: osm_import
 
 ## Cartanser Sr Wreck
 
-The Cartanser Senior is one of the most iconic wrecks in the USVI, a 190-foot WWII-era freighter resting in three distinct sections off St. Thomas.
+Cartanser Sr Wreck is a historic wreck dive in US Virgin Islands, Caribbean.
 
 ## Overview
 
-This wreck was intentionally sunk by divers and brought to the cove at Buck Island, where it has weathered multiple hurricanes. The sections rest on sandy bottom in moderate depth, making it accessible to novice-level divers. The wreck is completely covered with corals and sponges and serves as an egg hatchery for Sergeant Major Fish. Sea turtles often rest on the deck, while octopuses hide in crevices throughout the structure. The combination of coral growth, marine life, and accessible depth makes it an excellent educational and photographic dive site.
+Cartanser Sr Wreck is a dive site in US Virgin Islands featuring the wreck of the Cartanser Sr Wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: St. Thomas, US Virgin Islands, Caribbean
+- **Location**: US Virgin Islands, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 14 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter groupers, snappers, soldierfish, gla
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 20 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 14 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -44,12 +44,12 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
+- Excellent site for newer divers — calm conditions and easy navigation
 - Bring a dive torch to illuminate wreck interiors and dark overhangs
 - Maintain proper buoyancy to avoid disturbing silt inside the wreck
 - Do not attempt penetration without proper training and equipment
 - Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
 
 ## Safety Considerations
 
@@ -61,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

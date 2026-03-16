@@ -13,28 +13,26 @@ addedBy: osm_import
 
 ## Maravagi Passage
 
-Maravagi Passage offers two distinct diving experiences: an exciting drift dive along the channel known for manta rays, and a calm protected bay renowned for exceptional macro diving opportunities.
+Maravagi Passage is a drift dive site in Solomon Islands, Pacific.
 
 ## Overview
 
-Maravagi Passage is composed of two dive sites. The main passage is a drift dive along the reef top where strong currents create an adrenaline-filled experience. Divers drift along and duck under the reef wall while manta rays swim close by in formation, often in groups of up to a dozen, as they feed on plankton blooms. Sweetlips, jacks, and bumphead parrotfish join the mantas. Maravagi Bay, in contrast, is a calm, protected bay that serves as a macro diver's paradise with hundreds of critter species: nudibranchs, demon stinger, scorpionfish, cockatoo wasp fish, various pipefish, cuttlefish, juvenile batfish, anemone fish, shrimp, and crabs. The bay also features a few giant clams and a small wreck packed with batfish and bream.
+Maravagi Passage is a dive site in Solomon Islands offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
-- **Location**: Maravagi Island, Florida Islands
+- **Location**: Solomon Islands, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Drift dive
+- **Site Type**: Drift
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 22 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Strong in passage, minimal in bay
-- **Best Time**: April to November (tide and weather dependent)
+- **Typical Visibility**: 20-50 meters (65-160 feet)
+- **Current**: Moderate to strong
+- **Best Time**: April to November
 
-## Dive Profile - Passage vs Bay
+## Marine Life
 
-**Passage Drift**: Drift along the reef with current hookdown. Manta encounters weather-dependent on plankton blooms.
-
-**Bay Macro**: Slow exploration of sandy bottom and coral heads in calm, protected water ideal for photography.
+Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
 
 ## Dive Profile
 
@@ -62,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

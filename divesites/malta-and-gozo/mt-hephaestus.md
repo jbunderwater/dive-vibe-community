@@ -17,13 +17,13 @@ MT Hephaestus is a historic wreck dive in Malta and Gozo, Europe.
 
 ## Overview
 
-MT Hephaestus is a dive site in Malta and Gozo featuring the wreck of the MT Hephaestus which sank in 2022-08-29 . Scuttled 2022-08 as an attraction for scuba divers. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+MT Hephaestus is a dive site in Malta and Gozo featuring the wreck of the MT Hephaestus which sank in 2022-08-29 . Oil tanker scuttled August 2022. For experienced/technical divers. Range 35-47m. Dangerous elements removed; large entry holes cut.. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
 
 ## Site Information
 
 - **Location**: Malta and Gozo, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 47 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter conger eels, lobsters, crabs, anemon
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 46 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 47 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -61,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

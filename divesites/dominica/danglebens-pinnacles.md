@@ -13,17 +13,17 @@ addedBy: osm_import
 
 ## Danglebens Pinnacles
 
-Danglebens Pinnacles is a series of five distinct pinnacles with varied habitats, each offering different diving experiences within a single site.
+Danglebens Pinnacles is a pinnacle dive site in Dominica, Caribbean.
 
 ## Overview
 
-This site features five pinnacles of different shapes and sizes with sandy bottoms separating each formation, creating an undulating landscape. The pinnacles rise from 30-40 meters and are heavily covered in barrel sponges, table corals, and brain corals. All five are accessible in a single dive and popular for repeat visits. Abundant marine life includes colorful angel and butterflyfish, boxfish, trumpetfish, and anthias. Hidden in crevices are morays and reef sharks, adding to the excitement of exploration.
+Danglebens Pinnacles is a dive site in Dominica offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: South coast, inside the bay, Dominica
+- **Location**: Dominica, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle/seamount
+- **Site Type**: Pinnacle
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 40 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
@@ -32,11 +32,11 @@ This site features five pinnacles of different shapes and sizes with sandy botto
 
 ## Marine Life
 
-Abundant reef life covers all five pinnacles including barrel sponges, table and brain corals, colorful angel and butterflyfish, boxfish, trumpetfish, anthias, big morays in crevices, and reef sharks. The varied terrain at multiple pinnacles supports rich diversity.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 35 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 40 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -51,7 +51,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -59,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

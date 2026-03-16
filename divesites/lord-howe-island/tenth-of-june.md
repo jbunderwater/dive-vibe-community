@@ -2,10 +2,10 @@
 name: Tenth of June
 lat: -31.5167
 lng: 159.0667
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Advanced
+maxDepth: 30
 entryType: boat
-siteType: reef
+siteType: pinnacle
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,30 +13,31 @@ addedBy: osm_import
 
 ## Tenth of June
 
-Tenth of June is a reef dive site in Lord Howe Island, Oceania.
+Tenth of June is a deep pinnacle dive at the Admiralty Islets, reaching 24-36 meters depth with excellent marine life diversity. Variants include Tenth of June Bombora and Tenth of June Deep.
 
 ## Overview
 
-Tenth of June is a dive site in Lord Howe Island offering rewarding diving on healthy coral reef structures. Located in the Oceania region, this site offers 15-40 meters of visibility with water temperatures averaging 20-29°C.
+Tenth of June is one of the most popular dive sites in the Admiralty Islands, featuring deep pinnacle structures and rich marine life. Located at the Admiralty Islets, this site offers depths of 24-36 meters and is best suited for experienced intermediate to advanced divers. Multiple variants of this site exist (Tenth of June Bombora, Tenth of June Deep), offering diverse underwater landscapes and consistent marine encounters.
 
 ## Site Information
 
-- **Location**: Lord Howe Island, Oceania
+- **Location**: Admiralty Islets (15 minutes north of Lord Howe Island)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Site Type**: Pinnacle/seamount
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15-40 meters (50-130 feet)
 - **Current**: Variable
 - **Best Time**: September to February
+- **Special Note**: Variants include Tenth of June Bombora and Tenth of June Deep
 
 ## Marine Life
 
-Divers at this site can expect to encounter great white sharks, grey nurse sharks, whale sharks, manta rays, sea turtles, dolphins, dugongs, potato cod. Additional species commonly sighted include maori wrasse, giant trevally, hard corals, soft corals.
+Tenth of June hosts incredible diving with diverse marine life attracted to the pinnacle structures and depth variations. Species include reef fish, pelagic visitors, and larger marine life encounters typical of the Admiralty Islands ecosystem.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Pinnacle diving at Tenth of June varies by specific site variant. Depths range from 24-36 meters, requiring good depth management and experience. The pinnacle structures attract diverse marine life. Most activity occurs in the 25-30 meter range. Plan dives carefully given the significant depth and monitor air consumption.
 
 ## Entry and Exit
 
@@ -59,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

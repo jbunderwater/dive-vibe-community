@@ -13,55 +13,55 @@ addedBy: osm_import
 
 ## Mini Wall
 
-Accessible wall dive next to Sebayur Kecil with healthy coral, large reef fish, and minimal current.
+Mini Wall is a wall dive site in Komodo National Park, Asia.
 
 ## Overview
 
-Mini Wall is located immediately adjacent to Sebayur Kecil dive site (dived from the same mooring); divers enter at the same point but swim in a different direction to experience completely different topography. Where Sebayur Kecil is a steep slope with a ridge, Mini Wall drops dramatically into a 30+ meter vertical wall. The wall is covered with soft corals and sea fans, and the sandy chutes along the base often harbor benthic creatures like spotted eagle rays and crocodile flatheads. The plateau above the wall hosts schools of reef fish and good macro opportunities. Currents are typically mild, making this accessible for intermediate divers.
+Mini Wall is a dive site in Komodo National Park featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Eastern Komodo, Sebayur Island group
+- **Location**: Komodo National Park, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 15–30 meters (50–100 feet) dry season; 10–20m wet season
-- **Current**: Mild to moderate; minimal
-- **Best Time**: May to October; year-round diveable
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Schooling reef fish (batfish, sweetlips, snappers, fusiliers), spotted eagle rays, crocodile flatheads on the sandy bottom, and coral-dwelling invertebrates on the wall. Soft corals and sea fans support nudibranchs and small shrimps. The wall is alive with small creatures and color variation.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-Descend to the plateau (10–15 meters) and position yourself to observe schools of fish. Drift gently along the wall top, using handholds if needed, while scanning the blue and wall face for larger creatures. Work the sandy chutes carefully for resting rays and flatheads. Ascend gradually, spending 10–15 minutes in the 5–10-meter zone for safety stop.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-30 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
-Moored with Sebayur Kecil. Giant stride entry into 10–15 meters. Descend to the plateau. Exit via SMB deployment.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-- Contrast this dive with Sebayur Kecil for completely different experience
-- Scout the sandy chutes for resting rays and benthic creatures
-- Use the wall crevices for macro subjects
-- Plan conservative bottom time at depth; the wall drops deep quickly
-- Excellent for practicing depth control on a wall
-- A relaxed, no-current dive is a good break between challenging sites
+- Watch your depth carefully — wall dives can lead to unintentional deep descents
+- Look in crevices and overhangs for hidden marine life
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 
-Watch depth management carefully—wall dives naturally lead to deeper descents. Maintain buoyancy control to avoid drifting into the deeper blue beyond 30 meters. Currents are minimal, so focus on time and air management. Standard decompression procedures apply.
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-Excellent wide-angle compositions of the wall drop-off and schooling fish. The soft corals add color and texture. Macro opportunities in wall crevices. Good light in the 10–20-meter zone. Easier photography than current-heavy sites due to slower pace.
+Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

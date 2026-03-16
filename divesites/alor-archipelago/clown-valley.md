@@ -13,56 +13,54 @@ addedBy: osm_import
 
 ## Clown Valley
 
-Clown Valley is one of the most spectacular reef sites in Alor, famous for hosting the largest concentration of sea anemones in the world. Located on the southeast side of Pura Island in the Alor Strait, this site offers unparalleled macro diving opportunities.
+Clown Valley is a reef dive site in Alor Archipelago, Asia.
 
 ## Overview
 
-Clown Valley is an anemone-rich reef dive featuring dense carpet-like formations of sea anemones in every shape and size, with approximately half occupied by territorial clownfish. The site's maximum depth reaches 30 meters, with the main attractions concentrated in shallow to mid-depth areas (5-18 meters). The sandy bottom around the anemone formations provides excellent macro photography opportunities and relatively straightforward navigation for divers comfortable with mild to moderate currents.
+Clown Valley is a dive site in Alor Archipelago offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Southeast of Pura Island, Alor Strait
+- **Location**: Alor Archipelago, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
-- **Recommended Depth**: 5-18 meters for main attractions
-- **Typical Visibility**: 15-30 meters
-- **Current**: Mild to moderate, variable
-- **Best Time**: March to December (May-September optimal)
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Clown Valley's signature attraction is its massive anemone population, with Clark's clownfish and Tomato clownfish among the resident species. Additional marine life includes Sea Apples (Pseudocolochirus), nudibranchs, garden eels, moray eels, and abundant reef fish species. Healthy hard and soft coral coverage supports diverse reef communities. The site occasionally hosts schools of trevally and barracuda at depth.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
 
 ## Dive Profile
 
-Begin your descent in the shallow sections where anemones blanket the seafloor. Spend the first half of your dive between 5-12 meters photographing the anemone gardens and associated clownfish. Gradually transition deeper to explore the surrounding reef structures and coral formations, reaching a maximum of 30 meters for experienced divers. The sandy bottom transitions to coral-covered slopes at mid-depth. Plan for a safety stop at 5 meters.
+The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
-Access exclusively by dive boat. Entry via giant stride or back roll into the water. Descend along a visual line to the anemone gardens. Exit procedures follow standard boat diving protocol—deploy your SMB at the designated depth, ascend slowly with proper buoyancy control, and coordinate with the boat crew for pickup.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-- Arrive early in your bottom time when clownfish are most active and anemones fully extended
-- Use a macro lens for optimal close-up photography of the anemone formations
-- Exercise careful buoyancy control to avoid damaging anemones and corals
-- Book with experienced Alor operators familiar with site conditions
-- Expect variable currents—be prepared to adjust dive profile accordingly
-- The site works well for underwater naturalists and macro photographers
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
+- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
-Strong currents are possible and conditions can change rapidly. Divers should be comfortable with mild to moderate current diving and maintain excellent buoyancy skills. Variable current direction requires proper descent line techniques and buddy awareness. Always dive with a buddy and carry an SMB. Monitor air consumption carefully as current work increases demand. Stay within 30 meters depth limit.
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-Outstanding macro photography opportunities with dramatic anemone formations filling the frame. Clownfish interactions, nudibranchs, and detail-rich subjects reward macro lenses (60-100mm macro). Wide-angle photographers can capture the expansive anemone carpets. Natural light penetrates well to 15-20 meters. Best light during morning dives.
+This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

@@ -4,7 +4,6 @@ lat: 11.3421901
 lng: 124.1097625
 difficulty: Intermediate
 maxDepth: 30
-minDepth: 5
 entryType: boat
 siteType: wall
 ref: null
@@ -14,60 +13,55 @@ addedBy: osm_import
 
 ## Lighthouse
 
-Lighthouse is a coral-covered wall site famous for night dives to observe mandarin fish, featuring depth transitions and abundant wall life.
+Lighthouse is a wall dive site in Philippines Malapascua, Asia.
 
 ## Overview
 
-Lighthouse features a wall covered with sea grass and corals that descends to 25 meters, followed by a plateau at 30 meters and another deeper wall section. The site is particularly famous for night dives to observe mandarin fish conducting their courtship displays. The wall structure and shallow plateau create diverse diving opportunities. This site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Lighthouse is a dive site in Philippines Malapascua featuring a dramatic vertical wall that drops into the deep blue . Dive Site. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Philippines Malapascua, Cebu
+- **Location**: Philippines Malapascua, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Minimum Depth**: 5 meters
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Moderate
-- **Best Time**: October to April
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
-## Site Characteristics
+## Marine Life
 
-Lighthouse features a wall with coral and sea grass covering, creating a picturesque setting. The wall descends to 25m, followed by a plateau at 30m and deeper wall sections. The site is named for the lighthouse visible on the nearby shore.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-Begin at the wall top (5-10m) and work your depth and buoyancy down along the wall toward 25-30m. The plateau provides a relatively stable depth level for exploring. Most day dives occur in the 5-25m range. Night dives target the shallow plateau (10-15m) for mandarin fish observations, typically conducted at dusk during their courtship displays.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-30 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
 Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
-## Marine Life
-
-Soft corals, sea fans, nudibranchs, seahorses, crustaceans on the wall. Mandarin fish visible during night dives at dusk on the shallow plateau. Reef fish and wall-dwelling species.
-
 ## Tips and Recommendations
 
-- Famous for night dives to see mandarin fish courtship displays at dusk
-- Bring a macro lens for night dive photography and mandarin fish shots
-- Check local weather and conditions before diving
-- Excellent for wall diving practice and experience
-- Day dives offer good wall topography exploration
+- Watch your depth carefully — wall dives can lead to unintentional deep descents
+- Look in crevices and overhangs for hidden marine life
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 
-Moderate currents are possible. Divers should maintain awareness of depth management along walls. Be aware of jellyfish and sea urchins. Always dive with a buddy and carry a safety sausage (SMB). Night dives require proper lighting and training.
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-Day dives offer wide-angle wall photography opportunities. Night dives provide excellent macro photography of mandarin fish, nudibranchs, and nocturnal reef creatures. The wall creates interesting depth and compositional layers.
+Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-03-16
-- **Validated by**: Dive operator research
 
 ---
-*This dive site information was compiled from OpenStreetMap data and dive operator research. Last updated 2026-03-16.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Secca della Colombara
 
-Secca della Colombara is a reef dive site in Ustica, Europe.
+Secca della Colombara is a seamount dive site in Ustica, Europe.
 
 ## Overview
 
-Secca della Colombara is a volcanic seamount that rises dramatically from 50 meters up to just 3 meters at its summit, approximately 3 miles from Ustica's northeast coast. This is one of the island's most impressive wall dives, featuring a sudden 24-meter drop along the west slope covered in red gorgonians. The site is particularly famous as a "big-fish hotspot" with regular encounters with large pelagic species.
+Secca della Colombara is a dive site in Ustica offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
 
 ## Site Information
 
-- **Location**: Northeast of Ustica, Mediterranean
+- **Location**: Ustica, Europe
 - **Entry Type**: Boat dive
 - **Site Type**: Seamount
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 27 meters
-- **Typical Visibility**: Excellent - crystal clear in calm conditions
-- **Current**: Moderate to strong
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Light to moderate
 - **Best Time**: May to October
 
 ## Marine Life
 
-This is Ustica's premier big-fish dive. Divers regularly encounter large dusky groupers and striped groupers on the platform, schools of barracudas moving in tight formations, and amberjacks passing through the blue. Occasional visits from tuna add to the excitement. The site is renowned for shoals of barracudas forming circles that explode when large amberjacks pass through.
+Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
 
 ## Dive Profile
 
-Descend to the seamount platform which extends from 50 meters up to 3 meters at the summit. The best diving is along the west slope, which features a dramatic vertical wall decorated with red gorgonians. Descend to the 24-meter plateau and explore the wall structure. Watch the blue water beyond the wall for pelagic encounters. Allow adequate bottom time for multiple passes to observe the big fish residents.
+The site offers diving at depths ranging from shallow reef areas down to approximately 27 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -59,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

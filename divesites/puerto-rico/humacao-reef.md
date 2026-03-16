@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Humacao Reef
 
-Humacao Reef is located on Puerto Rico's east coast and features diverse underwater topography with depths slightly deeper than nearby Fajardo reefs. The site is known for dramatic geological formations including arches, swim-throughs, tunnels, deep crevices, and occasional canyons. Notable nearby sites include The Cracks (a network of caves) and The Drift (home to nurse sharks).
+Humacao Reef is a reef dive site in Puerto Rico, Caribbean.
 
 ## Overview
 
-The Humacao area offers 24 distinct dive sites with varied underwater terrain. Humacao Reef itself showcases complex reef topography that creates an "underwater jigsaw puzzle" experience. Most dives feature a gentle cruise along slopes or walls interspersed with cryptic rock formations. Intermediate divers find excellent opportunities for exploring distinctive geological features while practicing navigation and depth awareness. The site is slightly choppier than western Puerto Rico locations due to exposure to Atlantic swells.
+Humacao Reef is a dive site in Puerto Rico offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: East Coast Puerto Rico (Humacao municipality)
+- **Location**: Puerto Rico, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 15-25 meters (50-80 feet)
-- **Current**: Light to moderate, can be slightly stronger than western reefs
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-The reef supports diverse tropical fish communities including parrotfish, surgeonfish, angelfish, damselfish, and wrasses. Nurse sharks are frequently sighted on the site. Occasional visitors include eagle rays and reef sharks. The complex geological formations provide habitat for moray eels, lobsters, crustaceans, and numerous other invertebrates. Macro photography subjects are abundant on the cryptic reef structures.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
 
 ## Dive Profile
 
-A moored boat dive descending to 15-25 meters depending on the specific dive site. Most dives involve exploring slope features, cave systems, and rock formations rather than a linear wall descent. Navigate through arches and swimthroughs while maintaining situational awareness in the more complex topography. The varied terrain provides continuous visual interest throughout the dive. The geological features create natural reference points for navigation. Excellent for intermediate divers interested in more complex terrain than simple coral reefs.
+The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -59,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

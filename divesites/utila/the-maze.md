@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## The Maze
 
-A beginner-friendly reef playground featuring narrow channels and coral swim-throughs just minutes from Utila town.
+The Maze is a reef dive site in Utila, Caribbean.
 
 ## Overview
 
-The Maze lives up to its name with a labyrinth of narrow channels starting at 5 meters and descending to 12 meters, making it an ideal site for newer divers. The site features twisting canyons, coral tunnels, and tight swim-throughs packed with reef life. Located just 5 minutes from Utila town, this shallow reef site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Maze is a dive site in Utila offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Utila, Caribbean (5 minutes from town)
+- **Location**: Utila, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
@@ -32,11 +32,11 @@ The Maze lives up to its name with a labyrinth of narrow channels starting at 5 
 
 ## Marine Life
 
-Divers at this site frequently spot scorpionfish and green moray eels hiding in the maze's channels. Queen triggerfish are common, and large stingrays can be found in the sand at depth. Sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish, blue tangs, and trumpetfish populate the reef.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Multiple channels start at 4.5 meters and descend gradually. Begin your dive exploring the winding channels and coral tunnels, gradually working deeper as conditions allow. The abundant marine life is typically found throughout the 5-12 meter range. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -44,10 +44,9 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers—narrow channels are perfect for building confidence and buoyancy control
-- Bring an underwater camera—the unique topology and diverse marine life provide excellent photography opportunities
-- Take your time navigating the channels; this is as much about exploration as depth
+- Excellent site for newer divers — calm conditions and easy navigation
 - Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
 - Respect marine life and maintain proper buoyancy to protect the reef
 
@@ -61,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Anchor Point South
 
-Anchor Point is home to one of the most beautiful 18th-century French anchors in Sint Eustatius. Dating from around 1750-1775, this coral-covered anchor is a unique piece of maritime history and a highlight of Statia's archaeological diving heritage.
+Anchor Point South is a reef dive site in Sint Eustatius, Caribbean.
 
 ## Overview
 
-A deep patch reef at the end of the Tent Reef system, Anchor Point features a steep-sided reef formation with exceptional historical significance. The site combines excellent diving on healthy coral with the unique opportunity to see a well-preserved colonial-era artifact. Statia's dedicated divemaster requirement ensures proper protection and interpretation of archaeological sites.
+Anchor Point South is a dive site in Sint Eustatius offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Sint Eustatius (Statia), Caribbean
+- **Location**: Sint Eustatius, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 20-30 meters (65-100 feet)
+- **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Caribbean reef sharks patrol for food, while various moray eel species are common residents. The site includes a cleaning station frequented by Spanish hogfish. Look for drumfish and lobsters in cracks and overhangs. The reef top features barrel sponge forests with tube sponges, sea fans, and diverse coral species. Spanish hogfish provide interesting fish behavior observation.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
 
 ## Dive Profile
 
@@ -59,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

@@ -11,33 +11,32 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Konanda Wreck
+## Konanda
 
-Konanda is a purpose-sunk Island Trader cargo vessel (45 meters long, 147 feet) carefully prepared for diving with accessible cabins and cargo holds.
+Konanda is a historic wreck dive in Vanuatu, Pacific.
 
 ## Overview
 
-Konanda is a deliberately scuttled 147-foot (45-meter) Island Trader vessel that was carefully prepared for recreational diving, making it an ideal wreck for all certification levels. The ship sits upright on a flat, sandy bottom at 26 meters with derricks and rigging reaching up to 10 meters depth, creating depth variability suitable for beginners through advanced divers. Easy access to cabins and cargo holds allows exploration of internal structures while the shallow portions near the surface provide comfortable bottom time.
+Konanda is a dive site in Vanuatu featuring the wreck of the Konanda. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
-- **Location**: Espiritu Santo dive area
+- **Location**: Vanuatu, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 26 meters
-- **Minimum Depth**: 3 meters (rigging/derricks)
-- **Typical Visibility**: 20-50 meters (varies seasonally)
-- **Water Temperature**: 26-29°C year-round
-- **Best Time**: April to November (dry season)
+- **Typical Visibility**: 20-50 meters (65-160 feet)
+- **Current**: Moderate to strong
+- **Best Time**: April to November
 
 ## Marine Life
 
-The wreck structure hosts prolific marine life including hard corals and soft corals colonizing the vessel, abundant fish schools (clownfish, batfish, lionfish, moorish idols), large brain corals, staghorn corals, moray eels, octopus, nudibranchs, reef sharks, barracuda, and sea turtles. The varied depths attract different species throughout the structure.
+Divers at this site can expect to encounter coral growth, anemones, lionfish, scorpionfish, glassy sweepers, manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks. Additional species commonly sighted include sea turtles, napoleon wrasse, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
 
 ## Dive Profile
 
-Start in shallow rigging areas (3-10m) to explore accessible external features, then descend to the main wreck structure at 26 meters. Explore accessible cabins, cargo hold, derricks, and other features appropriate to your certification level. The sandy bottom and stable structure provide safe navigation for wreck divers.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 26 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -45,12 +44,12 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
+- Excellent site for newer divers — calm conditions and easy navigation
 - Bring a dive torch to illuminate wreck interiors and dark overhangs
 - Maintain proper buoyancy to avoid disturbing silt inside the wreck
 - Do not attempt penetration without proper training and equipment
 - Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
 
 ## Safety Considerations
 
@@ -65,4 +64,4 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 - **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was validated through research and compiled from diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

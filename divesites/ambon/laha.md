@@ -9,53 +9,50 @@ siteType: muck
 ref: null
 osmId: null
 addedBy: osm_import
-validated: true
-validationSource: web_research
 ---
 
 ## Laha
 
-Laha is the premier muck diving site in Ambon, located about 3 kilometers inside Ambon Bay on the northern coast. World-renowned for macro photography, this black sand and rubble site is a magnet for spotting rare cryptic species.
+Laha is a muck dive site in Ambon, Asia.
 
 ## Overview
 
-Laha is one of Indonesia's best macro diving destinations, featuring extensive black sand slopes and rubble fields that harbor an impressive array of critter species. The site is particularly famous for hosting elusive and colorful species including rhinopias, flamboyant cuttlefish, and rare nudibranchs. Visibility typically ranges from 10-20 meters, with water temperatures averaging 26-28°C.
+Laha is a dive site in Ambon offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Ambon Bay, northern coast
+- **Location**: Ambon, Asia
 - **Entry Type**: Shore entry
-- **Site Type**: Muck dive
+- **Site Type**: Muck
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 10-20 meters
-- **Current**: Minimal, excellent for macro work
-- **Best Time**: March-April and September-December (dry season)
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Laha is famous for macro critters and unusual species. Common finds include rhinopias scorpionfish (yellow, blue, red, pink varieties), flamboyant cuttlefish, mimic octopus, frogfish, ghost pipefish, seahorses, solor-powered nudibranchs, and rare Honshu pipefish. The rubble and sand attract concentrations of shrimp, crab, and eel species.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
 
 ## Dive Profile
 
-Begin your dive on the black sand slope at 8-10 meters and work through the rubble fields down to the maximum depth of 15 meters. Focus on slow, methodical movement and careful observation—the best critters are small and well-camouflaged. Allow 40-50 minutes for thorough exploration of macro subjects.
+The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
-Enter from the sandy shore and wade into the bay. The shallow entry allows easy acclimatization before descending to the muck fields. Exit at the same location, navigating by compass bearings or natural shore landmarks.
+Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
 
 ## Tips and Recommendations
 
-- Essential site for macro photographers—bring macro lens and powerful lights
-- Move slowly and deliberately to spot cryptic species
-- Best visited during early morning dives for clearer water
-- Consider multiple dives to different rubble patches
-- Excellent for specialty training in muck diving and critter identification
-- Night diving offers entirely different species
+- Excellent site for newer divers — calm conditions and easy navigation
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
+- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
-Minimal current and calm conditions make this very safe for Beginner divers. Watch for stonefish, sea urchins, and sharp rubble when moving across the bottom. Use proper buoyancy to avoid disturbing the muck. Always dive with a buddy and surface slowly to avoid nitrogen narcosis.
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -63,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

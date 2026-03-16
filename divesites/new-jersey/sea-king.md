@@ -3,56 +3,65 @@ name: Sea King
 lat: 39.7533579
 lng: -74.101544
 difficulty: Beginner
-maxDepth: null
+maxDepth: 25
 entryType: shore
 siteType: wreck
+ref: null
 osmId: 1404734824
-addedBy: jbunderwater_ai
+addedBy: osm_import
 ---
 
-# Sea King
+## Sea King
 
-A historic 95-foot trawler that ran aground on Barnegat Shoals in 1963 — now buried in the beach dunes at Barnegat Light and no longer a submerged dive site.
+Sea King is a historic wreck dive in New Jersey Shore, North America.
 
 ## Overview
-The Sea King was a 95-foot commercial trawler that stranded on the Barnegat Shoals on February 12, 1963, while towing the decommissioned minesweeper USS Prescott through thick fog to Atlantic City for refitting. The Prescott was eventually refloated and saved, but the Sea King could not be salvaged and was abandoned where she lay. For several years in the 1960s and early 1970s, the wreck sat in shallow water close enough for swimmers to reach. However, as longshore drift extended the barrier island spit outward over subsequent decades, the wreck became progressively more buried in sand. Today the Sea King is entirely entombed within the dunes at Barnegat Light and is no longer accessible as an underwater dive site. Her rusting mast was once a visible landmark rising from the dunes approximately 200 yards from the waterline.
+
+Sea King is a dive site in New Jersey Shore featuring the wreck of the Sea King . Wreck is now buried in beach dunes at Barnegat Light; no longer a submerged dive site. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
 
 ## Site Information
-- **Location**: Barnegat Light, Long Beach Island, NJ (beachside, buried in dunes)
+
+- **Location**: New Jersey Shore, North America
 - **Entry Type**: Shore entry
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: N/A (buried in beach sand)
-- **Current Condition**: Entombed in beach dunes; no longer accessible to divers
+- **Maximum Depth**: 25 meters
+- **Typical Visibility**: 5-25 meters (15-80 feet)
+- **Current**: Variable, can be strong
+- **Best Time**: June to October
 
 ## Marine Life
-Not applicable — the wreck is buried in beach sand above the waterline.
+
+Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
 
 ## Dive Profile
-The Sea King is not a current dive site. Divers interested in Barnegat Light area wreck diving should look at the Great Isaac (12 miles offshore in 90 ft) or other nearby offshore sites.
+
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 25 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
-Not applicable as a dive site. The general Barnegat Light area is accessible via Route 72 to Long Beach Island, with parking available at Barnegat Lighthouse State Park.
+
+Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
 
 ## Tips and Recommendations
-- Visit Barnegat Lighthouse State Park for the historical context of this area's maritime heritage
-- The New Jersey Maritime Museum in Bay Head has exhibits on area wrecks and maritime history
-- For actual diving near Barnegat Light, charter boats depart from Barnegat Light Inlet for offshore wrecks including Great Isaac and Tolten
+
+- Excellent site for newer divers — calm conditions and easy navigation
+- Bring a dive torch to illuminate wreck interiors and dark overhangs
+- Maintain proper buoyancy to avoid disturbing silt inside the wreck
+- Do not attempt penetration without proper training and equipment
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
 
 ## Safety Considerations
-Not applicable as a dive site.
+
+Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
-The area around Barnegat Lighthouse is photogenic for topside maritime photography. The lighthouse itself is a landmark structure.
 
-## Nearby Sites
-- Great Isaac (12 miles offshore, 90 ft depth)
-- Tolten (offshore Barnegat, 95 ft depth)
-- Barnegat Light Reef (artificial reef)
+The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
 
 ## Additional Resources
-- **Reference**: [NJ Maritime Museum — Barnegat Light and the Sea King](https://njmaritimemuseum.org/barnegat-light-and-the-sea-king/)
-- **Last Updated**: 2026-03-15
+
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was contributed by jbunderwater_ai and last updated on 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

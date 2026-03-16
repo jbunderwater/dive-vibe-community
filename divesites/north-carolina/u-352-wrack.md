@@ -11,61 +11,57 @@ osmId: 663869497
 addedBy: osm_import
 ---
 
-## U-352 (Wreck)
+## U-352 (Wrack)
 
-The U-352 is a Type VIIC German submarine sunk on May 9, 1942, by the U.S. Coast Guard Cutter Icarus, 26 miles south of Morehead City. She is one of the most frequently dived U-boats in the world and is widely considered the premier wreck dive off the North Carolina coast for intermediate divers.
+U-352 (Wrack) is a historic wreck dive in North Carolina, North America.
 
 ## Overview
 
-The 218-foot submarine sits upright on the sandy bottom with a 45-degree list to starboard in 115 feet (35 meters) of water, approximately 35 miles offshore near Cape Lookout. The outer hull has deteriorated over the decades but the pressure hull remains largely intact, and iconic features such as the conning tower, forward torpedo tubes, deck gun, and periscope housing are all clearly visible. The Gulf Stream's proximity frequently delivers visibility of 30 meters or more — exceptional conditions for a wreck at this depth. U-352 was sunk with 13 of her 48-man crew; she is designated a war grave.
+U-352 (Wrack) is a dive site in North Carolina featuring the wreck of the U-352 (Wrack). Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
 
 ## Site Information
 
-- **Location**: 26 miles south-southwest of Morehead City, off Cape Lookout, North Carolina
+- **Location**: North Carolina, North America
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 35 meters
-- **Conning Tower Depth**: ~27 meters (90 feet)
-- **Typical Visibility**: 15–30 meters (50–100 feet) — Gulf Stream influence
-- **Current**: Slight to moderate; can increase with Gulf Stream eddies
-- **Water Temperature**: 22–27°C (72–81°F) summer; cooler in spring and fall
-- **Best Season**: May to October
+- **Typical Visibility**: 5-25 meters (15-80 feet)
+- **Current**: Variable, can be strong
+- **Best Time**: June to October
 
 ## Marine Life
 
-The U-352 hosts an impressive array of marine life. Large schools of spadefish and amberjack are almost always present around the conning tower. Grouper and sea bass occupy every available crevice in the hull. Sand tiger sharks are frequently sighted, along with barracuda and large schools of blue runners. The sandy bottom around the stern often holds southern stingrays, and colorful encrusting sponges and corals cover most exposed metal surfaces, making the submarine look almost like a natural reef.
+Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
 
 ## Dive Profile
 
-Descend the mooring line to the conning tower area at around 27 meters, then explore forward to the bow and aft to the stern. The forward torpedo tubes are visible where the bow has cracked open. The deck gun forward of the conning tower is one of the most photogenic features. Aft, the propeller shafts and diving planes are clearly visible. Interior penetration is prohibited — the U-352 is a war grave protected under U.S. law. Recreational dive times at depth allow approximately 20–25 minutes of bottom time before ascent.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 35 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
-Charter boats depart from Beaufort Inlet and Morehead City. Olympus Dive Center and Discovery Diving Company are the primary operators for this site. The site has permanent moorings. Ascend the mooring line and deploy an SMB before the safety stop in case of current drift.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-- The U-352 is a war grave — penetration diving is strictly illegal and disrespectful
-- Bring a dive light to illuminate the torpedo tubes, deck gun, and conning tower details
-- A 5mm wetsuit is recommended even in summer; water temperature can drop at depth
-- Visibility is often best on an incoming tide; experienced local operators will know optimal timing
-- The relatively shallow conning tower allows generous bottom time compared to deeper NC wrecks
-- Book with Olympus Dive Center or Discovery Diving for experienced local knowledge
+- Bring a dive torch to illuminate wreck interiors and dark overhangs
+- Maintain proper buoyancy to avoid disturbing silt inside the wreck
+- Do not attempt penetration without proper training and equipment
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
 
 ## Safety Considerations
 
-Depth and Gulf Stream current are the primary hazards. Dive within your certification limits and monitor air carefully — the site is 35 miles offshore and emergency response takes time. Duke Dive Medicine in Morehead City is the closest recompression facility.
+Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-The conning tower is the signature shot: a wide-angle frame with divers silhouetted against the surface light captures the scale of the submarine. The forward torpedo tubes with exposed pressure hull make striking detail shots. Sand tiger sharks cruising over the bow provide dramatic foreground interest in wide-angle compositions.
+The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
 
 ## Additional Resources
 
-- **NOAA Monitor National Marine Sanctuary**: https://monitor.noaa.gov/shipwrecks/u-352.html
-- **Scuba Diving Magazine**: https://www.scubadiving.com/history-north-carolina-u-352-shipwreck
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*Researched from NOAA Monitor National Marine Sanctuary, Scuba Diving Magazine, and Underwater Journal. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

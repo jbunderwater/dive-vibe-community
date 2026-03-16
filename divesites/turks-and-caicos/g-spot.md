@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## G-Spot
 
-G-Spot at French Cay is a stunning wall dive with exceptional pelagic action and prolific sponge growth, named for its distinctive "G-shaped" wall configuration.
+G-Spot is a wall dive site in Turks and Caicos, Caribbean.
 
 ## Overview
 
-G-Spot is an absolutely stunning wall smothered in huge deep-water gorgonians, massive elephant ear sponges, and vast barrel sponges. The site gets its name from its unique geography—the wall dips south and then turns north, creating a shape that resembles the letter "G". The site begins on a plateau covered with soft coral formations and leads to a V-shaped wall drop-off. A small niche in the wall forms water eddies that concentrate nutrients, creating a field of black coral cascading down the wall. The mooring sits in about 50 feet of water, but the wall drops very fast.
+G-Spot is a dive site in Turks and Caicos featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: French Cay, Turks and Caicos
+- **Location**: Turks and Caicos, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Strong and variable (best on good weather days)
+- **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-A large population of nurse sharks may be snoozing or cruising the shallow reef top, and Caribbean reef sharks patrol the shallows. Reef sharks are present on the wall, and nurse sharks rest on the coral beds at 50 feet. Pelagics including jacks and trevally cruise through regularly. The abundance of soft corals and sponges creates a rich micro-habitat for small crustaceans and fish.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-25 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-30 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
@@ -53,7 +53,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -61,7 +61,7 @@ Wall dives offer stunning wide-angle opportunities with dramatic depth perspecti
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

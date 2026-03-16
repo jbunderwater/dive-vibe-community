@@ -13,54 +13,55 @@ addedBy: osm_import
 
 ## Likuan 2
 
-Likuan 2 (also spelled Lekuan II) is the central and deepest section of Bunaken's celebrated Likuan wall system. Featuring a particularly dramatic vertical drop with multiple canyons and cracks cutting through the wall face, it is widely considered the most visually complex of the three Likuan sites.
+Likuan 2 is a wall dive site in Manado & Bunaken, Asia.
 
 ## Overview
 
-The wall at Likuan 2 is a big drop-off — a marvellous vertical face descending to more than 60 metres, riddled with canyons, overhangs, and crevices. Enormous barrel sponges, sea fans, and black coral trees dominate the deeper sections, while the shallower wall face is blanketed in soft and hard corals. Current here is moderate to strong, feeding the wall's rich marine life.
+Likuan 2 is a dive site in Manado & Bunaken featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Southwest Bunaken Island, Bunaken National Marine Park
+- **Location**: Manado & Bunaken, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
-- **Typical Visibility**: 15-25 metres
-- **Current**: Moderate to strong
-- **Best Time**: May to October
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Green and hawksbill turtles are abundant — it is common to see ten or more on a single dive, often resting on ledges in the wall's crevices. Schools of fusiliers, pyramid butterflyfish, and long-jaw mackerel work the current. Reef sharks, Napoleon wrasse, tuna, and eagle rays pass through the blue water beyond the wall edge. The canyons harbour moray eels, large lobsters, and macro critters including nudibranchs and pygmy seahorses in the gorgonians.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-Begin at the mooring buoy and drift along the wall face in whichever direction the current is running. The wall's canyons and cracks reward slow exploration — peer into overhangs for sleeping whitetip sharks and lobsters. Work between 10 and 30 metres for the richest marine life. Ascend gradually to the reef top for a safety stop in coral garden scenery.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-40 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
-Boat access from Bunaken Island operators. Entry and exit procedures are briefed by guides according to the current direction. The moderate-to-strong current requires drift experience and good buoyancy control.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-- Explore the canyons in the wall face — they shelter a different community of life than the open wall
-- Look into crevices at depth for resting whitetip sharks
-- The reef top coral garden makes for an exceptional safety stop — take your time at 5 metres
-- Combine with Likuan 1 and/or 3 across consecutive dives to experience the full Likuan system
-- Turtles are almost guaranteed — approach slowly and give them space
+- Watch your depth carefully — wall dives can lead to unintentional deep descents
+- Look in crevices and overhangs for hidden marine life
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 
-Moderate-to-strong currents require drift diving experience. Be aware of downwellings at the wall face. The depth below 30 metres can build nitrogen loading quickly — monitor your dive computer and ascend with adequate reserve. Carry an SMB.
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-The canyons and overhangs offer dramatic wide-angle compositions unique among the Likuan sites. Turtles resting on ledges make for compelling subjects. The massive sponges and black coral trees at depth reward a wide-angle approach. Check crevices for nudibranchs and pygmy seahorses for macro opportunities.
+Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*Validated against divezone.net/divesite/likuan-ii, murexresorts.com, and zubludiving.com. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

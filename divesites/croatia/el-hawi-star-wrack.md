@@ -13,37 +13,30 @@ addedBy: osm_import
 
 ## El Hawi Star Wrack
 
-The El Hawi Star is a deep cargo ship wreck located off Rijeka in the northern Adriatic. This vessel sank unexpectedly due to weight distribution problems, creating a challenging technical dive site accessible only to experienced recreational and technical divers. The wreck offers an interesting study in recent maritime history and rapid colonization.
+El Hawi Star Wrack is a historic wreck dive in Croatia, Europe.
 
 ## Overview
 
-Originally launched in 1957 as the Valeria with a gross tonnage of 3,598 and length of 102 meters, the ship was renamed El Hawi Star. On the night of December 12, 1982, shortly after departing Rijeka, the vessel sank due to incorrect weight distribution—a catastrophic balance problem that caused the ship to go down rapidly. Two crew members jumped into the sea; one was rescued by eyewitnesses with their sons, the other swam to shore and was cared for by locals. In 2003, fishermen discovered oil leaking from the wreck, indicating cargo loss over time. The wreck lies at depths of 26-42 meters in the northern Adriatic.
+El Hawi Star Wrack is a dive site in Croatia featuring the wreck of the El Hawi Star Wrack. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
 
 ## Site Information
 
-- **Location**: Off Rijeka, Northern Adriatic
+- **Location**: Croatia, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
-- **Depth Range**: 26-42 meters
-- **Wreck Dimensions**: 102 meters long, 3,598 BRT
-- **Original Name**: Valeria (launched 1957)
-- **Typical Visibility**: 10-30 meters
-- **Current**: Moderate to strong
-- **Best Time**: June to September
-- **Special Conditions**: Deep, requires careful planning
+- **Maximum Depth**: 42 meters
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Light to moderate
+- **Best Time**: May to October
 
 ## Marine Life
 
-As a deeper wreck, the site hosts pelagic fish species along with conger eels and lobsters. Sponges and soft corals increasingly colonize the hull. The site represents a younger wreck with ongoing biological colonization processes.
+Divers at this site can expect to encounter conger eels, lobsters, crabs, anemones, coral encrustation, groupers, moray eels, octopus. Additional species commonly sighted include barracuda, sea bream, amberjack. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
 
 ## Dive Profile
 
-The depth range of 26-42 meters requires careful planning for bottom time and decompression management. Divers should plan conservative profiles. The wreck's structure provides interesting features for observation at the recreational depths (26-32m). More advanced technical divers may explore deeper sections. Current can vary; check conditions before diving.
-
-## Safety Considerations
-
-This is a deeper wreck dive. Ensure proper training and air management. The northern Adriatic can experience stronger currents. Check weather and sea conditions. Dive with experienced operators familiar with this site.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 42 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -60,7 +53,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -68,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

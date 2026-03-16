@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Twin Rocks
 
-Twin Rocks is the most demanded and appreciated dive site in Anilao, Philippines, renowned among underwater photographers for its macro opportunities and marine sanctuary status.
+Twin Rocks is a reef dive site in Philippines Anilao, Asia.
 
 ## Overview
 
-Twin Rocks consists of two rocks separated by one meter at approximately 15 meters depth, with a capsized barge on the seabed nearby. The rocks are covered with soft corals, fire corals, and big sea fans. The site receives special protection as a marine sanctuary where fishing is prohibited. Access takes longer than local sites (45-60 minutes depending on location), but the rich biodiversity makes it worthwhile. The site is perfect for macro photography with abundant critter diversity.
+Twin Rocks is a dive site in Philippines Anilao offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Mabini, Anilao, Batangas
+- **Location**: Philippines Anilao, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
@@ -32,11 +32,11 @@ Twin Rocks consists of two rocks separated by one meter at approximately 15 mete
 
 ## Marine Life
 
-Twin Rocks features ribbon eels, schools of carangidae, countless nudibranchs, clownfish, surgeonfish, lionfish, damsels, barracuda schools, mantis shrimps, Coleman shrimps, porcelain crabs, and rabbitfish. The site houses two resident sea turtles and is frequented by many others. The abundant sea corals support exceptional biodiversity, making it ideal for critter hunters and macro photographers.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

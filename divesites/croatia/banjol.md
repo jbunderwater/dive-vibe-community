@@ -13,31 +13,30 @@ addedBy: osm_import
 
 ## Banjol
 
-Banjol is one of the most beautiful and celebrated cave diving sites in the Adriatic Sea. Located on the island of Rovinj in Istria, this complex features three interconnected underwater caves with vibrant colors, diverse marine life, and accessible cave entrances suitable for divers of various experience levels.
+Banjol is a cave dive site in Croatia, Europe.
 
 ## Overview
 
-The Banjole cave complex consists of three connected caves, all accessible from the western side of the Banjole island. The main cave entrance is located at approximately 5 meters depth, leading to a colorful underwater corridor. The site is famous for its brilliant colors created by yellow sponges, red and pale blue sea fans, brown corals, purple sea anemones, and vibrant algae. The cave system reaches depths of 26-37 meters in the largest chamber. This is one of the most biologically diverse cave sites in the Adriatic, with exceptional marine life colonization.
+Banjol is a dive site in Croatia featuring underwater cave and cavern formations. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
 
 ## Site Information
 
-- **Location**: Banjole Island, Rovinj, Istria (central Adriatic)
+- **Location**: Croatia, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/cavern
+- **Site Type**: Cave/Cavern
 - **Difficulty Level**: Intermediate
-- **Depth Range**: Entrance 5m, larger chamber 26-37 meters
-- **Typical Visibility**: 15-30 meters
-- **Current**: Light
-- **Best Time**: May to September
-- **Suitability**: All experience levels (with proper guidance)
+- **Maximum Depth**: 15 meters
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Light to moderate
+- **Best Time**: May to October
 
 ## Marine Life
 
-Spectacular sponge gardens in bright yellows, reds, and pale blues frame the cave entrance. Purple sea anemones, brown corals, and vibrant algae create a rainbow of colors. Fish schools inhabit the interior chambers and entrance areas. The cave's low-light environment supports unique species adapted to cave conditions. This site is one of the richest in terms of visual biodiversity in the Adriatic.
+Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -60,8 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Website**: http://www.dive-links.com/tauchplatz.php?id=521
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

@@ -13,32 +13,30 @@ addedBy: osm_import
 
 ## MuMart (museo sommerso)
 
-MuMart (museo sommerso) is an underwater art museum and unique dive site off Golfo Aranci in northeastern Sardinia.
+MuMart (museo sommerso) is a reef dive site in Sardinia, Europe.
 
 ## Overview
 
-MuMart is Italy's only underwater art museum, officially inaugurated in July 2013. Modern artworks by 14 international artists are anchored on the white sandy seabed, accessible to divers and snorkelers. The site offers shallow, beginner-friendly diving with excellent visibility in calm, sheltered waters.
+MuMart (museo sommerso) is a dive site in Sardinia offering excellent diving on healthy coral reef structures . Underwater art museum with contemporary sculptures anchored on sandy seabed. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
 
 ## Site Information
 
-- **Location**: Golfo Aranci, northeastern Sardinia
+- **Location**: Sardinia, Europe
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Depth Range**: 4-7 meters
 - **Maximum Depth**: 6 meters
-- **Typical Visibility**: 15-30 meters (summer)
-- **Water Temperature**: 18-24°C (May-October)
-- **Current**: Minimal (sheltered bay)
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Light to moderate
 - **Best Time**: May to October
 
 ## Marine Life
 
-Shallow waters support small fish species, nudibranchs, sea urchins, and summer visibility of schooling bream and other Mediterranean species. The sandy seabed is relatively sparse in marine life but provides an excellent introduction to the Italian underwater art collection.
+Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
 
 ## Dive Profile
 
-This is a very shallow dive suited for beginners and snorkelers. Maximum depth of 6 meters means safe bottom time for recreational divers. Position yourself among the art installations, photograph the sculptures, and explore at a leisurely pace. The sheltered bay with minimal currents makes this an ideal introduction to Sardinian diving.
+The site offers diving at depths ranging from shallow reef areas down to approximately 6 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-6 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -46,6 +44,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
+- Excellent site for newer divers — calm conditions and easy navigation
 - Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
@@ -61,8 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Website**: https://www.golfoaranciturismo.it/arte-e-cultura/il-mumart/
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

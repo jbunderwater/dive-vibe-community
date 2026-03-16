@@ -13,51 +13,45 @@ addedBy: osm_import
 
 ## Stamsund Kelp Forest
 
-Stamsund Kelp Forest is a shore-accessible kelp forest dive near the village of Stamsund. This scenic shallow site provides excellent access to Lofoten's signature kelp forest ecosystems and is ideal for building cold-water skills.
+Stamsund Kelp Forest is a reef dive site in Norway Lofoten Islands, Europe.
 
 ## Overview
 
-Stamsund Kelp Forest is a protected shore dive featuring lush kelp forest habitat from 2-14 meters depth. The site is dominated by Tangle Kelp (Laminaria hyperborean) forest creating an underwater woodland environment. Visibility typically ranges 10-20 meters, with water temperatures between 10-15°C in summer and 0-3°C in winter. The gentle shore entry, shallow depths, and protected conditions make this suitable for beginner and intermediate divers building cold-water experience and kelp-diving skills.
+Stamsund Kelp Forest is a dive site in Norway Lofoten Islands offering excellent diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
 
 ## Site Information
 
-- **Location**: Stamsund village, Vestvagøy, Lofoten Islands, Arctic Norway
+- **Location**: Norway Lofoten Islands, Europe
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 14 meters
-- **Depth Range**: 2-14 meters
-- **Typical Visibility**: 10-20 meters
-- **Water Temperature**: 0-15°C (seasonal)
-- **Current**: Light
-- **Best Time**: May to October (autumn richest for marine activity)
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Light to moderate
+- **Best Time**: May to October
 
 ## Marine Life
 
-The kelp forest is the primary attraction, featuring Tangle Kelp (Laminaria hyperborean) creating forest columns with 1-2 meter stalks. Marine life includes starfish, sea urchins, crabs, cold-water fish, and abundant small crustaceans and invertebrates. Macro opportunities are exceptional throughout the kelp forest. Schools of fish dart between fronds. Seals occasionally visit the shallow waters. Autumn months bring peak marine activity.
+Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
 
 ## Dive Profile
 
-Enter from rocky shore and descend into kelp forest at 2-3 meters depth. Weave through kelp fronds, observing attached organisms and mobile fauna. Explore to maximum 14 meters depth as desired. Navigate slowly through forest, respecting vegetation. The topography is gentle with excellent visibility within the kelp columns. Plan appropriate safety stops. Ascend slowly, being mindful of kelp during final stages of dive.
+The site offers diving at depths ranging from shallow reef areas down to approximately 14 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-14 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
-Enter from rocky shore near Stamsund village. Check conditions before entry. Carefully approach water and descend into kelp. Exit at same location, being mindful of overhead kelp during final ascent. Be aware of surge near shore.
+Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
 
 ## Tips and Recommendations
 
-- Ideal for practicing cold-water skills and kelp forest navigation
-- Excellent for newer divers—shallow depths and calm conditions
-- Bring macro lens for exceptional small organism photography
-- Bring a dive torch to see colors and detail in shadows
-- Wear thermal protection; water is consistently cold despite shallow depth
-- Visit autumn (September-October) for richest marine activity and best visibility
-- Visit during summer (May-August) for warmer water temperatures
-- Plan multiple dives at different times to fully experience the ecosystem
+- Excellent site for newer divers — calm conditions and easy navigation
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 
-Cold water requires thermal protection even in shallow depths. Kelp requires excellent buoyancy control—avoid excessive finning through fronds. Enter and exit carefully during surge. Always dive with a buddy. Maintain awareness of light reduction in dense kelp. Respect the fragile kelp forest ecosystem.
+Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -65,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

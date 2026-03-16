@@ -13,17 +13,17 @@ addedBy: osm_import
 
 ## Shark Alley Gansbaai
 
-Shark Alley is a world-famous great white shark cage diving location located in a 150-meter wide channel between Geyser Rock and Dyer Island near Gansbaai, Western Cape. Located just 2 hours from Cape Town and only 12 kilometers from the coastal village of Gansbaai, this destination attracts thousands of divers annually seeking encounters with the ocean's apex predators.
+Shark Alley Gansbaai is a beach dive site in South Africa, Africa.
 
 ## Overview
 
-Shark Alley offers a unique diving experience quite different from traditional scuba: divers descend in protective underwater cages where they observe great white sharks at very close range. Most of the diving experience occurs at near-surface depths with the cage positioned just below the waterline. Divers maintain mostly surface-level positioning, holding their breath for brief moments to observe sharks passing by the cage.
+Shark Alley Gansbaai is a dive site in South Africa offering excellent diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
 
 ## Site Information
 
 - **Location**: South Africa, Africa
 - **Entry Type**: Boat dive
-- **Site Type**: Beach dive
+- **Site Type**: Beach
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 8 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)
@@ -32,11 +32,11 @@ Shark Alley offers a unique diving experience quite different from traditional s
 
 ## Marine Life
 
-Shark Alley's primary attraction is the resident population of great white sharks, which prey on the approximately 60,000 Cape Fur Seals breeding on Geyser Rock. Great white sharks are the dominant predator, with multiple sightings common per excursion. The location's high shark concentration is due to the abundant seal prey base, making it one of the most reliable great white shark encounter locations globally.
+Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 8 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-8 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -44,6 +44,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
+- Excellent site for newer divers — calm conditions and easy navigation
 - Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
@@ -60,7 +61,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

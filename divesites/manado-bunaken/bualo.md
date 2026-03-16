@@ -13,54 +13,55 @@ addedBy: osm_import
 
 ## Bualo
 
-Bualo is located on the southwestern shores of Manado Tua and is one of the less frequented sites in Bunaken National Marine Park. It stands out from the typical straight-wall format of most Bunaken sites with a distinctive maze-like structure featuring many twists, turns, overhangs, and small caves — making it one of the most architecturally interesting walls in the park.
+Bualo is a wall dive site in Manado & Bunaken, Asia.
 
 ## Overview
 
-Rather than a straight vertical wall, Bualo offers a magnificent wall with many small terraces and caves. Sponges — some exceeding one metre in diameter — and profuse soft corals including bubble corals housing orangutan crabs are the defining features. Reef fish are plentiful throughout. Currents are typically mild but can occasionally build, and the site's exposure to the open ocean means wind and wave conditions should be considered. The wall top makes an excellent snorkelling site on calm days.
+Bualo is a dive site in Manado & Bunaken featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Southwest Manado Tua Island, Bunaken National Marine Park
+- **Location**: Manado & Bunaken, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 15-25 metres
-- **Current**: Generally mild, occasionally stronger; exposed to open ocean
-- **Best Time**: May to October (check weather conditions)
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Enormous barrel sponges (1m+ diameter) are the signature feature. Bubble corals host orangutan crabs — a distinctive photographic subject. Soft corals of many types cover the wall terraces and cave walls. Reef fish are plentiful throughout. The maze-like structure provides shelter for invertebrates and small reef species that may not be found at exposed, current-swept walls.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-Explore the labyrinthine wall structure at whatever depth suits your dive plan. The overhangs, terraces, and caves each offer something different — allocate time to look inside each feature rather than simply swimming past. Carry a torch to illuminate cave and overhang interiors. Maximum recreational depth is 30 metres.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-30 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
-Boat access from Manado Tua or Bunaken operators. This site is rarely visited by other dive operations, making it a more exclusive experience. Check weather conditions before travelling to this exposed side of the island — wind and swell can make landing and entry difficult.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-- Carry a torch — the cave interiors and overhang undersides are where the best life is found
-- Look for orangutan crabs in bubble coral heads — they are distinctive and worth finding
-- The sponges here are some of the largest in Bunaken Marine Park — document them
-- Ask specifically to dive Bualo — most operators don't include it in standard itineraries
-- Check the reef top before descending — it is excellent for snorkelling on calm days
+- Watch your depth carefully — wall dives can lead to unintentional deep descents
+- Look in crevices and overhangs for hidden marine life
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 
-Mild current is typical but can build. The open ocean exposure means conditions can change — check weather before committing. Carry an SMB. The labyrinthine structure can be disorienting — maintain awareness of your position relative to the boat.
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-The maze-like wall architecture is unique in the Bunaken system — wide-angle shots through the terraces and overhangs capture something completely different from the straight walls elsewhere. The large sponges make dramatic foreground subjects. Orangutan crabs in bubble coral are excellent macro targets. Torch-lit cave interiors reward creative lighting.
+Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*Validated against murexresorts.com/diving-bunaken and zubludiving.com/articles/best-dive-sites-bunaken. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

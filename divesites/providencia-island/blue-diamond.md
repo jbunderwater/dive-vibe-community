@@ -13,17 +13,17 @@ addedBy: osm_import
 
 ## Blue Diamond
 
-Blue Diamond is a wall dive site in Providencia Island, Caribbean.
+Blue Diamond is a historic wreck dive in Providencia Island, Caribbean.
 
 ## Overview
 
-Blue Diamond is a sunken shipwreck near the coast of Providencia, accessible by boat from local operators. This wreck dive features fish and corals that have colonized the ship's structure over time, creating a unique underwater habitat within Providencia's pristine marine protected area.
+Blue Diamond is a dive site in Providencia Island featuring the wreck of the Blue Diamond. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
 - **Location**: Providencia Island, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 24 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
@@ -32,11 +32,11 @@ Blue Diamond is a sunken shipwreck near the coast of Providencia, accessible by 
 
 ## Marine Life
 
-Common sightings include boxfish, pufferfish, parrotfish, moray eel, angelfish (including Queen Angelfish and Blue Angelfish), and numerous reef fish species that have colonized the wreck structure.
+Divers at this site can expect to encounter groupers, snappers, soldierfish, glassy sweepers, coral growth, sponge encrustation, sea turtles (green, hawksbill), southern stingrays. Additional species commonly sighted include eagle rays, nurse sharks, reef sharks, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
 
 ## Dive Profile
 
-The wreck is located at shallow depths accessible from the surface. Explore the ship's structure carefully, observing how coral and fish have colonized the wreck. Maintain good buoyancy control to avoid damaging the wreck structure and protective corals. PADI Wreck Diver certification is recommended for detailed wreck penetration.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 24 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -44,12 +44,12 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
+- Bring a dive torch to illuminate wreck interiors and dark overhangs
+- Maintain proper buoyancy to avoid disturbing silt inside the wreck
+- Do not attempt penetration without proper training and equipment
 - Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 
@@ -57,11 +57,11 @@ Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

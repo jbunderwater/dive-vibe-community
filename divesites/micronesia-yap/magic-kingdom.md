@@ -17,7 +17,7 @@ Magic Kingdom is a reef dive site in Micronesia - Yap, Pacific.
 
 ## Overview
 
-Magic Kingdom is a gradually sloping reef dive site that showcases Yap's coral recovery and resilience. Once considered one of Micronesia's most beautiful diving jewels with extensive staghorn and lettuce coral formations, the reef was severely damaged by a typhoon in November 1992. Today, the site demonstrates impressive coral recovery with the destroyed coral formations now providing shelter for abundant fish populations including schooling jacks and barracudas in the hundreds. This site offers good pelagic activity and an opportunity to see coral regrowth in action.
+Magic Kingdom is a dive site in Micronesia - Yap offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
@@ -26,19 +26,17 @@ Magic Kingdom is a gradually sloping reef dive site that showcases Yap's coral r
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Depth Range**: 5-30 meters (gradual slope)
-- **Typical Visibility**: Good to excellent
-- **Current**: Mild to moderate
-- **Best Time**: Year-round
-- **History**: Typhoon damage (Nov 1992), recovery ongoing
+- **Typical Visibility**: 20-50 meters (65-160 feet)
+- **Current**: Moderate to strong
+- **Best Time**: April to November
 
 ## Marine Life
 
-Magic Kingdom features large schooling fish including jacks and barracudas in the hundreds. Grey and white-tip reef sharks are common. The recovering coral formations—much regenerated since 1992—attract juvenile pelagics that shelter in the broken formations. The damaged coral structure, while less visually pristine than pre-1992 conditions, now creates an exceptionally diverse habitat supporting high fish biomass.
+Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
 
 ## Dive Profile
 
-Begin your descent on the sloping reef from 5 meters. The reef gradually descends to 30 meters, offering a leisurely dive profile. Most of the action occurs in mid-water as schools of jacks and barracudas patrol the slope. The damaged coral provides dramatic topography and habitat. This is an excellent drift dive for observing pelagic activity and understanding reef recovery dynamics.
+The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -46,7 +44,6 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
 - Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
@@ -63,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

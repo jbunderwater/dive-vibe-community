@@ -5,15 +5,18 @@
     "lon": -70.7829233,
     "osm_id": 4966629820,
     "osm_type": "node",
-    "depth": null,
+    "depth": 2,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": "Intermediate",
+    "entry_type": "beach",
+    "difficulty": "Beginner",
     "tags": {
       "historic": "wreck",
       "name": "Ada K. Damon",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "perplexity",
+      "notes": "Intertidal wreck visible at low tide on Crane Beach, Ipswich. Archaeological site more than diving destination."
     }
   },
   {
@@ -22,9 +25,9 @@
     "lon": -70.7789613,
     "osm_id": 5264599976,
     "osm_type": "node",
-    "depth": null,
+    "depth": 15,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Godfrey's Ledge",
@@ -32,7 +35,10 @@
       "reef": "rock",
       "surface": "unpaved",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "perplexity",
+      "notes": "Rocky ledge off Cape Ann with kelp and rock habitat. Tautog, lobster, and other temperate species."
     }
   },
   {
@@ -41,9 +47,9 @@
     "lon": -70.9432337,
     "osm_id": 6566512233,
     "osm_type": "node",
-    "depth": null,
+    "depth": 25,
     "site_type": "wreck",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "historic": "wreck",
@@ -51,7 +57,10 @@
       "seamark:type": "wreck",
       "wreck:date_sunk": "1924-08-26",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "perplexity",
+      "notes": "Wreck site off Rhode Island. Cold water, temperate conditions."
     }
   },
   {
@@ -60,9 +69,9 @@
     "lon": -70.0428526,
     "osm_id": 7918973462,
     "osm_type": "node",
-    "depth": null,
+    "depth": 30,
     "site_type": "wreck",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "access": "no",
@@ -76,7 +85,10 @@
       "wreck:visible_at_high_tide": "no",
       "wreck:visible_at_low_tide": "yes",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "perplexity",
+      "notes": "WWII-era wreck marked as dangerous. Limited access."
     }
   },
   {
@@ -85,9 +97,9 @@
     "lon": -71.9279169,
     "osm_id": 8584836255,
     "osm_type": "node",
-    "depth": null,
+    "depth": 12,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "ele": "0",
@@ -95,7 +107,10 @@
       "name": "Latimer Reef",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "perplexity",
+      "notes": "Shallow rocky reef off Rhode Island. Rock structures with kelp and marine life."
     }
   },
   {
@@ -104,9 +119,9 @@
     "lon": -70.5874731,
     "osm_id": 9525654150,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "ele": "0",
@@ -118,7 +133,10 @@
       "seamark:rock:water_level": "submerged",
       "seamark:type": "rock",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "perplexity",
+      "notes": "Fully submerged rock ledge off Cape Ann. Tautog habitat with rocky structures."
     }
   },
   {
@@ -127,9 +145,9 @@
     "lon": -69.9625855,
     "osm_id": 10995111387,
     "osm_type": "node",
-    "depth": null,
+    "depth": 11,
     "site_type": "wreck",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "historic": "wreck",
@@ -139,7 +157,10 @@
       "wreck:visible_at_high_tide": "no",
       "wreck:visible_at_low_tide": "no",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "perplexity",
+      "notes": "T2 tanker broke in half during nor'easter off Monomoy Island. Scattered hull sections in 30-40 feet water. Cold water, strong currents in slack tide."
     }
   },
   {
@@ -148,10 +169,10 @@
     "lon": -70.0850436,
     "osm_id": 10996436258,
     "osm_type": "node",
-    "depth": null,
+    "depth": 3,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": "Intermediate",
+    "entry_type": "beach",
+    "difficulty": "Beginner",
     "tags": {
       "historic": "wreck",
       "name": "Frances",
@@ -159,7 +180,10 @@
       "wreck:date_sunk": "1872-12-27",
       "wreck:type": "ship",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "perplexity",
+      "notes": "Historic ship wreck visible at low tide at Head of the Meadow Beach, North Truro. Intertidal wreck site, archaeological interest."
     }
   },
   {
@@ -168,9 +192,9 @@
     "lon": -70.8777778,
     "osm_id": 11980577311,
     "osm_type": "node",
-    "depth": null,
+    "depth": 17,
     "site_type": "wreck",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "access": "yes",
@@ -180,7 +204,10 @@
       "seamark:wreck:category": "distributed_remains",
       "wreck:date_sunk": "1908",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "perplexity",
+      "notes": "Auxiliary cruiser sunk 1908, Buzzards Bay. Scattered hull sections, anchor hawse and rudderpost identifiable. 55 feet depth, 5 feet visibility, swift currents."
     }
   },
   {
@@ -189,9 +216,9 @@
     "lon": -70.5745277,
     "osm_id": 12077564743,
     "osm_type": "node",
-    "depth": null,
+    "depth": 20,
     "site_type": "wreck",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "description": "WWII US Navy minesweeper ran aground on reef and destroyed",
@@ -202,7 +229,10 @@
       "wikipedia": "en:USS Grouse (AMS-15)",
       "wreck:date_sunk": "21 September 1963",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "perplexity",
+      "notes": "US Navy minesweeper ran aground on Graves Ledge, destroyed 1963. Historic wreck site."
     }
   },
   {
@@ -211,9 +241,9 @@
     "lon": -70.5723291,
     "osm_id": 12077564744,
     "osm_type": "node",
-    "depth": null,
+    "depth": 20,
     "site_type": "wreck",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "historic": "wreck",
@@ -221,7 +251,10 @@
       "seamark:type": "wreck",
       "source": "osm_extended",
       "wreck:date_sunk": "15 September 1955",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "perplexity",
+      "notes": "Historic wreck off Graves Ledge near USS Grouse. Cold water wreck site."
     }
   },
   {
@@ -230,9 +263,9 @@
     "lon": -70.5842758,
     "osm_id": 12077564745,
     "osm_type": "node",
-    "depth": null,
+    "depth": 21,
     "site_type": "wreck",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "historic": "wreck",
@@ -240,7 +273,10 @@
       "seamark:type": "wreck",
       "wreck:date_sunk": "1946",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "perplexity",
+      "notes": "Historic wreck near Graves Ledge, sunk 1946. New England wreck site."
     }
   },
   {
@@ -249,15 +285,18 @@
     "lon": -71.420037,
     "osm_id": 12996047689,
     "osm_type": "node",
-    "depth": null,
+    "depth": 14,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "The Clump",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "perplexity",
+      "notes": "Rocky reef, temperate waters"
     }
   },
   {
@@ -266,16 +305,19 @@
     "lon": -70.5987139,
     "osm_id": 82311066,
     "osm_type": "way",
-    "depth": null,
+    "depth": 15,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Cedar Island Ledge",
       "natural": "reef",
       "note": "Submerged at high tide.",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "perplexity",
+      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
     }
   },
   {
@@ -284,9 +326,9 @@
     "lon": -70.8258141,
     "osm_id": 266696959,
     "osm_type": "way",
-    "depth": null,
+    "depth": 10,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "area": "yes",
@@ -302,7 +344,10 @@
       "seamark:type": "rock",
       "source": "osm_extended",
       "tidal": "yes",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "perplexity",
+      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
     }
   },
   {
@@ -311,9 +356,9 @@
     "lon": -70.8011882,
     "osm_id": 293601453,
     "osm_type": "way",
-    "depth": null,
+    "depth": 10,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "hazzard": "yes",
@@ -325,7 +370,10 @@
       "source": "osm_extended",
       "source_ref": "survey",
       "tidal": "yes",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "perplexity",
+      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
     }
   },
   {
@@ -334,9 +382,9 @@
     "lon": -70.8584844,
     "osm_id": 322041507,
     "osm_type": "way",
-    "depth": null,
+    "depth": 10,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "alt_name": "Gangway Rock",
@@ -352,7 +400,10 @@
       "seamark:type": "rock",
       "source": "osm_extended",
       "tidal": "yes",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "perplexity",
+      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
     }
   },
   {
@@ -361,9 +412,9 @@
     "lon": -70.7594461,
     "osm_id": 365015706,
     "osm_type": "way",
-    "depth": null,
+    "depth": 10,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Bar Rock",
@@ -375,7 +426,10 @@
       "seamark:type": "rock",
       "source": "osm_extended",
       "tidal": "no",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "perplexity",
+      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
     }
   },
   {
@@ -384,9 +438,9 @@
     "lon": -70.7835881,
     "osm_id": 441445427,
     "osm_type": "way",
-    "depth": null,
+    "depth": 18,
     "site_type": "wreck",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "ele": "0",
@@ -401,7 +455,9 @@
       "source": "osm_extended",
       "surface": "rock",
       "tidal": "yes",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -410,9 +466,9 @@
     "lon": -70.8200078,
     "osm_id": 540116955,
     "osm_type": "way",
-    "depth": null,
+    "depth": 10,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "disused": "yes",
@@ -428,7 +484,10 @@
       "source": "osm_extended",
       "start_date": "1883",
       "tidal": "yes",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "perplexity",
+      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
     }
   },
   {
@@ -437,9 +496,9 @@
     "lon": -70.8274091,
     "osm_id": 551978868,
     "osm_type": "way",
-    "depth": null,
+    "depth": 10,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Black Rocks",
@@ -451,7 +510,10 @@
       "seamark:type": "rock",
       "tidal": "yes",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "perplexity",
+      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
     }
   },
   {
@@ -460,9 +522,9 @@
     "lon": -70.8654885,
     "osm_id": 552655591,
     "osm_type": "way",
-    "depth": null,
+    "depth": 10,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "ele": "0",
@@ -473,7 +535,10 @@
       "seamark:type": "rock",
       "source": "osm_extended",
       "tidal": "yes",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "perplexity",
+      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
     }
   },
   {
@@ -482,9 +547,9 @@
     "lon": -70.835417,
     "osm_id": 556854518,
     "osm_type": "way",
-    "depth": null,
+    "depth": 10,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "alt_name": "Lunts Rock",
@@ -499,7 +564,10 @@
       "seamark:type": "rock",
       "source": "osm_extended",
       "tidal": "yes",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "perplexity",
+      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
     }
   },
   {
@@ -508,9 +576,9 @@
     "lon": -70.8575009,
     "osm_id": 560790775,
     "osm_type": "way",
-    "depth": null,
+    "depth": 10,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "hazard": "yes",
@@ -521,7 +589,10 @@
       "seamark:type": "rock",
       "source": "osm_extended",
       "tidal": "no",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "perplexity",
+      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
     }
   },
   {
@@ -530,9 +601,9 @@
     "lon": -70.8225862,
     "osm_id": 561068596,
     "osm_type": "way",
-    "depth": null,
+    "depth": 10,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "gnis:feature_id": "613629",
@@ -546,7 +617,10 @@
       "tidal": "yes",
       "wikidata": "Q4840869",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "perplexity",
+      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
     }
   },
   {
@@ -555,15 +629,18 @@
     "lon": -71.8635249,
     "osm_id": 803747664,
     "osm_type": "way",
-    "depth": null,
+    "depth": 14,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Watch Hill Reef",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "perplexity",
+      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
     }
   },
   {
@@ -572,15 +649,18 @@
     "lon": -71.8828556,
     "osm_id": 803747665,
     "osm_type": "way",
-    "depth": null,
+    "depth": 15,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Catumb Rocks",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "perplexity",
+      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
     }
   },
   {
@@ -589,9 +669,9 @@
     "lon": -71.9918579,
     "osm_id": 803747675,
     "osm_type": "way",
-    "depth": null,
+    "depth": 15,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Planet Rock",
@@ -599,7 +679,10 @@
       "seamark:sea_area:category": "reef",
       "seamark:type": "sea_area",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "perplexity",
+      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
     }
   },
   {
@@ -608,15 +691,18 @@
     "lon": -71.9520324,
     "osm_id": 803747681,
     "osm_type": "way",
-    "depth": null,
+    "depth": 14,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Cormorant Reef",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "perplexity",
+      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
     }
   },
   {
@@ -625,15 +711,18 @@
     "lon": -70.7718981,
     "osm_id": 816347617,
     "osm_type": "way",
-    "depth": null,
+    "depth": 14,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Inner Breakers",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "perplexity",
+      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
     }
   },
   {
@@ -642,15 +731,18 @@
     "lon": -70.8453155,
     "osm_id": 816347618,
     "osm_type": "way",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Three and One-half Fathom Ledge",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "perplexity",
+      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
     }
   },
   {
@@ -659,15 +751,18 @@
     "lon": -70.8588982,
     "osm_id": 816347619,
     "osm_type": "way",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Martin Ledge",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "perplexity",
+      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
     }
   },
   {
@@ -676,15 +771,18 @@
     "lon": -70.8690155,
     "osm_id": 816347620,
     "osm_type": "way",
-    "depth": null,
+    "depth": 15,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Tewksbury Rock",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "perplexity",
+      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
     }
   },
   {
@@ -693,15 +791,18 @@
     "lon": -70.8659148,
     "osm_id": 816347621,
     "osm_type": "way",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Utonia Ledge",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "perplexity",
+      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
     }
   },
   {
@@ -710,15 +811,18 @@
     "lon": -70.8476973,
     "osm_id": 816347622,
     "osm_type": "way",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Harding Ledge",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "perplexity",
+      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
     }
   },
   {
@@ -727,15 +831,18 @@
     "lon": -70.7630361,
     "osm_id": 816347623,
     "osm_type": "way",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Enos Ledge",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "perplexity",
+      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
     }
   },
   {
@@ -744,15 +851,18 @@
     "lon": -70.7586694,
     "osm_id": 816347624,
     "osm_type": "way",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Minots Ledge",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "perplexity",
+      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
     }
   },
   {
@@ -761,15 +871,18 @@
     "lon": -70.7509661,
     "osm_id": 816347625,
     "osm_type": "way",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Davis Ledge",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "perplexity",
+      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
     }
   },
   {
@@ -778,15 +891,18 @@
     "lon": -70.7612175,
     "osm_id": 816347626,
     "osm_type": "way",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Tobias Ledge",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "perplexity",
+      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
     }
   },
   {
@@ -795,15 +911,18 @@
     "lon": -70.7536027,
     "osm_id": 816347627,
     "osm_type": "way",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Mikes Ledge",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "perplexity",
+      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
     }
   },
   {
@@ -812,9 +931,9 @@
     "lon": -70.680557,
     "osm_id": 974080147,
     "osm_type": "way",
-    "depth": null,
+    "depth": 15,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "ele": "0",
@@ -823,7 +942,10 @@
       "natural": "reef",
       "note": "island not visible on any imagery, only at some places",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "perplexity",
+      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
     }
   },
   {
@@ -832,9 +954,9 @@
     "lon": -70.8623613,
     "osm_id": 1030215774,
     "osm_type": "way",
-    "depth": null,
+    "depth": 15,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "area": "yes",
@@ -844,7 +966,10 @@
       "natural": "reef",
       "reef": "rock",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "perplexity",
+      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
     }
   },
   {
@@ -853,9 +978,9 @@
     "lon": -70.852879,
     "osm_id": 1030215775,
     "osm_type": "way",
-    "depth": null,
+    "depth": 14,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "area": "yes",
@@ -865,7 +990,10 @@
       "natural": "reef",
       "reef": "rock",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "perplexity",
+      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
     }
   },
   {
@@ -874,9 +1002,9 @@
     "lon": -70.8716986,
     "osm_id": 1030242408,
     "osm_type": "way",
-    "depth": null,
+    "depth": 14,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "heritage": "2",
@@ -895,7 +1023,10 @@
       "seamark:type": "obstruction",
       "start_date": "1765",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "perplexity",
+      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
     }
   },
   {
@@ -904,10 +1035,10 @@
     "lon": -71.1784689,
     "osm_id": 1304169108,
     "osm_type": "way",
-    "depth": null,
+    "depth": 4,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": "Intermediate",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "access": "yes",
       "description": "1890s cargo steamship that was abandoned and left to sink",
@@ -920,7 +1051,10 @@
       "wreck:date_sunk": "circa 1930",
       "wreck:visible_at_low_tide": "yes",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "perplexity",
+      "notes": "Fall River Line freight steamship, Brayton Point Somerset MA. Visible at low tide on Mount Hope Bay, shallow water access."
     }
   },
   {
@@ -929,9 +1063,9 @@
     "lon": -71.3932944,
     "osm_id": 1304349266,
     "osm_type": "way",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Green Jacket Shoal",
@@ -940,7 +1074,10 @@
       "wikidata": "Q27724573",
       "wikipedia": "en:Green Jacket Shoal",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "perplexity",
+      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
     }
   },
   {
@@ -949,9 +1086,9 @@
     "lon": -71.8649195,
     "osm_id": 1341965143,
     "osm_type": "way",
-    "depth": null,
+    "depth": 15,
     "site_type": "reef",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "ele": "0",
@@ -960,7 +1097,10 @@
       "natural": "reef",
       "wikidata": "Q31828706",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "perplexity",
+      "notes": "New England rock reef/ledge, cold water, temperate species (tautog, lobster, kelp)"
     }
   },
   {
@@ -969,15 +1109,18 @@
     "lon": -71.3583688,
     "osm_id": 1414289712,
     "osm_type": "way",
-    "depth": null,
-    "site_type": "reef",
-    "entry_type": null,
-    "difficulty": "Intermediate",
+    "depth": 55,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Brenton Reef",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "perplexity",
+      "notes": "LV39 Lightship wreck, 180 feet depth. Advanced dive only. Wooden vessel, upright position with 20-25 feet relief. Accessible to lower decks."
     }
   }
 ]

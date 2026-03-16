@@ -13,31 +13,30 @@ addedBy: osm_import
 
 ## Mill Channel new cleaning station
 
-Mill Channel new cleaning station is a reef dive site in Micronesia - Yap, Pacific.
+Mill Channel new cleaning station is a drift dive site in Micronesia - Yap, Pacific.
 
 ## Overview
 
-Mill Channel new cleaning station is one of Yap's most famous manta ray dive sites, part of the legendary M'il Channel on the west coast. This drift dive takes you through a shallow manta cleaning station where resident manta rays come daily to feed and be cleaned by small fish. The channel is known as the "Grand Canyon of the Pacific" for its soft coral formations and is particularly productive during the manta season from November through May.
+Mill Channel new cleaning station is a dive site in Micronesia - Yap offering excellent diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
 - **Location**: Micronesia - Yap, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Drift dive
+- **Site Type**: Drift
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 10 meters
-- **Typical Visibility**: 15-18 meters (50-60 feet)
-- **Current**: Mild to moderate drift
-- **Best Time**: November to May (prime manta season)
-- **Season Notes**: Mantas switch to Goofnuw Channel (east side) May-September
+- **Typical Visibility**: 20-50 meters (65-160 feet)
+- **Current**: Moderate to strong
+- **Best Time**: April to November
 
 ## Marine Life
 
-This site is famous for close encounters with manta rays (up to 4 meters wide), which visit the cleaning station at tidal changes. The reef features abundant soft corals and is a productive feeding area for rays that hunt in open water. Coral formations provide habitat for reef fish including snappers and fusiliers.
+Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
 
 ## Dive Profile
 
-The site is done as a static or drifting dive at the cleaning station. Divers typically position themselves at 8-12 meters and watch as mantas approach to be cleaned. The dive is gentle with minimal current at the cleaning blocks. Most action occurs around the coral formations at 10-12 meters. This is an ideal manta encounter dive requiring good buoyancy control and calm, patient observation techniques.
+The site offers diving at depths ranging from shallow reef areas down to approximately 10 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-10 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -62,7 +61,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

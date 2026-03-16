@@ -3,7 +3,7 @@ name: Cow and Calf
 lat: -34.205
 lng: 18.462
 difficulty: Intermediate
-maxDepth: 16
+maxDepth: 12
 entryType: boat
 siteType: reef
 ref: null
@@ -25,7 +25,7 @@ Cow and Calf is a dive site in Cape Town offering rewarding diving on healthy co
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 16 meters
+- **Maximum Depth**: 12 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)
 - **Current**: Moderate to strong
 - **Best Time**: October to March (East Africa), varies by location
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter whale sharks, manta rays, humpback w
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 16 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-16 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

@@ -13,17 +13,17 @@ addedBy: osm_import
 
 ## Scotts Head Pinnacle
 
-Scotts Head Pinnacle is one of Dominica's most famous dive sites, featuring a unique geology and dramatic topography.
+Scotts Head Pinnacle is a pinnacle dive site in Dominica, Caribbean.
 
 ## Overview
 
-Beginning on Swiss Cheese, a large rock formation home to the Soldierfish Cave, this dive leads to the pinnacle where a picturesque swim-through bisects the formation. At 35 feet depth, the swim-through opens to a steep wall on the inside of a volcanic crater that plunges beyond 120 feet. The wall is covered in deepwater sea fans and colorful gorgonians, teeming with blackbar soldierfish, grunts, and lobster.
+Scotts Head Pinnacle is a dive site in Dominica offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Scotts Head, Soufriere-Scotts Head Marine Reserve, southwest Dominica
+- **Location**: Dominica, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle/seamount
+- **Site Type**: Pinnacle
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 35 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
@@ -32,11 +32,11 @@ Beginning on Swiss Cheese, a large rock formation home to the Soldierfish Cave, 
 
 ## Marine Life
 
-Abundant marine life from shallow areas to beyond 30 meters includes blackbar soldierfish (especially in the swim-through), grunts, lobster, sea fans, and gorgonians. The topography supports life at all depths from surface to the deep wall.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 35 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -59,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

@@ -3,7 +3,7 @@ name: Just Magic
 lat: -16.0213633
 lng: 145.8070862
 difficulty: Beginner
-maxDepth: 20
+maxDepth: 16
 entryType: boat
 siteType: reef
 ref: null
@@ -17,7 +17,7 @@ Just Magic is a reef dive site in Great Barrier Reef, Oceania.
 
 ## Overview
 
-Just Magic is a dive site in Great Barrier Reef offering excellent diving on healthy coral reef structures. Located in the Oceania region, this site offers 15-40 meters of visibility with water temperatures averaging 20-29°C.
+Just Magic is a scenic reef site offering excellent fish encounters and coral formations. Located on the Agincourt reef system near Port Douglas, this site offers 12-18 meters of visibility with water temperatures of 23-27°C. True to its name, this site delivers a magical diving experience with abundant marine life and beautiful reef structures suitable for recreational divers.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ Just Magic is a dive site in Great Barrier Reef offering excellent diving on hea
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 16 meters
 - **Typical Visibility**: 15-40 meters (50-130 feet)
 - **Current**: Variable
 - **Best Time**: September to February
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter great white sharks, grey nurse shark
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 16 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-16 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

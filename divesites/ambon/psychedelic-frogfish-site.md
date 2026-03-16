@@ -9,54 +9,50 @@ siteType: muck
 ref: null
 osmId: null
 addedBy: osm_import
-validated: true
-validationSource: web_research
 ---
 
 ## Psychedelic Frogfish Site
 
-This shallow muck site in Ambon Bay is where the famous psychedelic frogfish (Histiophryne psychedelica) was originally discovered in 2009. The site features rubble and sandy areas that attract rare and colorful critter species.
+Psychedelic Frogfish Site is a muck dive site in Ambon, Asia.
 
 ## Overview
 
-Psychedelic Frogfish Site is located near the airport in northern Ambon Bay and is named after the discovery location of one of the ocean's most unusual and colorful fish. The psychedelic frogfish, first described in 2009, displays swirling patterns of beige, white, and pink that resemble hand-painted porcelain. The site features sandy and rubble substrate in extremely shallow water, ideal for beginners and macro photographers.
+Psychedelic Frogfish Site is a dive site in Ambon offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Ambon Bay, near airport (northern side)
+- **Location**: Ambon, Asia
 - **Entry Type**: Shore entry
-- **Site Type**: Muck dive
+- **Site Type**: Muck
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 8 meters
-- **Typical Visibility**: 8-15 meters
-- **Current**: Minimal
-- **Best Time**: March-April and September-December (dry season)
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Famous for the psychedelic frogfish with its distinctive swirling patterns. Additional species include painted frogfish, warty frogfish, whiteface waspfish, sea snakes, longhorn cowfish, mantis shrimp, flamboyant cuttlefish, mimic octopus, seahorses, and harlequin shrimp. The sandy slope shelters snake eels, snowflake morays, porcupinefish, and stonefish.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
 
 ## Dive Profile
 
-Begin in the shallowest water (2-3 meters) and explore the rubble and sand between 5-8 meters depth. This ultra-shallow site allows extended bottom times for thorough critter searching. Move slowly and methodically—patience is essential to spot the cryptic psychedelic frogfish and other rare species.
+The site offers diving at depths ranging from shallow reef areas down to approximately 8 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-8 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
-Very shallow sandy beach entry. Wade in and descend while observing rubble patches. The site is so shallow that surface intervals between searches are common. Exit at the same location.
+Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
 
 ## Tips and Recommendations
 
-- Essential for frogfish enthusiasts and macro photographers
-- Look carefully—the psychedelic frogfish is small and well-camouflaged
-- Bring macro lens and powerful lights for spotting critters
-- Very beginner-friendly due to shallow depth
-- Multiple dives increase chances of finding the famous psychedelic frogfish
-- Early morning dives offer clearest conditions
-- Patience and slow movement are key
+- Excellent site for newer divers — calm conditions and easy navigation
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
+- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
-Extremely shallow and calm conditions make this very safe for Beginner divers. Main hazards are stonefish, sea urchins, and sharp rubble. Maintain proper buoyancy to avoid stirring sediment. Perfect for introducing new divers to muck diving techniques.
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -64,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

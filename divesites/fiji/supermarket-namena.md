@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Supermarket Namena
 
-The Supermarket is a vibrant reef dive site at Namena with colorful coral walls and excellent fish life.
+Supermarket Namena is a reef dive site in Fiji, Pacific.
 
 ## Overview
 
-Located close to Nadi in the Mamanuca Islands near Namena, the Supermarket site features a vibrant coral reef wall packed with marine life. Once used regularly for shark feeding (now only seldom used for this activity), the site offers excellent diving opportunities to view reef-associated species. After exploring the reef wall abundant with turtles, rays, and reef fish, divers drift around the corner to experience additional diverse reef ecosystems. The site name reflects its reputation as a well-stocked reef system with abundant and varied marine resources.
+Supermarket Namena is a dive site in Fiji offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
-- **Location**: Namena area, Mamanuca Islands, Fiji
+- **Location**: Fiji, Pacific
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 20-40 meters
-- **Current**: Mild to moderate
+- **Typical Visibility**: 20-50 meters (65-160 feet)
+- **Current**: Moderate to strong
 - **Best Time**: April to November
 
 ## Marine Life
 
-The Supermarket features vibrant coral reef walls with abundant reef fish schools, turtles, rays, reef sharks, and diverse invertebrate life. The site is characterized by lush coral gardens supporting butterflyfish, parrotfish, groupers, angelfish, and numerous reef-dwelling species. Macro subjects include moray eels, lionfish, and nudibranchs inhabiting the coral structures.
+Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

@@ -17,7 +17,7 @@ Nick's Place is a wall dive site in Providencia Island, Caribbean.
 
 ## Overview
 
-Nick's Place is an advanced wall dive featuring a dramatic drop-off to 40 meters (130 feet) into the open ocean. The site showcases colorful corals and sponges with strong wall structures characteristic of Providencia's pristine barrier reef system.
+Nick's Place is a dive site in Providencia Island featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
@@ -32,11 +32,11 @@ Nick's Place is an advanced wall dive featuring a dramatic drop-off to 40 meters
 
 ## Marine Life
 
-Common sightings include creole wrasse, parrotfish, black grouper, eels, and large pelagic visitors. The deep wall drops into open ocean, providing opportunities to encounter reef sharks and other species adapted to deeper waters.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-30 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-40 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
@@ -61,7 +61,7 @@ Wall dives offer stunning wide-angle opportunities with dramatic depth perspecti
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Amoray
 
-Amoray is a popular reef dive site and dive operator base in Sodwana Bay, KwaZulu-Natal, South Africa. Located within the iSimangaliso Wetland Park, Amoray operates as both a professional dive center and access point to the renowned Sodwana Bay reef system.
+Amoray is a reef dive site in South Africa, Africa.
 
 ## Overview
 
-Amoray offers year-round diving on the vibrant Sodwana Bay reefs with access to shallow coral gardens rich in marine biodiversity. The warm Indian Ocean waters (22-26°C) support over 1,200 fish species and create ideal conditions for intermediate divers exploring pristine hard and soft coral formations. Water temperatures average 22-26°C throughout the year, supporting exceptional tropical reef ecosystems.
+Amoray is a dive site in South Africa offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Amoray offers year-round diving on the vibrant Sodwana Bay reefs with access to 
 
 ## Marine Life
 
-Sodwana Bay's exceptional biodiversity includes parrotfish, triggerfish, moray eels, sea turtles, butterfly fish, angelfish, large schools of snapper and fusiliers, potato cods, manta rays, and ragged-tooth sharks. Hard and soft corals, nudibranchs, scorpionfish, ribbon eels, and cleaner shrimps are abundant.
+Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
 
 ## Dive Profile
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

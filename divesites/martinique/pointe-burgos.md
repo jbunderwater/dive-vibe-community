@@ -17,27 +17,26 @@ Pointe Burgos is a reef dive site in Martinique, Caribbean.
 
 ## Overview
 
-Pointe Burgos is the basaltic dome that extends Morne Champagne and separates Grande Anse beach from Anses d'Arlet. Formed from a lava flow, this prime dive location features a shallow plateau perfect for beginners. At the boundary between the Caribbean Sea and local waters, Pointe Burgos frequently experiences strong currents that attract schools of fish and turtles, making it one of the most beautiful spots in south Martinique.
+Pointe Burgos is a dive site in Martinique offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Pointe Burgos, Grande Anse/Anses d'Arlet, Martinique
+- **Location**: Martinique, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Can be strong
+- **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
-- **Special Feature**: Excellent for turtle encounters, currents attract large schools
 
 ## Marine Life
 
-Strong currents at Pointe Burgos attract abundant marine life including schools of large, peaceful fish. Divers commonly encounter 5-6 sea turtles (green, hawksbill) during a single dive. Additional species include southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish, blue tangs, trumpetfish, moray eels, and lobsters.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
 
 ## Dive Profile
 
-Begin your dive on the small plateau between 3-12 meters, which offers terrain ideal for beginners and orientation dives (baptisms). The shallow plateau provides an excellent foundation. For experienced divers comfortable in currents, deeper features can be explored. The strong currents here draw pelagic visitors and large school-forming fish, making this a dynamic and productive dive site.
+The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -45,6 +44,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
+- Excellent site for newer divers — calm conditions and easy navigation
 - Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

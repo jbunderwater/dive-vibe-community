@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Crooks Castle
 
-Crooks Castle (White Buoy #21) is a beginner-friendly dive and snorkel site located just southwest of Lower Town. It features excellent coral formations and is renowned for blue beads—historical artifacts that have washed ashore from the 1600s-1800s, making it an archaeological treasure for lucky divers.
+Crooks Castle is a reef dive site in Sint Eustatius, Caribbean.
 
 ## Overview
 
-A healthy reef with stands of pillar coral, giant yellow sea fans, and sea whips, Crooks Castle appeals to both beginners and experienced divers. Sea turtles and stingrays are regular visitors. Snorkelers will love the shallow coral gardens, while beachcombers explore the sandy areas where blue beads occasionally appear. The site exemplifies Statia's unique combination of healthy reef ecology and historical significance.
+Crooks Castle is a dive site in Sint Eustatius offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Sint Eustatius (Statia), Lower Town area
+- **Location**: Sint Eustatius, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 10 meters
-- **Typical Visibility**: 20-30 meters (65-100 feet)
-- **Current**: Light
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Sea turtles and stingrays frequent this site. Pillar coral, giant yellow sea fans, and sea whips create the reef structure. Sharks (reef and nurse sharks), whales, and dolphins occasionally pass through. The coral-rich environment supports diverse fish species and provides excellent photography subjects.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 22 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 10 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-10 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -44,6 +44,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
+- Excellent site for newer divers — calm conditions and easy navigation
 - Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
@@ -59,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

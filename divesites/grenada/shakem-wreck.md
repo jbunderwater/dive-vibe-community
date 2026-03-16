@@ -13,17 +13,17 @@ addedBy: osm_import
 
 ## Shakem Wreck
 
-The Shakem was a cargo vessel transporting bags of concrete between Grenada and Trinidad. In 2001, she encountered a heavy sea outside St. George's Harbor. The cargo shifted, allowing water to flood the hull. Cement mixing with seawater blocked the bilge pumps, and the ship sank rapidly at 33 meters depth, coming to rest upright on the bottom.
+Shakem Wreck is a historic wreck dive in Grenada, Caribbean.
 
 ## Overview
 
-The Shakem is a popular intermediate/advanced wreck because she sits upright on the bottom, is easy to navigate, and looks as if ready to unload her cargo. The wreck teems with life and is covered with corals, encrusting sponges, and gorgonians. Located in the Caribbean region, this site offers excellent visibility with water temperatures averaging 26-29°C.
+Shakem Wreck is a dive site in Grenada featuring the wreck of the Shakem Wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
 - **Location**: Grenada, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 33 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter groupers, snappers, soldierfish, gla
 
 ## Dive Profile
 
-The dive begins with descent to the upright wreck at 33 meters. The intact structure is easy to navigate due to its upright position. Explore the exterior features, cargo hold openings, and accessible interior spaces while monitoring air supply and bottom time carefully at this depth. Due to the 33-meter depth, adequate nitrox certification and dive experience is recommended. Begin your ascent with a substantial air reserve for extended safety stops.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 33 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -61,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

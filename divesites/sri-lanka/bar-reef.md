@@ -13,44 +13,43 @@ addedBy: osm_import
 
 ## Bar Reef
 
-Bar Reef is Sri Lanka's largest and most pristine coral reef system, located off the coast of Kalpitiya on the northwest coast. This protected marine sanctuary is one of the most biodiverse reef systems in the Indian Ocean.
+Bar Reef is a reef dive site in Sri Lanka, Asia.
 
 ## Overview
 
-Bar Reef offers exceptional diving for all experience levels, with a massive reef structure spanning 300 kilometers. The reef supports 156 species of coral and 283 species of tropical fish, making it one of Asia's most vibrant marine ecosystems. Visibility typically ranges from 10 to 25 meters, with water temperatures between 27-30°C.
+Bar Reef is a dive site in Sri Lanka offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Kalpitiya, northwest coast of Sri Lanka
+- **Location**: Sri Lanka, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Depth Range**: 2-8 meters (shallow reef areas); extends to 40 meters in deeper sections
-- **Typical Visibility**: 10-25 meters (33-82 feet)
-- **Current**: Variable, can be strong in deeper sections
-- **Best Time**: Late November to early May (diving season)
+- **Maximum Depth**: 8 meters
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Bar Reef is home to an exceptional diversity of marine life. Divers regularly encounter black-tip and white-tip reef sharks, manta rays, and sea turtles (green, hawksbill, and olive ridley species). The reef supports abundant tropical fish species including sweetlips, trevally, barracuda, napoleon wrasse, and countless smaller reef fish. The coral formations provide habitat for nudibranches, moray eels, lionfish, and other species typical of Indo-Pacific reef systems.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
 
 ## Dive Profile
 
-Bar Reef is ideal for both beginner and advanced divers due to its varied topography. Begin in shallow areas (2-5 meters) with excellent visibility for coral and fish observation, then gradually descend to 8-15 meters where you'll find deeper reef formations and more pelagic species. Experienced divers can venture to 25-40 meters in deeper sections. The reef slope provides natural depth progression without abrupt changes. Average bottom time is 40-50 minutes for recreational dives.
+The site offers diving at depths ranging from shallow reef areas down to approximately 8 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-8 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
-All dives at Bar Reef are conducted via boat, with a journey of approximately 1 hour from Kalpitiya town. Entry is typically via giant stride or back roll from the dive vessel. Descent is made directly to the reef slope following the dive briefing. Ascent and safety stops are performed with the boat standing by. Deploy an SMB at 5 meters for surface signaling. Exit is by boat pickup at the surface with crew assistance.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-- Ideal site for certification courses and newer divers due to shallow, calm conditions
-- The reef's size allows multiple dives without repetition — plan 2-3 dives to explore different sections
-- Book with established Kalpitiya operators (Ocean Lanka Diving, Kalpitiya Diving Center) who maintain site knowledge
-- Bring a wide-angle camera for reef formations and macro lens for small fish and invertebrates
-- Best diving conditions and visibility occur November to April; avoid monsoon season (May-October)
-- Respect the protected marine sanctuary status — do not touch corals or collect specimens
-- Be prepared for variable currents, especially in deeper sections beyond 25 meters
+- Excellent site for newer divers — calm conditions and easy navigation
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
+- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
@@ -62,7 +61,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Cathedral Sodwana
 
-Cathedral is a named dive site within the Aliwal Shoal reef system near the KwaZulu-Natal coast. As one of Aliwal Shoal's primary named sites, Cathedral is particularly known for seasonal ragged-tooth shark gatherings and diverse tropical reef structures.
+Cathedral Sodwana is a reef dive site in South Africa, Africa.
 
 ## Overview
 
-Cathedral Sodwana is a reef dive site with depths ranging from 12-27 meters, featuring hard and soft corals in a diverse tropical ecosystem. The warm Indian Ocean waters (22-26°C) support abundant reef fish and regular pelagic encounters. Excellent visibility and moderate currents make this an accessible intermediate dive.
+Cathedral Sodwana is a dive site in South Africa offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
 
 ## Site Information
 
@@ -32,11 +32,11 @@ Cathedral Sodwana is a reef dive site with depths ranging from 12-27 meters, fea
 
 ## Marine Life
 
-Cathedral hosts significant ragged-tooth shark populations between July-November during mating season, with congregation sizes reaching dozens. Tropical reef fish are abundant including morays, potato bass, and colorful reef species. Hard and soft corals, sponges, and a diverse invertebrate community create rich underwater landscapes.
+Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

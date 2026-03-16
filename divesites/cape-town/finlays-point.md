@@ -2,8 +2,8 @@
 name: Finlay's Point
 lat: -34.19
 lng: 18.47
-difficulty: Beginner
-maxDepth: 8
+difficulty: Intermediate
+maxDepth: 15
 entryType: shore
 siteType: reef
 ref: null
@@ -17,15 +17,15 @@ Finlay's Point is a reef dive site in Cape Town, Africa.
 
 ## Overview
 
-Finlay's Point is a dive site in Cape Town offering excellent diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Finlay's Point is a dive site in Cape Town offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
 
 ## Site Information
 
 - **Location**: Cape Town, Africa
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 8 meters
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 15 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)
 - **Current**: Moderate to strong
 - **Best Time**: October to March (East Africa), varies by location
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter whale sharks, manta rays, humpback w
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 8 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-8 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -44,7 +44,6 @@ Enter from the shore following established entry points. Check conditions before
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
 - Respect marine life and maintain proper buoyancy to protect the reef
@@ -60,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

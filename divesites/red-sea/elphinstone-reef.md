@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Elphinstone Reef
 
-Elphinstone Reef is one of the Red Sea's premier liveaboard destinations, part of the famous "Golden Triangle" (Brothers-Daedalus-Elphinstone) route for advanced diving. This remote offshore reef, 300 meters long, is known for exceptional coral coverage, dramatic walls, and reliable shark sightings.
+Elphinstone Reef is a wall dive site in Red Sea, Middle East.
 
 ## Overview
 
-Elphinstone features sheer walls richly covered in pink and red soft corals and elegant red gorgonians. The reef drops steeply from 40 meters with areas featuring near-vertical cliffs, overhangs, small caves, and drop-offs to depths exceeding 100 meters. This is an advanced-only site accessible by liveaboard, with strong currents and swell common. The combination of pristine corals, dramatic topography, and frequent hammerhead and oceanic whitetip shark encounters makes it a world-class dive destination.
+Elphinstone Reef is a renowned dive site in Red Sea featuring a dramatic vertical wall that drops into the deep blue. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
 
 ## Site Information
 
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter whale sharks, manta rays, hammerhead
 
 ## Dive Profile
 
-Elphinstone is typically dived as drift dives along the walls, with entry by drift descent into blue water. The site offers multiple dive profiles depending on experience and conditions. Begin dives on the upper sections of the wall around 20-30 meters, exploring the exceptional soft coral and gorgonian coverage. Advanced divers may descend deeper to 40+ meters on the steep wall sections. The site is subject to strong currents and surge — excellent buoyancy control is essential. Drift along the wall face rather than fighting the current. Ascend with an SMB at the planned drift exit point. Plan for 45-60 minute bottom times given depth and current conditions. Liveaboard operations typically conduct 2-3 dives daily at varying locations around the reef.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-40 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
@@ -61,7 +61,7 @@ Wall dives offer stunning wide-angle opportunities with dramatic depth perspecti
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

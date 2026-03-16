@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Dhigu Thila
 
-Dhigu Thila is a reef dive site in Maldives, Asia.
+Dhigu Thila is a pinnacle dive site in Maldives, Asia.
 
 ## Overview
 
@@ -23,7 +23,7 @@ Dhigu Thila is a dive site in Maldives offering rewarding diving on healthy cora
 
 - **Location**: Maldives, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle/seamount
+- **Site Type**: Pinnacle
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
@@ -60,8 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Website**: https://www.divessi.com/en/mydiveguide/divesite/256641
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

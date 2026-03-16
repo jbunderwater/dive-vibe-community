@@ -13,32 +13,30 @@ addedBy: osm_import
 
 ## Isola dei Cavoli
 
-Isola dei Cavoli is a small granite island (0.4 km²) located less than one kilometer southeast of Capo Carbonara in the Capo Carbonara Marine Protected Area, home to some of Sardinia's top-rated diving.
+Isola dei Cavoli is a reef dive site in Sardinia, Europe.
 
 ## Overview
 
-Isola dei Cavoli offers excellent diving on rocky seabeds rich in marine flora and fauna with crystal-clear waters hosting abundant marine species. The island is part of the protected marine area system and is accessible year-round. The rocky substrate supports sea sponges, sea fans, nudibranchs, red coral, and seahorses. Divers report excellent visibility and abundant fish life throughout the seasons in this strictly protected area.
+Isola dei Cavoli is a dive site in Sardinia offering rewarding diving on healthy coral reef structures . Granite island in Capo Carbonara Marine Protected Area with rocky seabed, sea fans, nudibranchs, red coral. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
 
 ## Site Information
 
-- **Location**: Off Villasimius, southeastern Sardinia (Capo Carbonara MPA)
+- **Location**: Sardinia, Europe
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Depth Range**: 5-25 meters
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 15-35 meters (year-round)
-- **Water Temperature**: 14-24°C (seasonal variation)
+- **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Light to moderate
-- **Best Time**: Year-round, peak May to October
+- **Best Time**: May to October
 
 ## Marine Life
 
-Sea sponges, sea fans, nudibranchs (sea slugs), red coral, and seahorses are characteristic species. Abundant fish life includes groupers, snappers, bream, and schools of smaller species. The rocky habitat provides shelter for lobsters, sea urchins, and cryptic invertebrates.
+Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
 
 ## Dive Profile
 
-Dives center on rocky seabed at 10-25 meters, exploring the contoured granite formations. The shallow top of the island offers snorkeling opportunities, while deeper dives explore the rock structures and crevices below 15 meters. The relatively calm conditions and good year-round visibility make this an excellent intermediate site for exploring Mediterranean rocky reef ecosystems.
+The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -61,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

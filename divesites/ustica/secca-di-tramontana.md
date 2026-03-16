@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Secca di Tramontana
 
-Secca di Tramontana is a seamount dive site at Ustica's northern edge, reserved for advanced divers.
+Secca di Tramontana is a seamount dive site in Ustica, Europe.
 
 ## Overview
 
@@ -59,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

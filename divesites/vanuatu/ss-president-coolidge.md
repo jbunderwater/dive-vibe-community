@@ -13,31 +13,30 @@ addedBy: osm_import
 
 ## SS President Coolidge
 
-The SS President Coolidge is one of the world's most accessible and renowned wreck dives, a 22,200-tonne WWII luxury passenger liner sunk just 40 meters offshore off Espiritu Santo.
+SS President Coolidge is a historic wreck dive in Vanuatu, Pacific.
 
 ## Overview
 
-The SS President Coolidge was a WWII troop carrier that struck a friendly mine in 1942 and was deliberately steered onto the reef by the captain. The wreck rests on her port side with the bow at 21 meters and stern at 73 meters depth, creating a diver's playground with multiple accessible sections ranging from beginner-friendly shallow areas to deep technical zones. The ship remains remarkably well-preserved with cargo holds, cabins, and structural features still recognizable after 80+ years underwater.
+SS President Coolidge is a dive site in Vanuatu featuring a historic wreck. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
-- **Location**: Espiritu Santo, Vanuatu
+- **Location**: Vanuatu, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 73 meters
-- **Minimum Depth**: 21 meters (bow section)
-- **Typical Visibility**: 20-50 meters (varies seasonally)
-- **Water Temperature**: 26-29°C year-round
-- **Best Time**: April to November (dry season)
+- **Typical Visibility**: 20-50 meters (65-160 feet)
+- **Current**: Moderate to strong
+- **Best Time**: April to November
 
 ## Marine Life
 
-The wreck structure provides excellent habitat for a thriving marine ecosystem. Divers encounter abundant coral growth colonizing the vessel, anemones with resident clownfish, lionfish, scorpionfish, and batfish. Larger species include reef sharks (whitetip, blacktip, grey), sea turtles, napoleon wrasse, barracuda, and manta rays. Interior sections attract glassy sweepers and other schooling fish.
+Divers at this site can expect to encounter coral growth, anemones, lionfish, scorpionfish, glassy sweepers, manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks. Additional species commonly sighted include sea turtles, napoleon wrasse, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 70 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 73 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -62,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

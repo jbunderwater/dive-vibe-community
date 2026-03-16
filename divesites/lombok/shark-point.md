@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Shark Point
 
-Shark Point is a reef dive site in Lombok, Asia.
+Shark Point is a drift dive site in Lombok, Asia.
 
 ## Overview
 
@@ -23,7 +23,7 @@ Shark Point is a dive site in Lombok offering rewarding diving on healthy coral 
 
 - **Location**: Lombok, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Drift dive
+- **Site Type**: Drift
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

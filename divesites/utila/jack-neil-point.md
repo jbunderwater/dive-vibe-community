@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Jack Neil Point
 
-A western reef featuring shallow tongue-and-groove coral formations and frequent sea turtle sightings.
+Jack Neil Point is a reef dive site in Utila, Caribbean.
 
 ## Overview
 
-Jack Neil Point and Jack Neil Beach are excellent long, shallow dives along beautiful tongue-and-groove formations of hard and soft corals. This reef starts at the shoreline and reaches 15 feet, then drops to 100 feet. Broken walls and sand channels create a varied underwater landscape. At the western end, sightings of hawksbill and green turtles are common. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Jack Neil Point is a dive site in Utila offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Utila, Caribbean (West from main harbor, 10 minutes by boat)
+- **Location**: Utila, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
@@ -32,11 +32,11 @@ Jack Neil Point and Jack Neil Beach are excellent long, shallow dives along beau
 
 ## Marine Life
 
-A wide range of Caribbean reef fish populate this site, including grunts, groupers, damselfish, spotted drums, pufferfish, trunkfish, seahorses, and turtles. Sightings of hawksbill and green turtles are common, especially at the western end. Eagle rays, moray eels, sea turtles (green, hawksbill), southern stingrays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish, blue tangs, and trumpetfish are frequently observed.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
 
 ## Dive Profile
 
-The site offers long, shallow dives along beautiful tongue-and-groove coral formations starting at the shoreline and reaching 15 feet, then dropping to deeper areas. Begin exploring the shallow coral formations and gradually work deeper into the sand channels and broken walls as conditions allow. The most abundant marine life is typically found between 5-25 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -44,12 +44,9 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers—calm conditions, easy navigation, and varied depth options
-- Look at the western end for turtle sightings—they are frequently seen here
-- The varied coral formations offer excellent photography opportunities
+- Excellent site for newer divers — calm conditions and easy navigation
 - Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera—this site offers excellent wide-angle and macro opportunities
-- Plan for a longer dive to fully explore the tongue-and-groove formations
+- Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
 - Respect marine life and maintain proper buoyancy to protect the reef
 
@@ -63,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

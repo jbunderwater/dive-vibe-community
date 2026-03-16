@@ -17,22 +17,22 @@ West Caicos Wall is a wall dive site in Turks and Caicos, Caribbean.
 
 ## Overview
 
-West Caicos Wall is one of the sheerest and most spectacular wall dives in Turks and Caicos, part of the West Caicos Marine National Park. A massive wall stretches for about 6 miles along the leeward side, starting at 50 feet before dropping away into the thousands. This is a premier destination for experienced wall divers seeking dramatic vertical topography, strong pelagic encounters, and pristine conditions.
+West Caicos Wall is a dive site in Turks and Caicos featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: West Caicos Marine National Park (Leeward side), Turks and Caicos
+- **Location**: Turks and Caicos, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: December to April (dry season, more protected Leeward side)
+- **Current**: Light to moderate
+- **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Large pelagic fish including eagle rays, reef sharks, and other open water species frequent the wall. Over a dozen popular dive sites are found in the West Caicos Marine National Park, making this a prime location for both reef and pelagic encounters. The wall structure creates a thriving ecosystem with different species at varying depths, with dramatic blue water pelagics beyond the wall edge.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
@@ -61,7 +61,7 @@ Wall dives offer stunning wide-angle opportunities with dramatic depth perspecti
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

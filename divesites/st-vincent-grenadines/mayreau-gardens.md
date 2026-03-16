@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Mayreau Gardens
 
-Mayreau Gardens is an expansive coral reef system within the Tobago Cays Marine Park in St. Vincent and the Grenadines, Caribbean.
+Mayreau Gardens is a reef dive site in St. Vincent and the Grenadines, Caribbean.
 
 ## Overview
 
-Mayreau Gardens is a spectacular drift dive located between the Tobago Cays and Mayreau Island in the protected marine park. The site features an extensive coral reef formation teeming with colorful reef life. Crinoids, garden eels, flamingo tongues, and various reef fish are commonly encountered. The drift nature of the dive makes it an exciting experience for divers of all levels, with the current carrying divers along the reef wall while experiencing the rich biodiversity of this pristine marine ecosystem.
+Mayreau Gardens is a dive site in St. Vincent and the Grenadines offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

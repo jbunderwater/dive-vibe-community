@@ -17,7 +17,7 @@ Whale Shark Point is a reef dive site in Djibouti, Africa.
 
 ## Overview
 
-Whale Shark Point is a beginner-friendly shallow reef site in the Gulf of Tadjoura specifically positioned for whale shark encounters. This site is uniquely named for the seasonal aggregation of juvenile whale sharks (November-February) that feed on plankton blooms. The shallow depth and calm conditions make it accessible for newer divers while offering extraordinary opportunities to encounter the world's largest fish. Visibility typically 10-15 meters with water temperatures 25-29°C during peak season.
+Whale Shark Point is a dive site in Djibouti offering excellent diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
 
 ## Site Information
 
@@ -32,11 +32,11 @@ Whale Shark Point is a beginner-friendly shallow reef site in the Gulf of Tadjou
 
 ## Marine Life
 
-The signature attraction is juvenile whale sharks (averaging 4 meters, with some as small as 2 meters) that visit seasonally (November-February) to feed on plankton. Djibouti appears to be a critical nursery ground for young whale sharks. Manta rays also aggregate during the same season. In addition to these megafauna, colorful reef fish, corals, sea turtles, and occasionally dolphins populate the site.
+Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 10 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-10 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -61,7 +61,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

@@ -13,32 +13,30 @@ addedBy: osm_import
 
 ## Diving Archimete
 
-Diving Archimete is a rocky reef dive site in the Alghero area on Sardinia's northwestern coast, within the Capo Caccia-Isola Piana Marine Protected Area known as the Riviera del Corallo (Coral Riviera).
+Diving Archimete is a reef dive site in Sardinia, Europe.
 
 ## Overview
 
-Archimete is a named dive site and diving club operating in the Alghero area, offering access to the rich reef systems of northwestern Sardinia. The diving at Archimete focuses on rocky reefs featuring coral formations, colorful fish life, and the dramatic limestone cliffs characteristic of the region. The site offers intermediate-level diving with moderate depths and good visibility in the protected marine environment.
+Diving Archimete is a dive site in Sardinia offering rewarding diving on healthy coral reef structures . Rocky reef diving site in Alghero area with rich coral and fish life. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
 
 ## Site Information
 
-- **Location**: Alghero area, northwestern Sardinia
+- **Location**: Sardinia, Europe
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Depth Range**: 5-25 meters
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 15-30 meters
-- **Water Temperature**: 18-24°C (May-October)
+- **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: May to October
 
 ## Marine Life
 
-Rocky reefs host groupers, barracuda, snappers, and schooling bream. Red coral and soft corals cover the rocks. Moray eels, octopus, sea fans, and nudibranchs are common. The site benefits from the marine reserve's protection, resulting in healthy fish populations.
+Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
 
 ## Dive Profile
 
-Dives follow rocky reef formations at 10-25 meters, with most interesting features between 15-25 meters. Explore the rock topography, crevices, and coral formations. Monitor depth carefully as rocks can drop off unexpectedly. The moderate currents require awareness of water movement. Most dives spend 35-50 minutes on the reef profile before ascending with proper reserves for safety stops.
+The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -61,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

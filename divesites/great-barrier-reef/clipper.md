@@ -3,7 +3,7 @@ name: Clipper
 lat: -16.4275949
 lng: 145.9881647
 difficulty: Beginner
-maxDepth: 20
+maxDepth: 17
 entryType: boat
 siteType: reef
 ref: null
@@ -17,7 +17,7 @@ Clipper is a reef dive site in Great Barrier Reef, Oceania.
 
 ## Overview
 
-Clipper is a dive site in Great Barrier Reef offering excellent diving on healthy coral reef structures. Located in the Oceania region, this site offers 15-40 meters of visibility with water temperatures averaging 20-29°C.
+Clipper is a shallow reef site featuring mooring facilities and excellent beginner-friendly diving conditions. Located on the southern reef system off Cairns, this site offers 12-18 meters of visibility with water temperatures of 23-27°C. The site is ideal for entry-level divers and casual recreational diving.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ Clipper is a dive site in Great Barrier Reef offering excellent diving on health
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 17 meters
 - **Typical Visibility**: 15-40 meters (50-130 feet)
 - **Current**: Variable
 - **Best Time**: September to February
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter great white sharks, grey nurse shark
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 17 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-17 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

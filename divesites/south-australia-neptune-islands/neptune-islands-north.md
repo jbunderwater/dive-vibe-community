@@ -2,8 +2,8 @@
 name: Neptune Islands North
 lat: -35.235
 lng: 136.065
-difficulty: Advanced
-maxDepth: 20
+difficulty: Beginner
+maxDepth: 2
 entryType: boat
 siteType: reef
 ref: null
@@ -13,45 +13,48 @@ addedBy: osm_import
 
 ## Neptune Islands North
 
-Neptune Islands North is a reef dive site in South Australia Neptune Islands, Oceania.
+Premier surface cage diving site for great white shark encounters with no diving certification required.
 
 ## Overview
 
-Neptune Islands North is a dive site in South Australia Neptune Islands offering rewarding diving on healthy coral reef structures. Located in the Oceania region, this site offers 15-40 meters of visibility with water temperatures averaging 20-29°C.
+Neptune Islands North is a surface cage diving site in the Neptune Islands Group, South Australia, offering unparalleled opportunities to observe great white sharks from above-water cages in their natural habitat. Located approximately 2 meters below the surface in sheltered Main Bay, this site requires no prior diving certification and accommodates divers and non-divers alike.
 
 ## Site Information
 
-- **Location**: South Australia Neptune Islands, Oceania
+- **Location**: Neptune Islands, 40 nautical miles south of Port Lincoln, South Australia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 15-40 meters (50-130 feet)
-- **Current**: Variable
-- **Best Time**: September to February
+- **Difficulty Level**: Beginner
+- **Depth**: 2 meters (cage floats at surface)
+- **Typical Visibility**: 15-20 meters (50-65 feet)
+- **Current**: Generally mild in sheltered bay
+- **Water Temperature**: 14-22°C (57-72°F) — coldest June-August, warmest December-May
+- **Best Time**: May-October for peak great white activity; year-round diving possible
 
 ## Marine Life
 
-Divers at this site can expect to encounter great white sharks, grey nurse sharks, whale sharks, manta rays, sea turtles, dolphins, dugongs, potato cod. Additional species commonly sighted include maori wrasse, giant trevally, hard corals, soft corals.
+Great white sharks (primarily males year-round, occasional large females April-August), Australian sea lions, long-nosed fur seals, fur seal pups, cold-water fish species (bream, trevally, wrasse), cuttlefish, sea urchins.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Divers enter a surface cage that remains at approximately 2 meters depth, allowing natural light and clear views of passing great white sharks. The cage is tethered to the dive boat in Main Bay's sheltered waters. Typical cage diving duration is 60-90 minutes with 3-4 cages providing concurrent views. Activity depends on seasonal shark presence and bait deployment.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+No diving required. Divers and non-divers enter the cage via the boat's cage platform. Breathing air is supplied via snorkel or surface-supplied regulator inside the cage. Exit is controlled return to the boat via the same platform. No buoyancy compensation or decompression procedures needed.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Book 3-5 days advance with licensed operators (Rodney Fox, Calypso Star Charters)
+- Wear a 5mm wetsuit minimum for 14-22°C water; 7mm semi-dry recommended for cold sensitivity
+- Best shark activity typically occurs early morning or during bait deployment cycles
+- Bring a waterproof camera for iconic great white encounter photography
+- Check weather forecasts; rough seas occasionally limit cage operations
+- May-October offers peak shark encounters, though year-round diving is viable
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish (box jellyfish in summer), crocodiles (north) in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
+Great white sharks are naturally cautious; cage diving prioritizes observer safety with secure cage construction and professional guide supervision. Respect all operator safety briefings and stay within designated cage areas. Surface cage diving has minimal decompression risks compared to submerged diving. Always verify operator licensing and safety records before booking.
 
 ## Photography
 
@@ -59,7 +62,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

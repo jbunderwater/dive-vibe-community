@@ -13,55 +13,55 @@ addedBy: osm_import
 
 ## Viking Rock
 
-Viking Rock is a submerged reef and wall formation north of Wafer Bay on Cocos Island's northern coast, dropping from around 15 meters at the shallowest to 40 meters along its steeper wall sections. The site's stepped, staircase-like topography creates a variety of habitats: crevices and overhangs shelter moray eels, lobsters, and octopus, while the open rock faces attract hunting whitetip reef sharks and marbled rays. Tiger sharks and hammerheads have been recorded here on occasion, making Viking Rock a versatile site that combines reef-dwelling life with pelagic encounters.
+Viking Rock is a wall dive site in Cocos Island, Pacific.
 
 ## Overview
 
-Viking Rock's layered volcanic structure — with broad, flat terraces descending in stair-step fashion — creates an unusually rich habitat variety for a Cocos site. The shallower terraces host dense communities of reef fish and invertebrates, while the deeper sections and wall faces draw whitetip reef sharks in numbers. The site is typically positioned as the third dive of the day on a standard Cocos itinerary, giving divers a more relaxed profile after the intense seamount dives at Alcyone or Dirty Rock. Despite its secondary billing in most itineraries, Viking Rock delivers exceptional diversity and is particularly productive for divers interested in reef ecosystems rather than pure pelagic action.
+Viking Rock is a dive site in Cocos Island featuring a dramatic vertical wall that drops into the deep blue. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
-- **Location**: North of Wafer Bay, northern Cocos Island
-- **Entry Type**: liveaboard
+- **Location**: Cocos Island, Pacific
+- **Entry Type**: Liveaboard
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
-- **Optimal Depth**: 15-30 meters
-- **Typical Visibility**: 15-25 meters
-- **Current**: Moderate; variable depending on tidal phase
-- **Best Time**: Year-round
+- **Typical Visibility**: 20-50 meters (65-160 feet)
+- **Current**: Moderate to strong
+- **Best Time**: April to November
 
 ## Marine Life
 
-Whitetip reef sharks are the dominant large species — they rest on ledges and patrol the wall faces in good numbers. Marbled rays glide along the terraces and occasionally rest partially buried on sandy patches at the base. Moray eels are abundant in crevices throughout the structure. Lobsters, spiny urchins, and octopus inhabit the deeper undercuts and overhangs. Schools of pufferfish are a distinctive feature of Viking Rock — they school in open water above the reef in a manner rarely seen at other Cocos sites. Hammerheads and tiger sharks are occasional visitors, often appearing from the deeper water on the wall side. Large groupers occupy territorial ledges.
+Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-Descend to the upper terraces at 15-20 meters to begin exploring the stepped structure. The staircase topography allows a natural progression deeper as air permits. The wall sections below 25 meters are where whitetip sharks concentrate most densely. Maximum wall depth reaches 40 meters; time at depth should be managed for decompression limits. The shallower terraces above 15 meters are productive for reef fish and invertebrate life and are excellent for safety stop extensions.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-40 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
-Entry from liveaboard zodiacs. The site's position in a more sheltered section of the island's coast means conditions are generally calmer than at exposed outer sites. SMB deployment during the safety stop remains standard procedure.
+This site can be accessed from shore or by boat. Shore entry follows established paths to the water. Boat access is available through local dive operators. Check conditions and choose the most appropriate entry method based on weather and sea state.
 
 ## Tips and Recommendations
 
-- Work the terraces systematically — each level holds different species and the stepped topography can be disorienting without a planned route
-- Look in every crevice and overhang: moray eels at Viking Rock are large and abundant
-- The pufferfish schooling behavior is unusual and worth dedicated observation time
-- After deep seamount dives earlier in the day, Viking Rock's moderate depth is excellent for extending bottom time on a longer dive
-- Watch the deep blue beyond the wall edge for passing hammerheads — they occasionally sweep through from open water
+- Watch your depth carefully — wall dives can lead to unintentional deep descents
+- Look in crevices and overhangs for hidden marine life
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
+- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
-Current at Viking Rock is variable and can increase with tidal changes. The wall's deeper sections require depth discipline — the staircase structure can draw divers progressively deeper without obvious stopping points. Always maintain awareness of depth and air consumption. SMB and buddy system are standard.
+Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-The layered terrace structure provides excellent compositional framing for wide-angle shots. Resting whitetip sharks on ledges are ideal portrait subjects with a strobe. The abundant moray eels in crevices are productive macro subjects. Schooling pufferfish above the reef create a memorable wide-angle scene. Natural light penetrates well on the upper terraces; a strobe is needed for the undercuts and deeper wall faces.
+Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*Validated against media.costarica.com, scubadivingearth.com, and aqua-firma.com. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

@@ -17,13 +17,13 @@ MV Pacific Gas Madang is a historic wreck dive in Papua New Guinea, Pacific.
 
 ## Overview
 
-The MV Pacific Gas is a former gas tanker that began life transporting liquefied gas between Australia and Papua New Guinea for Boral Gas. After decommissioning and an unsuccessful plan to convert it into a seafood restaurant and nightclub, it was sunk intentionally by explosive charges in June 1986 on Horseshoe Reef, becoming one of Papua New Guinea's most iconic wreck dive sites. The stern rests in 40 meters of water, and the ship sank in just 12 minutes, making it a remarkably well-preserved wreck.
+MV Pacific Gas Madang is a dive site in Papua New Guinea featuring a historic wreck. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
 - **Location**: Papua New Guinea, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)
@@ -61,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

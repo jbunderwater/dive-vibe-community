@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Shark Wall New Providence
 
-Shark Wall New Providence is a dramatic wall dive near Nassau where divers encounter both the sheer vertical structure and reliable shark populations in the blue water beyond the wall.
+Shark Wall New Providence is a reef dive site in Bahamas, Caribbean.
 
 ## Overview
 
-Shark Wall is Stuart Cove's other primary shark diving site, featuring a vertical wall descent with Caribbean reef shark encounters. Unlike Shark Arena which uses bait feeding on the bottom, Shark Wall offers a free-swimming experience along the wall structure where sharks naturally congregate. The wall begins in shallow water and descends to significant depths, creating distinct ecosystems at different levels. Sharks, groupers, snappers, and pelagic species frequent the wall and the blue water beyond. This site combines dramatic geology with exciting shark encounters, making it appealing to divers seeking the adrenaline of sharking without the baited-feeding scenario. The dive can be adjusted for various experience levels by controlling depth and location along the wall.
+Shark Wall New Providence is a dive site in Bahamas offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Nassau, New Providence, Bahamas
+- **Location**: Bahamas, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 12 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
-- **Best Time**: Year-round, December to April for optimal conditions
+- **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-25 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -44,8 +44,6 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
 - Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
@@ -57,11 +55,11 @@ Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

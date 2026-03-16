@@ -13,17 +13,17 @@ addedBy: osm_import
 
 ## Grain Wreck (Suffolk Maid)
 
-The Suffolk Maid is a 144-foot North Sea trawler scuttled in Butler Bay on St. Croix, representing one of the shallow wreck options in the USVI.
+Grain Wreck (Suffolk Maid) is a historic wreck dive in US Virgin Islands, Caribbean.
 
 ## Overview
 
-Originally driven into the Frederiksted Pier during a hurricane in 1984, the Suffolk Maid was later cleaned, gutted, and intentionally sunk in December 1985 as a dive site. It now sits upright on the ocean floor in 18-24 meters of water, resting only a few hundred yards south of the Rosaomaira wreck and a hundred yards north of the Northwind wreck—creating a cluster of shallow wreck diving options. Divers can still recognize the ship's name on her bow. The wreck provides excellent marine habitat with coral and sponge encrustation.
+Grain Wreck (Suffolk Maid) is a dive site in US Virgin Islands featuring the wreck of the Grain Wreck (Suffolk Maid). Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Butler Bay, St. Croix, US Virgin Islands, Caribbean
+- **Location**: US Virgin Islands, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 23 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter groupers, snappers, soldierfish, gla
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 18 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 23 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -61,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

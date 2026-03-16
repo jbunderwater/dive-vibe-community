@@ -13,17 +13,17 @@ addedBy: osm_import
 
 ## Brassball Wreck
 
-The Brassball Wreck is a shallow, beginner-friendly shipwreck located near the coast of St. Kitts. At just 25 feet deep, it's one of the most accessible wreck dives in the region, making it ideal for newer divers and snorkelers wishing to explore wreck formations.
+Brassball Wreck is a historic wreck dive in St. Kitts and Nevis, Caribbean.
 
 ## Overview
 
-This shipwreck sits in calm, shallow water offering excellent visibility and easy navigation for all experience levels. The shallow depth makes it perfect for training dives, first wreck experiences, and extended bottom times. The wreck structure hosts developing coral and sponge communities, with fish populations attracted to the artificial reef structure.
+Brassball Wreck is a dive site in St. Kitts and Nevis featuring the wreck of the Brassball Wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: St. Kitts, Caribbean
+- **Location**: St. Kitts and Nevis, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 8 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
@@ -32,11 +32,11 @@ This shipwreck sits in calm, shallow water offering excellent visibility and eas
 
 ## Marine Life
 
-Groupers, snappers, soldierfish, and glassy sweepers shelter among the wreck. Coral growth and sponge encrustation gradually colonize the hull. Sea turtles, southern stingrays, and small reef sharks are occasionally observed. The wreck structure provides shelter and habitat for a developing marine ecosystem.
+Divers at this site can expect to encounter groupers, snappers, soldierfish, glassy sweepers, coral growth, sponge encrustation, sea turtles (green, hawksbill), southern stingrays. Additional species commonly sighted include eagle rays, nurse sharks, reef sharks, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
 
 ## Dive Profile
 
-The dive begins with a straightforward descent to the wreck at approximately 8 meters. The shallow depth allows for extended bottom times and comfortable exploration. Navigate around the exterior features and stable structure areas. Due to the shallow depth, this is an excellent site for photography and leisurely exploration. Begin your ascent with adequate reserve for a safety stop at 5 meters or shallower.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 8 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -61,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

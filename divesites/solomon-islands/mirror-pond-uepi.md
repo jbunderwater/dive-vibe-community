@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Mirror Pond Uepi
 
-Mirror Pond is an iconic atmospheric swim-through with slanting shafts of ethereal sunlight and an enclosed pond surrounded by island rainforest, located on Mane Island in the Russell Islands.
+Mirror Pond Uepi is a cave dive site in Solomon Islands, Pacific.
 
 ## Overview
 
-Mirror Pond is one of the most scenic and atmospheric dive sites in the Solomon Islands. The dive features an iconic swim-through with slanting shafts of dramatic sunlight throughout most of the passage, with false caves branching off to the left. Upon exiting the cave, divers emerge into a scenic pond surrounded by dense tropical rainforest. The area adjacent to the pond features a great wall with giant sea fans where pygmy seahorses sway in gentle currents. A shallow reef system interspersed with coral bommies surrounds the pond, swarming with colorful reef fish. Crystal-clear water conditions make this a photographer's paradise.
+Mirror Pond Uepi is a dive site in Solomon Islands featuring underwater cave and cavern formations. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
-- **Location**: Mane Island, Russell Islands (western edge)
+- **Location**: Solomon Islands, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/cavern
+- **Site Type**: Cave/Cavern
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: Exceptional clarity—20-50 meters (65-160 feet)
-- **Current**: Minimal
+- **Typical Visibility**: 20-50 meters (65-160 feet)
+- **Current**: Moderate to strong
 - **Best Time**: April to November
 
 ## Marine Life
 
-Colorful reef fish including bright orange flame angels, long-snout butterflyfish, pygmy seahorses on sea fans. Saltwater crocodiles have been occasionally spotted. The cave supports crustaceans and invertebrates adapted to cavern environments.
+Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
 
 ## Dive Profile
 
@@ -61,7 +61,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

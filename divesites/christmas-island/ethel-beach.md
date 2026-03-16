@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Ethel Beach
 
-A beginner-friendly shore dive with excellent snorkeling and vibrant coral reef teeming with tropical fish on Christmas Island's south coast.
+Ethel Beach is a reef dive site in Christmas Island, Oceania.
 
 ## Overview
 
-Ethel Beach is a shore-accessible reef dive featuring vibrant coral formations and abundant marine life. Located on Christmas Island's south coast, the site provides easy entry from the beach with coral reef and vibrant marine life extending immediately from the shore. The reef environment supports diverse tropical fish species and healthy coral structures. The site is popular for both snorkeling and scuba diving, offering an accessible introduction to Christmas Island's reef diving with excellent shore accessibility and calm conditions typical of the protected south coast.
+Ethel Beach is a dive site in Christmas Island offering excellent diving on healthy coral reef structures. Located in the Oceania region, this site offers 15-40 meters of visibility with water temperatures averaging 20-29°C.
 
 ## Site Information
 
-- **Location**: Christmas Island, Oceania (south coast)
+- **Location**: Christmas Island, Oceania
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
-- **Typical Visibility**: 20+ meters (65+ feet)
-- **Current**: Variable, generally mild
+- **Typical Visibility**: 15-40 meters (50-130 feet)
+- **Current**: Variable
 - **Best Time**: September to February
 
 ## Marine Life
 
-Ethel Beach features abundant tropical reef fish including butterflyfish, surgeonfish, parrotfish, tangs, snappers, groupers, and wrasses. Soft and hard corals provide shelter and feeding areas for diverse species. The reef environment supports a healthy tropical ecosystem. Sea turtles are occasionally encountered. The site showcases Christmas Island's marine biodiversity and coral health.
+Divers at this site can expect to encounter great white sharks, grey nurse sharks, whale sharks, manta rays, sea turtles, dolphins, dugongs, potato cod. Additional species commonly sighted include maori wrasse, giant trevally, hard corals, soft corals.
 
 ## Dive Profile
 
-Enter from the beach and descend into healthy coral reef at accessible depths. The reef slopes gradually to approximately 12 meters, with abundant marine life visible throughout the water column. Most diverse coral formations and fish species are found between 5-12 meters. Navigate along the reef following the natural contours, with gentle depth variations allowing flexible dive planning. The sheltered south coast location provides generally calm conditions ideal for beginner-level exploration.
+The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -59,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

@@ -21,18 +21,18 @@ The Wall at Northwest Point is a dive site in Turks and Caicos featuring a drama
 
 ## Site Information
 
-- **Location**: Northwest Point, Providenciales, Turks and Caicos
+- **Location**: Turks and Caicos, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate
+- **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-The wall features distinctive spur and groove coral formations along the northern edges, with elephant ear sponges covering the vertical landscape. Hard and soft coral fields are common. Eagle rays, reef sharks, and abundant reef fish species patrol the wall. Sea turtles are frequently encountered. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
@@ -61,7 +61,7 @@ Wall dives offer stunning wide-angle opportunities with dramatic depth perspecti
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

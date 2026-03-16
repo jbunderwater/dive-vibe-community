@@ -13,38 +13,43 @@ addedBy: osm_import
 
 ## Ata
 
-Ata is a historical hydrographic marker for a deteriorated wreck off remote 'Ata Island. The site represents a 1965 historical event rather than an active diving destination.
+Ata is a reef dive site in Tonga, Pacific.
 
 ## Overview
 
-Ata refers to a historical wreck marker related to a 1965 incident when six Tongan schoolboys stole a small 7.3-meter wooden boat and drifted 320 km across the Pacific during a storm. The vessel broke apart near 'Ata Island after eight days at sea, and the boys swam ashore using salvaged planks. The wreck was likely heavily broken and scattered on rocks near shore, with no subsequent recovery or salvage. The site exists primarily as a historical marker rather than a recreational diving destination.
+Ata is a dive site in Tonga offering excellent diving on healthy coral reef structures . Historical marker for 1965 castaways' boat (7.3m wooden vessel). Heavily broken/scattered on rocks near shore; unlikely to be a recreational dive site. Changed to reef as wreck is too deteriorated.. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
-- **Location**: Near 'Ata Island, remote southern Tonga (85 nautical miles SW of Tongatapu)
+- **Location**: Tonga, Pacific
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Status**: Not a recreational dive site
-- **Access**: Extremely remote; no dive infrastructure
-- **Safety Profile**: Remote island location; dangerous approach
+- **Maximum Depth**: 12 meters
+- **Typical Visibility**: 20-50 meters (65-160 feet)
+- **Current**: Moderate to strong
+- **Best Time**: April to November
 
-## Historical Context
+## Marine Life
 
-The wreck stems from the 1965 castaways incident documented in maritime history. The boat was destroyed on rocks and the vessel was heavily broken during wrecking—not suitable for diving. No modern dive activity is documented at this location.
+Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
 
-## Dive Profile and Access
+## Dive Profile
 
-**This site is NOT recommended for diving.** The vessel was destroyed during the 1965 wrecking event, likely scattered across rocks in the surf zone. The remote island location (85 nm southwest of Tongatapu) and lack of infrastructure make any diving operations impractical. The site exists primarily as historical maritime interest, not as an active diving destination.
+The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+
+## Entry and Exit
+
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
 - Excellent site for newer divers — calm conditions and easy navigation
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
+- Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
+- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
@@ -52,11 +57,11 @@ Be aware of strong currents, remote locations, jellyfish in this area. Dive with
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

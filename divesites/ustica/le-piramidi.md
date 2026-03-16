@@ -13,47 +13,45 @@ addedBy: osm_import
 
 ## Le Piramidi
 
-Le Piramidi features enormous lava rock formations of pyramidal shape at Ustica's edges, reserved for experienced divers.
+Le Piramidi is a pinnacle dive site in Ustica, Europe.
 
 ## Overview
 
-Le Piramidi features enormous lava rock formations of pyramidal shape located not far from Spalmatore's coast, at the edges of the integral marine reserve zone. The pyramidal-shaped rock masses rise from a seabed of 50 meters to depths as shallow as 10 meters. This is an advanced dive reserved for experienced divers due to complex routes involving tunnels, caves, canyons, and vertical openings. The summits are decorated with orange coral surrounded by damselfish and wrasse, with crevices sheltering grouper, scorpionfish, and moray eels.
+Le Piramidi is a dive site in Ustica offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
 
 ## Site Information
 
-- **Location**: Near Spalmatore, Ustica, Mediterranean
+- **Location**: Ustica, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle/seamount
+- **Site Type**: Pinnacle
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 35 meters
-- **Typical Visibility**: Good - usually 20-35 meters
+- **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: May to October
 
 ## Marine Life
 
-Groupers, scorpionfish, and moray eels shelter in crevices among the pyramidal formations. The summits are decorated with orange coral surrounded by damselfish and wrasse. While fish abundance is relatively limited at this site compared to others, the spectacular volcanic environment compensates with its unique topography and dramatic rock formations.
+Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
 
 ## Dive Profile
 
-This is a complex dive requiring advanced planning. Divers descend through tunnels and caves in the rocky formations, reaching depths around 42 meters before emerging onto a luminous sandy bottom. The pyramidal formations provide multiple passages and vertical openings. A popular ascent route utilizes a narrow chimney canyon returning to the summit at 10 meters for safe decompression on the platform. Adequate air management and buddy awareness are critical given the confined passages and significant depth variations.
+The site offers diving at depths ranging from shallow reef areas down to approximately 35 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. The complex underwater route requires careful navigation. Descend through rocky corridors that form canyon-like passages and vertical openings. Popular routes include descending the south-west side where colorful wide openings feature impressive groupers, and ascending through a narrow chimney canyon back to the summit for safe decompression.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-- Only for certified Deep Divers with experience in complex navigation
-- Thorough briefing from dive operator is essential
-- Dive lights recommended for cave and chimney sections
-- Watch your depth carefully — deep sections require strict depth management
-- Good buoyancy control essential in confined rocky passages
-- This site demands excellent buddy coordination
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 
-This is an advanced site with significant depth and complex navigation. Be aware of moderate currents and boat traffic. Dive strictly within your certification limits — Deep Diver certification is highly recommended. The confined passages require excellent buoyancy control and spatial awareness. Always dive with a buddy, carry a safety sausage (SMB), and maintain constant buddy contact in confined areas.
+Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -61,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

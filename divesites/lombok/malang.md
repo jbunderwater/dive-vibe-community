@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Malang
 
-Malang (Takat Malang) is a deep reef plateau northeast of Gili Meno featuring interesting underwater canyons and varying depths, popular for nitrox diving.
+Malang is a reef dive site in Lombok, Asia.
 
 ## Overview
 
-Malang, also known as Takat Malang, is a unique reef site with a plateau at about 10 meters depth that drops down to 40+ meters with spectacular underwater canyons creating a dramatic landscape. The sea mounts stretch from 7 meters down to 40 meters deep. This is one of the best deep dive sites for recreational divers using nitrox, as it is popular for allowing divers to extend their bottom time on deeper dives. The site's interesting topography with canyons and varying depths makes it particularly exciting for advanced divers seeking more challenging conditions.
+Malang is a dive site in Lombok offering rewarding diving on healthy coral reef structures . source is Diveschool Notice Board - Location might have to be checked with a GPS. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter manta rays, whale sharks, reef shark
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 40 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -52,7 +52,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

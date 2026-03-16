@@ -13,22 +13,22 @@ addedBy: osm_import
 
 ## Sosua Bay
 
-Sosua Bay offers a unique Atlantic diving experience with shallow coral reefs accessible from shore. The bay features minimal current, great visibility, and tropical fish species. It's accessible for all certification levels, making it ideal for newer divers to gain experience in calm, protected waters.
+Sosua Bay is a reef dive site in Dominican Republic, Caribbean.
 
 ## Overview
 
-Sosua is famous for beginner-friendly diving with excellent year-round conditions. The bay offers a variety of underwater landscapes from shallow reefs to deeper walls outside the confines of the bay. The shallow coral gardens feature numerous fish species, colorful corals, and occasionally seahorses. The protected western side provides calm waters while the eastern side offers stronger currents for more experienced divers. Sosua Bay remains one of the most accessible and consistent dive destinations on the island.
+Sosua Bay is a dive site in Dominican Republic offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Puerto Plata Province, Sosua, Dominican Republic
+- **Location**: Dominican Republic, Caribbean
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Minimal in bay
-- **Best Time**: Year-round (water temperature averages 27°C/82°F)
+- **Current**: Light to moderate
+- **Best Time**: December to April (dry season)
 
 ## Marine Life
 
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter sea turtles (green, hawksbill), sout
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 16 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-16 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -59,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

@@ -13,24 +13,22 @@ addedBy: osm_import
 
 ## Chinese Wall
 
-Chinese Wall is a North Wall dive site featuring steep wall formations and excellent coral and sponge growth. This intermediate-level wall dive offers dramatic topography and good opportunities for encountering pelagic species beyond the wall face.
+Chinese Wall is a wall dive site in Cayman Islands, Caribbean.
 
 ## Overview
 
-Chinese Wall is a Grand Cayman North Wall site known for its steep wall formations and excellent coral and sponge encrustation. The site's name reflects the dramatic vertical nature of the wall formation. The steep wall provides good habitat for both reef fish and pelagic species. Divers following the wall face typically encounter a variety of fish species and have opportunities to spot larger pelagic visitors in the blue water beyond the wall.
+Chinese Wall is a dive site in Cayman Islands featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: North Wall, Grand Cayman, Caribbean
+- **Location**: Cayman Islands, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Depth Range**: 20-45 meters (primary diving at 40 meters or shallower)
-- **Wall Face**: Steep formations extending beyond recreational limits
+- **Maximum Depth**: 45 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
-- **Notable Feature**: Steep wall with excellent coral and sponge growth
 
 ## Marine Life
 
@@ -38,7 +36,7 @@ Divers at this site can expect to encounter sea turtles (green, hawksbill), sout
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-25 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-45 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
@@ -63,7 +61,7 @@ Wall dives offer stunning wide-angle opportunities with dramatic depth perspecti
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

@@ -9,54 +9,50 @@ siteType: reef
 ref: null
 osmId: null
 addedBy: osm_import
-validated: true
-validationSource: web_research
 ---
 
 ## Pintu Kota
 
-Pintu Kota, meaning "Gate of the City," is a scenic reef dive site in southern Ambon Bay featuring an impressive underwater archway covered with sea fans and gorgonians. On land, a giant rock jutting into the sea mirrors the underwater formations.
+Pintu Kota is a reef dive site in Ambon, Asia.
 
 ## Overview
 
-Pintu Kota is a well-known dive site in the southern part of Ambon Bay, named after the distinctive gate-like rock formation visible from the shore. Both the terrestrial rock arch and underwater archway create a dramatic landscape. The underwater archway lies at approximately 15-17 meters depth and is covered with colorful sea fans and gorgonians, creating stunning visual scenery. Visibility typically ranges from 15-20 meters, with water temperatures averaging 26-28°C.
+Pintu Kota is a dive site in Ambon offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Ambon Bay, south side
+- **Location**: Ambon, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 16 meters
-- **Typical Visibility**: 15-20 meters
-- **Current**: Light to moderate
-- **Best Time**: March-April and September-December (dry season)
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-The archway structure and surrounding reef are covered with sea fans, gorgonians, and soft corals. Typical reef fish include snappers, grouper, wrasse, trevally, and various smaller reef species. The coral-covered rock provides habitat for crustaceans and small invertebrates.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
 
 ## Dive Profile
 
-Descend to the archway area at approximately 15-17 meters depth. Swim through the underwater arch and explore the surrounding coral formations. The site is relatively compact—most exploration occurs around the arch structure. Plan dives of 40-50 minutes with focus on the detailed coral formations and associated reef life.
+The site offers diving at depths ranging from shallow reef areas down to approximately 16 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-16 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
-Boat entry via giant stride to the site. Descend to the archway area following natural descent paths. Navigate around the archway and explore nearby coral formations. Ascend back to the boat and conduct a safety stop during ascent. Exit at the boat.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-- Excellent photography site with dramatic archway formations
-- The sea fan-covered arch is the highlight—navigate carefully to appreciate it fully
-- Macro photography in coral crevices reveals interesting small creatures
-- Respect delicate gorgonians and sea fans—avoid contact
-- The site is relatively compact, so focus on detailed observation rather than covering distance
-- Multiple dives at this site reveal seasonal changes in marine life
-- Good conditions during dry season
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
+- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
-Moderate depth and light to moderate currents make this suitable for Intermediate divers. Maintain good buoyancy to avoid damaging the coral formations. Be aware of the rock structure and navigate carefully. Watch for sharp coral edges when swimming through the arch. Always dive with a buddy and maintain good communication. Deploy your SMB and conduct safety stops during ascent.
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -64,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

@@ -13,22 +13,22 @@ addedBy: osm_import
 
 ## THGI Nungwi
 
-THGI Nungwi is a shallow reef site off Nungwi village in northern Zanzibar. This beginner-friendly reef offers protected shallow waters and vibrant coral formations accessible from local dive operators.
+THGI Nungwi is a reef dive site in Zanzibar, Africa.
 
 ## Overview
 
-THGI Nungwi is a coral reef dive site off Nungwi beach on Zanzibar's north coast. The shallow reef features healthy coral structures and abundant tropical fish species. This site is suitable for all experience levels and offers excellent visibility with calm, protected waters. Nungwi's north and west shores provide protected diving with shallow lagoons ideal for beginner training and recreational diving.
+THGI Nungwi is a dive site in Zanzibar offering excellent diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
 
 ## Site Information
 
-- **Location**: Nungwi, northern Unguja, Zanzibar
+- **Location**: Zanzibar, Africa
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 10-25 meters (33-82 feet)
-- **Current**: Light to moderate
-- **Best Time**: October to March; Nungwi accessible year-round
+- **Typical Visibility**: 10-30 meters (30-100 feet)
+- **Current**: Moderate to strong
+- **Best Time**: October to March (East Africa), varies by location
 
 ## Marine Life
 
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter whale sharks, manta rays, humpback w
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -44,6 +44,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
+- Excellent site for newer divers — calm conditions and easy navigation
 - Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
@@ -60,7 +61,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

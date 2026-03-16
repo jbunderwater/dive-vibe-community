@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Ocho Rios Reef
 
-Ocho Rios Reef is a beginner-friendly coral reef site in Jamaica's northeast with variable depth options, protected shallow reefs, and excellent visibility up to 100 feet.
+Ocho Rios Reef is a reef dive site in Jamaica, Caribbean.
 
 ## Overview
 
-Ocho Rios offers versatile reef diving with depths ranging from 10 to 40 meters (32-131 feet), allowing divers to choose shallow protected reefs or deeper wall explorations. The site features healthy coral formations, abundant reef fish, turtles, and occasional rays. Beginner divers can stay in the shallow protected sections (10-15 meters), while more experienced divers can explore deeper areas with magnificent drop-offs. The north shore location provides generally calm conditions with minimal current, making it suitable for various experience levels within a single dive site.
+Ocho Rios Reef is a dive site in Jamaica offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter sea turtles (green, hawksbill), sout
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 16 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-16 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

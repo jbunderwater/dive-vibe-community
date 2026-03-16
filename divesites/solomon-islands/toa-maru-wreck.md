@@ -13,26 +13,30 @@ addedBy: osm_import
 
 ## Toa Maru Wreck
 
-The Toa Maru is the largest and most impressive WWII Japanese shipwreck accessible at recreational diving depths in the Solomon Islands, located just 20 minutes by boat from Gizo.
+Toa Maru Wreck is a historic wreck dive in Solomon Islands, Pacific.
 
 ## Overview
 
-The Toa Maru is a 140-meter Japanese transport vessel that rests on its starboard side, sloping dramatically from shallow water to 40 meters. The top of the wreck can be reached at just 12 meters, while the stern lies in the deepest accessible waters. The 440-foot-long hull contains extensive cargo visible throughout the dive, including military equipment, ammunition, sake bottles, and various WWII-era artifacts. The wreck is in exceptional condition, offering excellent exploration opportunities from shallow sections to deeper stern investigations.
+Toa Maru Wreck is a dive site in Solomon Islands featuring the wreck of the Toa Maru Wreck. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
-- **Location**: Gizo, Western Province (20 minutes by boat)
+- **Location**: Solomon Islands, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 40 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate
+- **Current**: Moderate to strong
 - **Best Time**: April to November
 
 ## Marine Life
 
-The massive hull creates habitat for abundant marine life including coral growth, sea fans, reef fish, barracuda, trevally, and occasional sharks. Wreck penetrations reveal cargo holds with diverse invertebrate life.
+Divers at this site can expect to encounter coral growth, anemones, lionfish, scorpionfish, glassy sweepers, manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks. Additional species commonly sighted include sea turtles, napoleon wrasse, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+
+## Dive Profile
+
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 40 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -57,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

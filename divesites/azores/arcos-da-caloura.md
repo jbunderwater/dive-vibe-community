@@ -17,26 +17,26 @@ Arcos da Caloura is a cave dive site in Azores, Europe.
 
 ## Overview
 
-Arcos da Caloura is a accessible cavern dive located in a sheltered bay just 300 meters from the São Miguel coast. The reef plateau begins at only 5 meters depth and drops to 20 meters, with a spectacular 16-meter-deep cave forming the site's main attraction. The cave features a huge opening with several light entrances, making it suitable for all experience levels including snorkeling. The site is renowned for schools of large white trevallies and resident dusky groupers inhabiting the cave system.
+Arcos da Caloura is a dive site in Azores featuring underwater cave and cavern formations. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
 
 ## Site Information
 
-- **Location**: São Miguel Island, Azores (300m offshore, sheltered bay)
+- **Location**: Azores, Europe
 - **Entry Type**: Shore entry
-- **Site Type**: Cave/cavern
+- **Site Type**: Cave/Cavern
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 15-25 meters (50-80 feet)
-- **Current**: Minimal (sheltered bay)
-- **Best Time**: Year-round (sheltered conditions)
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Light to moderate
+- **Best Time**: May to October
 
 ## Marine Life
 
-The cave ceiling regularly displays dozens of different nudibranchs species. Schools of large white trevallies congregate at the cave entrance. Resident dusky groupers patrol the interior. The cave environment supports low-light adapted species including crustaceans and cryptic fish taking shelter in the overhangs. Outside the cave, reef fish including wrasses, parrotfish, and chromis are abundant.
+Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
 
 ## Dive Profile
 
-Enter from the sheltered bay and descend to the reef plateau at 5 meters. Navigate to the cave entrance at 16 meters. The cavern interior is well-lit by multiple entrances, making it ideal for building underwater confidence. Maximum depth at the cave bottom is 20 meters. The site's accessibility and calm conditions make it perfect for baptism dives, night diving, and macro photography of invertebrate life.
+The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -59,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

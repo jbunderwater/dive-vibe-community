@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Lighthouse Reef
 
-A convenient, busy harbor reef marked by a distinctive 30-foot concrete pillar, offering shallow reef life with easy access to most dive centers.
+Lighthouse Reef is a reef dive site in Utila, Caribbean.
 
 ## Overview
 
-Lighthouse Reef is identified by a prominent concrete pillar that rises about 10 meters (30 feet) above the surface, marking both the site and the entry channel to Utila's main harbor. The site is typically busy due to its close location to most dive centers. Very shallow and full of life, with the ocean side dropping off nicely. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Lighthouse Reef is a dive site in Utila offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Utila, Caribbean (Marks main harbor entry)
+- **Location**: Utila, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
@@ -32,11 +32,11 @@ Lighthouse Reef is identified by a prominent concrete pillar that rises about 10
 
 ## Marine Life
 
-This site offers good visibility and opportunities to see marine life including turtles and lobsters. The area is known for having varied coral formations and abundant sea life typical of Utila's reef system. Sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish, blue tangs, trumpetfish, moray eels, and lobsters populate the reef.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 21 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -44,13 +44,8 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- This is a conveniently located site—close to most dive centers and harbor facilities
-- Expect busy conditions; coordinate timing with dive operators
-- Perfect for quick dives or first-time visitors to Utila
-- The drop-off on the ocean side offers varied topography and good marine life viewing
-- Accessible by kayak if you want a independent experience
 - Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera—this site offers excellent reef photography opportunities
+- Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
 - Respect marine life and maintain proper buoyancy to protect the reef
 
@@ -64,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

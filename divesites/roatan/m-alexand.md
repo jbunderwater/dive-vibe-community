@@ -17,13 +17,13 @@ M Alexand is a historic wreck dive in Roatán, Caribbean.
 
 ## Overview
 
-M Alexand is Roatán's largest shipwreck, a 4,064-ton cargo freighter built in Germany in 1951. The vessel sank in 1981 while carrying 300,000 sacks of cement to Ecuador. It was towed to Dixon Cove during hurricane season and has remained motionless ever since, slowly deteriorating. The M Alexand is an imposing and iconic wreck, one of the most photographed shipwrecks on the island. Water temperatures average 26-29°C.
+M Alexand is a dive site in Roatán featuring the wreck of the M Alexand which sank in 1981. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
@@ -36,24 +36,24 @@ Divers at this site can expect to encounter groupers, snappers, soldierfish, gla
 
 ## Dive Profile
 
-The M Alexand is a massive 4,064-ton cargo vessel resting in Dixon Cove. Descend to explore the impressive rusting hull, one of the most photographed wrecks on the island. The size and scale of this wreck make it suitable primarily for advanced divers or those with wreck training. Exterior exploration allows photographers to capture the imposing structure. Full penetration requires advanced training and equipment. Monitor air supply and depth carefully when exploring this large wreck.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 30 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
 - Bring a dive torch to illuminate wreck interiors and dark overhangs
 - Maintain proper buoyancy to avoid disturbing silt inside the wreck
 - Do not attempt penetration without proper training and equipment
+- Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -61,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

@@ -17,13 +17,13 @@ Chief Minister Wreck is a historic wreck dive in Turks and Caicos, Caribbean.
 
 ## Overview
 
-Chief Minister Wreck is a wreck dive site in Turks and Caicos. This site name was not found in standard shipwreck databases; it may be known by an alternative name or be a lesser-known local wreck. Additional research is needed to fully validate this site's historical and current diving status.
+Chief Minister Wreck is a dive site in Turks and Caicos featuring the wreck of the Chief Minister Wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
 - **Location**: Turks and Caicos, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
@@ -61,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

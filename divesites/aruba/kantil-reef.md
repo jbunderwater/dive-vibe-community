@@ -13,23 +13,22 @@ addedBy: osm_import
 
 ## Kantil Reef
 
-Kantil Reef is an advanced wall dive featuring a spectacular drop-off with gigantic boulder formations and exceptional coral growth, offering stunning photography opportunities.
+Kantil Reef is a wall dive site in Aruba, Caribbean.
 
 ## Overview
 
-Kantil Reef is known for its fascinating wall structure with dramatic drop-off characterized by gigantic boulders of brain and star coral. Massive formations of leaf and sheet corals, along with enormous sea fans and gorgonians, create a richly decorated underwater landscape. The depths range from shallow top areas (5 meters) to impressive drop-offs exceeding 40 meters, with the most interesting features concentrated between 10-30 meters. The site is particularly known for abundant parrotfish, barracudas, and lobsters. Exceptional visibility (25-27 meters typical) makes this an excellent location for both wide-angle and macro photography. The wall structure creates a vertical ecosystem suitable for advanced divers comfortable with depth management and current awareness.
+Kantil Reef is a dive site in Aruba featuring a dramatic vertical wall that drops into the deep blue . Dramatic drop-off with giant boulders, hard/soft corals, visibility 25-27m, good for photography. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Southeastern Aruba, Caribbean
+- **Location**: Aruba, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 27 meters
-- **Typical Visibility**: 25-27 meters (82-90 feet)
-- **Current**: Moderate to strong (drift dive)
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
-- **Special Features**: Gigantic boulders, massive sheet corals, sea fans
 
 ## Marine Life
 
@@ -37,7 +36,7 @@ Divers at this site can expect to encounter sea turtles (green, hawksbill), sout
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-30 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-27 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
@@ -62,7 +61,7 @@ Wall dives offer stunning wide-angle opportunities with dramatic depth perspecti
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

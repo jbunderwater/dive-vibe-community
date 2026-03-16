@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Coral Gardens Beqa
 
-Coral Gardens is a beginner-friendly reef dive in Beqa Lagoon featuring exceptional soft coral gardens and abundant reef fish populations.
+Coral Gardens Beqa is a reef dive site in Fiji, Pacific.
 
 ## Overview
 
-Located in Beqa Lagoon at Caesar's Rocks and surrounding reef areas, Coral Gardens showcase Fiji's renowned soft coral displays in shallow, accessible depths. The site is named for its remarkable array of healthy soft corals including vibrant gorgonians and sea fans, combined with abundant reef fish, turtles, rays, and diverse invertebrate life. Shallow depths and calm conditions make this an ideal site for newer divers or those seeking to experience Beqa's marine life without the adrenaline of the shark sites.
+Coral Gardens Beqa is a dive site in Fiji offering excellent diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
-- **Location**: Beqa Lagoon, Fiji
+- **Location**: Fiji, Pacific
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 20-35 meters
-- **Current**: Mild to moderate
+- **Typical Visibility**: 20-50 meters (65-160 feet)
+- **Current**: Moderate to strong
 - **Best Time**: April to November
 
 ## Marine Life
 
-Coral Gardens features lush soft coral gardens with abundant gorgonians and sea fans, along with reef fish schools including butterflyfish, angelfish, parrotfish, and groupers. Turtles and rays are frequently encountered. Invertebrate life is rich, including lionfish, moray eels, nudibranchs, and various crustaceans. The shallow coral-rich environment provides excellent opportunities for macro photography and reef fish observation.
+Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
 
 ## Dive Profile
 
@@ -61,7 +61,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

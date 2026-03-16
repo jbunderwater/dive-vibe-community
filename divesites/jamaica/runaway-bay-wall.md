@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Runaway Bay Wall
 
-Runaway Bay Wall is a spectacular deep wall dive featuring a sheer 125+ foot (40+ meter) drop with an anchored chain at 50 feet providing navigation reference.
+Runaway Bay Wall is a wall dive site in Jamaica, Caribbean.
 
 ## Overview
 
-Runaway Bay Wall stands as one of Jamaica's premier wall diving experiences, accessed directly from the Franklin D. Resort. The site features a dramatic wall that begins at moderate depths and plunges beyond recreational limits, requiring advanced certification and excellent depth discipline. An anchor chain dangling from 15 meters (50 feet) marks the descent line, while the wall itself displays vibrant soft coral growth, sponges, whips, feather duster worms, and abundant fish life. Divers encounter schools of snappers, rays, turtles, and nurse sharks along the wall.
+Runaway Bay Wall is a dive site in Jamaica featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter sea turtles (green, hawksbill), sout
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-35 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-40 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
@@ -61,7 +61,7 @@ Wall dives offer stunning wide-angle opportunities with dramatic depth perspecti
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

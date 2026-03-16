@@ -13,32 +13,30 @@ addedBy: osm_import
 
 ## Villasimius Marine Park
 
-Villasimius Marine Park centers on the Capo Carbonara Marine Protected Area on the southeastern coast of Sardinia, featuring shallow reef diving, rocky islands, and the possibility of dolphin encounters.
+Villasimius Marine Park is a reef dive site in Sardinia, Europe.
 
 ## Overview
 
-The Villasimius Marine Park (Capo Carbonara MPA) is Sardinia's gateway to underwater action with calm, beginner-friendly diving. The park includes two rocky islands—Cavoli and Serpentara—with the latter known as a dolphin encounter hotspot. Shallow waters (typically 5-15 meters) with excellent visibility and abundant fish life make this an ideal introduction to Mediterranean reef diving. Multiple dive operators offer daily excursions and the area welcomes both divers and snorkelers.
+Villasimius Marine Park is a dive site in Sardinia offering excellent diving on healthy coral reef structures . Protected marine area with Capo Carbonara, easy shallow reef, abundant fish, snorkeling friendly. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
 
 ## Site Information
 
-- **Location**: Villasimius, southeastern Sardinia (Capo Carbonara)
+- **Location**: Sardinia, Europe
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Depth Range**: 2-15 meters
 - **Maximum Depth**: 12 meters
-- **Typical Visibility**: 15-30 meters
-- **Water Temperature**: 14-24°C (seasonal)
-- **Current**: Light
-- **Best Time**: Year-round, peak May to October
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Light to moderate
+- **Best Time**: May to October
 
 ## Marine Life
 
-Abundant fish schools, groupers, snappers, bream, and other Mediterranean species populate the shallow reefs. Dolphins are occasionally spotted in the area, particularly near Isola Serpentara. Sea fans, sponges, and sea urchins cover the rocky substrate.
+Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
 
 ## Dive Profile
 
-This is an excellent beginner site with short, shallow dives suitable for new divers and certification courses. Maximum depths rarely exceed 12 meters, and currents are minimal. Multiple entry points around the rocky islands offer varied shallow diving. Most divers spend 30-45 minutes exploring the reefs, photographing fish and corals, or simply enjoying the calm Mediterranean environment.
+The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -62,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

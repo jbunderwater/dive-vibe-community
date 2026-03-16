@@ -9,65 +9,59 @@ siteType: wall
 ref: null
 osmId: 663869330
 addedBy: osm_import
-validated: true
-validationSource: "PADI, BlueProject, Tripadvisor"
 ---
 
 ## Paso El Cedral Reef
 
-Paso El Cedral Reef (also called Paso de Cedral or Cedar Pass) is an excellent entry-level wall dive on Cozumel's western reef system. Featuring impressive wall topography combined with gentle currents, it's suitable for divers of all certification levels.
+Paso El Cedral Reef is a wall dive site in Cozumel, Caribbean.
 
 ## Overview
 
-This popular site features a transition from flat reef beginning to impressive wall structures. The wall starts at approximately 13-15 meters and drops to 27+ meters, creating dramatic diving experiences while remaining accessible to beginners. The gentle currents and relatively shallow maximum depth make this an ideal destination for newer divers seeking wall diving experiences.
+Paso El Cedral Reef is a dive site in Cozumel featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Cozumel, Mexico
+- **Location**: Cozumel, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 30+ meters (100+ feet)
-- **Current**: Light to moderate (gentle drift)
-- **Best Time**: Year-round, December to April for calmest conditions
-
-## Dive Characteristics
-
-The site begins with flat terrain featuring diverse coral formations including brain coral, elkhorn coral, and towering sea fans. The topography then transitions to an impressive wall with a generally flat approach leading to a vertical drop. Gentle currents provide an easy drift diving experience, allowing you to effortlessly glide along the reef. Exceptional visibility (often exceeding 100 feet) and calm water conditions make this ideal for training and recreational dives.
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Light to moderate
+- **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Commonly encountered species include green and hawksbill sea turtles, nurse sharks, eagle rays, green moray eels, parrotfish, groupers, snappers, and colorful tropical fish. The site is particularly good for observing Caribbean reef ecology due to its healthy coral coverage and abundant fish life.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-Descend to 10-13 meters on the flat beginning section, exploring coral formations. Transition to the wall and follow it down as it slopes away. Stay within 10-18 meters to enjoy the marine life and coral formations while maintaining good buoyancy. Allow time for a safety stop at 5 meters during ascent.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-18 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
-Access exclusively by dive boat from local operators. Entry via giant stride or back roll. Brief your dive guide on your experience level. Descend as a group and stay together while following the wall. Deploy an SMB at safety stop depth for boat pickup.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-- Ideal site for Open Water certification dives due to gentle conditions
-- Excellent for practicing wall diving techniques and buoyancy control
-- Strong marine life observation opportunities for photographers
-- Gentle currents make this suitable for all experience levels
-- Visit early in the day for lighter currents
+- Excellent site for newer divers — calm conditions and easy navigation
+- Watch your depth carefully — wall dives can lead to unintentional deep descents
+- Look in crevices and overhangs for hidden marine life
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
 
 ## Safety Considerations
 
-While beginner-friendly, maintain buddy cohesion and watch for fire coral and sea urchins in wall crevices. Drift diving requires basic buoyancy control. Always carry a safety sausage (SMB) and monitor your depth gauge during wall descent.
+Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-Excellent opportunities for both wide-angle wall shots and macro photography. Coral formations and dense marine life provide diverse subjects. Best lighting during morning hours.
+Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
 ## Additional Resources
 
-- **Source**: PADI Dive Site, BlueProject Cozumel, Tripadvisor
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was validated through research of operator sites and dive databases. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

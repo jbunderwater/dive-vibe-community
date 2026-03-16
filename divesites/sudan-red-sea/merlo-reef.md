@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Merlo Reef
 
-Merlo Reef is a reef dive site in Sudan Red Sea, Middle East.
+Merlo Reef is a wall dive site in Sudan Red Sea, Middle East.
 
 ## Overview
 
-Merlo Reef is a dive site in Sudan Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Merlo Reef is a dive site in Sudan Red Sea featuring a dramatic vertical wall that drops into the deep blue. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
 
 ## Site Information
 
@@ -32,11 +32,11 @@ Merlo Reef is a dive site in Sudan Red Sea offering rewarding diving on healthy 
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-20 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
@@ -44,11 +44,12 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
+- Watch your depth carefully — wall dives can lead to unintentional deep descents
+- Look in crevices and overhangs for hidden marine life
 - Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
 - Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
@@ -56,11 +57,11 @@ Be aware of strong currents, fire coral, lionfish stings in this area. Dive with
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

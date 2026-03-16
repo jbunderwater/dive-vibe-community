@@ -13,31 +13,30 @@ addedBy: osm_import
 
 ## Rocher de la Perle
 
-Rocher de la Perle is a reef dive site in Martinique, Caribbean.
+Rocher de la Perle is a wall dive site in Martinique, Caribbean.
 
 ## Overview
 
-Îlet de la Perle (Pearl Rock) is Martinique's northernmost and most remote diving destination, located 2,800 meters offshore in the Dominique channel near Anse Couleuvre. This secret paradise is protected as part of the Le Prêcheur - Albert Falco Marine Reserve (classified 2014) and is considered by specialists to be one of the most beautiful diving spots in Martinique. The dramatic volcanic rock formation features spectacular drop-offs and a pristine marine ecosystem.
+Rocher de la Perle is a dive site in Martinique featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Le Prêcheur, Martinique (2.8km offshore in Dominique channel)
+- **Location**: Martinique, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Strong, turbulent; exercise caution
+- **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
-- **Special Status**: Protected marine reserve, less frequented
 
 ## Marine Life
 
-Exceptional fish diversity with 68 species identified at this site. Divers encounter schools of bigeye trevally, Southern sennet, large green sea turtles, barracudas, groupers, snappers, parrotfish, and fusiliers. Large pelagic fish and dolphins are sometimes observed. The dramatic rock formations with gorgonians, soft corals, and sponges provide habitat for numerous reef-associated species.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-Descend the dramatic drop-offs and explore the volcanic rock formations. Drop-offs begin around 20 meters and extend to 60 meters. Exercise excellent buoyancy control due to currents and depth. The spectacular geology and abundance of large fish make this a world-class dive site for experienced divers. The remote location and pristine conditions reward those who venture to this northern outpost.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-40 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
@@ -45,6 +44,8 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
+- Watch your depth carefully — wall dives can lead to unintentional deep descents
+- Look in crevices and overhangs for hidden marine life
 - Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
@@ -52,15 +53,15 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

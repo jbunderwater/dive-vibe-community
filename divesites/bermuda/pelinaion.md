@@ -13,33 +13,30 @@ addedBy: osm_import
 
 ## Pelinaion
 
-The Pelinaion is a dramatic and unusual wreck dive featuring one of the most memorable features in Bermuda: a unique tunnel that allows divers to swim beneath the ship's hull. This large cargo steamer, carrying manganese and iron ore, struck the reef on January 16, 1940, during World War II when lighthouse beacons were blacked out.
+Pelinaion is a historic wreck dive in Bermuda, Atlantic.
 
 ## Overview
 
-The Pelinaion's split structure straddles a reef with the bow lying at 30 feet and the stern in sand at 65-70 feet. The site is renowned for its giant steam boilers, triple-expansion engine standing upright, and the extraordinary tunnel-cave system that allows divers to explore beneath the hull. Schools of grunts and snappers blanket the area, with occasional barracuda and blue angel fish visitors.
+Pelinaion is a dive site in Bermuda featuring the wreck of the Pelinaion. Located in the Atlantic region, this site offers 15-30 meters of visibility with water temperatures averaging 20-28°C.
 
 ## Site Information
 
-- **Location**: Bermuda's North Shore
+- **Location**: Bermuda, Atlantic
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 30-40 feet (9-12 meters)
+- **Typical Visibility**: 15-30 meters (50-100 feet)
 - **Current**: Light to moderate
 - **Best Time**: May to October
-- **Ship Type**: Large cargo steamer, built 1907 (originally Hill Glen)
-- **Year Sunk**: January 16, 1940
-- **Notable Feature**: Tunnel cave system through the wreck
 
 ## Marine Life
 
-Large schools of grunts and snappers, barracuda, blue angel fish, and tropical reef species. The diverse wreck structure provides habitat for lobsters, crabs, and countless smaller reef fish.
+Divers at this site can expect to encounter groupers, snappers, barracuda, coral encrustation, sea turtles, reef sharks, groupers, snappers. Additional species commonly sighted include parrotfish, angelfish. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
 
 ## Dive Profile
 
-Descend to the bow at 30 feet and explore the giant steam boilers and engine. Intermediate divers can navigate the reef tunnels carefully, including the famous tunnel under the ship's hull. The stern section requires deeper air consumption at 65 feet. Plan 40-50 minutes of bottom time with careful depth management.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 20 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -64,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Ladder Labyrinth
 
-Ladder Labyrinth is a reef dive site in Saba, Caribbean.
+Ladder Labyrinth is a pinnacle dive site in Saba, Caribbean.
 
 ## Overview
 
@@ -23,7 +23,7 @@ Ladder Labyrinth is a dive site in Saba offering rewarding diving on healthy cor
 
 - **Location**: Saba, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle/seamount
+- **Site Type**: Pinnacle
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
@@ -59,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

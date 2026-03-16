@@ -17,27 +17,26 @@ La Pointe de la Galère is a wall dive site in Port-Cros, Europe.
 
 ## Overview
 
-La Pointe de la Galère, located at the north-east end of Port-Cros island, is one of the most beautiful wall dives in the National Park. A distinctive ridge descends to 34 meters depth, flanked by two walls approximately 7 meters across. The east side features a sandy bottom while the west is covered with posidonia meadows. The site is strongly affected by wind and currents, but a mooring buoy is reserved for diving clubs. An enormous anglerfish regularly hides near a rock outcrop at 28 meters on the east side, making this a photographer's dream.
+La Pointe de la Galère is a dive site in Port-Cros featuring a dramatic vertical wall that drops into the deep blue. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
 
 ## Site Information
 
-- **Location**: North-east coast of Port-Cros, Côte d'Azur, France
+- **Location**: Port-Cros, Europe
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 34 meters
-- **Typical Visibility**: 15-35 meters
-- **Current**: Moderate to strong (watch conditions)
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Light to moderate
 - **Best Time**: May to October
-- **Water Temperature**: 15-24°C
 
 ## Marine Life
 
-The walls and ridge support a dense population of Mediterranean fauna: conger eels, moray eels, Spanish lobsters, gobies, and scorpionfish. Red and yellow gorgonian fans are abundant, along with starfish and nudibranchs. The east side's sandy bottom hosts regular appearances of a large anglerfish. Posidonia meadows on the west provide critical spawning and nursery habitat for Mediterranean fish species.
+Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-22 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-34 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
@@ -62,7 +61,7 @@ Wall dives offer stunning wide-angle opportunities with dramatic depth perspecti
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

@@ -17,7 +17,7 @@ Ema Reef is a reef dive site in Papua New Guinea, Pacific.
 
 ## Overview
 
-South Ema Reef is considered to have all the features of a top dive site in Kimbe Bay. The reef features massive barrel sponges, striking red whip gorgonians, colorful soft coral gardens, and an accessible deep swim-through. North Ema's Reef is located near the Willaumez Peninsula and is known for unique marine life including rare anemonefish species that are harder to find at other dive sites.
+Ema Reef is a dive site in Papua New Guinea offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

@@ -17,26 +17,26 @@ Ilhéu de Vila Franca do Campo is a reef dive site in Azores, Europe.
 
 ## Overview
 
-Ilhéu de Vila Franca do Campo is a protected volcanic island islet located just 500 meters off the coast of São Miguel. The islet's interior bay was created by an extinct volcanic crater that rose from the sea over 4,000 years ago. Originally classified as a Nature Reserve in 1983, it's now integrated into the Caloura–Ilhéu da Vila Franca do Campo Resource Management Protected Area. The protected status limits daily visitors to 400 total, preserving the site's exceptional marine biodiversity and making it ideal for beginners, snorkelers, and underwater photographers.
+Ilhéu de Vila Franca do Campo is a dive site in Azores offering excellent diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
 
 ## Site Information
 
-- **Location**: São Miguel Island, Azores (500m offshore)
+- **Location**: Azores, Europe
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-30 meters (65-100 feet)
-- **Current**: Light
-- **Best Time**: Year-round (sheltered bay)
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Light to moderate
+- **Best Time**: May to October
 
 ## Marine Life
 
-The protected status supports exceptional abundance of Azores chromis (Chromis limbata), ornate wrasses (Thalassoma pavo), blacktail combers, parrotfish, ballan wrasses, barred hogfish, moray eels, and dusky groupers. Common octopuses are frequently encountered. The diverse fish communities and invertebrate fauna thrive due to fishing prohibition.
+Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
 
 ## Dive Profile
 
-Explore major cracks and canyons within the islet's bay structure. Dives can be tailored based on wave direction, with multiple options for all experience levels. Shallow sections suitable for night dives, baptism dives, and snorkeling. The site's accessibility and sheltered conditions make it perfect for skill development and macro photography of nudibranchs and invertebrate life.
+The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -44,6 +44,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
+- Excellent site for newer divers — calm conditions and easy navigation
 - Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
@@ -59,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

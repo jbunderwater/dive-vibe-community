@@ -13,43 +13,54 @@ addedBy: osm_import
 
 ## Isla Bartolome
 
-Bartolome Island sits east of Santiago Island and is famous above water for the iconic Pinnacle Rock formation. The dive site encircles a rocky platform at the base of Pinnacle Rock and extends into terraced volcanic steps — home to one of the most accessible and diverse marine communities in the central Galápagos, including the archipelago's endemic Galápagos penguin.
+Isla Bartolome is a reef dive site in Galápagos Islands, South America.
 
 ## Overview
 
-The dive topography combines a shallow rocky platform at 10 meters with terraced volcanic steps descending to 27–30 meters before reaching a sandy bottom. The terraced steps are covered in black coral bushes with gold and yellow tones, interspersed with overhangs that shelter whitetip reef sharks, moray eels, and sea turtles. Most dive time is spent on the 10-meter platform, where sea lions join the dive from the outset, and on the terraced wall between 10 and 27 meters. The cold Humboldt upwelling keeps waters around Bartolome nutrient-rich, supporting abundant fish life and attracting penguin colonies to the island's rocky shoreline.
+Isla Bartolome is a dive site in Galápagos Islands offering rewarding diving on healthy coral reef structures. Located in the South America region, this site offers 10-25 meters of visibility with water temperatures averaging 15-26°C.
 
 ## Site Information
 
-- **Location**: East of Santiago Island, Galápagos
+- **Location**: Galápagos Islands, South America
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 27 meters
-- **Typical Visibility**: 7–20 meters depending on season and upwelling
-- **Water Temperature**: 18–26°C; cold upwellings year-round
-- **Current**: Moderate; surge in the shallows around Pinnacle Rock
-- **Best Time**: December–May for calmer conditions and visibility; year-round for penguins
+- **Typical Visibility**: 10-25 meters (30-80 feet)
+- **Current**: Moderate to strong
+- **Best Time**: June to November
 
 ## Marine Life
 
-Galápagos penguins are the signature sighting at Bartolome — the colony nests at the base of Pinnacle Rock and individuals dive to hunt, routinely passing divers in the shallows at speed. Galápagos sea lions accompany nearly every dive with acrobatic displays. Whitetip reef sharks rest in overhangs along the terraced steps. Green sea turtles cruise the terraces. Longnose hawkfish, blue-eyed damselfish, and Galápagos seahorses inhabit the black coral branches. Red-lipped batfish are found in sandy areas at the base of the steps. Manta rays and hammerhead sharks are occasionally sighted off the steps in the blue water beyond. Barracuda and large reef fish schools circulate throughout. During the cold season, the upwelling brings occasional mola mola sightings.
+Divers at this site can expect to encounter hammerhead sharks, whale sharks, sea lions, marine iguanas, manta rays, eagle rays, sea turtles, dolphins. Additional species commonly sighted include penguins, moray eels.
 
 ## Dive Profile
 
-Begin at the 10-meter rocky platform, where sea lions are invariably present. Move along the platform edge and descend the terraced steps, examining overhangs for sleeping whitetip sharks and moray eels, and searching black coral for seahorses. Descend progressively to 20–27 meters before ascending back up the terraces. Surge can be significant in the 3–5 meter zone around Pinnacle Rock on exposed days — maintain distance from the rock face during ascent.
+The site offers diving at depths ranging from shallow reef areas down to approximately 27 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+
+## Entry and Exit
+
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+
+## Tips and Recommendations
+
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
+- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
-Surge around Pinnacle Rock can be disorienting in the shallows — maintain buoyancy control and distance from the rock. Moderate current runs along the terraces; plan dive direction with the guide. The upwelling brings cold water that increases air consumption. Suitable for Advanced divers — cold upwellings, surge around Pinnacle Rock, and the potential for moderate current require solid buoyancy control and current-diving experience.
+Be aware of strong currents, cold thermoclines, surge in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-Galápagos penguins are the primary draw for photographers — their speed underwater requires fast shutter speeds and prefocusing. The black coral terraces in gold and yellow tones create compelling wide-angle compositions. Sea turtles resting in overhangs and sea lion portraits are reliable subjects. Red-lipped batfish on the sandy base reward patient macro work.
+This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from Scuba Iguana, Eagle Ray Tours Galápagos, and Academy Bay Diving site guides. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

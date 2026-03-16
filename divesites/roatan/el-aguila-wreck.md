@@ -17,13 +17,13 @@ El Aguila Wreck is a historic wreck dive in Roatán, Caribbean.
 
 ## Overview
 
-El Aguila is a 230-foot (70-meter) cargo freighter intentionally sunk in 1997 as an artificial reef, located off Sandy Bay. The wreck sits at 33 meters (110 feet) and was broken into three pieces by Hurricane Mitch in 1998. The wreck offers numerous swim-throughs, rooms, hallways, and an intact mast teeming with sponges and macro life. This is an excellent introduction to wreck diving in Roatán. Water temperatures average 26-29°C.
+El Aguila Wreck is a dive site in Roatán featuring the wreck of the El Aguila Wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 33 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter groupers, snappers, soldierfish, gla
 
 ## Dive Profile
 
-The dive begins with a descent to the wreck at 33 meters (110 feet). The 230-foot freighter was broken into three sections by Hurricane Mitch, creating distinct dive areas to explore. The wreck features numerous swim-throughs, rooms, hallways, and corridors suitable for introductory wreck dives. An intact mast rises from the structure, heavily encrusted with sponges and providing excellent photo opportunities. Explore carefully, watching air supply and depth. Begin ascent with adequate reserve for a safety stop at 5 meters. This is a deep dive requiring Advanced certification or Deep Adventure training.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 33 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -61,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

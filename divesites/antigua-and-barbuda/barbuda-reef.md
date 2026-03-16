@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Barbuda Reef
 
-Barbuda offers pristine, less-dived alternatives to nearby Antigua's reefs. The island's barrier reef system provides excellent diving with minimal boat traffic and a remote island experience.
+Barbuda Reef is a reef dive site in Antigua and Barbuda, Caribbean.
 
 ## Overview
 
-While Barbuda has no dedicated dive centers, diving here reveals why it's becoming a favorite destination for divers seeking uncrowded reefs and pristine marine environments. The barrier reef extends along the island's coast with features ranging from shallow reefs (Palmetto Point) to deeper barrier reefs (Palaster Reef). This is an excellent complement to Antigua diving.
+Barbuda Reef is a dive site in Antigua and Barbuda offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Barbuda island reefs (offshore from main island)
+- **Location**: Antigua and Barbuda, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 20-30 meters (65-100 feet)
-- **Current**: Minimal
-- **Best Time**: December to April (calm seas)
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Light to moderate
+- **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Hard corals including brain coral and starlet coral dominate. Sandy patches between reefs harbor queen conch, tritons trumpet, and southern stingrays. Spotted eagle rays frequent the area. Green turtles are abundant, and hatchlings can be seen seasonally as they make their way to the ocean. The pristine state of the reefs indicates minimal pressure from diving.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -44,11 +44,11 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- No dedicated dive centers on Barbuda — arrange dives through Antigua operators or provide your own tanks
-- Tanks available for hire/fill from the fisheries building and local outlets
-- Best explored as a multi-day adventure combining snorkeling and diving
-- Expect minimal boat traffic and pristine reef conditions
-- Excellent for turtle and conch viewing compared to heavily dived Antigua sites
+- Excellent site for newer divers — calm conditions and easy navigation
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

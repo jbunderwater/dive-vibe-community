@@ -1,13 +1,13 @@
 ---
 name: Shaab Sheer
-lat: 26.6573803
-lng: 34.0487575
+lat: 26.6434815
+lng: 34.0496239
 difficulty: Intermediate
 maxDepth: 20
 entryType: boat
 siteType: reef
 ref: null
-osmId: 19266689
+osmId: 1396426964
 addedBy: osm_import
 ---
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

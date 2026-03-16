@@ -13,69 +13,54 @@ addedBy: osm_import
 
 ## Angel's Window
 
-Angel's Window is one of Lembeh's more structurally distinctive sites, centered on a large rock formation off the north coast of Lembeh Island with two peaks that rise close to the surface. The site's defining feature is a large swim-through cave that descends from 24 meters down to 32 meters, surrounded by gorgonian sea fans hosting pygmy seahorses. The surrounding seabed transitions from muck sand to a rocky seabed crawling with flying gurnards, mantis shrimps, and other unusual bottom dwellers. It is one of the few Lembeh sites where stonefish covered in algae-like growth have been documented on the pinnacle top.
+Angel's Window is a muck dive site in Lembeh Strait, Asia.
 
 ## Overview
 
-The two rock peaks of Angel's Window create a varied topography: the sides of the structure host sea fans and soft corals, the base transitions to sandy muck terrain, and the deep swim-through cave (entering at around 24 m, descending to 32 m) frames a cavern section with frogfish, nudibranchs, and schooling fish. The rocky seabed beyond the main structure holds flying gurnards — a flamboyant species that spreads its pectoral fins like wings when disturbed — alongside mantis shrimps and diverse bottom dwellers. Multiple gorgonian species on the structure host two pygmy seahorse species.
+Angel's Window is a dive site in Lembeh Strait offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Northern Lembeh Strait, Lembeh Island side, North Sulawesi, Indonesia
+- **Location**: Lembeh Strait, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Muck dive
+- **Site Type**: Muck
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 32 meters
-- **Typical Visibility**: 5–15 meters
-- **Water Temperature**: 26–29°C
-- **Current**: Can be moderate; monitor before diving
-- **Best Time**: Year-round
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Angel's Window combines muck substrate species with pinnacle-associated fauna:
-
-- **Pygmy seahorses** (*Hippocampus bargibanti*) — in *Muricella paraplectana* gorgonian sea fans on the structure; multiple individuals per fan are common
-- **Denise's pygmy seahorse** (*Hippocampus denise*) — in yellow gorgonians on the outer sections
-- **Stonefish** — documented on top of the pinnacle, heavily encrusted with algae-like growth
-- **Flying gurnards** (*Dactyloptena orientalis*) — on the rocky seabed; spread spectacular wing-like pectoral fins when approached
-- **Frogfish** — in the cavern section of the swim-through, among soft corals
-- **Nudibranchs** — various species on the structure and surrounding rubble
-- **Mantis shrimps** — in burrows in the sandy sections at the base
-- **Moorish idols**, **pinnate batfish** (juveniles), and schooling reef fish in and around the swim-through
-- **Ribbon eels** — in sand at the base of the structure
-- **Spotted seahorse** and common seahorse on the rocky seabed
-- **Painted frogfish** and **striated ("hairy") frogfish** — documented in the area
-- **Banggai cardinalfish** and **anthias** schooling around the structure
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
 
 ## Dive Profile
 
-Descend onto the rocky seabed and approach the structure from the base. Scan the surrounding area for flying gurnards and mantis shrimps before ascending the rock face to find the sea fans and pygmy seahorses. Pass through the swim-through cave (entering at around 24 m, descending to 32 m), noting frogfish and nudibranchs in the cavern. Check the pinnacle tops for the heavily camouflaged stonefish. Ascend along the structure, finishing in the shallows where sea fans hold additional pygmy seahorses. The site rewards thorough exploration at each depth zone.
+The site offers diving at depths ranging from shallow reef areas down to approximately 32 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
-Access by dive boat. Giant stride entry from the boat. Currents can be moderate at this site — check conditions before descending. An SMB is essential for the ascent in case of current drift. Plan the dive against the current so the return leg is assisted.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-- This is one of Lembeh's best sites for pygmy seahorses — your guide will search the specific gorgonian species they prefer
-- The flying gurnard's wing display is best triggered by a slow, patient approach from the front — they will spread pectoral fins in a defensive display
-- The swim-through cave (24–32 m) is the structural highlight; leave enough air and bottom time to spend time here
-- Stonefish on the pinnacle top are genuinely difficult to spot — let your guide point them out before you reach a hand in
-- Angel's Window is one of the few Lembeh sites worth a wide-angle lens in addition to macro
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
+- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
-Current is the primary hazard here and can run through the site unexpectedly. Conduct a bubble check on the surface to assess direction and speed before descending. The stonefish on the pinnacle is genuinely venomous — never place hands on the rocky surface. SMB deployment during ascent is strongly recommended. Keep within your certification depth limit at the swim-through.
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-Angel's Window is one of Lembeh's most photographically versatile sites. Pygmy seahorses on gorgonians suit a 100mm macro with focus stacking for depth of field. The flying gurnard's wing display is a dramatic wide-angle or close-focus wide-angle subject. The swim-through has potential for environmental shots with schooling fish. Natural light in the shallows is excellent for nudibranch portraits on the sea fans.
+This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
 ## Additional Resources
 
-- **Validated**: 2026-03-15
-- **Validation Sources**: infinitebluedivetravel.com, starfish.ch, zubludiving.com
+- **Last Updated**: 2026-03-16
 
 ---
-*Dive site information researched from Infinite Blue Dive Travel, starfish.ch Lembeh database, and ZuBlu. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

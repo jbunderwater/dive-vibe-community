@@ -6,74 +6,62 @@ difficulty: Beginner
 maxDepth: 4
 entryType: boat
 siteType: wreck
-ref: osm_13461587401
+ref: null
 osmId: 13461587401
-addedBy: osm_extended
+addedBy: osm_import
 ---
 
 ## The Barge
 
-The Barge is the shallowest wreck in Carlisle Bay at just 4 meters, sitting beneath the surface as a Naval Landing Barge from World War II. This ultra-beginner-friendly site is perfect for snorkelers, children, and new divers seeking wreck exploration without depth concerns.
+The Barge is a historic wreck dive in Barbados, Caribbean.
 
 ## Overview
 
-The Barge is a former Naval Landing Barge, likely from World War II operations or post-war service. Resting in just 4 meters of water within Carlisle Bay Marine Park, it is the shallowest of all Carlisle Bay wrecks. While the barge isn't the most structurally impressive wreck, it has become a thriving artificial reef encrusted with colorful sponges, corals, and seagrasses. The site offers exceptional opportunities for macro photography, snorkeling, and beginner diving. The ultra-shallow depth combined with calm, protected waters makes this ideal for families with children, advanced snorkelers, and divers building confidence in wreck exploration.
+The Barge is a dive site in Barbados featuring the wreck of the The Barge. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Carlisle Bay Marine Park, Barbados
+- **Location**: Barbados, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 4 meters
-- **Typical Visibility**: 20-30 meters (65-100 feet) - excellent due to shallow depth
-- **Current**: Minimal, very calm
-- **Best Time**: Year-round; any day has excellent conditions
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Light to moderate
+- **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Despite the minimal depth, The Barge supports diverse marine life. Abundant sponges in brilliant colors—reds, yellows, oranges, and purples—dominate the structure. Coral growth, seagrass, and macro invertebrates abound. Divers frequently spot nudibranchs, arrow crabs, cleaner shrimp, small fish including gobies and blennies, and numerous species of sea urchins. Parrotfish visit to feed on algae. The wreck attracts small groupers, snappers, and glassy sweepers seeking shelter. Sea grass beds surrounding the wreck provide habitat for spotted eagle rays, southern stingrays, and permit. Snapper schools and jacks occasionally patrol the area. Octopus and cuttlefish are occasionally spotted.
+Divers at this site can expect to encounter groupers, snappers, soldierfish, glassy sweepers, coral growth, sponge encrustation, sea turtles (green, hawksbill), southern stingrays. Additional species commonly sighted include eagle rays, nurse sharks, reef sharks, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
 
 ## Dive Profile
 
-Even snorkelers can explore the top of this wreck from the surface. For divers, the entire structure is easily explored. Descend to the full depth to circle the barge and observe the encrusting life from all angles. The flat, angular frame of the barge creates straightforward navigation—simply circumnavigate the structure at leisure. The extreme shallow depth permits unlimited bottom time. Photographers can spend 30+ minutes at maximum depth. Ascend slowly to enjoy the view from various depths and complete a brief safety stop before surfacing.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 4 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
-Access is by dive boat from local Carlisle Bay operators. Entry is typically via giant stride or back roll from the boat. The mooring line provides descent reference. Due to the shallow depth, ascent is straightforward. Exit is coordinated with the boat crew.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-- The shallowest Carlisle Bay wreck—perfect for introducing snorkelers to underwater wrecks
-- Excellent for families with children who want wreck diving experience
-- Outstanding macro and detail photography opportunities
-- Combine with nearby Eillon or Bajan Queen wrecks for a deeper wreck experience in same trip
-- Snorkeling at this site is highly recommended and rewarding
-- Bring a macro lens or close-up filter for your underwater camera
-- The shallow depth makes this an ideal training site for new divers
-- An excellent second or third dive for extended exploration and photography
+- Excellent site for newer divers — calm conditions and easy navigation
+- Bring a dive torch to illuminate wreck interiors and dark overhangs
+- Maintain proper buoyancy to avoid disturbing silt inside the wreck
+- Do not attempt penetration without proper training and equipment
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
 
 ## Safety Considerations
 
-The ultra-shallow depth and calm waters virtually eliminate all technical diving concerns. Watch for boat traffic within Carlisle Bay—maintain surface awareness and deploy a surface marker buoy (SMB). Fire coral, sea urchins, and sharp metal edges present minor hazards; wear protective gloves and avoid stepping directly on the structure. The minimal current and depth make this suitable even for non-divers. Snorkeling is highly recommended for non-certified individuals. Always maintain buddy contact and follow standard safety protocols. This site is suitable for all experience levels from non-certified snorkelers through advanced divers.
+Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-Exceptional macro photography site. The vibrant sponges in reds, yellows, oranges, and purples photograph beautifully. Nudibranchs, arrow crabs, cleaner shrimp, and other invertebrates provide outstanding macro subjects. Close-up filters and macro lenses are highly recommended. Wide-angle shots of the entire barge structure are achievable. The shallow depth allows abundant natural light. Back-lighting creates stunning detail photographs. Extended bottom time permits numerous photography angles and compositions.
-
-## Nearby Sites
-
-- **Carlisle Bay Marine Park**: Six wrecks and reef sites within easy reach
-- **Eillon**: 13m depth, beginner-friendly wreck nearby
-- **Bajan Queen**: 11m depth, beginner-friendly former tugboat
-- **Stavronikita**: Famous deep wreck (40m) for advanced divers in same bay
+The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
 
 ## Additional Resources
 
-- **Carlisle Bay Marine Park Authority**: Manages moorings and conservation efforts
-- **Local dive operators**: Offer guided tours and current site conditions
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-
-*This dive site information compiled from OSM data, local dive operators, and dive site databases. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

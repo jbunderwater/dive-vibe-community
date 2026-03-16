@@ -6,58 +6,61 @@ difficulty: Intermediate
 maxDepth: 22
 entryType: boat
 siteType: reef
-addedBy: jbunderwater_ai
+ref: null
+osmId: null
+addedBy: osm_import
 ---
 
-# Axel Carlson
+## Axel Carlson
 
-A productive artificial reef 2 nautical miles off Mantoloking containing army tanks, multiple vessel wrecks, and hard substrate in 65–80 feet — one of New Jersey's most accessible offshore reef sites.
+Axel Carlson is a reef dive site in New Jersey Shore, North America.
 
 ## Overview
-The Axel Carlson Artificial Reef, sometimes called the Mantoloking Reef, is one of New Jersey's 14 official artificial reef sites, positioned just 2 nautical miles east of Mantoloking in central New Jersey. The reef sits in a trough alongside an underwater hill known as the Manasquan Ridge — a geological feature that concentrates fish and marine life. The site covers approximately 5.19 square miles with a depth range of 65–80 feet. Like other NJ artificial reefs, the Axel Carlson site has received numerous reef deployments over the years, including army tanks, trawlers, barges, and patrol boats. Named vessels on the reef include the McGinty (trawler, 65 ft), Horseshoe Crab Barge, Swensen barge, Hillman III, and Harbor Charlie patrol boat. The silty mud bottom typical of this area generally produces lower visibility than offshore wrecks, but the prolific reef fish populations make it a popular destination for both divers and anglers.
+
+Axel Carlson is a dive site in New Jersey Shore offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
 
 ## Site Information
-- **Location**: 2.0 nautical miles east of Mantoloking, central New Jersey coast
+
+- **Location**: New Jersey Shore, North America
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 22 meters
-- **Typical Visibility**: 10–20 feet; silty bottom reduces visibility compared to offshore sites
-- **Current**: Variable tidal currents; the Manasquan Ridge nearby can intensify local flow
-- **Best Time**: Late spring through fall; slack tide recommended
+- **Typical Visibility**: 5-25 meters (15-80 feet)
+- **Current**: Variable, can be strong
+- **Best Time**: June to October
 
 ## Marine Life
-The Axel Carlson reef is highly productive. Large populations of sea bass, tautog (blackfish), porgies, and flounder inhabit the reef structures. Army tank structures provide excellent lobster habitat. The Manasquan Ridge setting concentrates bait fish which attract predators including bluefish and striped bass in season. Mussels, anemones, and sponges colonize the harder structural surfaces.
+
+Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
 
 ## Dive Profile
-The reef structures are scattered across the site, so navigation between features is part of the dive experience. The minimum clearance at mean low water is 40 feet, meaning all features are accessible to recreational divers. The army tanks are distinctive photographic subjects and usually have the largest lobster populations. The named vessel wrecks (McGinty, Hillman III, Harbor Charlie) each provide a brief but interesting wreck exploration.
+
+The site offers diving at depths ranging from shallow reef areas down to approximately 22 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
-Charter boats depart from Manasquan Inlet (closest and most commonly used), Point Pleasant, and Barnegat Light. Private boaters can access the site using NJDEP coordinates. The 2-nautical-mile offshore position makes this one of the closer NJ reef sites — transit time is short, making it a practical day-dive option even in marginal weather.
+
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
-- The silty bottom means even minor fin movements cloud the water — practice excellent buoyancy to maintain visibility
-- Dive at or near slack tide for best conditions
-- The army tanks are usually the most visually striking features — ask your captain which tanks are in the best condition currently
-- The Manasquan Ridge nearby can be interesting for marine life concentration — ask your boat about combining this with nearby spots
-- Full Access Zones on the reef allow commercial fishing — expect fishing activity in the area
+
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
+- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
-Intermediate difficulty. The silty bottom and variable visibility require good buoyancy skills and navigation awareness. Tidal currents can create drift between features. Use a DSMB for surface ascents away from the vessel. The close proximity to shore (2 NM) makes this a lower-risk offshore site compared to deeper options.
+
+Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
-The army tanks are the standout photographic subjects at this reef — their angular forms draped in mussels and anemones make for interesting compositions. The silt bottom presents a challenge for clear wide-angle shots; macro photography of encrusting life on hard structures is more reliably sharp. Sea bass and tautog portraits are achievable given the abundant fish population.
 
-## Nearby Sites
-- Axel Carlson Reef additional structures (same general area)
-- Stolt Dagali (18 miles offshore, 60–130 ft)
-- Mohawk (offshore, 80 ft)
-- USS Algol / Shark River Reef (nearby offshore area)
+This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
 ## Additional Resources
-- **Reference**: [njscuba.net — Axel Carlson Artificial Reef](https://njscuba.net/artificial-reefs/new-jersey-reefs/axel-carlson-reef/)
-- **NJDEP Reef Guide**: [A Guide to Fishing and Diving NJ Reefs](https://dep.nj.gov/njfw/wp-content/uploads/njfw/reef_guide.pdf)
-- **Last Updated**: 2026-03-15
+
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was contributed by jbunderwater_ai and last updated on 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

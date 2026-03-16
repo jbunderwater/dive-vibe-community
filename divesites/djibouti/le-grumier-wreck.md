@@ -17,13 +17,13 @@ Le Grumier Wreck is a historic wreck dive in Djibouti, Africa.
 
 ## Overview
 
-Le Grumier Wreck is an advanced wreck dive in the Gulf of Tadjoura, offering exploration of a sunken cargo vessel that has become an artificial reef. The wreck sits at 25-30 meters and has been enveloped by corals and sponges, creating a thriving habitat. This site requires advanced wreck diving experience and is best visited November-January when conditions are calmest. Visibility ranges 8-15 meters with water temperatures 25-28°C.
+Le Grumier Wreck is a dive site in Djibouti featuring the wreck of the Le Grumier Wreck. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
 
 ## Site Information
 
 - **Location**: Djibouti, Africa
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 28 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)
@@ -32,11 +32,11 @@ Le Grumier Wreck is an advanced wreck dive in the Gulf of Tadjoura, offering exp
 
 ## Marine Life
 
-The wreck attracts abundant marine life seeking shelter in the hull structure. Large groupers, batfish, and lionfish are common residents enveloped by hard and soft corals covering the wreck. Fish and invertebrate colonies thrive on the encrusted surfaces. Macro subjects include sponges, nudibranchs, and other small creatures. Larger pelagics occasionally pass by, especially during seasonal visits by whale sharks and manta rays (November-February).
+Divers at this site can expect to encounter groupers, batfish, coral growth, lionfish, whale sharks, manta rays, humpback whales, sea turtles. Additional species commonly sighted include dolphins, reef sharks. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 30 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 28 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -61,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

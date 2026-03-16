@@ -17,13 +17,13 @@ Billinghurst Cave is a cave dive site in Malta and Gozo, Europe.
 
 ## Overview
 
-Billinghurst Cave is a dive site in Malta and Gozo featuring underwater cave and cavern formations . entry/exit ladder. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Billinghurst Cave is a dive site in Malta and Gozo featuring underwater cave and cavern formations . 100m tunnel through cliff face with air pocket at end. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
 
 ## Site Information
 
 - **Location**: Malta and Gozo, Europe
 - **Entry Type**: Shore entry
-- **Site Type**: Cave/cavern
+- **Site Type**: Cave/Cavern
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 26 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter groupers, moray eels, octopus, barra
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 26 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -58,7 +58,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

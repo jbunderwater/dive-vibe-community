@@ -3,7 +3,7 @@ name: Thomas T. Tucker
 lat: -34.2734863
 lng: 18.3808435
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 10
 entryType: shore
 siteType: wreck
 ref: null
@@ -17,15 +17,15 @@ Thomas T. Tucker is a historic wreck dive in Cape Town, Africa.
 
 ## Overview
 
-Thomas T. Tucker is a dive site in Cape Town featuring the wreck of the Thomas T. Tucker which sank in 1942-11-27. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Thomas T. Tucker is a dive site in Cape Town featuring the wreck of the Thomas T. Tucker. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
 
 ## Site Information
 
 - **Location**: Cape Town, Africa
 - **Entry Type**: Shore entry
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 10 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)
 - **Current**: Moderate to strong
 - **Best Time**: October to March (East Africa), varies by location
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter groupers, batfish, coral growth, lio
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 25 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 10 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -61,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

@@ -4,7 +4,6 @@ lat: 11.3512234
 lng: 124.1027874
 difficulty: Intermediate
 maxDepth: 30
-minDepth: 14
 entryType: boat
 siteType: pinnacle
 ref: null
@@ -14,60 +13,54 @@ addedBy: osm_import
 
 ## Bogtong Bato
 
-Bogtong Bato (meaning "Rock Pile") is a dramatic hidden gem featuring a rocky pinnacle rising from the seabed with vibrant corals and abundant pelagic activity.
+Bogtong Bato is a pinnacle dive site in Philippines Malapascua, Asia.
 
 ## Overview
 
-Bogtong Bato is a hidden gem pinnacle site perfect for thrill-seeking intermediate divers. The site features a dramatic rocky pinnacle rising from the depths, adorned with vibrant corals, sponges, and abundant marine life. The heart of Bogtong Bato is a rocky pinnacle with steep walls covered with sea fans, soft corals, and whip corals. The site sits exposed in the open ocean, attracting large schools of trevally, barracuda, and jacks. Visibility is typically 10-40 meters with water temperatures averaging 26-30°C.
+Bogtong Bato is a dive site in Philippines Malapascua offering rewarding diving on healthy coral reef structures . Dive Site. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Philippines Malapascua, Cebu
+- **Location**: Philippines Malapascua, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle/seamount
+- **Site Type**: Pinnacle
 - **Difficulty Level**: Intermediate
-- **Minimum Depth**: 14 meters
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Strong, variable—common but not problematic
-- **Best Time**: October to April
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
-## Site Characteristics
+## Marine Life
 
-Bogtong Bato features a rocky pinnacle with no sandy bottom (unlike other Malapascua pinnacles). The pinnacle rises steeply from deeper water. Sea fans, soft corals, whip corals, and sponges encrust the rock surfaces. The exposed location in open water makes it a magnet for pelagic species.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
 
 ## Dive Profile
 
-Begin your descent on the pinnacle structure and work down from the shallow top (14m) to deeper sections (to 30m). The rocky structure provides defined descent and ascent paths. Most interesting life is found on the vertical rock surfaces throughout the depth range. Allow 40-50 minutes for pinnacle exploration with appropriate decompression stops.
+The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
 Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
-## Marine Life
-
-Sea fans, soft corals, whip corals, sponges, nudibranchs, and macro life on vertical surfaces. Large pelagic fish schools: trevally, barracuda, jacks, mackerel. Batfish. The rocky substrate lacks sand bottom.
-
 ## Tips and Recommendations
 
-- Excellent for intermediate divers seeking pelagic action
-- Bring a wide-angle camera for schooling fish and pelagics
-- Check sea conditions—currents are common but manageable
-- Hidden gem location, less crowded than major sites
-- Good practice for pinnacle diving and depth management
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
+- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
-Strong currents are common but not problematic for trained divers. Maintain excellent buoyancy control on rocky substrate. Dive within Intermediate limits. Be aware of sharp rocks and coral. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-Excellent for wide-angle pelagic photography. The rocky backdrop contrasts nicely with blue water and schooling fish. Macro opportunities on encrusted surfaces.
+This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-03-16
-- **Validated by**: Dive operator research (Evolution Diving)
 
 ---
-*This dive site information was compiled from OpenStreetMap data and dive operator research. Last updated 2026-03-16.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

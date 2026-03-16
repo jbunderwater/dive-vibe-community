@@ -13,17 +13,17 @@ addedBy: osm_import
 
 ## Inglis Shoal
 
-Inglis Shoal is a reef dive site in Papua New Guinea, Pacific.
+Inglis Shoal is a pinnacle dive site in Papua New Guinea, Pacific.
 
 ## Overview
 
-Inglis Shoal is an isolated seamount rising from very deep water to within 11 meters of the surface. The site is exceptionally rich in fish life and pelagic action, renowned for superb visibility and the presence of large predatory fish species. Divers will encounter schools of dogtooth tuna, barracuda, and bigeye trevally, along with rays and other pelagic species on virtually every dive.
+Inglis Shoal is a dive site in Papua New Guinea offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
 - **Location**: Papua New Guinea, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle/seamount
+- **Site Type**: Pinnacle
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter manta rays, reef sharks (grey, white
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

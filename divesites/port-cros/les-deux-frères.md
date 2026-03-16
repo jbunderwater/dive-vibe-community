@@ -17,23 +17,22 @@ Les Deux Frères is a reef dive site in Port-Cros, Europe.
 
 ## Overview
 
-Les Deux Frères features two large parallel tongues of rock running east-west, forming a dramatic underwater landscape. The main rock extends 200 meters and is surrounded by posidonia meadows and sandy banks. This reef site offers excellent biodiversity with groupers, schools of breams, and rich invertebrate life typical of healthy Mediterranean ecosystems. The posidonia meadows provide critical habitat for juvenile fish and are home to numerous small creatures that reward careful observation.
+Les Deux Frères is a dive site in Port-Cros offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
 
 ## Site Information
 
-- **Location**: North of Port-Cros, Côte d'Azur, France
+- **Location**: Port-Cros, Europe
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 15-35 meters
+- **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: May to October
-- **Water Temperature**: 15-24°C
 
 ## Marine Life
 
-Groupers, schools of breams, Mediterranean wrasses, and goatfish patrol the rock formations. Moray eels, octopus, and crabs inhabit crevices. The surrounding posidonia seagrass meadows teem with juvenile fish, seahorses, and invertebrates. Nudibranchs, sea fans, and sponges colonize exposed rock surfaces. The site is excellent for naturalists and macro photographers.
+Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
 
 ## Dive Profile
 
@@ -60,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

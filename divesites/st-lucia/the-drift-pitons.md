@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## The Drift (Pitons)
 
-The Drift is an advanced drift dive in the shadow of Petit Piton, where currents create the sensation of effortlessly gliding through the water.
+The Drift (Pitons) is a drift dive site in St. Lucia, Caribbean.
 
 ## Overview
 
-Located at the base of Petit Piton, The Drift is a thrilling drift dive where the current hits you and you glide with it, letting the drift take over. The dive site starts at about 3 meters (15 feet) before dropping off into the deep. When the current hits, divers experience the sensation of flying, swept along by strong currents. You'll see a lot of hard corals and abundant marine life along the wall structure. This is a drift dive site best suited for advanced divers comfortable with strong currents and deep depth management.
+The Drift (Pitons) is a dive site in St. Lucia offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Base of Petit Piton, St. Lucia
+- **Location**: St. Lucia, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Drift dive
+- **Site Type**: Drift
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Strong - essential for the drift experience
+- **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-The wall structure and strong currents attract diverse marine life including sea turtles, southern stingrays, eagle rays, nurse sharks, and reef sharks. Schools of barracuda, parrotfish, and angelfish are common. The wall crevices and structure shelter blue tangs, trumpetfish, moray eels, and lobsters. Pelagic visitors frequent the blue water beyond the wall.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
 
 ## Dive Profile
 
-Descend to 3 meters and begin drifting with the current along the wall. Let the current do the work while maintaining depth control. Most of the interesting features and hard coral display are found between 10-25 meters. The descent is relatively quick due to currents, so be ready for rapid depth changes. Maintain excellent buoyancy control and monitor your depth gauge regularly. Deploy a surface marker buoy (SMB) at depth for boat crew to follow. The experience is one of effortless motion through a marine landscape.
+The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -44,8 +44,6 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — drift dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
 - Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
@@ -57,11 +55,11 @@ Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

@@ -17,13 +17,13 @@ B-17 Black Jack Wreck is a historic wreck dive in Papua New Guinea, Pacific.
 
 ## Overview
 
-The B-17 Black Jack is a B-17F Flying Fortress (serial number 41-24521) that lies undisturbed at the very limits of recreational diving in clear water off Cape Vogel. This wreck is considered by many to be the best preserved and most impressive WWII aircraft wreck in Papua New Guinea and possibly the world. The aircraft remains structurally intact with wings spread on the sandy bottom, making it an exceptional dive for experienced wreck divers.
+B-17 Black Jack Wreck is a dive site in Papua New Guinea featuring the wreck of the B-17 Black Jack Wreck. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
 - **Location**: Papua New Guinea, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 50 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)
@@ -53,7 +53,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-This is a deep technical wreck dive at nearly 50 meters (160 feet), at the very limits of recreational diving. Decompression stops and bottom time management are critical to a safe dive. The site has a fatality history, with two deaths reported since its discovery in 1986. Only experienced, competent divers should attempt this site. Proper dive planning, emergency procedures, and contingency air supplies are essential. Always dive with a buddy and maintain excellent buoyancy control.
+Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -61,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

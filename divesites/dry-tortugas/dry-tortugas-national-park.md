@@ -3,7 +3,7 @@ name: Dry Tortugas National Park
 lat: 24.646585
 lng: -82.8666228
 difficulty: Intermediate
-maxDepth: 18
+maxDepth: 30
 entryType: boat
 siteType: reef
 ref: null
@@ -25,7 +25,7 @@ Dry Tortugas National Park is a dive site in Dry Tortugas offering rewarding div
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 5-25 meters (15-80 feet)
 - **Current**: Variable, can be strong
 - **Best Time**: June to October
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, 
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -60,8 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Website**: https://www.nps.gov/drto/
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

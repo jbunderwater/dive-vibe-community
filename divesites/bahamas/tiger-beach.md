@@ -13,22 +13,22 @@ addedBy: osm_import
 
 ## Tiger Beach
 
-Tiger Beach is a legendary shark diving site and one of the world's most famous locations for tiger shark encounters in Grand Bahama.
+Tiger Beach is a reef dive site in Bahamas, Caribbean.
 
 ## Overview
 
-Tiger Beach is the Bahamas' most iconic shark diving site, renowned for consistent tiger shark encounters in relatively shallow, clear water. Located off Grand Bahama's northwestern edge, divers descend onto a flat sandy bottom where tiger sharks, reef sharks, and other large predators gather—particularly during October through January. The site operates as a stationary dive with minimal current and ample bottom time, making it accessible to intermediate divers while providing unforgettable close encounters with apex predators. Visibility regularly exceeds 100 feet.
+Tiger Beach is a renowned dive site in Bahamas offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Grand Bahama, Bahamas
+- **Location**: Bahamas, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 9 meters
-- **Typical Visibility**: 30-40+ meters (100+ feet)
-- **Current**: Minimal to light
-- **Best Time**: October to January (peak tiger shark season), year-round resident population
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Light to moderate
+- **Best Time**: December to April (dry season)
 
 ## Marine Life
 
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter sea turtles (green, hawksbill), sout
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 9 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-9 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -59,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

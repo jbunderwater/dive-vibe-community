@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Five Finger Rock
 
-Five Finger Rock is one of several must-visit sites centered around the Cabrits National Park peninsula in northern Dominica's marine park.
+Five Finger Rock is a reef dive site in Dominica, Caribbean.
 
 ## Overview
 
-This site is part of Dominica's northern marine park, which features several outstanding dive sites. Five Finger Rock is known for its colorful reef structure and abundant marine life. The site is centrally located in one of Dominica's most developed diving regions.
+Five Finger Rock is a dive site in Dominica offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Cabrits area, Portsmouth, north Dominica
+- **Location**: Dominica, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
@@ -32,11 +32,11 @@ This site is part of Dominica's northern marine park, which features several out
 
 ## Marine Life
 
-Abundant reef and pelagic life typical of northern Dominica's productive waters including parrotfish, angelfish, grunts, and various reef sharks and rays.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 22 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -59,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

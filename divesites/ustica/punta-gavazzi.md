@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Punta Gavazzi
 
-Punta Gavazzi is an underwater archaeological dive site in Ustica, featuring Roman and Byzantine artifacts.
+Punta Gavazzi is a reef dive site in Ustica, Europe.
 
 ## Overview
 
-Punta Gavazzi is an underwater archaeological site at Ustica's southern tip, featuring submerged Roman and Byzantine treasures. The dive itinerary follows a fascinating path through ancient amphorae and anchors scattered across the seabed between 10-24 meters depth. The site marks the northern extent of a marine reserve zone extending 8,000 hectares to Punta Omo Morto, combining historical significance with accessible intermediate-level diving.
+Punta Gavazzi is a dive site in Ustica offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
 
 ## Site Information
 
-- **Location**: Southern tip of Ustica, Mediterranean
+- **Location**: Ustica, Europe
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
@@ -32,11 +32,11 @@ Punta Gavazzi is an underwater archaeological site at Ustica's southern tip, fea
 
 ## Marine Life
 
-Mediterranean reef fish and crustaceans inhabit the archaeological site. Groupers, small fish, and nudibranchs are commonly seen among the ancient amphorae and anchors. The artifacts themselves provide habitat structure for reef species.
+Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
 
 ## Dive Profile
 
-The dive path follows artifacts between 10-24 meters depth. Explore scattered amphorae and anchors along the archaeological site. This is an Open Water certified dive accessible to intermediate divers. Careful attention to the artifacts is required to avoid damaging them.
+The site offers diving at depths ranging from shallow reef areas down to approximately 17 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-17 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -44,23 +44,22 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Bring an underwater camera to document the archaeological artifacts
-- Respect all artifacts — do not touch or move items from the site
-- This is an excellent educational dive combining archaeology and marine biology
-- Book with local operators knowledgeable about the historical significance
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 
-Be aware of moderate currents and boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB). Respect the protected marine reserve regulations.
+Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-This site offers excellent macro photography opportunities with close-up artifact details and the marine life living on the ancient objects. Wide-angle shots capture the overall archaeological context. Morning light conditions provide good illumination at these moderate depths.
+This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

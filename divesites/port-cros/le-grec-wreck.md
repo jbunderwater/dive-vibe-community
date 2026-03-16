@@ -17,27 +17,26 @@ Le Grec Wreck is a historic wreck dive in Port-Cros, Europe.
 
 ## Overview
 
-Le Grec (also known as Sagona) is a legendary deep wreck dive located between Porquerolles and Port-Cros. This cargo vessel lies at 47 meters depth and is completely encrusted with corals and anemones, providing shelter for abundant marine life. Like its sister wreck the Donator, the Grec benefits from an incredible abundance of life and is a favorite site for experienced wreck divers seeking dramatic encounters with pelagics and groupers.
+Le Grec Wreck is a dive site in Port-Cros featuring the wreck of the Le Grec Wreck. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
 
 ## Site Information
 
-- **Location**: Between Porquerolles and Port-Cros, Côte d'Azur, France
+- **Location**: Port-Cros, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 47 meters
-- **Typical Visibility**: 15-35 meters
-- **Current**: Moderate (depends on season)
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Light to moderate
 - **Best Time**: May to October
-- **Water Temperature**: 15-24°C
 
 ## Marine Life
 
-The wreck is encrusted with colorful anemones and soft corals supporting a thriving ecosystem. Brown groupers, moray eels, and schools of barracuda frequent the structure. Gorgonian fans and sponges create intricate habitats on the wreck's exterior. The abundance of life rivals the Donator, making this one of the most biodiverse wreck sites in the Mediterranean.
+Divers at this site can expect to encounter conger eels, lobsters, crabs, anemones, coral encrustation, groupers, moray eels, octopus. Additional species commonly sighted include barracuda, sea bream, amberjack. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 45 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 47 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -62,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

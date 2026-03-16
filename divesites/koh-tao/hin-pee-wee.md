@@ -13,17 +13,17 @@ addedBy: osm_import
 
 ## Hin Pee Wee
 
-Hin Pee Wee features granite pinnacles and coral gardens with depths of 10-30 meters, shaped like a pyramid. The site is best dived from bottom upward, with the top of the main pinnacle at approximately 8 meters. The site is home to batfish, barracuda, and large groupers, with excellent opportunities for spotting reef sharks.
+Hin Pee Wee is a pinnacle dive site in Koh Tao, Asia.
 
 ## Overview
 
-Hin Pee Wee is a popular pinnacle dive offering scenic granite formations surrounded by coral gardens and healthy marine life. The pyramid-shaped pinnacle creates interesting topography for exploration at beginner-friendly depths. The site is excellent for training and skill practice while offering engaging marine life encounters. Visibility ranges from 10-40 meters with water temperatures averaging 26-30°C year-round.
+Hin Pee Wee is a dive site in Koh Tao offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
 - **Location**: Koh Tao, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle/seamount
+- **Site Type**: Pinnacle
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 28 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
@@ -61,7 +61,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

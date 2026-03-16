@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Samu Reef Kadavu
 
-Samu Reef (Naiqoro Passage) is an extremely rewarding drift dive through Kadavu's Great Astrolabe Reef, featuring non-stop walls and exceptional marine life.
+Samu Reef Kadavu is a drift dive site in Fiji, Pacific.
 
 ## Overview
 
-Located on the Great Astrolabe Reef, Samu Reef (also known as Naiqoro Passage) is a recognized marine sanctuary and one of Fiji's most spectacular drift dives. This 1.5-kilometer drift dive through the reef offers non-stop vertical walls, pelagic and reef fish, sharks, and colorful coral gardens. The site is only suitable for strong currents—divers ride the current through the passage, encountering a dynamic marine environment with continuous walls of coral and fish life. The exceptional marine biodiversity and dramatic topography make this a favorite of advanced divers seeking world-class drift diving.
+Samu Reef Kadavu is a dive site in Fiji offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
-- **Location**: Great Astrolabe Reef, Naiqoro Passage, Kadavu, Fiji
+- **Location**: Fiji, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Drift dive
+- **Site Type**: Drift
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters
-- **Current**: Calm to strong (drift diving expected)
+- **Typical Visibility**: 20-50 meters (65-160 feet)
+- **Current**: Moderate to strong
 - **Best Time**: April to November
 
 ## Marine Life
 
-Samu Reef's drift passage features exceptional marine life including reef sharks, groupers, schools of barracuda, trevally, snappers, and diverse reef fish populations. The walls are adorned with coral gardens featuring soft corals and gorgonians. Macro life includes moray eels, nudibranchs, lionfish, and various crustaceans. The site is notable for concentrations of pelagic fish schools and active reef ecosystems.
+Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -52,7 +52,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

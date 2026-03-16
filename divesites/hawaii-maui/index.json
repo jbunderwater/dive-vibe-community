@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Edge of the World",
+    "filename": "edge-of-the-world.md",
+    "lat": 20.6308247,
+    "lng": -156.4985786,
+    "difficulty": "Advanced",
+    "maxDepth": 25,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": 3480272729
+  },
+  {
+    "name": "Enenue",
+    "filename": "enenue.md",
+    "lat": 20.6331437,
+    "lng": -156.4952669,
+    "difficulty": "Advanced",
+    "maxDepth": 25,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": 3480272730
+  },
+  {
+    "name": "Flying Sea Cliffs",
+    "filename": "flying-sea-cliffs.md",
+    "lat": 20.6304686,
+    "lng": -156.4942032,
+    "difficulty": "Advanced",
+    "maxDepth": 25,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": 3480272731
+  },
+  {
+    "name": "Middle Reef",
+    "filename": "middle-reef.md",
+    "lat": 20.6338539,
+    "lng": -156.4969171,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 3480272732
+  },
+  {
+    "name": "Reef's End",
+    "filename": "reefs-end.md",
+    "lat": 20.6348164,
+    "lng": -156.4977891,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 3480273165
+  },
+  {
+    "name": "Shark Condos",
+    "filename": "shark-condos.md",
+    "lat": 20.6341202,
+    "lng": -156.4950612,
+    "difficulty": "Advanced",
+    "maxDepth": 25,
+    "entryType": "boat",
+    "siteType": "cave",
+    "ref": "",
+    "osmId": 3480273166
+  },
+  {
+    "name": "Tako Flats",
+    "filename": "tako-flats.md",
+    "lat": 20.6325031,
+    "lng": -156.4980376,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 3480273167
+  },
+  {
+    "name": "The Back Side",
+    "filename": "the-back-side.md",
+    "lat": 20.6300027,
+    "lng": -156.4959859,
+    "difficulty": "Advanced",
+    "maxDepth": 25,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": 3480273168
+  }
+]

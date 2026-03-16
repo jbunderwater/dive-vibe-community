@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Coral Gardens Grace Bay
 
-Coral Gardens (also known as the Bight Reef) is the most popular snorkeling and beginner diving site in Turks and Caicos, located on Grace Bay Beach.
+Coral Gardens Grace Bay is a reef dive site in Turks and Caicos, Caribbean.
 
 ## Overview
 
-Coral Gardens is located on the western side of Grace Bay, accessible via signage on Lower Bight Road. The Bight Reef consists of one main ridge of coral that extends about 350 feet out from the beach, with maximum depths of 15-20 feet at the outer reaches. While the coral is not quite as vibrant as nearby Smith's Reef, the site is home to wonderful diversity of fish and marine life, with creatures that are more approachable than at other reefs due to regular snorkeler traffic. This shallow, easy-access site is perfect for beginners and builds confidence in open water divers.
+Coral Gardens Grace Bay is a dive site in Turks and Caicos offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Western Grace Bay, Providenciales, Turks and Caicos
+- **Location**: Turks and Caicos, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 6 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Minimal
-- **Best Time**: Year-round, December to April preferred
+- **Current**: Light to moderate
+- **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Fish sightings include stoplight parrotfish, blue parrotfish, bar jacks, Nassau grouper, queen angelfish, butterflyfish, barracuda, porcupinefish, trumpetfish, squirrelfish, yellowtail snapper, queen triggerfish, sergeant majors, damselfish, scrawled filefish, schoolmasters, trunkfish, and yellow goatfish. The creatures here are acclimated to humans and approach divers readily, making this excellent for photography and observation.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 10 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-10 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 6 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-6 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

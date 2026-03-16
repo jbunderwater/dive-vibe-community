@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Cades Reef
 
-Cades Reef is Antigua's largest and most protected reef formation, encompassing a 2-mile barrier reef and the Cades Bay Marine Reserve.
+Cades Reef is a reef dive site in Antigua and Barbuda, Caribbean.
 
 ## Overview
 
-A national marine protected area, Cades Reef features vibrant coral ecosystems, exceptional visibility, and diverse marine life. This is one of Antigua's most popular and accessible dive destinations, suitable for all experience levels. The reef extends for kilometers with excellent snorkeling and diving opportunities.
+Cades Reef is a dive site in Antigua and Barbuda offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Cades Bay, southwest coast of Antigua
+- **Location**: Antigua and Barbuda, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 20-30 meters (65-100 feet)
-- **Current**: Minimal
-- **Best Time**: December to April (dry season with best visibility)
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Light to moderate
+- **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-The reef teems with tropical fish, colorful corals, and sea fans. Commonly sighted are sea turtles, southern stingrays, eagle rays, and lobsters. The marine reserve protects mangrove wetlands, seagrass beds, and sandy beaches that serve as critical turtle nesting sites.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
 
 ## Dive Profile
 
@@ -44,11 +44,11 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Most popular dive site in Antigua — book in advance during peak season
-- Excellent for certification courses given the shallow depth and calm conditions
-- The reef is protected; maintain excellent buoyancy to avoid coral damage
-- Multiple tour operators available; expect typical costs around $100-120 USD per person
-- Combine snorkeling and diving in one trip — this site is equally rewarding for both
+- Excellent site for newer divers — calm conditions and easy navigation
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

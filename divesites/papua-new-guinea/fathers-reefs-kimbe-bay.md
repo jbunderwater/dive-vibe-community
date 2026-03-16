@@ -13,17 +13,17 @@ addedBy: osm_import
 
 ## Fathers Reefs Kimbe Bay
 
-Fathers Reefs Kimbe Bay is a reef dive site in Papua New Guinea, Pacific.
+Fathers Reefs Kimbe Bay is a pinnacle dive site in Papua New Guinea, Pacific.
 
 ## Overview
 
-Fathers Reefs Kimbe Bay consists of a series of seamounts and pinnacles swept by rich currents that bring massive schools of pelagic fish. The site is renowned for its dramatic pelagic action, with schools of barracuda and jacks joined by multiple species of sharks and rays. This is one of Kimbe Bay's most dynamic dive experiences, characterized by excellent visibility and thriving coral gardens on the pinnacle structures.
+Fathers Reefs Kimbe Bay is a dive site in Papua New Guinea offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
 - **Location**: Papua New Guinea, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle/seamount
+- **Site Type**: Pinnacle
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

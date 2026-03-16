@@ -13,21 +13,20 @@ addedBy: osm_import
 
 ## Diver's Dream
 
-Diver's Dream is an intermediate-level reef dive in the Speyside area offering healthy coral formations and diverse marine life.
+Diver's Dream is a reef dive site in Tobago, Caribbean.
 
 ## Overview
 
-Diver's Dream is a rewarding boat dive featuring healthy coral reef structures in the Speyside region. The site offers depths up to 20 meters with abundant marine life and good visibility on most days. An intermediate-level dive suitable for divers with some experience.
+Diver's Dream is a dive site in Tobago offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Speyside, Tobago
+- **Location**: Tobago, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 15-30 meters
-- **Water Temperature**: 27-30°C (81-86°F)
+- **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
 
@@ -60,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

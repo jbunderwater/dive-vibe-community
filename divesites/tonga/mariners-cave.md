@@ -13,31 +13,30 @@ addedBy: osm_import
 
 ## Mariner's Cave
 
-Mariner's Cave is Tonga's most dramatic and ethereal cave dive, famous for its mysterious blue glow and spectacular air compression effects. Located near Nuapapu Island in Vava'u, this is an advanced site requiring strong swimming ability and overhead environment experience.
+Mariner's Cave is a cave dive site in Tonga, Pacific.
 
 ## Overview
 
-Mariner's Cave features an underwater entrance accessible via snorkeling or scuba diving, with distinctive characteristics that make it uniquely memorable. The site is renowned for its ethereal blue glow created by sunlight filtering through the underwater entrance. A defining feature is the dramatic air compression effect: incoming swells trap and compress air inside the cave, instantly creating fog (from cooling water vapor) that clears every few seconds as waves recede. This creates ear pressure sensations similar to high-altitude flying.
+Mariner's Cave is a dive site in Tonga featuring underwater cave and cavern formations. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
-- **Location**: Nuapapu Island, Vava'u, Tonga
+- **Location**: Tonga, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/cavern
+- **Site Type**: Cave/Cavern
 - **Difficulty Level**: Advanced
-- **Depth Range**: 1-15 meters (primary snorkel entrance at 1-4m, scuba entrance at 12-15m)
-- **Typical Visibility**: Excellent despite cave environment
-- **Current**: Exposed to ocean swells; challenging entry/exit
-- **Water Temperature**: 21-28°C
-- **Best Time**: Mid-afternoon for west-facing lighting
+- **Maximum Depth**: 15 meters
+- **Typical Visibility**: 20-50 meters (65-160 feet)
+- **Current**: Moderate to strong
+- **Best Time**: April to November
 
 ## Marine Life
 
-Large lobster observed near the 40-foot (12m) deep swim-through (observe only—do not touch). Adjacent wall dive features fish life along the reef structures. The cave entrance provides protection for specialized species adapted to the unique air compression environment.
+Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
 
 ## Dive Profile
 
-Snorkel entrance: 1-4 meters underwater, requiring horizontal swim of 3-4 meters under a ledge with breath-holding. Scuba entrance: around 12-15 meters deep. Typical scuba plan involves entering the shallow snorkel entrance (3m), exploring interior, exiting via deep swim-through (12m), then following wall to 12m with additional swim-throughs (one 12m to 6m, another 6m to 12m). Sand patch at 12m; final segment in 6m.
+The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -61,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

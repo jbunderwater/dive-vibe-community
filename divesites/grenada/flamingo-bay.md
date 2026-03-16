@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Flamingo Bay
 
-Flamingo Bay is a fringing reef in Grenada's Marine Protected Area, part of the Moliniere Bay system. This colorful reef is home to blue clouds of chromis gliding along sloped reef structures.
+Flamingo Bay is a reef dive site in Grenada, Caribbean.
 
 ## Overview
 
-Flamingo Bay offers accessible beginner-friendly reef diving with a wall that starts at approximately 7 meters and extends to 18 meters. This site is ideal for newer divers with abundant fish life and healthy coral structures. The reef slope provides natural depth progression and multiple exit options. Located in the Caribbean region, this site offers excellent visibility with water temperatures averaging 26-29°C.
+Flamingo Bay is a dive site in Grenada offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
@@ -32,11 +32,11 @@ Flamingo Bay offers accessible beginner-friendly reef diving with a wall that st
 
 ## Marine Life
 
-Flamingo Bay is home to dramatically abundant fish life including blue clouds of chromis, big-eyed squirrelfish, jackknife fish, yellowtail snapper, Creole wrasse, bar jacks, spotted drums, batfish, and garden eels. Also expect to encounter lobster, crabs, and occasionally sea horses, pipefish, and brindled jawfish. Sea turtles, southern stingrays, and eagle rays are frequently sighted.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
 
 ## Dive Profile
 
-The reef slope begins at approximately 7 meters and descends gently to 18 meters. Begin your dive in the shallower sections where chromis swirl around coral formations, then work deeper along the slope to explore deeper reef structures. Most abundant marine life is found throughout the water column. Plan your dive within your certification limits and allow adequate air for safety stops.
+The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

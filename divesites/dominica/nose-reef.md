@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Nose Reef
 
-Nose Reef is a patch reef with a distinctive wall drop-off, featuring the characteristic nose-like protrusions that give the site its name.
+Nose Reef is a reef dive site in Dominica, Caribbean.
 
 ## Overview
 
-Drift lazily atop the reef at Nose Reef, observing the characteristic reef structure. The reef itself features distinctive nose-like protrusions that extend from a wall as it drops deeper. The site offers good opportunities for observing schooling fish and pelagic species, including silvery bogas schools and solitary barracuda along the wall. This is part of Dominica's mid-island diving region.
+Nose Reef is a dive site in Dominica offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Mid-coast region, off Salisbury Beach/St. Joseph area, Dominica
+- **Location**: Dominica, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light
+- **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Schooling fish including bogas, grunts, and other reef species. Pelagic visitors including barracuda and reef sharks. The wall structure supports varied reef community.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -59,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

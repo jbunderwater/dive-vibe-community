@@ -13,55 +13,53 @@ addedBy: osm_import
 
 ## Silverado
 
-Silverado is a small, shallow underwater pinnacle rising to within a few meters of the surface, with a sandy bottom at 13 meters. It is the only known cleaning station at Cocos Island specifically frequented by silvertip sharks — a species found at few other locations in Costa Rican waters. The combination of an exceptionally shallow maximum depth and the rare silvertip shark encounter makes Silverado a distinctive entry in any Cocos itinerary. Divers hover above the two-meter-high pinnacle and wait quietly while silvertips approach the cleaning station fish.
+Silverado is a pinnacle dive site in Cocos Island, Pacific.
 
 ## Overview
 
-Unlike the deep seamounts and exposed walls that define most of Cocos Island diving, Silverado offers a calm, shallow dive where patience is rewarded. The site is built around a single small pinnacle at 11-13 meters, surrounded by a sandy bottom. Silvertip sharks — shy by nature and less commonly encountered than hammerheads at Cocos — approach the cleaning station slowly, giving divers an opportunity for close observation that would be impossible in open-water or current-swept conditions. The site was particularly renowned for silvertip cleaning activity through the early 2000s and remains a reliable stop when conditions at the major seamounts are unfavorable.
+Silverado is a dive site in Cocos Island offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
-- **Location**: Central Cocos Island waters
-- **Entry Type**: liveaboard
-- **Site Type**: Pinnacle/seamount
+- **Location**: Cocos Island, Pacific
+- **Entry Type**: Liveaboard
+- **Site Type**: Pinnacle
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 13 meters
-- **Optimal Depth**: 8-13 meters
-- **Typical Visibility**: 15-25 meters
-- **Current**: Light to moderate
-- **Best Time**: Year-round; best used when deeper sites have unfavorable conditions
+- **Typical Visibility**: 20-50 meters (65-160 feet)
+- **Current**: Moderate to strong
+- **Best Time**: April to November
 
 ## Marine Life
 
-Silvertip sharks are the defining feature — this is one of the only places in Costa Rican waters where divers reliably encounter this species. Their cleaning behavior at the pinnacle is calm and methodical, very different from the open-water schooling of hammerheads at Alcyone. Whitetip reef sharks also use the site and are commonly seen resting on the sand nearby. The surrounding sandy bottom hosts ray species that partially bury themselves. Schools of snappers and jacks occasionally move through from the surrounding open water. The pinnacle itself supports encrusting invertebrates, nudibranchs, and small reef fish.
+Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
 
 ## Dive Profile
 
-Descend to the pinnacle top at around 8-10 meters and maintain a stationary position above and around it. The cleaning station activity occurs on and around the two-meter structure. Silvertips approach from the open water and circle before descending to the station — divers who remain still and neutral will have the best encounters. The maximum depth at the sandy bottom is 13 meters. There is no need to descend deeper. This is a relaxed profile compared to the rest of the Cocos itinerary.
+The site offers diving at depths ranging from shallow reef areas down to approximately 13 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-13 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
-Entry from liveaboard zodiacs. Surface conditions at this site are typically calmer than at exposed sites. An SMB is still required for safety stop signaling.
+This site can be accessed from shore or by boat. Shore entry follows established paths to the water. Boat access is available through local dive operators. Check conditions and choose the most appropriate entry method based on weather and sea state.
 
 ## Tips and Recommendations
 
-- Stillness is the key — silvertips are shy and will not approach if divers are moving or hovering awkwardly
-- This is an ideal site for maximizing bottom time with no decompression concerns — long, relaxed dives at 10-12 meters
-- Use this dive to practice buoyancy and positioning skills before the current-intensive seamount sites
-- Bring a macro lens — the pinnacle surface and sandy bottom are productive for small subjects
-- Do not chase or approach silvertips; let them come in on their own terms
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
+- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
-Silverado is the most approachable site at Cocos in terms of depth and current, but Advanced certification remains appropriate given the liveaboard context and remote location. Standard Cocos protocols apply: SMB, buddy system, and zodiac coordination.
+Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-The shallow depth and calm conditions make Silverado excellent for both natural-light and strobe-assisted photography. Silvertip sharks at the cleaning station, with the small pinnacle as background, create a composed and memorable image. Strobes are effective at these depths. Wide-angle works well for full-body shark portraits; macro is productive for the pinnacle surface invertebrates. The sandy bottom provides a clean, bright background for shots looking upward or horizontally.
+This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*Validated against aqua-firma.com, media.costarica.com, and scubadivingearth.com. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

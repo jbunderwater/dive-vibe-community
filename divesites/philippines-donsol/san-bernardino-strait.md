@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## San Bernardino Strait
 
-San Bernardino Strait is an advanced wall dive separating Luzon from Samar with strong tidal currents and diverse marine habitat.
+San Bernardino Strait is a wall dive site in Philippines Donsol, Asia.
 
 ## Overview
 
-San Bernardino Strait connects the Samar Sea with the Philippine Sea, separating the Bicol Peninsula of Luzon from Samar. The strait features a dramatic geography with a sill at approximately 80-90 meters depth and narrow passages. Strong tidal currents (2-3 m/s during spring tides) drive nutrient upwelling, creating rich marine biodiversity. The strait's wall formations and deep channels make it a challenging but rewarding advanced diving destination.
+San Bernardino Strait is a dive site in Philippines Donsol featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Between Luzon (Sorsogon) and Samar, connecting Samar Sea and Philippine Sea
+- **Location**: Philippines Donsol, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 28 meters
-- **Typical Visibility**: 15-40 meters
-- **Current**: Very strong (tidal currents 2-3 m/s, particularly on spring tides)
-- **Best Time**: November to May (during calmer neap tides if possible)
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-The nutrient upwelling and strong currents support exceptional marine biodiversity. Pelagic visitors including sharks and rays are attracted by the plankton and active reef life. Reef fish communities colonize the walls, with macro life in crevices and overhangs. The wall structure creates different habitats from shallow reef crest to abyssal depths, supporting species adapted to varying light and current conditions.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
@@ -44,13 +44,12 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Plan dives around tidal windows—neap tides offer calmer conditions than spring tides
-- Reef hooks essential given strong currents
-- Advanced wall diving technique required—master depth management on wall profiles
-- Wide-angle lens for pelagic activity; macro lens for wall crevice life
-- Monitor depth gauge constantly on wall dives
-- Current fighting increases air consumption—plan air reserves carefully
-- Check local current forecasts before booking
+- Watch your depth carefully — wall dives can lead to unintentional deep descents
+- Look in crevices and overhangs for hidden marine life
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 
@@ -62,7 +61,7 @@ Wall dives offer stunning wide-angle opportunities with dramatic depth perspecti
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

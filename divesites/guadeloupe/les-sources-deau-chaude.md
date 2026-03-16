@@ -17,7 +17,7 @@ Les Sources d'Eau Chaude is a reef dive site in Guadeloupe, Caribbean.
 
 ## Overview
 
-Les Sources d'Eau Chaude is a dive site in Guadeloupe offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Les Sources d'Eau Chaude is a dive site in Guadeloupe offering rewarding diving on healthy coral reef structures . Unique thermal vents in seabed at 23m with hot springs, royal lobsters, magnificent fault formations from geothermal activity. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
@@ -59,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

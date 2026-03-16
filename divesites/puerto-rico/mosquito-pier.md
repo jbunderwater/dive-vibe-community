@@ -13,38 +13,39 @@ addedBy: osm_import
 
 ## Mosquito Pier
 
-Mosquito Pier is located on Vieques Island and features an abandoned military pier that has transformed into an artificial reef on the island's north shore. The mile-long breakwater creates sheltered waters ideal for beginner divers and divers with limited boat experience. The submerged pier structure attracts diverse fish communities and provides interesting three-dimensional dive navigation.
+Mosquito Pier is a reef dive site in Puerto Rico, Caribbean.
 
 ## Overview
 
-The site offers 40 feet of sheltered water in protected conditions, making it accessible to beginners and divers seeking a relaxed environment. The pier structure creates swimthroughs, overhangs, and fish-attracting habitat. Divers can explore the pier pilings and encounter schooling fish, octopuses, and colorful corals colonizing the artificial structure. The site is ideal for developing navigation skills, practicing buoyancy, and observing fish behavior without demanding depth or current challenges.
+Mosquito Pier is a dive site in Puerto Rico offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Vieques Island, North Shore (mile-long breakwater)
+- **Location**: Puerto Rico, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
-- **Typical Visibility**: 15-25 meters (50-80 feet)
-- **Current**: Minimal to light (sheltered conditions)
-- **Best Time**: Year-round; especially good in summer (calmer months)
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Light to moderate
+- **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-The pier structure attracts dense schools of fish including sergeants, jacks, snappers, angelfish, and parrotfish. Octopuses are frequently spotted around the pilings. Occasional visitors include sea turtles and rays. The colonized pier surfaces provide habitat for moray eels, crustaceans, and nudibranchs. The concentrated marine life and sheltered environment make this an excellent site for wildlife observation and photography.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
 
 ## Dive Profile
 
-Short boat ride from Vieques to the sheltered pier area. Descent to 8-12 meters to explore the pier pilings and structure. Navigation features are prominent, allowing beginners to practice underwater positioning. The site's sheltered conditions and moderate depth allow extended bottom times without challenging currents or depth management issues. Excellent for skill practice, fish observation, and relaxed reef exploration in protected, beginner-friendly conditions.
+The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
 - Excellent site for newer divers — calm conditions and easy navigation
+- Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
 - Respect marine life and maintain proper buoyancy to protect the reef
@@ -59,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

@@ -13,18 +13,26 @@ addedBy: osm_import
 
 ## Koala Reef
 
-Koala is a sandy slope with scattered rubble located south of Eagle Point, offering excellent macro and critter diving opportunities.
+Koala Reef is a muck dive site in Philippines Anilao, Asia.
 
 ## Overview
 
-Koala is a sandy slope with scattered rubble where underwater photographers can find wonderpus, harlequin shrimp, and rhinopias. The site is good for macro lovers with soft corals, some big boulders, small reef fish and anemones with clownfish. Located south of Eagle Point and reachable in 10-12 minutes by traditional boat (banca), Koala is part of Anilao's famous macro diving reputation.
+Koala Reef is a dive site in Philippines Anilao offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+
+## Site Information
+
+- **Location**: Philippines Anilao, Asia
+- **Entry Type**: Boat dive
+- **Site Type**: Muck
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Koala is known for unusual and rare critter finds including wonderpus, harlequin shrimp, and rhinopias. Small reef fish, anemones with clownfish, soft corals, and nudibranchs are abundant. This site is particularly productive for macro photographers seeking unusual subjects beyond typical reef fish.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
 
 ## Dive Profile
 
@@ -52,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

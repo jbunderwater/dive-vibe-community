@@ -13,50 +13,47 @@ addedBy: osm_import
 
 ## Edmund Fitzgerald
 
-Legendary iron ore freighter sunk in 1975 — one of North America's most iconic shipwrecks.
+Edmund Fitzgerald is a historic wreck dive in Great Lakes, North America.
 
 ## Overview
 
-The Edmund Fitzgerald is one of North America's most famous shipwrecks, having sunk in Lake Superior on November 10, 1975. Located at 160m depth, this site is restricted to advanced technical divers only. The wreck requires permit access and is only suitable for divers with deep technical training, including trimix or rebreather certification. This extreme depth makes it one of the most challenging dives in the Great Lakes.
+Edmund Fitzgerald is a renowned dive site in Great Lakes featuring the wreck of the Edmund Fitzgerald which sank in 1975-11-10. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
 
 ## Site Information
 
-- **Location**: Lake Superior, Great Lakes, North America
+- **Location**: Great Lakes, North America
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 160 meters
-- **Typical Visibility**: 10-20 meters
-- **Current**: Variable
-- **Best Time**: Summer (June-August)
-- **Special Requirements**: Permit required, technical training mandatory
+- **Typical Visibility**: 5-25 meters (15-80 feet)
+- **Current**: Variable, can be strong
+- **Best Time**: June to October
 
 ## Marine Life
 
-Lake Superior's deep cold waters support cold-water species including lake sturgeon, whitefish, and lake trout. The deep wreck structure provides habitat for deepwater fish species found in Lake Superior's pristine freshwater environment.
+Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
 
 ## Dive Profile
 
-This is exclusively a deep technical dive requiring extensive planning and specialized equipment. Divers must use technical equipment including decompression gases and dive computers. Multiple staged decompression stops are required during the long ascent. Maximum bottom time is strictly limited by depth and nitrogen narcosis considerations. This is not a recreational dive under any circumstances.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 160 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
-Access is exclusively through technical dive operators with Fitzgerald experience and permits. Operations are highly regulated. Coordination with boat crew is critical for safety in this extreme depth environment.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-- Permit required for diving
-- Absolute minimum requirement: Technical Deep Diving certification
-- Use of trimix or rebreather is essential
-- Dive planning is critical with this extreme depth
-- Only attempt with experienced technical dive operators
-- Cold water protection (drysuits) mandatory
-- Multiple backup gas supplies essential
-- This dive carries serious risk — extensive training and experience required
+- Bring a dive torch to illuminate wreck interiors and dark overhangs
+- Maintain proper buoyancy to avoid disturbing silt inside the wreck
+- Do not attempt penetration without proper training and equipment
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
 
 ## Safety Considerations
 
-Extreme depth diving in cold freshwater. The 160m depth presents significant nitrogen narcosis, decompression sickness risk, and equipment challenges. Water temperatures are cold year-round. This site is only for divers with extensive technical training and experience. Abort parameters must be strictly observed. Always dive with experienced technical dive buddies.
+Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -64,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Meno Wall
 
-Meno Wall is a steeply sloping vertical reef off the northwest side of Gili Meno, excellent for macro diving and night diving with nudibranchs and small critters.
+Meno Wall is a wall dive site in Lombok, Asia.
 
 ## Overview
 
-Meno Wall is a spectacular vertical drop-off off the west side of Gili Meno, descending from approximately 5 meters to a sandy bottom at around 22 meters. The wall is about 100 meters wide and features the characteristic nearly vertical top section that makes it a dramatic dive. It is a premier macro diving and underwater photography site, with shallow entry points making it accessible for divers of all levels.
+Meno Wall is a dive site in Lombok featuring a dramatic vertical wall that drops into the deep blue . source is Diveschool Notice Board - Location might have to be checked with a GPS. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
@@ -32,11 +32,11 @@ Meno Wall is a spectacular vertical drop-off off the west side of Gili Meno, des
 
 ## Marine Life
 
-Meno Wall is exceptional for macro life. The site is known for abundant nudibranchs in multiple species and colors. Moray eels, scorpionfish, pipefish, and leaf scorpionfish hide among the corals and crevices. Night dives reveal nocturnal species including sponge crabs, octopuses, and additional nudibranch species. The wall structure provides microhabitats at varying depths for a diverse array of small reef fish.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-20 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-22 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
@@ -61,7 +61,7 @@ Wall dives offer stunning wide-angle opportunities with dramatic depth perspecti
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

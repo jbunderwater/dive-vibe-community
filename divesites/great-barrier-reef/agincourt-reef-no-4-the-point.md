@@ -3,7 +3,7 @@ name: Agincourt Reef No. 4 - The Point
 lat: -15.9677
 lng: 145.819717
 difficulty: Beginner
-maxDepth: 20
+maxDepth: 18
 entryType: boat
 siteType: reef
 ref: null
@@ -17,7 +17,7 @@ Agincourt Reef No. 4 - The Point is a reef dive site in Great Barrier Reef, Ocea
 
 ## Overview
 
-Agincourt Reef No. 4 - The Point is a dive site in Great Barrier Reef offering excellent diving on healthy coral reef structures. Located in the Oceania region, this site offers 15-40 meters of visibility with water temperatures averaging 20-29°C.
+Agincourt Reef No. 4 - The Point is a scenic reef site featuring a distinctive point formation with rich coral coverage and fish abundance. Located on the Agincourt ribbon reefs near Port Douglas, this site offers 15-20 meters of visibility with water temperatures of 23-27°C. The point structure creates interesting current conditions that attract pelagic fish and create a dynamic diving environment.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ Agincourt Reef No. 4 - The Point is a dive site in Great Barrier Reef offering e
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 15-40 meters (50-130 feet)
 - **Current**: Variable
 - **Best Time**: September to February
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter great white sharks, grey nurse shark
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -60,8 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Website**: http://www.dive-links.com/tauchplatz.php?id=2056
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

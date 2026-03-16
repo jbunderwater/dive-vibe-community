@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## La Parguera Wall
 
-La Parguera Wall is an exceptional deep wall dive on Puerto Rico's southwest coast, famous for dramatic vertical drops and bioluminescent night diving. The wall extends over 22 miles offshore and plunges from 60-70 feet to 1,500 feet, making it one of the Caribbean's premier wall diving destinations.
+La Parguera Wall is a wall dive site in Puerto Rico, Caribbean.
 
 ## Overview
 
-The La Parguera Wall features a magnificent vertical reef structure covered in vibrant coral formations, sponges, wire coral, and black coral. The site is known for extraordinary visibility exceeding 100 feet on good days, abundant marine life including large pelagic species, and unique night diving opportunities where bioluminescent organisms create an otherworldly glow.
+La Parguera Wall is a dive site in Puerto Rico featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Southwest Puerto Rico, Lajas (20 minutes offshore)
+- **Location**: Puerto Rico, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
-- **Typical Visibility**: 30-40 meters (100+ feet)
+- **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Divers encounter abundant marine life on the wall including groupers, snappers, parrotfish, angelfish, butterflyfish, and numerous wrasse species. Large pelagic visitors include reef sharks, eagle rays, southern stingrays, green and hawksbill sea turtles, and barracuda. Deep-water specialties include black coral, barrel sponges, wire coral, and deep-water fish species found below 80 feet. Night dives offer spectacular bioluminescent displays from dinoflagellates.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-Descent typically follows a mooring line or buoy to 60-70 feet (18-21 meters) where the reef lip is located. The wall drops vertically beyond this point. Most recreational diving occurs between 60-100 feet (18-30 meters). Maintain excellent buoyancy control as the wall creates strong depth progression. Monitor your depth gauge constantly as unintentional deep descents can occur quickly. Plan bottom time conservatively given the depth, and begin ascent with adequate reserve for a thorough safety stop.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-40 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
@@ -53,7 +53,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -61,7 +61,7 @@ Wall dives offer stunning wide-angle opportunities with dramatic depth perspecti
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

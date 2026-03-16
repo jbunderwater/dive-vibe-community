@@ -13,34 +13,30 @@ addedBy: osm_import
 
 ## Mary Celestia
 
-The Mary Celestia is one of Bermuda's most captivating and historically rich wrecks, famous for yielding a 151-year-old bottle of wine and exquisite bottles of 19th-century French perfume. This side-paddlewheel steamer served as a Confederate blockade runner and sank just 600 yards off Bermuda's south coast on September 6, 1864.
+Mary Celestia is a historic wreck dive in Bermuda, Atlantic.
 
 ## Overview
 
-The Mary Celestia rests on a flat, sandy seabed at 55 feet with one of her paddlewheel frames standing upright like a miniature Ferris wheel. The main features include the excavated bow (2011), anchor, paddlewheels, and boilers. Archaeological expeditions in 2011 discovered intact bottles of Piesse and Lubin London perfume, and in 2009 a partial case of wine was discovered that was later tasted by master sommeliers in 2015.
+Mary Celestia is a dive site in Bermuda featuring the wreck of the Mary Celestia. Located in the Atlantic region, this site offers 15-30 meters of visibility with water temperatures averaging 20-28°C.
 
 ## Site Information
 
-- **Location**: Bermuda's South Shore, near former Sonesta Hotel site
+- **Location**: Bermuda, Atlantic
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 17 meters
-- **Typical Visibility**: 30-40 feet (9-12 meters)
+- **Typical Visibility**: 15-30 meters (50-100 feet)
 - **Current**: Light to moderate
 - **Best Time**: May to October
-- **Ship Type**: Side-paddlewheel steamer, Confederate blockade runner
-- **Built**: 1862
-- **Year Sunk**: September 6, 1864
-- **Notable Artifacts**: Paddlewheels, boilers, perfume bottles, wine
 
 ## Marine Life
 
-Schools of snappers, groupers, and jacks frequent this wreck. Rays and sea turtles are occasionally spotted. The wreck provides habitat for numerous reef fish and crustaceans.
+Divers at this site can expect to encounter groupers, snappers, barracuda, coral encrustation, sea turtles, reef sharks, groupers, snappers. Additional species commonly sighted include parrotfish, angelfish. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
 
 ## Dive Profile
 
-Descend to the 55-foot sandy seabed and explore the distinctive paddlewheel frames, boilers, and other features. Examine the bow area where archaeological excavations have recovered artifacts. Plan 35-45 minutes of bottom time with a 5-minute safety stop at 15 feet. This is one of Bermuda's most popular wreck dives.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 17 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -65,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

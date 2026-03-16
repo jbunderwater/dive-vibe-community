@@ -13,32 +13,30 @@ addedBy: osm_import
 
 ## KT Wreck
 
-The KT12 is a WWII German armed cargo ship sunk by British submarine attack in May 1943, now one of Sardinia's most impressive wreck dive sites near Orosei on the east coast.
+KT Wreck is a historic wreck dive in Sardinia, Europe.
 
 ## Overview
 
-The KT12 was a military transport vessel built in Italy and sunk on May 10, 1943, by British submarine Safari, which split the hull in two with a torpedo. The wreck lies one mile off Orosei harbor on a sandy bottom at 34 meters. The remarkably well-preserved wreck features the stern gun still visible in perfect condition, intact propeller and rudder, and the dramatic torpedo tear through the hull. The site is surrounded by a large scatter of cargo fragments and armored vehicle skeletons from the ship's load.
+KT Wreck is a dive site in Sardinia featuring the wreck of the KT Wreck . WWII German cargo ship KT12, split in two by torpedo, stern gun visible, surrounded by cargo fragments. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
 
 ## Site Information
 
-- **Location**: Off Orosei harbor, eastern Sardinia
+- **Location**: Sardinia, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Advanced
-- **Depth Range**: 34 meters
 - **Maximum Depth**: 34 meters
-- **Typical Visibility**: 15-30 meters
-- **Water Temperature**: 18-24°C (May-October)
+- **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: May to October
 
 ## Marine Life
 
-The wreck is populated by large groupers and moray eels. Additional species include scorpionfish, sea urchins, lobsters, sea cicadas, triggerfish, and sea bass. Coral encrustation covers much of the wreck structure, and the hold areas provide shelter for schooling fish.
+Divers at this site can expect to encounter conger eels, lobsters, crabs, anemones, coral encrustation, groupers, moray eels, octopus. Additional species commonly sighted include barracuda, sea bream, amberjack. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
 
 ## Dive Profile
 
-Descend to the sandy bottom at 34 meters and explore the two hull sections. The stern section features the well-preserved gun turret, propeller, rudder, and intact steering mechanism. The torpedo damage creates a dramatic breach through the hull. Cargo holds and scattered vehicle wrecks surround the main wreck. This is a deep dive at the limit of recreational diving, requiring careful air management and decompression planning. Most divers spend 15-20 minutes on the wreck before ascending with adequate reserves.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 34 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -63,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

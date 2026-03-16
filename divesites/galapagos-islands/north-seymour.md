@@ -13,43 +13,54 @@ addedBy: osm_import
 
 ## North Seymour
 
-North Seymour is a low flat island north of Santa Cruz, about 30 minutes from the Itabaca Channel. Two distinct dive sites sit on opposite sides of the island — North Seymour Point and North Seymour Channel — offering complementary experiences on the same day trip.
+North Seymour is a reef dive site in Galápagos Islands, South America.
 
 ## Overview
 
-North Seymour Point features a gradually descending rocky reef from the shoreline to 8 meters, transitioning to a sandy bottom at 16–18 meters. The point is a renowned fish cleaning station that attracts Galápagos sharks, whitetip and blacktip reef sharks, and passing schools of hammerhead sharks. The Seymour Channel, between North Seymour and Baltra, typically has moderate drift currents that concentrate fish and bring spotted eagle rays sweeping through. The upwelling of cold nutrient-rich water in this channel produces higher fish biomass than most central island sites.
+North Seymour is a dive site in Galápagos Islands offering rewarding diving on healthy coral reef structures. Located in the South America region, this site offers 10-25 meters of visibility with water temperatures averaging 15-26°C.
 
 ## Site Information
 
-- **Location**: North of Santa Cruz Island, Galápagos
+- **Location**: Galápagos Islands, South America
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 7–12 meters; up to 12 meters in warm season
-- **Water Temperature**: 18–26°C; colder in Humboldt season
-- **Current**: Moderate, sometimes strong in the Seymour Channel
-- **Best Time**: June–November for pelagics; year-round for shark cleaning stations
+- **Typical Visibility**: 10-25 meters (30-80 feet)
+- **Current**: Moderate to strong
+- **Best Time**: June to November
 
 ## Marine Life
 
-The cleaning stations at North Seymour Point are a highlight — Galápagos sharks and whitetip reef sharks gather in numbers and can be observed at close range as they queue for parasites to be removed. Hammerhead sharks pass through in small schools, particularly during the cold season. Schools of spotted eagle rays, golden rays, and devil rays sweep through the Seymour Channel. Green sea turtles and Galápagos sea lions join most dives. Large aggregations of barracuda, snapper, and jack fill the mid-water. Moray eels — jewel and fine-spotted varieties — live in rock outcrops alongside nudibranchs and colorful invertebrates. Blacktip sharks are common along the sandy margin. Manta rays and mola mola are possible cold-season encounters.
+Divers at this site can expect to encounter hammerhead sharks, whale sharks, sea lions, marine iguanas, manta rays, eagle rays, sea turtles, dolphins. Additional species commonly sighted include penguins, moray eels.
 
 ## Dive Profile
 
-At North Seymour Point: follow the rocky reef coastline, moving between the 8-meter reef crest and the sandy bottom at 16–18 meters. Cleaning station activity is highest around prominent rock formations on the point. At the Seymour Channel: drift dive with the prevailing current above the sandy bottom as eagle rays and sharks cruise past. A 15-meter platform toward the end of the dive is where whitetip sharks often gather in groups. Both sites allow a comfortable ascent and SMB deployment.
+The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+
+## Entry and Exit
+
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+
+## Tips and Recommendations
+
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
+- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
-The Seymour Channel can experience surprisingly strong currents that exceed what surface conditions suggest. Divers should be comfortable with drift conditions. The rocky reef zone has surge in swell. Advanced certification is required — the Seymour Channel can run strong current and the Galápagos Marine Reserve environment demands solid buoyancy control and current-diving experience.
+Be aware of strong currents, cold thermoclines, surge in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-The cleaning stations at North Seymour are among the most accessible shark photography opportunities in the central Galápagos — multiple species at predictable behavior with reasonable proximity. Eagle rays in formation through the channel are a classic wide-angle subject. Sea lion interactions at the surface are always possible. Rock crevices hold nudibranchs and moray eels for macro work.
+This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from Scuba Iguana (North Seymour Channel and Point), Aquaventures Dive Center, and Academy Bay Diving site guides. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

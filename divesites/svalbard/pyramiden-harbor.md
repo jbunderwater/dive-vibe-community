@@ -11,37 +11,40 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Pyramiden Harbor — Arctic Ghost Town Diving
+## Pyramiden Harbor
 
-Underwater exploration at a Soviet Arctic coal mining settlement.
+Pyramiden Harbor is a reef dive site in Svalbard, Arctic.
 
 ## Overview
 
-Pyramiden was a Soviet coal mining town (closed 1998) located on Billefjorden, Spitsbergen, now an abandoned ghost settlement accessible to tourists. The harbor and surrounding waters offer diving opportunities to explore an Arctic reef ecosystem in the shadow of an iconic decommissioned Arctic settlement. Maximum depth reaches 20 meters with water temperatures 2-7°C and visibility 10-30 meters. Access is by boat only from Longyearbyen (approximately 60 km away). The site is typically accessed on combination cruise/dive expedition packages.
+Pyramiden Harbor is a dive site in Svalbard offering rewarding diving on healthy coral reef structures. Located in the Arctic region, this site offers 10-30 meters of visibility with water temperatures averaging -1 to 8°C.
 
 ## Site Information
 
-- **Location**: Billefjorden, Pyramiden, Spitsbergen
+- **Location**: Svalbard, Arctic
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 20 meters
-- **Water Temperature**: 2-7°C (36-45°F)
-- **Typical Visibility**: 10-30 meters
-- **Current**: Variable fjord currents
+- **Typical Visibility**: 10-30 meters (30-100 feet)
+- **Current**: Variable, tidal currents
 - **Best Time**: June to September
-- **Access**: Expedition boat/cruise with dive services from Longyearbyen
 
 ## Marine Life
 
-Arctic kelp forests, anemones, starfish, sea urchins, and Arctic fish inhabit the reef areas. Seals and Arctic marine mammals may be observed. The area's relative remoteness from human activity supports good Arctic marine biodiversity. Cold-adapted species dominate the ecosystem.
+Divers at this site can expect to encounter seals (harbor, bearded, ringed), walruses, beluga whales, narwhals, polar cod, sea anemones, soft corals, kelp forests. Additional species commonly sighted include sea urchins, starfish, crabs.
 
 ## Dive Profile
 
-Descend gradually to 15-20 meters along the reef structure. Explore kelp forests and rocky outcrops. This is a scenic dive combining Arctic underwater exploration with the unique historical atmosphere of the abandoned settlement visible above water. Conservative bottom time (40-45 minutes) due to cold water. Ascend gradually with full safety stops, using surface marker buoy for boat coordination.
+The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+
+## Entry and Exit
+
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
+- Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
 - Respect marine life and maintain proper buoyancy to protect the reef
@@ -56,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

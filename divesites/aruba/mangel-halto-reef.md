@@ -13,22 +13,21 @@ addedBy: osm_import
 
 ## Mangel Halto Reef
 
-Mangel Halto is a shallow lagoon reef and designated Marine Reserve (since 2019) in Aruba's Marine Park. The site features a healthy coral garden with an old tugboat wreck (Kappel) and a deep-water component beyond the reef slope.
+Mangel Halto Reef is a reef dive site in Aruba, Caribbean.
 
 ## Overview
 
-This shallow lagoon offers excellent beginner diving in crystal-clear water with calm conditions. The inner lagoon reaches depths of only 1-3 meters with healthy hard coral (elkhorn and blade fire coral) and abundant reef fish. A tugboat wreck lies at 12 meters for more adventurous exploration. Beyond the reef edge, the seafloor drops off dramatically to 110+ meters, where octopi, morays, and barracudas inhabit deeper waters. Mangel Halto is a preferred location for turtle spotting and makes an excellent entry point for beginner courses.
+Mangel Halto Reef is a dive site in Aruba offering excellent diving on healthy coral reef structures . Tugboat wreck (Kappel) at 12m in lagoon area, deep drop-off beyond reef. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Pos Chikito area, Aruba, Caribbean
+- **Location**: Aruba, Caribbean
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
-- **Shallow Area Depth**: 1-3 meters
-- **Typical Visibility**: 15-25+ meters (50-80+ feet)
-- **Current**: Light to negligible in lagoon
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
@@ -60,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

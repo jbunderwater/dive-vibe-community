@@ -13,31 +13,30 @@ addedBy: osm_import
 
 ## MV River Taw Wreck
 
-The River Taw is a 144-foot cargo ship that sank in 1981, split in two sections by Hurricane Hugo in 1989. It rests upright on the sandy bottom near Frigate Bay, making it one of St. Kitts' most accessible and popular wreck dives.
+MV River Taw Wreck is a historic wreck dive in St. Kitts and Nevis, Caribbean.
 
 ## Overview
 
-The River Taw wreck sits 40-42 feet down in clear water off Frigate Bay, surrounded by seagrass and construction rubble from Port Zante. The wreck remains intact in two sections, with the bow and stern approximately 50 feet apart. This beginner-friendly wreck offers excellent exploration opportunities for all experience levels and is particularly popular for photography.
+MV River Taw Wreck is a dive site in St. Kitts and Nevis featuring a historic wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Frigate Bay, St. Kitts, Caribbean
+- **Location**: St. Kitts and Nevis, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
-- **Wreck History**: 144-foot cargo ship, sunk 1981, split by Hurricane Hugo 1989
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-The wreck supports diverse marine life including turtles, eels, octopus, porcupine fish, and stingrays. Groupers, snappers, soldierfish, and glassy sweepers shelter among the wreck structure. Coral encrustation and sponge growth continue to develop on the hull, providing additional habitat and food sources for the local ecosystem.
+Divers at this site can expect to encounter groupers, snappers, soldierfish, glassy sweepers, coral growth, sponge encrustation, sea turtles (green, hawksbill), southern stingrays. Additional species commonly sighted include eagle rays, nurse sharks, reef sharks, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure at about 12 meters. The wreck is well-preserved and accessible for all levels. Explore the exterior features of both sections and any stable openings while maintaining awareness of your air supply and depth. The structure is manageable for experienced recreational divers, but avoid deep penetrations without specialized training. Plan your ascent with adequate reserve for a safety stop at 5 meters.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 12 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -62,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

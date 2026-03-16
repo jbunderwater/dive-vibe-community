@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Cathedral Beqa
 
-The Cathedral is the iconic shark dive site at Beqa Lagoon, famous for its abundance of sharks and massive groupers.
+Cathedral Beqa is a reef dive site in Fiji, Pacific.
 
 ## Overview
 
-Located in Beqa Lagoon, the Cathedral site features the lush soft coral gardens that make the Shark Reef Marine Reserve world-renowned. The site is named for the impressive structure and gets its reputation from encounters with multiple shark species including tiger sharks, bull sharks, lemon sharks, tawny nurse sharks, silvertip sharks, blacktip reef sharks, whitetip reef sharks, and grey reef sharks. In addition to the remarkable shark encounters, massive groupers and schooling trevally are present, along with countless reef fish species. The soft coral at this site is exceptionally lush, with abundant gorgonians, lionfish, moray eels, and diverse nudibranchs.
+Cathedral Beqa is a dive site in Fiji offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
-- **Location**: Beqa Lagoon, Fiji
+- **Location**: Fiji, Pacific
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters
+- **Typical Visibility**: 20-50 meters (65-160 feet)
 - **Current**: Moderate to strong
 - **Best Time**: April to November
 
 ## Marine Life
 
-The Cathedral is renowned for shark encounters with up to 8 species including tiger, bull, lemon, tawny nurse, silvertip, blacktip reef, whitetip reef, and grey reef sharks. Massive groupers, schooling trevally, and countless reef fish populate the site. The lush soft coral gardens feature gorgonians, lionfish, moray eels, and numerous nudibranchs and invertebrates.
+Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

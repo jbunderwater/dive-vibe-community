@@ -2,8 +2,8 @@
 name: Het Huis te Kraaienstjin
 lat: -33.9806842
 lng: 18.3620862
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Beginner
+maxDepth: 12
 entryType: shore
 siteType: wreck
 ref: null
@@ -17,15 +17,15 @@ Het Huis te Kraaienstjin is a historic wreck dive in Cape Town, Africa.
 
 ## Overview
 
-Het Huis te Kraaienstjin is a dive site in Cape Town featuring the wreck of the Het Huis te Kraaienstjin which sank in 1670. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Het Huis te Kraaienstjin is a dive site in Cape Town featuring the wreck of the Het Huis te Kraaienstjin. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
 
 ## Site Information
 
 - **Location**: Cape Town, Africa
 - **Entry Type**: Shore entry
-- **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Site Type**: Wreck
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 12 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)
 - **Current**: Moderate to strong
 - **Best Time**: October to March (East Africa), varies by location
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter groupers, batfish, coral growth, lio
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 25 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 12 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -44,12 +44,12 @@ Enter from the shore following established entry points. Check conditions before
 
 ## Tips and Recommendations
 
+- Excellent site for newer divers — calm conditions and easy navigation
 - Bring a dive torch to illuminate wreck interiors and dark overhangs
 - Maintain proper buoyancy to avoid disturbing silt inside the wreck
 - Do not attempt penetration without proper training and equipment
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 
@@ -61,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

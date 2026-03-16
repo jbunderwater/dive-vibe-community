@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Daini Koyomaru Wreck
 
-The Daini Koyomaru is a large Japanese dredger wreck offering an impressive deep wreck dive for experienced divers only.
+Daini Koyomaru Wreck is a historic wreck dive in St. Lucia, Caribbean.
 
 ## Overview
 
-The Japanese dredger Daini Koyomaru (meaning "boat number 2") was sunk in 1996 at the south end of Anse Cochon, where it now lies in one complete piece. At nearly 75 meters (245 feet) long, this is an impressive monument to explore. The wreck rests on its side at a maximum depth of 33 meters with the sea floor at 34 meters and the bottom of the hull lying at 22-25 meters. This site is recommended for experienced divers only due to the depth, current conditions, and the significant size of the wreck. Strong currents are common in the area.
+Daini Koyomaru Wreck is a dive site in St. Lucia featuring the wreck of the Daini Koyomaru Wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: South end of Anse Cochon, St. Lucia
+- **Location**: St. Lucia, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 33 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
+- **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-The wreck structure provides shelter and habitat for a thriving marine ecosystem. Divers encounter groupers, snappers, soldierfish, glassy sweepers, and large schools of trevally. Coral growth and sponge encrustation cover the hull. Sea turtles, southern stingrays, and eagle rays inhabit the structure. The size of the wreck creates diverse habitats attracting both resident and transient species.
+Divers at this site can expect to encounter groupers, snappers, soldierfish, glassy sweepers, coral growth, sponge encrustation, sea turtles (green, hawksbill), southern stingrays. Additional species commonly sighted include eagle rays, nurse sharks, reef sharks, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
 
 ## Dive Profile
 
-Descend to the wreck structure and explore the large Japanese vessel lying on its side. The maximum depth is reached relatively quickly. Explore exterior features and the massive hull structure while monitoring air supply, depth, and bottom time carefully. The size of the wreck means you can spend considerable time exploring various sections. Plan for appropriate bottom time for your certification level and air management. Begin your ascent with adequate reserve for a safety stop at 5 meters. This is an advanced dive requiring excellent navigation and depth management skills.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 33 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -44,25 +44,24 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate interior details (external viewing only recommended)
-- Maintain proper buoyancy to avoid disturbing silt
+- Bring a dive torch to illuminate wreck interiors and dark overhangs
+- Maintain proper buoyancy to avoid disturbing silt inside the wreck
 - Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions and currents
+- Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
-- Plan your dive carefully with appropriate bottom time calculations
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins, and strong currents in this area. Dive within your certification limits and experience level. This site is recommended for advanced divers only. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-The massive wreck structure provides dramatic wide-angle subjects. A torch helps illuminate hull details and brings out colors of encrusting corals and sponges. Macro opportunities abound on the encrusted surfaces.
+The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

@@ -1,0 +1,98 @@
+[
+  {
+    "name": "East Flower Garden Bank",
+    "filename": "east-flower-garden-bank.md",
+    "lat": 27.9285288,
+    "lng": -93.6071848,
+    "difficulty": "Advanced",
+    "maxDepth": 21.3,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 6013525235
+  },
+  {
+    "name": "West Flower Garden Bank",
+    "filename": "west-flower-garden-bank.md",
+    "lat": 27.8681933,
+    "lng": -93.8240273,
+    "difficulty": "Advanced",
+    "maxDepth": 16.8,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 6013570427
+  },
+  {
+    "name": "Stetson Bank",
+    "filename": "stetson-bank.md",
+    "lat": 28.163431,
+    "lng": -94.2990745,
+    "difficulty": "Advanced",
+    "maxDepth": 21.3,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": 6014024399
+  },
+  {
+    "name": "McGrail Bank",
+    "filename": "mcgrail-bank.md",
+    "lat": 27.9567,
+    "lng": -93.3167,
+    "difficulty": "Advanced",
+    "maxDepth": 43.9,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Bright Bank",
+    "filename": "bright-bank.md",
+    "lat": 27.8833,
+    "lng": -93.3,
+    "difficulty": "Advanced",
+    "maxDepth": 34.1,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Geyer Bank",
+    "filename": "geyer-bank.md",
+    "lat": 27.7167,
+    "lng": -93.4667,
+    "difficulty": "Advanced",
+    "maxDepth": 39.6,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Rankin Bank",
+    "filename": "rankin-bank.md",
+    "lat": 27.6833,
+    "lng": -93.5833,
+    "difficulty": "Advanced",
+    "maxDepth": 39.6,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "East Flower Garden Stairway",
+    "filename": "east-flower-garden-stairway.md",
+    "lat": 27.91,
+    "lng": -93.595,
+    "difficulty": "Intermediate",
+    "maxDepth": 7.6,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  }
+]

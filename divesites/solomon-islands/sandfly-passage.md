@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Sandfly Passage
 
-Sandfly Passage is a pelagic-rich reef site near Marovo Lagoon featuring shallow snorkeling zones and deeper dives teeming with large fish aggregations and mantas.
+Sandfly Passage is a reef dive site in Solomon Islands, Pacific.
 
 ## Overview
 
-Sandfly Passage is where dive boats travel across marble-glazed waters near Mbike Island in Marovo Lagoon. While the shallow passage itself is too shallow for diving, it is a sensational snorkeling destination with nearly every species of coral represented. Deeper adjacent dive sites offer excellent pelagic action with schooling manta rays and massive aggregations of fusiliers, anthias, sharks, and barracuda. The area is washed by strong currents and often features drifts, wrecks, caverns, and caves along the lagoon's edge. This is an advanced site suited to liveaboard cruises exploring the Central Province.
+Sandfly Passage is a dive site in Solomon Islands offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
-- **Location**: Mbike Island area, Marovo Lagoon, Central Province
+- **Location**: Solomon Islands, Pacific
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Strong
+- **Current**: Moderate to strong
 - **Best Time**: April to November
 
 ## Marine Life
 
-Massive schools of fusiliers and anthias, manta rays, sharks, barracuda, trevally schools. The coral diversity at shallow depths is exceptional with nearly all coral species found in the Solomons present in the passage.
+Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
 
 ## Dive Profile
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

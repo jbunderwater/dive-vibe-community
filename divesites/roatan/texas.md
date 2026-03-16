@@ -17,7 +17,7 @@ Texas is a reef dive site in Roatán, Caribbean.
 
 ## Overview
 
-Texas is one of several dive sites located at "the Point" on Roatán and is a top-rated dive destination. The site features flat underwater plains with plenty of large barrel sponges and healthy reef formations. It is popular for drift diving due to strong currents that bring nutrients attracting large schools of fish. The site is suitable for more experienced divers due to currents. Water temperatures average 26-29°C.
+Texas is a dive site in Roatán offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter sea turtles (green, hawksbill), sout
 
 ## Dive Profile
 
-The topography is relatively flat with sandy plains and abundant large barrel sponges scattered throughout. The current this site is known for carries nutrients attracting big schools of fish. Expect to encounter groupers, wrasse, angelfish, hogfish, and large barracudas on the healthy reef. The current makes it suitable for drift diving, but requires more experienced buoyancy control and awareness. Most features are found between 5-18 meters. Plan your dive accounting for current direction and boat positioning.
+The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -44,13 +44,10 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Expect and plan for currents — this is an excellent drift dive site
-- The strong current attracts schools of large fish including barracuda
-- Look for barrel sponges which are abundant and easy to spot
-- Book with experienced dive operators who understand the current patterns
+- Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather, current, and sea conditions before diving
-- This site is better suited to divers with some experience managing currents
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 
@@ -62,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

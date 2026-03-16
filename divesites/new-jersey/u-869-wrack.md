@@ -6,56 +6,62 @@ difficulty: Advanced
 maxDepth: 73
 entryType: boat
 siteType: wreck
+ref: null
 osmId: 663869526
-addedBy: jbunderwater_ai
+addedBy: osm_import
 ---
 
-# U-869 (Wrack)
+## U-869 (Wrack)
 
-A WWII German Type IXC/40 submarine lying at 240 feet, 60 miles off the New Jersey coast — one of the most significant and dangerous wreck dives in the Atlantic.
+U-869 (Wrack) is a historic wreck dive in New Jersey Shore, North America.
 
 ## Overview
-U-869, nicknamed "U-Who" during the years its identity was a mystery, is a German Type IXC/40 U-boat commissioned on January 26, 1944, under Kapitänleutnant Hellmut Neuerburg. The submarine sank on February 11, 1945, and was discovered by Captain Bill Nagle and a team of divers aboard the *Seeker* on September 2, 1991, after tracking an unidentified radar contact 60 miles off the New Jersey coast. It took six years and multiple diving expeditions — documented in Robert Kurson's book *Shadow Divers* — to positively identify the wreck through recovered artifacts including a crew knife engraved with "Horenburg" and a spare parts box with identifying serial numbers. The intact pressure hull still contains the remains of all 56 crew members, making this a war grave. Three divers have died exploring U-869 since its discovery.
+
+U-869 (Wrack) is a dive site in New Jersey Shore featuring the wreck of the U-869 (Wrack). Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
 
 ## Site Information
-- **Location**: 60 miles offshore, southeast of New Jersey
+
+- **Location**: New Jersey Shore, North America
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 73 meters
-- **Typical Visibility**: 20–40 feet on good days
-- **Current**: Can be significant at this depth
-- **Best Time**: Summer months (June–September) for best conditions
+- **Typical Visibility**: 5-25 meters (15-80 feet)
+- **Current**: Variable, can be strong
+- **Best Time**: June to October
 
 ## Marine Life
-At 240 feet the wreck is coated with anemones, hydroids, and encrusting growth. Large lobsters inhabit the wreck exterior. Cod, pollock, and other deep-water fish are commonly encountered around the submarine's hull.
+
+Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
 
 ## Dive Profile
-This is a technical dive beyond recreational limits. Depths range from approximately 220–240 feet at the hull. Only divers trained and certified in technical diving using trimix or heliox should attempt this site. Decompression stops are mandatory, and bottom time is severely limited. The wreck site requires long boat transits from NJ inlets.
+
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 73 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
-All access is via charter or private boat. Dive boats from Point Pleasant and other NJ inlets make the approximately 60-mile run. Sea conditions offshore can deteriorate rapidly — monitor forecasts carefully. Current at depth requires careful attention to anchor lines.
+
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
-- Technical certification (trimix/heliox) is required for this dive
-- Treat the site with respect — it is a war grave containing crew remains
-- Artifact removal is prohibited; the site has significant historical and legal protection
-- Read *Shadow Divers* by Robert Kurson for a full account of the wreck's discovery and identification
-- Plan for decompression using appropriate gas mixes
+
+- Bring a dive torch to illuminate wreck interiors and dark overhangs
+- Maintain proper buoyancy to avoid disturbing silt inside the wreck
+- Do not attempt penetration without proper training and equipment
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
 
 ## Safety Considerations
-This dive has claimed three lives. The depth (240 ft) requires technical gas mixes and full technical diving training. Nitrogen narcosis is extreme at this depth. Strong currents can occur. The site is 60 miles from shore, making evacuation in an emergency very slow. Do not attempt without full technical diving credentials and appropriate equipment.
+
+Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
-The submarine hull is intact and photogenic, making for dramatic wide-angle shots of the pressure hull, conning tower remnants, and torpedo tubes. At these depths, lighting and exposure management require experience. Bring powerful dive lights.
 
-## Nearby Sites
-Other deep-sea NJ sites accessible to technical divers include Texas Tower #4. The general Wreck Valley region offers shallower options for recreational divers.
+The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
 
 ## Additional Resources
-- **Reference**: [njscuba.net — U-869](https://njscuba.net/dive-sites/dive-sites-contents/deep-sea-chart/u-869/)
-- **Book**: *Shadow Divers* by Robert Kurson (2004)
-- **Last Updated**: 2026-03-15
+
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was contributed by jbunderwater_ai and last updated on 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

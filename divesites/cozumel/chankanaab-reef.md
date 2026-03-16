@@ -9,68 +9,57 @@ siteType: reef
 ref: null
 osmId: 663869344
 addedBy: osm_import
-validated: true
-validationSource: "PADI, The Reefs of Cozumel, Tripadvisor"
 ---
 
 ## Chankanaab Reef
 
-Chankanaab Reef is located within Chankanaab National Marine Park, one of Cozumel's most accessible and beginner-friendly shore diving destinations. It is the only site in Cozumel where divers can dive through a cave (La Quebrada) directly from shore.
+Chankanaab Reef is a reef dive site in Cozumel, Caribbean.
 
 ## Overview
 
-Chankanaab offers one of the best reefs accessible from the beach with no need for a boat, making it ideal for visitors wanting to learn to scuba dive or snorkel. The park features beautiful platforms of soft and hard coral teeming with marine life, plus unique attractions including underwater statues (Christ, Chacmol, Virgin Mary) and a shore-accessible cave dive.
+Chankanaab Reef is a dive site in Cozumel offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Chankanaab National Marine Park, Cozumel, Mexico
+- **Location**: Cozumel, Caribbean
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
-- **Typical Visibility**: 15-25 meters (50-80 feet)
-- **Current**: Minimal to light
-- **Best Time**: Year-round, December to April for best visibility
-- **Water Temperature**: 26-29°C (79-84°F)
-
-## Dive Characteristics
-
-Chankanaab is an ideal shore dive with minimal current, shallow depth, and extended bottom time available. The shallow wall gently drops into sandy areas with scattered coral patches. The site is perfect for training new divers or for relaxed diving with excellent marine life observation. La Quebrada cave is shallow (5-10 meters) and suitable for trained open water divers.
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Light to moderate
+- **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Common sightings include large schools of snappers, crustaceans (lobsters, crabs, shrimp), giant parrotfish, endemic species like the splendid toadfish, eagle rays, grunts, snappers, angelfish, parrotfish, grouper, sea turtles, trumpetfish, wrasse, spotted drum fish, amberjacks, and occasionally long-snout seahorses.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
 
 ## Dive Profile
 
-Walk off the beach and descend into shallow water (2-3 meters). Navigate across coral platforms and patches at 5-12 meters depth. La Quebrada cave entrance is at approximately 10 meters. Explore the cave system (trained divers only) or continue along the reef. Extended dive times are possible at this shallow depth.
+The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
-Walk into the water directly from the Chankanaab Park beach. Wade in shallow water to the descent point and use natural landmarks or reef features for navigation. Exit is straightforward—simply reverse your route and wade back to shore. Minimal surge makes entries and exits safe.
+Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
 
 ## Tips and Recommendations
 
-- Excellent first dive for certification courses or beginners
-- Park entrance fee required; inquire at the park office
-- Consider a guided dive to learn about the site and cave features
-- The underwater statues are interesting photo subjects
-- Combine with shore snorkeling for a full day at the park
-- Morning dives offer best visibility
+- Excellent site for newer divers — calm conditions and easy navigation
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 
-While very beginner-friendly, always dive with a buddy. Be aware of park rules and potential boat traffic. Cave diving (La Quebrada) requires cavern diving training or guide assistance. Watch for fire coral and sea urchins in crevices. Exit carefully through shallow water in case of surge.
+Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-Excellent for macro photography given the shallow depth and minimal current. The underwater statues provide unique subjects. Wide-angle shots work for cave entrance and coral formations. Lighting is good throughout the day.
+This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
 ## Additional Resources
 
-- **Park Website**: Chankanaab National Marine Park
-- **Source**: PADI Dive Site, The Reefs of Cozumel, Tripadvisor
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was validated through research of park resources and dive databases. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

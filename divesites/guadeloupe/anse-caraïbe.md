@@ -17,7 +17,7 @@ Anse Caraïbe is a reef dive site in Guadeloupe, Caribbean.
 
 ## Overview
 
-Anse Caraïbe is a dive site in Guadeloupe offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Anse Caraïbe is a dive site in Guadeloupe offering excellent diving on healthy coral reef structures . Beach entry on red sand with pebbles, calm pleasant beach in Pointe-Noire, coral gardens and drop-offs, colorful fish, sea turtles, moray eels, crustaceans, 25+ years of dive club operation. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
@@ -59,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

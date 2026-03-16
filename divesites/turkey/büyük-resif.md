@@ -13,82 +13,55 @@ addedBy: osm_import
 
 ## Büyük Resif
 
-Büyük Resif (Big Reef) is a popular reef and wall dive site in the Bodrum area of Turkey's Aegean coast, featuring dramatic drop-offs and a healthy reef ecosystem.
+Büyük Resif is a wall dive site in Turkey, Europe.
 
 ## Overview
 
-Büyük Resif is one of Bodrum's most accessible and popular dive sites, suitable for divers of all experience levels. The site features a distinctive reef topography beginning in shallow water near Black Island with an easy descent to a wall that drops dramatically from approximately 7 meters down to 34 meters. The name derives from the obvious "big reef" structure that dominates the site. Rich coral and sponge growth, combined with healthy fish populations, makes this a reliable choice for both recreational and training dives.
+Büyük Resif is a dive site in Turkey featuring a dramatic vertical wall that drops into the deep blue . Big Reef near Bodrum, features shallow anchor area at 7m descending to wall dropping to 34m, rich marine biodiversity. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
 
 ## Site Information
 
-- **Location**: Bodrum, Aegean Sea, Turkey (near Black Island/Karaada)
+- **Location**: Turkey, Europe
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 34 meters
-- **Range**: 4-36 meters (depending on dive profile chosen)
-- **Typical Visibility**: 12-25 meters (depending on season)
-- **Current**: Minimal to light (good for training)
-- **Best Time**: May to October (summer has best conditions)
-- **Water Temperature**: 16-28°C (coldest Feb, warmest Aug)
-- **Year-Round Diving**: Yes, though conditions best in summer
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Light to moderate
+- **Best Time**: May to October
+
+## Marine Life
+
+Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-**Shallow Zone** (4-7m): Begin the dive at the shallow anchor area near Black Island. Divers can use the anchor chain for an easy, controlled descent. The shallow reef area provides excellent orientation and warm-up for deeper exploration.
-
-**Mid-Depth Reef** (7-15m): The reef structures between 7-15 meters offer the most abundant marine life. This is the ideal depth for both photography and marine life observation.
-
-**Wall Section** (15-34m): The dramatic wall face provides striking visual interest for wide-angle photography. Experienced divers explore the wall section, though the site's training-friendly nature means most recreational dives stay shallower.
-
-## Marine Life & Features
-
-The reef and wall structure host abundant Mediterranean marine life including:
-- Schools of sea bream and damselfish
-- Groupers (including friendly, acclimated striped groupers)
-- Moray eels and conger eels in reef crevices
-- Octopus and cuttlefish
-- Barracuda and amberjack in the water column
-- Sponge gardens (red, orange, and white varieties)
-- Soft corals covering the reef structure
-- Nudibranchs and seahorses in sheltered areas
-- Crabs and lobsters in deeper crevices
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-34 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
-Access is by dive boat from Bodrum dive operators. The site is approximately 30-45 minutes by boat from Bodrum harbor. Entry is via giant stride or back roll from the dive boat. Divers use the anchor line or natural descent to reach the reef. The anchor chain provides a natural descent reference for easier navigation. Exit is standard back-roll or ladder re-entry from the dive boat.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-- This is an excellent training site for Open Water and Advanced certification courses
-- Perfect for divers wanting to practice wall diving in a forgiving environment
-- The shallow descent and minimal current make this good for building confidence at depth
-- Bring an underwater camera—the wall provides excellent wide-angle composition opportunities
-- Morning dives typically offer better visibility
-- Book with reputable Bodrum dive operators; the site sees regular diver traffic
-- The site is popular with tour groups; early morning or afternoon dives may offer better solitude
-- Suitable for all certification levels (Open Water and above)
+- Watch your depth carefully — wall dives can lead to unintentional deep descents
+- Look in crevices and overhangs for hidden marine life
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 
-Currents are minimal at this site, making it excellent for training and certification dives. Visibility varies seasonally (best May-Oct). The wall descent is gradual rather than steep, reducing disorientation risk. Dive within your certification limits. The site has good infrastructure with regular operator traffic for safety. Always dive with a buddy and maintain awareness of depth and bottom time.
+Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-This is an excellent wide-angle photography site. The wall structure provides dramatic backdrop compositions. The shallow depths allow natural light photography without excessive artificial lighting. The colorful sponge gardens and fish schools offer varied subjects. Macro opportunities exist on the reef crevices. Best light is during morning dives when the sun angle illuminates the wall face.
-
-## Seasonal Conditions
-
-**May-June**: Water warming, excellent visibility (20-25m), comfortable wetsuits (7-10mm)
-**July-August**: Warmest water (28°C), can be crowded, slight haze possible
-**September-October**: Still warm, clearer visibility returns, fewer divers
-**November-April**: Cooler water, variable visibility, less crowded, thicker wetsuits needed
+Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-03-16
-- **Validation Source**: Perplexity Research on Bodrum diving
-- **Nearby Sites**: Pinar Wreck, Pacoz Bay, Bubble Cave
 
 ---
-*This dive site information was validated from current Bodrum dive operator resources and regional diving guides. Last updated 2026-03-16.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

@@ -17,7 +17,7 @@ Dark Wood Reef is a reef dive site in Bocas del Toro, Caribbean.
 
 ## Overview
 
-Dark Wood Reef offers intermediate-level reef diving with healthy coral and good fish populations. The site provides a solid experience for divers looking to develop reef diving skills beyond beginner levels while remaining accessible and enjoyable.
+Dark Wood Reef is a dive site in Bocas del Toro offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
@@ -59,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

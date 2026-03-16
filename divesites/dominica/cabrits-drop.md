@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Cabrits Drop
 
-Cabrits Drop is a dramatic wall dive site located at Cabrits National Park in northern Dominica.
+Cabrits Drop is a wall dive site in Dominica, Caribbean.
 
 ## Overview
 
-This spectacular wall site offers the characteristic features of Cabrits diving within the northern marine park. The wall drops steeply from shallow depths, providing excellent opportunities for wall-following dives and observation of pelagic species at deeper depths.
+Cabrits Drop is a dive site in Dominica featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Cabrits National Park, Portsmouth area, north Dominica
+- **Location**: Dominica, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter sea turtles (green, hawksbill), sout
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-32 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-40 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
@@ -61,7 +61,7 @@ Wall dives offer stunning wide-angle opportunities with dramatic depth perspecti
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

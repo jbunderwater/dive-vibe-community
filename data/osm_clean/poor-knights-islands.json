@@ -5,16 +5,18 @@
     "lon": 174.7348497,
     "osm_id": 8070483247,
     "osm_type": "node",
-    "depth": 25,
-    "minDepth": 14,
-    "site_type": "wall",
+    "depth": 45,
+    "minDepth": 6,
+    "site_type": "pinnacle",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Landing Bay Pinnacle",
       "scuba_diving:divespot": "yes",
-      "scuba_diving:mindepth": "14",
-      "sport": "scuba_diving"
+      "scuba_diving:mindepth": "6",
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -31,46 +33,56 @@
       "name": "Ann's Rock / Astrid's Wall",
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
     "name": "Rikoriko Cave",
     "lat": -35.47,
     "lon": 174.735,
-    "depth": 25,
+    "depth": 35,
+    "minDepth": 8,
     "site_type": "cave",
     "entry_type": "boat",
-    "difficulty": "Advanced",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
     "name": "Northern Arch",
     "lat": -35.45,
     "lon": 174.73,
-    "depth": 30,
+    "depth": 50,
+    "minDepth": 15,
     "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
     "name": "Middle Arch",
     "lat": -35.46,
     "lon": 174.732,
-    "depth": 20,
+    "depth": 15,
     "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -83,7 +95,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -96,7 +110,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -109,33 +125,41 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
     "name": "Tie Dye Arch",
     "lat": -35.458,
     "lon": 174.72,
-    "depth": 20,
+    "depth": 18,
+    "minDepth": 10,
     "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
     "name": "Jan's Tunnel",
     "lat": -35.468,
     "lon": 174.738,
-    "depth": 16,
+    "depth": 23,
+    "minDepth": 15,
     "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -148,7 +172,9 @@
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   }
 ]

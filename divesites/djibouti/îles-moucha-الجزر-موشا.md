@@ -17,7 +17,7 @@ addedBy: osm_import
 
 ## Overview
 
-Îles Moucha الجزر موشا (Moucha Islands) are a premiere diving destination in the Gulf of Tadjoura, featuring pristine coral gardens with coral-covered slopes, sandy patches, and multiple wall sections. Part of Djibouti's first designated marine protected area, these islands offer vibrant reef diving suitable for all certification levels. Visibility typically ranges 5-15 meters with water temperatures 25-29°C (November-January peak season).
+Îles Moucha الجزر موشا is a dive site in Djibouti offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
 
 ## Site Information
 
@@ -32,11 +32,11 @@ addedBy: osm_import
 
 ## Marine Life
 
-Moucha Islands support diverse reef fish including angelfish, butterflyfish, parrotfish, snappers, and lionfish. Colorful corals provide habitat for moray eels and other invertebrates. Rays and sea turtles are regularly encountered. During seasonal visits (November-February), whale sharks and manta rays feed on plankton blooms, making this an extraordinary destination for encountering these megafauna.
+Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

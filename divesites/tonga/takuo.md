@@ -13,41 +13,43 @@ addedBy: osm_import
 
 ## Takuo
 
-Takuo is a historical hydrographic wreck marker in southern Tonga, recorded in marine charts as a submerged vessel with hull showing above the waterline. Limited dive history exists for this remote site.
+Takuo is a historic wreck dive in Tonga, Pacific.
 
 ## Overview
 
-Takuo is a historical wreck marked in maritime hydrographic records as having hull showing at water level. The wreck is located at coordinates documented in official maritime databases (LINZ hydrographic reference). As a hydrographic chart marker rather than a documented dive site, Takuo has limited recreational diving history. The site likely features coral encrustation and marine growth, but specific dive information is not widely available in dive guides.
+Takuo is a dive site in Tonga featuring the wreck of the Takuo . Historical hydrographic marker with hull showing. Limited dive history found; depths estimated based on hull_showing water level. Likely coral-encrusted with marine life.. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
-- **Location**: Southern Tonga region
+- **Location**: Tonga, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
-- **Estimated Depth Range**: 15-25 meters (estimated from hull exposure)
-- **Typical Visibility**: 25-40+ meters (Tonga standard)
-- **Current**: Moderate to strong (outer water region)
-- **Water Temperature**: 21-27°C
-- **Access Status**: Limited; not regularly serviced by dive operators
-- **Best Time**: Unclear; research required
+- **Maximum Depth**: 20 meters
+- **Typical Visibility**: 20-50 meters (65-160 feet)
+- **Current**: Moderate to strong
+- **Best Time**: April to November
 
 ## Marine Life
 
-Limited specific data; expected coral growth and marine life typical of submerged wrecks in Tonga. Likely harbors fish populations and anemone growth on coral-encrusted structure.
+Divers at this site can expect to encounter coral growth, anemones, lionfish, scorpionfish, glassy sweepers, manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks. Additional species commonly sighted include sea turtles, napoleon wrasse, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
 
 ## Dive Profile
 
-This site is not regularly dived by recreational operators. Consult with local Tonga dive operators regarding accessibility, current conditions, and whether this site is operational for diving. Approach as a specialty or research dive requiring expert planning.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 20 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+
+## Entry and Exit
+
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
 - Bring a dive torch to illuminate wreck interiors and dark overhangs
 - Maintain proper buoyancy to avoid disturbing silt inside the wreck
 - Do not attempt penetration without proper training and equipment
+- Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 
@@ -59,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

@@ -17,44 +17,43 @@ La Tantine is a historic wreck dive in Port-Cros, Europe.
 
 ## Overview
 
-La Tantine (also called La Barge aux Congres) is a small wooden service vessel measuring 15-20 meters long that sank around 1960 during a towing operation. The vessel rests flat on the sand at 48 meters depth above the island of Bagaud, with its crane protruding 3-4 meters above the seabed. A steel-wheeled motor pump and numerous single-row brick perforations remain visible on the port side. Historically famous for its large conger eel population, the population has declined to only 2-3 individuals today due to overfishing. This is a technical deep dive requiring advanced certification.
+La Tantine is a dive site in Port-Cros featuring the wreck of the La Tantine. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
 
 ## Site Information
 
-- **Location**: Above Bagaud Island, Port-Cros National Park, Côte d'Azur, France
+- **Location**: Port-Cros, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 48 meters
-- **Typical Visibility**: 15-35 meters
-- **Current**: Moderate (variable)
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Light to moderate
 - **Best Time**: May to October
-- **Water Temperature**: 15-24°C
 
 ## Marine Life
 
-Conger eels were historically abundant at this site, earning it the nickname "Barge aux Congres," but current population numbers are reduced to only 2-3 individuals. Other encrusting organisms colonize the wooden structure. The deep sandy bottom occasionally hosts groupers and other bottom-dwelling species. Historical significance exceeds current biological richness, making this a wreck diving and history site.
+Divers at this site can expect to encounter conger eels, lobsters, crabs, anemones, coral encrustation, groupers, moray eels, octopus. Additional species commonly sighted include barracuda, sea bream, amberjack. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
 
 ## Dive Profile
 
-This is a technical deep wreck dive requiring advanced training and certification. Descend via mooring line to the wooden wreck at 48 meters. The vessel rests flat on sand with the crane protruding upward. Time your bottom time carefully and begin ascending with adequate breathing gas reserve for decompression stops. Visibility allows viewing the wreck structure from approach depths of 35-40 meters.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 48 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
-Access is exclusively by dive boat. Ensure you are properly equipped and certified for deep wreck diving. Entry is via giant stride or back roll. A mooring line guides descent to the wreck. Deploy a surface marker buoy (SMB) and maintain contact with boat during safety stops. Plan and execute proper decompression—this is a deep dive subject to currents.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
 - Bring a dive torch to illuminate wreck interiors and dark overhangs
 - Maintain proper buoyancy to avoid disturbing silt inside the wreck
 - Do not attempt penetration without proper training and equipment
+- Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -62,8 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Website**: http://www.dive-links.com/tauchplatz.php?id=1417
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

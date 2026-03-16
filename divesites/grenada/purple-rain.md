@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Purple Rain
 
-Purple Rain is named for the swathes of beautiful purple Creole wrasse that fill the water column. This dramatic wall extends from 6 meters to 25 meters, covered in a mantle of soft coral, huge barrel sponges, and numerous other coral and sponge species.
+Purple Rain is a wall dive site in Grenada, Caribbean.
 
 ## Overview
 
-Purple Rain offers stunning wall diving with excellent coral encrustation and prolific marine life. The reef is home to barracuda, hawksbill and green sea turtles, southern stingrays, and abundant colorful tropical fish. The soft coral-dominated wall creates dramatic wide-angle photography opportunities. Located in the Caribbean region, this site offers excellent visibility with water temperatures averaging 26-29°C.
+Purple Rain is a dive site in Grenada featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
@@ -32,11 +32,11 @@ Purple Rain offers stunning wall diving with excellent coral encrustation and pr
 
 ## Marine Life
 
-The wall is famous for swathes of purple Creole wrasse, along with hawksbill and green sea turtles, barracuda, southern stingrays, and abundant colorful reef fish. The soft coral structures provide excellent habitat for macro subjects including nudibranchs, small crustaceans, and reef fish hunting among the coral polyps. Larger pelagic fish sometimes patrol the wall edge.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-Begin along the reef top at 6 meters before descending along the wall. The wall slopes dramatically toward deeper water, creating excellent visual depth. Most interesting coral encrustation and marine life are found between 10-25 meters. Maintain good buoyancy control, monitor your depth gauge, and consider staying on the reef slope rather than dropping into the blue beyond the wall to conserve air and manage bottom time effectively.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-25 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
@@ -53,7 +53,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -61,7 +61,7 @@ Wall dives offer stunning wide-angle opportunities with dramatic depth perspecti
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Stuart Cove Wall
 
-Stuart Cove Wall is a dramatic vertical wall descent near Nassau operated by Stuart Cove's Dive Bahamas, one of the world's most popular dive resorts pioneering recreational shark diving.
+Stuart Cove Wall is a wall dive site in Bahamas, Caribbean.
 
 ## Overview
 
-Stuart Cove Wall is part of Nassau's world-class wall diving system accessed through Stuart Cove's Dive Bahamas, a legendary operation that has been running since 1978 and pioneered recreational shark diving in the Bahamas. The wall descends vertically from shallow reef into the abyss, with exceptional clarity allowing visibility exceeding 80 feet year-round. The site features both dramatic wall formations and reef diving opportunities, with Caribbean reef sharks, wall structure inhabitants, and pelagic species. Stuart Cove's operates a fleet of seven dive vessels (five over 40 feet) and offers specialized Shark Adventure dives at this location and nearby sites. The operation offers a full range of services including equipment rental, guided dives, and certification courses.
+Stuart Cove Wall is a dive site in Bahamas featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
@@ -61,7 +61,7 @@ Wall dives offer stunning wide-angle opportunities with dramatic depth perspecti
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

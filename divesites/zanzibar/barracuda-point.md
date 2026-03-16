@@ -13,22 +13,22 @@ addedBy: osm_import
 
 ## Barracuda Point
 
-Barracuda Point is a reef dive site in Menai Bay known for pelagic fish encounters including barracuda. This intermediate-level site offers moderate depths and healthy reef structures.
+Barracuda Point is a reef dive site in Zanzibar, Africa.
 
 ## Overview
 
-Barracuda Point is a coral reef dive site within Menai Bay Conservation Area on southeastern Zanzibar. The site is named for frequent barracuda schools and other pelagic fish. The reef features healthy coral formations at moderate depths with excellent opportunities for fish watching. Suitable for intermediate divers seeking more challenging reef dives with good marine life encounters.
+Barracuda Point is a dive site in Zanzibar offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
 
 ## Site Information
 
-- **Location**: Menai Bay Conservation Area, southeastern Unguja, Zanzibar
+- **Location**: Zanzibar, Africa
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 12-25 meters (39-82 feet)
-- **Current**: Light to moderate
-- **Best Time**: October to March (peak season)
+- **Typical Visibility**: 10-30 meters (30-100 feet)
+- **Current**: Moderate to strong
+- **Best Time**: October to March (East Africa), varies by location
 
 ## Marine Life
 
@@ -40,10 +40,11 @@ The site offers diving at depths ranging from shallow reef areas down to approxi
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
+- Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
 - Respect marine life and maintain proper buoyancy to protect the reef
@@ -59,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

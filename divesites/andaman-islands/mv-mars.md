@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## MV Mars
 
-The MV Mars is a wooden cargo vessel wreck offering accessible wreck diving with good colonization by marine life and colorful coral formations.
+MV Mars is a historic wreck dive in Andaman Islands, Asia.
 
 ## Overview
 
-The MV Mars, a small wooden local cargo ship, sank and now rests in 20 meters of water approximately 4 kilometers from Havelock Island. The wreck provides an excellent introduction to wreck diving, with intact structural features including holds and deck areas suitable for penetration by trained wreck divers. The wreck is well-colonized with soft and hard corals, and is home to groupers, barracudas, and numerous reef fish.
+MV Mars is a dive site in Andaman Islands featuring a historic wreck. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Near Havelock Island, Andaman Islands, India
+- **Location**: Andaman Islands, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 12-18 meters
-- **Current**: Moderate to strong
-- **Best Time**: November to April
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Groupers (especially giant groupers), barracudas, and schooling reef fish are the primary inhabitants. Anemones and soft corals encrust the wreck structure, providing habitat for nudibranchs and small crustaceans. Occasional larger fish and rays may visit the site, particularly during seasonal migrations.
+Divers at this site can expect to encounter batfish, lionfish, sweetlips, coral growth, soft corals, manta rays, whale sharks, reef sharks. Additional species commonly sighted include sea turtles, barracuda, trevally. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
 
 ## Dive Profile
 
-Begin your descent toward the wreck at approximately 15-18 meters, allowing your eyes to adjust to lower light conditions typical of wreck dives. The wreck rests in 20 meters of water. Non-wreck-certified divers should maintain external views of the structure and avoid penetration. Experienced divers with wreck certification can explore the cargo holds and accessible sections. Most divers stay for 35-45 minutes at this moderate depth to observe structure colonization and fish life. Position your ascent point before descending, and plan for gradual ascent with a safety stop at 5 meters.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 20 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -44,11 +44,12 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
+- Bring a dive torch to illuminate wreck interiors and dark overhangs
+- Maintain proper buoyancy to avoid disturbing silt inside the wreck
+- Do not attempt penetration without proper training and equipment
 - Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
@@ -56,11 +57,11 @@ Be aware of strong currents, jellyfish, sea urchins in this area. Dive within yo
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

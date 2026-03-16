@@ -13,55 +13,55 @@ addedBy: osm_import
 
 ## Indihiang
 
-Technical wall dive with strong currents, large fish, and pristine coral growth.
+Indihiang is a wall dive site in Komodo National Park, Asia.
 
 ## Overview
 
-Indihiang is an advanced wall dive at a southwestern point in Komodo, characterized by strong tidal currents and big fish. The site features a wall structure with excellent coral coverage and the potential for pelagic encounters. Like Loh Sera, Indihiang is challenging and depends heavily on favorable tidal conditions. The site is not diveable on all days due to current unpredictability. Best for advanced divers with strong current experience and buoyancy control.
+Indihiang is a dive site in Komodo National Park featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Southwestern Komodo, Indihiang Point
+- **Location**: Komodo National Park, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 15–30 meters (50–100 feet); can be variable
-- **Current**: Strong to very strong; tidal-driven
-- **Best Time**: May to October (dry season); diveable only on favorable tide conditions
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Pelagic fish including jacks, trevally, snappers, and reef sharks. The wall hosts soft corals, sea fans, and smaller reef fish in protected pockets.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-Drift with the current along the wall face. Maintain close contact with guide. Monitor depth and air carefully. Scan the blue for passing pelagics while appreciating the wall structure and coral.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-25 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
-Giant stride entry. Drift with current along wall. Coordinate SMB deployment and boat pickup with guide.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-- Only with experienced Komodo guides
-- Confirm current and tide conditions before entry
-- Prepare for strong current—do not fight it
-- Practice buoyancy control extensively first
-- Expect technical challenge and potential reward (big fish)
-- Consider as advanced goal dive
+- Watch your depth carefully — wall dives can lead to unintentional deep descents
+- Look in crevices and overhangs for hidden marine life
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 
-Strong currents require perfect buoyancy control. Do not attempt without extensive current diving experience. Abort if safety is compromised. Clear signal protocols with guide are essential. Ensure rapid deployment of SMB for boat pickup in current.
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-Challenging due to speed and current. Wide-angle compositions of wall and pelagics possible but difficult. Requires fast autofocus and safety awareness.
+Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

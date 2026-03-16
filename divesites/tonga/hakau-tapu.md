@@ -13,39 +13,38 @@ addedBy: osm_import
 
 ## Hakau Tapu
 
-Hakau Tapu is an OSM-mapped natural reef feature in southern Tonga. While not established as a commercial dive site, the reef is accessible and features typical Tongan reef characteristics. The name Hakau Tapu translates to "sacred" or "forbidden" in Tongan.
+Hakau Tapu is a reef dive site in Tonga, Pacific.
 
 ## Overview
 
-Hakau Tapu is a natural reef formation mapped in OpenStreetMap and located in the southern Vava'u diving region. The Tongan name suggests cultural significance. While not documented in commercial dive guides, the reef is accessible by boat and offers opportunities for diving with local knowledge. The site represents less-visited reef diving with access to healthy Tongan coral ecosystems.
+Hakau Tapu is a dive site in Tonga offering rewarding diving on healthy coral reef structures . OSM natural reef feature. Not documented as established dive site. Depth and difficulty estimated from general Tonga reef patterns.. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
-- **Location**: Southern Vava'u region, Tonga
+- **Location**: Tonga, Pacific
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Depth Range**: Estimated 5-15 meters (typical for area)
-- **Typical Visibility**: Excellent (25-40+ meters)
-- **Current**: Light to moderate
-- **Water Temperature**: 24-29°C
-- **Establishment Status**: Not an established commercial dive site; local knowledge recommended
-- **Best Time**: Year-round; calm conditions necessary
+- **Maximum Depth**: 15 meters
+- **Typical Visibility**: 20-50 meters (65-160 feet)
+- **Current**: Moderate to strong
+- **Best Time**: April to November
 
 ## Marine Life
 
-Expected: typical Tongan reef ecosystem with reef fish, tropical fish species, sea turtles, nudibranchs, and diverse hard and soft coral formations consistent with healthy Vava'u reefs.
+Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
 
 ## Dive Profile
 
-Access via boat with local operator knowledge. Descend to reef structure and explore coral formations at 5-15 meters. The site's limited commercial development means conditions should be confirmed with local dive operators before planning. Suitable for experienced divers comfortable with less-visited reef sites.
+The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
+- Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
 - Respect marine life and maintain proper buoyancy to protect the reef
@@ -61,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

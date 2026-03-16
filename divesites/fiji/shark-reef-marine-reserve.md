@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Shark Reef Marine Reserve
 
-Shark Reef Marine Reserve is Fiji's premier shark dive destination, established as the first marine protected area of its kind in the country and called the world's best shark dive by National Geographic.
+Shark Reef Marine Reserve is a reef dive site in Fiji, Pacific.
 
 ## Overview
 
-Located in Beqa Lagoon south of Viti Levu, the Shark Reef Marine Reserve is a protected passage between the island and the mainland that acts as a migration corridor for sharks. The site is world-renowned for encounters with up to 8 species of sharks including tiger, bull, lemon, tawny nurse, silvertip, blacktip reef, and whitetip reef sharks, along with massive groupers, schooling trevally, and approximately 450 fish species. The exceptional lush soft coral, including areas at Caesar's Rocks and the Cathedral site, supports abundant invertebrate life.
+Shark Reef Marine Reserve is a dive site in Fiji offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
-- **Location**: Beqa Lagoon, between Viti Levu and Beqa Island, Fiji
+- **Location**: Fiji, Pacific
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters
+- **Typical Visibility**: 20-50 meters (65-160 feet)
 - **Current**: Moderate to strong
 - **Best Time**: April to November
 
 ## Marine Life
 
-The Shark Reef Marine Reserve is famous for encounters with up to 8 species of sharks: tiger sharks, bull sharks, lemon sharks, tawny nurse sharks, silvertip sharks, blacktip reef sharks, whitetip reef sharks, and grey reef sharks. In addition to the remarkable shark diversity, the site hosts massive groupers, schooling trevally, and a total of approximately 450 fish species. Soft coral gardens with lush gorgonians support lionfish, moray eels, and numerous nudibranchs.
+Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -52,7 +52,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

@@ -3,7 +3,7 @@ name: Williams Island Caves
 lat: -35.28
 lng: 136.1
 difficulty: Advanced
-maxDepth: 20
+maxDepth: 18
 entryType: boat
 siteType: cave
 ref: null
@@ -13,53 +13,54 @@ addedBy: osm_import
 
 ## Williams Island Caves
 
-Williams Island Caves is a cave dive site in South Australia Neptune Islands, Oceania.
+Advanced cave and cavern dive site with rocky overhangs, dark passages, and cave-adapted fauna.
 
 ## Overview
 
-Williams Island Caves is a dive site in South Australia Neptune Islands featuring underwater cave and cavern formations. Located in the Oceania region, this site offers 15-40 meters of visibility with water temperatures averaging 20-29°C.
+Williams Island Caves is an advanced cave and cavern dive site near Williams Island in the Neptune Islands group. The site features rocky formations with caves, caverns, and dark passages accessible to experienced cave and cavern divers. This site offers unique exploration of dark crevices and overhangs supporting specialized low-light fauna. Recommended for divers with cavern diving experience or advanced open water training in cave environments.
 
 ## Site Information
 
-- **Location**: South Australia Neptune Islands, Oceania
+- **Location**: Near Williams Island, central Neptune Islands, 40 nautical miles south of Port Lincoln, South Australia
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 15-40 meters (50-130 feet)
-- **Current**: Variable
-- **Best Time**: September to February
+- **Depth**: 5-18 meters (16-60 feet) within accessible caverns
+- **Typical Visibility**: 10-20 meters (33-65 feet) — reduced in dark cavern zones
+- **Current**: Generally mild
+- **Water Temperature**: 14-22°C (57-72°F) — coldest June-August, warmest December-May
+- **Best Time**: May-October for calmer conditions and better visibility
 
 ## Marine Life
 
-Divers at this site can expect to encounter great white sharks, grey nurse sharks, whale sharks, manta rays, sea turtles, dolphins, dugongs, potato cod. Additional species commonly sighted include maori wrasse, giant trevally, hard corals, soft corals. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+Cave-adapted species: crustaceans (crabs, lobsters), small fish seeking shelter, cuttlefish, sea urchins, zoanthids, anemones, sponges. Kelp forest species on external reef areas. Low-light adapted invertebrates concentrated in dark passages.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to cavern entrances at approximately 5-8 meters. Carefully navigate dark passages using dive lights; explore rocky formations and overhangs. Maintain excellent buoyancy to avoid silt disturbance and ceiling contact. Typical dive duration 35-50 minutes with focus on shallow cavern exploration (5-15 meters). Ascend gradually, allowing eyes to readjust to natural light. Complete safety stop at 5 meters before surfacing.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+PADI Cavern Diver certification or PADI Advanced Open Water with cave dive experience recommended. Giant stride or back roll entry from boat near cavern area. Navigate to cavern entrance; descend with buddy while maintaining visual reference to exit. Explore dark passages using redundant dive lights. Careful exit navigation avoiding silt disturbance. Ascent via external reef structure with standard safety stop. Deploy SMB during safety stop.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- PADI Cavern Diver certification or advanced cave experience strongly recommended
+- Carry redundant dive lights (primary light + backup) — essential in dark passages
+- Maintain excellent buoyancy control to avoid silt disturbance and ceiling abrasion
+- Stay within recreational cavern limits (no penetration beyond light zone)
+- Wear 5-7mm semi-dry wetsuit for 14-22°C water
+- Buddy awareness critical in confined spaces and low light
+- Plan conservative bottom time and generous safety stop margin
+- Book with operators experienced in cave diving operations
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish (box jellyfish in summer), crocodiles (north) in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Advanced cavern diving in low-light, confined environments requires specialized training, excellent buoyancy control, and strict adherence to recreational cavern limits. Silt disturbance reduces visibility rapidly; avoid disturbing bottom and ceiling. Redundant lighting mandatory; single light failure creates disorientation risk. Cold water (14-22°C) demands proper thermal protection. Standard deep diving protocols apply plus cavern-specific safety: maintain light reference to exit, avoid deep penetration beyond light zone, use line/buddy contact protocols in zero-visibility conditions. Always dive with experienced cave diving buddy. Verify operator safety equipment and protocols before diving.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

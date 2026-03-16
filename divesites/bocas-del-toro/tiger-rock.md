@@ -17,26 +17,26 @@ Tiger Rock is a pinnacle dive site in Bocas del Toro, Caribbean.
 
 ## Overview
 
-Tiger Rock is the tip of an underwater seamount featuring three pinnacles that rise from the seafloor to within 2 meters of the surface. This is one of the most renowned dive sites in Bocas del Toro, famous for exceptional visibility, dramatic underwater geography, and abundant pelagic marine life. The site is recommended for advanced and experienced divers only due to strong currents and the challenging entry and exit conditions.
+Tiger Rock is a dive site in Bocas del Toro offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Bocas del Toro, Caribbean (approximately 1+ hour boat ride)
+- **Location**: Bocas del Toro, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle/seamount
+- **Site Type**: Pinnacle
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 42 meters
-- **Typical Visibility**: Excellent (crystal clear)
-- **Current**: Strong (requires experience)
-- **Best Time**: August - November (seasonal operation only)
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Light to moderate
+- **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Tiger Rock is renowned for exceptional pelagic encounters. Divers commonly see large schools of black tip reef sharks, nurse sharks, manta rays, and dolphins. On exceptional dives, tiger sharks and hammerheads are possible. The pinnacles support healthy coral growth with tropical reef fish including parrotfish, snappers, groupers, and numerous other species. The varied depths create distinct ecosystems at different levels.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
 
 ## Dive Profile
 
-Tiger Rock consists of three pinnacles descending from near-surface to over 30 meters depth. There is something of interest at every depth level. Most divers circle the pinnacles, observing the different ecosystems and hunting for pelagic encounters in the blue water beyond the rocks. The strong currents actually bring nutrient-rich water and productive diving conditions. Plan for approximately 40-50 minutes underwater depending on your depth profile.
+The site offers diving at depths ranging from shallow reef areas down to approximately 42 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -44,15 +44,14 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Advanced certification with substantial logged dives (30+ dives recommended minimum)
-- This is a full-day dive trip requiring significant travel time
-- Bring an underwater camera — the pelagic encounters and pinnacle formations offer outstanding photography opportunities
-- Check weather carefully — Tiger Rock is only dived August-November when conditions permit
-- Expect strong currents and challenging entry/exit conditions
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 
-Tiger Rock demands respect for safety protocols. Strong currents require excellent buoyancy control and situational awareness. Entry and exit can be rough even in calm conditions. Be aware of other divers at the site. Always carry a safety sausage (SMB) and dive with a buddy experienced in current diving. Not recommended for divers without solid experience in strong current conditions.
+Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -60,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

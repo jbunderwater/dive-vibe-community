@@ -17,27 +17,26 @@ Le Donator Wreck is a historic wreck dive in Port-Cros, Europe.
 
 ## Overview
 
-Le Donator is a true Mediterranean legend—a 78-meter Norwegian cargo ship built in 1931 that sank near the Sarranier islets in November 1945 after striking a mine. The wreck lies upright in perfect condition at depths ranging from 35 meters on the deck to 52 meters at the propeller. Completely covered with corals and anemones, it serves as a refuge for multitudes of marine species and represents one of Europe's most impressive wreck diving experiences. Precise buoyancy control and excellent air management are essential for this deep technical dive.
+Le Donator Wreck is a dive site in Port-Cros featuring the wreck of the Le Donator Wreck. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
 
 ## Site Information
 
-- **Location**: Between Porquerolles and Port-Cros, Côte d'Azur, France
+- **Location**: Port-Cros, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 52 meters
-- **Typical Visibility**: 15-35 meters
-- **Current**: Moderate (seasonal variation)
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Light to moderate
 - **Best Time**: May to October
-- **Water Temperature**: 15-24°C
 
 ## Marine Life
 
-The wreck provides critical habitat for brown groupers, schools of Mediterranean barracudas, moray eels, and abundant invertebrates. Every surface is encrusted with colorful anemones and corals. Gorgonian fans and sponges create complex structures throughout the vessel. This is one of the richest wreck ecosystems in continental France, with exceptional opportunities to encounter large pelagics and groupers.
+Divers at this site can expect to encounter conger eels, lobsters, crabs, anemones, coral encrustation, groupers, moray eels, octopus. Additional species commonly sighted include barracuda, sea bream, amberjack. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 50 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 52 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -62,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

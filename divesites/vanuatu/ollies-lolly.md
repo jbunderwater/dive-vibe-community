@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Ollies Lolly
 
-Ollies Lolly is a large shallow reef just 9 meters deep featuring abundant soft corals and huge red anemones hosting playful clownfish in a beginner-friendly dive site off Santo.
+Ollies Lolly is a reef dive site in Vanuatu, Pacific.
 
 ## Overview
 
-Ollies Lolly is a large, easily accessible reef located at just 9 meters depth, making it an excellent choice for newly certified and beginner divers. The site is characterized by abundant soft coral formations and distinctive huge red anemones with resident clownfish creating playful photo opportunities. The shallow depth and gentle conditions make it accessible for training dives while still offering rewarding marine life encounters.
+Ollies Lolly is a dive site in Vanuatu offering excellent diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
-- **Location**: Espiritu Santo dive area
+- **Location**: Vanuatu, Pacific
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 9 meters
-- **Typical Visibility**: 20-50 meters (excellent clarity)
-- **Water Temperature**: 26-29°C year-round
-- **Best Time**: April to November (dry season)
+- **Typical Visibility**: 20-50 meters (65-160 feet)
+- **Current**: Moderate to strong
+- **Best Time**: April to November
 
 ## Marine Life
 
-The soft coral formations and anemones host abundant marine life including resident clownfish, butterflyfish, moorish idols, groupers, moray eels, lionfish, scorpionfish, nudibranchs, reef sharks, barracuda, sea turtles, and schooling fish. The shallow depth provides excellent light penetration for natural photography.
+Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
 
 ## Dive Profile
 
-Remain at shallow depth throughout the dive, exploring the extensive soft coral gardens and anemone fields. The gentle conditions and shallow depth make this ideal for skill practice and comfortable bottom time for newer divers.
+The site offers diving at depths ranging from shallow reef areas down to approximately 9 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-9 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -64,4 +64,4 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 - **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was validated through research and compiled from diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

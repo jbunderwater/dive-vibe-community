@@ -13,22 +13,22 @@ addedBy: osm_import
 
 ## Little Wall
 
-Little Wall is a vertical wall dive site in the Mnemba Atoll area featuring moderate depths and dramatic reef topography. This intermediate-level wall offers excellent visibility and diverse marine life.
+Little Wall is a wall dive site in Zanzibar, Africa.
 
 ## Overview
 
-Little Wall is a wall dive site in the Mnemba Atoll region, characterized by a dramatic vertical reef wall. The wall provides diverse habitat for reef fish, larger pelagic species, and various coral types. The moderate depth range and excellent visibility typical of Mnemba make this an excellent intermediate wall dive. The wall structure offers interesting topography with crevices and overhangs harboring marine life.
+Little Wall is a dive site in Zanzibar featuring a dramatic vertical wall that drops into the deep blue. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
 
 ## Site Information
 
-- **Location**: Mnemba Atoll region, northeastern Unguja, Zanzibar
+- **Location**: Zanzibar, Africa
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 15-30 meters (50-100 feet)
-- **Current**: Light to moderate
-- **Best Time**: October to March (peak season)
+- **Typical Visibility**: 10-30 meters (30-100 feet)
+- **Current**: Moderate to strong
+- **Best Time**: October to March (East Africa), varies by location
 
 ## Marine Life
 
@@ -61,7 +61,7 @@ Wall dives offer stunning wide-angle opportunities with dramatic depth perspecti
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

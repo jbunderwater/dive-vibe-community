@@ -11,60 +11,57 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Alkhornet Cliff — Arctic Vertical Wall
+## Alkhornet Cliff
 
-Dramatic underwater cliff dive on Spitsbergen's largest seabird site.
+Alkhornet Cliff is a wall dive site in Svalbard, Arctic.
 
 ## Overview
 
-Alkhornet is a 428-meter mountain on Spitsbergen's west coast rising directly from Isfjorden, hosting approximately 10,000 breeding pairs of seabirds on metamorphic carbonate cliffs over a billion years old. The underwater extension features a dramatic vertical wall descending to 22+ meters. The cliff wall creates a unique Arctic underwater ecosystem with distinct vertical zonation of marine life. Water temperature 2-7°C, visibility 10-30 meters. Access exclusively by boat from Longyearbyen.
+Alkhornet Cliff is a dive site in Svalbard featuring a dramatic vertical wall that drops into the deep blue. Located in the Arctic region, this site offers 10-30 meters of visibility with water temperatures averaging -1 to 8°C.
 
 ## Site Information
 
-- **Location**: Alkhornet, Isfjorden, west coast Spitsbergen
+- **Location**: Svalbard, Arctic
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 22 meters
-- **Water Temperature**: 2-7°C (36-45°F)
-- **Typical Visibility**: 10-30 meters
-- **Current**: Moderate fjord currents, can be variable
+- **Typical Visibility**: 10-30 meters (30-100 feet)
+- **Current**: Variable, tidal currents
 - **Best Time**: June to September
-- **Access**: Day boat or liveaboard from Longyearbyen
 
 ## Marine Life
 
-The wall creates a vertical ecosystem with kelp and smaller seaweeds at shallow depths, transitioning to encrusting anemones, corals, starfish, sea urchins, and Arctic fish at deeper levels. Seals are commonly observed at the cliff. The wall structure provides shelter and substrate for cold-adapted species. Beluga whales may visit the fjord.
+Divers at this site can expect to encounter seals (harbor, bearded, ringed), walruses, beluga whales, narwhals, polar cod, sea anemones, soft corals, kelp forests. Additional species commonly sighted include sea urchins, starfish, crabs. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-Descend along the vertical wall to approximately 20-22 meters. The wall provides a strong visual reference preventing disorientation. Survey the wall structure, looking for marine life in crevices and growing on the vertical surface. Most interesting features and encrusting life at 15-22 meters. Careful depth management is essential on wall dives to prevent unintentional deep descents. Conservative bottom time (40-45 minutes) due to extreme cold. Ascend gradually along the wall using it as reference. Conduct full safety stop at 5 meters.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-22 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
-Access is exclusively by boat from local operators or liveaboards. Entry via giant stride or back roll at the designated cliff mooring. Follow dive master briefing for current conditions and descent procedures. Deploy a surface marker buoy (SMB) during safety stop for boat positioning and pickup. Coordinate with boat crew for exit and recovery.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully—wall dives can lead to unintentional deep descents into cold water
-- Use the wall as constant visual reference during ascent/descent
-- Look in wall crevices, ledges, and overhangs for hidden Arctic marine life
-- Book with experienced Arctic dive operators familiar with cliff diving conditions
-- Bring a waterproof camera for dramatic vertical composition opportunities
-- Check current patterns before descent—fjord currents can be variable
-- This is a scenic dive combining cliff drama with remote Arctic atmosphere
+- Watch your depth carefully — wall dives can lead to unintentional deep descents
+- Look in crevices and overhangs for hidden marine life
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 
-Extreme cold (2-7°C) requires dry suit and 30+ dives Arctic experience. Hypothermia risk, wall entanglement hazards, and rapid current changes demand careful risk assessment. Dive only with experienced Arctic cliff operators. Maintain constant buddy contact, watch depth carefully to prevent excessive descent, carry SMB, and monitor air supply closely. Fjord conditions can change rapidly—brief thoroughly before descent.
+Be aware of extreme cold, hypothermia risk, ice in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-Wall dives offer stunning vertical composition opportunities with dramatic depth perspectives and light gradation. Wide-angle lenses capture the cliff scale and vertical ecosystem. Look for macro subjects on encrusted wall surfaces—anemones, small fish, and invertebrate communities create compelling close-up opportunities. Positioning is critical in vertical environments.
+Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

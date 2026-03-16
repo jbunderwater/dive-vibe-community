@@ -11,25 +11,24 @@ osmId: 9448790420
 addedBy: osm_import
 ---
 
-## Gala Pita Gala Dive Site
+## Gala pita gala dive site
 
-Gala Pita Gala Dive Site is a reef dive site located in southern Sri Lanka, near Unuwatuna in the Galle district. The unique local name suggests this is a locally-known formation or reef area.
+Gala pita gala dive site is a reef dive site in Sri Lanka, Asia.
 
 ## Overview
 
-This site offers reef diving in warm Sri Lankan waters with mixed coral formations. The site is accessible via shore entry from the Unuwatuna area. Water temperatures are comfortable year-round (27-30°C), with best diving conditions from December through March.
+Gala pita gala dive site is a dive site in Sri Lanka offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Southern Sri Lanka, Unuwatuna area, Galle District
+- **Location**: Sri Lanka, Asia
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Depth Range**: 10-18 meters
-- **Typical Visibility**: 10-20 meters (33-66 feet)
-- **Current**: Variable, moderate
-- **Water Temperature**: 27-30°C year-round
-- **Best Time**: December to March (optimal conditions); October to April (diving season)
+- **Maximum Depth**: 18 meters
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
@@ -37,19 +36,18 @@ Divers at this site can expect to encounter manta rays, whale sharks, reef shark
 
 ## Dive Profile
 
-This reef site features moderate depths with gradual slope. Begin in shallow water (8-10 meters) to acclimate to site conditions, then progress to deeper reef sections (15-18 meters). The reef structure supports diverse marine life throughout this range. Plan 45-50 minute dives with adequate reserve for safety stops.
+The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
-Shore entry from Unuwatuna beach area. Wade into deeper water and navigate seaward to the reef. Local landmarks guide divers to the site. Exit by returning to the beach via the same route, being alert to wave surge near shore.
+Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
 
 ## Tips and Recommendations
 
-- Shore entry allows flexible scheduling without boat dependency
-- Consult local Unuwatuna dive operators for current site conditions and access
-- The Unuwatuna area has multiple nearby dive sites allowing multi-site trips
-- Excellent photography opportunities with both wide-angle reef and macro subjects
-- Strong currents possible during monsoon transition; avoid in May-October if inexperienced
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
+- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
@@ -61,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

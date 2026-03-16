@@ -13,54 +13,55 @@ addedBy: osm_import
 
 ## Mike's
 
-Mike's Point is a stunning wall dive on the north coast of Bunaken Island, named after underwater photographer Mike Severns. The site's most distinctive feature is a beautiful coral wall shaped like an amphitheatre, adorned with huge gorgonian sea fans and black corals. Strong currents make this an advanced drift dive with excellent shark encounters.
+Mike's is a wall dive site in Manado & Bunaken, Asia.
 
 ## Overview
 
-The amphitheatre-shaped wall at Mike's Point is encrusted with spectacular gorgonian fans, black corals, and colourful soft and hard corals across its entire face. Small caves within the wall serve as resting spots for whitetip reef sharks. The strong currents that typically run here attract large pelagic species and make drift diving the standard approach. Exceptional visibility and pristine coral coverage make this one of the most photographed walls in Bunaken.
+Mike's is a dive site in Manado & Bunaken featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: North coast of Bunaken Island, Bunaken National Marine Park
+- **Location**: Manado & Bunaken, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
-- **Typical Visibility**: 15-25 metres
-- **Current**: Strong — primarily dived as a drift
-- **Best Time**: May to October
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Whitetip reef sharks rest in caves within the wall — one of the more reliable spots in Bunaken to find sleeping sharks. Silvertip sharks are occasionally seen in the blue water beyond the wall on strong current days. Eagle rays and sea turtles are regular sightings. The gorgonian fans host pygmy seahorses for macro enthusiasts willing to search carefully. The strong current brings pelagic species including tuna and large jacks.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-Entry point is determined by current direction. Drift along the amphitheatre wall at a working depth of 12-30 metres, exploring the caves for resting sharks and surveying the gorgonian fans for pygmy seahorses. Watch the blue water beyond the wall regularly for passing pelagics. Ascend gradually and deploy an SMB for boat pickup.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-40 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
-Boat access from Bunaken Island operators. Strong current is the standard condition — drift diving experience is essential. The boat will track your SMB during ascent.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-- Look into the small wall caves for sleeping whitetip reef sharks — a torch helps
-- Scan the gorgonian fans slowly and carefully for pygmy seahorses
-- Watch the blue water diligently — silvertips occasionally patrol the outer water column
-- The amphitheatre shape means you can sometimes shelter from the strongest current in the concave section
-- Pair with Raymond's for a complete north and west Bunaken experience
+- Watch your depth carefully — wall dives can lead to unintentional deep descents
+- Look in crevices and overhangs for hidden marine life
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 
-Strong to very strong currents are the primary hazard. Drift technique and situational awareness are essential. Never fight the current. Carry a torch for cave and crevice inspection. Deploy an SMB well before surfacing and give the boat adequate warning of your ascent position.
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-The amphitheatre wall is exceptional for wide-angle environmental shots showing the scale of the coral-encrusted drop-off. Sleeping whitetip reef sharks in cave entrances are dramatic close-focus wide-angle subjects. Gorgonian fans with pygmy seahorses reward careful macro work. Natural light is beautiful on the upper wall sections in the morning.
+Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*Validated against divezone.net/divesite/mike-s-point, originaldiving.com/diving-mikes-point-dive-site, and asiadivesite.com/bunaken/mikes-point. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Johnson's Reef
 
-Johnson's Reef (also known as Johnny's Gorge) is one of Andaman's most thrilling drift dives, characterized by strong currents that attract large pelagic species including reef sharks, barracuda schools, and occasional manta rays.
+Johnson's Reef is a drift dive site in Andaman Islands, Asia.
 
 ## Overview
 
-Johnson's Reef is a deep, advanced drift dive site renowned for its strong currents and abundance of large pelagic marine life. The currents create a dynamic diving environment that attracts grey reef sharks, schools of barracuda, and seasonal manta ray visitors. This is an expert-level dive that requires excellent buoyancy control and current-diving experience. Best dived as part of a drift pattern with a guide familiar with site conditions.
+Johnson's Reef is a dive site in Andaman Islands offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Andaman Islands, India
+- **Location**: Andaman Islands, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Drift dive
+- **Site Type**: Drift
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 35 meters
-- **Typical Visibility**: 15-25 meters (varies with current and season)
-- **Current**: Strong—drift dive required
-- **Best Time**: November to March (calmer seas)
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Grey reef sharks, barracuda schools, and occasional manta rays are characteristic of this drift dive. The strong currents deliver pelagic visitors including trevally, jobfish, and occasional larger sharks. Reef-dwelling species including Napoleon wrasse and groupers shelter in current-shadow areas.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
 
 ## Dive Profile
 
-This is a drift dive requiring current-diving experience. Coordinate with your guide before entry to establish drift pattern and exit strategy. Descend to the reef at 25-30 meters where the strongest currents typically occur and pelagic activity is highest. Hold position near reef features while maintaining awareness of drift direction. Ascent should be planned well before air reserve levels dictate—drift allows faster air consumption due to exertion fighting current. Deploy surface marker buoy (SMB) well in advance of ascent, and coordinate pickup with boat. Total bottom time typically 30-35 minutes for advanced divers.
+The site offers diving at depths ranging from shallow reef areas down to approximately 35 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -52,7 +52,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

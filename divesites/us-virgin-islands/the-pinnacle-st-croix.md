@@ -13,22 +13,22 @@ addedBy: osm_import
 
 ## The Pinnacle (St. Croix)
 
-The Pinnacle is a small cay south of St. Thomas featuring dramatic rock spires and a maze of swim-throughs that rise from a 95-foot bottom.
+The Pinnacle (St. Croix) is a pinnacle dive site in US Virgin Islands, Caribbean.
 
 ## Overview
 
-A handful of rock formations shoot up from depths of 29 meters to approximately 12 meters, suggesting the site was once an above-ground waterfall formation. The geological formations create a spectacular maze of swim-throughs, cuts, ledges, overhangs, and recesses ideal for exploration. Jacks and barracuda chase swarms of reef fish around the summit, while craggy fissures provide excellent habitat for green morays and octopuses. Though accessible only on special trips when weather permits, The Pinnacle offers one of the most unique diving experiences in the USVI and is well worth the extra effort to visit.
+The Pinnacle (St. Croix) is a dive site in US Virgin Islands offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: South of St. Thomas, US Virgin Islands, Caribbean
+- **Location**: US Virgin Islands, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle/seamount
+- **Site Type**: Pinnacle
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 29 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to strong
-- **Best Time**: December to April (calm weather required)
+- **Current**: Light to moderate
+- **Best Time**: December to April (dry season)
 
 ## Marine Life
 
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter sea turtles (green, hawksbill), sout
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 28 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 29 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -59,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

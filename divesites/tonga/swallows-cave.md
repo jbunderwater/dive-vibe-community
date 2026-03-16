@@ -13,31 +13,30 @@ addedBy: osm_import
 
 ## Swallows Cave
 
-Swallows Cave is the iconic beginners' cave dive in Tonga, located at the northwest tip of Kapa Island in Vava'u. Famous for cathedral-like light effects and swirling schools of baitfish creating mesmerizing patterns in sunlight beams.
+Swallows Cave is a cave dive site in Tonga, Pacific.
 
 ## Overview
 
-Swallows Cave is Tonga's most accessible cave site, featuring a shallow cave system at the entrance with deeper wall sections. The site is known for dramatic lighting effects created when sunlight filters through the underwater entrance, illuminating dense schools of baitfish and creating spotlight effects. The cave walls showcase vibrant nudibranchs and gorgonian fans, with the cave bottom reaching approximately 18 meters in deeper sections.
+Swallows Cave is a dive site in Tonga featuring underwater cave and cavern formations. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
-- **Location**: Kapa Island, Vava'u, Tonga
+- **Location**: Tonga, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/cavern
+- **Site Type**: Cave/Cavern
 - **Difficulty Level**: Beginner
-- **Depth Range**: 4.5-18 meters (cave mouth), 5-18 meters diving
-- **Typical Visibility**: 40+ meters
-- **Current**: Generally protected and calm; light currents possible on walls
-- **Water Temperature**: 21-28°C year-round
-- **Best Time**: Midday for optimal light effects; July-October for humpback whale sightings in region
+- **Maximum Depth**: 18 meters
+- **Typical Visibility**: 20-50 meters (65-160 feet)
+- **Current**: Moderate to strong
+- **Best Time**: April to November
 
 ## Marine Life
 
-Signature feature: dense schools of baitfish forming swirling patterns with stunning light effects. Additional sightings include colorful nudibranchs, gorgonian sea fans on walls, predators like trevally and tuna in the blue water beyond the cave mouth, and occasional reef fish. The barren rock walls contrast dramatically with vibrant entrance reefs.
+Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
 
 ## Dive Profile
 
-Descend to the cave mouth at 4.5-15 meters and enter the cathedral-like interior. Explore swim-throughs and gullies where light beams create dramatic effects. The cave bottom reaches 18 meters in some areas. The steep drop-offs into blue water offer excellent visibility. Ascent follows the wall back to shallower sections for safety stops.
+The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -62,7 +61,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

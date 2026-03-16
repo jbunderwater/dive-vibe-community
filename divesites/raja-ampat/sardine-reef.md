@@ -13,17 +13,17 @@ addedBy: osm_import
 
 ## Sardine Reef
 
-Sardine Reef is a pinnacle site in Raja Ampat famous for massive schooling fish formations.
+Sardine Reef is a pinnacle dive site in Raja Ampat, Asia.
 
 ## Overview
 
-Sardine Reef is named for the vast schooling fish formations that swarm the shallow pinnacle (5-30m range). The site is characterized by large baitfish balls that attract predatory pelagics including jacks, trevally, and mackerel. Moderate currents. Excellent snorkeling on the shallower sections. Visibility typically 15-35 meters with temperatures averaging 26-30°C.
+Sardine Reef is a dive site in Raja Ampat offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
 - **Location**: Raja Ampat, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle/seamount
+- **Site Type**: Pinnacle
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter manta rays, whale sharks, reef shark
 
 ## Dive Profile
 
-Descend to 5-10m and position yourself to watch for schooling activity. The fish formations constantly swirl around the pinnacle. Excellent snorkeling in the shallows (3-8m) for non-divers. For deeper exploration, descend to 15-25m around the seamount edges. Budget 35-40 minutes to observe multiple fish aggregations. Bring a wide-angle lens for the remarkable school formations.
+The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

@@ -4,38 +4,39 @@ addedBy: osm_import
 
 ## Poor Knights Islands
 
-Subtropical reefs, dramatic underwater caves, and diverse marine species.
+One of the world's top 10 dive destinations, the Poor Knights Islands are renowned for their dramatic archways, caves, tunnels, and walls carved through ancient volcanic rock. Located off Northland, New Zealand, this UNESCO-designated marine reserve offers 11 documented dive sites with depths ranging from 15 to 50 meters. Water temperatures vary seasonally from 14-17°C (winter, May-September) to 19-25°C (summer, November-April), with excellent visibility of 15-30 meters typical, sometimes exceeding 46 meters in winter.
 
 ## Description
 
-Poor Knights Islands is a notable diving destination in the Oceania region, offering 2 documented dive sites with depths ranging from 25 to 25 meters. Water temperatures average 20-29°C (68-84°F), with visibility typically reaching 15-40 meters (50-130 feet). Year-round diving is possible, with the best conditions during September to February.
+The Poor Knights Islands are a world-class diving destination featuring over 25 caves and intricate archway systems cut through volcanic formations. The islands drop steeply to over 100 meters, creating spectacular vertical walls and pinnacles. This is a cold-water destination requiring a 5mm wetsuit in summer and 7mm or drysuit in winter. Jacques Cousteau rated the Poor Knights as one of the finest dive sites on the planet.
 
 ### Diving Opportunities
 
-- **Boat Diving**: 2 boat-accessible sites reached through local dive operators
-- **Reef Diving**: Healthy coral reef systems supporting diverse marine ecosystems
-- **Night Diving**: After-dark diving reveals nocturnal marine species and different reef behaviors
+- **Arch & Tunnel Diving**: Famous sites including Blue Maomao Arch, Northern Arch, Middle Arch, Tie Dye Arch, and Jan's Tunnel offer swim-throughs with extraordinary marine life
+- **Wall & Pinnacle Diving**: Steep walls with pinnacles like Landing Bay Pinnacle attract pelagic fish and create dramatic depth profiles
+- **Cave Diving**: The world's largest southern hemisphere sea cave (Rikoriko Cave) is accessible to intermediate divers with proper lighting
+- **Boat Diving Only**: All sites are reached by boat from local operators based in Tutukaka
 
 ### Accessibility
 
-- **Getting There**: Poor Knights Islands is accessible via international and regional flights to nearby airports. Check with airlines for current routes and connections.
-- **Dive Operators**: Professional dive operators offer equipment rental, guided dives, certification courses, and boat trips to offshore sites.
-- **Accommodation**: Options range from dedicated dive resorts to budget-friendly guesthouses, with many properties located near popular dive sites.
-- **Transportation**: Local transportation and dive operator transfers are the primary means of reaching dive sites.
-- **Facilities**: Dive sites vary in available amenities; operator-run sites typically provide comprehensive facilities while remote sites may have limited infrastructure.
+- **Getting There**: Access via Tutukaka, Northland, approximately 2 hours north of Auckland. Fly to Auckland and drive to Tutukaka.
+- **Dive Operators**: Professional operators (Dive Now, Dive! Tutukaka, Dive HQ, NZ Diving) offer daily dives, liveaboard trips, and certification courses
+- **Accommodation**: Range from budget hostels to dive resorts in Tutukaka village
+- **Marine Reserve**: Protected marine area with conservation regulations—respect all wildlife and follow operator briefings
 
 ### Marine Life & Environment
 
-- **Water Conditions**: Water temperatures range from 20-29°C (68-84°F) with visibility of 15-40 meters (50-130 feet). Currents are generally variable.
-- **Marine Biodiversity**: The waters support diverse marine ecosystems including great white sharks, grey nurse sharks, whale sharks, manta rays, sea turtles, dolphins, dugongs, potato cod, maori wrasse, giant trevally.
-- **Conservation**: Marine protected areas help preserve the reef ecosystems and regulate diving activities.
+- **Water Conditions**: Winter (May-September): 14-17°C; Summer (November-April): 19-25°C. Visibility 15-30m typical, up to 46m. Mild to moderate currents through archways.
+- **Marine Biodiversity**: Spectacular schools of blue maomao (dense enough to block sunlight in arches), pink maomao, kingfish, snapper, giant trevally, short-tailed stingrays, eagle rays, moray eels, nudibranchs, large scorpion fish, and firebrick stars. Shark species include wobbegong and occasional other species.
+- **Conservation**: Marine Protected Area with strict regulations. Take only photos and respect marine life.
 
 ## Additional Information
 
-- **Best Time to Visit**: September to February. Diving is possible year-round.
+- **Best Time to Visit**: May to September for optimal visibility (winter). Summer (November-February) offers warmer water but reduced visibility.
+- **Difficulty Range**: Beginner (Barney's Rock) to Advanced (Landing Bay Pinnacle, Northern Arch, Wild Beast Point)
 - **Currency**: New Zealand Dollar (NZD)
 - **Language**: English, Māori
-- **Safety**: Always dive within certification limits. Be aware of strong currents, jellyfish (box jellyfish in summer), crocodiles (north). Verify the location of the nearest hyperbaric chamber before diving.
+- **Safety**: Cold-water experience required. Monitor buoyancy carefully on deep dives. Carry appropriate lights for cave/arch entries. Always dive with a buddy and a safety sausage (SMB). Verify dive operator reputation.
 
 ## Sources
 

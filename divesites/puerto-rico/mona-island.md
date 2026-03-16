@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Mona Island
 
-Mona Island is a world-class bucket-list dive destination located 50 miles off Puerto Rico's west coast. Often described as the "Galápagos of the Caribbean," Mona Island features pristine cliff-diving at sheer underwater walls, spectacular caves, diverse hard and soft corals, and abundant large marine species. Access is by live-aboard boats only, making this a destination for advanced, committed divers.
+Mona Island is a wall dive site in Puerto Rico, Caribbean.
 
 ## Overview
 
-Mona Island's diving is best described as "cliff diving" with sheer cliff-like walls extending from surface boulders to massive underwater formations. The site features sunlight-drenched caverns, caves, hard and soft corals with abundant gorgonian sea fans, and consistent pelagic marine life including sharks, rays, and large fish schools. Visibility typically exceeds 100 feet. Strong currents, remote location, and challenging surface conditions require advanced experience and live-aboard logistics. The pristine, isolated nature and dramatic underwater landscape create an unforgettable diving experience.
+Mona Island is a dive site in Puerto Rico featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: 50 miles west of Puerto Rico (Mona Island National Park)
+- **Location**: Puerto Rico, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
-- **Typical Visibility**: 25-40 meters (80-150 feet)
-- **Current**: Strong currents common
-- **Best Time**: December to April (dry season, calmer seas)
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Light to moderate
+- **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Mona Island features abundant large pelagic marine life including sharks, eagle rays, sea turtles, large groupers, snappers, and impressive schooling fish. The site's isolation and pristine condition support thriving marine ecosystems rarely encountered in more accessible Caribbean locations. The dramatic wall formations are encrusted with hard and soft corals, gorgonian sea fans, black coral, sponges, and diverse invertebrates. Occasional humpback whales have been reported in seasonal migrations.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-Advanced wall diving following the dramatic cliff formations. Divers descend through open water or cave/cavern systems to 60+ feet. The site's strong currents and challenging conditions require careful dive planning with experienced guides. Most dives last 40-50 minutes at depth ranges of 60-100+ feet. Cavern diving is possible for trained cavern divers. The site's dramatic geological features and exceptional marine life create a dive experience comparable to the Galápagos Islands. Live-aboard operators manage dive logistics and environmental stewardship of this protected area.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-40 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
@@ -61,7 +61,7 @@ Wall dives offer stunning wide-angle opportunities with dramatic depth perspecti
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

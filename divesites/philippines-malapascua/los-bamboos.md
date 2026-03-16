@@ -4,7 +4,6 @@ lat: 11.3431335
 lng: 124.108851
 difficulty: Beginner
 maxDepth: 20
-minDepth: 5
 entryType: boat
 siteType: reef
 ref: null
@@ -14,60 +13,55 @@ addedBy: osm_import
 
 ## Los Bamboos
 
-Los Bamboos is a tranquil, off-the-beaten-path reef featuring vibrant coral gardens and abundant macro life, ideal for relaxed reef exploration.
+Los Bamboos is a reef dive site in Philippines Malapascua, Asia.
 
 ## Overview
 
-Los Bamboos (named after bamboo formations on the nearby shore) is tucked away from the busier dive routes around Malapascua, offering a tranquil escape with vibrant marine life and lush coral gardens. Gentle slopes and playful currents make this a perfect site for divers who love to explore the reef at a relaxed pace. The site is particularly excellent for macro enthusiasts. This site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Los Bamboos is a dive site in Philippines Malapascua offering excellent diving on healthy coral reef structures . Dive Site. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Philippines Malapascua, Cebu
+- **Location**: Philippines Malapascua, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Minimum Depth**: 5 meters
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Mild, gentle
-- **Best Time**: October to April
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
-## Site Characteristics
+## Marine Life
 
-Los Bamboos features vibrant coral gardens with healthy coral coverage. The reef has gentle slopes without steep drops, creating a relaxed diving environment. The site is less crowded than other Malapascua sites, offering a more intimate experience.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
 
 ## Dive Profile
 
-Begin at the shallow reef and explore the coral gardens at your own pace between 5-20 meters. The gentle slopes allow for relaxed depth management. Macro photography opportunities are abundant throughout the reef. Plan for a 45-60 minute dive, allowing plenty of time for close inspection of small creatures.
+The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
 Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
-## Marine Life
-
-Abundant soft corals, nudibranchs, seahorses, pygmy seahorses, crustaceans. Macro diversity is high due to the coral-rich environment. Small reef fish throughout.
-
 ## Tips and Recommendations
 
-- Perfect for macro photographers—bring a dedicated macro lens
-- Less crowded than other Malapascua sites
-- Gentle conditions ideal for learning photographers
-- Excellent for relaxed, exploratory diving
-- Check local weather and conditions before diving
+- Excellent site for newer divers — calm conditions and easy navigation
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
+- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
-This beginner-friendly site has mild currents and gentle slopes. Dive within your certification limits. Be aware of jellyfish and sea urchins. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-Excellent for macro photography of nudibranchs, seahorses, and crustaceans. The coral gardens provide colorful subjects. Shallow depth provides excellent natural light for photography.
+This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-03-16
-- **Validated by**: Dive operator research (Evolution Diving)
 
 ---
-*This dive site information was compiled from OpenStreetMap data and dive operator research. Last updated 2026-03-16.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

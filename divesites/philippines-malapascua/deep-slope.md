@@ -4,7 +4,6 @@ lat: 11.3483754
 lng: 124.1203631
 difficulty: Beginner
 maxDepth: 25
-minDepth: 5
 entryType: boat
 siteType: reef
 ref: null
@@ -14,60 +13,55 @@ addedBy: osm_import
 
 ## Deep Slope
 
-Deep Slope features an interesting sand-dune topography that gradually transitions into a small wall, perfect for exploratory diving at all levels.
+Deep Slope is a reef dive site in Philippines Malapascua, Asia.
 
 ## Overview
 
-Deep Slope lives up to its name with sloping topography resembling a sand dune that gradually transitions into a small wall. The dive offers varied depth options and interesting terrain changes to explore. This site is excellent for both beginners learning depth management and experienced divers enjoying the varied topography. The site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Deep Slope is a dive site in Philippines Malapascua offering excellent diving on healthy coral reef structures . Dive Site. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Philippines Malapascua, Cebu
+- **Location**: Philippines Malapascua, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Minimum Depth**: 5 meters
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Mild to moderate
-- **Best Time**: October to April
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
-## Site Characteristics
+## Marine Life
 
-Deep Slope features a unique sand-dune profile that slopes gradually toward a small wall section. The varied terrain provides excellent training opportunities for understanding reef topography and depth profiles. Coral growth is healthy throughout the slope.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
 
 ## Dive Profile
 
-Begin your descent on the shallow slope and follow the sand dune formation toward deeper water. The transition to the small wall occurs around 20-25 meters. This varied profile makes the site excellent for teaching depth management and buoyancy control. Allow 40-50 minutes for exploration. The most abundant marine life is typically found between 5-20 meters.
+The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
 Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
-## Marine Life
-
-Reef fish, nudibranchs, seahorses, crustaceans. The varied topography supports different ecological zones.
-
 ## Tips and Recommendations
 
-- Excellent for practicing depth management
-- Good training site for understanding reef topography
+- Excellent site for newer divers — calm conditions and easy navigation
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
-- Respect marine life and maintain good buoyancy
-- Ideal for both beginners and exploratory diving
+- Respect marine life and maintain proper buoyancy to protect the reef
+- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
-Mild to moderate currents are possible. Dive within your certification limits. The gradual slope is very forgiving for depth management. Be aware of jellyfish and sea urchins. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-Good opportunities for reef and wall photography. The sand-dune transition creates interesting compositional elements.
+This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-03-16
-- **Validated by**: Dive operator research
 
 ---
-*This dive site information was compiled from OpenStreetMap data and dive operator research. Last updated 2026-03-16.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

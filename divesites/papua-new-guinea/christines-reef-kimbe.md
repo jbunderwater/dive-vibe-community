@@ -17,7 +17,7 @@ Christine's Reef Kimbe is a reef dive site in Papua New Guinea, Pacific.
 
 ## Overview
 
-Christine's Reef consists of a series of detached reefs connected by underwater ridges, featuring a spectacular collection of massive barrel sponges adorned with multicolored feather duster worms. The site is renowned among underwater photographers for its towering barrel sponges, mélange of gorgonians, soft corals, red whip corals, and vibrant orange sponges that create stunning shallow coral gardens.
+Christine's Reef Kimbe is a dive site in Papua New Guinea offering excellent diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
@@ -61,7 +61,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

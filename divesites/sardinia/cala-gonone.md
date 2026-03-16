@@ -13,32 +13,30 @@ addedBy: osm_import
 
 ## Cala Gonone
 
-Cala Gonone is famous for its endless array of caves, tunnels, and mysterious underwater enclosures on the Gulf of Orosei, within the Gennargentu National Park, on the central-eastern coast of Sardinia. The area features 40 kilometers of dramatic limestone cliffs.
+Cala Gonone is a cave dive site in Sardinia, Europe.
 
 ## Overview
 
-Cala Gonone offers spectacular cave diving with shallow, beginner-friendly cave systems featuring unique geology. Many cavities have above-ground portions that continue underwater, creating dramatic transitions. The cave systems are known for spectacular halocline layers (fresh/salt water interface), hydrogen sulfide zones, speleothems (cave formations), and varied morphology including vertical shafts, large phreatic passages, and restrictions.
+Cala Gonone is a dive site in Sardinia featuring underwater cave and cavern formations . Shallow cave systems averaging 9m depth with spectacular halocline, Bue Marino cave with stalactites. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
 
 ## Site Information
 
-- **Location**: Gulf of Orosei, central-eastern Sardinia
+- **Location**: Sardinia, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/cavern
+- **Site Type**: Cave/Cavern
 - **Difficulty Level**: Beginner
-- **Depth Range**: 6-15 meters (average 9 meters)
 - **Maximum Depth**: 15 meters
-- **Water Temperature**: 15-22°C (varies with freshwater inflow)
-- **Typical Visibility**: 15-20 meters (summer)
-- **Current**: Light
-- **Best Time**: Summer (June-August) for best weather and visibility
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Light to moderate
+- **Best Time**: May to October
 
 ## Marine Life
 
-Shallow cave systems host small fish species adapted to cave environments. The area features diverse invertebrates, crustaceans, and schooling bream. Some caves contain freshwater inflows creating unique halocline diving experiences with varying water densities visible during descent.
+Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
 
 ## Dive Profile
 
-Cala Gonone offers unusually shallow cave diving, averaging 9 meters depth, making it accessible to recreational divers with cavern training. The Bue Marino Cave is a vast cavern system with three main passages featuring breathtaking chambers and tunnels with fossilized stalactites and stalagmites. The freshwater inflows create dramatic visual effects during descent. Multiple specialized dive centers (Argonauta, Base One, Protec Sardinia) operate in Cala Gonone with extensive knowledge of the unique cave systems.
+The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -46,6 +44,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
+- Excellent site for newer divers — calm conditions and easy navigation
 - Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
@@ -61,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

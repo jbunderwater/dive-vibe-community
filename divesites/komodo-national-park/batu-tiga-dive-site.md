@@ -13,56 +13,54 @@ addedBy: osm_import
 
 ## Batu Tiga Dive Site
 
-Dramatic submerged rock pinnacles rising from deep water with strong currents and big fish.
+Batu Tiga Dive Site is a pinnacle dive site in Komodo National Park, Asia.
 
 ## Overview
 
-Batu Tiga (Three Rocks or Three Sisters) is one of Komodo's most current-affected dive sites—legendary for big fish encounters and technical challenge. Three large rock formations sit on a sandy bottom at approximately 20–30 meters, rising steeply to 3–5 meters below the surface. The rocks are about 10 meters apart, creating a small navigational puzzle. Strong currents driven by tidal exchange concentrate pelagic fish around the rocks: giant trevally, jacks, snappers, and sharks. The site is pristine and heavily covered in coral and invertebrates. Batu Tiga is strictly for advanced divers—current, depth, and navigation difficulty make this a technical dive.
+Batu Tiga Dive Site is a dive site in Komodo National Park offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Central Komodo, offshore pinnacle group
+- **Location**: Komodo National Park, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle/seamount
+- **Site Type**: Pinnacle
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 15–30 meters (50–100 feet); can be variable
-- **Current**: Strong to very strong; depends on tidal phase
-- **Best Time**: May to October; diveable year-round on suitable tidal days
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Giant trevally, large jacks, snappers, groupers, reef sharks (white-tip, black-tip), and other pelagic and reef fish concentrated around the rocks by current. The rock surfaces are heavily colonized with hard and soft corals, sea fans, and sponges. Small reef fish, nudibranchs, and crustaceans inhabit the coral.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
 
 ## Dive Profile
 
-Descend rapidly to the rocks (depth 20–30 meters depending on entry point) and use them as reference points for buoyancy control. Drift with the current around the rocks, scanning the blue for pelagics while monitoring the coral for smaller creatures. Navigator skill is important—knowing which rock you're at and where the other rocks are positioned prevents disorientation. Manage time carefully; ascend gradually after 15–20 minutes of bottom time, finishing your safety stop in shallower water.
+The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
-Giant stride entry. Descend quickly to the rocks. Navigate carefully using rocks as reference points. Exit via SMB deployment after safety stop.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-- Practice navigation and buoyancy control before attempting this dive
-- Bring a compass or rely heavily on your guide's navigation
-- Scan the blue (beyond the rocks) constantly for large fish
-- Expect and enjoy the adrenaline rush
-- Carry adequate air for depth and time management
-- Plan a conservative bottom time (15–20 minutes)
-- This is a world-class big fish dive—be mentally prepared for epic encounters
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
+- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
-Strong currents require excellent buoyancy control. Depth (20–30m) demands proper air management and decompression awareness. Navigation errors can lead to disorientation and excessive depth. Only dive with experienced Komodo guides. Abort if currents exceed your comfort level or buoyancy becomes unpredictable. Do not attempt without recent current diving experience.
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-Excellent wide-angle opportunities for big fish encounters. Fast-moving fish and current make focus challenging. Bring fast autofocus and shutter speeds. The coral-covered rocks provide background interest. Difficult to execute well due to conditions, but potential for spectacular images.
+This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

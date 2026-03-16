@@ -13,17 +13,17 @@ addedBy: osm_import
 
 ## Mainit Point
 
-Mainit Point, also known as "Mainit Muck," is located at the very tip of the Calumpan Peninsula where Batangas Bay begins, approximately 30 minutes by boat from Anilao. Mainit means "hot," named after a small hot spring at the site.
+Mainit Point is a muck dive site in Philippines Anilao, Asia.
 
 ## Overview
 
-Mainit Point is an advanced dive site featuring a colorful coral-heavy reef with myriad nudibranchs and strong currents. Located where Maricaban Strait is at its narrowest, dive conditions are 99% affected by strong current due to the site's strategic location. The slope features a garden of sea fans, hydroids, xenia corals, soft corals, and hard corals in abundance. This is a wide-angle photographer's dream but strictly for very advanced divers.
+Mainit Point is a dive site in Philippines Anilao offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Calumpan Peninsula tip, where Batangas Bay begins, Anilao
+- **Location**: Philippines Anilao, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Muck dive
+- **Site Type**: Muck
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
@@ -32,11 +32,11 @@ Mainit Point is an advanced dive site featuring a colorful coral-heavy reef with
 
 ## Marine Life
 
-Mainit Point features strong-current-adapted reef with myriad nudibranchs as a primary attraction. Up to 4 great barracuda have been seen hunting, along with giant and bluefin trevally. The current rushing through Maricaban Strait feeds a colorful and coral-heavy reef. Sea fans, hydroids, xenia corals, soft corals, and hard corals create a visual feast. The exceptional coral density supports dense critter populations including nudibranchs, making it excellent for both wide-angle and macro photography.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
 
 ## Dive Profile
 
-Descent into strong current with down-currents possible near the Apex. Depths available 5-30 meters. Strong current management is essential for safety. Begin at shallower depths where the reef slope offers protection, then carefully work deeper as the current permits. The slope features abundant corals at all depths. This is not a leisurely dive — strong current awareness and current-diving skills are mandatory.
+The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -44,24 +44,23 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
 - Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
 - Respect marine life and maintain proper buoyancy to protect the reef
+- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
-Mainit Point is NOT for casual divers. Strong currents are the defining feature with down-currents possible near the Apex. This site is strictly for very advanced divers wanting current diving challenges with strong pelagics. Carry appropriate signaling devices and be completely prepared to abort the dive if conditions exceed your current-diving abilities. Strong descent control and ascent discipline are mandatory. Always dive with a buddy and carry a safety sausage (SMB). This is one of Anilao's most demanding dives.
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

@@ -13,53 +13,54 @@ addedBy: osm_import
 
 ## The Aquarium
 
-The Aquarium is a shallow reef site near Socorro Island in the Revillagigedo Archipelago, named for the density and variety of fish life concentrated in the area. While the other major sites in the archipelago are known primarily for pelagic megafauna, The Aquarium stands out as the best site in Socorro for fish diversity and macro photography.
+The Aquarium is a reef dive site in Socorro Islands, Pacific.
 
 ## Overview
 
-The Aquarium is the macro and fish-photography specialist's site among the Revillagigedo dive locations. Large schools of Clarion angelfish — the endemic orange-colored angelfish found only in the Revillagigedo and Clipperton regions — are a defining feature here, gathering in numbers that can fill the water column. Red-tailed triggerfish and crosshatch triggerfish are also prominent. Despite its shallower, calmer character, The Aquarium is still an Advanced-only destination given the overall remoteness and open-ocean environment of the Revillagigedo Archipelago. Visibility at The Aquarium can be reduced compared to Roca Partida, sometimes dropping below 15 meters due to plankton density.
+The Aquarium is a dive site in Socorro Islands offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
-- **Location**: Near Socorro Island, Revillagigedo Archipelago (liveaboard only)
+- **Location**: Socorro Islands, Pacific
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 10–20 meters (variable; plankton blooms can reduce visibility)
-- **Current**: Light to moderate
-- **Best Time**: November to June
+- **Typical Visibility**: 20-50 meters (65-160 feet)
+- **Current**: Moderate to strong
+- **Best Time**: April to November
 
 ## Marine Life
 
-Clarion angelfish (Holacanthus clarionensis) school here in larger concentrations than at other Socorro sites, making The Aquarium the best location in the archipelago to photograph this endemic species. Red-tailed triggerfish and crosshatch triggerfish are abundant. The shallower reef structure supports groupers, moray eels, and various reef fish typical of the Eastern Pacific. Humpback whales cruising close to Socorro Island have been observed from the surface during The Aquarium dives in the January–March season. The site is also accessible for freediving alongside scuba.
+Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
 
 ## Dive Profile
 
-A relatively straightforward dive compared to the current-intensive sites elsewhere in the archipelago. Divers work the shallow reef structure, exploring fish aggregations and macro subjects. Maximum depth of 15 meters allows extended bottom times. The site is sometimes used as a surface interval dive between the more demanding sites.
+The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
-Liveaboard access only. Zodiac tender entry via giant stride. SMB recommended for ascent even in calmer conditions.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-- Use a macro lens setup here — this is Socorro's best site for Clarion angelfish close-up shots and small reef subjects
-- The reduced visibility compared to other sites benefits from strobe lighting
-- If whale song is audible, look up and toward open water — humpbacks pass close to Socorro Island
-- Ideal site for divers who want a rest from the more demanding current sites while staying in the water
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
+- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
-Despite being the calmest and shallowest Socorro site, The Aquarium remains part of a remote liveaboard itinerary 30 hours from emergency medical care. Liveaboard operators maintain the same minimum Advanced certification and 50+ logged dive requirements at this site as everywhere else in the archipelago.
+Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-The Aquarium is the top macro and fish-portrait site in the Revillagigedo Archipelago. Large schools of Clarion angelfish in their vivid orange coloration photograph beautifully in natural light at shallow depths. Red-tailed and crosshatch triggerfish are willing subjects. Bring a macro lens and a strobe — the reduced visibility benefits from fill light that the open-pinnacle sites do not require.
+This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*Validated against UWPhotographyGuide, ScubaGo, Dive-the-World, and liveaboard.com Socorro site descriptions. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

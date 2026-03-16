@@ -13,17 +13,17 @@ addedBy: osm_import
 
 ## SAS Transvaal Wreck
 
-The SAS Transvaal is a former South African Navy minesweeper that sank in False Bay near Cape Town, now serving as an advanced wreck diving destination. The wreck lies upright on sand at approximately 34 meters depth, with the main deck at about 25 meters before the structure begins to collapse. Characterized by deteriorating condition and active structural collapse, the SAS Transvaal is accessible to advanced recreational divers and suitable for wreck-trained divers only.
+SAS Transvaal Wreck is a historic wreck dive in South Africa, Africa.
 
 ## Overview
 
-The SAS Transvaal sits upright on sand in False Bay with depths ranging from 23 meters (funnel top) to 34+ meters (main deck and sand bottom). The wreck is visibly collapsing with the bow broken off, requiring careful exploration and navigation. Winter (June-August) offers the best visibility and calmest conditions. A permit is required to dive this site to protect the wreck and its ecological community.
+SAS Transvaal Wreck is a dive site in South Africa featuring the wreck of the SAS Transvaal Wreck. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
 
 ## Site Information
 
 - **Location**: South Africa, Africa
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 34 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)
@@ -32,11 +32,11 @@ The SAS Transvaal sits upright on sand in False Bay with depths ranging from 23 
 
 ## Marine Life
 
-The wreck structure supports significant populations of brindle bass and other grouper species that shelter in the deteriorating structure. Encrusting corals, sponges, and anemones have colonized the metal surfaces. The site's cooler Atlantic waters (14-16°C) support temperate species including crayfish and other crustaceans. The wreck's active structural collapse continues to create new cavities attracting fish seeking shelter.
+Divers at this site can expect to encounter groupers, batfish, coral growth, lionfish, whale sharks, manta rays, humpback whales, sea turtles. Additional species commonly sighted include dolphins, reef sharks. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 33 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 34 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -61,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

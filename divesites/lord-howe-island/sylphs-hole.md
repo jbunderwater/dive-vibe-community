@@ -3,8 +3,8 @@ name: Sylph's Hole
 lat: -31.5583
 lng: 159.0417
 difficulty: Beginner
-maxDepth: 15
-entryType: boat
+maxDepth: 10
+entryType: shore
 siteType: reef
 ref: null
 osmId: null
@@ -13,34 +13,31 @@ addedBy: osm_import
 
 ## Sylph's Hole
 
-Sylph's Hole is a reef dive site in Lord Howe Island, Oceania.
+Sylph's Hole is a scenic lagoon site accessible from shore with abundant marine life including sea turtles, located at Old Settlement Beach.
 
 ## Overview
 
-Sylph's Hole is a dive site in Lord Howe Island offering excellent diving on healthy coral reef structures. Located in the Oceania region, this site offers 15-40 meters of visibility with water temperatures averaging 20-29°C.
+Sylph's Hole is one of three major seabed depressions in Lord Howe Island's lagoon (along with Erscott's Hole and Comets Hole), offering shallow diving accessible from shore. Located at Old Settlement Beach, it's easily accessible by a short swim from shore, making it perfect for beginner divers and snorkelers. The site is famous for encounters with friendly green sea turtles and numerous small fish.
 
 ## Site Information
 
-- **Location**: Lord Howe Island, Oceania
-- **Entry Type**: Boat dive
+- **Location**: Old Settlement Beach, Lord Howe Island lagoon
+- **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 meters
+- **Maximum Depth**: 10 meters
 - **Typical Visibility**: 15-40 meters (50-130 feet)
-- **Current**: Variable
-- **Best Time**: September to February
+- **Current**: Minimal (lagoon protected)
+- **Best Time**: Year-round
+- **Special Note**: Accessible by short swim from shore; friendly green sea turtles common
 
 ## Marine Life
 
-Divers at this site can expect to encounter great white sharks, grey nurse sharks, whale sharks, manta rays, sea turtles, dolphins, dugongs, potato cod. Additional species commonly sighted include maori wrasse, giant trevally, hard corals, soft corals.
+Sylph's Hole is known for encounters with friendly green sea turtles and abundant small fish. Recent observations include bentstick pipefish, goldstripe butterflyfish, great seahorse, and other species. The site is home to diverse fish life seeking shelter in the shallow reef environment.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Maximum depth is approximately 10 meters. This shallow lagoon site is ideal for photographers and beginners. The site offers easy navigation and relaxed diving in protected waters. Explore the reef structures and watch for turtle encounters.
 
 ## Tips and Recommendations
 
@@ -60,7 +57,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

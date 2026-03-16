@@ -13,34 +13,30 @@ addedBy: osm_import
 
 ## Minnie Breslauer
 
-The Minnie Breslauer is a beautifully preserved 300-foot English steel-hulled steamer that sank on her maiden voyage to New York on January 1, 1873. The ship struck the Southwest Breaker reef off Bermuda while carrying wine, dried fruit, cork, and lead ingots. Her dramatic bow is smashed across the reef while the stern section rests more intact in deeper sand.
+Minnie Breslauer is a historic wreck dive in Bermuda, Atlantic.
 
 ## Overview
 
-The Minnie Breslauer has become heavily overgrown with dome corals, sea whips, and sponges after prolonged saltwater submersion. A huge steam boiler provides an excellent reference point for exploration, and the ship's intact four-bladed propeller is partially buried in sand. The wreck is popular for Bermuda Shipwreck Certificate completion and offers outstanding photographic opportunities.
+Minnie Breslauer is a dive site in Bermuda featuring the wreck of the Minnie Breslauer. Located in the Atlantic region, this site offers 15-30 meters of visibility with water temperatures averaging 20-28°C.
 
 ## Site Information
 
-- **Location**: Southwest Breaker reef, south Bermuda
+- **Location**: Bermuda, Atlantic
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 30-40 feet (9-12 meters)
+- **Typical Visibility**: 15-30 meters (50-100 feet)
 - **Current**: Light to moderate
 - **Best Time**: May to October
-- **Ship Type**: English steel-hulled steamer (300 feet)
-- **Built**: 1872
-- **Year Sunk**: January 1, 1873 (maiden voyage)
-- **Proximity**: Near three Bermuda dive operators
 
 ## Marine Life
 
-The wreck teems with marine life including schools of snappers, groupers, jacks, and barracuda. The heavily encrusted hull provides habitat for lobsters, crabs, and countless reef fish species.
+Divers at this site can expect to encounter groupers, snappers, barracuda, coral encrustation, sea turtles, reef sharks, groupers, snappers. Additional species commonly sighted include parrotfish, angelfish. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
 
 ## Dive Profile
 
-Descend to explore the dramatic bow section collapsed across the reef. Examine the huge steam boiler and the four-bladed propeller in the sand. The stern section in deeper sand is accessible for experienced intermediate divers. Plan 40-50 minutes of bottom time with a 5-minute safety stop at 15 feet.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 20 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -65,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

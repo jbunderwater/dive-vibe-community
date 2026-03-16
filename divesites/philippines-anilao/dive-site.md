@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Dive Site
 
-This generic dive site name in Anilao represents a typical reef dive in the destination, part of the extensive network of accessible dive locations.
+Dive Site is a reef dive site in Philippines Anilao, Asia.
 
 ## Overview
 
-This is a coral reef dive site in Anilao offering typical reef diving with depths around 25 meters and warm tropical waters. Like most Anilao reef dives, the site offers good macro photography opportunities and is accessible by boat. The site provides rewarding diving on healthy coral reef structures characteristic of the region.
+Dive Site is a dive site in Philippines Anilao offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Philippines Anilao, Batangas
+- **Location**: Philippines Anilao, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
@@ -32,7 +32,7 @@ This is a coral reef dive site in Anilao offering typical reef diving with depth
 
 ## Marine Life
 
-As a typical Anilao reef, this site offers diverse marine life including reef fish, soft corals, and macro subjects. Nudibranchs, small reef fish, and occasional larger species are typical finds. Like all Anilao sites, macro photography opportunities abound.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
 
 ## Dive Profile
 
@@ -40,10 +40,11 @@ The site offers diving at depths ranging from shallow reef areas down to approxi
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
+- Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
 - Respect marine life and maintain proper buoyancy to protect the reef
@@ -59,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

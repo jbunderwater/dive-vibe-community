@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Martini Rock
 
-Martini Rock is an intermediate-level pinnacle dive in Fujairah offering dramatic rock formations and diverse coral ecosystems.
+Martini Rock is a pinnacle dive site in UAE - Fujairah, Middle East.
 
 ## Overview
 
-Martini Rock features a prominent underwater rock structure with depths ranging from 12-20 meters. A notable current makes this site more suited to intermediate divers. The rock formation itself creates dramatic landscape photography opportunities and is covered with various soft corals and marine growth. The site is best dived during periods of manageable current.
+Martini Rock is a dive site in UAE - Fujairah offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
 
 ## Site Information
 
-- **Location**: UAE - Fujairah coast
+- **Location**: UAE - Fujairah, Middle East
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle/seamount
+- **Site Type**: Pinnacle
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 15-20 meters
-- **Current**: Moderate to strong (main challenge of site)
-- **Best Time**: September to May (check conditions)
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Moderate to strong
+- **Best Time**: September to May
 
 ## Marine Life
 
-Martini Rock's rock structures attract diverse reef fish species and soft corals. Expect to encounter groupers, lionfish, moray eels, and various smaller reef fish. The structure provides excellent habitat for macro photography subjects.
+Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 22 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

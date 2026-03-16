@@ -17,23 +17,22 @@ Pointe du Cognet is a reef dive site in Port-Cros, Europe.
 
 ## Overview
 
-Pointe du Cognet is an accessible intermediate reef site offering pleasant diving to 20 meters depth. This point site combines easy navigation with good opportunities to observe Mediterranean marine life in shallow water. The site is well-suited for intermediate divers building experience and for recreational diving without deep technical demands.
+Pointe du Cognet is a dive site in Port-Cros offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
 
 ## Site Information
 
-- **Location**: Port-Cros National Park, Côte d'Azur, France
+- **Location**: Port-Cros, Europe
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 15-35 meters
+- **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: May to October
-- **Water Temperature**: 15-24°C
 
 ## Marine Life
 
-Groupers, schools of breams, Mediterranean wrasses, and sea bream inhabit the reef structures. Moray eels and crabs occupy rocky crevices. Posidonia seagrass meadows support juvenile fish and invertebrates. Nudibranchs, sea fans, and sponges colonize rock surfaces. The shallow depth makes this excellent for macro photography and detailed wildlife observation.
+Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
 
 ## Dive Profile
 
@@ -60,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

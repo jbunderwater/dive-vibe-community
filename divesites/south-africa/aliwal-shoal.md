@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Aliwal Shoal
 
-Aliwal Shoal is rated as one of the world's top ten dive sites and the best dive site in South Africa after Sodwana Bay. Located 2.5-5 kilometers offshore from Umkomaas on the KwaZulu-Natal coast, this site is globally renowned as a premier shark diving destination, particularly for ragged-tooth sharks (Grey Nurse Sharks).
+Aliwal Shoal is a reef dive site in South Africa, Africa.
 
 ## Overview
 
-Aliwal Shoal is a fossilized Pleistocene-era sand dune transformed into an aeolianite reef featuring hard corals and sponges where warm Indian Ocean waters meet cooler currents. The reef structure creates unique habitats supporting exceptional shark populations and diverse tropical fish. Depths range from 12-27 meters with varying topography including caves, ledges, and sandy patches.
+Aliwal Shoal is a dive site in South Africa offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
 
 ## Site Information
 
@@ -32,11 +32,11 @@ Aliwal Shoal is a fossilized Pleistocene-era sand dune transformed into an aeoli
 
 ## Marine Life
 
-Aliwal Shoal is renowned for its Grey Nurse Sharks (ragged-tooth sharks or "raggies"), which congregate in large mating groups between July-November, with formations of dozens visible at sites like Raggie's Cave and Cathedral. The site also features diverse tropical fish, hard corals, and sponges. Divers encounter large potato bass, morays, and tropical reef fish year-round.
+Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 27 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

@@ -13,22 +13,20 @@ addedBy: osm_import
 
 ## Japanese Gardens
 
-Japanese Gardens is a vibrant reef dive site located at the end of Goat Island near Charlotteville in Speyside, Tobago. The site features an exceptional diversity of sponges and corals that create a serene underwater landscape resembling its namesake.
+Japanese Gardens is a reef dive site in Tobago, Caribbean.
 
 ## Overview
 
-At the end of Goat Island, divers swim over a lively reef abundant with corals and sponges before arriving at spectacular formations of bright yellow tube sponges, red sea rods, orange and purple tube sponges, and barrel sponges. This intermediate-level site offers a rewarding combination of coral diversity and healthy reef structures, with depths reaching 34 meters at maximum.
+Japanese Gardens is a dive site in Tobago offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Speyside, Tobago, near Charlotteville
+- **Location**: Tobago, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 34 meters
-- **Depth Range**: 20-34 meters (66-111 feet)
-- **Typical Visibility**: 15-30 meters on good days
-- **Water Temperature**: 27-30°C (81-86°F)
+- **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
 
@@ -38,7 +36,7 @@ Divers at this site can expect to encounter sea turtles (green, hawksbill), sout
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 34 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -46,7 +44,6 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
 - Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
@@ -62,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

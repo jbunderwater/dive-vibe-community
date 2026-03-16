@@ -17,7 +17,7 @@ Tete's Place is a reef dive site in Providencia Island, Caribbean.
 
 ## Overview
 
-Tete's Place is a shallow reef site featuring large schools of fish and impressive pillar coral structures. The site is particularly noted for spectacular bioluminescence during night diving, with ostracods lighting up the water as they rise to the surface.
+Tete's Place is a dive site in Providencia Island offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Tete's Place is a shallow reef site featuring large schools of fish and impressi
 
 ## Marine Life
 
-Mixed schools of bluestriped grunts and French grunts share the reef with juvenile fish of all kinds, pufferfish, and nurse sharks. Large schools of snappers, grunts, and sweetlips provide abundant schooling fish displays. Friendly Caribbean reef sharks are frequently encountered at this site.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
 
 ## Dive Profile
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

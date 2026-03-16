@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Escambrón Reef
 
-Escambrón Marine Park (La Poza del Escambrón) is a protected shore dive located just east of Old San Juan. The site features natural reef formations, over 200 artificial "Taino Reefs," a sunken "Fish Protection Wall," and other artificial structures designed to enhance marine habitat. The calm, family-friendly beach with clear waters makes this an ideal beginner and refresher dive location.
+Escambrón Reef is a reef dive site in Puerto Rico, Caribbean.
 
 ## Overview
 
-Escambrón offers shallow, calm diving perfect for beginning divers and skill refresher dives. The combination of natural reef structures and carefully designed artificial enhancements (including Taino Reef monuments and the Fish Protection Wall) creates a diverse underwater landscape within easy reach from shore. Typical depths range from 2 meters near shore to a maximum of 9 meters further offshore. Water temperatures remain warm year-round, and visibility is typically 15-25 meters.
+Escambrón Reef is a dive site in Puerto Rico offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: San Juan (east of Old San Juan), adjacent Balneario El Escambrón beach
+- **Location**: Puerto Rico, Caribbean
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 9 meters
-- **Typical Visibility**: 15-25 meters (50-80 feet)
-- **Current**: Minimal to light
-- **Best Time**: Year-round; water temperature 27-29°C
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Light to moderate
+- **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-The reef supports tropical reef fish including parrotfish, surgeonfish, angelfish, butterflyfish, and damselfish. Occasional visits from sea turtles and rays are possible. The shallow depths and artificial reef structures provide excellent habitat for fish communities. The site offers good macro photography opportunities with nudibranchs, sea urchins, and various invertebrates on reef structures.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
 
 ## Dive Profile
 
-Enter from the sandy beach and explore the natural reef structures close to shore. The artificial Taino Reefs and Fish Protection Wall provide distinctive reference points and navigation features. Most diving occurs in 3-9 meters. The shallow profile allows extended bottom times and leisurely exploration, making this site perfect for skill practice, navigation training, and relaxed reef observation. The calm conditions and close proximity to shore make navigation straightforward.
+The site offers diving at depths ranging from shallow reef areas down to approximately 9 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-9 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -59,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

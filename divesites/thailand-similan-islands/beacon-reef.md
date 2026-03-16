@@ -13,39 +13,38 @@ addedBy: osm_import
 
 ## Beacon Reef
 
-Beacon Reef is the longest reef in the Similan Islands, stretching the entire eastern side of Island 8 with easy sloping hard coral and a wreck feature.
+Beacon Reef is a reef dive site in Thailand Similan Islands, Asia.
 
 ## Overview
 
-Beacon Reef (also Beacon Beach) stretches along the entire eastern side of Island 8 (Koh Similan), the largest and highest island in the archipelago. This is the longest reef in the Similan Islands. The site starts from around 5 meters and drops off to 30+ meters, featuring an easy sloping reef of predominantly hard coral, making it an ideal check dive to start a liveaboard trip. The 2002 Atlantis X wreck sank on this reef with her shallowest point (bow) at 16 meters and stern at 30 meters.
+Beacon Reef is a dive site in Thailand Similan Islands offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Eastern side of Island 8 (Koh Similan), Similan Islands
-- **Entry Type**: liveaboard
+- **Location**: Thailand Similan Islands, Asia
+- **Entry Type**: Liveaboard
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: Good
-- **Current**: Moderate, facilitating drift dives
-- **Best Time**: November to April
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Green turtles and hawksbill turtles gracefully navigate the waters. Vibrant marine life, lush corals with diverse inhabitants create colorful underwater tableau.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+This site can be accessed from shore or by boat. Shore entry follows established paths to the water. Boat access is available through local dive operators. Check conditions and choose the most appropriate entry method based on weather and sea state.
 
 ## Tips and Recommendations
 
 - Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
 - Respect marine life and maintain proper buoyancy to protect the reef
@@ -61,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

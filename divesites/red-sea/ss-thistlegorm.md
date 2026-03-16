@@ -13,17 +13,17 @@ addedBy: osm_import
 
 ## SS Thistlegorm
 
-The SS Thistlegorm is widely regarded as one of the world's best wreck dives. This British armed supply ship sank on October 6, 1941, after being struck by German fighter planes while waiting to enter the Suez Canal.
+SS Thistlegorm is a historic wreck dive in Red Sea, Middle East.
 
 ## Overview
 
-The Thistlegorm rests in two pieces on the eastern side of the Sinai Peninsula at 31 meters depth. The wreck is remarkably well-preserved with cargo still scattered throughout, including tanks, motorcycles, locomotives, boots, rifles, and ammunition—making it an underwater museum of wartime supplies. Rediscovered by Jacques Cousteau in 1956, it has since become the world's most sought-after wreck diving destination.
+SS Thistlegorm is a renowned dive site in Red Sea featuring a historic wreck. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
 
 ## Site Information
 
 - **Location**: Red Sea, Middle East
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 31 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter glassy sweepers, lionfish, groupers,
 
 ## Dive Profile
 
-The dive typically begins with a descent down the anchor line to the top of the wreck at around 10-15 meters. From there, explore the exterior of the intact sections, viewing the cargo holds, deck structures, and marine life covering the hull. The wreck sits upright, making navigation relatively straightforward for a wreck dive. Maximum depth reaches 31 meters at the stern section. Experienced divers may carefully penetrate limited sections with proper training and equipment. Plan adequate bottom time for exploration and a safety stop at 5 meters on ascent. The dramatic cargo spread across the seabed is best viewed on the way up during your safety stop.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 31 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -53,7 +53,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -61,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

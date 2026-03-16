@@ -13,31 +13,30 @@ addedBy: osm_import
 
 ## Shark Point
 
-Shark Point is a dramatic wall dive site in Nosy Be, Madagascar, famous among shark enthusiasts.
+Shark Point is a wall dive site in Madagascar, Africa.
 
 ## Overview
 
-Shark Point features a stunning 20-meter drop-off covered with hard and soft corals, consistently attracting grey reef sharks, white-tipped reef sharks, and occasionally hammerhead sharks. The site is accessible to intermediate divers and offers excellent opportunities to observe these magnificent predators in their natural habitat. Water temperatures remain a pleasant 26-30°C year-round, with visibility typically 15-30 meters depending on seasonal conditions.
+Shark Point is a dive site in Madagascar featuring a dramatic vertical wall that drops into the deep blue. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
 
 ## Site Information
 
-- **Location**: Nosy Be, Madagascar
+- **Location**: Madagascar, Africa
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 15-30 meters
-- **Water Temperature**: 26-30°C year-round
-- **Current**: Variable, can be strong; best dived during rising tide
-- **Best Time**: April-January (post-rainy season); September-December for seasonal megafauna
+- **Typical Visibility**: 10-30 meters (30-100 feet)
+- **Current**: Moderate to strong
+- **Best Time**: October to March (East Africa), varies by location
 
 ## Marine Life
 
-Shark Point lives up to its name, featuring abundant reef sharks including grey reef sharks, white-tipped reef sharks, and hammerhead sharks. Fish abundance is exceptional with groupers, snappers, tunas, morays, and pufferfish. Seasonal visitors include whale sharks (September-December), manta rays, and humpback whales (August-October).
+Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-Descend along the wall gradient from 5 meters at the top to 20 meters at the sandy bottom. The wall itself is the primary feature, hosting most of the shark activity and reef fish. Sharks are frequently observed at all depths, though they concentrate around the wall structure. Plan approximately 40-50 minutes at depth with a conservative safety stop.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-20 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
@@ -45,11 +44,12 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
+- Watch your depth carefully — wall dives can lead to unintentional deep descents
+- Look in crevices and overhangs for hidden marine life
 - Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
 - Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
@@ -57,11 +57,11 @@ Be aware of strong currents, jellyfish, remote locations in this area. Dive with
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

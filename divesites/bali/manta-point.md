@@ -17,26 +17,26 @@ Manta Point is a reef dive site in Bali, Asia.
 
 ## Overview
 
-Manta Point is the most famous manta ray cleaning station in Bali, located on the southwest coast of Nusa Penida. This is a world-class destination for observing manta rays in their natural behavior. The site is a natural cleaning station where manta rays visit to have parasites removed by smaller fish species. Relatively shallow and accessible, making it suitable for most experience levels.
+Manta Point is a renowned dive site in Bali offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Southwest coast of Nusa Penida, Bali, Indonesia
+- **Location**: Bali, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Mild to moderate
-- **Best Time**: March-June (90%+ manta encounter probability), year-round possible
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Manta Point's primary attraction is manta rays. During peak season (March-June), encounter probability exceeds 90%. Mantas glide gracefully overhead at the shallow cleaning station (5-10m depth), often multiple individuals at once. Secondary species include blue-spotted stingrays, eagle rays, bamboo reef sharks, sea turtles, and occasional mola mola sightings.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -44,13 +44,12 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Best visited March-June during peak manta season for highest encounter probability
-- Book with reputable local dive operators experienced with manta diving
-- Avoid blocking mantas' paths or chasing them — stay still and let them approach
-- Bring an underwater camera — this site offers excellent manta photography opportunities
-- Maintain perfect buoyancy to avoid damaging the cleaning station or disturbing mantas
-- Surface conditions can be challenging (exposed site) — only dive in favorable conditions
-- Carry a surface marker buoy (SMB) and brief with boat crew on pickup procedures
+- Excellent site for newer divers — calm conditions and easy navigation
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
+- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
@@ -62,7 +61,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

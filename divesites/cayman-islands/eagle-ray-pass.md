@@ -13,32 +13,30 @@ addedBy: osm_import
 
 ## Eagle Ray Pass
 
-Eagle Ray Pass is a dramatic coral chasm site on Grand Cayman's North Wall, featuring towering coral heads, magnificent sponges, gorgonian fans, and black coral. This site is a regular gathering place for eagle rays and offers thrilling encounters with pelagic species.
+Eagle Ray Pass is a wall dive site in Cayman Islands, Caribbean.
 
 ## Overview
 
-Eagle Ray Pass is a deep coral chasm formation that leads from the shallow reef down to the North Wall face. The site features towering coral buttresses, coral archways, and narrow crevices filled with magnificent purple gorgonian fans, sponges, and black coral. The pass is a recognized feeding and cruising ground for eagle rays, which frequently descend through the coral formations. The site also offers opportunities to spot tarpon, reef sharks, and large schools of horse-eye jacks cruising in the deeper blue water.
+Eagle Ray Pass is a dive site in Cayman Islands featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: North Wall, Grand Cayman, Caribbean
+- **Location**: Cayman Islands, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Depth Range**: 18-36 meters
-- **Wall Face**: Drops to 40+ meters beyond the chasm
+- **Maximum Depth**: 36 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
-- **Wildlife**: Eagle rays, tarpon, reef sharks, jacks, groupers
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-Dives at Eagle Ray Pass begin with descent into the coral chasm, where divers follow the towering coral formations down toward the main wall face (18-36 meters). The dramatic coral architecture creates a corridor where eagle rays often pass. Divers explore the coral details and sponge-covered wall face while monitoring depth to stay within recreational limits (typically 40 meters maximum). The site offers excellent photographic opportunities of the coral formations against the blue water background. Most dives are 35-45 minutes duration at this intermediate-level site.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-36 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
@@ -46,6 +44,8 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
+- Watch your depth carefully — wall dives can lead to unintentional deep descents
+- Look in crevices and overhangs for hidden marine life
 - Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
@@ -57,11 +57,11 @@ Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

@@ -17,7 +17,7 @@ Arta Beach Reef is a reef dive site in Djibouti, Africa.
 
 ## Overview
 
-Arta Beach Reef is an accessible beginner-friendly shore dive located east of Djibouti City with crystal-clear shallow waters ideal for novice divers and snorkelers. The site features a combination of rocky and sandy stretches with healthy coral and diverse marine life. Visibility typically ranges 10-15 meters with calm conditions and water temperatures 25-29°C. Notable for seasonal whale shark visits (November-February).
+Arta Beach Reef is a dive site in Djibouti offering excellent diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Arta Beach Reef is an accessible beginner-friendly shore dive located east of Dj
 
 ## Marine Life
 
-Arta Beach supports abundant colorful reef fish including snappers, angelfish, butterflyfish, and parrotfish in the shallow coral gardens. Sea turtles are regularly encountered grazing on seagrass. During seasonal visits (November-February), whale sharks are attracted to the area's plankton blooms and can often be observed feeding at or near the surface. Beautiful corals and diverse invertebrates provide excellent photographic subjects.
+Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
 
 ## Dive Profile
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

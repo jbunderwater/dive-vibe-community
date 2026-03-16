@@ -13,22 +13,22 @@ addedBy: osm_import
 
 ## Big Wall
 
-Big Wall is the most dramatic wall dive site in Mnemba Atoll featuring an impressive vertical drop. This intermediate-to-advanced wall offers excellent conditions for experienced divers seeking challenging wall diving.
+Big Wall is a wall dive site in Zanzibar, Africa.
 
 ## Overview
 
-Big Wall is a prominent wall dive in the Mnemba Atoll system, featuring dramatic vertical topography and excellent visibility. Located on the northeastern side of Mnemba Island, this wall offers deeper drops and more challenging diving than some other Mnemba sites. The wall structure provides habitat for reef fish, pelagic species, and larger marine life. Suitable for intermediate divers with good depth management skills and wall diving experience.
+Big Wall is a dive site in Zanzibar featuring a dramatic vertical wall that drops into the deep blue. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
 
 ## Site Information
 
-- **Location**: Mnemba Atoll (northeast side), Zanzibar
+- **Location**: Zanzibar, Africa
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 15-30 meters (50-100 feet)
-- **Current**: Light to moderate
-- **Best Time**: October to March (peak season)
+- **Typical Visibility**: 10-30 meters (30-100 feet)
+- **Current**: Moderate to strong
+- **Best Time**: October to March (East Africa), varies by location
 
 ## Marine Life
 
@@ -61,7 +61,7 @@ Wall dives offer stunning wide-angle opportunities with dramatic depth perspecti
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

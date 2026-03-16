@@ -13,23 +13,21 @@ addedBy: osm_import
 
 ## Pedernales Wreck
 
-The Pedernales is a WWII-era oil tanker torpedoed by the German military in 1942, creating one of Aruba's most beginner-friendly wreck dives.
+Pedernales Wreck is a historic wreck dive in Aruba, Caribbean.
 
 ## Overview
 
-The Pedernales represents an ideal introduction to wreck diving. The shallow 8-meter depth, calm conditions, and good visibility make this site accessible to open-water certified divers with minimal experience. Large pieces of the tanker are spread throughout the site, providing tangible wreck exploration without requiring penetration skills. Divers can examine pipelines, lavatories, washbasins, and cabin sections. The wreck has developed a healthy coral and fish community, creating excellent opportunities for both exploration and photography. The site's historical significance (WWII torpedo hit) combined with its ease of access makes it one of Aruba's most popular beginner wreck sites.
+Pedernales Wreck is a dive site in Aruba featuring the wreck of the Pedernales Wreck . Torpedoed by German U-boat, shallow and beginner-friendly. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
 - **Location**: Aruba, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 8 meters
-- **Wreck Type**: Oil tanker
-- **Year Sunk**: 1942 (German U-boat torpedo)
-- **Typical Visibility**: 15-25 meters (50-80 feet)
-- **Current**: Light to negligible
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
@@ -38,7 +36,7 @@ Divers at this site can expect to encounter groupers, snappers, soldierfish, gla
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 10 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 8 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -63,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

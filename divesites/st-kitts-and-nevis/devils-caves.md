@@ -13,31 +13,30 @@ addedBy: osm_import
 
 ## Devil's Caves
 
-Devil's Caves is located off the west coast of Nevis, featuring distinctive coral grottos and swim-through overhangs crowded with marine life. The site is named for its interesting cavern formations created by coral and rock structures, not true underwater caves requiring specialized training. This is an accessible cavern dive site perfect for intermediate divers seeking cavern exploration without deep penetration requirements.
+Devil's Caves is a cave dive site in St. Kitts and Nevis, Caribbean.
 
 ## Overview
 
-This diverse site features coral grottos, overhangs, and interesting swim-throughs at depths to 40 feet. The cavern formations shelter extensive marine life including Glassy Sweepers, Blue Tang, Nurse Sharks, and Stingrays, with Black Tip Reef Sharks occasionally encountered. The coral structures create dramatic underwater scenery with varied lighting conditions ideal for photography and exploration.
+Devil's Caves is a dive site in St. Kitts and Nevis featuring underwater cave and cavern formations. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: West coast of Nevis, Caribbean
+- **Location**: St. Kitts and Nevis, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/cavern
+- **Site Type**: Cave/Cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 12 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
-- **Features**: Coral grottos, swim-throughs, overhangs
 
 ## Marine Life
 
-Glassy Sweepers school within the cave formations, creating striking visual displays. Blue Tang, Nurse Sharks, and Stingrays are abundant in the shelter of the grottos. Caribbean spiny lobsters seek protection in crevices. Groupers, snappers, and other reef fish populate the area. Black Tip Reef Sharks are occasional visitors. The cave environment shelters species adapted to low-light conditions, including small crustaceans and nocturnal fish.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
 
 ## Dive Profile
 
-The dive focuses on exploring the coral grottos and overhangs at approximately 12 meters. Navigate through accessible cavern areas, looking into overhangs and sheltered crevices for marine life. The maximum depth of 40 feet allows for comfortable exploration with extended bottom times. Avoid deep penetrations - stay within the well-lit areas where natural light filters through openings. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -60,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

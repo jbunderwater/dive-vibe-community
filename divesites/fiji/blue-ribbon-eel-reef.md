@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Blue Ribbon Eel Reef
 
-Blue Ribbon Eel Reef is a shallow reef dive famous for reliable encounters with the striking blue ribbon eel species.
+Blue Ribbon Eel Reef is a reef dive site in Fiji, Pacific.
 
 ## Overview
 
-This beginner-friendly site in the Somosomo Strait near Taveuni features sandy substrates adjacent to coral reef where blue ribbon eels (Rhinochimaera triodon) are reliably encountered at their burrow entrances. The electric blue coloring and distinctive yellow fin edges of these elusive creatures make them a highlight of dives at this site. Shallow depths (16-18 meters) and excellent visibility make this an ideal site for newer divers seeking a memorable marine life encounter.
+Blue Ribbon Eel Reef is a dive site in Fiji offering excellent diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
-- **Location**: Taveuni, Somosomo Strait, Fiji
+- **Location**: Fiji, Pacific
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 16 meters
-- **Typical Visibility**: 20-40 meters
-- **Current**: Mild to moderate
+- **Typical Visibility**: 20-50 meters (65-160 feet)
+- **Current**: Moderate to strong
 - **Best Time**: April to November
 
 ## Marine Life
 
-Blue ribbon eels are the star attraction at this site and can be approached carefully for extended observation as they rest at their burrow entrances. Additional marine life includes reef fish schools, butterflyfish, groupers, occasional nudibranchs, and various reef-associated invertebrates. The sandy substrate transitions to healthy coral reef supporting diverse fish communities.
+Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 16 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-16 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -61,7 +61,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

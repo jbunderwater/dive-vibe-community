@@ -13,17 +13,17 @@ addedBy: osm_import
 
 ## Caves Sodwana
 
-Caves and Overhangs is a distinctive dive site within the Sodwana Bay reef system, KwaZulu-Natal, featuring dramatic underwater cave and boulder formations. The site consists of large blocky boulders covered in vibrant coral with sandy patches creating a beautiful sculpted reef garden.
+Caves Sodwana is a cave dive site in South Africa, Africa.
 
 ## Overview
 
-Caves Sodwana offers shallow to moderate diving (15-20 meters) among large rock formations with cave entrances, overhangs, and gullies. Excellent light penetration into cave structures creates a visually striking environment with dramatic geological features. The warm Indian Ocean waters (22-26°C) and shallow depth make this an ideal intermediate dive.
+Caves Sodwana is a dive site in South Africa featuring underwater cave and cavern formations. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
 
 ## Site Information
 
 - **Location**: South Africa, Africa
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/cavern
+- **Site Type**: Cave/Cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)
@@ -32,11 +32,11 @@ Caves Sodwana offers shallow to moderate diving (15-20 meters) among large rock 
 
 ## Marine Life
 
-The cave structure creates sheltered microhabitats attracting crustaceans and small fish seeking protection in rock overhangs. Potato bass, scorpionfish, moray eels, and cleaner shrimp are common. Hard and soft corals cover the boulder formations, with fleshy soft coral, finger coral, thistle coral, whip coral, and anemones providing color and habitat complexity. Reef fish diversity is high, including parrotfish, fusiliers, and other tropical species.
+Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

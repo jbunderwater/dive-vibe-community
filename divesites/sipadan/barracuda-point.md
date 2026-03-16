@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Barracuda Point
 
-Barracuda Point is Sipadan's most famous dive site, renowned for its massive chevron barracuda formations that spiral into the blue like a living tornado. This iconic wall dive features schooling bigeye trevally, dogtooth tuna, manta rays, and zebra sharks.
+Barracuda Point is a wall dive site in Sipadan, Asia.
 
 ## Overview
 
-Barracuda Point is a dramatic vertical wall dive where the morning's main attraction is the chevron barracuda shoal—sometimes numbering in the thousands—that forms spectacular spiral formations. The reef begins at 10-18 meters before dropping steeply into the abyss. Most action occurs between 10-25 meters, though the wall descends to well over 600 meters. This is an advanced-level wall dive with variable strong currents that can sweep divers downward and away from the island if not properly managed.
+Barracuda Point is a dive site in Sipadan featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Northwest Sipadan
+- **Location**: Sipadan, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
-- **Typical Visibility**: 30-40 meters (100-130 feet)
-- **Current**: Variable and often strong — currents can sweep divers away from the island
-- **Best Time**: October to April (morning dives optimal for barracuda formation)
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-The signature encounter is the barracuda shoal—chevron barracuda that often display in a mesmerizing tornado-like spiral formation during morning dives. Additional pelagics include schools of bigeye trevally, giant trevally, dogtooth tuna, manta rays, and zebra sharks. Reef sharks (whitetip and blacktip), sea turtles, and hammerhead sharks are also possible. Smaller reef species include nudibranchs, frogfish, and seahorses sheltering in wall crevices.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-Descend along the reef wall, positioning yourself to observe the barracuda formation without swimming too deep. The sandy channel at 18 meters is a key orientation point. Most divers remain between 10-25 meters where barracudas and trevally are active. Beyond 25 meters, the wall becomes steeper and currents increase. Maintain excellent depth management—the wall tempts divers deeper than planned.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-40 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
@@ -53,7 +53,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -61,7 +61,7 @@ Wall dives offer stunning wide-angle opportunities with dramatic depth perspecti
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

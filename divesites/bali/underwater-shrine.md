@@ -17,7 +17,7 @@ Underwater Shrine is a reef dive site in Bali, Asia.
 
 ## Overview
 
-Underwater Shrine is a dive site in Bali offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Underwater Shrine is a dive site in Bali offering rewarding diving on healthy coral reef structures . Artificial reef site with underwater shrine. Located in Amed area. Intermediate drift-dive potential with varied depth profile. Cultural and diving attraction.. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

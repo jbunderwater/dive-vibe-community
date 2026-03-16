@@ -13,26 +13,30 @@ addedBy: osm_import
 
 ## Blue Lagoon
 
-Blue Lagoon, located in Padang Bai on Bali's east coast, is one of the island's most beginner-friendly and accessible dive sites. Perfect for Open Water certification courses and introduction dives. Shore entry from sandy beach with gentle slope to deeper water. Features coral bommies, rocks, and table corals in a sandy setting ideal for building buoyancy confidence. Morning dives offer best visibility. Includes underwater statues.
+Blue Lagoon is a reef dive site in Bali, Asia.
+
+## Overview
+
+Blue Lagoon is a dive site in Bali offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Padang Bai, Bali, Indonesia
+- **Location**: Bali, Asia
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 15-20 meters (50-65 feet), best in mornings
-- **Current**: Mild to moderate
-- **Best Time**: Year-round, slightly better June-September
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Blue Lagoon's sandy/rocky habitat hosts diverse macro life: turtles, reef sharks, nudibranchs, seahorses, scorpionfish, various gobies and blennies. Famous for Spanish dancer nudibranch on night dives. Abundant small reef fish among coral bommies.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
 
 ## Dive Profile
 
-Dive begins on sandy plateau at ~5m depth, then gentle descent along sandy slope to ~20m maximum. Scattered coral bommies, rocks, and table corals populate the sandy bottom. Ideal for building buoyancy control. Most interesting features between 5-15m. Easy ascent with safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -48,7 +52,7 @@ Enter from the shore following established entry points. Check conditions before
 
 ## Safety Considerations
 
-Generally safe for beginners. Be aware of occasional surge from waves, jellyfish, sea urchins. Watch for strong currents on rare bad-weather days. Check beach conditions before entry. Watch for small surge zones near shore. Good site for building confidence in shallow water. Always dive with buddy and carry SMB.
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -56,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

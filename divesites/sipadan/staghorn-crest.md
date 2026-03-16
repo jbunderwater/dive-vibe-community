@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Staghorn Crest
 
-Staghorn Crest is named for the gigantic staghorn corals that dominate the reef top. Located on the northwest side of South Point, the site offers a great coral garden in the shallows followed by a plateau and wall structure filled with life in cracks and crevices.
+Staghorn Crest is a wall dive site in Sipadan, Asia.
 
 ## Overview
 
-Staghorn Crest features a shallow coral garden (3-8 meters) dominated by healthy staghorn coral formations. The reef drops to a 15-meter plateau with rocky outcrops and wall crevices that host dense marine life. Cracks along the wall are filled with small creatures and reef fish. The corals are in excellent condition. Mild currents characterize the site, and visibility is typically 20-30 meters. The site is best dived in the afternoon due to sun positioning. Staghorn Crest is an excellent location for macro photography of reef fish and small invertebrates.
+Staghorn Crest is a dive site in Sipadan featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Northwest of South Point, Sipadan
+- **Location**: Sipadan, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-30 meters (65-100 feet)
-- **Current**: Mild and manageable
-- **Best Time**: Afternoon dives (October to April)
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Staghorn corals dominate the reef top but also host diverse small fish and invertebrates. All reef life is represented—nudibranchs, shrimp, trigger fish, angelfish, groupers, and triggerfish. Reef sharks (whitetip, blacktip) patrol the site. Sea turtles are regularly encountered. The wall crevices shelter cryptic species and provide protection for larger fish during the day.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-Begin by exploring the shallow coral garden (3-8 meters) with gigantic staghorn formations. Descend to the 15-meter plateau and examine rocky outcrops and wall crevices. Most divers remain between 10-20 meters, observing how reef fish and invertebrate communities change with depth. The mild currents and excellent visibility create a relaxed diving experience ideal for taking time to observe small creatures and photograph intricate coral formations and crevice-dwelling species.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-20 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
@@ -44,12 +44,12 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
+- Watch your depth carefully — wall dives can lead to unintentional deep descents
+- Look in crevices and overhangs for hidden marine life
 - Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
 - Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
@@ -57,11 +57,11 @@ Be aware of strong currents, jellyfish, sea urchins in this area. Dive within yo
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

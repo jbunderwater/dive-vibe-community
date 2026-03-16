@@ -13,35 +13,34 @@ addedBy: osm_import
 
 ## Cedar Pride
 
-The Cedar Pride is Aqaba's most iconic and accessible wreck dive. This 74-meter Lebanese freighter was deliberately sunk in 1985 as an artificial reef and has become a thriving marine habitat with extensive coral colonization.
+Cedar Pride is a historic wreck dive in Jordan - Aqaba, Middle East.
 
 ## Overview
 
-The Cedar Pride is a legendary 74-meter Lebanese freighter that caught fire and sank in 1982, then was purposefully scuttled in 1985 to create an artificial reef. After 40+ years on the seafloor, the wreck is heavily colonized with vibrant hard and soft corals, making it one of the Red Sea's most spectacular wreck dives. The starboard side is at just 10 meters, making portions accessible to entry-level divers with proper guidance, while the maximum depth is 27 meters on the port side.
+Cedar Pride is a renowned dive site in Jordan - Aqaba featuring the wreck of the Cedar Pride. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
 
 ## Site Information
 
-- **Location**: Jordan - Aqaba, Red Sea
+- **Location**: Jordan - Aqaba, Middle East
 - **Entry Type**: Shore entry
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 27 meters
-- **Typical Visibility**: 20-40 meters
-- **Current**: Minimal to gentle
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Moderate to strong
 - **Best Time**: September to May
-- **Water Temperature**: 18-27°C
 
 ## Marine Life
 
-The wreck hosts lionfish, scorpionfish, moray eels, schools of snapper, occasional barracuda, and hawksbill turtles. The crow's nest is particularly notable—now a colorful coral garden resembling a hanging basket. Red sea fans and soft coral formations line the entire length of the ship. Fire coral, brain coral, and red pencil urchins are abundant along the structure.
+Divers at this site can expect to encounter glassy sweepers, lionfish, groupers, coral growth, soft corals, whale sharks, manta rays, hammerhead sharks. Additional species commonly sighted include oceanic whitetip sharks, sea turtles, dolphins. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
 
 ## Dive Profile
 
-Begin your descent along the mooring line to the wreck top. The starboard side at 10 meters is suitable for less experienced divers. Explore the exterior coral growth and structural features. Advanced divers can penetrate accessible sections with proper training. Maximum depth of 27 meters on the port side—plan your air consumption accordingly. The minimal current allows for leisurely exploration. Ascend with adequate reserves for a safety stop at 5 meters.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 27 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
-Enter from shore with a short 130-meter swim over sandy bottom to reach the wreck, which is marked by a surface buoy. Check conditions for wave action and surge before entering. Establish your descent line and navigate to the buoy. Exit at the same location, watching for surface conditions and surge zones as you approach the shoreline.
+Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
 
 ## Tips and Recommendations
 
@@ -62,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

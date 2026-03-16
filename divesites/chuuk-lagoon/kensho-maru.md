@@ -13,50 +13,55 @@ addedBy: osm_import
 
 ## Kensho Maru
 
-A compact but rewarding wreck dive, the 85-metre Kensho Maru sits upright and largely intact, celebrated for one of the most accessible and photogenic engine rooms in the Ghost Fleet. Her role as a repair ship when she was sunk means divers find tools, machinery, and personal effects rather than military cargo.
+Kensho Maru is a historic wreck dive in Chuuk Lagoon, Pacific.
 
 ## Overview
 
-The Kensho Maru was an 85-metre passenger-cargo ship serving the Japanese war effort in Chuuk Lagoon. On February 17, 1944, she was caught at anchor during Operation Hailstone, struck by multiple aerial bombs, and sank. Critically, she was undergoing repairs at the time of the attack — there was no military cargo loaded in her holds. This defines the Kensho Maru's character as a dive: the interest lies in the ship itself, its machinery, and the traces of everyday life aboard, rather than in military hardware.
-
-She rests upright, which, combined with her modest depth profile, makes her one of the most approachable wrecks in the lagoon for recreational divers new to Chuuk.
+Kensho Maru is a dive site in Chuuk Lagoon featuring the wreck of the Kensho Maru. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
-- **Location**: Chuuk Lagoon, Federated States of Micronesia
+- **Location**: Chuuk Lagoon, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 40 meters
-- **Typical Visibility**: 20–35 metres
-- **Water Temperature**: 28–30°C year-round
-- **Best Time**: Year-round; December to April for calmest conditions
-
-## What Divers See
-
-The engine room at 18 metres is the highlight — a cavernous space with gauges, valves, and thermometers still in place, sheltered and relatively shallow enough for extended exploration. The main superstructure offers a well-preserved tour: galley, bathroom and toilet facilities, radio room, and bridge are all accessible.
-
-At the bow, a deck gun sits in place. The forward holds contain a salvage pump, gas bottles, batteries, and cooking utensils. At the stern, it is possible to swim past the steering gear and exit through a bomb hole that tears through the hull. Personal effects — crew belongings, bottles, utensils — are scattered throughout the interior, providing a poignant human dimension that heavier military wrecks sometimes lack.
-
-## Dive Profile
-
-The superstructure begins at around 12 metres, making the upper sections accessible on a relatively shallow profile. The engine room sits at 18 metres. The main deck runs at approximately 18–25 metres, with the keel at 40 metres. Most recreational divers concentrate on the superstructure and engine room, keeping the dive comfortable within recreational limits.
+- **Typical Visibility**: 20-50 meters (65-160 feet)
+- **Current**: Moderate to strong
+- **Best Time**: April to November
 
 ## Marine Life
 
-The sheltered interior spaces are packed with glassy sweepers and small reef fish. The exterior hull is encrusted with coral and sponge growth. Grey reef sharks and turtles are regularly sighted on the exterior.
+Divers at this site can expect to encounter coral growth, anemones, lionfish, scorpionfish, glassy sweepers, manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks. Additional species commonly sighted include sea turtles, napoleon wrasse, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+
+## Dive Profile
+
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 40 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+
+## Entry and Exit
+
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+
+## Tips and Recommendations
+
+- Bring a dive torch to illuminate wreck interiors and dark overhangs
+- Maintain proper buoyancy to avoid disturbing silt inside the wreck
+- Do not attempt penetration without proper training and equipment
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
 
 ## Safety Considerations
 
-Wreck penetration requires a torch and wreck specialty training. Silt can be disturbed easily in the engine room and interior spaces — buoyancy control is critical. All wrecks in Chuuk Lagoon are designated war graves; no artifacts may be removed. The bomb hole at the stern is a distinctive exit point but should only be used with guide supervision.
+Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-The engine room's gauges and machinery offer excellent macro and wide-angle opportunities in a relatively well-lit, accessible space. The bow gun makes a clean wide-angle subject. The passages through the superstructure offer natural light from multiple opening points.
+The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*Validated against Diver Trek, Dirty Dozen Expeditions, and Scuba Diving Earth. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Deep Turbo
 
-Deep Turbo is an advanced pinnacle dive site in Gili Islands, Indonesia, famous for dramatic topography and thrilling drift diving conditions.
+Deep Turbo is a pinnacle dive site in Gili Islands, Asia.
 
 ## Overview
 
-Located north of Gili Trawangan, Deep Turbo is a spectacular sea mound with a sandy bottom at 30 meters. Strong currents and steep walls adorned with colorful corals and sponges make this a local favorite for experienced divers. The site features dramatic coral gardens, Gorgonian sea fans, and attracts pelagic species including schools of barracuda, big eye jacks, and reef sharks. Green turtles are commonly encountered, and the challenging conditions offer an exciting deep dive experience. This site is exclusively for advanced divers with strong water confidence and nitrox certification.
+Deep Turbo is a dive site in Gili Islands offering rewarding diving on healthy coral reef structures . source is Diveschool Notice Board - Location might have to be checked with a GPS. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: North of Gili Trawangan, Gili Islands
+- **Location**: Gili Islands, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle/seamount
+- **Site Type**: Pinnacle
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Strong (drift diving conditions)
-- **Best Time**: April to October
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-At Deep Turbo, expect encounters with green sea turtles, white and black tip reef sharks, large schools of barracuda and big eye jacks, batfish, and various pelagic species. The coral structures support dense populations of reef fish, with scorpion fish and other macro species in the crevices. The healthy coral gardens attract a variety of tropical reef fish species year-round.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
 
 ## Dive Profile
 
-Divers descend via drift to the sandy bottom at 30 meters where the site's impressive sea mounds and coral gardens await. Strong currents are typical, requiring excellent buoyancy control and streamlining. The dive progresses along the mounds and walls, with pelagic life more common in mid-water. Most of the dive occurs between 20-30 meters, so plan air consumption accordingly and carry nitrox if available. Always maintain buddy contact in strong currents and be prepared for a drift exit with SMB deployment.
+The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

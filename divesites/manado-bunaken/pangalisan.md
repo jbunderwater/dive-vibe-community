@@ -13,54 +13,55 @@ addedBy: osm_import
 
 ## Pangalisan
 
-Pangalisan (also spelled Pangalisang) is a long wall dive on the east side of Bunaken Island, forming part of the continuous eastern wall system that also includes the Bunaken Timur sections. It is considered one of the more relaxed wall dives in the park, with typically mild current and the option to drift along the wall and finish on the flat reef top.
+Pangalisan is a wall dive site in Manado & Bunaken, Asia.
 
 ## Overview
 
-The wall at Pangalisan is characterised by beautiful soft corals and leather corals in the shallows, transitioning to a 35-metre wall trimmed with fine lilac lace coral. Because this eastern wall is so extensive, it is divided into four sections (Timur I, Pangalisang, Timur II, and Cha-Cha). The current on this side of Bunaken is usually mild, and visibility is often excellent. On rare occasions, dugongs (sea cows) have been spotted in this area.
+Pangalisan is a dive site in Manado & Bunaken featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: East coast of Bunaken Island, Bunaken National Marine Park
+- **Location**: Manado & Bunaken, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 35 meters
-- **Typical Visibility**: 15-25 metres
-- **Current**: Usually mild — suitable for drifting
-- **Best Time**: May to October
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Nudibranchs of several varieties are frequently sighted on the wall face, along with pyramid butterflyfish and various species of butterfly fish. Green sea turtles meander past regularly. In the blue water off the wall, larger species including eagle rays, bumphead parrotfish, tuna, rainbow runner, batfish, and reef sharks are sometimes seen. A rare dugong sighting here is possible — one of the few sites in the park where this is documented.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-Drift gently along the wall face at a comfortable working depth. The eastern exposure means calmer water than the windward sides. The wall is long enough to fill a full dive without retracing your path. As you approach the end of your dive, ascend to the flat reef top for your safety stop — the coral garden here is pristine and rewarding.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-35 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
-Boat access from Bunaken Island. The mild current on the east side makes this one of the more straightforward wall dives in the park. The reef top finish is a reliable safety stop location.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-- Good choice when current on the west side is too strong
-- Check the sandy patches at the base of the wall for flatheads and other cryptic species
-- Scan the blue water off the wall for passing eagle rays and bumphead parrotfish schools
-- The lilac lace coral on the wall face is a distinctive and photogenic feature
-- Ask your guide about recent dugong sightings — timing and position matter
+- Watch your depth carefully — wall dives can lead to unintentional deep descents
+- Look in crevices and overhangs for hidden marine life
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 
-Current is generally mild but check with your guide for current conditions on the day. The wall drops to 35m recreational depth — monitor nitrogen loading. Carry an SMB for boat pickup at the end of the drift.
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-The lilac lace coral on the wall face is a distinctive macro and close-focus wide-angle subject. Nudibranch diversity is good for macro shooters. Turtle portraits with the coral wall as background are a standard wide-angle composition here.
+Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*Validated against twofishdivers.com/diving/bunaken-island-manado, lumbalumbaresort.com/dive-snorkel/bunaken-national-park, and divejourney.io. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

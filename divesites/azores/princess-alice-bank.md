@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## princess alice bank
 
-princess alice bank is a reef dive site in Azores, Europe.
+princess alice bank is a pinnacle dive site in Azores, Europe.
 
 ## Overview
 
-Princess Alice Bank is a world-famous seamount and one of Europe's most reliable manta and mobula ray hotspots. Located 50 nautical miles southwest of Pico Island, this submerged pinnacle rises dramatically from depths of over 1,000 meters to just 29 meters at its western peak. Summer months bring massive aggregations of hundreds of mobula rays (Mobula tarapacana) forming spectacular carousels around the seamount summit.
+princess alice bank is a dive site in Azores offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
 
 ## Site Information
 
-- **Location**: Azores, Portugal (50 NM SW of Pico Island)
+- **Location**: Azores, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle/seamount
+- **Site Type**: Pinnacle
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 29 meters
-- **Typical Visibility**: 30+ meters (100+ feet)
-- **Current**: Strong pelagic currents
-- **Best Time**: July to October (peak mobula season)
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Light to moderate
+- **Best Time**: May to October
 
 ## Marine Life
 
-Hundreds of mobula rays aggregate here during summer months, often numbering in the hundreds and swimming in synchronized circles against the sapphire Atlantic waters. Encounters with blue sharks, whale sharks (seasonal), and schools of pelagic fish are common. The nutrient-rich Gulf Stream waters support diverse communities of baitfish that attract larger predators.
+Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
 
 ## Dive Profile
 
-Descend to the plateau at 29 meters. The seamount's main attraction is the carousel of golden mobula rays that beat their wings in synchrony around the pinnacle. Expect strong currents and drift conditions typical of open-ocean seamount diving. Most mobula activity occurs near the summit between 25-35 meters. Allow adequate air for safety stops and plan for nutrient-rich upwelling dynamics that support exceptional visibility.
+The site offers diving at depths ranging from shallow reef areas down to approximately 29 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -59,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

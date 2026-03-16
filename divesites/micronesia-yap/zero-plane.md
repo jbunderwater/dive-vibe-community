@@ -17,27 +17,26 @@ Zero plane is a historic wreck dive in Micronesia - Yap, Pacific.
 
 ## Overview
 
-The Zero plane is a historic World War II-era Japanese aircraft wreck sitting in shallow water near the old Yap airport. The entire aircraft (body, wings, tail section, and landing gear) rests in white sand encrusted with marine life. Often featured on dive itineraries as a surface interval activity between manta dives, this 20-30 minute shallow wreck dive offers a unique opportunity to explore war history. The wreck is damaged but intact, with visible bullet holes in the wings. Note: The aircraft is often called "Zero" but may actually be a Mitsubishi G4M Betty bomber rather than a pure Zero fighter.
+Zero plane is a dive site in Micronesia - Yap featuring the wreck of the Zero plane. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
-- **Location**: Micronesia - Yap, Pacific (near old Yap airport)
+- **Location**: Micronesia - Yap, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 5 meters
-- **Shallow Area**: 3 meters (fuselage)
-- **Typical Visibility**: Good to excellent
-- **Current**: Mild
-- **Best Time**: Year-round (often used as surface interval dive)
+- **Typical Visibility**: 20-50 meters (65-160 feet)
+- **Current**: Moderate to strong
+- **Best Time**: April to November
 
 ## Marine Life
 
-The wreck is heavily encrusted with coral growth and marine life. Divers encounter lionfish, scorpionfish, and other reef fish attracted to the structure. The site is more about history than abundant marine life—most divers spend time examining the aircraft structure, identifying bullet holes, and observing encrustation.
+Divers at this site can expect to encounter coral growth, anemones, lionfish, scorpionfish, glassy sweepers, manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks. Additional species commonly sighted include sea turtles, napoleon wrasse, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
 
 ## Dive Profile
 
-Descent to the wreck is straightforward with excellent visibility. Divers typically explore the fuselage and wings at 3-5 meters, then examine the tail section extending to 10 meters. The wreck is spread out in a small area on white sand. Total dive time is typically 20-30 minutes. This is an ideal beginner-friendly wreck dive and a great historical site.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 5 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -62,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Coral Garden
 
-Coral Garden sits adjacent to Monkey Shoals, providing a gentler introduction to the atoll system. This site features distinctive coral formations with extensive growth of tube sponges, sea fans, and anemones, creating a picturesque underwater garden. The gently sloping reef descent makes it ideal for photographers and marine life observation.
+Coral Garden is a reef dive site in St. Kitts and Nevis, Caribbean.
 
 ## Overview
 
-Located near Monkey Shoals in the channel between St. Kitts and Nevis, Coral Garden offers calm diving conditions with a generous shallow relief. Large schools of Atlantic spadefish and horse-eyed jacks are characteristically curious and frequently interact with divers. The sponge and coral gardens provide shelter for a thriving reef community in excellent visibility.
+Coral Garden is a dive site in St. Kitts and Nevis offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Channel between St. Kitts and Nevis (near Monkey Shoals), Caribbean
+- **Location**: St. Kitts and Nevis, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
@@ -29,15 +29,14 @@ Located near Monkey Shoals in the channel between St. Kitts and Nevis, Coral Gar
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
-- **Notable Features**: Tube sponges, sea fans, anemones
 
 ## Marine Life
 
-Abundant schooling fish including Atlantic spadefish and horse-eyed jacks are remarkably interactive with divers. Sea turtles, southern stingrays, eagle rays, and nurse sharks are common visitors. The sponge gardens and reef structures provide shelter for parrotfish, angelfish, moray eels, and lobsters.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
 
 ## Dive Profile
 
-The site features a gentle drop-off from shallow areas beginning around 3-5 meters, gradually sloping to approximately 15 meters. Begin your dive in the shallower sponge gardens and follow the natural contours deeper as conditions allow. The site is excellent for multi-level dives with strong photography potential at all depths. Monitor your depth and plan adequate air reserves for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -61,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

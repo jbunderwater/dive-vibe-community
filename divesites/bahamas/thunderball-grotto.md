@@ -13,22 +13,22 @@ addedBy: osm_import
 
 ## Thunderball Grotto
 
-Thunderball Grotto, also known as the James Bond Cave, is an iconic underwater cave system at Staniel Cay featuring stunning natural skylights and accessible to snorkelers and beginner divers.
+Thunderball Grotto is a cave dive site in Bahamas, Caribbean.
 
 ## Overview
 
-Thunderball Grotto is a magical underwater cave system just west of Staniel Cay in the Exumas, famous for appearing in two James Bond films ("Thunderball" and "Never Say Never Again") and other Hollywood productions like "Splash" and "Into the Blue." The grotto features a natural skylight created by erosion, with beams of sunlight streaming down through holes in the cave ceiling, illuminating the azure waters like precious jewels. In certain sections, the cave ceiling is only a few feet above the diver's head, while in others it stretches up 6 meters (20 feet). The grotto teems with exotic marine life including yellow-tail snappers, angelfish, sergeant majors, and colorful corals. At low tide, snorkelers can access the grotto, but diving equipment is necessary at high tide. The cave is only 80 miles south of Nassau and accessible in under 30 minutes by air to Staniel Cay Airport.
+Thunderball Grotto is a renowned dive site in Bahamas featuring underwater cave and cavern formations. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Staniel Cay, Exuma, Bahamas
+- **Location**: Bahamas, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/cavern
+- **Site Type**: Cave/Cavern
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 8 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Tidal dependent
-- **Best Time**: Low/slack tide for easiest entry, year-round accessible
+- **Current**: Light to moderate
+- **Best Time**: December to April (dry season)
 
 ## Marine Life
 
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter sea turtles (green, hawksbill), sout
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 10 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-10 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 8 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-8 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

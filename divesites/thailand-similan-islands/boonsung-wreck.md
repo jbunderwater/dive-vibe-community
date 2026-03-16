@@ -13,47 +13,47 @@ addedBy: osm_import
 
 ## Boonsung Wreck
 
-Boonsung Wreck is a historic tin mining platform wreck in Khao Lak, famous for abundant marine life including moray eels, snapper, and occasional whale sharks.
+Boonsung Wreck is a historic wreck dive in Thailand Similan Islands, Asia.
 
 ## Overview
 
-The Boonsung Wreck is a former tin dredger that sank in 1985 and was further fragmented by the 2004 tsunami. Now resting at 18-20 meters on flat sand, the wreck is fully encrusted with marine life and attracts trevally, snapper, barracuda, and other reef residents. This is an accessible wreck dive suitable for Open Water divers with good visibility of honeycomb moray eels and abundant fish life.
+Boonsung Wreck is a dive site in Thailand Similan Islands featuring the wreck of the Boonsung Wreck. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Khao Lak, off-coast Andaman Sea, ~7 nautical miles from coast
-- **Entry Type**: day trip
-- **Site Type**: Wreck dive
+- **Location**: Thailand Similan Islands, Asia
+- **Entry Type**: Day Trip
+- **Site Type**: Wreck
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 8-10 meters (requires buoy line descent)
-- **Current**: Mild to moderate
-- **Best Time**: November to April
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Boonsung Wreck is alive with marine life including honeycomb moray eels (seen on nearly every dive), snapper, trevally, porcupinefish, batfish, juvenile barracuda, lionfish, cuttlefish, and occasional whale sharks. The wreck structure provides shelter for a diverse ecosystem of reef-associated species.
+Divers at this site can expect to encounter batfish, lionfish, sweetlips, coral growth, soft corals, manta rays, whale sharks, reef sharks. Additional species commonly sighted include sea turtles, barracuda, trevally. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
 
 ## Dive Profile
 
-Descend on the buoy line in low visibility, bottom out at the wreck structure (12-20 meters), then explore the four main sections created by tsunami damage. The wreck is heavily encrusted and not suitable for penetration—stay external and enjoy the abundant life on the outside. Plan for 35-45 minutes bottom time and maintain good buoyancy to avoid silting.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 20 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+This site can be accessed from shore or by boat. Shore entry follows established paths to the water. Boat access is available through local dive operators. Check conditions and choose the most appropriate entry method based on weather and sea state.
 
 ## Tips and Recommendations
 
+- Excellent site for newer divers — calm conditions and easy navigation
 - Bring a dive torch to illuminate wreck interiors and dark overhangs
 - Maintain proper buoyancy to avoid disturbing silt inside the wreck
 - Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
 
 ## Safety Considerations
 
-Low visibility is typical (often 8-10m), so good buoy line technique is essential. Do NOT attempt wreck penetration—the structure is open but highly unstable. Descend on the line and stay close to it for ascent. Be aware of moray eels and their bites (maintain distance, never touch). Mild currents are normal, but always dive with a buddy and use proper signaling.
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -61,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

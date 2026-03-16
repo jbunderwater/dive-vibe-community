@@ -3,9 +3,9 @@ name: Pixie Pinnacle
 lat: -14.929769
 lng: 145.6755024
 difficulty: Beginner
-maxDepth: 20
+maxDepth: 18
 entryType: boat
-siteType: wall
+siteType: pinnacle
 ref: null
 osmId: 270802347
 addedBy: osm_import
@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Pixie Pinnacle
 
-Pixie Pinnacle is a reef dive site in Great Barrier Reef, Oceania.
+Pixie Pinnacle is a pinnacle dive site in Great Barrier Reef, Oceania.
 
 ## Overview
 
@@ -23,9 +23,9 @@ Pixie Pinnacle is a dive site in Great Barrier Reef offering excellent diving on
 
 - **Location**: Great Barrier Reef, Oceania
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 15-40 meters (50-130 feet)
 - **Current**: Variable
 - **Best Time**: September to February
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter great white sharks, grey nurse shark
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

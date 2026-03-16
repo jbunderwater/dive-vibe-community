@@ -13,17 +13,17 @@ addedBy: osm_import
 
 ## HTMS Sattakut
 
-HTMS Sattakut is an ex-US Navy vessel (formerly USS LCI(M)-739) that served in World War II, including the Battle of Iwo Jima. Donated to Koh Tao in 2011 by the Royal Thai Navy, this 48-meter wreck sits 30 meters southeast of Hin Pee Wee with its top at 18 meters and bottom at 30 meters. The vessel features two large cannon guns and multiple entry/exit points for qualified divers.
+HTMS Sattakut is a historic wreck dive in Koh Tao, Asia.
 
 ## Overview
 
-HTMS Sattakut is a fascinating historical wreck dive offering access to a WWII-era US Navy vessel converted to Thai service. The wreck provides excellent exploration opportunities with abundant penetration possibilities for trained divers. The structure hosts thriving marine life colonizing the metal surfaces. Visibility ranges from 10-40 meters with water temperatures averaging 26-30°C year-round.
+HTMS Sattakut is a dive site in Koh Tao featuring the wreck of the HTMS Sattakut. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
 - **Location**: Koh Tao, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter batfish, lionfish, sweetlips, coral 
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 32 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 30 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -61,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

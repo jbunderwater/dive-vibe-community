@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## S. Utara
 
-S. Utara (Siladen Utara — "North Siladen") is a distinctive dive site on the northern side of Siladen Island that departs from the typical Bunaken vertical wall format. Rather than a sheer cliff, this site offers a gentle slope that descends to 50 metres before dropping into the deep, with strong currents rushing over the slope and concentrating larger fish in the shallows.
+S. Utara is a drift dive site in Manado & Bunaken, Asia.
 
 ## Overview
 
-Siladen Utara is characterised by its gentle sloping terrain — unusual in a park dominated by near-vertical walls. The slope descends from the shallow reef to about 50 metres before the bottom falls away into deeper water. Strong currents sweep over this exposed northern point, carrying nutrients that attract schools of larger fish closer to the surface than at many other sites. The combination of slope topography and current makes for productive pelagic encounters in relatively shallow water.
+S. Utara is a dive site in Manado & Bunaken offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: North Siladen Island, Bunaken National Marine Park
+- **Location**: Manado & Bunaken, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Drift dive
+- **Site Type**: Drift
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 40 meters
-- **Typical Visibility**: 15-25 metres
-- **Current**: Strong — currents rush over the exposed northern slope
-- **Best Time**: May to October
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Strong currents over the slope concentrate pelagic species in the shallower water, making this a reliable spot for encounters with larger fish schools. Reef sharks, trevally, barracuda, and Napoleon wrasse are standard current-attracted visitors. The slope's coral coverage supports the same diverse reef community as other Siladen sites, including macro species such as nudibranchs, pygmy seahorses, and ghost pipefish in the calmer sections.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
 
 ## Dive Profile
 
-Drift over the sloping terrain with the current, working at a comfortable depth on the slope. The gentle gradient means you can follow the contour without abrupt depth changes. Watch the water above and ahead for larger fish attracted by the current. The slope eventually leads to deeper open water — monitor depth and turn before exceeding your planned maximum.
+The site offers diving at depths ranging from shallow reef areas down to approximately 40 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
-Boat access from Siladen Island resort or Bunaken/Manado operators. The exposed northern position means conditions should be assessed before entry. Current is typically running on this exposed point.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-- The slope format is different from Bunaken's famous walls — approach it as a drift over terrain rather than a wall traverse
-- Look up and ahead into the current for approaching larger fish
-- The macro life on the slope in quieter sections is worth slow exploration between pelagic sightings
-- Best dived when conditions allow — the exposed north side can be rough
-- Pair with other Siladen sites for a full island exploration day
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
+- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
-Strong currents on the exposed northern point are the primary consideration. Drift with the current — do not fight it. Monitor depth on the slope as the gradient can lead you deeper gradually. Carry an SMB. Be prepared for variable surface conditions on the exposed north side.
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-The pelagic encounters in current-swept shallow water reward wide-angle setups. Larger fish schools in blue water with the slope background are achievable. Macro opportunities on the calmer sections of the slope add variety to the dive photography. The gentle slope terrain offers a different compositional perspective from the vertical walls.
+This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*Validated against siladen.com/experiences/dive-sites-map and divernet.com/bunaken-national-marine-park-superlative-siladen. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

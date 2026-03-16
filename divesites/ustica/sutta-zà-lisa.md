@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Sutta zà Lisa
 
-Sutta zà Lisa is a beautiful bay with tunnels, caves, canyons and wall features, ideal for macro photographers.
+Sutta zà Lisa is a wall dive site in Ustica, Europe.
 
 ## Overview
 
-Sutta a Za' Lisa is a beautiful bay overlooking Sicily with multitudes of tunnels, caves and canyons to explore. The site is a playground of tight swim-throughs and a steep vertical wall facing the open blue sea with regular encounters of pelagic species like large amberjacks. This is a true paradise for macro photography lovers, with extraordinary quantities and variety of nudibranchs depending on season.
+Sutta zà Lisa is a dive site in Ustica featuring a dramatic vertical wall that drops into the deep blue. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
 
 ## Site Information
 
-- **Location**: Ustica, Mediterranean
+- **Location**: Ustica, Europe
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: Good - usually 20-30 meters
+- **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: May to October
 
 ## Marine Life
 
-An easy dive between 5-20 meters carpeted with sponges. Numerous nudibranchs in great quantity and variety are present depending on season. Slipper lobsters, crabs, sea bream, groupers, and more inhabit the site. Pelagic big amberjacks frequently encounter divers in the blue water beyond the wall. Submerged cave at 9 meters contains fragments of ancient Roman amphorae.
+Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-20 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
@@ -44,11 +44,12 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- A macro photography paradise — excellent for nudibranch and small crustacean photography
-- Bring quality macro lighting to illuminate nudibranchs in cave areas
-- Explore the different seasonal variations in nudibranch populations
-- Watch for pelagic species in the open water beyond the wall
+- Watch your depth carefully — wall dives can lead to unintentional deep descents
+- Look in crevices and overhangs for hidden marine life
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 
@@ -56,11 +57,11 @@ Be aware of cold water (north), currents, boat traffic in this area. Dive within
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

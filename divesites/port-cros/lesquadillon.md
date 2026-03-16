@@ -17,23 +17,22 @@ l’Esquadillon is a reef dive site in Port-Cros, Europe.
 
 ## Overview
 
-l’Esquadillon is a rock reef islet site offering intermediate-level diving to 25 meters depth. This site combines easy reef navigation with good opportunities to observe Mediterranean marine life. The rocky islet formation and surrounding seagrass provide diverse habitat for fish and invertebrates. This is an accessible site for intermediate divers seeking reef experience without deep technical demands.
+l’Esquadillon is a dive site in Port-Cros offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
 
 ## Site Information
 
-- **Location**: Port-Cros area, Côte d’Azur, France
+- **Location**: Port-Cros, Europe
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 15-35 meters
+- **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: May to October
-- **Water Temperature**: 15-24°C
 
 ## Marine Life
 
-Groupers, schools of breams and Mediterranean wrasses patrol the rocky formations. Moray eels, crabs, and Spanish lobsters inhabit crevices. Posidonia seagrass meadows surrounding the islet support diverse juvenile fish and invertebrate fauna. Nudibranchs, sea fans, and sponges colonize rock surfaces. The site is excellent for general reef observation and macro photography.
+Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
 
 ## Dive Profile
 
@@ -41,10 +40,11 @@ The site offers diving at depths ranging from shallow reef areas down to approxi
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
+- Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
 - Respect marine life and maintain proper buoyancy to protect the reef
@@ -59,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

@@ -13,26 +13,30 @@ addedBy: osm_import
 
 ## Gili Tepekong North
 
-Northern section of Gili Tepekong, less challenging than the famous (and dangerous) south canyon. Features huge boulders to swim among with open plains of healthy corals. Moderate currents manageable for intermediate divers. Excellent photography site due to varied topography and abundant marine life.
+Gili Tepekong North is a reef dive site in Bali, Asia.
+
+## Overview
+
+Gili Tepekong North is a dive site in Bali offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Gili Tepekong North, Candidasa, Bali, Indonesia
+- **Location**: Bali, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 15-30 meters (50-100 feet)
-- **Current**: Moderate, generally manageable
-- **Best Time**: May-September (dry season)
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Abundant reef fish, reef sharks, sea turtles, macro life in coral formations. Boulder structures provide excellent habitat for diverse species.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
 
 ## Dive Profile
 
-Begin dive descending to boulders and coral formations. Navigate among large rocks and open coral plains. Work at 10-25m depth. Manageable current patterns allow good site exploration time.
+The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -56,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

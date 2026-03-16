@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Pillars of Hercules
 
-Pillars of Hercules is a dramatic wall and geological formation dive site located inside Nelson's Dockyard National Park on Antigua's south coast.
+Pillars of Hercules is a wall dive site in Antigua and Barbuda, Caribbean.
 
 ## Overview
 
-Named for its distinctive pillar-shaped limestone rock formations rising from the ocean, Pillars of Hercules offers excellent diving with exceptional visibility. The site features a shallow wall dive ideal for intermediate divers, with healthy coral growth and abundant marine life. This is a signature Antigua dive site, easily accessible from English Harbour.
+Pillars of Hercules is a dive site in Antigua and Barbuda featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: English Harbour, Antigua (inside Nelson's Dockyard National Park)
+- **Location**: Antigua and Barbuda, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 9 meters
-- **Typical Visibility**: 18-30 meters (60-100 feet)
-- **Current**: Minimal to light
-- **Best Time**: December to April (calm seas and excellent visibility)
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Light to moderate
+- **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-The site is home to over 100 fish species. Commonly sighted are green sea turtles, spotted eagle rays, common octopus, and a variety of Caribbean reef fish including trumpetfish, parrotfish, porcupinefish, and blue tangs. The site supports a coral nursery programme, making it a conservation-focused dive destination.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-The dive profile is straightforward and beginner-friendly despite the Intermediate rating. The pillars drop gradually from the surface to around 9 meters maximum depth. Divers can circle the formations, explore the rock features, and observe the coral growth and marine life. The site offers relaxed conditions with minimal current, making it suitable for building confidence.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-9 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
@@ -44,11 +44,12 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- This is an excellent site to combine with other English Harbour dives (Sunken Rock, nearby wrecks)
-- Bring an underwater camera — the distinctive rock formations make exceptional photography subjects
-- An 18th-century anchor rests at the site, adding historical interest
-- The site has calm surface conditions even when other sites are choppy
-- Respect the coral nursery programme by maintaining excellent buoyancy
+- Watch your depth carefully — wall dives can lead to unintentional deep descents
+- Look in crevices and overhangs for hidden marine life
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 
@@ -56,11 +57,11 @@ Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

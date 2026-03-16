@@ -13,32 +13,30 @@ addedBy: osm_import
 
 ## Tavolara Island
 
-Tavolara Island rises dramatically from the sea as a limestone and granite mountain 560 meters high, located off the northeastern coast of Sardinia. The island is the centerpiece of the Tavolara and Capo Cavallo Protected Marine Area with 16 mooring buoys reserved for authorized dive centers.
+Tavolara Island is a reef dive site in Sardinia, Europe.
 
 ## Overview
 
-Tavolara Island and its surrounding reefs offer high marine biodiversity within a strict marine protected area. The island is characterized by rocky formations, dramatic granite and limestone geology, and rich fish populations. Multiple dive sites encircle the island, with the Bank of the Pope (Secca del Papa) considered one of the Mediterranean's finest dives. The area is known for dusky groupers, crystal-clear visibility, and varied dive profiles from shallow reefs to deeper pinnacles.
+Tavolara Island is a dive site in Sardinia offering rewarding diving on healthy coral reef structures . Part of marine protected area with limestone and granite formations, 16 mooring buoys, dusky groupers. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
 
 ## Site Information
 
-- **Location**: Off northeastern coast near Porto San Paolo, Sardinia
+- **Location**: Sardinia, Europe
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Depth Range**: 5-25 meters
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 15-40 meters
-- **Water Temperature**: 18-28°C (May-October best season)
-- **Current**: Variable, moderate to strong
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Light to moderate
 - **Best Time**: May to October
 
 ## Marine Life
 
-Dusky groupers are particularly numerous around Tavolara, along with barracuda, snappers, bream, and large ambient fish populations. Sea fans, soft corals, and posidonia seagrass meadows support the ecosystem. Pelagic species occasionally visit the site.
+Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
 
 ## Dive Profile
 
-Tavolara offers varied dive profiles due to its multiple reef formations and pinnacles. Most dives follow the rocky substratum at 10-25 meters, exploring reef topography and fish populations. The Bank of the Pope features dramatic contours requiring dives at different depths to fully appreciate the site's structure. Moderate currents are common; plan dives with awareness of water movement and use mooring buoys for site entry.
+The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -61,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

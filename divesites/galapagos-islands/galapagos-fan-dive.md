@@ -13,43 +13,55 @@ addedBy: osm_import
 
 ## Galapagos fan dive
 
-This dive area is located near San Cristóbal Island in the southeastern Galápagos, at coordinates consistent with dive sites operated from Puerto Baquerizo Moreno. The name references the large sea fans (gorgonian fan corals) that are a notable feature of some deeper volcanic walls in the San Cristóbal area, particularly where cold upwelling currents bring the nutrients that support gorgonian growth.
+Galapagos fan dive is a wall dive site in Galápagos Islands, South America.
 
 ## Overview
 
-San Cristóbal's eastern and southern dive sites feature volcanic walls draped with gorgonian sea fans, black coral, and encrusting sponges at depths of 15–20 meters. The site is exposed to current from the direction of the Cromwell Undercurrent, which brings cold, nutrient-rich water upwelling along the volcanic terrain. This site is accessible from San Cristóbal by local dive operators and is typically dived alongside Kicker Rock on multi-site day trips.
+Galapagos fan dive is a dive site in Galápagos Islands featuring a dramatic vertical wall that drops into the deep blue. Located in the South America region, this site offers 10-25 meters of visibility with water temperatures averaging 15-26°C.
 
 ## Site Information
 
-- **Location**: San Cristóbal Island area, Galápagos
+- **Location**: Galápagos Islands, South America
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10–20 meters
-- **Water Temperature**: 18–24°C; cold thermoclines possible
+- **Typical Visibility**: 10-25 meters (30-80 feet)
 - **Current**: Moderate to strong
-- **Best Time**: Year-round; June–November for enhanced pelagic encounters
+- **Best Time**: June to November
 
 ## Marine Life
 
-Gorgonian sea fans (the site's namesake feature) colonize the volcanic wall at 15–20 meters alongside black coral and encrusting sponges. Hawkfish perch on fan coral branches. Whitetip reef sharks and Galápagos sharks patrol the wall base. Green sea turtles cruise the wall face. Galápagos sea lions are invariably present around San Cristóbal dive sites, joining divers from the surface. Schools of barracuda, snappers, and salema circle in the water column. Eagle rays pass in open water beyond the wall. Marine iguanas are common in the rocky shallows.
+Divers at this site can expect to encounter hammerhead sharks, whale sharks, sea lions, marine iguanas, manta rays, eagle rays, sea turtles, dolphins. Additional species commonly sighted include penguins, moray eels. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-Descend along the volcanic wall to 15–20 meters where the gorgonian fans are most concentrated. Follow the wall profile, maintaining depth and monitoring current direction. Cold thermoclines may be encountered below 10 meters; a wetsuit of at least 5 mm is recommended. Ascend with SMB deployed for boat pickup.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-20 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+
+## Entry and Exit
+
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+
+## Tips and Recommendations
+
+- Watch your depth carefully — wall dives can lead to unintentional deep descents
+- Look in crevices and overhangs for hidden marine life
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 
-Currents along exposed San Cristóbal walls can be strong and variable. Always carry an SMB. Cold thermoclines increase air consumption — plan conservatively. This site requires Advanced certification and current diving experience.
+Be aware of strong currents, cold thermoclines, surge in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-Gorgonian sea fans provide excellent subjects for split wide-angle shots with sea fans framing sharks or sea lions in the background. Fan coral at 15–20 meters with ambient light from above creates classic reef compositions. Hawkfish perched on fan branches are rewarding macro subjects.
+Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OSM data, Superyacht Services Guide operator listing, and contextual research on San Cristóbal Island dive sites. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

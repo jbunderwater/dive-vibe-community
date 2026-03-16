@@ -13,31 +13,30 @@ addedBy: osm_import
 
 ## Cindy's Reef
 
-Cindy's Reef is a gently sloping reef off Aore Island named after a local dive guide, offering excellent beginner-friendly diving with prolific marine life and colorful coral formations.
+Cindy's Reef is a reef dive site in Vanuatu, Pacific.
 
 ## Overview
 
-Cindy's Reef features a gradually descending reef structure decorated with vibrant soft and hard corals ranging from 5 to 30 meters deep. The reef is characterized by bright coral outcrops with resident anemones hosting clownfish, schools of fusiliers and anthias fish, and abundant tropical species. Named after a pioneering local dive guide, this site has become a favorite for divers seeking accessible reef diving with good visibility and diverse marine encounters.
+Cindy's Reef is a dive site in Vanuatu offering excellent diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
-- **Location**: Aore Island, Espiritu Santo
+- **Location**: Vanuatu, Pacific
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 30 meters
-- **Minimum Depth**: 5 meters
-- **Typical Visibility**: 20-50 meters (varies seasonally)
-- **Water Temperature**: 26-29°C year-round
-- **Best Time**: April to November (dry season)
+- **Typical Visibility**: 20-50 meters (65-160 feet)
+- **Current**: Moderate to strong
+- **Best Time**: April to November
 
 ## Marine Life
 
-Cindy's Reef hosts prolific tropical fish life including clownfish, fusiliers, anthias, butterflyfish, moorish idols, groupers, barracuda, and tuna. Anemones provide shelter for clownfish in symbiotic relationships. Larger species including reef sharks, sea turtles, rays, and occasional sharks visit the site. The reef structure itself features bright soft corals, hard coral formations, brain corals, and stag horn corals creating a vibrant underwater landscape.
+Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -45,6 +44,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
+- Excellent site for newer divers — calm conditions and easy navigation
 - Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
@@ -61,7 +61,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

@@ -11,25 +11,24 @@ osmId: 9448835283
 addedBy: osm_import
 ---
 
-## Carreg Dive Site
+## Carreg dive site
 
-Carreg Dive Site is a historic shipwreck located off the southern coast of Sri Lanka. The wreck is accessible via boat diving and offers intermediate-level wreck exploration.
+Carreg dive site is a historic wreck dive in Sri Lanka, Asia.
 
 ## Overview
 
-This wreck dive provides exploration of a historic vessel in warm Sri Lankan waters. The wreck structure is inhabited by diverse marine life and encrusted with coral growth. Water temperatures remain warm throughout the year (27-30°C), with optimal diving conditions from October to April.
+Carreg dive site is a dive site in Sri Lanka featuring the wreck of the Carreg dive site. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Southern coast, Sri Lanka
+- **Location**: Sri Lanka, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
-- **Depth Range**: 22-24 meters
-- **Typical Visibility**: 10-20 meters (33-66 feet)
-- **Current**: Variable, moderate to strong
-- **Water Temperature**: 27-30°C year-round
-- **Best Time**: October to April
+- **Maximum Depth**: 24 meters
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
@@ -37,20 +36,20 @@ Divers at this site can expect to encounter batfish, lionfish, sweetlips, coral 
 
 ## Dive Profile
 
-Descend to the wreck at 22-24 meters. Explore the exterior structure and coral growth covering the vessel. Experienced wreck divers may attempt limited external navigation. Plan 40-45 minute bottom time at recreational depths. Maintain strict air supply monitoring and ascend with adequate reserve for a safety stop at 5 meters.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 24 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
-Access is via boat from local dive operators. Enter via giant stride or back roll from the dive boat. Descent to the wreck is made by the boat. Exit is by returning to the boat at the surface with crew assistance.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
 - Bring a dive torch to illuminate wreck interiors and dark overhangs
 - Maintain proper buoyancy to avoid disturbing silt inside the wreck
 - Do not attempt penetration without proper training and equipment
+- Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 
@@ -62,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

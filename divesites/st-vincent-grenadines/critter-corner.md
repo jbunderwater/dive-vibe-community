@@ -13,17 +13,17 @@ addedBy: osm_import
 
 ## Critter Corner
 
-Critter Corner is St. Vincent's premier muck dive site, renowned as one of the Caribbean's best macro diving destinations.
+Critter Corner is a muck dive site in St. Vincent and the Grenadines, Caribbean.
 
 ## Overview
 
-Located in the shadow of Fort Durvernette off Villa Beach on Young Island, Critter Corner is the iconic muck dive that has contributed to St. Vincent's reputation as the "muck diving capital of the Caribbean." The volcanic sand and boulder-strewn bottom harbor an exceptional variety of cryptic and unusual species. Macro photographers find abundant subjects including flying gurnards, frogfish, goldspotted eels, electric rays, seahorses, yellowhead jawfish, snake eels, fan worms, and the rare red-banded lobster. Visibility can exceed 100 feet thanks to dense volcanic, granite-based sand that settles quickly when disturbed.
+Critter Corner is a dive site in St. Vincent and the Grenadines offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Young Island/Villa Beach area, St. Vincent, Caribbean
+- **Location**: St. Vincent and the Grenadines, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Muck dive
+- **Site Type**: Muck
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 10 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

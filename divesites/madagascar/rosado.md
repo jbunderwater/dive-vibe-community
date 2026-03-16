@@ -13,31 +13,30 @@ addedBy: osm_import
 
 ## Rosado
 
-Rosado is a coral reef dive site in Nosy Be, Madagascar, featuring abundant hard and soft corals.
+Rosado is a reef dive site in Madagascar, Africa.
 
 ## Overview
 
-Rosado is a pristine coral reef site in the Nosy Be archipelago, characterized by healthy coral formations and diverse reef fish. The site sits at moderate depths ideal for intermediate divers, offering good visibility and consistent conditions. As part of the broader Nosy Be region with 400+ coral species, Rosado contributes to Madagascar's reputation as a world-class coral diving destination.
+Rosado is a dive site in Madagascar offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
 
 ## Site Information
 
-- **Location**: Nosy Be, Madagascar
+- **Location**: Madagascar, Africa
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 15-30 meters
-- **Water Temperature**: 26-30°C year-round
-- **Current**: Moderate, generally manageable
-- **Best Time**: April-January (post-rainy season)
+- **Typical Visibility**: 10-30 meters (30-100 feet)
+- **Current**: Moderate to strong
+- **Best Time**: October to March (East Africa), varies by location
 
 ## Marine Life
 
-The reef supports an abundance of hard and soft corals interspersed with sea fans. Fish species include groupers, snappers, fusiliers, and various smaller reef inhabitants. Stingrays frequent the sandy patches. Seasonal megafauna such as whale sharks and manta rays may be encountered during appropriate seasons.
+Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
 
 ## Dive Profile
 
-Descend to 10-15 meters and explore the reef top and coral formations. The reef features a mix of coral-covered rubble and patch reefs interspersed with sandy zones. Gently work across the reef structure, observing coral formations and resident reef fish at leisure. Plan 45-50 minutes at depth to fully appreciate the coral diversity and marine life.
+The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -61,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

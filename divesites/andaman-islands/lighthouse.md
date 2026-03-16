@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Lighthouse
 
-Lighthouse is a shallow, beginner-friendly coral reef dive site featuring vibrant soft and hard corals circling a small lighthouse beacon. Known for exceptional visibility and excellent conditions for night diving when experienced.
+Lighthouse is a reef dive site in Andaman Islands, Asia.
 
 ## Overview
 
-The Lighthouse site consists of a coral reef formation surrounding a small lighthouse structure in shallow water. The shallow part of the reef starts from 2 meters, dropping to approximately 13 meters on sandy bottom (some sources report maximum depth to 25 meters). This site is ideal for divers of all experience levels, with exceptional water clarity and rich coral formations. Beginner divers can safely explore the shallower sections, while more experienced divers can descend to deeper areas. Night diving is possible here due to excellent visibility, though only experienced night divers should attempt after-dark exploration.
+Lighthouse is a dive site in Andaman Islands offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Havelock Island, Andaman Islands, India
+- **Location**: Andaman Islands, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 13 meters
-- **Typical Visibility**: 20-25 meters (excellent)
-- **Current**: Generally light to moderate
-- **Best Time**: November to April
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Vibrant coral reef fish populations including clownfish, angelfish, parrotfish, and damselfish are abundant in shallow areas. Larger species including groupers, Napoleon wrasse, and occasional rays visit the deeper sections. The diverse coral formations provide microhabitats for numerous small species including nudibranchs, shrimp, and small crustaceans.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
 
 ## Dive Profile
 
-Begin your dive at 2-5 meters among the vibrant shallow corals, taking time to observe the lighthouse structure and reef formations. Gradually descend as conditions and experience allow, reaching approximately 8-10 meters for intermediate divers or 13-15 meters for more experienced divers. The exceptional visibility allows photography throughout the dive. Plan 35-50 minutes of bottom time depending on depth preference. For night dives (experienced divers only), expect to see nocturnal species emerging from coral cover and different behavioral patterns. Excellent buoyancy control is essential to protect the fragile coral formations.
+The site offers diving at depths ranging from shallow reef areas down to approximately 13 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-13 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -44,6 +44,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
+- Excellent site for newer divers — calm conditions and easy navigation
 - Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
@@ -60,7 +61,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

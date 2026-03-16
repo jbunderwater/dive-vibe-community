@@ -13,12 +13,11 @@ addedBy: osm_import
 
 ## Vertical Wall
 
-Vertical Wall is a wall dive in Kwajalein lagoon offering deeper descent opportunities. This site provides wall structure diving with good visibility and marine life encounters.
-
+Vertical Wall is a wall dive site in Marshall Islands, Pacific.
 
 ## Overview
 
-Vertical Wall is a wall dive in Kwajalein lagoon offering deeper descent opportunities. This site provides wall structure diving with good visibility and marine life encounters. This site offers visibility typically exceeding 30 meters, with water temperatures consistent at 27-30°C year-round.
+Vertical Wall is a dive site in Marshall Islands featuring a dramatic vertical wall that drops into the deep blue. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
@@ -62,7 +61,7 @@ Wall dives offer stunning wide-angle opportunities with dramatic depth perspecti
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

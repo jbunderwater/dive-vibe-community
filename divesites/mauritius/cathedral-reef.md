@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Cathedral Reef
 
-The most famous dive site in Mauritius. A spectacular cave complex featuring dramatic arches, grottoes, and fireplace formations amid enormous boulders and sheer drop-offs. Home to abundant lobsters and reef fish with regular pelagic shark visitors.
+Cathedral Reef is a cave dive site in Mauritius, Africa.
 
 ## Overview
 
-Cathedral (La Cathédrale) sits just five minutes by boat from Flic en Flac harbor. The site is defined by its spectacular topography: a combination of grotto, cave, and fireplace formations where enormous boulders create arches, tunnels, and dramatic drop-offs. The shallower reef sections begin at 12-15 meters and deepen to 28 meters, offering versatile diving opportunities. The site is renowned for pelagic activity, with several varieties of sharks regularly cruising in the turbulence beneath the site.
+Cathedral Reef is a dive site in Mauritius featuring underwater cave and cavern formations. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
 
 ## Site Information
 
-- **Location**: Flic en Flac, West Coast, 5 minutes by boat
+- **Location**: Mauritius, Africa
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/cavern
+- **Site Type**: Cave/Cavern
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 28 meters
-- **Typical Visibility**: 15-25 meters (50-80 feet)
-- **Current**: Moderate; variable based on sea conditions
-- **Best Time**: Year-round; October to April calmest and warmest (27-28°C)
+- **Typical Visibility**: 10-30 meters (30-100 feet)
+- **Current**: Moderate to strong
+- **Best Time**: October to March (East Africa), varies by location
 
 ## Marine Life
 
-The site shelters abundant lobsters, reef fish, and macro species within the cave formations. School formations include bluestripe snappers, moorish idols, and fusiliers. Larger residents include groupers, snappers, and various wrasses. Notable pelagic visitors include hammerhead sharks, reef sharks, and occasionally whale sharks. The cave environment supports diverse cryptic species including nudibranchs, morays, and small burrowing fish.
+Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
 
 ## Dive Profile
 
-Begin descent to 12-15 meters where the shallower reef and initial cave formations appear. Work methodically through the arch and cavern features, maintaining orientation and air management discipline. The maximum depth of 28 meters is typically reached beyond the main cave complex. Most divers spend 30-40 minutes exploring the cave system before ascending. Conservative bottom times are essential given the remote location and advanced difficulty.
+The site offers diving at depths ranging from shallow reef areas down to approximately 28 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

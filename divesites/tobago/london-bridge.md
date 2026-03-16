@@ -13,24 +13,22 @@ addedBy: osm_import
 
 ## London Bridge
 
-London Bridge is the most famous dive site in Charlotteville, Speyside, Tobago, featuring a natural rock arch that echoes its iconic namesake. The site is known for encounters with large schools of tarpon and occasional pelagic visitors.
+London Bridge is a rock_formation dive site in Tobago, Caribbean.
 
 ## Overview
 
-This distinctive site features a natural arch formation surrounded by huge boulders with dramatic overhangs and crevices. Divers swim through the middle of the 'bridge' when conditions permit, discovering a unique underwater landscape populated by large schools of tarpon, lobsters, and sea turtles. The site reaches depths of 30 meters and is subject to significant surge and current, making it suitable for intermediate to experienced divers. The current can create a dangerous funneling effect through the bridge, making it undiveable during strong conditions.
+London Bridge is a dive site in Tobago offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Charlotteville/St. Giles, Speyside, Tobago
+- **Location**: Tobago, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Rock_formation
+- **Site Type**: Rock_Formation
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
-- **Depth Range**: 10-30 meters (33-98 feet)
-- **Typical Visibility**: 15-30 meters on good days
-- **Water Temperature**: 27-30°C (81-86°F)
-- **Current**: Variable; can be strong with dangerous surge
-- **Best Time**: December to April (dry season); site can be undiveable in bad weather
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Light to moderate
+- **Best Time**: December to April (dry season)
 
 ## Marine Life
 
@@ -38,7 +36,7 @@ Divers at this site can expect to encounter sea turtles (green, hawksbill), sout
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -61,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

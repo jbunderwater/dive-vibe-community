@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Custom's House Wreck
 
-Custom's House Wreck is a beginner-friendly wreck dive in the Russell Islands area offering easy shore access and shallow depths perfect for certification dives.
+Custom's House Wreck is a historic wreck dive in Solomon Islands, Pacific.
 
 ## Overview
 
-Custom's House Wreck is accessible as a shore dive in the Russell Islands region. This shallow wreck site is ideal for recreational divers and open water certification courses. The shallow maximum depth of 15 meters makes this an excellent introduction to wreck exploration without the complexity of deeper penetrations.
+Custom's House Wreck is a dive site in Solomon Islands featuring the wreck of the Custom's House Wreck. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
-- **Location**: Russell Islands region
+- **Location**: Solomon Islands, Pacific
 - **Entry Type**: Shore entry
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Minimal to moderate
+- **Typical Visibility**: 20-50 meters (65-160 feet)
+- **Current**: Moderate to strong
 - **Best Time**: April to November
 
 ## Marine Life
 
-Coral growth, anemones, small reef fish, and invertebrates colonize the wreck structure creating a thriving ecosystem. The shallow depth supports diverse coral and fish life.
+Divers at this site can expect to encounter coral growth, anemones, lionfish, scorpionfish, glassy sweepers, manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks. Additional species commonly sighted include sea turtles, napoleon wrasse, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
 
 ## Dive Profile
 
@@ -61,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

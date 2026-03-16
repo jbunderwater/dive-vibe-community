@@ -13,24 +13,22 @@ addedBy: osm_import
 
 ## Malmok Reef
 
-Malmok Reef is a shallow, crystal-clear shore dive featuring a simple reef structure ideal for certification dives, practicing photography, and beginner exploration.
+Malmok Reef is a reef dive site in Aruba, Caribbean.
 
 ## Overview
 
-Malmok Reef offers one of the most accessible and calm diving experiences in Aruba. Located in Malmok Bay (also home to the famous SS Antilla wreck), this reef features shallow depths ranging from 2-5 meters with virtually no current and excellent visibility. The reef serves as a nursery for young fish, lobsters, and crabs, and the sandy bottom attracts stingrays and sea turtles foraging for food. Hard coral formations, sea urchins, coral, and feather worms cover the bank walls. The site features numerous easy water entries with minimal surf or surge, making it perfect for training new divers, testing new gear, and conducting open-water certification dives. The combination of calm conditions, shallow depths, and abundant marine life makes Malmok an excellent choice for photographers and beginners.
+Malmok Reef is a dive site in Aruba offering excellent diving on healthy coral reef structures . Shallow 2-5m, nursery for young fish, easy entry with no current, perfect for certification dives. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Malmok Bay, northwestern Aruba
+- **Location**: Aruba, Caribbean
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 5 meters
-- **Nursery Depth Zone**: 2-5 meters
-- **Typical Visibility**: 15-25+ meters (50-80+ feet)
-- **Current**: Negligible
-- **Best Time**: Year-round, calm conditions typical
-- **Special Features**: Fish nursery, excellent for certifications
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Light to moderate
+- **Best Time**: December to April (dry season)
 
 ## Marine Life
 
@@ -38,7 +36,7 @@ Divers at this site can expect to encounter sea turtles (green, hawksbill), sout
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 14 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-14 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 5 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-5 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -61,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

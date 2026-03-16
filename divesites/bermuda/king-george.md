@@ -13,33 +13,30 @@ addedBy: osm_import
 
 ## King George
 
-The King George is Bermuda's largest fully intact wreck, standing as a testament to early 20th-century engineering. This 1910 dredger was one of three vessels commissioned by the Bermuda Government to deepen harbor channels for modern shipping, and remained in service until 1930.
+King George is a historic wreck dive in Bermuda, Atlantic.
 
 ## Overview
 
-The King George sits upright and mostly intact in 60 feet of water, with all major features remaining accessible to divers. Her ladders, catwalks, engines, winches, and forward holds provide excellent opportunities for exploration. The wreck is heavily colonized with coral and sponges, creating a thriving artificial reef teeming with marine life.
+King George is a dive site in Bermuda featuring the wreck of the King George. Located in the Atlantic region, this site offers 15-30 meters of visibility with water temperatures averaging 20-28°C.
 
 ## Site Information
 
-- **Location**: Bermuda's South Shore waters
+- **Location**: Bermuda, Atlantic
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 36-40 feet (11-12 meters)
+- **Typical Visibility**: 15-30 meters (50-100 feet)
 - **Current**: Light to moderate
 - **Best Time**: May to October
-- **Ship Type**: Dredger built 1910 (Lobnitz & Co., Glasgow)
-- **Original Purpose**: Harbor dredging vessel
-- **Year Sunk**: 1930s (scuttled after replacement)
 
 ## Marine Life
 
-The King George attracts schools of snappers, groupers, barracuda, and jacks. Lobsters, octopus, and crabs shelter within the structure. The coral and sponge-encrusted hull provides habitat for countless smaller reef fish and invertebrates.
+Divers at this site can expect to encounter groupers, snappers, barracuda, coral encrustation, sea turtles, reef sharks, groupers, snappers. Additional species commonly sighted include parrotfish, angelfish. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
 
 ## Dive Profile
 
-Descend to the upright wreck structure and explore the accessible features: ladders, catwalks, engine room, and hold areas. The intact structure makes navigation intuitive for intermediate divers. Plan 40-50 minutes of bottom time with a 5-minute safety stop at 15 feet.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 18 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -64,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

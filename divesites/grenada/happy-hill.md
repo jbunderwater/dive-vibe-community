@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Happy Hill
 
-Happy Valley (also known as Happy Hill) is described as one of the prettiest dive sites in Grenada. This site starts in a shallow forest of brown corals and continues into a slope covered with soft corals, creating a visually stunning reef environment.
+Happy Hill is a reef dive site in Grenada, Caribbean.
 
 ## Overview
 
-Happy Hill offers beginner-friendly reef diving with excellent coral formations and abundant marine life. The site features both shallow coral structures and sloped reef areas suitable for all diving levels. The abundance of moray eels, lobster, eagle rays, and turtles makes this a rich diving experience. Located in the Caribbean region, this site offers excellent visibility with water temperatures averaging 26-29°C.
+Happy Hill is a dive site in Grenada offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
@@ -32,11 +32,11 @@ Happy Hill offers beginner-friendly reef diving with excellent coral formations 
 
 ## Marine Life
 
-Expect to see abundant moray eels, lobster, eagle rays, and sea turtles. The coral-covered reef provides habitat for many species of reef fish, small crustaceans, and other marine organisms. The rich biodiversity makes this a particularly rewarding dive for naturalists and photographers.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
 
 ## Dive Profile
 
-Begin your dive in the shallow brown coral forest (3-5 meters), then move onto the sloped soft coral formations extending to approximately 16 meters. The reef slope allows natural depth progression. Most abundant marine life is encountered throughout the water column. The site is highly suitable for all skill levels.
+The site offers diving at depths ranging from shallow reef areas down to approximately 16 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-16 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

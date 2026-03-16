@@ -17,7 +17,7 @@ Half Moon Bay Wall is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Half Moon Bay Wall is an easily accessible wall dive located almost directly off the beach in West End. The site is suitable for all diving levels with excellent accessibility from shore. The reef starts at shallow depths around 5 meters and continues to the top of a beautiful semicircular wall that drops dramatically to depths beyond 45 meters. Excellent for all levels from beginners to advanced divers. Water temperatures average 26-29°C with typical good visibility.
+Half Moon Bay Wall is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter sea turtles (green, hawksbill), sout
 
 ## Dive Profile
 
-The reef starts at approximately 5 meters (15 feet) and continues to a semicircular wall that drops dramatically to 45 meters (150 feet) and deeper. Flamingo tongues, gorgonians, black coral, and orange elephant ear sponges line the sides of the wall. Schools of grouper, Blue Chromis, and Creole Wrasse dart around the wall. Moray eels, lobsters, and turtles are frequently found. A tunnel further up along the reef is considered one of the best locations on the island to find Eagle Rays. Most features of interest are found between 10-45 meters.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-45 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
@@ -44,13 +44,11 @@ Enter from the shore following established entry points. Check conditions before
 
 ## Tips and Recommendations
 
-- Look for the famous tunnel along the reef where Eagle Rays are frequently spotted
-- Watch for Flamingo Tongues on the coral and sponges
-- Explore the semicircular wall formations
-- Watch your depth carefully as the wall drops dramatically
-- Excellent for beginners to explore the shallow reef areas
-- Book with local dive operators who know the best times for Eagle Ray sightings
+- Watch your depth carefully — wall dives can lead to unintentional deep descents
+- Look in crevices and overhangs for hidden marine life
 - Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 
@@ -62,7 +60,7 @@ Wall dives offer stunning wide-angle opportunities with dramatic depth perspecti
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

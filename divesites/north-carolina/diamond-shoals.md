@@ -13,56 +13,54 @@ addedBy: osm_import
 
 ## Diamond Shoals
 
-Diamond Shoals is a series of shifting underwater sandbars extending 14 miles southeast of Cape Hatteras Point, where the warm Gulf Stream collides with the cold Labrador Current. This hydrographic meeting point is historically the most treacherous stretch of the entire U.S. East Coast, responsible for more than 600 documented shipwrecks and earning Cape Hatteras the title of "Graveyard of the Atlantic." The shoals themselves are a dynamic, shallow dive environment — but diving here is primarily associated with the dozens of wrecks that lie across the surrounding seafloor rather than the sandy shoals themselves.
+Diamond Shoals is a reef dive site in North Carolina, North America.
 
 ## Overview
 
-The Diamond Shoals proper are a complex of shifting sand ridges that extend into shoal water of 5–15 feet (1.5–4.5 meters), making surface navigation extremely hazardous and explaining their centuries-long role in maritime disasters. The area where the Gulf Stream and Labrador Current meet creates strong, unpredictable currents that can run 2–4 knots or more. For divers, the shoals and immediately surrounding seafloor are notable for the concentration of historic wrecks in the vicinity, and for the rich marine life attracted by the current convergence. The shoals themselves are not a formal dive destination — they are a broad shallow feature best understood as the geographic context for the Cape Hatteras wreck diving scene.
+Diamond Shoals is a dive site in North Carolina offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
 
 ## Site Information
 
-- **Location**: 14 miles southeast of Cape Hatteras Point, Outer Banks, North Carolina
+- **Location**: North Carolina, North America
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: Highly variable — 5–15 meters in Gulf Stream influence; much less in mixed water
-- **Current**: Strong and unpredictable — Gulf Stream/Labrador Current boundary; 2–4+ knots possible
-- **Water Temperature**: Highly variable — warm Gulf Stream water (24–28°C) can abruptly meet cold Labrador water (15–18°C)
-- **Best Season**: June to October for calmer weather windows; conditions never reliably benign
+- **Typical Visibility**: 5-25 meters (15-80 feet)
+- **Current**: Variable, can be strong
+- **Best Time**: June to October
 
 ## Marine Life
 
-The current convergence at Diamond Shoals creates one of the most productive feeding zones on the East Coast. Large pelagic species including bluefin tuna, wahoo, mahi-mahi, and marlin use the current boundary as a feeding lane. Sharks — including hammerheads, sand tigers, and sandbar sharks — are common. Bottlenose dolphins and loggerhead sea turtles frequent the area. The sandy shoal bottom supports southern stingrays, various skate species, and abundant invertebrates.
+Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
 
 ## Dive Profile
 
-Diving the shoals directly is rarely done due to the extreme current and shallow breaking seas. Most "Diamond Shoals" diving actually refers to the wrecks that have accumulated in the surrounding area as a result of the shoals' navigational hazard. Charter operators work the weather and tidal windows carefully to find periods of reduced current. The sandy bottom at 5–15 meters offers little structural relief, but current-driven marine life encounters can be exceptional.
+The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
-All access is by charter boat from Hatteras village. No shore diving is possible. This is a weather-dependent site where trips are cancelled frequently. Operators choose the most favorable tidal window — typically slack water. Strong current requires secure mooring or careful live-boat diving. SMBs are essential.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-- This site is best understood as the geographic center of the Cape Hatteras wreck diving region — most divers target specific wrecks in this area rather than the shoals themselves
-- Check weather and sea forecasts carefully — Diamond Shoals conditions can deteriorate rapidly
-- Hire only experienced Hatteras-based operators who know the tidal windows
-- Drift diving skills and strong SMB deployment abilities are essential
-- The Cape Hatteras Lighthouse (tallest in the U.S.) is visible from the water on clear days — a memorable surface interval landmark
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
+- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
-Strong unpredictable current, shallow breaking seas, and distance from shore make Diamond Shoals one of the most demanding dive environments on the East Coast. This is an Advanced-rated environment requiring proven current-diving experience. Always dive with a local expert captain who knows the site intimately.
+Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-Pelagic encounters — sharks, turtles, and large game fish — are the primary photographic draw. Wide-angle with fast shutter speeds to freeze action in the current is the appropriate setup. The turbid mixed water can be challenging for ambient-light photography.
+This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
 ## Additional Resources
 
-- **NOAA Graveyard of the Atlantic**: https://sanctuaries.noaa.gov/
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*Researched from NOAA Marine Sanctuaries, Dive In destination guide, and regional dive operator information. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

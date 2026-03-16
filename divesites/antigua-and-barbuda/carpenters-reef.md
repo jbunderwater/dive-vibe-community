@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Carpenter's Reef
 
-Also known as Carpenter's Rock, this is a drift dive site in Windward Bay featuring coral-covered boulders and strong resident marine life. The site requires specific conditions but rewards prepared divers with excellent fish encounters.
+Carpenter's Reef is a drift dive site in Antigua and Barbuda, Caribbean.
 
 ## Overview
 
-A challenging but rewarding drift dive site, Carpenter's Reef is exposed to Atlantic conditions and accessed only in calm weather (mid-December to mid-May). The site features dramatic ridges and valleys with large coral-covered boulders and healthy marine life. The drift can be exhilarating with experienced dive guides.
+Carpenter's Reef is a dive site in Antigua and Barbuda offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Windward Bay, between Nanton Point and Stoney Cove (Antigua's east coast)
+- **Location**: Antigua and Barbuda, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Drift dive
+- **Site Type**: Drift
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 24 meters
-- **Typical Visibility**: 20-30 meters (65-100 feet)
-- **Current**: Moderate (drift dive conditions)
-- **Best Time**: Mid-December to mid-May (calm Atlantic weather required)
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Light to moderate
+- **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-The site features moray eels, nurse sharks, and invasive lionfish among and underneath the coral-covered boulders. Caribbean reef sharks, spotted eagle rays, green moray eels, Bermuda chub, and Atlantic blue tangs are frequently sighted. The boulder formations attract concentrations of fish life.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
 
 ## Dive Profile
 
-This is a drift dive where you descend into the ridges and valleys of coral-covered boulders, drifting across the site while exploring the formations. Descend to 20-24 meters and work the ridges and valleys, then ascend gradually with the current. The constant flow makes this an exhilarating dive requiring good buoyancy control and drift experience.
+The site offers diving at depths ranging from shallow reef areas down to approximately 24 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -44,11 +44,10 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Weather-dependent — check Atlantic conditions carefully before committing to this dive
-- Best for certified divers experienced with drift diving
-- Requires good buoyancy control due to the boulder formations and current
-- Excellent for photographers seeking dramatic wide-angle shots of the formations
-- Only accessible during the dry season window (mid-December to mid-May)
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 
@@ -60,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

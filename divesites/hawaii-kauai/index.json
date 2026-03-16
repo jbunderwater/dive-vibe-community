@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Koloa Landing",
+    "filename": "koloa-landing.md",
+    "lat": 21.8682,
+    "lng": -159.4276,
+    "difficulty": "Beginner",
+    "maxDepth": 18,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Sheraton Caverns",
+    "filename": "sheraton-caverns.md",
+    "lat": 21.8748,
+    "lng": -159.4505,
+    "difficulty": "Intermediate",
+    "maxDepth": 18,
+    "entryType": "boat",
+    "siteType": "cave",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "General Store",
+    "filename": "general-store.md",
+    "lat": 21.876,
+    "lng": -159.445,
+    "difficulty": "Intermediate",
+    "maxDepth": 20,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Brennecke's Ledge",
+    "filename": "brenneckes-ledge.md",
+    "lat": 21.873,
+    "lng": -159.439,
+    "difficulty": "Intermediate",
+    "maxDepth": 20,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Amber's Arches",
+    "filename": "ambers-arches.md",
+    "lat": 21.8755,
+    "lng": -159.453,
+    "difficulty": "Intermediate",
+    "maxDepth": 18,
+    "entryType": "boat",
+    "siteType": "cave",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Tunnels Beach (Makua)",
+    "filename": "tunnels-beach-makua.md",
+    "lat": 22.2203,
+    "lng": -159.5695,
+    "difficulty": "Beginner",
+    "maxDepth": 12,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Ni'ihau",
+    "filename": "niihau.md",
+    "lat": 21.9,
+    "lng": -160.15,
+    "difficulty": "Advanced",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Mana Crack",
+    "filename": "mana-crack.md",
+    "lat": 21.9551,
+    "lng": -159.7725,
+    "difficulty": "Advanced",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Kukuiula Bay",
+    "filename": "kukuiula-bay.md",
+    "lat": 21.8771,
+    "lng": -159.4825,
+    "difficulty": "Beginner",
+    "maxDepth": 10,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Prince Kuhio Beach",
+    "filename": "prince-kuhio-beach.md",
+    "lat": 21.8722,
+    "lng": -159.4326,
+    "difficulty": "Beginner",
+    "maxDepth": 10,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  }
+]

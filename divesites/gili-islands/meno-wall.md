@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Meno Wall
 
-Meno Wall is a spectacular drift dive featuring steep walls with vibrant coral formations, perfect for both macro and wide-angle photography on the east side of Gili Meno.
+Meno Wall is a wall dive site in Gili Islands, Asia.
 
 ## Overview
 
-The Meno Wall is a favorite Gili Islands drift dive known for its dramatic topography and beautiful coral coverage. Two sections of steep walls run from 5 meters down to 16-30 meters depending on the specific section, creating varied diving opportunities. The wall provides excellent macro habitat in crevices and overhangs, ideal for finding nudibranchs, crustaceans, and other small creatures. This site is often protected from strong currents and waves due to its location in the sheltered corner of Gili Meno, making it a reliable choice in variable weather. The combination of easy entry, stunning topography, and protected conditions makes Meno Wall suitable for Open Water and Advanced Adventurer training courses as well as leisurely exploration dives.
+Meno Wall is a dive site in Gili Islands featuring a dramatic vertical wall that drops into the deep blue . source is Diveschool Notice Board - Location might have to be checked with a GPS. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: East side of Gili Meno, Gili Islands
+- **Location**: Gili Islands, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, often protected from strong current
-- **Best Time**: April to October
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Meno Wall crawls with macro life on night dives — little crabs, lobsters, shrimp, and sleeping fish. Green and hawksbill sea turtles are common residents. Day dives reveal scorpion fish, nudibranchs, frogfish, and various crustaceans in the wall crevices. Reef sharks, trevally, and other pelagic species are occasional visitors in the blue water. The healthy coral formations support dense populations of reef fish at all depths.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-Enter and drift along the wall structure from 5 meters down. The two wall sections offer flexibility — you can explore the shallower section (5-16m) for macro photography and reef exploration, or descend deeper (to 30m) for wider perspectives of the wall architecture. Current varies from non-existent to strong, so be prepared to adapt. This site is excellent for night diving when nocturnal creatures emerge. The protected location and varied depth options make this suitable for intermediate training and recreational diving.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-30 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
@@ -61,7 +61,7 @@ Wall dives offer stunning wide-angle opportunities with dramatic depth perspecti
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

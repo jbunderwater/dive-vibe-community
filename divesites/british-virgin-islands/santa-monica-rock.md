@@ -13,32 +13,30 @@ addedBy: osm_import
 
 ## Santa Monica Rock
 
-Santa Monica Rock is a deep-water pinnacle dive site located 1.5 kilometers southeast of Norman Island. This spectacular underwater formation rises dramatically from the open ocean and offers pristine conditions, abundant pelagic life, and unique geological features including a distinctive "sink hole" that drops 8 meters into sand.
+Santa Monica Rock is a pinnacle dive site in British Virgin Islands, Caribbean.
 
 ## Overview
 
-Santa Monica Rock is a deepwater pinnacle site suitable for advanced divers with good depth experience. The craggy top, covered in delicate fire coral, sits just 6 meters below the surface and drops dramatically to depths exceeding 31 meters. The pinnacle is surrounded by blue water on all sides, creating excellent opportunities to encounter pelagic species. The south side features a dramatic gorgonian and sea fan-covered wall. This is one of the most exposed dive sites in the BVI and weather-dependent access is essential.
+Santa Monica Rock is a dive site in British Virgin Islands offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: 1.5 km southeast of Norman Island
+- **Location**: British Virgin Islands, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle/seamount
+- **Site Type**: Pinnacle
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 31 meters
-- **Shallow Point**: 6 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Variable, often moderate to strong
+- **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
-- **Conditions**: Exposed and weather-dependent; only accessible on calm days
 
 ## Marine Life
 
-Santa Monica Rock attracts an impressive diversity of large fish species. Common pelagic sightings include Atlantic spadefish, horse-eye jacks, kingfish, mackerel, barracuda, and crevalle jacks. Queen angelfish, black durgons, filefishes, groupers, and nurse sharks are resident species. Turtles and lobsters complete the diverse ecosystem. The abundance of large fish makes this site ideal for underwater photography of pelagic species.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
 
 ## Dive Profile
 
-Santa Monica Rock requires careful depth management. Begin at the pinnacle top (6 meters) and work down the walls to explore the distinctive sink hole and southern wall features. Bottom times at this depth are limited to 20-30 minutes for recreational diving. The exposed location means surface conditions can change rapidly—plan accordingly and maintain excellent buoyancy control. This is not a site for rushed dives; take time to observe the pelagic life patrolling the blue water beyond the pinnacle.
+The site offers diving at depths ranging from shallow reef areas down to approximately 31 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -46,15 +44,14 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Only dive Santa Monica Rock on calm days with experienced dive operators
-- Keep your hands to yourself—fire coral coverage is extensive
-- Bring an underwater camera for pelagic photography opportunities
-- Check weather and sea conditions before diving; this is an exposed site
-- Advanced divers only—this is a challenging dive with depth and exposure factors
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 
-Santa Monica Rock is exposed and weather-dependent. Be aware of variable currents, fire coral hazards, and significant depths. Dive within your advanced certification level and experience. Always dive with a buddy and carry a safety sausage (SMB). This site is not suitable for newly certified divers or those without deep diving experience.
+Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -62,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

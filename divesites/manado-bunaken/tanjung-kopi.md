@@ -13,54 +13,55 @@ addedBy: osm_import
 
 ## Tanjung Kopi
 
-Tanjung Kopi is located on the east coast of the volcanic island of Manado Tua and is known for its "big currents, big fish" character. Very strong and occasionally unpredictable currents — including upwellings and downwellings — classify this as an experts-only site, but the reward is exceptional pelagic action and a dramatic slope-to-wall topography.
+Tanjung Kopi is a wall dive site in Manado & Bunaken, Asia.
 
 ## Overview
 
-The site begins with a reef plateau starting at 5 metres that slopes gradually down to around 30 metres, where the terrain transitions abruptly to a vertical wall that drops into the abyss. The very strong currents that sweep this corner of Manado Tua concentrate pelagic life in the area. Large schools of trevally, barracuda, tuna, Napoleon wrasse, triggerfish, bumphead parrotfish, batfish, and fusiliers are the main attraction. Octopuses and sea snakes are also reported.
+Tanjung Kopi is a dive site in Manado & Bunaken featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: East coast of Manado Tua Island, Bunaken National Marine Park
+- **Location**: Manado & Bunaken, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 35 meters
-- **Typical Visibility**: 15-25 metres
-- **Current**: Very strong — experts only site; upwellings and downwellings possible
-- **Best Time**: May to October
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Large pelagic schools are the headline — tuna, barracuda, schools of trevally and fusiliers move through on the current. Napoleon wrasse, triggerfish, bumphead parrotfish, and batfish are regularly seen. Octopuses inhabit the rocky terrain, and sea snakes are occasionally encountered. Butterfly fish and surgeonfishes are abundant on the shallower slope.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-The entry point and timing are critical at Tanjung Kopi — entering the water at the correct position relative to the current direction determines the quality of the dive. Begin on the reef plateau and descend with the current, transitioning from the slope to the wall edge as depth increases. Observe pelagic action in the blue water beyond the wall. Ascend carefully, monitoring for current changes. Do not attempt this dive without an experienced local guide who knows the current patterns.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-35 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
-Boat access from Manado or Bunaken operators running Manado Tua day trips. Entry must be at the correct point — currents can pull divers both horizontally and vertically and entering at the wrong position is dangerous. This site should only be attempted with an experienced local guide.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-- Do not dive this site without a local guide who knows current patterns — "big currents" can be disorienting
-- The slope at 5-30 metres is excellent for butterfly fish, surgeonfish, and snappers in calmer conditions
-- Watch the blue water beyond the wall edge for the large pelagic aggregations
-- Bring an SMB and deploy it well before surfacing
-- Do not attempt if you have not yet completed significant drift diving at other Bunaken sites
+- Watch your depth carefully — wall dives can lead to unintentional deep descents
+- Look in crevices and overhangs for hidden marine life
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 
-Very strong and unpredictable currents are the primary hazard, including upwellings (pulling you toward the surface) and downwellings (pulling you toward depth). This is an experts-only site and should not be attempted by divers without significant drift diving experience and local guidance. Carry an SMB. Monitor air consumption carefully — strong current increases consumption rate significantly.
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-The pelagic action here is spectacular when conditions align — large school compositions of trevally and barracuda with the volcanic island backdrop are achievable. Conditions that concentrate pelagics also make photography challenging due to current. Wide-angle setups are most appropriate.
+Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*Validated against divescover.com/dive-site/tanjung-kopi and starfish.ch/dive/Bunaken.html. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

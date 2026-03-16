@@ -13,65 +13,55 @@ addedBy: osm_import
 
 ## TK1
 
-TK1 is the first of three muck dive sites in Teluk Kembahu (Kembahu Bay), a sheltered bay on the mainland side of the Lembeh Strait. The TK sites are historically significant in the diving world — it was here that the mimic octopus was first filmed performing its shape-shifting behavior. TK1 offers two distinct diving environments: a black sand slope with orange sponge patches and a deeper coral rubble section that attracts frogfish and large mantis shrimps.
+TK1 is a muck dive site in Lembeh Strait, Asia.
 
 ## Overview
 
-TK1 consists of a black sand flat starting at 3–5 meters that slopes gently to approximately 25 meters. Between 16 and 22 meters, a coral rubble patch hosts large cabbage-like sponges — the preferred habitat of giant and painted frogfish. Orange sponge patches in the mid-section (8–16 m) attract thorny seahorses and smaller frogfish. Low coral patches below 12 meters and small bommies in the shallows add habitat diversity. The bay's sheltered position means conditions are calm and accessible for all experience levels.
+TK1 is a dive site in Lembeh Strait offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Teluk Kembahu, mainland side, Lembeh Strait, North Sulawesi, Indonesia
+- **Location**: Lembeh Strait, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Muck dive
+- **Site Type**: Muck
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 5–12 meters
-- **Water Temperature**: 26–29°C
-- **Current**: Minimal; very sheltered bay
-- **Best Time**: Year-round
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-TK1 is best known for its frogfish diversity and as one of Lembeh's premier octopus sites. Regularly sighted species include:
-
-- **Giant frogfish** and **painted frogfish** — concentrated around the deep sponge patch at 16–22 m
-- **Thorny seahorses** — in and around orange sponge patches mid-slope
-- **Ribbon eels** — bright blue (male) and yellow (female) emerging from sand burrows
-- **Mantis shrimps** — large specimens found near the deep rubble patch, feeding on glassfish
-- **Cardinalfish and glassfish** schools — schooling in aggregations around sponges
-- **Longfin waspfish** (*Apistus carinatus*) — buried in sand, rarely spotted, TK1–3 are among the only sites where this species is reliably found
-- **Mimic octopus** — the TK bay was the original discovery site for this species
-- **Coconut octopus** and other cephalopods
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
 
 ## Dive Profile
 
-The dive begins over black sand in the shallows and follows the slope down to the deep sponge patch. The most active zone for frogfish is the rubble section between 16 and 22 meters. Work back up through the orange sponge patches for seahorses and smaller frogfish. Small bommies in the shallows are worth a slow pass for juvenile fish and nudibranchs. Total dive time of 45–60 minutes typically covers the full site.
+The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local Lembeh operators. Entry via giant stride or back roll. The sheltered bay conditions make this suitable for new divers and those working on buoyancy skills. SMB deployment during ascent is standard practice.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-- Look carefully at every sponge patch — frogfish are masters of disguise and often match their host sponge color exactly
-- Ribbon eels are often stationary in their burrows; photograph quickly as they retreat if approached too closely
-- Ask your guide specifically for the longfin waspfish — it requires experience to spot and is a prized sighting
-- The shallow bommies at the end of the dive hold nudibranchs worth scanning
-- TK1 is an excellent site for new divers to practice slow, deliberate movement and buoyancy control over the sandy slope
+- Excellent site for newer divers — calm conditions and easy navigation
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
+- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
-Currents are minimal due to the bay's sheltered position. Visibility can be reduced after rain events due to run-off from the village. Stonefish and scorpionfish may be present — never touch the sandy bottom. Maintain trim buoyancy to avoid silt disturbance.
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-TK1's combination of large, photogenic subjects (frogfish, ribbon eels) and small macro subjects (seahorses, shrimp) makes it versatile for photographers. Frogfish against sponge backgrounds suit 60mm and 100mm macro lenses. Ribbon eels emerging from burrows reward patience. The dark volcanic sand background works particularly well for close-focus wide-angle shots of larger subjects.
+This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
 ## Additional Resources
 
-- **Validated**: 2026-03-15
-- **Validation Sources**: nad-lembeh.com, lembehresort.com, infinitebluedivetravel.com
+- **Last Updated**: 2026-03-16
 
 ---
-*Dive site information researched from NAD-Lembeh Resort dive site blog, Lembeh Resort, and Infinite Blue Dive Travel. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

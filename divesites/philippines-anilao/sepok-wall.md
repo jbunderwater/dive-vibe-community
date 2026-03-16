@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Sepok Wall
 
-Sepok Wall is a scenic wall dive located west of Sepok Point at the northwest end of Maricaban Island, approximately 16 minutes by boat from shore.
+Sepok Wall is a wall dive site in Philippines Anilao, Asia.
 
 ## Overview
 
-Sepok Wall features a long vertical wall of solid rock dropping to significant depths. The shallow water teems with small reef fish, while the wall below contains larger reef species, barrel sponges, and colorful gorgonian sea fans. The site is known as a quiet escape offering calm conditions for both beginners and experienced divers who prefer peaceful, scenic diving. Normally an easy dive with good coral gardens in the shallow sections and a dramatic wall below.
+Sepok Wall is a dive site in Philippines Anilao featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: West of Sepok Point, Northwest Maricaban Island, Anilao
+- **Location**: Philippines Anilao, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
@@ -32,11 +32,11 @@ Sepok Wall features a long vertical wall of solid rock dropping to significant d
 
 ## Marine Life
 
-A multitude of nudibranch species inhabit the wall, including many members of the Chromodoris family. Small sand diver fish, gobies, frogfish, leaf fish, twin-spot lionfish, and scorpionfish are common. Sea cucumbers, gorgonians, and barrel sponges create microhabitats. The shallow water teems with profusion of small reef fish, while the deeper wall features larger reef species. This site is particularly renowned for nudibranchs and small critter photography.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-Begin in the shallow coral garden around 10-16 meters, then descend along the vertical wall. Visibility ranges from 10-20 meters. A slight to moderate current moves southwest. The shallow section offers colorful small fish and coral gardens, while the wall below features larger reef life and sponges. Most of the interesting features are found between 10-30 meters. Maintain good buoyancy control to avoid drifting too deep.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-30 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
@@ -53,7 +53,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Sepok Wall offers calm conditions and modest difficulty, making it suitable for beginner-to-intermediate divers. Slight to moderate current can be present but is manageable. Be aware of potential jellyfish and sea urchins. Dive within your certification limits and experience level. Carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -61,7 +61,7 @@ Wall dives offer stunning wide-angle opportunities with dramatic depth perspecti
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

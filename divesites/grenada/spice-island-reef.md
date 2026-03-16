@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Spice Island Reef
 
-Spice Island Reef is a beginner-friendly reef in Grenada, known as the Spice Island since the time of Columbus. This site offers accessible diving with healthy coral structures and abundant marine life in shallow water.
+Spice Island Reef is a reef dive site in Grenada, Caribbean.
 
 ## Overview
 
-Spice Island Reef is ideal for newer divers and those preferring shallow diving. Located off Grand Anse Beach near the Spice Island Beach Resort dive shop, this site reaches only 12 meters maximum depth, making it safe and comfortable for all skill levels. Located in the Caribbean region, this site offers excellent visibility with water temperatures averaging 26-29°C.
+Spice Island Reef is a dive site in Grenada offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

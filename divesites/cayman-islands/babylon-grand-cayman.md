@@ -13,20 +13,18 @@ addedBy: osm_import
 
 ## Babylon Grand Cayman
 
-Named after the Hanging Gardens of Babylon, this dramatic North Wall site features a towering freestanding pinnacle rising from over 100 meters to just 45 meters depth. Babylon is consistently ranked as one of the top 10 dive sites in the Caribbean and offers stunning wall formations, abundant marine life, and excellent pelagic encounters.
+Babylon Grand Cayman is a pinnacle dive site in Cayman Islands, Caribbean.
 
 ## Overview
 
-Babylon is one of Grand Cayman's most spectacular wall diving destinations, located on the North Wall and easily reachable from the western dive operations. The site's defining feature is a towering freestanding pinnacle decorated with black coral, purple sea fans, and barrel sponges. The main pinnacle rises dramatically from depths exceeding 100 meters to just 45 meters at its peak, with the wall top at approximately 35-45 feet. Turtles, eagle rays, and Caribbean reef sharks regularly cruise the wall face, while snappers, angelfish, and triggerfish populate the shallower sections.
+Babylon Grand Cayman is a dive site in Cayman Islands offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: North Wall, Grand Cayman, Caribbean
+- **Location**: Cayman Islands, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle/seamount
+- **Site Type**: Pinnacle
 - **Difficulty Level**: Intermediate
-- **Wall Top**: 35-45 meters (115-150 feet)
-- **Pinnacle Peak**: 45 meters (150 feet)
 - **Maximum Depth**: 45 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
@@ -34,11 +32,11 @@ Babylon is one of Grand Cayman's most spectacular wall diving destinations, loca
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
 
 ## Dive Profile
 
-Babylon dives begin with a descent to the wall top (35-45 meters). Divers then explore the pinnacle structure and wall face, typically limiting recreational dives to 40 meters maximum depth. The site allows for both deeper wall exploration by advanced divers and excellent shallow reef touring. Most divers circle the pinnacle, exploring its decorated sides and the main wall face. The deeper sections offer opportunities to encounter pelagic species in the blue water beyond the wall face. Typical dive duration is 40-50 minutes with proper air management.
+The site offers diving at depths ranging from shallow reef areas down to approximately 45 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -46,8 +44,6 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
 - Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
@@ -59,11 +55,11 @@ Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

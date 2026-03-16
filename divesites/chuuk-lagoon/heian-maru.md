@@ -13,52 +13,55 @@ addedBy: osm_import
 
 ## Heian Maru
 
-The largest diveable wreck in Chuuk Lagoon, the Heian Maru was once a luxury trans-Pacific passenger liner and later the Imperial Japanese Navy's frontline submarine tender, her forward holds still packed with submarine periscopes, torpedoes, and specialist equipment from the 6th Fleet.
+Heian Maru is a historic wreck dive in Chuuk Lagoon, Pacific.
 
 ## Overview
 
-Launched in 1930 for the NYK Line's Yokohama-to-Seattle service, the 163-metre (530-foot), 11,616-ton Heian Maru was requisitioned by the Imperial Japanese Navy in 1941 and converted into a submarine tender to service the IJN 6th Fleet's submarines with torpedoes, spare parts, provisions, and replacement crews. She also served as a floating command post during the secret 1943 evacuation of 5,000 Japanese troops from Kiska in the Aleutian Islands. On February 17, 1944, Operation Hailstone caught her anchored in the lagoon — TBF Avenger bombers from USS Yorktown, Bunker Hill, and Enterprise delivered multiple bomb and torpedo hits. She rolled to port and settled on the lagoon bottom, taking 18 men with her.
-
-At 11,616 tons she remains the largest wreck in the Ghost Fleet. Jacques Cousteau filmed here for his 1971 documentary *Lagoon of Lost Ships*, and his crew scrubbed the vessel's name clean of algae — the Heian Maru's name is still visible in both English and Kanji characters on the bow.
+Heian Maru is a dive site in Chuuk Lagoon featuring the wreck of the Heian Maru. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
-- **Location**: Chuuk Lagoon, Federated States of Micronesia
+- **Location**: Chuuk Lagoon, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 35 meters
-- **Typical Visibility**: 20–35 metres
-- **Water Temperature**: 28–30°C year-round
-- **Best Time**: Year-round; December to April for calmest conditions
-
-## What Divers See
-
-The wreck lies on its port side, making the starboard hull accessible at 10–15 metres while the port side rests in 35 metres. The sheer scale demands a minimum of two or three dives to explore adequately. Starting at the bow reveals the ship's name still clearly legible on the hull.
-
-Dropping into the forward holds at 20–30 metres reveals the wreck's defining feature: 15-metre-long submarine periscopes, rows of torpedoes that were never fired in combat, shells, and handling equipment used to service submarines. Elsewhere through the superstructure: china, telephones, radio equipment, medical kits, and beer bottles speak to life aboard a functioning naval base.
-
-The bridge at around 18 metres is expansive and well-preserved. The engine room, reachable through the interior, is cavernous. At the stern, two large propellers and a single rudder sit proud of the seabed. The wreck contains human remains and should be treated with appropriate respect.
-
-## Dive Profile
-
-Due to the port-side orientation, depths vary dramatically across the width of the hull. Plan the first dive on the bow and forward holds (20–30m), the second on the bridge and amidships section, the third on the engine room and stern if time permits. Navigation inside the wreck is complex — a local guide is strongly recommended.
+- **Typical Visibility**: 20-50 meters (65-160 feet)
+- **Current**: Moderate to strong
+- **Best Time**: April to November
 
 ## Marine Life
 
-The massive hull provides habitat for large schools of fish. Soft and hard corals encrust the starboard-facing surfaces that receive the most light. Reef sharks patrol the exterior, and turtles are regularly seen resting against the hull. The size of the structure means pelagic species including barracuda and jacks are frequently encountered.
+Divers at this site can expect to encounter coral growth, anemones, lionfish, scorpionfish, glassy sweepers, manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks. Additional species commonly sighted include sea turtles, napoleon wrasse, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+
+## Dive Profile
+
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 35 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+
+## Entry and Exit
+
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+
+## Tips and Recommendations
+
+- Bring a dive torch to illuminate wreck interiors and dark overhangs
+- Maintain proper buoyancy to avoid disturbing silt inside the wreck
+- Do not attempt penetration without proper training and equipment
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
 
 ## Safety Considerations
 
-The scale of this wreck creates genuine navigation challenges — it is easy to become disoriented inside the large interior spaces. A local guide with wreck specialty certification is essential for penetration. Human remains are present and must not be disturbed. All wrecks in Chuuk Lagoon are designated war graves. Always carry a dive torch and a reel/line for penetration.
+Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-The bow with its readable name in Kanji and English is an iconic wide-angle subject. The submarine periscopes and torpedo rows in the forward holds are unlike anything found at any other dive site in the world. Natural light penetrates from the starboard side, creating dramatic beam effects through the holds.
+The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*Validated against Wikipedia (Heian Maru, 1930), SS Thorfinn, Scuba Diving Earth, and Dirty Dozen Expeditions. Note: previously listed in OSM data as "Haian Maru" — correct name is Heian Maru. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Shark Island Fujairah
 
-Shark Island is a beginner-friendly reef dive site near Fujairah, featuring Anemone Gardens and diverse coral ecosystems.
+Shark Island Fujairah is a reef dive site in UAE - Fujairah, Middle East.
 
 ## Overview
 
-Shark Island and its adjacent Anemone Gardens feature soft coral reefs on sandy bottoms with excellent beginner accessibility. Typical depths range from 8-15 meters. The site is known for encounters with black-tipped reef sharks, moray eels, and vibrant soft coral species. This popular boat dive destination offers good visibility and calm conditions suitable for newer divers.
+Shark Island Fujairah is a dive site in UAE - Fujairah offering excellent diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
 
 ## Site Information
 
-- **Location**: UAE - Fujairah, northeast of main coast
+- **Location**: UAE - Fujairah, Middle East
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 15-20 meters
-- **Current**: Mild to moderate
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Moderate to strong
 - **Best Time**: September to May
 
 ## Marine Life
 
-Shark Island hosts dense soft coral colonies and is famous for anemone gardens teeming with clownfish. Black-tipped reef sharks are the area's namesake marine life and are commonly encountered. Moray eels, groupers, and various reef fish species populate the site. The sandy bottom supports garden eels and rays.
+Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
 
 ## Dive Profile
 
@@ -61,7 +61,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

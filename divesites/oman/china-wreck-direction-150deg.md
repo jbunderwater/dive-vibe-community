@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## China Wreck (direction 150deg)
 
-China Wreck is a wreck dive located near Salalah in Oman's southern Dhofar region.
+China Wreck (direction 150deg) is a historic wreck dive in Oman, Middle East.
 
 ## Overview
 
-China Wreck is a submerged wreck dive popular with operators based in Salalah. The site features a former ship wreck with interesting structure and marine life. Located near Mirbat, the dive offers moderate depth at around 25 meters with views of the wreck structure and marine encrustation. Water conditions vary seasonally, with relatively calm seas and good visibility during winter months (October-April).
+China Wreck (direction 150deg) is a dive site in Oman featuring the wreck of the China Wreck (direction 150deg). Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
 
 ## Site Information
 
-- **Location**: Mirbat area, Salalah, Dhofar region, Oman
+- **Location**: Oman, Middle East
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-20 meters (33-65 feet)
-- **Current**: Variable, strong currents common
-- **Best Time**: October-April
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Moderate to strong
+- **Best Time**: September to May
 
 ## Marine Life
 
-The wreck hosts abundant fish life including honeycomb moray eels, blue-spotted rays, eagle rays, turtles, scorpionfish, lionfish, and barracuda. Soft and hard coral growths encrust the wreck structure. Larger pelagic fish may be encountered depending on season and current conditions.
+Divers at this site can expect to encounter glassy sweepers, lionfish, groupers, coral growth, soft corals, whale sharks, manta rays, hammerhead sharks. Additional species commonly sighted include oceanic whitetip sharks, sea turtles, dolphins. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
 
 ## Dive Profile
 
-Descend to the wreck structure in the 20–25 meter range. Explore the exterior of the wreck, noting the orientation before diving. If trained for wreck penetration, entry points may be available. Monitor depth carefully and plan bottom time accordingly. Begin ascent with adequate air reserve for a safety stop. Strong currents may require current-awareness techniques and careful positioning.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 25 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -61,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

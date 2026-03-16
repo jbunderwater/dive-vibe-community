@@ -11,34 +11,28 @@ osmId: 7787294771
 addedBy: osm_import
 ---
 
-## Educational Underwater Trail Tripuljak
+## podmorska poučna staza Tripuljak
 
-This unique underwater educational trail in the Dalmatian region offers shallow-water swimming and snorkeling-focused experiences. Marked as an interpretive site for non-divers and beginner snorkelers, it provides an accessible introduction to underwater observation in the Adriatic.
+podmorska poučna staza Tripuljak is a reef dive site in Croatia, Europe.
 
 ## Overview
 
-The Educational Underwater Trail Tripuljak (podmorska poučna staza Tripuljak) is specifically designed for shallow-water swimming and underwater sightseeing experiences. Located at minimal depth (approximately 2 meters), it serves as a teaching site for underwater awareness, marine life observation, and non-technical water activities. The trail allows visitors to observe shallow Adriatic marine life and underwater environment without requiring diving certification.
+podmorska poučna staza Tripuljak is a dive site in Croatia offering excellent diving on healthy coral reef structures . swimming and underwater sightseeing in shallow water. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
 
 ## Site Information
 
-- **Location**: Tripuljak, Dalmatia, Southern Croatia
+- **Location**: Croatia, Europe
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Activity Type**: Snorkeling, swimming, non-diver underwater sightseeing
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 2 meters
-- **Typical Visibility**: Good in shallow water
-- **Current**: Very light
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Light to moderate
 - **Best Time**: May to October
-- **Access**: Suitable for all swimmers and snorkelers
 
 ## Marine Life
 
-At this shallow depth, common shallow-water species are visible: small reef fish, posidonia seagrass meadows, sea fans, shells, and other invertebrates. The area is a living classroom for marine observation suitable for families and non-divers.
-
-## Dive Profile
-
-This is not a traditional dive site—it's an educational trail where visitors walk through shallow water (2m) and observe the underwater environment. No diving skills required. Perfect for families with children, non-swimmers, and as an introduction to the underwater Adriatic.
+Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
 
 ## Dive Profile
 
@@ -66,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

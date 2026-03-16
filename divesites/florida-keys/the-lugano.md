@@ -2,9 +2,9 @@
 name: The Lugano
 lat: 25.4447988
 lng: -80.1192183
-difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+difficulty: Beginner
+maxDepth: 7.6
+entryType: boat
 siteType: wreck
 ref: null
 osmId: 10683545810
@@ -17,15 +17,15 @@ The Lugano is a historic wreck dive in Florida Keys, North America.
 
 ## Overview
 
-The Lugano is a dive site in Florida Keys featuring the wreck of the The Lugano. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The Lugano is a shallow wreck dive located on Long Reef south of The Mandalay in the Upper Keys. This partially intact wreck lies in 20-30 feet of water with its outline clearly visible, making it an excellent beginner wreck site. The wreck has created an artificial reef environment attracting diverse tropical fish and coral growth.
 
 ## Site Information
 
 - **Location**: Florida Keys, North America
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 7.6 meters
 - **Typical Visibility**: 5-25 meters (15-80 feet)
 - **Current**: Variable, can be strong
 - **Best Time**: June to October
@@ -36,20 +36,20 @@ Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eel
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 25 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The Lugano wreck lies in shallow 20-30 feet of water with good visibility and visibility conditions. The wreck's visible outline makes it easy to navigate and explore. Divers can circumnavigate the wreck structure and examine the encrusted surfaces supporting diverse aquatic life. The shallow depth and clear profile make this an ideal site for recreational diving and photography.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
+- Excellent site for newer divers — calm conditions and easy navigation
 - Bring a dive torch to illuminate wreck interiors and dark overhangs
 - Maintain proper buoyancy to avoid disturbing silt inside the wreck
 - Do not attempt penetration without proper training and equipment
+- Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 
@@ -61,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

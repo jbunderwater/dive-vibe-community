@@ -13,24 +13,22 @@ addedBy: osm_import
 
 ## Sonesta Plane Wreck
 
-The Sonesta Airplanes consist of two intentionally sunk aircraft creating an artificial reef dive site unique in the Caribbean. The site features a Convair 240 and a YS-11, accessible to both beginner and intermediate divers.
+Sonesta Plane Wreck is a historic wreck dive in Aruba, Caribbean.
 
 ## Overview
 
-The Sonesta Plane Wrecks offer a distinctive diving experience featuring two different aircraft sunk intentionally to create an artificial reef. The Beech 18 sits in shallow water (5 meters) on a sloping reef dropping to 30+ meters, while the Convair 240 rests at 12 meters with its tail section reaching 14 meters. The YS-11 came to rest at 14 meters with its tail at 23 meters. The relatively shallow depths and intact aircraft structures make this site accessible to both beginner and intermediate divers. The aircraft provide excellent macro photography subjects and shelter a developing marine ecosystem. The site's uniqueness as one of the few multi-aircraft wreck dives in the region makes it a popular tourist attraction for recreational diving.
+Sonesta Plane Wreck is a dive site in Aruba featuring the wreck of the Sonesta Plane Wreck . Two intentional aircraft sinks: Convair 240 (12m), Beech 18 (5m), YS-11 (14m), beginner to intermediate. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
 - **Location**: Aruba, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
-- **Aircraft Types**: Beech 18 (shallow 5m), Convair 240 (12m), YS-11 (14m)
-- **Typical Visibility**: 15-25 meters (50-80 feet)
+- **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
-- **Special Features**: Multiple intact aircraft structures
 
 ## Marine Life
 
@@ -38,7 +36,7 @@ Divers at this site can expect to encounter groupers, snappers, soldierfish, gla
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 8 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 12 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -63,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

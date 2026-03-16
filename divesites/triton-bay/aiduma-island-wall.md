@@ -13,52 +13,47 @@ addedBy: osm_import
 
 ## Aiduma Island Wall
 
-Aiduma Island Wall is an Advanced wall dive at Triton Bay Divers resort on Aiduma Island. This site features drift and wall diving options with excellent bommies (isolated coral formations), black coral structures, and critter-hunting opportunities. The site is part of the world-class dive site collection surrounding Aiduma Island in the Iris Strait.
+Aiduma Island Wall is a wall dive site in Triton Bay, Asia.
 
 ## Overview
 
-Aiduma Island, home to the only dedicated dive resort in Triton Bay (Triton Bay Divers), offers multiple dive site options within the Iris Strait and surrounding waters. The island itself hosts wall and drift dive sites with dramatic vertical structures, massive boulder formations draped in soft coral, and black coral bushes. Most dive sites are concentrated in and around the Iris Strait between Aiduma and the mainland. The location provides access to over 30 identified dive sites with many more yet to be explored. This site represents the Advanced level of diving in the Iris Strait system.
+Aiduma Island Wall is a dive site in Triton Bay featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Aiduma Island, Iris Strait, Triton Bay, West Papua
+- **Location**: Triton Bay, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-20 meters (30-65 feet)
-- **Current**: Medium to strong (nutrient delivery system)
-- **Best Time**: October to April (season dependent on local conditions)
-- **Water Temperature**: 27-30°C
-- **Access**: Triton Bay Divers resort (only dedicated resort in Triton Bay)
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-The Iris Strait's nutrient-rich currents concentrate fish life densely. Expect schooling jacks, barracuda, trevally, snappers, sweetlips, and abundant reef fish in the water column. Giant groupers, Napoleon wrasse, and hunting predators inhabit the deeper wall sections and bommies. Black coral bushes provide shelter for ambush hunters. Macro critters including nudibranchs, shrimp, and crevice dwellers reward investigation of coral details. Eagle rays, manta rays, and occasional whale sharks are possible. The dive sites support over 1,000 fish species and 471 coral species.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-Descend to the wall top (12-18 meters) and explore the wall structure progressively to 30 meters. Investigate bommies and black coral formations for hidden fish and critter habitat. Use the wall itself as a reference point for navigation in the current. The middle section of your dive should focus on deeper (20-30 meter) wall exploration. Reserve the final portion for shallower exploration and safety stops. Most interesting features are found between 15-30 meters.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-30 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
-Access is by dive boat departing from Triton Bay Divers resort on Aiduma Island. Entry is via giant stride or back roll. Descend along the wall or bommies as natural reference points. Expect moderate to strong currents; follow guide direction for current management. Deploy a surface marker buoy (SMB) during your safety stop. Maintain constant buddy contact and communication with boat crew.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-- Advanced certification is essential; wall diving requires strong depth management
-- Pre-dive briefing on current direction is critical
-- Scout wall crevices and black coral for hidden fish activity
-- Investigate bommies for critter habitat and large groupers
-- Bring both wide-angle (for walls/bommies) and macro equipment
-- Monitor depth gauge continuously; walls encourage unintentional deep descents
-- Plan dive profiles carefully given the depth and current
-- This site is best reserved for Advanced or experienced Intermediate divers
-- Check with resort on current seasonal conditions and site suitability
+- Watch your depth carefully — wall dives can lead to unintentional deep descents
+- Look in crevices and overhangs for hidden marine life
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 
-Advanced certification is required due to depth, current, and diving complexity. Strong currents are characteristic and beneficial to the ecosystem but represent a hazard—understand current direction and maintain awareness. Active depth management is essential at wall dives. Monitor air consumption carefully at depth. Maintain visual contact with your buddy at all times. Be prepared to ascend if conditions exceed pre-briefing parameters. The remote liveaboard/resort location requires reliable communication with dive boat crew. Abort dives if currents exceed comfortable parameters or if you exceed personal depth/air limits.
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -66,7 +61,7 @@ Wall dives offer stunning wide-angle opportunities with dramatic depth perspecti
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

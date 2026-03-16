@@ -13,22 +13,22 @@ addedBy: osm_import
 
 ## French Cap Cay
 
-French Cap Cay (also called Frenchcap or Frenchman's Cap) is a remote offshore islet south of St. Thomas, featuring one of the healthiest reefs in the USVI.
+French Cap Cay is a reef dive site in US Virgin Islands, Caribbean.
 
 ## Overview
 
-French Cap is accessible by a 30-minute boat ride in flat-calm conditions only, making it an advanced-only destination due to sea state requirements. The pinnacle at the reef top sits in just 12 meters, but the average dive depth reaches 23 meters with easy access to 37 meters. The reef is in exceptional condition with approximately 100% living coral—rare in today's world. Visibility is absolutely incredible, commonly reaching 30+ meters with striking cobalt blue water. The site features multiple dive areas including "The Cathedral" and "the Ledges," making multi-dive trips worthwhile for serious reef exploration.
+French Cap Cay is a dive site in US Virgin Islands offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: South of St. Thomas, US Virgin Islands, Caribbean
+- **Location**: US Virgin Islands, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 23 meters
-- **Typical Visibility**: 30+ meters (100+ feet)
-- **Current**: Moderate to strong
-- **Best Time**: December to April (flat-calm conditions only)
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Light to moderate
+- **Best Time**: December to April (dry season)
 
 ## Marine Life
 
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter sea turtles (green, hawksbill), sout
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 22 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 23 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -51,7 +51,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -59,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

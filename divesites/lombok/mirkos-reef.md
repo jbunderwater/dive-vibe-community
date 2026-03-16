@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Mirkos Reef
 
-Mirkos Reef is a seamount off Gili Meno's east side featuring stunning coral gardens and a memorial to a fallen diver, stretching from 12m to 35m with exceptional visibility.
+Mirkos Reef is a reef dive site in Lombok, Asia.
 
 ## Overview
 
-Mirkos Reef lies between Gili Air and Gili Meno and is home to some of the Gili Islands' most stunning coral gardens. The reef is a long seamount stretching along the entire east side of Gili Meno, at greater depth than many surrounding sites, which may contribute to its outstanding coral cover. The combination of hard and soft coral creates an excellent habitat for large and small marine life, starting at 45 feet (12 meters) and flowing down to 120 feet (35 meters). A huge M statue placed at this site serves as a memorial to a diver named Mirkos, giving the reef its name.
+Mirkos Reef is a dive site in Lombok offering rewarding diving on healthy coral reef structures . source is Diveschool Notice Board - Location might have to be checked with a GPS. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
@@ -32,11 +32,11 @@ Mirkos Reef lies between Gili Air and Gili Meno and is home to some of the Gili 
 
 ## Marine Life
 
-Mirkos Reef supports schooling fusiliers and snappers overhead, blue-spotted ribbon-tailed rays hiding under coral overhangs, giant frogfish camouflaged among sponges, and white tip reef sharks cruising the ridges. The combination of hard and soft corals provides excellent habitat for a diverse marine community with both resident and mobile species.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 35 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

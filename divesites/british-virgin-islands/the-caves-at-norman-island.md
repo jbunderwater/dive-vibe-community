@@ -13,31 +13,30 @@ addedBy: osm_import
 
 ## The Caves at Norman Island
 
-The Caves at Norman Island are three water-level sea caves located at the base of cliffs on the western edge of The Bight at Norman Island. This historic site inspired Robert Louis Stevenson's famous novel "Treasure Island" and reportedly harbored actual pirate treasure in 1750. Today, the caves offer a unique combination of snorkeling and diving experiences with an atmosphere reminiscent of night diving when exploring deeper into the cave passages.
+The Caves at Norman Island is a cave dive site in British Virgin Islands, Caribbean.
 
 ## Overview
 
-The site features three distinct cave openings, each extending into the cliff face. The first cave penetrates approximately 27 meters into the cliff, while the others are shorter but equally impressive. The caves are water-level features beginning at the surface, making them highly accessible to snorkelers and beginning divers. The shallow depths and protected location make this an ideal beginner-friendly site. The adventure of exploring cave passages in relatively shallow water, combined with the historical significance and excellent light conditions for photography, makes this a favorite among cruisers and tourists.
+The Caves at Norman Island is a dive site in British Virgin Islands featuring underwater cave and cavern formations. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Western edge of The Bight, Norman Island
+- **Location**: British Virgin Islands, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/cavern
+- **Site Type**: Cave/Cavern
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 9 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light
+- **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
-- **Special Features**: Water-level caves accessible to snorkelers; natural light in outer passages, darkness in deeper caves
 
 ## Marine Life
 
-The cave environment attracts species adapted to low-light conditions, including colorful schooling fish, crustaceans, and fish seeking protection in the overhangs. Common sightings include parrotfish, angelfish, grunts, and various small reef fish species. Sea turtles and rays are occasionally spotted in the surrounding waters.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 9 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-9 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -61,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

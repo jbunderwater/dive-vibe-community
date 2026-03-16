@@ -11,19 +11,19 @@ osmId: 663869869
 addedBy: osm_import
 ---
 
-## Blue Hole (Dahab)
+## Blue Hole
 
-The Blue Hole is an extreme technical diving site located near Dahab on the southeast Sinai coast. With a maximum depth exceeding 100 meters and an infamous reputation, this site requires specialized training and equipment. It is one of the world's most dangerous dive locations due to numerous fatalities from attempted descents through "The Arch," a submerged tunnel at extreme depth.
+Blue Hole is a cave dive site in Red Sea, Middle East.
 
 ## Overview
 
-This unique diving location features a shallow opening to the sea around 6 meters deep (called "the Saddle"), with a central hole dropping to over 100 meters. The most dangerous feature is "The Arch," a 26-meter submerged tunnel whose ceiling is at 55 meters and bottom at 120 meters. Recreational divers can explore the shallow sections and surrounding reefs, but any attempt to transit The Arch or descend beyond recreational limits requires technical diving certification and is extremely risky.
+Blue Hole is a dive site in Red Sea featuring underwater cave and cavern formations. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
 
 ## Site Information
 
 - **Location**: Red Sea, Middle East
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/cavern
+- **Site Type**: Cave/Cavern
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 100 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
@@ -36,16 +36,15 @@ Divers at this site can expect to encounter whale sharks, manta rays, hammerhead
 
 ## Dive Profile
 
-Recreational dives focus on the shallow "Saddle" section around 6 meters and the surrounding house reef. Descend along the outer wall and reef sections, staying within 20-30 meters maximum depth. Avoid approaching The Arch opening or attempting any deeper explorations.
-
-For technical/advanced recreational divers with Deep Diver and Cavern Diver training (minimum), explorations down the wall can extend to 40 meters. However, penetrating The Arch or depths beyond 50 meters requires full technical diving certification (Tech 60 minimum), specialized rebreather training, and backup gas supplies. Multiple safety systems and guides are essential for any advanced profiles.
+The site offers diving at depths ranging from shallow reef areas down to approximately 100 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
+- Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
 - Respect marine life and maintain proper buoyancy to protect the reef
@@ -53,7 +52,7 @@ Enter from the shore following established entry points. Check conditions before
 
 ## Safety Considerations
 
-CRITICAL: This site has resulted in numerous fatalities. The Arch and deeper sections claim experienced divers regularly. Recreational divers should ONLY dive the shallow Saddle and surrounding reef. The psychological challenge of the hole and the temptation to exceed training limits has led to many tragic accidents. Never attempt to enter The Arch or exceed your certification depth limits. This site is known for nitrogen narcosis, decompression sickness, and overhead diving hazards. Always dive with experienced local guides familiar with safety protocols and rescue procedures.
+Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -61,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

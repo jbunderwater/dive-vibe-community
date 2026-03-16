@@ -13,17 +13,17 @@ addedBy: osm_import
 
 ## Buoyancy
 
-Buoyancy World is an island-wide community project designed to create a scuba diving-specific training dive site to take pressure off natural coral reefs. The site features artificial structures including a giant octopus, sharks, turtles, and fish made of concrete, along with tunnels, hoops, and an obstacle course where divers can practice and refine buoyancy control without damaging marine life.
+Buoyancy is a artificial_reef dive site in Koh Tao, Asia.
 
 ## Overview
 
-Buoyancy World is a dedicated training site offering a unique artificial reef environment specifically designed for buoyancy practice and skill development. The innovative concrete structures provide engaging underwater objects for interaction and exploration while protecting natural reefs from training impacts. The site offers excellent opportunities for safe buoyancy and fine-motor skill practice. Visibility ranges from 10-40 meters with water temperatures averaging 26-30°C year-round.
+Buoyancy is a dive site in Koh Tao offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
 - **Location**: Koh Tao, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Artificial_reef
+- **Site Type**: Artificial_Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
@@ -61,7 +61,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

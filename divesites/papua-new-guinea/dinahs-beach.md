@@ -13,17 +13,17 @@ addedBy: osm_import
 
 ## Dinah's Beach
 
-Dinah's Beach is a reef dive site in Papua New Guinea, Pacific.
+Dinah's Beach is a muck dive site in Papua New Guinea, Pacific.
 
 ## Overview
 
-Dinah's Beach is the world's original muck diving site and the birthplace of muck diving as a discipline. Named after Dinah Halstead, this Milne Bay treasure features rotting tree trunks, heaps of coral rubble, and sandy slopes loaded with specialized critters. The site is shallow (10-30 meters) with excellent opportunities for macro photography, hosting pygmy lionfish, cockatoo waspfish, mantis shrimp, various octopus species, Coleman shrimp, and numerous nudibranchs.
+Dinah's Beach is a dive site in Papua New Guinea offering excellent diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
 - **Location**: Papua New Guinea, Pacific
 - **Entry Type**: Shore entry
-- **Site Type**: Muck dive
+- **Site Type**: Muck
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)
@@ -32,11 +32,11 @@ Dinah's Beach is the world's original muck diving site and the birthplace of muc
 
 ## Marine Life
 
-Dinah's Beach is a critter-diver's paradise. Expect to find various octopus species including mimic octopus, Coleman shrimp, dragon needlefish, star gazers, snake eels, cuttlefish, pygmy lionfish, cockatoo waspfish, fire urchins, and numerous colorful nudibranchs. The muck environment attracts specialized and sometimes rare species that prefer this substrate over traditional coral reefs.
+Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

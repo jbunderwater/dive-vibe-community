@@ -13,32 +13,30 @@ addedBy: osm_import
 
 ## Francesca da Rimini
 
-Francesca da Rimini is a deep, challenging World War II-era cargo ship wreck located off the island of Kaprije in central Croatia. This Italian warship was torpedoed and sunk by British Spitfire bombers in March 1944 while carrying weapons and ammunition. The well-preserved wreck offers an historically significant and technically demanding dive experience.
+Francesca da Rimini is a historic wreck dive in Croatia, Europe.
 
 ## Overview
 
-Built in Rijeka in 1942 as a 42m cargo warship, the Francesca da Rimini sank on March 22, 1944 after being bombed by Allied forces. The wreck lies upright on the seabed with three masts, two of which are broken in the sand and one rising upright to 28 meters. The ship is extremely well preserved, though diving it requires advanced skills due to depth and proximity to the north coast of Kaprije, creating challenging conditions with unpredictable currents.
+Francesca da Rimini is a dive site in Croatia featuring the wreck of the Francesca da Rimini which sank in 24.01.1944. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
 
 ## Site Information
 
-- **Location**: Off Kaprije Island, Central Croatia (Adriatic Sea)
+- **Location**: Croatia, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Advanced
-- **Depth Range**: 38-50 meters (stern at 38m, deeper sections to 50m)
-- **Mast Height**: Upright mast reaches to 28 meters
-- **Typical Visibility**: 10-40 meters depending on season
-- **Current**: Moderate to strong (north coast exposure)
-- **Best Time**: May to September (summer/early fall)
-- **Historical Significance**: Italian cargo vessel seized by Nazi Germany; sunk during WWII
+- **Maximum Depth**: 50 meters
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Light to moderate
+- **Best Time**: May to October
 
 ## Marine Life
 
-The wreck is encrusted with sponges and soft corals, creating a colorful artificial reef. Conger eels, lobsters, scorpionfish, and Mediterranean groupers inhabit the wreck structure. The hull plates support vibrant growth of red and orange moss animals. Barracuda and sea bream are common around the exterior.
+Divers at this site can expect to encounter conger eels, lobsters, crabs, anemones, coral encrustation, groupers, moray eels, octopus. Additional species commonly sighted include barracuda, sea bream, amberjack. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
 
 ## Dive Profile
 
-This is an advanced technical dive requiring careful planning. Descent to 38-50 meters takes approximately 3-4 minutes. The maximum bottom time is severely limited at these depths—calculate your no-decompression limits carefully. The upright mast (to 28m) offers shallower exploration options. Check local conditions with operators before diving, as currents near Kaprije can be unpredictable. Plan adequate reserve gas for safety stops at 5 meters.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 50 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -55,7 +53,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -63,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

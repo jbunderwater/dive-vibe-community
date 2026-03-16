@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Whale Rock
 
-Dramatic pelagic pinnacle site in Grand Bay with strong currents and prolific hammerhead shark encounters. Deep reef structure extending beyond 30 meters with excellent sea fan coverage. For experienced drift divers only.
+Whale Rock is a pinnacle dive site in Mauritius, Africa.
 
 ## Overview
 
-Whale Rock sits just beyond the outer reef off Pointe aux Cannoniers in Grand Bay, accessible only to experienced divers comfortable with strong currents and deep diving. The site is a pelagic hotspot known for thrilling encounters with hammerhead sharks and manta rays. Strong currents reveal the majesty of oceanic life, making this an advanced drift dive for divers with deep and drift certifications.
+Whale Rock is a dive site in Mauritius offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
 
 ## Site Information
 
-- **Location**: Grand Bay, off Pointe aux Cannoniers, North Mauritius
+- **Location**: Mauritius, Africa
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle/seamount
+- **Site Type**: Pinnacle
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 32 meters
-- **Typical Visibility**: 15-25 meters (50-80 feet)
-- **Current**: Strong to very strong
-- **Best Time**: Year-round; October to April offers calmest conditions
+- **Typical Visibility**: 10-30 meters (30-100 feet)
+- **Current**: Moderate to strong
+- **Best Time**: October to March (East Africa), varies by location
 
 ## Marine Life
 
-At 20 meters, common sightings include clownfish, wrasses, parrotfish, small moray eels, triggerfish, butterflyfish, and angelfish. Deeper areas (20-32m) host small sharks, large pufferfish, leopard morays, and stonefish. The site is renowned for pelagic encounters: hammerhead sharks, manta rays, jacks, barracuda, and occasional whale sharks. Sea fans, black corals, and soft corals blanket the structure. A notable anchor encrusted with sea fans marks the site.
+Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
 
 ## Dive Profile
 
-This is a drift dive requiring strong current management skills. Descend along the anchor/structure to 20-25 meters and drift with the current observing the reef face and pelagic zone. Experienced divers may venture deeper to 32+ meters but must monitor bottom time and air closely. Allow 30-40 minute bottom times with conservative air margins. The strong current requires excellent buoyancy control and situational awareness throughout the dive.
+The site offers diving at depths ranging from shallow reef areas down to approximately 32 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -52,7 +52,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, remote locations in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of strong currents, jellyfish, remote locations in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

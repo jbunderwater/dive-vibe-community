@@ -13,36 +13,30 @@ addedBy: osm_import
 
 ## Plavi Jadran
 
-Plavi Jadran is a recent shipwreck offering beginners an accessible introduction to wreck diving in the Adriatic. This 30-meter cargo ship sank in 2018 following a collision off the island of Prvić in central Croatia, creating a young but already colonizing artificial reef habitat.
+Plavi Jadran is a historic wreck dive in Croatia, Europe.
 
 ## Overview
 
-On January 31, 2018, the Plavi Jadran (a 30-meter cargo ship) collided with the passenger ferry Tijata operated by Jadrolinija. The cargo ship sank rapidly, resting on the seabed at a depth of approximately 20-22 meters. The ship carried two crew members (captain and owner) and one additional crew member at the time of collision. All crew members survived the incident. As a very recent wreck, the Plavi Jadran still retains good structural integrity and provides accessible wreck diving suitable for recreational divers with proper training.
+Plavi Jadran is a dive site in Croatia featuring the wreck of the Plavi Jadran which sank in 2018-01-31. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
 
 ## Site Information
 
-- **Location**: Off Prvić Island, Central Croatia (Adriatic Sea)
+- **Location**: Croatia, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Beginner
-- **Depth**: 20-22 meters (very accessible depth)
-- **Wreck Dimensions**: 30 meters long
-- **Typical Visibility**: 10-30 meters
+- **Maximum Depth**: 22 meters
+- **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: May to October
-- **Historical**: Recent sinking (2018) provides excellent teaching opportunity
 
 ## Marine Life
 
-The wreck is beginning to accumulate marine colonization. Fish are already taking shelter in structural cavities. Soft corals and sponges will increasingly colonize the hull as years pass. Currently, it serves as a growing artificial reef with developing biological communities.
+Divers at this site can expect to encounter conger eels, lobsters, crabs, anemones, coral encrustation, groupers, moray eels, octopus. Additional species commonly sighted include barracuda, sea bream, amberjack. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
 
 ## Dive Profile
 
-The shallow depth (20-22m) allows recreational divers with proper training to explore the wreck with good bottom time. The structure is relatively accessible for beginners. Maintain proper buoyancy to avoid silt disturbance. The recent sinking means fewer encrusting organisms, making structural details clearly visible.
-
-## Historical Note
-
-This wreck represents a recent maritime incident. Both the Plavi Jadran and Tijata were affected; crews were rescued safely. The wreck has become a valuable training and tourism dive site.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 22 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -50,12 +44,12 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
+- Excellent site for newer divers — calm conditions and easy navigation
 - Bring a dive torch to illuminate wreck interiors and dark overhangs
 - Maintain proper buoyancy to avoid disturbing silt inside the wreck
 - Do not attempt penetration without proper training and equipment
 - Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
 
 ## Safety Considerations
 
@@ -67,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

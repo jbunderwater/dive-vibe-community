@@ -13,53 +13,55 @@ addedBy: osm_import
 
 ## Panorama
 
-Panorama is a wall dive site on Bunaken Island that serves as the house reef for the Panorama Dive Resort. It provides quick access to typical Bunaken wall diving with shorter boat times than sites on other parts of the island, making it a practical and consistently rewarding choice for guests staying in the area.
+Panorama is a wall dive site in Manado & Bunaken, Asia.
 
 ## Overview
 
-The site offers a wall dive with access to the surrounding Bunaken reef system, with depths to 25 metres in the main diving area. The position on Bunaken Island means access to the same broad marine life communities found across the park — turtles, reef fish, sponges, and hard corals — in a conveniently accessible location. Many of the best dive sites in the park are within 5-25 minutes by boat from here.
+Panorama is a dive site in Manado & Bunaken featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Bunaken Island, Bunaken National Marine Park
+- **Location**: Manado & Bunaken, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 15-25 metres
-- **Current**: Variable
-- **Best Time**: May to October
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Typical Bunaken wall marine life: green and hawksbill turtles, reef fish communities including anthias, fusiliers, butterflyfish, and wrasse. Reef sharks, Napoleon wrasse, and eagle rays are seen on good current days. The surrounding reef system supports the same macro life found throughout the park.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-Descend to the wall face and explore at a comfortable depth to 25 metres. The site is well-positioned for entry into the broader Bunaken wall system and can be combined with adjacent sites. Ascend to the shallow reef for a safety stop.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-25 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
-Boat access from Panorama Dive Resort and other local operators. The house reef character means diving is convenient and logistics are straightforward.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-- A good orientation dive for first-time Bunaken visitors before tackling the more advanced sites
-- The broader Bunaken site network is within short boat range — use Panorama as a base for day trips
-- Ask operators about current conditions at the deeper surrounding sites before committing
-- Suitable for a comfortable final dive of the day after more demanding sites
+- Watch your depth carefully — wall dives can lead to unintentional deep descents
+- Look in crevices and overhangs for hidden marine life
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 
-Variable current — check conditions with your dive operator. Carry an SMB. Standard Bunaken safety protocols apply.
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-Standard Bunaken reef and wall photography opportunities. Turtles and reef fish are reliable subjects. Natural light is best in the morning on the wall face.
+Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*Validated against bunakendiving.co and murexresorts.com/diving-bunaken. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

@@ -13,22 +13,22 @@ addedBy: osm_import
 
 ## Fish Head
 
-Fish Head is an advanced pinnacle dive site located in Ari Atoll, Maldives.
+Fish Head is a pinnacle dive site in Maldives, Asia.
 
 ## Overview
 
-Fish Head is one of the most famous and challenging dive sites in the Maldives. This submerged thila (pinnacle) rises from deep water and is renowned for encounters with large pelagic species including sharks, manta rays, and eagle rays. The site features steep drop-offs and strong currents that attract schooling fish and provide excellent photographic opportunities. Visibility typically ranges from 20-40 meters, with water temperatures averaging 26-29°C year-round.
+Fish Head is a renowned dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Ari Atoll, Maldives
+- **Location**: Maldives, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle/seamount
+- **Site Type**: Pinnacle
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Strong and predictable
-- **Best Time**: October to April (dry season)
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter manta rays, whale sharks, reef shark
 
 ## Dive Profile
 
-Fish Head is a vertical wall and pinnacle dive that requires strong buoyancy control and current awareness. Divers typically descend along the pinnacle to depths of 25-40 meters, where the thila drops off dramatically. The site features multiple levels with caves and overhangs at various depths. Advanced divers should be prepared for strong drift currents and plan accordingly. Multiple safety stops are recommended due to the depth and current conditions.
+The site offers diving at depths ranging from shallow reef areas down to approximately 40 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -44,17 +44,15 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Fish Head is best suited for Advanced divers with strong buoyancy control
-- Book with experienced operators familiar with strong current conditions
-- Use a surface marker buoy (SMB) and descent line if available
-- Time the dive to coincide with incoming current for optimal pelagic encounters
-- Bring a camera — the site offers excellent opportunities for shark and manta photography
-- Descent early to maximize bottom time with large pelagics
-- Maintain proper buoyancy to avoid accidental depth changes in current
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
+- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
-Strong currents are the primary hazard at Fish Head — this is an advanced site requiring current management skills. Do not dive here without Advanced certification or equivalent experience. Monitor your bottom time carefully due to depth. Be aware of disorientation risk in strong currents and maintain visual contact with your buddy at all times. Always carry an SMB and be prepared to ascend if conditions become unsafe. Decompression dives may be required depending on your profile.
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -62,8 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Website**: http://www.dive-links.com/tauchplatz.php?id=739
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

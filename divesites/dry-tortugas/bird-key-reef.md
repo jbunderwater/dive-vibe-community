@@ -13,55 +13,57 @@ addedBy: osm_import
 
 ## Bird Key Reef
 
-Bird Key Reef is a reef dive site in Dry Tortugas, North America.
+A shallow reef near an island famous for nesting seabirds, Bird Key Reef is an excellent beginner-friendly dive in Dry Tortugas with abundant marine life and colorful coral.
 
 ## Overview
 
-Bird Key Reef is a dive site in Dry Tortugas offering excellent diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Located near the small Bird Key island, this shallow reef is perfect for beginner divers and snorkelers. The site features healthy coral growth in crystal-clear water and offers excellent opportunities to observe tropical reef fish, coral structures, and occasionally sea turtles. The nearby Bird Key is protected habitat for nesting seabirds, adding ecological interest to the dive site. The shallow depth and exceptional visibility make this one of the most accessible dives in Dry Tortugas.
 
 ## Site Information
 
-- **Location**: Dry Tortugas, North America
+- **Location**: Near Bird Key, Dry Tortugas National Park, 70 miles west of Key West
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 10 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Typical Visibility**: 18-37 meters (60-120 feet)
+- **Current**: Variable, generally light to moderate
+- **Best Time**: May to September
+- **Water Temperature**: 26-29°C (79-84°F) summer
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Abundant tropical reef fish including parrotfish, angelfish, damselfish, triggerfish, and grouper. Healthy coral formations (stony and gorgonian) cover the reef. Nurse sharks, reef sharks, sea turtles, and occasionally barracuda. The healthy reef ecosystem attracts both herbivores and predators, creating excellent marine life viewing.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 10 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-10 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the reef at shallow depth and explore the coral formations and fish schools. The entire reef is at accessible depth (under 10 meters) perfect for extended bottom time and relaxed exploration. Cruise around the reef, observing fish behavior and coral detail. The shallow depth means extended air consumption time and excellent light for photography. No safety stop required due to shallow depth.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by boat from Key West operators. Entry via giant stride or back roll. The shallow depth and good visibility make navigation straightforward. Exit via boat pickup.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Perfect for beginner divers and snorkelers — shallow, clear, and fish-rich
+- The shallow depth allows 60+ minutes of bottom time at recreational levels
+- Bring a macro lens for detailed coral and fish photography
+- Bring a wide-angle lens for school photography and reef compositions
+- The site is accessible year-round but clearest May-September
+- Snorkelers can enjoy this site directly from the boat
+- Time your dive for slack tide for minimal current
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+This is one of the safest dives in Dry Tortugas with minimal hazards. The shallow depth requires minimal navigation and decompression considerations. Light currents and exceptional visibility make this beginner-friendly. Always dive with a buddy and respect the protected coral and seabird habitat.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The shallow, clear water and abundant fish schools create excellent wide-angle opportunities. The vibrant, intact coral formations provide strong subjects. Macro work on coral detail and small reef fish is exceptional. The shallow depth means excellent color saturation and natural lighting. One of the best beginner photography dive sites in Dry Tortugas.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Bottle Reef
 
-Bottle Reef is a coral reef dive site in the Bequia area of St. Vincent and the Grenadines, Caribbean.
+Bottle Reef is a reef dive site in St. Vincent and the Grenadines, Caribbean.
 
 ## Overview
 
-Bottle Reef offers rewarding diving on healthy coral reef structures with typical Caribbean reef fish and invertebrate species. Located in the Bequia diving zone, this site provides good opportunities for intermediate divers to experience the varied marine ecosystem of the southern Caribbean. The reef structure supports abundant marine life typical of this region, including reef fish, crustaceans, and coral formations at accessible intermediate depths.
+Bottle Reef is a dive site in St. Vincent and the Grenadines offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
@@ -59,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

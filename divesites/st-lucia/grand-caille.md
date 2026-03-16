@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Grand Caille
 
-Grand Caille (Patois for "Large Reef") is a dramatic wall dive featuring deep water gorgonians, sea whips, pristine corals, and spectacular sponge formations.
+Grand Caille is a wall dive site in St. Lucia, Caribbean.
 
 ## Overview
 
-Grand Caille is a long coral wall dive with depths varying from 12 to 40 meters, featuring deep water gorgonians and sea whips. The site is known for huge brain corals and barrel sponges in pristine conditions. This intermediate to advanced wall dive provides excellent depth variation and a variety of marine life viewing opportunities. The dramatic wall structure and healthy coral formations make this one of the more visually impressive dive sites in the St. Lucia region.
+Grand Caille is a dive site in St. Lucia featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Soufrière region, St. Lucia
+- **Location**: St. Lucia, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
@@ -32,11 +32,11 @@ Grand Caille is a long coral wall dive with depths varying from 12 to 40 meters,
 
 ## Marine Life
 
-Divers encounter sea turtles, southern stingrays, eagle rays, nurse sharks, and reef sharks. Schools of barracuda, parrotfish, and angelfish are common along the wall. The deep water sponges and gorgonians shelter blue tangs, trumpetfish, moray eels, and lobsters. The abundance of barrel sponges and brain corals creates habitat for smaller creatures and provides excellent macro photography subjects.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-Begin the dive along the reef top at shallower depths and gradually descend the wall. Most of the interesting features — the large brain corals, barrel sponges, and gorgonians — are found between 10-30 meters. The wall structure allows for excellent depth management and provides multiple depth options for different diver certification levels. Maintain good buoyancy control and monitor your depth gauge regularly.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-30 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
@@ -44,11 +44,12 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
+- Watch your depth carefully — wall dives can lead to unintentional deep descents
+- Look in crevices and overhangs for hidden marine life
 - Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the pristine corals
-- Watch your depth carefully on wall dives
+- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 
@@ -56,11 +57,11 @@ Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your
 
 ## Photography
 
-The dramatic coral formations, gorgonians, and sponges provide excellent wide-angle and macro photography subjects. The interplay of light and shadow along the wall creates compelling compositions. The pristine coral growth offers vibrant colors.
+Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Long Cay Wall
 
-Long Cay Wall is a dramatic wall dive site in Bocas del Toro, Caribbean. The site is located near the boundary of deeper offshore waters.
+Long Cay Wall is a wall dive site in Bocas del Toro, Caribbean.
 
 ## Overview
 
-Long Cay Wall features a distinctive vertical wall structure suitable for advanced divers. The wall provides dramatic topography, deeper diving challenges, and opportunities to encounter wall-associated marine life. This is a true wall dive requiring good depth management and experience.
+Long Cay Wall is a dive site in Bocas del Toro featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
@@ -61,7 +61,7 @@ Wall dives offer stunning wide-angle opportunities with dramatic depth perspecti
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

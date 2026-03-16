@@ -11,37 +11,40 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Barentsburg Coast — Russian Arctic Settlement Reef
+## Barentsburg Coast
 
-Diving at an inhabited Russian Arctic settlement.
+Barentsburg Coast is a reef dive site in Svalbard, Arctic.
 
 ## Overview
 
-Barentsburg is an active Russian settlement on Spitsbergen (population ~500) and one of only two inhabited Russian towns in Svalbard. The coastal waters offer Arctic reef diving to depths of 15 meters with good visibility (10-30 meters) and water temperatures 2-7°C. Access is by boat only from Longyearbyen or direct expedition vessels. The site offers unique cultural context as a working Russian community in the high Arctic, making for distinctive above-water experience combined with cold-water diving.
+Barentsburg Coast is a dive site in Svalbard offering rewarding diving on healthy coral reef structures. Located in the Arctic region, this site offers 10-30 meters of visibility with water temperatures averaging -1 to 8°C.
 
 ## Site Information
 
-- **Location**: Barentsburg, southern Spitsbergen
+- **Location**: Svalbard, Arctic
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 15 meters
-- **Water Temperature**: 2-7°C (36-45°F)
-- **Typical Visibility**: 10-30 meters
-- **Current**: Variable coastal currents
+- **Typical Visibility**: 10-30 meters (30-100 feet)
+- **Current**: Variable, tidal currents
 - **Best Time**: June to September
-- **Access**: Expedition boat from Longyearbyen or standalone cruises
 
 ## Marine Life
 
-Arctic kelp, anemones, starfish, sea urchins, and Arctic fish species inhabit the coastal reef. Seals are common; walruses and beluga whales may visit. The relatively sheltered location (compared to outer fjord sites) creates a less extreme diving environment while maintaining full Arctic conditions (2-7°C).
+Divers at this site can expect to encounter seals (harbor, bearded, ringed), walruses, beluga whales, narwhals, polar cod, sea anemones, soft corals, kelp forests. Additional species commonly sighted include sea urchins, starfish, crabs.
 
 ## Dive Profile
 
-Descend gradually to 12-15 meters along the kelp-covered reef. Explore the coastal structure and rock formations. The moderate depth allows conservative bottom time (45-50 minutes). Ascend gradually with proper safety stops. The dive is typically straightforward with minimal current, making it suitable for experienced Arctic divers starting their explorations.
+The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+
+## Entry and Exit
+
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
+- Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
 - Respect marine life and maintain proper buoyancy to protect the reef
@@ -56,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

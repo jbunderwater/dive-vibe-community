@@ -13,12 +13,11 @@ addedBy: osm_import
 
 ## Marita Shoals
 
-Marita Shoals is a shallow reef formation in Kwajalein lagoon. This site offers excellent opportunities for reef shark and eagle ray encounters in Kwajalein's rich marine environment.
-
+Marita Shoals is a reef dive site in Marshall Islands, Pacific.
 
 ## Overview
 
-Marita Shoals is a shallow reef formation in Kwajalein lagoon. This site offers excellent opportunities for reef shark and eagle ray encounters in Kwajalein's rich marine environment. This site offers visibility typically exceeding 30 meters, with water temperatures consistent at 27-30°C year-round.
+Marita Shoals is a dive site in Marshall Islands offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
@@ -61,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

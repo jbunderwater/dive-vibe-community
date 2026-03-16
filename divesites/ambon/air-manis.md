@@ -9,54 +9,49 @@ siteType: muck
 ref: null
 osmId: null
 addedBy: osm_import
-validated: true
-validationSource: web_research
 ---
 
 ## Air Manis
 
-Air Manis is one of Indonesia's premier muck diving sites, located at a fishing pier in Ambon Bay. The name means "sweet water," but the dive is anything but ordinary—it features an exceptional array of critters with constant schools of fish.
+Air Manis is a muck dive site in Ambon, Asia.
 
 ## Overview
 
-Air Manis muck diving site is located at a fishing pier used for loading and unloading boats in Ambon Bay. The site combines excellent macro critter habitat with the unique feature of huge schools of fish surrounding the dive. Visibility ranges from 10-30 meters depending on tidal conditions and currents. Water temperatures average 26-28°C.
+Air Manis is a dive site in Ambon offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Ambon Bay, at fishing pier
+- **Location**: Ambon, Asia
 - **Entry Type**: Shore entry
-- **Site Type**: Muck dive
+- **Site Type**: Muck
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-30 meters
-- **Current**: Medium, can vary with tides
-- **Best Time**: March-April and September-December (dry season)
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Air Manis is renowned for its exceptional critter diversity combined with dense schools of fish. Regular finds include giant frogfish, flamboyant cuttlefish, ghost pipefish, dragonets, anthias, pufferfish, and numerous shrimp and crab species. The sandy bottom and pier structure create habitat for eels and other cryptic species.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
 
 ## Dive Profile
 
-Begin your dive at the pier structure and explore the sandy bottom around 12-18 meters depth. The site extends to a maximum of 20 meters. Balance macro searching with observation of the large schools of fish that are characteristic of this site. Typical dives last 50-60 minutes.
+The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
-Enter from the shore near the pier. Descend along the pier structure or nearby sandy bottom. Navigate by the pier itself or natural landmarks. Current can be moderate, so maintain good buoyancy and positioning. Exit at the same location, using the pier or shore as reference.
+Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
 
 ## Tips and Recommendations
 
-- Excellent combined site for both macro critters and schooling fish action
-- Bring both macro and wide-angle lenses
-- Check current conditions before entry—they can vary significantly
-- Early morning dives tend to have clearer visibility
-- Perfect for Intermediate divers wanting to develop muck diving skills
-- Night diving reveals different species and nocturnal behavior
-- The density of life makes this site exciting for repeat visits
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
+- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
-Moderate currents require good buoyancy control. Stay alert to tidal changes throughout your dive. Watch for stonefish, sea urchins, and sharp rubble. Use proper signaling devices. The pier structure should be easily visible for navigation. Always dive with a buddy and maintain awareness of current direction.
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -64,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

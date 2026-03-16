@@ -13,22 +13,22 @@ addedBy: osm_import
 
 ## Captain Muddy
 
-Captain Muddy is a reef dive site off Nungwi in northern Zanzibar. This intermediate-level reef offers moderate depths and vibrant coral formations with good marine biodiversity.
+Captain Muddy is a reef dive site in Zanzibar, Africa.
 
 ## Overview
 
-Captain Muddy is a coral reef dive site in the Nungwi area on Zanzibar's north coast. The site features healthy reef structures at moderate depths with diverse tropical fish species. Suitable for intermediate divers seeking good visibility and well-established reef ecosystems. The north coast provides relatively protected diving conditions during the peak season.
+Captain Muddy is a dive site in Zanzibar offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
 
 ## Site Information
 
-- **Location**: Nungwi area, northern Unguja, Zanzibar
+- **Location**: Zanzibar, Africa
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-25 meters (33-82 feet)
-- **Current**: Light to moderate
-- **Best Time**: October to March (north coast)
+- **Typical Visibility**: 10-30 meters (30-100 feet)
+- **Current**: Moderate to strong
+- **Best Time**: October to March (East Africa), varies by location
 
 ## Marine Life
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

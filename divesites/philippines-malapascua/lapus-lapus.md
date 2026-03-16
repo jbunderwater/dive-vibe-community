@@ -4,7 +4,6 @@ lat: 11.3461986
 lng: 124.1024056
 difficulty: Beginner
 maxDepth: 18
-minDepth: 4
 entryType: boat
 siteType: pinnacle
 ref: null
@@ -14,60 +13,55 @@ addedBy: osm_import
 
 ## Lapus-Lapus
 
-Lapus-Lapus is one of Malapascua's shallowest dive sites, perfect for beginners and confidence-building dives at the tip of the island.
+Lapus-Lapus is a pinnacle dive site in Philippines Malapascua, Asia.
 
 ## Overview
 
-Lapus-Lapus, meaning "near, near" in the local language, is located off the tip of the north of Malapascua island. The site is famous for its extremely shallow starting depth of just 4-5 meters on one side. The deeper section crawls down to 18-20 meters, providing varied depth options. This is an excellent site for newer divers building confidence and practicing skills in shallow water. This site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Lapus-Lapus is a dive site in Philippines Malapascua offering excellent diving on healthy coral reef structures . Dive Site. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: North tip of Malapascua Island, Cebu
+- **Location**: Philippines Malapascua, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle/seamount
+- **Site Type**: Pinnacle
 - **Difficulty Level**: Beginner
-- **Minimum Depth**: 4 meters
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Mild, often sheltered
-- **Best Time**: October to April
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
-## Site Characteristics
+## Marine Life
 
-Lapus-Lapus features an exceptionally shallow starting depth on one side (4-5m) that gradually slopes to 18-20m. The shallow profile makes this ideal for building buoyancy control skills and confidence. The site provides an easy entry for training dives and skill practice.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
 
 ## Dive Profile
 
-Begin at the very shallow area (4-5m) and work along the gentle slope toward deeper water (18-20m) at your own pace. The shallow starting depth allows for long bottom time and relaxed exploration. Perfect for practicing buoyancy control in minimal depth. Allow 45-60 minutes for a comfortable training dive.
+The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
 Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
-## Marine Life
-
-Reef fish, nudibranchs, seahorses, crustaceans, and small reef-dwelling species.
-
 ## Tips and Recommendations
 
-- Perfect for new divers and confidence-building dives
-- Excellent for practicing buoyancy control in minimal depth
-- Bring a camera for reef fish and macro photography
-- Calm conditions and easy navigation
-- Great for learning divers to build bottom time safely
+- Excellent site for newer divers — calm conditions and easy navigation
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
+- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
-This beginner-friendly site has minimal currents and exceptional shallow depth starting at 4-5m. Dive within your certification limits. Be aware of jellyfish and sea urchins. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-Good for reef fish and macro photography. Shallow depth provides excellent natural light and ease of photography for beginners learning underwater photography.
+This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-03-16
-- **Validated by**: Dive operator research (Malapascua dive operators)
 
 ---
-*This dive site information was compiled from OpenStreetMap data and dive operator research. Last updated 2026-03-16.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

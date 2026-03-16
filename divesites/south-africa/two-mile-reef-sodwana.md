@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Two Mile Reef Sodwana
 
-Two Mile Reef is one of the most popular and diverse reef systems in Sodwana Bay, KwaZulu-Natal. Located only minutes by boat from the main launch site, this vast reef complex stretches 1.8 kilometers long and nearly 900 meters wide, offering multiple distinct dive sites and varied topography for every experience level.
+Two Mile Reef Sodwana is a reef dive site in South Africa, Africa.
 
 ## Overview
 
-Two Mile Reef features pinnacles, swim-throughs, rocky outcroppings, large sand patches, and cave formations across a depth range of 9-32+ meters. The warm Indian Ocean waters (22-26°C) support exceptional coral formations and abundant tropical marine life. With multiple named sub-sites including Anton's Massif, Wayne's World, and Whitetip Caves, divers can cover multiple sites in a single drift dive when currents allow.
+Two Mile Reef Sodwana is a dive site in South Africa offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
 
 ## Site Information
 
@@ -32,11 +32,11 @@ Two Mile Reef features pinnacles, swim-throughs, rocky outcroppings, large sand 
 
 ## Marine Life
 
-Two Mile Reef supports the full diversity of Sodwana Bay's marine ecosystem. Divers encounter parrotfish, triggerfish, moray eels, sea turtles, butterfly fish, angelfish, large schools of snapper and fusiliers, potato cods, manta rays, and ragged-tooth sharks. Hard and soft corals, nudibranchs, scorpionfish, cleaner shrimps, ribbon eels, and large groupers are abundant.
+Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

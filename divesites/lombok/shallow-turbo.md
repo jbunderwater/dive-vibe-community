@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Shallow Turbo
 
-Shallow Turbo is a beginner-friendly reef plateau northeast of Gili Trawangan with white sandy bottom and large coral heads, excellent for relaxed diving and drift opportunities.
+Shallow Turbo is a reef dive site in Lombok, Asia.
 
 ## Overview
 
-Shallow Turbo is a shallow reef plateau located to the northeast of Gili Trawangan, with a white sandy bottom dotted with large coral heads. The shallow part features an average depth of about 16 meters, with the bottom rarely dipping below 18 meters, making it ideal for divers who want to take their time and relax. The site is famous for large schools of fusiliers, red tooth triggerfish, and long jaw mackerel. This is an excellent beginner-level dive site and connects with Goodheart Reef, which begins here and runs parallel to the east coast of Trawangan.
+Shallow Turbo is a dive site in Lombok offering excellent diving on healthy coral reef structures . source is Diveschool Notice Board - Location might have to be checked with a GPS. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
@@ -32,11 +32,11 @@ Shallow Turbo is a shallow reef plateau located to the northeast of Gili Trawang
 
 ## Marine Life
 
-Shallow Turbo is renowned for large schools of fusiliers, red tooth triggerfish, and long jaw mackerel. The coral heads shelter a variety of smaller reef fish, anemones with clownfish, and other reef-associated species. This site provides excellent opportunities to observe schooling fish behavior and reef ecosystem dynamics.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -44,6 +44,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
+- Excellent site for newer divers — calm conditions and easy navigation
 - Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
@@ -60,7 +61,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

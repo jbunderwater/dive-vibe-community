@@ -13,24 +13,22 @@ addedBy: osm_import
 
 ## Arnos Vale
 
-Arnos Vale is a protected beginner-friendly shore dive site in a sheltered bay on Tobago's southwest coast. The rocky shelf reef serves as a nursery for juvenile fish and is an ideal location for night diving.
+Arnos Vale is a reef dive site in Tobago, Caribbean.
 
 ## Overview
 
-This protected bay features a rocky shelf reef with constantly undulating topography of shallower and deeper coral outcrops. The reef is a nursery and refuge for juvenile reef fish of all kinds, making it excellent for observing smaller species. Depths vary from 5 meters in shallower areas to 12 meters on deeper outcrops. The sheltered bay conditions make it perfect for beginner divers and night dives. The diverse fish population and crevices create a rich macro-diving environment.
+Arnos Vale is a dive site in Tobago offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Southwest Tobago, Arnos Vale Bay
+- **Location**: Tobago, Caribbean
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
-- **Depth Range**: 5-12 meters (18-40 feet)
-- **Typical Visibility**: 15-25 meters
-- **Water Temperature**: 27-30°C (81-86°F)
-- **Current**: Minimal to light (protected bay)
-- **Best Time**: December to April (dry season); excellent for night dives
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Light to moderate
+- **Best Time**: December to April (dry season)
 
 ## Marine Life
 
@@ -38,7 +36,7 @@ Divers at this site can expect to encounter sea turtles (green, hawksbill), sout
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 10 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-10 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -61,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

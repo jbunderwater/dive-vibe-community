@@ -13,32 +13,30 @@ addedBy: osm_import
 
 ## Capo Caccia Cliffs
 
-Capo Caccia Cliffs form part of the Capo Caccia-Isola Piana Marine Reserve in northwestern Sardinia, featuring dramatic vertical limestone walls with numerous underwater caves, grottoes, and exceptional marine biodiversity.
+Capo Caccia Cliffs is a wall dive site in Sardinia, Europe.
 
 ## Overview
 
-Capo Caccia's towering vertical walls rise 300+ meters above the sea and plunge equally deep beneath it. The underwater landscape features dramatic vertical drops to 30 meters, abundant cave systems, and cracks filled with colorful marine life. The reserve extends 36 km along the Riviera del Corallo (Coral Riviera) and includes multiple famous dive sites: the Nereo Cave, Grotta di Giglio, Grotta del Pozzo, Grotta del Falco, and the Tunnel Azzurro (blue tunnel) crossing the promontory at shallow depth.
+Capo Caccia Cliffs is a dive site in Sardinia featuring a dramatic vertical wall that drops into the deep blue . Dramatic vertical walls up to 30m with caves, cracks and rich marine life in protected marine reserve. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
 
 ## Site Information
 
-- **Location**: Capo Caccia, northwestern Sardinia (near Alghero)
+- **Location**: Sardinia, Europe
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Depth Range**: 0-30 meters
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-40 meters (summer)
-- **Water Temperature**: 18-24°C (May-October)
-- **Current**: Variable, can be strong
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Light to moderate
 - **Best Time**: May to October
 
 ## Marine Life
 
-Fish, crustaceans, soft corals, and dense marine life populate the wall structure. The rock face is full of colorful life with shy fishes sheltering in numerous cracks and crevices. Groupers, barracuda, scorpionfish, snappers, and lobsters are common. Soft coral and gorgonians cover the walls, particularly red coral and leptosamnia.
+Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-Wall dives profile along the vertical face, starting at shallow depths at the wall top (5-10m) and working deeper along the wall to 25-30m. The variety of cave formations means multiple routes are possible. Plan dives around your certification level and air consumption, as the vertical wall can lead to rapid depth changes. Many divers prefer stopping between 10-20 meters to explore cave mouths and crevices.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-30 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
@@ -55,7 +53,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -63,7 +61,7 @@ Wall dives offer stunning wide-angle opportunities with dramatic depth perspecti
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

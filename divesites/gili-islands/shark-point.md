@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Shark Point
 
-Shark Point is an advanced wall dive on the north-east of Gili Trawangan offering the best variety of marine life with turtles and reef sharks on nearly every dive.
+Shark Point is a wall dive site in Gili Islands, Asia.
 
 ## Overview
 
-Shark Point is renowned as one of the best sites for reef shark encounters in the Gili Islands, including white tip and black tip reef sharks. Located north-east of Gili Trawangan, the site features a coral reef plateau at 10 meters that slopes down to 18 meters before transforming into rolling valleys running parallel to the shoreline, extending down to 35 meters. The site offers exceptional topographic variety and consistent marine life encounters. Green sea turtles are present on virtually every dive, making this one of the most reliably rewarding sites in the region. Large pelagic species occasionally visit the deeper sections. The dynamic reef structure and healthy fish populations make this a favorite among experienced divers seeking consistent wildlife encounters.
+Shark Point is a renowned dive site in Gili Islands featuring a dramatic vertical wall that drops into the deep blue . source is Diveschool Notice Board - Location might have to be checked with a GPS. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: North-east Gili Trawangan, Gili Islands
+- **Location**: Gili Islands, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 35 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable
-- **Best Time**: April to October
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Shark Point is the place to see reef sharks — white tip and black tip reef sharks are regular residents. Green sea turtles are present on nearly every dive across all depths, with particularly high densities in the shallow seagrass areas (5 meters). Stingrays cruise the sandy valleys. Occasional visits from large pelagic species including manta rays, spotted eagle rays, and barracuda. The reefs support abundant reef fish populations and healthy coral structures at all depths.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-Start at the shallow coral plateau (10m) and explore the healthy reef structures, where sea turtles are abundant in seagrass areas. Follow the slope downward through the rolling valleys, descending to 18-35 meters depending on your air consumption and experience level. The varied topography offers flexibility — conservative divers can stay shallower where turtles are concentrated, while experienced divers can explore deeper sections for pelagic activity. Plan your dive conservatively due to depth options, and ensure an extended safety stop at 5 meters. The diverse topography makes this site suitable for divers wanting variety and reliable wildlife encounters.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-35 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
@@ -44,23 +44,24 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
+- Watch your depth carefully — wall dives can lead to unintentional deep descents
+- Look in crevices and overhangs for hidden marine life
 - Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
 - Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

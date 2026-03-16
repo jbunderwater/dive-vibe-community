@@ -11,40 +11,32 @@ osmId: 10973665012
 addedBy: osm_import
 ---
 
-## Uçak Batığı (Rhodes Aircraft Wreck)
+## Uçak Batığı
 
-The Uçak Batığı is a Junkers 52 transport aircraft resting at 72 meters near Rhodes, representing a significant technical diving challenge. This deep wreck site requires trimix certification and extensive decompression planning.
+Uçak Batığı is a historic wreck dive in Greece, Europe.
 
 ## Overview
 
-This German World War II-era Junkers 52 transport aircraft (Turkish name: Uçak Batığı) lies in deep water off Rhodes in the Dodecanese. The aircraft likely crash-landed while returning to base, sinking to a depth that places it in the technical diving category. This is a site exclusively for advanced and technical divers with proper deep diving and decompression training.
+Uçak Batığı is a dive site in Greece featuring the wreck of the Uçak Batığı. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
 
 ## Site Information
 
-- **Location**: Rhodes, Dodecanese, Greece
+- **Location**: Greece, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 72 meters
-- **Typical Visibility**: 15-30 meters (50-100 feet) when accessible
-- **Current**: Moderate
-- **Best Time**: May to September
-- **Certification Required**: Trimix and advanced deep diving
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Light to moderate
+- **Best Time**: May to October
 
 ## Marine Life
 
-At this depth, bioluminescent organisms and deep-water species are encountered. The wreck provides structure for deep-dwelling fish and marine life adapted to lower light conditions.
+Divers at this site can expect to encounter conger eels, lobsters, crabs, anemones, coral encrustation, groupers, moray eels, octopus. Additional species commonly sighted include barracuda, sea bream, amberjack. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
 
 ## Dive Profile
 
-This is strictly a technical dive site requiring:
-- Trimix breathing mixtures for depth management
-- Decompression stops of 30+ minutes
-- Advanced dive computers and navigation
-- Professional guiding highly recommended
-- Appropriate weighting and equipment configuration
-
-Only divers with extensive deep diving experience and proper technical training should attempt this site.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 72 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -61,7 +53,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -69,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

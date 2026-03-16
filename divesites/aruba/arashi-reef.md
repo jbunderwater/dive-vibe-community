@@ -13,23 +13,22 @@ addedBy: osm_import
 
 ## Arashi Reef
 
-Arashi Reef is a young, colorful reef dive site in northwestern Aruba featuring scattered wreckage from a sunken Lockheed Lodestar aircraft and a thriving tropical ecosystem.
+Arashi Reef is a reef dive site in Aruba, Caribbean.
 
 ## Overview
 
-Arashi Reef is a relatively young reef structure filled with surprises, making it popular for both beginners and experienced divers. The site's primary attraction is pieces of a sunken Lockheed Lodestar airplane scattered across the bottom at 11 meters. More notably, the reef serves as a feeding ground and cleaning station for young Green and Hawksbill sea turtles, offering frequent turtle encounters. Patches of hard and soft corals, schooling fish, sea fans, and invertebrates (lionfish, lobsters, moray eels, octopus, stingrays) make this a biologically diverse site. The calm leeward conditions and moderate depth make it accessible for recreational divers of various levels.
+Arashi Reef is a dive site in Aruba offering excellent diving on healthy coral reef structures . Sunken Lockheed Lodestar plane scattered at 35ft (11m), colorful young reef with turtle cleaning station. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Northwestern coast, Aruba, Caribbean (near Malmok area)
+- **Location**: Aruba, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 11 meters
-- **Typical Visibility**: 15-25 meters (50-80 feet)
-- **Current**: Light to negligible
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
-- **Special Feature**: Turtle cleaning station
 
 ## Marine Life
 
@@ -37,15 +36,16 @@ Divers at this site can expect to encounter sea turtles (green, hawksbill), sout
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 11 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-11 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
 - Excellent site for newer divers — calm conditions and easy navigation
+- Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
 - Respect marine life and maintain proper buoyancy to protect the reef
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

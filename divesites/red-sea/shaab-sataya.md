@@ -1,13 +1,13 @@
 ---
 name: Shaab Sataya
-lat: 24.1577
-lng: 35.7118333
+lat: 24.1552833
+lng: 35.685
 difficulty: Intermediate
 maxDepth: 20
 entryType: boat
 siteType: reef
 ref: null
-osmId: 663869764
+osmId: 663869767
 addedBy: osm_import
 ---
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

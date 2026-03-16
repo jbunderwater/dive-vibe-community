@@ -13,22 +13,22 @@ addedBy: osm_import
 
 ## Conception Wall
 
-Conception Wall is one of the Bahamas' premier wall dives, featuring plummeting walls with the top starting at 43 feet (13 meters) before dropping 330 feet, with swim-throughs, caves, and forests of elk horn coral.
+Conception Wall is a wall dive site in Bahamas, Caribbean.
 
 ## Overview
 
-Conception Wall on Long Island is spectacular wall diving at its finest. The wall begins at approximately 43 feet (13 meters) at the top before dropping vertically to around 330 feet (100+ meters), creating dramatic depth perspectives. The wall features plummeting drop-offs, swim-throughs, and caves with amazing visibility and a mix of soft and hard corals and sponges. The structure is famous for forests of elk horn coral, and divers commonly encounter sea turtles, blue parrotfish, reef sharks, manta rays, angelfish, and stingrays. Conception Island itself is an uninhabited national park serving as a green turtle hatching site and nesting area for seabirds. Just to the north runs the "Southampton" reef, which breaks the surface at low tide and extends 3.5 miles. This is some of the best wall diving to be seen in the Bahamas.
+Conception Wall is a dive site in Bahamas featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Long Island, Bahamas
+- **Location**: Bahamas, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 43 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
-- **Best Time**: December to April, year-round accessible
+- **Best Time**: December to April (dry season)
 
 ## Marine Life
 
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter sea turtles (green, hawksbill), sout
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-30 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-43 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
@@ -61,7 +61,7 @@ Wall dives offer stunning wide-angle opportunities with dramatic depth perspecti
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

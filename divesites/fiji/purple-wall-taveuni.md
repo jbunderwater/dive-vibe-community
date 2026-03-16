@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Purple Wall Taveuni
 
-The Purple Wall is one of Rainbow Reef's most distinctive vertical drop-offs, named for the iridescent purple hues that develop with increasing depth.
+Purple Wall Taveuni is a wall dive site in Fiji, Pacific.
 
 ## Overview
 
-Located on the Rainbow Reef in the Somosomo Strait near Taveuni, the Purple Wall is a favorite dive site featuring a dramatic vertical wall of soft corals. The wall's distinctive purple color—which becomes more iridescent at depth—gives the site its name. The wall structure creates excellent habitat for reef fish and pelagic visitors, with strong currents typical of the strait creating exciting drift diving conditions.
+Purple Wall Taveuni is a dive site in Fiji featuring a dramatic vertical wall that drops into the deep blue. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
-- **Location**: Taveuni, Somosomo Strait, Fiji
+- **Location**: Fiji, Pacific
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 32 meters
-- **Typical Visibility**: 20-40 meters
+- **Typical Visibility**: 20-50 meters (65-160 feet)
 - **Current**: Moderate to strong
 - **Best Time**: April to November
 
 ## Marine Life
 
-The Purple Wall hosts abundant soft coral gardens with purple gorgonians that give the site its name, along with schools of reef fish, sharks, manta rays, napoleon wrasse, barracuda, trevally, and groupers. The wall structure provides shelter for moray eels and offers excellent macro photography subjects including nudibranchs and lionfish.
+Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-30 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-32 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
@@ -61,7 +61,7 @@ Wall dives offer stunning wide-angle opportunities with dramatic depth perspecti
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

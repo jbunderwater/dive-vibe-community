@@ -11,34 +11,32 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Smeerenburg — Historic Whaling Wrecks
+## Smeerenburg
 
-Dutch 17th-century wreck site in the Arctic's first European settlement.
+Smeerenburg is a historic wreck dive in Svalbard, Arctic.
 
 ## Overview
 
-Smeerenburg ("Blubber Town") was the world's northernmost whaling settlement in the 17th century, founded by Dutch whalers in 1619. The fjord contains approximately 17 historic shipwrecks—mostly Dutch whaling vessels intentionally sunk in the harbor, along with French frigates from the 1693 naval battle in nearby Sorgfjorden. The cold Arctic water has preserved the wooden wrecks in remarkable condition. Recreational diving accesses the shallower wreck debris fields at 15-20 meters. Access requires liveaboard or expedition boat from Longyearbyen.
+Smeerenburg is a dive site in Svalbard featuring the wreck of the Smeerenburg. Located in the Arctic region, this site offers 10-30 meters of visibility with water temperatures averaging -1 to 8°C.
 
 ## Site Information
 
-- **Location**: Smeerenburg Fjord, northwest Spitsbergen
+- **Location**: Svalbard, Arctic
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 20 meters
-- **Water Temperature**: 2-4°C (36-39°F)
-- **Typical Visibility**: 10-30 meters
-- **Current**: Variable fjord currents
-- **Best Time**: July-August (peak accessibility)
-- **Access**: Expedition/liveaboard boats only
+- **Typical Visibility**: 10-30 meters (30-100 feet)
+- **Current**: Variable, tidal currents
+- **Best Time**: June to September
 
 ## Marine Life
 
-The cold Arctic water has caused exceptional wreck preservation. Encrusting anemones, starfish, sea urchins, and kelp growth coat the wooden structures. Arctic fish including polar cod inhabit wreck crevices. Seals and Arctic marine mammals may visit. The wreck field creates artificial reef habitat with distinct marine life communities adapted to extreme Arctic conditions.
+Divers at this site can expect to encounter kelp growth, anemones, crabs, seals (harbor, bearded, ringed), walruses, beluga whales, narwhals, polar cod. Additional species commonly sighted include sea anemones. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
 
 ## Dive Profile
 
-Descend to accessible wreck debris and intact sections at 15-20 meters. The shallow wreck field allows exploration of hulls and structure without deep penetration. Most wooden wrecks are stable but require careful buoyancy control to avoid silting. Bottom time 35-45 minutes maximum due to extreme cold. Ascend gradually with conservative safety stops. Use a surface marker buoy for boat positioning.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 20 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -46,10 +44,12 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
+- Bring a dive torch to illuminate wreck interiors and dark overhangs
+- Maintain proper buoyancy to avoid disturbing silt inside the wreck
+- Do not attempt penetration without proper training and equipment
 - Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 
@@ -57,11 +57,11 @@ Be aware of extreme cold, hypothermia risk, ice in this area. Dive within your c
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

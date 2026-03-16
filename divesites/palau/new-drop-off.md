@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## New Drop-Off
 
-New Drop-Off is a dramatic wall dive featuring dramatic pelagic encounters and abundant sharks.
+New Drop-Off is a wall dive site in Palau, Pacific.
 
 ## Overview
 
-New Drop-Off is located 27 miles southwest of Koror and features a spectacular wall plunging to extreme depths (2,000+ feet). Named for its dramatic drop-off, this site attracts impressive pelagic marine life including multiple shark species—reef sharks, hammerheads, and potentially larger pelagics. Strong currents and dynamic conditions make this an advanced-only site. The crystal-clear water (visibility up to 30 meters) and abundance of predatory fish create an action-packed diving experience.
+New Drop-Off is a dive site in Palau featuring a dramatic vertical wall that drops into the deep blue. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
-- **Location**: Southwest of Ngemelis, outer barrier reef
+- **Location**: Palau, Pacific
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 25-30 meters (excellent)
-- **Current**: Strong to very strong
+- **Typical Visibility**: 20-50 meters (65-160 feet)
+- **Current**: Moderate to strong
 - **Best Time**: April to November
 
 ## Marine Life
 
-New Drop-Off is known for shark encounters from multiple species. Grey reef sharks, whitetip reef sharks, hammerhead sharks, and occasionally other large sharks patrol the wall edge. Schooling jacks, barracuda, trevally, and snappers are abundant. Sea turtles (up to 18 green turtles have been counted at shallow depths) congregate on the wall top. The combination of strong currents and abundant food creates perfect predator aggregation habitat.
+Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
@@ -53,7 +53,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -61,7 +61,7 @@ Wall dives offer stunning wide-angle opportunities with dramatic depth perspecti
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

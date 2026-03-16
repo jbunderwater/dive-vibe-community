@@ -13,32 +13,30 @@ addedBy: osm_import
 
 ## Cala Mariolu
 
-Cala Mariolu is one of the most precious beaches on Sardinia's central-eastern coast in the Gulf of Orosei, famous for pebbles rounded smooth by eternal ocean movement and excellent underwater cavern systems.
+Cala Mariolu is a cave dive site in Sardinia, Europe.
 
 ## Overview
 
-Cala Mariolu is a sheltered cove particularly suitable for scuba diving and snorkeling, featuring crystal-clear water that fades from green to blue and a dramatic south wall with caves and tunnels to explore. The bay is nicely sheltered from wind with minimal currents, making it a safe place for diving. The beach consists of rounded white and colorful pebbles (the local name "Ispuligedenie" translates to "pebbles of granite"). Accessible by boat from Cala Gonone or Santa Maria Navarrese, the site offers excellent cavern diving opportunities.
+Cala Mariolu is a dive site in Sardinia featuring underwater cave and cavern formations . Sheltered cove with dramatic south wall featuring caves and tunnels, crystal clear waters. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
 
 ## Site Information
 
-- **Location**: Gulf of Orosei, central-eastern Sardinia (near Baunei)
+- **Location**: Sardinia, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/cavern
+- **Site Type**: Cave/Cavern
 - **Difficulty Level**: Intermediate
-- **Depth Range**: 2-18 meters
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 15-30 meters
-- **Water Temperature**: 15-22°C (May-October)
-- **Current**: Minimal (sheltered bay)
-- **Best Time**: May to October (peak summer June-September)
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Light to moderate
+- **Best Time**: May to October
 
 ## Marine Life
 
-The sheltered bay hosts small groupers, snappers, bream, and schooling fish. Sea urchins, sponges, and sea fans populate the rocky wall. The cave systems shelter bioluminescent organisms and creatures adapted to low-light conditions.
+Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
 
 ## Dive Profile
 
-Cala Mariolu diving focuses on the south wall with multiple cave mouths and tunnels at varying depths. Shallow dives (5-12m) explore the outer cave areas and sandy bottom, while intermediate dives (12-18m) penetrate deeper cave sections and explore the wall relief. Thousands of fish and numerous caves provide diverse exploration routes. Most divers spend 40-60 minutes exploring the wall structure and cave mouths. Mooring assistance services operate during summer (mid-June to mid-September).
+The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -61,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

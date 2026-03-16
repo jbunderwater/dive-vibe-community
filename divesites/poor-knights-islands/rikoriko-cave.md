@@ -2,8 +2,8 @@
 name: Rikoriko Cave
 lat: -35.47
 lng: 174.735
-difficulty: Advanced
-maxDepth: 25
+difficulty: Intermediate
+maxDepth: 35
 entryType: boat
 siteType: cave
 ref: null
@@ -13,53 +13,64 @@ addedBy: osm_import
 
 ## Rikoriko Cave
 
-Rikoriko Cave is a cave dive site in Poor Knights Islands, Oceania.
+The world's largest sea cave in the southern hemisphere, Rikoriko is a massive underwater cavern measuring 130 meters long, 80 meters wide, and 35 meters deep. The cave is accessible to intermediate divers and offers a unique geological and biological experience. Water clarity inside the cave is exceptional thanks to sponges that naturally filter the water.
 
 ## Overview
 
-Rikoriko Cave is a dive site in Poor Knights Islands featuring underwater cave and cavern formations. Located in the Oceania region, this site offers 15-40 meters of visibility with water temperatures averaging 20-29°C.
+Rikoriko Cave is an iconic dive at the Poor Knights Islands. The entrance begins at approximately 8-10 meters, with the cave becoming progressively shallower as you penetrate toward the back (7-8m). The cave interior varies from 8 to 35 meters at its deepest point near the entrance. Unlike narrow squeeze-type caves, Rikoriko is spacious and open, with high ceilings that allow comfortable exploration for intermediate divers carrying proper lighting.
 
 ## Site Information
 
-- **Location**: Poor Knights Islands, Oceania
+- **Location**: Poor Knights Islands, Northland, New Zealand
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 15-40 meters (50-130 feet)
-- **Current**: Variable
-- **Best Time**: September to February
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 35 meters
+- **Minimum Depth**: 8 meters (cave entrance)
+- **Typical Visibility**: 15-30 meters (exceptional inside cave due to sponge filtration)
+- **Water Temperature**: 14-17°C (winter/May-Sept), 19-25°C (summer/Nov-April)
+- **Current**: Mild inside cave; variable outside entrance
+- **Best Time**: May to September for visibility and conditions
 
 ## Marine Life
 
-Divers at this site can expect to encounter great white sharks, grey nurse sharks, whale sharks, manta rays, sea turtles, dolphins, dugongs, potato cod. Additional species commonly sighted include maori wrasse, giant trevally, hard corals, soft corals. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+The cave environment hosts species adapted to low-light conditions: hydroids, bryozoans, fragile sponges, and anemones coat the cave walls. Fish shelter inside the cave as a sleepover, with schools of blue maomao hugging the southern wall in the darker sections. Look for moray eels, slipper lobsters, and small crustaceans seeking protection in the overhangs. Outside the cave entrance, larger pelagic fish congregate.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin at the boat anchor point and descend to the cave entrance (8-10m). The cave penetrates approximately 130 meters into the rock with the shallowest section at the back (7-8m). As you enter and progress, the ceiling comes down but stays comfortably high. The bottom becomes barren sand toward the back, but the walls are extraordinarily rich. Light does not penetrate to the back sections, making a good dive torch essential. Plan to explore the entrance and visible interior sections (20-30m) rather than attempting a full penetration.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat entry via giant stride directly to the cave entrance. Your guide will discuss torch procedures and depth management. Exit is via ascent and boat pickup at the surface.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- **Mandatory Equipment**: Bring a powerful dive torch with spare batteries; light becomes essential beyond 10 meters inside the cave
+- **Buoyancy**: Practice excellent buoyancy control—avoid stirring up silt or damaging fragile sponges
+- **Penetration**: New cave divers should stay in well-lit sections visible from the entrance; do not attempt deep penetration without cave diving training
+- **Photography**: Wide-angle shots of the cave opening and entrance structure are stunning; macro shots of small creatures on walls
+- **Book operator experienced with cave diving**: Dive Now, Dive! Tutukaka, Dive HQ all run regular Rikoriko dives
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish (box jellyfish in summer), crocodiles (north) in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
+**Requirements for this dive:**
+- Strong buoyancy control and situational awareness
+- Torch with redundant backup (two torches recommended)
+- Comfort with low-light environments
+- Conservative air planning (don't plan to use more than 50% of your tank)
+- Not recommended for first-time open water divers at depth
+- Avoid the cave if suffering ear pressure issues on descent
+- Never dive inside without a torch
+- Always dive with a buddy experienced with the site
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The cave entrance framed by volcanic rock is iconic. Wide-angle shots of the cave mouth with divers silhouetted are striking. Inside, macro photography of small creatures and sponges is rewarding. Torch light creates interesting shadow compositions. Best photography in morning light when sun angle illuminates the entrance area.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

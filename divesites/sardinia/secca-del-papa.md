@@ -13,32 +13,30 @@ addedBy: osm_import
 
 ## Secca del Papa
 
-Secca del Papa (Bank of the Pope) is rightly considered among the finest dive sites in the Mediterranean, located 300 meters off Punta del Papa at the eastern extremity of Tavolara Island in the heart of the Tavolara Marine Reserve.
+Secca del Papa is a pinnacle dive site in Sardinia, Europe.
 
 ## Overview
 
-Secca del Papa is celebrated for its dramatic underwater topography, incredible quantity of fish, and coralligenous environment. The shoal is divided into two distinct sections (Papa 1 and Papa 2) by a sandy channel, with tops at 15 meters and 24 meters respectively. Large groupers are particularly numerous, with banks of snappers, bream, and pizzuti moving through the reliefs, while large barracuda often allow close approach. The site requires repeated dives at different depths to fully understand its magic and complexity.
+Secca del Papa is a dive site in Sardinia offering rewarding diving on healthy coral reef structures . Magnificent shoal split by sandy channel, top 15-24m, banks of snappers, groupers, barracuda; current present. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
 
 ## Site Information
 
-- **Location**: Eastern Tavolara Island, northeastern Sardinia
+- **Location**: Sardinia, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle/seamount
+- **Site Type**: Pinnacle
 - **Difficulty Level**: Advanced
-- **Depth Range**: 15-35 meters
 - **Maximum Depth**: 35 meters
-- **Typical Visibility**: 15-30 meters
-- **Water Temperature**: 18-28°C (May-October)
-- **Current**: Always present, sometimes strong
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Light to moderate
 - **Best Time**: May to October
 
 ## Marine Life
 
-Secca del Papa is characterized by incredible fish quantity and diversity. Large groupers dominate, with banks of snappers, sea bream, and pompano moving through the rocky relief. Barracuda schools allow close approach. The coralligenous environment supports red coral, sea fans, and dense invertebrate life including lobsters and sea urchins.
+Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
 
 ## Dive Profile
 
-The shoal requires careful dive planning due to current and depth. Papa 1 tops at 15 meters with maximum depth around 25 meters; Papa 2 tops at 24 meters extending to 35 meters. Divers typically descend to the top of their chosen section and explore the rocky relief and crevices, moving along contours while monitoring depth and air. The current is always present and sometimes strong; plan descent on the lee side and stay aware of drift. Multiple dives reveal different aspects of the site's exceptional biodiversity.
+The site offers diving at depths ranging from shallow reef areas down to approximately 35 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -53,7 +51,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -61,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

@@ -13,17 +13,17 @@ addedBy: osm_import
 
 ## Giannis D
 
-The Giannis D is a 100-meter general cargo vessel built in Japan but sailing under Greek ownership. It hit Abu Nuhas Reef at full speed on April 19, 1983, and sank. The ship carried timber cargo. The dramatic collision created a spectacularly crumpled wreck, with the bow and stern still intact but the amidships crushed—providing stunning photography and unique diving aesthetics.
+Giannis D is a historic wreck dive in Red Sea, Middle East.
 
 ## Overview
 
-The wreck lies at 24 meters with a crumpled midships section where cargo exploded from the ship's sides. The intact bow and stern sections contrast dramatically with the amidships destruction. This visual spectacle makes it a favorite among wreck divers and photographers. The site is accessible to intermediate divers and is typically dived as part of the Abu Nuhas multi-wreck cluster (Chrisoula K, Kimon M, Carnatic all nearby).
+Giannis D is a dive site in Red Sea featuring the wreck of the Giannis D. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
 
 ## Site Information
 
 - **Location**: Red Sea, Middle East
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 24 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter glassy sweepers, lionfish, groupers,
 
 ## Dive Profile
 
-Descend the anchor line to the wreck top at 15-20 meters, then explore the full length of the vessel. Most divers circle the wreck, examining the intact bow section, then the spectacular crushed amidships cargo area, then the intact stern. The maximum depth is 24 meters at the deepest sections. The crumpled midships creates natural photo subjects with interesting angles and debris. Limited penetration of accessible open sections is possible for trained wreck divers. Plan 45-50 minute bottom times. Ascend with a safety stop at 5 meters. This site is considered one of the most visually dramatic wrecks in the Red Sea and is ideal for underwater photography.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 24 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -61,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Roche Grand Maman
 
-Roche Grand Maman (also known as Amoujié Maman) is the most challenging dive site in Seychelles' Inner Islands, featuring massive granite wall formations and strong currents that attract large pelagic fish species.
+Roche Grand Maman is a wall dive site in Seychelles, Africa.
 
 ## Overview
 
-Roche Grand Maman is an advanced wall dive site featuring dramatic granite formations separated by sandy channels. This site is known for excellent marine life encounters including large snappers, barracuda, king fish, sharks, eagle rays, and swordfish. The site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Roche Grand Maman is a dive site in Seychelles featuring a dramatic vertical wall that drops into the deep blue. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
 
 ## Site Information
 
-- **Location**: Praslin Island, Seychelles
+- **Location**: Seychelles, Africa
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Strong (often challenging)
-- **Best Time**: April-May, October-November (calmest conditions)
+- **Current**: Moderate to strong
+- **Best Time**: October to March (East Africa), varies by location
 
 ## Marine Life
 
-Roche Grand Maman is known for excellent pelagic fish encounters. Common sightings include great snappers, barracuda, king fish, sharks, eagle rays, swordfish, and occasionally whale sharks. The large granite formations attract schools of fish and provide excellent opportunities for wide-angle photography.
+Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-This is a wall dive with descent typically starting at 15-18 meters. The granite formations create natural passages and swim-throughs. Due to strong currents, drift diving techniques are often used. Stay within the 20-25 meter range and allow adequate air for an extended safety stop. The most abundant marine life is found between 10-25 meters. This is an advanced site requiring excellent buoyancy control and current awareness.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-25 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
@@ -44,23 +44,24 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
+- Watch your depth carefully — wall dives can lead to unintentional deep descents
+- Look in crevices and overhangs for hidden marine life
 - Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
 - Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
-This is the most demanding dive in the Inner Islands. Only experienced divers should attempt this site. Be aware of strong currents, surge, and the potential for rapid depth changes. Carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB). Consider doing a current check before descent. Dive within your certification limits and experience level.
+Be aware of strong currents, jellyfish, remote locations in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

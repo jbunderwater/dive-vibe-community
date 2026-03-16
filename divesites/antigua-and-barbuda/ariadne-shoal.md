@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Ariadne Shoal
 
-Ariadne Shoal is an offshore reef system 7 miles (11 km) west of Antigua's main coast, known for exceptional pelagic fish sightings and larger marine life than typical island reefs.
+Ariadne Shoal is a reef dive site in Antigua and Barbuda, Caribbean.
 
 ## Overview
 
-Accessible after a 50-minute boat ride from St. John's, this offshore shoal rewards adventurous divers with excellent fish life, healthy corals, and good opportunities to see larger pelagic species and sharks. The site has minimal boat traffic and pristine diving conditions.
+Ariadne Shoal is a dive site in Antigua and Barbuda offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: 7 miles west of Antigua (50 minutes by boat from St. John's)
+- **Location**: Antigua and Barbuda, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 20-30 meters (65-100 feet)
-- **Current**: Minimal to light
-- **Best Time**: December to April (calm seas essential)
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Light to moderate
+- **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-A lively area with larger fish than typical Antigua sites. Turtles, nurse sharks, and blacktip reef sharks are common residents. Large schools of grunts and snappers congregate here. Barracuda and other pelagic species are frequently encountered, making this an excellent site for photographing bigger fauna.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -44,11 +44,10 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Requires a dedicated boat trip; arrange with operators specializing in offshore dives
-- Named sites at the shoal include Ming's Bank, The Cave, Grunts, and Zurich Train Station
-- Excellent for pelagic and larger fish photography
-- Weather-dependent — seas must be calm for comfortable crossing
-- Generally less crowded than closer island sites — expect excellent fish encounters
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 
@@ -60,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

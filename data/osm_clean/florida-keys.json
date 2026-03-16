@@ -5,10 +5,10 @@
     "lon": -81.7333,
     "osm_id": 663869444,
     "osm_type": "node",
-    "depth": 15,
+    "depth": 42.7,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "historic": "wreck",
       "name": "USNS General Hoyt S. Vandenberg",
@@ -17,7 +17,9 @@
       "sport": "scuba_diving",
       "wikidata": "Q2468048",
       "wikipedia": "en:USNS General Hoyt S. Vandenberg (T-AGM-10)",
-      "wreck:date_sunk": "2009-05-27"
+      "wreck:date_sunk": "2009-05-27",
+      "validated": true,
+      "validation_source": "web_research"
     }
   },
   {
@@ -26,7 +28,7 @@
     "lon": -80.31084,
     "osm_id": 663869445,
     "osm_type": "node",
-    "depth": 40,
+    "depth": 42.7,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -34,7 +36,9 @@
       "historic": "wreck",
       "name": "Spiegel Grove",
       "seamark:type": "wreck",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "web_research"
     }
   },
   {
@@ -43,13 +47,14 @@
     "lon": -80.1080594,
     "osm_id": 10683604672,
     "osm_type": "node",
-    "depth": 15,
+    "depth": 7,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "name": "Triumph Reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "note": "Lesser-known Key Largo reef site, specific research limited"
     }
   },
   {
@@ -58,7 +63,7 @@
     "lon": -80.3729239,
     "osm_id": 1464177482,
     "osm_type": "way",
-    "depth": 12,
+    "depth": 8,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
@@ -66,7 +71,9 @@
       "description": "Molasses Reef is a world-renowned, easily accessible coral reef located southeast of Key Largo in the Florida Keys National Marine Sanctuary, famous for its stunning clear water, diverse coral formations",
       "name": "Molasses Reef",
       "natural": "reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "web_research"
     }
   },
   {
@@ -75,10 +82,10 @@
     "lon": -80.3464467,
     "osm_id": 5251195521,
     "osm_type": "node",
-    "depth": null,
+    "depth": 36.6,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "heritage": "2",
       "heritage:operator": "nrhp",
@@ -91,7 +98,9 @@
       "ref:nrhp": "02000494",
       "seamark:type": "wreck",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "web_research"
     }
   },
   {
@@ -100,17 +109,19 @@
     "lon": -80.5485736,
     "osm_id": 7171929002,
     "osm_type": "node",
-    "depth": null,
+    "depth": 5.3,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Hen and Chickens reef",
       "natural": "reef",
       "wikidata": "Q5712937",
       "wikipedia": "en:Hen and Chickens (reef)",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "web_research"
     }
   },
   {
@@ -119,10 +130,10 @@
     "lon": -80.6185471,
     "osm_id": 8945139020,
     "osm_type": "node",
-    "depth": null,
+    "depth": 3.7,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Beginner",
     "tags": {
       "historic": "wreck",
       "name": "USS Alligator Shipwreck",
@@ -130,7 +141,9 @@
       "wikidata": "Q7867228",
       "wikipedia": "en:USS_Alligator_(1820)",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "web_research"
     }
   },
   {
@@ -139,16 +152,18 @@
     "lon": -80.1192183,
     "osm_id": 10683545810,
     "osm_type": "node",
-    "depth": null,
+    "depth": 7.6,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Beginner",
     "tags": {
       "historic": "wreck",
       "name": "The Lugano",
       "seamark:type": "wreck",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "web_research"
     }
   },
   {
@@ -157,16 +172,18 @@
     "lon": -80.1212186,
     "osm_id": 10683554520,
     "osm_type": "node",
-    "depth": null,
+    "depth": 3.6,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Beginner",
     "tags": {
       "historic": "wreck",
       "name": "The Mandalay",
       "seamark:type": "wreck",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "web_research"
     }
   },
   {
@@ -175,10 +192,10 @@
     "lon": -81.9819498,
     "osm_id": 13382701660,
     "osm_type": "node",
-    "depth": null,
+    "depth": 7.6,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Beginner",
     "tags": {
       "historic": "wreck",
       "name": "USS Amesbury(stern)",
@@ -189,7 +206,9 @@
       "wreck:visible_at_high_tide": "no",
       "wreck:visible_at_low_tide": "no",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "web_research"
     }
   },
   {
@@ -198,15 +217,16 @@
     "lon": -81.0758695,
     "osm_id": 494927727,
     "osm_type": "way",
-    "depth": null,
+    "depth": 15,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Rachel Bank",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "note": "Lesser-known Middle Keys reef site, limited public research available"
     }
   },
   {
@@ -215,16 +235,17 @@
     "lon": -81.8126278,
     "osm_id": 561315015,
     "osm_type": "way",
-    "depth": null,
+    "depth": 12,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Beginner",
     "tags": {
       "historic": "wreck",
       "name": "Wisteria",
       "seamark:type": "wreck",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "note": "Lesser-known Key West area wreck site, limited public research available"
     }
   },
   {
@@ -233,10 +254,10 @@
     "lon": -81.8191513,
     "osm_id": 1459203058,
     "osm_type": "way",
-    "depth": null,
+    "depth": 7.6,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Beginner",
     "tags": {
       "historic": "wreck",
       "loc_name": "Alexander's wreck",
@@ -249,7 +270,9 @@
       "wreck:visible_at_high_tide": "no",
       "wreck:visible_at_low_tide": "yes",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "web_research"
     }
   }
 ]

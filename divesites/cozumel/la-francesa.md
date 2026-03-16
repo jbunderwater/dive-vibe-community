@@ -9,64 +9,57 @@ siteType: reef
 ref: null
 osmId: 663869331
 addedBy: osm_import
-validated: true
-validationSource: "Blue Note Scuba, dive.site"
 ---
 
-## La Francesa (Punta Francesa)
+## La Francesa
 
-La Francesa is a classic Cozumel drift dive featuring coral reef formations at moderate depths. This site is ideal for intermediate divers seeking dynamic current-assisted dives along scenic reef structures.
+La Francesa is a reef dive site in Cozumel, Caribbean.
 
 ## Overview
 
-Located in the southern reef system, La Francesa offers depths from 12-18 meters with coral patches and sandy areas interspersed throughout. The site is surrounded by sand bottom at shallow depths (7-15 meters), creating a varied dive experience with good visibility and moderate currents making for engaging drift diving.
+La Francesa is a dive site in Cozumel offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Cozumel, Mexico
+- **Location**: Cozumel, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 25-35 meters (80-115 feet)
-- **Current**: Moderate (drift diving)
-- **Best Time**: Year-round, December to April for optimal conditions
-
-## Dive Characteristics
-
-La Francesa features coral reef formations with gentle to moderate currents ideal for drift diving. The combination of reef patches and sandy flats creates natural dive pathways. The site's moderate depth and varied topography make it suitable for intermediate drift divers building experience and confidence in current-assisted diving.
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Light to moderate
+- **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Common sightings include sea turtles, stingrays, eagle rays, nurse sharks, parrotfish, angelfish, groupers, and snappers. The reef structures support healthy coral coverage and diverse tropical fish populations. The sandy areas provide habitat for rays and allow viewing of pelagic species in the blue water.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
 
 ## Dive Profile
 
-Descend to 12-15 meters and follow the reef formations while drifting with the current. Explore coral patches and sandy areas between 10-18 meters. Allow the current to carry you along natural reef pathways. Monitor your depth and air consumption during the drift. Ascend with time for a safety stop at 5 meters.
+The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
-Access exclusively by dive boat from local operators. Enter via giant stride. Descend with your group and begin drifting along the reef. Maintain visual contact with your guide and dive group. Deploy an SMB at safety stop depth for boat pickup.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-- Good site for building drift diving experience and buoyancy control
-- Visit in morning for lighter, more predictable currents
-- Excellent for photography of reef formations and fish behavior
-- Suitable for intermediate divers comfortable with light to moderate currents
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 
-Watch for fire coral and sea urchins in reef crevices. Maintain buddy contact during the drift. Monitor your depth gauge and air consumption. Strong currents can develop, so remain aware of your position. Always carry a safety sausage (SMB).
+Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-Good wide-angle shots of reef formations with natural lighting. Macro opportunities in coral details. The varied topography provides compositional variety.
+This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
 ## Additional Resources
 
-- **Source**: Blue Note Scuba, dive.site
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was validated through research of dive operator sites. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

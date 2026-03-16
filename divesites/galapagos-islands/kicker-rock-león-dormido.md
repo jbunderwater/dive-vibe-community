@@ -13,43 +13,55 @@ addedBy: osm_import
 
 ## Kicker Rock (León Dormido)
 
-Kicker Rock — locally called León Dormido ("Sleeping Lion") — is the most iconic geological formation in the Galápagos. About one hour by speedboat from Puerto Baquerizo Moreno on San Cristóbal Island, the site consists of twin volcanic tuff-cone towers rising 148 meters above the Pacific. Wave erosion has split the cone into two halves, creating a narrow channel that cuts through to the open ocean.
+Kicker Rock (León Dormido) is a wall dive site in Galápagos Islands, South America.
 
 ## Overview
 
-Kicker Rock is the second most renowned dive site in the archipelago after the liveaboard-only northern islands. The towering vertical walls drop from the surface to roughly 20–25 meters, with the channel floor at 14–18 meters. Outer walls plunge further to more than 40 meters in places. Two typical dives cover the outer perimeter and then pass through the dramatic central channel between the cliffs. Current is the primary variable: calm conditions allow leisurely wall swimming; stronger currents turn the channel into an intense drift.
+Kicker Rock (León Dormido) is a dive site in Galápagos Islands featuring a dramatic vertical wall that drops into the deep blue. Located in the South America region, this site offers 10-25 meters of visibility with water temperatures averaging 15-26°C.
 
 ## Site Information
 
-- **Location**: San Cristóbal Island, Galápagos Islands
+- **Location**: Galápagos Islands, South America
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 5–15 meters; can be excellent in calm conditions
-- **Water Temperature**: 18–26°C (seasonal variation from Humboldt Current)
-- **Current**: Moderate to strong, especially through the channel and around exposed outer wall
-- **Best Time**: January–May for calmer conditions; year-round for marine life
+- **Typical Visibility**: 10-25 meters (30-80 feet)
+- **Current**: Moderate to strong
+- **Best Time**: June to November
 
 ## Marine Life
 
-Kicker Rock hosts the greatest diversity of marine life in the San Cristóbal area. Whitetip reef sharks and Galápagos sharks are common along the walls. Scalloped hammerhead sharks occasionally cruise through in small groups. Large schools of spotted eagle rays and golden cownose rays sweep through the channel. Green sea turtles rest in crevices and swim along the wall face. Marine iguanas are present both above and below the waterline. Galápagos penguins nest at the base of Pinnacle Rock and dive to hunt, sometimes passing divers. Schools of yellowtail surgeonfish, parrotfish, Mexican hogfish, Sergeant major fish, barracuda, and pufferfish fill the water column. Moray eels, octopus, and hawkfish inhabit wall crevices.
+Divers at this site can expect to encounter hammerhead sharks, whale sharks, sea lions, marine iguanas, manta rays, eagle rays, sea turtles, dolphins. Additional species commonly sighted include penguins, moray eels. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-Dive 1 explores the outer perimeter: a wall dropping to 20–25 meters with strong upwelling nutrients along the base attracting sharks and rays. Dive 2 passes through the channel, drifting with the current between the two towering cliff faces. Surface swells can be present even when the channel below is calm. Most operators run 2-dive day trips from San Cristóbal. Deploy SMB for open-water pickup at channel exit.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-25 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+
+## Entry and Exit
+
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+
+## Tips and Recommendations
+
+- Watch your depth carefully — wall dives can lead to unintentional deep descents
+- Look in crevices and overhangs for hidden marine life
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 
-Channel currents can be stronger than conditions on the surface suggest — always follow the dive guide briefing on current direction before entering. Outer walls have surge in swell conditions. A 7 mm wetsuit is recommended year-round; thermoclines can drop water temperature noticeably below 10 meters during the Humboldt season. Always carry an SMB.
+Be aware of strong currents, cold thermoclines, surge in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-The soaring tuff-cone walls create dramatic wide-angle compositions, especially when framing sharks or eagle rays against the blue channel. Silhouette shots looking up the 148-meter walls are spectacular. Penguins are fast-moving but make memorable subjects in the shallows. Sea turtles resting in wall crevices offer close-focus opportunities.
+Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from PADI dive-site records, Aquaventures Dive Center (San Cristóbal), and Happy Gringo visitor guides. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

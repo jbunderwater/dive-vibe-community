@@ -13,51 +13,46 @@ addedBy: osm_import
 
 ## Saruenus Island
 
-Saruenus Island (also Pulau Aras) is a multi-site location in the Iris Strait offering 4 major dive sites with variable conditions. Each site has distinct characteristics based on current direction and exposure, making Saruenus Island an essential stop on every Triton Bay liveaboard.
+Saruenus Island is a reef dive site in Triton Bay, Asia.
 
 ## Overview
 
-Saruenus Island is virtually guaranteed to be visited during any Triton Bay liveaboard cruise. The island offers four distinct dive sites—Little Komodo, Aquarium, Little Drift, and Larry's Delight—each shaped by different current patterns and bottom topography. The island's location in the Iris Strait (between Aiduma Island and mainland) places it in a zone of rich nutrient exchange, creating spectacular soft coral gardens and prolific fish life. The rocky outcrops are extensively covered in soft corals, black coral bushes, and provide exceptional habitat for macro critter enthusiasts.
+Saruenus Island is a dive site in Triton Bay offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Iris Strait, between Aiduma Island and Triton Bay mainland, West Papua
+- **Location**: Triton Bay, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 10-20 meters (30-65 feet)
-- **Current**: Variable (site-dependent; strong on some exposures)
-- **Best Time**: October to April
-- **Water Temperature**: 27-30°C
-- **Best Sites**: Little Komodo (macro/wide-angle), Aquarium (macro in shallows)
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Soft coral gardens support exceptional macro diversity including pygmy seahorses (rare and prized), nudibranchs, shrimp, frogfish, and various crustaceans. Larger species include schools of anthias, damselfish, fusiliers, snappers, sweetlips, jacks, and giant groupers. Black coral bushes provide shelter for hunting predators. Manta rays and occasional whale sharks are possible. The nutrient-rich water concentrates fish life around the coral formations.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
 
 ## Dive Profile
 
-Concentrate on shallow sections (8-15 meters) where soft coral density and fish schools are concentrated. Scout the boulder features for pygmy seahorses, nudibranchs, and small critters. Deeper sections (15-18 meters) reveal additional black coral and larger fish activity. Plan dives to balance wide-angle photography (upper sections) with macro exploration (crevices and soft coral details). The four distinct sites at Saruenus allow multiple visits with varying profiles.
+The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
-Access is exclusively by dive boat. Entry is via giant stride or back roll. Descend along natural boulder features as anchor points. Currents vary by site; follow guide direction for descent points and current management. Deploy a surface marker buoy (SMB) during your safety stop. Maintain communication with boat crew.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-- Scout all four sites during a liveaboard visit if conditions permit
-- Little Komodo is excellent for macro (pygmy seahorses, nudibranchs)
-- Aquarium is the best site for concentrated macro life and wide-angle shallow exploration
-- Search deliberately in crevices and behind soft coral for rare critters
-- Bring macro lens equipment—this site rewards close observation
-- Pre-dive briefing on current direction is essential for site selection
-- Move slowly to avoid startling fish and missing small creatures
-- This is a "can't miss" location during any Triton Bay liveaboard
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
+- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
-Current varies significantly by site and exposure. Understand pre-dive briefing on current direction before entry. Maintain precise buoyancy control around delicate soft coral to avoid damage. Dive within your Intermediate certification limits; Advanced divers should be comfortable with the site's variable currents. Always dive with a buddy and carry appropriate signaling devices (SMB). Be prepared to change sites if conditions at your primary choice deteriorate.
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -65,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

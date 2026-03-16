@@ -13,17 +13,17 @@ addedBy: osm_import
 
 ## Twins
 
-Twins consists of three coral-covered pinnacles (two main peaks and a smaller third) separated by sandy channels, located just off the beach on the west coast near Koh Nang Yuan island. The site is a favorite for training and beginner dives due to shallow sandy patches ideal for skill practice. The western pinnacle hosts a resident clownfish family, always a favorite with divers.
+Twins is a pinnacle dive site in Koh Tao, Asia.
 
 ## Overview
 
-Twins is an ideal beginner and training site featuring two prominent coral-covered rocky pinnacles with sheltered sandy areas perfect for skill development and buoyancy practice. The site offers excellent visibility and is one of the most accessible dive locations in Koh Tao. Visibility ranges from 10-40 meters with water temperatures averaging 26-30°C year-round.
+Twins is a dive site in Koh Tao offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
 - **Location**: Koh Tao, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle/seamount
+- **Site Type**: Pinnacle
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
@@ -61,7 +61,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

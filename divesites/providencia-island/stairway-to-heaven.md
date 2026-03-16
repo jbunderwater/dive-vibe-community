@@ -17,7 +17,7 @@ Stairway to Heaven is a wall dive site in Providencia Island, Caribbean.
 
 ## Overview
 
-Stairway to Heaven is a spectacular advanced dive site beginning at 24-36 meters (80-120 feet) with a sandy channel leading to a massive gorge and drop-off. The site features three impressive step formations in stony coral, colorful soft corals, and enormous tube sponges descending to 52 meters (170 feet).
+Stairway to Heaven is a dive site in Providencia Island featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
@@ -32,11 +32,11 @@ Stairway to Heaven is a spectacular advanced dive site beginning at 24-36 meters
 
 ## Marine Life
 
-This site is well-populated with small creatures but is an outstanding location for encountering sharks, rays, and big sea turtles. The incredible rewards at this advanced site include sightings of reef sharks, eagle rays, and large pelagic fish species in the blue water beyond the drop-off.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-This site begins at 24-36 meters (80-120 feet) with a sandy sloping channel descending steeply at 36 meters (120 feet). The dive features a couple of walls and 3 step formations with colorful soft and hard corals, huge tube sponges, and a drop-off extending to 52 meters (170 feet). Current can be strong. Careful depth management and buoyancy control are essential.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-52 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
@@ -53,7 +53,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -61,7 +61,7 @@ Wall dives offer stunning wide-angle opportunities with dramatic depth perspecti
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

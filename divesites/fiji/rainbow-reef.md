@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Rainbow Reef
 
-Rainbow Reef is a world-renowned system of dive sites spanning the Somosomo Strait between Taveuni and Vanua Levu, earning Fiji its reputation as the soft coral capital.
+Rainbow Reef is a reef dive site in Fiji, Pacific.
 
 ## Overview
 
-Rainbow Reef is not a single site but rather a long stretch of vibrant reef with over 20 distinct dive locations. Located in the Somosomo Strait, this system features exceptional soft coral gardens, strong current-assisted drift diving, and incredible marine biodiversity. The reef is famous for its genuinely extraordinary soft coral displays, with reliable encounters of sharks, Napoleon wrasse, and seasonal manta rays making it one of the most consistently praised dive destinations in the Pacific.
+Rainbow Reef is a dive site in Fiji offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
-- **Location**: Somosomo Strait between Taveuni and Vanua Levu, Fiji
+- **Location**: Fiji, Pacific
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 28 meters
-- **Typical Visibility**: 20-50 meters
-- **Current**: Moderate to strong (drift diving standard)
+- **Typical Visibility**: 20-50 meters (65-160 feet)
+- **Current**: Moderate to strong
 - **Best Time**: April to November
 
 ## Marine Life
 
-Rainbow Reef supports extraordinary marine biodiversity including manta rays, reef sharks (grey, whitetip, blacktip), Napoleon wrasse, schooling barracuda, trevally, groupers, nudibranchs, and dense populations of reef fish species. The site is characterized by magnificent soft coral gardens dominated by gorgonians, sea fans, and branching corals.
+Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 28 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

@@ -13,53 +13,47 @@ addedBy: osm_import
 
 ## Sawandek Jetty
 
-Sawandek Jetty (also Sawandarek Jetty) is a unique Beginner site in the Mansuar area of the Dampier Strait. This shallow jetty offers boat and/or shore entry, with opportunities to observe impressive marine life including giant clams, turtles, white-tip sharks, and abundant soft coral gardens adjacent to a coral reef restoration project.
+Sawandek Jetty is a reef dive site in Triton Bay, Asia.
 
 ## Overview
 
-Sawandek Jetty is a shallow (8 meters max) site featuring an old wooden or stone structure extending into the water. The jetty itself is safe to dive around with minimal current risk, making it excellent for newer divers. The site features stunning hard and soft coral growth in the shallows, with an impressive giant clam population and active coral restoration project. The shallow water on either side of the jetty contains gorgeous soft and hard coral gardens teeming with fish. Turtles, white-tip sharks, and schooling barracuda are regular encounters.
+Sawandek Jetty is a dive site in Triton Bay offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Mansuar area, Dampier Strait, Triton Bay, West Papua
+- **Location**: Triton Bay, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 8 meters
-- **Typical Visibility**: 10-20 meters (30-65 feet)
-- **Current**: Variable but manageable (rising tide preferred by some divers)
-- **Best Time**: October to April
-- **Water Temperature**: 27-30°C
-- **Tide Consideration**: Can be dived with rising or falling tide
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-The shallow water supports exceptional hard and soft coral growth with abundant reef fish. Giant clams (one of the largest found in Raja Ampat) inhabit the deeper rubble area around 10-12 meters in front of the jetty. Large sea turtles cruise the shallows. White-tip and black-tip sharks are common visitors. Schooling barracuda patrol the water column. The coral garden supports schooling anthias, damselfish, fusiliers, sweetlips, and snapper. The restoration project features recently-installed coral fragments and monitoring structures.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
 
 ## Dive Profile
 
-Enter the water in the shallow zone in front of the jetty (3-5 meters). Explore the surrounding hard and soft coral gardens. Gradually descend to 8-10 meters to search the rubble zone for the famous giant clam(s) and observe deeper reef fish activity. Scout the coral crevices for hidden macro species. The jetty structure itself is safe to swim around and provides excellent reference points for navigation. Most exploration occurs in the 5-10 meter range; stay within shallow profile limits.
+The site offers diving at depths ranging from shallow reef areas down to approximately 8 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-8 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
-Entry is via boat in the shallow water in front of the jetty, or shore entry if available. Shallow water entry allows easy family/group coordination. Exit is direct return to boat or shore. The jetty provides excellent navigation reference. Deploy a surface marker buoy (SMB) for safety stops during boat dives. If shore diving, exit carefully and watch for surge zones.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers—shallow depth and manageable conditions
-- Scout the rubble zone around 10-12 meters in front of the jetty for giant clams
-- Search coral crevices for small critters and nudibranchs
-- Look for white-tip and black-tip sharks cruising the area
-- Bring underwater camera—schooling fish and turtle encounters offer great photography
-- Understand tide preference before diving (rising tide preferred by some operators)
-- Explore the coral restoration project and observe monitoring work
-- Wide-angle photography works well with the coral gardens and large clams
-- Excellent for training newer divers in shallow techniques
-- Tide timing can affect current and fish activity
+- Excellent site for newer divers — calm conditions and easy navigation
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
+- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
-Shallow depth makes this site very safe for newer divers. Current is generally manageable but can vary with tide phase. Monitor your buoyancy to avoid contacting the coral. Be aware that sharks (white-tip/black-tip) are present but non-aggressive toward divers. Carry an SMB for boat safety stops. Always dive with a buddy. Stay aware of your location relative to the jetty to avoid disorientation. Check pre-dive conditions with your operator regarding current and tide timing.
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -67,7 +61,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

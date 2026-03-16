@@ -36,7 +36,7 @@ Divers at this site can expect to encounter sea turtles (green, hawksbill), sout
 
 ## Dive Profile
 
-Begin in shallow water and drop down to sandy bottom at 12 meters (40 feet), where you can follow a swim-through tunnel out to the reef wall at about 18 meters (60 feet). The wall extends to depths beyond 30 meters (100 feet). The site features a large cave and tunnel system filled with black corals, sea whips, and giant sponges. Multiple levels and deep crevices provide exploration opportunities. Cavern areas should only be explored by experienced divers with proper training. Shallow areas near the reef crest are excellent for snorkeling.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-30 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
@@ -44,13 +44,12 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Watch your depth carefully on the drop-off — the wall descends beyond 30 meters
-- Explore the tunnel system and caves filled with black corals and sponges
-- Only enter caverns with proper training and experience
-- Excellent site for snorkeling in shallow areas with brain corals
+- Watch your depth carefully — wall dives can lead to unintentional deep descents
+- Look in crevices and overhangs for hidden marine life
 - Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 
@@ -62,7 +61,7 @@ Wall dives offer stunning wide-angle opportunities with dramatic depth perspecti
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

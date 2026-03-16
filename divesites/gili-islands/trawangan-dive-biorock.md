@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Trawangan Dive Biorock
 
-Trawangan Dive Biorock is a beginner-friendly artificial reef dive showcasing innovative coral restoration technology and supporting a diverse ecosystem of regenerating marine life.
+Trawangan Dive Biorock is a artificial dive site in Gili Islands, Asia.
 
 ## Overview
 
-Trawangan Dive Biorock is part of the Gili Islands' extensive Biorock reef restoration project. This site features electrofished steel structures that accelerate coral growth 2-8 times faster than natural rates. Corals on Biorock structures show exceptional resilience to environmental stress and bleaching compared to natural reefs. The site is home to a wide variety of fish and corals living on the artificial reef structures. Shallow depths and protected conditions make this an ideal site for beginners, snorkelers, and those interested in marine conservation and coral restoration. The colorful corals and healthy fish populations provide excellent learning and photography opportunities while supporting scientific reef regeneration efforts.
+Trawangan Dive Biorock is a dive site in Gili Islands offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Gili Trawangan area (east coast), Gili Islands
+- **Location**: Gili Islands, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Artificial
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to variable
-- **Best Time**: April to October
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Biorock structures support rapidly growing coral populations with exceptionally bright coloring and dense branching. Fish populations build up quickly on Biorock, with diverse species including clownfish, damselfish, wrasse, and various reef fish. The accelerated coral growth and resulting habitat structure attracts diverse marine life. Macro subjects like nudibranchs and small crustaceans inhabit the growing coral structures. Sea turtles occasionally visit the site.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
 
 ## Dive Profile
 
-Descend to explore the Biorock structures at shallow depths (10-15 meters). The artificial reef is designed for easy exploration and provides ample time to observe the regenerating coral ecosystem. This is an excellent site for understanding coral restoration technology while enjoying a relaxed reef dive. The shallow depths and protected conditions make this ideal for training dives, photography, and beginners. Consider the educational aspect of the dive — you're witnessing active reef regeneration through innovative technology.
+The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -44,6 +44,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
+- Excellent site for newer divers — calm conditions and easy navigation
 - Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
@@ -60,7 +61,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

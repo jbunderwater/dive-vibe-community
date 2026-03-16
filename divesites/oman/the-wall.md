@@ -13,31 +13,30 @@ addedBy: osm_import
 
 ## The Wall
 
-The Wall is a dramatic vertical wall dive site in the Daymaniyat Islands area near Muscat, Oman.
+The Wall is a wall dive site in Oman, Middle East.
 
 ## Overview
 
-The Wall is part of the Daymaniyat Islands dive system, offering a spectacular vertical wall dive that drops from shallow water into deeper zones. This site features blue and green whip corals along the wall face and is best approached from north or south depending on current. Water temperatures range from 23–25°C with visibility typically between 18–30 meters. The site is accessible year-round but best during April-May and September-October.
+The Wall is a dive site in Oman featuring a dramatic vertical wall that drops into the deep blue. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
 
 ## Site Information
 
-- **Location**: Daymaniyat Islands area, Muscat, Oman
+- **Location**: Oman, Middle East
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 24 meters
-- **Typical Visibility**: 18-30 meters (60-100 feet)
-- **Water Temperature**: 23-25°C (73-77°F)
-- **Current**: Variable, northward or southward depending on conditions
-- **Best Time**: April-May, September-October
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Moderate to strong
+- **Best Time**: September to May
 
 ## Marine Life
 
-The wall structure hosts abundant coral growth and diverse fish life. Divers often encounter honeycomb moray eels, giant moray eels, grouper, snapper schools, rays, eagle rays, sea turtles, and various reef fish including anthias and butterflyfish. Pelagic visitors such as barracuda and jacks are common along the wall face.
+Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-Begin your descent along the wall starting at 7 meters depth where the anchor line is attached. Swim either north or south along the wall depending on current direction. The wall rises from a small plateau at 22–24 meters back toward shallow water. Sand chutes mark transitions between wall sections. Most interesting marine life and coral formations are found between 10–24 meters.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-24 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
@@ -62,7 +61,7 @@ Wall dives offer stunning wide-angle opportunities with dramatic depth perspecti
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

@@ -13,31 +13,30 @@ addedBy: osm_import
 
 ## Le Grande Bleu
 
-Named after the celebrated 1988 film of the same name, Le Grande Bleu is a shallow reef dive near Manganari in Crete where diving boat scenes were filmed. The site is known for crystal-clear water and excellent beginner access.
+Le Grande Bleu is a reef dive site in Greece, Europe.
 
 ## Overview
 
-This historically significant dive site in front of Manganari beach and Tris Klisies Bay offers the calm, shallow conditions featured in the film "The Big Blue." Perfect for beginners and families, the site features healthy reef structures and exceptional water clarity typical of southern Crete. Local divers, including records from Spiti Louka, have contributed to knowledge of this site.
+Le Grande Bleu is a dive site in Greece offering excellent diving on healthy coral reef structures . diving boat scenes of the movie The Big Blue in front of Manganari and/or Tris Klisies bay. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
 
 ## Site Information
 
-- **Location**: Manganari, Crete, Greece
+- **Location**: Greece, Europe
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 15-35 meters (50-115 feet)
-- **Current**: Light
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Light to moderate
 - **Best Time**: May to October
-- **Historical Note**: Featured in the 1988 film "The Big Blue"
 
 ## Marine Life
 
-Reef fish including sea bream, damselfish, and small groupers are abundant. Octopus, moray eels, and crustaceans inhabit deeper reef crevices. The shallow reef structure supports healthy coral growth and provides excellent habitat for small Mediterranean species.
+Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
 
 ## Dive Profile
 
-Descend to 8-12 meters over sand and shallow reef structures. Explore the reef edge where most fish activity occurs at 10-18 meters. The dive remains shallow enough for excellent natural light photography. Maximum depth of 20 meters ensures comfortable bottom times for all certification levels.
+The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -45,6 +44,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
+- Excellent site for newer divers — calm conditions and easy navigation
 - Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

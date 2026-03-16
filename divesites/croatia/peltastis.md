@@ -13,36 +13,30 @@ addedBy: osm_import
 
 ## Peltastis
 
-The Peltastis is a Greek cargo ship that sank in 1968 off the island of Krk in the Kvarner Bay. Located approximately 100 meters from shore, this wreck is accessible to recreational divers and offers a good mix of depth variation and marine life. It's a popular site for divers seeking a more accessible wreck experience in the Adriatic.
+Peltastis is a historic wreck dive in Croatia, Europe.
 
 ## Overview
 
-The Peltastis was a 60-meter Greek cargo vessel that sank on January 8, 1968. The wreck lies in relatively good condition, with the mast visible from 10 meters depth and the main hull structure starting to become discernible from that depth. The maximum depth reaches 32 meters. The wreck has become home to abundant marine life due to its artificial reef structure created by the hull plates and encrusting organisms.
+Peltastis is a dive site in Croatia featuring the wreck of the Peltastis which sank in 1968-01-08. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
 
 ## Site Information
 
-- **Location**: Off Šilo, Island of Krk, Kvarner Bay, Croatia
-- **Distance from Shore**: ~100 meters
+- **Location**: Croatia, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
-- **Depth Range**: Mast at 10m, hull features 20-32 meters
-- **Wreck Dimensions**: 60 meters long
-- **Typical Visibility**: Average 10 meters
-- **Current**: Moderate
-- **Best Time**: June to September
+- **Maximum Depth**: 32 meters
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Light to moderate
+- **Best Time**: May to October
 
 ## Marine Life
 
-The wreck is heavily colonized with sponges and soft corals, creating vibrant coloration ranging from reds to yellows. Hull plates are encrusted with marine growth. Conger eels and scorpionfish are commonly sighted. Fish schools have taken over the mast structure. The site offers good opportunities for observing how marine life colonizes wreck structures.
+Divers at this site can expect to encounter conger eels, lobsters, crabs, anemones, coral encrustation, groupers, moray eels, octopus. Additional species commonly sighted include barracuda, sea bream, amberjack. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
 
 ## Dive Profile
 
-Descent to mast (10m) takes 2 minutes. The ship's hull structure becomes increasingly visible as you descend to 20-32 meters. Most recreational divers explore the 10-25m range, which offers good bottom time and interesting structural features. The maximum depth of 32 meters requires careful air management but is suitable for trained intermediate divers.
-
-## Safety Considerations
-
-Average visibility is moderate (10m), so stay close to your buddy. Watch air consumption at depth. The site is suitable for recreational diving with proper training and certification.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 32 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -67,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

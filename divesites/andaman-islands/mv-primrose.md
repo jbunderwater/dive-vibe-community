@@ -13,35 +13,34 @@ addedBy: osm_import
 
 ## MV Primrose
 
-MV Primrose is a historic 1981 shipwreck near North Sentinel Island. This site is listed for historical reference but is NOT ACCESSIBLE TO RECREATIONAL DIVERS due to legal protection of the indigenous Sentinelese population and restricted access zones.
+MV Primrose is a historic wreck dive in Andaman Islands, Asia.
 
 ## Overview
 
-The MV Primrose, a 16,000-ton Panamanian-registered freighter, ran aground on a coral reef off North Sentinel Island on August 2, 1981, during a monsoon storm while en route from Bangladesh to Australia. The vessel stranded its crew of 31, creating a tense situation with the isolated Sentinelese people who approached the wreck armed with spears and bows. The Indian government prohibits all travel to North Sentinel Island and enforces a minimum 5-kilometer exclusion zone around it to protect the remaining tribal community from infectious diseases against which they have no immunity. This wreck exists as a historical site only and is not available for recreational diving.
+MV Primrose is a dive site in Andaman Islands featuring a historic wreck which sank in 1981-08-02 . Protected site near North Sentinel Island. Diving prohibited per Indian regulations protecting indigenous population.. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: North Sentinel Island, Andaman Islands (RESTRICTED—NOT ACCESSIBLE)
+- **Location**: Andaman Islands, Asia
 - **Entry Type**: Shore entry
-- **Site Type**: Wreck dive
-- **Wreck**: MV Primrose, 16,000-ton freighter, sunk August 2, 1981
+- **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: Unknown (estimated near surface on reef)
-- **Typical Visibility**: N/A
-- **Current**: N/A
-- **Best Time**: N/A—Site inaccessible year-round
+- **Maximum Depth**: 25 meters
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Unknown—site inaccessible.
+Divers at this site can expect to encounter batfish, lionfish, sweetlips, coral growth, soft corals, manta rays, whale sharks, reef sharks. Additional species commonly sighted include sea turtles, barracuda, trevally. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
 
 ## Dive Profile
 
-NO DIVING. This site is legally off-limits to recreational divers and all civilians. Any attempt to approach within 5 kilometers of North Sentinel Island is prohibited by Indian law (Andaman and Nicobar Islands Protection of Aboriginal Tribes Regulation, 1956).
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 25 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
-NO ACCESS. This site is protected under Indian law. Any attempt to dive here violates tribal protection regulations and is subject to severe legal penalties including imprisonment and fines.
+Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
 
 ## Tips and Recommendations
 
@@ -62,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Lobster Lairs
 
-Lobster Lairs is named for the numerous lobsters living in small cracks and crevices along a superb coral-encrusted wall. The site features beautiful hard and soft corals, reef sharks patrolling the blue, and excellent opportunities for macro photography of tiny creatures in wall crevices.
+Lobster Lairs is a wall dive site in Sipadan, Asia.
 
 ## Overview
 
-Lobster Lairs is a wall dive accessed from the shore with a sharp drop to unseen depths surrounding Sipadan Island. The wall is covered in hard and soft corals, creating intricate habitats. Rocky outcrops and crevices shelter numerous lobsters, seahorses, leaffish, and frogfish. The site is renowned for macro photography opportunities with abundant small cryptic species. Currents are moderate, and visibility is typically 20-30 meters. The site is accessible year-round.
+Lobster Lairs is a dive site in Sipadan featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Shore access point, Sipadan
+- **Location**: Sipadan, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 22 meters
-- **Typical Visibility**: 20-30 meters (65-100 feet)
-- **Current**: Moderate
-- **Best Time**: Year-round accessible (October to April for best conditions)
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Lobsters are the signature species, sheltering in wall crevices throughout the dive. Additional macro subjects include seahorses, leaffish, frogfish, and pipefish. Reef sharks (whitetip, blacktip) patrol the blue. Larger pelagics (manta rays, trevally) occasionally visit. The wall hosts abundant coral-associated reef fish, nudibranchs, and invertebrates. Sea turtles are commonly sighted.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-Descend along the coral-encrusted wall, examining crevices and overhangs where lobsters and macro subjects hide. Most diving occurs between 10-22 meters. The wall face provides an excellent reference during the dive. Use macro photography techniques and close focus to observe the small creatures that make Lobster Lairs special. The moderate currents and excellent visibility allow for deliberate, photography-focused exploration.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-22 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
@@ -44,11 +44,12 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
+- Watch your depth carefully — wall dives can lead to unintentional deep descents
+- Look in crevices and overhangs for hidden marine life
 - Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
 - Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
@@ -56,11 +57,11 @@ Be aware of strong currents, jellyfish, sea urchins in this area. Dive within yo
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

@@ -13,23 +13,22 @@ addedBy: osm_import
 
 ## Las Terrenas Drop-Off
 
-Las Terrenas offers dramatic wall and canyon diving on the Samaná Peninsula's northern coast. The Tibisi wall and famous Tower (Piedra Bonita) feature walls starting at 6 meters and dropping beyond 30 meters. La Farola wall reaches 25 meters with depths of 12-20 meters. Excellent coral and diverse marine life make this a scenic intermediate dive.
+Las Terrenas Drop-Off is a wall dive site in Dominican Republic, Caribbean.
 
 ## Overview
 
-Las Terrenas provides more secluded diving with excellent coral conditions and abundant soft corals and marine diversity. The area features canyons, caverns, coral reefs, and dramatic walls. Walls such as La Farola and Tibisi offer excellent opportunities for intermediate divers to explore vertical geography. The Ballenas dive site is noted for dramatic coral structures and abundant marine life. Best conditions occur May to September with stable water.
+Las Terrenas Drop-Off is a dive site in Dominican Republic featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Las Terrenas, Samaná Province, Dominican Republic
+- **Location**: Dominican Republic, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
-- **Top of Wall**: 6 meters (20 feet)
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
-- **Best Time**: May to September (stable conditions)
+- **Best Time**: December to April (dry season)
 
 ## Marine Life
 
@@ -37,7 +36,7 @@ Divers at this site can expect to encounter sea turtles (green, hawksbill), sout
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-35 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-30 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
@@ -54,7 +53,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -62,7 +61,7 @@ Wall dives offer stunning wide-angle opportunities with dramatic depth perspecti
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

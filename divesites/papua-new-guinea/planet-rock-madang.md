@@ -13,17 +13,17 @@ addedBy: osm_import
 
 ## Planet Rock Madang
 
-Planet Rock Madang is a reef dive site in Papua New Guinea, Pacific.
+Planet Rock Madang is a pinnacle dive site in Papua New Guinea, Pacific.
 
 ## Overview
 
-Planet Rock is Madang's most famous dive site: a volcanic seamount rising from 600 meters depth to within 5 meters of the surface. Strong ocean currents sweep around and across the apex, creating an exceptional pelagic experience with schools of barracuda, trevally, mackerel, tuna, rainbow runners, and batfish. Divers also have good chances of encountering hammerhead sharks, grey reef sharks, and occasionally tiger and silvertip sharks in crystal clear waters.
+Planet Rock Madang is a dive site in Papua New Guinea offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
 - **Location**: Papua New Guinea, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle/seamount
+- **Site Type**: Pinnacle
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter manta rays, reef sharks (grey, white
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

@@ -13,17 +13,17 @@ addedBy: osm_import
 
 ## Bianca C
 
-The Bianca C is the "Titanic of the Caribbean" and the largest wreck in the Caribbean. This cruise ship sank in 1961 after a boiler explosion and fire while preparing to depart Grenada. Now a spectacular artificial reef encrusted with hard and soft corals.
+Bianca C is a historic wreck dive in Grenada, Caribbean.
 
 ## Overview
 
-The Bianca C is Grenada's most famous dive site and a true deep wreck experience. This 600-foot cruise ship sits upright on the bottom at 28-40 meters depth. After more than 60 years underwater, the wreck is covered in a "beautiful tapestry of hard and soft corals" and home to abundant marine life including barracuda, spotted eagle rays, and schools of jacks. Located in the Caribbean region, this site offers excellent visibility with water temperatures averaging 26-29°C.
+Bianca C is a dive site in Grenada featuring the wreck of the Bianca C. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
 - **Location**: Grenada, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter groupers, snappers, soldierfish, gla
 
 ## Dive Profile
 
-The dive begins with a descent to the bow section, which looms dramatically into view around 28 meters. The fully intact structure allows exploration of exterior features and, for qualified penetration divers, accessible interior spaces including the massive on-deck swimming pool. Plan your dive to 40 meters maximum with appropriate bottom time for your certification level (40m+ certification required to fully explore the wreck). Monitor air supply carefully and begin your ascent with adequate reserve for extended safety stops at depth.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 40 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -61,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

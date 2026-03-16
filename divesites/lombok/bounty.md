@@ -13,17 +13,17 @@ addedBy: osm_import
 
 ## Bounty
 
-Bounty is a sunken jetty wreck off the west coast of Gili Meno, sunk during a storm in 1999 and now home to abundant marine life.
+Bounty is a historic wreck dive in Lombok, Asia.
 
 ## Overview
 
-The Bounty Wreck is a shallow jetty structure that sank during a storm in 1999 off Gili Meno, now at approximately 18 meters depth. This accessible wreck site is completely colonized by marine life and serves as an excellent habitat for schooling fish. The wreck provides excellent opportunities for both wreck exploration and observing the coral regrowth process on the structure.
+Bounty is a dive site in Lombok featuring the wreck of the Bounty . source is Diveschool Notice Board - Location might have to be checked with a GPS. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
 - **Location**: Lombok, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
@@ -32,7 +32,7 @@ The Bounty Wreck is a shallow jetty structure that sank during a storm in 1999 o
 
 ## Marine Life
 
-The Bounty wreck is now home to schooling drummerfish, scorpionfish, soft corals, and encrusting invertebrates. The structure attracts schools of fusiliers, snappers, and other reef fish seeking shelter among the wooden framework. Moray eels and octopuses are commonly found in the wreck's crevices and hollows.
+Divers at this site can expect to encounter batfish, lionfish, sweetlips, coral growth, soft corals, manta rays, whale sharks, reef sharks. Additional species commonly sighted include sea turtles, barracuda, trevally. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
 
 ## Dive Profile
 
@@ -44,12 +44,12 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
 - Bring a dive torch to illuminate wreck interiors and dark overhangs
 - Maintain proper buoyancy to avoid disturbing silt inside the wreck
 - Do not attempt penetration without proper training and equipment
 - Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
 
 ## Safety Considerations
 
@@ -61,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

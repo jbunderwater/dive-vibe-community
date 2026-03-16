@@ -13,17 +13,17 @@ addedBy: osm_import
 
 ## Kimon M
 
-The Kimon M is the deepest wreck in the Abu Nuhas cluster and locally known as the "Lentil Wreck" due to its cargo of lentils. This 120-meter cargo vessel sank in December 1978 after hitting Abu Nuhas reef. The wreck lies in 32 meters at the stern, making it an intermediate-to-advanced dive.
+Kimon M is a historic wreck dive in Red Sea, Middle East.
 
 ## Overview
 
-The Kimon M sank as a result of a quick response from another passing cargo ship, which prevented greater loss of life. The vessel is well-preserved with its structure relatively intact. The stern at 32 meters is deeper than most Abu Nuhas wrecks, requiring good depth management. The site is frequently dived in sequence with the nearby Chrisoula K and Giannis D, allowing divers to explore multiple wrecks in a single boat trip.
+Kimon M is a dive site in Red Sea featuring the wreck of the Kimon M. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
 
 ## Site Information
 
 - **Location**: Red Sea, Middle East
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 32 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter glassy sweepers, lionfish, groupers,
 
 ## Dive Profile
 
-Begin descent along the anchor line to the wreck at 20-25 meters, then explore down to the stern at 32 meters. The relatively intact structure provides good navigation landmarks. Depth management is important—limit bottom time to 40-45 minutes to ensure adequate air for ascent and safety stops. Explore the cargo holds and exterior structure, but be cautious of overhead structures if considering any light penetration. The site offers good visibility of the entire wreck profile from the shallower bow to the deeper stern. Ascend with a safety stop at 5 meters. This site is best dived by intermediate-to-advanced divers familiar with deeper recreational diving.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 32 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -61,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

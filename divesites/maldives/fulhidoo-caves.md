@@ -13,22 +13,22 @@ addedBy: osm_import
 
 ## Fulhidoo Caves
 
-Fulhidoo Caves is an advanced cavern dive site located in Vaavu Atoll, Maldives.
+Fulhidoo Caves is a cave dive site in Maldives, Asia.
 
 ## Overview
 
-Fulhidoo Caves features impressive underwater cave and cavern formations with openings to natural light. The site is suitable for cavern (non-penetration) diving where divers can observe cave entrances and enjoy the dramatic rock formations without entering the cave system. Advanced divers with cavern experience can explore selected formations. Visibility typically ranges from 20-35 meters, with water temperatures averaging 26-29°C year-round.
+Fulhidoo Caves is a dive site in Maldives featuring underwater cave and cavern formations. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Vaavu Atoll, Maldives
+- **Location**: Maldives, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/cavern
+- **Site Type**: Cave/Cavern
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 22 meters
-- **Typical Visibility**: 20-35 meters (65-115 feet)
-- **Current**: Mild to moderate
-- **Best Time**: October to April (dry season)
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter manta rays, whale sharks, reef shark
 
 ## Dive Profile
 
-Fulhidoo Caves features multiple cave and cavern entrances at varying depths between 8-22 meters. Divers typically work their way through the formations, observing cave entrances and distinctive geological formations. The caves have light penetration from natural openings, allowing viewing without full cave penetration. Dives typically involve circular routes around the cave formations with time spent at different depth levels.
+The site offers diving at depths ranging from shallow reef areas down to approximately 22 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -44,18 +44,15 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Advanced certification required; cavern experience strongly recommended
-- Do not attempt to penetrate caves without proper training
-- Carry a torch to illuminate cave entrances and interior details
-- Excellent for macro and dramatic wide-angle photography
-- Stay aware of maximum depth at all times
-- Observe cave entrances only; stay outside unless trained for cave diving
-- Watch for poor visibility inside cave openings
-- Bring a backup light due to potential shadows and low-light conditions
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
+- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
-NEVER enter caves without proper cave diving training and equipment. Disorientation and silt disturbance are major hazards in cave systems. Maintain excellent buoyancy to prevent silt clouds that reduce visibility. Use a dive light at all times. Do not exceed 22m depth. Always dive with an experienced buddy. Watch for entanglement hazards around cave formations. If you have not trained for cavern diving, observe from safe distances and do not approach cave openings.
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -63,8 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Website**: http://www.dive-links.com/tauchplatz.php?id=2134
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

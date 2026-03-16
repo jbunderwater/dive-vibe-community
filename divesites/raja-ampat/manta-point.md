@@ -17,7 +17,7 @@ Manta Point is a reef dive site in Raja Ampat, Asia.
 
 ## Overview
 
-Manta Point is a premier drift dive in Raja Ampat famous for manta ray encounters. Large pelagic mantas congregate at this site seasonally, making it one of Raja Ampat's signature attractions. The site offers excellent visibility (10-40 meters) with water temperatures averaging 26-30°C.
+Manta Point is a dive site in Raja Ampat offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter manta rays, whale sharks, reef shark
 
 ## Dive Profile
 
-Manta Point typically runs as a drift dive. Enter in shallow waters (5m) and drift with the current. The site drops to approximately 20 meters. Position yourself in the water column 5-15m deep to encounter passing mantas during plankton bloom periods. The current carries nutrient-rich water that attracts the mantas. Plan your dive within your certification limits and have a safety stop plan in place.
+The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -59,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

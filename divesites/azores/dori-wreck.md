@@ -17,26 +17,26 @@ Dori Wreck is a historic wreck dive in Azores, Europe.
 
 ## Overview
 
-The Dori (MV Dori) is a WWII-era Liberty ship wreck resting on sandy seafloor just 800 meters off Ponta Delgada, making it one of the most accessible deep wrecks in the Azores. Originally named SS Thomas Donaldson, this American-built cargo vessel played a vital role in WWII operations including Operation Overlord along the Normandy coast. The ship sank on January 16, 1964, and now serves as an underwater archaeological park. Located just 5 minutes from Ponta Delgada port, the Dori is ideal for wreck divers developing penetration skills.
+Dori Wreck is a dive site in Azores featuring the wreck of the Dori Wreck. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
 
 ## Site Information
 
-- **Location**: São Miguel Island, Azores (800m off Ponta Delgada)
+- **Location**: Azores, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 15-25 meters (50-80 feet)
+- **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: May to October
 
 ## Marine Life
 
-The stern remains quite intact and is surrounded by clouds of small fish and occasional pelagic shoals. Encrusting corals, anemones, and colonial tunicates blanket the wreck structure. The hull cavities provide habitat for groupers, conger eels, moray eels, octopus, lobsters, and crabs. This site is renowned as one of the Azores' premier macro photography destinations due to extensive biofouling.
+Divers at this site can expect to encounter conger eels, lobsters, crabs, anemones, coral encrustation, groupers, moray eels, octopus. Additional species commonly sighted include barracuda, sea bream, amberjack. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
 
 ## Dive Profile
 
-Descend to the intact stern (northern section) at approximately 9 meters, working deeper to the bow at 20 meters on sandy seafloor. The wreck's shallow-water positioning makes it accessible for divers developing wreck penetration skills. Without proper training, remain outside the hull. Bring a torch to illuminate interior features and colonizing organisms. The close proximity to shore and moderate depths make this an excellent training site.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 20 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -44,12 +44,12 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
+- Excellent site for newer divers — calm conditions and easy navigation
 - Bring a dive torch to illuminate wreck interiors and dark overhangs
 - Maintain proper buoyancy to avoid disturbing silt inside the wreck
 - Do not attempt penetration without proper training and equipment
 - Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
 
 ## Safety Considerations
 
@@ -61,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

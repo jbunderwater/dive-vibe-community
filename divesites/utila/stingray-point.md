@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Stingray Point
 
-A biodiverse garden of healthy pillar coral and sand channels featuring exceptional opportunities to spot rays, seahorses, and garden eels.
+Stingray Point is a reef dive site in Utila, Caribbean.
 
 ## Overview
 
-Stingray Point is renowned for the healthiest coral on the island, with picturesque pillar coral formations. The site features a wide sand channel separating two reefs, with the buoy at about 15 feet on the reef top. A sand slope extends to greater depths where seahorses, garden eels, and spotted eagle rays frequently congregate. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Stingray Point is a dive site in Utila offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Utila, Caribbean (South shore, 30-35 minutes from dive centers)
+- **Location**: Utila, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
@@ -32,11 +32,11 @@ Stingray Point is renowned for the healthiest coral on the island, with pictures
 
 ## Marine Life
 
-This is a premier site for spotting stingrays in the sand channel. Spotted eagle rays frequently glide by or feed below. Look for seahorses, garden eels, flounder, pipefish, and upside-down jellies in the sand. On the reef, expect sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish, blue tangs, and trumpetfish. This is a great site for finding seahorses, garden eels, and potentially even stargazers and flying gunards.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
 
 ## Dive Profile
 
-Begin on the reef top at approximately 15 feet. Explore the pillar corals and healthy reef structures. Then work across the wide sand channel looking for seahorses and garden eels. The sand slopes down to 40+ feet where spotted eagle rays and large stingrays congregate. Excellent site for macro enthusiasts seeking cryptic creatures. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 40 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -44,13 +44,9 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers—calm conditions and easy navigation
-- Perfect for macro enthusiasts; spend time scanning the sand for small critters
-- Look along the sand channel edges for seahorses and pipefishes
-- Bring a macro lens and be patient for ray sightings in the sand
+- Excellent site for newer divers — calm conditions and easy navigation
 - Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera—this site offers excellent macro photography opportunities
-- This is the last buoy heading south, so plan accordingly for travel time
+- Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
 - Respect marine life and maintain proper buoyancy to protect the reef
 
@@ -64,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

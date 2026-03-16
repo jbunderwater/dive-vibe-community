@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Dragon Bay
 
-Dragon Bay is one of the unmissable coral reef dive sites in Grenada's collection. This site offers a classic Caribbean reef diving experience with abundant marine life and healthy coral formations.
+Dragon Bay is a reef dive site in Grenada, Caribbean.
 
 ## Overview
 
-Dragon Bay offers intermediate reef diving with a good mix of coral structures and marine life. The site reaches approximately 18 meters and is suitable for divers with basic open water certification and beyond. Located in the Caribbean region, this site offers excellent visibility with water temperatures averaging 26-29°C.
+Dragon Bay is a dive site in Grenada offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
@@ -59,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

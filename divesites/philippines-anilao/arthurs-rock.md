@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Arthur's Rock
 
-Arthur's Rock is a marine sanctuary in Bagalangit, Mabini, Batangas, named after the diver and owner of Arthur's Place Dive Resort.
+Arthur's Rock is a reef dive site in Philippines Anilao, Asia.
 
 ## Overview
 
-Arthur's Rock is located right in front of Crystal Blue Resort and features an ideal dive spot for divers of all levels. The site is renowned for its stunning coral formations and the unique 'Dead Palm' feature, making it a hotspot for nudibranch enthusiasts. Average depth is 10 meters with maximum of 21 meters. Currents are present but never too strong, making for an extremely pleasant drift dive. Visibility reaches at least 10 meters in regular conditions, up to 20 meters in optimal conditions.
+Arthur's Rock is a dive site in Philippines Anilao offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Bagalangit, Mabini, Anilao, front of Crystal Blue Resort
+- **Location**: Philippines Anilao, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
@@ -32,11 +32,11 @@ Arthur's Rock is located right in front of Crystal Blue Resort and features an i
 
 ## Marine Life
 
-Arthur's Rock features abundant marine life including soft corals, feather stars and sponges, gorgonians, whip corals which are home to nudibranchs, many colorful and tiny reef fishes, groupers, snappers, and turtles. Barracudas occasionally visit. The site is renowned for its stunning coral formations and exceptional nudibranch diversity, making it a hotspot for nudibranch enthusiasts and macro photographers.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 21 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -44,6 +44,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
+- Excellent site for newer divers — calm conditions and easy navigation
 - Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
@@ -60,7 +61,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

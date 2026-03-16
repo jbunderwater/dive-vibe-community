@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Aldabra Atoll Channel
 
-The channels at Aldabra Atoll provide adrenaline-inducing drifts into the inner lagoon, where doctor fish, snappers, manta rays, black-tip sharks, dolphins, and hammerhead sharks create dynamic encounters. This remote location is home to some of Seychelles' best diving.
+Aldabra Atoll Channel is a drift dive site in Seychelles, Africa.
 
 ## Overview
 
-Aldabra Atoll is one of the world's most remote and pristine diving destinations. The channels offer drift diving experiences with abundant marine life, including larger species like hammerheads, silvertips, and occasionally whale sharks. These are advanced dives reserved for liveaboard expeditions. Water temperatures average 20-29°C with typically excellent visibility.
+Aldabra Atoll Channel is a dive site in Seychelles offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
 
 ## Site Information
 
-- **Location**: Aldabra Atoll, Outer Islands (remote liveaboard access only)
+- **Location**: Seychelles, Africa
 - **Entry Type**: Boat dive
-- **Site Type**: Drift dive
+- **Site Type**: Drift
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: Excellent (20-40m+ in clear conditions)
-- **Current**: Strong to very strong (drift diving essential)
-- **Best Time**: October-March (seasonal liveaboard expeditions)
+- **Typical Visibility**: 10-30 meters (30-100 feet)
+- **Current**: Moderate to strong
+- **Best Time**: October to March (East Africa), varies by location
 
 ## Marine Life
 
-Aldabra Atoll channels host exceptional marine life diversity. Drift diving reveals doctor fish, snappers, manta rays, black-tip sharks, dolphins, and occasionally hammerhead sharks in deeper sections. Deeper areas attract trevally, dogtooth tuna, silvertips, grey reef sharks, nurse sharks, and other large predatory species. Several shark species may appear including hammerhead, bull, silver tip, tawny nurse, white tip reef and grey reef sharks. This is one of the few places in Seychelles where hammerheads are regularly sighted.
+Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
 
 ## Dive Profile
 
-Channel drifts typically begin in shallower water (10-15m) at the channel entrance and allow current to carry you through. Specific dive sites like 'Magnificent City' (10-25m depth) feature extensive anemone coverage. 'Hammertime' offers chances to see scalloped hammerheads. Deeper sections venture to 25m+. This is true drift diving — follow the current and be picked up at exit points. Navigation and awareness of surroundings are critical given the strong flows.
+The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -44,17 +44,15 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Access only via liveaboard expeditions — day boat trips are not practical from this remote location
-- Book in advance — limited seasonal availability (October-March)
-- Bring a robust underwater camera — the exceptional marine life and waters offer outstanding subjects
-- Be prepared for strong currents and dramatic encounters with large species
-- Maintain awareness of your dive profile given the distances and currents
-- Carry a surface marker buoy (SMB) — this is essential for safe pickup in strong currents
-- Be respectful around large sharks and maintain calm, composed demeanor underwater
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
+- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
-This is a remote, advanced drift diving destination reserved for experienced divers. Strong currents are constant and are the defining feature of these dives. Excellent current diving skills and experience with large shark encounters are essential. Large predatory sharks are common — maintain calm, non-threatening behavior and follow dive guide instructions. The extreme remoteness means rescue response time is extended, requiring exceptionally conservative diving practices. Always dive with a buddy and surface marker buoy (SMB). Dive only with operators experienced in Aldabra's unique conditions and always follow site-specific briefings.
+Be aware of strong currents, jellyfish, remote locations in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -62,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

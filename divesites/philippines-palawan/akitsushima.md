@@ -17,13 +17,13 @@ Akitsushima is a historic wreck dive in Philippines Palawan, Asia.
 
 ## Overview
 
-Akitsushima is a dive site in Philippines Palawan featuring the wreck of the Akitsushima . Akitsushima wreck - Navy seaplane tender - 118m (22 to 36m). Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Akitsushima is a dive site in Philippines Palawan featuring the wreck of the Akitsushima . Japanese Navy seaplane tender sunk 24 September 1944. Wreck lies on port side in 36m, with upper surfaces at 22m. Advanced wreck diving required.. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
 - **Location**: Philippines Palawan, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 36 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
@@ -61,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

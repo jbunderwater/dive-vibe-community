@@ -13,21 +13,21 @@ addedBy: osm_import
 
 ## WIT Shoal II Wreck
 
-The WIT Shoal II is probably the most famous wreck dive in the USVI, a large 327-foot freighter that sank in 1984 during Hurricane Klaus off St. Thomas.
+WIT Shoal II Wreck is a historic wreck dive in US Virgin Islands, Caribbean.
 
 ## Overview
 
-The vessel was originally a WWII-era tank landing ship (USS LST-467) that later became the West Indies Trading company's inter-island freighter. It now rests with the top of the wreck visible from the surface on calm days. The wreck lies in approximately 70 feet of water on sand, making it an excellent subject for exploration and photography. The ship is colonized by abundant marine life including barracudas, moray eels, colorful tropical fish, and notably reef sharks that have claimed the wreck as their home. The engine room is famously known to house a 600-pound jewfish. One-dive penetration is accessible on most decks without formal training due to abundant natural light and minimal confined spaces.
+WIT Shoal II Wreck is a dive site in US Virgin Islands featuring the wreck of the WIT Shoal II Wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: St. Thomas, US Virgin Islands, Caribbean
+- **Location**: US Virgin Islands, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 21 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong (can be unpredictable)
+- **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter groupers, snappers, soldierfish, gla
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 26 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 21 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -61,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

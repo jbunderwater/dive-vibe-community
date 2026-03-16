@@ -13,20 +13,19 @@ addedBy: osm_import
 
 ## Catalina Wall
 
-Catalina Island's famous wall dive features some of the Caribbean's tallest pillar corals, healthy elkhorn stands, and enormous vase sponges. The wall starts at 5 meters depth and drops beyond 40 meters, making it accessible for all experience levels with proper depth management.
+Catalina Wall is a wall dive site in Dominican Republic, Caribbean.
 
 ## Overview
 
-The Wall at Catalina Island is considered among the very best wall dives in the Dominican Republic. Divers encounter extensive coral formations including the tallest Caribbean pillar corals alongside healthy elkhorn coral gardens and massive vase sponges. Colorful schools of grunts and creole wrasse surround the coral heads, and seahorses are frequently spotted here. The wall structure creates distinct dive profiles suitable for both newer and experienced divers.
+Catalina Wall is a dive site in Dominican Republic featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Catalina Island, near Bayahibe, Dominican Republic
+- **Location**: Dominican Republic, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 40 meters
-- **Top of Wall**: 5 meters (16 feet)
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
@@ -37,7 +36,7 @@ Divers at this site can expect to encounter sea turtles (green, hawksbill), sout
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-30 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-40 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
@@ -54,7 +53,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -62,7 +61,7 @@ Wall dives offer stunning wide-angle opportunities with dramatic depth perspecti
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

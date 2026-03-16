@@ -3,7 +3,7 @@ name: Halfway Wall
 lat: -13.8487161
 lng: 146.563876
 difficulty: Beginner
-maxDepth: 20
+maxDepth: 22
 entryType: boat
 siteType: wall
 ref: null
@@ -25,7 +25,7 @@ Halfway Wall is a dive site in Great Barrier Reef featuring a dramatic vertical 
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 22 meters
 - **Typical Visibility**: 15-40 meters (50-130 feet)
 - **Current**: Variable
 - **Best Time**: September to February
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter great white sharks, grey nurse shark
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-20 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-22 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
@@ -61,7 +61,7 @@ Wall dives offer stunning wide-angle opportunities with dramatic depth perspecti
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

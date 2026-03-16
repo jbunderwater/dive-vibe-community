@@ -13,17 +13,17 @@ addedBy: osm_import
 
 ## Veronica L Wreck
 
-The Veronica L was a cargo ship from Trinidad that started taking on water at anchor outside St. George's Harbor in 1993. Rather than be salvaged, she was intentionally re-floated and repositioned off Grand Anse Beach to create an artificial reef at approximately 15 meters depth in the sand.
+Veronica L Wreck is a historic wreck dive in Grenada, Caribbean.
 
 ## Overview
 
-The Veronica L is an excellent beginner-friendly wreck due to its small size, shallow depth, and placement in sand. Good light penetration makes it ideal for photography, and divers can cover the entire wreck multiple times during a single dive. The small cargo vessel now teems with marine life and coral growth. Located in the Caribbean region, this site offers excellent visibility with water temperatures averaging 26-29°C.
+Veronica L Wreck is a dive site in Grenada featuring the wreck of the Veronica L Wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
 - **Location**: Grenada, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter groupers, snappers, soldierfish, gla
 
 ## Dive Profile
 
-The dive begins with descent to the intact wreck structure at 15 meters. The small size allows thorough exploration of the entire vessel during a single dive. Good natural light penetrates throughout the wreck, making it safe and photogenic. Newer divers can comfortably spend significant bottom time, and the sand bottom provides easy reference points. Multiple dives are recommended to fully photograph and explore the site.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 15 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -61,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

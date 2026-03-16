@@ -4,30 +4,33 @@ addedBy: osm_import
 
 ## South Australia Neptune Islands
 
-Premier great white shark cage diving destination with crystal-clear waters.
+World-renowned great white shark cage diving destination with cold-water kelp forests and diverse marine life.
 
 ## Description
 
-South Australia Neptune Islands is a notable diving destination in the Oceania region with depths ranging from 5 to 30 meters. Water temperatures average 20-29°C (68-84°F), with visibility typically reaching 15-40 meters (50-130 feet). Year-round diving is possible, with the best conditions during September to February.
+The Neptune Islands, located 40 nautical miles south of Port Lincoln, South Australia, are an iconic cage diving destination offering surface and submerged cage diving experiences with great white sharks. Depths range from 2 meters (surface cages) to approximately 21 meters (submerged cages lowered to the kelp seabed). Water temperatures range from 14-22°C (57-72°F) with visibility typically reaching 15-20 meters (50-65 feet). The islands are also home to Australian sea lions, long-nosed fur seals, and cold-water reef systems dominated by kelp forests.
 
 ### Diving Opportunities
 
-- **Reef Diving**: Healthy coral reef systems supporting diverse marine ecosystems
-- **Night Diving**: After-dark diving reveals nocturnal marine species and different reef behaviors
+- **Great White Shark Cage Diving (Surface)**: No certification required. Surface cages float in approximately 2 meters of water in sheltered Main and Action Bays. Available year-round with peak activity May-October.
+- **Great White Shark Cage Diving (Submerged)**: Minimum PADI Open Water certification required. Submerged cages are lowered to approximately 21 meters (60-80 feet) along the kelp-covered seabed for intimate encounters with great white sharks.
+- **Australian Sea Lion Encounters**: Recreational dives at Hopkins Island for swimming with playful Australian sea lions and long-nosed fur seals in their natural habitat.
+- **Cold-Water Reef Diving**: Exploration of kelp forests, rocky reefs, caves, and pinnacles rich in cold-water fish species and invertebrate life.
 
 ### Accessibility
 
-- **Getting There**: South Australia Neptune Islands is accessible via international and regional flights to nearby airports. Check with airlines for current routes and connections.
-- **Dive Operators**: Professional dive operators offer equipment rental, guided dives, certification courses, and boat trips to offshore sites.
-- **Accommodation**: Options range from dedicated dive resorts to budget-friendly guesthouses, with many properties located near popular dive sites.
-- **Transportation**: Local transportation and dive operator transfers are the primary means of reaching dive sites.
-- **Facilities**: Dive sites vary in available amenities; operator-run sites typically provide comprehensive facilities while remote sites may have limited infrastructure.
+- **Getting There**: Access via Port Lincoln, approximately 260 km south of Adelaide. International flights connect to Adelaide; regional flights and road transport available to Port Lincoln.
+- **Dive Operators**: Three licensed cage diving operators (Rodney Fox Shark Expeditions, Calypso Star Charters, and others) provide all necessary equipment, briefings, and guided experiences.
+- **Accommodation**: Port Lincoln offers hotel, lodge, and resort options with proximity to dive charter docks.
+- **Transportation**: Dive charters depart from Port Lincoln dock area. Overnight liveaboard options available for extended expeditions.
+- **Facilities**: Professional dive operators provide wetsuits (5-7mm semi-dry recommended for 14-22°C water), breathing apparatus (surface cages use surface-supplied air; submerged cages use scuba), and comprehensive safety briefings.
 
 ### Marine Life & Environment
 
-- **Water Conditions**: Water temperatures range from 20-29°C (68-84°F) with visibility of 15-40 meters (50-130 feet). Currents are generally variable.
-- **Marine Biodiversity**: The waters support diverse marine ecosystems including great white sharks, grey nurse sharks, whale sharks, manta rays, sea turtles, dolphins, dugongs, potato cod, maori wrasse, giant trevally.
-- **Conservation**: Marine protected areas help preserve the reef ecosystems and regulate diving activities.
+- **Water Conditions**: Cold-water environment with temperatures 14-22°C (57-72°F), warmest December-May (18-19°C). Visibility 15-20 meters (50-65 feet). Current: Generally mild in sheltered bays.
+- **Marine Biodiversity**: Great white sharks (males year-round, females April-August), Australian sea lions, long-nosed fur seals, fur seal pups (peak vulnerability April-August), cold-water reef fish, cuttlefish, sea urchins, kelp forest ecosystems, giant crabs.
+- **Seasonal Patterns**: Peak great white activity May-October (cooler water, abundant seal pups); year-round diving possible with variable shark encounters.
+- **Conservation**: Neptune Islands Group Marine Park (established 2012) protects critical seal breeding habitat and regulates tourism. Diving supports marine research and ecosystem monitoring.
 
 ## Additional Information
 

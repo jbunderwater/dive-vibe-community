@@ -13,25 +13,22 @@ addedBy: osm_import
 
 ## Balboa Wreck
 
-The Balboa is a historic 1,389-ton freighter that sunk during a storm near George Town. Located in the main transfer channel, this wreck offers a beginner-friendly dive with healthy coral and sponge encrustation. Access requires planning around cruise ship schedules.
+Balboa Wreck is a historic wreck dive in Cayman Islands, Caribbean.
 
 ## Overview
 
-The Balboa was a 375-foot general cargo freighter that sank during a turbulent storm near George Town. Now sitting in the main transfer channel used by cruise ships, this wreck is partially intact and beautifully encrusted with healthy corals and sponges, supporting diverse marine life. While the wreck structure is not pristine, it offers excellent learning opportunities for newer divers seeking wreck exploration experience. The site's shallow depth and manageable conditions make it suitable for divers progressing beyond basic reef training.
+Balboa Wreck is a dive site in Cayman Islands featuring the wreck of the Balboa Wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: George Town, Grand Cayman, Caribbean
+- **Location**: Cayman Islands, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 32 meters
-- **Vessel Details**: 375-foot general cargo freighter, sunk during storm
-- **Wreck Condition**: Partially intact with healthy coral and sponge growth
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
-- **Access Note**: Located in cruise ship transfer channel; check schedules before diving
 
 ## Marine Life
 
@@ -39,7 +36,7 @@ Divers at this site can expect to encounter groupers, snappers, soldierfish, gla
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 9 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 32 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -64,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

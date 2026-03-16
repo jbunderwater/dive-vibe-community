@@ -3,9 +3,9 @@ name: Light Reef - Phil`s Bommie
 lat: -16.017967
 lng: 145.806383
 difficulty: Beginner
-maxDepth: 20
+maxDepth: 16
 entryType: boat
-siteType: reef
+siteType: pinnacle
 ref: null
 osmId: 663869675
 addedBy: osm_import
@@ -13,19 +13,19 @@ addedBy: osm_import
 
 ## Light Reef - Phil`s Bommie
 
-Light Reef - Phil`s Bommie is a reef dive site in Great Barrier Reef, Oceania.
+Light Reef - Phil`s Bommie is a pinnacle dive site in Great Barrier Reef, Oceania.
 
 ## Overview
 
-Light Reef - Phil`s Bommie is a dive site in Great Barrier Reef offering excellent diving on healthy coral reef structures. Located in the Oceania region, this site offers 15-40 meters of visibility with water temperatures averaging 20-29°C.
+Light Reef - Phil`s Bommie is a scenic coral pinnacle (bommie) featuring excellent coral coverage and abundant reef fish. Located on the Agincourt reef system near Port Douglas, this site offers 12-18 meters of visibility with water temperatures of 23-27°C. Named after a notable dive guide, this bommie is an excellent introduction to pinnacle diving for recreational divers.
 
 ## Site Information
 
 - **Location**: Great Barrier Reef, Oceania
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 16 meters
 - **Typical Visibility**: 15-40 meters (50-130 feet)
 - **Current**: Variable
 - **Best Time**: September to February
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter great white sharks, grey nurse shark
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 16 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-16 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -60,8 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Website**: http://www.dive-links.com/tauchplatz.php?id=2055
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

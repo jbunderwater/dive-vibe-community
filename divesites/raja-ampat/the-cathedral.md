@@ -17,13 +17,13 @@ The Cathedral is a cave dive site in Raja Ampat, Asia.
 
 ## Overview
 
-The Cathedral is a spectacular cavern dive in Raja Ampat featuring dramatic light-filled cave formations. Large cathedral-like chamber formations create an otherworldly diving environment with shafts of sunlight penetrating into the cavern. The site requires intermediate-to-advanced skills and is best done as a cavern dive with trained guides. Visibility often exceeds 20-35 meters with temperatures averaging 27-30°C.
+The Cathedral is a dive site in Raja Ampat featuring underwater cave and cavern formations. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
 - **Location**: Raja Ampat, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/cavern
+- **Site Type**: Cave/Cavern
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter manta rays, whale sharks, reef shark
 
 ## Dive Profile
 
-The Cathedral is best approached as a cavern dive. Enter the shallow cave opening and descend into the chamber (10-25m). Navigate through the formations slowly, maintaining excellent buoyancy to avoid silt disturbance. The cathedral chamber features impressive light play at 10-18m depth. Ensure proper cavern training and dive with local guides familiar with the site. Allow 25-30 minutes for the main chamber exploration plus safety stops.
+The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -52,7 +52,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

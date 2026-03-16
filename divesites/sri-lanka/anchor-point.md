@@ -13,23 +13,22 @@ addedBy: osm_import
 
 ## Anchor Point
 
-Anchor Point is a reef dive site located off the Kalpitiya coast in northwest Sri Lanka. The site features rocky and coral reef formations suitable for intermediate divers.
+Anchor Point is a reef dive site in Sri Lanka, Asia.
 
 ## Overview
 
-Anchor Point offers a variety of reef diving with mixed substrate and coral growth. The site is part of the broader Kalpitiya diving area known for its marine biodiversity. Water temperatures remain warm year-round (27-30°C), with best conditions from November through April. The site features stone and coral reef formations typical of Sri Lanka's northwestern coast.
+Anchor Point is a dive site in Sri Lanka offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Kalpitiya region, northwest coast of Sri Lanka
+- **Location**: Sri Lanka, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Depth Range**: 12-20 meters
-- **Typical Visibility**: 10-20 meters (33-66 feet)
-- **Current**: Variable, moderate to strong in sections
-- **Water Temperature**: 27-30°C year-round
-- **Best Time**: Late November to early May
+- **Maximum Depth**: 20 meters
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
@@ -37,14 +36,15 @@ Divers at this site can expect to encounter manta rays, whale sharks, reef shark
 
 ## Dive Profile
 
-Anchor Point features a moderate slope with rocky formations and coral growth. Descend along the reef structure, starting at 12-15 meters and progressing to 20 meters. The site's stone and coral formations create varied topography suitable for exploration of crevices and overhangs. Average dive duration is 40-45 minutes for recreational dives. The reef structure changes based on depth, with different marine life concentrated at each level.
+The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
+- Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
 - Respect marine life and maintain proper buoyancy to protect the reef
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

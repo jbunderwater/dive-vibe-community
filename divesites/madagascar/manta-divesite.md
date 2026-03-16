@@ -13,31 +13,30 @@ addedBy: osm_import
 
 ## Manta divesite
 
-Manta divesite is a drop-off wall in Nosy Be famous as a consistent manta ray cleaning station.
+Manta divesite is a wall dive site in Madagascar, Africa.
 
 ## Overview
 
-This spectacular wall dive drops from shallow depths to 30+ meters, hosting a reliable cleaning station where manta rays gather year-round. Unlike seasonal manta sites elsewhere, Manta divesite offers consistent opportunities to encounter these graceful giants gliding through the water column. The site features sandy patches interspersed with coral formations and excellent visibility of 15-30 meters in typical conditions.
+Manta divesite is a dive site in Madagascar featuring a dramatic vertical wall that drops into the deep blue. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
 
 ## Site Information
 
-- **Location**: Nosy Be, Madagascar
+- **Location**: Madagascar, Africa
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 15-30 meters
-- **Water Temperature**: 26-30°C year-round
-- **Current**: Variable; can be significant
-- **Best Time**: April-January (year-round manta presence)
+- **Typical Visibility**: 10-30 meters (30-100 feet)
+- **Current**: Moderate to strong
+- **Best Time**: October to March (East Africa), varies by location
 
 ## Marine Life
 
-The primary draw is manta rays, which measure up to 6-7 meters and provide spectacular "dancing" displays as they feed on plankton at the cleaning station. Expect regular sightings at this reliable site. Supporting marine life includes reef sharks, barracudas, jacks, snappers, and diverse reef fish. Seasonal megafauna include whale sharks (September-December) and humpback whales (August-October).
+Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-Descend to 12-18 meters and position yourself on the sandy seabed or gently sloping wall. Manta rays typically cruise the area at these moderate depths while cleaning. The cleaning station operates throughout the day as rays cycle through periodically. Maintain neutral buoyancy and remain patient for encounters. Plan 45-50 minutes at depth with adequate surface interval for safety protocols.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-30 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
@@ -45,11 +44,12 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
+- Watch your depth carefully — wall dives can lead to unintentional deep descents
+- Look in crevices and overhangs for hidden marine life
 - Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
 - Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
@@ -57,11 +57,11 @@ Be aware of strong currents, jellyfish, remote locations in this area. Dive with
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

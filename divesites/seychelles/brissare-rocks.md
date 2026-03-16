@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Brissare Rocks
 
-Brissare Rocks is a remote pinnacle dive site located between Mahé and Praslin Islands, featuring massive granite rock formations with colorful soft corals, nudibranchs, and prolific marine life in a rarely-visited location.
+Brissare Rocks is a pinnacle dive site in Seychelles, Africa.
 
 ## Overview
 
-Brissare Rocks consists of two tiny granite islands rising from the ocean floor, located approximately midway between Mahé and Praslin. The underwater formations feature natural swim-throughs decorated with soft corals and sponges, plus exceptional biodiversity. The isolation of this site means fewer crowds and unique encounters with marine life. Water temperatures average 20-29°C.
+Brissare Rocks is a dive site in Seychelles offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
 
 ## Site Information
 
-- **Location**: Between Mahé and Praslin Islands, Seychelles
+- **Location**: Seychelles, Africa
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle/seamount
+- **Site Type**: Pinnacle
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 12 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong (watch for changes)
-- **Best Time**: April-May, October-November
+- **Current**: Moderate to strong
+- **Best Time**: October to March (East Africa), varies by location
 
 ## Marine Life
 
-Brissare Rocks is a paradise for macro photographers, featuring incredibly colorful nudibranchs, shrimps, and scorpionfish. The boulder formations provide shelter for lionfish, groupers, and hunting opportunities for sharks and rays. Due to its remote location, divers encounter preserved marine life and unique species less commonly seen at frequently-visited sites. Whale shark season (September-November) occasionally brings larger pelagic encounters.
+Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
 
 ## Dive Profile
 
-This pinnacle dive typically involves descent to 8-12 meters where the rock formations begin. The boulder formations create natural swim-throughs decorated with colorful sponges and soft corals. Due to the site's isolation, strong currents are common, so drift diving techniques are often used. Most of the interesting features are between 8-16 meters, making it ideal for intermediate divers who are comfortable with current.
+The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -52,7 +52,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-This remote site is rarely visited, making it essential to dive with experienced operators. Be aware of strong currents — this is not a beginner site despite moderate depth. Carry appropriate signaling devices and be prepared to abort if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB). The isolation means rescue response time is longer, so conservative diving practices are recommended.
+Be aware of strong currents, jellyfish, remote locations in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

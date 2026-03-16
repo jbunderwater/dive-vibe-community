@@ -13,17 +13,17 @@ addedBy: osm_import
 
 ## The Throne Room
 
-The Throne Room is Negril's most iconic cavern dive site, offering spectacular cathedral-like chambers accessible only to experienced divers with proper training.
+The Throne Room is a cave dive site in Jamaica, Caribbean.
 
 ## Overview
 
-The Throne Room stands as Negril's premier cavern diving destination, featuring large underwater chambers and cathedral-like formations best explored with cavern diving certification. Located near Negril's main wall system, this site requires divers to carefully navigate through chambers filled with soft corals, ledges, and overhangs. Visibility is typically excellent (65-130 feet), and the depth ranges from 12 to 21 meters (40-70 feet), making it a challenging but rewarding dive for advanced divers.
+The Throne Room is a dive site in Jamaica featuring underwater cave and cavern formations. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
 - **Location**: Jamaica, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/cavern
+- **Site Type**: Cave/Cavern
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 21 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter sea turtles (green, hawksbill), sout
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 21 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -59,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

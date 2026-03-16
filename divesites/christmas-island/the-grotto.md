@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## The Grotto
 
-An accessible intermediate-level cave dive featuring dramatic entrances and spacious chambers with unique geological formations and colorful reef life.
+The Grotto is a cave dive site in Christmas Island, Oceania.
 
 ## Overview
 
-The Grotto is a popular cave diving site on Christmas Island's limestone cliffs, featuring two large cave entrances at approximately 12 meters depth. The cavern opens into a large room with interesting coral formations growing on interior walls and ceiling structures. The site combines the excitement of cave exploration with reef diving and offers excellent opportunities for observing cave-dwelling fish species and protected reef residents.
+The Grotto is a dive site in Christmas Island featuring underwater cave and cavern formations. Located in the Oceania region, this site offers 15-40 meters of visibility with water temperatures averaging 20-29°C.
 
 ## Site Information
 
-- **Location**: Christmas Island, Oceania (cave site in limestone cliffs)
+- **Location**: Christmas Island, Oceania
 - **Entry Type**: Shore entry
-- **Site Type**: Cave/cavern
+- **Site Type**: Cave/Cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 12 meters
-- **Typical Visibility**: 20+ meters (65+ feet)
+- **Typical Visibility**: 15-40 meters (50-130 feet)
 - **Current**: Variable
 - **Best Time**: September to February
 
 ## Marine Life
 
-The grotto shelters cave-dwelling fish species adapted to low-light conditions. Inside the chamber, divers observe lionfish resting under protected ledges and various small reef fish seeking protection in crevices. Soft and hard corals have colonized the interior walls and ceiling of the cavern. Reef fish including butterflyfish and surgeonfish populate the areas outside the cave entrance. Small crustaceans and other cave-adapted invertebrates are common within the chamber.
+Divers at this site can expect to encounter great white sharks, grey nurse sharks, whale sharks, manta rays, sea turtles, dolphins, dugongs, potato cod. Additional species commonly sighted include maori wrasse, giant trevally, hard corals, soft corals. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
 
 ## Dive Profile
 
-Begin on the reef outside the cave, then descend to approximately 12 meters where two large cave entrances open into a spacious chamber. The cavern opens up dramatically with high ceilings and interesting geological features. Coral formations grow on interior walls and ceiling structures. Maintain conservative depth management and adequate air reserves for safe cave exit. Most interesting features and marine life are found within and around the 12-meter chamber depth.
+The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -58,7 +58,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

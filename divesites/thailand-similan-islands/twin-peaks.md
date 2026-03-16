@@ -13,38 +13,37 @@ addedBy: osm_import
 
 ## Twin Peaks
 
-Twin Peaks is a granite pinnacle dive site famous for whale sharks, manta rays, and sharks in the Similan Islands, Thailand.
+Twin Peaks is a pinnacle dive site in Thailand Similan Islands, Asia.
 
 ## Overview
 
-Twin Peaks is one of the finest dive sites in Thailand, featuring a double-peaked pinnacle with the southern peak topped at 12 meters and descending to 30-45 meters on sandy bottom. This site is renowned for encounters with large pelagic species including whale sharks, manta rays, leopard sharks, and nurse sharks. The site features a mix of hard corals and extensive macro life around the granite boulders.
+Twin Peaks is a dive site in Thailand Similan Islands offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Thailand Similan Islands, Andaman Sea
-- **Entry Type**: liveaboard
-- **Site Type**: Pinnacle/seamount
+- **Location**: Thailand Similan Islands, Asia
+- **Entry Type**: Liveaboard
+- **Site Type**: Pinnacle
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 35 meters
-- **Typical Visibility**: 20-30 meters (65-100 feet)
-- **Current**: Strong to very strong, requires drift diving
-- **Best Time**: November to April, peak pelagic season February-April
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Twin Peaks is famous for large pelagic species. Divers regularly encounter whale sharks, manta rays, leopard sharks, nurse sharks, hawksbill turtles, and ray species. Smaller reef residents include tropical fish, fans, and hard corals.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
 
 ## Dive Profile
 
-Twin Peaks is a drift dive around the pinnacle. Begin by descending on the structure around 12 meters, then drift deeper to explore the full extent down to 30-45 meters on the southern side. The site is best dived by following the currents and staying close to the boulders for shelter. This is an advanced site requiring good buoyancy control and experience with strong currents.
+The site offers diving at depths ranging from shallow reef areas down to approximately 35 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+This site can be accessed from shore or by boat. Shore entry follows established paths to the water. Boat access is available through local dive operators. Check conditions and choose the most appropriate entry method based on weather and sea state.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
 - Respect marine life and maintain proper buoyancy to protect the reef
@@ -52,7 +51,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-This site is recommended for Advanced Open Water divers only. Strong currents are regular — be prepared for drift diving and learn to shelter behind boulders. Watch your air consumption on the deeper sections. Carry multiple signaling devices and be prepared to abort or relocate if currents exceed 1.5 knots. Always dive with a buddy experienced in current diving and carry a safety sausage (SMB).
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -60,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

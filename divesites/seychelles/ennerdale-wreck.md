@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Ennerdale Wreck
 
-The Ennerdale is a 140+ meter British oil tanker that sank in 1970 and now rests in scattered sections northeast of Mahé at 30-35 meters. Despite being blown apart after an oil spill, the wreck remains largely intact and hosts spectacular coral growth and marine life.
+Ennerdale Wreck is a historic wreck dive in Seychelles, Africa.
 
 ## Overview
 
-The remains of this historic tanker attract advanced divers seeking dramatic wreck exploration. The vessel's structure has been colonized by coral and now provides habitat for diverse marine species including eagle rays, groupers, and occasional sharks. Water temperatures average 20-29°C with visibility typically 10-30 meters (better in dry season, May-October).
+Ennerdale Wreck is a dive site in Seychelles featuring the wreck of the Ennerdale Wreck. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
 
 ## Site Information
 
-- **Location**: Northeast of Mahé, Seychelles
+- **Location**: Seychelles, Africa
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-30 meters (better in dry season)
-- **Current**: Moderate
-- **Best Time**: May-October (dry season, best visibility)
+- **Typical Visibility**: 10-30 meters (30-100 feet)
+- **Current**: Moderate to strong
+- **Best Time**: October to March (East Africa), varies by location
 
 ## Marine Life
 
-The Ennerdale's coral-encrusted structure is home to groupers, snappers, eagle rays, and occasional sharks. Lionfish hunt in shadowed areas, while the structure itself is covered in spectacular coral growth that has transformed the wreck into an artificial reef. The wreck's history and scale make it a significant marine ecosystem within Seychelles.
+Divers at this site can expect to encounter groupers, batfish, coral growth, lionfish, whale sharks, manta rays, humpback whales, sea turtles. Additional species commonly sighted include dolphins, reef sharks. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
 
 ## Dive Profile
 
-Descent typically begins on the bow section, with the wreck topping out around 20 meters and the bottom at 30-35 meters. This is an external-only exploration dive for most divers due to the depth and wreck configuration. Plan bottom time carefully within your certification limits and ensure adequate air reserves for extended safety stops at 5 meters given the maximum depth. The fragmented nature of the wreck means navigating between sections, so maintain excellent buoyancy control and awareness of your position.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 30 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -53,7 +53,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-This is an advanced dive site requiring AOW certification minimum (CMAS ** or equivalent). Low visibility can be an issue in wet season, so schedule dives for May-October when possible. Manage bottom time carefully at 30-35 meter depths and plan conservative ascents with extended safety stops. Be aware of the wreck's fragmented structure and maintain clear navigation. Always dive with a buddy and carry a surface marker buoy (SMB). Do not attempt internal penetration without appropriate wreck diving training and equipment.
+Be aware of strong currents, jellyfish, remote locations in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -61,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

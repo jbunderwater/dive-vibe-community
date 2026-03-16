@@ -13,54 +13,55 @@ addedBy: osm_import
 
 ## Wrack 'Prosper Schiaffino' (Alias Donator)
 
-Wrack 'Prosper Schiaffino' (Alias Donator) is a reef dive site in Port-Cros, Europe.
+Wrack 'Prosper Schiaffino' (Alias Donator) is a historic wreck dive in Port-Cros, Europe.
 
 ## Overview
 
-The Prosper Schiaffino (also known as Le Donator) is a 78-meter Norwegian-built cargo ship that sank in November 1945 after striking a mine near the Sarranier islets. Originally built in 1931 as "Le Donator," the vessel was renamed when purchased by the Compagnie Schiaffino in 1939, who converted it to a wine tanker. The wreck lies upright between Porquerolles and Port-Cros at depths ranging from 35 meters on the deck to 52 meters at the propeller. It is completely encrusted with corals and anemones, providing exceptional habitat for Mediterranean marine life.
+Wrack 'Prosper Schiaffino' (Alias Donator) is a dive site in Port-Cros featuring the wreck of the Wrack 'Prosper Schiaffino' (Alias Donator). Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
 
 ## Site Information
 
-- **Location**: Between Porquerolles and Port-Cros, Côte d'Azur, France
+- **Location**: Port-Cros, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 52 meters
-- **Typical Visibility**: 15-35 meters
-- **Current**: Moderate (seasonal)
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Light to moderate
 - **Best Time**: May to October
-- **Water Temperature**: 15-24°C
 
 ## Marine Life
 
-The wreck is heavily encrusted with colorful anemones and corals supporting a thriving ecosystem. Brown groupers and schools of Mediterranean barracudas frequent the structure. Moray eels, gorgonian fans, and sponges colonize the wreck's exterior. This is one of the richest wreck ecosystems in continental France, offering encounters with large pelagics and abundant groupers.
+Divers at this site can expect to encounter conger eels, lobsters, crabs, anemones, coral encrustation, groupers, moray eels, octopus. Additional species commonly sighted include barracuda, sea bream, amberjack. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 52 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
+- Bring a dive torch to illuminate wreck interiors and dark overhangs
+- Maintain proper buoyancy to avoid disturbing silt inside the wreck
+- Do not attempt penetration without proper training and equipment
+- Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
 
 ## Additional Resources
 
-- **Website**: http://www.dive-links.com/tauchplatz.php?id=1416
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

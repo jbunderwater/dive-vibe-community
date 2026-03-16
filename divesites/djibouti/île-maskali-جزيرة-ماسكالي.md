@@ -17,7 +17,7 @@ addedBy: osm_import
 
 ## Overview
 
-Île Maskali جزيرة ماسكالي (Maskali Island) is an intermediate reef dive within Djibouti's first designated marine protected area. The site features pristine coral gardens, underwater caves, and coral arches ideal for intermediate divers exploring the reef. Visibility typically ranges 5-15 meters with water temperatures 25-29°C (November-January peak season).
+Île Maskali جزيرة ماسكالي is a dive site in Djibouti offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
 
 ## Site Information
 
@@ -32,11 +32,11 @@ addedBy: osm_import
 
 ## Marine Life
 
-Maskali Island reefs feature surgeonfish, angelfish, parrotfish, napoleon fish, and barracuda. Sea turtles navigate the coral arches regularly. Rays glide through sandy patches, and during seasonal visits (November-February), whale sharks and manta rays aggregate to feed on plankton. Hard and soft coral communities support diverse macro creatures and invertebrate life.
+Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

@@ -13,17 +13,17 @@ addedBy: osm_import
 
 ## Bat Cave (St. Vincent)
 
-Bat Cave is one of the most challenging and thrilling cave dive sites in St. Vincent and the Grenadines, Caribbean.
+Bat Cave (St. Vincent) is a cave dive site in St. Vincent and the Grenadines, Caribbean.
 
 ## Overview
 
-The Bat Cave is a unique and demanding dive site featuring a fissure in the reef that leads to a shallow rocky passageway, which in turn enters a cave chamber inside the cliff face. The cave is home to a colony of bats isolated above the water, which emerge through fissures above the diving area. A narrow surge-prone gap (approximately 4 feet wide) with brilliant blue light at the end marks the cave entrance. This is not a beginner cave dive—it requires excellent buoyancy control, cave diving experience, and comfort with surge and confined spaces. The site is challenging but highly rewarding for experienced divers seeking a unique Caribbean cave diving experience.
+Bat Cave (St. Vincent) is a dive site in St. Vincent and the Grenadines featuring underwater cave and cavern formations. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
 - **Location**: St. Vincent and the Grenadines, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/cavern
+- **Site Type**: Cave/Cavern
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 10 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter sea turtles (green, hawksbill), sout
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 10 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-10 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -51,7 +51,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -59,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

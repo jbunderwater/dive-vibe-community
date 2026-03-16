@@ -13,23 +13,21 @@ addedBy: osm_import
 
 ## Mt Irvine Wall
 
-Mt Irvine Wall is the most popular rocky reef shore dive on Tobago's Caribbean coast. This shallow, beginner-friendly site features colorful rocky reefs with abundant macro life, making it perfect for new and experienced divers alike.
+Mt Irvine Wall is a wall dive site in Tobago, Caribbean.
 
 ## Overview
 
-Mt Irvine Wall is a shallow rocky reef close to shore, dropping from approximately 10 meters to a flat sandy bottom at 12-15 meters. The colorful rocky reef is full of interesting crevices where moray eels, spiny lobsters, and crabs congregate. The shallow depth, protected location, and abundance of macro subjects make it ideal for beginner divers. The site also has an extension that follows the outcropping rocks of Mount Irvine Bay, where larger groupers, snapper, and hawksbill turtles can be seen.
+Mt Irvine Wall is a dive site in Tobago featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Mount Irvine Bay, Caribbean coast, southwest Tobago
+- **Location**: Tobago, Caribbean
 - **Entry Type**: Shore entry
 - **Site Type**: Wall dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
-- **Depth Range**: 5-15 meters (18-50 feet)
-- **Typical Visibility**: 15-25 meters
-- **Water Temperature**: 27-30°C (81-86°F)
-- **Current**: Light to minimal
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
@@ -38,7 +36,7 @@ Divers at this site can expect to encounter sea turtles (green, hawksbill), sout
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-20 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-15 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
@@ -46,6 +44,7 @@ Enter from the shore following established entry points. Check conditions before
 
 ## Tips and Recommendations
 
+- Excellent site for newer divers — calm conditions and easy navigation
 - Watch your depth carefully — wall dives can lead to unintentional deep descents
 - Look in crevices and overhangs for hidden marine life
 - Bring an underwater camera — this site offers excellent photography opportunities
@@ -62,7 +61,7 @@ Wall dives offer stunning wide-angle opportunities with dramatic depth perspecti
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

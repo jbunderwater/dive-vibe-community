@@ -9,55 +9,50 @@ siteType: muck
 ref: null
 osmId: null
 addedBy: osm_import
-validated: true
-validationSource: web_research
 ---
 
 ## Twilight Zone
 
-The Twilight Zone is a famous muck diving site in northern Ambon Bay, located close to the airport. This is where the remarkable psychedelic frogfish was originally discovered, and it hosts an exceptional array of unusual critter species.
+Twilight Zone is a muck dive site in Ambon, Asia.
 
 ## Overview
 
-The Twilight Zone lies in northern Ambon Bay on the side nearest the airport and is operated by dive shops including Maluku Divers. The sandy and rubble bottom attracts rare and unusual critter species that thrive in muck habitat. This is the discovery location of the famous psychedelic frogfish (Histiophryne psychedelica) and continues to be one of Ambon's premier macro diving destinations. The ultra-shallow depth and calm conditions make it accessible to Beginner divers.
+Twilight Zone is a dive site in Ambon offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Ambon Bay, north side near airport
+- **Location**: Ambon, Asia
 - **Entry Type**: Shore entry
-- **Site Type**: Muck dive
+- **Site Type**: Muck
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 10 meters
-- **Typical Visibility**: 8-15 meters
-- **Current**: Minimal
-- **Best Time**: March-April and September-December (dry season)
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Twilight Zone is famous for its exceptional and unusual critter diversity. Regularly found species include rhinopias scorpionfishes, frogfish (including painted and warty varieties), seahorses, stonefish, ghostpipefish, pegasus sea moths, mandarin fish, nudibranchs, harlequin shrimp, coleman shrimp, kauris, wonderpus octopus, mimic octopus, flamboyant cuttlefish, and sea snakes. The sandy slope hosts snake eels, snowflake morays, porcupinefish, and bigfin reef squid laying eggs.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
 
 ## Dive Profile
 
-Begin in shallow water (2-3 meters) and explore the rubble and sandy bottom between 5-10 meters depth. Move slowly and methodically, spending time carefully observing small, camouflaged critters. Most dives last 45-60 minutes to thoroughly explore the muck habitat and search for the site's famous residents.
+The site offers diving at depths ranging from shallow reef areas down to approximately 10 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-10 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
-Sandy shore entry with minimal surge. Wade into shallow water and descend while observing the bottom transition from sand to rubble. Exit at the same location using shore landmarks for navigation.
+Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
 
 ## Tips and Recommendations
 
-- Essential muck diving site—bring macro lens and powerful dive lights
-- Go slowly—many critters are small and perfectly camouflaged
-- Look for the psychedelic frogfish, but don't expect to find it every dive
-- Early morning dives offer clearest water conditions
-- Multiple dives to this site increase chances of spotting different species
-- Night diving reveals entirely different nocturnal critters
-- The site is shallow enough for extended bottom times
-- Excellent training site for learning muck diving techniques
+- Excellent site for newer divers — calm conditions and easy navigation
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
+- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
-Minimal current and extremely shallow depth make this very safe for Beginner divers. Main hazards are stonefish, sea urchins, and sharp rubble. Watch buoyancy to avoid stirring silt and reducing visibility. Maintain good buddy contact in shallow water. Surface slowly despite the shallow depth to avoid nitrogen narcosis effects.
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -65,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

@@ -17,18 +17,18 @@ USAT Liberty Wreck is a historic wreck dive in Bali, Asia.
 
 ## Overview
 
-The USAT Liberty is a historic WWII-era American transport ship (sunk 1942) and one of the world's best and most accessible wreck dives. Located in Tulamben on Bali's east coast, the wreck is easily accessed from the volcanic black-sand beach via shore entry. Suitable for both beginner and experienced divers, with wreck top at 4-5m depth and bottom at ~35m. Excellent for underwater photography and wreck exploration.
+USAT Liberty Wreck is a dive site in Bali featuring the wreck of the USAT Liberty Wreck. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Tulamben, Bali's east coast, Indonesia
+- **Location**: Bali, Asia
 - **Entry Type**: Shore entry
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 35 meters
-- **Typical Visibility**: 5-40 meters (15-130 feet), best in morning
-- **Current**: Generally mild, occasionally moderate
-- **Best Time**: October-April (dry season), June-September also good
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter batfish, lionfish, sweetlips, coral 
 
 ## Dive Profile
 
-Enter from the black-sand beach and descend to the wreck's upper structure starting at ~4-5 meters depth. The main wreck body lies at 5-35 meters, providing multiple depth options for different experience levels. Beginners can stay in shallow areas (5-15m), while experienced divers can explore deeper sections and penetration points. Plan appropriate bottom time based on your target depth and certification. The wreck is densely encrusted with life and offers excellent exploration opportunities. Ascend gradually with safety stop at 5 meters.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 35 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -53,7 +53,7 @@ Enter from the shore following established entry points. Check conditions before
 
 ## Safety Considerations
 
-Generally safe for the difficulty level, but be aware of potential surge from waves, jellyfish, sea urchins, and sharp corroded metal. Currents are usually mild but can occasionally be moderate. Check beach conditions before entering. Do not attempt wreck penetration without proper training, equipment, and experience. Maintain buoyancy to avoid stirring silt. Always dive with a buddy and carry signaling devices. The wreck structure is stable but corroded in places — avoid disturbing encrusted surfaces unnecessarily.
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -61,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

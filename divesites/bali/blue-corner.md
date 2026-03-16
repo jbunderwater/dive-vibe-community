@@ -17,7 +17,7 @@ Blue Corner is a wall dive site in Bali, Asia.
 
 ## Overview
 
-Blue Corner is a dive site in Bali featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Blue Corner is a dive site in Bali featuring a dramatic vertical wall that drops into the deep blue . Wall dive site in Menjangan Island area. Coral wall with varied depth and marine life. Part of Menjangan's famous wall-diving region with excellent gorgonian diversity.. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
@@ -61,7 +61,7 @@ Wall dives offer stunning wide-angle opportunities with dramatic depth perspecti
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

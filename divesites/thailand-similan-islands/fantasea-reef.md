@@ -13,42 +13,37 @@ addedBy: osm_import
 
 ## Fantasea Reef
 
-Fantasea Reef is a site off Island 8 featuring enormous granite boulders and excellent fish variety with beautiful colorful coral.
+Fantasea Reef is a boulder dive site in Thailand Similan Islands, Asia.
 
 ## Overview
 
-Fantasea Reef is located offshore off the west coast of Island 8 (the largest island in the archipelago). The site features enormous rocks, some as large as houses, creating a spectacular underwater landscape. The reef offers great variety and density of fish with beautiful and colorful coral. Visibility is often very good, ranging between 20-40 meters. This was one of the top sites in the Similan Islands but has been closed to divers since 2004 to allow coral regeneration after tsunami damage.
+Fantasea Reef is a dive site in Thailand Similan Islands offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Off west coast of Island 8, Similan Islands
-- **Entry Type**: liveaboard
+- **Location**: Thailand Similan Islands, Asia
+- **Entry Type**: Liveaboard
 - **Site Type**: Boulder
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 40 meters
-- **Typical Visibility**: 20-40 meters (excellent)
-- **Current**: Moderate
-- **Best Time**: November to April (historically)
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Diverse coral and fish. Historically a premier site but closed since 2004.
-
-## Important Note
-
-Fantasea Reef has been closed to diving since 2004 as part of a conservation policy to allow coral regeneration after tsunami damage. This site listing is historical reference only.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 40 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+This site can be accessed from shore or by boat. Shore entry follows established paths to the water. Boat access is available through local dive operators. Check conditions and choose the most appropriate entry method based on weather and sea state.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
 - Respect marine life and maintain proper buoyancy to protect the reef
@@ -64,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

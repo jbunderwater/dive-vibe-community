@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Polo Beach Wall
 
-Polo Beach Wall is an advanced cavern and cave dive site on Isla Bastimentos in Bocas del Toro, Caribbean.
+Polo Beach Wall is a cavern dive site in Bocas del Toro, Caribbean.
 
 ## Overview
 
-Polo Beach Wall is famous for its extensive network of underwater caverns, caves, and tunnels creating a labyrinthine system that challenges even experienced underwater navigators. Many cavern sections remain connected to the surface, creating well-lit passages rather than true darkness. The site hosts schools of snapper, large parrotfish, groupers, and abundant lobster and octopus. Access is highly seasonal and dependent on calm sea conditions.
+Polo Beach Wall is a dive site in Bocas del Toro offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Isla Bastimentos, Bocas del Toro, Caribbean
+- **Location**: Bocas del Toro, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Cavern
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: Excellent in calm conditions
-- **Current**: Minimal (protected by cavern system)
-- **Best Time**: July - September (calm season only)
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Light to moderate
+- **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-The cavern system shelters large schools of snapper and big blue parrotfish that use the caves for protection. Large grouper are common, as are abundant lobster and octopus hidden in crevices. The ecosystem is distinct from typical wall diving — less pelagic activity but more shelter-dependent species adapted to the unique cavern environment.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
 
 ## Dive Profile
 
-The dive focuses on navigating the extensive cavern and cave system. Entry points lead into passages that explore different depths and sections of the cavern maze. The well-lit surfaces and numerous exit points make this safer than true cave diving. Divers typically spend 40-50 minutes exploring the different tunnels and passages. Navigation and orientation are the primary challenges.
+The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -44,24 +44,22 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Advanced training recommended — navigating the cavern system requires good spatial awareness
-- Only dives during July-September when sea conditions are sufficiently calm
-- Bring a dive light even during daytime — helps illumination in darker passages
-- Carry a slate or underwater notepad for marking passages during navigation
-- Look in crevices for octopus and lobster — excellent photography subjects
-- Maintain good buoyancy to protect the cavern formations
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 
-While the well-lit nature and surface access throughout most of the system reduce risks compared to true cave diving, this site still demands respect. Risk of disorientation is the primary hazard. Stay close to your dive buddy, monitor your air consumption in the cavern, and maintain good spatial awareness. Only dive with a well-trained guide familiar with the site.
+Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

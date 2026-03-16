@@ -3,7 +3,7 @@ name: Spiegel Grove
 lat: 25.06667
 lng: -80.31084
 difficulty: Advanced
-maxDepth: 40
+maxDepth: 42.7
 entryType: boat
 siteType: wreck
 ref: null
@@ -25,7 +25,7 @@ Spiegel Grove is a renowned dive site in Florida Keys featuring the wreck of the
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 40 meters
+- **Maximum Depth**: 42.7 meters
 - **Typical Visibility**: 5-25 meters (15-80 feet)
 - **Current**: Variable, can be strong
 - **Best Time**: June to October
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eel
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 40 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 42.7 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -61,8 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Website**: http://www.dive-links.com/tauchplatz.php?id=658
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

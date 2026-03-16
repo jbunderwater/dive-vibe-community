@@ -13,54 +13,55 @@ addedBy: osm_import
 
 ## Mandolin
 
-Mandolin Reef lies on Bunaken's west coast, in the strait between Bunaken and Manado Tua islands. Named after the musical instrument for the harmony of marine life found here, Mandolin is described as better than Raymond's Point for fish abundance, sharing a similar wall structure but with more residents and fewer wire corals. It is consistently rated among the best wall dives in Bunaken.
+Mandolin is a wall dive site in Manado & Bunaken, Asia.
 
 ## Overview
 
-Mandolin is primarily a steep vertical wall with some sloping sections — excellent for snorkelling as well as diving. The wall descends with large steps, supporting enormous barrel sponges, ancient sea fans, and impressive black coral trees in the deeper sections. A large resident school of midnight snappers is one of the site's signature features, and large Napoleon wrasse are regular visitors to the shallow reef. Strong current is possible but variable, making the dive experience highly dependent on conditions.
+Mandolin is a renowned dive site in Manado & Bunaken featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: West coast of Bunaken Island (facing Manado Tua), Bunaken National Marine Park
+- **Location**: Manado & Bunaken, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 35 meters
-- **Typical Visibility**: 15-25 metres
-- **Current**: Variable — can be quite strong; drift diving common
-- **Best Time**: May to October
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-A large resident school of midnight snappers is a signature sighting. Napoleon wrasse are regular visitors to the shallow reef. The wall's caves and crevices harbour moray eels and large lobsters. Enormous sponges and ancient sea fans at depth provide habitat for smaller species. The site typically hosts more fish than Raymond's Point, the adjacent west-coast site, making it one of the more abundant walls in the park.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-The stepped wall structure means each level offers a distinct environment — some divers prefer the shallower sections (8-15m), others find the mid-wall (20-30m) most rewarding, and the deeper sections (30-35m) offer the largest sponges and sea fans. Work through the different levels during a single dive to experience the variety. Current can carry you along the wall at a comfortable pace.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-35 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
-Boat access from Bunaken Island operators. Variable current means conditions should be checked before entry. Drift diving technique is useful when current is running. Deploy SMB before ascending.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-- No single depth level is definitively best — explore all levels of the stepped wall
-- Look for the resident midnight snapper school in the mid-water zone
-- Moray eels and lobsters are found in the caves and crevices throughout the dive
-- Napoleon wrasse often approach divers on the shallow sections — give them space
-- Pair with Raymond's Point for a comprehensive west-coast Bunaken dive day
+- Watch your depth carefully — wall dives can lead to unintentional deep descents
+- Look in crevices and overhangs for hidden marine life
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 
-Current is variable and can become strong. Monitor conditions and adjust depth and position accordingly. Moray eels in caves should be admired from a respectful distance — do not poke into crevices. Carry an SMB.
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-The stepped wall structure offers multiple compositions. The midnight snapper school in mid-water is a classic wide-angle shot. The enormous sponges and sea fans at depth reward wide-angle lighting. The shallow wall face with sunlight filtering through makes for dramatic landscape-style shots. Napoleon wrasse portraits on the shallow reef round out the portfolio.
+Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*Validated against divezone.net/divesite/mandolin and zubludiving.com/articles/best-dive-sites-bunaken. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

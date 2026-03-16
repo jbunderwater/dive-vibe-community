@@ -13,22 +13,22 @@ addedBy: osm_import
 
 ## Sapphire Beach Reef
 
-Sapphire Beach is one of St. Thomas's prettiest white-sand beaches with adjacent reef diving and snorkeling, ideal for beginners and families.
+Sapphire Beach Reef is a reef dive site in US Virgin Islands, Caribbean.
 
 ## Overview
 
-A large swath of reef extends from the beach and reaches right to the shore, covering hundreds of feet offshore. The reef location varies by area—the left side of the beach provides excellent snorkeling and diving on healthy coral with diverse fish populations, while the right side is shallower and rockier with limited diving interest. Sapphire Beach Resort and Marina operates an onsite dive shop with equipment rental and offers access to the reef. The calm, protected waters and shallow reef make it ideal for divers of all levels, with common sights including brain coral, tropical fish, sea turtles, rays, and diverse macro life.
+Sapphire Beach Reef is a dive site in US Virgin Islands offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: East End, St. Thomas, US Virgin Islands, Caribbean
+- **Location**: US Virgin Islands, Caribbean
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 5 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light
-- **Best Time**: Year-round
+- **Current**: Light to moderate
+- **Best Time**: December to April (dry season)
 
 ## Marine Life
 
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter sea turtles (green, hawksbill), sout
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 14 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-14 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 5 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-5 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -59,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

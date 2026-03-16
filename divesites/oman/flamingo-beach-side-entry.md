@@ -13,31 +13,30 @@ addedBy: osm_import
 
 ## Flamingo Beach: Side Entry
 
-Flamingo Beach offers multiple beginner-friendly entry points for coral reef diving near Muscat.
+Flamingo Beach: Side Entry is a reef dive site in Oman, Middle East.
 
 ## Overview
 
-Flamingo Beach: Side Entry provides a convenient lateral boat entry to shallow coral reef diving. The site features healthy coral formations and abundant reef fish in a sheltered area. Maximum depth is approximately 15 meters with excellent conditions for newer divers and training. Water temperatures 23–25°C with typical visibility 15–25 meters. Best diving April-May and September-October.
+Flamingo Beach: Side Entry is a dive site in Oman offering excellent diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
 
 ## Site Information
 
-- **Location**: Flamingo Beach area, Muscat, Oman
+- **Location**: Oman, Middle East
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 15-25 meters (50-80 feet)
-- **Water Temperature**: 23-25°C (73-77°F)
-- **Current**: Minimal
-- **Best Time**: April-May, September-October
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Moderate to strong
+- **Best Time**: September to May
 
 ## Marine Life
 
-Reef fish including clownfish, butterflyfish, angelfish, parrotfish, grouper, snapper, scorpionfish, triggerfish, and surgeonfish. Sea turtles, rays, and moray eels frequent the reef. Soft corals and sea urchins add to the marine diversity.
+Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
 
 ## Dive Profile
 
-Enter via the lateral boat approach and descend to the shallow reef at 6–15 meters. Explore the coral structures, staying well within beginner depth limits. Take time to observe reef behavior and photograph the diverse fish life. This is an excellent site for practicing buoyancy control in a forgiving environment.
+The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -45,6 +44,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
+- Excellent site for newer divers — calm conditions and easy navigation
 - Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
@@ -61,7 +61,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

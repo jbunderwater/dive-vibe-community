@@ -1,0 +1,122 @@
+[
+  {
+    "name": "SS Monte Carlo",
+    "filename": "ss-monte-carlo.md",
+    "lat": 32.6742831,
+    "lng": -117.1731815,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 6518067885
+  },
+  {
+    "name": "Sunken Harbor",
+    "filename": "sunken-harbor.md",
+    "lat": 32.7715438,
+    "lng": -117.261989,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 7024798825
+  },
+  {
+    "name": "USS PC-815",
+    "filename": "uss-pc-815.md",
+    "lat": 32.6320386,
+    "lng": -117.2369421,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 12072350823
+  },
+  {
+    "name": "HMCS Yukon (DDE 265)",
+    "filename": "hmcs-yukon-dde-265.md",
+    "lat": 32.7715817,
+    "lng": -117.2710459,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 12072605584
+  },
+  {
+    "name": "Zuñiga Jetty",
+    "filename": "zuñiga-jetty.md",
+    "lat": 32.6689247,
+    "lng": -117.223125,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 25284140
+  },
+  {
+    "name": "Wreck Alley",
+    "filename": "wreck-alley.md",
+    "lat": 32.7736123,
+    "lng": -117.2693522,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 838730250
+  },
+  {
+    "name": "La Jolla Cove",
+    "filename": "la-jolla-cove.md",
+    "lat": 32.8508,
+    "lng": -117.2726,
+    "difficulty": "Beginner",
+    "maxDepth": 10,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "La Jolla Shores",
+    "filename": "la-jolla-shores.md",
+    "lat": 32.8575,
+    "lng": -117.2575,
+    "difficulty": "Beginner",
+    "maxDepth": 10,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "La Jolla Canyon",
+    "filename": "la-jolla-canyon.md",
+    "lat": 32.856,
+    "lng": -117.265,
+    "difficulty": "Advanced",
+    "maxDepth": 30,
+    "entryType": "shore",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Yukon Wreck (DE-429)",
+    "filename": "yukon-wreck-de-429.md",
+    "lat": 32.6825,
+    "lng": -117.267,
+    "difficulty": "Intermediate",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": null
+  }
+]

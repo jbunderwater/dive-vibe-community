@@ -13,38 +13,38 @@ addedBy: osm_import
 
 ## Gorgon 1
 
-Gorgon 1 features three distinct pinnacles with separate ecosystems and is named for the prominent white gorgonian coral at the entry point. The site is home to what is believed to be the largest cabbage coral in the Middle East, sheltering numerous species of reef fish.
+Gorgon 1 is a reef dive site in Jordan - Aqaba, Middle East.
 
 ## Overview
 
-Gorgon One is one of Aqaba's best shallow reef dives, characterized by three distinctive pinnacles rising from the sandy bottom, each with its own unique marine community. The prominent white gorgonian at the entry point gives the site its name. Following the sloping coral downward, divers encounter emperorfish, glassfish, groupers, and lionfish. A massive cabbage coral—believed to be the largest in the Middle East—provides shelter and habitat for numerous reef fish species, with hawksbill turtles frequently visiting the area. The easy accessibility from both beach and boat, combined with shallow maximum depths, makes this perfect for all diver levels.
+Gorgon 1 is a dive site in Jordan - Aqaba offering excellent diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
 
 ## Site Information
 
-- **Location**: Jordan - Aqaba, Red Sea
+- **Location**: Jordan - Aqaba, Middle East
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 20-40 meters
-- **Current**: Minimal to gentle
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Moderate to strong
 - **Best Time**: September to May
-- **Water Temperature**: 18-27°C
 
 ## Marine Life
 
-The three pinnacles each host different marine communities. Common species include emperorfish, glassfish, groupers, and lionfish. The massive cabbage coral is home to hundreds of smaller fish species. Hawksbill turtles frequent the area. Nudibranchs, sea stars, and crustaceans inhabit the reef structure. Fusiliers and anthias school in open water above the pinnacles.
+Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
 
 ## Dive Profile
 
-Enter from shore (3 meters wide, 4 meters deep) or descend from the boat to the white gorgonian at the entry point. Follow the sloping coral down past the first and second pinnacles, observing the unique ecosystems around each structure. Continue to the massive cabbage coral, which dominates the reef. At 18 meters maximum depth, you'll have excellent bottom time. The shallow maximum depth and moderate currents make this ideal for newly certified divers.
+The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
-From beach: Walk in from shallow sandy entry area and navigate to the white gorgonian marker. From boat: Descend the mooring line or directly to the pinnacles. After exploration, ascend slowly with a brief safety stop. If entering from the beach, exit carefully to avoid surge. If by boat, deploy your surface marker buoy (SMB) and coordinate with the crew.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
+- Excellent site for newer divers — calm conditions and easy navigation
 - Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
@@ -61,7 +61,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

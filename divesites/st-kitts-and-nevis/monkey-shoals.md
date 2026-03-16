@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Monkey Shoals
 
-Monkey Shoals is an atoll-style square-mile reef located in the narrow channel between St. Kitts and Nevis, featuring a distinctive circular reef formation (nicknamed "the donut") with extended limestone shelves. This is actually a collection of dive sites rather than a single location, offering diverse diving experiences from shallow fish nurseries to deep overhangs.
+Monkey Shoals is a reef dive site in St. Kitts and Nevis, Caribbean.
 
 ## Overview
 
-Located only 3 kilometers from shore in the channel between the islands, Monkey Shoals benefits from exceptional visibility and rich marine life. The reef ranges from 30 feet in shallow sections to over 111 feet at depth, with the popular Ledge at Monkey Shoals diving between 30-60 feet. The atoll formation creates varied underwater terrain with excellent coral growth and abundant biodiversity.
+Monkey Shoals is a dive site in St. Kitts and Nevis offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Channel between St. Kitts and Nevis, Caribbean
+- **Location**: St. Kitts and Nevis, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
@@ -29,15 +29,14 @@ Located only 3 kilometers from shore in the channel between the islands, Monkey 
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
-- **Reef Type**: Circular atoll with limestone shelves
 
 ## Marine Life
 
-The shoal is home to diverse marine life including Caribbean spiny lobsters, southern stingrays, lizardfish, and nurse sharks. Sea turtles, eagle rays, and reef sharks are frequently encountered. The area supports schooling fish including jacks and snappers, with parrotfish and angelfish abundant throughout the reef.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
 
 ## Dive Profile
 
-The site offers variable diving at depths from 30 feet on the shallow sections to over 111 feet at the deepest areas. The Ledge typically divides into different sections suitable for multi-level profiles. Begin your dive based on the specific site and work within your certification limits. The most abundant marine life clusters around the 30-60 foot range. Plan for strong currents and adequate air supply for safety stops.
+The site offers diving at depths ranging from shallow reef areas down to approximately 34 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -60,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

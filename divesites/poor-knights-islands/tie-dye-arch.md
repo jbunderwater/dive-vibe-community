@@ -3,7 +3,7 @@ name: Tie Dye Arch
 lat: -35.458
 lng: 174.72
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 18
 entryType: boat
 siteType: cave
 ref: null
@@ -13,53 +13,75 @@ addedBy: osm_import
 
 ## Tie Dye Arch
 
-Tie Dye Arch is a cave dive site in Poor Knights Islands, Oceania.
+Named for its amazing patchwork of colours coating the rocks and walls, Tie Dye Arch is a visual feast for both wide-angle and macro photographers. The arch splits into two passages on the northern side, each a tunnel of light and colour. The entrance sits at approximately 18 meters on the channel side, descending slightly as you enter. The combination of colourful encrusting life and fish-filled passages makes this one of the most photogenic Poor Knights dives.
 
 ## Overview
 
-Tie Dye Arch is a dive site in Poor Knights Islands featuring underwater cave and cavern formations. Located in the Oceania region, this site offers 15-40 meters of visibility with water temperatures averaging 20-29°C.
+Tie Dye Arch is a photographer's paradise, named after the tie-dye aesthetic of colourful sponges, anemones, and other encrusting organisms covering the rocks and arch walls. The southern entrance at the channel side descends to 18 meters, then penetrates into the archway creating two distinct passages on the northern side. The characteristic appearance created by multiple light-filled passageways makes for lovely wide-angle compositions. The site offers both large rock features and intricate wall life for varied photography.
 
 ## Site Information
 
-- **Location**: Poor Knights Islands, Oceania
+- **Location**: Poor Knights Islands, Northland, New Zealand
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 15-40 meters (50-130 feet)
-- **Current**: Variable
-- **Best Time**: September to February
+- **Maximum Depth**: 18 meters
+- **Minimum Depth**: 10 meters (within arch)
+- **Typical Visibility**: 15-30 meters (excellent for wide-angle)
+- **Water Temperature**: 14-17°C (winter/May-Sept), 19-25°C (summer/Nov-april)
+- **Current**: Mild to moderate
+- **Best Time**: Year-round; excellent visibility and light in winter
 
 ## Marine Life
 
-Divers at this site can expect to encounter great white sharks, grey nurse sharks, whale sharks, manta rays, sea turtles, dolphins, dugongs, potato cod. Additional species commonly sighted include maori wrasse, giant trevally, hard corals, soft corals. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+The encrusting organisms create the Tie Dye aesthetic:
+- Dense sponge gardens (reds, oranges, purples, browns) covering walls
+- Anemones and hydroids
+- Bryozoans
+- Hard corals
+- Schools of blue maomao and pink maomao swimming through passages
+- Kingfish, snapper, and giant trevally in the blue water
+- Nudibranchs and small reef fish
+- Morays and eel species
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend at the southern entrance to approximately 18 meters, approaching the arch opening. As you enter the arch passages, the colourful walls envelop you—stay alert for the remarkable wall colours. The arch splits into two passages on the northern side, each framed by light and colour. Work through the passages at a leisurely pace, observing both the larger rock structures and the intricate wall details. The reef inside narrows but remains comfortable. Plan adequate time for photography—colour photography here requires patience and good positioning.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat entry via giant stride to the arch entrance. Your guide will indicate the descent and arch location. The passages are wide and comfortable. Exit via ascent through shallow water and boat pickup.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- **Photographers' favorite**: Bring your best macro and wide-angle lenses
+- **Best light angles**: Position yourself with light entering from behind or to the side to enhance colour
+- **Take time exploring walls**: The colour detail rewards close examination
+- **Focus on colour saturation**: Many colours appear muted without careful lighting and positioning
+- **Consider a secondary camera**: Macro work on nudibranchs and wide-angle on arch are equally rewarding
+- **Manual white balance**: Camera settings matter greatly for colour-rich walls—consider manual white balance or underwater colour correction filters
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish (box jellyfish in summer), crocodiles (north) in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+- Excellent intermediate-level arch dive
+- Good buoyancy control to avoid damaging fragile organisms
+- Light entrance (18m) allows extended exploration
+- Current can increase—maintain buddy contact
+- Never exceed arch base depth
+- Suitable for divers building Poor Knights experience
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+This is a premier photographic site combining wide-angle and macro opportunities:
+- **Wide-angle**: The arch structures with light streaming through and fish schools
+- **Macro**: Detailed shots of nudibranchs, small fish, and encrusting organisms
+- **Colour**: The tie-dye aesthetic requires careful technique—position for backlighting to illuminate colour
+- **Multiple passes worthwhile**: Different angles and depths reveal different photographic opportunities
+- Consider bringing backup camera bodies for macro and wide-angle work
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

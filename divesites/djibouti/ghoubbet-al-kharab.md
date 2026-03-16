@@ -17,7 +17,7 @@ Ghoubbet Al-Kharab is a wall dive site in Djibouti, Africa.
 
 ## Overview
 
-Ghoubbet Al-Kharab (also known as the "Devil's Goblet") is an advanced drift wall dive connecting the cove to the open sea through a narrow channel with intense tidal currents. The site sits at the junction of African and Arabian continental plates, making it geologically unique. The dramatic underwater cliff and strong currents create an exhilarating drift dive for experienced divers. Visibility ranges 10-20 meters with water temperatures 24-28°C. This is an experienced diver's playground requiring strong current skills.
+Ghoubbet Al-Kharab is a dive site in Djibouti featuring a dramatic vertical wall that drops into the deep blue. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
 
 ## Site Information
 
@@ -32,11 +32,11 @@ Ghoubbet Al-Kharab (also known as the "Devil's Goblet") is an advanced drift wal
 
 ## Marine Life
 
-Ghoubbet Al-Kharab is famous for large pelagic species swept by strong currents. Hammerhead sharks frequent this site, along with whale sharks, manta rays, and large schools of other shark species. Grey and nurse sharks are commonly encountered. Soft coral forests line the walls, and macro creatures hide in wall crevices. The nutrient-rich currents support abundant reef fish and create ideal conditions for large pelagic encounters.
+Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-22 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-25 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
@@ -53,7 +53,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, remote locations in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of strong currents, jellyfish, remote locations in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -61,7 +61,7 @@ Wall dives offer stunning wide-angle opportunities with dramatic depth perspecti
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

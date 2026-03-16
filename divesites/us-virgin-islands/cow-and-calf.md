@@ -13,20 +13,20 @@ addedBy: osm_import
 
 ## Cow and Calf
 
-Cow and Calf is a distinctive reef dive off the southeast coast of St. Thomas, featuring twin rocks that pierce the surface connected by swim-through tunnels and archways.
+Cow and Calf is a reef dive site in US Virgin Islands, Caribbean.
 
 ## Overview
 
-The two largest rocks are said to resemble whales—a cow and her calf. The site is a shallow dive with a labyrinth of swim-through tunnels, archways, and caves creating excellent opportunities for exploration and photography. Despite the 40-foot maximum depth, the site offers over 150 feet of visibility and is home to lobsters, moray eels, soft coral formations, and diverse tropical fish. Particularly popular with macro photographers due to the shallow waters and abundant small life.
+Cow and Calf is a dive site in US Virgin Islands offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Southeast St. Thomas, US Virgin Islands, Caribbean
+- **Location**: US Virgin Islands, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
-- **Typical Visibility**: 45+ meters (150+ feet)
+- **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
 
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter sea turtles (green, hawksbill), sout
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

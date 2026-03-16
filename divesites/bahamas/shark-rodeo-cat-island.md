@@ -13,22 +13,22 @@ addedBy: osm_import
 
 ## Shark Rodeo Cat Island
 
-Cat Island is the premier destination for encountering the world's largest aggregation of oceanic whitetip sharks, with drift dives in a deep channel attracting 6-10 sharks at once from March through June.
+Shark Rodeo Cat Island is a reef dive site in Bahamas, Caribbean.
 
 ## Overview
 
-Cat Island hosts an extraordinary shark diving experience found nowhere else in the world. From March through June, Cat Island experiences the world's largest seasonal aggregation of oceanic whitetip sharks, with divers regularly encountering upwards of 6-10 sharks at once. The dive takes place about a half mile offshore on a deep channel (20-30 meters/65-100 feet), where divers perform slow drift dives in the blue while hovering at around 6-9 meters (20-30 feet), following a big buoy. The oceanic whitetips are curiously attracted to the divers and circle them in crystal-clear, warm Bahamian waters, creating an unforgettable and thrilling encounter with these powerful apex predators. This is a specialized shark diving operation requiring intermediate to advanced skills and composure in open water.
+Shark Rodeo Cat Island is a dive site in Bahamas offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Cat Island, Bahamas
+- **Location**: Bahamas, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 8 meters
-- **Typical Visibility**: 25-40 meters (80-130 feet)
+- **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
-- **Best Time**: March to June (peak oceanic whitetip season), year-round diving available
+- **Best Time**: December to April (dry season)
 
 ## Marine Life
 
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter sea turtles (green, hawksbill), sout
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 8 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-8 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -59,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

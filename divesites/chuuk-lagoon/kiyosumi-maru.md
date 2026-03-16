@@ -13,50 +13,55 @@ addedBy: osm_import
 
 ## Kiyosumi Maru
 
-A 137-metre armed merchant cruiser lying on its port side, the Kiyosumi Maru rewards divers with an eclectic cargo: bicycles, spare propeller blades, anti-aircraft guns, and shell casings. She participated in the Battle of Midway and arrived in Chuuk under tow for repairs before being sunk by US dive-bombers on February 17, 1944.
+Kiyosumi Maru is a historic wreck dive in Chuuk Lagoon, Pacific.
 
 ## Overview
 
-Built in 1934 by Kawasaki Dockyard in Kobe, the 137-metre (450-foot), 8,614-ton Kiyosumi Maru was operated commercially by K-Line on routes including transpacific services to New York before the Imperial Japanese Navy requisitioned her in November 1941 and converted her into an armed merchant cruiser. Her most significant wartime role was as a troop transport during the Battle of Midway in 1942. She was subsequently damaged by aerial attack and towed to Truk for repairs, still immobilised in the lagoon when Operation Hailstone struck. Aircraft from USS Enterprise and USS Yorktown scored direct bomb hits on February 17, 1944, sinking her with the loss of 43 crew.
+Kiyosumi Maru is a dive site in Chuuk Lagoon featuring the wreck of the Kiyosumi Maru. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
-- **Location**: Chuuk Lagoon, Federated States of Micronesia
+- **Location**: Chuuk Lagoon, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20–35 metres
-- **Water Temperature**: 28–30°C year-round
-- **Best Time**: Year-round; December to April for calmest conditions
-
-## What Divers See
-
-The wreck lies on its port side with large torpedo and bomb holes providing multiple entry points. Divers typically enter through the bomb crater in hold number 2, which caused the sinking. Hold number 5 contains bicycles — an incongruous sight in a wartime wreck — and hold 6 contains two massive spare propeller blades, among the most distinctive artifacts in the Ghost Fleet.
-
-Anti-aircraft guns, gun turrets, shell casings, and ammunition are distributed across the wreck. The engine room, listing entirely to port, is accessible and reveals the interior machinery. Collections of bottles found inside have been gathered near the exterior for divers to see more easily. A gas mask in apparently good condition is a memorable find.
-
-Human remains are present on this wreck. The mast is blanketed in soft coral growth.
-
-## Dive Profile
-
-The starboard side of the hull faces upward and is accessible at around 15 metres in many sections. The deepest points of the exposed structure reach 30 metres at the port side on the seabed. A typical dive covers the length of the hull working from bow to stern, entering holds through the explosion craters along the way.
+- **Typical Visibility**: 20-50 meters (65-160 feet)
+- **Current**: Moderate to strong
+- **Best Time**: April to November
 
 ## Marine Life
 
-Coral encrusts the exposed upper surfaces of the hull. Reef fish are abundant in the sheltered spaces between cargo in the holds. Grey reef sharks and turtles are regularly seen on the exterior.
+Divers at this site can expect to encounter coral growth, anemones, lionfish, scorpionfish, glassy sweepers, manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks. Additional species commonly sighted include sea turtles, napoleon wrasse, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+
+## Dive Profile
+
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 30 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+
+## Entry and Exit
+
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+
+## Tips and Recommendations
+
+- Bring a dive torch to illuminate wreck interiors and dark overhangs
+- Maintain proper buoyancy to avoid disturbing silt inside the wreck
+- Do not attempt penetration without proper training and equipment
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
 
 ## Safety Considerations
 
-The port-side orientation creates awkward angles inside — navigation can be disorienting. A local guide is strongly recommended for hold penetration. Human remains are present and must be treated with respect. All Chuuk Lagoon wrecks are designated war graves under Federated States of Micronesia law; no artifacts may be removed.
+Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-The spare propeller blades in hold 6 are a standout wide-angle subject found nowhere else in the lagoon. The bicycles in hold 5 make an unexpected and striking image. The encrusted hull surface, lit from the starboard side, creates strong natural-light opportunities.
+The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*Validated against Argunners, Diver Trek, Dive3D, and Scuba Diving Earth. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

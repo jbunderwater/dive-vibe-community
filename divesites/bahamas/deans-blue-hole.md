@@ -13,22 +13,22 @@ addedBy: osm_import
 
 ## Dean's Blue Hole
 
-Dean's Blue Hole is the world's third-deepest blue hole at 202 meters (663 feet), a bucket-list destination for technical divers and freediving competitors seeking the ultimate vertical challenge.
+Dean's Blue Hole is a cave dive site in Bahamas, Caribbean.
 
 ## Overview
 
-Dean's Blue Hole, located on Long Island, is a massive underwater sinkhole and one of the most remarkable geological features in the Bahamas. Descending from approximately 6 meters (20 feet) at the surface, the perfectly circular hole widens to 82-115 meters (270-380 feet) in diameter before plunging 202 meters (663 feet) straight down to the ocean floor. The water clarity is exceptional—on good days, visibility reaches 35+ meters (115+ feet). The site hosts the annual Vertical Blue freediving competition, attracting elite divers from around the world. Most recreational scuba dives remain in the shallower sections (10-20m) where marine life abounds, while technical divers explore the deep walls and caves.
+Dean's Blue Hole is a renowned dive site in Bahamas featuring underwater cave and cavern formations. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Long Island, Bahamas
+- **Location**: Bahamas, Caribbean
 - **Entry Type**: Shore entry
-- **Site Type**: Cave/cavern
+- **Site Type**: Cave/Cavern
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 202 meters
-- **Typical Visibility**: 25-35 meters (80-115 feet)
-- **Current**: Minimal to light
-- **Best Time**: Year-round, December to April for best conditions
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Light to moderate
+- **Best Time**: December to April (dry season)
 
 ## Marine Life
 
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter sea turtles (green, hawksbill), sout
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 60 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 202 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -58,7 +58,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

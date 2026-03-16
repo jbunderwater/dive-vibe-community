@@ -11,32 +11,32 @@ osmId: null
 addedBy: osm_import
 ---
 
-## USS Tucker Wreck
+## USS Tucker
 
-USS Tucker is a WWII destroyer wreck off Malo Island, featuring three distinct sections of a 104-meter vessel that struck an American mine in 1942.
+USS Tucker is a historic wreck dive in Vanuatu, Pacific.
 
 ## Overview
 
-The USS Tucker was a US Navy destroyer built in 1934 and sunk on August 4, 1942, when it struck a friendly mine while escorting a cargo ship. The ship broke into three recognizable sections at an average depth of 24 meters: the stern (largely intact with visible gun turrets and mounts), a scattered middle section with wreckage scattered across the seabed, and the bow section. The accessible sections remain well-preserved with spectacular coral and marine life colonization.
+USS Tucker is a dive site in Vanuatu featuring a historic wreck. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
-- **Location**: North-east side of Malo Island, Espiritu Santo
+- **Location**: Vanuatu, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 24 meters
-- **Typical Visibility**: 20-50 meters (varies seasonally)
-- **Water Temperature**: 26-29°C year-round
-- **Best Time**: April to November (dry season)
+- **Typical Visibility**: 20-50 meters (65-160 feet)
+- **Current**: Moderate to strong
+- **Best Time**: April to November
 
 ## Marine Life
 
-The wreck structure is heavily colonized with spectacular hard and soft corals. Gun mounts and turrets are covered in coral formations hosting abundant marine life including batfish, angelfish, coral trout, sweet lip fish, clownfish, nudibranchs, lionfish, and scorpionfish. Reef sharks, barracuda, sea turtles, and larger pelagic species frequent the site.
+Divers at this site can expect to encounter coral growth, anemones, lionfish, scorpionfish, glassy sweepers, manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks. Additional species commonly sighted include sea turtles, napoleon wrasse, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
 
 ## Dive Profile
 
-The stern section features entrance hatches with handles still attached and intact gun mounts—excellent starting points for wreck exploration at 24 meters. The accessible sections allow divers to explore recognizable ship structures while monitoring air and depth. Navigate carefully through the scattered middle section and around the bow remains.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 24 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -64,4 +64,4 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 - **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was validated through research and compiled from diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

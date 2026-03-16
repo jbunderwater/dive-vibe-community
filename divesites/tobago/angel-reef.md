@@ -13,22 +13,21 @@ addedBy: osm_import
 
 ## Angel Reef
 
-Angel Reef is a shallow, beginner-friendly reef dive in the Speyside area, perfect for newer divers and training dives.
+Angel Reef is a reef dive site in Tobago, Caribbean.
 
 ## Overview
 
-Angel Reef is an excellent site for newer divers, featuring shallow reef areas in calm conditions with easy navigation. This beginner-level site in the Speyside region is ideal for building diving skills and confidence.
+Angel Reef is a dive site in Tobago offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Speyside, Tobago
+- **Location**: Tobago, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
-- **Typical Visibility**: 15-30 meters
-- **Water Temperature**: 27-30°C (81-86°F)
-- **Current**: Light
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
@@ -61,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

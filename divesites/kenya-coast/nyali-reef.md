@@ -13,31 +13,30 @@ addedBy: osm_import
 
 ## Nyali Reef
 
-Nyali Reef is a versatile shallow reef system just offshore from Nyali Beach, featuring healthy coral growth, reef walls, and drop-offs. The site offers both easy snorkeling in shallow depths and challenging deeper diving, making it suitable for multiple experience levels.
+Nyali Reef is a wall dive site in Kenya Coast, Africa.
 
 ## Overview
 
-Located in Mombasa, Nyali Reef offers shallow snorkel zones directly from shore during low tide, with deeper reef wall diving accessible by boat. The shallow coral heads begin at 3-5 meters, while the reef wall drops into 12-30 meters of water. Visibility typically ranges 15-25 meters with water temperatures averaging 24-28°C year-round.
+Nyali Reef is a dive site in Kenya Coast featuring a dramatic vertical wall that drops into the deep blue. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
 
 ## Site Information
 
-- **Location**: Nyali Beach, Mombasa
+- **Location**: Kenya Coast, Africa
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 15-25 meters
-- **Current**: Mild to moderate
-- **Best Time**: October to March
-- **Notable Features**: Reef wall with drop-offs, crevices, overhangs, healthy coral growth
+- **Typical Visibility**: 10-30 meters (30-100 feet)
+- **Current**: Moderate to strong
+- **Best Time**: October to March (East Africa), varies by location
 
 ## Marine Life
 
-Nyali Reef features healthy coral growth with vibrant crevices and overhangs hosting octopuses and lionfish. The shallow snorkel zone displays colorful coral heads and reef fish. Deeper sections occasionally attract larger pelagic species including reef sharks. Schools of jacks and snappers are common throughout the site.
+Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-Divers can explore shallow coral heads at 3-8 meters for close-up macro photography, then descend to the reef wall at 12-20 meters. The wall features interesting overhangs and crevices teeming with small reef creatures. Octopuses are particularly common in rocky crevices. Most exploration occurs between 10-20 meters. The reef offers excellent opportunities for both photography and detailed creature spotting.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-20 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
@@ -45,11 +44,12 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
+- Watch your depth carefully — wall dives can lead to unintentional deep descents
+- Look in crevices and overhangs for hidden marine life
 - Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
 - Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
@@ -57,11 +57,11 @@ Be aware of strong currents, jellyfish, remote locations in this area. Dive with
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

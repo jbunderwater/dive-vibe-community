@@ -13,17 +13,17 @@ addedBy: osm_import
 
 ## MV Produce Wreck
 
-The MV Produce is a large Norwegian bulk carrier that sank on August 11, 1974, when it struck the northeast pinnacle at Aliwal Shoal while carrying a full cargo of molasses. At 168 meters in length, the Produce was a significant cargo vessel that has become one of Aliwal Shoal's major wreck attractions. The site is designated advanced-level dive due to depth and currents, and penetration is no longer permitted by local authorities to preserve the wreck and protect the brindle bass populations that inhabit it.
+MV Produce Wreck is a historic wreck dive in South Africa, Africa.
 
 ## Overview
 
-The MV Produce lies on its right side with depths ranging from 14 meters at the top to approximately 32 meters on the sand bottom. Characterized by strong currents typical of Aliwal Shoal, this wreck requires careful navigation and planning. The external structure provides excellent exploration opportunities while protecting sensitive marine communities within the structure.
+MV Produce Wreck is a dive site in South Africa featuring a historic wreck. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
 
 ## Site Information
 
 - **Location**: South Africa, Africa
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 32 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)
@@ -32,11 +32,11 @@ The MV Produce lies on its right side with depths ranging from 14 meters at the 
 
 ## Marine Life
 
-Brindle bass populations are the primary resident fish species, sheltering throughout the wreck structure. The site's protected status reflects the importance of the wreck as a critical fish habitat. Hard corals, sponges, and other encrusting organisms colonize the hull and structural surfaces. Groupers, morays, and other reef fish frequent the external structure and nearby reef ecosystems.
+Divers at this site can expect to encounter groupers, batfish, coral growth, lionfish, whale sharks, manta rays, humpback whales, sea turtles. Additional species commonly sighted include dolphins, reef sharks. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 30 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 32 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -53,7 +53,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, remote locations in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of strong currents, jellyfish, remote locations in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -61,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

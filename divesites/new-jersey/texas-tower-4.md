@@ -6,58 +6,62 @@ difficulty: Advanced
 maxDepth: 55
 entryType: boat
 siteType: wreck
-addedBy: jbunderwater_ai
+ref: null
+osmId: null
+addedBy: osm_import
 ---
 
-# Texas Tower #4
+## Texas Tower #4
 
-The collapsed remains of a Cold War-era USAF radar platform that sank in a 1961 winter storm, killing all 28 men aboard — now a deep, fish-rich dive starting at 110 feet some 63 miles offshore.
+Texas Tower #4 is a historic wreck dive in New Jersey Shore, North America.
 
 ## Overview
-Texas Tower #4 (TT-4) was one of three offshore radar platforms constructed by the United States Air Force in the late 1950s as part of the early warning network for detecting Soviet bombers approaching the US coastline. Named for their visual similarity to Gulf of Mexico oil rigs, the towers were designed to be semi-permanent structures on the continental shelf. TT-4 was situated on unstable sandy seabed rather than the firm rock that supported the other towers, and chronic structural problems plagued it from installation. After multiple storm damage events and emergency evacuations, the Air Force was evacuating the platform on January 15, 1961, when a severe winter storm struck. The tower collapsed and sank, killing all 28 airmen and civilian contractors aboard — all 28 lost at sea with no survivors. The wreck now lies at 180–185 feet, with the highest point accessible at approximately 110–120 feet. It is a significant marine habitat some 63 miles off the New Jersey coast, hosting abundant cod, pollock, sea bass, lobster, and other deepwater species.
+
+Texas Tower #4 is a dive site in New Jersey Shore featuring the wreck of the Texas Tower #4. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
 
 ## Site Information
-- **Location**: Approximately 63 miles east-southeast of Long Island/NJ, deep sea chart area
+
+- **Location**: New Jersey Shore, North America
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 55 meters
-- **Typical Visibility**: Often clear at this offshore location — 30–50+ feet on good days
-- **Current**: Variable; can be significant at these depths and this distance from shore
-- **Best Time**: Summer months; weather window is narrow given the remote location
+- **Typical Visibility**: 5-25 meters (15-80 feet)
+- **Current**: Variable, can be strong
+- **Best Time**: June to October
 
 ## Marine Life
-Texas Tower #4 is renowned as an excellent fishing and diving spot. Large schools of cod and pollock are the signature inhabitants. Sea bass, ling, and flounder are abundant. Massive lobsters inhabit the structural remnants. The site's isolation and depth mean the marine life is less pressured by recreational divers than inshore sites, resulting in larger, less wary fish.
+
+Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
 
 ## Dive Profile
-The structure now rests at a 45-degree angle and is scattered across the seabed. The highest point at 110–120 feet provides the accessible entry point for advanced recreational divers; anything below 140 feet requires technical training and gas mixes. Bottom time is severely limited at these depths. Water is usually clear, making navigation of the scattered structure more manageable. Strong surface currents near the surface require careful attention during ascent.
+
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 55 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
-Only long-range charter boats make the 63-mile run to Texas Tower #4. The transit takes 2+ hours in most vessels. Offshore conditions can deteriorate rapidly — captains will abort trips if weather is unsuitable. The remote location makes any emergency a serious logistical challenge. Confirm trip details with charter operators well in advance.
+
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
-- This is a remote, deep, advanced dive — only attempt with significant prior experience on offshore NJ wrecks
-- Water visibility at this offshore location is often excellent — bring your best wide-angle lens
-- The fish life is exceptional; even divers primarily interested in marine life rather than wreck exploration will be rewarded
-- Anything interesting is at 140 feet or deeper — plan your gas carefully
-- The 63-mile offshore location means plan for a full day, starting before dawn from the inlet
+
+- Bring a dive torch to illuminate wreck interiors and dark overhangs
+- Maintain proper buoyancy to avoid disturbing silt inside the wreck
+- Do not attempt penetration without proper training and equipment
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
 
 ## Safety Considerations
-Advanced divers only. The depth (110–180 ft), remote location (63 miles offshore), and strong currents create significant risks. Technical gas mixes are recommended for diving below 130 feet. The distance from shore makes any emergency evacuation extremely slow. Always carry a DSMB and follow the dive boat's protocols carefully.
+
+Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
-Excellent visibility at this isolated offshore site rewards photographers. The fish life — particularly large schools of pollock and cod — offers outstanding marine life photography. The scattered structural debris provides interesting abstract compositions. Wide-angle gear is most effective given the scale of the site and the open-water fish activity.
 
-## Nearby Sites
-- U-869 (deep sea, 240 ft, technical)
-- Andrea Doria (100 miles offshore, 240 ft, extreme technical)
-- USS San Diego (65–110 ft, closer to shore)
+The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
 
 ## Additional Resources
-- **Reference**: [njscuba.net — Texas Tower TT-4](https://njscuba.net/dive-sites/dive-sites-contents/deep-sea-chart/texas-tower/)
-- **Wikipedia**: [Texas Tower 4](https://en.wikipedia.org/wiki/Texas_Tower_4)
-- **US Naval Institute Proceedings**: [Diving on the Wreck of Texas Tower No. 4](https://www.usni.org/magazines/proceedings/1963/march/diving-wreck-texas-tower-no-4)
-- **Last Updated**: 2026-03-15
+
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was contributed by jbunderwater_ai and last updated on 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Nigali Passage
 
-Nigali Passage is a world-famous drift dive off Gau Island featuring a narrow channel where grey sharks are almost always present.
+Nigali Passage is a drift dive site in Fiji, Pacific.
 
 ## Overview
 
-Located off Gau Island in the Lomaiviti Group, Nigali Passage is one of Fiji's most thrilling drift dives. This narrow channel has a very limited diving window—only about 3 hours when currents are manageable; outside this window, currents exceed 4 knots. The passage is famous for encounters with squadrons of grey sharks, along with schooling trevallies, barracuda, snappers, and other pelagic species. Divers drop into swift currents and ride through the passage for approximately 20 meters of depth, making this an Advanced-level dive that delivers an adrenaline-filled experience.
+Nigali Passage is a dive site in Fiji offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
-- **Location**: Nigali Passage, Gau Island, Lomaiviti Group, Fiji
+- **Location**: Fiji, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Drift dive
+- **Site Type**: Drift
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 25-40 meters
-- **Current**: Strong (3+ knots within diving window)
-- **Best Time**: April to November (limited 3-hour window daily)
+- **Typical Visibility**: 20-50 meters (65-160 feet)
+- **Current**: Moderate to strong
+- **Best Time**: April to November
 
 ## Marine Life
 
-Nigali Passage is renowned for reliable encounters with squadrons of grey reef sharks that patrol the channel. Additional species include schooling trevallies, barracuda, snappers, and various other pelagic fish. The passage provides an exciting opportunity for shark enthusiasts looking for consistent, multiple-shark encounters in a dramatic setting.
+Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -52,7 +52,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

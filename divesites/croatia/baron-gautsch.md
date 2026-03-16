@@ -13,36 +13,30 @@ addedBy: osm_import
 
 ## Baron Gautsch
 
-The Baron Gautsch is an iconic wreck dive known as the "Titanic of the Adriatic." This famous Austro-Hungarian passenger steamship sank in 1914 after running into a minefield laid by Austro-Hungarian forces. It remains one of the most accessible and heavily visited wreck sites in Croatia, known for its excellent preservation and abundant marine life.
+Baron Gautsch is a historic wreck dive in Croatia, Europe.
 
 ## Overview
 
-Built as an Austro-Hungarian passenger steamship, the Baron Gautsch was 85 meters long and 12 meters wide. On August 13, 1914, the ship struck a mine during wartime conditions and sank. The wreck lies upright and well-preserved near Rovinj in Istria. Upper deck sits at 28 meters, lower deck/stern at 36-40 meters. The wreck is completely covered with colorful sponges, shells, and seaweed, creating a vibrant artificial reef. As a protected national heritage site, diving requires advance booking through authorized dive centers with special permissions.
+Baron Gautsch is a renowned dive site in Croatia featuring the wreck of the Baron Gautsch which sank in 1914-08-13. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
 
 ## Site Information
 
-- **Location**: Near Rovinj, Istria, North Adriatic
+- **Location**: Croatia, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Advanced
-- **Depth Range**: Upper deck 28m, Lower deck/stern 36-40 meters
-- **Dimensions**: 85m long x 12m wide
-- **Typical Visibility**: 10-30 meters
-- **Current**: Moderate
-- **Best Time**: June to September
-- **Protected Status**: National heritage site—authorized dive centers only
+- **Maximum Depth**: 40 meters
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Light to moderate
+- **Best Time**: May to October
 
 ## Marine Life
 
-The wreck is heavily encrusted with red and orange sponges, creating brilliant color. Huge free-swimming conger eels are common, along with large lobsters and scorpionfish. Tiny nudibranchs of all colors populate the encrusted surfaces. Small reef fish congregate around the structure, and larger pelagic fish may patrol the exterior.
+Divers at this site can expect to encounter conger eels, lobsters, crabs, anemones, coral encrustation, groupers, moray eels, octopus. Additional species commonly sighted include barracuda, sea bream, amberjack. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
 
 ## Dive Profile
 
-Descent to upper deck (28m) takes 4-5 minutes. The ship's interior is accessible in places, but only for properly trained technical divers with full equipment. Most recreational divers stay on the exterior, exploring the structure and observing the abundant encrusting life. Ascent should be gradual with safety stop at 5 meters.
-
-## Safety & Authorization
-
-This is a protected archaeological site. Divers MUST book through authorized dive centers. The shop must have special permits. Do not disturb or collect artifacts. Currents can vary—check local conditions before diving.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 40 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -67,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

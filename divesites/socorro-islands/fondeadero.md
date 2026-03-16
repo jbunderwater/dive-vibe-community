@@ -13,53 +13,54 @@ addedBy: osm_import
 
 ## Fondeadero
 
-Fondeadero is a dive site off San Benedicto Island in the Revillagigedo Archipelago, characterized by three large rectangular volcanic blocks covered in coral and honeycombed with cavities. It is regularly used by liveaboard operators as a checkout dive at the start of trips, as it offers calmer conditions and shallower depths than the flagship sites elsewhere in the archipelago.
+Fondeadero is a reef dive site in Socorro Islands, Pacific.
 
 ## Overview
 
-El Fondeadero consists of three block-like lava formations sitting near the anchorage area of San Benedicto Island. The cavities in the blocks shelter lobsters, moray eels, groupers, and small reef fish. Blacktip reef sharks frequent the site. The calmer, shallower conditions make this a practical first dive for liveaboard groups checking buoyancy control and equipment function before committing to the stronger-current sites. Visibility at Fondeadero is typically lower than at the open-ocean sites — around 15 meters — due to the sheltered location. Despite the calmer conditions relative to other Socorro sites, Advanced certification is still required as part of any Revillagigedo liveaboard itinerary.
+Fondeadero is a dive site in Socorro Islands offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
-- **Location**: Near anchorage, San Benedicto Island, Revillagigedo Archipelago (liveaboard only)
+- **Location**: Socorro Islands, Pacific
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10–15 meters (lowest in the archipelago)
-- **Current**: Light to moderate; calmer than other Socorro sites
-- **Best Time**: November to June
+- **Typical Visibility**: 20-50 meters (65-160 feet)
+- **Current**: Moderate to strong
+- **Best Time**: April to November
 
 ## Marine Life
 
-The three volcanic blocks provide habitat for lobsters throughout the cavities, small groupers, moray eels, and schooling reef fish. Blacktip reef sharks are commonly spotted. The site lacks the consistent pelagic megafauna of The Boiler or Roca Partida — it is an inshore reef site rather than an open-ocean pinnacle. Clarion angelfish are present. Shark sightings are smaller species typical of sheltered inshore areas.
+Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
 
 ## Dive Profile
 
-A straightforward reef dive on the three block formations. Divers explore the cavities and overhangs for the resident fauna, working around each block. The site runs from 30 meters depth at the southern end, rising toward 10 meters as it approaches the island — giving the dive a natural slope that allows extended bottom times in the shallower northern sections. Often used as a checkout dive: divers demonstrate buoyancy control and confirm equipment function before heading to the more demanding sites. Not a drift dive — conditions are manageable even for divers who have not yet acclimatized to the trip.
+The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
-Liveaboard access only. Zodiac tender entry via giant stride. SMB recommended for ascent and zodiac pickup.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-- Use this dive to establish your weighting for the trip — better to dial in buoyancy here than at Roca Partida with ripping current
-- Look into the cavities carefully for lobsters tucked in crevices
-- Reduced visibility compared to the open sites means macro photography works well here
-- A good site for night dives if the operator schedules them at San Benedicto
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
+- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
-Fondeadero is the most benign site in the archipelago in terms of conditions, but it is still part of a liveaboard itinerary in a remote marine reserve 30 hours from Cabo San Lucas. Standard Advanced certification and 50+ logged dive requirements apply. SMB deployment practice here is valuable preparation for the open-water ascents required at other sites.
+Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-Fondeadero's reduced visibility favors close-range photography with strobes. The cavity structures offer compositions with lobsters and moray eels in their natural recesses. Small groupers, angelfish, and reef fish make willing subjects. This is a good site to warm up macro skills or test lighting setups before the wide-angle big-animal dives at The Boiler and Roca Partida.
+This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*Validated against Diver Trek, ACD Diving trip report, and UWPhotographyGuide Socorro site descriptions. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

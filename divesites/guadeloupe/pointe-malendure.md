@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Pointe Malendure
 
-Pointe Malendure is one of Guadeloupe's most accessible shore-entry dive and snorkel sites, famous for excellent sea turtle encounters and offering good reef diving with a smooth entry.
+Pointe Malendure is a reef dive site in Guadeloupe, Caribbean.
 
 ## Overview
 
-Located on the west coast of Basse-Terre near Bouillante, Pointe Malendure features black volcanic sand and crystal-clear water with exceptional marine biodiversity. The beach offers free shore access with no entrance fee, making it a popular starting point for exploring the Cousteau Reserve and the adjacent reefs. The site is particularly known for sea turtle encounters both in shallows and deeper areas.
+Pointe Malendure is a dive site in Guadeloupe offering rewarding diving on healthy coral reef structures . Beach entry on black volcanic sand, descent along rope to two platforms (15m and 30m), royal angels, turtle sightings common, seagrass to coral reef transition. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Malendure Beach, Bouillante, Basse-Terre
+- **Location**: Guadeloupe, Caribbean
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
@@ -29,15 +29,18 @@ Located on the west coast of Basse-Terre near Bouillante, Pointe Malendure featu
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
-- **Snorkel-Friendly**: Yes, calm conditions for beginners
-
-## Dive Profile
-
-The site has two distinct platforms. Descent begins at around 12 meters and extends to 30 meters along a rope in open water. The first platform sits in the 15-meter zone, perfect for Open Water divers. A second platform separated by about 30 meters of water reaches depths of approximately 30 meters. The seabed transitions from seagrass to rock screes covered with sea fans and coral. Juvenile and adult royal angelfish are common, along with hawksbill and green sea turtles near the coast.
 
 ## Marine Life
 
-This is the perfect spot in Guadeloupe for snorkeling with sea turtles. Reef areas on the northern side of the bay host rock screes with sea fans and corals, schools of blue tang, yellow goatfish, French angelfish, trumpetfish, and reef squid.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+
+## Dive Profile
+
+The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+
+## Entry and Exit
+
+Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
 
 ## Tips and Recommendations
 
@@ -55,7 +58,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

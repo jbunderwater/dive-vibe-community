@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Superman's Flight
 
-Superman's Flight is one of St. Lucia's most iconic wall dives, located beneath the sheer west face of Petit Piton and named for the thrilling sensation of flying through the water.
+Superman's Flight is a wall dive site in St. Lucia, Caribbean.
 
 ## Overview
 
-Superman's Flight offers an extraordinary diving experience where strong currents create the sensation of effortlessly gliding through the water like Superman flying through the air. The site features a dramatic vertical wall that drops into the deep blue with spectacular depth perspectives. Located directly beneath Petit Piton, this site offers excellent visibility with water temperatures averaging 26-29°C.
+Superman's Flight is a dive site in St. Lucia featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Base of Petit Piton, St. Lucia
+- **Location**: St. Lucia, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 50 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Strong - essential for the drift experience
+- **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-The vertical wall creates a diverse ecosystem with different species at varying depths. Divers encounter sea turtles, southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, and angelfish. The wall structure and strong currents attract pelagic visitors in the blue water beyond the wall.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-Descend along the Petit Piton wall to between 40-60 feet where colors remain vibrant and dive time is extended. Advanced divers can descend deeper to 70-100 feet for a multilevel dive profile, ascending in stages to 50 and 30 feet. Most of the interesting features and marine life are found between 10-50 meters. Maintain good buoyancy control and monitor your depth gauge regularly. The strong currents mean you'll be swept along the wall, so proper current management is essential.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-50 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
@@ -61,7 +61,7 @@ Wall dives offer stunning wide-angle opportunities with dramatic depth perspecti
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

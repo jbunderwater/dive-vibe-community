@@ -2,8 +2,8 @@
 name: Erscott's Hole
 lat: -31.55
 lng: 159.0667
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Beginner
+maxDepth: 8
 entryType: boat
 siteType: cave
 ref: null
@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Erscott's Hole
 
-Erscott's Hole is a cave dive site in Lord Howe Island, Oceania.
+Erscott's Hole is a shallow lagoon cave dive site with exceptional visibility and abundant fish life, located just 5 minutes from the boatshed inside the protected lagoon.
 
 ## Overview
 
-Erscott's Hole is a dive site in Lord Howe Island featuring underwater cave and cavern formations. Located in the Oceania region, this site offers 15-40 meters of visibility with water temperatures averaging 20-29°C.
+Erscott's Hole is a popular beginner-friendly cave dive within the lagoon, known for consistently excellent visibility and diverse marine life. The shallow depth and protected lagoon location make it diveable in nearly all weather conditions, making it a reliable choice for photographers and newer divers. Amazing fish life and easy conditions make this a must-do site.
 
 ## Site Information
 
-- **Location**: Lord Howe Island, Oceania
+- **Location**: Inside Lord Howe Island lagoon
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 15-40 meters (50-130 feet)
-- **Current**: Variable
-- **Best Time**: September to February
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 8 meters
+- **Typical Visibility**: 15-40 meters (50-130 feet)—consistently excellent
+- **Current**: Minimal (protected lagoon)
+- **Best Time**: Year-round, nearly all weather conditions
 
 ## Marine Life
 
-Divers at this site can expect to encounter great white sharks, grey nurse sharks, whale sharks, manta rays, sea turtles, dolphins, dugongs, potato cod. Additional species commonly sighted include maori wrasse, giant trevally, hard corals, soft corals. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+Erscott's Hole hosts a diverse mix of reef fish including Bluefish, Double Header Wrasse, Spangled Emperors, and Neon Damsels. The calm, shallow environment attracts numerous fish species seeking shelter in the cave formations.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers shallow diving in a cave and cavern environment. Maximum depth is approximately 8 meters. The cave shelters diverse fish life adapted to the protected conditions. Begin in the shallower sections and explore the cave formations. The shallow depth allows for extended bottom time.
 
 ## Entry and Exit
 
@@ -59,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

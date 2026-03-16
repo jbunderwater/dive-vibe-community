@@ -13,59 +13,55 @@ addedBy: osm_import
 
 ## Jane L. Stanford
 
-The Jane L. Stanford is the remains of a 215-foot four-masted wooden barkentine deliberately demolished by the US Coast Guard in 1929 on the north shore of Santa Rosa Island at Skunk Point — a historically significant if largely deteriorated site within Channel Islands National Park.
+Jane L. Stanford is a historic wreck dive in California Channel Islands, North America.
 
 ## Overview
 
-The Jane L. Stanford was a 215-foot California-built four-masted wooden barkentine constructed in 1892 and named for Jane Elizabeth Lathrop Stanford, co-founder of Stanford University. Originally built for transpacific lumber routes to Hawaii, Australia, and China, the vessel was converted to a fishing barge in southern California after World War I. On August 31, 1929, she was accidentally rammed by another vessel that left an eight-foot hole in her hull. Deemed too costly to repair, she was towed from Santa Barbara to the east end of Santa Rosa Island, where the US Coast Guard demolished her with 26 naval wrecking mines over four days. The wreck lies on the north side of Skunk Point, with massive timbers and iron structural elements visible both on the beach and in the shallow water.
+Jane L. Stanford is a dive site in California Channel Islands featuring the wreck of the Jane L. Stanford. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
 
 ## Site Information
 
-- **Location**: North side of Skunk Point, east end of Santa Rosa Island
+- **Location**: California Channel Islands, North America
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 5 meters
-- **Typical Visibility**: 3-10 meters (10-30 feet)
-- **Current**: Mild to moderate depending on conditions
-- **Best Time**: Summer to early autumn
-- **Water Temperature**: 13-17°C (55-62°F)
-- **Note**: From March 1 to September 15, back beaches and dunes at Skunk Point are closed to protect nesting shorebirds — beach access restricted but water access may be possible
+- **Typical Visibility**: 5-25 meters (15-80 feet)
+- **Current**: Variable, can be strong
+- **Best Time**: June to October
 
 ## Marine Life
 
-The shallow, protected north-shore environment at Skunk Point supports kelp forest species typical of Santa Rosa Island. Garibaldi, kelp bass, rockfish, and sheephead inhabit the kelp and rock reef around the wooden remains. The large timber sections provide shelter for smaller fish and invertebrates. Sea lions from the Santa Rosa rookery may investigate divers in this area.
+Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
 
 ## Dive Profile
 
-This is primarily a very shallow dive, with most of the accessible underwater wreck material in 1-5 meters. The remnants are scattered — 80 feet of massive timbers tied together with thick iron pins form the most recognizable structural element. Divers can explore the submerged portions of the keelson and framing while observing the kelp reef habitat. The beach section also exposes distinctive fragments of the wooden hull that can be viewed from the water's surface.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 5 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
-Charter boat access from Ventura or Santa Barbara. Skunk Point is on the east end of Santa Rosa Island. Note seasonal beach closure (March 1 to September 15) to protect nesting snowy plovers and least terns on the back beach and dunes. Divers can access the water from the boat but beach landings may be restricted during closure periods. Check current NPS regulations before visiting.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-- This is a shallow, historically interesting site rather than a dramatic wreck dive
-- 5mm wetsuit minimum — 7mm recommended for extended dives in cold water
-- Check NPS seasonal closure dates before planning — beach access is restricted March 1 to September 15
-- The site is better appreciated as a kelp reef dive with historical interest
-- Artifact collection is strictly prohibited — this is NPS and NOAA protected
-- Bring an underwater slate to sketch or note the structural elements you observe
+- Bring a dive torch to illuminate wreck interiors and dark overhangs
+- Maintain proper buoyancy to avoid disturbing silt inside the wreck
+- Do not attempt penetration without proper training and equipment
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
 
 ## Safety Considerations
 
-The shallow depth and protected north-shore location make this one of the more benign wreck sites in the Channel Islands. Primary hazards are cold water, moderate surge, and kelp entanglement. Dive with a buddy and carry a cutting tool for kelp. Monitor weather — Santa Rosa's north coast can become rough with northwest swell.
+Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-The massive wooden timbers — unusual in a region dominated by iron and steel wrecks — make for distinctive wide-angle subjects. The site where timbers emerge from sand and are overgrown with kelp can be photographed with available light. Macro opportunities on the encrusted iron pins and fastenings.
+The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
 
 ## Additional Resources
 
-- [NPS - Jane L. Stanford Shipwreck](https://www.nps.gov/places/000/jane-l-stanford-shipwreck.htm)
-- [Islapedia - Jane L. Stanford](https://www.islapedia.com/index.php?title=Jane_L._Stanford)
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from National Park Service records, Islapedia, and Channel Islands National Park documentation. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

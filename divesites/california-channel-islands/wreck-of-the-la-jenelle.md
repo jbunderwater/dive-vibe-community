@@ -13,59 +13,55 @@ addedBy: osm_import
 
 ## Wreck of the La Jenelle
 
-The La Jenelle was a 9,000-ton former passenger liner that was driven ashore in a 1970 gale at Port Hueneme, later cut down and filled with rock to form a breakwater extension — now an artificial reef dive site accessible by boat, notable for colorful corynactis anemone coverage and productive rockfish habitat.
+Wreck of the La Jenelle is a historic wreck dive in California Channel Islands, North America.
 
 ## Overview
 
-Launched in 1930 as the luxury liner Borinquen, this 1,000-passenger ship served routes between New York and Puerto Rico before WWII service across multiple combat theaters. Renamed several times, the vessel became La Jenelle in 1970 under the Western Steamship Company. On April 13, 1970, sustained gale-force winds with mountainous offshore seas drove the La Jenelle ashore at Port Hueneme with only two crew aboard. With a single anchor out, the 9,000-ton liner was pushed onto the beach in under thirty minutes. The US Navy subsequently declared the wreck a public hazard, cutting off the top half of the hull and filling the remains with quarry rock, concrete, and sand to form part of the Port Hueneme breakwater. The remnant hull structure — scattered in multiple clusters on the seafloor offshore — has evolved into a productive artificial reef and dive site.
+Wreck of the La Jenelle is a dive site in California Channel Islands featuring a historic wreck which sank in 04/13/1970 . Remains of the ship SS La Jenelle, wrecked on Silver Strand Beach in April, 1970 and later cut and hull filled with rock to form part of Port Hueneme breakwater.. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
 
 ## Site Information
 
-- **Location**: Offshore from Channel Islands Harbor, Port Hueneme, Ventura County (near mainland)
+- **Location**: California Channel Islands, North America
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Depth Range**: 6-25 meters (20-80 feet); main clusters typically 6-14 meters
-- **Typical Visibility**: 1.5-6 meters (5-20 feet) — frequently limited due to proximity to shore and harbor
-- **Current**: Variable; commercial fishing net activity possible at this site
-- **Best Time**: Summer and autumn, when river runoff is minimal and visibility improves
-- **Water Temperature**: 14-18°C (58-64°F)
+- **Typical Visibility**: 5-25 meters (15-80 feet)
+- **Current**: Variable, can be strong
+- **Best Time**: June to October
 
 ## Marine Life
 
-The encrusted steel structure has attracted exceptional invertebrate diversity over five decades. Vast areas of the reef are covered in corynactis (strawberry anemones) in myriad hues — one of the visual highlights of the site. Nudibranchs of all shapes, sizes, and colors roam the steel plates. Fish life is equally rich: cabezon, sand bass, sculpin, calico bass, garibaldi, sheephead, and rockfish of every type find food and shelter among the hull sections. Sheep crabs navigate the structural framework. The site is considered an excellent rockfish and bass habitat.
+Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
 
 ## Dive Profile
 
-The wreck is distributed across at least three main clusters of material, each comprising multiple structures rising up to 3.5 meters from the seafloor. The clusters include cabin sections, deck pieces with mooring equipment, and large plate sections heavily encrusted with invertebrates. The variable depth profile (6-25 meters) allows divers to plan their gas consumption carefully, spending more time in the shallower, richly encrusted upper sections. Navigation between clusters requires attention in limited visibility.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 25 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
-Charter or private boat from Ventura Harbor or Channel Islands Harbor. This site is offshore in the Santa Barbara Channel between the mainland and the Channel Islands, closer to the mainland than any island. Multiple Ventura-area dive operators include this site on their schedule. Check for commercial fishing net markers before descending — if gill net floats are visible, choose an alternative site to avoid entanglement hazard.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-- Visibility is frequently 1.5-6 meters — plan navigation carefully and use a compass
-- Check for commercial fishing net markers before the dive — gill net entanglement is a genuine hazard at this site
-- A torch is essential to illuminate the vivid colors of corynactis and nudibranchs against the steel
-- The shallow clusters (6-14 meters) offer the best macro photography opportunities
-- Deeper sections (to 25 meters) can be explored for wider structural views on clearer days
-- This site works well as a day dive from the Ventura area without requiring a full Channel Islands trip
+- Bring a dive torch to illuminate wreck interiors and dark overhangs
+- Maintain proper buoyancy to avoid disturbing silt inside the wreck
+- Do not attempt penetration without proper training and equipment
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
 
 ## Safety Considerations
 
-Limited visibility is the primary challenge at this site — frequently 1.5-6 meters. Navigation requires a compass and careful buddy awareness. Commercial fishing nets can be present on or near the site — abort the dive and choose an alternative location if net markers are visible. The enclosed nature of some hull sections means penetration training is advisable before exploring interior areas. Monitor depth carefully in the deeper clusters.
+Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-Exceptional macro photography destination. The dense corynactis anemone coverage — in pink, purple, orange, and red — creates vivid backgrounds for nudibranch and invertebrate subjects. A torch is essential to reveal colors that appear grey in ambient light. On clearer days (6+ meter visibility), wider shots of encrusted hull sections are possible. This is primarily a close-focus, torch-lit photography site due to the characteristically limited visibility.
+The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
 
 ## Additional Resources
 
-- [California Diving News - La Jenelle Artificial Reef](https://cadivingnews.com/dive-spots/la-jenelle-artificial-reef/)
-- [California Diving News - La Jenelle Park Dive Site](https://cadivingnews.com/dive-spots/dive-site-ventura-county-la-jenelle-park/)
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from California Diving News, Wikipedia (Borinquen), and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

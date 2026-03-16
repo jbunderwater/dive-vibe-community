@@ -3,7 +3,7 @@ name: The Monument
 lat: -35.25
 lng: 136.08
 difficulty: Advanced
-maxDepth: 25
+maxDepth: 21
 entryType: boat
 siteType: reef
 ref: null
@@ -13,53 +13,54 @@ addedBy: osm_import
 
 ## The Monument
 
-The Monument is a reef dive site in South Australia Neptune Islands, Oceania.
+Premier submerged cage diving site with exceptional shark encounters and deep kelp seabed exploration.
 
 ## Overview
 
-The Monument is a dive site in South Australia Neptune Islands offering rewarding diving on healthy coral reef structures. Located in the Oceania region, this site offers 15-40 meters of visibility with water temperatures averaging 20-29°C.
+The Monument is an advanced submerged cage diving site in the Neptune Islands, known for exceptional great white shark activity and pristine kelp seabed exploration. The site's distinctive rock formation (the monument) provides a visual reference point at approximately 21 meters depth, where cages hover among kelp forests. This site consistently delivers dramatic shark encounters with excellent visibility.
 
 ## Site Information
 
-- **Location**: South Australia Neptune Islands, Oceania
+- **Location**: Central Neptune Islands, 40 nautical miles south of Port Lincoln, South Australia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 15-40 meters (50-130 feet)
-- **Current**: Variable
-- **Best Time**: September to February
+- **Depth**: 21 meters (60-80 feet)
+- **Typical Visibility**: 15-20 meters (50-65 feet)
+- **Current**: Generally mild, occasionally variable
+- **Water Temperature**: 14-22°C (57-72°F) — coldest June-August, warmest December-May
+- **Best Time**: May-October for peak shark activity; year-round viable
 
 ## Marine Life
 
-Divers at this site can expect to encounter great white sharks, grey nurse sharks, whale sharks, manta rays, sea turtles, dolphins, dugongs, potato cod. Additional species commonly sighted include maori wrasse, giant trevally, hard corals, soft corals.
+Great white sharks (males year-round, large females April-August during pup season), Australian sea lions, long-nosed fur seals, pups, cold-water reef fish (bream, trevally, wrasse), giant crabs, sea urchins, kelp forest fauna.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Certified divers descend in cages to approximately 21 meters where the cage stabilizes above the kelp-covered seabed near the distinctive monument rock formation. Typical dive duration 30-45 minutes per rotation. Multiple cage cycles (usually 3-4) maximize observation time. Divers use scuba air supplies within the secure cage structure. The monument formation creates dramatic photography opportunities and serves as a reference point for shark behavior observation.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+PADI Open Water or CMAS 1 Star certification required. Entry via cage platform; controlled descent to depth with cage. Professional divemasters provide comprehensive briefing on equalization techniques, air management, emergency procedures. Ascent includes standard safety stops; return to boat via cage platform. Entire operation typically 4-5 hours including briefings and multiple cage rotations.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- PADI Open Water or equivalent certification required (bring card)
+- Book with Rodney Fox Shark Expeditions for consistent operations at this site
+- Wear 5-7mm semi-dry wetsuit for 14-22°C water
+- Experienced cage divers will maximize seabed observation and shark behavior documentation
+- May-October: peak shark activity; June-August: large females common
+- 2-3 cage rotations recommended for optimal experience
+- Bring waterproof camera for iconic monument formation shark photos
+- Motion sickness medication advisable for sensitive individuals
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish (box jellyfish in summer), crocodiles (north) in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Advanced cold-water diving at 21 meters requires proper thermal protection, equalization awareness, nitrogen narcosis management, and standard deep diving protocols. Operators provide professional supervision and secure cage construction. Always verify operator licensing, equipment maintenance records, and insurance. Maintain current certifications and adequate cold-water diving experience. Safety stop protocols are mandatory.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

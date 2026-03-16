@@ -13,48 +13,46 @@ addedBy: osm_import
 
 ## Chandelier Cave
 
-Chandelier Cave is Palau's most unique cave dive, famous for its stalactite formations and air-filled chambers.
+Chandelier Cave is a cave dive site in Palau, Pacific.
 
 ## Overview
 
-Chandelier Cave is a limestone cavern system located beneath Palau's dramatic rock islands. The site is characterized by glittering stalactites resembling chandeliers, freshwater seeps creating visible haloclines, and air pockets in five connecting chambers. While not requiring technical cave certification, this overhead environment demands good buoyancy control and comfort with cave diving. The cave's geological history as an air cave is evidenced by stalactite formations (which only form above water).
+Chandelier Cave is a dive site in Palau featuring underwater cave and cavern formations. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
-- **Location**: Rock island, northern Palau lagoon
+- **Location**: Palau, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/cavern
+- **Site Type**: Cave/Cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: Good inside chambers, variable outside
-- **Current**: Light to moderate
+- **Typical Visibility**: 20-50 meters (65-160 feet)
+- **Current**: Moderate to strong
 - **Best Time**: April to November
 
 ## Marine Life
 
-Outside the cave entrance, expect reef fish, small groupers, and invertebrates. Inside chambers, observe glassy sweepers, small crustaceans, and organisms adapted to low-light conditions. Some chambers contain freshwater layers where you can surface and observe the halocline effect—the interface between saltwater below and freshwater above.
+Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
 
 ## Dive Profile
 
-Begin descent to the cave entrance at approximately 10-12 meters. Maintain slow, controlled movements to avoid disturbing sediment and damaging fragile stalactites. Enter the first chamber and observe the glittering chandelier-like formations overhead. Progress through connecting chambers, surfacing in air pockets where freshwater drips from stalactites. Many divers sample the freshwater taste by surfacing and licking a stalactite—a unique sensory experience. Exit through the entrance and conclude the dive on the surrounding reef.
+The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
-Boat entry via back roll or giant stride. Descend to the cave entrance following your guide. Maintain contact with your buddy throughout. Exit the cave, ascend to shallower depths, and perform safety stop before SMB deployment for boat pickup.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-- Maintain excellent buoyancy control to protect fragile formations
-- Keep movements slow and deliberate
-- Avoid touching stalactites or walls if possible
-- Bring a torch for better illumination inside chambers
-- Ask your guide about the freshwater tasting experience
-- Go with experienced guides who know the cave layout
-- This is an excellent introduction to overhead environments
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
+- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
-While not a technical cave dive, overhead environments present unique hazards. Avoid claustrophobia and ensure comfort with darkness before diving. Do not stir bottom sediment. Maintain constant buddy contact. In low visibility, use a guide rope. Never attempt exploration beyond marked areas. Ascend with adequate reserves for safety stop.
+Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -62,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

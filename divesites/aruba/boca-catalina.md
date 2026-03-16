@@ -13,24 +13,22 @@ addedBy: osm_import
 
 ## Boca Catalina
 
-Boca Catalina is rated as the best snorkeling and dive site in Aruba, located on the northwestern tip of the island near the California Lighthouse. Accessed from safe sandy beaches with nearby rocky points, this site features varied underwater topography suitable for all levels.
+Boca Catalina is a reef dive site in Aruba, Caribbean.
 
 ## Overview
 
-Boca Catalina offers the calmest and most accessible entry conditions in Aruba. The site features shallow seagrass beds (1-2 meters) extending offshore, coral patches in 3-4 meters of water, and deeper exploration areas to 6+ meters. Rocky outcrops framing the beach create sheltered coves with vibrant marine life. The site is specifically renowned for Green and Hawksbill sea turtle encounters, especially in the shallow seagrass areas. Crystal-clear water and minimal current make this ideal for beginners, advanced open water certifications, and photographers of all levels.
+Boca Catalina is a dive site in Aruba offering excellent diving on healthy coral reef structures . Shallow seagrass/sand areas 1-2m, coral patches 3-4m, excellent for sea turtle sightings. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Northwestern coast near California Lighthouse, Aruba
+- **Location**: Aruba, Caribbean
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 6 meters
-- **Shallow Area Depths**: 1-4 meters (seagrass and coral patches)
-- **Typical Visibility**: 15-25 meters (50-80 feet)
-- **Current**: Negligible
-- **Best Time**: Year-round, December to April for driest conditions
-- **Special Note**: Excellent for sea turtle encounters
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Light to moderate
+- **Best Time**: December to April (dry season)
 
 ## Marine Life
 
@@ -38,7 +36,7 @@ Divers at this site can expect to encounter sea turtles (green, hawksbill), sout
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 10 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-10 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 6 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-6 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -61,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

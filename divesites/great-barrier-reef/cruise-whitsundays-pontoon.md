@@ -3,7 +3,7 @@ name: Cruise Whitsundays Pontoon
 lat: -19.5714303
 lng: 149.2695225
 difficulty: Beginner
-maxDepth: 20
+maxDepth: 12
 entryType: boat
 siteType: reef
 ref: null
@@ -17,7 +17,7 @@ Cruise Whitsundays Pontoon is a reef dive site in Great Barrier Reef, Oceania.
 
 ## Overview
 
-Cruise Whitsundays Pontoon is a dive site in Great Barrier Reef offering excellent diving on healthy coral reef structures. Located in the Oceania region, this site offers 15-40 meters of visibility with water temperatures averaging 20-29°C.
+Cruise Whitsundays Pontoon is a shallow reef site accessed from the Cruise Whitsundays floating platform, offering beginner-friendly conditions and easy entry. Located in the Whitsunday Islands region of the southern Great Barrier Reef, this site offers 10-15 meters of visibility with water temperatures of 23-27°C. The pontoon facility provides excellent access for introduction dives and recreational diving.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ Cruise Whitsundays Pontoon is a dive site in Great Barrier Reef offering excelle
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 12 meters
 - **Typical Visibility**: 15-40 meters (50-130 feet)
 - **Current**: Variable
 - **Best Time**: September to February
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter great white sharks, grey nurse shark
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

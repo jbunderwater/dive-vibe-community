@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Hanging Gardens
 
-Hanging Gardens is named for the spectacular soft coral formations, sea fans, and barrel sponges that adorn the top reef—creating a garden hanging over the wall's edge. Located on the south side of Sipadan, it's known for exceptional turtle and reef shark encounters with minimal currents.
+Hanging Gardens is a wall dive site in Sipadan, Asia.
 
 ## Overview
 
-Hanging Gardens features a shallow top reef beginning at 2-5 meters, densely covered with soft corals, sea fans, and large barrel sponges. At the reef edge, the wall drops steeply to well beyond 40 meters recreational limits. The site's attraction is the abundance of colorful soft coral formations and the reliable presence of 50+ sea turtles in a single dive. Visibility is excellent, often exceeding 30 meters. The site is one of Sipadan's few locations with little to no current, making it accessible to intermediate divers and popular for snorkelers.
+Hanging Gardens is a dive site in Sipadan featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: South side of Sipadan
+- **Location**: Sipadan, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 40 meters
-- **Typical Visibility**: 30+ meters (100+ feet)
-- **Current**: Minimal to absent—one of Sipadan's calmest sites
-- **Best Time**: Any season, best in morning (October to April seasonal variation)
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Sea turtles are the primary attraction—50+ encounters in a single dive are common. Reef sharks (whitetip, blacktip) patrol the reef. Additional species include bumphead parrotfish schools, trevally, barracuda, and groupers. Macro subjects include nudibranchs, seahorses, and gobies among the corals. Pelagics occasionally visit the deeper wall sections.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-Begin on the shallow reef top (2-5 meters) to observe soft corals, barrel sponges, and sea fans. Gradually descend along the wall edge to 15-25 meters where reef sharks patrol. Sea turtles are encountered throughout all depths. The minimal current makes this a relaxed, exploratory dive ideal for photography. Safety stops can be made on the shallow reef top.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-40 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
@@ -44,11 +44,12 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
+- Watch your depth carefully — wall dives can lead to unintentional deep descents
+- Look in crevices and overhangs for hidden marine life
 - Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
 - Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
@@ -56,11 +57,11 @@ Be aware of strong currents, jellyfish, sea urchins in this area. Dive within yo
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

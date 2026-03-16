@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Three Rocks
 
-Three Rocks (also called Sharm Rocks) is a beginner-friendly dive site featuring three distinctive pinnacles ideal as a final dive of the day.
+Three Rocks is a pinnacle dive site in UAE - Fujairah, Middle East.
 
 ## Overview
 
-Three Rocks consists of three large rocky pinnacles clustered closely together with a distinctive crack running along the top. The site spans approximately 150 meters long and 100 meters wide. Extremely calm water conditions and shallow depths (maximum 14 meters) make this an excellent choice for newer divers and as a final dive of the day. The site is also suitable for night diving with proper training.
+Three Rocks is a dive site in UAE - Fujairah offering excellent diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
 
 ## Site Information
 
-- **Location**: UAE - Fujairah (local/doorstep site)
+- **Location**: UAE - Fujairah, Middle East
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle/seamount
+- **Site Type**: Pinnacle
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 14 meters
-- **Typical Visibility**: 15-20 meters
-- **Current**: Very calm (ideal for beginners)
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Moderate to strong
 - **Best Time**: September to May
 
 ## Marine Life
 
-The pinnacles attract typical reef fish species adapted to rocky substrates. Groupers, lionfish, and damselfish populate the formations. Soft corals coat the rocks. The calm conditions and shallow depth make this site excellent for macro photography and training dives.
+Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
 
 ## Dive Profile
 
@@ -61,7 +61,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

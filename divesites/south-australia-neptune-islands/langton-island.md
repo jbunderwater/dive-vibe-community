@@ -3,7 +3,7 @@ name: Langton Island
 lat: -35.31
 lng: 136.11
 difficulty: Intermediate
-maxDepth: 18
+maxDepth: 16
 entryType: boat
 siteType: reef
 ref: null
@@ -13,53 +13,54 @@ addedBy: osm_import
 
 ## Langton Island
 
-Langton Island is a reef dive site in South Australia Neptune Islands, Oceania.
+Intermediate cold-water reef dive site with diverse fauna and accessible depths suitable for gaining Neptune Islands experience.
 
 ## Overview
 
-Langton Island is a dive site in South Australia Neptune Islands offering rewarding diving on healthy coral reef structures. Located in the Oceania region, this site offers 15-40 meters of visibility with water temperatures averaging 20-29°C.
+Langton Island is an intermediate-level reef dive site in the southern Neptune Islands group. The site features rocky reef structures, kelp forests, and a diverse array of cold-water marine life. This site is popular for intermediate divers seeking recreational diving away from cage diving operations, or as a complement to cage diving expeditions. Good visibility, moderate depths, and abundant small fauna make this an excellent educational and enjoyable dive.
 
 ## Site Information
 
-- **Location**: South Australia Neptune Islands, Oceania
+- **Location**: Langton Island, southern Neptune Islands, 40 nautical miles south of Port Lincoln, South Australia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 15-40 meters (50-130 feet)
-- **Current**: Variable
-- **Best Time**: September to February
+- **Depth**: 6-16 meters (20-52 feet)
+- **Typical Visibility**: 15-20 meters (50-65 feet)
+- **Current**: Generally mild to moderate
+- **Water Temperature**: 14-22°C (57-72°F) — coldest June-August, warmest December-May
+- **Best Time**: May-October for calmer conditions and better visibility; year-round viable
 
 ## Marine Life
 
-Divers at this site can expect to encounter great white sharks, grey nurse sharks, whale sharks, manta rays, sea turtles, dolphins, dugongs, potato cod. Additional species commonly sighted include maori wrasse, giant trevally, hard corals, soft corals.
+Cold-water reef fish (bream, trevally, wrasse), cuttlefish, sea urchins, giant crabs, kelp forest invertebrates, zoanthids, sponges, occasional seals during breeding season (April-August), small fish sheltering in reef crevices.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the rocky reef structure at 6-8 meters and explore the kelp forest and reef terrain. Navigate carefully around kelp fronds while maintaining good buoyancy control. Typical dive duration 40-50 minutes. Most marine life concentrated in reef zones (6-15 meters). Ascend gradually, watching for small fish and invertebrates in shallow areas (5-8 meters). Complete safety stop at 5 meters before surfacing.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+PADI Open Water certification or equivalent required. Giant stride or back roll entry from boat near reef area. Descend along the reef structure; navigate rocks and kelp with careful attention to buoyancy. Navigate back to ascent area, making final safety stop at 5 meters. Deploy surface marker buoy (SMB) during safety stop. Coordinate with boat crew for pickup.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- PADI Open Water certification or equivalent required
+- Wear 5-7mm semi-dry wetsuit for 14-22°C water year-round
+- Be aware of kelp entanglement risk; avoid rapid movements through dense kelp
+- Maintain neutral buoyancy to avoid scraping rocks and damaging flora
+- Excellent reef for macro photography; bring macro lens and detail focus
+- Budget 5-10 minutes observing small fauna in shallow reef areas
+- May-October offers best conditions; winter months can be unpredictable
+- Book with local operators familiar with Langton Island site conditions
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish (box jellyfish in summer), crocodiles (north) in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Cold-water reef diving requires proper thermal protection and buddy awareness. Kelp forests present entanglement risk if moving too quickly; maintain controlled movements. Rocky substrate demands excellent buoyancy control to avoid abrasion and reef damage. Standard open water diving protocols apply: equalization, air consumption monitoring, safety stop compliance. Always dive with a buddy. Water temperature 14-22°C requires extended thermal protection and energy management. Verify current conditions with local operators before diving.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

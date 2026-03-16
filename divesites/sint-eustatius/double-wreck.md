@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Double Wreck
 
-Double Wreck showcases two tall-masted merchant ships that sank in the 1700s, now transformed into coral-encrusted patch reefs. The site exemplifies Statia's archaeological diving heritage, where disintegrated wooden vessels have been colonized and cemented together by calcareous corals and sponges, creating distinctive reef structures roughly in the shape of the original ships.
+Double Wreck is a historic wreck dive in Sint Eustatius, Caribbean.
 
 ## Overview
 
-Located just offshore from Lower Town, Double Wreck features the remains of two 18th-century sailing vessels where only ballast stones remain from the original ships. These stones were quickly colonized and cemented by coral before being overgrown with layers of sponges and coral, creating patch reef formations with unique character. At 55-60 feet (17-18m), the site offers good depth and visibility for exploring these fascinating archaeological sites.
+Double Wreck is a dive site in Sint Eustatius featuring the wreck of the Double Wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Sint Eustatius (Statia), Lower Town area
+- **Location**: Sint Eustatius, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 17 meters
-- **Typical Visibility**: 20-30 meters (65-100 feet)
+- **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Spiny lobsters, stingrays, moray eels, and large schools of fish populate the site. Southern stingrays common in the sand. Good probability of turtle sightings. Excellent habitat for smaller critters including seahorses and frogfish. The wreck structure provides crevices for green moray eels and lobsters.
+Divers at this site can expect to encounter groupers, snappers, soldierfish, glassy sweepers, coral growth, sponge encrustation, sea turtles (green, hawksbill), southern stingrays. Additional species commonly sighted include eagle rays, nurse sharks, reef sharks, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 16 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 17 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -61,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

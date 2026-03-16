@@ -6,64 +6,62 @@ difficulty: Intermediate
 maxDepth: 18
 entryType: boat
 siteType: wreck
-ref: 454413853
+ref: null
 osmId: 454413853
-addedBy: osm_extended
+addedBy: osm_import
 ---
 
 ## Antilla Shipwreck
 
-This is a historic shipwreck dive site in Aruba featuring a hull-visible structure marked in the OpenStreetMap seamark database as suitable for scuba diving. The wreck's hull remains visible at low tide, making it a unique site for recreational diving.
+Antilla Shipwreck is a historic wreck dive in Aruba, Caribbean.
 
 ## Overview
 
-The Antilla Shipwreck is located in shallow waters with the hull structure visible at low tide. The seamark database classification as "hull_visible" indicates that the wreck's upper structure remains accessible and visible to divers. The site is marked with the sport=scuba_diving tag, confirming its recreational diving designation. The wreck sits at approximately 18 meters maximum depth, making it accessible to intermediate recreational divers. Given the hull visibility and shallow depth, the site likely offers good exploration opportunities for examining the wreck structure and associated marine life. The location and shallow depth create favorable conditions for recreational diving with adequate light penetration and reasonable visibility in Aruba's typically clear leeward waters.
+Antilla Shipwreck is a dive site in Aruba featuring the wreck of the Antilla Shipwreck . Hull visible at low tide, appears to be SS Antilla (major wreck) or distinct wreck site. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Aruba, Caribbean (OSM coordinates 12.59°N, 70.05°W)
+- **Location**: Aruba, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Hull Visibility**: Visible at low tide
-- **Typical Visibility**: 15-25 meters (50-80 feet) [estimated for Aruba leeward sites]
-- **Current**: Light to negligible [estimated for Aruba leeward sites]
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
-- **Dive Classification**: Sport scuba diving (per OSM designation)
 
 ## Marine Life
 
-Typical reef fish species, sharks, rays, and invertebrates inhabit wreck structures in Aruba. Expected encounters may include groupers, snappers, reef sharks, barracuda, moray eels, and sea turtles, though marine life varies seasonally.
+Divers at this site can expect to encounter groupers, snappers, soldierfish, glassy sweepers, coral growth, sponge encrustation, sea turtles (green, hawksbill), southern stingrays. Additional species commonly sighted include eagle rays, nurse sharks, reef sharks, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
 
 ## Dive Profile
 
-Begin descent near the wreck structure. The maximum depth of approximately 18 meters provides good light conditions and bottom time for recreational diving. Explore the hull structure carefully, observing depth and air consumption. The visible hull components should provide clear visual reference points for navigation. Ascend with adequate reserve for a safety stop at 5 meters.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 18 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Coordinate with boat crew for descent procedures and site orientation. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-- The hull-visible characteristic makes this a visually distinctive wreck site
-- Bring an underwater camera for photography of the wreck structure
-- Check tide conditions before diving to potentially observe hull visibility
-- Bring a dive torch to illuminate dark crevices and interior features
-- Book with reputable local dive operators familiar with this site
+- Bring a dive torch to illuminate wreck interiors and dark overhangs
+- Maintain proper buoyancy to avoid disturbing silt inside the wreck
+- Do not attempt penetration without proper training and equipment
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
 
 ## Safety Considerations
 
-Be aware of boat traffic, potential surge areas, fire coral, and sea urchins. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-The wreck structure provides interesting subjects for both wide-angle photography of the overall hull and macro photography of coral and marine life colonizing the structure. Hull visibility at low tide creates unique photographic opportunities.
+The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap seamark data, GPS coordinates, and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Turtle Point
 
-Turtle Point (also known as Turtle Heaven or Turtle City) is a large underwater pinnacle off Gili Trawangan renowned for guaranteed sea turtle encounters and beginner-friendly diving.
+Turtle Point is a reef dive site in Lombok, Asia.
 
 ## Overview
 
-Turtle Point is an underwater hill starting at approximately 10 meters depth and dropping to 35 meters, located off Gili Trawangan. This is one of the best beginner dive sites in the Gili Islands, offering shallow entry points and gradual slopes ideal for newer divers. The site is famous for consistent encounters with green sea turtles and hawksbill turtles, which are seen grazing on seagrass especially during high tide. Turtles are encountered on nearly every dive here.
+Turtle Point is a dive site in Lombok offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
@@ -32,11 +32,11 @@ Turtle Point is an underwater hill starting at approximately 10 meters depth and
 
 ## Marine Life
 
-Turtle Point is abundant with green and hawksbill sea turtles, with multiple turtle encounters on most dives. The site is very colorful, featuring anemones with clownfish, mantis shrimp, octopuses, and nudibranchs. Schooling fusiliers, sergeant majors, and colorful reef fish inhabit the shallow areas. The site attracts a full complement of reef fish at all depths.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 35 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -44,6 +44,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
+- Excellent site for newer divers — calm conditions and easy navigation
 - Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
@@ -60,7 +61,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

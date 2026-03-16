@@ -13,24 +13,22 @@ addedBy: osm_import
 
 ## Mixing Bowl Little Cayman
 
-Mixing Bowl is a dramatic wall dive located at the intersection of Bloody Bay Wall with Jackson Bight on Little Cayman. This site features a mix of sheer wall, coral fingers, and sandy flats populated with beautiful coral heads, rays, turtles, and excellent fish life.
+Mixing Bowl Little Cayman is a wall dive site in Cayman Islands, Caribbean.
 
 ## Overview
 
-Mixing Bowl is a favorite wall dive site on Little Cayman, named for the mixing of water currents and diving experiences found at the junction of Bloody Bay Wall with Jackson Bight. The site features sheer wall sections, coral fingers extending into sand flats, and thriving coral head formations. Divers encounter a rich mix of reef fish, rays, turtles, and the dramatic wall topography that makes Little Cayman famous. The varied topography allows for different dive profiles, from shallow reef exploration to wall descents.
+Mixing Bowl Little Cayman is a dive site in Cayman Islands featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Bloody Bay Marine Park, Little Cayman, Caribbean
+- **Location**: Cayman Islands, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Depth Range**: 15-25 meters (primary dive zone)
-- **Wall Depth**: Extends beyond recreational limits
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
-- **Notable Feature**: Mix of sheer wall, coral fingers, and sand flats
 
 ## Marine Life
 
@@ -63,7 +61,7 @@ Wall dives offer stunning wide-angle opportunities with dramatic depth perspecti
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

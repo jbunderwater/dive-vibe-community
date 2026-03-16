@@ -13,12 +13,11 @@ addedBy: osm_import
 
 ## Troys Coral Head
 
-Troys Coral Head is a coral pinnacle in Kwajalein lagoon offering healthy reef structures and abundant marine life. Gray reef sharks are common here.
-
+Troys Coral Head is a reef dive site in Marshall Islands, Pacific.
 
 ## Overview
 
-Troys Coral Head is a coral pinnacle in Kwajalein lagoon offering healthy reef structures and abundant marine life. Gray reef sharks are common here. This site offers visibility typically exceeding 30 meters, with water temperatures consistent at 27-30°C year-round.
+Troys Coral Head is a dive site in Marshall Islands offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
@@ -61,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

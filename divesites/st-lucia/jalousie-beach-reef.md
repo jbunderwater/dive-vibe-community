@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Jalousie Beach Reef
 
-Jalousie Beach Reef sits at the base of the Gros Piton, offering excellent diving in one of St. Lucia's most picturesque settings.
+Jalousie Beach Reef is a reef dive site in St. Lucia, Caribbean.
 
 ## Overview
 
-Situated in Jalousie Bay at the foot of the Gros Piton, this reef dive features a wonderful wall that drops down to hundreds of feet below. The mountain slope continues beneath the surface where the volcanic formation creates an exceptional dive site. The scenic setting on a beautiful white sand beach backed by lush tropical greenery and one of the island's iconic twin peaks makes this both a visually stunning and excellent diving destination.
+Jalousie Beach Reef is a dive site in St. Lucia offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Jalousie Bay, base of Gros Piton, St. Lucia
+- **Location**: St. Lucia, Caribbean
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
@@ -32,11 +32,11 @@ Situated in Jalousie Bay at the foot of the Gros Piton, this reef dive features 
 
 ## Marine Life
 
-The site features a great range of coral species and sponges. Divers view lots of schooling fish, particularly creole wrasse, bar jack, and occasionally southern sennet. Hidden among corals are moray eels, reef crabs, and lobsters. Sea turtles, southern stingrays, and eagle rays are commonly encountered. The diverse habitat structure supports abundant marine life at all depth levels.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
 
 ## Dive Profile
 
-Begin your dive in the shallower sections and gradually work deeper along the reef/wall structure. The most abundant and colorful marine life is typically found between 5-15 meters. The wall provides excellent depth management practice for beginner divers. Plan your dive within your certification limits and allow adequate air for a safety stop. The scenic underwater mountain slope continues well beyond recreational dive limits, so careful depth monitoring is essential.
+The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -59,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

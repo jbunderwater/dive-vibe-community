@@ -13,31 +13,30 @@ addedBy: osm_import
 
 ## Dry Rocks East
 
-Dry Rocks East is a barely breaking ridge just east of Cooper Island that juts out into the channel between Cooper and Ginger Islands. This site acts as a natural focal point for marine activity, attracting pelagic species and offering opportunities to encounter unusual fish that are favorites with local dive leaders. The site features an open water reef structure with good visibility and interesting geology.
+Dry Rocks East is a reef dive site in British Virgin Islands, Caribbean.
 
 ## Overview
 
-Dry Rocks East is a favorite site with local dive leaders because of the unusual marine life and pelagic opportunities it offers. As an open water site, it provides exposure to blue water and the chance to spot larger pelagic fish like cobia and African pompano. The site features beautiful pillar corals, black corals, and sea fans dotting a sandy bottom with huge boulders at the base of the ridge providing shelter for diverse creatures. The exposed location means currents can be present, and divers should pay attention to the dive briefing. This is an intermediate-level dive requiring good awareness and following the dive leader's guidance when currents are present.
+Dry Rocks East is a dive site in British Virgin Islands offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: East of Cooper Island, between Cooper and Ginger Islands
+- **Location**: British Virgin Islands, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 24 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Variable; can be moderate to strong—heed dive briefing
+- **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
-- **Conditions**: Exposed location; currents can be present
 
 ## Marine Life
 
-Dry Rocks East offers exceptional opportunities to spot pelagic species including cobia, African pompano, and other large fish. The site is populated with black triggerfish, coneys, trunkfish, and slipper lobsters crowd the huge boulders. The open water location means opportunities to encounter larger sharks, mackerel, jacks, and other pelagic species passing through the channel.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
 
 ## Dive Profile
 
-Descend along the ridge and explore the boulder field at the base. The site is best dived with attention to the dive leader, especially if currents are present. Use the boulders as visual references and plan to spend time observing the pelagic zone beyond the ridge. Bottom times at this depth allow for 30-45 minutes of diving. Maintain position on the ridge and watch for pelagic visitors in the blue water.
+The site offers diving at depths ranging from shallow reef areas down to approximately 24 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -45,16 +44,14 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Pay close attention to the dive briefing and follow the dive leader
-- Watch for currents and adjust your diving plan accordingly
-- Bring an underwater camera—pelagic fish and unusual marine life are photogenic
-- Check weather before diving; exposed location can be affected by conditions
-- Stay aware of the blue water beyond the ridge for pelagic sightings
-- This is a challenging dive when currents are strong—obey the dive master
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 
-Dry Rocks East's exposed location means currents can be present and strong. Be aware of boat traffic, fire coral, potential for disorientation in strong currents. Dive within your intermediate certification level. Heed the dive leader's current assessment and briefing. Always dive with a buddy and carry a safety sausage (SMB). This site is not recommended when strong currents are forecast.
+Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -62,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

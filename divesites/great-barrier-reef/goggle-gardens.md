@@ -3,7 +3,7 @@ name: Goggle Gardens
 lat: -14.95076
 lng: 145.68395
 difficulty: Beginner
-maxDepth: 20
+maxDepth: 14
 entryType: boat
 siteType: reef
 ref: null
@@ -17,7 +17,7 @@ Goggle Gardens is a reef dive site in Great Barrier Reef, Oceania.
 
 ## Overview
 
-Goggle Gardens is a dive site in Great Barrier Reef offering excellent diving on healthy coral reef structures. Located in the Oceania region, this site offers 15-40 meters of visibility with water temperatures averaging 20-29°C.
+Goggle Gardens is a shallow reef site with beautiful coral formations and colorful reef fish, perfect for beginner divers and snorkelers. Located in the central Great Barrier Reef, this site offers 10-15 meters of visibility with water temperatures of 23-27°C. The site features vibrant coral gardens with excellent macro photography opportunities and calm diving conditions.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ Goggle Gardens is a dive site in Great Barrier Reef offering excellent diving on
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 14 meters
 - **Typical Visibility**: 15-40 meters (50-130 feet)
 - **Current**: Variable
 - **Best Time**: September to February
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter great white sharks, grey nurse shark
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 14 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-14 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

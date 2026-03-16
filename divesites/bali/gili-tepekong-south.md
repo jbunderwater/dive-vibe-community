@@ -17,26 +17,26 @@ Gili Tepekong South is a wall dive site in Bali, Asia.
 
 ## Overview
 
-Gili Tepekong South, known as "the Canyon," is Bali's most challenging and dangerous dive site. The infamous "the Toilet" nickname comes from its intimidating swirling downdraft currents that have caused multiple deaths and severe diving accidents. Only for advanced divers with significant experience. Features dramatic walls, a large tunnel, strong marine life presence with schools of sweetlips, jacks, groupers and white-tip reef sharks. This site is unpredictable and demands respect and experience.
+Gili Tepekong South is a dive site in Bali featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Gili Tepekong South (The Canyon), Candidasa, Bali, Indonesia
+- **Location**: Bali, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 35 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: STRONG, unpredictable, downcurrents possible especially southwest area
-- **Best Time**: Dry season (May-September), calmer days only
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Impressive large marine life: schools of sweetlips, big jacks, groupers, white-tip reef sharks. The wall structure and deep water attract pelagic species. However, challenging conditions often mean marine life viewing is secondary to managing current hazards.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-Descent to wall typically occurs within seconds. The canyon features large tunnel and wall structure. Depth work typically 20-35 meters. Downcurrents can force rapid unplanned descents to dangerous depths. Follow experienced guide precisely. Most sites use pickup at different exit point due to drift.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-35 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
@@ -53,7 +53,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-CRITICAL DANGER SITE: Multiple documented deaths from decompression sickness and downcurrent incidents. Only dive with highly experienced local guides familiar with Tepekong's deadly currents. Mandatory: Advanced Open Water minimum (50+ dives preferred), expert buoyancy control, excellent physical fitness. Hazards include unpredictable downcurrents (can force rapid unintended descent), swirling vortex-like currents, sudden current reversals. The southwest canyon area is most dangerous. Abort at any sign of concerning conditions. Never dive solo. Always carry SMB and follow guide's briefing precisely. This site has claimed lives - respect its danger.
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -61,7 +61,7 @@ Wall dives offer stunning wide-angle opportunities with dramatic depth perspecti
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

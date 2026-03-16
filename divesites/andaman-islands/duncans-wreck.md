@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Duncan's Wreck
 
-Duncan's Wreck (also known as the Inchkeith Wreck) is the cargo vessel SS Inchkeith, which struck rocks and sank in March 1955 near Duncan Island. The wreck sits at approximately 18 meters with accessible structural features and excellent coral colonization.
+Duncan's Wreck is a historic wreck dive in Andaman Islands, Asia.
 
 ## Overview
 
-The SS Inchkeith was a cargo vessel carrying coal and timber when it struck rocks at the mouth of an inlet near Duncan Island in March 1955. Today, the wreck rests in 18-22 meters of water with the bow resting on its starboard side, hatches and cargo holds clearly visible. An enormous propeller sits upright in 18 meters of water at the stern. Anemones and corals encrust the ship's skeleton, and large groupers and barracudas sometimes emerge from shadowy areas. The generally lower visibility adds an air of mystery to the dive.
+Duncan's Wreck is a dive site in Andaman Islands featuring the wreck of the Duncan's Wreck. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Near Duncan Island, Andaman Islands, India
+- **Location**: Andaman Islands, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 22 meters
-- **Typical Visibility**: 8-15 meters (lower than reef dives)
-- **Current**: Moderate to strong
-- **Best Time**: November to April
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Giant groupers, barracuda, anemones, soft and hard corals (coral colonization is extensive), and schooling reef fish are the primary inhabitants. The coral-encrusted structure provides microhabitats for numerous smaller species. Seasonal visitors may include larger rays and sharks.
+Divers at this site can expect to encounter batfish, lionfish, sweetlips, coral growth, soft corals, manta rays, whale sharks, reef sharks. Additional species commonly sighted include sea turtles, barracuda, trevally. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
 
 ## Dive Profile
 
-Begin your descent toward the wreck at 15-18 meters, allowing your eyes to adjust to lower light conditions characteristic of this site. Explore the exterior of the wreck, observing the bow on starboard side and the distinctive stern propeller in 18 meters. The wreck sits at approximately 20-22 meters maximum depth. Only wreck-certified divers should attempt penetration of accessible sections like cargo holds; others should maintain external observation. Most divers spend 35-40 minutes exploring the wreck exterior. Begin ascent with adequate air reserve for safety stop at 5 meters—coordinate with dive guide on exit procedures.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 22 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -61,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

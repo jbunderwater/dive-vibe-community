@@ -13,55 +13,55 @@ addedBy: osm_import
 
 ## Lobster Rock
 
-Lobster Rock is a finger-like underwater rock formation adjacent to the larger Ulloa point, on the eastern side of Cocos Island. The two structures — Lobster Rock and Ulloa — are technically distinct dive sites but lie in close proximity. Lobster Rock's defining characteristics are the extraordinary density of whitetip reef sharks that rest on the rock's base and surrounding sandy bottom, and the presence of the rare rosy-lipped batfish in the deeper sandy areas at 27-37 meters. The site is relatively protected from strong surface conditions, making it a reliable backup when Alcyone or other exposed sites are too rough.
+Lobster Rock is a wall dive site in Cocos Island, Pacific.
 
 ## Overview
 
-Lobster Rock offers a concentrated, close-up shark encounter of a different character than the open-water hammerhead schools at Alcyone. Whitetip reef sharks here do not school in the water column — they lie on the bottom and on rock ledges in impressive numbers, resting in clusters that make them easy to approach and photograph. The deeper sandy areas below 27 meters transition to the rosy-lipped batfish's preferred habitat, a peculiar bottom-walking fish found in limited locations globally and reliably encountered at Cocos. Afternoon spawning aggregations of black triggerfish and convict tangs at the base of the formation between Lobster Rock and Ulloa add another layer of behavioral interest.
+Lobster Rock is a dive site in Cocos Island featuring a dramatic vertical wall that drops into the deep blue. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
-- **Location**: Eastern Cocos Island, adjacent to Ulloa point
-- **Entry Type**: liveaboard
+- **Location**: Cocos Island, Pacific
+- **Entry Type**: Liveaboard
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 37 meters
-- **Optimal Depth**: 15-30 meters (whitetips); 27-37 meters (rosy-lipped batfish)
-- **Typical Visibility**: 15-25 meters
-- **Current**: Light to moderate; more protected than outer sites; can be swift at times on ascent
-- **Best Time**: Year-round; afternoon dives productive for triggerfish spawning
+- **Typical Visibility**: 20-50 meters (65-160 feet)
+- **Current**: Moderate to strong
+- **Best Time**: April to November
 
 ## Marine Life
 
-Whitetip reef sharks are the signature species — large individuals and groups lie on the rock base and surrounding sand in numbers that make this one of the best whitetip concentration points at Cocos. Small gobies clean the sharks at rest, providing an easily observed cleaning symbiosis. The rosy-lipped batfish, one of Cocos's most unusual residents, crawls across the sandy bottom at 27-37 meters on its pectoral fins — an extraordinary behavioral sight. Afternoon dives at the junction of Lobster Rock and Ulloa bring black triggerfish and convict tangs together in spawning aggregations. Hawksbill and green turtles are common throughout the site. The site is also productive for nudibranchs and invertebrates on the rock surfaces.
+Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-Begin the dive along the rock formation at 15-20 meters where the whitetip sharks concentrate. Explore the wall faces and sandy base, observing the resting sharks carefully without disturbing them. Descend to 27-37 meters for rosy-lipped batfish on the sandy bottom — search carefully as they blend with the substrate. Time afternoon dives to include the Lobster Rock/Ulloa junction for spawning fish aggregations. The site's protected position allows for longer bottom times than at exposed seamounts. Ascend slowly; note that despite the protection from surface conditions, current on ascent can be swift.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-37 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
-Entry from liveaboard zodiacs into calmer conditions than at outer sites. This is the standard alternative site used when Alcyone or the western sites are too exposed. Deploy an SMB during the safety stop as currents during ascent can surprise divers at this site despite the calm conditions below.
+This site can be accessed from shore or by boat. Shore entry follows established paths to the water. Boat access is available through local dive operators. Check conditions and choose the most appropriate entry method based on weather and sea state.
 
 ## Tips and Recommendations
 
-- Approach the resting whitetips slowly and horizontally — they are tolerant of divers but will scatter if approached from above
-- The rosy-lipped batfish requires patient searching at depth — look for a flat, walking fish with a bright red lip against the sand
-- Time an afternoon dive to catch the triggerfish and convict tang spawning at the rock junction
-- Lobster Rock is an excellent site for underwater macro photography of invertebrates on the rock surface
-- The protected position makes this site good for divers wanting a long, relaxed dive after demanding seamount dives
+- Watch your depth carefully — wall dives can lead to unintentional deep descents
+- Look in crevices and overhangs for hidden marine life
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
+- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
-While Lobster Rock is more sheltered than exposed Cocos sites, current during ascent can be unexpectedly strong. Always deploy an SMB well before beginning the ascent. The deep sandy zone at 27-37 meters requires careful depth and air management given the rest of a typical Cocos day's dives.
+Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-The resting whitetip sharks at 15-20 meters are among the most photogenic subjects at Cocos — approachable, calm, and well-lit in ambient light. Wide-angle over clusters of resting sharks works well. The rosy-lipped batfish requires a macro lens and patience to capture its walking gait clearly. Afternoon spawning aggregations above the rock junction are dynamic wide-angle opportunities. A strobe is useful for rock crevice details and the deeper sandy zone.
+Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*Validated against zubludiving.com, dan.org, and aqua-firma.com. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

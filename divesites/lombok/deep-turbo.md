@@ -13,17 +13,17 @@ addedBy: osm_import
 
 ## Deep Turbo
 
-Deep Turbo is an exciting pinnacle diving site with about five coral pinnacles reaching from approximately 55 feet (16m) to 100+ feet (30m+) depth, featuring strong currents and abundant pelagic life.
+Deep Turbo is a pinnacle dive site in Lombok, Asia.
 
 ## Overview
 
-Deep Turbo is a popular advanced pinnacle diving site with approximately five coral pinnacles separated by 10-meter gaps where currents can be quite strong. The pinnacles feature interesting underwater topography with overhangs and outcrops, with some of the largest reaching up to about 18 meters depth. The sandy bottom sits around 30-40 meters, making this a site for experienced deep divers. Pinnacle hopping between the mounds is thrilling when conditions are right, with strong currents creating excellent pelagic encounters.
+Deep Turbo is a dive site in Lombok offering rewarding diving on healthy coral reef structures . source is Diveschool Notice Board - Location might have to be checked with a GPS. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
 - **Location**: Lombok, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle/seamount
+- **Site Type**: Pinnacle
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
@@ -32,7 +32,7 @@ Deep Turbo is a popular advanced pinnacle diving site with approximately five co
 
 ## Marine Life
 
-Deep Turbo is known for pelagic encounters and reef sharks. Spotted eagle rays and reef sharks frequently cruise the pinnacles. Colorful corals and reef fish inhabit the shallower pinnacle tops, with larger pelagic predators in the blue water gaps. The site's strong currents attract large fish and makes for exciting encounters with mobile fauna.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
 
 ## Dive Profile
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

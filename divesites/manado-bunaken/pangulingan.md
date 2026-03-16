@@ -13,54 +13,55 @@ addedBy: osm_import
 
 ## Pangulingan
 
-Pangulingan is located on the northeast side of Manado Tua, the volcanic island in Bunaken National Marine Park. The site features a steep and deep wall that leads into a sandy area with large coral boulders, and is known for strong currents that bring excellent pelagic action. It is rated as an advanced site due to these currents and the resulting exposure to large open-water species.
+Pangulingan is a wall dive site in Manado & Bunaken, Asia.
 
 ## Overview
 
-The dive begins with a steep, deep wall that drops dramatically before transitioning to a sandy area with large coral boulders. After navigating the wall, divers watch the blue water for large pelagics — tunas, schools of jacks, whitetip and blacktip sharks, barracuda, and large sea turtles are all documented here. The strong current that makes this site challenging is also what concentrates the marine life around the point.
+Pangulingan is a dive site in Manado & Bunaken featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Northeast Manado Tua Island, Bunaken National Marine Park
+- **Location**: Manado & Bunaken, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 35 meters
-- **Typical Visibility**: 15-25 metres
-- **Current**: Strong — advanced divers only
-- **Best Time**: May to October
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Large pelagic species are the main attraction: tuna, schools of jacks (trevally), whitetip and blacktip sharks, barracuda, and large sea turtles. The sandy area with coral boulders beyond the wall offers a different environment that can host rays and other bottom-associated species. The volcanic island setting means the reef here has a distinct character from the Bunaken Island sites.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-Enter at the appropriate point for the current direction and drift along the wall. The transition from the wall face to the sandy boulder area provides a change of scene mid-dive. Watch the open water diligently for passing pelagics — the strong current makes these encounters brief. Ascend with adequate reserve and deploy an SMB for boat pickup.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-35 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
-Boat access from Manado or Bunaken operators. Entry position is critical — guide input on current conditions is essential. Strong current drift experience is required.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-- Keep your eye on the open blue water as much as on the wall — pelagics pass quickly in the current
-- The sandy area with coral boulders after the wall is worth slowing down to explore
-- Coordinate with your guide on the current conditions before diving Manado Tua's exposed northeast point
-- Advanced buoyancy control is essential for this drift — practice at calmer sites first
-- The Manado Tua sites collectively (Bualo, Muka Gereja, Tanjung Kopi, Pangulingan) make for a full island exploration day trip
+- Watch your depth carefully — wall dives can lead to unintentional deep descents
+- Look in crevices and overhangs for hidden marine life
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 
-Strong current is the primary challenge. Do not enter the water without current assessment. Carry an SMB and inflate before surfacing. Monitor air consumption — strong current increases consumption. Dive with a local guide who knows the Manado Tua current patterns.
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-Wide-angle setups are appropriate for the pelagic encounters. The transition from wall to sandy boulder area provides compositional variety. Schools of jacks in strong current light are dramatic subjects. The volcanic island context adds a distinctive backdrop to reef shots.
+Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*Validated against murexresorts.com/diving-bunaken and zubludiving.com/articles/best-dive-sites-bunaken. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

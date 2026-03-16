@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Egeria Point
 
-One of Christmas Island's premier shark dives, combining dramatic wall topography with excellent opportunities for observing pelagic species and reef sharks.
+Egeria Point is a wall dive site in Christmas Island, Oceania.
 
 ## Overview
 
-Egeria Point is a boat-accessible wall dive featuring dramatic vertical drop-offs and excellent shark encounters. Located adjacent to Pig Rock on Christmas Island's east coast, this site combines open ocean species with reef life and offers superb visibility across its dramatic topography. The site is known as one of Christmas Island's best shark dives, with consistent encounters with white-tip sharks and barracuda. The wall structure creates a vertical ecosystem with distinct species distributions and regular pelagic visitors in the blue water beyond the wall.
+Egeria Point is a dive site in Christmas Island featuring a dramatic vertical wall that drops into the deep blue. Located in the Oceania region, this site offers 15-40 meters of visibility with water temperatures averaging 20-29°C.
 
 ## Site Information
 
-- **Location**: Christmas Island, Oceania (east coast, adjacent to Pig Rock)
+- **Location**: Christmas Island, Oceania
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 22 meters
-- **Typical Visibility**: 25+ meters (80+ feet)
-- **Current**: Variable to strong
+- **Typical Visibility**: 15-40 meters (50-130 feet)
+- **Current**: Variable
 - **Best Time**: September to February
 
 ## Marine Life
 
-Egeria Point is renowned for consistent shark encounters, particularly white-tip sharks and barracuda. The wall structure supports a vertical ecosystem with different species at varying depths. Reef fish including fusiliers, groupers, snappers, and wrasses populate the wall. Pelagic species frequently visit the blue water beyond the wall. Soft corals, gorgonians, and hard corals decorate the wall structure at various depths. The site offers excellent opportunities for observing larger reef predators and open ocean species.
+Divers at this site can expect to encounter great white sharks, grey nurse sharks, whale sharks, manta rays, sea turtles, dolphins, dugongs, potato cod. Additional species commonly sighted include maori wrasse, giant trevally, hard corals, soft corals. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-Begin along the reef top at shallow depths before descending along the wall structure. The wall features dramatic vertical drop-offs with depths ranging from 10-22 meters. Most interesting features and shark encounters occur between 10-22 meters. Maintain excellent buoyancy control and monitor your depth gauge regularly, as wall dives can lead to unintentional deeper descents. The combination of the reef edge and vertical wall structure provides visual interest and diverse diving opportunities.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-22 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
@@ -61,7 +61,7 @@ Wall dives offer stunning wide-angle opportunities with dramatic depth perspecti
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

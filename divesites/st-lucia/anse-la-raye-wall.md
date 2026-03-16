@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Anse La Raye Wall
 
-Anse La Raye Wall is an advanced wall dive site featuring dramatic vertical drops and excellent opportunities to see crustaceans and deep-water marine life.
+Anse La Raye Wall is a wall dive site in St. Lucia, Caribbean.
 
 ## Overview
 
-Situated at the base of the underwater continuation of St. Lucia's volcanic structure, Anse La Raye Wall features a dramatic wall that drops from the surface to many hundreds of feet below. This advanced wall dive is covered with Sea Whips, gorgonians, delicate soft corals and lots of Feather Duster Worms. The wall structure creates numerous crevices and overhangs that harbor crustaceans and critters at varying depths. Strong currents are common at this exposed site, making it suitable only for advanced divers.
+Anse La Raye Wall is a dive site in St. Lucia featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Anse La Raye, St. Lucia
+- **Location**: St. Lucia, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
+- **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-The wall structure provides a great opportunity to see varieties of crustaceans and critters hidden in crevices and overhangs. Divers encounter sea turtles, southern stingrays, eagle rays, nurse sharks, and reef sharks. Schools of barracuda, parrotfish, and angelfish are common. The soft coral and sponge growth on the wall supports abundant macro subjects. Sea fans and feather duster worms create a delicate landscape.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-40 meters. Maintain good buoyancy control and monitor your depth gauge regularly. Look closely at wall crevices and overhangs for crustaceans and small creatures. The strong currents mean you may be swept along the wall, so proper current awareness is essential.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-40 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
@@ -45,23 +45,23 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 ## Tips and Recommendations
 
 - Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life and crustaceans
+- Look in crevices and overhangs for hidden marine life
 - Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent macro photography opportunities
+- Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
 - Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only due to depth and currents. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs among soft corals and feather dusters.
+Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

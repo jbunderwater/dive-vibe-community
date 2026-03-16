@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Guoddus Garden
 
-Guoddus Garden is a vibrant coral reef dive site offering excellent conditions for beginners and casual recreational divers, with shallow depths and abundant colorful fish and soft coral formations.
+Guoddus Garden is a reef dive site in Andaman Islands, Asia.
 
 ## Overview
 
-Guoddus Garden is an accessible reef dive site suitable for divers of all experience levels. The site features healthy coral reef structures and diverse marine life in relatively shallow water, making it ideal for beginners building depth experience and for recreational divers seeking a relaxed dive. The typical depth of 20-25 meters and diverse reef formations provide ample time for extended bottom time and excellent opportunities for photography.
+Guoddus Garden is a dive site in Andaman Islands offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Andaman Islands, India
+- **Location**: Andaman Islands, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 15-25 meters
-- **Current**: Variable, moderate to strong
-- **Best Time**: November to April
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Colorful reef fish including clownfish, angelfish, parrotfish, damselfish, groupers, and Napoleon wrasse populate the coral formations. Soft coral structures provide habitat for numerous small crustaceans, nudibranchs, and cryptic fish species. Sea turtles and occasional larger species including rays visit the site seasonally.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
 
 ## Dive Profile
 
-Begin your dive at shallow depths (5-10 meters) to observe the vibrant shallow coral formations and schooling fish. Gradually descend to 15-20 meters as conditions allow and as your dive profile permits. The site's moderate depth allows 40-50 minutes of bottom time for recreational divers. The abundant coral structures and fish life provide excellent subjects for photography throughout the dive. Maintain good buoyancy control to protect coral formations.
+The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -44,6 +44,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
+- Excellent site for newer divers — calm conditions and easy navigation
 - Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
@@ -60,7 +61,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

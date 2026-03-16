@@ -13,31 +13,30 @@ addedBy: osm_import
 
 ## Humpback Wall
 
-Humpback Wall is a dramatic outer-reef wall dive in whale-frequented waters of Vava'u, known for seasonal humpback whale encounters and healthy wall ecosystems. This site offers excellent visibility and the chance to hear humpback whale songs underwater.
+Humpback Wall is a wall dive site in Tonga, Pacific.
 
 ## Overview
 
-Humpback Wall is a wall dive in the outer-reef areas where humpback whales are commonly encountered during winter migration season. The site features dramatic underwater topography with excellent visibility (25-40+ meters) and rich marine life along the wall structure. During humpback season (July-November), the site is special for whale song encounters (though whales are typically observed on snorkel-only platforms to avoid scaring them with scuba bubbles). The wall sections feature healthy corals, rays, sharks, and schooling fish.
+Humpback Wall is a dive site in Tonga featuring a dramatic vertical wall that drops into the deep blue. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
-- **Location**: Outer reef area, Vava'u region, Tonga
+- **Location**: Tonga, Pacific
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Depth Range**: 15-30 meters
-- **Typical Visibility**: 25-40+ meters
-- **Current**: Moderate to strong (outer reef exposed)
-- **Water Temperature**: 21-28°C year-round
-- **Best Time**: July-November for humpback whale sightings and song encounters
+- **Maximum Depth**: 30 meters
+- **Typical Visibility**: 20-50 meters (65-160 feet)
+- **Current**: Moderate to strong
+- **Best Time**: April to November
 
 ## Marine Life
 
-Signature attraction: **Humpback whales** during July-November migration (mothers, calves, singing males, breaches). Wall features manta rays, eagle rays, white-tip reef sharks, and other sharks, with schooling fish (barracuda, trevally, tuna, butterflyfish, clownfish), nudibranchs, crustaceans, turtles, and occasionally dolphins and marlin. Healthy hard and soft coral gardens along wall.
+Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-Descend along the outer reef wall to 15-30 meters. Wall sections feature coral gardens, bommies, and healthy fish populations. Humpback whale songs are often audible underwater during season. Most diving remains above 25 meters for recreational limits, with excellent visibility for wide-angle photography. Plan for extended bottom time with good depth management.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-30 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
@@ -62,7 +61,7 @@ Wall dives offer stunning wide-angle opportunities with dramatic depth perspecti
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

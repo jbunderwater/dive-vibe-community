@@ -17,7 +17,7 @@ West End Wall is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-West End Wall is one of Roatán's most popular wall dives, featuring a dramatic vertical wall starting at 15 meters and dropping to depths beyond 50 meters. The wall is covered with black coral, barrel sponges, sea fans, and a large variety of marine life. Located at the western tip of the island, it is suitable for drift diving when currents are moderate. Water temperatures average 26-29°C.
+West End Wall is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
@@ -36,16 +36,17 @@ Divers at this site can expect to encounter sea turtles (green, hawksbill), sout
 
 ## Dive Profile
 
-The reef top and shallower area begins at approximately 15 meters (50 feet). Descend along the impressive wall that is densely covered with black coral colonies, giant barrel sponges, and sea fans. The wall can be explored by drift dive if currents are manageable. Most features are found between 15-30 meters. Schools of barracudas, triggerfish, trumpet fish, dog snappers, and schools of jacks are commonly seen. Currents can be medium to strong at depth, making this suitable for more experienced divers.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-30 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
 - Watch your depth carefully — wall dives can lead to unintentional deep descents
 - Look in crevices and overhangs for hidden marine life
+- Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
 - Respect marine life and maintain proper buoyancy to protect the reef
@@ -60,7 +61,7 @@ Wall dives offer stunning wide-angle opportunities with dramatic depth perspecti
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

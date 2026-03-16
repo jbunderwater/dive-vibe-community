@@ -13,48 +13,46 @@ addedBy: osm_import
 
 ## Batu Rufas
 
-Batu Rufas (Indonesian: "batu" = rock) is a soft coral reef dive site in Triton Bay featuring Indonesian rock formations and rich coral growth typical of Triton Bay's nutrient-rich marine environment.
+Batu Rufas is a reef dive site in Triton Bay, Asia.
 
 ## Overview
 
-This Intermediate-level reef site showcases the characteristic soft coral gardens and abundance of reef fish found throughout Triton Bay. The site's rocky formations provide structure for dense soft coral growth and abundant fish life. As part of the Iris Strait system, Batu Rufas benefits from nutrient-rich currents that support prolific marine growth and fish concentration around the reef structures.
+Batu Rufas is a dive site in Triton Bay offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Triton Bay, West Papua, Indonesia
+- **Location**: Triton Bay, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 22 meters
-- **Typical Visibility**: 10-20 meters (30-65 feet)
-- **Current**: Medium to strong (brings nutrient-rich water)
-- **Best Time**: October to April
-- **Water Temperature**: 27-30°C
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Expect encounters with schooling reef fish including anthias, snappers, trevally, and large groupers. Black coral bushes harbor snappers, sweetlips, and hunting jacks. Macro life includes nudibranchs, shrimp, frogfish, and seahorses. Occasional larger visitors such as eagle rays, barracuda, and manta rays are possible. The nutrient-rich water attracts dense concentrations of reef fish to the coral structures.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
 
 ## Dive Profile
 
-Begin your dive on the shallow rock formations at 8-12 meters where soft corals and fish schools are most concentrated. Explore deeper reef sections progressively to 22 meters. The site rewards both wide-angle photography of coral formations and macro investigation of crevices and soft coral details. Plan your profile to reserve deeper exploration for the middle portion of your dive.
+The site offers diving at depths ranging from shallow reef areas down to approximately 22 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
-Access is exclusively by dive boat. Entry is via giant stride or back roll. Expect currents from the start; descend along reef features as natural anchor points. Deploy a surface marker buoy (SMB) during your safety stop. Maintain clear communication with boat crew throughout the dive.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-- Understand current direction and speed before descending
-- Scout rock and coral features for hidden macro species
-- Bring both wide-angle and macro photography equipment
-- Pre-dive briefing on current direction is essential
-- Monitor air consumption in the current
-- Enjoy the dense schooling fish life around the shallow coral sections
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
+- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
-Medium to strong currents are characteristic of this site. Maintain proper buoyancy control around delicate soft corals. Avoid diving if conditions deteriorate significantly beyond pre-dive briefing expectations. Dive within your Intermediate certification limits. Always dive with a buddy and carry appropriate signaling devices (SMB). Deploy safety stops at current management points recommended by your guide.
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -62,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Meno Slope
 
-Meno Slope is a serene sloping reef site off Gili Meno, south of Meno Wall, with vibrant coral formations teeming with reef fish suitable for all skill levels.
+Meno Slope is a reef dive site in Lombok, Asia.
 
 ## Overview
 
-Meno Slope is a beautiful slope dive situated just south of Meno Wall off Gili Meno. The site features a serene underwater landscape with a sandy slope adorned with vibrant coral formations that support diverse reef fish communities. The gradual slope makes it accessible to divers of all skill levels while still offering interesting depth variations and marine life encounters.
+Meno Slope is a dive site in Lombok offering rewarding diving on healthy coral reef structures . source is Diveschool Notice Board - Location might have to be checked with a GPS. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter manta rays, whale sharks, reef shark
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

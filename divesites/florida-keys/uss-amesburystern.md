@@ -2,9 +2,9 @@
 name: USS Amesbury(stern)
 lat: 24.6160174
 lng: -81.9819498
-difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+difficulty: Beginner
+maxDepth: 7.6
+entryType: boat
 siteType: wreck
 ref: null
 osmId: 13382701660
@@ -17,15 +17,15 @@ USS Amesbury(stern) is a historic wreck dive in Florida Keys, North America.
 
 ## Overview
 
-USS Amesbury(stern) is a dive site in Florida Keys featuring a historic wreck which sank in 1962. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The USS Amesbury stern section is part of a split WWII-era Navy destroyer escort wreck located 5 miles west of Key West. Separated from the bow by 600 feet, the stern section rests in 25 feet of water. Note that a portion of the stern reaches surface level, creating a navigation hazard and making this section somewhat more challenging with jagged wreck sections.
 
 ## Site Information
 
 - **Location**: Florida Keys, North America
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 7.6 meters
 - **Typical Visibility**: 5-25 meters (15-80 feet)
 - **Current**: Variable, can be strong
 - **Best Time**: June to October
@@ -36,20 +36,20 @@ Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eel
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 25 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The USS Amesbury stern sits in 25 feet of water with some sections extending toward the surface. Exercise caution due to jagged wreck sections. The stern structure provides opportunities to explore the starboard side and remaining military equipment. The shallow depth allows for extended exploration and photography, though divers should stay aware of surface-reaching wreck hazards.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
+- Excellent site for newer divers — calm conditions and easy navigation
 - Bring a dive torch to illuminate wreck interiors and dark overhangs
 - Maintain proper buoyancy to avoid disturbing silt inside the wreck
 - Do not attempt penetration without proper training and equipment
+- Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 
@@ -61,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

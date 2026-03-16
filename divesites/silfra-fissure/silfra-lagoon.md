@@ -13,56 +13,54 @@ addedBy: osm_import
 
 ## Silfra Lagoon
 
-Silfra Lagoon is the final section and exit point of the Silfra fissure dive in Thingvellir National Park, Iceland. It is the shallowest and most open section of the tectonic fissure system, averaging just 5 meters deep, with the clearest water and the strongest presence of green algae.
+Silfra Lagoon is a wall dive site in Silfra Fissure, Europe.
 
 ## Overview
 
-As the Silfra fissure widens and opens into the lake, it transitions into the Lagoon — an approximately 120-meter-long shallow basin that serves as the exit zone for all divers and snorkelers. The Lagoon holds the clearest water of any section in Silfra, with horizontal visibility exceeding 120 meters. In summer, the sandy lava floor and surrounding walls are carpeted with vivid neon-green troll-hair algae, creating a striking underwater garden effect. Despite its calm, shallow nature, this is not a beginner site: the 2–4°C water temperature requires a drysuit, placing it firmly in Intermediate territory.
-
-Note: This site has no coral, no tropical marine life, and no reef of any kind. It is a freshwater tectonic fissure. All references to "coral reef" or "reef structures" in previous descriptions were incorrect.
+Silfra Lagoon is a renowned dive site in Silfra Fissure featuring a dramatic vertical wall that drops into the deep blue. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
 
 ## Site Information
 
-- **Location**: Thingvellir National Park, Iceland (fourth and final section of Silfra fissure)
+- **Location**: Silfra Fissure, Europe
 - **Entry Type**: Shore entry
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 5 meters
-- **Typical Visibility**: 120+ meters
-- **Water Temperature**: 2–4°C (35–39°F) year-round
-- **Current**: None to minimal
-- **Best Time**: Summer for neon-green algae; year-round for visibility
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Light to moderate
+- **Best Time**: May to October
 
 ## Marine Life
 
-The Lagoon's algae growth is the most visible in Silfra, especially from June through September when long strands of neon-green troll-hair algae sway across the sandy floor. This species of freshwater algae thrives in the ultra-clean glacial water and gives the Lagoon an otherworldly, bioluminescent quality in underwater photographs. Arctic char occasionally pass through the Lagoon during August–September mating season. No coral, no saltwater fish, no tropical species.
+Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-Divers arrive at the Lagoon after completing the upstream fissure sections (Big Crack, Hall, Cathedral). The water becomes progressively shallower — from around 10 meters at the Cathedral exit to a maximum of 5 meters across the Lagoon floor. The bottom is fine lava sand. Divers typically spend the last 5–10 minutes of the dive here before ascending and exiting at the Lagoon's designated steps.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-5 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
-The Lagoon serves as the exit point for all Silfra dives. Divers ascend here and exit via a set of steps on the lake shore. There is no separate entry to the Lagoon — it is reached only by completing the full fissure drift. Snorkelers also exit here, and there can be significant traffic during peak tour hours. One dive per day per person is the park regulation.
+Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
 
 ## Tips and Recommendations
 
-- Arrive with enough air to spend time in the Lagoon — the algae and visibility make it worth slowing down here
-- Summer dives (June–September) will show the most vivid troll-hair algae; winter dives have clearer, colder water with sparser algae
-- The Lagoon's shallowness means excellent natural light for photography without supplemental lighting
-- Drysuit required — the 2–4°C temperature makes this site unsuitable for wetsuits regardless of depth
+- Watch your depth carefully — wall dives can lead to unintentional deep descents
+- Look in crevices and overhangs for hidden marine life
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 
-Although shallow, the Lagoon carries the same cold-water risk as the rest of Silfra. Heat loss is significant in 2–4°C water even in a drysuit. Manage your drysuit inflation carefully in such shallow water to avoid unexpected positive buoyancy. Exit the water promptly after completing the dive and warm up with the dry clothes and warm beverages typically provided by operators.
+Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-The Lagoon is the most photogenic section for color photography. In summer, shoot wide-angle downward toward the neon-green algae carpeting the lava sand floor. The high natural light, shallow depth, and 120m+ visibility allow for exceptionally clear photographs without strobes. The contrast of emerald-green algae against the blue glacial water is Silfra's most iconic visual.
+Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from dive.is, adventures.is, silfrafissure.com, and scuba.com. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

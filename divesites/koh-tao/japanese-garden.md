@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Japanese Garden
 
-Japanese Garden is one of Koh Tao's most popular beginner reef dive sites, known for its abundance of colorful corals and vibrant marine life. This site is perfect for training dives and newer divers seeking to build confidence in a sheltered environment.
+Japanese Garden is a reef dive site in Koh Tao, Asia.
 
 ## Overview
 
-Japanese Garden is a shallow coral reef site offering excellent conditions for skill development and marine life observation. The site features healthy hard and soft corals with abundant fish life in crystal-clear waters typical of Koh Tao. Visibility ranges from 10-40 meters with water temperatures averaging 26-30°C year-round.
+Japanese Garden is a dive site in Koh Tao offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
@@ -40,11 +40,12 @@ The site offers diving at depths ranging from shallow reef areas down to approxi
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
 - Excellent site for newer divers — calm conditions and easy navigation
+- Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
 - Respect marine life and maintain proper buoyancy to protect the reef
@@ -60,7 +61,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

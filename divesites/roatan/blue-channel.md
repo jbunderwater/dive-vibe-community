@@ -13,17 +13,17 @@ addedBy: osm_import
 
 ## Blue Channel
 
-Blue Channel is a reef dive site in Roatán, Caribbean.
+Blue Channel is a drift dive site in Roatán, Caribbean.
 
 ## Overview
 
-Blue Channel is a popular, shallow reef dive site located off West End on the north shore of Roatán. The site features a natural channel with swim-throughs, reef formations, and a gently sloping wall. It is famous for diverse topography including shallow sandy areas and can experience strong currents. The site is suitable for snorkeling and diving, though good buoyancy control is required. Water temperatures average 26-29°C.
+Blue Channel is a dive site in Roatán offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Drift dive
+- **Site Type**: Drift
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 14 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter sea turtles (green, hawksbill), sout
 
 ## Dive Profile
 
-Blue Channel is a channel that starts just inside the reef at shallow depths (3-5 meters) and curves out toward the coral ridge. The gently sloping wall's top ranges from about 3 meters to 14 meters deep. The site offers swim-throughs, reef, a shallow sandy "bowl of fish," and if conditions align, bait balls can be observed. Good buoyancy control is essential to avoid scraping coral in the shallow areas. Drift diving is possible if you clear the boat channel carefully. Tidal conditions and currents significantly affect visibility and diving conditions.
+The site offers diving at depths ranging from shallow reef areas down to approximately 14 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-14 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -59,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

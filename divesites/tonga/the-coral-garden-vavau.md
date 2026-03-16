@@ -13,31 +13,30 @@ addedBy: osm_import
 
 ## The Coral Garden Vavau
 
-The Coral Garden is one of Vava'u's most accessible and colorful reef dives, perfect for beginners seeking longer bottom time. Located between Vaka'eitu and Nuapapu islands, this site showcases diverse hard and soft coral formations that give it its picturesque name.
+The Coral Garden Vavau is a reef dive site in Tonga, Pacific.
 
 ## Overview
 
-The Coral Garden is a favorite for both newer divers wanting relaxed diving experiences and experienced divers seeking to maximize bottom time with excellent light conditions. The reef gently slopes from approximately 2.4 meters on the shallow eastern side to about 15 meters toward the west. The southern section transitions into a wall structure, providing depth variety. The site offers excellent year-round visibility and is renowned for its vibrant coral formations and healthy reef ecosystem.
+The Coral Garden Vavau is a dive site in Tonga offering excellent diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
-- **Location**: Between Vaka'eitu and Nuapapu islands, Vava'u, Tonga
+- **Location**: Tonga, Pacific
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Depth Range**: 2.4-15 meters
-- **Typical Visibility**: Excellent year-round
-- **Current**: Minimal to light
-- **Water Temperature**: 24-29°C
-- **Best Time**: Year-round; high tide and calm weather recommended
+- **Maximum Depth**: 15 meters
+- **Typical Visibility**: 20-50 meters (65-160 feet)
+- **Current**: Moderate to strong
+- **Best Time**: April to November
 
 ## Marine Life
 
-Vibrant coral formations are the primary attraction: hard corals, soft corals, and prominent gorgonian sea fans throughout. Common sightings include colorful tropical reef fish, sea turtles, nudibranchs, and various reef fish species. The coral valleys provide excellent macro photography opportunities. Healthy reef ecosystem with diverse fish populations.
+Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
 
 ## Dive Profile
 
-Access via dinghy from nearby Vaka'eitu anchorage (best during calm weather and high tide, requires careful timing between wave sets). Descend to the reef at 2.4 meters on the eastern side and follow the gentle slope westward to 15 meters. Explore the coral valleys and formations. The southern wall transition offers additional depth for more experienced divers. Extended bottom time possible at shallow depths.
+The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -62,7 +61,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

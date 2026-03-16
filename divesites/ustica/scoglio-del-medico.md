@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Scoglio del Medico
 
-Scoglio del Medico is a wall dive site in Ustica, Europe.
+Scoglio del Medico is a cave dive site in Ustica, Europe.
 
 ## Overview
 
-Scoglio del Medico (Doctor's Rock) is a blackish lava cluster approximately 100 meters long and 20-30 meters wide, located 600 meters off Ustica's northwest coast. The site rises from a sandy bottom at 50 meters to its summit at 26 meters. The main attraction is the impressive "Grotta della Balena" (Whale Cave) on the southern side, named for its enormous whale-mouth-shaped opening. The dive features spectacular canyons, ravines, tunnels, and mystical light shows.
+Scoglio del Medico is a dive site in Ustica featuring underwater cave and cavern formations. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
 
 ## Site Information
 
-- **Location**: Northwest coast of Ustica, Mediterranean
+- **Location**: Ustica, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/cavern
+- **Site Type**: Cave/Cavern
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 38 meters
-- **Typical Visibility**: Good - usually 25-40 meters
+- **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: May to October
 
 ## Marine Life
 
-The lava formation creates rich ravine habitat. Divers encounter groupers, moray eels, nudibranchs, and crustaceans. The dramatic topography and cave structures attract Mediterranean species adapted to shadowed environments.
+Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
 
 ## Dive Profile
 
-The dive structure is complex with multiple cave and passage options. At 18 meters depth, the entrance to the Grotta della Balena features a dramatic mouth-shaped opening. The cave extends through the rock and reaches 26 meters inside, requiring approximately 10 minutes to navigate. A 25-meter-wide underwater tunnel at 20-meter depth creates a unique passage. The site also features magnificent 30-meter-deep canyons formed by vertical walls on a rocky platform. Experience level and thorough briefing are essential for safe navigation.
+The site offers diving at depths ranging from shallow reef areas down to approximately 38 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -44,12 +44,10 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Book only with experienced local operators familiar with this complex site
-- The Grotta della Balena requires careful navigation and torch work
-- Bring a dive light to explore the Whale Cave interior
-- The underwater tunnel requires good awareness of buddy position
-- Respect the rocky formations to avoid breaking delicate lava structures
-- This site demands excellent buoyancy control in confined areas
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 
@@ -57,11 +55,11 @@ Be aware of cold water (north), currents, boat traffic in this area. Dive within
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

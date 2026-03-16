@@ -13,21 +13,19 @@ addedBy: osm_import
 
 ## Keith Tibbetts Wreck Cayman Brac
 
-The MV Captain Keith Tibbetts is a 330-foot Russian military frigate scuttled in 1996 to create an artificial reef. Now one of Cayman Brac's most famous dive sites, this wreck offers both recreational and technical diving opportunities with excellent habitat for marine life exploration.
+Keith Tibbetts Wreck Cayman Brac is a historic wreck dive in Cayman Islands, Caribbean.
 
 ## Overview
 
-The M/V Captain Keith Tibbetts is a former Soviet-era Brigadier-class destroyer (hull #356) that was scuttled in September 1996 on the north shore of Cayman Brac. Built in 1984 in Nadhodka, USSR, the vessel was originally designated for the Cuban Navy but never saw combat. When sold to the Cayman Islands, it was renamed to honor local dive pioneer Captain Keith Tibbetts. The 330-foot vessel was carefully prepared for diving before sinking, with hazards removed and multiple access points created. It has become one of the best-loved and most accessible wreck diving sites in the Caribbean.
+Keith Tibbetts Wreck Cayman Brac is a dive site in Cayman Islands featuring the wreck of the Keith Tibbetts Wreck Cayman Brac. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: North Shore, Cayman Brac, Caribbean
+- **Location**: Cayman Islands, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
-- **Vessel Details**: 330-foot Russian Brigadier-class frigate, sunk September 1996
-- **Wreck Condition**: Hull top ~20 meters; bottom ~80 meters (damaged stern from storms)
-- **Maximum Recreational Depth**: 50 meters
+- **Maximum Depth**: 50 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
@@ -38,7 +36,7 @@ Divers at this site can expect to encounter groupers, snappers, soldierfish, gla
 
 ## Dive Profile
 
-The Tibbetts accommodates both recreational and advanced/technical divers. Most recreational dives focus on the upper sections of the wreck (hull top at ~20 meters) and exciting exterior exploration. The wreck was prepared with multiple entry/exit points, making guided dives very accessible. In 2004, Hurricane Ivan created additional openings in the mid-section that now provide access to passageways and engine rooms for advanced divers. The stern section was largely removed in 2017 during a major storm. Sponges and corals now cover the vessel, creating excellent habitats for barracudas, groupers, and other marine life. Most recreational dives stay between 20-30 meters depth.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 50 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -63,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

@@ -13,21 +13,20 @@ addedBy: osm_import
 
 ## Cathedral
 
-Cathedral is a cave dive site in the Speyside area featuring underwater cavern formations. This intermediate-level site offers a unique exploration experience in the Speyside diving region.
+Cathedral is a cave dive site in Tobago, Caribbean.
 
 ## Overview
 
-Cathedral features underwater cave and cavern formations that create a dramatic diving environment. Located in the Speyside area, this site reaches moderate depths and offers intermediate-level divers a chance to explore cavern systems with proper training. The surrounding reef supports diverse marine life.
+Cathedral is a dive site in Tobago featuring underwater cave and cavern formations. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Speyside, Tobago
+- **Location**: Tobago, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/cavern
+- **Site Type**: Cave/Cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 37 meters
-- **Typical Visibility**: 15-30 meters on good days
-- **Water Temperature**: 27-30°C (81-86°F)
+- **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
 
@@ -37,7 +36,7 @@ Divers at this site can expect to encounter sea turtles (green, hawksbill), sout
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 22 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 37 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -60,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

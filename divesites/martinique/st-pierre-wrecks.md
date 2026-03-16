@@ -17,25 +17,18 @@ St. Pierre Wrecks is a historic wreck dive in Martinique, Caribbean.
 
 ## Overview
 
-The Bay of Saint-Pierre is a haunting underwater museum, home to multiple wrecks sunk during the catastrophic eruption of Mount Pelée on May 8, 1902. This event created a pyroclastic flow (nuées ardentes or "burning clouds") that destroyed the city in minutes and sank numerous ships. Today, exploring these wreck sites is a journey through Martinique's most significant maritime disaster, with the most iconic being the SS Roraima.
+St. Pierre Wrecks is a dive site in Martinique featuring the wreck of the St. Pierre Wrecks. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Saint-Pierre, Martinique (Bay)
+- **Location**: Martinique, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 60 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate
+- **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
-- **Historical Context**: 1902 Mount Pelée eruption
-
-## Notable Wrecks
-
-**SS Roraima**: The most emblematic wreck, a 103-meter Canadian-flagged mixed steam cargo and passenger ship with an 11-meter beam. The iron hull rests on a bed of gray mud at approximately 55 meters depth, with its large bow standing vertically on the bottom. The Roraima burned for three days before sinking by the stern. Known as "The Titanic of Martinique," it is located only 700 yards from shore.
-
-**Other wrecks**: The Tamaya, Biscaye, and Diamant have also been identified and are divable, though some require technical diving certification due to extreme depths.
 
 ## Marine Life
 
@@ -43,7 +36,7 @@ Divers at this site can expect to encounter groupers, snappers, soldierfish, gla
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 30 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 60 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -68,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

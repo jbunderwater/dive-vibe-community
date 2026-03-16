@@ -17,7 +17,7 @@ Piscine is a reef dive site in Guadeloupe, Caribbean.
 
 ## Overview
 
-Piscine is a dive site in Guadeloupe offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Piscine is a dive site in Guadeloupe offering excellent diving on healthy coral reef structures . Sheltered pool between two islets with shallow water, rocky seabed, perfect for beginners and children. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

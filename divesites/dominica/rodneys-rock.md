@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Rodney's Rock
 
-Rodney's Rock is one of Dominica's premier critter and macro diving sites, known for exceptional opportunities to observe small and unusual marine life.
+Rodney's Rock is a reef dive site in Dominica, Caribbean.
 
 ## Overview
 
-This shallow dive (maximum 50 feet) offers mini caves and overhangs that harbor abundant critter life including spiny and slipper lobster, crabs, and morays. The site is particularly famous for seahorse sightings—notably holding the record of 11 seahorses observed in a single dive. The variety of nooks and crannies combined with shallow, accessible depths makes this an excellent site for photographers and macro enthusiasts.
+Rodney's Rock is a dive site in Dominica offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Central coast, south of Roseau, Dominica
+- **Location**: Dominica, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light
+- **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Exceptionally rich critter fauna including spiny and slipper lobster, crabs, morays, seahorses (record 11 in single dive), and abundant other small creatures in crevices and overhangs. Excellent for macro photography.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 16 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-16 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

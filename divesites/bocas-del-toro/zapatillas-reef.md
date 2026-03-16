@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Zapatillas Reef
 
-Zapatillas Reef is located at the Zapatilla Cays within Bastimentos Marine National Park in Bocas del Toro, Caribbean.
+Zapatillas Reef is a reef dive site in Bocas del Toro, Caribbean.
 
 ## Overview
 
-The Zapatilla Cays offer some of the most scenic diving and snorkeling in Bocas del Toro, set within a protected marine park. This full-day excursion includes diving opportunities plus beach time at the secluded cays. The site features vibrant coral reefs teeming with tropical fish, sea turtles, and starfish. The pristine setting with mangrove connections enhances the ecological experience.
+Zapatillas Reef is a dive site in Bocas del Toro offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Zapatilla Cays, Bastimentos Marine National Park, Bocas del Toro
+- **Location**: Bocas del Toro, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 14 meters
-- **Typical Visibility**: 15-25 meters
-- **Current**: Light
-- **Best Time**: Year-round (popular full-day trip)
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Light to moderate
+- **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-The Zapatilla reefs are home to vibrant tropical fish, colorful corals, sea turtles, starfish, and abundant reef fauna. The protected marine park status ensures healthy ecosystems. Marine life is abundant and diverse, making this excellent for underwater photography and wildlife observation.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
 
 ## Dive Profile
 
-This is a full-day excursion that typically includes two tank dives with a beach break at the secluded Zapatilla Cays. The reefs are shallow and suitable for all skill levels. Snorkelers often accompany divers on the same boats, enjoying the same vibrant reefs in shallower water. Most diving is conducted in the 5-14 meter range with excellent visibility for this depth.
+The site offers diving at depths ranging from shallow reef areas down to approximately 14 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-14 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -44,12 +44,11 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- This is a full-day excursion — plan accordingly
-- Bring snorkel gear even as a diver in case you want to explore in shallower water during breaks
-- Pack sun protection for the beach break
-- Bring an underwater camera — the coral and marine life provide excellent photography subjects
-- Respect marine park regulations and protected status
-- The secluded beaches are spectacular — plan time to enjoy them
+- Excellent site for newer divers — calm conditions and easy navigation
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 
@@ -61,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

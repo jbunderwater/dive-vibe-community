@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Shallow Turbo
 
-Shallow Turbo is a beginner-friendly reef dive featuring a white sandy bottom dotted with large coral heads, perfect for relaxed exploration and macro photography.
+Shallow Turbo is a reef dive site in Gili Islands, Asia.
 
 ## Overview
 
-Shallow Turbo is the shallower section of the Turbo dive site complex. A white sandy bottom dotted with large coral heads creates an ideal setting for relaxed diving and scientific observation. With an average depth of 16 meters and a bottom that rarely dips below 18 meters, this site offers comfortable bottom time and extended safety stop opportunities. The site is home to cuttlefish, octopus, leaf fish, and juvenile Rockmover Wrasse. Unlike its deeper counterpart (Deep Turbo), Shallow Turbo allows divers to take their time and relax while still experiencing good marine life and coral formations. This is perfect for training dives, macro photography, and divers seeking a leisurely reef experience.
+Shallow Turbo is a dive site in Gili Islands offering excellent diving on healthy coral reef structures . source is Diveschool Notice Board - Location might have to be checked with a GPS. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Gili Trawangan area, Gili Islands
+- **Location**: Gili Islands, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, generally light
-- **Best Time**: April to October
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Shallow Turbo is home to cuttlefish, octopus, leaf fish, and juvenile Rockmover Wrasse. The sandy bottom and coral heads provide habitat for various reef fish species. Look for nudibranchs and other macro subjects. While pelagic species are possible, this site is more about enjoying the coral formations and patient observation of smaller creatures.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
 
 ## Dive Profile
 
-Descend to the sandy bottom at 16-18 meters and explore the coral head formations. The consistent shallow depth makes this an excellent training site and allows you to stay relaxed and observant. Spend time examining the coral structures and sandy bottom for macro subjects. This site is perfect for extended bottom time, leisurely exploration, and practicing photography techniques. The stable depth and gentle conditions make it ideal for newly certified divers gaining experience.
+The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -44,6 +44,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
+- Excellent site for newer divers — calm conditions and easy navigation
 - Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
@@ -60,7 +61,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

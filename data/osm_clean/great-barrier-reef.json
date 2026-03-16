@@ -5,7 +5,7 @@
     "lon": 145.6903158,
     "osm_id": 270800741,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 18,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
@@ -14,7 +14,9 @@
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
       "sport:scuba_diving": "yes",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -23,7 +25,7 @@
     "lon": 145.6772796,
     "osm_id": 270802346,
     "osm_type": "node",
-    "depth": 10,
+    "depth": 12,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
@@ -32,7 +34,9 @@
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
       "sport:scuba_diving": "yes",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -41,8 +45,8 @@
     "lon": 145.6755024,
     "osm_id": 270802347,
     "osm_type": "node",
-    "depth": 20,
-    "site_type": "wall",
+    "depth": 18,
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
@@ -50,7 +54,9 @@
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
       "sport:scuba_diving": "yes",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -79,7 +85,7 @@
     "lon": 146.5528992,
     "osm_id": 270802349,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 18,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
@@ -88,7 +94,9 @@
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
       "sport:scuba_diving": "yes",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -97,7 +105,7 @@
     "lon": 146.563382,
     "osm_id": 270802350,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 24,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -106,7 +114,9 @@
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
       "sport:scuba_diving": "yes",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -115,7 +125,7 @@
     "lon": 146.563876,
     "osm_id": 270802351,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 22,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Beginner",
@@ -124,7 +134,9 @@
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
       "sport:scuba_diving": "yes",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -173,7 +185,7 @@
     "lon": 145.7768157,
     "osm_id": 270802354,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 19,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
@@ -182,7 +194,9 @@
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
       "sport:scuba_diving": "yes",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -211,7 +225,7 @@
     "lon": 146.5569376,
     "osm_id": 270802966,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 18,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
@@ -220,7 +234,9 @@
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
       "sport:scuba_diving": "yes",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -229,14 +245,16 @@
     "lon": 145.9904141,
     "osm_id": 286279301,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 19,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "mooring": "yes",
       "name": "Plate Top",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -245,14 +263,16 @@
     "lon": 145.9965038,
     "osm_id": 286279302,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 18,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "mooring": "yes",
       "name": "Troppo's",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -261,14 +281,16 @@
     "lon": 145.9881647,
     "osm_id": 286279303,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 17,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "mooring": "yes",
       "name": "Clipper",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -277,13 +299,15 @@
     "lon": 146.2122,
     "osm_id": 663869669,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 15,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "name": "Moore Reef - 5 Ways",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -292,13 +316,15 @@
     "lon": 145.864417,
     "osm_id": 663869671,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 16,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "name": "Agincourt Reef No. 1 - Trigger Fish City",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -307,13 +333,15 @@
     "lon": 145.819717,
     "osm_id": 663869673,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 18,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "name": "Agincourt Reef No. 4 - The Point",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -322,13 +350,15 @@
     "lon": 145.806383,
     "osm_id": 663869675,
     "osm_type": "node",
-    "depth": 20,
-    "site_type": "reef",
+    "depth": 16,
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "name": "Light Reef - Phil`s Bommie",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -337,13 +367,15 @@
     "lon": 146.19845,
     "osm_id": 663869678,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 12,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "name": "Moore Reef - Labyrinth",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -352,14 +384,16 @@
     "lon": 145.8070862,
     "osm_id": 1939562723,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 16,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "name": "Just Magic",
       "source": "survey",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -386,14 +420,16 @@
     "lon": 145.8370152,
     "osm_id": 1939562776,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 18,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Wreck Bay",
       "source": "survey",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -402,7 +438,7 @@
     "lon": 149.2695225,
     "osm_id": 2490191153,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 12,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
@@ -410,7 +446,9 @@
       "name": "Cruise Whitsundays Pontoon",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -419,7 +457,7 @@
     "lon": 145.68395,
     "osm_id": 3712170391,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 14,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
@@ -428,7 +466,9 @@
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
       "sport:scuba_diving": "yes",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -437,7 +477,7 @@
     "lon": 145.9851619,
     "osm_id": 5229900922,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 16,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
@@ -445,7 +485,9 @@
       "name": "Down Under Diving",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   }
 ]

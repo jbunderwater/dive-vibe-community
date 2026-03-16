@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Beatrice Rock
 
-Beatrice Rock is a reef site located north of Sombrero Island at the northern end of Maricaban Strait, known for dramatic topography and strong currents.
+Beatrice Rock is a reef dive site in Philippines Anilao, Asia.
 
 ## Overview
 
-Beatrice Rock features a series of short drop-offs with channels between 5-27 meters depth. One side offers mini walls and gradual slopes leading to coral gardens. The site experiences strong currents that have produced vibrant hard coral growth. Visibility reaches up to 25 meters in good conditions. The site is named after an early explorer's travel companion during Anilao's pioneering diving days.
+Beatrice Rock is a dive site in Philippines Anilao offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: North of Sombrero Island, Maricaban Strait, Anilao
+- **Location**: Philippines Anilao, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
@@ -32,11 +32,11 @@ Beatrice Rock features a series of short drop-offs with channels between 5-27 me
 
 ## Marine Life
 
-The site is densely populated with reef fish including triggerfish, snappers, surgeonfish, jacks and anthias. Strong currents support pelagic visitors including tuna, rainbow runners, several species of rays, and occasional whale sharks. Blue-ringed octopuses and sea turtles are sometimes encountered. Visibility can reach 25 meters, allowing for observation of larger marine life.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 27 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -52,7 +52,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Beatrice Rock experiences strong currents that are a defining feature of the site. These currents feed the healthy coral ecosystem but require current-aware diving technique. Be aware of strong currents, jellyfish, and sea urchins. Dive within your certification limits and experience level. Strong currents are present — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

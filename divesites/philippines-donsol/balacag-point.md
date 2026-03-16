@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Balacag Point
 
-Balacag Point is a shallow reef site in the northern Donsol area suitable for beginner and training dives.
+Balacag Point is a reef dive site in Philippines Donsol, Asia.
 
 ## Overview
 
-Balacag Point is a shallow reef dive site in the northern Donsol waters. Limited published information is available about this site, though it appears to be a reef formation in relatively calm waters. The shallow depth makes it suitable for certification training, skill practice, or relaxed reef exploration.
+Balacag Point is a dive site in Philippines Donsol offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Northern Donsol area, Sorsogon Province
+- **Location**: Philippines Donsol, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
-- **Typical Visibility**: 10-30 meters
-- **Current**: Generally lighter than deeper sites in the area
-- **Best Time**: November to May
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-As a shallow reef site, Balacag Point likely supports typical coral reef fish including small reef fish, groupers, parrotfish, wrasse, and juvenile specimens. Macro life such as nudibranchs, small crustaceans, and mollusks inhabit coral crevices. Larger species may occasionally pass through.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
 
 ## Dive Profile
 
-Shallow reef exploration with depths to 12 meters. The site is ideal for practicing buoyancy control, navigation, and general reef observation without significant depth pressure. Most reef life is accessible within recreational limits, making this suitable for newly certified divers or those building experience.
+The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -44,11 +44,12 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Good site for certification training given shallow depth and calm conditions
-- Ideal warm-up or final dive after more challenging sites
-- Macro lens works well for small reef life exploration
-- Good buoyancy practice opportunity on shallow reef
-- Limited published information about this site — dive with local operators familiar with it
+- Excellent site for newer divers — calm conditions and easy navigation
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
+- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
@@ -60,7 +61,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

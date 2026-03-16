@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## North Bay Dropoff
 
-North Bay Dropoff is a wall dive site in Lord Howe Island, Oceania.
+North Bay Dropoff is a spectacular intermediate wall dive just north of the main island, featuring a dramatic vertical wall dropping to 25 meters.
 
 ## Overview
 
-North Bay Dropoff is a dive site in Lord Howe Island featuring a dramatic vertical wall that drops into the deep blue. Located in the Oceania region, this site offers 15-40 meters of visibility with water temperatures averaging 20-29°C.
+North Bay Dropoff offers excellent wall diving along the northern coast of Lord Howe Island with a dramatic vertical drop and good marine life encounters. The site is accessible for intermediate divers with wall diving experience and provides a different diving perspective compared to the lagoon and distant site options.
 
 ## Site Information
 
-- **Location**: Lord Howe Island, Oceania
+- **Location**: North Bay, northern coast of Lord Howe Island
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
@@ -32,7 +32,7 @@ North Bay Dropoff is a dive site in Lord Howe Island featuring a dramatic vertic
 
 ## Marine Life
 
-Divers at this site can expect to encounter great white sharks, grey nurse sharks, whale sharks, manta rays, sea turtles, dolphins, dugongs, potato cod. Additional species commonly sighted include maori wrasse, giant trevally, hard corals, soft corals. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Wall diving at North Bay hosts reef fish and marine life adapted to vertical structures. The wall ecosystem supports a variety of species at different depths, with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
@@ -61,7 +61,7 @@ Wall dives offer stunning wide-angle opportunities with dramatic depth perspecti
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

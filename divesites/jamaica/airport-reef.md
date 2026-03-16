@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Airport Reef
 
-Airport Reef is a shallow, protected reef in Montego Bay ideal for beginner divers, with calm conditions and abundant reef fish life.
+Airport Reef is a reef dive site in Jamaica, Caribbean.
 
 ## Overview
 
-Airport Reef is one of Montego Bay's most accessible dive sites, offering shallow, calm diving on colorful coral formations just minutes from shore. The site features healthy coral growth including brain and elkhorn corals, with excellent protection from currents due to its position along the north shore. This site is perfect for certification courses and first dives, offering extended bottom time in clear, shallow water with abundant reef fish including parrotfish, angelfish, and sergeant majors.
+Airport Reef is a dive site in Jamaica offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

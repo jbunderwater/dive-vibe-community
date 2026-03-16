@@ -17,7 +17,7 @@ Moucha Island Reef is a reef dive site in Djibouti, Africa.
 
 ## Overview
 
-Moucha Island Reef is a beginner-friendly coral reef dive in the Gulf of Tadjoura, part of Djibouti's premier diving region. The site features pristine coral gardens with coral-covered slopes, sandy patches, and shallow wall sections suitable for all certification levels. Visibility typically ranges 5-15 meters with water temperatures from 25-29°C (November-January being peak season).
+Moucha Island Reef is a dive site in Djibouti offering excellent diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Moucha Island Reef is a beginner-friendly coral reef dive in the Gulf of Tadjour
 
 ## Marine Life
 
-Moucha Island reefs host diverse marine life including colorful reef fish, angelfish, butterflyfish, parrotfish, snappers, and lionfish. Rays and sea turtles are commonly spotted, and during seasonal visits (November-February) whale sharks and manta rays feed on plankton-rich currents in the Gulf. Moray eels hide in reef crevices, and occasional nurse sharks and groupers patrol the site.
+Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
 
 ## Dive Profile
 
@@ -61,7 +61,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

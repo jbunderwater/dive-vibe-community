@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Turtle Cavern
 
-Turtle Cavern is an intricate limestone cave system at Sipadan where the cave entrance is adorned with stalactite-like formations. The cavern is connected to the adjacent Turtle Tomb, a grim reminder that this is an advanced, dangerous cave dive requiring specialized training and equipment.
+Turtle Cavern is a cave dive site in Sipadan, Asia.
 
 ## Overview
 
-Located east of the jetty with shore access, Turtle Cavern's entrance is approximately 18-21 meters deep. The cave descends in a bell-shaped tunnel leading to a lower chamber, then continues for about 21 meters before reaching a second chamber. The internal passages form an intricate maze of corridors and chambers. The cavern connects via tunnel to Turtle Tomb, which contains many turtle skeletons—turtles that entered the cave system accidentally and became lost in the labyrinth, unable to find the exit. This dive requires advanced cave training, specialized equipment, an experienced guide, and exceptional navigation skills.
+Turtle Cavern is a dive site in Sipadan featuring underwater cave and cavern formations. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: East of jetty, Sipadan
+- **Location**: Sipadan, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/cavern
+- **Site Type**: Cave/Cavern
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 21 meters
-- **Typical Visibility**: 10-30 meters inside cave (varies by silt disturbance)
-- **Current**: Minimal inside cave
-- **Best Time**: October to April (seasonal visibility variations)
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-The cave environment is relatively barren due to minimal light penetration. Cave-adapted species include small crustaceans, gobies, and other cryptic reef fish. Sea turtles are sometimes encountered at the entrance. The adjacent Turtle Tomb, though not actively dived, contains the remains of sea turtles that became disoriented in the maze and died from hypoxia.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
 
 ## Dive Profile
 
-This is a highly technical cave dive, not a recreational "cavern" dive. The descent follows a bell-shaped tunnel to a lower chamber and beyond. Silt disturbance is a serious hazard in tight passages. Exit orientation is critical—the maze of chambers can disorient untrained divers. Only very experienced cave divers with local guides and specialized training should attempt this site.
+The site offers diving at depths ranging from shallow reef areas down to approximately 21 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

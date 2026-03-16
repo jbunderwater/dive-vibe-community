@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Broken rock
 
-Broken rock is a reef dive site in Maldives, Asia.
+Broken rock is a pinnacle dive site in Maldives, Asia.
 
 ## Overview
 
@@ -23,7 +23,7 @@ Broken rock is a dive site in Maldives offering rewarding diving on healthy cora
 
 - **Location**: Maldives, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle/seamount
+- **Site Type**: Pinnacle
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

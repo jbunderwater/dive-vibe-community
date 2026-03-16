@@ -13,23 +13,22 @@ addedBy: osm_import
 
 ## Ghost Mountain
 
-Ghost Mountain is a dramatic pinnacle site outside Little Cayman's North Sound offering breathtaking blue-water scenery. When visibility is excellent, the site attracts pelagic species including eagle rays, tarpon, reef sharks, and large schools of jacks.
+Ghost Mountain is a pinnacle dive site in Cayman Islands, Caribbean.
 
 ## Overview
 
-Ghost Mountain is a spectacular pinnacle dive site on Little Cayman featuring a dramatic topography that creates excellent visibility and pelagic encounters. The site's name reflects its ethereal appearance in the blue water when conditions are clear. The pinnacle rises from the sandy bottom, creating interesting topography with varying depths and habitats. Eagle rays, tarpon, reef sharks, and schools of horse-eye jacks regularly cruise this site, making it an excellent destination for divers seeking thrilling encounters with larger pelagic species.
+Ghost Mountain is a dive site in Cayman Islands offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Little Cayman, Caribbean
+- **Location**: Cayman Islands, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle/seamount
+- **Site Type**: Pinnacle
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
-- **Notable Feature**: Pelagic activity (eagles rays, sharks, jacks, tarpon)
 
 ## Marine Life
 
@@ -60,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

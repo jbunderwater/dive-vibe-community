@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Middle Book
 
-Middle Book is a boat-accessible reef dive site near Tokashiki Island in the Kerama Islands, suitable for intermediate divers seeking coral formations and healthy reef ecosystems.
+Middle Book is a reef dive site in Okinawa, Asia.
 
 ## Overview
 
-Located approximately 15-20 minutes by boat from Tokashiki Island, Middle Book offers a classic Kerama Islands reef diving experience with depths around 20 meters. The site features vibrant coral structures and diverse marine life in clear subtropical waters. With visibility of 20-50 meters and water temperatures averaging 26-30°C, the site provides excellent conditions for intermediate recreational diving throughout most of the year.
+Middle Book is a dive site in Okinawa offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
@@ -32,11 +32,11 @@ Located approximately 15-20 minutes by boat from Tokashiki Island, Middle Book o
 
 ## Marine Life
 
-The coral reef system supports abundant reef fish including trevally, snappers, emperor, and groupers. Nudibranchs and macro critters inhabit coral branches and sandy areas. Sea turtles and white-tip reef sharks are occasionally encountered. Seasonal visitors include manta rays and pelagic fish. The reef's over 200 coral species provide excellent habitat diversity.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
 
 ## Dive Profile
 
-Mooring buoy descent takes you to the reef top around 5-8 meters, with the main coral formations between 10-20 meters. Explore the healthy hard coral gardens, branch corals, and table corals that characterize Kerama diving. Return to shallower areas for safety stop and final exploration of coral structures before ascent.
+The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -44,16 +44,15 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- This is a great introduction to Kerama Islands reef diving
-- Bring macro lens for photographing nudibranchs and coral polyps
-- Book through established Tokashiki dive operators
-- The site suits recreational diving and advanced open water training
-- Arrive early to maximize dive time at this popular site
-- Maintain excellent buoyancy to protect the fragile coral structures
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
+- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
-Kerama Islands sites experience variable currents; check conditions with your operator. Standard precautions apply—watch for sea urchins and small jellyfish. Depth is manageable for intermediate divers but requires good air management. Always use the mooring system and deploy a surface marker buoy (SMB). Dive with a buddy and maintain communication throughout.
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -61,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

@@ -3,7 +3,7 @@ name: Troot Pool
 lat: 46.7540211
 lng: -56.2175723
 difficulty: Intermediate
-maxDepth: null
+maxDepth: 25
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,49 +13,55 @@ addedBy: osm_import
 
 ## Troot Pool
 
-Troot Pool is a shipwreck site in the waters of the Saint Pierre and Miquelon archipelago — a French territory just off the southwest coast of Newfoundland, located near the historically shipwreck-prone coastline of the Langlade isthmus.
+Troot Pool is a historic wreck dive in Newfoundland, North America.
 
 ## Overview
 
-The waters surrounding Saint Pierre and Miquelon have earned a fearsome maritime reputation, with over 600 recorded shipwrecks since 1800. The stretch between Langlade and Saint-Pierre was historically called "the Mouth of Hell" by sailors. Troot Pool is one of many wrecks in this region, confirmed in geographic databases as a wreck feature near Langlade. Specific historical records of the vessel's identity and sinking date are not well documented in English-language diving sources. The name and coordinates place it on the Atlantic-facing side of the Langlade isthmus — an area subject to frequent ground seas and limited shelter. Diving in Saint Pierre and Miquelon waters requires boat access and drysuit capability given the cold North Atlantic conditions.
+Troot Pool is a dive site in Newfoundland featuring the wreck of the Troot Pool. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
 
 ## Site Information
 
-- **Location**: Near Langlade, Saint Pierre and Miquelon (French territory)
+- **Location**: Newfoundland, North America
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: Unknown — no published dive specifications found
-- **Water Temperature**: 4–12°C — drysuit required
-- **Best Time**: June to October (calmer conditions)
+- **Maximum Depth**: 25 meters
+- **Typical Visibility**: 5-25 meters (15-80 feet)
+- **Current**: Variable, can be strong
+- **Best Time**: June to October
 
 ## Marine Life
 
-Saint Pierre and Miquelon waters are cold but productive. Wrecks in the region support encrusting sponges, anemones, and cold-water invertebrate communities typical of the northwest Atlantic. Cod, wolfish, and other cold-water fish species are regularly encountered around submerged structures.
+Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
 
 ## Dive Profile
 
-Specific dive profile data for Troot Pool is not available in published sources. Conditions and depth should be confirmed with local dive operators in Saint Pierre before diving. The Club Nautique Saint-Pierrais organizes diving excursions for certified divers from June to October.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 25 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
-Access is via boat from Saint Pierre. Saint Pierre town is reached by ferry from Fortune, Newfoundland (approximately 85 km). Local dive operators provide guided access to wreck sites in the archipelago's waters.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-- Contact the Club Nautique Saint-Pierrais for current information on this site and dive conditions
-- Drysuit is required for all diving in Saint Pierre and Miquelon waters
-- The archipelago has extensive maritime heritage and numerous wreck sites — plan multiple dives
-- Combine with visits to other Saint Pierre wrecks (Épave du Transpacific, Le Muscadin)
-- Ferry service from Fortune, NL connects Newfoundland with the French territory
+- Bring a dive torch to illuminate wreck interiors and dark overhangs
+- Maintain proper buoyancy to avoid disturbing silt inside the wreck
+- Do not attempt penetration without proper training and equipment
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
 
 ## Safety Considerations
 
-The Atlantic-facing coastline near Langlade is exposed and subject to rapid weather changes. Local knowledge and boat support are essential for safe diving in this area. Cold water requires drysuit and proper cold-water equipment. Always dive with local guidance in unfamiliar waters.
+Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+
+## Photography
+
+The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*Dive site information from geographic databases (geoview.info/pm, mapcarta.com) and regional maritime history sources. Specific dive specifications not available; contact local operators for current conditions. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

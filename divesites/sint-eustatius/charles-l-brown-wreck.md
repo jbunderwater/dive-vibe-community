@@ -13,31 +13,30 @@ addedBy: osm_import
 
 ## Charles L. Brown Wreck
 
-The Charles L. Brown is one of the largest and most impressive wrecks in the entire Caribbean. This former cable-laying ship (built in 1954) was intentionally sunk in 2003 to create an artificial reef and diving destination. At 100 meters (327 feet) long, it's a spectacular wreck dive site showcasing Sint Eustatius's maritime heritage.
+Charles L. Brown Wreck is a historic wreck dive in Sint Eustatius, Caribbean.
 
 ## Overview
 
-The Charles L. Brown wreck lies on its side in approximately 29-30 meters of water off the island's southwest coast. The top of the wreck reaches about 20 meters, while the hull extends deeper. The wreck has become completely overgrown with coral and sponges, creating a thriving artificial reef ecosystem. This is the deepest and most challenging dive on Statia, requiring Advanced certification.
+Charles L. Brown Wreck is a dive site in Sint Eustatius featuring the wreck of the Charles L. Brown Wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Sint Eustatius (Statia), Caribbean
+- **Location**: Sint Eustatius, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 29 meters
-- **Wreck Length**: 100 meters (327 feet)
-- **Typical Visibility**: 20-30 meters (65-100 feet)
-- **Current**: Moderate
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-The wreck structure provides massive habitat for Caribbean marine life including coral polyps, sponges, groupers, snappers, soldierfish, glassy sweepers, sea turtles, southern stingrays, eagle rays, and nurse sharks. Reef sharks and barracuda patrol the exterior. The wreck's passages and structure create a complex ecosystem supporting both resident species and transient visitors.
+Divers at this site can expect to encounter groupers, snappers, soldierfish, glassy sweepers, coral growth, sponge encrustation, sea turtles (green, hawksbill), southern stingrays. Additional species commonly sighted include eagle rays, nurse sharks, reef sharks, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
 
 ## Dive Profile
 
-The Charles L. Brown is divided into North and South sections due to its massive length. Descend to the wreck's upper structure (20m) and carefully explore the exterior. The hull extends to 29-30 meters and beyond. Only experienced wreck divers with proper certification should attempt wreck penetration. Plan conservatively given the depth and bottom time required. Maintain excellent buoyancy control and monitor air supply carefully.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 29 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -54,7 +53,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -62,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

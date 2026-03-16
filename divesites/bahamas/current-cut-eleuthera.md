@@ -13,22 +13,22 @@ addedBy: osm_import
 
 ## Current Cut Eleuthera
 
-Current Cut Eleuthera is a world-class extreme drift dive through a 100-yard-wide underwater chasm between two islands, with 6-10 knot currents and pelagic encounters.
+Current Cut Eleuthera is a drift dive site in Bahamas, Caribbean.
 
 ## Overview
 
-Current Cut is ranked among the world's top 10 drift dives and represents one of the most thrilling and challenging diving experiences in the Bahamas. Located between Eleuthera and Current Island, the narrow 30-meter-wide channel forces the tide to stream through at 6-10 knots, propelling divers approximately 1 kilometer (2/3 mile) along a dramatic underwater canyon in less than 10 minutes. The narrow chasm reaches depths of 18 meters (60 feet) and features rock walls, sea fans, and numerous fish-filled holes. Divers encounter stingrays, mako sharks, and reef fish swept up in the powerful current. This dive requires excellent buoyancy control, strong water skills, and experience with drift diving—it is not suited for casual divers. Best timing is with incoming tide to minimize sediment, and a wetsuit is recommended to prevent scrapes.
+Current Cut Eleuthera is a dive site in Bahamas offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Eleuthera, Bahamas
+- **Location**: Bahamas, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Drift dive
+- **Site Type**: Drift
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 15-30 meters (50-100 feet)
-- **Current**: Strong (6-10 knots)
-- **Best Time**: December to April, drift with incoming tide
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Light to moderate
+- **Best Time**: December to April (dry season)
 
 ## Marine Life
 
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter sea turtles (green, hawksbill), sout
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -51,7 +51,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -59,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

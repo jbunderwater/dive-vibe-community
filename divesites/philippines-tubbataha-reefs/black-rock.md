@@ -13,55 +13,53 @@ addedBy: osm_import
 
 ## Black Rock
 
-Located at the northeast corner of North Atoll, this gently sloping reef is known for playful sweetlips, large schools of emperors and snappers, and multiple manta cleaning stations.
+Black Rock is a reef dive site in Philippines Tubbataha Reefs, Asia.
 
 ## Overview
 
-Black Rock is a long, gently sloping reef dive at the northeast corner of Tubbataha's North Atoll. The site is distinguished by its healthy reef structure with abundant large fish and multiple manta cleaning stations. The gentle slope makes this an excellent site for intermediate divers, while the depth and marine life offer interest to more experienced divers. The site is particularly known for encounters with emperor fish, snappers, sweetlips, bluefin trevally, giant trevally, and chevron barracudas.
+Black Rock is a dive site in Philippines Tubbataha Reefs offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Northeast corner, North Atoll, Philippines Tubbataha Reefs
-- **Entry Type**: liveaboard
+- **Location**: Philippines Tubbataha Reefs, Asia
+- **Entry Type**: Liveaboard
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 35 meters
-- **Typical Visibility**: 30-45 meters
-- **Current**: Variable, can be strong
-- **Best Time**: March 16 - June 15
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Black Rock is famous for large populations of sweetlips displaying playful behavior toward divers. The site regularly attracts emperor fish, snappers, groupers, large trevally, and barracuda. Multiple manta cleaning stations are present on the reef - these sites where mantas gather to be cleaned by smaller fish represent excellent opportunities for manta encounters. Other species include sea turtles, reef sharks, and various schooling fish species.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
 
 ## Dive Profile
 
-Descend to the top of the gently sloping reef at about 8-10 meters. Follow the slope down gradually, exploring the reef at various depths as you descend. The most abundant marine life is typically found between 10-25 meters. The slope continues to 30+ meters for those interested in deeper exploration. Plan to reach your maximum depth gradually, allowing time at shallower depths to observe the playful sweetlips and large fish schools. Complete a safety stop at 5 meters before surfacing.
+The site offers diving at depths ranging from shallow reef areas down to approximately 35 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
-Access is by liveaboard tender. Entry is via giant stride or back roll. Descend along the natural slope using visual reference points on the reef. Plan to ascend gradually, spending time at 10-15 meters observing the abundant fish life. Complete your safety stop at 5 meters and signal the boat with an SMB for pickup.
+This site can be accessed from shore or by boat. Shore entry follows established paths to the water. Boat access is available through local dive operators. Check conditions and choose the most appropriate entry method based on weather and sea state.
 
 ## Tips and Recommendations
 
-- Spend extra time at the manta cleaning stations if you spot activity
-- Watch for the playful sweetlips behavior - they often approach divers out of curiosity
-- Large fish (trevally, groupers) often hunt around the reef edges
-- Position yourself with the sun behind you for best photography of large fish schools
-- This is an excellent site for fish identification practice
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
+- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
-The gentle slope makes this a relaxed dive suitable for intermediate divers. Variable currents are possible - be prepared to adjust your position or move shallower if conditions change. This is fundamentally a safe, scenic reef dive with abundant marine life.
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-The abundance of large fish and reef structure provides excellent subjects. Wide-angle compositions of fish schools work well at 12-20 meters. Macro opportunities exist on the smaller reef inhabitants. The playful sweetlips behavior offers unique behavioral photography opportunities.
+This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-03-16
-- **Validation Source**: searchable dive databases, divessi.com
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

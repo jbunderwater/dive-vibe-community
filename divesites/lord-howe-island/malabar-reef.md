@@ -3,7 +3,7 @@ name: Malabar Reef
 lat: -31.5417
 lng: 159.0583
 difficulty: Beginner
-maxDepth: 12
+maxDepth: 18
 entryType: boat
 siteType: reef
 ref: null
@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Malabar Reef
 
-Malabar Reef is a reef dive site in Lord Howe Island, Oceania.
+Malabar Reef is a productive reef site on the northern face of Lord Howe Island, known for diverse pelagic fish action and excellent photography at moderate depths.
 
 ## Overview
 
-Malabar Reef is a dive site in Lord Howe Island offering excellent diving on healthy coral reef structures. Located in the Oceania region, this site offers 15-40 meters of visibility with water temperatures averaging 20-29°C.
+Malabar Reef offers excellent boat diving on the northern face of Lord Howe Island with consistent marine life encounters and good visibility. The site features healthy coral reef structures and reliable pelagic fish activity including schools of trevally and kingfish. Located just 10-20 minutes from the boatshed by boat, it's a perfect site for intermediate divers seeking pelagic action.
 
 ## Site Information
 
-- **Location**: Lord Howe Island, Oceania
+- **Location**: Northern face of Lord Howe Island
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 12 meters
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 15-40 meters (50-130 feet)
 - **Current**: Variable
 - **Best Time**: September to February
 
 ## Marine Life
 
-Divers at this site can expect to encounter great white sharks, grey nurse sharks, whale sharks, manta rays, sea turtles, dolphins, dugongs, potato cod. Additional species commonly sighted include maori wrasse, giant trevally, hard corals, soft corals.
+Malabar is known for diverse pelagic fish encounters including schools of trevally, kingfish, silver sweetlips, dotted sweetlip, and small Galapagos sharks. The reef structure supports healthy coral gardens with hard and soft corals.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Diving at Malabar ranges from 10 to 21 meters depth. The deepest areas (18 meters) are considered some of the best dives on the island, particularly for photography. Begin in shallower reef areas and work deeper following the reef slope. Most marine life activity occurs between 10-18 meters.
 
 ## Entry and Exit
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

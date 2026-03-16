@@ -3,7 +3,7 @@ name: Smitswinkel Bay Wrecks
 lat: -34.25
 lng: 18.47
 difficulty: Advanced
-maxDepth: 30
+maxDepth: 38
 entryType: boat
 siteType: wreck
 ref: null
@@ -17,28 +17,26 @@ Smitswinkel Bay Wrecks is a historic wreck dive in Cape Town, Africa.
 
 ## Overview
 
-Smitswinkel Bay is legendary in Cape Town diving for hosting five scuttled wrecks: MV Rockeater, SAS Good Hope, MFV Princess Elizabeth, MFV Orotava, and SAS Transvaal. These wrecks were deliberately sunk in the 1970s-1980s to create an artificial reef. This is one of South Africa's most challenging wreck dive destinations, requiring Advanced certification and Nitrox training recommended.
+Smitswinkel Bay Wrecks is a dive site in Cape Town featuring the wreck of the Smitswinkel Bay Wrecks. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
 
 ## Site Information
 
-- **Location**: Smitswinkel Bay, False Bay coast (4 km from Kalk Bay/Miller's Point)
+- **Location**: Cape Town, Africa
 - **Entry Type**: Boat dive
-- **Site Type**: Five scuttled wrecks
-- **Difficulty Level**: Advanced (minimum)
-- **Maximum Depth**: 40 meters (deepest parts)
-- **Typical Visibility**: Variable, cold water conditions
-- **Water Temperature**: 10-14°C (cold Atlantic)
-- **Depth Range**: 22-40m across wreck field
-- **Best Time**: Calm sea conditions only
-- **Requirements**: Advanced certification, Nitrox specialty recommended for extended bottom times
+- **Site Type**: Wreck
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 38 meters
+- **Typical Visibility**: 10-30 meters (30-100 feet)
+- **Current**: Moderate to strong
+- **Best Time**: October to March (East Africa), varies by location
 
 ## Marine Life
 
-The wrecks have become artificial reefs hosting diverse marine life. The structures provide shelter for fish species and invertebrates. These deepwater wrecks attract pelagic fish and provide habitats for organisms that have colonized the wreck structures over decades.
+Divers at this site can expect to encounter groupers, batfish, coral growth, lionfish, whale sharks, manta rays, humpback whales, sea turtles. Additional species commonly sighted include dolphins, reef sharks. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 30 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 38 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -63,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

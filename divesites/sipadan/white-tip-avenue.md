@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## White Tip Avenue
 
-White Tip Avenue is named for the frequent whitetip shark sightings along the wall. The site is a dramatic vertical wall descent where divers transition from colorful shallow reef to deeper sections populated by pelagics and black corals.
+White Tip Avenue is a wall dive site in Sipadan, Asia.
 
 ## Overview
 
-White Tip Avenue features a wall that stretches to approximately 40 meters, with the most dramatic drops occurring beyond 30 meters. The reef top is shallow, allowing time to explore coral formations before the wall descent. Below 30 meters, divers encounter waving sea fans and abundant black coral. The site's name derives from the whitetip sharks that regularly patrol the wall face. This is an intermediate-level wall dive with moderate currents.
+White Tip Avenue is a dive site in Sipadan featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Sipadan wall site
+- **Location**: Sipadan, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 40 meters
-- **Typical Visibility**: 30-40 meters (100-130 feet)
-- **Current**: Moderate, generally predictable
-- **Best Time**: October to April
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Whitetip sharks are the signature species, frequently patrolling the wall at 15-30 meters. Additional sharks include reef sharks and occasionally hammerheads. Sea fans, black coral, and hard corals dominate deeper sections. Smaller reef species (fusiliers, groupers, trevally, barracuda) and sea turtles are common throughout. Macro subjects include nudibranchs, frogfish, and seahorses in wall crevices.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-Begin on the shallow reef top and gradually descend along the wall. Most whitetip shark encounters occur at 15-30 meters. The wall's interesting features continue beyond 30 meters with excellent coral formations and pelagic activity. Buoyancy control is essential—the wall makes it easy to descend deeper than planned. The site is suitable for intermediate divers with wall-diving experience.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-40 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
@@ -44,11 +44,12 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
+- Watch your depth carefully — wall dives can lead to unintentional deep descents
+- Look in crevices and overhangs for hidden marine life
 - Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
 - Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
@@ -56,11 +57,11 @@ Be aware of strong currents, jellyfish, sea urchins in this area. Dive within yo
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

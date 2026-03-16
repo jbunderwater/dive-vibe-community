@@ -17,24 +17,22 @@ Castle Rock is a reef dive site in Cape Town, Africa.
 
 ## Overview
 
-Castle Rock is part of the Castle Rocks protected area in False Bay, featuring massive granite pinnacles that rise from 14m to just 5m at their peaks. This intermediate dive site offers excellent topography and is located within a marine protected area. Water temperature is 10-14°C, requiring proper thermal protection.
+Castle Rock is a dive site in Cape Town offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
 
 ## Site Information
 
-- **Location**: False Bay, Castle Rocks restricted area
+- **Location**: Cape Town, Africa
 - **Entry Type**: Shore entry
-- **Site Type**: Rocky reef pinnacles
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Pinnacle Range**: 5-14 meters
-- **Typical Visibility**: 6-15 meters
-- **Water Temperature**: 10-14°C (Atlantic cold)
-- **Current**: Variable
-- **Marine Protected Area**: Yes (restricted zone)
+- **Typical Visibility**: 10-30 meters (30-100 feet)
+- **Current**: Moderate to strong
+- **Best Time**: October to March (East Africa), varies by location
 
 ## Marine Life
 
-Castle Rock hosts diverse reef invertebrates and fish species including rock suckers, reef fish, urchins, and starfish. The site is rich in sponges, corals, and anemones. Winter months may bring ragged-tooth sharks and other pelagic species to the area.
+Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
 
 ## Dive Profile
 
@@ -61,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

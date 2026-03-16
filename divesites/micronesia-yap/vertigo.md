@@ -17,27 +17,26 @@ Vertigo is a wall dive site in Micronesia - Yap, Pacific.
 
 ## Overview
 
-Vertigo is one of Yap's most spectacular shark diving sites, featuring a dramatic wall drop-off and a dedicated shark feeding station. Located on the west coast south of M'il Channel, Vertigo is world-renowned for encounters with schooling grey reef sharks and blacktip sharks. The site features extraordinary visibility (over 30 meters) and consistent daily shark activity, making it the premier shark feeding dive in Micronesia. This is an advanced dive requiring strong diving skills and experience with large pelagic marine life.
+Vertigo is a dive site in Micronesia - Yap featuring a dramatic vertical wall that drops into the deep blue. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
-- **Location**: Micronesia - Yap, Pacific (West coast, south of M'il Channel)
+- **Location**: Micronesia - Yap, Pacific
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 22 meters
-- **Typical Visibility**: 30+ meters (100+ feet)
-- **Current**: Mild to moderate
-- **Best Time**: Year-round
-- **Boat Ride**: 25-35 minutes from Yap
+- **Typical Visibility**: 20-50 meters (65-160 feet)
+- **Current**: Moderate to strong
+- **Best Time**: April to November
 
 ## Marine Life
 
-Vertigo is famous for dense populations of grey reef sharks and blacktip reef sharks. Typical dives yield 10-40 sharks, with concentrations of grey reef sharks at depths less than 45 meters. The site serves as both a feeding location and mating ground for Yap's grey reef shark population. Largest aggregations occur during feeding dives where fish are used as bait. Other species include tuna, jacks, and occasional eagle rays.
+Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-Divers position themselves on a balcony at 20-25 meters formed by dead hard corals. When feeding occurs, sharks rush in aggressively for food. The wall itself drops from 7 meters down to 100+ meters. This is not a gentle drift dive—it requires solid buoyancy control, calm behavior, and understanding of shark behavior. Feeding dives happen daily and should only be attempted by experienced divers.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-22 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
@@ -54,7 +53,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -62,7 +61,7 @@ Wall dives offer stunning wide-angle opportunities with dramatic depth perspecti
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Abu Hashish Drift
 
-Abu Hashish Drift is a reef dive site in Red Sea, Middle East.
+Abu Hashish Drift is a drift dive site in Red Sea, Middle East.
 
 ## Overview
 
@@ -23,7 +23,7 @@ Abu Hashish Drift is a dive site in Red Sea offering rewarding diving on healthy
 
 - **Location**: Red Sea, Middle East
 - **Entry Type**: Boat dive
-- **Site Type**: Drift dive
+- **Site Type**: Drift
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Jicarita Island
 
-Jicarita Island is a reef dive site in Coiba National Park, South America.
+Jicarita Island is a pinnacle dive site in Coiba National Park, South America.
 
 ## Overview
 
@@ -23,7 +23,7 @@ Jicarita Island is a dive site in Coiba National Park offering rewarding diving 
 
 - **Location**: Coiba National Park, South America
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle/seamount
+- **Site Type**: Pinnacle
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-25 meters (30-80 feet)
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

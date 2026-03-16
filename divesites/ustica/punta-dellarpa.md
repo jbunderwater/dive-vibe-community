@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Punta dell'Arpa
 
-Punta dell'Arpa is a reef dive site in Ustica, Europe.
+Punta dell'Arpa is a wall dive site in Ustica, Europe.
 
 ## Overview
 
-Punta dell'Arpa is located at the southernmost tip of Ustica and features a path through tunnels and creeks culminating in a spectacular red gorgonian forest. The site descends to approximately 35 meters where thousands of gorgonians create a vibrant underwater landscape. This is one of Ustica's premier gorgonian diving locations, offering an advanced dive with swim-throughs through stony coral formations.
+Punta dell'Arpa is a dive site in Ustica featuring a dramatic vertical wall that drops into the deep blue. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
 
 ## Site Information
 
-- **Location**: South tip of Ustica, Mediterranean
+- **Location**: Ustica, Europe
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 35 meters
-- **Typical Visibility**: Excellent - usually 25-40 meters
+- **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: May to October
 
 ## Marine Life
 
-Red gorgonians cover the boulders and swim-throughs, creating a spectacular coral garden. Stony coral madrepores decorate the underwater passages. Shrimp colonies inhabit the depths. The gorgonian formations attract small fish and crustaceans seeking shelter in the coral branches.
+Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-Begin at the shallower sections and navigate through tunnels and creek passages as you descend. The best gorgonian displays are encountered between 25-35 meters. Take time to explore the red gorgonian forest at the site's deepest sections. The swim-throughs require moderate buoyancy control and awareness of your depth.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-35 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
@@ -44,6 +44,8 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
+- Watch your depth carefully — wall dives can lead to unintentional deep descents
+- Look in crevices and overhangs for hidden marine life
 - Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
@@ -51,15 +53,15 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

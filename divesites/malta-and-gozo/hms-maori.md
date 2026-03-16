@@ -17,13 +17,13 @@ HMS Maori is a historic wreck dive in Malta and Gozo, Europe.
 
 ## Overview
 
-HMS Maori is a British Tribal-class destroyer (WW2 era), ideal for beginner wreck divers. The wreck rests in just 14-16m on white sand, easily accessible by a relaxed 10-minute shore entry swim. Bow section at 14m. Excellent training site with abundant marine life, though penetration is not recommended due to structural instability from decades at sea. Good for building wreck diving skills in a forgiving depth.
+HMS Maori is a renowned dive site in Malta and Gozo featuring a historic wreck which sank in 1942-02-12 . British Tribal-class destroyer (WW2). Bow at 14m on white sand. Good training wreck for beginners; penetration not recommended due to structural instability. Abundant marine life.. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
 
 ## Site Information
 
 - **Location**: Malta and Gozo, Europe
 - **Entry Type**: Shore entry
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 16 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter conger eels, lobsters, crabs, anemon
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 14 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 16 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -61,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

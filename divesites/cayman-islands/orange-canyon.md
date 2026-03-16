@@ -13,24 +13,22 @@ addedBy: osm_import
 
 ## Orange Canyon
 
-Orange Canyon is a North Wall dive site known for its dramatic passages and swim-throughs created by centuries of coral growth. The site features passages and canyons carved through the reef that offer exciting exploration for intermediate divers.
+Orange Canyon is a wall dive site in Cayman Islands, Caribbean.
 
 ## Overview
 
-Orange Canyon is a Grand Cayman North Wall site famous for its passages and swim-throughs created as coral formations have built up over centuries, carving natural passages under the reef. The site name reflects the coral colors found throughout the formation. These passages and canyon systems create visual drama and offer thrilling exploration opportunities for divers comfortable with overhead environments. The site is part of the spectacular North Wall diving that Grand Cayman is famous for.
+Orange Canyon is a dive site in Cayman Islands featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: North Wall, Grand Cayman, Caribbean
+- **Location**: Cayman Islands, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Depth Range**: 20-25 meters (primary dive zone)
-- **Wall Depth**: Extends beyond recreational limits
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
-- **Special Feature**: Dramatic passages and swim-throughs
 
 ## Marine Life
 
@@ -38,7 +36,7 @@ Divers at this site can expect to encounter sea turtles (green, hawksbill), sout
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-20 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-25 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
@@ -63,7 +61,7 @@ Wall dives offer stunning wide-angle opportunities with dramatic depth perspecti
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

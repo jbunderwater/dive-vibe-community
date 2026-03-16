@@ -13,31 +13,30 @@ addedBy: osm_import
 
 ## The Hole in the Wall
 
-The Hole in the Wall is one of the best dive sites in Turks and Caicos, featuring a remarkable reef cave and chimney system.
+The Hole in the Wall is a cave dive site in Turks and Caicos, Caribbean.
 
 ## Overview
 
-The Hole in the Wall is a reef with a hole at the top (55 ft / 17m) that descends into a cavern. Divers can penetrate the hole, which is "a bit snug but worth it," entering at the surface and gliding easily through the chimney to emerge around 90 feet (27m). Inside the hole are many brittle corals, lobsters, and schools of small reef fish. The site features impressive coral formations and schools of fish like yellowtail and mahogany along the wall. The site is suitable for intermediate and advanced divers comfortable with limited-space penetrations.
+The Hole in the Wall is a dive site in Turks and Caicos featuring underwater cave and cavern formations. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Providenciales, Turks and Caicos
+- **Location**: Turks and Caicos, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/cavern
+- **Site Type**: Cave/Cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 27 meters
-- **Typical Visibility**: 10-30 meters (32-98 feet)
+- **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
-- **Water Temperature**: 24-30°C (75-86°F)
 
 ## Marine Life
 
-Inside the cavern are abundant brittle corals and lobsters. Schooling small reef fish pack the interior. Along the wall, yellowtail snapper and mahogany snapper schools are common. Groupers and snappers inhabit the surrounding wall structure. The narrow passage limits visibility of larger species, making this a macro and crustacean diving specialty.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-25 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+The site offers diving at depths ranging from shallow reef areas down to approximately 27 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -45,8 +44,6 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
 - Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
@@ -58,11 +55,11 @@ Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Crystal Bay Dive Site
 
-Deep coral reef with macro marine life and good conditions for intermediate divers.
+Crystal Bay Dive Site is a reef dive site in Komodo National Park, Asia.
 
 ## Overview
 
-Crystal Bay is a healthy coral reef dive offering consistent marine life encounters in moderate depths. The site features patches of hard and soft corals, coral bommies, and sandy channels that descend to 30 meters. While not as famous as the manta sites, it offers reliable reef diving with good fish life and opportunities for macro photography. Currents are variable and can increase throughout a dive, making it suitable for intermediate divers who are comfortable with changing conditions.
+Crystal Bay Dive Site is a dive site in Komodo National Park offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: North-central Komodo
+- **Location**: Komodo National Park, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 15–30 meters (50–100 feet) dry season; 10–20m wet season
-- **Current**: Variable, sometimes strong
-- **Best Time**: May to October (dry season for best visibility); year-round possible
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Reef sharks (white-tip and black-tip), sea turtles, barracuda, trevally, napoleon wrasse, groupers, snappers, jacks, and schools of reef fish. Macro life includes nudibranchs, frogfish, seahorses, shrimp, and crabs among the coral bommies.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
 
 ## Dive Profile
 
-Descend to the reef structure and cruise along coral patches and bommies between 10–30 meters. The site is best enjoyed with a relaxed pace to maximize macro spotting. Divers can position themselves in sandy channels between reef heads to observe passing pelagics and larger fish, or work the coral for smaller creatures.
+The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
-Giant stride entry. Follow your guide's briefing regarding descent point and current direction. Exit via SMB deployment and boat pickup.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-- Arrive with a fresh air supply to avoid rushing the 30-meter depth
-- Bring macro lenses—small critters are abundant in the coral
-- Scout the sandy areas for resting sharks and rays
-- Plan a safety stop in the shallower sections (5–10m) on the return
-- Check current forecast before the dive
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
+- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
-Currents can build during the dive; adjust your route if becoming too strong. Avoid overstaying at depth. Watch for lionfish and stonefish in reef crevices. Maintain buoyancy control to protect delicate coral. Dive with a buddy and always plan your air consumption.
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-Excellent for both macro and wide-angle work. Reef fish schooling behavior provides dynamic compositions. Coral bommies create natural frames. Macro enthusiasts will find plenty of subjects in the coral heads. Morning light is preferable.
+This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

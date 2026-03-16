@@ -1,29 +1,29 @@
 ---
 name: The Passage
-lat: -0.4208683
-lng: 130.5654502
+lat: -0.4286672
+lng: 130.5610216
 difficulty: Intermediate
 maxDepth: 25
 entryType: boat
 siteType: drift
 ref: null
-osmId: 13041952531
+osmId: 13042087868
 addedBy: osm_import
 ---
 
 ## The Passage
 
-The Passage is a reef dive site in Raja Ampat, Asia.
+The Passage is a drift dive site in Raja Ampat, Asia.
 
 ## Overview
 
-The Passage is a dive site in Raja Ampat offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The Passage is a dive site in Raja Ampat offering rewarding diving on healthy coral reef structures . Soft corals and sea fans. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
 - **Location**: Raja Ampat, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Drift dive
+- **Site Type**: Drift
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

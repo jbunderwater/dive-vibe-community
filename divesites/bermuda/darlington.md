@@ -13,34 +13,30 @@ addedBy: osm_import
 
 ## Darlington
 
-The Darlington is a well-preserved iron-hulled steamer that offers excellent exploring on Bermuda's western reef. Built in 1881 at the Swan and Hunter Shipyard in Newcastle, this sturdy vessel measured 285 feet long and struck Bermuda's western reefs on February 22, 1886, while en route from New Orleans to Bremen with a cargo of cotton and grain.
+Darlington is a historic wreck dive in Bermuda, Atlantic.
 
 ## Overview
 
-The Darlington remains fairly intact though collapsed onto her port side in just 20 feet of water. The shallow location allows for extended bottom time and excellent viewing of preserved features including steamer boilers, propeller shaft, and deck winches. The rudder quadrant is nearly intact, pointing upward to the surface with the rudder and propeller still in place.
+Darlington is a dive site in Bermuda featuring the wreck of the Darlington. Located in the Atlantic region, this site offers 15-30 meters of visibility with water temperatures averaging 20-28°C.
 
 ## Site Information
 
-- **Location**: Bermuda's western reefs
+- **Location**: Bermuda, Atlantic
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 6 meters
-- **Typical Visibility**: 25-35 feet (7.6-10.7 meters)
-- **Current**: Light to strong (surge possible)
+- **Typical Visibility**: 15-30 meters (50-100 feet)
+- **Current**: Light to moderate
 - **Best Time**: May to October
-- **Ship Type**: Iron-hulled steamer (285 feet)
-- **Built**: 1881
-- **Year Sunk**: February 22, 1886
-- **Condition**: Collapsed onto port side, partially intact
 
 ## Marine Life
 
-Schools of snappers, groupers, and barracuda frequent this shallow wreck. Rays and sea turtles are occasionally spotted in the area. The hull provides shelter for crabs, lobsters, and smaller reef fish.
+Divers at this site can expect to encounter groupers, snappers, barracuda, coral encrustation, sea turtles, reef sharks, groupers, snappers. Additional species commonly sighted include parrotfish, angelfish. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
 
 ## Dive Profile
 
-Descend to the collapsed wreck in 20 feet of water. Examine the steamer boilers, propeller, and rudder quadrant features. The shallow depth allows 60+ minutes of comfortable bottom time. Watch for surge conditions. Ascend gradually with a 3-5 minute safety stop at 10 feet.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 6 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -65,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Flic en Flac Pass
 
-Spectacular drift dive from the west coast's most popular beach. Diverse reef diving combining Aquarium (7-18m shallow drift) with Big Rock (20-26m deeper drift). Eagle rays, turtles, and colourful reef fish in magical blue water. Often combined for full-day reef adventures.
+Flic en Flac Pass is a reef dive site in Mauritius, Africa.
 
 ## Overview
 
-Flic en Flac is the longest and most popular beach on Mauritius's west coast and the launch point for most dive boats. The pass offers variable currents depending on wind and tide: options range from no current to light current to very strong drift conditions. Aquarium is a slow, shallow drift beginning at 7 meters descending to 18 meters. Big Rock is a deeper drift with maximum depth of 26 meters. These two sites are frequently combined into single dives, with opportunities for 40+ eagle rays and diverse schooling fish.
+Flic en Flac Pass is a dive site in Mauritius offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
 
 ## Site Information
 
-- **Location**: Flic en Flac, West Coast (multiple reef dive options)
+- **Location**: Mauritius, Africa
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 26 meters
-- **Typical Visibility**: 15-25 meters (50-80 feet)
-- **Current**: Variable (none to very strong depending on conditions)
-- **Best Time**: Year-round; October to April calmest conditions
+- **Typical Visibility**: 10-30 meters (30-100 feet)
+- **Current**: Moderate to strong
+- **Best Time**: October to March (East Africa), varies by location
 
 ## Marine Life
 
-Iconic encounters include schools of 40+ eagle rays (memorable experience), green sea turtles, and diverse reef fish. Colourful tropical species: butterflyfish, parrotfish, wrasses, triggerfish, angelfish. Reef sharks, tuna, jacks, and barracuda patrol deeper zones. Soft corals and hard coral formations support abundant macro life. Turtles, dolphins, and occasional whale sharks add to the sighting opportunities.
+Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
 
 ## Dive Profile
 
-Aquarium dive begins at shallow reef (7m) and drifts down to 18m. Ideal for intermediate divers seeking easy drift practice. Big Rock dive accesses deeper reef (20-26m) with more dramatic formations. Combining both in sequence allows progressive depth exploration. Strong current options are available for advanced drift divers, but many dives can be completed with minimal to light current. Visibility is consistently good supporting photo opportunities.
+The site offers diving at depths ranging from shallow reef areas down to approximately 26 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -52,7 +52,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, remote locations in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of strong currents, jellyfish, remote locations in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

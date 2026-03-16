@@ -13,33 +13,30 @@ addedBy: osm_import
 
 ## Constellation
 
-The Constellation is a legendary Bermuda wreck famous for inspiring author Peter Benchley's thriller "The Deep." This 192-foot wooden-hulled four-masted schooner sank in 1943 after losing steam pumping capacity while heading to Bermuda for repairs.
+Constellation is a historic wreck dive in Bermuda, Atlantic.
 
 ## Overview
 
-The Constellation's scattered cargo lies in 30 feet of water surrounded by sand and high coral heads, creating a dramatic and accessible diving experience. Built in 1918 and carrying a cargo that included bottles of Scotch whiskey, pool table slates, and medicinal drugs, the wreck provides a window into wartime maritime history.
+Constellation is a dive site in Bermuda featuring the wreck of the Constellation. Located in the Atlantic region, this site offers 15-30 meters of visibility with water temperatures averaging 20-28°C.
 
 ## Site Information
 
-- **Location**: Bermuda's North Shore
+- **Location**: Bermuda, Atlantic
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 9 meters
-- **Typical Visibility**: 30-40 feet (9-12 meters)
+- **Typical Visibility**: 15-30 meters (50-100 feet)
 - **Current**: Light to moderate
 - **Best Time**: May to October
-- **Ship Type**: Four-masted wooden schooner (192 feet)
-- **Year Sunk**: July 30, 1943
-- **Notable Artifacts**: Bottles, ceramics, crucifixes, pool table slates
 
 ## Marine Life
 
-Schools of barracuda, snappers, and groupers frequent this shallow wreck. The sand valley around the site hosts rays and occasional sea turtles. The cargo scattered across the bottom attracts curious fish and creates excellent photography subjects.
+Divers at this site can expect to encounter groupers, snappers, barracuda, coral encrustation, sea turtles, reef sharks, groupers, snappers. Additional species commonly sighted include parrotfish, angelfish. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
 
 ## Dive Profile
 
-This beginner-friendly wreck is ideal for newer divers and snorkelers. Descend to 30 feet maximum and swim through the sand valley to examine scattered cargo and structural remains. The shallow depth provides 45-60 minutes of comfortable bottom time. Plan a 5-minute safety stop at 15 feet before surfacing.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 9 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -64,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

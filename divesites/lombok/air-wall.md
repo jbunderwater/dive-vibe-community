@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Air Wall
 
-Air Wall is a vertical wall dive off the north side of Gili Air in the Gili Islands, known for excellent macro diving and nudibranchs.
+Air Wall is a wall dive site in Lombok, Asia.
 
 ## Overview
 
-Air Wall is a dramatic vertical reef wall at Gili Air featuring a nearly vertical top section starting at around 5 meters and dropping to a sandy bottom at approximately 22 meters. The wall is renowned among macro photographers and critter enthusiasts for its excellent concentration of nudibranchs and small reef fish. This is one of the best macro diving sites in the Gili Islands, though pelagic life and larger fish are less common here compared to the deeper pinnacle sites.
+Air Wall is a dive site in Lombok featuring a dramatic vertical wall that drops into the deep blue . source is Diveschool Notice Board - Location might have to be checked with a GPS. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
@@ -32,11 +32,11 @@ Air Wall is a dramatic vertical reef wall at Gili Air featuring a nearly vertica
 
 ## Marine Life
 
-Air Wall is famous for macro diving opportunities. Divers commonly encounter a diverse array of nudibranchs, frogfish, seahorses, and pygmy seahorses along the wall structure. Ghost pipefish, leaf scorpionfish, and leaf scorpionfish are also found here. Reef fish including moray eels, triggerfish, and surgeonfish inhabit the crevices and overhangs. Blue-ringed octopuses, though rare, may occasionally be spotted by experienced divers.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-20 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-22 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
@@ -61,7 +61,7 @@ Wall dives offer stunning wide-angle opportunities with dramatic depth perspecti
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

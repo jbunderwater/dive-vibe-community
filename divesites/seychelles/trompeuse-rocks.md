@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Trompeuse Rocks
 
-Trompeuse Rocks is a reef dive site in Seychelles, Africa.
+Trompeuse Rocks is a drift dive site in Seychelles, Africa.
 
 ## Overview
 
@@ -23,7 +23,7 @@ Trompeuse Rocks is a dive site in Seychelles offering rewarding diving on health
 
 - **Location**: Seychelles, Africa
 - **Entry Type**: Boat dive
-- **Site Type**: Drift dive
+- **Site Type**: Drift
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

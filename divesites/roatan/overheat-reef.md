@@ -17,7 +17,7 @@ Overheat Reef is a reef dive site in Roatán, Caribbean.
 
 ## Overview
 
-Overheat Reef is a beautiful, relaxing reef dive site located just 10 minutes from the dock and directly off West Bay Beach. Named after a dive boat that would overheat each day over this patch of reef, it is one of the most favorite dive sites on Roatán. Suitable for all diving levels, the site features colorful reef structures with turtles and excellent training opportunities. Water temperatures average 26-29°C.
+Overheat Reef is a dive site in Roatán offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter sea turtles (green, hawksbill), sout
 
 ## Dive Profile
 
-Descend first into a stunning white sand patch at 6+ meters (20+ feet), then pass over colorful coral reef and find yourself on a wall with many overhangs and beautiful corals. A deeper sand patch at 23 meters (75 feet) features the famed Garden Eels waving up at you. To the northeast, the coral reef gradually slopes down to a sand patch at 15 meters (50 feet). Green and Hawksbill turtles are often seen snacking on coral or napping along the reef. Most features are found between 6-15 meters, making this ideal for all levels.
+The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -44,13 +44,11 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Watch for Green and Hawksbill turtles resting or feeding on the reef
-- Look for Garden Eels in the deeper sand patch if you descend that far
-- Explore the overhangs and crevices for hidden marine life
-- Perfect for Discover Scuba Diving training and Open Water training dives
-- Excellent for Advanced Peak Performance Buoyancy training
+- Excellent site for newer divers — calm conditions and easy navigation
+- Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 
@@ -62,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

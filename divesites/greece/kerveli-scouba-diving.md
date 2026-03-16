@@ -11,33 +11,32 @@ osmId: 2547460303
 addedBy: osm_import
 ---
 
-## Kerveli Reef (Samos)
+## Kerveli scouba diving
 
-Kerveli Reef on Samos offers calm, beginner-friendly diving in a naturally protected bay with excellent accessibility. The dive base operates directly from the Kerveli Village Hotel, making logistics extremely simple.
+Kerveli scouba diving is a reef dive site in Greece, Europe.
 
 ## Overview
 
-Located on Samos in the Eastern Aegean, Kerveli Reef is a relaxed diving destination suitable for all experience levels. The reef sits just minutes from the Kerveli Village Hotel's private dock in a naturally sheltered bay. Conditions are typically calm and suitable for training and recreational dives.
+Kerveli scouba diving is a dive site in Greece offering excellent diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
 
 ## Site Information
 
-- **Location**: Kerveli, Samos, Eastern Aegean Islands
+- **Location**: Greece, Europe
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 22 meters
-- **Typical Visibility**: 12-25 meters (40-80 feet)
-- **Current**: Light
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Light to moderate
 - **Best Time**: May to October
-- **Facilities**: Kerveli Village Hotel dive base with direct access
 
 ## Marine Life
 
-Expect encounters with moray eels and octopus in reef crevices. Small Mediterranean reef fish species populate the structures. The site provides habitat for typical Aegean fauna.
+Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
 
 ## Dive Profile
 
-The reef dive offers exploration between scattered reef pinnacles at 10-22 meters. The shallow structure and minimal current make this ideal for skill development and relaxed recreation. Multiple reef features provide navigation variety within a compact area.
+The site offers diving at depths ranging from shallow reef areas down to approximately 22 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -45,6 +44,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
+- Excellent site for newer divers — calm conditions and easy navigation
 - Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

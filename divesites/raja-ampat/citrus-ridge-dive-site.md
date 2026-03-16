@@ -13,17 +13,17 @@ addedBy: osm_import
 
 ## Citrus Ridge Dive Site
 
-Citrus Ridge Dive Site is a drift dive in Raja Ampat with excellent coral and fish abundance.
+Citrus Ridge Dive Site is a drift dive site in Raja Ampat, Asia.
 
 ## Overview
 
-Citrus Ridge is a drift dive site featuring healthy coral formations and abundant fish schools. The current flows southward, making this a drift dive where you descend and move with the water flow. Good coral structures at 10-25m depth support dense fish populations and schooling trevally. Suitable for snorkeling as well. Visibility typically 15-30+ meters with temperatures averaging 26-30°C.
+Citrus Ridge Dive Site is a dive site in Raja Ampat offering rewarding diving on healthy coral reef structures . Good corals and good quantity of fishes. The stream kindly bring you to the south.. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
 - **Location**: Raja Ampat, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Drift dive
+- **Site Type**: Drift
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter manta rays, whale sharks, reef shark
 
 ## Dive Profile
 
-This is a drift dive - plan entry with guide into the current from shallower water. Allow the southward current to carry you down and over coral formations at 10-25m depth. The reef provides natural stopping points for observation. Abundance of fish life at these depths. Plan approximately 35-40 minutes of bottom time and ensure proper drift boat protocols are in place for exit.
+The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

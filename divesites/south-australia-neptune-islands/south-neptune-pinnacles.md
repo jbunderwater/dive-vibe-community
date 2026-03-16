@@ -3,7 +3,7 @@ name: South Neptune Pinnacles
 lat: -35.34
 lng: 136.13
 difficulty: Advanced
-maxDepth: 30
+maxDepth: 21
 entryType: boat
 siteType: pinnacle
 ref: null
@@ -13,55 +13,54 @@ addedBy: osm_import
 
 ## South Neptune Pinnacles
 
-South Neptune Pinnacles is a wall dive site in South Australia Neptune Islands, Oceania.
+Advanced deep pinnacle dive site rising from deep water with rich cold-water reef fauna and occasional large shark visitors.
 
 ## Overview
 
-South Neptune Pinnacles is a dive site in South Australia Neptune Islands featuring a dramatic vertical wall that drops into the deep blue. Located in the Oceania region, this site offers 15-40 meters of visibility with water temperatures averaging 20-29°C.
+South Neptune Pinnacles is an advanced deep pinnacle dive site in the southern Neptune Islands group. The pinnacle formation rises from deeper water to approximately 21 meters above a rocky seabed in the southern archipelago. This site offers exceptional cold-water reef diving with diverse fauna and variable great white shark encounters. Strong currents possible; experienced divers only.
 
 ## Site Information
 
-- **Location**: South Australia Neptune Islands, Oceania
+- **Location**: South Neptune Islands, 40 nautical miles south of Port Lincoln, South Australia
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 15-40 meters (50-130 feet)
-- **Current**: Variable
-- **Best Time**: September to February
+- **Depth**: 8-21 meters (26-70 feet) on pinnacle; deeper drops beyond
+- **Typical Visibility**: 15-20 meters (50-65 feet)
+- **Current**: Variable to strong, can shift rapidly
+- **Water Temperature**: 14-22°C (57-72°F) — coldest June-August, warmest December-May
+- **Best Time**: May-October for calmer conditions and shark activity
 
 ## Marine Life
 
-Divers at this site can expect to encounter great white sharks, grey nurse sharks, whale sharks, manta rays, sea turtles, dolphins, dugongs, potato cod. Additional species commonly sighted include maori wrasse, giant trevally, hard corals, soft corals. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Great white sharks (occasional visitors, more common in winter months), Australian sea lions, long-nosed fur seals, cold-water reef fish (bream, trevally, wrasse), giant crabs, sea urchins, kelp forest invertebrates, zoanthids, soft corals.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-30 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Descend to the pinnacle top at 8 meters and drift along the formation as it drops to approximately 21 meters. Navigate the pinnacle's rocky terrain while maintaining buoyancy control. Most marine life concentrated on the pinnacle structure and upper reef zones. Typical dive duration 35-50 minutes with moderate to strong current management. Use current to your advantage with careful descent planning and ascent strategy.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+PADI Advanced Open Water certification or equivalent recommended. Drift entry from boat on lee side of pinnacle; buddy teams coordinate depth management and current drift. Natural ascent following current drift; safety stop at 5 meters. Deploy surface marker buoy (SMB) during safety stop for boat pickup. Experienced boat crew manages pickup timing with current drift.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- PADI Advanced Open Water certification or equivalent recommended
+- Book with local operators experienced with pinnacle diving in currents
+- Wear 5-7mm semi-dry wetsuit for 14-22°C water
+- Plan dive with conservative bottom time and safety stop margins
+- Strong current experience essential; not recommended for first-time Neptune Islands divers
+- May-October offers better conditions; winter (June-August) can be unpredictable
+- Use SMB and good buoyancy control for safe ascent in variable conditions
+- Bring redundant dive lights; low light conditions in channels
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish (box jellyfish in summer), crocodiles (north) in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+Advanced deep pinnacle diving requires strong current management, precise buoyancy control, and excellent situational awareness. Variable currents demand flexible dive planning and current reading skills. Cold water (14-22°C) necessitates proper thermal protection and energy management. Standard deep diving protocols apply: nitrogen narcosis awareness, air consumption monitoring, safety stop compliance. Always dive with experienced buddy. Verify boat crew current safety procedures and SMB deployment protocols before diving.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

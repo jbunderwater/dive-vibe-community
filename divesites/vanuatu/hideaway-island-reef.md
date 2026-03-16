@@ -13,27 +13,26 @@ addedBy: osm_import
 
 ## Hideaway Island Reef
 
-Hideaway Island is a marine sanctuary in Mele Bay featuring a PADI-certified dive resort with calm, protected reef diving suitable for beginners and training courses.
+Hideaway Island Reef is a reef dive site in Vanuatu, Pacific.
 
 ## Overview
 
-Hideaway Island is a dedicated marine sanctuary in Mele Bay, just 30 minutes from Port Vila on Efate Island. A PADI-certified dive resort operates on the island, making it an ideal destination for training and beginner diving with protected, sheltered waters and crystal-clear visibility. The main reef rises to around 6 meters below the surface, providing an accessible dive for beginners with calm conditions and excellent coral and fish life.
+Hideaway Island Reef is a dive site in Vanuatu offering excellent diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
-- **Location**: Hideaway Island, Mele Bay, Port Vila, Efate Island
+- **Location**: Vanuatu, Pacific
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 10 meters
-- **Typical Visibility**: 20-50 meters (excellent in sheltered bay)
-- **Water Temperature**: 26-29°C year-round
-- **Best Time**: April to November (dry season)
-- **Notable**: PADI training courses available on-site
+- **Typical Visibility**: 20-50 meters (65-160 feet)
+- **Current**: Moderate to strong
+- **Best Time**: April to November
 
 ## Marine Life
 
-Calm waters and healthy coral structures support prolific marine life including clownfish, butterflyfish, moorish idols, groupers, moray eels, reef sharks, sea turtles, napoleon wrasse, barracuda, tuna, manta rays, and abundant schooling fish. The brightly colored corals and anemones provide excellent habitat for reef fish.
+Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
 
 ## Dive Profile
 
@@ -61,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

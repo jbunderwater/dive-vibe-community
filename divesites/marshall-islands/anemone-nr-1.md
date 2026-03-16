@@ -13,17 +13,17 @@ addedBy: osm_import
 
 ## Anemone Nr. 1
 
-Anemone Nr. 1 is a shallow wreck dive in Majuro Atoll featuring WWII-era wreck material now densely covered with anemones and vibrant coral growth. The shallow depth and historic significance make this site ideal for intermediate-level wreck divers interested in Pacific War history and marine ecosystem recovery on historical wrecks.
+Anemone Nr. 1 is a historic wreck dive in Marshall Islands, Pacific.
 
 ## Overview
 
-Anemone Nr. 1 is a shallow wreck dive in Majuro featuring WWII-era wreck material colonized by anemones, corals, and diverse marine life. The site showcases how historical wrecks become thriving artificial reef habitats over decades. Visibility typically exceeds 30 meters, with water temperatures consistent at 27-30°C year-round. The shallow depth and accessible wreck features make this ideal for intermediate wreck divers exploring Pacific War history.
+Anemone Nr. 1 is a dive site in Marshall Islands featuring the wreck of the Anemone Nr. 1. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
 - **Location**: Marshall Islands, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 27 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)
@@ -61,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

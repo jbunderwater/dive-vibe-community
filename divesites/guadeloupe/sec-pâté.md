@@ -13,28 +13,30 @@ addedBy: osm_import
 
 ## Sec Pâté
 
-Sec Pâté is one of the most legendary and sought-after dive sites in the Lesser Antilles, renowned for its phenomenal marine life and challenging deep-water conditions.
+Sec Pâté is a pinnacle dive site in Guadeloupe, Caribbean.
 
 ## Overview
 
-Located between Les Saintes archipelago and Basse-Terre, Sec Pâté is a dramatic offshore pinnacle that rises from depths exceeding 300 meters to shallow waters starting at just 15 meters. This creates an incredibly rich feeding ground attracting pelagic fish, large groupers, and tuna schools. The site is famous for powerful currents and excellent visibility, but is only suitable for experienced deep divers.
+Sec Pâté is a dive site in Guadeloupe offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Between Les Saintes and Basse-Terre, Guadeloupe
+- **Location**: Guadeloupe, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle/seamount
+- **Site Type**: Pinnacle
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
-- **Average Recreational Depth**: 35-40 meters
-- **Typical Visibility**: 30-50+ meters
-- **Current**: Strong - 1 to 4 knots
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
-- **Certification Required**: Level 2/PE40 CMAS or Advanced Open Water + Deep specialty
+
+## Marine Life
+
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
 
 ## Dive Profile
 
-Sec Pâté begins at 15 meters and extends far deeper. Recreational diving occurs on the pinnacle top and slopes between 15-40 meters. Expect pumping currents and thriving coral gardens covered in colorful sponges. The site teems with angelfish, ocean triggerfish, moray eels, and lobsters. Schools of fish shoal around the reef. Visibility is typically excellent, often exceeding 40 meters.
+The site offers diving at depths ranging from shallow reef areas down to approximately 40 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -57,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## South Button
 
-South Button is a popular reef dive site north of Ritchie's Archipelago, featuring a dramatic wall on its western side and a diverse coral ecosystem with excellent macro and wide-angle photography opportunities.
+South Button is a reef dive site in Andaman Islands, Asia.
 
 ## Overview
 
-South Button rises from deep water with the western side dropping as a small wall to 25 meters. The site is rich in fish life including barracuda, bigeye trevally, blue fin trevally, surgeonfish, schooling snapper, angelfish, and Napoleon wrasse. Manta rays and devil rays visit seasonally, and leopard sharks are occasional inhabitants. The site is also suitable for snorkeling in shallower areas, making it versatile for mixed-group dive trips.
+South Button is a dive site in Andaman Islands offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: North of Ritchie's Archipelago, Andaman Islands, India
+- **Location**: Andaman Islands, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 15-25 meters
-- **Current**: Variable, moderate to strong
-- **Best Time**: November to April
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Barracuda, bigeye and blue fin trevally, surgeonfish, schooling snapper, angelfish, Napoleon wrasse, batfish, crocodilefish, nudibranchs, moray eels, turtles, and octopuses are resident species. Manta rays, devil rays, and leopard sharks visit seasonally. The diverse coral formations provide microhabitats for numerous small species including shrimp and cryptic fish.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
 
 ## Dive Profile
 
-Begin your dive in the reef shallows at 10-15 meters, observing schooling fish and coral formations. Gradually work toward the western wall, descending to 20-25 meters to explore the wall structure and observe larger fish species. Most divers spend 35-45 minutes at this site, with ample air for a safety stop. The site's moderate depth and relatively consistent marine life make it ideal for both experienced recreational divers and those building wall-diving experience.
+The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

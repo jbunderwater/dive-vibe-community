@@ -13,23 +13,22 @@ addedBy: osm_import
 
 ## Scuba Lanka
 
-Scuba Lanka is a reef dive site located in Sri Lankan waters accessible via boat diving. The site features healthy coral reef structures typical of Sri Lanka's dive destinations.
+Scuba Lanka is a reef dive site in Sri Lanka, Asia.
 
 ## Overview
 
-Scuba Lanka offers intermediate-level reef diving with good coral growth and marine life. The site is accessed via boat from local operators and provides a typical Indo-Pacific reef diving experience. Water temperatures are warm throughout the year (27-30°C), with best visibility and diving conditions from October to April.
+Scuba Lanka is a dive site in Sri Lanka offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Sri Lanka
+- **Location**: Sri Lanka, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Depth Range**: 10-18 meters
-- **Typical Visibility**: 10-25 meters (33-82 feet)
-- **Current**: Variable, moderate to strong
-- **Water Temperature**: 27-30°C year-round
-- **Best Time**: October to April
+- **Maximum Depth**: 18 meters
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
@@ -37,7 +36,7 @@ Divers at this site can expect to encounter manta rays, whale sharks, reef shark
 
 ## Dive Profile
 
-Scuba Lanka features a moderate reef slope descending from 10 to 18 meters. Begin your descent following the natural reef structure, with concentrated marine life visible throughout the range. Plan 45-50 minute bottom time at recreational depths. The site allows exploration of both shallow coral formations and deeper reef sections.
+The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -61,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Cape Kri
 
-Cape Kri is a protected marine sanctuary wall dive in Raja Ampat, renowned for sea turtle encounters.
+Cape Kri is a wall dive site in Raja Ampat, Asia.
 
 ## Overview
 
-Cape Kri is a wall dive within Raja Ampat Marine Protected Area. This coral-encrusted vertical drop is particularly famous for abundant sea turtle populations that graze on reef vegetation. While fish variety may be less than pinnacle sites, the protected status ensures excellent coral health and stable turtle encounters. Visibility typically 15-30+ meters with temperatures averaging 26-30°C.
+Cape Kri is a renowned dive site in Raja Ampat featuring a dramatic vertical wall that drops into the deep blue . Good corals, a lot of turtles but not a big variety of fishes. But still this spot worth a try. The stream kindly bring you to the west, so you can look the coral around the south of the island.. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
@@ -32,11 +32,11 @@ Cape Kri is a wall dive within Raja Ampat Marine Protected Area. This coral-encr
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-Descend on the wall at 5m and follow the vertical drop to 25-30m. The best turtle observations occur at 10-20m depth where reef vegetation is most abundant. Drift southwesterly with the current as noted. Turtles are regularly spotted grazing and resting along ledges. Spend 35-40 minutes exploring the wall structure and allow adequate air for a thorough safety stop.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-30 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
@@ -44,11 +44,12 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
+- Watch your depth carefully — wall dives can lead to unintentional deep descents
+- Look in crevices and overhangs for hidden marine life
 - Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
 - Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
@@ -56,11 +57,11 @@ Be aware of strong currents, jellyfish, sea urchins in this area. Dive within yo
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

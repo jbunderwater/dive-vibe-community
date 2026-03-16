@@ -13,22 +13,22 @@ addedBy: osm_import
 
 ## Willaurie Wreck Nassau
 
-The Willaurie is a 43-meter (140-foot) Danish-built river barge resting in 19 meters (62 feet) of water, covered in brilliant red and orange corals and sponges, making it a favorite of underwater photographers.
+Willaurie Wreck Nassau is a historic wreck dive in Bahamas, Caribbean.
 
 ## Overview
 
-The Willaurie is one of Nassau's most photographed wrecks, built in Denmark in 1907 and originally sunk in Potters Cay before being moved and sunk again during a storm near Clifton Pier. The former river barge lies upright in relatively shallow water with its cargo hold and propellers in good condition. The wreck is densely covered with colorful red and orange corals and sponges, creating a stunning display. Schools of Nassau grouper and Cubera snapper swim past, along with sea turtles. On the deck sits a cage structure with amazing coral growth. The site is popular with divers of various skill levels and is particularly appealing to underwater photographers. Average visibility reaches 16-18 meters (52-60 feet), and the wreck is easily navigable for beginners to intermediate divers.
+Willaurie Wreck Nassau is a dive site in Bahamas featuring the wreck of the Willaurie Wreck Nassau. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Nassau, New Providence, Bahamas
+- **Location**: Bahamas, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 19 meters
-- **Typical Visibility**: 15-18 meters (50-60 feet)
-- **Current**: Light to minimal
-- **Best Time**: December to April, year-round accessible
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Light to moderate
+- **Best Time**: December to April (dry season)
 
 ## Marine Life
 
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter groupers, snappers, soldierfish, gla
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 14 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 19 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -61,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

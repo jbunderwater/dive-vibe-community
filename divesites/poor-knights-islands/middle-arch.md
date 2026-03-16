@@ -3,7 +3,7 @@ name: Middle Arch
 lat: -35.46
 lng: 174.732
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 15
 entryType: boat
 siteType: cave
 ref: null
@@ -13,53 +13,67 @@ addedBy: osm_import
 
 ## Middle Arch
 
-Middle Arch is a cave dive site in Poor Knights Islands, Oceania.
+One of the most frequently dived arches at Poor Knights Islands, Middle Arch is a reliable and rewarding site offering a more sheltered experience than the deeper, current-swept Northern Arch. The arch cuts through a rocky point at only 15 meters maximum depth, allowing extended bottom times and detailed exploration. The site combines colourful wall growth with excellent fish life and is an ideal choice for intermediate divers.
 
 ## Overview
 
-Middle Arch is a dive site in Poor Knights Islands featuring underwater cave and cavern formations. Located in the Oceania region, this site offers 15-40 meters of visibility with water temperatures averaging 20-29°C.
+Middle Arch is a gem of an arch dive, accessible to intermediate divers and offering excellent opportunities for longer exploration. The arch is often a nice sheltered spot for boat anchoring, making it a frequent Poor Knights destination. Like Northern Arch, it cuts through a point but at a much shallower depth. The arch is colourful with encrusting organisms and normally experiences less current than Northern Arch, making it an excellent choice for moderate conditions or divers building experience on Poor Knights arches.
 
 ## Site Information
 
-- **Location**: Poor Knights Islands, Oceania
+- **Location**: Poor Knights Islands, Northland, New Zealand
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 15-40 meters (50-130 feet)
-- **Current**: Variable
-- **Best Time**: September to February
+- **Maximum Depth**: 15 meters
+- **Typical Visibility**: 15-30 meters (good for wide-angle photography)
+- **Water Temperature**: 14-17°C (winter/May-Sept), 19-25°C (summer/Nov-April)
+- **Current**: Mild to moderate (much less than Northern Arch)
+- **Best Time**: Year-round; excellent for all season diving
 
 ## Marine Life
 
-Divers at this site can expect to encounter great white sharks, grey nurse sharks, whale sharks, manta rays, sea turtles, dolphins, dugongs, potato cod. Additional species commonly sighted include maori wrasse, giant trevally, hard corals, soft corals. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+Middle Arch features colourful wall life combined with good fish viewing:
+- Shoals of blue maomao and pink maomao
+- Kingfish, snapper, and giant trevally
+- Colourful sponges, anemones, hydroids, bryozoans, and algae covering the arch and surrounding walls
+- Short-tailed stingrays (in warmer months)
+- Moray eels and smaller fish species
+- Hardy corals and encrusting life creating a garden effect
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the arch entrance (approximately 10m) and work through the passage at a relaxed pace. The shallow maximum depth of 15 meters allows for extended bottom times and thorough exploration. Take time to examine the colourful walls closely for small creatures. The arch passage is interesting but the surrounding reef is equally rewarding. Many divers spend significant time photographing the wall growth before and after the arch passage. Plan a leisurely profile with time at 3-5 meters for your safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat entry via giant stride directly to the arch area. Your guide will indicate descent procedures and the arch location. The passage through the arch is wide and comfortable. Exit via ascent and boat pickup at the surface.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- **Best for macro and wide-angle combined**: The colourful walls and fish schools make for excellent photographic diversity
+- **Good learning site**: The moderate depth and calmer conditions make this ideal for divers new to Poor Knights arch diving
+- **Take time exploring walls**: Don't just swim through—the surrounding reef growth is as interesting as the arch itself
+- **Early dive in your day**: Consider doing this as an earlier dive when you're fresh for detailed observation
+- **Book with any major Poor Knights operator**: This site is frequently available
+- **Longer safety stop opportunity**: Use the shallow depth to enjoy your safety stop while observing marine life
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish (box jellyfish in summer), crocodiles (north) in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+- Excellent site for intermediate divers; cold-water experience still required
+- Good buoyancy control important to avoid stirring silt or damaging delicate organisms
+- Current can increase unexpectedly—maintain buddy contact
+- Shallow depth makes this an excellent choice for building Poor Knights experience
+- Never exceed the arch base depth (15m)
+- Always dive with a buddy
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The shallow depth and colourful walls create excellent wide-angle opportunities. The combination of fish schools and encrusting organisms provides macro subjects. Sponges and anemones are particularly photogenic. The arch framing distant fish is a classic composition. The shallow depth allows longer exploration time for finding perfect shots. Consider a macro lens for detailed wall work and a wide-angle lens for arch-and-fish compositions.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

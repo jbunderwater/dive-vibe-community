@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Manta Reef Kadavu
 
-Manta Reef is a premier manta ray dive site on the Great Astrolabe Reef in Kadavu with approximately 80% encounter rate during dives.
+Manta Reef Kadavu is a reef dive site in Fiji, Pacific.
 
 ## Overview
 
-Located in the central region of Kadavu's Great Astrolabe Reef—the 4th largest barrier reef in the world at approximately 100 km long—Manta Reef is a manta ray cleaning and feeding station. A 40-minute boat ride from island resorts, this site is renowned for its exceptional manta ray encounters, with about 80% of dives seeing mantas. Mantas can be observed year-round at this site, making it one of Fiji's most reliable manta encounters. The reef structure supports diverse fish populations including reef sharks, groupers, and schooling pelagics.
+Manta Reef Kadavu is a dive site in Fiji offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
-- **Location**: Great Astrolabe Reef, Kadavu, Fiji
+- **Location**: Fiji, Pacific
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 22 meters
-- **Typical Visibility**: 20-40 meters
-- **Current**: Moderate
-- **Best Time**: Year-round (April to November preferred)
+- **Typical Visibility**: 20-50 meters (65-160 feet)
+- **Current**: Moderate to strong
+- **Best Time**: April to November
 
 ## Marine Life
 
-Manta Reef is famous for manta ray encounters (80% encounter rate) at this cleaning and feeding station. Mantas are present throughout the year. The reef also hosts reef sharks, groupers, schooling barracuda, sea snakes, ribbon eels, and diverse reef fish populations. The reef structure provides habitat for nudibranchs, lionfish, moray eels, and other reef-associated invertebrates.
+Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 22 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

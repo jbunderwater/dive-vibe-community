@@ -13,17 +13,17 @@ addedBy: osm_import
 
 ## Pinnacles Sodwana
 
-Pinnacles is a distinctive rock formation dive site in Sodwana Bay, KwaZulu-Natal, featuring dramatic underwater pinnacles rising from the seafloor. The site consists of large rock formations with numerous gullies, boulders, and sand patches creating scenic topography suited to intermediate divers.
+Pinnacles Sodwana is a pinnacle dive site in South Africa, Africa.
 
 ## Overview
 
-Pinnacles are characterized by rock formations with one main pinnacle rising only 6 meters from the surface, making this an exceptionally shallow and accessible dive site. The varied topography with gullies and boulders supports exceptional coral growth and marine life. Warm Indian Ocean waters (22-26°C) and shallow depths combine to create ideal conditions for macro photography and leisurely reef exploration.
+Pinnacles Sodwana is a dive site in South Africa offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
 
 ## Site Information
 
 - **Location**: South Africa, Africa
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle/seamount
+- **Site Type**: Pinnacle
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)
@@ -32,11 +32,11 @@ Pinnacles are characterized by rock formations with one main pinnacle rising onl
 
 ## Marine Life
 
-Pinnacles is a hub for Zebra sea bream, with this species frequently encountered throughout the reef structure. Hard and soft coral coverage is vibrant, including fleshy soft coral, clustered finger coral, colorful thistle coral, whip coral, and anemones. The elusive Paperfish can occasionally be spotted along sandy margins. Diverse reef fish assemblages and macro invertebrates are abundant.
+Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

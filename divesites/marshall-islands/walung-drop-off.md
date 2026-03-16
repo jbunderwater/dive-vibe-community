@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Walung Drop Off
 
-Walung Drop Off is a dramatic wall dive on the edge of Majuro Atoll where depths descend rapidly from shallow coral formations into the deep blue. This advanced-level site requires wall diving experience and is known for excellent visibility and encounters with large pelagic fish and sharks, making it a premier destination for experienced reef wall divers.
+Walung Drop Off is a wall dive site in Marshall Islands, Pacific.
 
 ## Overview
 
-Walung Drop Off is a dramatic wall dive on the atoll edge where the reef structure drops steeply into deep water. Visibility typically exceeds 30 meters, with water temperatures consistent at 27-30°C year-round. The deep wall and strong currents attract pelagic fish and sharks, creating dynamic diving conditions that require advanced wall diving skills and experience with large animal encounters.
+Walung Drop Off is a dive site in Marshall Islands featuring a dramatic vertical wall that drops into the deep blue. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
@@ -61,7 +61,7 @@ Wall dives offer stunning wide-angle opportunities with dramatic depth perspecti
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

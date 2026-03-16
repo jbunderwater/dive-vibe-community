@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Bahura
 
-Bahura is a shallow reef dive featuring a large fish population and sea turtles, popular among divers with higher than entry-level diving experience.
+Bahura is a reef dive site in Philippines Anilao, Asia.
 
 ## Overview
 
-Bahura is a shallow reef at mid-ocean with depths around 5-16 meters. The site offers crystal clear visibility on good water conditions and an enormous number of fish underwater. Sea turtles and small reef sharks have been sighted here. A nearby variation called Bahura Kanto features big boulders of rocks with a steep drop-off to 30 meters on the east side. This is a favorite for experienced divers seeking diverse pelagic species and reef structures.
+Bahura is a dive site in Philippines Anilao offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Mid-ocean from Anilao
+- **Location**: Philippines Anilao, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
@@ -32,11 +32,11 @@ Bahura is a shallow reef at mid-ocean with depths around 5-16 meters. The site o
 
 ## Marine Life
 
-Bahura is noted for an enormous number of fish species underwater. Sea turtles and small reef sharks are commonly encountered. As part of Anilao's famous macro diving reputation, the site also supports nudibranchs and small critter species. The reef structure supports diverse fish populations in crystal clear water.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 16 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-16 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -44,13 +44,11 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Popular among experienced divers — not beginner-recommended despite shallow depths
 - Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — excellent opportunities for reef and fish photography
-- Crystal clear visibility makes this ideal for photography on good days
+- Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
 - Respect marine life and maintain proper buoyancy to protect the reef
-- Nearby Bahura Kanto offers deeper diving with pelagic species if interested
+- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
@@ -62,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

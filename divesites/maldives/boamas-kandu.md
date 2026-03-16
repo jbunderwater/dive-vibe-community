@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Boamas Kandu
 
-Boamas Kandu is a reef dive site in Maldives, Asia.
+Boamas Kandu is a drift dive site in Maldives, Asia.
 
 ## Overview
 
@@ -23,7 +23,7 @@ Boamas Kandu is a dive site in Maldives offering rewarding diving on healthy cor
 
 - **Location**: Maldives, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Drift dive
+- **Site Type**: Drift
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
@@ -60,8 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Website**: http://www.dive-links.com/tauchplatz.php?id=2133
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*

@@ -13,22 +13,22 @@ addedBy: osm_import
 
 ## Frederiksted Pier
 
-Frederiksted Pier is world-renowned as one of the top macro-diving destinations in the Caribbean, featuring the Ann E. Abramson Marine Facility's deep-water cruise ship pier.
+Frederiksted Pier is a reef dive site in US Virgin Islands, Caribbean.
 
 ## Overview
 
-This exceptional macro-diving site features pilings covered in vibrant soft corals and sponges in rainbow colors, creating habitat for an incredible diversity of small creatures. The 1,526-foot pier sits in shallow water (most diving at 7.5 meters) with virtually no current and easy entry-exit, making it ideal for photographers. Day dives showcase colorful reef fish, octopi, seahorses, squid, hermit crabs, pufferfish, frogfish, and massive bait balls, while night dives reveal hunting octopi, giant tarpon, and lobsters feeding on the sand floor.
+Frederiksted Pier is a dive site in US Virgin Islands offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Frederiksted, St. Croix, US Virgin Islands, Caribbean
+- **Location**: US Virgin Islands, Caribbean
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 8 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Minimal
-- **Best Time**: Year-round (daytime and night dives possible)
+- **Current**: Light to moderate
+- **Best Time**: December to April (dry season)
 
 ## Marine Life
 
@@ -36,11 +36,11 @@ Divers at this site can expect to encounter sea turtles (green, hawksbill), sout
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 8 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-8 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
-The entry is exceptionally easy: steps into the water are located just 50 feet from the front door of the dive shop. Descend directly under the pier to explore the pilings. Note: diving under the pier is not allowed when a cruise ship is in port—check local conditions before diving. Exit is equally straightforward via the same steps.
+Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
 
 ## Tips and Recommendations
 
@@ -59,7 +59,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
