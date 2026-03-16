@@ -1,9 +1,9 @@
 ---
 name: Majahuitas
-lat: 20.4367
-lng: -105.365
+lat: 20.505
+lng: -105.34
 difficulty: Intermediate
-maxDepth: 18
+maxDepth: 33
 entryType: boat
 siteType: reef
 ref: null
@@ -11,56 +11,44 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Majahuitas
+# Majahuitas
 
-Majahuitas is a reef dive site in Puerto Vallarta, Central America.
+Remote cove with rocky reef and sandy flats — home to a large garden eel colony, sea turtles, eagle rays, and some of the best nudibranch hunting in southern Banderas Bay
 
 ## Overview
 
-Majahuitas is a dive site in Puerto Vallarta offering rewarding diving on healthy coral reef structures. Located in the Central America region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Majahuitas is an isolated cove on the south shore of Banderas Bay, about 45 minutes by boat from Puerto Vallarta, with no road access and no permanent settlement. The remoteness translates directly into calm diving conditions and less disturbance to resident marine life. The site consistently offers visibility in the 10-25 meter range with mild currents that make it one of the better options in the bay for macro photography.
+
+Underwater, Majahuitas features a mix of rocky reef, coral formations, and sandy channels with a bottom composition of rock, coral, and sand. Depths range from around 8 to 33 meters across the full site, with the most productive diving occurring in the 8-20 meter zone. The sandy sections host one of the site's signature features: dense colonies of garden eels rising from the seafloor, covering larger areas than you might expect. The mild surge typical of the cove allows nudibranchs to hold position and makes close-focus photography more manageable than at current-swept sites.
 
 ## Site Information
 
-- **Location**: Puerto Vallarta, Central America
+- **Location**: South shore of Banderas Bay, 45 minutes from Puerto Vallarta
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Maximum Depth**: 33 meters
+- **Typical Visibility**: 10-25 meters
+- **Water Temperature**: 24-30°C (summer); 24-27°C (winter)
+- **Current**: Mild, with mild surge
+- **Best Time**: May to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Garden eels are the signature species at Majahuitas, emerging from sandy bottom sections in dense colonies. Sea turtles are regular visitors — hawksbill and olive ridley turtles have been documented at the site — and tend to be unhurried and approachable. Eagle rays patrol the edges of the reef and deeper sandy sections. Manta rays appear occasionally. Reef fish include parrotfish, cornets (trumpetfish), pufferfish, angelfish, and damselfish in good numbers. Seahorses are found in the sheltered areas among the rocks. Octopus, sea urchins, and nudibranchs reward careful searching along the rocky sections. Fish nursery zones in the shallows provide views of juvenile species. The sandy channels host stingrays and electric rays as well.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Most dives at Majahuitas run 8-20 meters. The shallower reef sections between 8-15 meters are ideal for beginners and tropical fish observation, while deeper exploration toward 30 meters accesses the garden eel zones and the sandy channels between rock formations. The mild current and relatively flat topography make this a comfortable dive for Open Water certified divers, though the depth range gives more experienced divers room to extend their exploration.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by dive boat from Puerto Vallarta, approximately 45 minutes each way. Entry is giant stride from the boat; exits are back to the boat. Conditions inside the cove are typically calm even when moderate chop affects the open bay.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+- Approach sandy sections slowly from a distance to locate garden eel colonies without spooking them back into their burrows
+- The mild surge makes Majahuitas one of the better sites in the bay for nudibranch macro photography
+- Sea turtles here are accustomed to divers but give them space, especially when they surface to breathe
+- Scan the rock faces carefully for seahorses — they blend with algae and require patience to find
+- Morning light in the cove illuminates the shallows well for natural-light photography

@@ -224,17 +224,17 @@
     "slug": "puerto-vallarta",
     "region": "Central America",
     "center": [
-      20.62,
-      -105.23
+      20.6,
+      -105.45
     ],
     "bounds": [
       [
         20.4,
-        -105.7
+        -105.8
       ],
       [
         20.85,
-        -105.0
+        -105.2
       ]
     ],
     "description": "Pacific Mexico diving featuring the iconic Los Arcos marine park, granite pinnacles, seasonal humpback whales, and giant manta rays in Banderas Bay.",

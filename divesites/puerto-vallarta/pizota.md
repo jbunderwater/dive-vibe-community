@@ -1,31 +1,31 @@
 ---
-name: El Bajo de Corbeteña
-lat: 20.73
-lng: -105.72
+name: Pizota
+lat: 20.456
+lng: -105.425
 difficulty: Advanced
-maxDepth: 30
+maxDepth: 40
 entryType: boat
-siteType: pinnacle
+siteType: reef
 ref: null
 osmId: null
 addedBy: osm_import
 ---
 
-## El Bajo de Corbeteña
+## Pizota
 
-El Bajo de Corbeteña is a pinnacle dive site in Puerto Vallarta, Central America.
+Pizota is a reef dive site in Puerto Vallarta, Central America.
 
 ## Overview
 
-El Bajo de Corbeteña is a dive site in Puerto Vallarta offering rewarding diving on healthy coral reef structures. Located in the Central America region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Pizota is a dive site in Puerto Vallarta offering rewarding diving on healthy coral reef structures. Located in the Central America region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
 - **Location**: Puerto Vallarta, Central America
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle/seamount
+- **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)
 - **Current**: Moderate to strong
 - **Best Time**: April to November
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter manta rays, reef sharks (grey, white
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 40 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 

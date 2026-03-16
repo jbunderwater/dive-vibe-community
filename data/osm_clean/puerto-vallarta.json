@@ -1,12 +1,12 @@
 [
   {
     "name": "Los Arcos Marine Park",
-    "lat": 20.5333,
-    "lon": -105.2917,
-    "depth": 18,
-    "site_type": "pinnacle",
+    "lat": 20.545,
+    "lon": -105.293,
+    "depth": 13,
+    "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
@@ -15,11 +15,71 @@
     }
   },
   {
-    "name": "El Morro",
-    "lat": 20.5267,
-    "lon": -105.2983,
-    "depth": 24,
+    "name": "Los Arcos - El Bajo del Cristo",
+    "lat": 20.545,
+    "lon": -105.294,
+    "depth": 26,
     "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "scubaboard.com, padi.com, banderas-scuba.com"
+    }
+  },
+  {
+    "name": "Los Arcos - El Cañón",
+    "lat": 20.544,
+    "lon": -105.296,
+    "depth": 37,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "scubaboard.com, padi.com, banderas-scuba.com"
+    }
+  },
+  {
+    "name": "Princesa Vallarta Wreck",
+    "lat": 20.548,
+    "lon": -105.274,
+    "depth": 38,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "scubaboard.com, banderas-scuba.com"
+    }
+  },
+  {
+    "name": "Mismaloya",
+    "lat": 20.535,
+    "lon": -105.274,
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": "both",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "scubaboard.com, padi.com, banderas-scuba.com"
+    }
+  },
+  {
+    "name": "Colomitos",
+    "lat": 20.527,
+    "lon": -105.282,
+    "depth": 37,
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
@@ -31,9 +91,9 @@
   },
   {
     "name": "Las Caletas",
-    "lat": 20.4533,
-    "lon": -105.3517,
-    "depth": 15,
+    "lat": 20.514,
+    "lon": -105.311,
+    "depth": 12,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
@@ -46,9 +106,9 @@
   },
   {
     "name": "Majahuitas",
-    "lat": 20.4367,
-    "lon": -105.365,
-    "depth": 18,
+    "lat": 20.505,
+    "lon": -105.34,
+    "depth": 33,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -61,9 +121,9 @@
   },
   {
     "name": "Quimixto",
-    "lat": 20.4183,
-    "lon": -105.38,
-    "depth": 20,
+    "lat": 20.515,
+    "lon": -105.327,
+    "depth": 24,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -75,28 +135,13 @@
     }
   },
   {
-    "name": "Chimo Reef",
-    "lat": 20.62,
-    "lon": -105.3333,
-    "depth": 12,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Beginner",
-    "tags": {
-      "source": "curated",
-      "addedBy": "gap_fill",
-      "validated": "true",
-      "validation_source": "scubaboard.com, pv-scuba.com"
-    }
-  },
-  {
-    "name": "Colomitos",
+    "name": "El Chimo",
     "lat": 20.47,
-    "lon": -105.34,
-    "depth": 15,
+    "lon": -105.39,
+    "depth": 37,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
@@ -106,8 +151,8 @@
   },
   {
     "name": "Las Gemelas",
-    "lat": 20.53,
-    "lon": -105.295,
+    "lat": 20.548,
+    "lon": -105.274,
     "depth": 20,
     "site_type": "pinnacle",
     "entry_type": "boat",
@@ -120,10 +165,55 @@
     }
   },
   {
+    "name": "Las Marietas Islands",
+    "lat": 20.7,
+    "lon": -105.568,
+    "depth": 35,
+    "site_type": "cave",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "scubaboard.com, padi.com, divezone.net, unesco.org"
+    }
+  },
+  {
+    "name": "Los Anegados",
+    "lat": 20.7,
+    "lon": -105.615,
+    "depth": 25,
+    "site_type": "cave",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "scubaboard.com, banderas-scuba.com"
+    }
+  },
+  {
+    "name": "El Morro",
+    "lat": 20.67,
+    "lon": -105.651,
+    "depth": 46,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "padi.com, scubaboard.com, banderas-scuba.com"
+    }
+  },
+  {
     "name": "El Bajo de Corbeteña",
-    "lat": 20.6667,
-    "lon": -105.75,
-    "depth": 40,
+    "lat": 20.73,
+    "lon": -105.72,
+    "depth": 30,
     "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -135,26 +225,11 @@
     }
   },
   {
-    "name": "Las Marietas Islands",
-    "lat": 20.6983,
-    "lon": -105.5717,
-    "depth": 25,
-    "site_type": "wall",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "source": "curated",
-      "addedBy": "gap_fill",
-      "validated": "true",
-      "validation_source": "scubaboard.com, padi.com, divezone.net"
-    }
-  },
-  {
-    "name": "El Morro de Las Marietas",
-    "lat": 20.7,
-    "lon": -105.565,
-    "depth": 30,
-    "site_type": "wall",
+    "name": "El Sequial",
+    "lat": 20.748,
+    "lon": -105.733,
+    "depth": 27,
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
@@ -165,11 +240,71 @@
     }
   },
   {
-    "name": "El Bajo",
-    "lat": 20.58,
-    "lon": -105.45,
+    "name": "El Malinal",
+    "lat": 20.762,
+    "lon": -105.534,
     "depth": 30,
     "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "scubaboard.com, banderas-scuba.com"
+    }
+  },
+  {
+    "name": "La Puntilla",
+    "lat": 20.76,
+    "lon": -105.512,
+    "depth": 22,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "scubaboard.com, banderas-scuba.com"
+    }
+  },
+  {
+    "name": "Love Rocks",
+    "lat": 20.758,
+    "lon": -105.509,
+    "depth": 10,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "scubaboard.com, banderas-scuba.com"
+    }
+  },
+  {
+    "name": "Las Viudas",
+    "lat": 20.745,
+    "lon": -105.455,
+    "depth": 20,
+    "site_type": "muck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "scubaboard.com, banderas-scuba.com"
+    }
+  },
+  {
+    "name": "Pizota",
+    "lat": 20.456,
+    "lon": -105.425,
+    "depth": 40,
+    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {

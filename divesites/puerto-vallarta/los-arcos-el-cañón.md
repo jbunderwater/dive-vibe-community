@@ -1,8 +1,8 @@
 ---
-name: Colomitos
-lat: 20.527
-lng: -105.282
-difficulty: Intermediate
+name: Los Arcos - El Cañón
+lat: 20.544
+lng: -105.296
+difficulty: Advanced
 maxDepth: 37
 entryType: boat
 siteType: wall
@@ -11,20 +11,20 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Colomitos
+## Los Arcos - El Cañón
 
-Colomitos is a wall dive site in Puerto Vallarta, Central America.
+Los Arcos - El Cañón is a wall dive site in Puerto Vallarta, Central America.
 
 ## Overview
 
-Colomitos is a dive site in Puerto Vallarta featuring a dramatic vertical wall that drops into the deep blue. Located in the Central America region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Los Arcos - El Cañón is a dive site in Puerto Vallarta featuring a dramatic vertical wall that drops into the deep blue. Located in the Central America region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
 - **Location**: Puerto Vallarta, Central America
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 37 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)
 - **Current**: Moderate to strong
@@ -53,7 +53,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 

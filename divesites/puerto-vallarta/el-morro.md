@@ -1,9 +1,9 @@
 ---
 name: El Morro
-lat: 20.5267
-lng: -105.2983
-difficulty: Intermediate
-maxDepth: 24
+lat: 20.67
+lng: -105.651
+difficulty: Advanced
+maxDepth: 46
 entryType: boat
 siteType: pinnacle
 ref: null
@@ -11,56 +11,44 @@ osmId: null
 addedBy: osm_import
 ---
 
-## El Morro
+# El Morro
 
-El Morro is a pinnacle dive site in Puerto Vallarta, Central America.
+Large rocky pinnacle near Las Marietas with wall sections, a navigable rock tunnel, sea fans, and reliable eagle ray and manta ray sightings in current-swept water
 
 ## Overview
 
-El Morro is a dive site in Puerto Vallarta offering rewarding diving on healthy coral reef structures. Located in the Central America region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+El Morro is a substantial rocky pinnacle located in the northern part of Banderas Bay, roughly 90 minutes by boat from Puerto Vallarta near the Las Marietas Islands. Where Los Arcos and the southern bay sites draw crowds for their arches and shallow macro life, El Morro attracts more experienced divers for its wall diving, stronger current exposure, and consistent pelagic activity.
+
+The site's most distinctive feature is a rock cavern containing a roughly 15-meter tunnel that passes completely through the formation at around 21-27 meters depth. The tunnel is wide enough to navigate comfortably but dark enough to warrant a torch. Outside the cavern, the rock walls are draped with sea fans and decorated with colorful nudibranchs, shrimp, and octopus in crevices. The deeper sections offer genuine wall diving on near-vertical faces. El Morro sits exposed to open-ocean swells and currents, which keeps the water clear and the pelagic life more active than at the more sheltered inshore sites.
 
 ## Site Information
 
-- **Location**: Puerto Vallarta, Central America
+- **Location**: Northern Banderas Bay, near Las Marietas Islands
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle/seamount
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 24 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
+- **Site Type**: Pinnacle with wall sections and tunnel
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 46 meters
+- **Typical Visibility**: 12-36 meters
+- **Water Temperature**: 19-28°C (66-82°F)
 - **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Best Time**: May to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Eagle rays are a reliable sighting at El Morro, frequently seen along the base of the rock faces and in the open water adjacent to the walls. Manta rays pass through the site, drawn by the current-rich water. The tunnel and cavern walls host nudibranchs, cleaning shrimp, and octopus in the crevices. Sea fans of various sizes grow on the exposed walls where current delivers nutrients. Moray eels occupy rock openings throughout the site. Schools of snapper and jack work the current lines above the formation. Sea turtles are regularly seen resting on deeper ledges.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 24 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Dives at El Morro typically range from 9 to 40+ meters. Most divers begin by exploring the shallower sections of the formation before dropping to the tunnel at depth. The 15-meter rock tunnel is the dive's centerpiece — enter from one face, navigate through with a light, and exit on the other side. Current can be pronounced around the exposed sections, so maintain awareness of position relative to the rock. Plan your dive to complete the deeper exploration first and use the shallower sections for your safety stop. Advanced certification or extensive deep dive experience is strongly recommended given the depth and current potential.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by dive boat, approximately 90 minutes from the Puerto Vallarta marina. Giant stride entry from the boat; ascend with an SMB deployed at depth given the potential for current drift and exposure in open water.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+- A dive torch is essential for the rock tunnel — the passage is dark and the walls reveal far more detail with artificial light
+- Eagle rays tend to appear along the deeper base of the formation; spend time at depth before working shallower
+- Currents at El Morro are notably stronger than at the southern bay sites; check conditions with the operator before diving
+- Good buoyancy control is needed around the cavern entrance to avoid disturbing the walls
+- Best combined with Las Marietas Islands on a full-day northern bay trip

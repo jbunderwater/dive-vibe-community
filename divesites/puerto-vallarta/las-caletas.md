@@ -1,9 +1,9 @@
 ---
 name: Las Caletas
-lat: 20.4533
-lng: -105.3517
+lat: 20.514
+lng: -105.311
 difficulty: Beginner
-maxDepth: 15
+maxDepth: 12
 entryType: boat
 siteType: reef
 ref: null
@@ -11,57 +11,44 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Las Caletas
+# Las Caletas
 
-Las Caletas is a reef dive site in Puerto Vallarta, Central America.
+Sheltered south-facing cove accessible only by boat — one of Puerto Vallarta's most beginner-friendly dive sites, with calm conditions, good visibility, garden eels, and sea turtles
 
 ## Overview
 
-Las Caletas is a dive site in Puerto Vallarta offering excellent diving on healthy coral reef structures. Located in the Central America region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Las Caletas is a secluded, south-facing cove tucked into the coastline south of Puerto Vallarta, accessible only by boat. The cove's orientation provides natural protection from the swells and chop that affect more exposed sites in Banderas Bay, making it one of the most consistently diveable locations in the region regardless of surface conditions elsewhere.
+
+The site features a mix of reef structure and sandy bottom from shallow to mid-range depths. Its protected character makes it well-suited for new divers working through certification dives or visitors doing a Discover Scuba experience. Two sunken shipwrecks within the cove add a secondary objective for certified divers. Las Caletas is also home to a private beach club, and operators frequently combine diving here with surface activities and a beach visit.
 
 ## Site Information
 
-- **Location**: Puerto Vallarta, Central America
+- **Location**: South of Puerto Vallarta; boat access only
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Maximum Depth**: 12 meters (typical); site extends to ~30 meters
+- **Typical Visibility**: 15-18 meters
+- **Water Temperature**: 18-31°C (65-88°F) seasonal variation
+- **Current**: Gentle; well-protected cove
+- **Best Time**: Year-round; most consistent conditions May to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Garden eels rising from sandy patches are a reliable and memorable sighting at Las Caletas. Sea turtles visit regularly and tend to be relaxed around divers given the low disturbance inside the protected cove. Eagle rays are occasionally seen. Reef fish include pufferfish, angelfish, damselfish, cornets, and parrotfish across the reef sections. Jawfish peek from burrows on the sand flats. Manta rays have been reported at the site. The calm, low-disturbance conditions support healthy invertebrate communities on the rocky reef sections.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Depths range from around 8 to 30 meters across the full cove, but most diving occurs in the 5-12 meter range where conditions are calmest and fish life is most abundant. Certified divers can access deeper sections and explore the wrecks. The gentle current and clear sight lines make navigation straightforward. Introductory dives are typically limited to 12 meters with direct supervision. The shallow reef sections provide long bottom times.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is entirely by boat; Las Caletas has no road access. The boat ride from Puerto Vallarta takes approximately 45 minutes. Entry and exit are from the dive boat or the beach club dock, depending on the operator. Shore entry from the cove's beach is possible for operators based at the beach club.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+- One of the best choices for first-time divers or certification dives — consistent calm conditions make it reliable
+- Bring a macro lens: garden eels and jawfish reward patient, close-up photography
+- The wrecks in the cove give certified divers an additional objective beyond the reef
+- Combine with a beach break at the private beach club for a full day trip
+- Morning departures offer the best light and clearest water before afternoon boat traffic

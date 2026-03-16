@@ -1,7 +1,7 @@
 ---
 name: Las Gemelas
-lat: 20.53
-lng: -105.295
+lat: 20.548
+lng: -105.274
 difficulty: Intermediate
 maxDepth: 20
 entryType: boat
