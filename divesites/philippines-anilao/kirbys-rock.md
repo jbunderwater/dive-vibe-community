@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Kirby's Rock
 
-Kirby's Rock is a reef dive site in Philippines Anilao, Asia.
+Kirby's Rock is a spectacular wall dive located northwest of Tingloy Island in the middle of the Verde Passage, part of the Maricaban Island system.
 
 ## Overview
 
-Kirby's Rock is a dive site in Philippines Anilao offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Kirby's Rock features a spectacular vertical wall adorned with corals and sponges, with depths ranging from 12 to 35 meters. The site is known for great visibility, a beautiful wall filled with life, and a surprising number of macro subjects. This is a shallow little wall with a fantastic array of small critters to keep divers entertained throughout the dive. Strong currents can attract larger pelagic species, making it exciting for advanced divers.
 
 ## Site Information
 
-- **Location**: Philippines Anilao, Asia
+- **Location**: Northwest of Tingloy Island, Verde Passage, Maricaban
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
@@ -32,11 +32,11 @@ Kirby's Rock is a dive site in Philippines Anilao offering rewarding diving on h
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Kirby's Rock is known for large pelagic species like jacks and barracudas due to strong currents. However, the site is equally renowned for its abundance of macro subjects including nudibranchs, small crustaceans, and unusual critters typical of Anilao's macro diving reputation. The wall's vertical structure provides microhabitats supporting diverse species at varying depths.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin in the shallow sections near the reef top and descend along the wall to around 20 meters. Watch your depth carefully as wall dives can lead to unintentional deeper descents. Most of the interesting features and macro subjects are found between 10-20 meters. Maintain good buoyancy control and monitor your depth gauge regularly. Look in crevices and overhangs for hidden macro subjects.
 
 ## Entry and Exit
 
@@ -44,11 +44,13 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
+- Watch your depth carefully — wall dives can lead to unintentional deep descents
+- Look in crevices and overhangs for hidden macro subjects
 - Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
+- Bring a macro lens — excellent opportunities for small critter photography
 - Check local weather and sea conditions before diving
 - Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Best diving: mid-November to mid-April for calm surface conditions and 15-20m visibility
 
 ## Safety Considerations
 

@@ -3,7 +3,7 @@ name: Java Reef
 lat: 7.8360137
 lng: 118.5626615
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 22
 entryType: boat
 siteType: reef
 ref: null
@@ -25,7 +25,7 @@ Java Reef is a dive site in Philippines Palawan offering rewarding diving on hea
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 22 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)

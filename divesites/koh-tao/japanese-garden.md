@@ -4,7 +4,7 @@ lat: 10.1188103
 lng: 99.8145504
 difficulty: Beginner
 maxDepth: 14
-entryType: shore
+entryType: boat
 siteType: reef
 ref: null
 osmId: 859428779
@@ -13,16 +13,16 @@ addedBy: osm_import
 
 ## Japanese Garden
 
-Japanese Garden is a reef dive site in Koh Tao, Asia.
+Japanese Garden is one of Koh Tao's most popular beginner reef dive sites, known for its abundance of colorful corals and vibrant marine life. This site is perfect for training dives and newer divers seeking to build confidence in a sheltered environment.
 
 ## Overview
 
-Japanese Garden is a dive site in Koh Tao offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Japanese Garden is a shallow coral reef site offering excellent conditions for skill development and marine life observation. The site features healthy hard and soft corals with abundant fish life in crystal-clear waters typical of Koh Tao. Visibility ranges from 10-40 meters with water temperatures averaging 26-30°C year-round.
 
 ## Site Information
 
 - **Location**: Koh Tao, Asia
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 14 meters

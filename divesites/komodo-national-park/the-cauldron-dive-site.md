@@ -13,54 +13,57 @@ addedBy: osm_import
 
 ## The Cauldron Dive Site
 
-The Cauldron Dive Site is a drift dive site in Komodo National Park, Asia.
+Technical drift dive through narrow channels and caves with accelerating current—expert only.
 
 ## Overview
 
-The Cauldron Dive Site is a dive site in Komodo National Park offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The Cauldron (also called "The Shotgun") is one of Komodo's most challenging dives. Located on a small rocky island, the site is a series of coral-covered rocks, caves, and narrow channels forming a whirlpool-like eddy when current flows at the right phase. Divers enter in a coral garden during slack or beginning tidal flow, then ride the accelerating current through the narrow passages until reaching maximum speed at "the shotgun"—a final accelerating point where the current peaks. The dive is tidal-dependent and only diveable on falling tides. This is purely an advanced/expert site requiring perfect buoyancy control, comfort with current, and cave diving awareness. Not suitable for most divers.
 
 ## Site Information
 
-- **Location**: Komodo National Park, Asia
+- **Location**: Central Komodo, small rocky island
 - **Entry Type**: Boat dive
 - **Site Type**: Drift dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 22 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15–25 meters (50–80 feet)
+- **Current**: Slack to extremely strong; tidal-driven and site-critical
+- **Best Time**: May to October; diveable only on favorable falling tide days
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Coral gardens at the site entrance host reef fish and small invertebrates. As current picks up, larger pelagic fish (jacks, trevally, barracuda) may be present. The cave passages shelter colorful soft corals, sea fans, and small reef fish.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Divers descend into a coral garden (initial depth 10–15 meters) and follow the underwater topography through narrow passages and around rock formations. As the tidal current begins flowing, the divers start drifting faster through progressively narrower passages. The dive culminates at "the shotgun"—a final acceleration point—where current may reach 3–4 knots or more. Buoyancy control is absolutely critical; any mistake results in collision with rocks or loss of control. Most divers ride the current passively with perfect weighting and streamlined position.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Giant stride entry into the coral garden. The drift naturally completes the dive—you exit in fast current via SMB deployment far from the site. Timing and coordination with the dive boat are critical.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Only attempt with experienced Komodo guides
+- Perfect buoyancy control is non-negotiable
+- Use a dive computer to manage depth in the current
+- Maintain streamlined equipment and positioning
+- Do not fight the current; ride it
+- Consider this a bucket-list goal dive, not a casual experience
+- Expect adrenaline rush and genuine risk
+- Practice neutral buoyancy thoroughly first
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+This is a technical current dive with hazards (rocks, caves, high-speed flow). Strong current can cause loss of orientation and buoyancy problems. The narrow passages leave no room for error. Hypothermia is unlikely, but panic is a real risk in unprepared divers. Absolutely require experienced guide and proper pre-dive briefing. Have clear abort signals with your guide. Many Komodo operators do NOT offer this dive due to liability.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Difficult to impossible during the dive due to speed and need for buoyancy control. Some operators document the dive with go-pro style video. Not a dive for photography.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
 *This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*

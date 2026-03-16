@@ -3,8 +3,8 @@ name: Wall Street
 lat: 8.8583
 lng: 119.875
 difficulty: Advanced
-maxDepth: 35
-entryType: boat
+maxDepth: 40
+entryType: liveaboard
 siteType: wall
 ref: null
 osmId: null
@@ -13,55 +13,56 @@ addedBy: osm_import
 
 ## Wall Street
 
-Wall Street is a wall dive site in Philippines Tubbataha Reefs, Asia.
+A sheer wall dive plunging deep into the blue with a colorful coral garden on the reef top. Named for its dramatic deep drop-off and known for large pelagic encounters including whale sharks and Napoleon wrasse.
 
 ## Overview
 
-Wall Street is a dive site in Philippines Tubbataha Reefs featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Wall Street is a signature Tubbataha wall dive featuring a dramatic vertical drop into the Sulu Sea. The site combines shallow coral gardens (3-5 meters) with impressive wall structure and pelagic encounters at depth. The wall is a true blue water dive offering excellent opportunities to see large predators and schooling fish in their natural environment. The sheer vertical nature and depth make this suitable for Advanced divers with strong buoyancy control.
 
 ## Site Information
 
-- **Location**: Philippines Tubbataha Reefs, Asia
-- **Entry Type**: Boat dive
+- **Location**: North Atoll, Philippines Tubbataha Reefs
+- **Entry Type**: liveaboard
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 35 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 40 meters
+- **Typical Visibility**: 30-45 meters
+- **Current**: Can be strong and variable
+- **Best Time**: March 16 - June 15
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Wall Street is known for large pelagic encounters including Napoleon wrasse, blacksaddle coral groupers, whale sharks, and various shark species. The reef top supports healthy coral gardens with anemones, clownfish, and schooling fusiliers. The blue water beyond the wall attracts jacks, trevally, barracuda, and open-water predators. Macro subjects include nudibranchs and small crustaceans in the coral garden.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-35 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Begin your descent to the reef top at 3-5 meters where colorful coral gardens provide an excellent entry point. Spend time exploring the shallow section before starting your wall descent. Position yourself on or near the wall and descend gradually along the vertical structure, observing life at various depths. Most divers stay between 15-35 meters, with experienced divers exploring to 40 meters. The wall continues deeper to 50-60 meters, but depths beyond 40 meters should only be attempted by very experienced technical divers. Plan for a generous safety stop at 5 meters given the depth exposure.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by liveaboard tender. Entry is via giant stride or back roll. Descend to the reef top using natural guides or a descent line. Plan to follow the wall down, using it as your primary reference. Ascend gradually along the wall, performing your safety stop at 5 meters. Signal the boat with an SMB for pickup.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Advanced buoyancy control is essential - practice on shallower dives first
+- Use the wall as your primary navigation and depth reference
+- Watch for pelagic encounters in the blue water beyond the wall
+- Bring a wide-angle lens for capturing the wall scale and large fish
+- This is an excellent site for practicing advanced wall diving technique
+- Consider this an ideal site if you want to experience true blue water diving
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Wall Street is appropriately rated Advanced due to depth exposure and the ease of drifting deeper than intended along the open wall. Strong currents are possible - be prepared to move shallower or abort if conditions deteriorate. Maintain excellent buoyancy control to prevent rapid, unintended depth changes. Nitrogen narcosis may be felt at 30-40 meters - monitor your mental clarity and stay within your training limits.
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+The wall provides stunning depth perspectives and composition opportunities. Shoot wide-angle from 20-30 meters to capture the full wall drama and pelagic encounters. The shallow coral garden (5-8 meters) offers excellent macro opportunities during ascents.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
+- **Validation Source**: dive-the-world.com, divebooker.com
 
 ---
 *This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*

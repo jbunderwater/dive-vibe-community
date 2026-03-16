@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Sebayur dive site
 
-Sebayur dive site is a reef dive site in Komodo National Park, Asia.
+Gentle sloping reef introduction to Komodo diving with cleaner shrimp and small critters.
 
 ## Overview
 
-Sebayur dive site is a dive site in Komodo National Park offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Sebayur is an excellent introductory and confidence-building site in Komodo, featuring a gentle sloping reef and ridge where beginners can acclimate to diving conditions. The site is characterized by a sandy slope descending gently, coral blocks scattered throughout, and abundant small invertebrates. This is a perfect warm-up dive before tackling more challenging Komodo sites or simply a pleasant drift for those seeking relaxation rather than adrenaline.
 
 ## Site Information
 
-- **Location**: Komodo National Park, Asia
+- **Location**: Eastern Komodo, Sebayur Island
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15–25 meters (50–80 feet)
+- **Current**: Mild
+- **Best Time**: Year-round; consistently gentle
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Cleaner shrimp at reef blocks, bubble coral shrimps, anemones with porcelain crabs, jawfish in sand, parrotfish, wrasses, small groupers, and garden eels. Good for macro photography and small creature watching.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the slope (5–15 meters) and work the coral blocks and sand areas. Move slowly to maximize critter spotting. Scout crevices and overhangs for hidden invertebrates. A leisurely pace rewards careful observation.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat drop. Giant stride entry. Descend to slope. Explore at relaxed pace. Exit via SMB.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Perfect as warm-up before challenging sites
+- Bring macro lens for small creatures
+- Slow, deliberate movement rewards patient divers
+- No current stress makes this excellent for confidence building
+- Great night dive site as well
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Mild conditions make this one of Komodo's safest dives. Focus on buoyancy control practice. Watch for lionfish and stonefish in crevices.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Excellent for macro work. Coral blocks and small creatures provide endless composition subjects. Good light and calm conditions make this forgiving for photography practice.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
 *This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*

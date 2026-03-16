@@ -5,7 +5,8 @@
     "lon": 124.1090875,
     "osm_id": 4003440589,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 12,
+    "minDepth": 3,
     "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -16,7 +17,7 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "dive_operator_research"
     }
   },
   {
@@ -25,17 +26,20 @@
     "lon": 124.1193512,
     "osm_id": 4557974264,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 22,
+    "minDepth": 5,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "description": "Dive Site",
       "name": "Ka-Osting / Bantigue",
       "natural": "reef",
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
-      "tourism": "yes"
+      "tourism": "yes",
+      "validated": "true",
+      "validation_source": "dive_operator_research"
     }
   },
   {
@@ -44,15 +48,18 @@
     "lon": 124.126316,
     "osm_id": 4557974267,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 13,
+    "minDepth": 5,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "description": "Dive Site",
       "name": "Evo House Reef",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "dive_operator_research"
     }
   },
   {
@@ -61,10 +68,11 @@
     "lon": 124.1203631,
     "osm_id": 4941391019,
     "osm_type": "node",
-    "depth": 24,
+    "depth": 25,
+    "minDepth": 5,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "description": "Dive Site",
       "name": "Deep Slope",
@@ -73,7 +81,9 @@
       "scuba_diving:divespot": "yes",
       "scuba_diving:type": "reef",
       "sport": "scuba_diving",
-      "tourism": "yes"
+      "tourism": "yes",
+      "validated": "true",
+      "validation_source": "dive_operator_research"
     }
   },
   {
@@ -82,16 +92,19 @@
     "lon": 124.1158957,
     "osm_id": 4941391020,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 30,
+    "minDepth": 12,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "description": "Dive Site",
       "name": "Secret Wall",
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "dive_operator_research"
     }
   },
   {
@@ -100,17 +113,20 @@
     "lon": 124.1260138,
     "osm_id": 4941392222,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 13,
+    "minDepth": 5,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "description": "Dive Site",
       "name": "Exotic House Reef",
       "natural": "reef",
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "dive_operator_research"
     }
   },
   {
@@ -119,8 +135,9 @@
     "lon": 124.1097625,
     "osm_id": 4941394885,
     "osm_type": "node",
-    "depth": 20,
-    "site_type": "reef",
+    "depth": 30,
+    "minDepth": 5,
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
@@ -129,7 +146,9 @@
       "natural": "reef",
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
-      "tourism": "yes"
+      "tourism": "yes",
+      "validated": "true",
+      "validation_source": "dive_operator_research"
     }
   },
   {
@@ -139,16 +158,19 @@
     "osm_id": 4941394886,
     "osm_type": "node",
     "depth": 20,
+    "minDepth": 5,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "description": "Dive Site",
       "name": "Los Bamboos",
       "natural": "reef",
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
-      "tourism": "yes"
+      "tourism": "yes",
+      "validated": "true",
+      "validation_source": "dive_operator_research"
     }
   },
   {
@@ -157,10 +179,11 @@
     "lon": 124.1056477,
     "osm_id": 4941394887,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 35,
+    "minDepth": 12,
     "site_type": "pinnacle",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "description": "Dive Site",
       "name": "North Point",
@@ -168,7 +191,7 @@
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "dive_operator_research"
     }
   },
   {
@@ -177,7 +200,8 @@
     "lon": 124.1024056,
     "osm_id": 4941394888,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 18,
+    "minDepth": 4,
     "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Beginner",
@@ -191,7 +215,7 @@
       "sport": "scuba_diving",
       "tourism": "yes",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "dive_operator_research"
     }
   },
   {
@@ -200,7 +224,8 @@
     "lon": 124.1023051,
     "osm_id": 4941394889,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 30,
+    "minDepth": 12,
     "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -214,7 +239,7 @@
       "sport": "scuba_diving",
       "tourism": "yes",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "dive_operator_research"
     }
   },
   {
@@ -224,6 +249,7 @@
     "osm_id": 4941394890,
     "osm_type": "node",
     "depth": 30,
+    "minDepth": 14,
     "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -238,7 +264,7 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "dive_operator_research"
     }
   },
   {
@@ -251,7 +277,7 @@
     "minDepth": 5,
     "site_type": "pinnacle",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Monad Shoal",
       "natural": "reef",
@@ -264,7 +290,7 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "dive_operator_research"
     }
   },
   {
@@ -273,7 +299,8 @@
     "lon": 124.1232727,
     "osm_id": 126419898,
     "osm_type": "way",
-    "depth": 20,
+    "depth": 30,
+    "minDepth": 12,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -282,7 +309,9 @@
       "leisure": "nature_reserve",
       "name": "Coral Garden Marine Protected Area",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "dive_operator_research"
     }
   },
   {
@@ -292,16 +321,19 @@
     "osm_id": 244531732,
     "osm_type": "way",
     "depth": 20,
+    "minDepth": 5,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "boundary": "protected_area",
       "fixme": "name",
       "leisure": "nature_reserve",
       "name": "Marine Protected Area",
       "sport": "scuba_diving",
-      "tourism": "yes"
+      "tourism": "yes",
+      "validated": "true",
+      "validation_source": "dive_operator_research"
     }
   },
   {
@@ -310,39 +342,17 @@
     "lon": 124.1079016,
     "osm_id": 244536817,
     "osm_type": "way",
-    "depth": 20,
+    "depth": 33,
+    "minDepth": 17,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "fixme": "location approximate",
       "name": "Japanese Ship Wreck",
-      "sport": "scuba_diving"
-    }
-  },
-  {
-    "name": "Monad Shoal",
-    "lat": 11.308907,
-    "lon": 124.1882461,
-    "osm_id": 485836542,
-    "osm_type": "way",
-    "depth": 50,
-    "minDepth": 5,
-    "site_type": "pinnacle",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "name": "Monad Shoal",
-      "natural": "reef",
-      "scuba_diving:depth": "30",
-      "scuba_diving:difficulty": "2",
-      "scuba_diving:entry": "boat",
-      "scuba_diving:maxdepth": "50",
-      "scuba_diving:mindepth": "5",
-      "scuba_diving:type": "shark;reef;rocks",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "dive_operator_research"
     }
   }
 ]

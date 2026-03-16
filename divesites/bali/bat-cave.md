@@ -3,7 +3,7 @@ name: Bat Cave
 lat: -8.093384
 lng: 114.5289757
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 20
 entryType: boat
 siteType: cave
 ref: null
@@ -25,7 +25,7 @@ Bat Cave is a dive site in Bali featuring underwater cave and cavern formations.
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)

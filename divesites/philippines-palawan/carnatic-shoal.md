@@ -3,7 +3,7 @@ name: Carnatic Shoal
 lat: 10.1074727
 lng: 117.3573603
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 17
 entryType: boat
 siteType: reef
 ref: null
@@ -25,7 +25,7 @@ Carnatic Shoal is a dive site in Philippines Palawan offering rewarding diving o
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 17 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)

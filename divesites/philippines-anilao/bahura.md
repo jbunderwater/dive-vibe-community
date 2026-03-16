@@ -2,8 +2,8 @@
 name: Bahura
 lat: 13.8
 lng: 120.93
-difficulty: Beginner
-maxDepth: 12
+difficulty: Intermediate
+maxDepth: 16
 entryType: boat
 siteType: reef
 ref: null
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Bahura
 
-Bahura is a reef dive site in Philippines Anilao, Asia.
+Bahura is a shallow reef dive featuring a large fish population and sea turtles, popular among divers with higher than entry-level diving experience.
 
 ## Overview
 
-Bahura is a dive site in Philippines Anilao offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Bahura is a shallow reef at mid-ocean with depths around 5-16 meters. The site offers crystal clear visibility on good water conditions and an enormous number of fish underwater. Sea turtles and small reef sharks have been sighted here. A nearby variation called Bahura Kanto features big boulders of rocks with a steep drop-off to 30 meters on the east side. This is a favorite for experienced divers seeking diverse pelagic species and reef structures.
 
 ## Site Information
 
-- **Location**: Philippines Anilao, Asia
+- **Location**: Mid-ocean from Anilao
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 12 meters
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 16 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Bahura is noted for an enormous number of fish species underwater. Sea turtles and small reef sharks are commonly encountered. As part of Anilao's famous macro diving reputation, the site also supports nudibranchs and small critter species. The reef structure supports diverse fish populations in crystal clear water.
 
 ## Dive Profile
 
@@ -44,12 +44,13 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
+- Popular among experienced divers — not beginner-recommended despite shallow depths
 - Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
+- Bring an underwater camera — excellent opportunities for reef and fish photography
+- Crystal clear visibility makes this ideal for photography on good days
 - Check local weather and sea conditions before diving
 - Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Nearby Bahura Kanto offers deeper diving with pelagic species if interested
 
 ## Safety Considerations
 

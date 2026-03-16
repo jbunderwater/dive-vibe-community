@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Friwen Wall
 
-Friwen Wall is a wall dive site in Raja Ampat, Asia.
+Friwen Wall is a coral-covered vertical wall dive in Raja Ampat's Friwen island group.
 
 ## Overview
 
-Friwen Wall is a dive site in Raja Ampat featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Friwen Wall is a coral-encrusted vertical drop in the Friwen region. The wall descends from shallow waters to significant depths, with most interesting features at 10-25m. Coral coverage is dense with macro invertebrates and small reef fish abundant. Moderate currents common. Visibility typically 15-30+ meters with temperatures averaging 26-30°C.
 
 ## Site Information
 

@@ -3,7 +3,7 @@ name: Gili Tepekong North
 lat: -8.5311955
 lng: 115.5858269
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 25
 entryType: boat
 siteType: reef
 ref: null
@@ -13,30 +13,26 @@ addedBy: osm_import
 
 ## Gili Tepekong North
 
-Gili Tepekong North is a reef dive site in Bali, Asia.
-
-## Overview
-
-Gili Tepekong North is a dive site in Bali offering rewarding diving on healthy coral reef structures . Dive towards north, some huge boulders to swim among, and open plains of corals.. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Northern section of Gili Tepekong, less challenging than the famous (and dangerous) south canyon. Features huge boulders to swim among with open plains of healthy corals. Moderate currents manageable for intermediate divers. Excellent photography site due to varied topography and abundant marine life.
 
 ## Site Information
 
-- **Location**: Bali, Asia
+- **Location**: Gili Tepekong North, Candidasa, Bali, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 25 meters
+- **Typical Visibility**: 15-30 meters (50-100 feet)
+- **Current**: Moderate, generally manageable
+- **Best Time**: May-September (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Abundant reef fish, reef sharks, sea turtles, macro life in coral formations. Boulder structures provide excellent habitat for diverse species.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin dive descending to boulders and coral formations. Navigate among large rocks and open coral plains. Work at 10-25m depth. Manageable current patterns allow good site exploration time.
 
 ## Entry and Exit
 

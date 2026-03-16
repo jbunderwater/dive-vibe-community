@@ -3,7 +3,7 @@ name: Leslie Bank
 lat: 11.0878115
 lng: 117.4581884
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 26
 entryType: boat
 siteType: reef
 ref: null
@@ -25,7 +25,7 @@ Leslie Bank is a dive site in Philippines Palawan offering rewarding diving on h
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 26 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)

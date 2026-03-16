@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Arborek shark point
 
-Arborek shark point is a reef dive site in Raja Ampat, Asia.
+Arborek Shark Point is a reef dive near Arborek island, known for shark encounters.
 
 ## Overview
 
-Arborek shark point is a dive site in Raja Ampat offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Arborek Shark Point is a reef site near the village of Arborek known for reef shark encounters. The healthy coral structure supports abundant reef fish and regular shark activity. Moderate currents typical. Good visibility (15-30m) with temperatures averaging 26-30°C. A solid intermediate reef dive with reliable pelagic encounters.
 
 ## Site Information
 
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter manta rays, whale sharks, reef shark
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin your dive in shallow water (3-5m) and explore the coral heads and bottom structure. Sharks are often spotted at 8-18m depth patrolling the reef. Reef fish diversity peaks at 10-20m. Spend 35-40 minutes exploring the coral formations and watching for pelagic activity. Maintain good buoyancy to protect the coral during your exploration.
 
 ## Entry and Exit
 

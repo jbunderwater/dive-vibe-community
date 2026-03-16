@@ -2,8 +2,8 @@
 name: Sepok Wall
 lat: 13.75
 lng: 120.88
-difficulty: Advanced
-maxDepth: 35
+difficulty: Intermediate
+maxDepth: 30
 entryType: boat
 siteType: wall
 ref: null
@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Sepok Wall
 
-Sepok Wall is a wall dive site in Philippines Anilao, Asia.
+Sepok Wall is a scenic wall dive located west of Sepok Point at the northwest end of Maricaban Island, approximately 16 minutes by boat from shore.
 
 ## Overview
 
-Sepok Wall is a dive site in Philippines Anilao featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Sepok Wall features a long vertical wall of solid rock dropping to significant depths. The shallow water teems with small reef fish, while the wall below contains larger reef species, barrel sponges, and colorful gorgonian sea fans. The site is known as a quiet escape offering calm conditions for both beginners and experienced divers who prefer peaceful, scenic diving. Normally an easy dive with good coral gardens in the shallow sections and a dramatic wall below.
 
 ## Site Information
 
-- **Location**: Philippines Anilao, Asia
+- **Location**: West of Sepok Point, Northwest Maricaban Island, Anilao
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 35 meters
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+A multitude of nudibranch species inhabit the wall, including many members of the Chromodoris family. Small sand diver fish, gobies, frogfish, leaf fish, twin-spot lionfish, and scorpionfish are common. Sea cucumbers, gorgonians, and barrel sponges create microhabitats. The shallow water teems with profusion of small reef fish, while the deeper wall features larger reef species. This site is particularly renowned for nudibranchs and small critter photography.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-35 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Begin in the shallow coral garden around 10-16 meters, then descend along the vertical wall. Visibility ranges from 10-20 meters. A slight to moderate current moves southwest. The shallow section offers colorful small fish and coral gardens, while the wall below features larger reef life and sponges. Most of the interesting features are found between 10-30 meters. Maintain good buoyancy control to avoid drifting too deep.
 
 ## Entry and Exit
 
@@ -53,7 +53,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Sepok Wall offers calm conditions and modest difficulty, making it suitable for beginner-to-intermediate divers. Slight to moderate current can be present but is manageable. Be aware of potential jellyfish and sea urchins. Dive within your certification limits and experience level. Carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 

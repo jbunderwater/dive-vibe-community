@@ -2,7 +2,7 @@
 name: Green Rock
 lat: 10.1237522
 lng: 99.8100987
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 25
 entryType: boat
 siteType: reef
@@ -13,18 +13,18 @@ addedBy: osm_import
 
 ## Green Rock
 
-Green Rock is a reef dive site in Koh Tao, Asia.
+Green Rock is an advanced reef dive site featuring a dramatic collection of large boulders piled against one another with numerous swim-throughs at varying depths. Named for the green-colored rocks visible at the surface, this site is known for strong currents and famous for Titan triggerfish encounters. It's a popular location for whale shark sightings.
 
 ## Overview
 
-Green Rock is a dive site in Koh Tao offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Green Rock is a challenging site suited for experienced divers, featuring complex granite boulder formations with exciting tunnels and swim-throughs. The site is renowned for its abundance of Titan triggerfish, particularly aggressive fish that require careful attention. Marine pelagics including whale sharks frequent this site. Visibility ranges from 10-40 meters with water temperatures averaging 26-30°C year-round.
 
 ## Site Information
 
 - **Location**: Koh Tao, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong

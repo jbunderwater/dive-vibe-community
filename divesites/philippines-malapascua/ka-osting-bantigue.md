@@ -2,8 +2,9 @@
 name: Ka-Osting / Bantigue
 lat: 11.3456001
 lng: 124.1193512
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Beginner
+maxDepth: 22
+minDepth: 5
 entryType: boat
 siteType: reef
 ref: null
@@ -13,54 +14,61 @@ addedBy: osm_import
 
 ## Ka-Osting / Bantigue
 
-Ka-Osting / Bantigue is a reef dive site in Philippines Malapascua, Asia.
+Bantigue is a gently sloping reef perfect for training dives and macro photography, featuring sand transitions and abundant small critters.
 
 ## Overview
 
-Ka-Osting / Bantigue is a dive site in Philippines Malapascua offering rewarding diving on healthy coral reef structures . Dive Site. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Bantigue (also known as Ka-Osting) is one of Malapascua's most beginner-friendly sites, ideal for Open Water training dives and macro enthusiasts. The site starts as a shallow reef that gradually slopes toward a sandy bottom at approximately 12 meters. Mild currents and shallow depths make this perfect for photographers hunting unusual creatures. This site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Philippines Malapascua, Asia
+- **Location**: Philippines Malapascua, Cebu
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Difficulty Level**: Beginner
+- **Minimum Depth**: 5 meters
+- **Maximum Depth**: 22 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
+- **Current**: Mild, usually gentle
 - **Best Time**: October to April (varies by location)
 
-## Marine Life
+## Site Characteristics
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Bantigue features a sandy bottom at around 12 meters with unusual creatures hidden in crevices and small rocks. Gobies and symbiotic shrimp live together in holes, and tiny mantis shrimp often inhabit small crevices. The reef itself is healthy with excellent coral coverage.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin your descent on the shallow reef and follow the natural slope toward the sandy bottom at approximately 12 meters. The entire dive is conducted between 5-22 meters, making it ideal for training and skill-building. Most interesting creatures are found in micro-habitats on the sand and reef transition zone. Plan for a 40-50 minute dive allowing adequate time for macro exploration and safety stops.
 
 ## Entry and Exit
 
 Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
+## Marine Life
+
+Gobies and symbiotic pistol shrimp living in holes, mantis shrimp in crevices, nudibranchs, banded pipefish, seahorses, cuttlefish. The transition zone to sand attracts flatfish and other sand-dwelling creatures.
+
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Excellent for macro photography and training dives
+- Bring a macro lens for optimal results
+- Mild currents make this perfect for beginners
+- Check local weather conditions before diving
+- Respect marine life and maintain buoyancy around reef structures
+- Ideal site for practicing underwater photography techniques
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+This is a beginner-friendly site with mild currents and shallow depths. Dive within your certification limits and experience level. Be aware of jelllyfish and sea urchins in the area. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Excellent for macro photography of tiny crustaceans, nudibranchs, and fish. The sand transitions provide good foreground/background contrast for composition. Natural light is excellent throughout the water column.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
+- **Validated by**: Dive operator research (PADI Dive Site records)
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and dive operator research. Last updated 2026-03-16.*

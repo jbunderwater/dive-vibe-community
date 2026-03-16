@@ -2,7 +2,7 @@
 name: Lao lao
 lat: -0.5038958
 lng: 130.718396
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 25
 entryType: boat
 siteType: pinnacle
@@ -24,7 +24,7 @@ Lao lao is a dive site in Raja Ampat offering rewarding diving on healthy coral 
 - **Location**: Raja Ampat, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong

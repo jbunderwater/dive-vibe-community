@@ -12,7 +12,9 @@
     "tags": {
       "name": "Rockport Dive Site",
       "scuba_diving:type": "reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "dive-the-world, asiadivesite"
     }
   },
   {
@@ -21,7 +23,7 @@
     "lon": 120.9143488,
     "osm_id": 1271232216,
     "osm_type": "node",
-    "depth": null,
+    "depth": 25,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -30,46 +32,54 @@
       "scuba_diving:type": "reef",
       "sport": "scuba_diving",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "anilao_diving_guides"
     }
   },
   {
     "name": "Cathedral Rock",
     "lat": 13.77,
     "lon": 120.9,
-    "depth": 22,
+    "depth": 19,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "anilaodiving.com, linesoflatitudes"
     }
   },
   {
     "name": "Beatrice Rock",
     "lat": 13.76,
     "lon": 120.89,
-    "depth": 30,
+    "depth": 27,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Advanced",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "asiadivesite, zentacle"
     }
   },
   {
     "name": "Sepok Wall",
     "lat": 13.75,
     "lon": 120.88,
-    "depth": 35,
+    "depth": 30,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Advanced",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "zentacle, divescover"
     }
   },
   {
@@ -82,20 +92,24 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "divescover, zentacle"
     }
   },
   {
     "name": "Twin Rocks",
     "lat": 13.74,
     "lon": 120.87,
-    "depth": 25,
+    "depth": 20,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "fordivers, philippinedivemaster"
     }
   },
   {
@@ -109,14 +123,15 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
-      "validated": "true"
+      "validated": "true",
+      "validation_source": "blueribbondivers, zentacle"
     }
   },
   {
     "name": "Secret Bay",
     "lat": 13.79,
     "lon": 120.92,
-    "depth": 8,
+    "depth": 21,
     "site_type": "muck",
     "entry_type": "shore",
     "difficulty": "Beginner",
@@ -124,47 +139,52 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "eazytraveler, divebooker, uwphotographyguide"
     }
   },
   {
     "name": "Mainit Point",
     "lat": 13.745,
     "lon": 120.875,
-    "depth": 28,
-    "site_type": "reef",
+    "depth": 30,
+    "site_type": "muck",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
-      "validated": "true"
+      "validated": "true",
+      "validation_source": "anilaodiving.com, dive-the-world"
     }
   },
   {
     "name": "Bahura",
     "lat": 13.8,
     "lon": 120.93,
-    "depth": 12,
+    "depth": 16,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "anilaodiving.com, divezone"
     }
   },
   {
     "name": "Arthur's Rock",
     "lat": 13.765,
     "lon": 120.895,
-    "depth": 18,
+    "depth": 21,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "anilaodiving.com, zentacle"
     }
   },
   {
@@ -178,7 +198,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
-      "validated": "true"
+      "validated": "true",
+      "validation_source": "scubaboard, macro_diving_guides"
     }
   },
   {
@@ -192,7 +213,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
-      "validated": "true"
+      "validated": "true",
+      "validation_source": "divingsquad, padi"
     }
   }
 ]

@@ -3,13 +3,15 @@
     "name": "Manta Bowl",
     "lat": 12.905,
     "lon": 123.59,
-    "depth": 18,
-    "site_type": "reef",
+    "depth": 23,
+    "site_type": "muck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": true,
+      "validation_source": "scubaboard.com, sharkdivingphilippines.com, uwphotographyguide.com"
     }
   },
   {
@@ -22,20 +24,24 @@
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": true,
+      "validation_source": "scubaboard.com, divezone.net, uwphotographyguide.com"
     }
   },
   {
     "name": "San Miguel Island",
     "lat": 12.92,
     "lon": 123.57,
-    "depth": 15,
+    "depth": 20,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": true,
+      "validation_source": "seafocus.com, sharkdivingphilippines.com, uwphotographyguide.com"
     }
   },
   {
@@ -48,7 +54,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": true,
+      "validation_source": "divezone.net, sharkdivingphilippines.com"
     }
   },
   {
@@ -61,7 +69,9 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": false,
+      "validation_source": "limited source data"
     }
   },
   {
@@ -69,12 +79,14 @@
     "lat": 12.91,
     "lon": 123.595,
     "depth": 10,
-    "site_type": "reef",
+    "site_type": "snorkel",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": true,
+      "validation_source": "donsolwhaleshark.net, journeyera.com, wearetravelgirls.com"
     }
   },
   {
@@ -87,7 +99,9 @@
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": true,
+      "validation_source": "scubaboard.com, sharkrayareas.org"
     }
   },
   {
@@ -95,12 +109,14 @@
     "lat": 12.96,
     "lon": 123.56,
     "depth": 22,
-    "site_type": "drift",
+    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": true,
+      "validation_source": "sharkrayareas.org, divezone.net, scubaboard.com"
     }
   },
   {
@@ -113,7 +129,9 @@
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": true,
+      "validation_source": "scubaboard.com, temoanaexpeditions.com"
     }
   },
   {
@@ -126,7 +144,9 @@
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": true,
+      "validation_source": "diveworldwide.com, temoanaexpeditions.com"
     }
   }
 ]

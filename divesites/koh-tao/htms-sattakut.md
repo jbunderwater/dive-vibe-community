@@ -3,7 +3,7 @@ name: HTMS Sattakut
 lat: 10.1056432
 lng: 99.8135376
 difficulty: Intermediate
-maxDepth: 32
+maxDepth: 30
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## HTMS Sattakut
 
-HTMS Sattakut is a historic wreck dive in Koh Tao, Asia.
+HTMS Sattakut is an ex-US Navy vessel (formerly USS LCI(M)-739) that served in World War II, including the Battle of Iwo Jima. Donated to Koh Tao in 2011 by the Royal Thai Navy, this 48-meter wreck sits 30 meters southeast of Hin Pee Wee with its top at 18 meters and bottom at 30 meters. The vessel features two large cannon guns and multiple entry/exit points for qualified divers.
 
 ## Overview
 
-HTMS Sattakut is a dive site in Koh Tao featuring the wreck of the HTMS Sattakut. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+HTMS Sattakut is a fascinating historical wreck dive offering access to a WWII-era US Navy vessel converted to Thai service. The wreck provides excellent exploration opportunities with abundant penetration possibilities for trained divers. The structure hosts thriving marine life colonizing the metal surfaces. Visibility ranges from 10-40 meters with water temperatures averaging 26-30°C year-round.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ HTMS Sattakut is a dive site in Koh Tao featuring the wreck of the HTMS Sattakut
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 32 meters
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)

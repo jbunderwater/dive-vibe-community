@@ -3,7 +3,7 @@ name: Carrington Reefs
 lat: 7.1432913
 lng: 117.2535095
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 20
 entryType: boat
 siteType: reef
 ref: null
@@ -25,7 +25,7 @@ Carrington Reefs is a dive site in Philippines Palawan offering rewarding diving
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)

@@ -1,17 +1,17 @@
 [
   {
-    "name": "\u0e2d\u0e48\u0e32\u0e27\u0e25\u0e36\u0e01",
+    "name": "อ่าวลึก",
     "lat": 10.0710681,
     "lon": 99.8410882,
     "osm_id": 859428681,
     "osm_type": "node",
     "depth": 10,
     "minDepth": 2,
-    "site_type": "reef",
+    "site_type": "bay",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
-      "name": "\u0e2d\u0e48\u0e32\u0e27\u0e25\u0e36\u0e01",
+      "name": "อ่าวลึก",
       "name:en": "Ao Luek",
       "natural": "bay",
       "scuba_diving:entry": "boat:shore",
@@ -20,7 +20,9 @@
       "scuba_diving:type": "sand",
       "sport": "scuba_diving",
       "wikidata": "Q49372696"
-    }
+    },
+    "validated": true,
+    "validation_source": "Black Turtle Dive, member-diving.com"
   },
   {
     "name": "Japanese Garden",
@@ -31,7 +33,7 @@
     "depth": 14,
     "minDepth": 1,
     "site_type": "reef",
-    "entry_type": "shore",
+    "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "name": "Japanese Garden",
@@ -42,7 +44,9 @@
       "scuba_diving:mindepth": "1",
       "scuba_diving:type": "reef",
       "sport": "scuba_diving"
-    }
+    },
+    "validated": true,
+    "validation_source": "ScubaBoard, dive operator reports"
   },
   {
     "name": "Red Rock",
@@ -64,21 +68,23 @@
       "scuba_diving:mindepth": "5",
       "scuba_diving:type": "reef",
       "sport": "scuba_diving"
-    }
+    },
+    "validated": true,
+    "validation_source": "Sairee Cottage Diving, dive operator guides"
   },
   {
-    "name": "\u0e2d\u0e48\u0e32\u0e27\u0e42\u0e15\u0e19\u0e14",
+    "name": "อ่าวโตนด",
     "lat": 10.0833646,
     "lon": 99.8498136,
     "osm_id": 859428879,
     "osm_type": "node",
     "depth": 16,
     "minDepth": 5,
-    "site_type": "reef",
+    "site_type": "bay",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
-      "name": "\u0e2d\u0e48\u0e32\u0e27\u0e42\u0e15\u0e19\u0e14",
+      "name": "อ่าวโตนด",
       "name:en": "Ao Tanot",
       "natural": "bay",
       "scuba_diving:difficulty": "1",
@@ -88,7 +94,9 @@
       "scuba_diving:type": "reef",
       "sport": "scuba_diving",
       "wikidata": "Q49372904"
-    }
+    },
+    "validated": true,
+    "validation_source": "Koh Tao Complete Guide, Sairee Cottage Diving"
   },
   {
     "name": "Twins",
@@ -98,7 +106,7 @@
     "osm_type": "node",
     "depth": 18,
     "minDepth": 5,
-    "site_type": "reef",
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
@@ -110,7 +118,9 @@
       "scuba_diving:mindepth": "5",
       "scuba_diving:type": "reef",
       "sport": "scuba_diving"
-    }
+    },
+    "validated": true,
+    "validation_source": "Black Turtle Dive, Funky Turtle guide"
   },
   {
     "name": "Green Rock",
@@ -122,7 +132,7 @@
     "minDepth": 5,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Green Rock",
       "name:en": "Green Rock",
@@ -132,7 +142,9 @@
       "scuba_diving:mindepth": "5",
       "scuba_diving:type": "reef",
       "sport": "scuba_diving"
-    }
+    },
+    "validated": true,
+    "validation_source": "DiveHappy, Sairee Cottage Diving, whale shark sightings"
   },
   {
     "name": "Shark Island",
@@ -153,7 +165,9 @@
       "scuba_diving:mindepth": "4",
       "scuba_diving:type": "reef",
       "sport": "scuba_diving"
-    }
+    },
+    "validated": true,
+    "validation_source": "DiveHappy, whale shark sightings, dive operator reports"
   },
   {
     "name": "Chumpon Pinnacle",
@@ -162,6 +176,7 @@
     "osm_id": 865081862,
     "osm_type": "node",
     "depth": 35,
+    "minDepth": 14,
     "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -173,9 +188,10 @@
       "scuba_diving:entry": "boat",
       "scuba_diving:maxdepth": "35",
       "sport": "scuba_diving",
-      "type": "reef",
-      "validated": "true"
-    }
+      "type": "reef"
+    },
+    "validated": true,
+    "validation_source": "PADI Blog, DiveHappy, pelagic species, whale shark sightings"
   },
   {
     "name": "Scuba Junction",
@@ -184,27 +200,30 @@
     "osm_id": 2616078980,
     "osm_type": "node",
     "depth": 20,
+    "minDepth": 8,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Scuba Junction",
       "sport": "scuba_diving"
-    }
+    },
+    "validated": true,
+    "validation_source": "Koh Tao dive operator information"
   },
   {
-    "name": "\u0e2d\u0e48\u0e32\u0e27\u0e2b\u0e34\u0e19\u0e07\u0e32\u0e21",
+    "name": "อ่าวหินงาม",
     "lat": 10.0676822,
     "lon": 99.8411029,
     "osm_id": 3582426697,
     "osm_type": "node",
-    "depth": 30,
+    "depth": 18,
     "minDepth": 5,
-    "site_type": "reef",
+    "site_type": "bay",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
-      "name": "\u0e2d\u0e48\u0e32\u0e27\u0e2b\u0e34\u0e19\u0e07\u0e32\u0e21",
+      "name": "อ่าวหินงาม",
       "name:en": "Ao Hin Ngam",
       "natural": "bay",
       "scuba_diving:maxdepth": "18",
@@ -212,7 +231,9 @@
       "scuba_diving:type": "reef:sand",
       "sport": "scuba_diving",
       "wikidata": "Q49372564"
-    }
+    },
+    "validated": true,
+    "validation_source": "Black Turtle Dive, DiveChamp, Koh Tao Complete Guide"
   },
   {
     "name": "Laem Thian Pinnacle",
@@ -234,22 +255,24 @@
       "scuba_diving:type": "reef",
       "sport": "scuba_diving",
       "validated": "true"
-    }
+    },
+    "validated": true,
+    "validation_source": "Black Turtle Dive, Funky Turtle, Sairee Cottage Diving"
   },
   {
-    "name": "\u0e2d\u0e48\u0e32\u0e27\u0e21\u0e48\u0e27\u0e07",
+    "name": "อ่าวมวง",
     "lat": 10.1229226,
     "lon": 99.8350543,
     "osm_id": 3582426705,
     "osm_type": "node",
     "depth": 14,
     "minDepth": 1,
-    "site_type": "reef",
+    "site_type": "bay",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "alt_name:en": "Mango Bay",
-      "name": "\u0e2d\u0e48\u0e32\u0e27\u0e21\u0e48\u0e27\u0e07",
+      "name": "อ่าวมวง",
       "name:en": "Mango Bay",
       "natural": "bay",
       "scuba_diving:difficulty": "1",
@@ -258,7 +281,9 @@
       "scuba_diving:type": "reef",
       "sport": "scuba_diving",
       "wikidata": "Q49372726"
-    }
+    },
+    "validated": true,
+    "validation_source": "Sairee Cottage Diving, Koh Tao Complete Guide"
   },
   {
     "name": "White Rock",
@@ -270,7 +295,7 @@
     "minDepth": 5,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "name": "White Rock",
       "name:en": "White Rock",
@@ -280,7 +305,9 @@
       "scuba_diving:mindepth": "5",
       "scuba_diving:type": "reef",
       "sport": "scuba_diving"
-    }
+    },
+    "validated": true,
+    "validation_source": "DiveHappy, DiveZone, Divers Guide, whale shark sightings"
   },
   {
     "name": "Hin Pee Wee",
@@ -290,7 +317,7 @@
     "osm_type": "node",
     "depth": 28,
     "minDepth": 8,
-    "site_type": "reef",
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
@@ -302,7 +329,9 @@
       "scuba_diving:mindepth": "8",
       "scuba_diving:type": "reef",
       "sport": "scuba_diving"
-    }
+    },
+    "validated": true,
+    "validation_source": "Sairee Cottage Diving, Funky Turtle, granite pinnacle dive"
   },
   {
     "name": "HTMS Sattakut",
@@ -310,8 +339,8 @@
     "lon": 99.8135376,
     "osm_id": 5992774764,
     "osm_type": "node",
-    "depth": 32,
-    "minDepth": 20,
+    "depth": 30,
+    "minDepth": 18,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -324,7 +353,9 @@
       "scuba_diving:mindepth": "20",
       "scuba_diving:type": "wreck",
       "sport": "scuba_diving"
-    }
+    },
+    "validated": true,
+    "validation_source": "PADI Blog, Black Turtle Dive, Funky Turtle, Underwater Clicks - ex-US Navy WWII wreck"
   },
   {
     "name": "Buoyancy",
@@ -334,7 +365,7 @@
     "osm_type": "node",
     "depth": 15,
     "minDepth": 10,
-    "site_type": "reef",
+    "site_type": "artificial_reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
@@ -346,7 +377,9 @@
       "scuba_diving:mindepth": "10",
       "scuba_diving:type": "artificial_reef",
       "sport": "scuba_diving"
-    }
+    },
+    "validated": true,
+    "validation_source": "Black Turtle Dive, PADI Koh Tao - community training project"
   },
   {
     "name": "Pottery",
@@ -367,6 +400,8 @@
       "scuba_diving:mindepth": "5",
       "scuba_diving:type": "reef",
       "sport": "scuba_diving"
-    }
+    },
+    "validated": true,
+    "validation_source": "Koh Tao dive operator guides - training site"
   }
 ]

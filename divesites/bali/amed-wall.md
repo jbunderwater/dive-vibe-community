@@ -11,28 +11,24 @@ osmId: 4527419399
 addedBy: osm_import
 ---
 
-## Amed wall
+## Amed Wall
 
-Amed wall is a reef dive site in Bali, Asia.
-
-## Overview
-
-Amed wall is a dive site in Bali offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Amed Wall is a gentle, accessible shore-entry wall dive on Bali's east coast. Perfect for all experience levels. Features a flat gently sloping reef with macro life in shallow water, then transitions to colorful reefs and wall structure at deeper depths. Calm conditions with little current and good visibility make this an excellent site for divers of all levels.
 
 ## Site Information
 
-- **Location**: Bali, Asia
+- **Location**: Amed, Bali's east coast, Indonesia
 - **Entry Type**: Shore entry
 - **Site Type**: Wall dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-30 meters (50-100 feet)
+- **Current**: Mild, rarely strong
+- **Best Time**: Year-round, slightly calmer June-September
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Turtles, reef sharks, abundant macro subjects in shallow areas, colorful reef fish, nudibranchs, seahorses, scorpionfish. Excellent macro photography opportunities.
 
 ## Dive Profile
 
@@ -52,7 +48,7 @@ Enter from the shore following established entry points. Check conditions before
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Very safe site for the difficulty level. Be aware of wave surge near shore, occasional small currents, jellyfish, sea urchins. Generally calm and beginner-friendly. Check conditions before entry but generally forgiving. Standard buddy protocols and SMB recommended.
 
 ## Photography
 

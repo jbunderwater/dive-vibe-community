@@ -2,8 +2,8 @@
 name: Halik
 lat: -8.336235
 lng: 116.038308
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Beginner
+maxDepth: 18
 entryType: boat
 siteType: drift
 ref: null
@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Halik
 
-Halik is a reef dive site in Gili Islands, Asia.
+Halik is a popular beginner-friendly drift dive site on the north-west side of Gili Trawangan, renowned for vibrant coral formations and excellent marine life encounters.
 
 ## Overview
 
-Halik is a dive site in Gili Islands offering rewarding diving on healthy coral reef structures . source is Diveschool Notice Board - Location might have to be checked with a GPS. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Halik Reef stretches along the north of Gili Trawangan and is perfect for a leisurely drift dive with one of the healthiest coral systems in the Gili Islands. The reeftop houses some of the most vibrant and diverse hard and soft corals the Gilis have to offer. The reef starts at 9 meters with enormous barrel sponges and elegant Gorgonian sea fans, then drops to a maximum depth of 18 meters. Green and hawksbill sea turtles are regular visitors, along with cuttlefish, octopus, lobsters, moray eels, scorpion fish, and the delightful peacock mantis shrimp. This is one of the most popular and accessible dive sites in the region, ideal for all certification levels.
 
 ## Site Information
 
-- **Location**: Gili Islands, Asia
+- **Location**: North-west Gili Trawangan, Gili Islands
 - **Entry Type**: Boat dive
 - **Site Type**: Drift dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Current**: Variable, gentle drift conditions
+- **Best Time**: April to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Halik is teeming with marine biodiversity including green and hawksbill sea turtles (common year-round), cuttlefish, octopus, frogfish, scorpion fish, peacock mantis shrimp, various lobster species, moray eels, and lionfish. The healthy corals support dense schools of reef fish, anemones with clownfish, and various nudibranchs in the macro habitat. Reef sharks and rays are occasionally encountered along the deeper sections.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin your dive at the reef crest (9 meters) where you'll encounter massive barrel sponges and Gorgonian sea fans. Drift along the reeftop with excellent visibility of the vibrant coral formations. The reef slopes gently to 18 meters where the bottom becomes sandy. This site is ideal for leisurely exploration of the coral structures and macro photography. Allow yourself time to observe the intricate detail in the coral formations and search for small critters. Enjoy a relaxed ascent along the shallow section for your safety stop, perfect for final photography opportunities.
 
 ## Entry and Exit
 

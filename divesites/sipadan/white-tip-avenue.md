@@ -3,9 +3,9 @@ name: White Tip Avenue
 lat: 4.1117
 lng: 118.6256
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 40
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## White Tip Avenue
 
-White Tip Avenue is a reef dive site in Sipadan, Asia.
+White Tip Avenue is named for the frequent whitetip shark sightings along the wall. The site is a dramatic vertical wall descent where divers transition from colorful shallow reef to deeper sections populated by pelagics and black corals.
 
 ## Overview
 
-White Tip Avenue is a dive site in Sipadan offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+White Tip Avenue features a wall that stretches to approximately 40 meters, with the most dramatic drops occurring beyond 30 meters. The reef top is shallow, allowing time to explore coral formations before the wall descent. Below 30 meters, divers encounter waving sea fans and abundant black coral. The site's name derives from the whitetip sharks that regularly patrol the wall face. This is an intermediate-level wall dive with moderate currents.
 
 ## Site Information
 
-- **Location**: Sipadan, Asia
+- **Location**: Sipadan wall site
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 40 meters
+- **Typical Visibility**: 30-40 meters (100-130 feet)
+- **Current**: Moderate, generally predictable
+- **Best Time**: October to April
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Whitetip sharks are the signature species, frequently patrolling the wall at 15-30 meters. Additional sharks include reef sharks and occasionally hammerheads. Sea fans, black coral, and hard corals dominate deeper sections. Smaller reef species (fusiliers, groupers, trevally, barracuda) and sea turtles are common throughout. Macro subjects include nudibranchs, frogfish, and seahorses in wall crevices.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin on the shallow reef top and gradually descend along the wall. Most whitetip shark encounters occur at 15-30 meters. The wall's interesting features continue beyond 30 meters with excellent coral formations and pelagic activity. Buoyancy control is essential—the wall makes it easy to descend deeper than planned. The site is suitable for intermediate divers with wall-diving experience.
 
 ## Entry and Exit
 

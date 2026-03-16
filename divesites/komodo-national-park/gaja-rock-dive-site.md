@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Gaja Rock dive site
 
-Gaja Rock dive site is a reef dive site in Komodo National Park, Asia.
+Small rocky island pinnacle with coral coverage and concentrated marine life.
 
 ## Overview
 
-Gaja Rock dive site is a dive site in Komodo National Park offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Gaja Rock (Batu Gaja) is a small rocky island in Komodo with a fringing reef and pinnacle structure. The site offers diving around a rocky formation with good coral coverage and marine life. While the area can experience strong currents due to its exposed location between larger landmasses, the site is generally more accessible than the major current-diving destinations. Good intermediate-level dive with reliable marine encounters.
 
 ## Site Information
 
-- **Location**: Komodo National Park, Asia
+- **Location**: Southwestern Komodo, Gaja Rock island
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15–30 meters (50–100 feet)
+- **Current**: Variable, can be strong; site-dependent
+- **Best Time**: May to October; year-round diveable
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Reef sharks, barracuda, trevally, groupers, snappers, and schooling reef fish. The coral-covered rock supports nudibranchs, invertebrates, and smaller reef species. Pelagics may be present if currents are running.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend around the rocky formation and explore the coral-covered structure. Drift with current if present, or cruise around the rock. Depths typically 8–20 meters. Allow exploration of all sides of the rock to maximize wildlife encounters.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat drop in 10–15 meters. Giant stride entry. Descend around rock structure. Exit via SMB deployment.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Scout all sides of the rock formation
+- Look for fish schools in the current
+- Bring wide-angle and macro cameras
+- Plan for variable current conditions
+- Good warm-up dive for the more challenging current sites in Komodo
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Current can vary; adjust dive plan accordingly. Standard buoyancy and depth management apply. Monitor depth to avoid drifting too deep. Decompress properly.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Dramatic rock formation provides composition framework. Schooling fish create dynamic subjects. Good light in shallow depths. Versatile site for both styles of photography.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
 *This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*

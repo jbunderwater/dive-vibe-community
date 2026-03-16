@@ -6,13 +6,15 @@
     "osm_id": 2395669748,
     "osm_type": "node",
     "depth": 30,
-    "site_type": "reef",
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "name": "Deep Turbo",
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "Manta Dive, Trawangan Dive, PADI"
     }
   },
   {
@@ -21,10 +23,10 @@
     "lon": 116.038308,
     "osm_id": 2395669750,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 18,
     "site_type": "drift",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Halik",
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
@@ -32,7 +34,7 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "Manta Dive, PADI, Gili Divers"
     }
   },
   {
@@ -41,14 +43,16 @@
     "lon": 116.0255805,
     "osm_id": 2395669751,
     "osm_type": "node",
-    "depth": 20,
-    "site_type": "reef",
+    "depth": 35,
+    "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Jack Point",
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "Manta Dive, Trawangan Dive, Gili Shark Conservation"
     }
   },
   {
@@ -57,14 +61,16 @@
     "lon": 116.0265987,
     "osm_id": 2395669753,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 18,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Manta Point",
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "Manta Dive, PADI, Gili Divers"
     }
   },
   {
@@ -73,14 +79,16 @@
     "lon": 116.0498999,
     "osm_id": 2395669756,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 30,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Meno Wall",
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "Manta Dive, PADI, Trawangan Stingray Divers"
     }
   },
   {
@@ -89,16 +97,18 @@
     "lon": 116.0440257,
     "osm_id": 2395669758,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 18,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Shallow Turbo",
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
       "scuba_diving:type": "snorkeling",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "Manta Dive, Trawangan Dive"
     }
   },
   {
@@ -107,8 +117,8 @@
     "lon": 116.0236615,
     "osm_id": 2395669759,
     "osm_type": "node",
-    "depth": 25,
-    "site_type": "reef",
+    "depth": 35,
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
@@ -116,7 +126,7 @@
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "Manta Dive, Trawangan Dive, Gili Shark Conservation"
     }
   },
   {
@@ -125,7 +135,7 @@
     "lon": 116.0436158,
     "osm_id": 2400061876,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 25,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -135,7 +145,9 @@
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
       "scuba_diving:type": "snorkeling",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "Manta Dive, Trawangan Dive"
     }
   },
   {
@@ -150,7 +162,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Lombok Dive",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "PADI, Gili Divers"
     }
   },
   {
@@ -159,16 +173,18 @@
     "lon": 116.0433854,
     "osm_id": 4813305042,
     "osm_type": "node",
-    "depth": 20,
-    "site_type": "reef",
+    "depth": 15,
+    "site_type": "artificial",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "location": "underwater",
       "name": "Vila Almarick Biorock",
       "scuba_diving:type": "snorkeling",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "Manta Dive, Gili Eco Trust, Global Coral Reef Alliance"
     }
   },
   {
@@ -177,16 +193,18 @@
     "lon": 116.0438526,
     "osm_id": 4813305043,
     "osm_type": "node",
-    "depth": 20,
-    "site_type": "reef",
+    "depth": 15,
+    "site_type": "artificial",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "location": "underwater",
       "name": "Bale Sampan Biorock",
       "scuba_diving:type": "snorkeling",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "Manta Dive, Gili Eco Trust, Global Coral Reef Alliance"
     }
   },
   {
@@ -195,16 +213,18 @@
     "lon": 116.0439347,
     "osm_id": 4813305044,
     "osm_type": "node",
-    "depth": 20,
-    "site_type": "reef",
+    "depth": 15,
+    "site_type": "artificial",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "location": "underwater",
       "name": "Samba Vilas Biorock",
       "scuba_diving:type": "snorkeling",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "Manta Dive, Gili Eco Trust, Global Coral Reef Alliance"
     }
   },
   {
@@ -213,16 +233,18 @@
     "lon": 116.0442834,
     "osm_id": 4813305045,
     "osm_type": "node",
-    "depth": 20,
-    "site_type": "reef",
+    "depth": 15,
+    "site_type": "artificial",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "location": "underwater",
       "name": "Trawangan Dive Biorock",
       "scuba_diving:type": "snorkeling",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "Manta Dive, Gili Eco Trust, Global Coral Reef Alliance"
     }
   },
   {
@@ -231,16 +253,18 @@
     "lon": 116.0444604,
     "osm_id": 4813305046,
     "osm_type": "node",
-    "depth": 20,
-    "site_type": "reef",
+    "depth": 15,
+    "site_type": "artificial",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "location": "underwater",
       "name": "Gili Divers Biorock",
       "scuba_diving:type": "snorkeling",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "Manta Dive, Gili Eco Trust, Global Coral Reef Alliance"
     }
   },
   {
@@ -249,17 +273,19 @@
     "lon": 116.0437832,
     "osm_id": 6750981689,
     "osm_type": "node",
-    "depth": 20,
-    "site_type": "reef",
+    "depth": 35,
+    "site_type": "pinnacle",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "location": "underwater",
       "name": "Turtle Point",
       "name:en": "Turtle point",
       "scuba_diving:type": "snorkeling",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "Manta Dive, PADI, Gili Divers"
     }
   }
 ]

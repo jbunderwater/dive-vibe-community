@@ -3,7 +3,7 @@ name: Twin Rocks
 lat: 13.74
 lng: 120.87
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 20
 entryType: boat
 siteType: reef
 ref: null
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Twin Rocks
 
-Twin Rocks is a reef dive site in Philippines Anilao, Asia.
+Twin Rocks is the most demanded and appreciated dive site in Anilao, Philippines, renowned among underwater photographers for its macro opportunities and marine sanctuary status.
 
 ## Overview
 
-Twin Rocks is a dive site in Philippines Anilao offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Twin Rocks consists of two rocks separated by one meter at approximately 15 meters depth, with a capsized barge on the seabed nearby. The rocks are covered with soft corals, fire corals, and big sea fans. The site receives special protection as a marine sanctuary where fishing is prohibited. Access takes longer than local sites (45-60 minutes depending on location), but the rich biodiversity makes it worthwhile. The site is perfect for macro photography with abundant critter diversity.
 
 ## Site Information
 
-- **Location**: Philippines Anilao, Asia
+- **Location**: Mabini, Anilao, Batangas
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Twin Rocks features ribbon eels, schools of carangidae, countless nudibranchs, clownfish, surgeonfish, lionfish, damsels, barracuda schools, mantis shrimps, Coleman shrimps, porcelain crabs, and rabbitfish. The site houses two resident sea turtles and is frequented by many others. The abundant sea corals support exceptional biodiversity, making it ideal for critter hunters and macro photographers.
 
 ## Dive Profile
 

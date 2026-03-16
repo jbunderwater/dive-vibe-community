@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Sombrero Island
 
-Sombrero Island is a reef dive site in Philippines Anilao, Asia.
+Sombrero Island is a shallow reef dive named for its distinctive hat-like shape, located off the northwest tip of Maricaban Island in Anilao.
 
 ## Overview
 
-Sombrero Island is a dive site in Philippines Anilao offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Sombrero Island features a true kaleidoscope of color with varied topography including tumbling piles of boulders, tunnels, and drop-offs reaching around 25 meters. Soft and hard corals cover the structure, creating an extremely diverse diving environment. The site features beautiful staghorn gardens, gorgonians, black coral, and yellow crinoids. This is an ideal location for beginner divers with calm conditions and easy navigation.
 
 ## Site Information
 
-- **Location**: Philippines Anilao, Asia
+- **Location**: Northwest tip of Maricaban Island, Anilao
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Current**: Normally strong during full moon, otherwise manageable
+- **Best Time**: Year-round, best November-April
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Sombrero Island is home to over 500 species of corals and unique sea creatures, making it one of the most amazing and diverse diving spots in the world. Expect to see gorgonians, black coral, shells, turtles, rays, grunts, jacks, snappers, and abundant soft corals scattered throughout the site. The biodiversity is exceptional, supporting a rich ecosystem adapted to the varied topography.
 
 ## Dive Profile
 

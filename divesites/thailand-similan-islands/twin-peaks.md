@@ -2,10 +2,10 @@
 name: Twin Peaks
 lat: 9.0562852
 lng: 97.8150386
-difficulty: Intermediate
-maxDepth: 20
-entryType: boat
-siteType: reef
+difficulty: Advanced
+maxDepth: 35
+entryType: liveaboard
+siteType: pinnacle
 ref: null
 osmId: 270980741
 addedBy: osm_import
@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Twin Peaks
 
-Twin Peaks is a reef dive site in Thailand Similan Islands, Asia.
+Twin Peaks is a granite pinnacle dive site famous for whale sharks, manta rays, and sharks in the Similan Islands, Thailand.
 
 ## Overview
 
-Twin Peaks is a dive site in Thailand Similan Islands offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Twin Peaks is one of the finest dive sites in Thailand, featuring a double-peaked pinnacle with the southern peak topped at 12 meters and descending to 30-45 meters on sandy bottom. This site is renowned for encounters with large pelagic species including whale sharks, manta rays, leopard sharks, and nurse sharks. The site features a mix of hard corals and extensive macro life around the granite boulders.
 
 ## Site Information
 
-- **Location**: Thailand Similan Islands, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Location**: Thailand Similan Islands, Andaman Sea
+- **Entry Type**: liveaboard
+- **Site Type**: Pinnacle/seamount
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 35 meters
+- **Typical Visibility**: 20-30 meters (65-100 feet)
+- **Current**: Strong to very strong, requires drift diving
+- **Best Time**: November to April, peak pelagic season February-April
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Twin Peaks is famous for large pelagic species. Divers regularly encounter whale sharks, manta rays, leopard sharks, nurse sharks, hawksbill turtles, and ray species. Smaller reef residents include tropical fish, fans, and hard corals.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Twin Peaks is a drift dive around the pinnacle. Begin by descending on the structure around 12 meters, then drift deeper to explore the full extent down to 30-45 meters on the southern side. The site is best dived by following the currents and staying close to the boulders for shelter. This is an advanced site requiring good buoyancy control and experience with strong currents.
 
 ## Entry and Exit
 
@@ -52,7 +52,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+This site is recommended for Advanced Open Water divers only. Strong currents are regular — be prepared for drift diving and learn to shelter behind boulders. Watch your air consumption on the deeper sections. Carry multiple signaling devices and be prepared to abort or relocate if currents exceed 1.5 knots. Always dive with a buddy experienced in current diving and carry a safety sausage (SMB).
 
 ## Photography
 

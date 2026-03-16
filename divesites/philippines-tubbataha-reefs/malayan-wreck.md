@@ -4,7 +4,7 @@ lat: 8.875
 lng: 119.8917
 difficulty: Intermediate
 maxDepth: 20
-entryType: boat
+entryType: liveaboard
 siteType: wreck
 ref: null
 osmId: null
@@ -13,55 +13,55 @@ addedBy: osm_import
 
 ## Malayan Wreck
 
-Malayan Wreck is a historic wreck dive in Philippines Tubbataha Reefs, Asia.
+A historic fishing vessel wrecked during a typhoon in the 1970s at the southwest tip of North Atoll. Now encrusted with coral and serving as a home for reef fish and larger predators.
 
 ## Overview
 
-Malayan Wreck is a dive site in Philippines Tubbataha Reefs featuring the wreck of the Malayan Wreck. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The Malayan Wreck is located at the southwest tip of North Atoll and consists of a fishing vessel that smashed onto the reef during a typhoon in the 1970s. Though not a WWII-era vessel, the wreck has become an excellent artificial reef hosting abundant marine life. The shallow depth and moderate structural integrity make this an accessible wreck dive for intermediate divers without requiring penetration. The wreck is heavily encrusted and has become fully integrated into Tubbataha's reef ecosystem.
 
 ## Site Information
 
-- **Location**: Philippines Tubbataha Reefs, Asia
-- **Entry Type**: Boat dive
+- **Location**: Southwest tip, North Atoll, Philippines Tubbataha Reefs
+- **Entry Type**: liveaboard
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 30-45 meters
+- **Current**: Variable, can be strong
+- **Best Time**: March 16 - June 15
 
 ## Marine Life
 
-Divers at this site can expect to encounter batfish, lionfish, sweetlips, coral growth, soft corals, manta rays, whale sharks, reef sharks. Additional species commonly sighted include sea turtles, barracuda, trevally. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The wreck is home to harlequin sweetlips, rainbow runners, and giant morays that shelter in wreck crevices. Large schools of jacks and trevally cruise the structure hunting smaller fish. The encrusted surfaces support coral growth, nudibranchs, and small crustaceans. Sharks and rays frequently patrol the wreck, and larger pelagic fish often hunt in the blue water around the structure.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 20 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend to the top of the wreck structure at around 10-12 meters. Begin by exploring the exterior features - the bow, stern, and superstructure provide visual landmarks and marine life viewing. The wreck descends to about 20 meters in deeper sections. Swim around the structure observing the coral growth and resident fish species. The wreck is stable and safe for exterior exploration. Do not attempt internal penetration unless specially trained. Plan for a gradual ascent visiting the upper sections of the wreck before completing a safety stop at 5 meters.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by liveaboard tender. Entry is via giant stride or back roll. Descend along a visual line to the wreck structure. Plan to explore the exterior features, using the wreck as your primary depth reference. Ascend along the wreck structure, visiting shallower sections as you rise. Complete your safety stop at 5 meters and signal the boat with an SMB for pickup.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Bring a dive torch to illuminate wreck interiors and shadowed areas
+- Bring a wide-angle lens to capture the full wreck structure and surrounding marine life
+- Look carefully in wreck crevices for morays and other hidden creatures
+- The heavily encrusted structure is fragile - avoid touching or damaging coral growth
+- Watch for hunting activity - this is an active feeding ground for reef predators
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The Malayan Wreck is a stable, accessible wreck suitable for intermediate divers. Do not attempt internal penetration without proper wreck diving training and equipment. Maintain excellent buoyancy to avoid stirring silt and damaging coral. Be aware that strong currents can occur - be prepared to move shallower or abort if conditions deteriorate. Watch for large morays and maintain distance from potentially aggressive species.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The wreck structure provides excellent wide-angle subjects. Shoot from 12-18 meters to capture the full vessel and surrounding marine life. A torch is essential for illuminating colors in shadowed areas and bringing out details of the encrusting coral and marine growth.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
+- **Validation Source**: divebooker.com, solitude.world
 
 ---
 *This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*

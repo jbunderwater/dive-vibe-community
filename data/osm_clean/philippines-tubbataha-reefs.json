@@ -5,13 +5,15 @@
     "lon": 119.8833,
     "osm_id": null,
     "osm_type": null,
-    "depth": 30,
+    "depth": 20,
     "site_type": "wall",
-    "entry_type": "boat",
+    "entry_type": "liveaboard",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": true,
+      "validation_source": "dive-the-world.com, divebooker.com"
     }
   },
   {
@@ -20,13 +22,15 @@
     "lon": 119.8667,
     "osm_id": null,
     "osm_type": null,
-    "depth": 25,
+    "depth": 32,
     "site_type": "reef",
-    "entry_type": "boat",
+    "entry_type": "liveaboard",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": true,
+      "validation_source": "dive-the-world.com, searchable dive databases"
     }
   },
   {
@@ -35,13 +39,15 @@
     "lon": 119.875,
     "osm_id": null,
     "osm_type": null,
-    "depth": 35,
+    "depth": 40,
     "site_type": "wall",
-    "entry_type": "boat",
+    "entry_type": "liveaboard",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": true,
+      "validation_source": "dive-the-world.com, divebooker.com"
     }
   },
   {
@@ -50,13 +56,15 @@
     "lon": 119.85,
     "osm_id": null,
     "osm_type": null,
-    "depth": 30,
+    "depth": 35,
     "site_type": "reef",
-    "entry_type": "boat",
+    "entry_type": "liveaboard",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": true,
+      "validation_source": "searchable dive databases, divessi.com"
     }
   },
   {
@@ -67,11 +75,13 @@
     "osm_type": null,
     "depth": 20,
     "site_type": "wreck",
-    "entry_type": "boat",
+    "entry_type": "liveaboard",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": true,
+      "validation_source": "divebooker.com, solitude.world"
     }
   },
   {
@@ -80,13 +90,15 @@
     "lon": 119.8417,
     "osm_id": null,
     "osm_type": null,
-    "depth": 30,
+    "depth": 35,
     "site_type": "wall",
-    "entry_type": "boat",
+    "entry_type": "liveaboard",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": true,
+      "validation_source": "justgottadive.com, dive-the-world.com"
     }
   },
   {
@@ -97,11 +109,13 @@
     "osm_type": null,
     "depth": 25,
     "site_type": "reef",
-    "entry_type": "boat",
+    "entry_type": "liveaboard",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": true,
+      "validation_source": "divessi.com, dive-the-world.com"
     }
   },
   {
@@ -110,13 +124,15 @@
     "lon": 119.9,
     "osm_id": null,
     "osm_type": null,
-    "depth": 25,
+    "depth": 40,
     "site_type": "wreck",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "entry_type": "liveaboard",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": true,
+      "validation_source": "divessi.com, divescover.com"
     }
   },
   {
@@ -125,16 +141,18 @@
     "lon": 119.8142609,
     "osm_id": 31974943,
     "osm_type": "way",
-    "depth": null,
+    "depth": 30,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "liveaboard",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Jesse Beazley Reef",
       "natural": "reef",
       "subsea": "coral_reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "solitude.world, divebooker.com"
     }
   }
 ]

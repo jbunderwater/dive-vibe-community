@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Cape Mansuar
 
-Cape Mansuar is a reef dive site in Raja Ampat, Asia.
+Cape Mansuar is a protected marine sanctuary wall dive in Raja Ampat, perfect for snorkeling and family diving.
 
 ## Overview
 
-Cape Mansuar is a dive site in Raja Ampat offering rewarding diving on healthy coral reef structures . Perfect snorkeling spot. A lot of fishes, some turtles and clown fishes.. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Cape Mansuar is a shallow wall dive in the marine sanctuary known for excellent snorkeling and beginner diving. The site is characterized by abundant fish life, frequent sea turtle sightings, and colonies of clownfish among coral heads. The shallow profile (typically 3-15m for snorkeling) makes it ideal for training dives and non-certified family members. Visibility typically 15-25 meters with temperatures averaging 26-30°C.
 
 ## Site Information
 
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter manta rays, whale sharks, reef shark
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Enter in shallow waters and explore the wall structure from 3-15m depth. Fish and turtle activity peaks in these shallower zones. The coral-covered slope is excellent for snorkelers and beginner divers. Maximum depth rarely exceeds 18-20m in the interesting zone. Spend 30-40 minutes exploring, with ample air remaining for safety procedures. This site is particularly suitable for mixed-ability groups.
 
 ## Entry and Exit
 

@@ -5,7 +5,7 @@ lng: 118.6311
 difficulty: Intermediate
 maxDepth: 20
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Mid Reef
 
-Mid Reef is a reef dive site in Sipadan, Asia.
+Mid Reef is famous for an explosion of life across the reef, with boxfish, leaffish, and pufferfishes rising from deeper sections, combined with some of Sipadan's best coral formations—table corals, black corals, gorgonian sea fans, and staghorn corals in the shallower areas.
 
 ## Overview
 
-Mid Reef is a dive site in Sipadan offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Mid Reef features an intricate coral garden with exceptional species diversity and some of the healthiest coral formations on Sipadan. The site is best dived in the morning when schools of fish are most active and larger pelagics are most likely to be sighted. The 6-meter hard coral flats that top the reef create an ideal safety stop location. Moderate to strong currents and potentially choppy surface conditions characterize this wall dive.
 
 ## Site Information
 
-- **Location**: Sipadan, Asia
+- **Location**: Central Sipadan
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 20-30 meters (65-100 feet)
+- **Current**: Moderate to strong
+- **Best Time**: Early morning (October to April) for active fish schools and pelagics
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Diverse fish schools including boxfish, leaffish, pufferfishes, fusiliers, groupers, and parrotfish create an energetic reef ecosystem. Smaller pelagics (trevally, jacks, barracuda) frequent the wall. Reef sharks, sea turtles, and macro subjects (nudibranchs, seahorses, gobies) are abundant. The coral formations provide shelter for countless cryptic species including octopuses, crevice-dwelling fish, and invertebrates.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin by exploring the shallow reef top (6-meter hard coral flats) with diverse coral formations (table corals, staghorns, gorgonians, black corals). Descend along the wall to 15-20 meters where boxfish, leaffish, and other reef species become most active. The wall provides an excellent wall-following reference during the dive. Return to the hard coral flats for your safety stop where natural light and shallow depth create ideal photo opportunities.
 
 ## Entry and Exit
 

@@ -2,7 +2,7 @@
 name: Mayhem Dive Site
 lat: -0.5110819
 lng: 130.4465905
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 25
 entryType: boat
 siteType: pinnacle
@@ -13,18 +13,18 @@ addedBy: osm_import
 
 ## Mayhem Dive Site
 
-Mayhem Dive Site is a reef dive site in Raja Ampat, Asia.
+Mayhem Dive Site is a fast-paced pinnacle dive in Raja Ampat with strong currents and pelagic action.
 
 ## Overview
 
-Mayhem Dive Site is a dive site in Raja Ampat offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Mayhem Dive Site is a pinnacle site delivering exactly what its name suggests - dynamic, current-swept diving with excellent pelagic encounters. Jacks, trevally, barracuda, and sharks frequent this submerged seamount. The fast-moving water creates exciting drift opportunities. Visibility excellent (20-40m+) with temperatures averaging 26-30°C. Best for advanced divers comfortable with strong currents.
 
 ## Site Information
 
 - **Location**: Raja Ampat, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter manta rays, whale sharks, reef shark
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Plan this as a drift dive - fast descent into the blue water where pelagic action is fastest (10-18m). Stay in the water column around the seamount to watch for passing schools. Expect rapid descent and be prepared for strong current management. Keep an eye on depth and air consumption. Allow 25-30 minutes bottom time and maintain excellent buoyancy control throughout.
 
 ## Entry and Exit
 

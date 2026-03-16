@@ -3,8 +3,8 @@ name: East of Eden
 lat: 8.59
 lng: 97.66
 difficulty: Intermediate
-maxDepth: 20
-entryType: boat
+maxDepth: 40
+entryType: liveaboard
 siteType: reef
 ref: null
 osmId: null
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## East of Eden
 
-East of Eden is a reef dive site in Thailand Similan Islands, Asia.
+East of Eden is a sloping reef on Island 7 famous for its massive coral bommie covered in soft corals and the friendly giant moray eel, Emma.
 
 ## Overview
 
-East of Eden is a dive site in Thailand Similan Islands offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+East of Eden on Similan Island 7 is one of the Similan Islands' best and most beautiful dive sites. The reef slopes from 5 to 40 meters with excellent visibility. The highlight is a massive coral bommie covered in soft corals, sponges, anemones, and fish—so large a National Geographic team once filmed an entire week at this one feature. Just north is a coral patch home to Emma, a famous friendly giant moray eel known for swimming around divers.
 
 ## Site Information
 
-- **Location**: Thailand Similan Islands, Asia
-- **Entry Type**: Boat dive
+- **Location**: East of Island 7 (Koh Pa-Yu), Similan Islands
+- **Entry Type**: liveaboard
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 40 meters
+- **Typical Visibility**: Always good, 20-30 meters
+- **Current**: Can be present, drifting is easy
+- **Best Time**: November to April
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Leopard sharks and blue-spotted rays on the sand at the reef edge. Turtles frequently seen on the reef. Eagle rays occasionally pass by. Schools of blue-lined snapper are everywhere, as are fusiliers. Featured moray eel Emma is famous for coming out and interacting with divers.
 
 ## Dive Profile
 

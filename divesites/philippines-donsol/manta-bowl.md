@@ -2,10 +2,10 @@
 name: Manta Bowl
 lat: 12.905
 lng: 123.59
-difficulty: Intermediate
-maxDepth: 18
+difficulty: Advanced
+maxDepth: 23
 entryType: boat
-siteType: reef
+siteType: muck
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Manta Bowl
 
-Manta Bowl is a reef dive site in Philippines Donsol, Asia.
+Manta Bowl is an advanced dive site renowned for manta ray encounters and strong currents in Philippines Donsol.
 
 ## Overview
 
-Manta Bowl is a dive site in Philippines Donsol offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Manta Bowl, locally known as Bontod-Tacdogan Reef, is an offshore underwater seamount located between Sorsogon and Ticao Island. A depression in the shoal serves as an ideal cleaning and feeding ground for manta rays, whale sharks, hammerheads, and thresher sharks. This is one of the most productive pelagic diving sites in the Philippines, with exceptional opportunities to encounter large ocean creatures in nutrient-rich waters.
 
 ## Site Information
 
-- **Location**: Philippines Donsol, Asia
+- **Location**: Philippines Donsol, between Sorsogon and Ticao Island
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
+- **Site Type**: Muck dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 23 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Current**: Very strong (2-3 knots typical, requiring reef hooks)
+- **Best Time**: November to May (peak season for manta rays)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Manta Bowl is famous for large ocean creatures attracted by nutrient-rich, plankton-filled waters. Expected sightings include reef manta rays (frequent), whale sharks (seasonal), hammerhead sharks, thresher sharks, remora, cleaner wrasse, trevally, and reef fish. Schools of fusiliers and other small fish create dense feeding clouds.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Divers descend to the sandal bottom around 23 meters where the seamount creates a depression that appears barren initially. The cleaning station attracts constant activity from large pelagics. Current is very strong (2-3 knots typical), requiring divers to secure themselves with reef hooks to maintain position for adequate bottom time. Typical dive time is 40-50 minutes with careful air management due to current-fighting exertion.
 
 ## Entry and Exit
 
@@ -44,11 +44,12 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Bring reef hooks — essential for maintaining position in strong current
+- Build your air consumption profile before diving — you'll need extra effort to stay in place
+- Wide-angle lens recommended for photographing mantas in open water
+- Time your dive with tidal current windows if possible
+- Spot pelagics before descending to optimize encounter chances
+- Bring multiple dive flags and good communication setup with your buddy team
 
 ## Safety Considerations
 

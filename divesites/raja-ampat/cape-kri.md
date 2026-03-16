@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Cape Kri
 
-Cape Kri is a reef dive site in Raja Ampat, Asia.
+Cape Kri is a protected marine sanctuary wall dive in Raja Ampat, renowned for sea turtle encounters.
 
 ## Overview
 
-Cape Kri is a renowned dive site in Raja Ampat offering rewarding diving on healthy coral reef structures . Good corals, a lot of turtles but not a big variety of fishes. But still this spot worth a try. The stream kindly bring you to the west, so you can look the coral around the south of the island.. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Cape Kri is a wall dive within Raja Ampat Marine Protected Area. This coral-encrusted vertical drop is particularly famous for abundant sea turtle populations that graze on reef vegetation. While fish variety may be less than pinnacle sites, the protected status ensures excellent coral health and stable turtle encounters. Visibility typically 15-30+ meters with temperatures averaging 26-30°C.
 
 ## Site Information
 
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter manta rays, whale sharks, reef shark
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend on the wall at 5m and follow the vertical drop to 25-30m. The best turtle observations occur at 10-20m depth where reef vegetation is most abundant. Drift southwesterly with the current as noted. Turtles are regularly spotted grazing and resting along ledges. Spend 35-40 minutes exploring the wall structure and allow adequate air for a thorough safety stop.
 
 ## Entry and Exit
 

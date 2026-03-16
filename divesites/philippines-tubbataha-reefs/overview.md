@@ -4,44 +4,57 @@ addedBy: osm_import
 
 ## Philippines Tubbataha Reefs
 
-Remote UNESCO World Heritage site with pristine reef walls and abundant sharks.
+UNESCO World Heritage Site in the Sulu Sea featuring two atolls (North and South Atoll) and isolated Jessie Beazley Reef. World-class liveaboard diving with pristine walls, abundant sharks, mantas, and excellent reef conditions.
 
 ## Description
 
-Philippines Tubbataha Reefs is a notable diving destination in the Asia region with depths ranging from 5 to 30 meters. Water temperatures average 26-30°C (79-86°F), with visibility typically reaching 10-40 meters (30-130 feet). Year-round diving is possible, with the best conditions during October to April (varies by location).
+Tubbataha Reefs Natural Park covers 97,030 hectares of pristine ocean in the middle of the Sulu Sea, east of Palawan. Declared a UNESCO World Heritage Site in 1993, the park is recognized as one of the New Seven Wonders of the World. Diving depths range from 5 to 60 meters across various site types. Water temperatures average 26-30°C (79-86°F), with exceptional visibility of 30-45 meters (100-150 feet) during the diving season. Strong currents are typical and expected.
 
 ### Diving Opportunities
 
-- **Reef Diving**: Healthy coral reef systems supporting diverse marine ecosystems
-- **Night Diving**: After-dark diving reveals nocturnal marine species and different reef behaviors
+- **Wall Diving**: Dramatic vertical walls plunging into the Sulu Sea with dense coral and gorgonian coverage
+- **Reef Exploration**: Plateaus and terraces with healthy coral structures and diverse fish schools
+- **Wreck Diving**: Historic vessels from various eras, including WWII-era freighters and fishing vessels
+- **Pelagic Encounters**: Regular sightings of sharks, mantas, whale sharks, hammerheads, and other large marine life
+- **Liveaboard Access**: The only way to visit Tubbataha; the park is completely uninhabited
 
 ### Accessibility
 
-- **Getting There**: Philippines Tubbataha Reefs is accessible via international and regional flights to nearby airports. Check with airlines for current routes and connections.
-- **Dive Operators**: Professional dive operators offer equipment rental, guided dives, certification courses, and boat trips to offshore sites.
-- **Accommodation**: Options range from dedicated dive resorts to budget-friendly guesthouses, with many properties located near popular dive sites.
-- **Transportation**: Local transportation and dive operator transfers are the primary means of reaching dive sites.
-- **Facilities**: Dive sites vary in available amenities; operator-run sites typically provide comprehensive facilities while remote sites may have limited infrastructure.
+- **Access**: Liveaboard diving only - the remote location and uninhabited islands make this essential
+- **Departure**: All trips depart from Puerto Princesa, Palawan (150 km north of Tubbataha)
+- **Season**: Mid-March to mid-June only, when waves are calmest and visibility optimal
+- **Trip Length**: Liveaboard itineraries range from 6 to 11+ nights
+- **Cost**: Typically 280-500 EUR per night, depending on vessel and itinerary
+- **Booking**: Fill quickly during peak season; advance planning essential
 
 ### Marine Life & Environment
 
-- **Water Conditions**: Water temperatures range from 26-30°C (79-86°F) with visibility of 10-40 meters (30-130 feet). Currents are generally variable, can be very strong.
-- **Marine Biodiversity**: The waters support diverse marine ecosystems including manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish, nudibranchs, frogfish.
-- **Conservation**: Marine protected areas help preserve the reef ecosystems and regulate diving activities.
+- **Biodiversity**: Over 370 coral species, 600 fish species, 14 shark types, and 12 cetacean species recorded
+- **Large Marine Life**: Grey reef sharks, whitetip sharks, blacktip sharks, hammerheads, silky sharks, whale sharks, manta rays
+- **Reef Fish**: Schools of hammerheads (Ko-ok), sweetlips (Black Rock), bumphead parrotfish, trevally, snappers, emperors, groupers
+- **Other Species**: Sea turtles, lionfish, barracuda, clownfish, nudibranchs, morays
+- **Water Conditions**: Temperatures 26-30°C with visibility 30-45 meters. Strong and variable currents are normal - this is remote atoll diving
+
+## Diving Difficulty & Requirements
+
+- **Minimum Level**: Intermediate certification required (remote location, strong currents, depth)
+- **Advanced Sites**: Wall Street, Delsan Wreck recommended for Advanced divers due to depth and current exposure
+- **Experience**: Recommended for divers with recent open water experience and comfort with strong currents
 
 ## Additional Information
 
-- **Best Time to Visit**: October to April (varies by location). Diving is possible year-round.
+- **Best Time to Visit**: March 16 to June 15 (official diving season)
 - **Currency**: Philippine Peso (PHP)
 - **Language**: Filipino, English
-- **Safety**: Always dive within certification limits. Be aware of strong currents, jellyfish, sea urchins. Verify the location of the nearest hyperbaric chamber before diving.
+- **Safety**: Experienced liveaboard operators manage all safety aspects. Dive within certification limits. Be prepared for strong currents. Verify hyperbaric chamber locations before departure.
 
 ## Sources
 
-- OpenStreetMap dive site data and community contributions
-- Regional diving guides and operator information
-- Marine conservation organization reports
-- Local tourism board resources
+- Tubbataha National Park official information
+- LiveAboard.com destination guides
+- Dive operator sites (Sea Explorers, Discovery Fleet, Infiniti Liveaboard)
+- ScubaBoard trip reports and community discussions
+- WWF Coral Triangle marine conservation data
 
 ---
 

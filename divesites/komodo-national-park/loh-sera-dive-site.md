@@ -13,54 +13,57 @@ addedBy: osm_import
 
 ## Loh Sera dive site
 
-Loh Sera dive site is a reef dive site in Komodo National Park, Asia.
+Dramatic wall dive with large pelagics and strong currents suitable for advanced divers only.
 
 ## Overview
 
-Loh Sera dive site is a dive site in Komodo National Park offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Loh Sera is a challenging wall dive at a coastal cape in southwestern Komodo. The site features a dramatic underwater wall dropping into deep water, with strong currents driven by the tidal exchange between the Indian and Pacific Oceans. These currents attract large pelagic fish including dogtooth tuna, giant groupers, and bumphead parrotfish circling the cape. The dive is not always safe or diveable due to current unpredictability—proper briefing and current assessment are essential. This is strictly an advanced/experienced diver site requiring excellent buoyancy control and current awareness.
 
 ## Site Information
 
-- **Location**: Komodo National Park, Asia
+- **Location**: Southwestern Komodo, Loh Sera Cape
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15–30 meters (50–100 feet); can be variable
+- **Current**: Strong to very strong; site-dependent and tidal-driven
+- **Best Time**: May to October (dry season); diveable only on favorable tide days
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Large pelagic fish dominate this site: dogtooth tuna circling the cape, giant groupers (50+ cm), bumphead parrotfish (humphead), jacks, trevally, reef sharks, and occasionally eagle rays. The wall itself hosts soft corals, sea fans, and smaller reef fish in protected pockets.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Loh Sera is a drift dive with strong current. Divers enter with the current, stay tight with the guide, and allow themselves to drift along the wall face while scanning the blue for pelagics. Do not attempt to swim against the current. Monitor air consumption carefully—the rush of current and large fish activity can cause panic in unprepared divers. Abort if current becomes too strong or safety is compromised.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Giant stride entry. Drift with the current along the wall. Maintain position near the wall face using handholds if needed. Exit must be carefully coordinated with the dive boat; plan well ahead for your SMB deployment. This is a strictly guided site.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Only dive with reputable operators experienced at this site
+- Confirm current conditions and tide timing before entering water
+- Use a reef hook or similar for added control if current is strong
+- Maintain close contact with your guide at all times
+- Do not attempt to swim upstream
+- Be prepared to abort if conditions deteriorate
+- Expect and enjoy the adrenaline rush of pelagic encounters
+- Consider this a goal dive after experiencing other Komodo sites
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+This is the most demanding current dive in Komodo. Only Advanced divers with strong buoyancy control should attempt it. Strong currents can sweep divers away from the wall—immediate action is required. Have a clearly defined abort signal with your guide. Deploy SMB early enough for safe boat pickup. Hypothermia is unlikely, but exhaustion from fighting current is a real risk. Never force yourself to stay if you feel unsafe.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Dramatic wide-angle compositions of the wall and passing pelagics. Fast-moving fish make focus challenging. Bring fast shutter speeds and good autofocus capability. Action shots of dogtooth and grouper hunting. Difficult photography due to movement and safety demands, but extraordinary subject matter.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
 *This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*

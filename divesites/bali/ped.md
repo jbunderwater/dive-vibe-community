@@ -3,9 +3,9 @@ name: Ped
 lat: -8.6756914
 lng: 115.5160285
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 30
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: 4742534378
 addedBy: osm_import
@@ -23,9 +23,9 @@ Ped is a dive site in Bali offering rewarding diving on healthy coral reef struc
 
 - **Location**: Bali, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)

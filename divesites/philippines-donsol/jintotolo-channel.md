@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Jintotolo Channel
 
-Jintotolo Channel is a reef dive site in Philippines Donsol, Asia.
+Jintotolo Channel is an advanced drift dive between Panay and Masbate with historical wreck interest and strong currents.
 
 ## Overview
 
-Jintotolo Channel is a dive site in Philippines Donsol offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Jintotolo Channel (Jintotolo Strait) connects the Sibuyan Sea with the Visayan Sea, separating Panay and Masbate islands. The channel features drift diving conditions with notable current, thriving marine life, and historical significance. Japanese wrecks from World War II (cruiser Kinu and destroyer Uranami) lie on the channel floor, adding historical context to the dive site. Blue, cool water creates ideal snorkeling and diving conditions with crystal-clear visibility.
 
 ## Site Information
 
-- **Location**: Philippines Donsol, Asia
+- **Location**: Between Panay and Masbate islands, Central Visayas, Philippines
 - **Entry Type**: Boat dive
 - **Site Type**: Drift dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 20-40 meters
+- **Current**: Strong and consistent (drift diving required)
+- **Best Time**: November to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The cool, nutrient-rich channel waters support thriving marine life including reef sharks, groupers, barracuda schools, trevally, and reef fish. Wreck fauna colonizes the WWII wrecks, including soft coral encrustation, crustaceans, and fish using the artificial reef structure. Pelagic visitors may include larger species attracted to the current-driven food supply.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Jintotolo Channel is a drift dive where divers descend into the current and allow it to sweep them along the reef or wreck structures. The channel depth varies from shallow areas to 30+ meters. Divers must maintain position with reef hooks when investigating specific features, particularly the Japanese wrecks. Historical interest combines with active reef diving for a unique deep-current experience.
 
 ## Entry and Exit
 
@@ -44,11 +44,12 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Drift diving experience mandatory—strong currents require proper technique
+- Reef hooks essential for wreck exploration and staying on site
+- Wide-angle lens for reef/wreck structures; macro lens for coral encrustation
+- History buffs will appreciate WWII context of the wrecks
+- Current management requires excellent buoyancy control
+- Strong current means careful air consumption monitoring
 
 ## Safety Considerations
 

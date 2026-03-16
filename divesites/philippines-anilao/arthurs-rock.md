@@ -2,8 +2,8 @@
 name: Arthur's Rock
 lat: 13.765
 lng: 120.895
-difficulty: Intermediate
-maxDepth: 18
+difficulty: Beginner
+maxDepth: 21
 entryType: boat
 siteType: reef
 ref: null
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Arthur's Rock
 
-Arthur's Rock is a reef dive site in Philippines Anilao, Asia.
+Arthur's Rock is a marine sanctuary in Bagalangit, Mabini, Batangas, named after the diver and owner of Arthur's Place Dive Resort.
 
 ## Overview
 
-Arthur's Rock is a dive site in Philippines Anilao offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Arthur's Rock is located right in front of Crystal Blue Resort and features an ideal dive spot for divers of all levels. The site is renowned for its stunning coral formations and the unique 'Dead Palm' feature, making it a hotspot for nudibranch enthusiasts. Average depth is 10 meters with maximum of 21 meters. Currents are present but never too strong, making for an extremely pleasant drift dive. Visibility reaches at least 10 meters in regular conditions, up to 20 meters in optimal conditions.
 
 ## Site Information
 
-- **Location**: Philippines Anilao, Asia
+- **Location**: Bagalangit, Mabini, Anilao, front of Crystal Blue Resort
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 21 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Arthur's Rock features abundant marine life including soft corals, feather stars and sponges, gorgonians, whip corals which are home to nudibranchs, many colorful and tiny reef fishes, groupers, snappers, and turtles. Barracudas occasionally visit. The site is renowned for its stunning coral formations and exceptional nudibranch diversity, making it a hotspot for nudibranch enthusiasts and macro photographers.
 
 ## Dive Profile
 

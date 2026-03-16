@@ -2,7 +2,7 @@
 name: White Rock
 lat: 10.109502
 lng: 99.8135659
-difficulty: Intermediate
+difficulty: Beginner
 maxDepth: 22
 entryType: boat
 siteType: reef
@@ -13,18 +13,18 @@ addedBy: osm_import
 
 ## White Rock
 
-White Rock is a reef dive site in Koh Tao, Asia.
+White Rock is one of Koh Tao's most popular and versatile reef dive sites, featuring large granite boulders creating an extensive underwater exploration area. Depths range from shallow sections (2-5 meters) to deeper areas (22-26 meters), making it suitable for all diving levels. The site is ideal for night diving and renowned as a reliable whale shark spotting location.
 
 ## Overview
 
-White Rock is a dive site in Koh Tao offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+White Rock is a highly versatile site with diverse topography and excellent marine life encounters. The large boulder formations create natural corridors and features for exploration at multiple depth ranges. Whale shark sightings are frequent during peak season (March-May). Visibility ranges from 10-40 meters with water temperatures averaging 26-30°C year-round.
 
 ## Site Information
 
 - **Location**: Koh Tao, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Beginner
 - **Maximum Depth**: 22 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong

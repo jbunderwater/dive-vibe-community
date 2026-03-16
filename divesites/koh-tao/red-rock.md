@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Red Rock
 
-Red Rock is a reef dive site in Koh Tao, Asia.
+Red Rock is a popular beginner-friendly reef site featuring a distinctive red-colored rocky formation surrounded by healthy coral gardens. The site is widely used for training dives and recreational diving due to its accessible depth and calm conditions.
 
 ## Overview
 
-Red Rock is a dive site in Koh Tao offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Red Rock offers excellent shallow reef diving with dense coral coverage and abundant marine life. The site's unique red rocks create interesting underwater topography while remaining accessible for newer divers. Visibility ranges from 10-40 meters with water temperatures averaging 26-30°C year-round.
 
 ## Site Information
 

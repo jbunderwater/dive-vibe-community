@@ -5,7 +5,7 @@ lng: 123.56
 difficulty: Intermediate
 maxDepth: 22
 entryType: boat
-siteType: drift
+siteType: reef
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Burias Pass
 
-Burias Pass is a reef dive site in Philippines Donsol, Asia.
+Burias Pass is a designated Important Shark and Ray Area (ISRA) and manta ray aggregation hotspot between Ticao and Burias islands.
 
 ## Overview
 
-Burias Pass is a dive site in Philippines Donsol offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Burias Pass connects Ragay Gulf (north) with Ticao Pass and the Samar Sea (south), creating a natural funnel for nutrient-rich water and plankton. The pass has been designated as an Important Shark Ray Area by marine conservation organizations due to its exceptional biodiversity and manta ray populations. The area supports one of the largest concentrations of reef manta rays in the Philippines with 284 individual rays documented and year-round sighting potential.
 
 ## Site Information
 
-- **Location**: Philippines Donsol, Asia
+- **Location**: Between Ticao and Burias islands, Sorsogon/Albay, Bicol Region
 - **Entry Type**: Boat dive
-- **Site Type**: Drift dive
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 22 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-35 meters
+- **Current**: Moderate to strong
+- **Best Time**: Year-round (peak November-May)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Burias Pass is world-renowned for manta ray encounters—the largest aggregation of reef manta rays in the Philippines. 284 individual manta rays have been documented in this area, representing 72% of Philippine manta records. Sightings occur year-round with peak activity during plankton blooms. Additional species include whale sharks (seasonal), reef sharks, barracuda, trevally, and schooling reef fish. The pass's ISRA designation reflects its critical importance for shark and ray conservation.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 22 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Divers explore reef formations and cleaning stations where manta rays congregate. Depths range from shallow reef crests to 22 meters. Some sites feature reef structure providing shelter, while others offer open water pelagic zones. Divers with reef hooks can position themselves at productive cleaning stations to observe manta interactions. Current management and proper positioning enhance encounter chances.
 
 ## Entry and Exit
 
@@ -44,11 +44,12 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- World-class manta ray destination—use wide-angle lens for these magnificent creatures
+- Position with reef hooks at cleaning stations for optimal manta encounters
+- Year-round diving possible, but November-May offers best conditions
+- Respect the ISRA designation and support sustainable diving practices
+- Multiple dives increase encounter chances
+- Dive with operators experienced in manta behavior and positioning
 
 ## Safety Considerations
 

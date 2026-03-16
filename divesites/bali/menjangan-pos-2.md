@@ -13,30 +13,26 @@ addedBy: osm_import
 
 ## Menjangan - Pos 2
 
-Menjangan - Pos 2 is a wall dive site in Bali, Asia.
-
-## Overview
-
-Menjangan - Pos 2 is a dive site in Bali featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Pos II is part of Menjangan Island's world-famous wall diving. Gentle drift dive along island's south coast with beautiful wall formations. Wall drops from ~12m to 30m+. Features large gorgonians at deeper depths, cold water upwelling brings turtles, manta rays, sharks, and occasional mola-mola encounters. Calm conditions with excellent visibility make this ideal for all experience levels while still offering deep-water features for advanced divers.
 
 ## Site Information
 
-- **Location**: Bali, Asia
+- **Location**: Menjangan Island, Northwest Bali, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 30-50 meters (100-165 feet)
+- **Current**: Mild to moderate drift
+- **Best Time**: Year-round, slightly better May-September
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Large gorgonians and sea fans at 25m+. Cold water upwelling brings turtles, manta rays, sharks (bamboo and reef sharks). Occasional mola-mola sightings. Diverse tropical reef fish and macro subjects on wall structure.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-30 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Descent to wall at ~12m, drift along wall structure. Shallow sections (12-25m) suitable for all divers. Deeper sections (25m+) feature gorgonians and deeper-water species. Gentle drift makes navigation easy. Safety stop during drift pickup.
 
 ## Entry and Exit
 
@@ -44,12 +40,12 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Excellent drift dive suitable for mixed experience levels
+- Warm waters and calm conditions ideal for building skills
+- Expect 30-50m visibility — bring wide-angle camera
+- Book with Menjangan specialists who know the sites well
+- Cold water upwelling (sometimes) — bring thermal protection
+- Check local conditions before diving but generally very consistent
 
 ## Safety Considerations
 

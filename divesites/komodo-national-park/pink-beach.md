@@ -2,8 +2,8 @@
 name: Pink Beach
 lat: -8.60391
 lng: 119.5184013
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Beginner
+maxDepth: 30
 entryType: boat
 siteType: reef
 ref: null
@@ -13,54 +13,55 @@ addedBy: osm_import
 
 ## Pink Beach
 
-Pink Beach is a reef dive site in Komodo National Park, Asia.
+Accessible reef dive with dramatic pink sand shoreline and shallow coral gardens.
 
 ## Overview
 
-Pink Beach is a dive site in Komodo National Park offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Pink Beach (Pantai Merah) is one of the few diveable beaches in Komodo, named for its distinctive reddish sand formed from crushed volcanic coral and basalt. The dive is approachable for most skill levels, with a gently sloping bottom that transitions from shallow coral gardens (3–10 meters) to deeper sandy patches. The underwater topography is predominantly sandy plateau with scattered coral blocks and rubble. Mild to moderate currents are typical, and the site is less crowded than the famous manta sites.
 
 ## Site Information
 
-- **Location**: Komodo National Park, Asia
+- **Location**: Western Komodo, near the famous Pink Beach shore
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 30 meters
+- **Typical Visibility**: 15–30 meters (50–100 feet) dry season; 10–20m wet season
+- **Current**: Mild to moderate
+- **Best Time**: May to October; diveable year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Reef sharks (black-tip and white-tip), sea turtles, barracuda, trevally, napoleon wrasse, groupers, snappers, and schooling fusiliers. The shallow coral areas host clownfish, damselfish, parrotfish, and a variety of reef fish. Sand-dwelling creatures include garden eels, jawfish, and rays.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to 10–15 meters and work the coral blocks and bommies. The site rewards a relaxed approach—good for photographers and those building confidence in shallower depths. Use the sand channels as highways between coral patches. Gradually work deeper toward 25–30 meters if air and conditions allow, but much of the activity is in the shallow-to-medium depth range.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat drop-off in 10–15 meters. Giant stride entry. Drift gently with current as you explore. Exit via SMB deployment.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Time your dive for slack tide if possible for easier navigation
+- Scout the shallower sections first before going deeper
+- Use the sand patches to build confidence before tackling coral heads
+- Great for photography—bring both wide and macro lenses
+- Stay within shallow depths if current increases
+- Morning dives offer best light for reef and critter photography
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Mild currents make this safer than more exposed sites. Maintain buoyancy to avoid damaging coral. Avoid the deepest sections if current picks up. Watch for lionfish and stonefish in coral crevices. Plan your dive profile conservatively.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Good for both macro and wide-angle work. Coral formations and fish schooling provide diverse subjects. Shallow water means excellent natural light for color saturation. Slow, relaxed pace allows for creative composition.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
 *This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*

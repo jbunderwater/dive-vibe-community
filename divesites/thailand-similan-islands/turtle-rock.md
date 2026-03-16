@@ -3,9 +3,9 @@ name: Turtle Rock
 lat: 8.63
 lng: 97.65
 difficulty: Beginner
-maxDepth: 16
-entryType: boat
-siteType: reef
+maxDepth: 25
+entryType: liveaboard
+siteType: boulder
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Turtle Rock
 
-Turtle Rock is a reef dive site in Thailand Similan Islands, Asia.
+Turtle Rock is a shallow boulder dive on Island 8's northwest side named for the distinctive turtle-shaped rock that protrudes from the surface.
 
 ## Overview
 
-Turtle Rock is a dive site in Thailand Similan Islands offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Turtle Rock is situated on the north-western side of Island 8, towards the Andaman Sea. The site derives its name from the distinctive turtle-shaped rock that protrudes from the surface, serving as a prominent marker. The rocky area features shallow boulders and staghorn corals tracing the edges of the island, with canyons and swim-throughs along the north side.
 
 ## Site Information
 
-- **Location**: Thailand Similan Islands, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Location**: North-western side of Island 8, Similan Islands
+- **Entry Type**: liveaboard
+- **Site Type**: Boulder
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 16 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 25 meters
+- **Typical Visibility**: Good
+- **Current**: Mild
+- **Best Time**: November to April
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Sea turtles grace the waters regularly. Sweetlips, snappers, angelfish, moray eels, garden eels, blue-spotted stingrays common. Lobsters, nudibranchs. Tantalizing possibility of whale sharks and manta rays during season.
 
 ## Dive Profile
 

@@ -2,10 +2,10 @@
 name: The Dome
 lat: 9.0563523
 lng: 97.8122901
-difficulty: Intermediate
-maxDepth: 20
-entryType: boat
-siteType: reef
+difficulty: Advanced
+maxDepth: 30
+entryType: liveaboard
+siteType: pinnacle
 ref: null
 osmId: 6164080185
 addedBy: osm_import
@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## The Dome
 
-The Dome is a reef dive site in Thailand Similan Islands, Asia.
+The Dome (also called Koh Tachai Pinnacle) is a dome-shaped pinnacle with large boulders and strong currents in the Similan Islands, Thailand.
 
 ## Overview
 
-The Dome is a dive site in Thailand Similan Islands offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The Dome is a granite pinnacle feature off Koh Tachai island, featuring a dome-shaped structure topped with large boulders surrounded by massive underwater rock formations. The site is characterized by strong, unpredictable currents that attract larger pelagic species. Currents and depth make this an advanced dive suitable for experienced divers only.
 
 ## Site Information
 
-- **Location**: Thailand Similan Islands, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Location**: Off Koh Tachai, Similan Islands, Andaman Sea
+- **Entry Type**: liveaboard
+- **Site Type**: Pinnacle/seamount
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 30 meters
+- **Typical Visibility**: 20-30 meters (65-100 feet)
+- **Current**: Medium to strong, very unpredictable
+- **Best Time**: November to April
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The Dome hosts diverse marine life including giant oceanic manta rays, whale sharks, leopard sharks, white-tip reef sharks, rays, and tropical reef fish. Sightings vary seasonally with best large animal encounters in the February-April period.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend on the pinnacle structure and use boulders for shelter from currents. The site is best dived by hiding behind rocks and using them to control drift. Expect depths of 12-30+ meters depending on conditions and dive plan. Stay close to the structure and be ready to abort if currents become unmanageable. Monitor air supply closely due to working against current.
 
 ## Entry and Exit
 
@@ -52,7 +52,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+This site is for Advanced Open Water divers and above only. The minimum depth is 12 meters and currents are unpredictable and often strong. Learn to shelter behind boulders and swim close to the bottom to manage current. Carry multiple signaling devices and be prepared to abort immediately if conditions exceed your limits. The Dome is NOT suitable for learning; no certification instruction is recommended here.
 
 ## Photography
 

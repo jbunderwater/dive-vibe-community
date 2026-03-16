@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Laem Thian Pinnacle
 
-Laem Thian Pinnacle is a reef dive site in Koh Tao, Asia.
+Laem Thian is a gorgeous beginner pinnacle dive site located on Koh Tao's less developed east side. The site offers stunning swim-throughs and abundance of corals with hard coral gardens covering the rocks. Laem Thian actually comprises two distinct dive sites: Laem Thian Bay and Laem Thian Caves, each offering unique underwater features.
 
 ## Overview
 
-Laem Thian Pinnacle is a dive site in Koh Tao offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Laem Thian Pinnacle offers beginner-friendly pinnacle diving with spectacular swim-throughs and dense hard coral coverage. The site is ideal for discovering diverse marine life while remaining within shallow, safe depths. The relatively sheltered location on Koh Tao's protected east side makes it an excellent training location. Visibility ranges from 10-40 meters with water temperatures averaging 26-30°C year-round.
 
 ## Site Information
 

@@ -2,7 +2,7 @@
 name: Scuba Junction
 lat: 10.0954715
 lng: 99.8276977
-difficulty: Intermediate
+difficulty: Beginner
 maxDepth: 20
 entryType: boat
 siteType: reef
@@ -13,18 +13,18 @@ addedBy: osm_import
 
 ## Scuba Junction
 
-Scuba Junction is a reef dive site in Koh Tao, Asia.
+Scuba Junction is a popular reef dive site in Koh Tao offering coral gardens and abundant marine life. The site provides good access for training and recreational diving with moderate depth and generally calm conditions. It's a versatile location suitable for divers working to develop skills and experience.
 
 ## Overview
 
-Scuba Junction is a dive site in Koh Tao offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Scuba Junction is a well-established training and recreational reef site with healthy coral structures and diverse marine life. The site offers good opportunities for skill practice and marine life observation. Visibility ranges from 10-40 meters with water temperatures averaging 26-30°C year-round.
 
 ## Site Information
 
 - **Location**: Koh Tao, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong

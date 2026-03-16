@@ -4,7 +4,7 @@ lat: 11.1536768
 lng: 119.279235
 difficulty: Advanced
 maxDepth: 30
-entryType: shore
+entryType: boat
 siteType: cave
 ref: null
 osmId: 9865472184
@@ -22,7 +22,7 @@ Cave is a dive site in Philippines Palawan featuring underwater cave and cavern 
 ## Site Information
 
 - **Location**: Philippines Palawan, Asia
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters

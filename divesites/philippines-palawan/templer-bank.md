@@ -3,7 +3,7 @@ name: Templer Bank
 lat: 11.0661464
 lng: 117.2728355
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 24
 entryType: boat
 siteType: reef
 ref: null
@@ -25,7 +25,7 @@ Templer Bank is a dive site in Philippines Palawan offering rewarding diving on 
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 24 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)

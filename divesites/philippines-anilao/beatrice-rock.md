@@ -2,8 +2,8 @@
 name: Beatrice Rock
 lat: 13.76
 lng: 120.89
-difficulty: Advanced
-maxDepth: 30
+difficulty: Intermediate
+maxDepth: 27
 entryType: boat
 siteType: reef
 ref: null
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Beatrice Rock
 
-Beatrice Rock is a reef dive site in Philippines Anilao, Asia.
+Beatrice Rock is a reef site located north of Sombrero Island at the northern end of Maricaban Strait, known for dramatic topography and strong currents.
 
 ## Overview
 
-Beatrice Rock is a dive site in Philippines Anilao offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Beatrice Rock features a series of short drop-offs with channels between 5-27 meters depth. One side offers mini walls and gradual slopes leading to coral gardens. The site experiences strong currents that have produced vibrant hard coral growth. Visibility reaches up to 25 meters in good conditions. The site is named after an early explorer's travel companion during Anilao's pioneering diving days.
 
 ## Site Information
 
-- **Location**: Philippines Anilao, Asia
+- **Location**: North of Sombrero Island, Maricaban Strait, Anilao
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 27 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The site is densely populated with reef fish including triggerfish, snappers, surgeonfish, jacks and anthias. Strong currents support pelagic visitors including tuna, rainbow runners, several species of rays, and occasional whale sharks. Blue-ringed octopuses and sea turtles are sometimes encountered. Visibility can reach 25 meters, allowing for observation of larger marine life.
 
 ## Dive Profile
 
@@ -52,7 +52,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Beatrice Rock experiences strong currents that are a defining feature of the site. These currents feed the healthy coral ecosystem but require current-aware diving technique. Be aware of strong currents, jellyfish, and sea urchins. Dive within your certification limits and experience level. Strong currents are present — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 

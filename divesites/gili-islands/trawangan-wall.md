@@ -3,7 +3,7 @@ name: Trawangan Wall
 lat: -8.3465756
 lng: 116.0436158
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 25
 entryType: boat
 siteType: wall
 ref: null
@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Trawangan Wall
 
-Trawangan Wall is a wall dive site in Gili Islands, Asia.
+Trawangan Wall is an intermediate wall dive on the west side of Gili Trawangan offering excellent topography and coral formations in a scenic underwater setting.
 
 ## Overview
 
-Trawangan Wall is a dive site in Gili Islands featuring a dramatic vertical wall that drops into the deep blue . source is Diveschool Notice Board - Location might have to be checked with a GPS. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Trawangan Wall features a dramatic vertical wall structure with stunning coral coverage and gradual depth progression. The site extends down to approximately 25 meters with beautiful wall architecture and healthy coral formations. The steep wall provides dramatic wide-angle photography opportunities and interesting topography for exploration. Slopes and overhangs create habitat for various fish species and macro subjects. This is a reliable site with good visibility and moderate current conditions, making it suitable for intermediate divers seeking wall diving experience in the Gilis.
 
 ## Site Information
 
-- **Location**: Gili Islands, Asia
+- **Location**: West side of Gili Trawangan, Gili Islands
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Current**: Variable, generally moderate
+- **Best Time**: April to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+The wall supports healthy coral formations with abundant reef fish populations. Sea turtles are occasionally encountered. Macro subjects like nudibranchs and small crustaceans inhabit wall crevices. Occasional reef sharks and rays cruise the deeper sections. The wall structure creates a vertical ecosystem with different species at varying depths.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-20 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Begin your descent along the wall from the top at shallow depths, following the wall structure downward. The stable wall topography makes it easy to maintain buoyancy and control your depth. Explore the coral formations and ledges, looking for macro subjects and schooling fish. The wall extends to 25 meters, allowing flexibility in your dive profile — you can stay shallow for extended bottom time or descend deeper for experienced divers. The consistent wall structure and reliable conditions make this a good site for wall diving practice and exploration.
 
 ## Entry and Exit
 

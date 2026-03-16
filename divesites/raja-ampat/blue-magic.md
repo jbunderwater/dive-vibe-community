@@ -2,7 +2,7 @@
 name: Blue Magic
 lat: -0.5074179
 lng: 130.7368162
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 30
 entryType: boat
 siteType: pinnacle
@@ -17,14 +17,14 @@ Blue Magic is a reef dive site in Raja Ampat, Asia.
 
 ## Overview
 
-Blue Magic is a renowned dive site in Raja Ampat offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Blue Magic is a world-renowned pinnacle site in Raja Ampat's Four Kings archipelago. This submerged seamount is famous for strong pelagic encounters including jacks, trevally, and sharks in crystal-clear water. One of Raja Ampat's premier current dives, Blue Magic requires intermediate-to-advanced skills. Visibility typically exceeds 25-40 meters with temperatures averaging 26-30°C.
 
 ## Site Information
 
 - **Location**: Raja Ampat, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter manta rays, whale sharks, reef shark
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Blue Magic is a current-swept pinnacle drift. Descend 10-15m quickly and position yourself in the blue water around the seamount (5-30m). The strongest pelagic action typically occurs at 10-20m depth where trevally and barracuda schools hunt. Expect strong, variable currents - always have an exit strategy and be prepared to abort if current becomes unmanageable. Allow adequate air for a thorough safety stop.
 
 ## Entry and Exit
 

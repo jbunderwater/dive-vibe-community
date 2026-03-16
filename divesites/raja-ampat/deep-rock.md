@@ -2,7 +2,7 @@
 name: Deep Rock
 lat: -0.5138244
 lng: 130.4405035
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 25
 entryType: boat
 siteType: pinnacle
@@ -24,7 +24,7 @@ Deep Rock is a dive site in Raja Ampat offering rewarding diving on healthy cora
 - **Location**: Raja Ampat, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong

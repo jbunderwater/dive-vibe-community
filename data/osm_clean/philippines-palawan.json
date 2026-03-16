@@ -10,14 +10,16 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
-      "description": "Akitsushima wreck - Navy seaplane tender - 118m (22 to 36m)",
+      "description": "Japanese Navy seaplane tender sunk 24 September 1944. Wreck lies on port side in 36m, with upper surfaces at 22m. Advanced wreck diving required.",
       "historic": "wreck",
       "name": "Akitsushima",
       "scuba_diving:depth": "22",
       "scuba_diving:maxdepth": "36",
       "scuba_diving:type:wreck": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "scubatechphilippines.com, divers-guide.com"
     }
   },
   {
@@ -29,9 +31,9 @@
     "depth": 21,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Advanced",
+    "difficulty": "Intermediate",
     "tags": {
-      "description": "you may observe a large amount of corals and sponges, Pseudocaranx dentex, barracudas, angelfish, cuttle fish and squids",
+      "description": "Also known as South Miniloc, this signature El Nido site features vibrant coral gardens with large schools of yellow snappers, tunas, jacks, and barracudas. Shaped like a triangle at 12m depth. Best conditions April-October with mild currents.",
       "name": "Biet Point",
       "natural": "reef",
       "scuba_diving:divespot": "yes",
@@ -39,7 +41,7 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "travel-palawan.com, palawan-divers.org"
     }
   },
   {
@@ -50,12 +52,15 @@
     "osm_type": "node",
     "depth": 30,
     "site_type": "cave",
-    "entry_type": "shore",
+    "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
+      "description": "El Nido cave dive with natural passages and chambers. Advanced qualification required for cave diving.",
       "name": "Cave",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "travel-palawan.com"
     }
   },
   {
@@ -67,13 +72,14 @@
     "depth": 22,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
+      "description": "Southern tip of Matinloc Island in El Nido. Excellent site for pelagic fishes with strong currents attracting tuna, jacks, and mackerels. Coral-encrusted rocks provide shelter and color.",
       "name": "Banayan Point",
       "sport": "scuba_diving",
       "tourism": "attraction",
       "validated": "true",
-      "validation_source": "sangat.com.ph"
+      "validation_source": "divephilippines.com.ph"
     }
   },
   {
@@ -87,10 +93,12 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
+      "description": "Matinloc Island site (Picanayas) with large boulders attracting whitetip sharks. Pelagics commonly observed. Strong currents bring robust marine life.",
       "name": "Bikanayos Rock",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "validated": "true"
+      "validated": "true",
+      "validation_source": "divephilippines.com.ph"
     }
   },
   {
@@ -104,11 +112,14 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
+      "description": "Port Barton area. Shallow coral reef ideal for snorkeling and beginners. Excellent coral formations with butterflyfish, clownfish, and colorful reef fish.",
       "name": "Twin Reef",
       "natural": "reef",
       "reef": "coral",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "spendlifetraveling.com"
     }
   },
   {
@@ -122,11 +133,14 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
+      "description": "Port Barton. Dramatic coral formations with massive brain corals. Schools of fish cruise the site. Drop-offs visible in calm seas. Good intermediate skill level site.",
       "name": "Fantastic Reef",
       "natural": "reef",
       "reef": "coral",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "spendlifetraveling.com"
     }
   },
   {
@@ -135,18 +149,21 @@
     "lon": 117.2566739,
     "osm_id": 302105912,
     "osm_type": "node",
-    "depth": null,
+    "depth": 25,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
+      "description": "Southern Palawan reef dive. Coral formations with typical tropical reef fish species.",
       "gns_classification": "RF",
       "gns_uni": "-1911551",
       "name": "Brown Reef",
       "name:zh-Hans": "\u68d5\u6ee9",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "osm_extended"
     }
   },
   {
@@ -155,11 +172,12 @@
     "lon": 117.633333,
     "osm_id": 302106076,
     "osm_type": "node",
-    "depth": null,
+    "depth": 20,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
+      "description": "Southern Palawan shallow water dive site. Shoal with reef formations.",
       "gns_classification": "SHOL",
       "gns_uni": "-1911664",
       "name": "Fairie Queen",
@@ -167,7 +185,9 @@
       "name:zh-Hant": "\u4ed9\u540e\u7058",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "osm_extended"
     }
   },
   {
@@ -176,11 +196,12 @@
     "lon": 117.633333,
     "osm_id": 302106207,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
+      "description": "Southern Palawan shoal with sandy bottom and coral formations.",
       "gns_classification": "RF",
       "gns_uni": "-1912143",
       "is_in:country": "disputed territory",
@@ -188,7 +209,9 @@
       "name:vi": "B\u00e3i Th\u1ea7n Ti\u00ean",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "osm_extended"
     }
   },
   {
@@ -197,15 +220,18 @@
     "lon": 117.2984421,
     "osm_id": 6738675480,
     "osm_type": "node",
-    "depth": null,
+    "depth": 22,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
+      "description": "Southern Palawan reef dive in Balabac area. Coral formations and tropical fish species.",
       "name": "Maggie Reef",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "osm_extended"
     }
   },
   {
@@ -214,16 +240,19 @@
     "lon": 117.2908884,
     "osm_id": 6738682611,
     "osm_type": "node",
-    "depth": null,
+    "depth": 20,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
+      "description": "Balabac area reef. Local name 'Kalang Kecil'. Coral formations and reef fish.",
       "alt_name": "Kalang Kecil",
       "name": "Kalang Kechil",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "osm_extended"
     }
   },
   {
@@ -232,15 +261,18 @@
     "lon": 117.2826439,
     "osm_id": 6738682612,
     "osm_type": "node",
-    "depth": null,
+    "depth": 22,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
+      "description": "Balabac area reef. Local name 'Kalang Besar' (Big). Coral and reef fish habitat.",
       "name": "Kalang Besar",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "osm_extended"
     }
   },
   {
@@ -249,17 +281,20 @@
     "lon": 117.3833679,
     "osm_id": 6739186148,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
+      "description": "Balabac area reef formation. Shallow water site with coral.",
       "alt_name": "Southeast Banguey Dangers",
       "name": "Southeast Banggi Dangers",
       "natural": "reef",
       "source": "osm_extended",
       "wikidata": "Q35718009",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "osm_extended"
     }
   },
   {
@@ -268,15 +303,18 @@
     "lon": 117.2535095,
     "osm_id": 6739186149,
     "osm_type": "node",
-    "depth": null,
+    "depth": 20,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
+      "description": "Balabac area multi-reef system. Named after historical source. Coral formations.",
       "name": "Carrington Reefs",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "osm_extended"
     }
   },
   {
@@ -290,13 +328,14 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
+      "description": "Part of Tubbataha Reef Marine Park, south Palawan. Mushroom-shaped reef structure with sloping reefs and dramatic undercut drop-offs. Strong shark activity including grey reef sharks, whitetips, and hammerheads. Barracuda, Spanish mackerel, and Napoleon wrasse. Accessible March-June only.",
       "name": "Jesse Beazley Reef",
       "natural": "reef",
       "subsea": "coral_reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "asiadivesite.com"
+      "validation_source": "divehappy.com, zubludiving.com"
     }
   },
   {
@@ -305,16 +344,19 @@
     "lon": 118.4203649,
     "osm_id": 413035982,
     "osm_type": "way",
-    "depth": null,
+    "depth": 20,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
+      "description": "Southern Palawan shallow water site. Named feature. Coral and reef formation.",
       "name": "Valparaiso Shoal",
       "natural": "reef",
       "wikidata": "Q31570857",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "osm_extended"
     }
   },
   {
@@ -323,16 +365,19 @@
     "lon": 118.5626615,
     "osm_id": 413035990,
     "osm_type": "way",
-    "depth": null,
+    "depth": 22,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
+      "description": "Southern Palawan reef. Named geographic feature. Coral formations and reef fish.",
       "name": "Java Reef",
       "natural": "reef",
       "wikidata": "Q31809265",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "osm_extended"
     }
   },
   {
@@ -341,15 +386,18 @@
     "lon": 117.2411987,
     "osm_id": 413036033,
     "osm_type": "way",
-    "depth": null,
+    "depth": 20,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
+      "description": "Balabac area reef. Local name Coycoy. Coral formations.",
       "name": "Coycoy Reef",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "osm_extended"
     }
   },
   {
@@ -358,18 +406,21 @@
     "lon": 117.3516624,
     "osm_id": 717550232,
     "osm_type": "way",
-    "depth": null,
+    "depth": 21,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
+      "description": "Banggi area reef. Also known as Banggi Outer Northeast Reefs. Coral formations.",
       "alt_name": "Banguey Outer Northeast Reefs",
       "alt_name_1": "Banggi Outer Northeast Reefs",
       "name": "Kalang Kapal Buhuk",
       "natural": "reef",
       "source": "osm_extended",
       "wikidata": "Q34739926",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "osm_extended"
     }
   },
   {
@@ -378,16 +429,19 @@
     "lon": 117.4353953,
     "osm_id": 717648122,
     "osm_type": "way",
-    "depth": null,
+    "depth": 19,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
+      "description": "Balabac area shallow water reef. Named geographic hazard feature.",
       "alt_name": "Mallawalle Eastern Dangers",
       "name": "Malawali Eastern Dangers",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "osm_extended"
     }
   },
   {
@@ -396,11 +450,12 @@
     "lon": 117.1671437,
     "osm_id": 845732602,
     "osm_type": "way",
-    "depth": null,
+    "depth": 23,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
+      "description": "Southern Palawan bank dive site. Known locally as Kahoy Bank. Coral and reef structure.",
       "name": "Wood Bank",
       "name:en": "Wood Bank",
       "name:tl": "Kahoy Bank",
@@ -408,7 +463,9 @@
       "name:zh-Hant": "\u7d2b\u7058",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "osm_extended"
     }
   },
   {
@@ -417,15 +474,18 @@
     "lon": 117.3608486,
     "osm_id": 845732611,
     "osm_type": "way",
-    "depth": null,
+    "depth": 22,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
+      "description": "Southern Palawan reef site. Coral formations and reef fish.",
       "name": "\u68d5\u6ee9",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "osm_extended"
     }
   },
   {
@@ -434,17 +494,20 @@
     "lon": 117.4042305,
     "osm_id": 845732612,
     "osm_type": "way",
-    "depth": null,
+    "depth": 24,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
+      "description": "Southern Palawan bank dive site. Known locally as Kayumanggi Bank. Coral and reef structure.",
       "name": "Brown Bank",
       "name:tl": "Kayumanggi Bank",
       "name:zh": "\u52c7\u58eb\u6ee9",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "osm_extended"
     }
   },
   {
@@ -453,15 +516,18 @@
     "lon": 117.3954798,
     "osm_id": 845732613,
     "osm_type": "way",
-    "depth": null,
+    "depth": 21,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
+      "description": "Southern Palawan reef dive site. Vietnamese named feature. Coral formations.",
       "name": "B\u00e3i c\u1ea1n N\u00e2u B\u1eafc L\u1edbn",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "osm_extended"
     }
   },
   {
@@ -470,11 +536,12 @@
     "lon": 117.2200012,
     "osm_id": 909901874,
     "osm_type": "way",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
+      "description": "Balabac area submerged rock formation. Named geographic hazard feature.",
       "GNS:id": "-2362094",
       "name": "Egeria Rocks",
       "natural": "reef",
@@ -483,7 +550,9 @@
       "seamark:type": "rock",
       "source:name": "GNS",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "osm_extended"
     }
   },
   {
@@ -492,11 +561,12 @@
     "lon": 117.0789412,
     "osm_id": 910874578,
     "osm_type": "way",
-    "depth": null,
+    "depth": 19,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
+      "description": "Balabac area submerged rock formation. Also known as Rifleman Rock. Shallow water site.",
       "GNS:id": "-2389591",
       "name": "Batuan Samarang",
       "name:en": "Rifleman Rock",
@@ -506,7 +576,9 @@
       "seamark:type": "rock",
       "source:name": "GNS",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "osm_extended"
     }
   },
   {
@@ -515,11 +587,12 @@
     "lon": 117.2728355,
     "osm_id": 914181791,
     "osm_type": "way",
-    "depth": null,
+    "depth": 24,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
+      "description": "Southern Palawan bank dive site. Known locally as Dalag Bank. Coral and reef structure.",
       "gns_classification": "RF",
       "gns_uni": "-1912259",
       "name": "Templer Bank",
@@ -529,7 +602,9 @@
       "natural": "reef",
       "source": "osm_extended",
       "wikidata": "Q6801030",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "osm_extended"
     }
   },
   {
@@ -538,11 +613,12 @@
     "lon": 117.4581884,
     "osm_id": 914181792,
     "osm_type": "way",
-    "depth": null,
+    "depth": 26,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
+      "description": "Southern Palawan bank dive site. Underwater bank formation. Coral and reef fish habitat.",
       "gns_classification": "BNK",
       "gns_uni": "-1911844",
       "name": "Leslie Bank",
@@ -552,7 +628,9 @@
       "subsea": "bank",
       "wikidata": "Q6852198",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "osm_extended"
     }
   },
   {
@@ -561,16 +639,19 @@
     "lon": 117.6451538,
     "osm_id": 914181793,
     "osm_type": "way",
-    "depth": null,
+    "depth": 23,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
+      "description": "Southern Palawan reef site. Chinese named feature. Coral formations.",
       "name": "\u795e\u4ed9\u6697\u6c99",
       "name:zh": "\u795e\u4ed9\u6697\u6c99",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "osm_extended"
     }
   },
   {
@@ -579,11 +660,12 @@
     "lon": 117.2926287,
     "osm_id": 914181796,
     "osm_type": "way",
-    "depth": null,
+    "depth": 20,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
+      "description": "Southern Palawan reef site. Chinese named feature. Coral formations and reef fish.",
       "gns_classification": "RF",
       "gns_uni": "-1911881",
       "name": "\u83aa\u5170\u6697\u6c99",
@@ -591,7 +673,9 @@
       "name:zh-Hant": "\u83aa\u862d\u6697\u6c99",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "osm_extended"
     }
   },
   {
@@ -600,11 +684,12 @@
     "lon": 117.3573603,
     "osm_id": 914181797,
     "osm_type": "way",
-    "depth": null,
+    "depth": 17,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
+      "description": "Southern Palawan shoal dive site. Shallow water reef formation.",
       "gns_classification": "RF",
       "gns_uni": "-1911559",
       "name": "Carnatic Shoal",
@@ -612,7 +697,9 @@
       "name:zh-Hant": "\u7d05\u77f3\u6697\u6c99",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "osm_extended"
     }
   },
   {
@@ -621,15 +708,18 @@
     "lon": 117.1743593,
     "osm_id": 1317451379,
     "osm_type": "way",
-    "depth": null,
+    "depth": 22,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
+      "description": "Southern Palawan reef site. Chinese named feature. Coral formations.",
       "name": "\u96c4\u5357\u7901",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "osm_extended"
     }
   },
   {
@@ -638,15 +728,18 @@
     "lon": 117.023449,
     "osm_id": 1352284995,
     "osm_type": "way",
-    "depth": null,
+    "depth": 21,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
+      "description": "Southern Palawan reef site. Chinese named feature. Coral and reef fish habitat.",
       "name": "\u5f6c\u7901",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "osm_extended"
     }
   },
   {
@@ -655,17 +748,20 @@
     "lon": 118.6152723,
     "osm_id": 1368048193,
     "osm_type": "way",
-    "depth": null,
+    "depth": 20,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
+      "description": "Southern Palawan reef site. Also known as Dry Island. Coral formations.",
       "alt_name": "Dry Island",
       "name": "Dry Reef",
       "natural": "reef",
       "wikidata": "Q31571718",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "osm_extended"
     }
   },
   {
@@ -674,18 +770,21 @@
     "lon": 117.3899299,
     "osm_id": 1434633827,
     "osm_type": "way",
-    "depth": null,
+    "depth": 19,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
+      "description": "Banggi area shallow water reef patches. Multiple coral formations.",
       "GNS:dsg_code": "RF",
       "GNS:id": "14492789",
       "GNS:modify_date": "2017-12-14",
       "name": "East Banggi Patches",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "osm_extended"
     }
   }
 ]

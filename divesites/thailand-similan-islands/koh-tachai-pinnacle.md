@@ -3,9 +3,9 @@ name: Koh Tachai Pinnacle
 lat: 9.13
 lng: 97.83
 difficulty: Advanced
-maxDepth: 28
-entryType: boat
-siteType: wall
+maxDepth: 45
+entryType: liveaboard
+siteType: pinnacle
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Koh Tachai Pinnacle
 
-Koh Tachai Pinnacle is a reef dive site in Thailand Similan Islands, Asia.
+Koh Tachai Pinnacle is a dome-shaped granite pinnacle off Tachai Island with strong, unpredictable currents, large pelagics, and challenging diving conditions.
 
 ## Overview
 
-Koh Tachai Pinnacle is a dive site in Thailand Similan Islands offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Koh Tachai Pinnacle is a granite pinnacle topout at 12 meters, descending to 35+ meters with a dome shape surrounded by large boulders. The site is characterized by unpredictable and often strong currents. Minimum depth is 12 meters and the current is unpredictable and sometimes very strong, making it challenging even for intermediate divers. Large oceanic manta rays, whale sharks, leopard sharks, white-tip and black-tip reef sharks are sighted regularly.
 
 ## Site Information
 
-- **Location**: Thailand Similan Islands, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Location**: Off Koh Tachai Island, Similan Islands
+- **Entry Type**: liveaboard
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 28 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 45 meters
+- **Typical Visibility**: 20-30 meters
+- **Current**: Medium to very strong, unpredictable
+- **Best Time**: November to April, February-April best for pelagics
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Giant oceanic manta rays, whale sharks, leopard sharks, white-tip reef sharks, black-tip reef sharks regular sightings.
 
 ## Dive Profile
 

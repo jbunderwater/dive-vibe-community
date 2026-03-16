@@ -2,9 +2,9 @@
 name: Boonsung Wreck
 lat: 8.7707571
 lng: 98.1863863
-difficulty: Intermediate
+difficulty: Beginner
 maxDepth: 20
-entryType: boat
+entryType: day trip
 siteType: wreck
 ref: null
 osmId: 6146706985
@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Boonsung Wreck
 
-Boonsung Wreck is a historic wreck dive in Thailand Similan Islands, Asia.
+Boonsung Wreck is a historic tin mining platform wreck in Khao Lak, famous for abundant marine life including moray eels, snapper, and occasional whale sharks.
 
 ## Overview
 
-Boonsung Wreck is a dive site in Thailand Similan Islands featuring the wreck of the Boonsung Wreck. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The Boonsung Wreck is a former tin dredger that sank in 1985 and was further fragmented by the 2004 tsunami. Now resting at 18-20 meters on flat sand, the wreck is fully encrusted with marine life and attracts trevally, snapper, barracuda, and other reef residents. This is an accessible wreck dive suitable for Open Water divers with good visibility of honeycomb moray eels and abundant fish life.
 
 ## Site Information
 
-- **Location**: Thailand Similan Islands, Asia
-- **Entry Type**: Boat dive
+- **Location**: Khao Lak, off-coast Andaman Sea, ~7 nautical miles from coast
+- **Entry Type**: day trip
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 8-10 meters (requires buoy line descent)
+- **Current**: Mild to moderate
+- **Best Time**: November to April
 
 ## Marine Life
 
-Divers at this site can expect to encounter batfish, lionfish, sweetlips, coral growth, soft corals, manta rays, whale sharks, reef sharks. Additional species commonly sighted include sea turtles, barracuda, trevally. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Boonsung Wreck is alive with marine life including honeycomb moray eels (seen on nearly every dive), snapper, trevally, porcupinefish, batfish, juvenile barracuda, lionfish, cuttlefish, and occasional whale sharks. The wreck structure provides shelter for a diverse ecosystem of reef-associated species.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 20 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend on the buoy line in low visibility, bottom out at the wreck structure (12-20 meters), then explore the four main sections created by tsunami damage. The wreck is heavily encrusted and not suitable for penetration—stay external and enjoy the abundant life on the outside. Plan for 35-45 minutes bottom time and maintain good buoyancy to avoid silting.
 
 ## Entry and Exit
 
@@ -53,7 +53,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Low visibility is typical (often 8-10m), so good buoy line technique is essential. Do NOT attempt wreck penetration—the structure is open but highly unstable. Descend on the line and stay close to it for ascent. Be aware of moray eels and their bites (maintain distance, never touch). Mild currents are normal, but always dive with a buddy and use proper signaling.
 
 ## Photography
 

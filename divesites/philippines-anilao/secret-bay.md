@@ -3,7 +3,7 @@ name: Secret Bay
 lat: 13.79
 lng: 120.92
 difficulty: Beginner
-maxDepth: 8
+maxDepth: 21
 entryType: shore
 siteType: muck
 ref: null
@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Secret Bay
 
-Secret Bay is a reef dive site in Philippines Anilao, Asia.
+Secret Bay, also known as "Mainit Muck," is a world-class muck diving destination highly appreciated by macro photographers worldwide for the quality and quantity of critters.
 
 ## Overview
 
-Secret Bay is a dive site in Philippines Anilao offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Secret Bay is a black sand muck dive with an amazing array of critters. Maximum depth is 21 meters but excellent diving is found from 3 meters deep. The site has little streams and soft conditions ideal for slow, focused macro photography. Excellent at any time of day but especially at night. This is one of the most popular dive spots in Anilao for serious macro and critter hunting enthusiasts.
 
 ## Site Information
 
-- **Location**: Philippines Anilao, Asia
+- **Location**: Mainit area, Anilao, Batangas
 - **Entry Type**: Shore entry
 - **Site Type**: Muck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 8 meters
+- **Maximum Depth**: 21 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Secret Bay is home to an exceptional array of macro critters: oriental sea robins, pipefish, demon stingers, thorny seahorses, dragonets, and nudibranchs. Mantis shrimp, gobies, wonderpus octopus, and nudibranchs are prolific during the day. Seahorses, ghost pipefish, ambon scorpionfish, tiny frogfish, colemani shrimp, and bobbit worms are readily found. Night dives reveal additional nocturnal species including squid and cuttlefish.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 8 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-8 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin in shallow water at 3 meters depth where macro life is abundant, then gradually explore the muck bottom. Maximum depth available is 21 meters but most critters are found in shallow water due to the muck bottom's nature. This is slow, careful diving requiring patience and attention to detail. Crawl slowly across the sand and silt, pausing frequently to search for camouflaged critters among rocks and vegetation. Plan your dive as a leisurely macro hunt rather than a distance-covering drift.
 
 ## Entry and Exit
 
@@ -44,11 +44,13 @@ Enter from the shore following established entry points. Check conditions before
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring an underwater camera — this site offers excellent photography opportunities
+- Essential for macro photographers — prepare your camera and lighting carefully
+- Bring a macro lens and close-focusing equipment for best results
+- Move slowly and deliberately through the muck to spot camouflaged critters
+- Use a light to illuminate crevices and hidden areas
+- Night diving here is exceptional for finding additional nocturnal species
 - Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Carry a surface marker buoy (SMB) for safety on shore entry
 
 ## Safety Considerations
 

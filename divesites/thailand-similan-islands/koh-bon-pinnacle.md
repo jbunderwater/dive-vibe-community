@@ -3,9 +3,9 @@ name: Koh Bon Pinnacle
 lat: 8.96
 lng: 97.78
 difficulty: Advanced
-maxDepth: 30
-entryType: boat
-siteType: wall
+maxDepth: 50
+entryType: liveaboard
+siteType: pinnacle
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Koh Bon Pinnacle
 
-Koh Bon Pinnacle is a reef dive site in Thailand Similan Islands, Asia.
+Koh Bon Pinnacle is the best place in Thailand to dive with manta rays, featuring a limestone pinnacle with strong currents and deep water.
 
 ## Overview
 
-Koh Bon Pinnacle is a dive site in Thailand Similan Islands offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Koh Bon Pinnacle tops out at 18-22 meters but drops to over 50 meters, making it a deep dive ideal for experienced divers. Unlike most Similan dive sites of giant granite boulders, Koh Bon is composed of limestone, which is softer. The site features strong currents that often require a challenging negative entry. This is possibly the best place in Thailand to dive with giant manta rays.
 
 ## Site Information
 
-- **Location**: Thailand Similan Islands, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Location**: Koh Bon Island, Similan Islands
+- **Entry Type**: liveaboard
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 50 meters
+- **Typical Visibility**: Good
+- **Current**: Strong, challenging negative entry required
+- **Best Time**: January to April (peak manta rays)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Huge giant manta rays can appear at any time but especially January-April. Diverse reef and pelagic fish due to current-driven environment.
 
 ## Dive Profile
 

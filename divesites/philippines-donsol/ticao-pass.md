@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Ticao Pass
 
-Ticao Pass is a reef dive site in Philippines Donsol, Asia.
+Ticao Pass is an advanced drift dive in the plankton-rich waters between Ticao and Burias islands.
 
 ## Overview
 
-Ticao Pass is a dive site in Philippines Donsol offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Ticao Pass connects different sea basins and contains the thickest concentration of plankton in the Philippines. The strong currents of San Bernardino Strait push nutrient-rich water through the pass, creating ideal conditions for pelagic and reef fish aggregations. The pass is particularly famous as a manta ray cleaning station and offers exceptional opportunities for large marine life encounters.
 
 ## Site Information
 
-- **Location**: Philippines Donsol, Asia
+- **Location**: Between Ticao and Burias islands, Sorsogon/Masbate provinces
 - **Entry Type**: Boat dive
 - **Site Type**: Drift dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 10-40 meters (highly variable with plankton content)
+- **Current**: Very strong (2-3 knots typical)
+- **Best Time**: November to May (peak manta season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The plankton-rich waters attract massive aggregations of reef manta rays (70% of Philippine manta sightings occur here), whale sharks (seasonal), hammerheads, thresher sharks, and large schools of fusiliers, trevally, and barracuda. The plankton itself attracts filter feeders creating dramatic underwater landscapes.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Ticao Pass is primarily a drift dive where you descend into the channel and allow the current to carry you along reef formations and the pass bottom. The constant food supply creates different habitats at varying depths. Reef formations offer shelter from the current. Typical dive duration is 35-45 minutes with careful air monitoring as fighting current increases consumption.
 
 ## Entry and Exit
 
@@ -44,11 +44,12 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Drift diving experience is essential — not a beginner-friendly site despite sometimes calmer conditions
+- Use reef hooks for positioning during pelagic encounters
+- Wide-angle photography works best given plankton and large marine life
+- Communicate with your buddy team about current changes
+- Know the pass entrance/exit points and plan your drift route with your guide
+- Watch for sudden changes in plankton concentration affecting visibility
 
 ## Safety Considerations
 

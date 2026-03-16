@@ -2,8 +2,8 @@
 name: Cathedral Rock
 lat: 13.77
 lng: 120.9
-difficulty: Intermediate
-maxDepth: 22
+difficulty: Beginner
+maxDepth: 19
 entryType: boat
 siteType: reef
 ref: null
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Cathedral Rock
 
-Cathedral Rock is a reef dive site in Philippines Anilao, Asia.
+Cathedral Rock is a distinctive reef dive site off Bagalangit Point in Mabini, Anilao, Batangas, famous for its underwater monument.
 
 ## Overview
 
-Cathedral Rock is a dive site in Philippines Anilao offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Cathedral Rock features a giant rock formation resembling a roofless underwater amphitheatre, with a concrete cross placed at 18-19 meters depth between two coral-covered boulders. The site offers excellent beginner-friendly diving with gentle slopes, moderate currents, and abundant hard and soft corals. This is a year-round dive destination with consistently good conditions.
 
 ## Site Information
 
-- **Location**: Philippines Anilao, Asia
+- **Location**: Off Bagalangit Point, Mabini, Anilao, Batangas
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 meters
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 19 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The site features abundant hard and soft corals, sea fans, angelfish, butterfly fish, wrasse, trigger fish, moorish idols, damsel fish, and puffer fish. Green sea turtles, octopi, and frogfish are occasional sightings. The stone cross at 18-19 meters serves as a focal point for marine life, with fish congregating around the historic structure.
 
 ## Dive Profile
 

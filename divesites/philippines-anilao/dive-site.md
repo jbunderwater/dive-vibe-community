@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Dive Site
 
-Dive Site is a reef dive site in Philippines Anilao, Asia.
+This generic dive site name in Anilao represents a typical reef dive in the destination, part of the extensive network of accessible dive locations.
 
 ## Overview
 
-Dive Site is a dive site in Philippines Anilao offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+This is a coral reef dive site in Anilao offering typical reef diving with depths around 25 meters and warm tropical waters. Like most Anilao reef dives, the site offers good macro photography opportunities and is accessible by boat. The site provides rewarding diving on healthy coral reef structures characteristic of the region.
 
 ## Site Information
 
-- **Location**: Philippines Anilao, Asia
+- **Location**: Philippines Anilao, Batangas
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
@@ -32,7 +32,7 @@ Dive Site is a dive site in Philippines Anilao offering rewarding diving on heal
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+As a typical Anilao reef, this site offers diverse marine life including reef fish, soft corals, and macro subjects. Nudibranchs, small reef fish, and occasional larger species are typical finds. Like all Anilao sites, macro photography opportunities abound.
 
 ## Dive Profile
 

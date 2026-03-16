@@ -3,9 +3,9 @@ name: Elephant Head Rock
 lat: 8.57
 lng: 97.64
 difficulty: Advanced
-maxDepth: 30
-entryType: boat
-siteType: reef
+maxDepth: 40
+entryType: liveaboard
+siteType: pinnacle
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Elephant Head Rock
 
-Elephant Head Rock is a reef dive site in Thailand Similan Islands, Asia.
+Elephant Head Rock is the most famous pinnacle in the Similan Islands, featuring giant granite boulders, swim-throughs, and strong currents with large sharks and pelagic fish.
 
 ## Overview
 
-Elephant Head Rock is a dive site in Thailand Similan Islands offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Elephant Head Rock is probably the most famous dive site in the Similan Islands, consisting of dozens of huge granite boulders stacked to form a large pinnacle extending from the sandy seabed at 40 meters to above the surface. The site's exposed rock breaks the surface and resembles an archway at low tide, providing easy surface identification. Swim-throughs, arches, caverns, and gullies between boulders create a maze-like topography.
 
 ## Site Information
 
-- **Location**: Thailand Similan Islands, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Location**: Between Island 8 and Island south, ~1.5km offshore, Similan Islands
+- **Entry Type**: liveaboard
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 40 meters
+- **Typical Visibility**: 15-30 meters (50-100 feet)
+- **Current**: Medium to strong, with surge
+- **Best Time**: November to April
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Elephant Head Rock hosts several species of medium-sized sharks including whitetip reef sharks, blacktip reef sharks, and leopard sharks. Endemic species include the Andaman Sweetlips and Andaman Jawfish. Other residents include turtles, rays, grouper, snapper, barracuda, and tropical reef fish.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Navigate the maze of giant boulders at 40 meters, ascending through swim-throughs and arches to shallower areas. The site is famous for its complexity and topography—expect to work through gaps, navigate caverns, and discover hidden features between the rocks. Currents and surge may be challenging; use boulder features for shelter and buoyancy control.
 
 ## Entry and Exit
 

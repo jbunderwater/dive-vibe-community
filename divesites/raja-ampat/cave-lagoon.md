@@ -2,7 +2,7 @@
 name: Cave Lagoon
 lat: -0.524805
 lng: 130.593602
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 25
 entryType: boat
 siteType: cave
@@ -13,18 +13,18 @@ addedBy: osm_import
 
 ## Cave Lagoon
 
-Cave Lagoon is a cave dive site in Raja Ampat, Asia.
+Cave Lagoon is a spectacular cavern site in Raja Ampat featuring dramatic light-filled lagoon formations.
 
 ## Overview
 
-Cave Lagoon is a dive site in Raja Ampat featuring underwater cave and cavern formations. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Cave Lagoon is a cavern dive featuring a spectacular enclosed lagoon chamber with dramatic light shafts penetrating from above. The formations create cathedral-like environments requiring intermediate-to-advanced cavern diving skills. The light effects are particularly striking at midday. Visibility often excellent (20-35m) with temperatures averaging 27-30°C.
 
 ## Site Information
 
 - **Location**: Raja Ampat, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter manta rays, whale sharks, reef shark
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Enter the lagoon chamber carefully and descend to 12-20m to explore the cavern structures. Maintain excellent buoyancy to avoid silt disturbance. Position yourself to view the light shafts for dramatic photography. The main chamber provides 20-25 minutes of exploration. Ensure cavern training and dive with experienced local guides. Plan adequate safety stops before exit.
 
 ## Entry and Exit
 

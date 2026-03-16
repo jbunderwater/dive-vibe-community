@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Lombok Dive
 
-Lombok Dive is a reef dive site in Gili Islands, Asia.
+Lombok Dive is a reef dive site in Gili Islands featuring healthy coral formations and accessible depths suitable for intermediate-level recreational diving.
 
 ## Overview
 
-Lombok Dive is a dive site in Gili Islands offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Lombok Dive is a reliable reef site in the Gili Islands offering approachable diving conditions and healthy coral ecosystems. The site features coral formations at moderate depths with good visibility and variable current conditions typical of the region. This is a classic reef dive suitable for expanding your experience beyond beginner sites while maintaining comfortable depths and bottom time. The site is part of the broader Gili Islands diving experience centered around marine biodiversity and healthy coral communities. Good for divers seeking variety in their Gili experience.
 
 ## Site Information
 
-- **Location**: Gili Islands, Asia
+- **Location**: South of Gili Islands, Lombok region
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Current**: Variable
+- **Best Time**: April to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Typical reef fish populations including parrotfish, snappers, damselfish, and various smaller reef species. Sea turtles are occasionally encountered. The healthy coral formations provide habitat for nudibranchs and other macro subjects. Reef sharks and rays are possible but not guaranteed sightings.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the coral formations and explore the reef structure at a comfortable depth of 15-20 meters. The site provides good conditions for practicing buoyancy control and observation skills. Enjoy extended bottom time in the moderate depths while exploring the coral diversity. This is a straightforward reef dive ideal for divers consolidating intermediate skills.
 
 ## Entry and Exit
 

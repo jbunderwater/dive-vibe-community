@@ -2,10 +2,10 @@
 name: Staghorn Crest
 lat: 4.1167
 lng: 118.6278
-difficulty: Beginner
-maxDepth: 15
+difficulty: Intermediate
+maxDepth: 20
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Staghorn Crest
 
-Staghorn Crest is a reef dive site in Sipadan, Asia.
+Staghorn Crest is named for the gigantic staghorn corals that dominate the reef top. Located on the northwest side of South Point, the site offers a great coral garden in the shallows followed by a plateau and wall structure filled with life in cracks and crevices.
 
 ## Overview
 
-Staghorn Crest is a dive site in Sipadan offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Staghorn Crest features a shallow coral garden (3-8 meters) dominated by healthy staghorn coral formations. The reef drops to a 15-meter plateau with rocky outcrops and wall crevices that host dense marine life. Cracks along the wall are filled with small creatures and reef fish. The corals are in excellent condition. Mild currents characterize the site, and visibility is typically 20-30 meters. The site is best dived in the afternoon due to sun positioning. Staghorn Crest is an excellent location for macro photography of reef fish and small invertebrates.
 
 ## Site Information
 
-- **Location**: Sipadan, Asia
+- **Location**: Northwest of South Point, Sipadan
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Site Type**: Wall dive
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 20 meters
+- **Typical Visibility**: 20-30 meters (65-100 feet)
+- **Current**: Mild and manageable
+- **Best Time**: Afternoon dives (October to April)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Staghorn corals dominate the reef top but also host diverse small fish and invertebrates. All reef life is represented—nudibranchs, shrimp, trigger fish, angelfish, groupers, and triggerfish. Reef sharks (whitetip, blacktip) patrol the site. Sea turtles are regularly encountered. The wall crevices shelter cryptic species and provide protection for larger fish during the day.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin by exploring the shallow coral garden (3-8 meters) with gigantic staghorn formations. Descend to the 15-meter plateau and examine rocky outcrops and wall crevices. Most divers remain between 10-20 meters, observing how reef fish and invertebrate communities change with depth. The mild currents and excellent visibility create a relaxed diving experience ideal for taking time to observe small creatures and photograph intricate coral formations and crevice-dwelling species.
 
 ## Entry and Exit
 

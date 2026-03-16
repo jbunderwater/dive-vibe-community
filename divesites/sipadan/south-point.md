@@ -2,8 +2,8 @@
 name: South Point
 lat: 4.11
 lng: 118.6267
-difficulty: Intermediate
-maxDepth: 30
+difficulty: Advanced
+maxDepth: 40
 entryType: boat
 siteType: wall
 ref: null
@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## South Point
 
-South Point is a wall dive site in Sipadan, Asia.
+South Point is Sipadan's deepest and most challenging wall dive, famous as one of the few places where hammerhead and thresher sharks are reliably sighted. The reef begins at 5-8 meters before dropping vertically into depths where pelagic sharks patrol and manta rays hunt.
 
 ## Overview
 
-South Point is a dive site in Sipadan featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+South Point is located at the southernmost point of Sipadan, approximately 15 minutes by boat from the jetty. The reef structure drops in a dramatic vertical wall to well beyond 50 meters, with a pronounced ledge at around 20 meters. The site is frequently classified as a drift dive due to the strong and changing currents. Hammerhead and thresher sharks typically patrol the deeper sections around 40+ meters in early mornings. This is an advanced-level dive requiring drift diving experience and strong current awareness.
 
 ## Site Information
 
-- **Location**: Sipadan, Asia
+- **Location**: Southernmost point, Sipadan
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 40 meters
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Very strong and variable — high-speed drift diving site
+- **Best Time**: Early morning for hammerhead shark sightings (October to April)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+South Point is renowned for pelagic encounters. Hammerhead sharks (typically at 40m+), thresher sharks, manta rays, and schools of whitetip sharks are the primary attractions. The coral-covered wall hosts reef sharks, trevally, barracuda, and sea turtles. The reef end often features the blue ringed octopus. Large coral formations with sea fans and black coral adorn the wall below 30 meters.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-30 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+This is a high-speed drift dive. Enter at the reef top and descend along the wall. Position yourself to observe the wall face where pelagics hunt. Due to strong currents, divers often move continuously along the wall rather than hovering in one location. Most shark sightings occur at or beyond 40 meters—only advanced divers with drift experience should explore these depths.
 
 ## Entry and Exit
 

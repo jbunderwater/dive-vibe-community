@@ -13,54 +13,55 @@ addedBy: osm_import
 
 ## Indihiang
 
-Indihiang is a reef dive site in Komodo National Park, Asia.
+Technical wall dive with strong currents, large fish, and pristine coral growth.
 
 ## Overview
 
-Indihiang is a dive site in Komodo National Park offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Indihiang is an advanced wall dive at a southwestern point in Komodo, characterized by strong tidal currents and big fish. The site features a wall structure with excellent coral coverage and the potential for pelagic encounters. Like Loh Sera, Indihiang is challenging and depends heavily on favorable tidal conditions. The site is not diveable on all days due to current unpredictability. Best for advanced divers with strong current experience and buoyancy control.
 
 ## Site Information
 
-- **Location**: Komodo National Park, Asia
+- **Location**: Southwestern Komodo, Indihiang Point
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15–30 meters (50–100 feet); can be variable
+- **Current**: Strong to very strong; tidal-driven
+- **Best Time**: May to October (dry season); diveable only on favorable tide conditions
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Pelagic fish including jacks, trevally, snappers, and reef sharks. The wall hosts soft corals, sea fans, and smaller reef fish in protected pockets.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Drift with the current along the wall face. Maintain close contact with guide. Monitor depth and air carefully. Scan the blue for passing pelagics while appreciating the wall structure and coral.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Giant stride entry. Drift with current along wall. Coordinate SMB deployment and boat pickup with guide.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Only with experienced Komodo guides
+- Confirm current and tide conditions before entry
+- Prepare for strong current—do not fight it
+- Practice buoyancy control extensively first
+- Expect technical challenge and potential reward (big fish)
+- Consider as advanced goal dive
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Strong currents require perfect buoyancy control. Do not attempt without extensive current diving experience. Abort if safety is compromised. Clear signal protocols with guide are essential. Ensure rapid deployment of SMB for boat pickup in current.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Challenging due to speed and current. Wide-angle compositions of wall and pelagics possible but difficult. Requires fast autofocus and safety awareness.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
 *This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*

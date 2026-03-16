@@ -13,26 +13,18 @@ addedBy: osm_import
 
 ## Dead Palm
 
-Dead Palm is a reef dive site in Philippines Anilao, Asia.
+Dead Palm is a shallow muck dive site featuring a distinctive 'Dead Palm' landmark, located in the Bagalangit area of Mabini, Anilao, alongside Arthur's Rock.
 
 ## Overview
 
-Dead Palm is a dive site in Philippines Anilao offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
-
-## Site Information
-
-- **Location**: Philippines Anilao, Asia
-- **Entry Type**: Shore entry
-- **Site Type**: Muck dive
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 10 meters
+Dead Palm is a shore-entry muck dive with a maximum depth of 10 meters, making it ideal for beginner macro divers. The site features a unique dead palm tree structure that serves as a landmark and critter habitat. This is a paradise for macro photographers seeking nudibranchs, seahorses, and other small critters in a muck environment. The site complements Arthur's Rock and offers similar nudibranch diversity in a shallower, easier-access format.
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Dead Palm is a hotspot for nudibranch enthusiasts with diverse critter populations typical of Anilao's macro diving reputation. The site features nudibranchs, seahorses, mimic octopuses, and other small creatures ideal for macro photography. The dead palm tree provides shelter and feeding grounds for numerous small species, making it an exceptionally productive dive for critter hunting.
 
 ## Dive Profile
 
@@ -44,11 +36,13 @@ Enter from the shore following established entry points. Check conditions before
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring an underwater camera — this site offers excellent photography opportunities
+- Essential for macro photographers — shallow muck diving at its best
+- Bring macro lens and close-focusing equipment for optimal results
+- Move slowly and deliberately to spot camouflaged critters
+- This is a patient diver's paradise — take your time exploring the muck
 - Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Respect marine life and maintain proper buoyancy to protect the muck environment
+- Consider combining with nearby Arthur's Rock for a full day of critter diving
 
 ## Safety Considerations
 

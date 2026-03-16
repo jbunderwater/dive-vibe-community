@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Koh
 
-Koh is a reef dive site in Raja Ampat, Asia.
+Koh is a shallow beginner-friendly reef dive in Raja Ampat.
 
 ## Overview
 
-Koh is a dive site in Raja Ampat offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Koh is an excellent beginner/training reef with shallow maximum depth (12m) and calm conditions. The healthy coral structures and abundant fish life make it ideal for newly certified divers. Excellent for confined water training skill practice. Visibility typically 15-25 meters with temperatures averaging 26-30°C.
 
 ## Site Information
 
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter manta rays, whale sharks, reef shark
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Entire site is conducted in shallow water (3-12m). Explore coral formations and reef fish populations at comfortable depths. An excellent site for practicing buoyancy control and underwater navigation skills. Spend 40-45 minutes observing the reef. This is ideal for training dives, orientation dives, and confidence-building for new divers.
 
 ## Entry and Exit
 

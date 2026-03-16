@@ -2,10 +2,10 @@
 name: Turtle Point
 lat: -8.3427036
 lng: 116.0437832
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Beginner
+maxDepth: 35
 entryType: boat
-siteType: reef
+siteType: pinnacle
 ref: null
 osmId: 6750981689
 addedBy: osm_import
@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Turtle Point
 
-Turtle Point is a reef dive site in Gili Islands, Asia.
+Turtle Point, also known as Turtle City or Turtle Heaven, is a beginner-friendly pinnacle dive in north-east Gili Meno famous for numerous sea turtle encounters and colorful marine life.
 
 ## Overview
 
-Turtle Point is a dive site in Gili Islands offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Turtle Point features a large underwater hill (pinnacle) starting at 10 meters depth and descending to 35 meters. The site is full of fish and marine life with vibrant coloring. Large schools of small fish like clownfish, damsels, and sergeant majors swarm around the pinnacle. The slopes reveal shrimps, octopus, cuttlefish, scorpion fish, and giant blue puffer fish. Anemones with clownfish and nudibranchs add macro diversity. As the name suggests, this is an ideal site for seeing lots of beautiful sea turtles — green and hawksbill turtles are common residents. The combination of healthy coral, diverse fish life, and reliable turtle encounters makes this one of the best beginner dive sites around the Gilis.
 
 ## Site Information
 
-- **Location**: Gili Islands, Asia
+- **Location**: North-east Gili Meno, Gili Islands
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Site Type**: Pinnacle/seamount
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 35 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Current**: Variable
+- **Best Time**: April to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Turtle Point is teeming with green and hawksbill sea turtles — the highlight of any dive here. Large schools of clownfish, damsels, and sergeant majors circle the pinnacle. Shrimps, octopus, and cuttlefish inhabit the slopes. Scorpion fish and giant blue puffer fish are common, along with anemones and nudibranchs for macro photography. Reef sharks and rays are occasional visitors. The diverse and colorful fish populations make this a visually rewarding dive at all levels.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+This site is perfect for beginners due to its shallow entry points and gradual slope. You can start at 10 meters and explore the pinnacle structures, observing the schooling fish and hunting for turtles. Gradually descend to 20-30 meters to explore the full pinnacle if you're comfortable, or stay shallow for an extended bottom time. The flexible depth profile and abundant marine life make this ideal for training dives and recreational exploration. Expect to spend time simply observing and enjoying the turtle encounters — this is the prime attraction of Turtle Point.
 
 ## Entry and Exit
 

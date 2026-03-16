@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Chumpon Pinnacle
 
-Chumpon Pinnacle is a reef dive site in Koh Tao, Asia.
+Chumpon Pinnacle is a large submerged granite pinnacle starting at approximately 14 meters and descending to 35 meters. Known for abundant pelagic species including queenfish, trevally, rainbow runners, mackerel, schools of barracudas, and occasional sailfish. Whale sharks are frequently sighted at this site during peak season.
 
 ## Overview
 
-Chumpon Pinnacle is a dive site in Koh Tao offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Chumpon Pinnacle is an impressive deepwater pinnacle dive featuring rich pelagic action and abundant larger marine life. The site attracts strong currents that bring nutrient-rich water and active fish schools. Whale shark encounters are common March-May. Visibility ranges from 10-40 meters with water temperatures averaging 26-30°C year-round.
 
 ## Site Information
 

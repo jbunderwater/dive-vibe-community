@@ -2,10 +2,10 @@
 name: Jack Point
 lat: -8.337684
 lng: 116.0255805
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Advanced
+maxDepth: 35
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: 2395669751
 addedBy: osm_import
@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Jack Point
 
-Jack Point is a reef dive site in Gili Islands, Asia.
+Jack Point is an advanced wall dive site featuring dramatic coral ridges and spectacular pelagic encounters on the north side of Gili Trawangan.
 
 ## Overview
 
-Jack Point is a dive site in Gili Islands offering rewarding diving on healthy coral reef structures . source is Diveschool Notice Board - Location might have to be checked with a GPS. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Jack Point represents one of the Gili Islands' best sites for large pelagic encounters. Located as a precise point on the deeper section of Shark Point, this advanced dive features coral ridges stretching west separated by white sand along the north side of Gili Trawangan. The site drops to 27-35 meters where divers encounter schools of barracuda, big eye jacks, large snappers, resident white tip reef sharks, stingrays, and occasionally spotted eagle rays and manta rays. This is hands down the Gili Islands' best site for pelagic action and large game fish encounters. The site is for experienced divers only due to deep depths and strong currents.
 
 ## Site Information
 
-- **Location**: Gili Islands, Asia
+- **Location**: North Gili Trawangan (deep extension of Shark Point)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Site Type**: Wall dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 35 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Current**: Variable to strong
+- **Best Time**: April to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Jack Point is a magnet for large pelagic species. Expect schools of barracuda, big eye jacks, large snappers, white tip and black tip reef sharks, stingrays, spotted eagle rays, and occasional manta rays. The coral ridges support typical reef fish populations. This is the site to visit for serious pelagic fishing-style dives where large schooling fish create incredible photo opportunities and exciting encounters.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Jack Point requires careful planning and execution. Enter in mid-water as currents are typically present. Descend to the coral ridge structures at 27 meters and scan the blue water (drop-off) for pelagic activity. The ridges provide relief and holding points in current. Spend time at depth observing the large schools and watching for pelagic traffic. Conservative air management is essential due to depth and current. Plan your ascent well and perform an extended safety stop at 5 meters. This dive is demanding and suitable only for advanced divers comfortable with deep diving, strong currents, and limited bottom time.
 
 ## Entry and Exit
 

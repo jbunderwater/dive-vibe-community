@@ -4,11 +4,11 @@ addedBy: osm_import
 
 ## Komodo National Park
 
-Famous manta ray cleaning stations, strong currents, and incredible biodiversity.
+World-class diving with resident mantas, strong tidal currents, and diverse site topography ranging from pinnacles and walls to macro muck.
 
 ## Description
 
-Komodo National Park is a premier diving destination in the Asia region, offering 31 documented dive sites with depths ranging from 20 to 30 meters. Komodo National Park is particularly known for manta ray cleaning stations, strong current diving, incredible biodiversity. Notable sites include Batu Bolong, Castle Rock, Manta Alley. Water temperatures average 26-30°C (79-86°F), with visibility typically reaching 10-40 meters (30-130 feet). Year-round diving is possible, with the best conditions during October to April (varies by location).
+Komodo National Park is one of the world's premier liveaboard diving destinations, hosting 31 documented dive sites across the eastern Indonesian archipelago. The park is famous for its resident population of over 1,230 manta rays, which can be encountered year-round at dedicated manta cleaning stations. Diving is characterized by tidal currents driven by exchange between the Indian and Pacific Oceans—sometimes gentle drifts, sometimes powerful and technical. Sites vary dramatically in type: towering pinnacles like Crystal Rock and Batu Tiga, drift dives along the Tatawa Islands, wall diving at Loh Sera and Indihiang, and macro muck diving at Wainilu. Water temperatures range from 23-28°C (73-82°F) depending on season and location, with visibility typically 15-30 meters (50-100 feet) during the dry season (May–October) and 10-20 meters in the wet season (November–April). The park's peak season for manta sightings is actually the rainy season, when plankton blooms attract the largest aggregations.
 
 ### Diving Opportunities
 

@@ -3,9 +3,9 @@ name: Shark Point
 lat: -8.3425401
 lng: 116.0236615
 difficulty: Advanced
-maxDepth: 25
+maxDepth: 35
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: 2395669759
 addedBy: osm_import
@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Shark Point
 
-Shark Point is a reef dive site in Gili Islands, Asia.
+Shark Point is an advanced wall dive on the north-east of Gili Trawangan offering the best variety of marine life with turtles and reef sharks on nearly every dive.
 
 ## Overview
 
-Shark Point is a renowned dive site in Gili Islands offering rewarding diving on healthy coral reef structures . source is Diveschool Notice Board - Location might have to be checked with a GPS. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Shark Point is renowned as one of the best sites for reef shark encounters in the Gili Islands, including white tip and black tip reef sharks. Located north-east of Gili Trawangan, the site features a coral reef plateau at 10 meters that slopes down to 18 meters before transforming into rolling valleys running parallel to the shoreline, extending down to 35 meters. The site offers exceptional topographic variety and consistent marine life encounters. Green sea turtles are present on virtually every dive, making this one of the most reliably rewarding sites in the region. Large pelagic species occasionally visit the deeper sections. The dynamic reef structure and healthy fish populations make this a favorite among experienced divers seeking consistent wildlife encounters.
 
 ## Site Information
 
-- **Location**: Gili Islands, Asia
+- **Location**: North-east Gili Trawangan, Gili Islands
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 35 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Current**: Variable
+- **Best Time**: April to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Shark Point is the place to see reef sharks — white tip and black tip reef sharks are regular residents. Green sea turtles are present on nearly every dive across all depths, with particularly high densities in the shallow seagrass areas (5 meters). Stingrays cruise the sandy valleys. Occasional visits from large pelagic species including manta rays, spotted eagle rays, and barracuda. The reefs support abundant reef fish populations and healthy coral structures at all depths.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Start at the shallow coral plateau (10m) and explore the healthy reef structures, where sea turtles are abundant in seagrass areas. Follow the slope downward through the rolling valleys, descending to 18-35 meters depending on your air consumption and experience level. The varied topography offers flexibility — conservative divers can stay shallower where turtles are concentrated, while experienced divers can explore deeper sections for pelagic activity. Plan your dive conservatively due to depth options, and ensure an extended safety stop at 5 meters. The diverse topography makes this site suitable for divers wanting variety and reliable wildlife encounters.
 
 ## Entry and Exit
 

@@ -5,7 +5,7 @@ lng: 123.595
 difficulty: Beginner
 maxDepth: 10
 entryType: boat
-siteType: reef
+siteType: snorkel
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Donsol Whale Shark Area
 
-Donsol Whale Shark Area is a reef dive site in Philippines Donsol, Asia.
+Donsol Whale Shark Area is the primary snorkeling zone for seasonal whale shark encounters in Donsol Bay.
 
 ## Overview
 
-Donsol Whale Shark Area is a dive site in Philippines Donsol offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Donsol Bay is known as the "Whale Shark Capital of the World" and the Whale Shark Area encompasses the shallow waters of Donsol Bay where butanding (whale sharks) aggregate from November to June. Scuba diving with whale sharks is forbidden in Donsol Bay proper, but snorkeling and shallow diving in the designated area allows interaction with these gentle giants. The area is strictly regulated to ensure sustainable, non-intrusive encounters following responsible wildlife tourism guidelines.
 
 ## Site Information
 
-- **Location**: Philippines Donsol, Asia
+- **Location**: Donsol Bay, Sorsogon Province
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Snorkel
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 10 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 10-30 meters (plankton-dependent)
+- **Current**: Generally mild, variable
+- **Best Time**: November to June (peak February-April)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The primary attraction is whale sharks (butanding), the world's largest fish species. Encounters typically occur from November through June with highest frequency February-April. Reef fish and schooling fish create the feeding environment that attracts whale sharks to the bay. Encounters are wild and seasonal—whale shark sightings are not guaranteed.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 10 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-10 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+This is primarily a snorkeling experience in shallow water (5-10m). Divers remain at or near the surface where whale sharks feed on plankton-filled water. Encounters last minutes to an hour depending on shark behavior. Groups are limited to 1 boat per shark, maximum 6 people, and must maintain 4 meters distance. No touching or flash photography permitted. Interactions are regulated by Donsol's whale shark interaction guidelines to ensure animal welfare.
 
 ## Entry and Exit
 
@@ -44,12 +44,13 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Whale shark encounters are seasonal and never guaranteed—treat sightings as a bonus, not a sure thing
+- Follow Donsol's strict whale shark interaction code: 4m minimum distance, no touching, no flash photography
+- Book with authorized Donsol tour operators following responsible guidelines
+- Physical fitness required—you must be able to jump from the boat and climb back aboard via ladder (no gentle slips)
+- Snorkel gear is the primary tool; scuba diving with whale sharks is prohibited by local regulations
+- Early morning boats often have better sighting chances
+- No flash photography—natural light only for ethical and legal compliance
 
 ## Safety Considerations
 

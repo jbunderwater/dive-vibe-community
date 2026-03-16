@@ -2,7 +2,7 @@
 name: 3 Sisters
 lat: -8.6881122
 lng: 119.5736556
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 30
 entryType: boat
 siteType: pinnacle
@@ -24,7 +24,7 @@ addedBy: osm_import
 - **Location**: Komodo National Park, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong

@@ -2,7 +2,7 @@
 name: Mangrove
 lat: -0.5251113
 lng: 130.461759
-difficulty: Intermediate
+difficulty: Beginner
 maxDepth: 25
 entryType: boat
 siteType: reef
@@ -24,7 +24,7 @@ Mangrove is a dive site in Raja Ampat offering rewarding diving on healthy coral
 - **Location**: Raja Ampat, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Beginner
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong

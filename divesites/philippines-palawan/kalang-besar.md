@@ -3,7 +3,7 @@ name: Kalang Besar
 lat: 7.3761259
 lng: 117.2826439
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 22
 entryType: boat
 siteType: reef
 ref: null
@@ -25,7 +25,7 @@ Kalang Besar is a dive site in Philippines Palawan offering rewarding diving on 
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 22 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)

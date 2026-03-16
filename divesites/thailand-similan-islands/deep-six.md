@@ -3,9 +3,9 @@ name: Deep Six
 lat: 8.65
 lng: 97.615
 difficulty: Advanced
-maxDepth: 28
-entryType: boat
-siteType: wall
+maxDepth: 40
+entryType: liveaboard
+siteType: boulder
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Deep Six
 
-Deep Six is a wall dive site in Thailand Similan Islands, Asia.
+Deep Six is an exciting and challenging advanced dive on the north of Island 7 featuring giant boulders, strong currents, and diverse marine life.
 
 ## Overview
 
-Deep Six is a dive site in Thailand Similan Islands featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Deep Six is located on the north of Island 7 (Koh Pa-Yu) and is an extension of the main island that continues underwater. Named for its depth and location, the site features a maximum depth of 35-40 meters with many outcrops, scattered rocks with soft corals and sea fans, and swim-throughs at 12-22 meters. The site is not for beginners and can be challenging even for intermediate divers due to moderate-to-strong currents.
 
 ## Site Information
 
-- **Location**: Thailand Similan Islands, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Location**: North of Island 7 (Koh Pa-Yu), Similan Islands
+- **Entry Type**: liveaboard
+- **Site Type**: Boulder
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 28 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 40 meters
+- **Typical Visibility**: Moderate
+- **Current**: Moderate to strong, flowing southeast to northwest and vice versa
+- **Best Time**: November to April
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Whitetip reef sharks off the boulders, Kuhl's stingrays on sandy areas. Rainbow runners, sweetlips, fusiliers, barracuda, trevally, and other reef fish common.
 
 ## Dive Profile
 

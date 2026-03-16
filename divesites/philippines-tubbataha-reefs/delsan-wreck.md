@@ -2,9 +2,9 @@
 name: Delsan Wreck
 lat: 8.8833
 lng: 119.9
-difficulty: Intermediate
-maxDepth: 25
-entryType: boat
+difficulty: Advanced
+maxDepth: 40
+entryType: liveaboard
 siteType: wreck
 ref: null
 osmId: null
@@ -13,55 +13,56 @@ addedBy: osm_import
 
 ## Delsan Wreck
 
-Delsan Wreck is a historic wreck dive in Philippines Tubbataha Reefs, Asia.
+A top 50 dive destination on the planet, the Delsan Wreck's unique shape has become an artificial reef. The site draws huge schools of fish, cruising reef sharks, and occasional manta rays.
 
 ## Overview
 
-Delsan Wreck is a dive site in Philippines Tubbataha Reefs featuring the wreck of the Delsan Wreck. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The Delsan Wreck is considered one of the top 50 dive destinations on the planet and a premier wreck site at Tubbataha. The reef top starts at 5 meters and gently slopes toward the edges of a wall. At the wall section, the terrain drops to 23 meters where a dramatic crevasse plunges to 40 meters. This depth variation and the wreck's unique shape create diverse diving opportunities. The structure has become heavily colonized with coral and serves as an artificial reef supporting abundant marine life.
 
 ## Site Information
 
-- **Location**: Philippines Tubbataha Reefs, Asia
-- **Entry Type**: Boat dive
+- **Location**: South Atoll, Philippines Tubbataha Reefs
+- **Entry Type**: liveaboard
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 40 meters
+- **Typical Visibility**: 30-45 meters
+- **Current**: Variable, can be strong
+- **Best Time**: March 16 - June 15
 
 ## Marine Life
 
-Divers at this site can expect to encounter batfish, lionfish, sweetlips, coral growth, soft corals, manta rays, whale sharks, reef sharks. Additional species commonly sighted include sea turtles, barracuda, trevally. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Huge schools of jacks, trevally, and other schooling fish cruise the wreck structure hunting prey. Cruising reef sharks are common, and occasional manta rays patrol the site. The wreck structure provides shelter for morays, groupers, sweetlips, and other resident species. Lionfish, nudibranchs, and other encrusting organisms cover the wreck surfaces. Large pelagic fish often hunt in the blue water beyond the wall section.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 25 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Begin your dive by exploring the reef top at 5 meters, observing the gentle slope and initial structure. Gradually work your way to the wall section at 15-23 meters, exploring the wreck exterior and coral colonization. If you are appropriately trained and current experience allows, explore the deeper crevasse area to 35-40 meters. The wreck provides multiple depth levels for exploration - stay on the shallower sections if you prefer, or explore deeper features if your experience and training support it. Plan for adequate bottom time at depth and a conservative ascent with a safety stop at 5 meters.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by liveaboard tender. Entry is via giant stride or back roll. Descend to the reef top using the wreck structure as a guide. Explore the wreck at your chosen depth, using the structure to maintain orientation. If exploring the deeper crevasse, descend carefully and monitor your air consumption and depth gauge closely. Ascend gradually, visiting shallower sections of the wreck during your ascent. Complete your safety stop at 5 meters and signal the boat with an SMB for pickup.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- This site offers diving options for both moderate and advanced diver experience levels
+- The school fish activity is excellent for photography but requires quick reaction times
+- Bring a dive torch to illuminate colors and details in the wreck structure
+- Watch for hunting activity - this is an active feeding ground for reef predators
+- The unique wreck shape creates excellent photo opportunities from multiple angles
+- Advanced divers exploring the deeper crevasse should be very familiar with depth management
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The shallower reef top section (5-15 meters) is accessible to intermediate divers. However, the deeper crevasse and fuller exploration warrant Advanced certification. The site can have strong currents - be prepared to move shallower or abort if conditions deteriorate. Do not attempt internal wreck penetration without proper technical wreck diving training and equipment. Maintain excellent buoyancy control to avoid stirring silt and to protect the delicate coral colonization.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The wreck structure with schools of fish provides dramatic compositions. Shoot wide-angle from 15-25 meters to capture the structure and surrounding fish activity. The deeper crevasse sections create unique perspective opportunities for experienced photographers. A torch is essential for bringing out colors and details.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
+- **Validation Source**: divessi.com, divescover.com
 
 ---
 *This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*

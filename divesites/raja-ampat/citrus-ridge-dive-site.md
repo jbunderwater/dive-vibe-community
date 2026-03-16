@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Citrus Ridge Dive Site
 
-Citrus Ridge Dive Site is a reef dive site in Raja Ampat, Asia.
+Citrus Ridge Dive Site is a drift dive in Raja Ampat with excellent coral and fish abundance.
 
 ## Overview
 
-Citrus Ridge Dive Site is a dive site in Raja Ampat offering rewarding diving on healthy coral reef structures . Good corals and good quantity of fishes. The stream kindly bring you to the south.. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Citrus Ridge is a drift dive site featuring healthy coral formations and abundant fish schools. The current flows southward, making this a drift dive where you descend and move with the water flow. Good coral structures at 10-25m depth support dense fish populations and schooling trevally. Suitable for snorkeling as well. Visibility typically 15-30+ meters with temperatures averaging 26-30°C.
 
 ## Site Information
 
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter manta rays, whale sharks, reef shark
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+This is a drift dive - plan entry with guide into the current from shallower water. Allow the southward current to carry you down and over coral formations at 10-25m depth. The reef provides natural stopping points for observation. Abundance of fish life at these depths. Plan approximately 35-40 minutes of bottom time and ensure proper drift boat protocols are in place for exit.
 
 ## Entry and Exit
 

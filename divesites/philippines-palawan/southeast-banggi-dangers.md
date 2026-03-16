@@ -3,7 +3,7 @@ name: Southeast Banggi Dangers
 lat: 7.150012
 lng: 117.3833679
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 18
 entryType: boat
 siteType: reef
 ref: null
@@ -25,7 +25,7 @@ Southeast Banggi Dangers is a dive site in Philippines Palawan offering rewardin
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)

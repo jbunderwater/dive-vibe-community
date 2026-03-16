@@ -2,7 +2,7 @@
 name: Biet Point
 lat: 11.1414055
 lng: 119.3047041
-difficulty: Advanced
+difficulty: Intermediate
 maxDepth: 21
 entryType: boat
 siteType: wall
@@ -24,7 +24,7 @@ Biet Point is a dive site in Philippines Palawan offering rewarding diving on he
 - **Location**: Philippines Palawan, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Advanced
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 21 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong

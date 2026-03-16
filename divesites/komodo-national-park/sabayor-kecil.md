@@ -3,7 +3,7 @@ name: Sabayor Kecil
 lat: -8.5109788
 lng: 119.695278
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 30
 entryType: boat
 siteType: reef
 ref: null
@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Sabayor Kecil
 
-Sabayor Kecil is a reef dive site in Komodo National Park, Asia.
+Steep coral-covered rocky slope with good marine life and mild currents.
 
 ## Overview
 
-Sabayor Kecil is a dive site in Komodo National Park offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Sabayor Kecil is a beautiful dive along a steep rock bank adorned with colorful coral and tropical reef fish. The site features a steep slope descending from shallow water (5 meters) down to 30 meters, covered in both hard and soft corals. The slope provides excellent habitats for diverse marine life. Currents are typically mild, making this accessible for intermediate divers. Visibility is often phenomenal (exceeding 40 meters during dry season), with consistent marine encounters throughout the dive. Best dived March to October.
 
 ## Site Information
 
-- **Location**: Komodo National Park, Asia
+- **Location**: Eastern Komodo, Sabayor/Sebayur Kecil area
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 30 meters
+- **Typical Visibility**: 25–40 meters (80–130 feet) dry season; good year-round
+- **Current**: Mild to moderate
+- **Best Time**: March to October; year-round diveable
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Stingrays, Napoleon wrasses, groupers, crocodilefish, batfish, nudibranchs, eels, and giant clams. The healthy coral slope supports dense populations of reef fish and invertebrates. Good macro opportunities.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend along the slope, exploring coral formations and crevices. Work the depth range of 5–30 meters depending on time and air. Most marine life is concentrated between 10–25 meters. Ascend gradually along the slope, using it as a natural reference for navigation.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat drop-off. Giant stride entry. Descend along the slope following your guide. Exit via SMB deployment.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The exceptional visibility rewards photography; bring both wide and macro lenses
+- Scout coral heads carefully for macro subjects
+- Plan conservative bottom time at depth
+- Slack current makes this easier than many Komodo sites
+- Good for building confidence in deeper slopes
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Currents are mild, reducing navigation challenges. Standard depth management and buoyancy control apply. Avoid stirring silt on the sandy patches. Decompress properly.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Excellent wide-angle compositions of the slope and coral coverage. Macro subjects plentiful in coral heads. Outstanding visibility means great color saturation. Dramatic reef formations provide natural compositions.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
 *This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*

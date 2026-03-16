@@ -3,9 +3,9 @@ name: Hanging Gardens
 lat: 4.1183
 lng: 118.6322
 difficulty: Intermediate
-maxDepth: 18
+maxDepth: 40
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Hanging Gardens
 
-Hanging Gardens is a reef dive site in Sipadan, Asia.
+Hanging Gardens is named for the spectacular soft coral formations, sea fans, and barrel sponges that adorn the top reef—creating a garden hanging over the wall's edge. Located on the south side of Sipadan, it's known for exceptional turtle and reef shark encounters with minimal currents.
 
 ## Overview
 
-Hanging Gardens is a dive site in Sipadan offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Hanging Gardens features a shallow top reef beginning at 2-5 meters, densely covered with soft corals, sea fans, and large barrel sponges. At the reef edge, the wall drops steeply to well beyond 40 meters recreational limits. The site's attraction is the abundance of colorful soft coral formations and the reliable presence of 50+ sea turtles in a single dive. Visibility is excellent, often exceeding 30 meters. The site is one of Sipadan's few locations with little to no current, making it accessible to intermediate divers and popular for snorkelers.
 
 ## Site Information
 
-- **Location**: Sipadan, Asia
+- **Location**: South side of Sipadan
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 40 meters
+- **Typical Visibility**: 30+ meters (100+ feet)
+- **Current**: Minimal to absent—one of Sipadan's calmest sites
+- **Best Time**: Any season, best in morning (October to April seasonal variation)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Sea turtles are the primary attraction—50+ encounters in a single dive are common. Reef sharks (whitetip, blacktip) patrol the reef. Additional species include bumphead parrotfish schools, trevally, barracuda, and groupers. Macro subjects include nudibranchs, seahorses, and gobies among the corals. Pelagics occasionally visit the deeper wall sections.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin on the shallow reef top (2-5 meters) to observe soft corals, barrel sponges, and sea fans. Gradually descend along the wall edge to 15-25 meters where reef sharks patrol. Sea turtles are encountered throughout all depths. The minimal current makes this a relaxed, exploratory dive ideal for photography. Safety stops can be made on the shallow reef top.
 
 ## Entry and Exit
 

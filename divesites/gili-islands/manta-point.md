@@ -2,8 +2,8 @@
 name: Manta Point
 lat: -8.363335
 lng: 116.0265987
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Beginner
+maxDepth: 18
 entryType: boat
 siteType: reef
 ref: null
@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Manta Point
 
-Manta Point is a reef dive site in Gili Islands, Asia.
+Manta Point is a beginner-friendly reef site located south of Gili Trawangan, famous for encounters with manta rays and an abundance of marine life in shallow, accessible depths.
 
 ## Overview
 
-Manta Point is a renowned dive site in Gili Islands offering rewarding diving on healthy coral reef structures . source is Diveschool Notice Board - Location might have to be checked with a GPS. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Situated between Gili Trawangan and Gili Meno, Manta Point is a shallow reef site no deeper than 18 meters with excellent viewing opportunities. During the rainy season (November-March) when plankton blooms attract filter feeders, this site becomes the best spot to encounter manta rays (called devils locally), along with eagle rays and occasional manta rays. Year-round, the site offers encounters with green and hawksbill sea turtles and schools of parrotfish. The shallow coral reef plateau and gradual slope make this an ideal site for all skill levels, from Open Water certification courses to experienced divers seeking leisurely reef exploration and photography. Water tends to be rich in planktonic life, creating productive feeding conditions.
 
 ## Site Information
 
-- **Location**: Gili Islands, Asia
+- **Location**: South of Gili Trawangan (between T and Meno), Gili Islands
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Current**: Variable, generally light
+- **Best Time**: November to March (manta season); April to October for general diving
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Manta Point is renowned for manta ray (devil fish) encounters, especially during plankton-rich months. Other notable species include eagle rays, spotted eagle rays, green and hawksbill sea turtles, schools of parrotfish, reef sharks, trevally, and diverse reef fish. During peak season, the water is rich with plankton which attracts these large filter feeders and creates nutrient-rich conditions supporting dense fish populations.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin your dive on the shallow coral reef plateau and explore the healthy coral structures and reef fish. The site gradually slopes deeper, allowing flexibility in your dive profile and comfortable time at all depths. For maximum wildlife viewing, search the blue water and current lines where manta rays often cruise for plankton. The shallow depths make this an excellent training site and allow for extended bottom time and long safety stops. This is one of the best beginner-friendly dives in the Gilis offering both quality marine life and comfortable conditions.
 
 ## Entry and Exit
 

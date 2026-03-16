@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Drop Off
 
-Drop Off is a wall dive site in Sipadan, Asia.
+Drop Off is one of Sipadan's signature wall dives, where the reef drops vertically from shallow water into the abyss. The site is named for its dramatic drop-off structure and attracts large pelagics along the wall.
 
 ## Overview
 
-Drop Off is a dive site in Sipadan featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Drop Off features a near-vertical wall that descends to well beyond 600 meters. The reef top is shallow (5-8 meters), allowing for reef exploration before the wall descent. This advanced-level dive demands careful depth management and current awareness. Wall-following technique and buoyancy control are essential skills.
 
 ## Site Information
 
-- **Location**: Sipadan, Asia
+- **Location**: East-central Sipadan
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Moderate to strong, variable
+- **Best Time**: October to April
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+The wall is a corridor for pelagics including sharks (reef sharks, occasional hammerheads), trevally, barracuda, and manta rays. Sea turtles frequent the wall face. Smaller reef species, nudibranchs, and macro subjects populate wall crevices. Coral formations with fans and black coral appear on deeper sections.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-40 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Descend along the wall, using it as a reference point. Position yourself at 10-30 meters to observe most pelagic activity. The wall's vertical nature makes it easy to drift deep unintentionally—regular depth checks are critical. Many divers use the wall as an anchor point during safety stops.
 
 ## Entry and Exit
 

@@ -3,8 +3,8 @@ name: Beacon Reef
 lat: 8.62
 lng: 97.655
 difficulty: Beginner
-maxDepth: 15
-entryType: boat
+maxDepth: 30
+entryType: liveaboard
 siteType: reef
 ref: null
 osmId: null
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Beacon Reef
 
-Beacon Reef is a reef dive site in Thailand Similan Islands, Asia.
+Beacon Reef is the longest reef in the Similan Islands, stretching the entire eastern side of Island 8 with easy sloping hard coral and a wreck feature.
 
 ## Overview
 
-Beacon Reef is a dive site in Thailand Similan Islands offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Beacon Reef (also Beacon Beach) stretches along the entire eastern side of Island 8 (Koh Similan), the largest and highest island in the archipelago. This is the longest reef in the Similan Islands. The site starts from around 5 meters and drops off to 30+ meters, featuring an easy sloping reef of predominantly hard coral, making it an ideal check dive to start a liveaboard trip. The 2002 Atlantis X wreck sank on this reef with her shallowest point (bow) at 16 meters and stern at 30 meters.
 
 ## Site Information
 
-- **Location**: Thailand Similan Islands, Asia
-- **Entry Type**: Boat dive
+- **Location**: Eastern side of Island 8 (Koh Similan), Similan Islands
+- **Entry Type**: liveaboard
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 30 meters
+- **Typical Visibility**: Good
+- **Current**: Moderate, facilitating drift dives
+- **Best Time**: November to April
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Green turtles and hawksbill turtles gracefully navigate the waters. Vibrant marine life, lush corals with diverse inhabitants create colorful underwater tableau.
 
 ## Dive Profile
 

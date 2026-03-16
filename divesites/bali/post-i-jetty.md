@@ -2,8 +2,8 @@
 name: Post I Jetty
 lat: -8.0963806
 lng: 114.5031276
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Beginner
+maxDepth: 20
 entryType: boat
 siteType: reef
 ref: null
@@ -24,8 +24,8 @@ Post I Jetty is a dive site in Bali offering rewarding diving on healthy coral r
 - **Location**: Bali, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)

@@ -2,10 +2,10 @@
 name: Tanjung Loh Sera dive site
 lat: -8.7432085
 lng: 119.4720907
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 20
 entryType: boat
-siteType: reef
+siteType: pinnacle
 ref: null
 osmId: 7182774875
 addedBy: osm_import
@@ -23,8 +23,8 @@ Tanjung Loh Sera dive site is a dive site in Komodo National Park offering rewar
 
 - **Location**: Komodo National Park, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
+- **Site Type**: Pinnacle/seamount
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong

@@ -5,13 +5,15 @@
     "lon": 118.6289,
     "osm_id": null,
     "osm_type": null,
-    "depth": 25,
+    "depth": 40,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": true,
+      "validation_source": "sipadan.com, scubaboard reviews, PADI dive guides"
     }
   },
   {
@@ -20,13 +22,15 @@
     "lon": 118.6267,
     "osm_id": null,
     "osm_type": null,
-    "depth": 30,
+    "depth": 40,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": true,
+      "validation_source": "sipadan.com, scubaboard reviews, hammerhead shark sightings at 40m+"
     }
   },
   {
@@ -41,7 +45,9 @@
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": true,
+      "validation_source": "sipadan.com dive site guide"
     }
   },
   {
@@ -50,13 +56,15 @@
     "lon": 118.6278,
     "osm_id": null,
     "osm_type": null,
-    "depth": 20,
+    "depth": 21,
     "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": true,
+      "validation_source": "sipadan.com, PADI dive guides - limestone cave system with bell-shaped descent tunnel"
     }
   },
   {
@@ -65,13 +73,15 @@
     "lon": 118.6256,
     "osm_id": null,
     "osm_type": null,
-    "depth": 25,
-    "site_type": "reef",
+    "depth": 40,
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": true,
+      "validation_source": "sipadan.com, scubaboard - named for frequent whitetip shark sightings on wall descent"
     }
   },
   {
@@ -80,13 +90,15 @@
     "lon": 118.6322,
     "osm_id": null,
     "osm_type": null,
-    "depth": 18,
-    "site_type": "reef",
+    "depth": 40,
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": true,
+      "validation_source": "sipadan.com - shallow reef 2-5m with soft corals, fans, barrel sponges, wall drop-off"
     }
   },
   {
@@ -95,13 +107,15 @@
     "lon": 118.6333,
     "osm_id": null,
     "osm_type": null,
-    "depth": 12,
-    "site_type": "reef",
+    "depth": 25,
+    "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": true,
+      "validation_source": "sipadan.com - shallow northeast reef 10m with acropora corals, gradual wall descent"
     }
   },
   {
@@ -111,12 +125,14 @@
     "osm_id": null,
     "osm_type": null,
     "depth": 20,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": true,
+      "validation_source": "sipadan.com - coral formations with table corals, black coral, gorgonians, hard coral flats for safety stops"
     }
   },
   {
@@ -126,12 +142,14 @@
     "osm_id": null,
     "osm_type": null,
     "depth": 22,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": true,
+      "validation_source": "sipadan.com - named for lobsters in wall crevices, superb hard/soft coral with reef sharks"
     }
   },
   {
@@ -140,13 +158,15 @@
     "lon": 118.6278,
     "osm_id": null,
     "osm_type": null,
-    "depth": 15,
-    "site_type": "reef",
+    "depth": 20,
+    "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": true,
+      "validation_source": "sipadan.com - coral garden with 15m plateau, wall crevices full of life, staghorn corals, mild currents"
     }
   }
 ]

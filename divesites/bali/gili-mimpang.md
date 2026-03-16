@@ -2,8 +2,8 @@
 name: Gili Mimpang
 lat: -8.526092
 lng: 115.576321
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Advanced
+maxDepth: 25
 entryType: boat
 siteType: reef
 ref: null
@@ -17,18 +17,18 @@ Gili Mimpang is a reef dive site in Bali, Asia.
 
 ## Overview
 
-Gili Mimpang is a dive site in Bali offering rewarding diving on healthy coral reef structures . Nearby this area, Living Seas has set up coral reef restoration projects. This is a drift dive, with potential for strong currents. Swim south 5 minutes to get to coral restoration site.. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Gili Mimpang (also known as Batu Tiga) is an advanced drift dive site renowned for its exciting currents and rich marine life. Located off Candidasa on Bali's east coast, this small barren island sits in open sea with regular, sometimes intense currents. Also features Living Seas coral reef restoration projects. Only for experienced divers with 50+ dives and strong drift-diving skills. Diverse scuba diving with sloping reefs, craggy rocks, walls with hard and soft corals and gorgonians. Visibility often reaches 30 meters.
 
 ## Site Information
 
-- **Location**: Bali, Asia
+- **Location**: Gili Mimpang (Batu Tiga), Candidasa, Bali, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 25 meters
+- **Typical Visibility**: 20-30 meters (65-98 feet)
+- **Current**: Strong and regular, can be very intense especially during full moon
+- **Best Time**: Dry season (May-September)
 
 ## Marine Life
 
@@ -52,7 +52,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+This is an advanced site for experienced drift divers only. Mandatory: Advanced Open Water certification, 50+ dives, strong drift-diving experience. Be aware of strong unpredictable currents, particularly during full moon. Entry can be tricky due to upcurrents and strong swells. Always let experienced boat captains assess conditions before planning dives. Never dive solo — always use buddy system. Carry high-visibility signaling devices (SMB). Abort if conditions exceed your comfort level. Currents can sweep divers away from the island rapidly. Good physical fitness and current management skills essential.
 
 ## Photography
 

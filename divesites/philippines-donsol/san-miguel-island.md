@@ -2,8 +2,8 @@
 name: San Miguel Island
 lat: 12.92
 lng: 123.57
-difficulty: Beginner
-maxDepth: 15
+difficulty: Intermediate
+maxDepth: 20
 entryType: boat
 siteType: reef
 ref: null
@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## San Miguel Island
 
-San Miguel Island is a reef dive site in Philippines Donsol, Asia.
+San Miguel Island offers pristine, seldom-explored reef sites north of Ticao Island with multiple dive spots at varying depths.
 
 ## Overview
 
-San Miguel Island is a dive site in Philippines Donsol offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+San Miguel Island is a small strip of land with palm-topped hills at the western end of Ticao. The northern end of Ticao hosts unique, virtually untouched dive sites featuring coral formations, sand passages, and unique topography. Notable sites include Tres Grace (limestone formations and soft corals at 20m), Bobby's Wall (steep slope with encrusted corals and macro life at 18m), Parola (current-swept site with sharks and eagle rays at the island tip), and The Point (pelagic zone with rays and caves).
 
 ## Site Information
 
-- **Location**: Philippines Donsol, Asia
+- **Location**: Northern tip of Ticao Island, Masbate, Philippines
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 20 meters
+- **Typical Visibility**: 15-35 meters
+- **Current**: Variable, strong at the Point/Parola
+- **Best Time**: November to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+San Miguel Island's macro environment attracts moray eels, scorpionfish, stone fish, lobsters, banded boxer shrimps, and groupers. At Parola and The Point, larger species appear including reef sharks, manta rays, and eagle rays. Soft corals, sponges, cleaner fish, and extensive coral encrustation create a healthy reef ecosystem.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Tres Grace features a pristine white sand beach corridor lined with soft corals and limestone formations at 20 meters. Bobby's Wall drops steeply with encrusted corals and overhangs harboring macro life. The Point and Parola at the island's tip feature rushing currents with caves, creating a more advanced experience suitable for intermediate-to-advanced divers seeking pelagic encounters. Shallow reefs make this site accessible for recreational divers while deeper sections offer more challenge.
 
 ## Entry and Exit
 
@@ -44,12 +44,12 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Multiple dive sites available — plan 2+ dives to experience variety
+- Macro lens recommended for walls and crevices
+- The Point and Parola require good buoyancy control due to current
+- Less developed site than Manta Bowl — bring experienced local guide
+- Pristine condition means extra care needed for reef preservation
+- Plan dives based on current conditions at specific sites
 
 ## Safety Considerations
 

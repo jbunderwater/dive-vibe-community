@@ -2,10 +2,10 @@
 name: Coral Gardens Sipadan
 lat: 4.12
 lng: 118.6333
-difficulty: Beginner
-maxDepth: 12
+difficulty: Intermediate
+maxDepth: 25
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Coral Gardens Sipadan
 
-Coral Gardens Sipadan is a reef dive site in Sipadan, Asia.
+Coral Gardens is located on the northeast side of Sipadan and is one of the island's most accessible dive sites. The reef begins in shallow water with excellent hard coral formations—large acropora and stony corals on the reef top—transitioning to a gradual wall descent with ledged areas.
 
 ## Overview
 
-Coral Gardens Sipadan is a dive site in Sipadan offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Coral Gardens features a reef top starting at 10 meters with large hard coral structures (acropora and stony corals) and ledged areas that create sheltered habitats. The site gradually slopes deeper to approximately 25 meters, creating gentle wall conditions ideal for coral observation and macro photography. Currents are gentle to moderate with typically calm surface conditions. Visibility is excellent, often 20-30 meters. The site is popular for morning dives when reef activity is highest and natural light enhances coral colors. It's one of Sipadan's few sites accessible to Open Water Divers, making it suitable for building confidence before deeper wall dives.
 
 ## Site Information
 
-- **Location**: Sipadan, Asia
+- **Location**: Northeast Sipadan
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 12 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Site Type**: Wall dive
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 25 meters
+- **Typical Visibility**: 20-30 meters (65-100 feet)
+- **Current**: Gentle to moderate
+- **Best Time**: Morning dives (October to April)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Large acropora and hard corals host numerous reef fish including groupers, parrotfish (especially bumphead parrotfish), fusiliers, and damselfish. Sea turtles and reef sharks frequent the ledged areas. Anemones and resident clownfish are common among corals. Macro subjects include nudibranchs, seahorses, gobies, and various small invertebrates. Occasional larger pelagics (trevally, barracuda) pass through.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin on the coral-covered reef top at 10 meters, exploring hard coral structures and ledged areas. Gradually descend along the gentle slope to 20-25 meters, observing how coral formations and reef fish communities change with depth. The shallow reef top provides an excellent safety stop location. This dive is exploratory and photography-focused, with no dramatic wall features or strong currents to manage.
 
 ## Entry and Exit
 

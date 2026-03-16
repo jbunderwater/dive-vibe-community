@@ -3,8 +3,8 @@ name: Bird Islet Wall
 lat: 8.825
 lng: 119.8417
 difficulty: Intermediate
-maxDepth: 30
-entryType: boat
+maxDepth: 35
+entryType: liveaboard
 siteType: wall
 ref: null
 osmId: null
@@ -13,55 +13,56 @@ addedBy: osm_import
 
 ## Bird Islet Wall
 
-Bird Islet Wall is a wall dive site in Philippines Tubbataha Reefs, Asia.
+Located on the northern face of North Atoll, this fantastic wall features steep drops, overhangs, swim-throughs, and crevices. The brown-footed boobies on Bird Island add surface character to this unique dive site.
 
 ## Overview
 
-Bird Islet Wall is a dive site in Philippines Tubbataha Reefs featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Bird Islet Wall is located on the northern face of North Atoll and named for the presence of Bird Island above the waterline, home to brown-footed boobies. The underwater site features a fantastic wall with excellent structure including overhangs, swim-throughs, and natural crevices. The wall begins in shallow water and drops steeply, creating an engaging dive for intermediate divers while offering interesting features for experienced explorers.
 
 ## Site Information
 
-- **Location**: Philippines Tubbataha Reefs, Asia
-- **Entry Type**: Boat dive
+- **Location**: Northern face, North Atoll, Philippines Tubbataha Reefs
+- **Entry Type**: liveaboard
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 35 meters
+- **Typical Visibility**: 30-45 meters
+- **Current**: Can be strong, often from both sides of the point
+- **Best Time**: March 16 - June 15
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+The complex wall structure provides habitat for diverse fish species including groupers, snappers, trevally, and various schooling fish. Reef sharks, manta rays, and large pelagics hunt along the wall. The overhangs and crevices support shy creatures like morays, lionfish, and various nudibranchs. Cleaning stations along the wall attract both large pelagic species and smaller reef residents.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-30 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Begin your descent in 5-8 meters of water depending on tide, positioning yourself along the wall face. Descend gradually while exploring the overhangs, swim-throughs, and crevices as you drop deeper. The wall itself provides the main structure, dropping steeply to 30+ meters. Most divers stay between 15-30 meters to explore the abundant features. Sand trickles down some sections creating waterfall-like effects. Watch for a special corner where strong currents converge from both sides. Plan your ascent to allow gradual return to shallower depths and a safety stop at 5 meters.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by liveaboard tender. Entry is via giant stride or back roll. Descend using the wall as your primary reference and depth guide. The wall structure makes navigation straightforward. Ascend along the wall, visiting shallower sections and features as you rise. Complete your safety stop at 5 meters and signal the boat with an SMB for pickup.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Watch for the current corner where strong water flows meet - interesting diving but requires good control
+- Explore the overhangs and swim-throughs (safe for non-technical diving)
+- Look in crevices for moray eels and other shy creatures
+- Bring a macro lens for the small crustaceans and invertebrates
+- The waterfall-like sand flow creates excellent photography opportunities
+- This is an excellent site for practicing wall diving techniques
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The steep wall structure requires good depth awareness and buoyancy control. Strong currents are common here, particularly at the corner feature - be prepared to move shallower or abort if conditions deteriorate. The overhangs and crevices are safe for exploration but do not represent penetration diving - remain in visual contact with open water. Maintain excellent buoyancy to avoid damaging the delicate overhang ecosystems.
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+The wall structure, overhangs, and sand flows provide excellent composition opportunities. Shoot wide-angle from 15-20 meters to capture the full wall drama and features. The waterfall-like sand creates unique cinematic shots. Macro opportunities exist in the overhangs and crevices.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
+- **Validation Source**: justgottadive.com, dive-the-world.com
 
 ---
 *This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*

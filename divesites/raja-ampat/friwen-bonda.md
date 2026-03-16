@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Friwen Bonda
 
-Friwen Bonda is a reef dive site in Raja Ampat, Asia.
+Friwen Bonda is a vertical wall dive in Raja Ampat's Friwen region.
 
 ## Overview
 
-Friwen Bonda is a dive site in Raja Ampat offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Friwen Bonda is a coral-encrusted wall descending vertically from shallow waters. The wall features dense coral growth and a variety of reef fish. Moderate currents typical. The vertical topography makes this a classic wall dive with good depth management opportunities. Visibility typically 15-30+ meters with temperatures averaging 26-30°C.
 
 ## Site Information
 
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter manta rays, whale sharks, reef shark
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin descent on the wall at shallow depths and follow the vertical drop. The best coral and fish activity is 8-22m. Use the wall as a reference for depth management. Spend 35-40 minutes exploring the vertical structures and observing reef residents. Watch your depth gauge to prevent unintentional deep descents on wall dives.
 
 ## Entry and Exit
 

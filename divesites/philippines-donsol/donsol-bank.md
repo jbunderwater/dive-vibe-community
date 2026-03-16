@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Donsol Bank
 
-Donsol Bank is a reef dive site in Philippines Donsol, Asia.
+Donsol Bank is a productive reef bank in Sorsogon waters with good potential for pelagic megafauna encounters.
 
 ## Overview
 
-Donsol Bank is a dive site in Philippines Donsol offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Donsol Bank is a shallow undersea bank in Sorsogon waters offering healthy reef structures and seasonal pelagic activity. The site benefits from nutrient upwelling patterns shared with nearby Manta Bowl, though on a smaller scale. Reef formations support diverse coral and fish communities.
 
 ## Site Information
 
-- **Location**: Philippines Donsol, Asia
+- **Location**: Sorsogon waters, west of central Donsol area
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-40 meters
+- **Current**: Variable, can be strong
+- **Best Time**: November to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The reef supports coral-dependent fish including napoleon wrasse, groupers, barracuda, trevally, and reef sharks. Seasonal manta rays and whale sharks visit depending on plankton concentrations. Cleaner stations attract diverse species. Macro life includes nudibranchs, frogfish, and seahorses in coral crevices.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Donsol Bank features healthy coral formations and reef structures. Depths range from 10 to 20 meters with varied bottom composition including sand and rock. Divers can explore the reef contours, look for pelagics in open water, or focus on coral and macro life. Less developed than nearby Manta Bowl, offering a more relaxed reef dive experience with occasional pelagic surprises.
 
 ## Entry and Exit
 
@@ -44,11 +44,11 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Good second dive option to Manta Bowl when current is less favorable elsewhere
+- Ideal for practicing navigation and buoyancy control on healthy reef
+- Wide-angle lens useful if pelagics appear; macro lens for close-up reef work
+- Keep eyes open for seasonal whale shark visitors
+- More relaxed dive than neighboring sites, good for building dive experience
 
 ## Safety Considerations
 

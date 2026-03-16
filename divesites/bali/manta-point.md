@@ -2,8 +2,8 @@
 name: Manta Point
 lat: -8.7947861
 lng: 115.5259217
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Beginner
+maxDepth: 15
 entryType: boat
 siteType: reef
 ref: null
@@ -17,22 +17,22 @@ Manta Point is a reef dive site in Bali, Asia.
 
 ## Overview
 
-Manta Point is a renowned dive site in Bali offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Manta Point is the most famous manta ray cleaning station in Bali, located on the southwest coast of Nusa Penida. This is a world-class destination for observing manta rays in their natural behavior. The site is a natural cleaning station where manta rays visit to have parasites removed by smaller fish species. Relatively shallow and accessible, making it suitable for most experience levels.
 
 ## Site Information
 
-- **Location**: Bali, Asia
+- **Location**: Southwest coast of Nusa Penida, Bali, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 15 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Current**: Mild to moderate
+- **Best Time**: March-June (90%+ manta encounter probability), year-round possible
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Manta Point's primary attraction is manta rays. During peak season (March-June), encounter probability exceeds 90%. Mantas glide gracefully overhead at the shallow cleaning station (5-10m depth), often multiple individuals at once. Secondary species include blue-spotted stingrays, eagle rays, bamboo reef sharks, sea turtles, and occasional mola mola sightings.
 
 ## Dive Profile
 
@@ -44,11 +44,13 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Best visited March-June during peak manta season for highest encounter probability
+- Book with reputable local dive operators experienced with manta diving
+- Avoid blocking mantas' paths or chasing them — stay still and let them approach
+- Bring an underwater camera — this site offers excellent manta photography opportunities
+- Maintain perfect buoyancy to avoid damaging the cleaning station or disturbing mantas
+- Surface conditions can be challenging (exposed site) — only dive in favorable conditions
+- Carry a surface marker buoy (SMB) and brief with boat crew on pickup procedures
 
 ## Safety Considerations
 

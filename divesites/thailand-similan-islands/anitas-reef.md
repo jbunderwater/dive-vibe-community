@@ -3,8 +3,8 @@ name: Anita's Reef
 lat: 8.56
 lng: 97.635
 difficulty: Intermediate
-maxDepth: 22
-entryType: boat
+maxDepth: 28
+entryType: liveaboard
 siteType: reef
 ref: null
 osmId: null
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Anita's Reef
 
-Anita's Reef is a reef dive site in Thailand Similan Islands, Asia.
+Anita's Reef is a stunning gentle sloping reef on Island 5 famous for its massive coral bommie and excellent beginner-friendly conditions with varied corals.
 
 ## Overview
 
-Anita's Reef is a dive site in Thailand Similan Islands offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Anita's Reef is one of the most famous diving spots on the Similan Islands, located on the east coast of Island 5 (Koh Ha) between Islands 5 and 6. The site features a gentle sandy slope with stunning coral bommies, table corals, and staghorn corals. A big stunning bommie at the southeast (base at 20m, top at 12m) is surrounded by soft and hard corals, sea fans, and abundant marine life.
 
 ## Site Information
 
-- **Location**: Thailand Similan Islands, Asia
-- **Entry Type**: Boat dive
+- **Location**: East coast of Island 5 (Koh Ha), between Islands 5 & 6, Similan Islands
+- **Entry Type**: liveaboard
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 28 meters
+- **Typical Visibility**: Good
+- **Current**: Gentle
+- **Best Time**: November to April (excellent check-out dive for liveaboard start)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Lionfish, Oriental sweetlips (endemic), clown triggerfish (less common). Sandy bottom hosts hordes of spotted garden eels and blue-spotted (Kuhl's) stingrays. Diverse coral bommie inhabitants.
 
 ## Dive Profile
 

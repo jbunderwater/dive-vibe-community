@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Rockport Dive Site
 
-Rockport Dive Site is a reef dive site in Philippines Anilao, Asia.
+Rockport is a coral reef dive site in Anilao, Philippines, offering typical healthy reef structures found throughout this world-renowned macro diving destination.
 
 ## Overview
 
-Rockport Dive Site is a dive site in Philippines Anilao offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Rockport is a boat dive featuring coral-covered rock formations characteristic of Anilao's many reef sites. Like much of Anilao, this site offers good opportunities for macro photography, with typical depths around 20 meters and warm tropical waters. The site is part of Anilao's diverse range of diving options, from shallow reef dives to muck diving for critter enthusiasts.
 
 ## Site Information
 

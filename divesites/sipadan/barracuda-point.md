@@ -2,8 +2,8 @@
 name: Barracuda Point
 lat: 4.1147
 lng: 118.6289
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Advanced
+maxDepth: 40
 entryType: boat
 siteType: wall
 ref: null
@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Barracuda Point
 
-Barracuda Point is a wall dive site in Sipadan, Asia.
+Barracuda Point is Sipadan's most famous dive site, renowned for its massive chevron barracuda formations that spiral into the blue like a living tornado. This iconic wall dive features schooling bigeye trevally, dogtooth tuna, manta rays, and zebra sharks.
 
 ## Overview
 
-Barracuda Point is a dive site in Sipadan featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Barracuda Point is a dramatic vertical wall dive where the morning's main attraction is the chevron barracuda shoal—sometimes numbering in the thousands—that forms spectacular spiral formations. The reef begins at 10-18 meters before dropping steeply into the abyss. Most action occurs between 10-25 meters, though the wall descends to well over 600 meters. This is an advanced-level wall dive with variable strong currents that can sweep divers downward and away from the island if not properly managed.
 
 ## Site Information
 
-- **Location**: Sipadan, Asia
+- **Location**: Northwest Sipadan
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 40 meters
+- **Typical Visibility**: 30-40 meters (100-130 feet)
+- **Current**: Variable and often strong — currents can sweep divers away from the island
+- **Best Time**: October to April (morning dives optimal for barracuda formation)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+The signature encounter is the barracuda shoal—chevron barracuda that often display in a mesmerizing tornado-like spiral formation during morning dives. Additional pelagics include schools of bigeye trevally, giant trevally, dogtooth tuna, manta rays, and zebra sharks. Reef sharks (whitetip and blacktip), sea turtles, and hammerhead sharks are also possible. Smaller reef species include nudibranchs, frogfish, and seahorses sheltering in wall crevices.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-25 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Descend along the reef wall, positioning yourself to observe the barracuda formation without swimming too deep. The sandy channel at 18 meters is a key orientation point. Most divers remain between 10-25 meters where barracudas and trevally are active. Beyond 25 meters, the wall becomes steeper and currents increase. Maintain excellent depth management—the wall tempts divers deeper than planned.
 
 ## Entry and Exit
 

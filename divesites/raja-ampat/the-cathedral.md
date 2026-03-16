@@ -2,7 +2,7 @@
 name: The Cathedral
 lat: -0.4200947
 lng: 130.5683194
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 25
 entryType: boat
 siteType: cave
@@ -17,14 +17,14 @@ The Cathedral is a cave dive site in Raja Ampat, Asia.
 
 ## Overview
 
-The Cathedral is a dive site in Raja Ampat featuring underwater cave and cavern formations. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The Cathedral is a spectacular cavern dive in Raja Ampat featuring dramatic light-filled cave formations. Large cathedral-like chamber formations create an otherworldly diving environment with shafts of sunlight penetrating into the cavern. The site requires intermediate-to-advanced skills and is best done as a cavern dive with trained guides. Visibility often exceeds 20-35 meters with temperatures averaging 27-30°C.
 
 ## Site Information
 
 - **Location**: Raja Ampat, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter manta rays, whale sharks, reef shark
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The Cathedral is best approached as a cavern dive. Enter the shallow cave opening and descend into the chamber (10-25m). Navigate through the formations slowly, maintaining excellent buoyancy to avoid silt disturbance. The cathedral chamber features impressive light play at 10-18m depth. Ensure proper cavern training and dive with local guides familiar with the site. Allow 25-30 minutes for the main chamber exploration plus safety stops.
 
 ## Entry and Exit
 

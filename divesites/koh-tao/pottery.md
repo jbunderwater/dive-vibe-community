@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Pottery
 
-Pottery is a reef dive site in Koh Tao, Asia.
+Pottery is a reef dive site located on the southern part of Mae Haad bay on Koh Tao. It's a popular training and beginner-friendly site featuring shallow reef areas with coral gardens and abundant marine life. The site is excellent for developing fundamental diving skills in a supportive environment.
 
 ## Overview
 
-Pottery is a dive site in Koh Tao offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Pottery is an ideal training location with shallow depths and mild conditions suitable for beginner skill development. The site's protected bay location provides relatively calm conditions ideal for practice and confidence building. Visibility ranges from 10-40 meters with water temperatures averaging 26-30°C year-round.
 
 ## Site Information
 

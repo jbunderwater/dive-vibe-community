@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Mike's Point
 
-Mike's Point is a reef dive site in Raja Ampat, Asia.
+Mike's Point is a coral wall dive in Raja Ampat featuring deep vertical drops.
 
 ## Overview
 
-Mike's Point is a dive site in Raja Ampat offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Mike's Point is a coral-encrusted wall descending from shallow water to 30m+ depth. The wall features excellent coral coverage with abundant reef fish and occasional pelagic visitors. A solid intermediate wall dive with variable depth profile. Visibility typically 15-30+ meters with temperatures averaging 26-30°C.
 
 ## Site Information
 
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter manta rays, whale sharks, reef shark
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin descent on the wall at 3-5m and explore depths down to 25-28m. The shallow sections (3-15m) offer optimal coral viewing. Carefully manage depth to avoid exceeding 30m. Spend 35-40 minutes observing the wall structure and reef residents. Watch your depth gauge throughout to maintain safe ascent profile.
 
 ## Entry and Exit
 

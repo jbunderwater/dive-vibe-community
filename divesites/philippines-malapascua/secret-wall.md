@@ -2,8 +2,9 @@
 name: Secret Wall
 lat: 11.3501906
 lng: 124.1158957
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Advanced
+maxDepth: 30
+minDepth: 12
 entryType: boat
 siteType: wall
 ref: null
@@ -13,55 +14,66 @@ addedBy: osm_import
 
 ## Secret Wall
 
-Secret Wall is a wall dive site in Philippines Malapascua, Asia.
+Secret Wall is a steep reef wall that plunges beyond 30 meters, offering dramatic vertical diving for advanced divers seeking to explore deep wall ecosystems.
 
 ## Overview
 
-Secret Wall is a dive site in Philippines Malapascua featuring a dramatic vertical wall that drops into the deep blue . Dive Site. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Secret Wall features a dramatic vertical wall that plunges from 12 meters to beyond 30 meters, creating stunning deep wall topography. This is strictly an advanced dive site requiring proper depth training and excellent buoyancy control. The wall structure creates a distinct vertical ecosystem with species transitions at varying depths. Strong currents and depth requirements make this an exciting technical challenge. The site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Philippines Malapascua, Asia
+- **Location**: Philippines Malapascua, Cebu
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Difficulty Level**: Advanced
+- **Minimum Depth**: 12 meters
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Current**: Strong, variable
+- **Best Time**: October to April
 
-## Marine Life
+## Site Characteristics
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+The wall drops steeply from approximately 12 meters on the reef top to beyond 30 meters, creating a dramatic vertical profile. The wall itself is covered with various soft corals, sponges, and sea fans. Different species inhabit the wall at different depths, creating a dynamic ecosystem. Blue water beyond the wall attracts pelagic visitors.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-20 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Begin your descent along the wall starting at the shallow top (12m). Follow the wall downward, monitoring depth carefully—it's easy to exceed depth limits on steep walls. Most interesting features and marine life are found between 12-25 meters. The wall continues beyond safe recreational limits. Maintain excellent buoyancy control and keep a close eye on your depth gauge. Plan for 35-40 minute dives with appropriate decompression stops.
 
 ## Entry and Exit
 
 Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
+## Certification Requirements
+
+Advanced Open Water (PADI Advanced or equivalent) minimum. Many dive operators require confirmation of wall diving experience or a checkout dive before allowing deep wall exploration.
+
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Watch your depth carefully—wall dives easily lead to unintended depth increases
+- Maintain excellent buoyancy control to avoid bouncing on the wall
+- Look in crevices, overhangs, and coral for hidden marine life
+- Book with experienced operators familiar with wall diving
+- Bring a wide-angle camera for dramatic wall photography
+- Check sea conditions—strong currents are common
+- This is best dived by divers comfortable with deep recreational limits
+
+## Marine Life
+
+Soft corals, sea fans, sponges, various reef fish at mid-depth. Pelagic species (trevally, barracuda, sharks) in blue water beyond the wall. Different species inhabit different depth zones.
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+This advanced site has strong currents and significant depth. Divers must maintain excellent buoyancy and depth awareness. Stay within Advanced Open Water limits. Be aware of jellyfish and sea urchins. Always dive with a buddy and carry a safety sausage (SMB). Be prepared to abort if conditions deteriorate.
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+Excellent for wide-angle wall photography with dramatic depth and perspective. The interplay of light and shadow along the vertical profile creates compelling compositions. Look for macro subjects in crevices and overhangs.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
+- **Validated by**: Dive operator research
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from OpenStreetMap data and dive operator research. Last updated 2026-03-16.*

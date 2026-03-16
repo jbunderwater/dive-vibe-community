@@ -3,7 +3,7 @@ name: Wood Bank
 lat: 10.6047483
 lng: 117.1671437
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 23
 entryType: boat
 siteType: reef
 ref: null
@@ -25,7 +25,7 @@ Wood Bank is a dive site in Philippines Palawan offering rewarding diving on hea
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 23 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)

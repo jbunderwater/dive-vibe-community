@@ -3,9 +3,9 @@ name: Fantasea Reef
 lat: 8.6
 lng: 97.645
 difficulty: Intermediate
-maxDepth: 20
-entryType: boat
-siteType: reef
+maxDepth: 40
+entryType: liveaboard
+siteType: boulder
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,26 +13,30 @@ addedBy: osm_import
 
 ## Fantasea Reef
 
-Fantasea Reef is a reef dive site in Thailand Similan Islands, Asia.
+Fantasea Reef is a site off Island 8 featuring enormous granite boulders and excellent fish variety with beautiful colorful coral.
 
 ## Overview
 
-Fantasea Reef is a dive site in Thailand Similan Islands offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Fantasea Reef is located offshore off the west coast of Island 8 (the largest island in the archipelago). The site features enormous rocks, some as large as houses, creating a spectacular underwater landscape. The reef offers great variety and density of fish with beautiful and colorful coral. Visibility is often very good, ranging between 20-40 meters. This was one of the top sites in the Similan Islands but has been closed to divers since 2004 to allow coral regeneration after tsunami damage.
 
 ## Site Information
 
-- **Location**: Thailand Similan Islands, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Location**: Off west coast of Island 8, Similan Islands
+- **Entry Type**: liveaboard
+- **Site Type**: Boulder
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 40 meters
+- **Typical Visibility**: 20-40 meters (excellent)
+- **Current**: Moderate
+- **Best Time**: November to April (historically)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Diverse coral and fish. Historically a premier site but closed since 2004.
+
+## Important Note
+
+Fantasea Reef has been closed to diving since 2004 as part of a conservation policy to allow coral regeneration after tsunami damage. This site listing is historical reference only.
 
 ## Dive Profile
 
