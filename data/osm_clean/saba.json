@@ -11,8 +11,11 @@
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
-    }
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "perplexity"
+    },
+    "depth_max": 40
   },
   {
     "name": "Third Encounter",
@@ -43,8 +46,11 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
-    }
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "perplexity"
+    },
+    "depth_max": 25
   },
   {
     "name": "Ladder Labyrinth",
@@ -126,8 +132,11 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
-    }
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "perplexity"
+    },
+    "depth_max": 18
   },
   {
     "name": "Green Island",
@@ -141,7 +150,10 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
-    }
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "perplexity"
+    },
+    "depth_max": 25
   }
 ]

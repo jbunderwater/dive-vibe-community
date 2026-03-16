@@ -5,7 +5,7 @@ lng: 13.16
 difficulty: Advanced
 maxDepth: 28
 entryType: boat
-siteType: seamount
+siteType: pinnacle
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,7 +23,7 @@ Secca di Tramontana is a dive site in Ustica offering rewarding diving on health
 
 - **Location**: Ustica, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Seamount
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 28 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

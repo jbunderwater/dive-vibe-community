@@ -63,9 +63,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": "false",
-      "validation_source": "pending_research"
-    }
+      "validated": "true",
+      "validation_source": "perplexity"
+    },
+    "depth_max": 40
   },
   {
     "name": "Nigali Passage",
@@ -148,9 +149,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": "false",
-      "validation_source": "pending_research"
-    }
+      "validated": "true",
+      "validation_source": "perplexity"
+    },
+    "depth_max": 30
   },
   {
     "name": "Kansas Namena",

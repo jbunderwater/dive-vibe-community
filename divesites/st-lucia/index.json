@@ -150,7 +150,7 @@
     "lng": -60.9721116,
     "difficulty": "Intermediate",
     "maxDepth": 25,
-    "entryType": "shore",
+    "entryType": "boat",
     "siteType": "wreck",
     "ref": "",
     "osmId": 9385639518
@@ -172,9 +172,9 @@
     "filename": "maria-island-reef.md",
     "lat": 13.7362752,
     "lng": -60.9342094,
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "maxDepth": 25,
-    "entryType": "shore",
+    "entryType": "boat",
     "siteType": "reef",
     "ref": "",
     "osmId": 1022427960

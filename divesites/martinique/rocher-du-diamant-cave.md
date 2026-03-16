@@ -23,7 +23,7 @@ Rocher du Diamant Cave is a dive site in Martinique featuring underwater cave an
 
 - **Location**: Martinique, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

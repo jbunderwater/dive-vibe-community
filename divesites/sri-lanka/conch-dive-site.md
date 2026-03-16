@@ -23,7 +23,7 @@ Conch dive site is a dive site in Sri Lanka featuring the wreck of the Conch div
 
 - **Location**: Sri Lanka, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

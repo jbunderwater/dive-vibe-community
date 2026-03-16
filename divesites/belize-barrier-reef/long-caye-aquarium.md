@@ -3,7 +3,7 @@ name: Long Caye Aquarium
 lat: 17.2130056
 lng: -87.6075978
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 15
 entryType: boat
 siteType: reef
 ref: null
@@ -25,7 +25,7 @@ Long Caye Aquarium is a dive site in Belize Barrier Reef offering rewarding divi
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 15 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)

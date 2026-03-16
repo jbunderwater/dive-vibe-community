@@ -3,7 +3,7 @@ name: Banc Major
 lat: 14.4625903
 lng: -60.8788598
 difficulty: Intermediate
-maxDepth: 15
+maxDepth: 20
 entryType: boat
 siteType: reef
 ref: null
@@ -25,7 +25,7 @@ Banc Major is a dive site in Martinique offering rewarding diving on healthy cor
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 15 meters
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)

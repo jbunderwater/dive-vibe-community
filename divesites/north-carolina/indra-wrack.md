@@ -23,7 +23,7 @@ Indra (Wrack) is a dive site in North Carolina featuring the wreck of the Indra 
 
 - **Location**: North Carolina, North America
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 5-25 meters (15-80 feet)

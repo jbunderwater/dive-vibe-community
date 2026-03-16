@@ -3,7 +3,7 @@ name: El Mirador
 lat: 20.3175844
 lng: -86.911125
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 22
 entryType: boat
 siteType: reef
 ref: null
@@ -25,7 +25,7 @@ El Mirador is a dive site in Cozumel offering rewarding diving on healthy coral 
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 22 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)

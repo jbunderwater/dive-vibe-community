@@ -3,7 +3,7 @@ name: Hakau Ualanga 'Uta
 lat: -21.1154444
 lng: -175.198852
 difficulty: Intermediate
-maxDepth: 15
+maxDepth: 18
 entryType: boat
 siteType: reef
 ref: null
@@ -25,7 +25,7 @@ Hakau Ualanga 'Uta is a dive site in Tonga offering rewarding diving on healthy 
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 15 meters
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)
 - **Current**: Moderate to strong
 - **Best Time**: April to November

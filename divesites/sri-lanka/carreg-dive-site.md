@@ -3,7 +3,7 @@ name: Carreg dive site
 lat: 7.1759409
 lng: 79.7589118
 difficulty: Intermediate
-maxDepth: 24
+maxDepth: 15
 entryType: boat
 siteType: wreck
 ref: null
@@ -23,9 +23,9 @@ Carreg dive site is a dive site in Sri Lanka featuring the wreck of the Carreg d
 
 - **Location**: Sri Lanka, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 24 meters
+- **Maximum Depth**: 15 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)

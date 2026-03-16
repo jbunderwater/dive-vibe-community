@@ -2,7 +2,7 @@
 name: fighter plane wrack world war II
 lat: 36.8275723
 lng: 25.4221525
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 7
 entryType: boat
 siteType: wreck
@@ -23,8 +23,8 @@ fighter plane wrack world war II is a dive site in Greece featuring the wreck of
 
 - **Location**: Greece, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
-- **Difficulty Level**: Beginner
+- **Site Type**: Wreck dive
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 7 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Light to moderate

@@ -3,7 +3,7 @@ name: Chun Chacaaab Reef
 lat: 20.277334
 lng: -87.011375
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 18
 entryType: boat
 siteType: reef
 ref: null
@@ -25,7 +25,7 @@ Chun Chacaaab Reef is a dive site in Cozumel offering rewarding diving on health
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)

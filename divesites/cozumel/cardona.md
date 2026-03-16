@@ -3,8 +3,8 @@ name: Cardona
 lat: 20.342695
 lng: -87.043991
 difficulty: Beginner
-maxDepth: 18
-entryType: boat
+maxDepth: 12
+entryType: shore
 siteType: reef
 ref: null
 osmId: 663869335
@@ -22,10 +22,10 @@ Cardona is a dive site in Cozumel offering excellent diving on healthy coral ree
 ## Site Information
 
 - **Location**: Cozumel, Caribbean
-- **Entry Type**: Boat dive
+- **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 18 meters
+- **Maximum Depth**: 12 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)

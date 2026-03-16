@@ -2,8 +2,8 @@
 name: Rusty Barge Wreck
 lat: 17.5002648
 lng: -88.0869874
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Beginner
+maxDepth: 8
 entryType: shore
 siteType: wreck
 ref: null
@@ -23,9 +23,9 @@ Rusty Barge Wreck is a dive site in Belize Barrier Reef featuring the wreck of t
 
 - **Location**: Belize Barrier Reef, Caribbean
 - **Entry Type**: Shore entry
-- **Site Type**: Wreck
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Site Type**: Wreck dive
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 8 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)

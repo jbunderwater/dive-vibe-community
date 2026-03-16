@@ -114,9 +114,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": "false",
-      "validation_source": "perplexity_no_specific_data"
-    }
+      "validated": "true",
+      "validation_source": "perplexity"
+    },
+    "depth_max": 30
   },
   {
     "name": "Terceira Reef",

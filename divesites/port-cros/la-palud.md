@@ -3,7 +3,7 @@ name: La Palud
 lat: 43.01
 lng: 6.395
 difficulty: Beginner
-maxDepth: 10
+maxDepth: 12
 entryType: shore
 siteType: reef
 ref: null
@@ -25,7 +25,7 @@ La Palud is a dive site in Port-Cros offering excellent diving on healthy coral 
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 10 meters
+- **Maximum Depth**: 12 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: May to October

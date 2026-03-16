@@ -3,7 +3,7 @@ name: Banc du Singe
 lat: 14.451809
 lng: -60.8877312
 difficulty: Intermediate
-maxDepth: 12
+maxDepth: 18
 entryType: boat
 siteType: reef
 ref: null
@@ -25,7 +25,7 @@ Banc du Singe is a dive site in Martinique offering rewarding diving on healthy 
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 12 meters
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)

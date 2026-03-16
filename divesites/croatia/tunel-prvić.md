@@ -23,7 +23,7 @@ Tunel Prvić is a dive site in Croatia featuring underwater cave and cavern form
 
 - **Location**: Croatia, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

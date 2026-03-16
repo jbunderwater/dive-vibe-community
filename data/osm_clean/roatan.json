@@ -69,8 +69,11 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
-    }
+      "addedBy": "fill_new_destinations",
+      "validated": "true",
+      "validation_source": "perplexity"
+    },
+    "depth_max": 15
   },
   {
     "name": "Bear's Den",

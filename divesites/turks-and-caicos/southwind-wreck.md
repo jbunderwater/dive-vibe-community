@@ -4,7 +4,7 @@ lat: 21.875
 lng: -72.1833
 difficulty: Beginner
 maxDepth: 15
-entryType: boat
+entryType: shore
 siteType: wreck
 ref: null
 osmId: null
@@ -22,8 +22,8 @@ Southwind Wreck is a dive site in Turks and Caicos featuring the wreck of the So
 ## Site Information
 
 - **Location**: Turks and Caicos, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Entry Type**: Shore entry
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

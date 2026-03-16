@@ -23,7 +23,7 @@ The Drift (Pitons) is a dive site in St. Lucia offering rewarding diving on heal
 
 - **Location**: St. Lucia, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Drift
+- **Site Type**: Drift dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

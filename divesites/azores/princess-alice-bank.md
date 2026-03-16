@@ -23,7 +23,7 @@ princess alice bank is a dive site in Azores offering rewarding diving on health
 
 - **Location**: Azores, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 29 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

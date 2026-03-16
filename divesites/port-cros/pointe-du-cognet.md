@@ -3,7 +3,7 @@ name: Pointe du Cognet
 lat: 42.98
 lng: 6.415
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 30
 entryType: boat
 siteType: reef
 ref: null
@@ -25,7 +25,7 @@ Pointe du Cognet is a dive site in Port-Cros offering rewarding diving on health
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: May to October

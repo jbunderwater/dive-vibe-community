@@ -3,7 +3,7 @@ name: The Ledge Vavau
 lat: -18.7
 lng: -174.0333
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 40
 entryType: boat
 siteType: wall
 ref: null
@@ -25,7 +25,7 @@ The Ledge Vavau is a dive site in Tonga featuring a dramatic vertical wall that 
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)
 - **Current**: Moderate to strong
 - **Best Time**: April to November

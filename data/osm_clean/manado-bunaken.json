@@ -267,8 +267,11 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Bango",
-      "sport": "scuba_diving"
-    }
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
+    },
+    "depth_max": 40
   },
   {
     "name": "Likuan 2",

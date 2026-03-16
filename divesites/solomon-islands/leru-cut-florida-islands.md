@@ -23,7 +23,7 @@ Leru Cut Florida Islands is a dive site in Solomon Islands featuring underwater 
 
 - **Location**: Solomon Islands, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)

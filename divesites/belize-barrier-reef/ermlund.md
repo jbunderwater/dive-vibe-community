@@ -4,7 +4,7 @@ lat: 17.2136335
 lng: -87.527902
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
+entryType: boat
 siteType: wreck
 ref: null
 osmId: 8433034767
@@ -22,8 +22,8 @@ Ermlund is a dive site in Belize Barrier Reef featuring the wreck of the Ermlund
 ## Site Information
 
 - **Location**: Belize Barrier Reef, Caribbean
-- **Entry Type**: Shore entry
-- **Site Type**: Wreck
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

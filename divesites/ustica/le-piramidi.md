@@ -23,7 +23,7 @@ Le Piramidi is a dive site in Ustica offering rewarding diving on healthy coral 
 
 - **Location**: Ustica, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 35 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

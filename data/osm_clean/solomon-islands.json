@@ -156,9 +156,11 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
-      "validated": false,
-      "validation_note": "Limited specific information available; local name may be for alternative site in Russell Islands region"
-    }
+      "validated": "true",
+      "validation_note": "Limited specific information available; local name may be for alternative site in Russell Islands region",
+      "validation_source": "perplexity"
+    },
+    "depth_max": 12
   },
   {
     "name": "Mirror Pond Uepi",

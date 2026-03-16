@@ -78,7 +78,9 @@
       "seamark:topmark:shape": "2 spheres",
       "seamark:type": "beacon_isolated_danger",
       "source": "US NGA Pub. 113. 2010-10-22.",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -93,7 +95,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Brbišćica",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -108,7 +112,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Golac",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -125,7 +131,9 @@
       "historic": "wreck",
       "name": "Wreck Tihany",
       "seamark:type": "wreck",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -157,7 +165,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Krivica",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -167,12 +177,14 @@
     "osm_id": 663869725,
     "osm_type": "node",
     "depth": 25,
-    "site_type": "reef",
+    "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Katedrala",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -187,7 +199,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Zabodaski",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -221,7 +235,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Misnjak (Sanddüne)",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -236,7 +252,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Cutin",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -268,7 +286,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Miracine",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -283,7 +303,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Zeca",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -298,7 +320,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Galijola",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -313,7 +337,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Fels Merag",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -328,7 +354,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Kap Kosaca",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -343,7 +371,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Mali Plavnik",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -358,7 +388,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Holzsegelschiff mit Geschützen",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -375,7 +407,9 @@
       "historic": "wreck",
       "name": "Bucht Mrzlanovica (Wrack)",
       "seamark:type": "wreck",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -390,7 +424,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Kap Tanki",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -405,7 +441,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Kap Zašorga",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -420,7 +458,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Fels Macinj",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -435,7 +475,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Patersriff",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -450,7 +492,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Kap Silo",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -482,7 +526,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Kricin",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -497,7 +543,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Riff Pal",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -527,12 +575,14 @@
     "osm_id": 663870765,
     "osm_type": "node",
     "depth": 25,
-    "site_type": "reef",
+    "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Grotta",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -547,7 +597,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Kap Jablanac",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -605,7 +657,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Gorgonien",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -622,7 +676,9 @@
       "historic": "wreck",
       "name": "Bucht Bobina (Wrack)",
       "seamark:type": "wreck",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -637,7 +693,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Säulenbucht",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -659,40 +717,6 @@
     }
   },
   {
-    "name": "Pri Čolnarni, Velenjsko jezero",
-    "lat": 46.3703993,
-    "lon": 15.0880515,
-    "osm_id": 2495038636,
-    "osm_type": "node",
-    "depth": 25,
-    "site_type": "reef",
-    "entry_type": "shore",
-    "difficulty": "Intermediate",
-    "tags": {
-      "name": "Pri Čolnarni, Velenjsko jezero",
-      "scuba_diving:divespot": "yes",
-      "scuba_diving:entry": "shore",
-      "scuba_diving:type": "ambiance",
-      "sport": "scuba_diving"
-    }
-  },
-  {
-    "name": "dfh",
-    "lat": 43.5269549,
-    "lon": 16.4215367,
-    "osm_id": 2641130374,
-    "osm_type": "node",
-    "depth": 25,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "name": "dfh",
-      "scuba_diving:divespot": "yes",
-      "sport": "scuba_diving"
-    }
-  },
-  {
     "name": "Vajavine",
     "lat": 45.0762538,
     "lon": 14.6804754,
@@ -706,7 +730,9 @@
       "name": "Vajavine",
       "name:en": "100 Steps",
       "scuba_diving:divespot": "yes",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -722,7 +748,9 @@
     "tags": {
       "name": "Silent Beach",
       "scuba_diving:divespot": "yes",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -738,7 +766,9 @@
     "tags": {
       "name": "Secret beach",
       "scuba_diving:divespot": "yes",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -774,13 +804,15 @@
     "osm_id": 7737555270,
     "osm_type": "node",
     "depth": 25,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Canyon",
       "scuba_diving:divespot": "yes",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -845,7 +877,9 @@
       "scuba_diving:divespot": "Wrack Ribolovc",
       "scuba_diving:entry": "boat  or shore",
       "scuba_diving:type": "wreck",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {

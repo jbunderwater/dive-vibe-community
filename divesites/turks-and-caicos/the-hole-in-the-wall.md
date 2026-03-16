@@ -23,7 +23,7 @@ The Hole in the Wall is a dive site in Turks and Caicos featuring underwater cav
 
 - **Location**: Turks and Caicos, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 27 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

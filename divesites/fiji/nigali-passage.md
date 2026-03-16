@@ -23,7 +23,7 @@ Nigali Passage is a dive site in Fiji offering rewarding diving on healthy coral
 
 - **Location**: Fiji, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Drift
+- **Site Type**: Drift dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)

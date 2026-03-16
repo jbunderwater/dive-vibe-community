@@ -3,8 +3,8 @@ name: M/V Transfer
 lat: 17.4022104
 lng: -87.4601922
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+maxDepth: 20
+entryType: boat
 siteType: wreck
 ref: null
 osmId: 8433034768
@@ -22,10 +22,10 @@ M/V Transfer is a dive site in Belize Barrier Reef featuring the wreck of the M/
 ## Site Information
 
 - **Location**: Belize Barrier Reef, Caribbean
-- **Entry Type**: Shore entry
-- **Site Type**: Wreck
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)

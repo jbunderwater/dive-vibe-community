@@ -48,13 +48,16 @@
     "name": "La Pointe du Vaisseau",
     "lat": 42.99,
     "lon": 6.41,
-    "depth": 18,
-    "site_type": "reef",
+    "depth": 35,
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": "true",
+      "validation_source": "perplexity",
+      "description": "Classic Mediterranean wall dive with vertical drop, 10-35m. Posidonia seagrass meadows on shallow plateau. Groupers, morays, and amberjacks in wall crevices. Excellent macro photography and light penetration. 15m+ visibility typical."
     }
   },
   {
@@ -91,13 +94,16 @@
     "name": "La Palud",
     "lat": 43.01,
     "lon": 6.395,
-    "depth": 10,
+    "depth": 12,
     "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": "true",
+      "validation_source": "perplexity",
+      "description": "Shore-accessible reef in protected marine reserve with snorkeling trail, 2-12m. Beginner-friendly posidonia seagrass exploration. Groupers, bream, and nudibranchs common. Excellent for learning Mediterranean reef ecology."
     }
   },
   {
@@ -125,7 +131,10 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": "true",
+      "validation_source": "perplexity",
+      "description": "Bagaud island reef (pierre = rock) with rocky formations and posidonia, 5-25m. Intermediate exploration of marine reserve with groupers, octopus, and sea fans. Good visibility (20m+) and moderate currents."
     }
   },
   {
@@ -153,20 +162,26 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": "true",
+      "validation_source": "perplexity",
+      "description": "Beach dive site (plage = beach) with easy shore access, depths 2-8m. Beginner-friendly Mediterranean reef with posidonia seagrass beds. Perfect for learning in calm, shallow protected area."
     }
   },
   {
     "name": "Pointe du Cognet",
     "lat": 42.98,
     "lon": 6.415,
-    "depth": 20,
+    "depth": 30,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": "true",
+      "validation_source": "perplexity",
+      "description": "Point (pointe) reef with deeper exploration, 8-30m. Intermediate Mediterranean dive with rocky formations, groupers, and amberjacks. Posidonia and macroalgae. Visibility typically 15-25m with light currents."
     }
   },
   {

@@ -187,8 +187,8 @@
     "osm_type": "node",
     "depth": null,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "access": "yes",
       "historic": "wreck",
@@ -198,8 +198,11 @@
       "wreck:visible_at_high_tide": "yes",
       "wreck:visible_at_low_tide": "yes",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
-    }
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
+    },
+    "depth_max": 20
   },
   {
     "name": "Fairyland",
@@ -229,13 +232,16 @@
     "osm_type": "way",
     "depth": null,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Maria Island Reef",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
-    }
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
+    },
+    "depth_max": 15
   }
 ]

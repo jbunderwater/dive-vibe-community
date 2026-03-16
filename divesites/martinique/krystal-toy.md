@@ -3,7 +3,7 @@ name: Krystal Toy
 lat: 14.464
 lng: -60.879
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 30
 entryType: boat
 siteType: wreck
 ref: null
@@ -23,9 +23,9 @@ Krystal Toy is a dive site in Martinique featuring the wreck of the Krystal Toy.
 
 - **Location**: Martinique, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)

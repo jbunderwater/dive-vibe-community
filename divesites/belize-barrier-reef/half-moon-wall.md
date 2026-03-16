@@ -3,7 +3,7 @@ name: Half Moon Wall
 lat: 17.2082863
 lng: -87.5358197
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 40
 entryType: boat
 siteType: wall
 ref: null
@@ -25,7 +25,7 @@ Half Moon Wall is a dive site in Belize Barrier Reef featuring a dramatic vertic
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)

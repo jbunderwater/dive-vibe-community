@@ -3,7 +3,7 @@ name: Hol Chan Cut
 lat: 17.8627707
 lng: -87.977162
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 18
 entryType: boat
 siteType: reef
 ref: null
@@ -25,7 +25,7 @@ Hol Chan Cut is a dive site in Belize Barrier Reef offering rewarding diving on 
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)

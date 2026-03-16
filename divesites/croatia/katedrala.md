@@ -5,7 +5,7 @@ lng: 14.6365833
 difficulty: Intermediate
 maxDepth: 25
 entryType: boat
-siteType: reef
+siteType: cave
 ref: null
 osmId: 663869725
 addedBy: osm_import
@@ -23,7 +23,7 @@ Katedrala is a dive site in Croatia offering rewarding diving on healthy coral r
 
 - **Location**: Croatia, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

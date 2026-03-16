@@ -23,7 +23,7 @@ Eua Island is a dive site in Tonga featuring underwater cave and cavern formatio
 
 - **Location**: Tonga, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)

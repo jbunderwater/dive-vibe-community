@@ -3,8 +3,8 @@ name: Columbus Reef
 lat: 16.9249215
 lng: -88.0741062
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+maxDepth: 18
+entryType: boat
 siteType: reef
 ref: null
 osmId: 9991788218
@@ -22,10 +22,10 @@ Columbus Reef is a dive site in Belize Barrier Reef offering rewarding diving on
 ## Site Information
 
 - **Location**: Belize Barrier Reef, Caribbean
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)

@@ -228,13 +228,14 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": false,
-    "validation_source": "OSM data - limited public documentation",
+    "validated": true,
+    "validation_source": "perplexity",
     "tags": {
       "name": "Bowden Reef",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true"
     }
   },
   {
@@ -243,18 +244,19 @@
     "lon": -76.33223,
     "osm_id": 6978522058,
     "osm_type": "node",
-    "depth": 18,
+    "depth": 20,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": false,
-    "validation_source": "OSM data - site name suggests reef, limited public documentation",
+    "validated": true,
+    "validation_source": "perplexity",
     "tags": {
       "name": "Dead Man's Bones",
       "natural": "reef",
       "wikidata": "Q27119118",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true"
     }
   },
   {
@@ -267,13 +269,14 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": false,
-    "validation_source": "OSM data - Trelawny Parish reef, limited documentation",
+    "validated": true,
+    "validation_source": "perplexity",
     "tags": {
       "name": "Bush Cay",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true"
     }
   },
   {
@@ -346,14 +349,15 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": false,
-    "validation_source": "OSM data - Montego Bay Marine Park, limited documentation",
+    "validated": true,
+    "validation_source": "perplexity",
     "tags": {
       "name": "Pelican Reef (Dive Site)",
       "natural": "reef",
       "wikidata": "Q637555",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true"
     }
   },
   {
@@ -366,13 +370,14 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": false,
-    "validation_source": "OSM data - Port Royal area reef",
+    "validated": true,
+    "validation_source": "perplexity",
     "tags": {
       "name": "Gun Cay",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true"
     }
   },
   {
@@ -385,13 +390,14 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": false,
-    "validation_source": "OSM data - Port Royal area cay reef",
+    "validated": true,
+    "validation_source": "perplexity",
     "tags": {
       "name": "Rackhmans Cay",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true"
     }
   },
   {
@@ -404,13 +410,14 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": false,
-    "validation_source": "OSM data - Port Royal shoal area",
+    "validated": true,
+    "validation_source": "perplexity",
     "tags": {
       "name": "West Middle Shoal",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true"
     }
   },
   {
@@ -423,13 +430,14 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": false,
-    "validation_source": "OSM data - Port Royal area reef cay",
+    "validated": true,
+    "validation_source": "perplexity",
     "tags": {
       "name": "Drunkenmans Cay",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true"
     }
   },
   {
@@ -442,13 +450,14 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": false,
-    "validation_source": "OSM data - Port Royal cay area",
+    "validated": true,
+    "validation_source": "perplexity",
     "tags": {
       "name": "South East Cay",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true"
     }
   },
   {
@@ -461,13 +470,14 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": false,
-    "validation_source": "OSM data - Port Royal reef cay",
+    "validated": true,
+    "validation_source": "perplexity",
     "tags": {
       "name": "Maiden Cay",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true"
     }
   },
   {
@@ -480,13 +490,14 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": false,
-    "validation_source": "OSM data - Port Royal cay area",
+    "validated": true,
+    "validation_source": "perplexity",
     "tags": {
       "name": "South Cay",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true"
     }
   },
   {
@@ -499,14 +510,15 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": false,
-    "validation_source": "OSM data - Port Royal area reef with Wikidata reference",
+    "validated": true,
+    "validation_source": "perplexity",
     "tags": {
       "name": "Bush Reef",
       "natural": "reef",
       "wikidata": "Q27120334",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true"
     }
   },
   {
@@ -519,13 +531,14 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": false,
-    "validation_source": "OSM data - Runaway Bay area reef",
+    "validated": true,
+    "validation_source": "perplexity",
     "tags": {
       "name": "One Bush Cay",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true"
     }
   },
   {
@@ -538,13 +551,14 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": false,
-    "validation_source": "OSM data - southern Jamaica reef cay",
+    "validated": true,
+    "validation_source": "perplexity",
     "tags": {
       "name": "Bare Bush Cay",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true"
     }
   },
   {
@@ -557,13 +571,14 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": false,
-    "validation_source": "OSM data - southern Jamaica reef area",
+    "validated": true,
+    "validation_source": "perplexity",
     "tags": {
       "name": "Careening Island",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true"
     }
   },
   {
@@ -576,13 +591,14 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": false,
-    "validation_source": "OSM data - western Jamaica reef",
+    "validated": true,
+    "validation_source": "perplexity",
     "tags": {
       "name": "Bucknors Reef",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true"
     }
   }
 ]

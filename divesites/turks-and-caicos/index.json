@@ -66,7 +66,7 @@
     "lng": -71.1333,
     "difficulty": "Intermediate",
     "maxDepth": 20,
-    "entryType": "boat",
+    "entryType": "shore",
     "siteType": "wreck",
     "ref": "",
     "osmId": null
@@ -78,7 +78,7 @@
     "lng": -72.1833,
     "difficulty": "Beginner",
     "maxDepth": 15,
-    "entryType": "boat",
+    "entryType": "shore",
     "siteType": "wreck",
     "ref": "",
     "osmId": null

@@ -3,7 +3,7 @@ name: Hakau Tapu
 lat: -21.0530339
 lng: -175.3116212
 difficulty: Intermediate
-maxDepth: 15
+maxDepth: 20
 entryType: boat
 siteType: reef
 ref: null
@@ -25,7 +25,7 @@ Hakau Tapu is a dive site in Tonga offering rewarding diving on healthy coral re
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 15 meters
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)
 - **Current**: Moderate to strong
 - **Best Time**: April to November

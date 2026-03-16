@@ -197,8 +197,11 @@
       "seamark:wreck:category": "dangerous",
       "seamark:wreck:water_level": "submerged",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
-    }
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
+    },
+    "depth_max": 20
   },
   {
     "name": "HMT Bedfordshire",

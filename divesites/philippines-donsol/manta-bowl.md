@@ -23,7 +23,7 @@ Manta Bowl is a dive site in Philippines Donsol offering rewarding diving on hea
 
 - **Location**: Philippines Donsol, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Muck
+- **Site Type**: Muck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 23 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

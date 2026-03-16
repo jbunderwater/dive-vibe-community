@@ -3,7 +3,7 @@ name: Hakau Mounu
 lat: -21.126952
 lng: -175.1878149
 difficulty: Intermediate
-maxDepth: 15
+maxDepth: 20
 entryType: boat
 siteType: reef
 ref: null
@@ -25,7 +25,7 @@ Hakau Mounu is a dive site in Tonga offering rewarding diving on healthy coral r
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 15 meters
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)
 - **Current**: Moderate to strong
 - **Best Time**: April to November

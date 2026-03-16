@@ -3,7 +3,7 @@ name: Grand-Caye
 lat: 14.458436
 lng: -60.921857
 difficulty: Intermediate
-maxDepth: 15
+maxDepth: 18
 entryType: boat
 siteType: reef
 ref: null
@@ -25,7 +25,7 @@ Grand-Caye is a dive site in Martinique offering rewarding diving on healthy cor
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 15 meters
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)

@@ -103,7 +103,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 25,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "cave",
     "ref": "",
     "osmId": 663869725
   },
@@ -379,7 +379,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 25,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "cave",
     "ref": "",
     "osmId": 663870765
   },
@@ -468,30 +468,6 @@
     "osmId": 1874390437
   },
   {
-    "name": "Pri Čolnarni, Velenjsko jezero",
-    "filename": "pri-čolnarni-velenjsko-jezero.md",
-    "lat": 46.3703993,
-    "lng": 15.0880515,
-    "difficulty": "Intermediate",
-    "maxDepth": 25,
-    "entryType": "shore",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 2495038636
-  },
-  {
-    "name": "dfh",
-    "filename": "dfh.md",
-    "lat": 43.5269549,
-    "lng": 16.4215367,
-    "difficulty": "Intermediate",
-    "maxDepth": 25,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 2641130374
-  },
-  {
     "name": "Vajavine",
     "filename": "vajavine.md",
     "lat": 45.0762538,
@@ -547,7 +523,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 25,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "wall",
     "ref": "",
     "osmId": 7737555270
   },

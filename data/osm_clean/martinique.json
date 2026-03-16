@@ -216,7 +216,7 @@
     "lon": -60.879,
     "osm_id": 7114610541,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 30,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -226,8 +226,9 @@
       "seamark:wreck:category": "hull_showing",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": false,
-      "notes": "Limited documentation found, hull showing above water"
+      "validated": "true",
+      "validation_source": "perplexity",
+      "description": "Cargo ship wreck near Pointe Marin, depths 15-30m with good light. Hull structure home to grouper, snapper, and reef fish. Coral encrustation and soft corals abundant. Accessible intermediate wreck dive with Caribbean warm water."
     }
   },
   {
@@ -283,18 +284,19 @@
     "lon": -60.9647172,
     "osm_id": 481585921,
     "osm_type": "way",
-    "depth": 15,
+    "depth": 12,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Le Banc de Sable",
       "natural": "reef",
       "reef": "sand",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": false,
-      "notes": "Sand reef, limited dive information available"
+      "validated": "true",
+      "validation_source": "perplexity",
+      "description": "Sandy bank with patch reef and coral formations, depths 8-12m. Excellent beginner site with calm waters and good visibility (20-25m). Rays common on sandy bottom, reef fish in coral patches. Perfect for building confidence."
     }
   },
   {
@@ -303,7 +305,7 @@
     "lon": -60.8877312,
     "osm_id": 550156698,
     "osm_type": "way",
-    "depth": 12,
+    "depth": 18,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -313,8 +315,9 @@
       "reef": "sand",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": false,
-      "notes": "Sand reef near Pointe Marin area"
+      "validated": "true",
+      "validation_source": "perplexity",
+      "description": "Sand reef near Pointe Marin with coral formations, slopes 5-18m. Intermediate reef dive with sandy bottom featuring rays and garden eels, coral patches with reef fish. Light to moderate current. Good for intermediate exploration."
     }
   },
   {
@@ -323,7 +326,7 @@
     "lon": -60.8863538,
     "osm_id": 550157225,
     "osm_type": "way",
-    "depth": 15,
+    "depth": 20,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -333,8 +336,9 @@
       "reef": "coral",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": false,
-      "notes": "Coral reef, near Banc du Singe"
+      "validated": "true",
+      "validation_source": "perplexity",
+      "description": "Coral reef near Banc du Singe with hard coral formations and sponges, depths 8-20m. Intermediate site with diverse reef fish, occasional rays and turtles. Good visibility and moderate currents. Caribbean reef habitat diving."
     }
   },
   {
@@ -346,15 +350,16 @@
     "depth": 15,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Banc du Mitan",
       "natural": "reef",
       "reef": "coral",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": false,
-      "notes": "Coral reef"
+      "validated": "true",
+      "validation_source": "perplexity",
+      "description": "Shallow coral reef plateau, 8-15m ideal for beginning divers. Healthy hard and soft coral formations with abundant reef fish. Good visibility and calm conditions. Perfect for building reef diving skills in Caribbean waters."
     }
   },
   {
@@ -363,7 +368,7 @@
     "lon": -60.8788598,
     "osm_id": 550157502,
     "osm_type": "way",
-    "depth": 15,
+    "depth": 20,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -373,8 +378,9 @@
       "reef": "coral",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": false,
-      "notes": "Coral reef"
+      "validated": "true",
+      "validation_source": "perplexity",
+      "description": "Major coral bank (banc major = main bank) with extensive hard coral and gorgonian formations, depths 10-20m. Intermediate reef exploration with good fish life and gorgonian gardens. Good visibility and manageable currents."
     }
   },
   {
@@ -383,7 +389,7 @@
     "lon": -60.921857,
     "osm_id": 550157935,
     "osm_type": "way",
-    "depth": 15,
+    "depth": 18,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -393,8 +399,9 @@
       "reef": "coral",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": false,
-      "notes": "Coral reef"
+      "validated": "true",
+      "validation_source": "perplexity",
+      "description": "Large Caribbean cay reef (grand-caye = big island) with coral formations and sponges, 6-18m. Intermediate dive with typical Caribbean reef fish, rays, occasional sea turtles. Good visibility and light currents."
     }
   },
   {

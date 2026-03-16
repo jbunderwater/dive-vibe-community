@@ -2,8 +2,8 @@
 name: Barracuda Point Rabaul
 lat: -4.2
 lng: 152.1667
-difficulty: Intermediate
-maxDepth: 30
+difficulty: Advanced
+maxDepth: 40
 entryType: boat
 siteType: wall
 ref: null
@@ -24,8 +24,8 @@ Barracuda Point Rabaul is a dive site in Papua New Guinea featuring a dramatic v
 - **Location**: Papua New Guinea, Pacific
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)
 - **Current**: Moderate to strong
 - **Best Time**: April to November

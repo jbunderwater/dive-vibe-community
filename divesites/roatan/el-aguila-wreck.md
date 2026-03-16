@@ -23,7 +23,7 @@ El Aguila Wreck is a dive site in Roatán featuring the wreck of the El Aguila W
 
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 33 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

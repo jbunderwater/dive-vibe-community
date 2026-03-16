@@ -139,13 +139,16 @@
     "lat": 38.735,
     "lon": 13.16,
     "depth": 28,
-    "site_type": "seamount",
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
-    }
+      "addedBy": "fill_new_destinations",
+      "validated": "true",
+      "validation_source": "perplexity"
+    },
+    "depth_max": 45
   },
   {
     "name": "Le Piramidi",

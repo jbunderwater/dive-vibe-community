@@ -23,7 +23,7 @@ Devil's Caves is a dive site in St. Kitts and Nevis featuring underwater cave an
 
 - **Location**: St. Kitts and Nevis, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 12 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

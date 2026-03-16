@@ -23,7 +23,7 @@ S. Utara is a dive site in Manado & Bunaken offering rewarding diving on healthy
 
 - **Location**: Manado & Bunaken, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Drift
+- **Site Type**: Drift dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 40 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

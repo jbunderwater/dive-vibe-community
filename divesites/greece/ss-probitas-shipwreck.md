@@ -23,7 +23,7 @@ SS Probitas Shipwreck is a dive site in Greece featuring a historic wreck which 
 
 - **Location**: Greece, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 22 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

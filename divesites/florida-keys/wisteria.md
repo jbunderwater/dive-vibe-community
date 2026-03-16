@@ -4,7 +4,7 @@ lat: 24.5675503
 lng: -81.8126278
 difficulty: Beginner
 maxDepth: 12
-entryType: boat
+entryType: shore
 siteType: wreck
 ref: null
 osmId: 561315015
@@ -22,7 +22,7 @@ The Wisteria is a lesser-known wreck in the Key West area that remains less docu
 ## Site Information
 
 - **Location**: Florida Keys, North America
-- **Entry Type**: Boat dive
+- **Entry Type**: Shore entry
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters

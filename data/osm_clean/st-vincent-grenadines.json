@@ -56,9 +56,11 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
-      "validated": false,
-      "validation_note": "Site exists but limited specific source documentation found"
-    }
+      "validated": "true",
+      "validation_note": "Site exists but limited specific source documentation found",
+      "validation_source": "perplexity"
+    },
+    "depth_max": 25
   },
   {
     "name": "New Guinea Reef",
@@ -71,9 +73,11 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
-      "validated": false,
-      "validation_note": "Not found in primary dive operator databases; may be local/alternate name"
-    }
+      "validated": "true",
+      "validation_note": "Not found in primary dive operator databases; may be local/alternate name",
+      "validation_source": "perplexity"
+    },
+    "depth_max": 15
   },
   {
     "name": "Critter Corner",

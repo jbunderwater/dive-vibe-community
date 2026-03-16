@@ -2,9 +2,9 @@
 name: Maria Island Reef
 lat: 13.7362752
 lng: -60.9342094
-difficulty: Intermediate
+difficulty: Beginner
 maxDepth: 25
-entryType: shore
+entryType: boat
 siteType: reef
 ref: null
 osmId: 1022427960
@@ -22,9 +22,9 @@ Maria Island Reef is a dive site in St. Lucia offering rewarding diving on healt
 ## Site Information
 
 - **Location**: St. Lucia, Caribbean
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Beginner
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate

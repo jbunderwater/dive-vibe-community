@@ -3,7 +3,7 @@ name: Dead Man's Bones
 lat: 17.8658813
 lng: -76.33223
 difficulty: Intermediate
-maxDepth: 18
+maxDepth: 20
 entryType: boat
 siteType: reef
 ref: null
@@ -25,7 +25,7 @@ Dead Man's Bones is a dive site in Jamaica offering rewarding diving on healthy 
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)

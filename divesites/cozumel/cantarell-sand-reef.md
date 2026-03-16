@@ -2,8 +2,8 @@
 name: Cantarell Sand Reef
 lat: 20.534112
 lng: -86.949577
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Beginner
+maxDepth: 10
 entryType: boat
 siteType: reef
 ref: null
@@ -24,8 +24,8 @@ Cantarell Sand Reef is a dive site in Cozumel offering rewarding diving on healt
 - **Location**: Cozumel, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 10 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)

@@ -28,24 +28,12 @@
     "filename": "fighter-plane-wrack-world-war-ii.md",
     "lat": 36.8275723,
     "lng": 25.4221525,
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "maxDepth": 7,
     "entryType": "boat",
     "siteType": "wreck",
     "ref": "",
     "osmId": 2092439797
-  },
-  {
-    "name": "point of interest? rock?",
-    "filename": "point-of-interest-rock.md",
-    "lat": 36.4465995,
-    "lng": 25.446825,
-    "difficulty": "Intermediate",
-    "maxDepth": 25,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 2350952544
   },
   {
     "name": "Lygaria",
@@ -118,18 +106,6 @@
     "siteType": "wreck",
     "ref": "",
     "osmId": 10973665012
-  },
-  {
-    "name": "Büyük Resif",
-    "filename": "büyük-resif.md",
-    "lat": 37.0056664,
-    "lng": 27.4129862,
-    "difficulty": "Intermediate",
-    "maxDepth": 25,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 10973665013
   },
   {
     "name": "Aksona",

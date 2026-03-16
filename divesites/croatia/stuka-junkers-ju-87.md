@@ -23,7 +23,7 @@ Stuka / Junkers Ju 87 is a dive site in Croatia featuring the wreck of the Stuka
 
 - **Location**: Croatia, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 28 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

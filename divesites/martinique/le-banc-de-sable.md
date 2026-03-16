@@ -2,8 +2,8 @@
 name: Le Banc de Sable
 lat: 14.7664378
 lng: -60.9647172
-difficulty: Intermediate
-maxDepth: 15
+difficulty: Beginner
+maxDepth: 12
 entryType: boat
 siteType: reef
 ref: null
@@ -24,8 +24,8 @@ Le Banc de Sable is a dive site in Martinique offering rewarding diving on healt
 - **Location**: Martinique, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 15 meters
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 12 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)

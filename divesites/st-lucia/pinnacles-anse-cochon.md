@@ -23,7 +23,7 @@ Pinnacles (Anse Cochon) is a dive site in St. Lucia offering rewarding diving on
 
 - **Location**: St. Lucia, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

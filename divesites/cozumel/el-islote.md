@@ -3,7 +3,7 @@ name: El Islote
 lat: 20.2592984
 lng: -86.974983
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 20
 entryType: boat
 siteType: reef
 ref: null
@@ -25,7 +25,7 @@ El Islote is a dive site in Cozumel offering rewarding diving on healthy coral r
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)

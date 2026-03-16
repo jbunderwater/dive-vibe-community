@@ -3,7 +3,7 @@ name: MV Pacific Gas Madang
 lat: -5.2167
 lng: 145.7667
 difficulty: Advanced
-maxDepth: 40
+maxDepth: 35
 entryType: boat
 siteType: wreck
 ref: null
@@ -23,9 +23,9 @@ MV Pacific Gas Madang is a dive site in Papua New Guinea featuring a historic wr
 
 - **Location**: Papua New Guinea, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 40 meters
+- **Maximum Depth**: 35 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)
 - **Current**: Moderate to strong
 - **Best Time**: April to November

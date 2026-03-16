@@ -2,8 +2,8 @@
 name: Gallows Point Reef
 lat: 17.3968824
 lng: -88.0374381
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Beginner
+maxDepth: 12
 entryType: shore
 siteType: reef
 ref: null
@@ -24,8 +24,8 @@ Gallows Point Reef is a dive site in Belize Barrier Reef offering rewarding divi
 - **Location**: Belize Barrier Reef, Caribbean
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 12 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)

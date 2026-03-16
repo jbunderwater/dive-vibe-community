@@ -3,9 +3,9 @@ name: La Pointe du Vaisseau
 lat: 42.99
 lng: 6.41
 difficulty: Intermediate
-maxDepth: 18
+maxDepth: 35
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,9 +23,9 @@ La Pointe du Vaisseau is a dive site in Port-Cros offering rewarding diving on h
 
 - **Location**: Port-Cros, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
+- **Maximum Depth**: 35 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: May to October

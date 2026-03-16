@@ -3,7 +3,7 @@ name: Fonualei
 lat: -18.0167
 lng: -174.3167
 difficulty: Advanced
-maxDepth: 25
+maxDepth: 30
 entryType: boat
 siteType: reef
 ref: null
@@ -25,7 +25,7 @@ Fonualei is a dive site in Tonga offering rewarding diving on healthy coral reef
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)
 - **Current**: Moderate to strong
 - **Best Time**: April to November

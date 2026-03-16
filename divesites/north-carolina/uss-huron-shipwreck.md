@@ -23,7 +23,7 @@ USS Huron Shipwreck is a dive site in North Carolina featuring a historic wreck 
 
 - **Location**: North Carolina, North America
 - **Entry Type**: Shore entry
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 9 meters
 - **Typical Visibility**: 5-25 meters (15-80 feet)

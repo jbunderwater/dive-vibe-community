@@ -35,8 +35,11 @@
     "tags": {
       "description": "Info point only",
       "name": "Waterhoppers",
-      "sport": "scuba_diving"
-    }
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
+    },
+    "depth_max": 25
   },
   {
     "name": "fighter plane wrack world war II",
@@ -47,7 +50,7 @@
     "depth": 7,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "depth": "7",
       "historic": "wreck",
@@ -57,26 +60,11 @@
       "seamark:wreck:category": "non-dangerous",
       "seamark:wreck:water_level": "submerged",
       "source": "local survey and GPS mark 2019",
-      "sport": "scuba_diving"
-    }
-  },
-  {
-    "name": "point of interest? rock?",
-    "lat": 36.4465995,
-    "lon": 25.446825,
-    "osm_id": 2350952544,
-    "osm_type": "node",
-    "depth": 25,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "fixme": "key trourism:viewpoint was obviously incorrect, please identify source of interest for this point with local knowledge",
-      "name": "point of interest? rock?",
-      "seamark:rock:water_level": "submerged",
-      "seamark:type": "rock",
-      "sport": "scuba_diving"
-    }
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
+    },
+    "depth_max": 20
   },
   {
     "name": "Lygaria",
@@ -203,22 +191,6 @@
     }
   },
   {
-    "name": "Büyük Resif",
-    "lat": 37.0056664,
-    "lon": 27.4129862,
-    "osm_id": 10973665013,
-    "osm_type": "node",
-    "depth": 25,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "name": "Büyük Resif",
-      "scuba_diving:type": "reef",
-      "sport": "scuba_diving"
-    }
-  },
-  {
     "name": "Aksona",
     "lat": 36.9599139,
     "lon": 27.4864435,
@@ -231,8 +203,11 @@
     "tags": {
       "name": "Aksona",
       "scuba_diving:type": "yes",
-      "sport": "scuba_diving"
-    }
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
+    },
+    "depth_max": 28
   },
   {
     "name": "Σπήλαιο Αρχαγγέλου",
@@ -269,8 +244,11 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Psarapoula",
-      "sport": "scuba_diving"
-    }
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
+    },
+    "depth_max": 22
   },
   {
     "name": "Φαρι",

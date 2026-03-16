@@ -3,7 +3,7 @@ name: Cave dive site
 lat: 6.0004314
 lng: 80.2381218
 difficulty: Advanced
-maxDepth: 20
+maxDepth: 25
 entryType: shore
 siteType: cave
 ref: null
@@ -23,9 +23,9 @@ Cave dive site is a dive site in Sri Lanka featuring underwater cave and cavern 
 
 - **Location**: Sri Lanka, Asia
 - **Entry Type**: Shore entry
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)

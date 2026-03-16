@@ -23,7 +23,7 @@ Le Donator Wreck is a dive site in Port-Cros featuring the wreck of the Le Donat
 
 - **Location**: Port-Cros, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 52 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

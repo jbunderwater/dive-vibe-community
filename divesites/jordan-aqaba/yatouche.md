@@ -4,7 +4,7 @@ lat: 29.5038889
 lng: 34.9197222
 difficulty: Intermediate
 maxDepth: 20
-entryType: boat
+entryType: shore
 siteType: wreck
 ref: null
 osmId: 663869876
@@ -22,8 +22,8 @@ Yatouche is a dive site in Jordan - Aqaba featuring the wreck of the Yatouche. L
 ## Site Information
 
 - **Location**: Jordan - Aqaba, Middle East
-- **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Entry Type**: Shore entry
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

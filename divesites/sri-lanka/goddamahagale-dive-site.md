@@ -3,8 +3,8 @@ name: Goddamahagale dive site
 lat: 7.23653
 lng: 79.7823526
 difficulty: Intermediate
-maxDepth: 22
-entryType: boat
+maxDepth: 12
+entryType: shore
 siteType: reef
 ref: null
 osmId: 9448835284
@@ -22,10 +22,10 @@ Goddamahagale dive site is a dive site in Sri Lanka offering rewarding diving on
 ## Site Information
 
 - **Location**: Sri Lanka, Asia
-- **Entry Type**: Boat dive
+- **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 meters
+- **Maximum Depth**: 12 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)

@@ -23,7 +23,7 @@ U-352 (Wrack) is a dive site in North Carolina featuring the wreck of the U-352 
 
 - **Location**: North Carolina, North America
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 35 meters
 - **Typical Visibility**: 5-25 meters (15-80 feet)

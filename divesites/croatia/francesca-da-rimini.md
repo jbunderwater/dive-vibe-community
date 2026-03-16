@@ -23,7 +23,7 @@ Francesca da Rimini is a dive site in Croatia featuring the wreck of the Frances
 
 - **Location**: Croatia, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 50 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

@@ -5,7 +5,7 @@ lng: 14.3674667
 difficulty: Intermediate
 maxDepth: 25
 entryType: boat
-siteType: reef
+siteType: cave
 ref: null
 osmId: 663870765
 addedBy: osm_import
@@ -23,7 +23,7 @@ Grotta is a dive site in Croatia offering rewarding diving on healthy coral reef
 
 - **Location**: Croatia, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

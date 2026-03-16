@@ -7,15 +7,18 @@
     "osm_type": "node",
     "depth": 20,
     "site_type": "wreck",
-    "entry_type": "boat",
+    "entry_type": "shore",
     "difficulty": "Intermediate",
     "tags": {
       "historic": "wreck",
       "name": "Yatouche",
       "name:en": "Yatouche",
       "seamark:type": "wreck",
-      "sport": "scuba_diving"
-    }
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
+    },
+    "depth_max": 25
   },
   {
     "name": "Cedar Pride",
@@ -44,7 +47,7 @@
     "osm_type": "node",
     "depth": 30,
     "site_type": "wreck",
-    "entry_type": "boat",
+    "entry_type": "shore",
     "difficulty": "Intermediate",
     "tags": {
       "historic": "wreck",
@@ -52,8 +55,11 @@
       "name:en": "Soufa",
       "name:he": "סופה",
       "seamark:type": "wreck",
-      "sport": "scuba_diving"
-    }
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
+    },
+    "depth_max": 20
   },
   {
     "name": "Japanese Gardens Coral Reefs",

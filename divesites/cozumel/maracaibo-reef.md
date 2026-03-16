@@ -3,7 +3,7 @@ name: Maracaibo Reef
 lat: 20.262841
 lng: -87.011375
 difficulty: Advanced
-maxDepth: 35
+maxDepth: 40
 entryType: boat
 siteType: wall
 ref: null
@@ -25,7 +25,7 @@ Maracaibo Reef is a dive site in Cozumel featuring a dramatic vertical wall that
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 35 meters
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)

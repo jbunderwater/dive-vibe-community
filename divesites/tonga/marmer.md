@@ -23,7 +23,7 @@ Marmer is a dive site in Tonga featuring the wreck of the Marmer. Located in the
 
 - **Location**: Tonga, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 2 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)

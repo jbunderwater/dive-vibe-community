@@ -23,7 +23,7 @@ Tank is a renowned dive site in Jordan - Aqaba featuring the wreck of the Tank. 
 
 - **Location**: Jordan - Aqaba, Middle East
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 6 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

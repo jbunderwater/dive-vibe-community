@@ -4,7 +4,7 @@ lat: 13.7296327
 lng: -60.9721116
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
+entryType: boat
 siteType: wreck
 ref: null
 osmId: 9385639518
@@ -22,8 +22,8 @@ El Pirata Shipwreck is a dive site in St. Lucia featuring the wreck of the El Pi
 ## Site Information
 
 - **Location**: St. Lucia, Caribbean
-- **Entry Type**: Shore entry
-- **Site Type**: Wreck
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

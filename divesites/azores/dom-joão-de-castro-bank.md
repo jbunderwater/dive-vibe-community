@@ -23,7 +23,7 @@ Dom João de Castro Bank is a dive site in Azores offering rewarding diving on h
 
 - **Location**: Azores, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 13 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

@@ -2,9 +2,9 @@
 name: Belize Barrier Reef
 lat: 17.4154352
 lng: -88.0577182
-difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+difficulty: Beginner
+maxDepth: 15
+entryType: boat
 siteType: reef
 ref: null
 osmId: 9991788219
@@ -22,10 +22,10 @@ Belize Barrier Reef is a dive site in Belize Barrier Reef offering rewarding div
 ## Site Information
 
 - **Location**: Belize Barrier Reef, Caribbean
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 15 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)

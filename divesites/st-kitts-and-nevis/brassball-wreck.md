@@ -23,7 +23,7 @@ Brassball Wreck is a dive site in St. Kitts and Nevis featuring the wreck of the
 
 - **Location**: St. Kitts and Nevis, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 8 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

@@ -69,10 +69,13 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "validation_source": "perplexity"
     },
     "validated": false,
-    "validation_source": "Limited public information available"
+    "validation_source": "Limited public information available",
+    "depth_max": 20
   },
   {
     "name": "Sandy Point Reef",

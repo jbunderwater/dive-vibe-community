@@ -23,7 +23,7 @@ Nahoon Wreck is a dive site in Martinique featuring the wreck of the Nahoon Wrec
 
 - **Location**: Martinique, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 35 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

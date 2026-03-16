@@ -4,7 +4,7 @@ lat: 29.5447222
 lng: 34.9539555
 difficulty: Intermediate
 maxDepth: 30
-entryType: boat
+entryType: shore
 siteType: wreck
 ref: null
 osmId: 663869878
@@ -22,8 +22,8 @@ Soufa is a dive site in Jordan - Aqaba featuring the wreck of the Soufa. Located
 ## Site Information
 
 - **Location**: Jordan - Aqaba, Middle East
-- **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Entry Type**: Shore entry
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

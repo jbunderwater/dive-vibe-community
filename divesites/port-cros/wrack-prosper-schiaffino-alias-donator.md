@@ -23,7 +23,7 @@ Wrack 'Prosper Schiaffino' (Alias Donator) is a dive site in Port-Cros featuring
 
 - **Location**: Port-Cros, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 52 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

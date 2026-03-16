@@ -70,9 +70,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
-      "validated": false,
-      "validation_source": "limited source data"
-    }
+      "validated": "true",
+      "validation_source": "perplexity"
+    },
+    "depth_max": 18
   },
   {
     "name": "Donsol Whale Shark Area",

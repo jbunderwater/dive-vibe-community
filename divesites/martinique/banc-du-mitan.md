@@ -2,7 +2,7 @@
 name: Banc du Mitan
 lat: 14.4629552
 lng: -60.872625
-difficulty: Intermediate
+difficulty: Beginner
 maxDepth: 15
 entryType: boat
 siteType: reef
@@ -24,7 +24,7 @@ Banc du Mitan is a dive site in Martinique offering rewarding diving on healthy 
 - **Location**: Martinique, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate

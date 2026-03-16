@@ -77,11 +77,12 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
-    "validated": false,
-    "validation_source": null,
+    "validated": true,
+    "validation_source": "perplexity",
     "tags": {
       "name": "Punta Dalila",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true"
     }
   },
   {
@@ -124,15 +125,16 @@
     "lon": -87.043991,
     "osm_id": 663869335,
     "osm_type": "node",
-    "depth": 18,
+    "depth": 12,
     "site_type": "reef",
-    "entry_type": "boat",
+    "entry_type": "shore",
     "difficulty": "Beginner",
-    "validated": false,
-    "validation_source": null,
+    "validated": true,
+    "validation_source": "perplexity",
     "tags": {
       "name": "Cardona",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true"
     }
   },
   {
@@ -158,15 +160,16 @@
     "lon": -87.0405578,
     "osm_id": 663869338,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 20,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": false,
-    "validation_source": null,
+    "validated": true,
+    "validation_source": "perplexity",
     "tags": {
       "name": "Las Palamas",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true"
     }
   },
   {
@@ -209,15 +212,16 @@
     "lon": -87.011375,
     "osm_id": 663869356,
     "osm_type": "node",
-    "depth": 35,
+    "depth": 40,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
-    "validated": false,
-    "validation_source": null,
+    "validated": true,
+    "validation_source": "perplexity",
     "tags": {
       "name": "Maracaibo Reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true"
     }
   },
   {
@@ -226,15 +230,16 @@
     "lon": -86.974983,
     "osm_id": 663869357,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 20,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": false,
-    "validation_source": null,
+    "validated": true,
+    "validation_source": "perplexity",
     "tags": {
       "name": "El Islote",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true"
     }
   },
   {
@@ -243,15 +248,16 @@
     "lon": -87.011375,
     "osm_id": 663869358,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 18,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": false,
-    "validation_source": null,
+    "validated": true,
+    "validation_source": "perplexity",
     "tags": {
       "name": "Chun Chacaaab Reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true"
     }
   },
   {
@@ -260,15 +266,16 @@
     "lon": -86.8947828,
     "osm_id": 663869359,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 20,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": false,
-    "validation_source": null,
+    "validated": true,
+    "validation_source": "perplexity",
     "tags": {
       "name": "Chen Rio",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true"
     }
   },
   {
@@ -277,15 +284,16 @@
     "lon": -86.911125,
     "osm_id": 663869361,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 22,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": false,
-    "validation_source": null,
+    "validated": true,
+    "validation_source": "perplexity",
     "tags": {
       "name": "El Mirador",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true"
     }
   },
   {
@@ -294,15 +302,16 @@
     "lon": -86.94992,
     "osm_id": 663869362,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 18,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": false,
-    "validation_source": null,
+    "validated": true,
+    "validation_source": "perplexity",
     "tags": {
       "name": "San Juan Reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true"
     }
   },
   {
@@ -362,15 +371,16 @@
     "lon": -86.949577,
     "osm_id": 663869367,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 10,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "validated": false,
-    "validation_source": null,
+    "difficulty": "Beginner",
+    "validated": true,
+    "validation_source": "perplexity",
     "tags": {
       "name": "Cantarell Sand Reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true"
     }
   },
   {

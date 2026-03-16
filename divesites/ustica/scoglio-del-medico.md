@@ -23,7 +23,7 @@ Scoglio del Medico is a dive site in Ustica featuring underwater cave and cavern
 
 - **Location**: Ustica, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 38 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
