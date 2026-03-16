@@ -13,11 +13,12 @@ addedBy: osm_import
 
 ## Junkpile-2
 
-Junkpile-2 is a reef dive site in Marshall Islands, Pacific.
+Junkpile-2 is a WWII wreck debris site in Kwajalein lagoon at moderate depths. This deeper wreck site requires advanced diving skills and careful depth management.
+
 
 ## Overview
 
-Junkpile-2 is a dive site in Marshall Islands offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Junkpile-2 is a WWII wreck debris site in Kwajalein lagoon at moderate depths. This deeper wreck site requires advanced diving skills and careful depth management. This site offers visibility typically exceeding 30 meters, with water temperatures consistent at 27-30°C year-round.
 
 ## Site Information
 

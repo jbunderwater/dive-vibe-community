@@ -13,11 +13,12 @@ addedBy: osm_import
 
 ## K-10 Coral Head
 
-K-10 Coral Head is a reef dive site in Marshall Islands, Pacific.
+K-10 Coral Head is a popular lagoon pinnacle in Kwajalein Atoll, part of the recreational reef infrastructure. This coral head features abundant fish and is particularly rich during tidal changes when currents bring nutrient flow to the pinnacle.
+
 
 ## Overview
 
-K-10 Coral Head is a dive site in Marshall Islands offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+K-10 Coral Head is a popular lagoon pinnacle in Kwajalein Atoll, part of the recreational reef infrastructure. This coral head features abundant fish and is particularly rich during tidal changes when currents bring nutrient flow to the pinnacle. This site offers visibility typically exceeding 30 meters, with water temperatures consistent at 27-30°C year-round.
 
 ## Site Information
 

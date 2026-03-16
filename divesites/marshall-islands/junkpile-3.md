@@ -13,11 +13,12 @@ addedBy: osm_import
 
 ## Junkpile-3
 
-Junkpile-3 is a reef dive site in Marshall Islands, Pacific.
+Junkpile-3 is a WWII wreck debris site in Kwajalein lagoon at recreational depths. This site showcases Pacific War history within the atoll's protected lagoon environment.
+
 
 ## Overview
 
-Junkpile-3 is a dive site in Marshall Islands offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Junkpile-3 is a WWII wreck debris site in Kwajalein lagoon at recreational depths. This site showcases Pacific War history within the atoll's protected lagoon environment. This site offers visibility typically exceeding 30 meters, with water temperatures consistent at 27-30°C year-round.
 
 ## Site Information
 

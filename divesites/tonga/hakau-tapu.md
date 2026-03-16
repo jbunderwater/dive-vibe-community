@@ -3,8 +3,8 @@ name: Hakau Tapu
 lat: -21.0530339
 lng: -175.3116212
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+maxDepth: 15
+entryType: boat
 siteType: reef
 ref: null
 osmId: 398853912
@@ -13,30 +13,32 @@ addedBy: osm_import
 
 ## Hakau Tapu
 
-Hakau Tapu is a reef dive site in Tonga, Pacific.
+Hakau Tapu is an OSM-mapped natural reef feature in southern Tonga. While not established as a commercial dive site, the reef is accessible and features typical Tongan reef characteristics. The name Hakau Tapu translates to "sacred" or "forbidden" in Tongan.
 
 ## Overview
 
-Hakau Tapu is a dive site in Tonga offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Hakau Tapu is a natural reef formation mapped in OpenStreetMap and located in the southern Vava'u diving region. The Tongan name suggests cultural significance. While not documented in commercial dive guides, the reef is accessible by boat and offers opportunities for diving with local knowledge. The site represents less-visited reef diving with access to healthy Tongan coral ecosystems.
 
 ## Site Information
 
-- **Location**: Tonga, Pacific
-- **Entry Type**: Shore entry
+- **Location**: Southern Vava'u region, Tonga
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Depth Range**: Estimated 5-15 meters (typical for area)
+- **Typical Visibility**: Excellent (25-40+ meters)
+- **Current**: Light to moderate
+- **Water Temperature**: 24-29°C
+- **Establishment Status**: Not an established commercial dive site; local knowledge recommended
+- **Best Time**: Year-round; calm conditions necessary
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Expected: typical Tongan reef ecosystem with reef fish, tropical fish species, sea turtles, nudibranchs, and diverse hard and soft coral formations consistent with healthy Vava'u reefs.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Access via boat with local operator knowledge. Descend to reef structure and explore coral formations at 5-15 meters. The site's limited commercial development means conditions should be confirmed with local dive operators before planning. Suitable for experienced divers comfortable with less-visited reef sites.
 
 ## Entry and Exit
 

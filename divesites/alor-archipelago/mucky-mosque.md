@@ -2,10 +2,10 @@
 name: Mucky Mosque
 lat: -8.24
 lng: 124.44
-difficulty: Beginner
-maxDepth: 10
-entryType: shore
-siteType: reef
+difficulty: Intermediate
+maxDepth: 18
+entryType: boat
+siteType: muck
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,50 +13,54 @@ addedBy: osm_import
 
 ## Mucky Mosque
 
-Mucky Mosque is a reef dive site in Alor Archipelago, Asia.
+Mucky Mosque is one of Alor's premier muck diving locations, found along the northern coast of Kalabahi Bay. The site exemplifies the bay's reputation for world-class macro diving on black sand slopes with diverse critter life.
 
 ## Overview
 
-Mucky Mosque is a dive site in Alor Archipelago offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Mucky Mosque is a muck dive site featuring volcanic black sand slopes with minimal coral coverage and exceptional macro photography opportunities. Located in Kalabahi Bay's nutrient-rich waters, the site hosts an extraordinary diversity of rare critters and unusual species. Depths range from shallow sand to approximately 18 meters. Light currents are typical, with excellent visibility on good days. This is a specialty macro site requiring macro-focused attention and photography mindset, rewarding divers who appreciate small creatures and patient hunting.
 
 ## Site Information
 
-- **Location**: Alor Archipelago, Asia
-- **Entry Type**: Shore entry
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 10 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Location**: Northern coast of Kalabahi Bay, Alor Archipelago
+- **Entry Type**: Boat dive
+- **Site Type**: Muck dive
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 18 meters
+- **Typical Visibility**: 10-25 meters
+- **Current**: Light to mild; usually favorable for stationary hunting
+- **Water Temperature**: Warm (26-30°C)
+- **Best Time**: May-September (consistent conditions); year-round diveable
+- **Specialty**: Macro and critter diving
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Mucky Mosque hosts world-class critter fauna including: Rhinopias (both yellow and tasseled varieties—highly prized finds), frogfish in multiple color forms, ghost pipefish (robust and delicate varieties), ribbon eels, octopuses, harlequin shrimp, Coleman shrimp, seahorses, Ambon scorpionfish, mandarinfish, nudibranchs (numerous species), unusual crustaceans, and cephalopods. The volcanic sand substrate supports dense communities of small organisms.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 10 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-10 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Plan your dive with macro-focused intention. Descend to the sand slope and begin a slow search pattern, examining small areas thoroughly. Spend time watching individual critters and searching for well-camouflaged species. Work through the sand areas between 5-18 meters, allowing plenty of bottom time for detailed exploration. This is not a "big blue" dive—it's an exercise in patience and careful observation. Return to shallow water for final minutes and safety stop.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Access by dive boat. Entry via giant stride or back roll. Descent to the black sand slope. Navigate along the sand, investigating small substrate features and crevices. Maintain position control to observe critters at work. Exit via boat crew pickup with SMB deployment at safety stop.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Use a macro lens exclusively at this site—wide-angle is useless
+- Consider a second light (torch) to illuminate crevices and shadows
+- Move slowly and deliberately; patience is rewarded with sightings
+- Book with Alor operators experienced in muck diving (Alami Alor and Alor Tanapi specialize)
+- Research common critter identification before the dive
+- Expect to find new-to-you species regularly
+- This site is perfect for underwater macro photographers
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Muck diving carries minimal hazard if approached correctly. Light currents make the dive relatively safe compared to wall sites. However, the slow pace can lead to nitrogen buildup—monitor air consumption carefully as decompression-free time decreases with depth. Visibility can vary—if conditions worsen, ascend. Watch for hidden hazards like sea urchins among the sand—exercise care with hand placement. Always use SMB and dive with a buddy who shares your macro focus. This is an ideal site for building specialty skills and discovering rare species.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Exceptional macro photography opportunities with dramatic close-up subjects. Rhinopias, frogfish, and rare critters fill the frame with color and texture. Ghost pipefish poses and seahorse portraits reward patient photographers. Unusual nudibranch species provide exotic color combinations. Lighting challenges on the dark sand require strong strobes and careful technique. Best light during morning dives; macro composition techniques emphasize detail, texture, and creature behavior.
 
 ## Additional Resources
 

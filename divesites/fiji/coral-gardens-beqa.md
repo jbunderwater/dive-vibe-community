@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Coral Gardens Beqa
 
-Coral Gardens Beqa is a reef dive site in Fiji, Pacific.
+Coral Gardens is a beginner-friendly reef dive in Beqa Lagoon featuring exceptional soft coral gardens and abundant reef fish populations.
 
 ## Overview
 
-Coral Gardens Beqa is a dive site in Fiji offering excellent diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Located in Beqa Lagoon at Caesar's Rocks and surrounding reef areas, Coral Gardens showcase Fiji's renowned soft coral displays in shallow, accessible depths. The site is named for its remarkable array of healthy soft corals including vibrant gorgonians and sea fans, combined with abundant reef fish, turtles, rays, and diverse invertebrate life. Shallow depths and calm conditions make this an ideal site for newer divers or those seeking to experience Beqa's marine life without the adrenaline of the shark sites.
 
 ## Site Information
 
-- **Location**: Fiji, Pacific
+- **Location**: Beqa Lagoon, Fiji
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
+- **Typical Visibility**: 20-35 meters
+- **Current**: Mild to moderate
 - **Best Time**: April to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Coral Gardens features lush soft coral gardens with abundant gorgonians and sea fans, along with reef fish schools including butterflyfish, angelfish, parrotfish, and groupers. Turtles and rays are frequently encountered. Invertebrate life is rich, including lionfish, moray eels, nudibranchs, and various crustaceans. The shallow coral-rich environment provides excellent opportunities for macro photography and reef fish observation.
 
 ## Dive Profile
 

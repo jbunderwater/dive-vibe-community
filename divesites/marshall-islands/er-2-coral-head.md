@@ -13,11 +13,12 @@ addedBy: osm_import
 
 ## ER-2 Coral Head
 
-ER-2 Coral Head is a reef dive site in Marshall Islands, Pacific.
+ER-2 Coral Head is a lagoon coral pinnacle in Kwajalein, part of the atoll's extensive reef infrastructure. This site offers typical Kwajalein pinnacle diving with rich coral and fish communities.
+
 
 ## Overview
 
-ER-2 Coral Head is a dive site in Marshall Islands offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+ER-2 Coral Head is a lagoon coral pinnacle in Kwajalein, part of the atoll's extensive reef infrastructure. This site offers typical Kwajalein pinnacle diving with rich coral and fish communities. This site offers visibility typically exceeding 30 meters, with water temperatures consistent at 27-30°C year-round.
 
 ## Site Information
 

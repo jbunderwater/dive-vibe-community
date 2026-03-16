@@ -17,7 +17,7 @@ Barracuda Point Rabaul is a wall dive site in Papua New Guinea, Pacific.
 
 ## Overview
 
-Barracuda Point Rabaul is a dive site in Papua New Guinea featuring a dramatic vertical wall that drops into the deep blue. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Barracuda Point Rabaul features a spectacular wall dive in the Rabaul area, characterized by dramatic drop-offs and vertical topography. The wall is covered with gorgonians, sponges, and diverse coral species. The site is subject to moderate currents that bring trevally, Spanish mackerel, tuna, and barracuda schools, along with macro species inhabiting the wall structure. The dramatic vertical wall topography makes this an excellent site for both wide-angle and macro photography.
 
 ## Site Information
 

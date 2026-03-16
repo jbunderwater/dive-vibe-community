@@ -2,10 +2,10 @@
 name: Eua Island
 lat: -21.3833
 lng: -174.9333
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 30
 entryType: boat
-siteType: wall
+siteType: cave
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,30 +13,31 @@ addedBy: osm_import
 
 ## Eua Island
 
-Eua Island is a wall dive site in Tonga, Pacific.
+Eua Island is Tonga's premier advanced diving destination, home to Cathedral Cave—one of the world's largest underwater sea caves. Located just south of Tongatapu in southern Tonga, this site offers dramatic underwater topography and exceptional cave systems.
 
 ## Overview
 
-Eua Island is a dive site in Tonga featuring a dramatic vertical wall that drops into the deep blue. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Eua Island features diverse dive environments including wall dives, drop-offs, and exceptional underwater caves. The volcanic origin of the island creates distinctive underwater mountains with sheer drops. The signature attraction is Cathedral Cave, one of the world's most spectacular underwater sea caves. The cave entrance sits at 28 meters depth with a dramatic 100-meter hallway featuring natural light filtering through holes in the roof, creating a supernatural feeling enhanced by the sound of breaking waves above. Outside the cathedral, surrounding reefs feature healthy coral gardens with diverse fish species.
 
 ## Site Information
 
-- **Location**: Tonga, Pacific
+- **Location**: South of Tongatapu, Southern Tonga
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Site Type**: Cave/cavern
+- **Difficulty Level**: Advanced
+- **Depth Range**: 28-70 meters (depending on specific site)
+- **Cathedral Cave**: 100m long × 50m wide, entrance at 28m
+- **Typical Visibility**: 20-40 meters
+- **Water Temperature**: 24-27°C
+- **Best Time**: November to April (highest visibility); May-October brings stronger tradewinds
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Healthy coral gardens surrounding the cathedral feature cardinal fish, butterfly fish, and sweetlips. Schools of small fish species and diverse hard and soft coral populations. The cave environment supports unique species adapted to the dramatic light filtering.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-30 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Cathedral Cave dive typically begins at the cave entrance at 28 meters. The 100-meter-long hallway with natural light filtering through roof holes creates a supernatural diving experience. The surrounding reef features coral gardens extending upward. Deeper sections reach 70 meters for experienced divers. Excellent light quality during winter months (November-April).
 
 ## Entry and Exit
 

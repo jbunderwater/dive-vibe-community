@@ -5,14 +5,16 @@
     "lon": 116.0738278,
     "osm_id": 2395669745,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 22,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Air Wall",
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "research"
     }
   },
   {
@@ -24,11 +26,13 @@
     "depth": 18,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Bounty",
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "research"
     }
   },
   {
@@ -61,7 +65,9 @@
     "tags": {
       "name": "Frog Fish Point",
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "research"
     }
   },
   {
@@ -106,14 +112,16 @@
     "lon": 116.0701857,
     "osm_id": 2395669752,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 40,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Malang",
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "research"
     }
   },
   {
@@ -156,14 +164,16 @@
     "lon": 116.0500957,
     "osm_id": 2395669755,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 30,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Meno Slope",
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "research"
     }
   },
   {
@@ -172,14 +182,16 @@
     "lon": 116.0498999,
     "osm_id": 2395669756,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 22,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Meno Wall",
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "research"
     }
   },
   {
@@ -188,14 +200,16 @@
     "lon": 116.0657213,
     "osm_id": 2395669757,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 35,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Mirkos Reef",
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "research"
     }
   },
   {
@@ -204,16 +218,18 @@
     "lon": 116.0440257,
     "osm_id": 2395669758,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 18,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Shallow Turbo",
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
       "scuba_diving:type": "snorkeling",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "research"
     }
   },
   {
@@ -239,14 +255,16 @@
     "lon": 116.065643,
     "osm_id": 2395669760,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 30,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Simons Reef",
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "research"
     }
   },
   {
@@ -255,14 +273,16 @@
     "lon": 116.0982787,
     "osm_id": 2395670512,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 25,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Segaluh",
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "research"
     }
   },
   {
@@ -271,14 +291,16 @@
     "lon": 116.0591248,
     "osm_id": 2395670513,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 25,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Teluk NBoro",
       "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "research"
     }
   },
   {
@@ -287,17 +309,19 @@
     "lon": 116.0436158,
     "osm_id": 2400061876,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 22,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "location": "underwater",
       "name": "Trawangan Wall",
-      "note": "source is Diveschool Notice Board - Location might have to be checked with a GPS",
+      "note": "source is Diverschool Notice Board - Location might have to be checked with a GPS",
       "scuba_diving:type": "snorkeling",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "research"
     }
   },
   {
@@ -312,7 +336,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Lombok Dive",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "research"
     }
   },
   {
@@ -321,16 +347,18 @@
     "lon": 116.0433854,
     "osm_id": 4813305042,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 18,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "location": "underwater",
       "name": "Vila Almarick Biorock",
       "scuba_diving:type": "snorkeling",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "research"
     }
   },
   {
@@ -339,16 +367,18 @@
     "lon": 116.0438526,
     "osm_id": 4813305043,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 18,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "location": "underwater",
       "name": "Bale Sampan Biorock",
       "scuba_diving:type": "snorkeling",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "research"
     }
   },
   {
@@ -357,16 +387,18 @@
     "lon": 116.0439347,
     "osm_id": 4813305044,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 18,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "location": "underwater",
       "name": "Samba Vilas Biorock",
       "scuba_diving:type": "snorkeling",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "research"
     }
   },
   {
@@ -375,16 +407,18 @@
     "lon": 116.0442834,
     "osm_id": 4813305045,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 18,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "location": "underwater",
       "name": "Trawangan Dive Biorock",
       "scuba_diving:type": "snorkeling",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "research"
     }
   },
   {
@@ -393,16 +427,18 @@
     "lon": 116.0444604,
     "osm_id": 4813305046,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 18,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "location": "underwater",
       "name": "Gili Divers Biorock",
       "scuba_diving:type": "snorkeling",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "research"
     }
   },
   {
@@ -411,17 +447,19 @@
     "lon": 116.0437832,
     "osm_id": 6750981689,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 35,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "location": "underwater",
       "name": "Turtle Point",
       "name:en": "Turtle point",
       "scuba_diving:type": "snorkeling",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "research"
     }
   }
 ]

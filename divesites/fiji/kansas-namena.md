@@ -3,9 +3,9 @@ name: Kansas Namena
 lat: -17.12
 lng: 179.0967
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 20
 entryType: boat
-siteType: wall
+siteType: reef
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Kansas Namena
 
-Kansas Namena is a wall dive site in Fiji, Pacific.
+Kansas is a renowned dive site on Namena Barrier Reef, named for its resemblance to the golden wheat fields of Kansas, USA.
 
 ## Overview
 
-Kansas Namena is a dive site in Fiji featuring a dramatic vertical wall that drops into the deep blue. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Located on the Namena Barrier Reef in the northwest of Fiji, Kansas is one of several distinctive named sites in the Namena area. The site is known for deep pinnacles, drop-offs, and exciting diving featuring diverse reef ecosystems. Kansas sits adjacent to other Namena favorites like Fish Patch and the Window of Dreams. The reef structure supports abundant marine life including sharks, rays, turtles, reef fish schools, and healthy coral ecosystems that make Namena one of Fiji's top diving destinations.
 
 ## Site Information
 
-- **Location**: Fiji, Pacific
+- **Location**: Namena Barrier Reef, Savusavu area, Fiji
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
+- **Maximum Depth**: 20 meters
+- **Typical Visibility**: 20-40 meters
+- **Current**: Moderate
 - **Best Time**: April to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Kansas features deep pinnacles and reef structures supporting diverse marine life including reef sharks, rays, turtles, myriad reef fish species, barracuda, groupers, and dense coral gardens. The site is characteristic of Namena's reputation for rich marine biodiversity and excellent visibility.
 
 ## Dive Profile
 

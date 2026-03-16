@@ -5,7 +5,7 @@ lng: 160.2
 difficulty: Intermediate
 maxDepth: 22
 entryType: boat
-siteType: reef
+siteType: drift
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,26 +13,28 @@ addedBy: osm_import
 
 ## Maravagi Passage
 
-Maravagi Passage is a reef dive site in Solomon Islands, Pacific.
+Maravagi Passage offers two distinct diving experiences: an exciting drift dive along the channel known for manta rays, and a calm protected bay renowned for exceptional macro diving opportunities.
 
 ## Overview
 
-Maravagi Passage is a dive site in Solomon Islands offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Maravagi Passage is composed of two dive sites. The main passage is a drift dive along the reef top where strong currents create an adrenaline-filled experience. Divers drift along and duck under the reef wall while manta rays swim close by in formation, often in groups of up to a dozen, as they feed on plankton blooms. Sweetlips, jacks, and bumphead parrotfish join the mantas. Maravagi Bay, in contrast, is a calm, protected bay that serves as a macro diver's paradise with hundreds of critter species: nudibranchs, demon stinger, scorpionfish, cockatoo wasp fish, various pipefish, cuttlefish, juvenile batfish, anemone fish, shrimp, and crabs. The bay also features a few giant clams and a small wreck packed with batfish and bream.
 
 ## Site Information
 
-- **Location**: Solomon Islands, Pacific
+- **Location**: Maravagi Island, Florida Islands
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Drift dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 22 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Strong in passage, minimal in bay
+- **Best Time**: April to November (tide and weather dependent)
 
-## Marine Life
+## Dive Profile - Passage vs Bay
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+**Passage Drift**: Drift along the reef with current hookdown. Manta encounters weather-dependent on plankton blooms.
+
+**Bay Macro**: Slow exploration of sandy bottom and coral heads in calm, protected water ideal for photography.
 
 ## Dive Profile
 

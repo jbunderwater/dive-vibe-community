@@ -3,9 +3,9 @@ name: Planet Rock Madang
 lat: -5.2333
 lng: 145.7833
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 15
 entryType: boat
-siteType: reef
+siteType: pinnacle
 ref: null
 osmId: null
 addedBy: osm_import
@@ -17,15 +17,15 @@ Planet Rock Madang is a reef dive site in Papua New Guinea, Pacific.
 
 ## Overview
 
-Planet Rock Madang is a dive site in Papua New Guinea offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Planet Rock is Madang's most famous dive site: a volcanic seamount rising from 600 meters depth to within 5 meters of the surface. Strong ocean currents sweep around and across the apex, creating an exceptional pelagic experience with schools of barracuda, trevally, mackerel, tuna, rainbow runners, and batfish. Divers also have good chances of encountering hammerhead sharks, grey reef sharks, and occasionally tiger and silvertip sharks in crystal clear waters.
 
 ## Site Information
 
 - **Location**: Papua New Guinea, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 15 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)
 - **Current**: Moderate to strong
 - **Best Time**: April to November

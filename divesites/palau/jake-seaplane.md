@@ -13,47 +13,48 @@ addedBy: osm_import
 
 ## Jake SeaPlane
 
-Jake SeaPlane is a historic wreck dive in Palau, Pacific.
+Jake SeaPlane is Palau's most accessible and beginner-friendly WWII wreck dive.
 
 ## Overview
 
-Jake SeaPlane is a dive site in Palau featuring the wreck of the Jake SeaPlane. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+The Jake is an Aichi E13A-1 Japanese Navy reconnaissance seaplane that rests in just 12 meters of water northwest of Koror. Discovered in 1994 by a fisherman, the wreck is one of the few surviving Jakes in Palau. This well-preserved aircraft is an ideal introduction to wreck diving due to shallow depth, minimal current, excellent visibility, and proximity to dive shops (just 5 minutes by boat). The aircraft is visible from the surface, making it easy to locate.
 
 ## Site Information
 
-- **Location**: Palau, Pacific
+- **Location**: Northwest of Koror, near Palau Pacific Resort
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 15-25 meters (excellent)
+- **Current**: Light to minimal
+- **Best Time**: Year-round; accessible as 3rd or 4th dive of the day
 
 ## Marine Life
 
-Divers at this site can expect to encounter coral growth, anemones, lionfish, scorpionfish, glassy sweepers, manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks. Additional species commonly sighted include sea turtles, napoleon wrasse, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The wreck is colonized by octopus, cuttlefish, nudibranchs, glassy sweepers, groupers, snappers, and various coral formations. Schools of small fish shelter within the airframe. Photographers find abundant macro opportunities on encrusted surfaces. Sea turtles occasionally visit the site.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 12 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend directly to the aircraft wreck at 12 meters. Begin with exterior exploration of the fuselage, wings, and cockpit area. Observe the aircraft's three-person crew compartment and the distinctive Jake design. Light penetration allows external features to be photographed in natural light. Stay outside the aircraft unless trained in wreck penetration. Circle the wreck observing marine life colonization. Ascend from the wreck with ample time for safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat entry via back roll or giant stride. Descend directly to the wreck. Navigate around the exterior features. Maintain buddy contact. Ascend slowly to 5 meters for safety stop (typical 3-minute stop). Deploy SMB for boat pickup. This is an easy, relaxed dive suitable for all certification levels.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
+- Perfect site for your first wreck dive or for practicing underwater photography
+- The Jake is a third or fourth dive of the day—ideal rest dive after deeper sites
+- Bring a macro lens or wide-angle camera for excellent photo opportunities
+- A light torch helps illuminate the aircraft and reveals color
+- This is historically significant—learn about the Aichi E13A before diving
+- An easy-going, fun dive that builds confidence in wreck navigation
+- Combine with Chandelier Cave or other shallow Koror sites
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+This is an excellent beginner wreck site with shallow depth and minimal hazards. Maintain positive buoyancy to avoid touching the wreck. Stay outside the aircraft unless trained in penetration. No strong currents or significant hazards. Perfect for Open Water certified divers building experience. Carry a safety sausage (SMB) as standard procedure.
 
 ## Photography
 

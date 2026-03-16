@@ -3,9 +3,9 @@ name: Mary Island
 lat: -9.3833
 lng: 160.1833
 difficulty: Intermediate
-maxDepth: 18
+maxDepth: 30
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Mary Island
 
-Mary Island is a reef dive site in Solomon Islands, Pacific.
+Mary Island (Mborokua) is an uninhabited extinct volcano in open ocean offering dramatic steep wall dives with prolific pelagic action and exceptional water clarity.
 
 ## Overview
 
-Mary Island is a dive site in Solomon Islands offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Mary Island is an isolated, jungle-covered extinct volcano rising from open water between the Russell Islands and Marovo Lagoon. The underwater points extending from the island are swept by currents and support massive aggregations of pelagic fish. Diving here delivers high-voltage encounters with swirling schools of barracuda and jacks, creating a "flying" sensation in crystal-clear water so transparent divers feel suspended in space. Water temperature is consistently warm (27-30°C). Access is exclusively via liveaboard cruise, and diving is weather-dependent on this exposed offshore location.
 
 ## Site Information
 
-- **Location**: Solomon Islands, Pacific
+- **Location**: Between Russell Islands and Marovo Lagoon, open ocean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
+- **Maximum Depth**: 30 meters
+- **Typical Visibility**: 30-60 meters (100-200 feet) exceptional clarity
 - **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Best Time**: April to November (weather-dependent)
 
-## Marine Life
+## Dive Sites on Mary Island
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+The island has three primary dive sites accessible depending on weather: Barracuda Point (massive schools of silvery barracuda and jacks), Anchor Point, and Mary Corner (unicornfish and fusiliers along with hunters—barracuda and tuna).
 
 ## Dive Profile
 

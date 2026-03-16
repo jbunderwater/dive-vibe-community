@@ -3,32 +3,33 @@ name: Conch dive site
 lat: 6.1923896
 lng: 80.047307
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+maxDepth: 20
+entryType: boat
 siteType: wreck
 ref: null
 osmId: 9448792092
 addedBy: osm_import
 ---
 
-## Conch dive site
+## Conch Dive Site
 
-Conch dive site is a historic wreck dive in Sri Lanka, Asia.
+Conch Dive Site is a historic wreck located off the southern coast of Sri Lanka, in the Galle region. The wreck is accessible via boat diving and offers intermediate-level wreck exploration.
 
 ## Overview
 
-Conch dive site is a dive site in Sri Lanka featuring the wreck of the Conch dive site. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+This wreck dive offers exploration of a historic vessel in warm Sri Lankan waters. Water temperatures range from 27-30°C throughout the year, with best diving conditions from October to April. The wreck structure provides habitat for diverse marine life and photographic opportunities for underwater photographers.
 
 ## Site Information
 
-- **Location**: Sri Lanka, Asia
-- **Entry Type**: Shore entry
+- **Location**: Southern coast, Galle region, Sri Lanka
+- **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Depth Range**: 18-20 meters
+- **Typical Visibility**: 10-20 meters (33-66 feet)
+- **Current**: Variable, can be moderate to strong
+- **Water Temperature**: 27-30°C year-round
+- **Best Time**: October to April
 
 ## Marine Life
 
@@ -36,11 +37,11 @@ Divers at this site can expect to encounter batfish, lionfish, sweetlips, coral 
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 25 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend to the wreck structure at 18-20 meters. Explore the exterior structure, observing coral growth and marine life inhabiting the wreck. Advanced divers with wreck training may attempt limited penetrations. Plan 40-45 minute bottom time at recreational depths. Maintain awareness of air supply and ascend with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Access is via boat from local Galle-area dive operators. Enter the water via giant stride or back roll from the dive boat. Descent is made directly to the wreck. Exit by returning to the boat at the surface with crew assistance.
 
 ## Tips and Recommendations
 

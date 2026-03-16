@@ -2,10 +2,10 @@
 name: Dixon's
 lat: 11.9218031
 lng: 93.0930528
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Advanced
+maxDepth: 30
 entryType: boat
-siteType: reef
+siteType: pinnacle
 ref: null
 osmId: 649985251
 addedBy: osm_import
@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Dixon's
 
-Dixon's is a reef dive site in Andaman Islands, Asia.
+Dixon's (also known as Dixon's Pinnacle) consists of three giant rock pinnacles emerging from deep water, creating a popular cleaning station for large marine animals including manta rays, mobula rays, turtles, and occasional whale sharks.
 
 ## Overview
 
-Dixon's is a dive site in Andaman Islands offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Located approximately 19 kilometers east of Havelock Island, Dixon's Pinnacle comprises three distinctive rock formations rising from a deep bottom. The site is renowned as a cleaning station for large marine megafauna, making it one of the best opportunities in the Andaman Islands to encounter manta rays, mobula rays, Napoleon wrasse, and occasionally whale sharks. The pinnacles reach an average depth of 15-18 meters at their tops, dropping to a maximum depth of 30 meters. This is an advanced dive site recommended for experienced divers only.
 
 ## Site Information
 
-- **Location**: Andaman Islands, Asia
+- **Location**: East of Havelock Island, Andaman Islands, India
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Site Type**: Pinnacle/seamount
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 30 meters
+- **Typical Visibility**: 15-20 meters (approximately 50 feet average)
+- **Current**: Moderate to strong
+- **Best Time**: November to April
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Napoleon wrasse, titan triggerfish, moray eels, tunas, green turtles, red-toothed triggerfish, manta rays, trevally, lionfish, stingrays, and batfish are regularly sighted. The site's status as a cleaning station means that large marine animals including manta rays and occasionally whale sharks visit to be cleaned of parasites. Shrimp and other small crustaceans perform cleaning services, making this an excellent site for observing predator-prey relationships.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Position yourself at one of the pinnacles at 15-18 meters depth and maintain a stable position against current. Allow marine megafauna to approach for cleaning activity—patient divers are rewarded with extraordinary encounters. The maximum depth of 30 meters should only be explored early in the dive by advanced divers, and only if good visibility and current conditions permit. Most time is spent at 15-25 meters observing pinnacle features and waiting for marine life. Total bottom time typically 35-45 minutes for advanced divers. Strong currents and deep maximums make this strictly an advanced-only site.
 
 ## Entry and Exit
 

@@ -3,7 +3,7 @@ name: Star of Russia Wreck
 lat: -17.73
 lng: 168.31
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 35
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,26 +13,31 @@ addedBy: osm_import
 
 ## Star of Russia Wreck
 
-Star of Russia Wreck is a historic wreck dive in Vanuatu, Pacific.
+The Star of Russia is a large trading vessel (83m long, 1,981 tons) that sank in Port Vila Harbor in approximately 1953, now resting upright in 35 meters of water.
 
 ## Overview
 
-Star of Russia Wreck is a dive site in Vanuatu featuring the wreck of the Star of Russia Wreck. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+The Star of Russia was a historic merchant vessel used to transport jute, goods, and migrants to Australia, later serving as a trading vessel throughout the Pacific Islands before becoming a floating warehouse in Port Vila. The ship sank around 1953 and now sits in sheltered water with her steel structure remarkably well-preserved. The wooden decking has deteriorated but steel joists remain intact, and the hull is almost entirely intact, allowing divers to explore multiple levels and structural features including the three-level interior and crow nests on the massive masts.
 
 ## Site Information
 
-- **Location**: Vanuatu, Pacific
+- **Location**: Port Vila Harbor, Efate Island
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Maximum Depth**: 35 meters
+- **Typical Visibility**: 20-50 meters (varies seasonally)
+- **Water Temperature**: 26-29°C year-round
+- **Best Time**: April to November (dry season)
+- **Notable**: Excellent site for building wreck diving experience before diving the SS President Coolidge
 
 ## Marine Life
 
-Divers at this site can expect to encounter coral growth, anemones, lionfish, scorpionfish, glassy sweepers, manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks. Additional species commonly sighted include sea turtles, napoleon wrasse, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Coral colonization and anemones have settled on the metal hull and structures. Divers encounter abundant reef fish, groupers, moray eels, octopus, nudibranchs, clownfish, batfish, lionfish, and reef sharks. The multi-level interior structure provides habitat for glassy sweepers and schooling fish.
+
+## Dive Profile
+
+The upright position of the wreck allows exploration of three distinct levels accessible through remaining open hatches and structural openings. The steel joists and decking allow easy navigation. A good preparatory dive before attempting more challenging wrecks, offering accessible wreck structure exploration.
 
 ## Dive Profile
 

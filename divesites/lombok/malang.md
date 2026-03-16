@@ -2,8 +2,8 @@
 name: Malang
 lat: -8.3296167
 lng: 116.0701857
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Advanced
+maxDepth: 40
 entryType: boat
 siteType: reef
 ref: null
@@ -13,19 +13,19 @@ addedBy: osm_import
 
 ## Malang
 
-Malang is a reef dive site in Lombok, Asia.
+Malang (Takat Malang) is a deep reef plateau northeast of Gili Meno featuring interesting underwater canyons and varying depths, popular for nitrox diving.
 
 ## Overview
 
-Malang is a dive site in Lombok offering rewarding diving on healthy coral reef structures . source is Diveschool Notice Board - Location might have to be checked with a GPS. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Malang, also known as Takat Malang, is a unique reef site with a plateau at about 10 meters depth that drops down to 40+ meters with spectacular underwater canyons creating a dramatic landscape. The sea mounts stretch from 7 meters down to 40 meters deep. This is one of the best deep dive sites for recreational divers using nitrox, as it is popular for allowing divers to extend their bottom time on deeper dives. The site's interesting topography with canyons and varying depths makes it particularly exciting for advanced divers seeking more challenging conditions.
 
 ## Site Information
 
 - **Location**: Lombok, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)

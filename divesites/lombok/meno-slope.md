@@ -3,7 +3,7 @@ name: Meno Slope
 lat: -8.3517823
 lng: 116.0500957
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 30
 entryType: boat
 siteType: reef
 ref: null
@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Meno Slope
 
-Meno Slope is a reef dive site in Lombok, Asia.
+Meno Slope is a serene sloping reef site off Gili Meno, south of Meno Wall, with vibrant coral formations teeming with reef fish suitable for all skill levels.
 
 ## Overview
 
-Meno Slope is a dive site in Lombok offering rewarding diving on healthy coral reef structures . source is Diveschool Notice Board - Location might have to be checked with a GPS. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Meno Slope is a beautiful slope dive situated just south of Meno Wall off Gili Meno. The site features a serene underwater landscape with a sandy slope adorned with vibrant coral formations that support diverse reef fish communities. The gradual slope makes it accessible to divers of all skill levels while still offering interesting depth variations and marine life encounters.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ Meno Slope is a dive site in Lombok offering rewarding diving on healthy coral r
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)

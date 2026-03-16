@@ -2,8 +2,8 @@
 name: Lighthouse Channel
 lat: 7.2898655
 lng: 134.4599024
-difficulty: Intermediate
-maxDepth: 26
+difficulty: Beginner
+maxDepth: 5
 entryType: boat
 siteType: drift
 ref: null
@@ -24,8 +24,8 @@ Lighthouse Channel is a dive site in Palau offering rewarding diving on healthy 
 - **Location**: Palau, Pacific
 - **Entry Type**: Boat dive
 - **Site Type**: Drift dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 26 meters
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 5 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)
 - **Current**: Moderate to strong
 - **Best Time**: April to November

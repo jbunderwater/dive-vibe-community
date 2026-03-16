@@ -13,11 +13,12 @@ addedBy: osm_import
 
 ## Twin Peaks Coral Head
 
-Twin Peaks Coral Head is a reef dive site in Marshall Islands, Pacific.
+Twin Peaks Coral Head is a distinctive dual coral pinnacle in Kwajalein lagoon. This site features abundant fish and anemones, with particularly rich coral communities.
+
 
 ## Overview
 
-Twin Peaks Coral Head is a dive site in Marshall Islands offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Twin Peaks Coral Head is a distinctive dual coral pinnacle in Kwajalein lagoon. This site features abundant fish and anemones, with particularly rich coral communities. This site offers visibility typically exceeding 30 meters, with water temperatures consistent at 27-30°C year-round.
 
 ## Site Information
 

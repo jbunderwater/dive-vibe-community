@@ -2,7 +2,7 @@
 name: Bounty
 lat: -8.3568341
 lng: 116.0512706
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 18
 entryType: boat
 siteType: wreck
@@ -13,18 +13,18 @@ addedBy: osm_import
 
 ## Bounty
 
-Bounty is a historic wreck dive in Lombok, Asia.
+Bounty is a sunken jetty wreck off the west coast of Gili Meno, sunk during a storm in 1999 and now home to abundant marine life.
 
 ## Overview
 
-Bounty is a dive site in Lombok featuring the wreck of the Bounty . source is Diveschool Notice Board - Location might have to be checked with a GPS. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The Bounty Wreck is a shallow jetty structure that sank during a storm in 1999 off Gili Meno, now at approximately 18 meters depth. This accessible wreck site is completely colonized by marine life and serves as an excellent habitat for schooling fish. The wreck provides excellent opportunities for both wreck exploration and observing the coral regrowth process on the structure.
 
 ## Site Information
 
 - **Location**: Lombok, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Beginner
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
@@ -32,7 +32,7 @@ Bounty is a dive site in Lombok featuring the wreck of the Bounty . source is Di
 
 ## Marine Life
 
-Divers at this site can expect to encounter batfish, lionfish, sweetlips, coral growth, soft corals, manta rays, whale sharks, reef sharks. Additional species commonly sighted include sea turtles, barracuda, trevally. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The Bounty wreck is now home to schooling drummerfish, scorpionfish, soft corals, and encrusting invertebrates. The structure attracts schools of fusiliers, snappers, and other reef fish seeking shelter among the wooden framework. Moray eels and octopuses are commonly found in the wreck's crevices and hollows.
 
 ## Dive Profile
 

@@ -2,8 +2,8 @@
 name: Simons Reef
 lat: -8.3347077
 lng: 116.065643
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Advanced
+maxDepth: 30
 entryType: boat
 siteType: reef
 ref: null
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Simons Reef
 
-Simons Reef is a reef dive site in Lombok, Asia.
+Simons Reef is one of the best deep dive sites for recreational divers, featuring large coral-covered island formations, barrel sponges, gorgonian sea fans, and incredible canyons.
 
 ## Overview
 
-Simons Reef is a dive site in Lombok offering rewarding diving on healthy coral reef structures . source is Diveschool Notice Board - Location might have to be checked with a GPS. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Simons Reef is among the best deep dive sites for recreational divers, featuring a beautiful site with several very large island-like formations completely overgrown with corals. The site showcases incredible fish life and underwater topography, with large canyons hosting barrel sponges and vibrant soft corals. Huge gorgonian sea fans create perfect lookout points for spotting pygmy seahorses and other small cryptic species. This is an advanced-level dive site due to the depth and the need for proper deep diving protocols.
 
 ## Site Information
 
 - **Location**: Lombok, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Simons Reef hosts an incredible variety of fish species and marine life. The large coral formations and gorgonian sea fans are prime habitat for pygmy seahorses and other small creatures. The canyons provide shelter for reef fish and crustaceans. The site's depth and topography make it an excellent location for observing both large reef fish and smaller cryptic species.
 
 ## Dive Profile
 

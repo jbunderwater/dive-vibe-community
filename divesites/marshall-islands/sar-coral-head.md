@@ -13,11 +13,12 @@ addedBy: osm_import
 
 ## SAR Coral Head
 
-SAR Coral Head is a reef dive site in Marshall Islands, Pacific.
+SAR Coral Head is a coral pinnacle dive in Kwajalein lagoon. This site is characterized by abundant reef structures and regular encounters with reef sharks and pelagic fish.
+
 
 ## Overview
 
-SAR Coral Head is a dive site in Marshall Islands offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+SAR Coral Head is a coral pinnacle dive in Kwajalein lagoon. This site is characterized by abundant reef structures and regular encounters with reef sharks and pelagic fish. This site offers visibility typically exceeding 30 meters, with water temperatures consistent at 27-30°C year-round.
 
 ## Site Information
 

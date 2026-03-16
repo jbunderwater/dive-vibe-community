@@ -3,9 +3,9 @@ name: Dinah's Beach
 lat: -10.6667
 lng: 150.7
 difficulty: Beginner
-maxDepth: 18
+maxDepth: 15
 entryType: shore
-siteType: reef
+siteType: muck
 ref: null
 osmId: null
 addedBy: osm_import
@@ -17,22 +17,22 @@ Dinah's Beach is a reef dive site in Papua New Guinea, Pacific.
 
 ## Overview
 
-Dinah's Beach is a dive site in Papua New Guinea offering excellent diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Dinah's Beach is the world's original muck diving site and the birthplace of muck diving as a discipline. Named after Dinah Halstead, this Milne Bay treasure features rotting tree trunks, heaps of coral rubble, and sandy slopes loaded with specialized critters. The site is shallow (10-30 meters) with excellent opportunities for macro photography, hosting pygmy lionfish, cockatoo waspfish, mantis shrimp, various octopus species, Coleman shrimp, and numerous nudibranchs.
 
 ## Site Information
 
 - **Location**: Papua New Guinea, Pacific
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Muck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 18 meters
+- **Maximum Depth**: 15 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)
 - **Current**: Moderate to strong
 - **Best Time**: April to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Dinah's Beach is a critter-diver's paradise. Expect to find various octopus species including mimic octopus, Coleman shrimp, dragon needlefish, star gazers, snake eels, cuttlefish, pygmy lionfish, cockatoo waspfish, fire urchins, and numerous colorful nudibranchs. The muck environment attracts specialized and sometimes rare species that prefer this substrate over traditional coral reefs.
 
 ## Dive Profile
 

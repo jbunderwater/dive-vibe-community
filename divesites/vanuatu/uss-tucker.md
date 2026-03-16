@@ -1,43 +1,42 @@
 ---
-name: SS President Coolidge
-lat: -15.5230823
-lng: 167.2352421
+name: USS Tucker
+lat: -15.52
+lng: 167.18
 difficulty: Advanced
-maxDepth: 73
+maxDepth: 24
 entryType: boat
 siteType: wreck
 ref: null
-osmId: 1873948248
+osmId: null
 addedBy: osm_import
 ---
 
-## SS President Coolidge
+## USS Tucker Wreck
 
-The SS President Coolidge is one of the world's most accessible and renowned wreck dives, a 22,200-tonne WWII luxury passenger liner sunk just 40 meters offshore off Espiritu Santo.
+USS Tucker is a WWII destroyer wreck off Malo Island, featuring three distinct sections of a 104-meter vessel that struck an American mine in 1942.
 
 ## Overview
 
-The SS President Coolidge was a WWII troop carrier that struck a friendly mine in 1942 and was deliberately steered onto the reef by the captain. The wreck rests on her port side with the bow at 21 meters and stern at 73 meters depth, creating a diver's playground with multiple accessible sections ranging from beginner-friendly shallow areas to deep technical zones. The ship remains remarkably well-preserved with cargo holds, cabins, and structural features still recognizable after 80+ years underwater.
+The USS Tucker was a US Navy destroyer built in 1934 and sunk on August 4, 1942, when it struck a friendly mine while escorting a cargo ship. The ship broke into three recognizable sections at an average depth of 24 meters: the stern (largely intact with visible gun turrets and mounts), a scattered middle section with wreckage scattered across the seabed, and the bow section. The accessible sections remain well-preserved with spectacular coral and marine life colonization.
 
 ## Site Information
 
-- **Location**: Espiritu Santo, Vanuatu
+- **Location**: North-east side of Malo Island, Espiritu Santo
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 73 meters
-- **Minimum Depth**: 21 meters (bow section)
+- **Maximum Depth**: 24 meters
 - **Typical Visibility**: 20-50 meters (varies seasonally)
 - **Water Temperature**: 26-29°C year-round
 - **Best Time**: April to November (dry season)
 
 ## Marine Life
 
-The wreck structure provides excellent habitat for a thriving marine ecosystem. Divers encounter abundant coral growth colonizing the vessel, anemones with resident clownfish, lionfish, scorpionfish, and batfish. Larger species include reef sharks (whitetip, blacktip, grey), sea turtles, napoleon wrasse, barracuda, and manta rays. Interior sections attract glassy sweepers and other schooling fish.
+The wreck structure is heavily colonized with spectacular hard and soft corals. Gun mounts and turrets are covered in coral formations hosting abundant marine life including batfish, angelfish, coral trout, sweet lip fish, clownfish, nudibranchs, lionfish, and scorpionfish. Reef sharks, barracuda, sea turtles, and larger pelagic species frequent the site.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 70 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The stern section features entrance hatches with handles still attached and intact gun mounts—excellent starting points for wreck exploration at 24 meters. The accessible sections allow divers to explore recognizable ship structures while monitoring air and depth. Navigate carefully through the scattered middle section and around the bow remains.
 
 ## Entry and Exit
 
@@ -62,7 +61,7 @@ The wreck structure provides dramatic wide-angle subjects with natural light fil
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was validated through research and compiled from diving knowledge. Last updated 2026-03-16.*

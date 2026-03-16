@@ -5,7 +5,7 @@ lng: 158.0667
 difficulty: Beginner
 maxDepth: 15
 entryType: boat
-siteType: reef
+siteType: cave
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Mirror Pond Uepi
 
-Mirror Pond Uepi is a reef dive site in Solomon Islands, Pacific.
+Mirror Pond is an iconic atmospheric swim-through with slanting shafts of ethereal sunlight and an enclosed pond surrounded by island rainforest, located on Mane Island in the Russell Islands.
 
 ## Overview
 
-Mirror Pond Uepi is a dive site in Solomon Islands offering excellent diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Mirror Pond is one of the most scenic and atmospheric dive sites in the Solomon Islands. The dive features an iconic swim-through with slanting shafts of dramatic sunlight throughout most of the passage, with false caves branching off to the left. Upon exiting the cave, divers emerge into a scenic pond surrounded by dense tropical rainforest. The area adjacent to the pond features a great wall with giant sea fans where pygmy seahorses sway in gentle currents. A shallow reef system interspersed with coral bommies surrounds the pond, swarming with colorful reef fish. Crystal-clear water conditions make this a photographer's paradise.
 
 ## Site Information
 
-- **Location**: Solomon Islands, Pacific
+- **Location**: Mane Island, Russell Islands (western edge)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
+- **Typical Visibility**: Exceptional clarity—20-50 meters (65-160 feet)
+- **Current**: Minimal
 - **Best Time**: April to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Colorful reef fish including bright orange flame angels, long-snout butterflyfish, pygmy seahorses on sea fans. Saltwater crocodiles have been occasionally spotted. The cave supports crustaceans and invertebrates adapted to cavern environments.
 
 ## Dive Profile
 

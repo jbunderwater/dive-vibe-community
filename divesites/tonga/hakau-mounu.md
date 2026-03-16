@@ -3,8 +3,8 @@ name: Hakau Mounu
 lat: -21.126952
 lng: -175.1878149
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+maxDepth: 15
+entryType: boat
 siteType: reef
 ref: null
 osmId: 356690470
@@ -13,30 +13,32 @@ addedBy: osm_import
 
 ## Hakau Mounu
 
-Hakau Mounu is a reef dive site in Tonga, Pacific.
+Hakau Mounu is an OSM-recorded natural reef feature near Mounu Island in southern Tonga. While not an established commercial dive site, the area is suitable for diving and features typical Tongan reef characteristics.
 
 ## Overview
 
-Hakau Mounu is a dive site in Tonga offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Hakau Mounu is a natural reef formation mapped in OpenStreetMap and located near Mounu Island coral atoll area in the Vava'u region. While not documented as an established dive site with operator presence, the reef is accessible by boat and features characteristics typical of Tongan diving. The name Hakau appears to be Tongan. The area around Mounu Island is known for diverse dive environments including reefs, caves, and shipwrecks.
 
 ## Site Information
 
-- **Location**: Tonga, Pacific
-- **Entry Type**: Shore entry
+- **Location**: Near Mounu Island, Vava'u, Tonga
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Depth Range**: Estimated 5-15 meters
+- **Typical Visibility**: Excellent (25-40+ meters, typical Vavau)
+- **Current**: Light to moderate
+- **Water Temperature**: 24-29°C
+- **Establishment Status**: Not an established commercial dive site; requires operator or local knowledge
+- **Best Time**: Year-round; calm conditions essential
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Typical Tongan reef species: reef fish, tropical fish species, sea turtles, nudibranchs, hard and soft corals. Likely features diverse fish populations and healthy coral formations typical of the Mounu area.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Access via boat from Vava'u dive operators or charter services. Descend to reef formation and explore coral structures at 5-15 meter range. Limited operator history means conditions and specific site characteristics should be confirmed with local dive providers before planning a visit.
 
 ## Entry and Exit
 

@@ -3,7 +3,7 @@ name: Blue Ribbon Eel Reef
 lat: -16.83
 lng: 179.865
 difficulty: Beginner
-maxDepth: 18
+maxDepth: 16
 entryType: boat
 siteType: reef
 ref: null
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Blue Ribbon Eel Reef
 
-Blue Ribbon Eel Reef is a reef dive site in Fiji, Pacific.
+Blue Ribbon Eel Reef is a shallow reef dive famous for reliable encounters with the striking blue ribbon eel species.
 
 ## Overview
 
-Blue Ribbon Eel Reef is a dive site in Fiji offering excellent diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+This beginner-friendly site in the Somosomo Strait near Taveuni features sandy substrates adjacent to coral reef where blue ribbon eels (Rhinochimaera triodon) are reliably encountered at their burrow entrances. The electric blue coloring and distinctive yellow fin edges of these elusive creatures make them a highlight of dives at this site. Shallow depths (16-18 meters) and excellent visibility make this an ideal site for newer divers seeking a memorable marine life encounter.
 
 ## Site Information
 
-- **Location**: Fiji, Pacific
+- **Location**: Taveuni, Somosomo Strait, Fiji
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
+- **Maximum Depth**: 16 meters
+- **Typical Visibility**: 20-40 meters
+- **Current**: Mild to moderate
 - **Best Time**: April to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Blue ribbon eels are the star attraction at this site and can be approached carefully for extended observation as they rest at their burrow entrances. Additional marine life includes reef fish schools, butterflyfish, groupers, occasional nudibranchs, and various reef-associated invertebrates. The sandy substrate transitions to healthy coral reef supporting diverse fish communities.
 
 ## Dive Profile
 

@@ -2,8 +2,8 @@
 name: Yap Caverns
 lat: 9.5
 lng: 138.08
-difficulty: Advanced
-maxDepth: 30
+difficulty: Intermediate
+maxDepth: 20
 entryType: boat
 siteType: cave
 ref: null
@@ -17,26 +17,27 @@ Yap Caverns is a cave dive site in Micronesia - Yap, Pacific.
 
 ## Overview
 
-Yap Caverns is a dive site in Micronesia - Yap featuring underwater cave and cavern formations. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Yap Caverns is a unique cave diving site on the southern barrier reef featuring multiple interconnected tunnels, chimneys, swim-throughs, and dramatic canyons. Created by Yap's volcanic geology, the caverns are well-illuminated by sunlight filtering through openings, making them accessible for divers with good buoyancy control and cavern diving experience. The complex cave system offers adventure and exploration while the shelter from strong currents makes it an attractive alternative to Yap's channel and wall dives. This site is suitable for intermediate to advanced divers.
 
 ## Site Information
 
-- **Location**: Micronesia - Yap, Pacific
+- **Location**: Micronesia - Yap, Pacific (southern barrier reef near Colonia)
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 20 meters
+- **Depth Range**: 3-20 meters
+- **Typical Visibility**: Good to excellent
+- **Current**: Protected from strong currents (cavern benefit)
+- **Best Time**: Year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+The caverns host invertebrate-rich habitat with lionfish, scorpionfish, and octopuses hiding in crevices. Walls are covered with sponges, soft corals, and gorgonians providing habitat for shrimp, crabs, and juvenile reef fish. Schools of reef fish such as snappers and fusiliers commonly gather near cavern entrances. The shadowed cave environment attracts species adapted to low-light conditions.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin your descent to the cavern openings at 5-10 meters. Navigate through the interconnected tunnels, chimneys, and swim-throughs at 10-20 meters. The multiple passages offer route options and exploration opportunities. Good buoyancy control is essential to avoid disturbing silt and damaging coral formations. Sunlight penetrating from above illuminates passages, making navigation intuitive. This is an excellent dive for experiencing Yap's diverse underwater geology.
 
 ## Entry and Exit
 

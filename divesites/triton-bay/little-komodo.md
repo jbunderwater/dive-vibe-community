@@ -13,46 +13,47 @@ addedBy: osm_import
 
 ## Little Komodo
 
-Little Komodo is a reef dive site in Triton Bay, Asia.
+Little Komodo is a boulder-reef dive site featuring craggy rocky outcrops and soft coral gardens in Triton Bay, located on Saruenus Island. This site is widely considered one of Triton Bay's best dives, suitable for both macro and wide-angle photography.
 
 ## Overview
 
-Little Komodo is a dive site in Triton Bay offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Located on the southern tip of Saruenus Island, Little Komodo consists of large boulders that breach the surface at low tide, creating a dramatic shallow-to-deep reef environment. The rocky outcrops are extensively covered in soft corals, sea fans, and provide excellent habitat for both large pelagics and small critters. Strong currents deliver nutrient-rich water that sustains vibrant fish life around the boulder formations.
 
 ## Site Information
 
-- **Location**: Triton Bay, Asia
+- **Location**: Saruenus Island, Triton Bay, West Papua, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 10-20 meters (30-65 feet)
+- **Current**: Strong (nutrient delivery mechanism)
+- **Best Time**: October to April
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The site supports exceptional fish life and critter diversity. Expect to encounter schools of anthias, damselfish, and fusiliers that fill the water column around the boulders. Larger fish include snappers, sweetlips, hunting jacks, and giant groupers. Black coral bushes provide shelter for predatory species. Macro-focused dives reward observers with pygmy seahorses (rare), nudibranchs, shrimp, and various other small cryptic species. Occasional encounters with manta rays and whale sharks are possible.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin your dive in the shallow boulder fields at 5-8 meters where soft corals and fish schools dominate. Gradually explore deeper sections around 15-25 meters while maintaining awareness of strong currents. Focus shallow water dives on the top of boulders for wide-angle photography; reserve deeper exploration for macro inspection of crevices and soft coral details. Allow adequate air for safety decompression stops.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is exclusively by dive boat. Entry is typically via giant stride or back roll. Expect strong currents from the start—descend along natural anchor points (boulders) rather than free-descending. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Maintain communication with the dive boat crew throughout the dive.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Pre-dive briefing is essential—understand current direction and refuge points
+- Bring underwater camera equipment—this site offers exceptional photography opportunities (macro and wide-angle)
+- Plan dives with macro and wide-angle sections to utilize the site's full range
+- Strong currents can be challenging for less experienced divers; ensure Intermediate certification minimum
+- Scout boulder features for pygmy seahorses and nudibranchs
+- Be prepared for rapid water transitions (strong current areas)
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Strong currents are a defining characteristic of this site. Monitor your air consumption and stay aware of current direction and strength. Avoid diving if conditions deteriorate significantly. Carry appropriate signaling devices (SMB, whistle). Dive within your certification limits; less experienced Intermediate divers should have a local guide. Respect the delicate soft coral ecosystem by maintaining precise buoyancy control. Always dive with a buddy.
 
 ## Photography
 

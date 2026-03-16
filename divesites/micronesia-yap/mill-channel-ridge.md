@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Mill Channel: Ridge
 
-Mill Channel: Ridge is a reef dive site in Micronesia - Yap, Pacific.
+Mill Channel: Ridge is a prominent feature within the M'il Channel system.
 
 ## Overview
 
-Mill Channel: Ridge is a dive site in Micronesia - Yap offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Mill Channel: Ridge is a featured location within Yap's famous M'il Channel, known for its distinctive ridge formation and soft coral abundance. Part of the M'il Channel complex rated as the "Grand Canyon of the Pacific," this site features a prominent underwater ridge at 15-20 meters depth with impressive soft coral formations in surrounding crevices. This is another prime manta encounter location during the November-May season, with consistent manta activity at cleaning stations.
 
 ## Site Information
 
@@ -26,17 +26,18 @@ Mill Channel: Ridge is a dive site in Micronesia - Yap offering rewarding diving
 - **Site Type**: Drift dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 15-18 meters (50-60 feet)
+- **Current**: Mild to moderate drift
+- **Best Time**: November to May (prime manta season)
+- **Feature**: Distinctive ridge formation with soft coral
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Manta rays (up to 4 meters wide) are frequently encountered at cleaning stations. The ridge formation and soft corals provide habitat for snappers, fusiliers, and other reef fish. Soft coral formations host invertebrates and crustaceans. The ridge concentrates water flow and fish activity.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the ridge at 15-20 meters and drift through the channel. The ridge provides excellent navigation reference and gathering point for marine life observation. Soft coral formations can be explored while maintaining good buoyancy control. Most manta encounters occur at specific sections of the ridge where water flow concentrates rays at cleaning stations.
 
 ## Entry and Exit
 

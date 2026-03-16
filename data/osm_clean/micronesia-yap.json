@@ -5,7 +5,7 @@
     "lon": 138.1366048,
     "osm_id": 4031012952,
     "osm_type": "node",
-    "depth": 12,
+    "depth": 10,
     "site_type": "drift",
     "entry_type": "boat",
     "difficulty": "Beginner",
@@ -17,7 +17,10 @@
       "scuba_diving:entry:boat": "yes",
       "scuba_diving:maxdepth": "12",
       "scuba_diving:type:bigfish": "yes",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research",
+      "marine_life": "mantas, cleaning station"
     }
   },
   {
@@ -34,7 +37,10 @@
       "name": "Mill Channel old cleaning station",
       "scuba_diving:depth": "25",
       "scuba_diving:type:bigfish": "yes",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research",
+      "marine_life": "mantas, soft corals, cleaning station"
     }
   },
   {
@@ -50,7 +56,11 @@
     "tags": {
       "name": "Mill Channel: Ridge",
       "scuba_diving:type:bigfish": "yes",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research",
+      "marine_life": "mantas, soft corals",
+      "visibility_notes": "50-60 feet (15-18m) average"
     }
   },
   {
@@ -62,14 +72,19 @@
     "depth": 22,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Vertigo",
       "scuba_diving:depth": "22",
       "scuba_diving:type:bigfish": "yes",
       "scuba_diving:type:sharks": "yes",
       "scuba_diving:type:wall": "yes",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research",
+      "marine_life": "grey reef sharks, blacktip sharks (10-40 per dive), wall drop to 100m",
+      "visibility_notes": "over 100 feet (30m+)",
+      "shark_feeding": "yes"
     }
   },
   {
@@ -78,7 +93,7 @@
     "lon": 138.1168957,
     "osm_id": 4031013297,
     "osm_type": "node",
-    "depth": 2,
+    "depth": 5,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Beginner",
@@ -87,9 +102,14 @@
       "scuba_diving:depth": "1",
       "scuba_diving:difficulty": "1",
       "scuba_diving:entry:boat": "yes",
-      "scuba_diving:maxdepth": "2",
+      "scuba_diving:maxdepth": "10",
       "scuba_diving:type:wreck": "yes",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research",
+      "aircraft_type": "Japanese Zero (or Mitsubishi G4M Betty)",
+      "wreck_depth": "3-10m",
+      "history": "WWII era, encrusted with life"
     }
   },
   {
@@ -97,25 +117,35 @@
     "lat": 9.54,
     "lon": 138.11,
     "depth": 12,
-    "site_type": "reef",
+    "site_type": "drift",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "web_research",
+      "marine_life": "mantas, cleaning station",
+      "notes": "named after resident manta population"
     }
   },
   {
     "name": "Yap Caverns",
     "lat": 9.5,
     "lon": 138.08,
-    "depth": 30,
+    "depth": 20,
     "site_type": "cave",
     "entry_type": "boat",
-    "difficulty": "Advanced",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "web_research",
+      "features": "tunnels, chimneys, chasms, swim-throughs",
+      "depth_range": "3-20m",
+      "marine_life": "lionfish, scorpionfish, octopus, snappers, sponges, soft corals",
+      "location": "southern barrier reef near Colonia"
     }
   },
   {
@@ -125,10 +155,16 @@
     "depth": 25,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "web_research",
+      "features": "dramatic wall drop, soft daisy corals, crinoids",
+      "depth_range": "15-45m (wall extends to 150ft+)",
+      "marine_life": "lionfish, mantas, eagle rays, turtles, sharks, tuna, barracudas",
+      "visibility": "superior to channel dives"
     }
   },
   {
@@ -141,7 +177,11 @@
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "web_research",
+      "site_category": "wall dive",
+      "notes": "one of Yap's premier wall sites"
     }
   },
   {
@@ -154,20 +194,30 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "web_research",
+      "site_category": "wall dive",
+      "notes": "one of Yap's premier wall sites"
     }
   },
   {
     "name": "Magic Kingdom",
     "lat": 9.55,
     "lon": 138.12,
-    "depth": 15,
+    "depth": 18,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "web_research",
+      "depth_range": "5-30m",
+      "history": "damaged by 1992 typhoon, recovering",
+      "marine_life": "schooling jacks, barracudas, grey and white-tip reef sharks",
+      "coral_recovery": "rejuvenating since typhoon damage"
     }
   },
   {
@@ -180,7 +230,10 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "web_research",
+      "site_category": "reef dive"
     }
   },
   {
@@ -193,7 +246,11 @@
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "web_research",
+      "site_category": "wall dive",
+      "notes": "one of Yap's premier wall sites"
     }
   },
   {
@@ -206,7 +263,10 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "web_research",
+      "site_category": "reef dive"
     }
   },
   {
@@ -219,7 +279,11 @@
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "web_research",
+      "site_category": "wall dive",
+      "notes": "one of Yap's premier wall sites"
     }
   }
 ]

@@ -2,10 +2,10 @@
 name: Nigali Passage
 lat: -17.3
 lng: 178.5833
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Advanced
+maxDepth: 20
 entryType: boat
-siteType: reef
+siteType: drift
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Nigali Passage
 
-Nigali Passage is a reef dive site in Fiji, Pacific.
+Nigali Passage is a world-famous drift dive off Gau Island featuring a narrow channel where grey sharks are almost always present.
 
 ## Overview
 
-Nigali Passage is a dive site in Fiji offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Located off Gau Island in the Lomaiviti Group, Nigali Passage is one of Fiji's most thrilling drift dives. This narrow channel has a very limited diving window—only about 3 hours when currents are manageable; outside this window, currents exceed 4 knots. The passage is famous for encounters with squadrons of grey sharks, along with schooling trevallies, barracuda, snappers, and other pelagic species. Divers drop into swift currents and ride through the passage for approximately 20 meters of depth, making this an Advanced-level dive that delivers an adrenaline-filled experience.
 
 ## Site Information
 
-- **Location**: Fiji, Pacific
+- **Location**: Nigali Passage, Gau Island, Lomaiviti Group, Fiji
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Site Type**: Drift dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 20 meters
+- **Typical Visibility**: 25-40 meters
+- **Current**: Strong (3+ knots within diving window)
+- **Best Time**: April to November (limited 3-hour window daily)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Nigali Passage is renowned for reliable encounters with squadrons of grey reef sharks that patrol the channel. Additional species include schooling trevallies, barracuda, snappers, and various other pelagic fish. The passage provides an exciting opportunity for shark enthusiasts looking for consistent, multiple-shark encounters in a dramatic setting.
 
 ## Dive Profile
 

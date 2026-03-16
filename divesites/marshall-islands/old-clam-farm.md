@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Old Clam Farm
 
-Old Clam Farm is a reef dive site in Marshall Islands, Pacific.
+Old Clam Farm is a lagoon reef dive in Majuro Atoll, named for the clam farming heritage in the area. This site offers moderate depths with healthy coral ecosystems ideal for intermediate-level boat divers seeking traditional atoll reef diving experiences with excellent visibility and diverse reef fish.
 
 ## Overview
 
-Old Clam Farm is a dive site in Marshall Islands offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Old Clam Farm is a lagoon reef dive in Majuro featuring healthy coral structures and abundant tropical reef fish. The site name reflects local marine resource history. Visibility typically exceeds 30 meters, with water temperatures consistent at 27-30°C year-round. The moderate depths and pristine coral make this an ideal destination for intermediate-level divers exploring Majuro's protected reef environments.
 
 ## Site Information
 

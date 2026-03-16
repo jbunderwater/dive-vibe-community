@@ -2,7 +2,7 @@
 name: New Drop-Off
 lat: 7.1060113
 lng: 134.2394949
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 30
 entryType: boat
 siteType: wall
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## New Drop-Off
 
-New Drop-Off is a wall dive site in Palau, Pacific.
+New Drop-Off is a dramatic wall dive featuring dramatic pelagic encounters and abundant sharks.
 
 ## Overview
 
-New Drop-Off is a dive site in Palau featuring a dramatic vertical wall that drops into the deep blue. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+New Drop-Off is located 27 miles southwest of Koror and features a spectacular wall plunging to extreme depths (2,000+ feet). Named for its dramatic drop-off, this site attracts impressive pelagic marine life including multiple shark species—reef sharks, hammerheads, and potentially larger pelagics. Strong currents and dynamic conditions make this an advanced-only site. The crystal-clear water (visibility up to 30 meters) and abundance of predatory fish create an action-packed diving experience.
 
 ## Site Information
 
-- **Location**: Palau, Pacific
+- **Location**: Southwest of Ngemelis, outer barrier reef
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
+- **Typical Visibility**: 25-30 meters (excellent)
+- **Current**: Strong to very strong
 - **Best Time**: April to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+New Drop-Off is known for shark encounters from multiple species. Grey reef sharks, whitetip reef sharks, hammerhead sharks, and occasionally other large sharks patrol the wall edge. Schooling jacks, barracuda, trevally, and snappers are abundant. Sea turtles (up to 18 green turtles have been counted at shallow depths) congregate on the wall top. The combination of strong currents and abundant food creates perfect predator aggregation habitat.
 
 ## Dive Profile
 

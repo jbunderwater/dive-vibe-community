@@ -3,7 +3,7 @@ name: The Wall
 lat: 12.0547239
 lng: 92.962155
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 40
 entryType: boat
 siteType: wall
 ref: null
@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## The Wall
 
-The Wall is a wall dive site in Andaman Islands, Asia.
+The Wall is an iconic wall dive site featuring a dramatic vertical drop from shallow reef to exceptional depths, with rich soft coral formations and abundant schooling fish.
 
 ## Overview
 
-The Wall is a dive site in Andaman Islands featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The Wall is located near Havelock Island and offers thrilling wall diving with a vertical drop beginning at just 10 meters and descending to 55 meters. This wall is adorned with soft corals in vibrant colors—purple, green, yellow, pink, and white—and serves as a hunting ground for large schooling fish including jackfish, fusiliers, snappers, barracuda, and bannerfish. The site is suitable for both beginner-certified and advanced divers.
 
 ## Site Information
 
-- **Location**: Andaman Islands, Asia
+- **Location**: Havelock Island, Andaman Islands, India
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 40 meters
+- **Typical Visibility**: 15-25 meters
+- **Current**: Variable, can be strong
+- **Best Time**: December to April
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Large groupers, marble rays, schools of jacks and fusiliers, Napoleon wrasse, octopus, and scorpionfish are common. The wall's soft coral formations provide habitat for nudibranchs and small crustaceans, while blue water beyond attracts pelagic species including occasional large rays and sharks during seasonal migrations.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-20 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Begin your descent along the wall at 10 meters, taking time to observe the soft coral formations and schooling fish in the shallower sections. Descend gradually along the wall to 20-30 meters where large groupers and rays are commonly sighted. Maximum depths of 35-40 meters should only be attempted by experienced divers and early in the dive. The wall can create strong descending currents, so maintain excellent buoyancy control and be prepared to abort deeper descents if conditions deteriorate. Plan 45-60 minute bottom time for most recreational dives.
 
 ## Entry and Exit
 

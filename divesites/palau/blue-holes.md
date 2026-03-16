@@ -3,7 +3,7 @@ name: Blue Holes
 lat: 7.1372018
 lng: 134.2225545
 difficulty: Intermediate
-maxDepth: 30
+maxDepth: 40
 entryType: boat
 siteType: cave
 ref: null
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Blue Holes
 
-Blue Holes is a cave dive site in Palau, Pacific.
+Blue Holes is Palau's second most popular dive site and a stunning example of submerged cavern geology.
 
 ## Overview
 
-Blue Holes is a dive site in Palau featuring underwater cave and cavern formations. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Blue Holes is located 30 miles northwest of Koror and features four perfectly circular holes on the shallow reef 3-6 meters deep. These holes are the ceiling of an enormous submerged cavern chamber. The holes act like giant aqua blue spotlights, beaming natural light into an otherwise dark 40-meter-deep chamber. The roof of the cavern is at approximately 3 meters, while the floor is at 40 meters. This dramatic geological formation is a unique cavern diving experience, suitable for intermediate divers comfortable with overhead environments. The site's popularity stems from the ethereal light effects created by the holes illuminating the dark chamber.
 
 ## Site Information
 
-- **Location**: Palau, Pacific
+- **Location**: North of Blue Corner, 30 miles northwest of Koror
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
+- **Maximum Depth**: 40 meters
+- **Typical Visibility**: Excellent (variable depending on light angle)
+- **Current**: Light to moderate
 - **Best Time**: April to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+Outside the cavern holes, reef fish, groupers, snappers, and fusiliers are abundant. Inside the chamber, specialized low-light adapted organisms including crustaceans and small fish seek shelter in the darkness. The dramatic lighting effects make the cavern itself the primary subject rather than marine life density.
 
 ## Dive Profile
 

@@ -4,7 +4,7 @@ lat: -21.1271397
 lng: -175.159952
 difficulty: Beginner
 maxDepth: 2
-entryType: shore
+entryType: boat
 siteType: wreck
 ref: null
 osmId: 3184336699
@@ -13,34 +13,33 @@ addedBy: osm_import
 
 ## Marmer
 
-Marmer is a historic wreck dive in Tonga, Pacific.
+Marmer (also known as Lady Lata) is a very shallow wreck recorded in maritime hydrographic charts, with hull at approximately 2.4 meters depth. This is an unusual depth for wreck diving and sees minimal recreational activity.
 
 ## Overview
 
-Marmer is a dive site in Tonga featuring the wreck of the Marmer. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Marmer, also known as Lady Lata, is a historical ship wreck recorded in maritime charts at extremely shallow depth (2-2.4 meters). At this very shallow depth with likely silt environment, this site presents unusual challenges for recreational diving. The wreck is marked as dangerous in hydrographic records and appears on official maritime databases. Limited recreational dive history exists for this site due to its extreme shallowness and potential silt disturbance issues.
 
 ## Site Information
 
-- **Location**: Tonga, Pacific
-- **Entry Type**: Shore entry
+- **Location**: Southern Tonga region
+- **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 2 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Depth Range**: 2-2.4 meters (extremely shallow)
+- **Estimated Visibility**: Likely poor due to silt at minimal depth
+- **Current**: Potentially strong (shallow water exposure)
+- **Water Temperature**: 21-27°C
+- **Access Status**: Limited; not regularly dived
+- **Best Time**: Calm conditions essential
+- **Alt Name**: Lady Lata
 
 ## Marine Life
 
-Divers at this site can expect to encounter coral growth, anemones, lionfish, scorpionfish, glassy sweepers, manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks. Additional species commonly sighted include sea turtles, napoleon wrasse, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+At such shallow depth, typical shallow-water and lagoon species expected: small fish, coral growth (if any), anemones. The extreme shallowness limits deep-water species.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 2 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
-
-## Entry and Exit
-
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+This site is not suited for typical recreational diving. The extreme shallowness (2.4m) limits bottom time and creates silt disturbance issues. The wreck is marked as dangerous in maritime records. Not recommended for recreational divers. Research and local operator consultation required before planning any dive activity.
 
 ## Tips and Recommendations
 

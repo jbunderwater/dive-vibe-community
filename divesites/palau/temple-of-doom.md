@@ -2,10 +2,10 @@
 name: Temple of Doom
 lat: 7.1375335
 lng: 134.2229725
-difficulty: Beginner
-maxDepth: 37
-entryType: shore
-siteType: reef
+difficulty: Advanced
+maxDepth: 30
+entryType: boat
+siteType: cave
 ref: null
 osmId: 6461715347
 addedBy: osm_import
@@ -22,10 +22,10 @@ Temple of Doom is a dive site in Palau offering excellent diving on healthy cora
 ## Site Information
 
 - **Location**: Palau, Pacific
-- **Entry Type**: Shore entry
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 37 meters
+- **Entry Type**: Boat dive
+- **Site Type**: Cave/cavern
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)
 - **Current**: Moderate to strong
 - **Best Time**: April to November

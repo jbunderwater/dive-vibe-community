@@ -3,7 +3,7 @@ name: Gala pita gala dive site
 lat: 5.9991084
 lng: 80.2385992
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 18
 entryType: shore
 siteType: reef
 ref: null
@@ -11,24 +11,25 @@ osmId: 9448790420
 addedBy: osm_import
 ---
 
-## Gala pita gala dive site
+## Gala Pita Gala Dive Site
 
-Gala pita gala dive site is a reef dive site in Sri Lanka, Asia.
+Gala Pita Gala Dive Site is a reef dive site located in southern Sri Lanka, near Unuwatuna in the Galle district. The unique local name suggests this is a locally-known formation or reef area.
 
 ## Overview
 
-Gala pita gala dive site is a dive site in Sri Lanka offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+This site offers reef diving in warm Sri Lankan waters with mixed coral formations. The site is accessible via shore entry from the Unuwatuna area. Water temperatures are comfortable year-round (27-30°C), with best diving conditions from December through March.
 
 ## Site Information
 
-- **Location**: Sri Lanka, Asia
+- **Location**: Southern Sri Lanka, Unuwatuna area, Galle District
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Depth Range**: 10-18 meters
+- **Typical Visibility**: 10-20 meters (33-66 feet)
+- **Current**: Variable, moderate
+- **Water Temperature**: 27-30°C year-round
+- **Best Time**: December to March (optimal conditions); October to April (diving season)
 
 ## Marine Life
 
@@ -36,18 +37,19 @@ Divers at this site can expect to encounter manta rays, whale sharks, reef shark
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+This reef site features moderate depths with gradual slope. Begin in shallow water (8-10 meters) to acclimate to site conditions, then progress to deeper reef sections (15-18 meters). The reef structure supports diverse marine life throughout this range. Plan 45-50 minute dives with adequate reserve for safety stops.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Shore entry from Unuwatuna beach area. Wade into deeper water and navigate seaward to the reef. Local landmarks guide divers to the site. Exit by returning to the beach via the same route, being alert to wave surge near shore.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Shore entry allows flexible scheduling without boat dependency
+- Consult local Unuwatuna dive operators for current site conditions and access
+- The Unuwatuna area has multiple nearby dive sites allowing multi-site trips
+- Excellent photography opportunities with both wide-angle reef and macro subjects
+- Strong currents possible during monsoon transition; avoid in May-October if inexperienced
 
 ## Safety Considerations
 

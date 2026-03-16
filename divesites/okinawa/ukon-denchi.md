@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Ukon Denchi
 
-Ukon Denchi is a reef dive site in Okinawa, Asia.
+Ukon Denchi is a boat-accessible reef site in the Tokashiki area of the Kerama Islands, offering classic subtropical coral diving at moderate depths suitable for intermediate divers.
 
 ## Overview
 
-Ukon Denchi is a dive site in Okinawa offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Located approximately 15-20 minutes from Tokashiki Island by boat, Ukon Denchi features healthy hard coral formations and colorful reef fish typical of Kerama Islands diving. The site offers depths around 20 meters with good visibility of 20-50 meters and water temperatures averaging 26-30°C. The mooring buoy system provides convenient access to the reef structure.
 
 ## Site Information
 
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter manta rays, whale sharks, reef shark
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin at the mooring buoy, descending to the reef top at 5-8 meters. Explore the coral formations between 10-20 meters, observing the diverse hard coral species that define Kerama diving. The shallow portions around the mooring are excellent for safety stop exploration before ascent. Typical bottom time is 45-50 minutes for recreational diving.
 
 ## Entry and Exit
 
@@ -44,15 +44,16 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Good choice for intermediate divers or advanced open water certification training
+- Bring both macro and wide-angle lenses for diverse photography opportunities
+- Book with Tokashiki dive operators for current conditions and safety briefings
+- The site is suitable for multiple dives in a day due to reasonable bottom time
+- Maintain excellent buoyancy control to protect the delicate coral structures
+- Arrive early to secure mooring access at this popular site
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Variable currents can affect the Kerama Islands area—check with your operator before diving. The moderate depth and mooring system make this accessible for intermediate divers. Watch for sea urchins and small jellyfish. Standard precautions apply. Always use the mooring buoy, deploy an SMB during safety stops, and dive with a buddy.
 
 ## Photography
 

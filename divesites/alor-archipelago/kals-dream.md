@@ -2,10 +2,10 @@
 name: Kal's Dream
 lat: -8.23
 lng: 124.42
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Advanced
+maxDepth: 35
 entryType: boat
-siteType: reef
+siteType: pinnacle
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,50 +13,55 @@ addedBy: osm_import
 
 ## Kal's Dream
 
-Kal's Dream is a reef dive site in Alor Archipelago, Asia.
+Kal's Dream is a spectacular pinnacle dive site named after Kal Mueller, an early explorer of Alor's waters. Located northwest of Kepa Island, this site features submerged rock formations with steep walls and excellent pelagic encounters. The site is best dived during strong currents, which bring large animals to feed.
 
 ## Overview
 
-Kal's Dream is a dive site in Alor Archipelago offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Kal's Dream (Batu Kepa) consists of two underwater pinnacles with tops at 2-7 meters rising from deep water. The pinnacles feature almost vertical walls densely covered in multicolored soft corals and surrounded by swarming anthias. The defining characteristic of this site is its extreme currents—current from the north hits the rocks directly, making conditions unpredictable and wild most days. Kal Mueller's philosophy was to dive the Dream when currents were strongest, as that's when large pelagics arrived. This is a premium site for advanced divers seeking maximum pelagic action, but conditions must be absolutely right.
 
 ## Site Information
 
-- **Location**: Alor Archipelago, Asia
+- **Location**: Northwest of Kepa Island, Alor Archipelago
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Site Type**: Pinnacle/seamount
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 35 meters
+- **Pinnacle Tops**: 2-7 meters
+- **Recommended Experience**: 100+ dives, strong current diving required
+- **Typical Visibility**: 20-40 meters
+- **Current**: Very strong, highly variable and unpredictable; must be assessed daily
+- **Water Temperature**: Variable; cold upwelling water common
+- **Best Time**: May-September (avoid rainy season); early morning dives often better
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Colorful soft corals blanket the vertical walls with swarming anthias in tight schools. The current action attracts pelagic species including hammerhead sharks (schools of scalloped hammerheads in early mornings), barracudas, large groupers, silvertip sharks, grey reef sharks, rays, and tuna. The combination of colorful corals and pelagic action makes this both a wide-angle and wildlife photography location.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Assessment of current conditions is critical before entry—discuss with the dive master whether conditions are diveable today. If proceeding, descend rapidly to the pinnacle and control your drift along the walls. Explore the rock formations and coral coverage between 10-35 meters, watching the water column for incoming pelagics. Stay alert for sudden current direction changes and upwelling. Drift diving along the pinnacle is the standard approach. Plan a safety stop at 5 meters with SMB deployed.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access only. Dive only when current conditions are favorable—this is not a calm site option. Drift dive technique recommended. Entry via giant stride or back roll. Rapid descent to pinnacle to position yourself in the current flow. Maintain buddy contact constantly. Exit via SMB deployment at planned safety stop depth.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Only dive Kal's Dream when you feel strong and confident with current diving
+- Arrive early in the dive for maximum pelagic action
+- Request a pre-dive briefing on current assessment and direction
+- Dive with experienced Alor operators who know daily conditions
+- Early morning dives often yield hammerhead sightings
+- This site rewards divers seeking spectacular pelagic encounters and colorful coral walls
+- Consider this a specialty dive requiring full focus and energy
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Kal's Dream is wild diving, not for everyone. Strong, unpredictable currents are guaranteed—this is the point of the dive. Current direction can shift, intensity can fluctuate, and upwelling brings cold water and disorientation. You must be comfortable in strong current, have excellent buoyancy control, and be prepared to exit if conditions worsen. Nitrogen narcosis is a concern at depth—plan conservative bottom times. Cold water exposure requires adequate thermal protection. Always use SMB and dive with a highly competent buddy who maintains constant visual contact. Minimum 100 logged dives with solid current diving experience essential. Consider this advanced+ diving.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Spectacular wide-angle subjects: colorful coral walls with schools of anthias, pelagic encounters with hammerheads and barracudas, blue water backdrops. Large fish and shark subjects suit the pinnacle's open water environment. Coral-focused wide-angle compositions capture the colorful wall coverage. Best light during morning dives; shooting technique emphasizes vertical relief and pelagic action.
 
 ## Additional Resources
 

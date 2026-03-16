@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Zoo Namena
 
-Zoo Namena is a reef dive site in Fiji, Pacific.
+Zoo Namena is a colorful reef dive site on the Namena Barrier Reef, named for the abundant and varied marine life encountered at the site.
 
 ## Overview
 
-Zoo Namena is a dive site in Fiji offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Located on the Namena Barrier Reef in northwest Fiji accessible from Savusavu, Zoo Namena lives up to its name by featuring exceptional diversity of reef-associated marine life. The site is part of a cluster of excellent dive sites on the Namena Barrier Reef, which boasts deep pinnacles, drop-offs, and exceptional marine biodiversity. Namena is one of Fiji's top diving destinations, known for encounters with reef sharks, turtles, rays, and spectacular coral ecosystems that support hundreds of fish species.
 
 ## Site Information
 
-- **Location**: Fiji, Pacific
+- **Location**: Namena Barrier Reef, Savusavu area, Fiji
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
+- **Typical Visibility**: 20-40 meters
+- **Current**: Moderate
 - **Best Time**: April to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Zoo Namena is characterized by exceptional diversity of marine life including reef sharks, turtles, rays, and hundreds of fish species representing numerous families. The reef structure provides habitat for groupers, barracuda, trevally, napoleon wrasse, and dense schools of smaller reef fish. Soft corals, gorgonians, and hard coral structures support invertebrates including moray eels, lionfish, nudibranchs, and crustaceans.
 
 ## Dive Profile
 

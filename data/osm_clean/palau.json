@@ -13,7 +13,9 @@
       "name": "Paradies Corner",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -25,7 +27,7 @@
     "depth": 30,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Blue Corner",
       "scuba_diving:depth": "30",
@@ -34,7 +36,9 @@
       "scuba_diving:type:reef": "yes",
       "scuba_diving:type:sharks": "yes",
       "scuba_diving:type:wall": "yes",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -43,7 +47,7 @@
     "lon": 134.4506516,
     "osm_id": 4031041873,
     "osm_type": "node",
-    "depth": 12,
+    "depth": 15,
     "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -54,7 +58,9 @@
       "scuba_diving:entry:boat": "yes",
       "scuba_diving:type:ambiance": "yes",
       "scuba_diving:type:cave": "yes",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -63,15 +69,15 @@
     "lon": 134.4392897,
     "osm_id": 4031041874,
     "osm_type": "node",
-    "depth": 30,
+    "depth": 40,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
-      "description": "A yellow bouy on surface",
+      "description": "WWII Japanese freighter, bombed 30-31 March 1944, sank 1 April 1944. 89m long, well-preserved. Deck at 30m, maximum depth 40m.",
       "historic": "wreck",
       "name": "Chuyo Maru",
-      "scuba_diving:depth": "30",
+      "scuba_diving:depth": "40",
       "scuba_diving:divespot": "yes",
       "scuba_diving:entry:boat": "yes",
       "scuba_diving:type:wreck": "yes",
@@ -79,7 +85,9 @@
       "sport": "scuba_diving",
       "wreck:date_sunk": "1 April 1944",
       "wreck:visible_at_high_tide": "no",
-      "wreck:visible_at_low_tide": "no"
+      "wreck:visible_at_low_tide": "no",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -88,19 +96,21 @@
     "lon": 134.4599024,
     "osm_id": 4031041875,
     "osm_type": "node",
-    "depth": 26,
+    "depth": 5,
     "site_type": "drift",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Lighthouse Channel",
       "scuba_diving:dangers:current": "yes",
-      "scuba_diving:depth": "26",
+      "scuba_diving:depth": "5",
       "scuba_diving:entry:boat": "yes",
       "scuba_diving:type:drift": "yes",
       "scuba_diving:type:gravel": "yes",
       "scuba_diving:type:sand": "yes",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -112,7 +122,7 @@
     "depth": 30,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "New Drop-Off",
       "scuba_diving:depth": "30",
@@ -120,7 +130,9 @@
       "scuba_diving:type:bigfish": "yes",
       "scuba_diving:type:sharks": "yes",
       "scuba_diving:type:wall": "yes",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -141,7 +153,9 @@
       "scuba_diving:type:bigfish": "yes",
       "scuba_diving:type:reef": "yes",
       "scuba_diving:type:sharks": "yes",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -151,16 +165,18 @@
     "osm_id": 4031041878,
     "osm_type": "node",
     "depth": 21,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Siaes Corner",
       "scuba_diving:depth": "21",
       "scuba_diving:entry:boat": "yes",
       "scuba_diving:type:bigfish": "yes",
       "scuba_diving:type:sharks": "yes",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -169,16 +185,18 @@
     "lon": 134.2266188,
     "osm_id": 4031041879,
     "osm_type": "node",
-    "depth": 30,
+    "depth": 12,
     "site_type": "cave",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Siaes Tunnel",
-      "scuba_diving:depth": "30",
+      "scuba_diving:depth": "12",
       "scuba_diving:entry:boat": "yes",
       "scuba_diving:type:cavern": "yes",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -187,19 +205,21 @@
     "lon": 134.244683,
     "osm_id": 4031041880,
     "osm_type": "node",
-    "depth": 15,
+    "depth": 13,
     "site_type": "drift",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Ulong Channel",
-      "scuba_diving:depth": "30",
-      "scuba_diving:difficulty": "2",
+      "scuba_diving:depth": "13",
+      "scuba_diving:difficulty": "3",
       "scuba_diving:entry:boat": "yes",
       "scuba_diving:type:bigfish": "yes",
       "scuba_diving:type:reef": "yes",
       "scuba_diving:type:sharks": "yes",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -208,14 +228,16 @@
     "lon": 134.2225545,
     "osm_id": 5042664345,
     "osm_type": "node",
-    "depth": 30,
+    "depth": 40,
     "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Blue Holes",
-      "scuba_diving:depth": "30",
-      "sport": "scuba_diving"
+      "scuba_diving:depth": "40",
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -225,12 +247,14 @@
     "osm_id": 5352500390,
     "osm_type": "node",
     "depth": 25,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Peliliu Corner",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -242,13 +266,15 @@
     "depth": 18,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "The Big Drop Off",
       "scuba_diving:depth": "18",
       "scuba_diving:entry": "boat",
       "scuba_diving:type": "wall",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -257,14 +283,16 @@
     "lon": 134.3670831,
     "osm_id": 6457176735,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 12,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Ngerechong North Coral Garden",
       "scuba_diving:type:reef": "yes",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -273,14 +301,16 @@
     "lon": 134.3682955,
     "osm_id": 6457176736,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 33,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Ngerechong Drop-off",
       "scuba_diving:type:wall": "yes",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -289,17 +319,19 @@
     "lon": 134.2229725,
     "osm_id": 6461715347,
     "osm_type": "node",
-    "depth": 37,
-    "site_type": "reef",
-    "entry_type": "shore",
-    "difficulty": "Beginner",
+    "depth": 30,
+    "site_type": "cave",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Temple of Doom",
       "scuba_diving:depth": "30",
       "scuba_diving:entry": "boat",
-      "scuba_diving:maxdepth": "37",
+      "scuba_diving:maxdepth": "30",
       "scuba_diving:type:cave": "yes",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -323,7 +355,9 @@
       "seamark:wreck:category": "non-dangerous",
       "sport": "scuba_diving",
       "wreck:visible_at_high_tide": "no",
-      "wreck:visible_at_low_tide": "no"
+      "wreck:visible_at_low_tide": "no",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   }
 ]

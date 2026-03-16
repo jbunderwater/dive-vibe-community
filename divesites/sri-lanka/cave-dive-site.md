@@ -2,8 +2,8 @@
 name: Cave dive site
 lat: 6.0004314
 lng: 80.2381218
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Advanced
+maxDepth: 20
 entryType: shore
 siteType: cave
 ref: null
@@ -11,28 +11,29 @@ osmId: 9448790419
 addedBy: osm_import
 ---
 
-## Cave dive site
+## Cave Dive Site
 
-Cave dive site is a reef dive site in Sri Lanka, Asia.
+This site is located in southern Sri Lanka near Unuwatuna. The site features underwater caves or cavern swim-throughs in a reef environment. Generic naming suggests this may be a locally known formation rather than a mapped formal wreck or site.
 
 ## Overview
 
-Cave dive site is a dive site in Sri Lanka offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The site offers cavern diving opportunities in a warm-water reef environment. Water temperatures remain comfortable year-round (27-30°C). The cave or cavern formations provide interesting exploration opportunities for advanced divers. Best diving conditions occur December through March.
 
 ## Site Information
 
-- **Location**: Sri Lanka, Asia
+- **Location**: Southern Sri Lanka, near Unuwatuna area
 - **Entry Type**: Shore entry
 - **Site Type**: Cave/cavern
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Difficulty Level**: Advanced
+- **Depth Range**: 12-20 meters
+- **Typical Visibility**: 10-20 meters (33-66 feet)
+- **Current**: Variable
+- **Water Temperature**: 27-30°C year-round
+- **Best Time**: December to March
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Cavern formations typically attract reef fish seeking shelter. Expected encounters include reef sharks, groupers, sweetlips, and various smaller reef fish species that utilize cave structures. Sea turtles may be observed in the surrounding reef area. Lobsters and crustaceans often inhabit cave crevices.
 
 ## Dive Profile
 
@@ -40,7 +41,7 @@ The site offers diving at depths ranging from shallow reef areas down to approxi
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Shore entry from the Unuwatuna area. Wade carefully from the beach and navigate seaward to the cave formation. Exit by returning to shore via the same route. Be alert to wave surge and underwater obstacles throughout entry and exit procedures.
 
 ## Tips and Recommendations
 

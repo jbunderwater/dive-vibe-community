@@ -17,7 +17,7 @@ The Bottleneck Milne Bay is a reef dive site in Papua New Guinea, Pacific.
 
 ## Overview
 
-The Bottleneck Milne Bay is a dive site in Papua New Guinea offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+The Bottleneck Milne Bay is an advanced reef dive site in Milne Bay. This site offers challenging conditions and requires experienced divers with strong water skills due to the difficult current patterns that characterize the location. The site features reef structures and diverse marine life typical of the Milne Bay region, known for being one of the world's most biodiverse diving areas.
 
 ## Site Information
 

@@ -13,11 +13,12 @@ addedBy: osm_import
 
 ## GBR North Coral Head
 
-GBR North Coral Head is a reef dive site in Marshall Islands, Pacific.
+GBR North Coral Head is a lagoon coral pinnacle in Kwajalein Atoll. This site offers healthy reef structures with abundant tropical fish and regular shark encounters.
+
 
 ## Overview
 
-GBR North Coral Head is a dive site in Marshall Islands offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+GBR North Coral Head is a lagoon coral pinnacle in Kwajalein Atoll. This site offers healthy reef structures with abundant tropical fish and regular shark encounters. This site offers visibility typically exceeding 30 meters, with water temperatures consistent at 27-30°C year-round.
 
 ## Site Information
 

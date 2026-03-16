@@ -3,32 +3,33 @@ name: Goddamahagale dive site
 lat: 7.23653
 lng: 79.7823526
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+maxDepth: 22
+entryType: boat
 siteType: reef
 ref: null
 osmId: 9448835284
 addedBy: osm_import
 ---
 
-## Goddamahagale dive site
+## Goddamahagale Dive Site
 
-Goddamahagale dive site is a reef dive site in Sri Lanka, Asia.
+Goddamahagale Dive Site is a reef dive site located off the southern coast of Sri Lanka. The unique local name indicates this is a traditionally-known dive location in the Matara area.
 
 ## Overview
 
-Goddamahagale dive site is a dive site in Sri Lanka offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+This reef site offers intermediate-level diving in warm Sri Lankan waters. The site features natural reef formations and coral growth typical of southern Sri Lanka's coast. Water temperatures remain warm year-round (27-30°C), with optimal diving from October through April.
 
 ## Site Information
 
-- **Location**: Sri Lanka, Asia
-- **Entry Type**: Shore entry
+- **Location**: Southern coast, Matara area, Sri Lanka
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Depth Range**: 18-22 meters
+- **Typical Visibility**: 10-20 meters (33-66 feet)
+- **Current**: Variable, moderate to strong
+- **Water Temperature**: 27-30°C year-round
+- **Best Time**: October to April
 
 ## Marine Life
 
@@ -36,11 +37,11 @@ Divers at this site can expect to encounter manta rays, whale sharks, reef shark
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the reef slope at 18-22 meters. The site features moderate topography with coral formations and rocky structures. Explore the reef structure and observe marine life concentrated at various depth levels. Plan 40-45 minute bottom time at recreational depths with adequate reserve for ascent and safety stop.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Access is via boat from local dive operators in the Matara area. Enter via giant stride or back roll from the dive boat. Descent to the reef is made by the boat. Exit by returning to the boat at the surface with crew assistance.
 
 ## Tips and Recommendations
 

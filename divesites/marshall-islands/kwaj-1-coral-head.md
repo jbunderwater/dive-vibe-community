@@ -13,11 +13,12 @@ addedBy: osm_import
 
 ## Kwaj-1 Coral Head
 
-Kwaj-1 Coral Head is a reef dive site in Marshall Islands, Pacific.
+Kwaj-1 Coral Head is a lagoon pinnacle in Kwajalein Atoll. This coral head site features typical Kwajalein reef characteristics with healthy coral structures and diverse marine life.
+
 
 ## Overview
 
-Kwaj-1 Coral Head is a dive site in Marshall Islands offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Kwaj-1 Coral Head is a lagoon pinnacle in Kwajalein Atoll. This coral head site features typical Kwajalein reef characteristics with healthy coral structures and diverse marine life. This site offers visibility typically exceeding 30 meters, with water temperatures consistent at 27-30°C year-round.
 
 ## Site Information
 

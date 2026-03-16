@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Hiroshi East End
 
-Hiroshi East End is a reef dive site in Marshall Islands, Pacific.
+Hiroshi East End is a pristine reef dive site in Majuro Atoll featuring vibrant coral gardens and abundant tropical fish. The site name reflects Majuro's historic Japanese diving connection. This moderate-depth lagoon reef offers excellent visibility and is ideal for intermediate divers exploring protected atoll reef ecosystems.
 
 ## Overview
 
-Hiroshi East End is a dive site in Marshall Islands offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Hiroshi East End is a lagoon reef dive in Majuro featuring vibrant coral ecosystems and schools of barracuda, reef sharks, and other tropical reef species. Visibility typically exceeds 30 meters, with water temperatures consistent at 27-30°C year-round. The moderate depths and healthy coral structures make this an ideal destination for intermediate-level reef divers seeking protected lagoon diving experiences.
 
 ## Site Information
 

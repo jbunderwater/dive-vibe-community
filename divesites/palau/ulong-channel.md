@@ -2,8 +2,8 @@
 name: Ulong Channel
 lat: 7.2834381
 lng: 134.244683
-difficulty: Intermediate
-maxDepth: 15
+difficulty: Advanced
+maxDepth: 13
 entryType: boat
 siteType: drift
 ref: null
@@ -13,46 +13,48 @@ addedBy: osm_import
 
 ## Ulong Channel
 
-Ulong Channel is a drift dive site in Palau, Pacific.
+Ulong Channel is one of Palau's premier drift dives, famous for giant clams, lettuce coral gardens, and abundant fish life.
 
 ## Overview
 
-Ulong Channel is a dive site in Palau offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Ulong Channel is a fast-current drift dive through a narrow channel connecting the lagoon to the open ocean. Powerful tidal currents sweep through the channel, carrying nutrients and attracting large schools of fish. The channel floor features extensive giant clam colonies and sprawling lettuce coral beds—some of the most impressive in Palau. During incoming tides, currents are strongest and visibility reaches 30 meters. Advanced divers only; drift diving and reef hook experience required.
 
 ## Site Information
 
-- **Location**: Palau, Pacific
+- **Location**: Central Palau, between Ulong Island and barrier reef
 - **Entry Type**: Boat dive
 - **Site Type**: Drift dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 15 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 13 meters
+- **Typical Visibility**: 20-30 meters, excellent on incoming tide
+- **Current**: Very strong (incoming tide)
+- **Best Time**: April to November; dive on incoming tide for best conditions
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Ulong Channel is famous for its marine abundance. Divers encounter schooling jacks, snappers, barracuda, trevally, and groupers. Gray reef sharks patrol the deeper sections. Thousands of groupers gather at the channel during spawning season. Giant clams carpet the sandy bottom, with some specimens exceeding 1 meter across. Sea turtles are common. The lettuce coral (Pavona maldivensis) forms spectacular gardens that create habitat for countless reef fish.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Enter the channel on an incoming tide when current is strongest. Descend to 10-13 meters and let the current carry you through. Maintain negative buoyancy to stay near the bottom where giant clams and lettuce corals are most abundant. Observe the fish aggregations and coral formations as you drift. The channel typically takes 20-30 minutes to traverse. Exit is by boat following your group. Ascend from exit point with safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat entry via drift entry procedure. Your operator will brief you on current direction and exit location. Descend on entry and ride current through channel. Maintain contact with group. Exit where boat is positioned and ascend for safety stop. SMB deployment for final pickup.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Only dive on incoming tide for strongest, most predictable currents
+- Practice drift diving technique extensively before attempting this
+- Use a reef hook if current is too strong to maintain position
+- Photograph the giant clams and lettuce corals—extraordinary subjects
+- Tell your operator if you're uncomfortable with current—conditions vary daily
+- This is one of Palau's must-do dives for experienced drifters
+- Timing is critical—coordinate with operators on tide schedules
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Advanced Open Water required, plus 50+ logged dives with current and drift diving experience. Very strong currents—this is not a beginner drift. Maintain buddy contact throughout. Use proper signaling. Carry SMB and be prepared for unexpected current changes. Abort if conditions exceed your comfort level. Never dive alone. Follow operator guidance on entry/exit procedures.
 
 ## Photography
 

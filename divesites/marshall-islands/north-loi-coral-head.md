@@ -13,11 +13,12 @@ addedBy: osm_import
 
 ## North Loi Coral Head
 
-North Loi Coral Head is a reef dive site in Marshall Islands, Pacific.
+North Loi Coral Head is a lagoon coral pinnacle in Kwajalein Atoll featuring robust coral growth. This site is among the richest in coral and fish communities.
+
 
 ## Overview
 
-North Loi Coral Head is a dive site in Marshall Islands offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+North Loi Coral Head is a lagoon coral pinnacle in Kwajalein Atoll featuring robust coral growth. This site is among the richest in coral and fish communities. This site offers visibility typically exceeding 30 meters, with water temperatures consistent at 27-30°C year-round.
 
 ## Site Information
 

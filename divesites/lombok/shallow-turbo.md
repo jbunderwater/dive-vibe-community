@@ -2,8 +2,8 @@
 name: Shallow Turbo
 lat: -8.3395246
 lng: 116.0440257
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Beginner
+maxDepth: 18
 entryType: boat
 siteType: reef
 ref: null
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Shallow Turbo
 
-Shallow Turbo is a reef dive site in Lombok, Asia.
+Shallow Turbo is a beginner-friendly reef plateau northeast of Gili Trawangan with white sandy bottom and large coral heads, excellent for relaxed diving and drift opportunities.
 
 ## Overview
 
-Shallow Turbo is a dive site in Lombok offering rewarding diving on healthy coral reef structures . source is Diveschool Notice Board - Location might have to be checked with a GPS. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Shallow Turbo is a shallow reef plateau located to the northeast of Gili Trawangan, with a white sandy bottom dotted with large coral heads. The shallow part features an average depth of about 16 meters, with the bottom rarely dipping below 18 meters, making it ideal for divers who want to take their time and relax. The site is famous for large schools of fusiliers, red tooth triggerfish, and long jaw mackerel. This is an excellent beginner-level dive site and connects with Goodheart Reef, which begins here and runs parallel to the east coast of Trawangan.
 
 ## Site Information
 
 - **Location**: Lombok, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Shallow Turbo is renowned for large schools of fusiliers, red tooth triggerfish, and long jaw mackerel. The coral heads shelter a variety of smaller reef fish, anemones with clownfish, and other reef-associated species. This site provides excellent opportunities to observe schooling fish behavior and reef ecosystem dynamics.
 
 ## Dive Profile
 

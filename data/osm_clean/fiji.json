@@ -5,13 +5,15 @@
     "lon": 179.8684,
     "osm_id": null,
     "osm_type": null,
-    "depth": 30,
+    "depth": 35,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -20,13 +22,15 @@
     "lon": 179.875,
     "osm_id": null,
     "osm_type": null,
-    "depth": 25,
+    "depth": 28,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -35,13 +39,15 @@
     "lon": 177.9833,
     "osm_id": null,
     "osm_type": null,
-    "depth": 30,
+    "depth": 25,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -50,13 +56,15 @@
     "lon": 177.1575,
     "osm_id": null,
     "osm_type": null,
-    "depth": 35,
+    "depth": 28,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "false",
+      "validation_source": "pending_research"
     }
   },
   {
@@ -65,13 +73,15 @@
     "lon": 178.5833,
     "osm_id": null,
     "osm_type": null,
-    "depth": 25,
-    "site_type": "reef",
+    "depth": 20,
+    "site_type": "drift",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -80,13 +90,15 @@
     "lon": 178.2167,
     "osm_id": null,
     "osm_type": null,
-    "depth": 20,
+    "depth": 22,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -101,7 +113,9 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -110,13 +124,15 @@
     "lon": 177.9667,
     "osm_id": null,
     "osm_type": null,
-    "depth": 25,
-    "site_type": "cave",
+    "depth": 20,
+    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -131,7 +147,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "false",
+      "validation_source": "pending_research"
     }
   },
   {
@@ -140,13 +158,15 @@
     "lon": 179.0967,
     "osm_id": null,
     "osm_type": null,
-    "depth": 25,
-    "site_type": "wall",
+    "depth": 20,
+    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -155,13 +175,15 @@
     "lon": 179.1083,
     "osm_id": null,
     "osm_type": null,
-    "depth": 20,
+    "depth": 18,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -170,13 +192,15 @@
     "lon": 179.87,
     "osm_id": null,
     "osm_type": null,
-    "depth": 30,
+    "depth": 32,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -185,13 +209,15 @@
     "lon": 179.865,
     "osm_id": null,
     "osm_type": null,
-    "depth": 18,
+    "depth": 16,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -200,13 +226,15 @@
     "lon": 179.88,
     "osm_id": null,
     "osm_type": null,
-    "depth": 20,
-    "site_type": "reef",
+    "depth": 17,
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -215,13 +243,15 @@
     "lon": 178.2333,
     "osm_id": null,
     "osm_type": null,
-    "depth": 25,
-    "site_type": "reef",
+    "depth": 20,
+    "site_type": "drift",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   }
 ]

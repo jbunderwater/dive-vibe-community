@@ -13,11 +13,12 @@ addedBy: osm_import
 
 ## MAR Fill Coral Head
 
-MAR Fill Coral Head is a reef dive site in Marshall Islands, Pacific.
+MAR Fill Coral Head is a coral pinnacle in Kwajalein lagoon. This site offers typical Kwajalein reef diving with healthy coral structures and abundant marine life.
+
 
 ## Overview
 
-MAR Fill Coral Head is a dive site in Marshall Islands offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+MAR Fill Coral Head is a coral pinnacle in Kwajalein lagoon. This site offers typical Kwajalein reef diving with healthy coral structures and abundant marine life. This site offers visibility typically exceeding 30 meters, with water temperatures consistent at 27-30°C year-round.
 
 ## Site Information
 

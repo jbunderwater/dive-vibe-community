@@ -13,11 +13,12 @@ addedBy: osm_import
 
 ## S-Buoy Coral Head
 
-S-Buoy Coral Head is a reef dive site in Marshall Islands, Pacific.
+S-Buoy Coral Head is a moored lagoon pinnacle in Kwajalein, marked by the S-Buoy navigation marker. This coral head features healthy coral structures and abundant marine life.
+
 
 ## Overview
 
-S-Buoy Coral Head is a dive site in Marshall Islands offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+S-Buoy Coral Head is a moored lagoon pinnacle in Kwajalein, marked by the S-Buoy navigation marker. This coral head features healthy coral structures and abundant marine life. This site offers visibility typically exceeding 30 meters, with water temperatures consistent at 27-30°C year-round.
 
 ## Site Information
 

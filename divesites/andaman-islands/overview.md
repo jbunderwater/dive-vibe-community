@@ -8,7 +8,7 @@ Untouched coral reefs and pristine pelagic encounters in remote Indian waters.
 
 ## Description
 
-Andaman Islands is a notable diving destination in the Asia region, offering 8 documented dive sites with depths ranging from 20 to 20 meters. Water temperatures average 26-30°C (79-86°F), with visibility typically reaching 10-40 meters (30-130 feet). Year-round diving is possible, with the best conditions during October to April (varies by location).
+Andaman Islands is a premier diving destination renowned for pristine coral reefs, dramatic wall formations, WWII-era wrecks, and abundant pelagic encounters including manta rays, whale sharks, and reef sharks. The archipelago offers 8 documented dive sites with depths ranging from 13 to 40 meters. Water temperatures average 26-30°C (79-86°F), with visibility typically reaching 15-25 meters in most seasons. Best diving conditions occur during October to May, with peak visibility December to March.
 
 ### Diving Opportunities
 

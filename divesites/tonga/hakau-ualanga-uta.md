@@ -3,8 +3,8 @@ name: Hakau Ualanga 'Uta
 lat: -21.1154444
 lng: -175.198852
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+maxDepth: 15
+entryType: boat
 siteType: reef
 ref: null
 osmId: 356690471
@@ -13,30 +13,32 @@ addedBy: osm_import
 
 ## Hakau Ualanga 'Uta
 
-Hakau Ualanga 'Uta is a reef dive site in Tonga, Pacific.
+Hakau Ualanga 'Uta is an OSM-mapped natural reef feature in southern Tonga with a Tongan name. While not an established commercial dive site, the reef is accessible and features typical Tongan reef characteristics.
 
 ## Overview
 
-Hakau Ualanga 'Uta is a dive site in Tonga offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Hakau Ualanga 'Uta is a natural reef formation mapped in OpenStreetMap and located in the southern Vava'u region. The name is Tongan (Ualanga 'Uta refers to "inland" or "upper" location). While not documented in commercial dive guides, the reef is accessible by boat and features characteristics typical of Tonga's healthy reef systems. The site represents an opportunity for adventurous diving with local knowledge or operator support.
 
 ## Site Information
 
-- **Location**: Tonga, Pacific
-- **Entry Type**: Shore entry
+- **Location**: Southern Vava'u region, Tonga
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Depth Range**: Estimated 5-15 meters (typical for local reefs)
+- **Typical Visibility**: Excellent (25-40+ meters)
+- **Current**: Light to moderate
+- **Water Temperature**: 24-29°C
+- **Establishment Status**: Not an established commercial dive site; local knowledge required
+- **Best Time**: Year-round; calm sea conditions essential
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Expected: typical Tongan reef fish species, tropical reef fish, sea turtles, nudibranchs, hard and soft corals. Characteristics consistent with healthy Vava'u reef systems.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Access via boat from local operators with knowledge of the area. Descend to reef structure and explore coral formations at 5-15 meters. Due to limited commercial development, confirm conditions and accessibility with local dive providers before planning a visit. This represents a less-visited but potentially rewarding reef site for experienced divers.
 
 ## Entry and Exit
 

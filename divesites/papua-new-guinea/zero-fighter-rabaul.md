@@ -3,7 +3,7 @@ name: Zero Fighter Rabaul
 lat: -4.2167
 lng: 152.15
 difficulty: Intermediate
-maxDepth: 18
+maxDepth: 30
 entryType: boat
 siteType: wreck
 ref: null
@@ -17,7 +17,7 @@ Zero Fighter Rabaul is a historic wreck dive in Papua New Guinea, Pacific.
 
 ## Overview
 
-Zero Fighter Rabaul is a dive site in Papua New Guinea featuring the wreck of the Zero Fighter Rabaul. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Zero Fighter Rabaul features a remarkably intact Japanese Navy A6M Mitsubishi Zero (Reisen) aircraft, one of the most iconic WWII fighter planes. The wreck sits upright on a sloping sandy bottom near the village of Malapau in Blanche Bay, first discovered in the early 1970s. Bullet holes in the starboard side indicate the aircraft was shot down in combat. The nearly black volcanic sand provides a dramatic backdrop for this historically significant wreck.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ Zero Fighter Rabaul is a dive site in Papua New Guinea featuring the wreck of th
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)
 - **Current**: Moderate to strong
 - **Best Time**: April to November

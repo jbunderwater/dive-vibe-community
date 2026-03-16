@@ -3,7 +3,7 @@ name: Meno Wall
 lat: -8.3452031
 lng: 116.0498999
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 22
 entryType: boat
 siteType: wall
 ref: null
@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Meno Wall
 
-Meno Wall is a wall dive site in Lombok, Asia.
+Meno Wall is a steeply sloping vertical reef off the northwest side of Gili Meno, excellent for macro diving and night diving with nudibranchs and small critters.
 
 ## Overview
 
-Meno Wall is a dive site in Lombok featuring a dramatic vertical wall that drops into the deep blue . source is Diveschool Notice Board - Location might have to be checked with a GPS. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Meno Wall is a spectacular vertical drop-off off the west side of Gili Meno, descending from approximately 5 meters to a sandy bottom at around 22 meters. The wall is about 100 meters wide and features the characteristic nearly vertical top section that makes it a dramatic dive. It is a premier macro diving and underwater photography site, with shallow entry points making it accessible for divers of all levels.
 
 ## Site Information
 
@@ -25,14 +25,14 @@ Meno Wall is a dive site in Lombok featuring a dramatic vertical wall that drops
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 22 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Meno Wall is exceptional for macro life. The site is known for abundant nudibranchs in multiple species and colors. Moray eels, scorpionfish, pipefish, and leaf scorpionfish hide among the corals and crevices. Night dives reveal nocturnal species including sponge crabs, octopuses, and additional nudibranch species. The wall structure provides microhabitats at varying depths for a diverse array of small reef fish.
 
 ## Dive Profile
 

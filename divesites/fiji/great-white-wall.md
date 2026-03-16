@@ -2,8 +2,8 @@
 name: Great White Wall
 lat: -16.8347
 lng: 179.8684
-difficulty: Intermediate
-maxDepth: 30
+difficulty: Advanced
+maxDepth: 35
 entryType: boat
 siteType: wall
 ref: null
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Great White Wall
 
-Great White Wall is a wall dive site in Fiji, Pacific.
+The Great White Wall is one of Fiji's most iconic wall dives, famous for stunning displays of white soft corals that descend beyond 30 meters.
 
 ## Overview
 
-Great White Wall is a dive site in Fiji featuring a dramatic vertical wall that drops into the deep blue. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Located off Taveuni in the Somosomo Strait, the Great White Wall is named for the brilliant white soft corals that blanket the vertical wall, not for sharks. This Advanced level dive features a dramatic wall that begins at approximately 20 meters and continues beyond 30 meters, with depths reaching over 100 meters. The soft white corals give way to iridescent purple hues with depth, creating a mesmerizing visual effect. Strong currents are typical at this site, making it an exciting drift dive for experienced divers.
 
 ## Site Information
 
-- **Location**: Fiji, Pacific
+- **Location**: Taveuni, Somosomo Strait, Fiji
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 35 meters
+- **Typical Visibility**: 25-40 meters
+- **Current**: Strong (current-assisted drift is expected)
 - **Best Time**: April to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+The Great White Wall is famous for its abundant soft coral gardens composed of white, yellow, and purple gorgonians. The wall supports significant pelagic fish populations and frequent encounters with reef sharks, manta rays, napoleon wrasse, schools of barracuda and trevally. Macro life includes nudibranchs, lionfish, and moray eels that shelter in the coral structures. The wall creates a vertical ecosystem with species distributed across depth bands.
 
 ## Dive Profile
 

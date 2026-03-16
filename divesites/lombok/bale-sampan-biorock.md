@@ -2,8 +2,8 @@
 name: Bale Sampan Biorock
 lat: -8.3479656
 lng: 116.0438526
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Beginner
+maxDepth: 18
 entryType: boat
 siteType: reef
 ref: null
@@ -24,8 +24,8 @@ Bale Sampan Biorock is a dive site in Lombok offering rewarding diving on health
 - **Location**: Lombok, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)

@@ -17,7 +17,7 @@ Mill Channel old cleaning station is a reef dive site in Micronesia - Yap, Pacif
 
 ## Overview
 
-Mill Channel old cleaning station is a dive site in Micronesia - Yap offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Mill Channel old cleaning station is another prime location within the legendary M'il Channel system, featuring a deeper manta ray cleaning station. Like the new cleaning station, this site is part of Yap's manta ray sanctuary and offers encounters with resident rays. The older station sits at greater depth with abundance of soft corals in the channel cracks and crevices, earning M'il the nickname "Grand Canyon of the Pacific." Most productive November through May.
 
 ## Site Information
 
@@ -26,17 +26,18 @@ Mill Channel old cleaning station is a dive site in Micronesia - Yap offering re
 - **Site Type**: Drift dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 15-18 meters (50-60 feet)
+- **Current**: Mild to moderate drift
+- **Best Time**: November to May (prime manta season)
+- **Season Notes**: Mantas switch to Goofnuw Channel (east side) May-September
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Manta rays (up to 4 meters wide) visit the cleaning station at tidal changes. Soft corals fill channel crevices and host reef fish. The cleaning station attracts schools of reef fish that service the rays. Unlike the new station's shallow depth, the older station offers the same manta experience at greater depth with more dramatic soft coral formations.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Divers position at the cleaning station at 20-25 meters. Watch as mantas approach to be cleaned by small fish. The deeper depth allows exploration of the canyon-like channel formations and soft coral formations. Good buoyancy control and patient observation are essential. This is an excellent manta encounter dive with more dramatic topography than the new station.
 
 ## Entry and Exit
 

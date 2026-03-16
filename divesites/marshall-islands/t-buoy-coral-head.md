@@ -13,11 +13,12 @@ addedBy: osm_import
 
 ## T-Buoy Coral Head
 
-T-Buoy Coral Head is a reef dive site in Marshall Islands, Pacific.
+T-Buoy Coral Head is a moored coral pinnacle in Kwajalein lagoon, marked by the T-Buoy navigation point. This site offers typical Kwajalein lagoon reef diving.
+
 
 ## Overview
 
-T-Buoy Coral Head is a dive site in Marshall Islands offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+T-Buoy Coral Head is a moored coral pinnacle in Kwajalein lagoon, marked by the T-Buoy navigation point. This site offers typical Kwajalein lagoon reef diving. This site offers visibility typically exceeding 30 meters, with water temperatures consistent at 27-30°C year-round.
 
 ## Site Information
 

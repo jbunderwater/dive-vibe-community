@@ -2,8 +2,8 @@
 name: Vila Almarick Biorock
 lat: -8.3461172
 lng: 116.0433854
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Beginner
+maxDepth: 18
 entryType: boat
 siteType: reef
 ref: null
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Vila Almarick Biorock
 
-Vila Almarick Biorock is a reef dive site in Lombok, Asia.
+Vila Almarick Biorock is one of several electrolysis-based artificial reef structures around Gili Trawangan, part of a reef restoration initiative growing coral at 3-5 times normal rates.
 
 ## Overview
 
-Vila Almarick Biorock is a dive site in Lombok offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Vila Almarick Biorock is an artificial reef structure part of the Gili Islands' reef restoration program, part of the second largest Biorock site in the world. The structure uses low-voltage direct current technology to accelerate coral growth on a steel framework. The site now has beautiful reef coverage going down to about 18 meters, with most dense coral growth in the shallows. The south of Gili Trawangan around the Biorock structures is an excellent place for snorkeling and beginner diving, with colorful fish, turtles, and other marine life attracted to the growing coral structures.
 
 ## Site Information
 
 - **Location**: Lombok, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The Biorock structures are havens for colorful fish, turtles, and other marine life. The growing coral provides shelter and food sources attracting reef fish of all sizes. Snorkelers and divers can observe the live coral growth and the ecological succession taking place on the structure as it matures.
 
 ## Dive Profile
 

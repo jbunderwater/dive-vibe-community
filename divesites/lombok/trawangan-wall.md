@@ -3,7 +3,7 @@ name: Trawangan Wall
 lat: -8.3465756
 lng: 116.0436158
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 22
 entryType: boat
 siteType: wall
 ref: null
@@ -25,7 +25,7 @@ Trawangan Wall is a dive site in Lombok featuring a dramatic vertical wall that 
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 22 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)

@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Raycrew
 
-Raycrew is a reef dive site in Marshall Islands, Pacific.
+Raycrew is a popular reef dive site in Majuro Atoll, named after the local dive operator. This shallow to moderate depth site is ideal for intermediate divers seeking classic atoll reef diving with pristine coral structures and tropical reef fish.
 
 ## Overview
 
-Raycrew is a dive site in Marshall Islands offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Raycrew reef is a boat dive in Majuro lagoon featuring healthy coral structures and abundant tropical reef fish species. This site offers excellent visibility exceeding 30 meters in many conditions, with water temperatures averaging 27-30°C year-round. The shallow to moderate depths make it accessible to intermediate-level divers seeking traditional Pacific atoll reef diving experiences.
 
 ## Site Information
 

@@ -13,11 +13,12 @@ addedBy: osm_import
 
 ## G-Buoy Coral Head
 
-G-Buoy Coral Head is a reef dive site in Marshall Islands, Pacific.
+G-Buoy Coral Head is a moored dive site in Kwajalein lagoon, marked by the G-Buoy navigation marker. This coral pinnacle is among the richest in coral and fish communities, ideal for observing reef sharks and eagle rays.
+
 
 ## Overview
 
-G-Buoy Coral Head is a dive site in Marshall Islands offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+G-Buoy Coral Head is a moored dive site in Kwajalein lagoon, marked by the G-Buoy navigation marker. This coral pinnacle is among the richest in coral and fish communities, ideal for observing reef sharks and eagle rays. This site offers visibility typically exceeding 30 meters, with water temperatures consistent at 27-30°C year-round.
 
 ## Site Information
 

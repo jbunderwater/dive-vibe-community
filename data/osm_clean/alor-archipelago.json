@@ -3,130 +3,150 @@
     "name": "Clown Valley",
     "lat": -8.25,
     "lon": 124.45,
-    "depth": 18,
+    "depth": 30,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": "true",
+      "validation_source": "perplexity_and_web_research"
     }
   },
   {
     "name": "The Cathedral",
     "lat": -8.28,
     "lon": 124.5,
-    "depth": 30,
-    "site_type": "cave",
-    "entry_type": "boat",
-    "difficulty": "Advanced",
-    "tags": {
-      "source": "curated",
-      "addedBy": "fill_new_destinations"
-    }
-  },
-  {
-    "name": "Kal's Dream",
-    "lat": -8.23,
-    "lon": 124.42,
-    "depth": 25,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "source": "curated",
-      "addedBy": "fill_new_destinations"
-    }
-  },
-  {
-    "name": "Shark Close",
-    "lat": -8.3,
-    "lon": 124.53,
-    "depth": 28,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Advanced",
-    "tags": {
-      "source": "curated",
-      "addedBy": "fill_new_destinations"
-    }
-  },
-  {
-    "name": "Mike's Delight",
-    "lat": -8.26,
-    "lon": 124.47,
-    "depth": 20,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "source": "curated",
-      "addedBy": "fill_new_destinations"
-    }
-  },
-  {
-    "name": "Mucky Mosque",
-    "lat": -8.24,
-    "lon": 124.44,
-    "depth": 10,
-    "site_type": "reef",
-    "entry_type": "shore",
-    "difficulty": "Beginner",
-    "tags": {
-      "source": "curated",
-      "addedBy": "fill_new_destinations"
-    }
-  },
-  {
-    "name": "Babylon",
-    "lat": -8.27,
-    "lon": 124.49,
-    "depth": 22,
-    "site_type": "wall",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "source": "curated",
-      "addedBy": "fill_new_destinations"
-    }
-  },
-  {
-    "name": "The Boardroom",
-    "lat": -8.22,
-    "lon": 124.41,
-    "depth": 15,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Beginner",
-    "tags": {
-      "source": "curated",
-      "addedBy": "fill_new_destinations"
-    }
-  },
-  {
-    "name": "Pantar Strait",
-    "lat": -8.31,
-    "lon": 124.55,
     "depth": 35,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": "true",
+      "validation_source": "perplexity_and_web_research"
+    }
+  },
+  {
+    "name": "Kal's Dream",
+    "lat": -8.23,
+    "lon": 124.42,
+    "depth": 35,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations",
+      "validated": "true",
+      "validation_source": "perplexity_and_web_research"
+    }
+  },
+  {
+    "name": "Shark Close",
+    "lat": -8.3,
+    "lon": 124.53,
+    "depth": 32,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations",
+      "validated": "true",
+      "validation_source": "perplexity_and_web_research"
+    }
+  },
+  {
+    "name": "Mike's Delight",
+    "lat": -8.26,
+    "lon": 124.47,
+    "depth": 28,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations",
+      "validated": "true",
+      "validation_source": "perplexity_and_web_research"
+    }
+  },
+  {
+    "name": "Mucky Mosque",
+    "lat": -8.24,
+    "lon": 124.44,
+    "depth": 18,
+    "site_type": "muck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations",
+      "validated": "true",
+      "validation_source": "perplexity_and_web_research"
+    }
+  },
+  {
+    "name": "Babylon",
+    "lat": -8.27,
+    "lon": 124.49,
+    "depth": 28,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations",
+      "validated": "true",
+      "validation_source": "perplexity_and_web_research"
+    }
+  },
+  {
+    "name": "The Boardroom",
+    "lat": -8.22,
+    "lon": 124.41,
+    "depth": 16,
+    "site_type": "muck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations",
+      "validated": "true",
+      "validation_source": "perplexity_and_web_research"
+    }
+  },
+  {
+    "name": "Pantar Strait",
+    "lat": -8.31,
+    "lon": 124.55,
+    "depth": 40,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations",
+      "validated": "true",
+      "validation_source": "perplexity_and_web_research"
     }
   },
   {
     "name": "Beang Abang",
     "lat": -8.2,
     "lon": 124.4,
-    "depth": 12,
-    "site_type": "reef",
+    "depth": 20,
+    "site_type": "muck",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": "true",
+      "validation_source": "perplexity_and_web_research"
     }
   }
 ]

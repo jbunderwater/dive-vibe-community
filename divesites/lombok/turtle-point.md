@@ -2,8 +2,8 @@
 name: Turtle Point
 lat: -8.3427036
 lng: 116.0437832
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Beginner
+maxDepth: 35
 entryType: boat
 siteType: reef
 ref: null
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Turtle Point
 
-Turtle Point is a reef dive site in Lombok, Asia.
+Turtle Point (also known as Turtle Heaven or Turtle City) is a large underwater pinnacle off Gili Trawangan renowned for guaranteed sea turtle encounters and beginner-friendly diving.
 
 ## Overview
 
-Turtle Point is a dive site in Lombok offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Turtle Point is an underwater hill starting at approximately 10 meters depth and dropping to 35 meters, located off Gili Trawangan. This is one of the best beginner dive sites in the Gili Islands, offering shallow entry points and gradual slopes ideal for newer divers. The site is famous for consistent encounters with green sea turtles and hawksbill turtles, which are seen grazing on seagrass especially during high tide. Turtles are encountered on nearly every dive here.
 
 ## Site Information
 
 - **Location**: Lombok, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 35 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Turtle Point is abundant with green and hawksbill sea turtles, with multiple turtle encounters on most dives. The site is very colorful, featuring anemones with clownfish, mantis shrimp, octopuses, and nudibranchs. Schooling fusiliers, sergeant majors, and colorful reef fish inhabit the shallow areas. The site attracts a full complement of reef fish at all depths.
 
 ## Dive Profile
 

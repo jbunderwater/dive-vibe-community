@@ -3,8 +3,8 @@ name: Anchor Point
 lat: 8.3172012
 lng: 79.6940893
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+maxDepth: 20
+entryType: boat
 siteType: reef
 ref: null
 osmId: 4055852991
@@ -13,22 +13,23 @@ addedBy: osm_import
 
 ## Anchor Point
 
-Anchor Point is a reef dive site in Sri Lanka, Asia.
+Anchor Point is a reef dive site located off the Kalpitiya coast in northwest Sri Lanka. The site features rocky and coral reef formations suitable for intermediate divers.
 
 ## Overview
 
-Anchor Point is a dive site in Sri Lanka offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Anchor Point offers a variety of reef diving with mixed substrate and coral growth. The site is part of the broader Kalpitiya diving area known for its marine biodiversity. Water temperatures remain warm year-round (27-30°C), with best conditions from November through April. The site features stone and coral reef formations typical of Sri Lanka's northwestern coast.
 
 ## Site Information
 
-- **Location**: Sri Lanka, Asia
-- **Entry Type**: Shore entry
+- **Location**: Kalpitiya region, northwest coast of Sri Lanka
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Depth Range**: 12-20 meters
+- **Typical Visibility**: 10-20 meters (33-66 feet)
+- **Current**: Variable, moderate to strong in sections
+- **Water Temperature**: 27-30°C year-round
+- **Best Time**: Late November to early May
 
 ## Marine Life
 
@@ -36,7 +37,7 @@ Divers at this site can expect to encounter manta rays, whale sharks, reef shark
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Anchor Point features a moderate slope with rocky formations and coral growth. Descend along the reef structure, starting at 12-15 meters and progressing to 20 meters. The site's stone and coral formations create varied topography suitable for exploration of crevices and overhangs. Average dive duration is 40-45 minutes for recreational dives. The reef structure changes based on depth, with different marine life concentrated at each level.
 
 ## Entry and Exit
 

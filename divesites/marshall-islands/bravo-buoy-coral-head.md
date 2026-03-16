@@ -13,11 +13,12 @@ addedBy: osm_import
 
 ## Bravo Buoy Coral Head
 
-Bravo Buoy Coral Head is a reef dive site in Marshall Islands, Pacific.
+Bravo Buoy Coral Head is a moored coral pinnacle in Kwajalein lagoon, marked by the Bravo Buoy navigation point. This site features abundant coral and reef fish communities.
+
 
 ## Overview
 
-Bravo Buoy Coral Head is a dive site in Marshall Islands offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Bravo Buoy Coral Head is a moored coral pinnacle in Kwajalein lagoon, marked by the Bravo Buoy navigation point. This site features abundant coral and reef fish communities. This site offers visibility typically exceeding 30 meters, with water temperatures consistent at 27-30°C year-round.
 
 ## Site Information
 

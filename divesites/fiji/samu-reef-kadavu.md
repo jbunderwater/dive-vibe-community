@@ -2,10 +2,10 @@
 name: Samu Reef Kadavu
 lat: -19.0667
 lng: 178.2333
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Advanced
+maxDepth: 20
 entryType: boat
-siteType: reef
+siteType: drift
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Samu Reef Kadavu
 
-Samu Reef Kadavu is a reef dive site in Fiji, Pacific.
+Samu Reef (Naiqoro Passage) is an extremely rewarding drift dive through Kadavu's Great Astrolabe Reef, featuring non-stop walls and exceptional marine life.
 
 ## Overview
 
-Samu Reef Kadavu is a dive site in Fiji offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Located on the Great Astrolabe Reef, Samu Reef (also known as Naiqoro Passage) is a recognized marine sanctuary and one of Fiji's most spectacular drift dives. This 1.5-kilometer drift dive through the reef offers non-stop vertical walls, pelagic and reef fish, sharks, and colorful coral gardens. The site is only suitable for strong currents—divers ride the current through the passage, encountering a dynamic marine environment with continuous walls of coral and fish life. The exceptional marine biodiversity and dramatic topography make this a favorite of advanced divers seeking world-class drift diving.
 
 ## Site Information
 
-- **Location**: Fiji, Pacific
+- **Location**: Great Astrolabe Reef, Naiqoro Passage, Kadavu, Fiji
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
+- **Site Type**: Drift dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 20 meters
+- **Typical Visibility**: 20-40 meters
+- **Current**: Calm to strong (drift diving expected)
 - **Best Time**: April to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Samu Reef's drift passage features exceptional marine life including reef sharks, groupers, schools of barracuda, trevally, snappers, and diverse reef fish populations. The walls are adorned with coral gardens featuring soft corals and gorgonians. Macro life includes moray eels, nudibranchs, lionfish, and various crustaceans. The site is notable for concentrations of pelagic fish schools and active reef ecosystems.
 
 ## Dive Profile
 

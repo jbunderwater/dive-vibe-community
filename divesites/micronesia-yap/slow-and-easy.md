@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Slow and Easy
 
-Slow and Easy is a reef dive site in Micronesia - Yap, Pacific.
+Slow and Easy is a shallow beginner-friendly reef dive in Micronesia - Yap.
 
 ## Overview
 
-Slow and Easy is a dive site in Micronesia - Yap offering excellent diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Slow and Easy is appropriately named for a shallow, relaxed reef dive perfect for beginning divers or those wanting to familiarize themselves with Yap's reef environments. This shallow site allows extended bottom time at safe depths and provides an introduction to Yap's coral formations and reef fish without the demands of deeper or more challenging dives.
 
 ## Site Information
 

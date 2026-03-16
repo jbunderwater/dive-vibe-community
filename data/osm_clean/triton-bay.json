@@ -9,7 +9,10 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": "true",
+      "validation_source": "web_research",
+      "character": "boulder-reef with soft corals, strong currents, macro and wide-angle photography"
     }
   },
   {
@@ -22,7 +25,10 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": "true",
+      "validation_source": "web_research",
+      "character": "Indonesian rock formation (batu=rock), soft coral reef"
     }
   },
   {
@@ -32,10 +38,13 @@
     "depth": 15,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": "true",
+      "validation_source": "web_research",
+      "character": "hard coral shallows transitioning to rubble, famous for Flasher Wrasse displays"
     }
   },
   {
@@ -45,10 +54,14 @@
     "depth": 10,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": "true",
+      "validation_source": "web_research",
+      "character": "baited fishing platform, whale shark encounters 60-70% success rate, anchovies attract giants",
+      "seasonal": "October to April, best at new moon"
     }
   },
   {
@@ -61,7 +74,11 @@
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": "true",
+      "validation_source": "web_research",
+      "character": "Namatota Island mouth, wall dive, whale shark encounters, nutrients, strong currents",
+      "note": "One of Triton Bay's best sites alongside Aquarium, Little Komodo, Bo's Rainbow"
     }
   },
   {
@@ -74,7 +91,10 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": "true",
+      "validation_source": "web_research",
+      "character": "Pulau Aras: 4 major sites with variable conditions, soft coral gardens, pygmy seahorses, nudibranchs, macro habitat"
     }
   },
   {
@@ -87,7 +107,10 @@
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": "true",
+      "validation_source": "web_research",
+      "character": "Iris Strait wall dive, nutrient-rich currents, dense fish life, deep wall drop"
     }
   },
   {
@@ -97,10 +120,13 @@
     "depth": 12,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": "true",
+      "validation_source": "web_research",
+      "character": "soft coral garden, black coral bushes, diverse species, shallow exploration"
     }
   },
   {
@@ -109,11 +135,14 @@
     "lon": 134.13,
     "depth": 8,
     "site_type": "reef",
-    "entry_type": "shore",
+    "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": "true",
+      "validation_source": "web_research",
+      "character": "Mansuar jetty, shallow shore/boat entry, giant clam, turtles, white-tip sharks, coral restoration project"
     }
   },
   {
@@ -126,7 +155,10 @@
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": "true",
+      "validation_source": "web_research",
+      "character": "Aiduma Island resort location, drift and wall dives, bommies, black coral, critter hunting"
     }
   }
 ]

@@ -2,10 +2,10 @@
 name: Peliliu Corner
 lat: 6.96978
 lng: 134.2252069
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 25
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: 5352500390
 addedBy: osm_import
@@ -23,8 +23,8 @@ Peliliu Corner is a dive site in Palau offering rewarding diving on healthy cora
 
 - **Location**: Palau, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
+- **Site Type**: Wall dive
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)
 - **Current**: Moderate to strong

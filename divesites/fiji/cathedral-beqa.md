@@ -3,9 +3,9 @@ name: Cathedral Beqa
 lat: -18.3667
 lng: 177.9667
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 20
 entryType: boat
-siteType: cave
+siteType: reef
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Cathedral Beqa
 
-Cathedral Beqa is a cave dive site in Fiji, Pacific.
+The Cathedral is the iconic shark dive site at Beqa Lagoon, famous for its abundance of sharks and massive groupers.
 
 ## Overview
 
-Cathedral Beqa is a dive site in Fiji featuring underwater cave and cavern formations. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Located in Beqa Lagoon, the Cathedral site features the lush soft coral gardens that make the Shark Reef Marine Reserve world-renowned. The site is named for the impressive structure and gets its reputation from encounters with multiple shark species including tiger sharks, bull sharks, lemon sharks, tawny nurse sharks, silvertip sharks, blacktip reef sharks, whitetip reef sharks, and grey reef sharks. In addition to the remarkable shark encounters, massive groupers and schooling trevally are present, along with countless reef fish species. The soft coral at this site is exceptionally lush, with abundant gorgonians, lionfish, moray eels, and diverse nudibranchs.
 
 ## Site Information
 
-- **Location**: Fiji, Pacific
+- **Location**: Beqa Lagoon, Fiji
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/cavern
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
+- **Maximum Depth**: 20 meters
+- **Typical Visibility**: 20-40 meters
 - **Current**: Moderate to strong
 - **Best Time**: April to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+The Cathedral is renowned for shark encounters with up to 8 species including tiger, bull, lemon, tawny nurse, silvertip, blacktip reef, whitetip reef, and grey reef sharks. Massive groupers, schooling trevally, and countless reef fish populate the site. The lush soft coral gardens feature gorgonians, lionfish, moray eels, and numerous nudibranchs and invertebrates.
 
 ## Dive Profile
 

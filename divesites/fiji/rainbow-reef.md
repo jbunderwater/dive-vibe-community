@@ -3,7 +3,7 @@ name: Rainbow Reef
 lat: -16.8225
 lng: 179.875
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 28
 entryType: boat
 siteType: reef
 ref: null
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Rainbow Reef
 
-Rainbow Reef is a reef dive site in Fiji, Pacific.
+Rainbow Reef is a world-renowned system of dive sites spanning the Somosomo Strait between Taveuni and Vanua Levu, earning Fiji its reputation as the soft coral capital.
 
 ## Overview
 
-Rainbow Reef is a dive site in Fiji offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Rainbow Reef is not a single site but rather a long stretch of vibrant reef with over 20 distinct dive locations. Located in the Somosomo Strait, this system features exceptional soft coral gardens, strong current-assisted drift diving, and incredible marine biodiversity. The reef is famous for its genuinely extraordinary soft coral displays, with reliable encounters of sharks, Napoleon wrasse, and seasonal manta rays making it one of the most consistently praised dive destinations in the Pacific.
 
 ## Site Information
 
-- **Location**: Fiji, Pacific
+- **Location**: Somosomo Strait between Taveuni and Vanua Levu, Fiji
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
+- **Maximum Depth**: 28 meters
+- **Typical Visibility**: 20-50 meters
+- **Current**: Moderate to strong (drift diving standard)
 - **Best Time**: April to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Rainbow Reef supports extraordinary marine biodiversity including manta rays, reef sharks (grey, whitetip, blacktip), Napoleon wrasse, schooling barracuda, trevally, groupers, nudibranchs, and dense populations of reef fish species. The site is characterized by magnificent soft coral gardens dominated by gorgonians, sea fans, and branching corals.
 
 ## Dive Profile
 

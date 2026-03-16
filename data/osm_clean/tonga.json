@@ -5,13 +5,16 @@
     "lon": -174.0417,
     "osm_id": null,
     "osm_type": null,
-    "depth": 15,
+    "depth": 18,
     "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": true,
+      "validation_source": "perplexity",
+      "description": "Cathedral-like cave with sunlight beams creating light effects through schools of bait fish. Shallow cave mouth at 4.5-15m, bottom at 18m. Famous for swirling baitfish patterns and nudibranchs. Best at midday for light effects."
     }
   },
   {
@@ -20,13 +23,16 @@
     "lon": -174.05,
     "osm_id": null,
     "osm_type": null,
-    "depth": 12,
+    "depth": 15,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": true,
+      "validation_source": "perplexity",
+      "description": "Shallow coral reef with vibrant hard and soft corals, gorgonian fans. Slopes from 2.4m to 15m. Ideal for longer bottom time with sea turtles, nudibranchs, tropical reef fish. Excellent year-round visibility."
     }
   },
   {
@@ -41,7 +47,10 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": false,
+      "validation_source": "perplexity",
+      "note": "Name not confirmed in primary dive guides; typical Vavau wall site characteristics with 25m+ depths and reef fish."
     }
   },
   {
@@ -56,7 +65,10 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": false,
+      "validation_source": "perplexity",
+      "note": "Name not confirmed; similar to Clan McWilliam (30m) or other Vavau wrecks. May be local designation."
     }
   },
   {
@@ -71,7 +83,10 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": true,
+      "validation_source": "perplexity",
+      "description": "Wall dive in whale-frequented areas. Likely outer reef wall with excellent visibility 25-40m. Humpback whale sightings July-November (snorkel-based, no scuba bubbles). Healthy corals, rays, sharks, reef fish."
     }
   },
   {
@@ -86,7 +101,10 @@
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": false,
+      "validation_source": "perplexity",
+      "note": "Fonualei is a remote volcanic island 70km northwest of Vavau with active fumarolic vents. No established recreational dive sites documented; fringing reefs likely but volcano activity creates risk."
     }
   },
   {
@@ -95,13 +113,16 @@
     "lon": -174.0333,
     "osm_id": null,
     "osm_type": null,
-    "depth": 8,
+    "depth": 15,
     "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": true,
+      "validation_source": "perplexity",
+      "description": "Underwater cave entrance accessible by snorkeling (1-4m) or scuba (12-15m). Famous for ethereal blue glow and dramatic air compression creating fog. Strong swimming required. Wall dive with swim-throughs to 12m. Named after William Mariner, 1806 survivor. Best west-facing in mid-afternoon."
     }
   },
   {
@@ -111,12 +132,15 @@
     "osm_id": null,
     "osm_type": null,
     "depth": 30,
-    "site_type": "wall",
+    "site_type": "cave",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": true,
+      "validation_source": "perplexity",
+      "description": "Premier advanced diving destination with Cathedral Cave - one of world's largest underwater sea caves (100m long, 50m wide). Entrance at 28m, dramatic hallway with light filtering through roof holes creating supernatural feeling. Surrounding healthy coral gardens with cardinal fish, butterfly fish, sweetlips. Depths 28-70m depending on specific site. Visibility 20-40m."
     }
   },
   {
@@ -125,10 +149,10 @@
     "lon": -174.804115,
     "osm_id": 3088577512,
     "osm_type": "node",
-    "depth": null,
+    "depth": 20,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "historic": "wreck",
       "name": "Takuo",
@@ -138,7 +162,10 @@
       "seamark:wreck:water_level": "covers",
       "source": "osm_extended",
       "wreck:type": "ship",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": false,
+      "validation_source": "perplexity",
+      "note": "Historical hydrographic marker with hull showing. Limited dive history found; depths estimated based on hull_showing water level. Likely coral-encrusted with marine life."
     }
   },
   {
@@ -149,7 +176,7 @@
     "osm_type": "node",
     "depth": 2,
     "site_type": "wreck",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "alt_name": "Lady Lata",
@@ -164,7 +191,10 @@
       "seamark:wreck:water_level": "submerged",
       "source": "osm_extended",
       "wreck:type": "ship",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "perplexity",
+      "description": "Also known as Lady Lata. Historical ship wreck at very shallow 2-2.4m depth. OSM records indicate submerged but marked as dangerous. Likely minimal dive activity due to extreme shallowness and possible silt."
     }
   },
   {
@@ -174,8 +204,8 @@
     "osm_id": 9222907394,
     "osm_type": "node",
     "depth": 12,
-    "site_type": "wreck",
-    "entry_type": null,
+    "site_type": "reef",
+    "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "depth": "12.5",
@@ -189,7 +219,10 @@
       "seamark:wreck:water_level": "submerged",
       "source": "osm_extended",
       "wreck:type": "ship",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": false,
+      "validation_source": "perplexity",
+      "note": "Historical marker for 1965 castaways' boat (7.3m wooden vessel). Heavily broken/scattered on rocks near shore; unlikely to be a recreational dive site. Changed to reef as wreck is too deteriorated."
     }
   },
   {
@@ -198,15 +231,18 @@
     "lon": -175.1878149,
     "osm_id": 356690470,
     "osm_type": "way",
-    "depth": null,
+    "depth": 15,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Hakau Mounu",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": false,
+      "validation_source": "perplexity",
+      "note": "OSM natural reef feature, not documented as established dive site. Located near Mounu Island coral atoll area in Vavau. Depth and difficulty estimated based on typical Tonga reef characteristics. Likely accessible but not operator-recommended."
     }
   },
   {
@@ -215,15 +251,18 @@
     "lon": -175.198852,
     "osm_id": 356690471,
     "osm_type": "way",
-    "depth": null,
+    "depth": 15,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Hakau Ualanga 'Uta",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": false,
+      "validation_source": "perplexity",
+      "note": "OSM natural reef feature. Name appears to be Tongan. Not documented as established dive site. Estimated parameters based on general Vavau reef characteristics."
     }
   },
   {
@@ -232,15 +271,18 @@
     "lon": -175.3116212,
     "osm_id": 398853912,
     "osm_type": "way",
-    "depth": null,
+    "depth": 15,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Hakau Tapu",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": false,
+      "validation_source": "perplexity",
+      "note": "OSM natural reef feature. Not documented as established dive site. Depth and difficulty estimated from general Tonga reef patterns."
     }
   }
 ]

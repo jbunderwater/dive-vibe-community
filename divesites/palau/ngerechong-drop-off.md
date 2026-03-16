@@ -3,7 +3,7 @@ name: Ngerechong Drop-off
 lat: 7.1119455
 lng: 134.3682955
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 33
 entryType: boat
 siteType: wall
 ref: null
@@ -25,7 +25,7 @@ Ngerechong Drop-off is a dive site in Palau featuring a dramatic vertical wall t
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 33 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)
 - **Current**: Moderate to strong
 - **Best Time**: April to November

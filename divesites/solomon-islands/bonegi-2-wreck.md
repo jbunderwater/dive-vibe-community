@@ -2,8 +2,8 @@
 name: Bonegi 2 Wreck
 lat: -9.3583
 lng: 159.9417
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Beginner
+maxDepth: 23
 entryType: shore
 siteType: wreck
 ref: null
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Bonegi 2 Wreck
 
-Bonegi 2 Wreck is a historic wreck dive in Solomon Islands, Pacific.
+The Kinugawa Maru (Bonegi 2) is a beautiful, beginner-friendly Japanese freighter wreck perfect for introducing divers to wreck exploration in Solomon Islands.
 
 ## Overview
 
-Bonegi 2 Wreck is a dive site in Solomon Islands featuring the wreck of the Bonegi 2 Wreck. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+The Kinugawa Maru is a Japanese freighter that rests in shallow water, accessible from shore. The wreck is exceptional for being extensively covered in soft coral and anemones, creating a picturesque underwater garden. You can easily circumnavigate the entire wreck, traveling from the bow down the port side past a distinctive gap between the sternpost and rudder at 23 meters. The shallow depth and excellent condition make this an ideal site for Open Water certification dives and beginner wreck exploration.
 
 ## Site Information
 
-- **Location**: Solomon Islands, Pacific
+- **Location**: Bonegi Creek, Guadalcanal, Honiara region
 - **Entry Type**: Shore entry
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 23 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
+- **Current**: Minimal to moderate
 - **Best Time**: April to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter coral growth, anemones, lionfish, scorpionfish, glassy sweepers, manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks. Additional species commonly sighted include sea turtles, napoleon wrasse, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Soft coral and anemones dominate the wreck's surfaces, creating a thriving ecosystem. Expect colorful reef fish, small invertebrates on the encrusted hull, and occasional sea turtles and stingrays.
 
 ## Dive Profile
 

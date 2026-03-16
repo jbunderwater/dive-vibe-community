@@ -13,11 +13,12 @@ addedBy: osm_import
 
 ## Kwaj-3 Coral Head
 
-Kwaj-3 Coral Head is a reef dive site in Marshall Islands, Pacific.
+Kwaj-3 Coral Head is a lagoon pinnacle in Kwajalein Atoll, part of the numbered reef infrastructure. This coral head offers typical Kwajalein-style reef diving with healthy coral communities.
+
 
 ## Overview
 
-Kwaj-3 Coral Head is a dive site in Marshall Islands offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Kwaj-3 Coral Head is a lagoon pinnacle in Kwajalein Atoll, part of the numbered reef infrastructure. This coral head offers typical Kwajalein-style reef diving with healthy coral communities. This site offers visibility typically exceeding 30 meters, with water temperatures consistent at 27-30°C year-round.
 
 ## Site Information
 

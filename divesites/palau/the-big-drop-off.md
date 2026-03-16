@@ -2,7 +2,7 @@
 name: The Big Drop Off
 lat: 7.1014261
 lng: 134.2496522
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 18
 entryType: boat
 siteType: wall
@@ -24,7 +24,7 @@ The Big Drop Off is a dive site in Palau featuring a dramatic vertical wall that
 - **Location**: Palau, Pacific
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Beginner
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)
 - **Current**: Moderate to strong

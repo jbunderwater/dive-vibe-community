@@ -2,8 +2,8 @@
 name: Cindy's Reef
 lat: -17.74
 lng: 168.32
-difficulty: Intermediate
-maxDepth: 18
+difficulty: Beginner
+maxDepth: 30
 entryType: boat
 siteType: reef
 ref: null
@@ -13,26 +13,27 @@ addedBy: osm_import
 
 ## Cindy's Reef
 
-Cindy's Reef is a reef dive site in Vanuatu, Pacific.
+Cindy's Reef is a gently sloping reef off Aore Island named after a local dive guide, offering excellent beginner-friendly diving with prolific marine life and colorful coral formations.
 
 ## Overview
 
-Cindy's Reef is a dive site in Vanuatu offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Cindy's Reef features a gradually descending reef structure decorated with vibrant soft and hard corals ranging from 5 to 30 meters deep. The reef is characterized by bright coral outcrops with resident anemones hosting clownfish, schools of fusiliers and anthias fish, and abundant tropical species. Named after a pioneering local dive guide, this site has become a favorite for divers seeking accessible reef diving with good visibility and diverse marine encounters.
 
 ## Site Information
 
-- **Location**: Vanuatu, Pacific
+- **Location**: Aore Island, Espiritu Santo
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 30 meters
+- **Minimum Depth**: 5 meters
+- **Typical Visibility**: 20-50 meters (varies seasonally)
+- **Water Temperature**: 26-29°C year-round
+- **Best Time**: April to November (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Cindy's Reef hosts prolific tropical fish life including clownfish, fusiliers, anthias, butterflyfish, moorish idols, groupers, barracuda, and tuna. Anemones provide shelter for clownfish in symbiotic relationships. Larger species including reef sharks, sea turtles, rays, and occasional sharks visit the site. The reef structure itself features bright soft corals, hard coral formations, brain corals, and stag horn corals creating a vibrant underwater landscape.
 
 ## Dive Profile
 

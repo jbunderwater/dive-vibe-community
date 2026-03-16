@@ -3,7 +3,7 @@ name: Cathedral Cave
 lat: -17.75
 lng: 168.33
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 28
 entryType: boat
 siteType: cave
 ref: null
@@ -13,30 +13,31 @@ addedBy: osm_import
 
 ## Cathedral Cave
 
-Cathedral Cave is a cave dive site in Vanuatu, Pacific.
+Cathedral Cave is an impressive limestone chimney dive site featuring dramatic light effects and a distinctive narrow cavern descending to 28 meters off Pango Point near Port Vila.
 
 ## Overview
 
-Cathedral Cave is a dive site in Vanuatu featuring underwater cave and cavern formations. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Cathedral Cave features a stunning limestone chimney formation near Pango Point on the south side of Port Vila. The narrow cavern creates dramatic light effects as sunlight filters through the opening, with a distinctive round chamber near the top. Divers drop to the bottom of a 20-meter rock wall to enter the cathedral, explore the round chamber, and exit to drift along the spectacular reef wall awash with colorful marine life. The unique geological formation and specialized light dynamics make this site memorable for photographers and non-technical divers.
 
 ## Site Information
 
-- **Location**: Vanuatu, Pacific
+- **Location**: Pango Point/Pango Peninsula, Port Vila, Efate Island
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Maximum Depth**: 28 meters
+- **Entry Depth**: 20 meters (wall entrance)
+- **Typical Visibility**: 20-50 meters (varies seasonally)
+- **Water Temperature**: 26-29°C year-round
+- **Best Time**: April to November (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+The reef wall outside the cathedral features colorful sea life including soft corals, anemones, clownfish, butterflyfish, groupers, moray eels, lionfish, scorpionfish, and schooling reef fish. Larger species including reef sharks, barracuda, and sea turtles visit the site. The cavern environment shelters species adapted to dim light conditions including crustaceans and nocturnal fish.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Drop along the 20-meter rock wall to reach the cathedral entrance. Carefully enter the narrow chimney formation, explore the round chamber and internal structures, and exit back to the reef wall. The ascent follows the spectacular coral-covered wall with varied depths allowing flexible dive planning.
 
 ## Entry and Exit
 

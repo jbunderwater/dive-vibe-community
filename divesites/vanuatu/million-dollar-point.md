@@ -2,9 +2,9 @@
 name: Million Dollar Point
 lat: -15.5255116
 lng: 167.2452199
-difficulty: Advanced
-maxDepth: 50
-entryType: boat
+difficulty: Intermediate
+maxDepth: 40
+entryType: shore
 siteType: wreck
 ref: null
 osmId: 1874302192
@@ -13,26 +13,27 @@ addedBy: osm_import
 
 ## Million Dollar Point
 
-Million Dollar Point is a historic wreck dive in Vanuatu, Pacific.
+Million Dollar Point is a unique WWII military dump site featuring thousands of tonnes of US Army equipment deliberately dumped into the ocean at the end of WWII.
 
 ## Overview
 
-Million Dollar Point is a dive site in Vanuatu featuring the wreck of the Million Dollar Point. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+After World War II, the US Army decided not to transport military equipment back to the United States and instead dumped jeeps, guns, bulldozers, trucks, tractors, tanks, and other supplies into the sea from a shoreside ramp. The equipment is scattered across a vast underwater area in 15-40 meters of water, making this one of the world's largest underwater museums of WWII military hardware. Divers walk in from the beach and immediately encounter the wreckage, with the main concentration of machinery about 10 minutes' swim away.
 
 ## Site Information
 
-- **Location**: Vanuatu, Pacific
-- **Entry Type**: Boat dive
+- **Location**: Espiritu Santo, Vanuatu (6 km south of Luganville)
+- **Entry Type**: Shore entry
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 50 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 40 meters
+- **Minimum Depth**: 15 meters
+- **Typical Visibility**: 20-50 meters (varies seasonally)
+- **Water Temperature**: 26-29°C year-round
+- **Best Time**: April to November (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter coral growth, anemones, lionfish, scorpionfish, glassy sweepers, manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks. Additional species commonly sighted include sea turtles, napoleon wrasse, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Corals and anemones are colonizing the metal vehicles and equipment, creating artificial reef habitat. Divers encounter abundant schooling fish, batfish, clownfish in anemones, groupers, moray eels, octopus, nudibranchs, reef sharks, sea turtles, barracuda, and tuna. The site offers unique opportunities to observe marine life adapting to industrial structures.
 
 ## Dive Profile
 

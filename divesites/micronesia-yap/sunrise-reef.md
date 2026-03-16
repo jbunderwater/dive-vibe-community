@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Sunrise Reef
 
-Sunrise Reef is a reef dive site in Micronesia - Yap, Pacific.
+Sunrise Reef is a coral reef dive site in Micronesia - Yap.
 
 ## Overview
 
-Sunrise Reef is a dive site in Micronesia - Yap offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Sunrise Reef is an intermediate coral reef dive site offering excellent opportunities to experience Yap's diverse reef ecosystems beyond the channel and wall diving. This site provides good visibility and productive diving with healthy coral formations and active fish populations.
 
 ## Site Information
 

@@ -3,9 +3,9 @@ name: Fish Factory
 lat: -16.825
 lng: 179.88
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 17
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Fish Factory
 
-Fish Factory is a reef dive site in Fiji, Pacific.
+Fish Factory is a productive wall dive site on the Rainbow Reef, named for the abundance of fish schools that congregate on the wall.
 
 ## Overview
 
-Fish Factory is a dive site in Fiji offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Located in the Somosomo Strait off Taveuni, Fish Factory features a wall structure descending from 6 meters to depths beyond 27 meters, with soft corals adorning the top and sides. The site is named for the exceptional concentration of fish life, with schools of parrotfish, humphead parrotfish, Spanish mackerel, angelfish, trevally, and cod common throughout. Larger pelagics including occasional manta rays and sharks patrol the site, while moray eels and leaf scorpionfish shelter in wall crevices.
 
 ## Site Information
 
-- **Location**: Fiji, Pacific
+- **Location**: Taveuni, Somosomo Strait, Fiji
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
+- **Maximum Depth**: 17 meters
+- **Typical Visibility**: 20-40 meters
 - **Current**: Moderate to strong
 - **Best Time**: April to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Fish Factory is renowned for dense concentrations of fish life including schools of parrotfish, humphead parrotfish, Spanish mackerel, trevally, and cod. Larger species such as manta rays and reef sharks visit the site regularly. Macro life includes moray eels, leaf scorpionfish, stonefish, and various invertebrates sheltering in the coral-covered wall.
 
 ## Dive Profile
 

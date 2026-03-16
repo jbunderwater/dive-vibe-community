@@ -3,57 +3,62 @@ name: Duke of Sparta Wreck
 lat: -3.68
 lng: 128.07
 difficulty: Advanced
-maxDepth: 30
+maxDepth: 35
 entryType: boat
 siteType: wreck
 ref: null
 osmId: null
 addedBy: osm_import
+validated: true
+validationSource: web_research
 ---
 
 ## Duke of Sparta Wreck
 
-Duke of Sparta Wreck is a historic wreck dive in Ambon, Asia.
+The Duke of Sparta is an English cargo ship that sank in Ambon Bay in 1958 during Operation Haik. The 137-meter-long wreck lies between 15-35 meters depth, providing an historically significant technical wreck dive.
 
 ## Overview
 
-Duke of Sparta Wreck is a dive site in Ambon featuring the wreck of the Duke of Sparta Wreck. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+SS Duke of Sparta was an English cargo vessel that was bombed and sunk in 1958 during Operation Haik, an American military operation against communist rebels in Indonesia. The identification of the wreck was confirmed through a serial number discovered on a water heater found in the ship's machinery. The massive 137-meter hull now rests in Ambon Bay, colonized by corals and marine life, offering a challenging technical wreck dive.
 
 ## Site Information
 
-- **Location**: Ambon, Asia
+- **Location**: Ambon Bay
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 35 meters
+- **Wreck Length**: 137 meters
+- **Wreck Depth Range**: 15-35 meters (top to bottom)
+- **Typical Visibility**: 10-25 meters
+- **Current**: Can be strong
+- **Best Time**: March-April and September-December (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter batfish, lionfish, sweetlips, coral growth, soft corals, manta rays, whale sharks, reef sharks. Additional species commonly sighted include sea turtles, barracuda, trevally. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The wreck hosts abundant marine life including coral growth, soft corals, batfish, lionfish, sweetlips, snappers, grouper, and wrasse. The wreck structure provides shelter for a thriving ecosystem of reef fish and invertebrates. Larger pelagics like trevally and reef sharks visit the site.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 30 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend to the wreck top at 15 meters and explore the exterior hull structure. The wreck descends to approximately 35 meters at the deepest sections. Multiple dives are recommended to explore different sections of the 137-meter hull—the bow, stern, and machinery areas each offer unique exploration opportunities. Bottom time must be strictly managed due to depth.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat entry via giant stride. Descend along the mooring line or shot line to the wreck. Explore the exterior hull, machinery spaces, and visible cargo holds. Ascend along the descent line and conduct safety stops during ascent. Surface near the boat for pickup.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Bring a powerful dive torch for peering into dark holds and machinery spaces
+- A second torch or backup light is highly recommended
+- Excellent photography opportunities inside and outside the wreck
+- The historical significance adds psychological interest to the dive
+- Multiple visits reveal different aspects of this massive hull
+- Consider specialty wreck diving training for penetration beyond threshold areas
+- Current can be significant—monitor air consumption
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+This is an Advanced-level dive due to depth (35+ meters), current, and potential for penetration into the wreck structure. Do not penetrate beyond your training level. Maintain excellent buoyancy to avoid stirring silt. Carry multiple cutting tools in case of entanglement. Never dive this site alone. Be conservative with bottom time at maximum depths. Deploy your SMB and conduct thorough safety stops during ascent. Strong currents may develop—brief with your dive guide on current patterns for the day.
 
 ## Photography
 

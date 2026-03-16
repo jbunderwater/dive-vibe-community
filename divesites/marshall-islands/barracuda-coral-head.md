@@ -13,11 +13,12 @@ addedBy: osm_import
 
 ## Barracuda Coral Head
 
-Barracuda Coral Head is a reef dive site in Marshall Islands, Pacific.
+Barracuda Coral Head is named for the barracuda schools frequently encountered at this lagoon pinnacle in Kwajalein Atoll. This coral head site features healthy coral and abundant marine life.
+
 
 ## Overview
 
-Barracuda Coral Head is a dive site in Marshall Islands offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Barracuda Coral Head is named for the barracuda schools frequently encountered at this lagoon pinnacle in Kwajalein Atoll. This coral head site features healthy coral and abundant marine life. This site offers visibility typically exceeding 30 meters, with water temperatures consistent at 27-30°C year-round.
 
 ## Site Information
 

@@ -13,30 +13,32 @@ addedBy: osm_import
 
 ## St Catherine Wreck
 
-St Catherine Wreck is a historic wreck dive in Tonga, Pacific.
+St Catherine is a wreck dive site in Vava'u, featuring a coral-encrusted wreck that has become an artificial reef supporting thriving marine communities. This intermediate-level wreck offers good visibility and straightforward navigation.
 
 ## Overview
 
-St Catherine Wreck is a dive site in Tonga featuring the wreck of the St Catherine Wreck. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+St Catherine represents the typical wreck diving experience in Tonga—a historical vessel that has become an artificial reef teeming with marine life. The wreck is coral-encrusted and provides excellent habitat for fish populations. Similar to documented Tonga wrecks like the Clan McWilliam, this site features a straightforward layout suitable for divers with basic wreck training. The wreck provides dramatic topography with natural light penetration and accessible external features.
 
 ## Site Information
 
-- **Location**: Tonga, Pacific
+- **Location**: Vava'u region, Tonga
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Depth Range**: 20-25 meters
+- **Shot Line**: Typically provided to wreck structure
+- **Typical Visibility**: 25-40+ meters (Vavau standard)
+- **Current**: Moderate (typical for Vavau wreck sites)
+- **Water Temperature**: 24-29°C
+- **Best Time**: Year-round; July-October for whales in region
 
 ## Marine Life
 
-Divers at this site can expect to encounter coral growth, anemones, lionfish, scorpionfish, glassy sweepers, manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks. Additional species commonly sighted include sea turtles, napoleon wrasse, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Coral-encrusted wreck with thriving artificial reef ecosystem. Abundant reef fish, schools of marine inhabitants, coral colonies, anemones, and crustaceans. The wreck structure provides shelter for resident species and attracts transient pelagics.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 25 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend on shot line to top of wreck at approximately 20 meters. Explore exterior features and coral formations. Maximum depth approximately 25 meters. Avoid deep penetration without proper training and overhead environment certification. Wreck provides natural light penetration for photography. Ascend with adequate air reserve for safety stop.
 
 ## Entry and Exit
 

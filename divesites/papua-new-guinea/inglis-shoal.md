@@ -3,9 +3,9 @@ name: Inglis Shoal
 lat: -5.3167
 lng: 150.4833
 difficulty: Intermediate
-maxDepth: 30
+maxDepth: 15
 entryType: boat
-siteType: reef
+siteType: pinnacle
 ref: null
 osmId: null
 addedBy: osm_import
@@ -17,15 +17,15 @@ Inglis Shoal is a reef dive site in Papua New Guinea, Pacific.
 
 ## Overview
 
-Inglis Shoal is a dive site in Papua New Guinea offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Inglis Shoal is an isolated seamount rising from very deep water to within 11 meters of the surface. The site is exceptionally rich in fish life and pelagic action, renowned for superb visibility and the presence of large predatory fish species. Divers will encounter schools of dogtooth tuna, barracuda, and bigeye trevally, along with rays and other pelagic species on virtually every dive.
 
 ## Site Information
 
 - **Location**: Papua New Guinea, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
+- **Maximum Depth**: 15 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)
 - **Current**: Moderate to strong
 - **Best Time**: April to November

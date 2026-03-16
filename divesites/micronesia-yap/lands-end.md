@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Land's End
 
-Land's End is a wall dive site in Micronesia - Yap, Pacific.
+Land's End is one of Yap's premier advanced wall diving destinations.
 
 ## Overview
 
-Land's End is a dive site in Micronesia - Yap featuring a dramatic vertical wall that drops into the deep blue. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Land's End is one of Yap's premier advanced wall dive sites, aptly named for the dramatic drop at the southwestern corner of the island. This is an advanced dive requiring strong skills, excellent depth management, and experience with deep wall diving. The wall provides spectacular vertical ecosystem experiences and consistent encounters with Yap's diverse pelagic marine life.
 
 ## Site Information
 

@@ -3,7 +3,7 @@ name: Babylon
 lat: -8.27
 lng: 124.49
 difficulty: Intermediate
-maxDepth: 22
+maxDepth: 28
 entryType: boat
 siteType: wall
 ref: null
@@ -13,51 +13,54 @@ addedBy: osm_import
 
 ## Babylon
 
-Babylon is a wall dive site in Alor Archipelago, Asia.
+Babylon (Biatabang) is a colorful wall dive renowned for its rich biodiversity and distinct macro photography opportunities. Located in Kalabahi Bay, this site combines dramatic wall structure with abundant small creatures in reef crevices.
 
 ## Overview
 
-Babylon is a dive site in Alor Archipelago featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Babylon is a reef wall dive that drops to 28 meters, densely covered in multicolored coral formations and bustling with reef fish. The wall features numerous nooks, crannies, and overhangs harboring critters and unusual species. The site balances wide-angle appeal (colorful corals, schooling anthias) with macro opportunities (peacock mantis shrimp, orangutan crabs, squat lobsters, moray eels). Currents can vary from mild to moderate, making it accessible to intermediate divers with solid buoyancy control. The site also offers cultural interest through interactions with traditional Bubu fishermen who visit nearby.
 
 ## Site Information
 
-- **Location**: Alor Archipelago, Asia
+- **Location**: Kalabahi Bay, Alor Archipelago
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 28 meters
+- **Typical Visibility**: 15-35 meters
+- **Current**: Mild to moderate; variable
+- **Water Temperature**: Warm (26-30°C)
+- **Best Time**: May-September (consistent conditions)
+- **Special Features**: Traditional Bubu fishermen with homemade wooden goggles sometimes visible
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Babylon's wall supports abundant reef fish including anthias, butterfly fish, angelfish, groupers, and snappers. Notable critter species include peacock mantis shrimp, orangutan crabs, squat lobsters, moray eels, nudibranchs, and gobies. The healthy coral coverage—both hard corals and colorful soft corals—creates a vibrant ecosystem. Larger species like snappers and groupers hunt from the wall structure.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-22 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Descend to the wall and begin exploring the vertical structure. Spend the first portion of your dive (5-18 meters) examining shallow wall features and coral formations. Gradually work deeper to 22-28 meters where interesting overhangs and formations continue. Scan small crevices carefully for hidden critters. Plan a natural safety stop at 5 meters before surfacing. Total dive time can accommodate comfortable exploration of the entire wall depth range.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by dive boat only. Entry via giant stride or back roll. Descend along the wall, maintaining visual contact with the structure. Exit procedures include SMB deployment during safety stop and boat crew pickup.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Move slowly and examine crevices thoroughly for critter sightings
+- Bring both macro and wide-angle lenses to capture diversity
+- Use a torch/light to illuminate crevices and shadows
+- The shallow sections (10-15 meters) provide the most abundant critter life
+- Watch for traditional Bubu fishermen—cultural photo opportunity
+- Avoid touching or disturbing critters and corals
+- This site suits both wide-angle and macro photographers
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Babylon is relatively benign compared to other Pantar Strait sites. Moderate currents are typical but manageable with good buoyancy control. Avoid excessive depth to prevent nitrogen narcosis—stay within 28 meters limit. Be cautious around critters in crevices—don't force your hands into hidden spaces. Monitor air consumption during extended exploration of the wall. Always use SMB and dive with a buddy. Good buoyancy control is essential to protect the delicate coral formations. This site is well-suited for intermediate divers building wall diving skills.
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+Colorful coral formations suit both macro (detail shots of coral polyps) and wide-angle techniques (wall landscape with anthias schools). Critter subjects including peacock mantis shrimp and orangutan crabs provide compelling macro subjects. Moray eel portraits from a respectful distance. Wall corals with schooling fish provide composition opportunities. Best light during morning dives; technique should emphasize color richness and macro detail.
 
 ## Additional Resources
 

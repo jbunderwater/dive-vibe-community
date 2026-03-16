@@ -5,14 +5,16 @@
     "lon": 92.8006998,
     "osm_id": 649984297,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 25,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Guoddus Garden",
       "scuba_diving:divespot": "Guoddus Garden",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -21,14 +23,16 @@
     "lon": 92.962155,
     "osm_id": 649984298,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 40,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "The Wall",
       "scuba_diving:divespot": "The Wall",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -44,7 +48,9 @@
     "tags": {
       "name": "MV Mars",
       "scuba_diving:divespot": "MV Mars",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -53,14 +59,16 @@
     "lon": 92.9520097,
     "osm_id": 649984300,
     "osm_type": "node",
-    "depth": 20,
-    "site_type": "reef",
+    "depth": 35,
+    "site_type": "drift",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Johnson's Reef",
       "scuba_diving:divespot": "Johnson's Reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -69,14 +77,16 @@
     "lon": 93.0197618,
     "osm_id": 649984315,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 25,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "South Button",
       "scuba_diving:divespot": "South Button",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -85,14 +95,16 @@
     "lon": 92.78051,
     "osm_id": 649985250,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 22,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Duncan's Wreck",
       "scuba_diving:divespot": "Duncan's Wreck",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -101,14 +113,16 @@
     "lon": 93.0930528,
     "osm_id": 649985251,
     "osm_type": "node",
-    "depth": 20,
-    "site_type": "reef",
+    "depth": 30,
+    "site_type": "pinnacle",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Dixon's",
       "scuba_diving:divespot": "Dixon's",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -117,14 +131,16 @@
     "lon": 92.9641702,
     "osm_id": 649985252,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 13,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Lighthouse",
       "scuba_diving:divespot": "Lighthouse",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -147,7 +163,10 @@
       "wreck:visible_at_high_tide": "no",
       "wreck:visible_at_low_tide": "yes",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "web_research",
+      "note": "Protected site near North Sentinel Island. Diving prohibited per Indian regulations protecting indigenous population."
     }
   }
 ]

@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## West Coral Pass
 
-West Coral Pass is a wall dive site in Marshall Islands, Pacific.
+West Coral Pass is a channel dive on the edge of Majuro Atoll, featuring wall formations between atoll reefs. This site experiences moderate currents that create excellent conditions for intermediate-level divers to encounter reef fish and larger pelagic species, with healthy coral structures and typical Marshall Islands visibility.
 
 ## Overview
 
-West Coral Pass is a dive site in Marshall Islands featuring a dramatic vertical wall that drops into the deep blue. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+West Coral Pass is a channel dive featuring wall formations with moderate depths and excellent current-driven nutrient flow. Visibility typically exceeds 30 meters, with water temperatures consistent at 27-30°C year-round. The wall structures and moderate currents attract abundant marine life, making this an engaging destination for intermediate-level divers seeking current-enriched reef environments.
 
 ## Site Information
 

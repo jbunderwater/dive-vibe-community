@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Gilman Wall
 
-Gilman Wall is a wall dive site in Micronesia - Yap, Pacific.
+Gilman Wall is one of Yap's premier wall diving destinations.
 
 ## Overview
 
-Gilman Wall is a dive site in Micronesia - Yap featuring a dramatic vertical wall that drops into the deep blue. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Gilman Wall is one of Yap's premier wall dive sites, offering a dramatic vertical drop and excellent opportunities for experiencing Yap's wall diving reputation. The wall features strong currents that bring nutrient-rich water supporting abundant coral and fish life. This is an advanced wall dive requiring strong diving skills and experience managing depth and current.
 
 ## Site Information
 

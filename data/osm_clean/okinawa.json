@@ -12,7 +12,9 @@
     "tags": {
       "name": "\u7802\u8fba",
       "name:en": "Sunabe",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -27,7 +29,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Middle Book",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -42,7 +46,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Ukon Denchi",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -62,7 +68,9 @@
       "name:ja-Hira": "\u306f\u306a\u3060\u3044\u306e\u306d",
       "note": "Position estimated / \u4f4d\u7f6e\u63a8\u5b9a",
       "scuba_diving:divespot": "yes",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -102,7 +110,9 @@
       "name:ja": "W\u5b57\u30a2\u30fc\u30c1",
       "note": "Position estimated / \u4f4d\u7f6e\u63a8\u5b9a",
       "scuba_diving:divespot": "yes",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -211,7 +221,9 @@
       "seamark:mooring:category": "buoy",
       "seamark:type": "mooring",
       "source": "survey;local knowledge;gps",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -234,7 +246,9 @@
       "seamark:mooring:category": "buoy",
       "seamark:type": "mooring",
       "source": "survey;local knowledge;gps",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -260,7 +274,9 @@
       "seamark:mooring:category": "buoy",
       "seamark:type": "mooring",
       "source": "survey;local knowledge;gps",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -283,7 +299,9 @@
       "seamark:mooring:category": "buoy",
       "seamark:type": "mooring",
       "source": "survey;local knowledge;gps",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -306,7 +324,9 @@
       "seamark:mooring:category": "buoy",
       "seamark:type": "mooring",
       "source": "survey;local knowledge;gps",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -329,7 +349,9 @@
       "seamark:mooring:category": "buoy",
       "seamark:type": "mooring",
       "source": "survey;local knowledge;gps",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -352,7 +374,9 @@
       "seamark:mooring:category": "buoy",
       "seamark:type": "mooring",
       "source": "survey;local knowledge;gps",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -377,7 +401,9 @@
       "seamark:mooring:category": "buoy",
       "seamark:type": "mooring",
       "source": "survey;local knowledge;gps",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -400,7 +426,9 @@
       "seamark:mooring:category": "buoy",
       "seamark:type": "mooring",
       "source": "survey;local knowledge;gps",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -423,7 +451,9 @@
       "seamark:mooring:category": "buoy",
       "seamark:type": "mooring",
       "source": "survey;local knowledge;gps",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -446,7 +476,9 @@
       "seamark:mooring:category": "buoy",
       "seamark:type": "mooring",
       "source": "survey;local knowledge;gps",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -469,7 +501,9 @@
       "seamark:mooring:category": "buoy",
       "seamark:type": "mooring",
       "source": "survey;local knowledge;gps",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -517,7 +551,9 @@
       "seamark:mooring:category": "buoy",
       "seamark:type": "mooring",
       "source": "survey;local knowledge;gps",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   }
 ]

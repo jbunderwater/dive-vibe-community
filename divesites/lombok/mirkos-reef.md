@@ -3,7 +3,7 @@ name: Mirkos Reef
 lat: -8.3510773
 lng: 116.0657213
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 35
 entryType: boat
 siteType: reef
 ref: null
@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Mirkos Reef
 
-Mirkos Reef is a reef dive site in Lombok, Asia.
+Mirkos Reef is a seamount off Gili Meno's east side featuring stunning coral gardens and a memorial to a fallen diver, stretching from 12m to 35m with exceptional visibility.
 
 ## Overview
 
-Mirkos Reef is a dive site in Lombok offering rewarding diving on healthy coral reef structures . source is Diveschool Notice Board - Location might have to be checked with a GPS. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Mirkos Reef lies between Gili Air and Gili Meno and is home to some of the Gili Islands' most stunning coral gardens. The reef is a long seamount stretching along the entire east side of Gili Meno, at greater depth than many surrounding sites, which may contribute to its outstanding coral cover. The combination of hard and soft coral creates an excellent habitat for large and small marine life, starting at 45 feet (12 meters) and flowing down to 120 feet (35 meters). A huge M statue placed at this site serves as a memorial to a diver named Mirkos, giving the reef its name.
 
 ## Site Information
 
@@ -25,14 +25,14 @@ Mirkos Reef is a dive site in Lombok offering rewarding diving on healthy coral 
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 35 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Mirkos Reef supports schooling fusiliers and snappers overhead, blue-spotted ribbon-tailed rays hiding under coral overhangs, giant frogfish camouflaged among sponges, and white tip reef sharks cruising the ridges. The combination of hard and soft corals provides excellent habitat for a diverse marine community with both resident and mobile species.
 
 ## Dive Profile
 

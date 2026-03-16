@@ -11,7 +11,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Raycrew",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -78,7 +80,9 @@
       "scuba_diving:type:training": "no",
       "scuba_diving:type:wall": "no",
       "scuba_diving:type:wreck": "no",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -145,7 +149,9 @@
       "scuba_diving:type:training": "no",
       "scuba_diving:type:wall": "no",
       "scuba_diving:type:wreck": "no",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -212,7 +218,9 @@
       "scuba_diving:type:training": "no",
       "scuba_diving:type:wall": "no",
       "scuba_diving:type:wreck": "no",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -279,7 +287,9 @@
       "scuba_diving:type:training": "no",
       "scuba_diving:type:wall": "yes",
       "scuba_diving:type:wreck": "no",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -346,7 +356,9 @@
       "scuba_diving:type:training": "no",
       "scuba_diving:type:wall": "no",
       "scuba_diving:type:wreck": "yes",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -412,7 +424,9 @@
       "scuba_diving:type:training": "no",
       "scuba_diving:type:wall": "yes",
       "scuba_diving:type:wreck": "no",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -429,7 +443,9 @@
       "diving:type": "reef",
       "name": "K-10 Coral Head",
       "natural": "reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -446,7 +462,9 @@
       "diving:type": "reef",
       "name": "G-Buoy Coral Head",
       "natural": "reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -465,7 +483,7 @@
       "name": "Toilet Bowl",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "perplexity"
     }
   },
   {
@@ -482,7 +500,9 @@
       "diving:type": "reef",
       "name": "Vertical Wall",
       "natural": "reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -499,7 +519,9 @@
       "diving:type": "reef",
       "name": "Emon Coral Head",
       "natural": "reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -516,7 +538,9 @@
       "diving:type": "reef",
       "name": "ER-2 Coral Head",
       "natural": "reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -535,7 +559,7 @@
       "name": "Junkpile-3",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "perplexity"
     }
   },
   {
@@ -554,7 +578,7 @@
       "name": "Junkpile-2",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "perplexity"
     }
   },
   {
@@ -572,7 +596,7 @@
       "name": "Junkpile-1",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "perplexity"
     }
   },
   {
@@ -589,7 +613,9 @@
       "diving:type": "reef",
       "name": "Barracuda Coral Head",
       "natural": "reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -606,7 +632,9 @@
       "diving:type": "reef",
       "name": "SAR Coral Head",
       "natural": "reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -623,7 +651,9 @@
       "diving:type": "reef",
       "name": "Kwaj-3 Coral Head",
       "natural": "reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -640,7 +670,9 @@
       "diving:type": "reef",
       "name": "Kwaj-2 Coral Head",
       "natural": "reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -657,7 +689,9 @@
       "diving:type": "reef",
       "name": "Kwaj-1 Coral Head",
       "natural": "reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -674,7 +708,9 @@
       "diving:type": "reef",
       "name": "Twin Peaks Coral Head",
       "natural": "reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -691,7 +727,9 @@
       "diving:type": "reef",
       "name": "Troys Coral Head",
       "natural": "reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -708,7 +746,9 @@
       "diving:type": "reef",
       "name": "N-Buoy Coral Head",
       "natural": "reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -725,7 +765,9 @@
       "diving:type": "reef",
       "name": "K-9 West Coral Head",
       "natural": "reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -742,7 +784,9 @@
       "diving:type": "reef",
       "name": "K-9 Deep Coral Head",
       "natural": "reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -761,7 +805,9 @@
       "natural": "reef",
       "reef": "coral",
       "sport": "scuba_diving",
-      "subsea": "coral_reef"
+      "subsea": "coral_reef",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -780,7 +826,9 @@
       "natural": "reef",
       "reef": "coral",
       "sport": "scuba_diving",
-      "subsea": "coral_reef"
+      "subsea": "coral_reef",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -799,7 +847,9 @@
       "natural": "reef",
       "reef": "coral",
       "sport": "scuba_diving",
-      "subsea": "coral_reef"
+      "subsea": "coral_reef",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -818,7 +868,9 @@
       "natural": "reef",
       "reef": "coral",
       "sport": "scuba_diving",
-      "subsea": "coral_reef"
+      "subsea": "coral_reef",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -834,7 +886,9 @@
     "tags": {
       "diving:type": "reef",
       "name": "R-Buoy Coral Head",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -853,7 +907,9 @@
       "natural": "reef",
       "reef": "coral",
       "sport": "scuba_diving",
-      "subsea": "coral_reef"
+      "subsea": "coral_reef",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -872,7 +928,9 @@
       "natural": "reef",
       "reef": "coral",
       "sport": "scuba_diving",
-      "subsea": "coral_reef"
+      "subsea": "coral_reef",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -888,7 +946,9 @@
     "tags": {
       "diving:type": "reef",
       "name": "Victor Buoy Coral Head",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -904,7 +964,9 @@
     "tags": {
       "diving:type": "reef",
       "name": "T-Buoy Coral Head",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -920,7 +982,9 @@
     "tags": {
       "diving:type": "reef",
       "name": "S-Buoy Coral Head",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -936,7 +1000,9 @@
     "tags": {
       "diving:type": "reef",
       "name": "Marita Shoals",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -955,7 +1021,9 @@
       "natural": "reef",
       "reef": "coral",
       "sport": "scuba_diving",
-      "subsea": "coral_reef"
+      "subsea": "coral_reef",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   }
 ]

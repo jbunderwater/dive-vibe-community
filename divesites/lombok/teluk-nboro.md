@@ -3,7 +3,7 @@ name: Teluk NBoro
 lat: -8.4042153
 lng: 116.0591248
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 25
 entryType: boat
 siteType: reef
 ref: null
@@ -25,7 +25,7 @@ Teluk NBoro is a dive site in Lombok offering rewarding diving on healthy coral 
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)

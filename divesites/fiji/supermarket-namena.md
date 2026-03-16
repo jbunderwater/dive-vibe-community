@@ -3,7 +3,7 @@ name: Supermarket Namena
 lat: -17.1083
 lng: 179.1083
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 18
 entryType: boat
 siteType: reef
 ref: null
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Supermarket Namena
 
-Supermarket Namena is a reef dive site in Fiji, Pacific.
+The Supermarket is a vibrant reef dive site at Namena with colorful coral walls and excellent fish life.
 
 ## Overview
 
-Supermarket Namena is a dive site in Fiji offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Located close to Nadi in the Mamanuca Islands near Namena, the Supermarket site features a vibrant coral reef wall packed with marine life. Once used regularly for shark feeding (now only seldom used for this activity), the site offers excellent diving opportunities to view reef-associated species. After exploring the reef wall abundant with turtles, rays, and reef fish, divers drift around the corner to experience additional diverse reef ecosystems. The site name reflects its reputation as a well-stocked reef system with abundant and varied marine resources.
 
 ## Site Information
 
-- **Location**: Fiji, Pacific
+- **Location**: Namena area, Mamanuca Islands, Fiji
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
+- **Maximum Depth**: 18 meters
+- **Typical Visibility**: 20-40 meters
+- **Current**: Mild to moderate
 - **Best Time**: April to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+The Supermarket features vibrant coral reef walls with abundant reef fish schools, turtles, rays, reef sharks, and diverse invertebrate life. The site is characterized by lush coral gardens supporting butterflyfish, parrotfish, groupers, angelfish, and numerous reef-dwelling species. Macro subjects include moray eels, lionfish, and nudibranchs inhabiting the coral structures.
 
 ## Dive Profile
 

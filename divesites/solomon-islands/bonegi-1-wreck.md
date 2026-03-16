@@ -3,7 +3,7 @@ name: Bonegi 1 Wreck
 lat: -9.3667
 lng: 159.95
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 34
 entryType: shore
 siteType: wreck
 ref: null
@@ -13,34 +13,30 @@ addedBy: osm_import
 
 ## Bonegi 1 Wreck
 
-Bonegi 1 Wreck is a historic wreck dive in Solomon Islands, Pacific.
+The Hirokawa Maru (Bonegi 1) is one of Honiara's most accessible and historic WWII shipwrecks, offering an excellent introduction to wreck diving in Solomon Islands.
 
 ## Overview
 
-Bonegi 1 Wreck is a dive site in Solomon Islands featuring the wreck of the Bonegi 1 Wreck. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+The Hirokawa Maru is a 156-meter Japanese freighter that was originally stranded upright ashore but now rests on her port side. This iconic wreck features the bow in shallow water (~5 m) and stern dropping to 60 m, creating a dramatic profile with sections accessible at all levels. The wreck is heavily colonized with coral, anemones, and soft corals that have grown to impressive sizes. Divers at Bonegi 1 commonly encounter turtles, blue-spotted stingrays, sharks, sweetlips, and snappers.
 
 ## Site Information
 
-- **Location**: Solomon Islands, Pacific
+- **Location**: Bonegi Creek, Guadalcanal, Honiara region
 - **Entry Type**: Shore entry
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 34 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Current**: Moderate
+- **Best Time**: April to November (April-November dry season offers best visibility >40m)
 
 ## Marine Life
 
-Divers at this site can expect to encounter coral growth, anemones, lionfish, scorpionfish, glassy sweepers, manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks. Additional species commonly sighted include sea turtles, napoleon wrasse, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The wreck provides excellent habitat for a thriving marine ecosystem. Expect coral colonies, anemones, bioluminescent critters, blue-spotted stingrays, sea turtles, reef sharks, sweetlips, and snapper. Macro life is abundant on the encrusted surfaces.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 20 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
-
-## Entry and Exit
-
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Expect plenty of cargo visible, particularly in the hold. Bow exploration in 5-15 m range offers excellent photography opportunities. More experienced divers can explore deeper sections toward the stern (34 m max). A professional guide is recommended for first dives to understand the wreck layout and navigate safely. Plan for 30-45 minutes bottom time depending on depth zones explored.
 
 ## Tips and Recommendations
 

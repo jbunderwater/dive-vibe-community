@@ -2,8 +2,8 @@
 name: Lighthouse
 lat: 12.049892
 lng: 92.9641702
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Beginner
+maxDepth: 13
 entryType: boat
 siteType: reef
 ref: null
@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Lighthouse
 
-Lighthouse is a reef dive site in Andaman Islands, Asia.
+Lighthouse is a shallow, beginner-friendly coral reef dive site featuring vibrant soft and hard corals circling a small lighthouse beacon. Known for exceptional visibility and excellent conditions for night diving when experienced.
 
 ## Overview
 
-Lighthouse is a dive site in Andaman Islands offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The Lighthouse site consists of a coral reef formation surrounding a small lighthouse structure in shallow water. The shallow part of the reef starts from 2 meters, dropping to approximately 13 meters on sandy bottom (some sources report maximum depth to 25 meters). This site is ideal for divers of all experience levels, with exceptional water clarity and rich coral formations. Beginner divers can safely explore the shallower sections, while more experienced divers can descend to deeper areas. Night diving is possible here due to excellent visibility, though only experienced night divers should attempt after-dark exploration.
 
 ## Site Information
 
-- **Location**: Andaman Islands, Asia
+- **Location**: Havelock Island, Andaman Islands, India
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 13 meters
+- **Typical Visibility**: 20-25 meters (excellent)
+- **Current**: Generally light to moderate
+- **Best Time**: November to April
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Vibrant coral reef fish populations including clownfish, angelfish, parrotfish, and damselfish are abundant in shallow areas. Larger species including groupers, Napoleon wrasse, and occasional rays visit the deeper sections. The diverse coral formations provide microhabitats for numerous small species including nudibranchs, shrimp, and small crustaceans.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin your dive at 2-5 meters among the vibrant shallow corals, taking time to observe the lighthouse structure and reef formations. Gradually descend as conditions and experience allow, reaching approximately 8-10 meters for intermediate divers or 13-15 meters for more experienced divers. The exceptional visibility allows photography throughout the dive. Plan 35-50 minutes of bottom time depending on depth preference. For night dives (experienced divers only), expect to see nocturnal species emerging from coral cover and different behavioral patterns. Excellent buoyancy control is essential to protect the fragile coral formations.
 
 ## Entry and Exit
 

@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Custom's House Wreck
 
-Custom's House Wreck is a historic wreck dive in Solomon Islands, Pacific.
+Custom's House Wreck is a beginner-friendly wreck dive in the Russell Islands area offering easy shore access and shallow depths perfect for certification dives.
 
 ## Overview
 
-Custom's House Wreck is a dive site in Solomon Islands featuring the wreck of the Custom's House Wreck. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Custom's House Wreck is accessible as a shore dive in the Russell Islands region. This shallow wreck site is ideal for recreational divers and open water certification courses. The shallow maximum depth of 15 meters makes this an excellent introduction to wreck exploration without the complexity of deeper penetrations.
 
 ## Site Information
 
-- **Location**: Solomon Islands, Pacific
+- **Location**: Russell Islands region
 - **Entry Type**: Shore entry
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Minimal to moderate
 - **Best Time**: April to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter coral growth, anemones, lionfish, scorpionfish, glassy sweepers, manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks. Additional species commonly sighted include sea turtles, napoleon wrasse, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Coral growth, anemones, small reef fish, and invertebrates colonize the wreck structure creating a thriving ecosystem. The shallow depth supports diverse coral and fish life.
 
 ## Dive Profile
 

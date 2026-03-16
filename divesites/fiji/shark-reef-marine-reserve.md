@@ -2,8 +2,8 @@
 name: Shark Reef Marine Reserve
 lat: -18.2167
 lng: 177.9833
-difficulty: Intermediate
-maxDepth: 30
+difficulty: Advanced
+maxDepth: 25
 entryType: boat
 siteType: reef
 ref: null
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Shark Reef Marine Reserve
 
-Shark Reef Marine Reserve is a reef dive site in Fiji, Pacific.
+Shark Reef Marine Reserve is Fiji's premier shark dive destination, established as the first marine protected area of its kind in the country and called the world's best shark dive by National Geographic.
 
 ## Overview
 
-Shark Reef Marine Reserve is a dive site in Fiji offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Located in Beqa Lagoon south of Viti Levu, the Shark Reef Marine Reserve is a protected passage between the island and the mainland that acts as a migration corridor for sharks. The site is world-renowned for encounters with up to 8 species of sharks including tiger, bull, lemon, tawny nurse, silvertip, blacktip reef, and whitetip reef sharks, along with massive groupers, schooling trevally, and approximately 450 fish species. The exceptional lush soft coral, including areas at Caesar's Rocks and the Cathedral site, supports abundant invertebrate life.
 
 ## Site Information
 
-- **Location**: Fiji, Pacific
+- **Location**: Beqa Lagoon, between Viti Levu and Beqa Island, Fiji
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 25 meters
+- **Typical Visibility**: 20-40 meters
 - **Current**: Moderate to strong
 - **Best Time**: April to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+The Shark Reef Marine Reserve is famous for encounters with up to 8 species of sharks: tiger sharks, bull sharks, lemon sharks, tawny nurse sharks, silvertip sharks, blacktip reef sharks, whitetip reef sharks, and grey reef sharks. In addition to the remarkable shark diversity, the site hosts massive groupers, schooling trevally, and a total of approximately 450 fish species. Soft coral gardens with lush gorgonians support lionfish, moray eels, and numerous nudibranchs.
 
 ## Dive Profile
 

@@ -13,30 +13,32 @@ addedBy: osm_import
 
 ## Fonualei
 
-Fonualei is a reef dive site in Tonga, Pacific.
+Fonualei is a remote volcanic island 70 km northwest of Vava'u with fringing reefs, featuring active volcanic features and challenging diving conditions. This is an advanced-only destination for experienced divers only.
 
 ## Overview
 
-Fonualei is a dive site in Tonga offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Fonualei is a remote, uninhabited volcanic island with rugged cliffs, black sand beaches, and active fumarolic vents. The island's volcanic activity creates a unique but hazardous diving environment. The fringing reefs around the island are subject to volcanic influence from active submarine vents and occasional eruptions (historical events in 1939 and 2001). The remote location (70 km from Vava'u) and active volcanism make this an expert-only destination with limited commercial dive operator availability.
 
 ## Site Information
 
-- **Location**: Tonga, Pacific
+- **Location**: 70 km northwest of Vava'u, Tonga
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Depth Range**: Varies with submarine volcanic features; typical fringing reef 5-30+ meters
+- **Access**: Extremely limited; requires specialized operators
+- **Typical Visibility**: Variable; volcanic activity may affect water quality
+- **Current**: Strong (exposed Pacific location)
+- **Water Temperature**: 21-28°C
+- **Best Time**: Limited diving season; volcano activity cycles require checking
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Limited dive history; general Tongan reef species expected but specific data unavailable. Volcanic influence may impact biodiversity through pumice rafts and thermal venting. Specialist knowledge required for this location.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Extreme remote location with high risk profile due to active volcanism. Diving is not recommended for recreational divers. Access through specialist operators only. Consult with local Tonga dive operators regarding volcano activity status before any dive planning.
 
 ## Entry and Exit
 

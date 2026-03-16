@@ -4,8 +4,8 @@ lat: -21.129817
 lng: -175.163267
 difficulty: Beginner
 maxDepth: 12
-entryType: shore
-siteType: wreck
+entryType: boat
+siteType: reef
 ref: null
 osmId: 9222907394
 addedBy: osm_import
@@ -13,34 +13,29 @@ addedBy: osm_import
 
 ## Ata
 
-Ata is a historic wreck dive in Tonga, Pacific.
+Ata is a historical hydrographic marker for a deteriorated wreck off remote 'Ata Island. The site represents a 1965 historical event rather than an active diving destination.
 
 ## Overview
 
-Ata is a dive site in Tonga featuring the wreck of the Ata. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Ata refers to a historical wreck marker related to a 1965 incident when six Tongan schoolboys stole a small 7.3-meter wooden boat and drifted 320 km across the Pacific during a storm. The vessel broke apart near 'Ata Island after eight days at sea, and the boys swam ashore using salvaged planks. The wreck was likely heavily broken and scattered on rocks near shore, with no subsequent recovery or salvage. The site exists primarily as a historical marker rather than a recreational diving destination.
 
 ## Site Information
 
-- **Location**: Tonga, Pacific
-- **Entry Type**: Shore entry
-- **Site Type**: Wreck dive
+- **Location**: Near 'Ata Island, remote southern Tonga (85 nautical miles SW of Tongatapu)
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 12 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Status**: Not a recreational dive site
+- **Access**: Extremely remote; no dive infrastructure
+- **Safety Profile**: Remote island location; dangerous approach
 
-## Marine Life
+## Historical Context
 
-Divers at this site can expect to encounter coral growth, anemones, lionfish, scorpionfish, glassy sweepers, manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks. Additional species commonly sighted include sea turtles, napoleon wrasse, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The wreck stems from the 1965 castaways incident documented in maritime history. The boat was destroyed on rocks and the vessel was heavily broken during wrecking—not suitable for diving. No modern dive activity is documented at this location.
 
-## Dive Profile
+## Dive Profile and Access
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 12 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
-
-## Entry and Exit
-
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+**This site is NOT recommended for diving.** The vessel was destroyed during the 1965 wrecking event, likely scattered across rocks in the surf zone. The remote island location (85 nm southwest of Tongatapu) and lack of infrastructure make any diving operations impractical. The site exists primarily as historical maritime interest, not as an active diving destination.
 
 ## Tips and Recommendations
 
