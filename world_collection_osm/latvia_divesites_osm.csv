@@ -1,0 +1,2 @@
+name,description,lat,lon,country,region,city,website,phone,email,difficulty,max_depth,entry_type,site_type,osm_id,osm_type,tags
+Oktopusas,,56.0479861,21.8322248,,,Plateliai,,,,,,,,320717944,way,"{""addr:city"": ""Plateliai"", ""addr:housenumber"": ""40C"", ""addr:street"": ""E\u017eero g."", ""amenity"": ""dive_centre"", ""building"": ""yes"", ""name"": ""Oktopusas"", ""sport"": ""scuba_diving""}"

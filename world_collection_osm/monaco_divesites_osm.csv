@@ -1,0 +1,2 @@
+name,description,lat,lon,country,region,city,website,phone,email,difficulty,max_depth,entry_type,site_type,osm_id,osm_type,tags
+CESMM,,43.7301658,7.4174826,MC,,,https://cesmm.com/,+37799903883,communication-cesmm@monaco.mc,,,,,9919108671,node,"{""addr:country"": ""MC"", ""club"": ""sport"", ""email"": ""communication-cesmm@monaco.mc"", ""name"": ""CESMM"", ""phone"": ""+37799903883"", ""sport"": ""scuba_diving"", ""website"": ""https://cesmm.com/""}"

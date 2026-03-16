@@ -1,0 +1,6 @@
+name,description,lat,lon,country,region,city,website,phone,email,difficulty,max_depth,entry_type,site_type,osm_id,osm_type,tags
+Dive and Surf,,-1.826673,-80.752531,,,,,,,,,,,1527739026,node,"{""amenity"": ""dive_centre"", ""name"": ""Dive and Surf"", ""sport"": ""scuba_diving""}"
+Parcela Marina,,-1.5927583,-80.8625987,,,,,,,,,,,5511745359,node,"{""name"": ""Parcela Marina"", ""natural"": ""reef"", ""scuba_diving:divespot"": ""yes"", ""sport"": ""scuba_diving""}"
+Isla Salango,,-1.5968145,-80.8655385,,,,,,,,,,,11868297,way,"{""admin_level"": ""4"", ""boundary"": ""administrative"", ""name"": ""Isla Salango"", ""natural"": ""coastline"", ""place"": ""islet"", ""scuba_diving:divespot"": ""yes"", ""sport"": ""scuba_diving"", ""wikipedia"": ""es:Isla Salango""}"
+Islas Los Ahorcados,,-1.6775902,-80.8365257,,,,,,,,,,,36880268,way,"{""name"": ""Islas Los Ahorcados"", ""natural"": ""coastline"", ""place"": ""islet"", ""scuba_diving:divespot"": ""yes"", ""sport"": ""scuba_diving""}"
+Islas Los Ahorcados,,-1.6784187,-80.835858,,,,,,,,,,,36880269,way,"{""name"": ""Islas Los Ahorcados"", ""natural"": ""coastline"", ""place"": ""islet"", ""scuba_diving:divespot"": ""yes"", ""sport"": ""scuba_diving""}"

@@ -1,0 +1,13 @@
+name,description,lat,lon,country,region,city,website,phone,email,difficulty,max_depth,entry_type,site_type,osm_id,osm_type,tags
+Il Balenottero,Dive center - Centre de plongée,-17.0004747,49.8513054,,,,,,,,,,,678832023,node,"{""leisure"": ""sports_centre"", ""name"": ""Il Balenottero"", ""note"": ""Dive center - Centre de plong\u00e9e"", ""sport"": ""scuba_diving""}"
+Mora Mora,,-23.1227101,43.6102441,,,,,,,,,,,1346805796,node,"{""amenity"": ""dive_centre"", ""name"": ""Mora Mora"", ""sport"": ""scuba_diving""}"
+Le Grand Bleu,,-23.1254202,43.608619,,,,,,,,,,,1346833560,node,"{""amenity"": ""dive_centre"", ""name"": ""Le Grand Bleu"", ""sport"": ""scuba_diving""}"
+Atimo Plongée,,-23.1226029,43.6095579,,,,,,,,,,,1346896474,node,"{""amenity"": ""dive_centre"", ""name"": ""Atimo Plong\u00e9e"", ""sport"": ""scuba_diving""}"
+Fifi Diving,,-23.1247053,43.6090448,,,,,,,,,,,1346896544,node,"{""amenity"": ""dive_centre"", ""name"": ""Fifi Diving"", ""sport"": ""scuba_diving""}"
+Tropical Diving,,-13.4001602,48.207616,,,,,,,,,,,2430780237,node,"{""amenity"": ""dive_centre"", ""name"": ""Tropical Diving"", ""sport"": ""scuba_diving""}"
+Balala Diving,,-13.598744,47.8184136,,,,,,,,,,,6072440123,node,"{""building"": ""yes"", ""name"": ""Balala Diving"", ""sport"": ""scuba_diving""}"
+Shark Point,,-13.3233766,48.0195595,,,,,,,,,,,6943550642,node,"{""name"": ""Shark Point"", ""scuba_diving:entry:boat"": ""yes"", ""scuba_diving:type:sharks"": ""yes"", ""sport"": ""scuba_diving"", ""tourism"": ""attraction""}"
+Manta divesite,,-13.3683279,48.0627584,,,,,,,,,,,6943571813,node,"{""name"": ""Manta divesite"", ""scuba_diving:entry:boat"": ""yes"", ""sport"": ""scuba_diving"", ""tourism"": ""attraction""}"
+Rosado,,-13.3931342,48.0866988,,,,,,,,,,,6943571814,node,"{""name"": ""Rosado"", ""scuba_diving:entry:boat"": ""yes"", ""sport"": ""scuba_diving"", ""tourism"": ""attraction""}"
+Chameau,,-13.3220658,48.0994665,,,,,,,,,,,6943573745,node,"{""name"": ""Chameau"", ""scuba_diving:entry:boat"": ""yes"", ""sport"": ""scuba_diving"", ""tourism"": ""attraction""}"
+Abalone,,-12.9265187,45.1010965,YT,,Boueni,https://www.abaloneplongee.com/,+33639224810,contact@abaloneplongee.com,,,,,9592217469,node,"{""addr:city"": ""Boueni"", ""addr:country"": ""YT"", ""addr:street"": ""Rue Abdallah Boina"", ""club"": ""sport"", ""email"": ""contact@abaloneplongee.com"", ""name"": ""Abalone"", ""phone"": ""+33639224810"", ""sport"": ""scuba_diving"", ""website"": ""https://www.abaloneplongee.com/""}"

@@ -1,0 +1,3 @@
+name,description,lat,lon,country,region,city,website,phone,email,difficulty,max_depth,entry_type,site_type,osm_id,osm_type,tags
+Undersea Tobago,,11.1577967,-60.8386256,,,,https://www.underseatobago.com/,868 631 2626,,,,,,2398801525,node,"{""leisure"": ""sports_centre"", ""name"": ""Undersea Tobago"", ""phone"": ""868 631 2626"", ""sport"": ""scuba_diving"", ""website"": ""https://www.underseatobago.com/""}"
+Extra Divers,,11.1590592,-60.8360693,,,,http://www.extradiverstobago.eu,,,,,,,2399563723,node,"{""leisure"": ""sports_centre"", ""name"": ""Extra Divers"", ""sport"": ""scuba_diving"", ""website"": ""http://www.extradiverstobago.eu""}"

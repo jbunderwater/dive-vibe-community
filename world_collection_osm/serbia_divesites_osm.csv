@@ -1,0 +1,3 @@
+name,description,lat,lon,country,region,city,website,phone,email,difficulty,max_depth,entry_type,site_type,osm_id,osm_type,tags
+ProDiving Montenegro,,42.2681218,18.8926644,,,,,+38269013985,,,,,,5891781559,node,"{""amenity"": ""dive_centre"", ""name"": ""ProDiving Montenegro"", ""phone"": ""+38269013985"", ""sport"": ""scuba_diving""}"
+Budva Diving,,42.2791316,18.8394929,,,,,+382 68 060 416,budvadiving@gmail.com,,,,,5891781600,node,"{""amenity"": ""dive_centre"", ""contact:email"": ""budvadiving@gmail.com"", ""contact:phone"": ""+382 68 060 416"", ""contact:website"": ""http://www.budvadiving.com"", ""name"": ""Budva Diving"", ""sport"": ""scuba_diving""}"

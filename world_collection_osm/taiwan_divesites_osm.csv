@@ -1,0 +1,7 @@
+name,description,lat,lon,country,region,city,website,phone,email,difficulty,max_depth,entry_type,site_type,osm_id,osm_type,tags
+柴口浮潛區,,22.6769164,121.4829375,,,,,,,,,,,940950060,node,"{""name"": ""\u67f4\u53e3\u6d6e\u6f5b\u5340"", ""scuba_diving"": ""divespot"", ""scuba_diving:type:snorkeling"": ""yes"", ""sport"": ""scuba_diving""}"
+大白沙潛水區,,22.6392711,121.4929505,,,,,,,,,,,3776472537,node,"{""name"": ""\u5927\u767d\u6c99\u6f5b\u6c34\u5340"", ""name:en"": ""Dabaisha"", ""name:zh"": ""\u5927\u767d\u6c99\u6f5b\u6c34\u5340"", ""scuba_diving:type:snorkeling"": ""yes"", ""sport"": ""scuba_diving""}"
+石朗潛水區,,22.6550943,121.4740829,,,,,,,,,,,4295593671,node,"{""name"": ""\u77f3\u6717\u6f5b\u6c34\u5340"", ""scuba_diving"": ""divespot"", ""scuba_diving:type:snorkeling"": ""yes"", ""sport"": ""scuba_diving"", ""tourism"": ""attraction""}"
+Blue Water Diving Safari,,22.6748997,121.4917318,,,,,,,,,,,5552059576,node,"{""name"": ""Blue Water Diving Safari"", ""sport"": ""scuba_diving""}"
+比賽池,,25.0229699,121.5071791,,,,,,,,,,,198399998,way,"{""covered"": ""no"", ""leisure"": ""swimming_pool"", ""location"": ""outdoor"", ""name"": ""\u6bd4\u8cfd\u6c60"", ""sport"": ""scuba_diving""}"
+南勇浮潜中心,,21.9424754,120.7430294,,,,,,,,,,,439396186,way,"{""building"": ""yes"", ""name"": ""\u5357\u52c7\u6d6e\u6f5c\u4e2d\u5fc3"", ""source"": ""Bing"", ""sport"": ""scuba_diving""}"

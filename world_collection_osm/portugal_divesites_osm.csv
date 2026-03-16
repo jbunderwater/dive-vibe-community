@@ -1,0 +1,6 @@
+name,description,lat,lon,country,region,city,website,phone,email,difficulty,max_depth,entry_type,site_type,osm_id,osm_type,tags
+Atalaia Diving,,32.6418949,-16.8298615,,,,,,,,,,,2649557695,node,"{""leisure"": ""sports_centre"", ""name"": ""Atalaia Diving"", ""sport"": ""scuba_diving"", ""toilets:wheelchair"": ""no"", ""wheelchair"": ""limited""}"
+Amigos do Mar,,41.6852673,-8.8461241,,,,,,,,,,,3563429593,node,"{""name"": ""Amigos do Mar"", ""sport"": ""scuba_diving""}"
+Lobosonda,,32.7184417,-17.1715909,PT,,Calheta,https://www.lobosonda.com/,+351 968 400 980,info@lobosonda.com,,,,,3882547823,node,"{""addr:city"": ""Calheta"", ""addr:country"": ""PT"", ""addr:postcode"": ""9370-133"", ""addr:street"": ""Avenida D. Manuel I"", ""email"": ""info@lobosonda.com"", ""name"": ""Lobosonda"", ""phone"": ""+351 968 400 980"", ""scuba_diving:type:snorkeling"": ""yes"", ""sport"": ""scuba_diving"", ""website"": ""https://www.lobosonda.com/""}"
+Scuba Madeira,,32.6361369,-16.9303615,,,,https://www.scuba-madeira.com,+351910864147,,,,,,5337055627,node,"{""name"": ""Scuba Madeira"", ""opening_hours"": ""Mo-Sa 10:00-17:00"", ""phone"": ""+351910864147"", ""sport"": ""scuba_diving"", ""website"": ""https://www.scuba-madeira.com""}"
+princess alice bank,,38.4046516,-29.9476204,,,,,,,,,,,5875583620,node,"{""name"": ""princess alice bank"", ""sport"": ""scuba_diving""}"

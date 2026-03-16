@@ -1,0 +1,4 @@
+name,description,lat,lon,country,region,city,website,phone,email,difficulty,max_depth,entry_type,site_type,osm_id,osm_type,tags
+The Maze,,16.1127403,-86.9490156,,,,,,,,,,,820354025,node,"{""name"": ""The Maze"", ""source"": ""survey"", ""sport"": ""scuba_diving""}"
+Long Caye Aquarium,,17.2130056,-87.6075978,,,,,,,,,,,5484628121,node,"{""name"": ""Long Caye Aquarium"", ""name:es"": ""Acuario de Cayo Largo"", ""scuba_diving:divespot"": ""yes"", ""sport"": ""scuba_diving"", ""tourism"": ""attraction""}"
+Half Moon Wall,,17.2082863,-87.5358197,,,,,,,,,,,5484628122,node,"{""name"": ""Half Moon Wall"", ""scuba_diving:divespot"": ""yes"", ""sport"": ""scuba_diving"", ""tourism"": ""attraction""}"

@@ -1,0 +1,2 @@
+name,description,lat,lon,country,region,city,website,phone,email,difficulty,max_depth,entry_type,site_type,osm_id,osm_type,tags
+Freights Bay,,13.0529211,-59.5352343,,,,,,,,,,,5542983921,node,"{""name"": ""Freights Bay"", ""sport"": ""scuba_diving"", ""tourism"": ""attraction""}"

@@ -1,0 +1,11 @@
+name,description,lat,lon,country,region,city,website,phone,email,difficulty,max_depth,entry_type,site_type,osm_id,osm_type,tags
+Laramar,,19.7690371,-70.5175386,,,,,,,,,,,270997626,node,"{""name"": ""Laramar"", ""sport"": ""scuba_diving"", ""sport:scuba_diving"": ""yes"", ""tourism"": ""attraction""}"
+3 Rocks,,19.7727934,-70.5135665,,,,,,,,,,,270997627,node,"{""name"": ""3 Rocks"", ""sport"": ""scuba_diving"", ""sport:scuba_diving"": ""yes"", ""tourism"": ""attraction""}"
+Five Rocks,,19.7570957,-70.5489664,,,,,,,,,,,270998665,node,"{""name"": ""Five Rocks"", ""sport"": ""scuba_diving"", ""tourism"": ""attraction""}"
+Astron,,18.7304726,-68.4539093,,,,,,,,,,,512287101,node,"{""diving:type"": ""wreck"", ""historic"": ""wreck"", ""name"": ""Astron"", ""seamark:type"": ""wreck"", ""source"": ""yahoo"", ""sport"": ""scuba_diving"", ""tourism"": ""attraction"", ""wikidata"": ""Q4811601"", ""wikipedia"": ""en:Astron (ship)""}"
+Aquarium,,18.3644497,-69.0248231,,,,,,,,,,,1561340043,node,"{""name"": ""Aquarium"", ""scuba"": ""yes"", ""scuba_diving:depth"": ""12"", ""scuba_diving:divespot"": ""Aquarium"", ""scuba_diving:entry"": ""boat"", ""scuba_diving:type"": ""reef"", ""sport"": ""scuba_diving""}"
+The Wall,,18.3708321,-69.0038486,,,,,,,,,,,1561340047,node,"{""name"": ""The Wall"", ""scuba"": ""yes"", ""scuba_diving:depth"": ""20"", ""scuba_diving:divespot"": ""The Wall"", ""scuba_diving:entry"": ""boat"", ""scuba_diving:type"": ""wall"", ""sport"": ""scuba_diving""}"
+Playita,,19.2944746,-69.2077604,,,,,,,,,,,3348737500,node,"{""name"": ""Playita"", ""sport"": ""scuba_diving""}"
+The dive Academy,École de plongée,19.3215733,-69.5400923,,,,https://tdalasterrenas.com/,+1 829 906 9618,,,,,,6914199295,node,"{""addr:street"": ""Beach Garden Plaza"", ""description"": ""\u00c9cole de plong\u00e9e"", ""name"": ""The dive Academy"", ""phone"": ""+1 829 906 9618"", ""sport"": ""scuba_diving"", ""website"": ""https://tdalasterrenas.com/""}"
+Las Galeras Divers,,19.2911794,-69.1984232,,,,,,,,,,,7243017306,node,"{""name"": ""Las Galeras Divers"", ""sport"": ""scuba_diving""}"
+Astron,,18.7303783,-68.4538206,,,,,,,,,,,170000345,way,"{""historic"": ""wreck"", ""name"": ""Astron"", ""seamark:type"": ""wreck"", ""sport"": ""scuba_diving""}"

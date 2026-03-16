@@ -1,0 +1,6 @@
+name,description,lat,lon,country,region,city,website,phone,email,difficulty,max_depth,entry_type,site_type,osm_id,osm_type,tags
+Dibba Rock,,25.6034329,56.3502417,,,,,,,,,,,9865803545,node,"{""name"": ""Dibba Rock"", ""scuba_diving:entry:boat"": ""yes"", ""sport"": ""scuba_diving"", ""tourism"": ""attraction""}"
+Snoopy Island,,25.4926007,56.3635239,,,,,,,,,,,9865811800,node,"{""name"": ""Snoopy Island"", ""sport"": ""scuba_diving"", ""tourism"": ""attraction""}"
+Al Boom Diving,,25.5071941,56.364763,,,,,,,,,,,560232067,way,"{""building"": ""yes"", ""name"": ""Al Boom Diving"", ""name:en"": ""Al Boom Diving"", ""sport"": ""scuba_diving""}"
+Dibba Rock Reef,,25.6031152,56.3508923,,,,,,,,,,multipolygon,3357581,relation,"{""boundary"": ""protected_area"", ""name"": ""Dibba Rock Reef"", ""name:en"": ""Dibba Rock Reef"", ""sport"": ""scuba_diving"", ""type"": ""multipolygon""}"
+Snoopy Island Reef,,25.4922406,56.3640027,,,,,,,,,,multipolygon,3357593,relation,"{""boundary"": ""protected_area"", ""name"": ""Snoopy Island Reef"", ""name:en"": ""Snoopy Island Reef"", ""sport"": ""scuba_diving"", ""type"": ""multipolygon""}"

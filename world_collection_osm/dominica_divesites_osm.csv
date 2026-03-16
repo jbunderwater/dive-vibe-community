@@ -1,0 +1,2 @@
+name,description,lat,lon,country,region,city,website,phone,email,difficulty,max_depth,entry_type,site_type,osm_id,osm_type,tags
+Nature Island Dive,,15.2323133,-61.3610502,,,,,,,,,,,277752275,way,"{""building"": ""yes"", ""hurricane:damage"": ""moderate"", ""name"": ""Nature Island Dive"", ""sport"": ""scuba_diving""}"

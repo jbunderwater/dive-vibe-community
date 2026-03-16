@@ -1,0 +1,2 @@
+name,description,lat,lon,country,region,city,website,phone,email,difficulty,max_depth,entry_type,site_type,osm_id,osm_type,tags
+ABT Salalah,,17.0087552,54.1517412,,,,,,,,,,,306050061,node,"{""name"": ""ABT Salalah"", ""sport"": ""scuba_diving""}"

@@ -1,0 +1,9 @@
+name,description,lat,lon,country,region,city,website,phone,email,difficulty,max_depth,entry_type,site_type,osm_id,osm_type,tags
+Cedar Pride,,29.5216667,34.9883333,,,,,,,,,,,663869877,node,"{""historic"": ""wreck"", ""name"": ""Cedar Pride"", ""seamark:type"": ""wreck"", ""sport"": ""scuba_diving"", ""verified"": ""no, please check and del this tag""}"
+סופה,,29.5447222,34.9539555,,,,,,,,,,,663869878,node,"{""historic"": ""wreck"", ""name"": ""\u05e1\u05d5\u05e4\u05d4"", ""name:en"": ""Soufa"", ""name:he"": ""\u05e1\u05d5\u05e4\u05d4"", ""seamark:type"": ""wreck"", ""sport"": ""scuba_diving"", ""verified"": ""no, please check and del this tag""}"
+Japanese Gardens Coral Reefs,,29.429928,34.97325,,,,,,,,,,,2374261090,node,"{""name"": ""Japanese Gardens Coral Reefs"", ""sport"": ""scuba_diving""}"
+Cedar Pride Shipwreck,,29.4310657,34.9731609,,,,,,,,,,,4329102691,node,"{""name"": ""Cedar Pride Shipwreck"", ""sport"": ""scuba_diving"", ""tourism"": ""attraction""}"
+Gorgon 1,,29.426193,34.9721236,,,,,,,,,,,5504662457,node,"{""name"": ""Gorgon 1"", ""sport"": ""scuba_diving""}"
+Tank,,29.4187751,34.9716597,,,,,,,,,,,5522700737,node,"{""name"": ""Tank"", ""sport"": ""scuba_diving"", ""tourism"": ""attraction""}"
+Plane wreck,,29.4180629,34.97162,,,,,,,,,,,5522700738,node,"{""name"": ""Plane wreck"", ""sport"": ""scuba_diving"", ""tourism"": ""attraction""}"
+Rainbow reef,,29.4325243,34.9737847,,,,,,,,,,,5603008074,node,"{""name"": ""Rainbow reef"", ""sport"": ""scuba_diving"", ""tourism"": ""attraction""}"

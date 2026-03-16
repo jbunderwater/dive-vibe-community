@@ -1,0 +1,7 @@
+name,description,lat,lon,country,region,city,website,phone,email,difficulty,max_depth,entry_type,site_type,osm_id,osm_type,tags
+La Cueva,,8.7111362,-83.8898561,,,,,,,,,,,1552609317,node,"{""name"": ""La Cueva"", ""natural"": ""reef"", ""sport"": ""scuba_diving""}"
+El Andia - Jureles,,8.7120224,-83.8853407,,,,,,,,,,,1552609341,node,"{""name"": ""El Andia - Jureles"", ""natural"": ""reef"", ""sport"": ""scuba_diving""}"
+El Arco,,8.7101759,-83.8933319,,,,,,,,,,,1552609343,node,"{""name"": ""El Arco"", ""natural"": ""reef"", ""sport"": ""scuba_diving""}"
+Jardín Medio,,8.7126725,-83.8792026,,,,,,,,,,,1552609345,node,"{""name"": ""Jard\u00edn Medio"", ""natural"": ""reef"", ""sport"": ""scuba_diving""}"
+La esquina del jardin,,8.7155639,-83.8698587,,,,,,,,,,,1552616246,node,"{""name"": ""La esquina del jardin"", ""natural"": ""reef"", ""sport"": ""scuba_diving""}"
+Diving and snorkeling point,,9.7813098,-84.8909552,,,,,,,,,,,2557077396,node,"{""name"": ""Diving and snorkeling point"", ""sport"": ""scuba_diving""}"
