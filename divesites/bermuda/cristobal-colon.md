@@ -3,7 +3,7 @@ name: Cristobal Colon
 lat: 32.45
 lng: -64.6333
 difficulty: Intermediate
-maxDepth: 17
+maxDepth: 18
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,30 +13,32 @@ addedBy: osm_import
 
 ## Cristobal Colon
 
-Cristobal Colon is a historic wreck dive in Bermuda, Atlantic.
+The Cristobal Colon is Bermuda's largest shipwreck and one of the most impressive dive sites in the Atlantic. This 499-foot Spanish cruise liner, built in 1923, crashed into Bermuda's North Shore on October 25, 1936, when the captain mistook an offshore tower for the Gibbs Hill Lighthouse.
 
 ## Overview
 
-Cristobal Colon is a dive site in Bermuda featuring the wreck of the Cristobal Colon. Located in the Atlantic region, this site offers 15-30 meters of visibility with water temperatures averaging 20-28°C.
+The Cristobal Colon's massive wreckage spreads over approximately 100,000 square feet, creating an awe-inspiring dive environment with sections ranging from 15 feet at the bow to 80 feet at the stern. Both beginner and experienced divers can explore different portions of the site at their comfort level, making it one of Bermuda's most versatile wreck dives.
 
 ## Site Information
 
-- **Location**: Bermuda, Atlantic
+- **Location**: North Shore, 8 miles north of Bermuda
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 17 meters
-- **Typical Visibility**: 15-30 meters (50-100 feet)
+- **Maximum Depth**: 18 meters
+- **Typical Visibility**: 30-50 feet (9-15 meters)
 - **Current**: Light to moderate
-- **Best Time**: May to October
+- **Best Time**: Spring and Fall (May-June, September-October)
+- **Ship Type**: Spanish cruise liner (499 feet long, 3 decks)
+- **Year Sunk**: October 25, 1936
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, snappers, barracuda, coral encrustation, sea turtles, reef sharks, groupers, snappers. Additional species commonly sighted include parrotfish, angelfish. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The expansive wreck teems with large groupers, snappers, barracuda, and schools of jacks. Reef sharks are occasionally spotted. The superstructure is heavily encrusted with coral and sponges, providing habitat for countless small reef fish, lobsters, and crustaceans.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 17 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Intermediate divers can explore the upper sections (15-45 feet) where much of the superstructure remains recognizable. Ascend gradually and plan a 5-minute safety stop at 15 feet. The massive size allows for multiple visits to different sections without repetition.
 
 ## Entry and Exit
 

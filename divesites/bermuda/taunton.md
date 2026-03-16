@@ -3,7 +3,7 @@ name: Taunton
 lat: 32.355
 lng: -64.655
 difficulty: Beginner
-maxDepth: 12
+maxDepth: 6
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,30 +13,34 @@ addedBy: osm_import
 
 ## Taunton
 
-Taunton is a historic wreck dive in Bermuda, Atlantic.
+The Taunton is a picturesque and photogenic wreck dive that makes an excellent site for both divers and snorkelers. This 228-foot Danish cargo steamer built in 1902 ran aground on Bermuda's northeastern reef on November 24, 1920, while carrying coal from Norfolk, Virginia to St. George.
 
 ## Overview
 
-Taunton is a dive site in Bermuda featuring the wreck of the Taunton. Located in the Atlantic region, this site offers 15-30 meters of visibility with water temperatures averaging 20-28°C.
+The Taunton lies broken up over a shallow reef in just 20 feet of water, creating an accessible and photogenic dive site. The shallow depth and manageable conditions make it ideal for less experienced divers, while the interesting wreckage provides plenty to explore and photograph for all skill levels.
 
 ## Site Information
 
-- **Location**: Bermuda, Atlantic
+- **Location**: Bermuda's northeastern reef
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 12 meters
-- **Typical Visibility**: 15-30 meters (50-100 feet)
+- **Maximum Depth**: 6 meters
+- **Typical Visibility**: 30-40 feet (9-12 meters)
 - **Current**: Light to moderate
 - **Best Time**: May to October
+- **Ship Type**: Danish cargo steamer (228 feet)
+- **Built**: 1902
+- **Year Sunk**: November 24, 1920
+- **Cargo**: Coal
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, snappers, barracuda, coral encrustation, sea turtles, reef sharks, groupers, snappers. Additional species commonly sighted include parrotfish, angelfish. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Schools of snappers, groupers, and jacks frequent this shallow wreck. Rays and sea turtles are occasionally spotted in the reef area. The broken pieces provide habitat for lobsters, crabs, and smaller reef fish.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 12 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend to explore the scattered wreckage spread across the shallow reef. The shallow depth of 20 feet allows 60+ minutes of comfortable bottom time. Excellent for new divers and snorkelers. Ascend gradually with a 3-minute safety stop at 10 feet.
 
 ## Entry and Exit
 

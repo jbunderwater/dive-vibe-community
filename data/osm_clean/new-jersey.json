@@ -5,10 +5,12 @@
     "lon": -73.0344,
     "osm_id": 663869526,
     "osm_type": "node",
-    "depth": null,
+    "depth": 73,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "validated": "true",
+    "validation_source": "njscuba.net/u-869, Wikipedia, Shadow Divers book",
     "tags": {
       "historic": "wreck",
       "name": "U-869 (Wrack)",
@@ -26,15 +28,18 @@
     "osm_type": "node",
     "depth": null,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "validated": "true",
+    "validation_source": "njmaritimemuseum.org/barnegat-light-and-the-sea-king",
     "tags": {
       "historic": "wreck",
       "name": "Sea King",
       "seamark:type": "wreck",
       "start_date": "1963-02",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "note": "Wreck is now buried in beach dunes at Barnegat Light; no longer a submerged dive site"
     }
   },
   {
@@ -43,27 +48,32 @@
     "lon": -74.092767,
     "osm_id": 601883648,
     "osm_type": "way",
-    "depth": null,
+    "depth": 3,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "validated": "true",
+    "validation_source": "Wikipedia/Tices_shoal, njscuba.net, visitnj.org",
     "tags": {
       "name": "Tices Shoal",
       "natural": "reef",
       "wikidata": "Q7800579",
       "wikipedia": "en:Tices shoal",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "note": "Shallow Barnegat Bay shoal used mainly for snorkeling and boating; max depth ~3m"
     }
   },
   {
     "name": "USS Algol (AKA-54)",
     "lat": 39.7692,
     "lon": -73.4736,
-    "depth": 40,
+    "depth": 45,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
+    "validated": "true",
+    "validation_source": "njscuba.net/uss-algol-aka-54, ScubaBoard, Zentacle",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill"
@@ -77,6 +87,8 @@
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
+    "validated": "true",
+    "validation_source": "njscuba.net/stolt-dagali, leisurepro.com/stolt-dagali, ScubaBoard",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill"
@@ -86,10 +98,12 @@
     "name": "Mohawk",
     "lat": 40.115,
     "lon": -73.8833,
-    "depth": 25,
+    "depth": 24,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "njscuba.net/mohawk",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill"
@@ -99,10 +113,12 @@
     "name": "Tolten",
     "lat": 39.4833,
     "lon": -73.8833,
-    "depth": 30,
+    "depth": 29,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
+    "validated": "true",
+    "validation_source": "njscuba.net/tolten, aquaexplorers.com/tolten, ScubaBoard",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill"
@@ -116,6 +132,8 @@
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
+    "validated": "true",
+    "validation_source": "njscuba.net/uss-san-diego, PADI dive site listing, history.navy.mil",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill"
@@ -129,9 +147,12 @@
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
+    "validated": "true",
+    "validation_source": "njscuba.net/andrea-doria, scubadiving.com, Wikipedia/SS_Andrea_Doria",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "note": "Technical/extreme dive; nicknamed the Mount Everest of wreck diving. 240 ft max depth, 190 ft min. Located 100 miles offshore near Nantucket."
     }
   },
   {
@@ -142,6 +163,8 @@
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
+    "validated": "true",
+    "validation_source": "njscuba.net/texas-tower, Wikipedia/Texas_Tower_4",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill"
@@ -151,23 +174,28 @@
     "name": "Artificial Reef Site 15",
     "lat": 39.1917,
     "lon": -74.3583,
-    "depth": 22,
-    "site_type": "wreck",
+    "depth": 20,
+    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "njscuba.net/cape-may-reef, nj.gov DEP reef guide",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "note": "Coordinates correspond to Cape May Artificial Reef area; NJ has 14 official reef sites, no numbered Site 15 exists. Depth range 50-75 ft at Cape May reef."
     }
   },
   {
     "name": "Axel Carlson",
     "lat": 39.4167,
     "lon": -74.1833,
-    "depth": 25,
-    "site_type": "wreck",
+    "depth": 22,
+    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "njscuba.net/axel-carlson-reef",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill"
@@ -177,10 +205,12 @@
     "name": "Great Isaac",
     "lat": 39.7833,
     "lon": -73.4333,
-    "depth": 35,
+    "depth": 27,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
+    "validated": "true",
+    "validation_source": "njscuba.net/great-isaac, NJ Monthly/shipwreck-diving",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill"

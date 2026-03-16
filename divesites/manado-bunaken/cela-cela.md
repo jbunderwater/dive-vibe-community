@@ -2,8 +2,8 @@
 name: Cela Cela
 lat: 1.6102864
 lng: 124.7683402
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Beginner
+maxDepth: 30
 entryType: boat
 siteType: wall
 ref: null
@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Cela Cela
 
-Cela Cela is a reef dive site in Manado & Bunaken, Asia.
+Cela Cela — meaning "crack" in Indonesian — is a sheltered wall dive located very close to the Bunaken Island beach. Its name describes the characteristic cracked, fractured cliff face that defines the site. With almost no current and easy access, it is one of the best beginner wall dives and night dive sites in the park, while still offering substantial wall depth to 30 metres.
 
 ## Overview
 
-Cela Cela is a dive site in Manado & Bunaken offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The wall begins as a sandy slope that transitions into a capricious, fractured wall full of interesting corners, niches, and mysterious crevices. The cracked vertical cliff face allows corals and starfish to establish themselves in the many horizontal ledges and gaps, creating a varied and textured surface quite different from the smoother walls found at other Bunaken sites. Large caves can be explored during day dives. At 30 metres, the wall gives way to a sandy slope heading into the blue. Almost no current makes this site highly predictable and safe.
 
 ## Site Information
 
-- **Location**: Manado & Bunaken, Asia
+- **Location**: Bunaken Island, very close to the beach, Bunaken National Marine Park
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 30 meters
+- **Typical Visibility**: 15-20 metres
+- **Current**: Almost none — one of the calmest sites in the park
+- **Best Time**: Year-round; excellent night dive year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The fractured wall face hosts corals, starfish, and crinoids in the ledges and crevices. Large caves are accessible for exploration. Diverse reef fish communities live in the sheltered wall environment. Night diving here reveals a different cast of creatures — hunting octopuses, sleeping fish, and invertebrate activity make this a prime nocturnal dive destination.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the sandy slope and transition to the wall. Explore the fractured surface slowly — the many corners and niches each hold something different. Visit the large caves with a torch. At 30 metres, the wall transitions to a sandy slope heading into open water. Ascend the wall and finish at the shallow sections before a safety stop. Night dives follow the same profile with torch light illuminating the changed nocturnal community.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from Bunaken Island, very close to shore. The beach proximity and calm conditions make this site logistically straightforward. Night dive access is regularly offered by Bunaken Island operators.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Perfect choice for nervous or beginner divers — the lack of current removes the biggest source of difficulty
+- The night dive here is one of the best in Bunaken — strongly recommended
+- Carry a torch even on day dives for the caves and deeper crevices
+- Take your time exploring the fractured wall face — the variety of textures and inhabitants is greater than it first appears
+- Also suitable for snorkelling from the beach if conditions are calm
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Almost no current makes this one of the safest dives in the park. Cave exploration should be done only to the point where natural light remains visible and with a torch. Carry an SMB. For night dives, carry individual lights and ensure the boat is lit.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The fractured wall face is a visually distinctive wide-angle subject. The cave entrances with natural light make dramatic wide-angle shots. The crevices and ledges host a variety of small species for macro work. Night photography here is exceptional — hunting octopuses, crabs, and invertebrates offer subjects that simply aren't present on day dives.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-03-15
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*Validated against divezone.net/divesite/celah-celah and padi.com/dive-site/indonesia/celah-celah. Last updated 2026-03-15.*

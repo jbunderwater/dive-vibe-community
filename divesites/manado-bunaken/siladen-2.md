@@ -3,7 +3,7 @@ name: Siladen 2
 lat: 1.624023
 lng: 124.8079861
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 35
 entryType: boat
 siteType: wall
 ref: null
@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Siladen 2
 
-Siladen 2 is a reef dive site in Manado & Bunaken, Asia.
+Siladen 2 is a second dive site around Siladen Island, complementing Siladen 1 with a different section of the island's surrounding walls. Like the rest of Siladen's reefs, this site is known for resident reef sharks, diverse coral growth, and excellent macro life — a combination rarely available in such proximity to each other.
 
 ## Overview
 
-Siladen 2 is a dive site in Manado & Bunaken offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Siladen Island's coral walls are among the best-preserved in Bunaken National Marine Park, benefiting from the island's relatively remote position and the management of the dive resort based there. The wall at Siladen 2 features vibrant coral growth and drops to approximately 35 metres. Mild to medium currents are typical, and the shallower reef cap hosts an impressive diversity of small and cryptic species alongside the regular appearances of sharks and turtles.
 
 ## Site Information
 
-- **Location**: Manado & Bunaken, Asia
+- **Location**: Siladen Island, Bunaken National Marine Park
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 35 meters
+- **Typical Visibility**: 15-25 metres
+- **Current**: Mild to medium
+- **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Blacktip and whitetip reef sharks are resident. Eagle rays, sea turtles, tuna, trevally, Napoleon wrasse, and barracuda are regular larger species. The macro life around Siladen includes mandarin fish, pontohi seahorses, sponge crabs, ghost pipefish, and a rich diversity of nudibranchs — species not commonly found at the main Bunaken Island sites.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the wall and work along it at a comfortable depth. Explore the coral-encrusted face for macro life in crevices, and keep an eye into the blue water for passing pelagics. The shallow reef cap is worth slow, careful exploration for cryptic and small species. Ascend to the reef top for your safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from Siladen Island resort or from Bunaken and Manado operators who include Siladen on day trips. Mild to medium current is typical. Conditions are generally well-suited to intermediate divers.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Explore a different section of the island's wall from Siladen 1 on consecutive dives
+- Look carefully at soft coral branches for pontohi seahorses and ghost pipefish
+- Mandarin fish can sometimes be found in rubble areas on the reef flat at dusk
+- The reef's pristine condition rewards slow, unhurried exploration
+- Ask your guide about the best macro spots for the day's conditions
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Current is mild to medium. Monitor conditions and carry an SMB. Shark encounters here are typical of Bunaken — unthreatening blacktips and whitetips. Maintain calm behaviour around sharks.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Siladen's preserved reef system and macro diversity make it one of the best photography destinations within the Bunaken Marine Park. Wide-angle reef scenes with sharks or turtles are reliably available. Macro photographers will find exceptional subjects including pontohi seahorses and nudibranchs.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-03-15
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*Validated against siladen.com/experiences/dive-sites-map and murexresorts.com/diving-bunaken. Last updated 2026-03-15.*

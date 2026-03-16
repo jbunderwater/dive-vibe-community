@@ -3,7 +3,7 @@ name: Fondeadero
 lat: 18.75
 lng: -110.94
 difficulty: Advanced
-maxDepth: 18
+maxDepth: 30
 entryType: boat
 siteType: reef
 ref: null
@@ -25,7 +25,7 @@ El Fondeadero consists of three block-like lava formations sitting near the anch
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 18 meters
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10–15 meters (lowest in the archipelago)
 - **Current**: Light to moderate; calmer than other Socorro sites
 - **Best Time**: November to June
@@ -36,7 +36,7 @@ The three volcanic blocks provide habitat for lobsters throughout the cavities, 
 
 ## Dive Profile
 
-A straightforward reef dive on the three block formations. Divers explore the cavities and overhangs for the resident fauna, working around each block. Maximum depth of 18 meters provides comfortable bottom times. Often used as a checkout dive: divers demonstrate buoyancy control and confirm equipment function before heading to the more demanding sites. Not a drift dive — conditions are manageable even for divers who have not yet acclimatized to the trip.
+A straightforward reef dive on the three block formations. Divers explore the cavities and overhangs for the resident fauna, working around each block. The site runs from 30 meters depth at the southern end, rising toward 10 meters as it approaches the island — giving the dive a natural slope that allows extended bottom times in the shallower northern sections. Often used as a checkout dive: divers demonstrate buoyancy control and confirm equipment function before heading to the more demanding sites. Not a drift dive — conditions are manageable even for divers who have not yet acclimatized to the trip.
 
 ## Entry and Exit
 

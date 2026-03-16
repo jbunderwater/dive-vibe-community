@@ -3,8 +3,8 @@ name: Winfield Scott
 lat: 34.0090477
 lng: -119.3859321
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+maxDepth: 10
+entryType: boat
 siteType: wreck
 ref: null
 osmId: 2780241699
@@ -13,55 +13,61 @@ addedBy: osm_import
 
 ## Winfield Scott
 
-Winfield Scott is a historic wreck dive in California Channel Islands, North America.
+The Winfield Scott is a Gold Rush-era sidewheel steamer that sank in 1853 on the north side of Middle Anacapa Island — one of the most historically significant and accessible wreck dives in the Channel Islands, listed on the National Register of Historic Places.
 
 ## Overview
 
-Winfield Scott is a dive site in California Channel Islands featuring the wreck of the Winfield Scott. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The SS Winfield Scott was a side-wheel passenger steamer that operated between San Francisco and Panama during the California Gold Rush, carrying miners, passengers, and cargo. On the evening of December 1, 1853, the ship entered dense fog off the Southern California coast with over 500 passengers aboard. At full speed, the vessel collided with Middle Anacapa Island's rocky north shore. Remarkably, all passengers and crew survived — they camped on the island for several days until rescue ships arrived. The ship carried $800,000 in gold. The wreck has rested on Anacapa's north reef for over 170 years and is now one of the most reliably dived shipwrecks in the Channel Islands National Marine Sanctuary, accessible to divers at all skill levels. It is listed on the National Register of Historic Places.
 
 ## Site Information
 
-- **Location**: California Channel Islands, North America
-- **Entry Type**: Shore entry
+- **Location**: North side of Middle Anacapa Island, Channel Islands National Park
+- **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 10 meters
+- **Depth Range**: 1.5-10 meters (5-35 feet) — one of the few Channel Islands wrecks diveable and snorkelable
+- **Typical Visibility**: 6-10 meters (20-35 feet)
+- **Current**: Occasional current along the outer edge; watch for a wash rock northwest of the site
+- **Best Time**: Year-round; thick kelp in summer can obscure sections
+- **Water Temperature**: 14-17°C (58-62°F) in summer; colder through autumn and winter
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The north side of Anacapa is renowned for Channel Islands marine life diversity. Around the Winfield Scott, divers encounter abundant kelp bass and sheephead — both characteristically bold and approachable. Garibaldi, the California state marine fish, are ubiquitous and photogenic. The paddlewheel structure and hull sections host rockfish and cabezon in the shaded overhangs. Sea lions from Anacapa's California sea lion colony regularly interact with divers at this site. Harbor seals are occasionally seen.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 25 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The wreck features immense structural pieces including the massive paddle-shaft support and one of the original paddlewheels — remarkable survivals from 1853. Copper-sheeted oak planking sections are preserved on the bottom. The site ranges from 1.5 meters in the shallows to 10 meters at the deepest main structural elements. Snorkelers can view the upper structure; scuba divers can explore the full extent. Divers typically begin at the deepest sections (paddlewheel, shaft support) and work upward through the scattered hull. Thick kelp in summer requires navigation attention.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Charter boat access from Ventura Harbor — Anacapa is the closest Channel Island to the mainland and has the most regular charter service. The north side of the island provides reasonable shelter from northwest swell. This site is visited regularly by multiple charter operators and is one of the most-dived sites in the Channel Islands. Watch for a wash rock northwest of the main site when planning your approach.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- 5-7mm wetsuit recommended — water is consistently cool even in summer
+- One of the few Channel Islands wrecks snorkelable — excellent for introducing new divers or snorkelers to Channel Islands history
+- Touching or disturbing the wreck in any way is strictly forbidden — serious legal penalties apply
+- Nothing can be removed from this protected National Register site
+- Kelp can be very thick in summer — carry a cutting tool and maintain good buoyancy
+- Bring a torch to illuminate the interior of the paddlewheel hub and underside of hull sections
+- Pairs well with the Equator wreck for a two-wreck day at Anacapa
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The north side of Middle Anacapa offers reasonable shelter but occasional current along the outer site edge and a submerged wash rock northwest of the main wreck require attention. Kelp overhead in summer demands a cutting tool and conservative buoyancy management. Monitor surf conditions on entry and exit from the charter boat. Water temperature calls for adequate thermal protection.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The Winfield Scott offers some of the most historically evocative wreck photography in California diving. The massive paddlewheel structure and paddle-shaft support are dramatic wide-angle subjects with natural light filtering through kelp. Kelp bass and garibaldi are cooperative subjects. Copper-sheeted planking — green from oxidation — creates colorful macro compositions. Good visibility of 6-10 meters supports effective ambient-light photography without strobe at the shallower sections.
 
 ## Additional Resources
 
+- [California Diving News - Wreck of the Winfield Scott](https://cadivingnews.com/dive-spots/wreck-of-the-winfield-scott/)
+- [NPS - Shipwrecks: The Winfield Scott](https://www.nps.gov/chis/learn/historyculture/winfieldscott.htm)
+- [NOAA - SS Winfield Scott](https://sanctuaries.noaa.gov/earthisblue/wk216-winfield-scott.html)
 - **Last Updated**: 2026-03-15
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from California Diving News, NPS Channel Islands documentation, and NOAA National Marine Sanctuaries records. Last updated 2026-03-15.*

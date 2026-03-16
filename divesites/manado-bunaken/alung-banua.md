@@ -2,8 +2,8 @@
 name: Alung banua
 lat: 1.6174836
 lng: 124.7559944
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Beginner
+maxDepth: 25
 entryType: boat
 siteType: wall
 ref: null
@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Alung banua
 
-Alung banua is a reef dive site in Manado & Bunaken, Asia.
+Alung banua is a vertical wall dive site on Bunaken Island, named after a small village on the south side of the island. It is one of the most sheltered and accessible wall dives in the park, with minimal current that makes it excellent for night dives and for divers of all experience levels — including beginners on their first wall dives.
 
 ## Overview
 
-Alung banua is a dive site in Manado & Bunaken offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The dive begins on a sloping sandy patch — home to jawfish and leaf scorpionfish — before transitioning to a vertical wall studded with cracks, crevices, and one distinctive large chimney-style cave. The wall face features varied hard corals of many shapes, soft corals, ascidians, and feather stars. Depths range from 18-25 metres in the main dive area. Because it is very sheltered from waves and current, Alung banua is a go-to site for night dives and is suitable for divers completing open water training.
 
 ## Site Information
 
-- **Location**: Manado & Bunaken, Asia
+- **Location**: South Bunaken Island, Bunaken National Marine Park
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 25 meters
+- **Typical Visibility**: 15-25 metres
+- **Current**: Minimal — very sheltered
+- **Best Time**: Year-round; excellent for night dives
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Jawfish are found on the sandy slope at the dive start — unusual and interesting subjects that bob in and out of their burrows. Leaf scorpionfish are regularly spotted in the sand and rubble transition zone. The chimney cave hosts its own community of resident species. Crinoids on the wall face host crinoid shrimp. Ghost pipefish are regular sightings. The sheltered character of the site encourages a wider variety of small and cryptic species than the more exposed, current-swept walls.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the sandy slope and look carefully for jawfish and leaf scorpionfish. Transition to the wall and explore the crack and crevice network. Locate the large chimney cave and swim through if your guide indicates safe conditions. Continue along the wall, checking feather stars and crinoids for resident shrimp. Maximum depth 25 metres; most interest is in the 15-25m zone.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from Bunaken Island operators. The sheltered conditions make entry and exit simple and predictable. Night dive access is regularly offered at this site — boats typically remain anchored nearby.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Ideal for first-time wall divers — the lack of current removes a major source of anxiety
+- Night diving here is exceptional — the sandy slope comes alive with different species after dark
+- Look very carefully at the sandy slope start for jawfish — approach slowly to avoid disturbing them
+- The large chimney cave is a highlight — bring a torch and proceed only with guide approval
+- Check feather star arms carefully for resident crinoid shrimp
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Minimal current makes this one of the safest dives in the park. The chimney cave should only be entered under guide supervision and with adequate torch illumination. For night dives, ensure boats are properly lit and that all divers carry individual lights. Carry an SMB.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The sandy slope with jawfish and leaf scorpionfish is outstanding for macro photography — both subjects are relatively approachable in the calm conditions. The chimney cave interior photographed with strobes is a dramatic wide-angle subject. Crinoid shrimp on feather stars are excellent macro subjects. Night photography here is highly recommended — the sandy slope offers a completely different set of subjects after dark.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-03-15
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*Validated against divezone.net/divesite/alung-banua, scubadiving.place/divesite/alung-banua, and divescover.com/dive-site/alung-banua. Last updated 2026-03-15.*

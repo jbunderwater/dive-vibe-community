@@ -3,7 +3,7 @@ name: Hairball
 lat: 1.4667
 lng: 125.2333
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 29
 entryType: boat
 siteType: muck
 ref: null
@@ -17,7 +17,7 @@ Hairball is one of the most celebrated muck dive sites in Lembeh Strait and argu
 
 ## Overview
 
-Hairball features a dark sand slope that descends from about 3 meters to beyond 20 meters, scattered with rubble, encrusted debris, rope sponges, and the occasional coral head. The volcanic black sand provides a dramatic contrast for photography. The site is accessible as a house reef from the adjacent NAD-Lembeh and Dive Into Lembeh resorts, making it one of the most dived and well-known sites in the strait. Night dives here are legendary — the diversity of nocturnal critters rivals the daytime experience.
+Hairball features a dark sand slope that descends from about 3 meters to beyond 29 meters, scattered with rubble, encrusted debris, rope sponges, and the occasional coral head. The volcanic black sand provides a dramatic contrast for photography. The site is accessible as a house reef from the adjacent NAD-Lembeh and Dive Into Lembeh resorts, making it one of the most dived and well-known sites in the strait. Night dives here are legendary — the diversity of nocturnal critters rivals the daytime experience.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ Hairball features a dark sand slope that descends from about 3 meters to beyond 
 - **Entry Type**: Boat dive
 - **Site Type**: Muck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 29 meters
 - **Typical Visibility**: 5–15 meters
 - **Water Temperature**: 26–29°C
 - **Current**: Minimal to mild

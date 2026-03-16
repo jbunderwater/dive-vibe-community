@@ -3,7 +3,7 @@ name: Jahir
 lat: 1.4917
 lng: 125.2583
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 28
 entryType: boat
 siteType: muck
 ref: null
@@ -25,7 +25,7 @@ Jahir features a gentle black sand slope with scattered rubble, purple heart urc
 - **Entry Type**: Boat dive
 - **Site Type**: Muck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 28 meters
 - **Typical Visibility**: 5–15 meters
 - **Water Temperature**: 26–29°C
 - **Current**: Minimal; can be dived all day
@@ -52,7 +52,7 @@ Night dives add:
 
 ## Dive Profile
 
-Descend onto the sand at 5 meters and work the slope slowly, pausing to observe flamboyant cuttlefish feeding behavior along the way. The mid-slope zone (10–18 m) holds the highest density of critter activity. Rubble patches and algae clumps warrant thorough inspection for ghost pipefish. The slope continues beyond 20 meters but the most productive zone is within standard recreational depth. Night dives require torches and a conservative plan — conditions remain calm after dark.
+Descend onto the sand at 5 meters and work the slope slowly, pausing to observe flamboyant cuttlefish feeding behavior along the way. The mid-slope zone (10–18 m) holds the highest density of critter activity. Rubble patches and algae clumps warrant thorough inspection for ghost pipefish. The slope continues to 28 meters but the most productive zone is within the 5–20 m range. Night dives require torches and a conservative plan — conditions remain calm after dark.
 
 ## Entry and Exit
 

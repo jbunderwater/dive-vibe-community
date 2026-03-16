@@ -3,7 +3,7 @@ name: Tarpon Hole
 lat: 32.345
 lng: -64.665
 difficulty: Beginner
-maxDepth: 12
+maxDepth: 17
 entryType: boat
 siteType: reef
 ref: null
@@ -13,30 +13,32 @@ addedBy: osm_import
 
 ## Tarpon Hole
 
-Tarpon Hole is a reef dive site in Bermuda, Atlantic.
+Tarpon Hole is a newer Bermuda dive site that lives up to its name with excellent opportunities to encounter large schools of tarpon in excess of 6.5 feet long. Located directly off the western extremity of Elbow Beach, this series of large breakers was designated as a buoyed dive site in 2013 and has become increasingly popular with divers seeking encounters with larger pelagic species.
 
 ## Overview
 
-Tarpon Hole is a dive site in Bermuda offering excellent diving on healthy coral reef structures. Located in the Atlantic region, this site offers 15-30 meters of visibility with water temperatures averaging 20-28°C.
+Tarpon Hole's varied depth from 10-55 feet and underwater architecture of numerous arches and passages provide excellent exploration opportunities. Large jacks and snappers inhabit the deep channels, creating a dynamic reef diving experience. While shore-based diving by experienced swimmers is technically possible from nearby Elbow Beach, boat access is generally recommended for safety and convenience.
 
 ## Site Information
 
-- **Location**: Bermuda, Atlantic
+- **Location**: Off the western extremity of Elbow Beach
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 12 meters
-- **Typical Visibility**: 15-30 meters (50-100 feet)
+- **Maximum Depth**: 17 meters
+- **Typical Visibility**: 25-40 feet (7.6-12 meters)
 - **Current**: Light to moderate
 - **Best Time**: May to October
+- **Buoy Installed**: 2013
+- **Notable Feature**: Large tarpon schools (6.5+ feet), arch formations
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles, reef sharks, groupers, snappers, parrotfish, angelfish, moray eels, lobsters. Additional species commonly sighted include brain corals, sea fans, barrel sponges.
+The site is named for large schools of tarpon, some exceeding 6.5 feet in length, that cluster in the area. Jacks and large snappers inhabit the deep channels. The reef structure supports diverse tropical species and crustaceans in the passages and overhangs.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to explore the reef structure and the various arches and passages. Watch for large tarpon schools and jacks in the deeper channels. The varied depth allows both shallow and deeper exploration. Plan 40-50 minutes of bottom time with a 5-minute safety stop at 15 feet. Excellent site for tarpon photography enthusiasts.
 
 ## Entry and Exit
 

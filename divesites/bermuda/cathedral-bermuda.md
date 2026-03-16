@@ -13,30 +13,31 @@ addedBy: osm_import
 
 ## Cathedral Bermuda
 
-Cathedral Bermuda is a cave dive site in Bermuda, Atlantic.
+The Cathedral is a unique and dramatically beautiful dive site near Gurnet Rock off Bermuda's East End. This huge underwater dome features several 'windows' where shafts of light penetrate the gloom, creating the sensation of diving inside a vast subterranean cathedral. The site is located close to Castle Harbour and offers an abundance of caves, canyons, and crevices.
 
 ## Overview
 
-Cathedral Bermuda is a dive site in Bermuda featuring underwater cave and cavern formations. Located in the Atlantic region, this site offers 15-30 meters of visibility with water temperatures averaging 20-28°C.
+The Cathedral is exceptionally popular with divers of varying skill levels due to the dramatic architecture and high concentration of marine life. Crabs and lobsters shelter in the numerous crevices throughout the site. Schools of ocean tarpon and snappers frequent this location, making it ideal for photography and wildlife observation. The range of depths suits amateur and experienced divers alike.
 
 ## Site Information
 
-- **Location**: Bermuda, Atlantic
+- **Location**: Near Gurnet Rock, off East End/Castle Harbour area
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 15-30 meters (50-100 feet)
+- **Typical Visibility**: 25-40 feet (7.6-12 meters)
 - **Current**: Light to moderate
-- **Best Time**: May to October
+- **Best Time**: Spring and Fall (May-June, September-October)
+- **Notable Features**: Multiple windows with light penetration, caves and canyons
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles, reef sharks, groupers, snappers, parrotfish, angelfish, moray eels, lobsters. Additional species commonly sighted include brain corals, sea fans, barrel sponges. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+Schools of ocean tarpon and snappers congregate at this site. Large tarpons hover in the cave areas, while margate fish school in the open water. Crabs, lobsters, and numerous small reef fish shelter within the crevices and overhangs. The dramatic architecture provides habitat for species adapted to cave and canyon environments.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend into the dramatic cathedral structure and observe the light shafts penetrating through the 'windows.' Explore the cave openings and canyons while watching for tarpon and snapper schools. Ascend gradually with a 5-minute safety stop at 10 feet. This is an excellent photography site with dramatic lighting conditions.
 
 ## Entry and Exit
 

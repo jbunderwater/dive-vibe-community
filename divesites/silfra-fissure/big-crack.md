@@ -5,7 +5,7 @@ lng: -21.118
 difficulty: Intermediate
 maxDepth: 18
 entryType: shore
-siteType: cave
+siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,7 +23,7 @@ The Big Crack is entered immediately after the Silfra entry platform and marks t
 
 - **Location**: Thingvellir National Park, Iceland (first section of Silfra fissure, immediately after entry platform)
 - **Entry Type**: Shore entry
-- **Site Type**: Cave/cavern
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 100+ meters

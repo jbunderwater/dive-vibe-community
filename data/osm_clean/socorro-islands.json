@@ -11,14 +11,14 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "nautilusliveaboards.com, padi.com/dive-site/mexico/roca-partida, dive-the-world.com, bluewaterdivetravel.com"
+      "validation_source": "nautilusliveaboards.com, dive-the-world.com, bluewaterdivetravel.com, divernet.com/world-dives/diving-socorro-islands-top-5-dive-sites, indopacificimages.com/americas/diving-socorro"
     }
   },
   {
     "name": "The Boiler",
     "lat": 19.3,
     "lon": -110.8,
-    "depth": 35,
+    "depth": 45,
     "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -26,7 +26,7 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "nautilusliveaboards.com, scubadiving.com, dive-the-world.com, divertrek.com"
+      "validation_source": "nautilusliveaboards.com, scubadiving.com, dive-the-world.com, divertrek.com, indopacificimages.com/americas/diving-socorro, adcdiving.be/travel-diving-photos/mexico-socorro-diving-2017"
     }
   },
   {
@@ -41,7 +41,7 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "nautilusliveaboards.com, manjulikapramod.com/cabo-pearce, dive-the-world.com"
+      "validation_source": "nautilusliveaboards.com/2023/01/21/marine-life-exploration-at-cabo-pearce, manjulikapramod.com/cabo-pearce, dive-the-world.com, adcdiving.be/travel-diving-photos/mexico-socorro-diving-2017"
     }
   },
   {
@@ -56,7 +56,7 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "nautilusliveaboards.com/punta-tosca, dive-the-world.com, zubludiving.com"
+      "validation_source": "nautilusliveaboards.com/2008/02/28/punta-tosca-socorro-island-revillagigedo-archipelago-mexico, dive-the-world.com, zubludiving.com, uwphotographyguide.com"
     }
   },
   {
@@ -71,7 +71,7 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "dive-the-world.com, uwphotographyguide.com, adcdiving.be"
+      "validation_source": "dive-the-world.com, uwphotographyguide.com, adcdiving.be/travel-diving-photos/mexico-socorro-diving-2017, divertrek.com, divernet.com/world-dives/diving-socorro-islands-top-5-dive-sites"
     }
   },
   {
@@ -86,14 +86,14 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "uwphotographyguide.com, scubago.com, dive-the-world.com"
+      "validation_source": "uwphotographyguide.com, scubago.com, dive-the-world.com, bluewaterdivetravel.com"
     }
   },
   {
     "name": "O'Neal Rock",
     "lat": 18.7917,
     "lon": -110.9417,
-    "depth": 30,
+    "depth": 25,
     "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -101,14 +101,14 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "uwphotographyguide.com, scubago.com, dive-the-world.com"
+      "validation_source": "uwphotographyguide.com, scubago.com, dive-the-world.com, divernet.com/world-dives/diving-socorro-islands-top-5-dive-sites, diveplanit.com/dive-site/diving-socorro"
     }
   },
   {
     "name": "Fondeadero",
     "lat": 18.75,
     "lon": -110.94,
-    "depth": 18,
+    "depth": 30,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -116,7 +116,7 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "divertrek.com, adcdiving.be, uwphotographyguide.com"
+      "validation_source": "divertrek.com, adcdiving.be/travel-diving-photos/mexico-socorro-diving-2017, uwphotographyguide.com, indopacificimages.com/americas/diving-socorro"
     }
   }
 ]

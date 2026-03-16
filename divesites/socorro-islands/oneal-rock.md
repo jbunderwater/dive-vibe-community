@@ -3,7 +3,7 @@ name: O'Neal Rock
 lat: 18.7917
 lng: -110.9417
 difficulty: Advanced
-maxDepth: 30
+maxDepth: 25
 entryType: boat
 siteType: pinnacle
 ref: null
@@ -25,7 +25,7 @@ O'Neal Rock earns its "Hammerhead Central" nickname from the reliable aggregatio
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20–25 meters
 - **Current**: Moderate to strong
 - **Best Time**: November to June

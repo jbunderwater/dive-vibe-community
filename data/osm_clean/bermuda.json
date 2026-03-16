@@ -5,14 +5,16 @@
     "lon": -64.6478,
     "osm_id": null,
     "osm_type": null,
-    "depth": 12,
+    "depth": 9,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill"
-    }
+    },
+    "validated": true,
+    "validation_source": "DiveBuddy, Bermuda 100 Project, Scuba Diver Life"
   },
   {
     "name": "Constellation",
@@ -27,7 +29,9 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill"
-    }
+    },
+    "validated": true,
+    "validation_source": "Department of Environment and Natural Resources, DiveBuddy, Scuba Diver Life"
   },
   {
     "name": "Cristobal Colon",
@@ -35,14 +39,16 @@
     "lon": -64.6333,
     "osm_id": null,
     "osm_type": null,
-    "depth": 17,
+    "depth": 18,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill"
-    }
+    },
+    "validated": true,
+    "validation_source": "PADI, DiveBuddy, Bermuda 100 Project, DeeperBlue"
   },
   {
     "name": "Hermes",
@@ -50,14 +56,16 @@
     "lon": -64.7833,
     "osm_id": null,
     "osm_type": null,
-    "depth": 25,
+    "depth": 24,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill"
-    }
+    },
+    "validated": true,
+    "validation_source": "PADI, Sport Diver, Go To Bermuda, Bermuda 100 Project"
   },
   {
     "name": "King George",
@@ -65,14 +73,16 @@
     "lon": -64.7667,
     "osm_id": null,
     "osm_type": null,
-    "depth": 22,
+    "depth": 18,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill"
-    }
+    },
+    "validated": true,
+    "validation_source": "DiveBuddy, Go To Bermuda, The Bermudian Magazine"
   },
   {
     "name": "Taunton",
@@ -80,14 +90,16 @@
     "lon": -64.655,
     "osm_id": null,
     "osm_type": null,
-    "depth": 12,
+    "depth": 6,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill"
-    }
+    },
+    "validated": true,
+    "validation_source": "Go To Bermuda, DiveMagazine"
   },
   {
     "name": "North Carolina",
@@ -98,11 +110,13 @@
     "depth": 14,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill"
-    }
+    },
+    "validated": true,
+    "validation_source": "DiveBuddy, Bermuda 100 Project, Scuba Diving Magazine"
   },
   {
     "name": "Pelinaion",
@@ -110,14 +124,16 @@
     "lon": -64.6433,
     "osm_id": null,
     "osm_type": null,
-    "depth": 18,
+    "depth": 20,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill"
-    }
+    },
+    "validated": true,
+    "validation_source": "Department of Environment and Natural Resources, PADI, Bermuda 100 Project"
   },
   {
     "name": "Darlington",
@@ -125,14 +141,16 @@
     "lon": -64.6517,
     "osm_id": null,
     "osm_type": null,
-    "depth": 11,
+    "depth": 6,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill"
-    }
+    },
+    "validated": true,
+    "validation_source": "Department of Environment and Natural Resources, DiveMagazine"
   },
   {
     "name": "Mary Celestia",
@@ -147,7 +165,9 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill"
-    }
+    },
+    "validated": true,
+    "validation_source": "PADI, Department of Environment and Natural Resources, Scuba Diver Life"
   },
   {
     "name": "Minnie Breslauer",
@@ -162,7 +182,9 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill"
-    }
+    },
+    "validated": true,
+    "validation_source": "PADI, Bermuda Attractions, Shipwreck Expo"
   },
   {
     "name": "Lartington",
@@ -177,7 +199,9 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill"
-    }
+    },
+    "validated": true,
+    "validation_source": "PADI, Bermuda 100 Project, DiveBuddy"
   },
   {
     "name": "Southwest Breaker",
@@ -185,14 +209,16 @@
     "lon": -64.8833,
     "osm_id": null,
     "osm_type": null,
-    "depth": 8,
+    "depth": 9,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill"
-    }
+    },
+    "validated": true,
+    "validation_source": "PADI, Bermuda 100 Project, Bermuda Attractions"
   },
   {
     "name": "Cathedral Bermuda",
@@ -207,7 +233,9 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill"
-    }
+    },
+    "validated": true,
+    "validation_source": "PADI, Bermuda 100 Project, Go To Bermuda"
   },
   {
     "name": "Tarpon Hole",
@@ -215,13 +243,15 @@
     "lon": -64.665,
     "osm_id": null,
     "osm_type": null,
-    "depth": 12,
+    "depth": 17,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill"
-    }
+    },
+    "validated": true,
+    "validation_source": "Bermuda 100 Project, Go To Bermuda"
   }
 ]

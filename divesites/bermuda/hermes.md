@@ -3,7 +3,7 @@ name: Hermes
 lat: 32.35
 lng: -64.7833
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 24
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,30 +13,32 @@ addedBy: osm_import
 
 ## Hermes
 
-Hermes is a historic wreck dive in Bermuda, Atlantic.
+The Hermes is one of Bermuda's most spectacular artificial reef dives, offering excellent visibility and a fully intact structure. This small freighter was deliberately sunk in 1984 by the Bermuda Dive Association and is renowned for its outstanding preservation and teeming marine life.
 
 ## Overview
 
-Hermes is a dive site in Bermuda featuring the wreck of the Hermes. Located in the Atlantic region, this site offers 15-30 meters of visibility with water temperatures averaging 20-28°C.
+The 80-foot deep Hermes sits upright on a sandy bottom about one mile offshore. Originally a U.S. Coast Guard buoy tender built in 1943, the ship was thoroughly cleaned before scuttling, making it one of the cleanest wrecks in Bermuda. The complete structure remains intact, including the wheelhouse, engine room, and bridge, all readily accessible for exploration.
 
 ## Site Information
 
-- **Location**: Bermuda, Atlantic
+- **Location**: 1.8 km south of Warwick Long Bay Beach
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 15-30 meters (50-100 feet)
+- **Maximum Depth**: 24 meters
+- **Typical Visibility**: 80-100 feet (24-30 meters) - often 100+ feet
 - **Current**: Light to moderate
-- **Best Time**: May to October
+- **Best Time**: Year-round (exceptional visibility most of the year)
+- **Ship Type**: Small freighter, former U.S. Coast Guard buoy tender
+- **Year Sunk**: May 15, 1984
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, snappers, barracuda, coral encrustation, sea turtles, reef sharks, groupers, snappers. Additional species commonly sighted include parrotfish, angelfish. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+This wreck teems with marine life including groupers, snappers, jacks, barracuda, and large reef fish. Photographers particularly appreciate the excellent visibility and the abundant coral and sponge growth on the hull. Octopus and lobster are common residents of this wreck.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 25 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend along the mooring line to the wheelhouse at 45 feet. Explore the superstructure, engine room, and bridge using hand rails and ladders. The upright position and intact structure make navigation straightforward. Plan 40-50 minutes of bottom time with a 5-minute safety stop at 15 feet.
 
 ## Entry and Exit
 

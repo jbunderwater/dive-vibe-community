@@ -5,7 +5,7 @@ lng: -21.117
 difficulty: Intermediate
 maxDepth: 18
 entryType: shore
-siteType: cave
+siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,7 +23,7 @@ After the constricted passage of Big Crack, Silfra Hall opens into a larger, mor
 
 - **Location**: Thingvellir National Park, Iceland (second section of Silfra fissure)
 - **Entry Type**: Shore entry
-- **Site Type**: Cave/cavern
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 100+ meters

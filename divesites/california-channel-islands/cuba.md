@@ -2,9 +2,9 @@
 name: Cuba
 lat: 34.0311269
 lng: -120.4533995
-difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+difficulty: Advanced
+maxDepth: 20
+entryType: boat
 siteType: wreck
 ref: null
 osmId: 2780214729
@@ -13,55 +13,58 @@ addedBy: osm_import
 
 ## Cuba
 
-Cuba is a historic wreck dive in California Channel Islands, North America.
+The SS Cuba is one of the most historically significant shipwrecks in the Channel Islands National Marine Sanctuary, resting off Point Bennett at the remote western tip of San Miguel Island.
 
 ## Overview
 
-Cuba is a dive site in California Channel Islands featuring the wreck of the Cuba. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The SS Cuba was a 308-foot German-built steam passenger and cargo liner that struck a reef approximately 500 yards from Point Bennett on September 8, 1923, while navigating in dense fog during a voyage from Mexico to San Francisco. Her captain had been navigating by dead reckoning for three days after the ship's radio generator failed. All 115 passengers and 65 crew were rescued, along with $2.5 million in gold and silver bullion she was carrying. The wreck is one of the most consolidated and organized of over 150 historic wrecks in the Channel Islands National Marine Sanctuary, with the triple-expansion steam engines and boilers still standing upright on the seafloor nearly a century after sinking.
 
 ## Site Information
 
-- **Location**: California Channel Islands, North America
-- **Entry Type**: Shore entry
+- **Location**: Point Bennett, San Miguel Island, California Channel Islands
+- **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 20 meters
+- **Typical Visibility**: 5-15 meters (15-50 feet), highly variable
+- **Current**: Strong currents common; powerful swells frequent
+- **Best Time**: October to November for clearest water and calmer conditions
+- **Water Temperature**: 10-13°C (50-55°F) year-round — wetsuit or drysuit essential
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+San Miguel Island's cold, upwelling-driven waters support exceptional biodiversity. Divers encounter wolf eels, giant lingcod, large rockfish of multiple species, cabezon, nudibranchs, and spiny lobster around the wreck structure. The site is adjacent to Point Bennett, which hosts one of the largest pinniped rookeries in the eastern Pacific — up to six species including California sea lions, Northern elephant seals, and harbor seals. Sea lions frequently join divers underwater.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 25 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The wreck rests on a rocky reef in relatively shallow water with deck machinery visible above the sand. The upright triple-expansion steam engines and boilers are the centerpiece — remarkable for their preservation after 100 years. Divers explore around the hull structure, with the machinery and anchor chain among the most photogenic features. Swell and surge can be significant even on calm days given the exposed west-facing location.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Access is by charter boat only from Ventura Harbor (approximately 64 miles) or Santa Barbara (approximately 46 miles). San Miguel is the most remote and least-dived of the northern Channel Islands. Permit from Channel Islands National Park is required. Weather windows are narrow — October and November offer the most reliable conditions. Three or more failed attempts before a successful trip are not uncommon.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Drysuit or thick (7mm) wetsuit strongly recommended — water temperatures average 10°F colder than the other Channel Islands
+- Bring a dive torch to illuminate machinery and hull interiors
+- Check the nearest recompression chamber location — it is approximately 100 miles away
+- Avoid touching or removing any part of the wreck — it is a protected archaeological site under federal and California law
+- Book with an experienced Channel Islands charter that regularly visits San Miguel
+- This site demands solid buoyancy and current-diving skills — not suitable for newly certified divers
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+San Miguel Island sits outside the protection of the California Bight and is fully exposed to the open Pacific. Winds and seas can deteriorate rapidly. Strong currents and swells affect this site even on calm days. The nearest hyperbaric chamber is roughly 100 miles away — dive conservatively, dive with a buddy, and always carry an SMB. The site is weather-dependent: trips are frequently postponed or cancelled.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The upright steam engines and boilers offer dramatic wide-angle subjects. Natural light penetrates the shallow structure, with dappled sun filtering through kelp. A torch brings out the colors of encrusting invertebrates on the hull plates. Wide-angle lenses work best for the machinery; macro for the nudibranchs and encrusting life on the wreck surfaces.
 
 ## Additional Resources
 
+- [Channel Islands National Marine Sanctuary - SS Cuba](https://channelislands.noaa.gov/maritime/shipwrecks.html)
+- [Scuba Diver Life - SS Cuba Shipwreck](https://scubadiverlife.com/noaa-national-marine-sanctuary-shipwrecks-ss-cuba/)
 - **Last Updated**: 2026-03-15
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from NOAA Channel Islands National Marine Sanctuary records, Ocean Safari Scuba's San Miguel guide, and regional diving knowledge. Last updated 2026-03-15.*

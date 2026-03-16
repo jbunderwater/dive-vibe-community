@@ -5,7 +5,7 @@ lng: -21.1169415
 difficulty: Intermediate
 maxDepth: 18
 entryType: shore
-siteType: cave
+siteType: wall
 ref: null
 osmId: 1817672135
 addedBy: osm_import
@@ -25,7 +25,7 @@ The dive flows through four connected sections: Big Crack, Silfra Hall, Silfra C
 
 - **Location**: Thingvellir National Park, Iceland
 - **Entry Type**: Shore entry
-- **Site Type**: Cave/cavern
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 100+ meters

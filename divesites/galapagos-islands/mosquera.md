@@ -2,7 +2,7 @@
 name: Mosquera
 lat: -0.4085075
 lng: -90.2772687
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 27
 entryType: boat
 siteType: reef
@@ -24,7 +24,7 @@ North Mosquera features a sandy bottom at around 10 meters colonized by garden e
 - **Location**: Between North Seymour and Baltra Island, Galápagos
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 27 meters
 - **Typical Visibility**: 7–15 meters; drops in the Humboldt season
 - **Water Temperature**: 18–26°C depending on season; 65–80°F
@@ -41,7 +41,7 @@ Typically divided into North or South Mosquera based on conditions. North: desce
 
 ## Safety Considerations
 
-Currents at Mosquera are generally manageable but can intensify in the Seymour Channel section without warning. The submarine canyon at 21–27 meters requires careful depth monitoring. Despite being one of the more accessible Galápagos sites, divers should be comfortable with current. Orca presence in the area is occasionally reported; this is no cause for alarm.
+Currents at Mosquera are generally manageable but can intensify in the Seymour Channel section without warning. The submarine canyon at 21–27 meters requires careful depth monitoring. Despite being one of the more accessible Galápagos sites, divers should be comfortable with current. Advanced certification is required — currents can intensify in the Seymour Channel zone without warning. Orca presence in the area is occasionally reported; this is no cause for alarm.
 
 ## Photography
 

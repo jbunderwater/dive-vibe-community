@@ -3,7 +3,7 @@ name: Southwest Breaker
 lat: 32.25
 lng: -64.8833
 difficulty: Beginner
-maxDepth: 8
+maxDepth: 9
 entryType: boat
 siteType: reef
 ref: null
@@ -13,30 +13,32 @@ addedBy: osm_import
 
 ## Southwest Breaker
 
-Southwest Breaker is a reef dive site in Bermuda, Atlantic.
+Southwest Breaker is Bermuda's southernmost breaker reef, a protected buoyed dive site famous for featuring in the opening scene of Peter Benchley's "The Deep." This lone reef sits two miles off the southwest corner of Bermuda and was actually made famous before the film— it's a prehistoric fossil formation made of petrified worm tubes, locally known as "boilers" because they break the surface where water bubbles and boils.
 
 ## Overview
 
-Southwest Breaker is a dive site in Bermuda offering excellent diving on healthy coral reef structures. Located in the Atlantic region, this site offers 15-30 meters of visibility with water temperatures averaging 20-28°C.
+With an average depth of just 28 feet and typical visibility exceeding 100 feet, Southwest Breaker offers an extraordinary shallow dive experience. A huge tunnel runs through the center of the breaker, and the hard coral coverage is astounding with thousands of healthy brain corals, some the size of wheelbarrows. Schools of barracuda often hover near the breaker, and you can encounter passing eagle rays and sea turtles heading toward nearby feeding grounds.
 
 ## Site Information
 
-- **Location**: Bermuda, Atlantic
+- **Location**: 2 miles off the southwest corner of Bermuda
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 8 meters
-- **Typical Visibility**: 15-30 meters (50-100 feet)
+- **Maximum Depth**: 9 meters
+- **Typical Visibility**: 100+ feet (30+ meters)
 - **Current**: Light to moderate
 - **Best Time**: May to October
+- **Notable Features**: Tunnel through center, 30+ known wrecks nearby
+- **Pop Culture**: Featured in the opening scene of "The Deep"
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles, reef sharks, groupers, snappers, parrotfish, angelfish, moray eels, lobsters. Additional species commonly sighted include brain corals, sea fans, barrel sponges.
+Huge schools of barracuda frequently hover near the breaker. Eagle rays and sea turtles are common sightings while heading to feeding grounds at Pompano Sand Flats. Extensive brain coral coverage provides habitat for countless tropical reef fish, groupers, snappers, and invertebrates. The healthy coral system is a living classroom for reef ecology.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 8 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-8 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to explore the dramatic coral formations and navigate through the main tunnel. The shallow 28-foot depth allows 60+ minutes of comfortable bottom time. Observe the thousands of brain corals and watch for large schools of barracuda and visiting rays. Ascend with a 3-5 minute safety stop at 10 feet.
 
 ## Entry and Exit
 

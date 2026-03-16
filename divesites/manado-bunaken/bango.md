@@ -3,7 +3,7 @@ name: Bango
 lat: 1.692911
 lng: 124.779776
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 30
 entryType: boat
 siteType: wall
 ref: null
@@ -13,54 +13,52 @@ addedBy: osm_import
 
 ## Bango
 
-Bango is a reef dive site in Manado & Bunaken, Asia.
+Bango is a wall dive site located in the northern part of the Bunaken Marine Park area, in the vicinity of Manado Tua. Like the other sites in this volcanic island group, it features the characteristic coral-encrusted walls typical of the park, with the Coral Triangle biodiversity that makes this region one of the most species-rich marine environments on earth.
 
 ## Overview
 
-Bango is a dive site in Manado & Bunaken offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Bango is a wall dive in Bunaken National Marine Park, benefiting from the same nutrient-rich waters and protected status that make the entire park exceptional. The site is part of the outer island wall system, with the deep, nutrient-rich Sulawesi Sea providing the oceanographic conditions that sustain Bunaken's famous biodiversity. Wall diving is the primary mode here, with the reef plateau in shallow water transitioning to the deep wall that defines the park.
 
 ## Site Information
 
-- **Location**: Manado & Bunaken, Asia
+- **Location**: Northern Bunaken National Marine Park area
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 30 meters
+- **Typical Visibility**: 15-25 metres
+- **Current**: Variable
+- **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The Bunaken Marine Park system supports extraordinary biodiversity throughout — sea turtles, reef sharks, Napoleon wrasse, eagle rays, trevally, and diverse reef fish are standard residents across all wall sites in the park. The wall structure supports sponges, sea fans, and soft and hard coral communities characteristic of the Sulawesi Sea's Coral Triangle environment.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the wall face and explore at a comfortable working depth. The reef plateau offers a staging area and safety stop zone. Allow adequate air reserve for ascent and safety stop. Follow your guide's briefing for the specific entry and exit procedures at this site.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from operators covering the northern park area. Entry and exit procedures follow standard Bunaken drift dive protocols. Current assessment before entry is recommended.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Check with local operators for the most current information on conditions and highlights at this site
+- The northern park area sites are typically visited on day trips from Bunaken Island or Manado
+- Standard Bunaken gear recommendations apply: SMB, torch for cave inspection, dive computer
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Variable current. Carry an SMB. Follow guide briefing for current direction and entry point. Standard Bunaken Marine Park dive safety protocols apply.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Wall and reef photography opportunities consistent with the broader Bunaken system. Wide-angle setups for reef scenes; macro for invertebrate and small species work on the wall face.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-03-15
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*Site location in Bunaken National Marine Park confirmed from OSM data. Specific dive site details limited — contact local operators for current conditions.*

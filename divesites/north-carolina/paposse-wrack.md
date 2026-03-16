@@ -2,8 +2,8 @@
 name: Paposse (Wrack)
 lat: 34.1445
 lng: -76.652
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Advanced
+maxDepth: 38
 entryType: boat
 siteType: wreck
 ref: null
@@ -11,58 +11,60 @@ osmId: 663869490
 addedBy: osm_import
 ---
 
-## Paposse (Wrack)
+## Papoose (Wreck)
 
-Paposse (Wrack) is a historic wreck dive in North Carolina, North America.
+The Papoose is a 412-foot oil tanker torpedoed by the German submarine U-124 on March 18, 1942, during the Battle of the Atlantic. She now lies roughly 36 nautical miles offshore of Cape Hatteras, inverted on the sandy bottom in about 125 feet (38 meters) of water — one of the most distinctive wreck dives on the entire East Coast.
 
 ## Overview
 
-Paposse (Wrack) is a dive site in North Carolina featuring the wreck of the Paposse (Wrack). Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Originally a Standard Oil tanker, the Papoose was struck by a single torpedo and sank on her port side before slowly rolling over the years into her current upside-down orientation. The ship's hull forms a dramatic cavern-like overhead environment, and the bow and stern sections rise to within about 80 feet of the surface. The Gulf Stream's proximity means visibility frequently exceeds 30 meters — a stark contrast to most nearshore North Carolina diving.
 
 ## Site Information
 
-- **Location**: North Carolina, North America
+- **Location**: ~36 nautical miles southeast of Cape Hatteras, North Carolina
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 38 meters
+- **Top of Wreck**: ~24 meters (80 feet)
+- **Typical Visibility**: 15–30+ meters (50–100 feet) when Gulf Stream is near
+- **Current**: Moderate to strong — Gulf Stream eddies can be powerful
+- **Water Temperature**: 22–28°C (72–82°F) in summer; can drop sharply with current shifts
+- **Best Season**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The Papoose is famous for its resident population of sand tiger sharks — on any given dive, 15 to 20 sand tigers can be encountered resting inside the upturned hull or cruising the exterior. Large schools of amberjack, spadefish, and Atlantic spadefish patrol the wreck. Barracuda, grouper, and sea bass occupy the structure, while the sandy bottom around the bow and stern hosts large southern stingrays. Lionfish, an invasive species, have colonized the wreck in recent years.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 20 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The dive begins with descent down the mooring line to the stern or bow section. Both ends of the wreck provide shallower penetration opportunities through gaps in the hull plating. The centermost section of the inverted hull creates an enormous cavern-like space — bring a torch and dive light. The sand tiger sharks are most reliably seen amidships. Penetration into the darker sections should only be attempted by wreck-certified divers. Plan air consumption carefully: depth and current can push bottom times to 20–25 minutes before a safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+All access is by dive charter boat from Hatteras village or Morehead City. The site requires a full-day trip; most operators run two-tank charters. The Papoose is a moored dive — descend and ascend the shot line. Deploy a surface marker buoy (SMB) before your safety stop at 5 meters.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Wreck diving certification and experience with deep dives strongly recommended
+- Bring a primary dive light for the hull cavern — the upturned interior is very dark
+- Sand tiger sharks are non-aggressive; maintain calm, neutral buoyancy and don't crowd them
+- Gulf Stream proximity can cause abrupt water temperature drops — bring a 5mm wetsuit minimum in summer, 7mm in shoulder season
+- Always carry an SMB — current can push divers away from the boat during ascent
+- Book with experienced Hatteras or Morehead City operators familiar with conditions
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Depth, current, and overhead environment combine to make this an Advanced-rated dive. The nearest recompression chamber is in Morehead City (Duke Dive Medicine). Monitor your air consumption carefully — the distance offshore means any emergency is a long way from help. Gas narcosis is possible at maximum depth; dive conservatively.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The upturned hull photographed from outside makes a powerful wide-angle composition, especially with sand tiger sharks drifting through frame. Inside the hull cavern, a torch or video light is essential — the encrusted ceiling reflects color beautifully. The blue water column around the wreck is ideal for silhouette shots of sharks ascending toward the surface light.
 
 ## Additional Resources
 
-- **Website**: http://www.dive-links.com/tauchplatz.php?id=659
+- **NOAA Monitor National Marine Sanctuary**: https://monitor.noaa.gov/shipwrecks/papoose.html
 - **Last Updated**: 2026-03-15
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*Researched from NOAA Monitor National Marine Sanctuary, Olympus Dive Center, and Scuba Diving Magazine. Last updated 2026-03-15.*

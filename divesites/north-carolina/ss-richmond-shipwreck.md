@@ -2,8 +2,8 @@
 name: SS Richmond Shipwreck
 lat: 35.5411471
 lng: -75.464386
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Beginner
+maxDepth: 5
 entryType: shore
 siteType: wreck
 ref: null
@@ -13,56 +13,57 @@ addedBy: osm_import
 
 ## SS Richmond Shipwreck
 
-SS Richmond Shipwreck is a historic wreck dive in North Carolina, North America.
+The SS Richmond — formerly the Civil War-era blockade runner Blenheim — is a shallow, partially exposed shipwreck visible from the beach on Hatteras Island. Built in 1848 in Glasgow, Scotland as the Blenheim, she operated as a blockade runner supplying Confederate forces during the Civil War before being wrecked on the Outer Banks. Her remains protrude from the sand at low tide and lie in water shallow enough for wading and snorkeling, making this one of the most accessible historic shipwreck sites on the Outer Banks.
 
 ## Overview
 
-SS Richmond Shipwreck is a dive site in North Carolina featuring a historic wreck . The SS Richmond was formerly the blockade runner Blenheim, built in 1848 by the firm of Tod and MacGregor, in Glasgow, Scotland.. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The Richmond wreck is located near the Hatteras Island shoreline and can be accessed from Ramp 23, where a short drive north along the beach reveals the paddle-wheel shaft emerging from the water. The wreck sits in just 3–5 meters (10–15 feet) of water, and portions are visible at low tide. This is not a dive site in the traditional sense — it is more of a snorkel, wade, or very shallow swim-out wreck encounter. The exposed nature of the Outer Banks beach means conditions can become rough, but the proximity to shore allows visitors to retreat quickly.
 
 ## Site Information
 
-- **Location**: North Carolina, North America
+- **Location**: Hatteras Island, near Ramp 23, Outer Banks, North Carolina
 - **Entry Type**: Shore entry
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 5 meters
+- **Typical Visibility**: Poor to fair — 1–5 meters depending on surf and wind conditions
+- **Current**: Surf zone surge — can be significant in onshore wind or swell
+- **Water Temperature**: 22–27°C (72–81°F) summer; much colder November–April
+- **Access**: 4WD beach vehicle required to reach Ramp 23; National Park Service beach pass needed
+- **Best Season**: May to September; calm weather days only
+
+## Historical Significance
+
+The Blenheim was built in 1848 and acquired for use as a blockade runner during the Civil War to slip through the Union naval blockade and supply Confederate ports. Renamed the Richmond, she wrecked on the treacherous Outer Banks shoals. The paddle-wheel shaft and portions of the iron hull are the most visible surviving structural elements. The site is within Cape Hatteras National Seashore, managed by the National Park Service.
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
-
-## Dive Profile
-
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 25 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Sheepshead, spadefish, and juvenile reef fish shelter around the exposed metal structure. The surf zone habitat also attracts blue crabs, various small invertebrates, and occasional skates on the sandy bottom near the wreck.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Access via Ramp 23 on Hatteras Island (requires a 4WD vehicle and NPS beach access pass). Drive north from the ramp and look for the paddle-wheel shaft emerging from the water. Wade or swim directly from the beach. Monitor surf conditions carefully — this is an open Atlantic beach exposed to full offshore swell. Exit at the same beach access point.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Check tide charts: more of the wreck is exposed at low tide, making exploration easier
+- 4WD vehicle and NPS beach pass (annual or weekly) are required to reach the site
+- Bring a snorkel mask and fins — the depth is ideal for snorkeling rather than scuba
+- Calm days only — surf and swell make the site rough and visibility drops sharply
+- This wreck is within Cape Hatteras National Seashore: no artifact collection is permitted
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Open Atlantic surf zone. Do not enter the water in breaking surf over 2 feet. The proximity to shore and very shallow depth (5 meters max) means decompression is not a concern, but surf zone surge can be physically demanding. Standard beach water safety applies.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The paddle-wheel shaft emerging from the surf makes a dramatic topside photograph — especially at low tide with waves breaking around it. Underwater, limited visibility and surf turbulence make photography challenging; a compact or GoPro-style camera works better than a full housing rig in these conditions.
 
 ## Additional Resources
 
-- **Website**: http://www.divehatteras.com/beach%20wrecks.html
+- **NPS Cape Hatteras National Seashore**: https://www.nps.gov/submerged/parks/caha.html
 - **Last Updated**: 2026-03-15
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*Researched from NPS Cape Hatteras National Seashore, Outer Banks visitor resources, and Dive Hatteras site information. Last updated 2026-03-15.*

@@ -3,7 +3,7 @@ name: Épave du Transpacific
 lat: 46.7896773
 lng: -56.1432856
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 10
 entryType: shore
 siteType: wreck
 ref: null
@@ -13,55 +13,56 @@ addedBy: osm_import
 
 ## Épave du Transpacific
 
-Épave du Transpacific is a historic wreck dive in Newfoundland, North America.
+Épave du Transpacific (Transpacific Wreck) is a large German cargo ship that grounded on Île-aux-Marins in 1971 and now lies broken in sections in shallow water — a snorkelling and diving attraction accessible from the historic island of Saint Pierre and Miquelon.
 
 ## Overview
 
-Épave du Transpacific is a dive site in Newfoundland featuring the wreck of the Épave du Transpacific which sank in 1971-05-18. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The Transpacific, a 398-foot (121-meter) German cargo carrier built at Lübeck in 1954 and later operated on Great Lakes trade routes, ran aground on L'Île-aux-Marins on May 18, 1971. The ship broke into three sections during the autumn storms following the grounding: the bow ran aground on the beach at Cap Beaudry, the central section with engine and wheelhouse settled in the shallows and remained largely intact, and the stern section slid to deeper water at the edge of the shallow flat. The wreck is visible from shore on the tiny historic island of Île-aux-Marins (also called Fortune Island), which is linked to Saint-Pierre by a short boat trip. The site is part of a hiking and heritage route on the island.
 
 ## Site Information
 
-- **Location**: Newfoundland, North America
+- **Location**: Île-aux-Marins (Fortune Island), Saint Pierre and Miquelon (French territory)
 - **Entry Type**: Shore entry
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 10 meters
+- **Typical Visibility**: 5–15 meters
+- **Water Temperature**: 6–14°C — drysuit or thick wetsuit required
+- **Current**: Light to moderate; varies with tidal conditions
+- **Best Time**: June to September
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The shallow wreck sections support cold North Atlantic marine life adapted to rocky substrate environments. Encrusting sponges, mussels, anemones, and coralline algae colonize the hull plating. Cold-water fish species including cunner, sculpin, and juvenile cod shelter around the structural debris. The island's surrounding waters are cold but clear and productive.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 25 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The wreck sits in very shallow water with sections ranging from just below the surface to approximately 10 meters. The central section remains the most intact and is accessible as a snorkel or easy scuba dive. Explore the exterior hull plating, structural components, and the debris field around the grounding site. The stern section in somewhat deeper water extends the dive for those seeking more depth. The site is marked as "non-dangerous" in maritime databases. Penetration of the hull is not recommended due to deterioration.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Île-aux-Marins is reached by short boat trip from Saint-Pierre town. From the island dock, a walking trail leads to the wreck site (the island is small — approximately 30 minutes walk). Shore entry from the rocky beach near the wreck. Be aware of tidal exposure — conditions change with the tide. Exit at the entry point.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Île-aux-Marins (Fortune Island) is a remarkable heritage destination in its own right — an abandoned 19th-century fishing village
+- The wreck is a worthwhile snorkel destination on calm summer days; scuba extends exploration to the deeper stern section
+- Drysuit or heavy wetsuit (7mm+) required — water temperatures are cold even in summer
+- Combine the dive with a heritage walk around the abandoned village on Île-aux-Marins
+- The island is accessible on day trips from Saint-Pierre — plan your ferry timing carefully
+- Visible from shore — dramatic photography subject both above and below water
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The exposed position of Île-aux-Marins and the wreck site means conditions can change rapidly. Check weather and sea state before committing to the swim. Cold water requires adequate thermal protection. Rocky shore entry can be slippery. The wreck structure is deteriorating — avoid confined spaces. Always dive with a buddy.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The wreck sections above and below the waterline provide dramatic split-level photography opportunities. Large hull plates and structural members in clear shallow water are excellent wide-angle subjects. The abandoned village backdrop on Île-aux-Marins adds a unique visual context to above-water photography.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-03-15
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*Dive site information researched from NOAA Voluntary Observing Ship documentation (Transpacific), Wikipedia (Transpacific ships), Île-aux-Marins heritage sources, and Saint Pierre and Miquelon tourism. Last updated 2026-03-15.*

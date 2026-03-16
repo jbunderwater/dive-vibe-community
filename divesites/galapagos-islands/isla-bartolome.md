@@ -2,7 +2,7 @@
 name: Isla Bartolome
 lat: -0.28
 lng: -90.54
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 27
 entryType: boat
 siteType: reef
@@ -24,7 +24,7 @@ The dive topography combines a shallow rocky platform at 10 meters with terraced
 - **Location**: East of Santiago Island, Galápagos
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 27 meters
 - **Typical Visibility**: 7–20 meters depending on season and upwelling
 - **Water Temperature**: 18–26°C; cold upwellings year-round
@@ -41,7 +41,7 @@ Begin at the 10-meter rocky platform, where sea lions are invariably present. Mo
 
 ## Safety Considerations
 
-Surge around Pinnacle Rock can be disorienting in the shallows — maintain buoyancy control and distance from the rock. Moderate current runs along the terraces; plan dive direction with the guide. The upwelling brings cold water that increases air consumption. Suitable for intermediate divers and above.
+Surge around Pinnacle Rock can be disorienting in the shallows — maintain buoyancy control and distance from the rock. Moderate current runs along the terraces; plan dive direction with the guide. The upwelling brings cold water that increases air consumption. Suitable for Advanced divers — cold upwellings, surge around Pinnacle Rock, and the potential for moderate current require solid buoyancy control and current-diving experience.
 
 ## Photography
 

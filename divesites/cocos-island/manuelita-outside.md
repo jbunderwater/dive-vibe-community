@@ -3,8 +3,8 @@ name: Manuelita Outside
 lat: 5.5583
 lng: -87.05
 difficulty: Advanced
-maxDepth: 30
-entryType: boat
+maxDepth: 35
+entryType: liveaboard
 siteType: wall
 ref: null
 osmId: null
@@ -13,55 +13,54 @@ addedBy: osm_import
 
 ## Manuelita Outside
 
-Manuelita Outside is a wall dive site in Cocos Island, Pacific.
+Manuelita Outside — also known as Manuelita Deep — is the ocean-facing wall and slope on the north and outer sides of Manuelita Island, the largest of Cocos's satellite islands lying off the main island's north coast. Where Manuelita Inside offers a calm coral garden, the outside is exposed to open ocean, with a sloping boulder field descending to cleaning stations at 21-24 meters before the wall drops into deeper water. Three active cleaning stations here are regularly attended by scalloped hammerhead sharks, tiger sharks, eagle rays, and manta rays.
 
 ## Overview
 
-Manuelita Outside is a dive site in Cocos Island featuring a dramatic vertical wall that drops into the deep blue. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Manuelita Outside presents a dramatically different character from the protected interior. The sloping boulders and walls face the open Pacific, and the current that sweeps around the island creates ideal conditions for large pelagics. The three cleaning stations at 70-80 feet (21-24 meters) are the main attraction: hammerheads queue to have parasites removed, providing divers with close, behaviorally natural shark encounters. Tiger sharks, which are infrequently seen at other Cocos sites, are regular visitors here. The site is also notable as Cocos's most famous night dive on the south side, where whitetip reef sharks hunt in coordinated packs.
 
 ## Site Information
 
-- **Location**: Cocos Island, Pacific
-- **Entry Type**: Boat dive
+- **Location**: North and outer sides of Manuelita Island, Cocos
+- **Entry Type**: liveaboard
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
+- **Maximum Depth**: 35 meters
+- **Optimal Cleaning Station Depth**: 21-24 meters
+- **Typical Visibility**: 15-25 meters
 - **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Best Time**: Year-round; May-November for manta and hammerhead activity
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Scalloped hammerhead sharks use the three cleaning stations as regular gathering points, with behavior that is notably different from the open-water schooling at Alcyone — here they approach cleaning station fish slowly and predictably. Tiger sharks are a reliable sighting, making Manuelita Outside one of Cocos's best tiger shark spots. Manta rays and eagle rays arrive on the current. Marble rays rest on sandy patches near the boulder base. Whitetip reef sharks are abundant, and the south-side night dive features packs of up to a hundred whitetips actively hunting through the reef in coordinated groups.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-30 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Descend along the outer slope to reach the primary cleaning stations between 21-24 meters. The site can be worked shallower toward the reef top before dropping down, or directly to the cleaning station level for the most shark activity. The north wall drops steeply below the boulder field; monitor depth carefully. Night dives on the south side follow a different profile: divers stay shallow (5-15 meters) and watch the whitetip hunting behavior.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Entry is from liveaboard zodiacs into the current. The site's exposure to open ocean means surface conditions can be challenging — confirm conditions with the captain before the dive. SMB deployment during the safety stop is essential for zodiac pick-up in current.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Position yourself quietly at cleaning station depth and let the sharks come to you — approach behavior is calmer here than at open-water sites
+- The night dive on the south side of Manuelita is a completely different, equally extraordinary experience — book it if available
+- Tiger sharks typically appear on this side of the island; keep an eye on the blue water beyond the wall
+- Manuelita circled in a single dive is possible — plan your air accordingly if attempting the circumnavigation
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Current sweeping around Manuelita Island can be strong and directionally variable. Night dives require a firm commitment to the briefing instructions, familiarity with the site from a day dive, and a working dive light with a backup. Always carry an SMB for surface pick-up regardless of day or night.
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+The cleaning station behavior at 21-24 meters occurs in good ambient light. Wide-angle with a strobe works well for shark portraits at the cleaning stations. The sloping boulder field creates natural framing for wide compositions. Night dive photography of the whitetip hunt requires a powerful video light for action shots in shallow, fast-moving scenes.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-03-15
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*Validated against zubludiving.com, dan.org, scubadivingearth.com, and aqua-firma.com. Last updated 2026-03-15.*

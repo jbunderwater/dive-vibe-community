@@ -2,8 +2,8 @@
 name: Tanjung Parigi
 lat: 1.6283536
 lng: 124.7664363
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Advanced
+maxDepth: 40
 entryType: boat
 siteType: wall
 ref: null
@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Tanjung Parigi
 
-Tanjung Parigi is a reef dive site in Manado & Bunaken, Asia.
+Tanjung Parigi is the corner point between the Likuan 2 and Likuan 3 sections of Bunaken's western wall. "Tanjung" means corner in Indonesian, and this site lives up to its name — stronger currents concentrate at the point, making it an advanced site and an excellent location for pelagic encounters in the blue water beyond the wall edge.
 
 ## Overview
 
-Tanjung Parigi is a dive site in Manado & Bunaken offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Positioned at the corner where the wall changes direction, Tanjung Parigi experiences stronger current than the adjacent Likuan sections. This makes it unsuitable for beginner and intermediate divers when conditions are running, but provides exceptional pelagic action for advanced divers who can drift the corner. The wall itself features hard and soft corals, with macro life including leaf scorpionfish, nudibranchs, decorator crabs, and pygmy seahorses. Schools of red tooth triggerfish and pyramid butterflyfish are resident on the wall side, while eagle rays, bumphead parrotfish, tuna, and sharks are spotted in the blue water at the corner.
 
 ## Site Information
 
-- **Location**: Manado & Bunaken, Asia
+- **Location**: West coast of Bunaken Island (corner between Likuan 2 and 3), Bunaken National Marine Park
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 40 meters
+- **Typical Visibility**: 15-25 metres
+- **Current**: Medium to strong at the corner — this is not a beginner site
+- **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Eagle rays, bumphead parrotfish, tuna, rainbow runner, batfish, and reef sharks in the blue water are the pelagic highlights. Red tooth triggerfish and pyramid butterflyfish schools line the wall. On the wall face itself: leaf scorpionfish (well camouflaged), nudibranchs, decorator crabs, and pygmy seahorses in the gorgonian fans reward careful searching.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Entry requires careful positioning relative to the current and the corner. Drift around the point, watching both the wall and the open blue water. The corner concentrates current and with it, pelagic activity — spend time hovering at the point and observing what passes through. Continue onto either the Likuan 2 or 3 section depending on conditions after rounding the corner.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from Bunaken Island operators. Entry point determined by current direction. Advanced drift diving experience is essential. The boat will track your SMB during ascent.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Position yourself at the corner and wait — pelagics pass through predictably during good current
+- Medium to strong current is the norm at the corner — do not attempt in calm conditions only to be surprised by a surge
+- Scan the wall face for leaf scorpionfish; they are common but perfectly camouflaged
+- Check sea fan gorgonians carefully for pygmy seahorses
+- Can be combined with Likuan 2 or 3 on the same dive
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The corner concentrates current — be prepared for stronger flow than you may have experienced at adjacent Likuan sites. Upwellings and downwellings can occur at the point. Carry an SMB. Do not round the corner without confirming your air reserve and depth situation first.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The pelagic encounters at the corner reward wide-angle setups — eagle rays and bumphead parrotfish schools against the blue water are standout compositions. The macro life on the wall face is a secondary reward for divers who can maintain position against the current. Pygmy seahorses in gorgonians are a prized macro subject here.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-03-15
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*Validated against padi.com/dive-site/indonesia/tanjung-1 and murexresorts.com/diving-bunaken. Last updated 2026-03-15.*

@@ -6,7 +6,7 @@
     "osm_id": 1817672135,
     "osm_type": "node",
     "depth": 18,
-    "site_type": "cave",
+    "site_type": "wall",
     "entry_type": "shore",
     "difficulty": "Intermediate",
     "tags": {
@@ -23,7 +23,7 @@
       "water_temp_min": "2",
       "water_temp_max": "4",
       "visibility": "100+",
-      "notes": "Tectonic fissure between North American and Eurasian plates. Recreational max depth 18m. Fissure descends to 63m. Drysuit required. Water 2-4C year-round. Visibility 100m+. Open Water certification + drysuit experience required."
+      "notes": "Tectonic fissure between North American and Eurasian plates. Recreational max depth 18m. Fissure descends to 63m. Drysuit required. Water 2-4C year-round. Visibility 100m+. Open Water certification + drysuit experience required. Site type corrected from cave to wall: Silfra is a fissure/canyon drift dive with vertical lava walls — the dominant feature is wall diving through a tectonic canyon, not a cave system."
     }
   },
   {
@@ -31,18 +31,18 @@
     "lat": 64.256,
     "lon": -21.117,
     "depth": 18,
-    "site_type": "cave",
+    "site_type": "wall",
     "entry_type": "shore",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "dive.is, silfra.org, wikipedia",
+      "validation_source": "dive.is, silfra.org, wikipedia, adventures.is",
       "water_temp_min": "2",
       "water_temp_max": "4",
       "visibility": "100+",
-      "notes": "Widest section of Silfra fissure, up to 8 meters wide. Cave system beneath reaches 45m but off-limits to recreational divers. Recreational max depth 18m. Green troll-hair algae coats the lava walls. Ducks and geese visible above surface. Leads into deeper cave systems."
+      "notes": "Widest section of Silfra fissure, up to 8 meters wide. Cave system beneath reaches 45m but off-limits to recreational divers. Recreational max depth 18m. Green troll-hair algae coats the lava walls. Ducks and geese visible above surface. Leads into deeper cave systems. Site type corrected from cave to wall: the Hall is an open fissure canyon with towering lava walls — primary diving character is wall/canyon, not enclosed cave."
     }
   },
   {
@@ -50,7 +50,7 @@
     "lat": 64.255,
     "lon": -21.116,
     "depth": 20,
-    "site_type": "cave",
+    "site_type": "wall",
     "entry_type": "shore",
     "difficulty": "Intermediate",
     "tags": {
@@ -61,7 +61,7 @@
       "water_temp_min": "2",
       "water_temp_max": "4",
       "visibility": "100+",
-      "notes": "Most dramatic section of Silfra. 100-meter-long corridor with vertical lava walls dropping 20m. Famous chandelier effect from divers bubbles overhead. End-to-end visibility. Difficulty corrected from Advanced to Intermediate: standard guided dives here require only Open Water + drysuit experience, not Advanced certification."
+      "notes": "Most dramatic section of Silfra. 100-meter-long corridor with vertical lava walls dropping 20m. Famous chandelier effect from divers bubbles overhead. End-to-end visibility. Site type corrected from cave to wall: the Cathedral is an open tectonic canyon with vertical walls — the defining experience is drifting between two towering lava walls, not a cave penetration dive."
     }
   },
   {
@@ -69,7 +69,7 @@
     "lat": 64.254,
     "lon": -21.115,
     "depth": 5,
-    "site_type": "cave",
+    "site_type": "wall",
     "entry_type": "shore",
     "difficulty": "Intermediate",
     "tags": {
@@ -80,7 +80,7 @@
       "water_temp_min": "2",
       "water_temp_max": "4",
       "visibility": "120+",
-      "notes": "Exit lagoon of the Silfra fissure system. Average depth 5m (not 3m as previously recorded). Visibility exceeds 120m - the clearest section of Silfra. Neon green troll-hair algae visible especially in summer. Site type corrected from reef (no coral exists here - this is a freshwater glacial tectonic fissure). Difficulty corrected from Beginner to Intermediate: 2-4C water requires drysuit, unsuitable for beginner divers."
+      "notes": "Exit lagoon of the Silfra fissure system. Average depth 5m. Visibility exceeds 120m - the clearest section of Silfra. Neon green troll-hair algae visible especially in summer. Site type corrected from cave to wall: the Lagoon is an open fissure exit bay — it is not a cave. It is shallow, open to the sky, and part of the connected tectonic canyon/wall system."
     }
   },
   {
@@ -88,7 +88,7 @@
     "lat": 64.253,
     "lon": -21.118,
     "depth": 18,
-    "site_type": "cave",
+    "site_type": "wall",
     "entry_type": "shore",
     "difficulty": "Intermediate",
     "tags": {
@@ -99,7 +99,7 @@
       "water_temp_min": "2",
       "water_temp_max": "4",
       "visibility": "100+",
-      "notes": "Narrowest section of Silfra fissure. The point where North American and Eurasian plates are closest - divers can touch both plates simultaneously. Fissure descends to ~40m here but recreational max is 18m. Depth corrected from 12m to 18m to reflect actual recreational dive depth limit at this section."
+      "notes": "Narrowest section of Silfra fissure. The point where North American and Eurasian plates are closest - divers can touch both plates simultaneously. Fissure descends to ~40m here but recreational max is 18m. Site type corrected from cave to wall: Big Crack is the narrowest canyon section of the tectonic fissure, with both walls reachable by outstretched arms — it is a wall/fissure dive, not a cave."
     }
   },
   {
@@ -107,7 +107,7 @@
     "lat": 64.26,
     "lon": -21.1,
     "depth": 21,
-    "site_type": "cave",
+    "site_type": "wall",
     "entry_type": "shore",
     "difficulty": "Intermediate",
     "tags": {
@@ -118,7 +118,7 @@
       "water_temp_min": "2",
       "water_temp_max": "6",
       "visibility": "100+",
-      "notes": "Separate tectonic fissure on NE shore of Thingvallavatn Lake, ~10min drive from Silfra. Known as the darker, spookier sibling of Silfra. Max depth 21m. Branches into narrow dark gorge (left) and wide open gorge (right). Slightly warmer and visibility more weather-dependent than Silfra. Arctic char and dwarf char inhabit fissure. Less crowded than Silfra. Drysuit required."
+      "notes": "Separate tectonic fissure on NE shore of Thingvallavatn Lake, ~10min drive from Silfra. Known as the darker, spookier sibling of Silfra. Max depth 21m (fissure descends to 116m total). Branches into narrow dark gorge (left) and wide open gorge (right). Slightly warmer and visibility more weather-dependent than Silfra. Arctic char and dwarf char inhabit fissure. Less crowded than Silfra. Drysuit required. Site type corrected from cave to wall: Davíðsgjá is an open tectonic fissure canyon with dramatic vertical walls — classified as wall dive, consistent with Silfra system."
     }
   },
   {
@@ -137,7 +137,7 @@
       "water_temp_min": "4",
       "water_temp_max": "8",
       "visibility": "20-40",
-      "notes": "Location corrected: Strytan is NOT near Silfra/Thingvellir. It is in Eyjafjordur fjord near Akureyri in North Iceland (approx N65.851 W18.193). World's only accessible hydrothermal chimney, 55m tall limestone cone, top at 15m depth, base at 65m. Dives typically reach 25-40m to view chimney. Site type corrected from reef to pinnacle. Difficulty corrected from Intermediate to Advanced: strong currents, deep, requires drysuit certification + 10 logged drysuit dives. Water temp ~4-8C in fjord. Protected area since 2001. Boat dive only from Strytan Divecenter at Hjalteyri. Marine life: cod, pollock, wolffish, lumpsucker, nudibranchs, starfish, starry rays."
+      "notes": "Location: Strytan is NOT near Silfra/Thingvellir. It is in Eyjafjordur fjord near Akureyri in North Iceland (approx N65.851 W18.193). World's only accessible hydrothermal chimney, 55m tall limestone cone, top at 15m depth, base at 65m. Dives typically reach 25-40m to view chimney. Difficulty: Advanced - strong currents, deep, requires drysuit certification + 10 logged drysuit dives. Water temp ~4-8C in fjord. Protected area since 2001. Boat dive only from Strytan Divecenter at Hjalteyri. Marine life: cod, pollock, wolffish, lumpsucker, nudibranchs, starfish, starry rays."
     }
   }
 ]

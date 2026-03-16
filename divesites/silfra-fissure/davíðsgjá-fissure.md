@@ -5,7 +5,7 @@ lng: -21.1
 difficulty: Intermediate
 maxDepth: 21
 entryType: shore
-siteType: cave
+siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import
@@ -25,7 +25,7 @@ Davíðsgjá is popular with local Icelandic divers but rarely visited by intern
 
 - **Location**: Northeast shore of Thingvallavatn Lake, Thingvellir National Park, Iceland
 - **Entry Type**: Shore entry
-- **Site Type**: Cave/cavern
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 21 meters
 - **Typical Visibility**: 100+ meters (weather-dependent)

@@ -5,7 +5,7 @@ lng: -21.115
 difficulty: Intermediate
 maxDepth: 5
 entryType: shore
-siteType: cave
+siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import
@@ -25,7 +25,7 @@ Note: This site has no coral, no tropical marine life, and no reef of any kind. 
 
 - **Location**: Thingvellir National Park, Iceland (fourth and final section of Silfra fissure)
 - **Entry Type**: Shore entry
-- **Site Type**: Cave/cavern
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 5 meters
 - **Typical Visibility**: 120+ meters

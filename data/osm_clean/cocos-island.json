@@ -5,14 +5,16 @@
     "lon": -87.0667,
     "osm_id": null,
     "osm_type": null,
-    "depth": 30,
-    "site_type": "wall",
-    "entry_type": "boat",
+    "depth": 40,
+    "site_type": "pinnacle",
+    "entry_type": "liveaboard",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill"
-    }
+    },
+    "validated": "true",
+    "validation_source": "zubludiving.com, dive-the-world.com, aqua-firma.com, scubadivingearth.com"
   },
   {
     "name": "Dirty Rock",
@@ -20,14 +22,16 @@
     "lon": -87.05,
     "osm_id": null,
     "osm_type": null,
-    "depth": 30,
-    "site_type": "wall",
-    "entry_type": "boat",
+    "depth": 35,
+    "site_type": "pinnacle",
+    "entry_type": "liveaboard",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill"
-    }
+    },
+    "validated": "true",
+    "validation_source": "visitcocosisland.com, zubludiving.com, scubadivingearth.com, dive-the-world.com"
   },
   {
     "name": "Manuelita Outside",
@@ -35,14 +39,16 @@
     "lon": -87.05,
     "osm_id": null,
     "osm_type": null,
-    "depth": 30,
+    "depth": 35,
     "site_type": "wall",
-    "entry_type": "boat",
+    "entry_type": "liveaboard",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill"
-    }
+    },
+    "validated": "true",
+    "validation_source": "zubludiving.com, dan.org, scubadivingearth.com, aqua-firma.com"
   },
   {
     "name": "Manuelita Inside",
@@ -50,14 +56,16 @@
     "lon": -87.0467,
     "osm_id": null,
     "osm_type": null,
-    "depth": 15,
-    "site_type": "wall",
-    "entry_type": "boat",
+    "depth": 22,
+    "site_type": "reef",
+    "entry_type": "liveaboard",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill"
-    }
+    },
+    "validated": "true",
+    "validation_source": "dan.org, scubadivingearth.com, aqua-firma.com, liveaboard.com"
   },
   {
     "name": "Punta Maria",
@@ -65,14 +73,16 @@
     "lon": -87.075,
     "osm_id": null,
     "osm_type": null,
-    "depth": 25,
-    "site_type": "wall",
-    "entry_type": "boat",
+    "depth": 37,
+    "site_type": "pinnacle",
+    "entry_type": "liveaboard",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill"
-    }
+    },
+    "validated": "true",
+    "validation_source": "zubludiving.com, scubadivingearth.com, aqua-firma.com, dan.org"
   },
   {
     "name": "Silverado",
@@ -80,14 +90,16 @@
     "lon": -87.0583,
     "osm_id": null,
     "osm_type": null,
-    "depth": 30,
-    "site_type": "wall",
-    "entry_type": "boat",
+    "depth": 13,
+    "site_type": "pinnacle",
+    "entry_type": "liveaboard",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill"
-    }
+    },
+    "validated": "true",
+    "validation_source": "aqua-firma.com, media.costarica.com, scubadivingearth.com"
   },
   {
     "name": "Viking Rock",
@@ -95,14 +107,16 @@
     "lon": -87.0417,
     "osm_id": null,
     "osm_type": null,
-    "depth": 25,
+    "depth": 40,
     "site_type": "wall",
-    "entry_type": "boat",
+    "entry_type": "liveaboard",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill"
-    }
+    },
+    "validated": "true",
+    "validation_source": "media.costarica.com, scubadivingearth.com, aqua-firma.com"
   },
   {
     "name": "Lobster Rock",
@@ -110,13 +124,15 @@
     "lon": -87.0633,
     "osm_id": null,
     "osm_type": null,
-    "depth": 18,
+    "depth": 37,
     "site_type": "wall",
-    "entry_type": "boat",
+    "entry_type": "liveaboard",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill"
-    }
+    },
+    "validated": "true",
+    "validation_source": "zubludiving.com, dan.org, aqua-firma.com"
   }
 ]

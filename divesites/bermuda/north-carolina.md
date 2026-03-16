@@ -2,7 +2,7 @@
 name: North Carolina
 lat: 32.3533
 lng: -64.6467
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 14
 entryType: boat
 siteType: wreck
@@ -13,30 +13,32 @@ addedBy: osm_import
 
 ## North Carolina
 
-North Carolina is a historic wreck dive in Bermuda, Atlantic.
+The North Carolina is one of Bermuda's most historically significant wrecks, a classic 205-foot iron-hulled barque that sank on New Year's Day, 1880. Her bow and stern remain fairly intact with a ghostly grace, while her mid-section has collapsed, creating an interesting diving experience with excellent photographic potential.
 
 ## Overview
 
-North Carolina is a dive site in Bermuda featuring the wreck of the North Carolina. Located in the Atlantic region, this site offers 15-30 meters of visibility with water temperatures averaging 20-28°C.
+Located 8.5 miles west and five miles south of Gibbs Hill Lighthouse, the North Carolina sits upright on a sandy seabed in 25-45 feet of water. The wreck features interesting deadeyes attached to steel rigging and a graceful fantail stern, providing excellent wide-angle photography subjects.
 
 ## Site Information
 
-- **Location**: Bermuda, Atlantic
+- **Location**: West of Bermuda, off Gibbs Hill Lighthouse
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Beginner
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 14 meters
-- **Typical Visibility**: 15-30 meters (50-100 feet)
+- **Typical Visibility**: 31-35 feet (9-11 meters)
 - **Current**: Light to moderate
 - **Best Time**: May to October
+- **Ship Type**: Iron-hulled three-masted barque (205 feet)
+- **Year Sunk**: January 1, 1880
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, snappers, barracuda, coral encrustation, sea turtles, reef sharks, groupers, snappers. Additional species commonly sighted include parrotfish, angelfish. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The site is great for spotting large hog fish, schools of snapper and porgies, and margate. The rocky bottom and wreck structure attract a diverse population of reef fish and crustaceans.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 14 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend to the upright wreck structure in 25-45 feet of water. Examine the intact bow and stern features, deadeyes, and steel rigging. The depth allows 40-50 minutes of comfortable bottom time. Ascend gradually with a 5-minute safety stop at 15 feet.
 
 ## Entry and Exit
 

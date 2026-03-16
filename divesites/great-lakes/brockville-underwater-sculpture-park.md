@@ -13,50 +13,47 @@ addedBy: osm_import
 
 ## Brockville Underwater Sculpture Park
 
-Brockville Underwater Sculpture Park is a reef dive site in Great Lakes, North America.
+Brockville Underwater Sculpture Park — a unique freshwater artistic diving experience in the St. Lawrence River system.
 
 ## Overview
 
-Brockville Underwater Sculpture Park is a dive site in Great Lakes offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The Brockville Underwater Sculpture Park is a one-of-a-kind dive site featuring submerged sculptures at 20m depth in the St. Lawrence River system. This unique freshwater site offers artistic and cultural dive exploration rather than traditional wreck or reef diving. Suitable for recreational divers seeking a different diving experience.
 
 ## Site Information
 
-- **Location**: Great Lakes, North America
+- **Location**: St. Lawrence River system, Ontario
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Typical Visibility**: 5-15 meters
+- **Current**: Variable
+- **Best Time**: June to September
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Great Lakes freshwater ecosystem. Lake St. Lawrence supports lake sturgeon, whitefish, perch, and other cold-water species. The sculpture installation provides habitat for freshwater fish and organisms.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descent to 20m sculpture installation. Exploration of the artistic features and underwater artistry. Plan appropriate bottom time for recreational diving limits.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by dive boat from local operators. Entry is via giant stride or back roll. Follow the dive briefing and deploy a surface marker buoy (SMB) for boat pickup.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Unique freshwater diving experience
+- Excellent subject matter for underwater photography
+- Art installation preservation — look but don't touch
+- Suitable for recreational diving
+- Bring an underwater camera
+- Cold freshwater requires appropriate thermal protection
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Cold freshwater diving. Wear appropriate thermal protection. Be aware of depth and current conditions. Always dive with a buddy and carry a safety sausage (SMB). Follow recreational diving safety protocols.
 
 ## Additional Resources
 

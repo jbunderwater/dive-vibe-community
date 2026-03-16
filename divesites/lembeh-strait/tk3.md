@@ -3,7 +3,7 @@ name: TK3
 lat: 1.4783
 lng: 125.2383
 difficulty: Beginner
-maxDepth: 22
+maxDepth: 25
 entryType: boat
 siteType: muck
 ref: null
@@ -25,7 +25,7 @@ TK3 features a sandy slope beginning at 5 meters and descending to approximately
 - **Entry Type**: Boat dive
 - **Site Type**: Muck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 22 meters
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 5–12 meters
 - **Water Temperature**: 26–29°C
 - **Current**: Minimal; very sheltered bay

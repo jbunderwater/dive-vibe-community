@@ -63,4 +63,4 @@ El Canyon offers a more structured photographic environment than the open pinnac
 - **Last Updated**: 2026-03-15
 
 ---
-*Validated against Dive-the-World, UWPhotographyGuide, ACD Diving trip report, and Nautilus Adventures site descriptions. Last updated 2026-03-15.*
+*Validated against Dive-the-World, UWPhotographyGuide, ACD Diving trip report (adcdiving.be), Nautilus Adventures site descriptions, Diver Trek trip report, and Divernet Top 5 Socorro Dive Sites. Last updated 2026-03-15.*

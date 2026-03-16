@@ -3,7 +3,7 @@ name: Aer Bajo
 lat: 1.5
 lng: 125.2667
 difficulty: Beginner
-maxDepth: 20
+maxDepth: 25
 entryType: boat
 siteType: muck
 ref: null
@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Aer Bajo
 
-Aer Bajo (also spelled Air Bajo, meaning "Sea Gypsy" in Indonesian) is a classic muck dive area in the northern Lembeh Strait, encompassing three distinct dive sites within the same general location. Each sub-site begins with a shallow sandy flat at 4–6 meters, then a gentle sand slope to around 20 meters. The site is consistently described as one of Lembeh's classics — accessible to beginners yet productive enough for experienced critter hunters. Coconut octopus sightings are reliable here.
+Aer Bajo (also spelled Air Bajo, meaning "Sea Gypsy" in Indonesian) is a classic muck dive area in the northern Lembeh Strait, encompassing three distinct dive sites within the same general location. Each sub-site begins with a shallow sandy flat at 4–6 meters, then a gentle sand slope to around 25 meters. The site is consistently described as one of Lembeh's classics — accessible to beginners yet productive enough for experienced critter hunters. Coconut octopus sightings are reliable here.
 
 ## Overview
 
@@ -25,7 +25,7 @@ The three Aer Bajo sites share the same black volcanic sand character that defin
 - **Entry Type**: Boat dive
 - **Site Type**: Muck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 5–12 meters
 - **Water Temperature**: 26–29°C
 - **Current**: Minimal; sheltered location
@@ -46,7 +46,7 @@ Aer Bajo is a well-rounded muck site with a variety of classic Lembeh critters:
 
 ## Dive Profile
 
-Each of the three sub-sites follows a similar profile: drop onto the shallow sand flat (4–6 m), then work the gentle slope down to 15–20 meters. Coverage of all three sites can be combined into two or three successive dives in the same morning, or each site can be dived individually for thorough exploration. The shallow section is particularly good for coconut octopus, which tend to set up in the rubble at the base of the flat. The slope is productive for seahorses and frogfish.
+Each of the three sub-sites follows a similar profile: drop onto the shallow sand flat (4–6 m), then work the gentle slope down to 20–25 meters. Coverage of all three sites can be combined into two or three successive dives in the same morning, or each site can be dived individually for thorough exploration. The shallow section is particularly good for coconut octopus, which tend to set up in the rubble at the base of the flat. The slope is productive for seahorses and frogfish.
 
 ## Entry and Exit
 

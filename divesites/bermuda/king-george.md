@@ -3,7 +3,7 @@ name: King George
 lat: 32.3667
 lng: -64.7667
 difficulty: Intermediate
-maxDepth: 22
+maxDepth: 18
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,30 +13,33 @@ addedBy: osm_import
 
 ## King George
 
-King George is a historic wreck dive in Bermuda, Atlantic.
+The King George is Bermuda's largest fully intact wreck, standing as a testament to early 20th-century engineering. This 1910 dredger was one of three vessels commissioned by the Bermuda Government to deepen harbor channels for modern shipping, and remained in service until 1930.
 
 ## Overview
 
-King George is a dive site in Bermuda featuring the wreck of the King George. Located in the Atlantic region, this site offers 15-30 meters of visibility with water temperatures averaging 20-28°C.
+The King George sits upright and mostly intact in 60 feet of water, with all major features remaining accessible to divers. Her ladders, catwalks, engines, winches, and forward holds provide excellent opportunities for exploration. The wreck is heavily colonized with coral and sponges, creating a thriving artificial reef teeming with marine life.
 
 ## Site Information
 
-- **Location**: Bermuda, Atlantic
+- **Location**: Bermuda's South Shore waters
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 meters
-- **Typical Visibility**: 15-30 meters (50-100 feet)
+- **Maximum Depth**: 18 meters
+- **Typical Visibility**: 36-40 feet (11-12 meters)
 - **Current**: Light to moderate
 - **Best Time**: May to October
+- **Ship Type**: Dredger built 1910 (Lobnitz & Co., Glasgow)
+- **Original Purpose**: Harbor dredging vessel
+- **Year Sunk**: 1930s (scuttled after replacement)
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, snappers, barracuda, coral encrustation, sea turtles, reef sharks, groupers, snappers. Additional species commonly sighted include parrotfish, angelfish. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The King George attracts schools of snappers, groupers, barracuda, and jacks. Lobsters, octopus, and crabs shelter within the structure. The coral and sponge-encrusted hull provides habitat for countless smaller reef fish and invertebrates.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 22 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend to the upright wreck structure and explore the accessible features: ladders, catwalks, engine room, and hold areas. The intact structure makes navigation intuitive for intermediate divers. Plan 40-50 minutes of bottom time with a 5-minute safety stop at 15 feet.
 
 ## Entry and Exit
 

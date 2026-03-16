@@ -3,7 +3,7 @@ name: Angel's Window
 lat: 1.4633
 lng: 125.22
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 32
 entryType: boat
 siteType: muck
 ref: null
@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Angel's Window
 
-Angel's Window is one of Lembeh's more structurally distinctive sites, centered on a large rock formation off the north coast of Lembeh Island with two peaks that rise close to the surface. The site's defining feature is a large swim-through at approximately 25 meters, surrounded by gorgonian sea fans hosting pygmy seahorses. The surrounding seabed transitions from muck sand to a rocky seabed crawling with flying gurnards, mantis shrimps, and other unusual bottom dwellers. It is one of the few Lembeh sites where stonefish covered in algae-like growth have been documented on the pinnacle top.
+Angel's Window is one of Lembeh's more structurally distinctive sites, centered on a large rock formation off the north coast of Lembeh Island with two peaks that rise close to the surface. The site's defining feature is a large swim-through cave that descends from 24 meters down to 32 meters, surrounded by gorgonian sea fans hosting pygmy seahorses. The surrounding seabed transitions from muck sand to a rocky seabed crawling with flying gurnards, mantis shrimps, and other unusual bottom dwellers. It is one of the few Lembeh sites where stonefish covered in algae-like growth have been documented on the pinnacle top.
 
 ## Overview
 
-The two rock peaks of Angel's Window create a varied topography: the sides of the structure host sea fans and soft corals, the base transitions to sandy muck terrain, and the deep swim-through at 25 meters frames a cavern section with frogfish, nudibranchs, and schooling fish. The rocky seabed beyond the main structure holds flying gurnards — a flamboyant species that spreads its pectoral fins like wings when disturbed — alongside mantis shrimps and diverse bottom dwellers. Multiple gorgonian species on the structure host two pygmy seahorse species.
+The two rock peaks of Angel's Window create a varied topography: the sides of the structure host sea fans and soft corals, the base transitions to sandy muck terrain, and the deep swim-through cave (entering at around 24 m, descending to 32 m) frames a cavern section with frogfish, nudibranchs, and schooling fish. The rocky seabed beyond the main structure holds flying gurnards — a flamboyant species that spreads its pectoral fins like wings when disturbed — alongside mantis shrimps and diverse bottom dwellers. Multiple gorgonian species on the structure host two pygmy seahorse species.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ The two rock peaks of Angel's Window create a varied topography: the sides of th
 - **Entry Type**: Boat dive
 - **Site Type**: Muck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 32 meters
 - **Typical Visibility**: 5–15 meters
 - **Water Temperature**: 26–29°C
 - **Current**: Can be moderate; monitor before diving
@@ -50,7 +50,7 @@ Angel's Window combines muck substrate species with pinnacle-associated fauna:
 
 ## Dive Profile
 
-Descend onto the rocky seabed and approach the structure from the base. Scan the surrounding area for flying gurnards and mantis shrimps before ascending the rock face to find the sea fans and pygmy seahorses. Pass through the swim-through at 25 meters, noting frogfish and nudibranchs in the cavern. Check the pinnacle tops for the heavily camouflaged stonefish. Ascend along the structure, finishing in the shallows where sea fans hold additional pygmy seahorses. The site rewards thorough exploration at each depth zone.
+Descend onto the rocky seabed and approach the structure from the base. Scan the surrounding area for flying gurnards and mantis shrimps before ascending the rock face to find the sea fans and pygmy seahorses. Pass through the swim-through cave (entering at around 24 m, descending to 32 m), noting frogfish and nudibranchs in the cavern. Check the pinnacle tops for the heavily camouflaged stonefish. Ascend along the structure, finishing in the shallows where sea fans hold additional pygmy seahorses. The site rewards thorough exploration at each depth zone.
 
 ## Entry and Exit
 
@@ -60,7 +60,7 @@ Access by dive boat. Giant stride entry from the boat. Currents can be moderate 
 
 - This is one of Lembeh's best sites for pygmy seahorses — your guide will search the specific gorgonian species they prefer
 - The flying gurnard's wing display is best triggered by a slow, patient approach from the front — they will spread pectoral fins in a defensive display
-- The swim-through at 25 m is the structural highlight; leave enough air to spend time here
+- The swim-through cave (24–32 m) is the structural highlight; leave enough air and bottom time to spend time here
 - Stonefish on the pinnacle top are genuinely difficult to spot — let your guide point them out before you reach a hand in
 - Angel's Window is one of the few Lembeh sites worth a wide-angle lens in addition to macro
 

@@ -3,7 +3,7 @@ name: S.S. Ilex
 lat: 46.9651507
 lng: -52.9237188
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 5
 entryType: shore
 siteType: wreck
 ref: null
@@ -13,55 +13,56 @@ addedBy: osm_import
 
 ## S.S. Ilex
 
-S.S. Ilex is a historic wreck dive in Newfoundland, North America.
+S.S. Ilex is a partially submerged shipwreck at Fermeuse Harbour on the Avalon Peninsula's Southern Shore — a dramatic shoreline wreck accessible by foot, sitting in very shallow cold water.
 
 ## Overview
 
-S.S. Ilex is a dive site in Newfoundland featuring the wreck of the S.S. Ilex. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+On October 27, 1948, the SS Ilex — a 694-ton coastal steamer owned by Wareham and Sons of Spencers Cove, Placentia Bay — left St. John's bound for Kingston, Jamaica with a cargo of salt fish when an approaching storm forced her into Fermeuse Harbour for shelter. Secured at the wharf in Kingman's Cove that evening, fire broke out in the engine room from the ignition of fuel in her oil-fired boilers. The entire crew escaped by lifeboat before the ship was fully engulfed. The burned-out hull grounded on the rocky shores of Fermeuse Harbour on a steep slant, where she remains today. The wreck is visible above water, with its rusty rails dipping toward the harbour, and sits in very shallow water (1–5 meters) accessible from shore after a 30-minute hike along rocky shoreline.
 
 ## Site Information
 
-- **Location**: Newfoundland, North America
+- **Location**: Fermeuse Harbour, Southern Shore, Avalon Peninsula, Newfoundland
 - **Entry Type**: Shore entry
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 5 meters
+- **Typical Visibility**: 3–10 meters
+- **Water Temperature**: 4–12°C — drysuit or thick wetsuit required
+- **Current**: Tidal; can be affected by swell in exposed harbour
+- **Best Time**: June to September (calmer sea states)
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The cold waters of Fermeuse Harbour support encrusting invertebrates on the hull: mussels, barnacles, plumose anemones, and coralline algae. Small rockfish, cunner, and invertebrate species shelter under hull overhangs. The rocky shoreline intertidal zone surrounding the wreck hosts a typical Newfoundland coastal ecosystem including sea urchins, starfish, and periwinkles.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 25 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The wreck lies on a steep rocky slope at the edge of the harbour. The submerged section extends from the waterline to approximately 5 meters at the deepest accessible point. The burned steel hull is largely open — penetration is not recommended given the structural degradation from the 1948 fire and decades of exposure. Explore the exterior hull, fire-damaged superstructure remnants, and the debris field in the shallows. At these depths, snorkelling is a viable alternative to scuba in good conditions.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Access requires a 30-minute hike along the rocky shoreline from the nearest road access at Fermeuse. The approach is along rugged Newfoundland coastal terrain — proper footwear required. Entry into the water is over rocks; take care in any swell. Exit at the same point. The site is also visible from above the waterline and is a worthwhile shoreside heritage visit even without diving.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- The hike to the wreck is part of the experience — wear sturdy footwear and bring a dry bag for gear
+- The wreck is impressive above water; bring a camera for shoreside photography as well as underwater
+- Check for swell conditions before committing to rocky shore entry — the exposed location can be rough
+- Cold water requires drysuit or at minimum a 7mm wetsuit with hood and gloves
+- The site is also accessible as a snorkel destination on calm summer days
+- Combine with a drive along the scenic Irish Loop (Route 10) on the Southern Shore
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The rocky shoreline entry and exposed harbour position require assessment of sea conditions before entering. Swell can make entry and exit hazardous. The structural integrity of the fire-damaged hull is poor — do not enter any enclosed spaces. Cold water in this region requires adequate thermal protection. Always dive with a buddy in this remote location.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The partially exposed hull above the waterline makes for striking shoreline photography — rusty steel against the North Atlantic backdrop is highly photogenic. The split-level shot (half above, half below water) works well in calm conditions. Encrusting life on the hull in the shallows provides macro subjects. Ambient light is typically adequate at these depths during summer.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-03-15
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*Dive site information researched from HiddenNewfoundland.ca, DownHome magazine, and Alamy stock documentation of the wreck. Last updated 2026-03-15.*

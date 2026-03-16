@@ -3,7 +3,7 @@ name: Likuan 3
 lat: 1.6050969
 lng: 124.766713
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 40
 entryType: boat
 siteType: wall
 ref: null
@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Likuan 3
 
-Likuan 3 is a reef dive site in Manado & Bunaken, Asia.
+Likuan 3 (also spelled Lekuan III) is the most accessible section of Bunaken's famous Likuan wall system, recommended for divers of all experience levels including those completing dive courses. While it still delivers the same world-class wall diving and abundant turtle encounters, its calmer current makes it approachable for less experienced divers.
 
 ## Overview
 
-Likuan 3 is a dive site in Manado & Bunaken offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The wall at Likuan 3 starts with a gentle slope that quickly turns into a vertical drop reaching well beyond 40 metres. The wall face is encrusted with the same massive sponges, ancient sea fans, and soft coral gardens found throughout the Likuan system. Current here is mild to moderate — the calmest of the three Likuan sections — making it possible to spend more time hovering and observing marine life without fighting the water.
 
 ## Site Information
 
-- **Location**: Manado & Bunaken, Asia
+- **Location**: Southwest Bunaken Island, Bunaken National Marine Park
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 40 meters
+- **Typical Visibility**: 15-25 metres
+- **Current**: Mild to moderate — calmest of the Likuan trio
+- **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Green and hawksbill turtles are the signature attraction — encounters with ten or more turtles in one dive are common. Blacktip reef sharks are regular visitors at Likuan 3, along with barracuda and manta rays on good days. Schools of pyramid butterflyfish, fusiliers, and long-jaw mackerel patrol the wall face. Macro life on the coral includes nudibranchs and pygmy seahorses in sea fans.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The gentle slope at the beginning provides an easy descent before the wall drops away vertically. Swim along the wall face at your chosen working depth, watching both the wall and the blue water beyond. The calmer current allows more time at any given depth. Ascend along the wall and enjoy the pristine shallow coral garden for your safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from Bunaken Island operators. The milder current makes entry and exit more straightforward than at Likuan 1 or 2. Suitable for Open Water divers with some experience; recommended for Advanced divers on their first Bunaken trip to use as orientation before the more demanding sites.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Ideal first dive in the Likuan system — use it to orientate before attempting Likuan 1 or 2
+- Turtles are the main attraction — be patient and let them approach on their own terms
+- Look for blacktip reef sharks in the blue water beyond the wall edge
+- The shallow reef top is exceptional for snorkelling and safety stops
+- Suitable for dive courses due to the more manageable current conditions
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Current is milder here than at other Likuan sections but can still build. Carry an SMB for pickup. Do not let the calmer conditions tempt you into exceeding your dive plan — the wall continues well below recreational limits.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The calmer current at Likuan 3 makes it easier to set up shots and hold position for macro work. Turtles are the standout wide-angle subject. The sea fans and sponges on the wall offer excellent macro targets including pygmy seahorses. Morning light penetrates the shallower sections beautifully.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-03-15
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*Validated against divezone.net/divesite/likuan-iii, murexresorts.com/diving-bunaken, and zubludiving.com. Last updated 2026-03-15.*

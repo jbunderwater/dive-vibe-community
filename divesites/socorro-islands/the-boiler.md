@@ -3,7 +3,7 @@ name: The Boiler
 lat: 19.3
 lng: -110.8
 difficulty: Advanced
-maxDepth: 35
+maxDepth: 45
 entryType: boat
 siteType: pinnacle
 ref: null
@@ -17,7 +17,7 @@ The Boiler is a submerged volcanic pinnacle (guyot) off the northwest coast of I
 
 ## Overview
 
-The Boiler is roughly oval-shaped — about the size of a football field — and rises from a base at approximately 35 meters. The site functions as an active manta ray cleaning station serviced by Clarion angelfish (Holacanthus clarionensis), an endemic species found only in this part of the Pacific. Mantas return daily to be cleaned of parasites, giving divers predictable, prolonged, and remarkably intimate encounters. Up to eight manta rays have been documented simultaneously at The Boiler. The site is also a hydrothermal area, and the warm mineral-rich water is thought to contribute to the abundance of life aggregating here.
+The Boiler is roughly oval-shaped — about the size of a football field — and rises from a base at approximately 45 meters. The site functions as an active manta ray cleaning station serviced by Clarion angelfish (Holacanthus clarionensis), an endemic species found only in this part of the Pacific. Mantas return daily to be cleaned of parasites, giving divers predictable, prolonged, and remarkably intimate encounters. Up to eight manta rays have been documented simultaneously at The Boiler. The site is also a hydrothermal area, and the warm mineral-rich water is thought to contribute to the abundance of life aggregating here.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ The Boiler is roughly oval-shaped — about the size of a football field — and
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 35 meters
+- **Maximum Depth**: 45 meters
 - **Typical Visibility**: 20–30 meters
 - **Current**: Moderate to strong; surge on the summit
 - **Best Time**: November to June; January–April peak manta concentration

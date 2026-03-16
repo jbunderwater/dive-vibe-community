@@ -7,7 +7,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 18,
     "entryType": "shore",
-    "siteType": "cave",
+    "siteType": "wall",
     "ref": "",
     "osmId": 1817672135
   },
@@ -19,7 +19,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 18,
     "entryType": "shore",
-    "siteType": "cave",
+    "siteType": "wall",
     "ref": "",
     "osmId": null
   },
@@ -31,7 +31,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 20,
     "entryType": "shore",
-    "siteType": "cave",
+    "siteType": "wall",
     "ref": "",
     "osmId": null
   },
@@ -43,7 +43,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 5,
     "entryType": "shore",
-    "siteType": "cave",
+    "siteType": "wall",
     "ref": "",
     "osmId": null
   },
@@ -55,7 +55,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 18,
     "entryType": "shore",
-    "siteType": "cave",
+    "siteType": "wall",
     "ref": "",
     "osmId": null
   },
@@ -67,7 +67,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 21,
     "entryType": "shore",
-    "siteType": "cave",
+    "siteType": "wall",
     "ref": "",
     "osmId": null
   },

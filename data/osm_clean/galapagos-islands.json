@@ -14,7 +14,7 @@
       "name": "Galapagos fan dive",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "scubaboard.com, padi.com/diving-in/the-galapagos-islands"
+      "validation_source": "scubaboard.com, padi.com/diving-in/the-galapagos-islands, theportuguesetraveler.com/galapagos/san-cristobal/best-dive-sites-san-cristobal-galapagos"
     }
   },
   {
@@ -26,7 +26,7 @@
     "depth": 27,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Mosquera",
       "sport": "scuba_diving",
@@ -135,12 +135,12 @@
     "depth": 27,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "scubaiguana.com/bartolome-galapagos-dive-site, eagleraygalapagos.com/bartolome, academybaydiving.com/galapagos-dive-sites"
+      "validation_source": "scubaiguana.com/bartolome-galapagos-dive-site, naturegalapagos.com/galapagos-diving/bartolome, academybaydiving.com/galapagos-dive-sites"
     }
   },
   {
@@ -150,7 +150,7 @@
     "depth": 18,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
@@ -165,12 +165,12 @@
     "depth": 20,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "scubaiguana.com/daphne-galapagos-dive-site, eagleraygalapagos.com/daphne-minor, naturegalapagos.com/daphne-minor"
+      "validation_source": "scubaiguana.com/daphne-galapagos-dive-site, eagleraygalapagos.com/daphne-minor, naturegalapagos.com/galapagos-islands-scuba-diving-daphne-minor"
     }
   }
 ]

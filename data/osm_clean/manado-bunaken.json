@@ -5,14 +5,16 @@
     "lon": 124.7559944,
     "osm_id": 4881340466,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 25,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Alung banua",
       "sport": "scuba_diving"
-    }
+    },
+    "validated": "true",
+    "validation_source": "divezone.net/divesite/alung-banua, scubadiving.place/divesite/alung-banua"
   },
   {
     "name": "Muka kampung",
@@ -20,7 +22,7 @@
     "lon": 124.7738773,
     "osm_id": 4881341034,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 25,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -28,7 +30,9 @@
       "name": "Muka kampung",
       "name:en": "Turtle City",
       "sport": "scuba_diving"
-    }
+    },
+    "validated": "true",
+    "validation_source": "twofishdivers.com/blog/bunaken-dive-site-the-turtle-city, padi.com/dive-site/indonesia/muka-kampung"
   },
   {
     "name": "Mike's",
@@ -36,14 +40,16 @@
     "lon": 124.7431438,
     "osm_id": 7293794211,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 40,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Mike's",
       "sport": "scuba_diving"
-    }
+    },
+    "validated": "true",
+    "validation_source": "divezone.net/divesite/mike-s-point, originaldiving.com/diving-mikes-point-dive-site"
   },
   {
     "name": "Pangulingan",
@@ -51,14 +57,16 @@
     "lon": 124.7109802,
     "osm_id": 7293798869,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 35,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Pangulingan",
       "sport": "scuba_diving"
-    }
+    },
+    "validated": "true",
+    "validation_source": "murexresorts.com/diving-bunaken, zubludiving.com/articles/best-dive-sites-bunaken"
   },
   {
     "name": "Likuan 1",
@@ -66,14 +74,16 @@
     "lon": 124.7679605,
     "osm_id": 7293799532,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 40,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Likuan 1",
       "sport": "scuba_diving"
-    }
+    },
+    "validated": "true",
+    "validation_source": "murexresorts.com/diving-bunaken, dive-the-world.com/diving-sites-indonesia-manado-bunaken, zubludiving.com/articles/best-dive-sites-bunaken"
   },
   {
     "name": "Bualo",
@@ -81,14 +91,16 @@
     "lon": 124.7007471,
     "osm_id": 7293804572,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 30,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Bualo",
       "sport": "scuba_diving"
-    }
+    },
+    "validated": "true",
+    "validation_source": "murexresorts.com/diving-bunaken, zubludiving.com/articles/best-dive-sites-bunaken"
   },
   {
     "name": "Pangalisan",
@@ -96,14 +108,16 @@
     "lon": 124.7828835,
     "osm_id": 7293823010,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 35,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Pangalisan",
       "sport": "scuba_diving"
-    }
+    },
+    "validated": "true",
+    "validation_source": "twofishdivers.com/diving/bunaken-island-manado, lumbalumbaresort.com/dive-snorkel/bunaken-national-park"
   },
   {
     "name": "Timur 2",
@@ -111,14 +125,16 @@
     "lon": 124.7832989,
     "osm_id": 7293830209,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 40,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Timur 2",
       "sport": "scuba_diving"
-    }
+    },
+    "validated": "true",
+    "validation_source": "divezone.net/divesite/bunaken-timur, murexresorts.com/diving-bunaken"
   },
   {
     "name": "Timur 1",
@@ -126,14 +142,16 @@
     "lon": 124.7834687,
     "osm_id": 7293830868,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 40,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Timur 1",
       "sport": "scuba_diving"
-    }
+    },
+    "validated": "true",
+    "validation_source": "divezone.net/divesite/bunaken-timur, murexresorts.com/diving-bunaken"
   },
   {
     "name": "Raymond's",
@@ -141,14 +159,16 @@
     "lon": 124.7365353,
     "osm_id": 7293834009,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 40,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Raymond's",
       "sport": "scuba_diving"
-    }
+    },
+    "validated": "true",
+    "validation_source": "divessi.com/mydiveguide/divesite/16877, merapitours.com/indonesia/sulawesi/dive-spots-bunaken"
   },
   {
     "name": "Siladen 1",
@@ -156,14 +176,16 @@
     "lon": 124.7971832,
     "osm_id": 7293834999,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 35,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Siladen 1",
       "sport": "scuba_diving"
-    }
+    },
+    "validated": "true",
+    "validation_source": "siladen.com/experiences/dive-sites-map, murexresorts.com/diving-bunaken"
   },
   {
     "name": "Mandolin",
@@ -171,14 +193,16 @@
     "lon": 124.7329308,
     "osm_id": 7293835957,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 35,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Mandolin",
       "sport": "scuba_diving"
-    }
+    },
+    "validated": "true",
+    "validation_source": "divezone.net/divesite/mandolin, zubludiving.com/articles/best-dive-sites-bunaken"
   },
   {
     "name": "Tanjung Parigi",
@@ -186,14 +210,16 @@
     "lon": 124.7664363,
     "osm_id": 7293838994,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 40,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Tanjung Parigi",
       "sport": "scuba_diving"
-    }
+    },
+    "validated": "true",
+    "validation_source": "padi.com/dive-site/indonesia/tanjung-1, murexresorts.com/diving-bunaken"
   },
   {
     "name": "Tanjung Kopi",
@@ -201,14 +227,16 @@
     "lon": 124.6917917,
     "osm_id": 7293845147,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 35,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Tanjung Kopi",
       "sport": "scuba_diving"
-    }
+    },
+    "validated": "true",
+    "validation_source": "divescover.com/dive-site/tanjung-kopi, starfish.ch/dive/Bunaken.html"
   },
   {
     "name": "Likuan 3",
@@ -216,14 +244,16 @@
     "lon": 124.766713,
     "osm_id": 7293846657,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 40,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Likuan 3",
       "sport": "scuba_diving"
-    }
+    },
+    "validated": "true",
+    "validation_source": "divezone.net/divesite/likuan-iii, murexresorts.com/diving-bunaken"
   },
   {
     "name": "Bango",
@@ -231,7 +261,7 @@
     "lon": 124.779776,
     "osm_id": 7293846778,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 30,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -246,14 +276,16 @@
     "lon": 124.7657464,
     "osm_id": 7293847717,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 40,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Likuan 2",
       "sport": "scuba_diving"
-    }
+    },
+    "validated": "true",
+    "validation_source": "divezone.net/divesite/likuan-ii, murexresorts.com/diving-bunaken, zubludiving.com/articles/best-dive-sites-bunaken"
   },
   {
     "name": "S. Utara",
@@ -261,14 +293,16 @@
     "lon": 124.7966476,
     "osm_id": 7293848927,
     "osm_type": "node",
-    "depth": 20,
-    "site_type": "wall",
+    "depth": 40,
+    "site_type": "drift",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "S. Utara",
       "sport": "scuba_diving"
-    }
+    },
+    "validated": "true",
+    "validation_source": "siladen.com/experiences/dive-sites-map, divernet.com/bunaken-national-marine-park-superlative-siladen"
   },
   {
     "name": "Panorama",
@@ -283,7 +317,9 @@
     "tags": {
       "name": "Panorama",
       "sport": "scuba_diving"
-    }
+    },
+    "validated": "true",
+    "validation_source": "bunakendiving.co, murexresorts.com/diving-bunaken"
   },
   {
     "name": "Siladen 2",
@@ -291,14 +327,16 @@
     "lon": 124.8079861,
     "osm_id": 7293852782,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 35,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Siladen 2",
       "sport": "scuba_diving"
-    }
+    },
+    "validated": "true",
+    "validation_source": "siladen.com/experiences/dive-sites-map, murexresorts.com/diving-bunaken"
   },
   {
     "name": "Fukui Point",
@@ -306,14 +344,16 @@
     "lon": 124.7506949,
     "osm_id": 7293853324,
     "osm_type": "node",
-    "depth": 20,
-    "site_type": "wall",
+    "depth": 30,
+    "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Fukui Point",
       "sport": "scuba_diving"
-    }
+    },
+    "validated": "true",
+    "validation_source": "divezone.net/divesite/fukui-point, thalassamanado.com/diving-bunaken-fukui-point, padi.com/dive-site/indonesia/fukui-point"
   },
   {
     "name": "Muka Gereja",
@@ -321,14 +361,16 @@
     "lon": 124.7199353,
     "osm_id": 7293853962,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 25,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Muka Gereja",
       "sport": "scuba_diving"
-    }
+    },
+    "validated": "true",
+    "validation_source": "merapitours.com/indonesia/sulawesi/dive-spots-bunaken, murexresorts.com/diving-bunaken"
   },
   {
     "name": "Cela Cela",
@@ -336,14 +378,16 @@
     "lon": 124.7683402,
     "osm_id": 7293854507,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 30,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Cela Cela",
       "sport": "scuba_diving"
-    }
+    },
+    "validated": "true",
+    "validation_source": "divezone.net/divesite/celah-celah, padi.com/dive-site/indonesia/celah-celah"
   },
   {
     "name": "Tengah",
@@ -351,14 +395,16 @@
     "lon": 124.7326589,
     "osm_id": 7293855286,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 40,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Tengah",
       "sport": "scuba_diving"
-    }
+    },
+    "validated": "true",
+    "validation_source": "bottles-up-diving.com/BU_divingother_bunaken, murexresorts.com/diving-bunaken"
   },
   {
     "name": "Gorango",
@@ -366,14 +412,16 @@
     "lon": 124.7534642,
     "osm_id": 7293857725,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 30,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Gorango",
       "sport": "scuba_diving"
-    }
+    },
+    "validated": "true",
+    "validation_source": "starfish.ch/dive/Bunaken.html, sulawesi-experience.com/news/bunaken-marine-park-dive-sites"
   },
   {
     "name": "Sachiko's",
@@ -381,13 +429,15 @@
     "lon": 124.7740207,
     "osm_id": 7293857965,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 40,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Sachiko's",
       "sport": "scuba_diving"
-    }
+    },
+    "validated": "true",
+    "validation_source": "divezone.net/divesite/sachiko-s-point, zubludiving.com/articles/best-dive-sites-bunaken, murexresorts.com/diving-bunaken-dive-sites"
   }
 ]

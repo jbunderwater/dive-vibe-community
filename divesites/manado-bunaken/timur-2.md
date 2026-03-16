@@ -3,7 +3,7 @@ name: Timur 2
 lat: 1.6145663
 lng: 124.7832989
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 40
 entryType: boat
 siteType: wall
 ref: null
@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Timur 2
 
-Timur 2 is a reef dive site in Manado & Bunaken, Asia.
+Timur 2 is the northern section of Bunaken Island's eastern wall system, located between Pangalisan and Sachiko's Point. Like Timur 1, it benefits from the calmer conditions typical of the eastern side of the island, making it accessible for intermediate divers while still offering 40-metre wall diving and rich marine life.
 
 ## Overview
 
-Timur 2 is a dive site in Manado & Bunaken offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The wall at Timur 2 is a steep drop-off covered with hard and soft corals, part of the continuous eastern wall that wraps around Bunaken Island. The site offers the same character as Timur 1 — mild current, excellent visibility, a pristine reef top, and a productive wall face with many small caves and crevices — but with its own distinct section of wall to explore. The proximity to Sachiko's Point to the north means this site can be combined with that advanced site on the same dive day.
 
 ## Site Information
 
-- **Location**: Manado & Bunaken, Asia
+- **Location**: Northeast Bunaken Island, Bunaken National Marine Park
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 40 meters
+- **Typical Visibility**: 15-25 metres
+- **Current**: Usually mild, occasionally moderate
+- **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Green and hawksbill turtles are regular sightings on both the wall and reef top. Occasional eagle rays pass through the blue water. Whitetip reef sharks rest in the wall's crevices and caves. Bumphead parrotfish and Napoleon wrasse are regularly seen. The wall's many caves and cracks support a variety of macro subjects including moray eels, crabs, and nudibranchs.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the wall face and follow it at a comfortable working depth. The section can be dived as a drift or at a relaxed exploratory pace depending on current conditions. Check wall crevices for marine life throughout. Ascend to the reef top for a safety stop in the pristine shallow coral garden.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from Bunaken Island. The eastern side's calmer conditions make this a reliable and accessible dive regardless of experience level, subject to current conditions on the day.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Good intermediate option on days when Sachiko's or other advanced sites are running strong current
+- Look carefully at the wall's crevices — this site is known for good macro diversity
+- The reef top is excellent for extended safety stops
+- Can be combined with Sachiko's Point or Pangalisan as part of an eastern wall dive day
+- Check with your guide on current direction before entering — a gentle drift is ideal
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Current is typically mild but monitor conditions throughout the dive. Carry an SMB. Do not exceed dive plan depth — the wall continues below 40 metres.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Similar to Timur 1, the calmer current makes this a good site for macro photography in wall crevices. Turtle portraits and wider reef scenes on the pristine reef top are strong wide-angle opportunities.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-03-15
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*Validated against divezone.net/divesite/bunaken-timur and murexresorts.com/diving-bunaken. Last updated 2026-03-15.*

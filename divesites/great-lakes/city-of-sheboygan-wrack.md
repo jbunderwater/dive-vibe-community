@@ -13,56 +13,51 @@ addedBy: osm_import
 
 ## City of Sheboygan (Wrack)
 
-City of Sheboygan (Wrack) is a historic wreck dive in Great Lakes, North America.
+City of Sheboygan (Wrack) is a historic wreck dive in Lake Ontario, Great Lakes.
 
 ## Overview
 
-City of Sheboygan (Wrack) is a dive site in Great Lakes featuring the wreck of the City of Sheboygan (Wrack). Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+City of Sheboygan (Wrack) is a freshwater wreck dive site in Lake Ontario. At 20m depth, this site is suitable for intermediate divers exploring Great Lakes maritime history. The freshwater environment offers unique diving conditions and excellent wreck preservation.
 
 ## Site Information
 
-- **Location**: Great Lakes, North America
+- **Location**: Lake Ontario, Great Lakes, North America
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Typical Visibility**: 5-15 meters
+- **Current**: Variable
+- **Best Time**: June to September
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Great Lakes freshwater ecosystem. Expect to find lake sturgeon, whitefish, lake trout, perch, and other cold-water species adapted to fresh water. The wreck structure provides habitat for Great Lakes fish fauna.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 20 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descent to 20m wreck structure. Wreck exploration appropriate for your certification level and training. Maintain awareness of cold water and freshwater diving conditions throughout your dive.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by dive boat from local operators. Entry is via giant stride or back roll from the dive boat. Follow briefing procedures and deploy a surface marker buoy (SMB) for boat pickup at the end of the dive.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Bring a dive torch to illuminate wreck interiors
+- Maintain proper buoyancy to avoid disturbing silt
+- Do not penetrate without proper wreck diving training
+- Book with reputable local dive operators
+- Cold freshwater requires appropriate thermal protection (wetsuit or drysuit)
+- Excellent site for underwater photography
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+Cold freshwater diving in the Great Lakes. Wear appropriate thermal protection for extended dives. Always dive with a buddy and carry a safety sausage (SMB). Be aware of depth and any required safety stops. Follow your training and dive within your experience level.
 
 ## Additional Resources
 
-- **Website**: http://www.dive-links.com/tauchplatz.php?id=1648
 - **Last Updated**: 2026-03-15
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was compiled from Great Lakes maritime history and regional diving knowledge. Last updated 2026-03-15.*

@@ -2,8 +2,8 @@
 name: Raymond's
 lat: 1.6314914
 lng: 124.7365353
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Advanced
+maxDepth: 40
 entryType: boat
 siteType: wall
 ref: null
@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Raymond's
 
-Raymond's is a reef dive site in Manado & Bunaken, Asia.
+Raymond's (also known as Raymond's Point) is a vertical wall dive on the western shores of Bunaken Island, known for its unusual abundance of wire corals and a large overhanging cave sheltering lobsters and crabs. Strong currents make it a favourite drift dive for advanced divers.
 
 ## Overview
 
-Raymond's is a dive site in Manado & Bunaken offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The wall at Raymond's is characterised by an extraordinary density of wire (whip) corals covering the face — many of which are home to specialised wire coral shrimp and xeno crabs. A large overhanging cave further down the wall harbours impressive lobsters and large crabs. Beyond the wire coral forest, the wall transitions to a more gentle slope with large sandy patches hosting whip rays resting on the bottom. Current is usually strong, making this an ideal drift dive site.
 
 ## Site Information
 
-- **Location**: Manado & Bunaken, Asia
+- **Location**: West coast of Bunaken Island, Bunaken National Marine Park
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 40 meters
+- **Typical Visibility**: 15-25 metres
+- **Current**: Usually strong — ideal for drift diving
+- **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Wire coral shrimp and xeno crabs on the whip corals are signature critters. Large lobsters and crabs inhabit the overhanging cave. Whip rays rest on the sandy patches at the base of the wall. The current brings in larger pelagic visitors including reef sharks, Napoleon wrasse, and trevally. Sea turtles are seen regularly on the shallower wall sections.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Enter up-current and drift along the wall face at your chosen working depth. Explore the wire coral gardens between 10-25 metres and locate the overhanging cave for its resident invertebrates. Continue drifting as the wall transitions to a gentler slope with sandy patches where rays rest. Ascend gradually and deploy your SMB for boat pickup.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from Bunaken Island operators. Entry point and direction determined by current conditions at the time of diving. Strong currents are the norm — this site should not be attempted by divers without drift diving experience. The boat will follow your SMB during ascent.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Carry a torch to inspect the overhanging cave and the wire coral crevices
+- Look very carefully at each wire coral for resident shrimp — they are small and well-camouflaged
+- Watch the sandy patches at depth for resting whip rays
+- This site pairs well with Mandolin for a full west-side Bunaken dive day
+- Check current direction carefully — entry must be up-current of the main wall section
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Strong currents are the primary challenge. Do not fight the current — work with it. Be aware of potential downwellings near the wall edge. Carry an SMB and inflate it well before the surface. Communicate with the boat crew about pickup logistics before entering the water.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The wire coral forests offer exceptional macro opportunities — wire coral shrimp and xeno crabs are highlight subjects. Wide-angle shots of the cave entrance with light rays are possible. Large pelagic passers-by including reef sharks and Napoleon wrasse reward patience with the camera.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-03-15
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*Validated against divessi.com/mydiveguide/divesite/16877 and merapitours.com/indonesia/sulawesi/dive-spots-bunaken. Last updated 2026-03-15.*

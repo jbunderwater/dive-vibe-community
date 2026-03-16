@@ -3,7 +3,7 @@ name: Montana
 lat: 32.3625
 lng: -64.6478
 difficulty: Beginner
-maxDepth: 12
+maxDepth: 9
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,30 +13,32 @@ addedBy: osm_import
 
 ## Montana
 
-Montana is a historic wreck dive in Bermuda, Atlantic.
+The Montana is one of Bermuda's most accessible wreck dives, perfect for beginner and intermediate divers seeking to explore Civil War-era history. This 236-foot paddlewheel steamer sank on December 30, 1863, while running contraband supplies to the Confederacy during the American Civil War.
 
 ## Overview
 
-Montana is a dive site in Bermuda featuring the wreck of the Montana. Located in the Atlantic region, this site offers 15-30 meters of visibility with water temperatures averaging 20-28°C.
+The Montana sits upright in relatively shallow water on Bermuda's North Shore, making it ideal for divers of all levels. The wreck lies in 31 feet of water with excellent visibility averaging 41-50 feet. The structure is well-preserved and easily navigable without technical equipment.
 
 ## Site Information
 
-- **Location**: Bermuda, Atlantic
+- **Location**: Bermuda's North Shore
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 12 meters
-- **Typical Visibility**: 15-30 meters (50-100 feet)
+- **Maximum Depth**: 9 meters
+- **Typical Visibility**: 41-50 feet (12-15 meters)
 - **Current**: Light to moderate
 - **Best Time**: May to October
+- **Ship Type**: Paddlewheel steamer (236 feet long)
+- **Year Sunk**: 1863
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, snappers, barracuda, coral encrustation, sea turtles, reef sharks, groupers, snappers. Additional species commonly sighted include parrotfish, angelfish. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The wreck attracts schools of snappers, groupers, and barracuda. You'll commonly see parrotfish, angelfish, and reef fish sheltering within the structure. The wreck itself is encrusted with coral and sponges, creating excellent marine habitat.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 12 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+This ideal beginner wreck offers calm, manageable conditions. Descend along the wreck structure with maximum depth of 31 feet. Explore the exterior hull, boiler, and propeller without requiring technical penetration. The shallow depth allows 45-60 minutes of bottom time. Ascend gradually with a 3-5 minute safety stop at 15 feet.
 
 ## Entry and Exit
 

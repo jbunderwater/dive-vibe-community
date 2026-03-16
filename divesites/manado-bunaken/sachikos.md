@@ -2,8 +2,8 @@
 name: Sachiko's
 lat: 1.6312436
 lng: 124.7740207
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Advanced
+maxDepth: 40
 entryType: boat
 siteType: wall
 ref: null
@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Sachiko's
 
-Sachiko's is a reef dive site in Manado & Bunaken, Asia.
+Sachiko's Point is located on the northeast side of Bunaken Island and is consistently rated among the very best wall dives in the park. The coral-encrusted drop-off begins in less than five metres of water and extends beyond 40 metres, with large gorgonians and impressive caves taking centre stage at depth. Strong currents on this side of the island bring exceptional pelagic action and large schools of snapper and triggerfish.
 
 ## Overview
 
-Sachiko's is a dive site in Manado & Bunaken offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The wall at Sachiko's drops from the shallows to at least 40 metres, with the shallow sections vibrant with coral growth and the deeper sections dominated by large gorgonian sea fans and cave formations. Strong currents on the north and northeast sides of Bunaken attract massive schools of snapper and triggerfish, as well as pelagic species including bluefin and giant trevally. Green sea turtles are abundant and frequently accompany divers during safety stops.
 
 ## Site Information
 
-- **Location**: Manado & Bunaken, Asia
+- **Location**: Northeast Bunaken Island, Bunaken National Marine Park
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 40 meters
+- **Typical Visibility**: 15-25 metres
+- **Current**: Strong — drift diving standard; larger pelagics on stronger currents
+- **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Massive schools of red tooth triggerfish and snapper are resident at this site. Bluefin trevally and giant trevally are regular pelagic visitors. Tuna, barracuda, reef sharks, and Napoleon wrasse are commonly seen in the open water beyond the wall. Green sea turtles are abundant and known to accompany divers during safety stops. On cold water upwellings: mola mola (ocean sunfish) have been recorded here. Large gorgonian sea fans provide structure in the deeper sections, and caves shelter diverse invertebrate communities.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Drift along the wall face at a chosen working depth, keeping one eye on the wall and one on the blue water beyond. Strong current brings pelagic life close to the reef edge. The shallow wall sections (5-15m) are excellent for safety stops and turtle encounters. Descend to 25-35 metres for the large gorgonians and cave formations. Ascend gradually and deploy an SMB for boat pickup during the safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from Bunaken Island operators. Entry point determined by current direction on the day. Strong drift experience is essential. The boat will track your SMB.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Watch both the wall and the blue water simultaneously — the best pelagic action happens quickly
+- Green turtles here are famously relaxed around divers — take your time with them at safety stop depth
+- The gorgonian sea fans at depth are among the largest in the park — explore them for pygmy seahorses
+- On cold current days, ask your guide about mola mola sightings — the site has a history of encounters
+- Sachiko's is often cited as a top highlight of a Bunaken trip — save it for when you are warm up and comfortable
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Strong currents on the north side of the island are the primary challenge. Drift diving experience and strong buoyancy control are essential. Be aware of potential downwellings at the wall face. Carry an SMB and inflate it during the safety stop for boat tracking. Monitor air carefully — strong current increases consumption.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Sachiko's is one of the top wide-angle sites in Bunaken. The large school compositions — triggerfish schools, trevally in the blue water, turtles at safety stop depth — are all exceptional. Large gorgonian sea fans at depth are dramatic wide-angle foreground subjects. If mola mola are present, cancel all other dive plans and come back repeatedly.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-03-15
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*Validated against divezone.net/divesite/sachiko-s-point, zubludiving.com/articles/best-dive-sites-bunaken, and murexresorts.com/diving-bunaken-dive-sites. Last updated 2026-03-15.*

@@ -5,7 +5,7 @@ lng: -21.116
 difficulty: Intermediate
 maxDepth: 20
 entryType: shore
-siteType: cave
+siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,7 +23,7 @@ Cathedral is the third section of the Silfra fissure system, positioned between 
 
 - **Location**: Thingvellir National Park, Iceland (third section of Silfra fissure)
 - **Entry Type**: Shore entry
-- **Site Type**: Cave/cavern
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 100+ meters (end-to-end visibility within Cathedral section)
