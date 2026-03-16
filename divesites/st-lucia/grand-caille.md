@@ -3,9 +3,9 @@ name: Grand Caille
 lat: 13.95
 lng: -61.045
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 30
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Grand Caille
 
-Grand Caille is a reef dive site in St. Lucia, Caribbean.
+Grand Caille (Patois for "Large Reef") is a dramatic wall dive featuring deep water gorgonians, sea whips, pristine corals, and spectacular sponge formations.
 
 ## Overview
 
-Grand Caille is a dive site in St. Lucia offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Grand Caille is a long coral wall dive with depths varying from 12 to 40 meters, featuring deep water gorgonians and sea whips. The site is known for huge brain corals and barrel sponges in pristine conditions. This intermediate to advanced wall dive provides excellent depth variation and a variety of marine life viewing opportunities. The dramatic wall structure and healthy coral formations make this one of the more visually impressive dive sites in the St. Lucia region.
 
 ## Site Information
 
-- **Location**: St. Lucia, Caribbean
+- **Location**: Soufrière region, St. Lucia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Divers encounter sea turtles, southern stingrays, eagle rays, nurse sharks, and reef sharks. Schools of barracuda, parrotfish, and angelfish are common along the wall. The deep water sponges and gorgonians shelter blue tangs, trumpetfish, moray eels, and lobsters. The abundance of barrel sponges and brain corals creates habitat for smaller creatures and provides excellent macro photography subjects.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin the dive along the reef top at shallower depths and gradually descend the wall. Most of the interesting features — the large brain corals, barrel sponges, and gorgonians — are found between 10-30 meters. The wall structure allows for excellent depth management and provides multiple depth options for different diver certification levels. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
@@ -47,7 +47,8 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 - Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Respect marine life and maintain proper buoyancy to protect the pristine corals
+- Watch your depth carefully on wall dives
 
 ## Safety Considerations
 
@@ -55,7 +56,7 @@ Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The dramatic coral formations, gorgonians, and sponges provide excellent wide-angle and macro photography subjects. The interplay of light and shadow along the wall creates compelling compositions. The pristine coral growth offers vibrant colors.
 
 ## Additional Resources
 

@@ -3,7 +3,7 @@ name: Shark Rodeo Cat Island
 lat: 24.3833
 lng: -75.4333
 difficulty: Intermediate
-maxDepth: 18
+maxDepth: 8
 entryType: boat
 siteType: reef
 ref: null
@@ -13,22 +13,22 @@ addedBy: osm_import
 
 ## Shark Rodeo Cat Island
 
-Shark Rodeo Cat Island is a reef dive site in Bahamas, Caribbean.
+Cat Island is the premier destination for encountering the world's largest aggregation of oceanic whitetip sharks, with drift dives in a deep channel attracting 6-10 sharks at once from March through June.
 
 ## Overview
 
-Shark Rodeo Cat Island is a dive site in Bahamas offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Cat Island hosts an extraordinary shark diving experience found nowhere else in the world. From March through June, Cat Island experiences the world's largest seasonal aggregation of oceanic whitetip sharks, with divers regularly encountering upwards of 6-10 sharks at once. The dive takes place about a half mile offshore on a deep channel (20-30 meters/65-100 feet), where divers perform slow drift dives in the blue while hovering at around 6-9 meters (20-30 feet), following a big buoy. The oceanic whitetips are curiously attracted to the divers and circle them in crystal-clear, warm Bahamian waters, creating an unforgettable and thrilling encounter with these powerful apex predators. This is a specialized shark diving operation requiring intermediate to advanced skills and composure in open water.
 
 ## Site Information
 
-- **Location**: Bahamas, Caribbean
+- **Location**: Cat Island, Bahamas
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Maximum Depth**: 8 meters
+- **Typical Visibility**: 25-40 meters (80-130 feet)
 - **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Best Time**: March to June (peak oceanic whitetip season), year-round diving available
 
 ## Marine Life
 

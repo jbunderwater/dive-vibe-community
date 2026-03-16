@@ -3,7 +3,7 @@ name: Bianca C
 lat: 12.04
 lng: -61.75
 difficulty: Advanced
-maxDepth: 50
+maxDepth: 40
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Bianca C
 
-Bianca C is a historic wreck dive in Grenada, Caribbean.
+The Bianca C is the "Titanic of the Caribbean" and the largest wreck in the Caribbean. This cruise ship sank in 1961 after a boiler explosion and fire while preparing to depart Grenada. Now a spectacular artificial reef encrusted with hard and soft corals.
 
 ## Overview
 
-Bianca C is a dive site in Grenada featuring the wreck of the Bianca C. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Bianca C is Grenada's most famous dive site and a true deep wreck experience. This 600-foot cruise ship sits upright on the bottom at 28-40 meters depth. After more than 60 years underwater, the wreck is covered in a "beautiful tapestry of hard and soft corals" and home to abundant marine life including barracuda, spotted eagle rays, and schools of jacks. Located in the Caribbean region, this site offers excellent visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ Bianca C is a dive site in Grenada featuring the wreck of the Bianca C. Located 
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 50 meters
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter groupers, snappers, soldierfish, gla
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 50 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The dive begins with a descent to the bow section, which looms dramatically into view around 28 meters. The fully intact structure allows exploration of exterior features and, for qualified penetration divers, accessible interior spaces including the massive on-deck swimming pool. Plan your dive to 40 meters maximum with appropriate bottom time for your certification level (40m+ certification required to fully explore the wreck). Monitor air supply carefully and begin your ascent with adequate reserve for extended safety stops at depth.
 
 ## Entry and Exit
 

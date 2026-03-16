@@ -3,9 +3,9 @@ name: Sisters Rocks
 lat: 11.275
 lng: -60.488
 difficulty: Advanced
-maxDepth: 30
+maxDepth: 40
 entryType: boat
-siteType: reef
+siteType: pinnacle
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,22 +13,25 @@ addedBy: osm_import
 
 ## Sisters Rocks
 
-Sisters Rocks is a reef dive site in Tobago, Caribbean.
+Sisters Rocks is a challenging advanced-only dive site consisting of five rocky pinnacles rising from depths of 130 meters off Bloody Bay. The site is famous for frequent hammerhead shark encounters and strong oceanic currents.
 
 ## Overview
 
-Sisters Rocks is a dive site in Tobago offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Located about two miles offshore north of Bloody Bay, Sisters Rocks consists of a cluster of five rocky pinnacles that break the surface and drop to depths of 40 meters. Sheer rock faces on the northern and western sides contrast with shallower coral reef on the eastern landward side, which teems with schools of brown chromis, black durgeons, and creole wrasse. The site is renowned for astounding frequency of hammerhead shark encounters. However, due to its offshore location, Sisters Rocks is often subject to strong currents, large swells, and unpredictable weather patterns that can render the site undiveable. This is strictly an advanced dive for experienced divers not averse to pushing recreational diving limits.
 
 ## Site Information
 
-- **Location**: Tobago, Caribbean
+- **Location**: North of Bloody Bay, offshore Tobago
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Maximum Depth**: 40 meters
+- **Depth Range**: 12-40 meters (40-131 feet)
+- **Typical Visibility**: 15-30 meters on good days
+- **Water Temperature**: 27-30°C (81-86°F)
+- **Current**: Strong to very strong (unpredictable)
+- **Conditions**: Often subject to large swells and rough weather; frequently undiveable
+- **Best Time**: December to April (dry season, relatively better conditions)
 
 ## Marine Life
 

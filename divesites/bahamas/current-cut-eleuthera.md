@@ -2,8 +2,8 @@
 name: Current Cut Eleuthera
 lat: 25.4167
 lng: -76.7833
-difficulty: Intermediate
-maxDepth: 15
+difficulty: Advanced
+maxDepth: 18
 entryType: boat
 siteType: drift
 ref: null
@@ -13,22 +13,22 @@ addedBy: osm_import
 
 ## Current Cut Eleuthera
 
-Current Cut Eleuthera is a reef dive site in Bahamas, Caribbean.
+Current Cut Eleuthera is a world-class extreme drift dive through a 100-yard-wide underwater chasm between two islands, with 6-10 knot currents and pelagic encounters.
 
 ## Overview
 
-Current Cut Eleuthera is a dive site in Bahamas offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Current Cut is ranked among the world's top 10 drift dives and represents one of the most thrilling and challenging diving experiences in the Bahamas. Located between Eleuthera and Current Island, the narrow 30-meter-wide channel forces the tide to stream through at 6-10 knots, propelling divers approximately 1 kilometer (2/3 mile) along a dramatic underwater canyon in less than 10 minutes. The narrow chasm reaches depths of 18 meters (60 feet) and features rock walls, sea fans, and numerous fish-filled holes. Divers encounter stingrays, mako sharks, and reef fish swept up in the powerful current. This dive requires excellent buoyancy control, strong water skills, and experience with drift diving—it is not suited for casual divers. Best timing is with incoming tide to minimize sediment, and a wetsuit is recommended to prevent scrapes.
 
 ## Site Information
 
-- **Location**: Bahamas, Caribbean
+- **Location**: Eleuthera, Bahamas
 - **Entry Type**: Boat dive
 - **Site Type**: Drift dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 15 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 18 meters
+- **Typical Visibility**: 15-30 meters (50-100 feet)
+- **Current**: Strong (6-10 knots)
+- **Best Time**: December to April, drift with incoming tide
 
 ## Marine Life
 

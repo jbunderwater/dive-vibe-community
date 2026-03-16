@@ -2,8 +2,8 @@
 name: Texas
 lat: 16.275
 lng: -86.52
-difficulty: Beginner
-maxDepth: 15
+difficulty: Intermediate
+maxDepth: 18
 entryType: boat
 siteType: reef
 ref: null
@@ -17,15 +17,15 @@ Texas is a reef dive site in Roatán, Caribbean.
 
 ## Overview
 
-Texas is a dive site in Roatán offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Texas is one of several dive sites located at "the Point" on Roatán and is a top-rated dive destination. The site features flat underwater plains with plenty of large barrel sponges and healthy reef formations. It is popular for drift diving due to strong currents that bring nutrients attracting large schools of fish. The site is suitable for more experienced divers due to currents. Water temperatures average 26-29°C.
 
 ## Site Information
 
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 meters
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter sea turtles (green, hawksbill), sout
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The topography is relatively flat with sandy plains and abundant large barrel sponges scattered throughout. The current this site is known for carries nutrients attracting big schools of fish. Expect to encounter groupers, wrasse, angelfish, hogfish, and large barracudas on the healthy reef. The current makes it suitable for drift diving, but requires more experienced buoyancy control and awareness. Most features are found between 5-18 meters. Plan your dive accounting for current direction and boat positioning.
 
 ## Entry and Exit
 
@@ -44,11 +44,13 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
+- Expect and plan for currents — this is an excellent drift dive site
+- The strong current attracts schools of large fish including barracuda
+- Look for barrel sponges which are abundant and easy to spot
+- Book with experienced dive operators who understand the current patterns
 - Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Check local weather, current, and sea conditions before diving
+- This site is better suited to divers with some experience managing currents
 
 ## Safety Considerations
 

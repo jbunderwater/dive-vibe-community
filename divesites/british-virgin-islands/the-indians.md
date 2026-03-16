@@ -3,7 +3,7 @@ name: The Indians
 lat: 18.4333
 lng: -64.5167
 difficulty: Beginner
-maxDepth: 15
+maxDepth: 35
 entryType: boat
 siteType: reef
 ref: null
@@ -13,26 +13,27 @@ addedBy: osm_import
 
 ## The Indians
 
-The Indians is a reef dive site in British Virgin Islands, Caribbean.
+The Indians near Norman Island comprise four spectacular rocky pinnacles that rise dramatically from the seafloor. This site is consistently ranked among the best dives in the BVI by visiting divers, offering an outstanding combination of accessibility, rich marine life, and stunning underwater topography suitable for divers of all levels.
 
 ## Overview
 
-The Indians is a dive site in British Virgin Islands offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The site features a unique two-part character: a shallow coral garden on the eastern side and a dramatic steep wall on the deeper western side. The shallow sections sit in just 3 meters of water and are excellent for snorkeling and entry-level diving, while the deeper wall descends to 11 meters and appeals to intermediate divers seeking more dramatic scenery. The pinnacles' crevices and overhangs harbor abundant fish life and opportunities to spot larger pelagic species. ScubaBoard reviews frequently cite The Indians as favorite Caribbean dive experiences, particularly when silversides are running and attract larger predators including dolphins and mackerel.
 
 ## Site Information
 
-- **Location**: British Virgin Islands, Caribbean
+- **Location**: Off the southwestern tip of Tortola, near Norman Island
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 meters
+- **Maximum Depth**: 35 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
+- **Current**: Can be strong at the surface; generally moderate at depth
 - **Best Time**: December to April (dry season)
+- **Conditions**: May have rougher surface conditions and exposed boat access
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The site hosts abundant reef life including large snapper, trevally, moray eels, parrotfish, groupers, damselfish, sergeant majors, and crustaceans. Sea turtles, dolphins, and occasionally larger pelagics are sighted. The variety and density of marine life is exceptional for a Caribbean reef site.
 
 ## Dive Profile
 

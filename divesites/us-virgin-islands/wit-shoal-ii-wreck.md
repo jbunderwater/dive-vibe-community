@@ -3,7 +3,7 @@ name: WIT Shoal II Wreck
 lat: 18.32
 lng: -64.94
 difficulty: Intermediate
-maxDepth: 26
+maxDepth: 21
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,21 +13,21 @@ addedBy: osm_import
 
 ## WIT Shoal II Wreck
 
-WIT Shoal II Wreck is a historic wreck dive in US Virgin Islands, Caribbean.
+The WIT Shoal II is probably the most famous wreck dive in the USVI, a large 327-foot freighter that sank in 1984 during Hurricane Klaus off St. Thomas.
 
 ## Overview
 
-WIT Shoal II Wreck is a dive site in US Virgin Islands featuring the wreck of the WIT Shoal II Wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The vessel was originally a WWII-era tank landing ship (USS LST-467) that later became the West Indies Trading company's inter-island freighter. It now rests with the top of the wreck visible from the surface on calm days. The wreck lies in approximately 70 feet of water on sand, making it an excellent subject for exploration and photography. The ship is colonized by abundant marine life including barracudas, moray eels, colorful tropical fish, and notably reef sharks that have claimed the wreck as their home. The engine room is famously known to house a 600-pound jewfish. One-dive penetration is accessible on most decks without formal training due to abundant natural light and minimal confined spaces.
 
 ## Site Information
 
-- **Location**: US Virgin Islands, Caribbean
+- **Location**: St. Thomas, US Virgin Islands, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 26 meters
+- **Maximum Depth**: 21 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
+- **Current**: Moderate to strong (can be unpredictable)
 - **Best Time**: December to April (dry season)
 
 ## Marine Life

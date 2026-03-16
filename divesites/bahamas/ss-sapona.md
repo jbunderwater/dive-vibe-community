@@ -2,8 +2,8 @@
 name: S.S. Sapona
 lat: 25.65066
 lng: -79.2933084
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Beginner
+maxDepth: 5
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,22 +13,22 @@ addedBy: osm_import
 
 ## S.S. Sapona
 
-S.S. Sapona is a historic wreck dive in Bahamas, Caribbean.
+S.S. Sapona is a shallow, historically significant concrete-hulled wreck off Bimini famous for both snorkeling and diving, visible at both high and low tide.
 
 ## Overview
 
-S.S. Sapona is a dive site in Bahamas featuring the wreck of the S.S. Sapona which sank in 1926. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The SS Sapona is one of the most accessible and photogenic wrecks in the Bahamas, resting in only 5 meters (15 feet) of water off Bimini. Originally a WWI-era concrete cargo steamer built during steel shortages, she became a floating warehouse during Prohibition before running aground in 1926. During WWII, the U.S. military used her as target practice, leaving her partially destroyed but still recognizable. Today the wreck teems with tropical fish including eels, French angelfish, spotfin butterflyfish, barracuda, sergeant majors, snappers, and jacks. The surrounding waters vibrate with coral growth and fish life, making this wreck both a historical artifact and a thriving marine habitat.
 
 ## Site Information
 
-- **Location**: Bahamas, Caribbean
+- **Location**: Bimini, Bahamas
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 5 meters
+- **Typical Visibility**: 15-25 meters (50-80 feet)
+- **Current**: Light
+- **Best Time**: December to April (dry season), year-round accessible
 
 ## Marine Life
 

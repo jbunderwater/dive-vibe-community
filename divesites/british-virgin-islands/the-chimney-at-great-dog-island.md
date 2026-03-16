@@ -2,8 +2,8 @@
 name: The Chimney at Great Dog Island
 lat: 18.4833
 lng: -64.4833
-difficulty: Intermediate
-maxDepth: 18
+difficulty: Beginner
+maxDepth: 12
 entryType: boat
 siteType: cave
 ref: null
@@ -13,30 +13,31 @@ addedBy: osm_import
 
 ## The Chimney at Great Dog Island
 
-The Chimney at Great Dog Island is a cave dive site in British Virgin Islands, Caribbean.
+The Chimney is one of the most famous dives in the Dog Islands and one of the most unusual underwater sites in the BVI. Located northwest of Great Dog Island, this site consists of two rocky formations that come together to form a distinctive gap resembling a chimney—hence the name. The site is famous for being a favorite among legendary ocean explorer Jacques Cousteau and continues to attract divers seeking something unique and charming.
 
 ## Overview
 
-The Chimney at Great Dog Island is a dive site in British Virgin Islands featuring underwater cave and cavern formations. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Chimney is really two sites in one, featuring several massive coral heads in 30 to 40 feet of calm, protected water. Located in the northern corner of the bay on the western side of Great Dog Island, approximately 15 minutes by boat from Spanish Town, this site offers calm conditions suitable for novice divers. The chimney gap and surrounding coral structures create an interesting dive in relatively shallow water. Divers who bring a torch will be rewarded with spectacular views of cup corals and brightly hued sponges that create a colorful underwater tapestry when illuminated. The site's calm, protected conditions and moderate depths make it accessible to divers of all experience levels.
 
 ## Site Information
 
-- **Location**: British Virgin Islands, Caribbean
+- **Location**: Northwest of Great Dog Island, Dog Islands
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 12 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
+- **Current**: Light
 - **Best Time**: December to April (dry season)
+- **Conditions**: Calm, protected water; sheltered bay location
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+The chimney structure and surrounding coral heads attract abundant marine life including shrimps, damselfish, parrotfish, California scorpionfish, yellowtails, sergeant majors, sea stars, spotted rock lobsters, anemones, and baby flame scallops. The cave-like environment attracts species seeking shelter and protection. With a torch, the cup corals and sponges covering the formations create a spectacular light show.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin your descent to the chimney formation and surrounding coral heads at moderate depths. Explore the chimney gap, look for creatures in the crevices, and observe the coral and sponge life on the surrounding formations. Bring a dive torch to reveal the cup corals and vibrant sponges. The calm conditions allow for relaxed diving and ample time to observe the resident marine life. Plan bottom times suitable for shallow recreational diving.
 
 ## Entry and Exit
 

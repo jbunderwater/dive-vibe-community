@@ -3,7 +3,7 @@ name: Devil's Grotto
 lat: 19.3083
 lng: -81.3833
 difficulty: Beginner
-maxDepth: 15
+maxDepth: 12
 entryType: shore
 siteType: cave
 ref: null
@@ -13,22 +13,24 @@ addedBy: osm_import
 
 ## Devil's Grotto
 
-Devil's Grotto is a cave dive site in Cayman Islands, Caribbean.
+Devil's Grotto is a spectacular shore-accessible dive featuring large reef caverns and tunnels. This beginner-friendly site combines the excitement of cave/cavern exploration with easy entry and excellent visibility. In summer months, massive schools of silversides create a "silver curtain" through the grotto.
 
 ## Overview
 
-Devil's Grotto is a dive site in Cayman Islands featuring underwater cave and cavern formations. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Devil's Grotto is a large reef formation with spectacular caverns and tunnels that rise from a sand and coral bottom to within a few feet of the surface. Located in George Town with shore entry access, this site offers accessible underwater cave exploration for beginner to intermediate divers. The grotto environment features excellent visibility ranging from 10-30 meters, making it perfect for photographers and those learning cavern diving techniques. During summer months, the site is famous for large schools of silversides creating a silver curtain effect through the tunnels.
 
 ## Site Information
 
-- **Location**: Cayman Islands, Caribbean
+- **Location**: George Town, Grand Cayman, Caribbean
 - **Entry Type**: Shore entry
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Maximum Depth**: 12 meters
+- **Depth Range**: 4-12 meters (13-39 feet)
+- **Typical Visibility**: 10-30 meters (32-100 feet)
+- **Current**: Minimal (sheltered reef)
+- **Best Time**: Summer for silversides schools; December to April for general conditions
+- **Special Feature**: Schools of silversides (summer), good snorkeling adjacent
 
 ## Marine Life
 
@@ -36,7 +38,7 @@ Divers at this site can expect to encounter sea turtles (green, hawksbill), sout
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Most divers begin their descent to the caverns in 4-5 meters of water, then explore the large tunnel and cavern systems. These formations rise nearly to the surface, allowing divers to experience dramatic lighting effects as natural light filters through openings. The dive is typically conducted shallower than 12 meters, making it an excellent introduction to cavern diving without requiring overhead environment experience. Summer visits often feature encounters with large schools of silversides swimming through the grotto, creating photographic opportunities. The minimal current and shallow depths make this excellent for extended exploration and photography.
 
 ## Entry and Exit
 

@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Curtiss C-46A-45-CU Commando
 
-Curtiss C-46A-45-CU Commando is a historic wreck dive in Bahamas, Caribbean.
+The Curtiss C-46A Commando is a large WWII-era transport aircraft that crashed during a failed landing on November 15, 1980, while serving a cocaine smuggling operation based at Norman's Cay.
 
 ## Overview
 
-Curtiss C-46A-45-CU Commando is a dive site in Bahamas featuring the wreck of the Curtiss C-46A-45-CU Commando which sank in 15 November 1980 . Civil registration, N355BY, cancelled on 15 November 1980.. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Curtiss C-46A-45-CU Commando is one of the largest aircraft wrecks in the Caribbean, resting off Norman's Cay approximately 45 miles (72 kilometers) southeast of Nassau. The twin-engine transport aircraft, with a wingspan exceeding 100 feet, crashed during a failed landing attempt on November 15, 1980. The aircraft was part of a drug-smuggling operation run by Carlos Lehder and George Jung from 1978 to 1982, representing a unique piece of smuggling history. The wreck sits in 20 meters (65 feet) of water with excellent visibility. The fairly intact structure features large anemones and is surrounded by fish life. While currents are typically manageable, divers should be comfortable in open water. Access is only by boat, with tours typically departing from Nassau or nearby islands.
 
 ## Site Information
 

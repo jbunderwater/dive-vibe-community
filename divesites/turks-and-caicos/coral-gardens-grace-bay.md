@@ -3,7 +3,7 @@ name: Coral Gardens Grace Bay
 lat: 21.8167
 lng: -72.2167
 difficulty: Beginner
-maxDepth: 10
+maxDepth: 6
 entryType: boat
 siteType: reef
 ref: null
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Coral Gardens Grace Bay
 
-Coral Gardens Grace Bay is a reef dive site in Turks and Caicos, Caribbean.
+Coral Gardens (also known as the Bight Reef) is the most popular snorkeling and beginner diving site in Turks and Caicos, located on Grace Bay Beach.
 
 ## Overview
 
-Coral Gardens Grace Bay is a dive site in Turks and Caicos offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Coral Gardens is located on the western side of Grace Bay, accessible via signage on Lower Bight Road. The Bight Reef consists of one main ridge of coral that extends about 350 feet out from the beach, with maximum depths of 15-20 feet at the outer reaches. While the coral is not quite as vibrant as nearby Smith's Reef, the site is home to wonderful diversity of fish and marine life, with creatures that are more approachable than at other reefs due to regular snorkeler traffic. This shallow, easy-access site is perfect for beginners and builds confidence in open water divers.
 
 ## Site Information
 
-- **Location**: Turks and Caicos, Caribbean
+- **Location**: Western Grace Bay, Providenciales, Turks and Caicos
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 10 meters
+- **Maximum Depth**: 6 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Current**: Minimal
+- **Best Time**: Year-round, December to April preferred
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Fish sightings include stoplight parrotfish, blue parrotfish, bar jacks, Nassau grouper, queen angelfish, butterflyfish, barracuda, porcupinefish, trumpetfish, squirrelfish, yellowtail snapper, queen triggerfish, sergeant majors, damselfish, scrawled filefish, schoolmasters, trunkfish, and yellow goatfish. The creatures here are acclimated to humans and approach divers readily, making this excellent for photography and observation.
 
 ## Dive Profile
 

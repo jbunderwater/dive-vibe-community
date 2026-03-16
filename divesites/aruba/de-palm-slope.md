@@ -3,7 +3,7 @@ name: De Palm Slope
 lat: 12.47
 lng: -69.97
 difficulty: Intermediate
-maxDepth: 22
+maxDepth: 20
 entryType: boat
 siteType: reef
 ref: null
@@ -13,22 +13,24 @@ addedBy: osm_import
 
 ## De Palm Slope
 
-De Palm Slope is a reef dive site in Aruba, Caribbean.
+De Palm Slope is a colorful barrier island reef and wreck dive located on Palm Island, a 10-minute boat ride from Aruba's coast. The site features both beautiful coral formations and the wreck of a Cessna 414 aircraft.
 
 ## Overview
 
-De Palm Slope is a dive site in Aruba offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+De Palm Slope offers diving off Palm Island, a barrier island separate from Aruba's main coast with its own resort and amenities. The site features a colorful reef with moray eels hidden among the formations and parrotfish foraging for food. A Cessna 414 aircraft wreck adds unique appeal to this location. The reef structure slopes down through intermediate depths (approximately 20 meters typical), providing good opportunities for exploration of coral formations and marine life. Visibility in the turquoise waters around Palm Island typically reaches 20+ meters. The site is accessible from shore after a brief boat ride and can accommodate divers of various experience levels. The combination of reef diving and aircraft wreck exploration in clear, sheltered water makes this a popular operator site.
 
 ## Site Information
 
-- **Location**: Aruba, Caribbean
+- **Location**: Palm Island (barrier island), off Aruba coast
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Maximum Depth**: 20 meters
+- **Wreck Type**: Cessna 414 aircraft
+- **Typical Visibility**: 20+ meters (65+ feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
+- **Special Features**: Cessan 414 wreck, barrier island ecosystem
 
 ## Marine Life
 

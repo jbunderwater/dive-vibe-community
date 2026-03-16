@@ -2,8 +2,8 @@
 name: Valley of Whales
 lat: 12.02
 lng: -61.735
-difficulty: Advanced
-maxDepth: 32
+difficulty: Intermediate
+maxDepth: 22
 entryType: boat
 siteType: wall
 ref: null
@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Valley of Whales
 
-Valley of Whales is a wall dive site in Grenada, Caribbean.
+Valley of Whales is named after a rare sighting of a whale and her calf. This gentle drift dive explores an enchanting underwater garden with a distinctive topography of mounds of patch reef and stands of pillar coral contrasting with sandy canyon floors.
 
 ## Overview
 
-Valley of Whales is a dive site in Grenada featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Valley of Whales offers a scenic wall dive suitable for intermediate and advanced divers, with depths from 16-22 meters. The unique landscape of coral formations and sandy passages creates beautiful photographic opportunities. Shoals of grunts, yellow chromis, and Spanish hogfish are commonly encountered. Located in the Caribbean region, this site offers excellent visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
 - **Location**: Grenada, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 32 meters
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 22 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+The site features shoals of grunts, yellow chromis, and Spanish hogfish. The distinctive coral and canyon formations provide habitat for many reef species. Sea turtles, rays, and various reef fish are regularly encountered throughout the dive.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-32 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Valley of Whales is often done as a gentle drift dive. Begin your descent to the coral mounds and pillars at 16-18 meters, then drift along the reef structures and sandy canyons at 16-22 meters. The dive profile allows plenty of time to explore the unique landscape while maintaining comfortable bottom times. This site works well as a moderate dive for intermediate divers building wall dive experience.
 
 ## Entry and Exit
 

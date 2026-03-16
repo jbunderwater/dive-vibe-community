@@ -3,9 +3,9 @@ name: The Hole in the Wall
 lat: 21.7167
 lng: -71.6167
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 27
 entryType: boat
-siteType: wall
+siteType: cave
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,26 +13,27 @@ addedBy: osm_import
 
 ## The Hole in the Wall
 
-The Hole in the Wall is a wall dive site in Turks and Caicos, Caribbean.
+The Hole in the Wall is one of the best dive sites in Turks and Caicos, featuring a remarkable reef cave and chimney system.
 
 ## Overview
 
-The Hole in the Wall is a dive site in Turks and Caicos featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Hole in the Wall is a reef with a hole at the top (55 ft / 17m) that descends into a cavern. Divers can penetrate the hole, which is "a bit snug but worth it," entering at the surface and gliding easily through the chimney to emerge around 90 feet (27m). Inside the hole are many brittle corals, lobsters, and schools of small reef fish. The site features impressive coral formations and schools of fish like yellowtail and mahogany along the wall. The site is suitable for intermediate and advanced divers comfortable with limited-space penetrations.
 
 ## Site Information
 
-- **Location**: Turks and Caicos, Caribbean
+- **Location**: Providenciales, Turks and Caicos
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Maximum Depth**: 27 meters
+- **Typical Visibility**: 10-30 meters (32-98 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
+- **Water Temperature**: 24-30°C (75-86°F)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Inside the cavern are abundant brittle corals and lobsters. Schooling small reef fish pack the interior. Along the wall, yellowtail snapper and mahogany snapper schools are common. Groupers and snappers inhabit the surrounding wall structure. The narrow passage limits visibility of larger species, making this a macro and crustacean diving specialty.
 
 ## Dive Profile
 

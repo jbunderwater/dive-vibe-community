@@ -4,11 +4,11 @@ addedBy: osm_import
 
 ## Utila
 
-Famous for whale shark encounters and affordable diving in Honduras.
+The Caribbean's whale shark capital and a world-renowned diving hub. Utila offers 60+ dive sites ranging from vibrant shallow reefs to dramatic wall dives, with year-round whale shark encounters and affordable, welcoming dive operations.
 
 ## Description
 
-Utila is a notable diving destination in the Caribbean region, offering 1 documented dive sites with depths ranging from 20 to 20 meters. Water temperatures average 26-29°C (79-84°F), with visibility typically reaching 20-40 meters (65-130 feet). Year-round diving is possible, with the best conditions during December to April (dry season).
+Utila is a premier dive destination in the Caribbean, surrounded by continuous fringing reefs with 60+ documented dive sites at varying depths. Water temperatures average 26-29°C (79-84°F), with visibility typically reaching 20-40 meters (65-130 feet). Year-round diving is possible, with the best conditions during December to April (dry season). The island is particularly famous as the "whale shark capital of the Caribbean," with recorded sightings for all 12 months of the year—peak season is March-May and August-October.
 
 ### Diving Opportunities
 

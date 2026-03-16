@@ -2,8 +2,8 @@
 name: Cali Ship Wreck
 lat: 19.2985241
 lng: -81.3828514
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Beginner
+maxDepth: 28
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,21 +13,23 @@ addedBy: osm_import
 
 ## Cali Ship Wreck
 
-Cali Ship Wreck is a historic wreck dive in Cayman Islands, Caribbean.
+The Cali is a historic four-mast schooner that sunk in 1944 during severe weather. Now located just offshore from George Town in shallow water, this wreck offers an excellent beginner-friendly exploration of a well-preserved merchant vessel encrusted with corals and sponges.
 
 ## Overview
 
-Cali Ship Wreck is a dive site in Cayman Islands featuring the wreck of the Cali Ship Wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Cali was a 220-foot four-mast schooner that sunk north of George Town Harbor in 1944 after severe weather conditions. Now lying in shallow water just 70 yards from shore, the Cali is one of Grand Cayman's most accessible and beginner-friendly wreck dives. The site is excellent for photographers and divers seeking extended bottom time, with the wreck sitting upright on the sandy bottom and its ribs, winches, boilers, and hull plates beautifully encrusted with corals and sponges. Visibility ranges from 15-60 feet depending on weather.
 
 ## Site Information
 
-- **Location**: Cayman Islands, Caribbean
+- **Location**: George Town, Grand Cayman, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 28 meters
+- **Vessel Details**: 220-foot four-mast schooner, sunk 1944
+- **Wreck Condition**: Upright, well-preserved with exposed ribs, winches, and boilers
+- **Typical Visibility**: 5-18 meters (15-60 feet)
+- **Current**: Light
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
@@ -36,7 +38,7 @@ Divers at this site can expect to encounter groupers, snappers, soldierfish, gla
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 25 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+This is a shallow, beginner-friendly wreck dive perfect for divers seeking extended bottom time and wreck exploration. Descent to the wreck top at approximately 9 meters allows most of the dive to occur in 25-28 meters of water, minimizing nitrogen absorption. Divers typically circle the wreck, exploring the hull, exposed ship's ribs, scattered machinery (winches, boilers), and coral-encrusted fixtures. The shallow depth makes this an ideal first wreck dive. Plan 40-50 minute bottom times with proper air reserves for your certification level.
 
 ## Entry and Exit
 
@@ -44,12 +46,13 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Verify Port Security requirements before diving (as of 2021, the area is zoned as a port anchorage)
+- This is an excellent second or third dive for newer divers
+- Bring a dive light to illuminate the wreck's interior features and machinery
+- Bring an underwater camera — the wreck's coral and sponge encrustation offers excellent photography opportunities
+- Extended bottom times mean excellent air consumption practice at shallow depth
+- Respect the resident tarpon population — they are docile but should be observed from a distance
+- Check local weather and port activity before diving
 
 ## Safety Considerations
 

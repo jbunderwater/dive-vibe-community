@@ -4,18 +4,19 @@ addedBy: osm_import
 
 ## Bahamas
 
-Crystal clear waters with blue holes, sharks, and pristine coral reefs including Tiger Beach.
+World-class diving destination famous for shark encounters, dramatic deep walls, historic wrecks, and mysterious blue holes in crystal-clear Caribbean waters.
 
 ## Description
 
-Bahamas is a notable diving destination in the Caribbean region, offering 2 documented dive sites with depths ranging from 20 to 20 meters. Bahamas is particularly known for blue holes, shark dives at Tiger Beach, shallow reef systems. Notable sites include Dean's Blue Hole, Tiger Beach, Thunderball Grotto. Water temperatures average 26-29°C (79-84°F), with visibility typically reaching 20-40 meters (65-130 feet). Year-round diving is possible, with the best conditions during December to April (dry season).
+The Bahamas is one of the world's premier dive destinations, offering 14 documented sites ranging from 5 to 202 meters depth. The archipelago is particularly renowned for three distinct diving experiences: legendary shark dives (Tiger Beach, Shark Wall, Shark Arena), dramatic wall diving (Stuart Cove, Conception Wall, Shark Wall New Providence), and unique blue hole exploration (Dean's Blue Hole, Lost Blue Hole, Thunderball Grotto). Historic wrecks add another dimension, including the Prohibition-era SS Sapona, the WWII-era Curtiss C-46 Commando aircraft, and artificial reefs like the Ray of Hope. Water temperatures range from 26-29°C (79-84°F) year-round, with visibility typically 20-40 meters, occasionally exceeding 100 feet at certain sites. Year-round diving is possible, with optimal conditions December to April.
 
 ### Diving Opportunities
 
-- **Boat Diving**: 2 boat-accessible sites reached through local dive operators
-- **Wreck Diving**: 2 wreck sites ranging from historic vessels to purpose-sunk artificial reefs
-- **Reef Diving**: Healthy coral reef systems supporting diverse marine ecosystems
-- **Night Diving**: After-dark diving reveals nocturnal marine species and different reef behaviors
+- **Shark Diving**: Encounter tiger sharks, oceanic whitetips, Caribbean reef sharks, and hammerheads at dedicated sites like Tiger Beach and Cat Island
+- **Wall Diving**: Dramatic vertical descents including the Tongue of the Ocean—a 60,000-foot canyon—and pristine walls surrounding remote islands
+- **Wreck Diving**: Historic shipwrecks, aircraft, and artificial reefs ranging from shallow snorkel-friendly depths to challenging deep dives
+- **Blue Hole Diving**: Unique underwater sinkholes and cavern systems, including the world's third-deepest blue hole
+- **Drift Diving**: High-speed drift through narrow channels with strong tidal currents and pelagic encounters
 
 ### Accessibility
 

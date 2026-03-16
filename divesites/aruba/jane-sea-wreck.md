@@ -3,7 +3,7 @@ name: Jane Sea Wreck
 lat: 12.54
 lng: -70.02
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 18
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,22 +13,26 @@ addedBy: osm_import
 
 ## Jane Sea Wreck
 
-Jane Sea Wreck is a historic wreck dive in Aruba, Caribbean.
+The Jane Sea is a 170-foot English freighter intentionally sunk in 1988 to create an artificial reef, located near Barcadera Reef in southern Aruba.
 
 ## Overview
 
-Jane Sea Wreck is a dive site in Aruba featuring the wreck of the Jane Sea Wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Jane Sea is an intermediate-level wreck dive featuring depths from 18 to 27 meters as the vessel slopes across the sandy bottom. The ship sits upright with its bow intact, providing excellent structural exploration and photography opportunities. Coral and sponge growth has colonized the wreck, and the site attracts schools of fish and larger pelagics. The site is particularly popular for night diving, when coral polyps extend and create a halo effect around the wreck structure. Good visibility and minimal current conditions (typical for Aruba's leeward side) make this an accessible intermediate dive with commercial viability for recreational operators.
 
 ## Site Information
 
-- **Location**: Aruba, Caribbean
+- **Location**: Near Barcadera Reef, southern Aruba
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Maximum Depth**: 18 meters
+- **Wreck Length**: 170 feet (52 meters)
+- **Wreck Type**: English freighter
+- **Year Sunk**: 1988 (intentional)
+- **Typical Visibility**: 15-25 meters (50-80 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
+- **Special Note**: Excellent for night diving
 
 ## Marine Life
 

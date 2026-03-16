@@ -3,9 +3,9 @@ name: Pinnacles (Anse Cochon)
 lat: 13.92
 lng: -61.06
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 18
 entryType: boat
-siteType: reef
+siteType: pinnacle
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Pinnacles (Anse Cochon)
 
-Pinnacles (Anse Cochon) is a reef dive site in St. Lucia, Caribbean.
+Pinnacles (Anse Cochon) features a diverse underwater landscape with distinctive volcanic formations in the scenic Bay of Anse Cochon.
 
 ## Overview
 
-Pinnacles (Anse Cochon) is a dive site in St. Lucia offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Anse Cochon delivers a varied dive experience on a single descent, with walls, pinnacles, coral heads, boulder fields and sandy shallows. The site showcases volcanic formations and diverse coral-encrusted structures creating an excellent intermediate-level dive. The combination of reef types provides both visual diversity and habitat for abundant marine life. This site is part of the Soufrière Marine Reserve.
 
 ## Site Information
 
-- **Location**: St. Lucia, Caribbean
+- **Location**: Anse Cochon, St. Lucia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Divers encounter sea turtles, southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, and angelfish. The diverse habitat structure creates shelter for blue tangs, trumpetfish, moray eels, and lobsters. The varied topography supports different species at different depths and exposures.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin your dive exploring the pinnacles and coral heads in shallower sections, gradually working deeper through boulder fields and wall structures. The most abundant marine life is typically found between 5-18 meters. The varied terrain means you can explore different reef ecosystems during a single dive. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 

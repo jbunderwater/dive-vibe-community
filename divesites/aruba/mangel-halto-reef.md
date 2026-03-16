@@ -13,21 +13,22 @@ addedBy: osm_import
 
 ## Mangel Halto Reef
 
-Mangel Halto Reef is a reef dive site in Aruba, Caribbean.
+Mangel Halto is a shallow lagoon reef and designated Marine Reserve (since 2019) in Aruba's Marine Park. The site features a healthy coral garden with an old tugboat wreck (Kappel) and a deep-water component beyond the reef slope.
 
 ## Overview
 
-Mangel Halto Reef is a dive site in Aruba offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+This shallow lagoon offers excellent beginner diving in crystal-clear water with calm conditions. The inner lagoon reaches depths of only 1-3 meters with healthy hard coral (elkhorn and blade fire coral) and abundant reef fish. A tugboat wreck lies at 12 meters for more adventurous exploration. Beyond the reef edge, the seafloor drops off dramatically to 110+ meters, where octopi, morays, and barracudas inhabit deeper waters. Mangel Halto is a preferred location for turtle spotting and makes an excellent entry point for beginner courses.
 
 ## Site Information
 
-- **Location**: Aruba, Caribbean
+- **Location**: Pos Chikito area, Aruba, Caribbean
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
+- **Shallow Area Depth**: 1-3 meters
+- **Typical Visibility**: 15-25+ meters (50-80+ feet)
+- **Current**: Light to negligible in lagoon
 - **Best Time**: December to April (dry season)
 
 ## Marine Life

@@ -3,7 +3,7 @@ name: Alice in Wonderland
 lat: 18.4
 lng: -64.4333
 difficulty: Beginner
-maxDepth: 12
+maxDepth: 21
 entryType: boat
 siteType: reef
 ref: null
@@ -13,30 +13,31 @@ addedBy: osm_import
 
 ## Alice in Wonderland
 
-Alice in Wonderland is a reef dive site in British Virgin Islands, Caribbean.
+Alice in Wonderland, off Ginger Island's south shore, is one of the most popular dive sites in the British Virgin Islands and a favorite among divers of all levels. Named for its whimsical underwater "Wonderland" of coral formations, the site features spectacular mushroom-shaped coral heads, excellent visibility, abundant marine life, and a spur and groove reef structure that makes navigation intuitive and easy.
 
 ## Overview
 
-Alice in Wonderland is a dive site in British Virgin Islands offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Alice in Wonderland offers beginner and intermediate divers some of the best scuba diving in the BVI. The spur and groove reef formation features channels running north-south, making it easy to stay oriented while exploring. Visibility often exceeds 30 meters, allowing you to see the full beauty of the coral gardens. The site is relatively sheltered and protected, with boat access, making it ideal for newer divers. Eagle rays, southern stingrays, hawksbill turtles, and occasional crevalle jacks are commonly encountered. The coral formations are simply stunning and worth the dive alone.
 
 ## Site Information
 
-- **Location**: British Virgin Islands, Caribbean
+- **Location**: Off Ginger Island, south shore
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 12 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Maximum Depth**: 21 meters
+- **Typical Visibility**: 30-40+ meters (100-130+ feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
+- **Conditions**: Relatively protected and sheltered location
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Alice in Wonderland hosts abundant marine life including soft sponges, angelfish, lobsters, turtles, spotted eagle rays, southern stingrays, and hawksbill turtles. Crevalle jacks and other pelagics are not uncommon. The mushroom-shaped coral formations themselves are magnificent, and the site is known for excellent opportunities to see sharks (nurse sharks and reef sharks) in a natural reef environment.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin your descent along the anchor line and orient yourself to the spur and groove structure. The channels running north-south make navigation straightforward—pick a direction and explore. Most marine life and coral features are found between 5-21 meters. The sheltered conditions and intuitive layout make this site easy for newer divers to navigate independently while enjoying quality bottom time.
 
 ## Entry and Exit
 

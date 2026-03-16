@@ -5,13 +5,16 @@
     "lon": -64.6269,
     "osm_id": null,
     "osm_type": null,
-    "depth": 25,
+    "depth": 26,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
+    "validated": true,
+    "validation_source": "Blue Water Divers, DiveBVI.com, PADI dive site guides",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "notes": "Maximum depth 26m (85ft). Bow at 24m, stern at 9m. Very open wreck with few entrapment hazards. World-class Caribbean wreck dive."
     }
   },
   {
@@ -20,13 +23,16 @@
     "lon": -64.5167,
     "osm_id": null,
     "osm_type": null,
-    "depth": 15,
+    "depth": 35,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
+    "validated": true,
+    "validation_source": "ScubaBoard BVI diving discussions, dive operator sites",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "notes": "Four rocky pinnacles. Shallow side 3m coral garden, deeper side steep wall to 11m. Excellent marine life including snapper, dolphins, turtles. Can have strong currents."
     }
   },
   {
@@ -35,13 +41,16 @@
     "lon": -64.6167,
     "osm_id": null,
     "osm_type": null,
-    "depth": 12,
+    "depth": 9,
     "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Beginner",
+    "validated": true,
+    "validation_source": "BVI-Dive-Map.com, epic yacht charters, local dive guides",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "notes": "Three water-level caves at Norman Island. First cave extends ~27m. Popular for snorkeling and shallow diving. Great for beginners and snorkelers."
     }
   },
   {
@@ -50,13 +59,16 @@
     "lon": -64.6333,
     "osm_id": null,
     "osm_type": null,
-    "depth": 20,
-    "site_type": "reef",
+    "depth": 31,
+    "site_type": "pinnacle",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
+    "validated": true,
+    "validation_source": "BVI-Dive-Map.com, BVIDiving.com, Blue Water Divers",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "notes": "Deepwater pinnacle 1.5km SE of Norman Island. Depths 6-31m. Craggy top with fire coral. Distinctive 'sink hole' feature. Pelagic fish and sharks. Watch for heavy fire coral."
     }
   },
   {
@@ -65,13 +77,16 @@
     "lon": -64.62,
     "osm_id": null,
     "osm_type": null,
-    "depth": 18,
-    "site_type": "reef",
+    "depth": 20,
+    "site_type": "pinnacle",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
+    "validated": true,
+    "validation_source": "BVIDiving.com, Sail Caribbean Divers, dive operator sites",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "notes": "Shallow pinnacle between Salt Island and Dead Chest Island. Rises from 18m to 5m. Complex system of tunnels, overhangs, undercuts. Abundant lobsters. Weather-dependent."
     }
   },
   {
@@ -80,13 +95,16 @@
     "lon": -64.4333,
     "osm_id": null,
     "osm_type": null,
-    "depth": 12,
+    "depth": 21,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
+    "validated": true,
+    "validation_source": "BVI-Dive-Map.com, Wannadive.net, dive operator guides",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "notes": "Off Ginger Island south shore. Spur and groove reef 11-21m. Outstanding visibility. Mushroom-shaped coral formations. Eagle rays, stingrays, turtles common. Easy navigation."
     }
   },
   {
@@ -99,9 +117,12 @@
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
+    "validated": true,
+    "validation_source": "PADI Dive Site guides, ZuBlu, BVIDiving.com, Reef Smart Guides",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "notes": "Four scuttled wrecks (Pat, Beata, Mary L, Island Seal) off Cooper Island. Depths ~27m. Garden eels, rays, snappers, groupers, moray eels. Thriving artificial reef."
     }
   },
   {
@@ -110,13 +131,16 @@
     "lon": -64.3833,
     "osm_id": null,
     "osm_type": null,
-    "depth": 15,
+    "depth": 10,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
+    "validated": true,
+    "validation_source": "PADI dive guides, Dive and Cruise, DiveScore",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "notes": "Part of 29km Horseshoe Reef - largest barrier reef in Caribbean. Pristine reefs, nurse sharks, rays, turtles. Access limited to those with local guide due to shallow and coral-dense conditions."
     }
   },
   {
@@ -125,13 +149,16 @@
     "lon": -64.4833,
     "osm_id": null,
     "osm_type": null,
-    "depth": 18,
+    "depth": 12,
     "site_type": "cave",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
+    "validated": true,
+    "validation_source": "BVIDiving.com, BVI-Dive-Map.com, Caribbean Dive Guide",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "notes": "Two rocky formations create a chimney gap. Protected northwest of Great Dog Island. Depths 9-12m. Shrimps, damselfish, parrotfish, scorpionfish. Famous Jacques Cousteau site."
     }
   },
   {
@@ -140,13 +167,16 @@
     "lon": -64.5833,
     "osm_id": null,
     "osm_type": null,
-    "depth": 14,
+    "depth": 24,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
+    "validated": true,
+    "validation_source": "BVIDiving.com, Zentacle reviews, Dive Spot",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "notes": "East of Cooper Island. Ridge rises from 24m. Open water site with pillar corals, black corals, sea fans. Pelagic fish (cobia, African pompano). Can have strong currents - heed dive briefing."
     }
   },
   {
@@ -155,13 +185,16 @@
     "lon": -64.55,
     "osm_id": null,
     "osm_type": null,
-    "depth": 20,
+    "depth": 29,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
+    "validated": true,
+    "validation_source": "PADI guides, BVI-Dive-Map.com, BVIDiving.com",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "notes": "Three dramatic step walls on Ginger Island southwest: 12m, 20m, 29m. Tube sponges, sea fans, corals. Protected from currents. White sand reflects sunlight creating magical scenery. Suitable for all levels."
     }
   },
   {
@@ -170,13 +203,16 @@
     "lon": -64.3667,
     "osm_id": null,
     "osm_type": null,
-    "depth": 10,
+    "depth": 8,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
+    "validated": true,
+    "validation_source": "PADI dive guides, Anegada diving information",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "notes": "Shallow reef site around Anegada. Part of pristine Horseshoe Reef system. Excellent for beginner divers. Requires local guide access due to shallow waters and coral maze characteristics."
     }
   }
 ]

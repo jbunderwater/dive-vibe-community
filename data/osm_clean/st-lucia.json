@@ -3,52 +3,60 @@
     "name": "Superman's Flight",
     "lat": 13.86,
     "lon": -61.07,
-    "depth": 30,
+    "depth": 50,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "validation_source": "scubadiving.com, PADI dive center sites"
     }
   },
   {
     "name": "Anse Chastanet Reef",
     "lat": 13.862,
     "lon": -61.072,
-    "depth": 15,
+    "depth": 20,
     "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "validation_source": "Scuba St. Lucia official, scubadiving.com"
     }
   },
   {
     "name": "Pinnacles (Anse Cochon)",
     "lat": 13.92,
     "lon": -61.06,
-    "depth": 25,
-    "site_type": "reef",
+    "depth": 18,
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "validation_source": "Soufrière Marine Management Association, DiveWorld"
     }
   },
   {
     "name": "Key Hole Pinnacles",
     "lat": 13.855,
     "lon": -61.065,
-    "depth": 22,
-    "site_type": "reef",
+    "depth": 30,
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "validation_source": "Soufrière Marine Management Association, PADI blog"
     }
   },
   {
@@ -61,98 +69,114 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "validation_source": "Scuba St. Lucia dive center"
     }
   },
   {
     "name": "Lesleen M Wreck",
     "lat": 13.91,
     "lon": -61.055,
-    "depth": 20,
+    "depth": 18,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "validation_source": "IslanderKeys, DeeperBlue, Marigot Beach Club"
     }
   },
   {
     "name": "Jalousie Beach Reef",
     "lat": 13.84,
     "lon": -61.06,
-    "depth": 10,
+    "depth": 15,
     "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "validation_source": "Soufrière Marine Management Association"
     }
   },
   {
     "name": "Anse La Raye Wall",
     "lat": 13.94,
     "lon": -61.05,
-    "depth": 35,
+    "depth": 40,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "validation_source": "DiveWorld, Ti Kaye Resort dive sites"
     }
   },
   {
     "name": "Daini Koyomaru Wreck",
     "lat": 14.05,
     "lon": -61.01,
-    "depth": 18,
+    "depth": 33,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "validation_source": "DeeperBlue, The Moorings dive guide"
     }
   },
   {
     "name": "Coral Gardens Soufrière",
     "lat": 13.848,
     "lon": -61.068,
-    "depth": 8,
+    "depth": 14,
     "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "validation_source": "Soufrière Marine Management Association, EnezGreen"
     }
   },
   {
     "name": "The Drift (Pitons)",
     "lat": 13.835,
     "lon": -61.058,
-    "depth": 28,
-    "site_type": "wall",
+    "depth": 25,
+    "site_type": "drift",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "validation_source": "SpendLifeTraveling, PADI dive center sites"
     }
   },
   {
     "name": "Grand Caille",
     "lat": 13.95,
     "lon": -61.045,
-    "depth": 20,
-    "site_type": "reef",
+    "depth": 30,
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "validation_source": "DiveWorld, Soufrière Marine Management Association"
     }
   },
   {
@@ -183,16 +207,18 @@
     "lon": -61.0779083,
     "osm_id": 398450579,
     "osm_type": "way",
-    "depth": null,
+    "depth": 15,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "area": "yes",
       "name": "Fairyland",
       "sport": "scuba_diving",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "Zentacle dive reviews, Scuba St. Lucia"
     }
   },
   {

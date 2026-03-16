@@ -3,7 +3,7 @@ name: Nose Reef
 lat: 15.21
 lng: -61.358
 difficulty: Intermediate
-maxDepth: 18
+maxDepth: 25
 entryType: boat
 siteType: reef
 ref: null
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Nose Reef
 
-Nose Reef is a reef dive site in Dominica, Caribbean.
+Nose Reef is a patch reef with a distinctive wall drop-off, featuring the characteristic nose-like protrusions that give the site its name.
 
 ## Overview
 
-Nose Reef is a dive site in Dominica offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Drift lazily atop the reef at Nose Reef, observing the characteristic reef structure. The reef itself features distinctive nose-like protrusions that extend from a wall as it drops deeper. The site offers good opportunities for observing schooling fish and pelagic species, including silvery bogas schools and solitary barracuda along the wall. This is part of Dominica's mid-island diving region.
 
 ## Site Information
 
-- **Location**: Dominica, Caribbean
+- **Location**: Mid-coast region, off Salisbury Beach/St. Joseph area, Dominica
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
+- **Current**: Light
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Schooling fish including bogas, grunts, and other reef species. Pelagic visitors including barracuda and reef sharks. The wall structure supports varied reef community.
 
 ## Dive Profile
 

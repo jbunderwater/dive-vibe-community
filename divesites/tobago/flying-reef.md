@@ -2,10 +2,10 @@
 name: Flying Reef
 lat: 11.31
 lng: -60.52
-difficulty: Advanced
-maxDepth: 28
+difficulty: Beginner
+maxDepth: 15
 entryType: boat
-siteType: wall
+siteType: reef
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,21 +13,23 @@ addedBy: osm_import
 
 ## Flying Reef
 
-Flying Reef is a wall dive site in Tobago, Caribbean.
+Flying Reef is an excellent beginner-friendly drift dive site featuring a long shallow coral reef with gentle Atlantic currents. The site gets its name from the gentle flowing motion divers experience while drifting along the reef.
 
 ## Overview
 
-Flying Reef is a dive site in Tobago featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+A gentle drift of 0-2 knots carries divers along this shallow coral reef, though the pace can occasionally pick up—giving the reef its 'flying' name. The site features large plate coral colonies and huge sponges, attracting stingrays, lobsters, green moray eels, turtles, and the elusive cornet fish. While the current is usually gentle, it can be variable and occasionally lead to faster-paced drift diving. This is an excellent introduction to drift diving and suitable for divers of all experience levels.
 
 ## Site Information
 
-- **Location**: Tobago, Caribbean
+- **Location**: Speyside, Tobago
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 28 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
+- **Site Type**: Coral reef
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 15 meters
+- **Depth Range**: 5-15 meters (18-50 feet)
+- **Typical Visibility**: 15-30 meters on good days
+- **Water Temperature**: 27-30°C (81-86°F)
+- **Current**: Light to gentle drift (0-2 knots, sometimes variable)
 - **Best Time**: December to April (dry season)
 
 ## Marine Life

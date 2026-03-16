@@ -3,7 +3,7 @@ name: Boca Catalina
 lat: 12.58
 lng: -70.05
 difficulty: Beginner
-maxDepth: 10
+maxDepth: 6
 entryType: shore
 siteType: reef
 ref: null
@@ -13,22 +13,24 @@ addedBy: osm_import
 
 ## Boca Catalina
 
-Boca Catalina is a reef dive site in Aruba, Caribbean.
+Boca Catalina is rated as the best snorkeling and dive site in Aruba, located on the northwestern tip of the island near the California Lighthouse. Accessed from safe sandy beaches with nearby rocky points, this site features varied underwater topography suitable for all levels.
 
 ## Overview
 
-Boca Catalina is a dive site in Aruba offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Boca Catalina offers the calmest and most accessible entry conditions in Aruba. The site features shallow seagrass beds (1-2 meters) extending offshore, coral patches in 3-4 meters of water, and deeper exploration areas to 6+ meters. Rocky outcrops framing the beach create sheltered coves with vibrant marine life. The site is specifically renowned for Green and Hawksbill sea turtle encounters, especially in the shallow seagrass areas. Crystal-clear water and minimal current make this ideal for beginners, advanced open water certifications, and photographers of all levels.
 
 ## Site Information
 
-- **Location**: Aruba, Caribbean
+- **Location**: Northwestern coast near California Lighthouse, Aruba
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 10 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Maximum Depth**: 6 meters
+- **Shallow Area Depths**: 1-4 meters (seagrass and coral patches)
+- **Typical Visibility**: 15-25 meters (50-80 feet)
+- **Current**: Negligible
+- **Best Time**: Year-round, December to April for driest conditions
+- **Special Note**: Excellent for sea turtle encounters
 
 ## Marine Life
 

@@ -2,10 +2,10 @@
 name: The Amphitheatre
 lat: 21.8417
 lng: -72.25
-difficulty: Beginner
-maxDepth: 12
+difficulty: Intermediate
+maxDepth: 26
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## The Amphitheatre
 
-The Amphitheatre is a reef dive site in Turks and Caicos, Caribbean.
+The Amphitheatre is a dramatic undercut wall formation accessible from the western end of the Northern Wall, featuring a distinctive geological structure.
 
 ## Overview
 
-The Amphitheatre is a dive site in Turks and Caicos offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The wall drops vertically to an amphitheatre formation that is undercut 10-15 feet, creating a large recess to a sandy bottom at 85 feet. A large elephant ear sponge and black coral adorn the top lip of the undercut. The site features rare orange rope sponges at 90 feet and a buttress in front of the amphitheatre with beautiful plate coral formations. The site is covered in bright sponges and adorned by hanging whip corals, making it both visually striking and biologically rich.
 
 ## Site Information
 
-- **Location**: Turks and Caicos, Caribbean
+- **Location**: Western Northern Wall, Providenciales/Grand Turk, Turks and Caicos
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 12 meters
+- **Site Type**: Wall dive
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 26 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Circling horse-eye jacks are a signature feature of the site. Keen-eyed divers can spot neck crabs disguised among gorgonian fans. Large pillar coral colonies grow near the mooring point. The undercut provides shelter for various reef species and the sponge-covered walls harbor abundant macro life.
 
 ## Dive Profile
 

@@ -3,7 +3,7 @@ name: Flamingo Bay
 lat: 12.05
 lng: -61.76
 difficulty: Beginner
-maxDepth: 15
+maxDepth: 18
 entryType: boat
 siteType: reef
 ref: null
@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Flamingo Bay
 
-Flamingo Bay is a reef dive site in Grenada, Caribbean.
+Flamingo Bay is a fringing reef in Grenada's Marine Protected Area, part of the Moliniere Bay system. This colorful reef is home to blue clouds of chromis gliding along sloped reef structures.
 
 ## Overview
 
-Flamingo Bay is a dive site in Grenada offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Flamingo Bay offers accessible beginner-friendly reef diving with a wall that starts at approximately 7 meters and extends to 18 meters. This site is ideal for newer divers with abundant fish life and healthy coral structures. The reef slope provides natural depth progression and multiple exit options. Located in the Caribbean region, this site offers excellent visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
@@ -25,18 +25,18 @@ Flamingo Bay is a dive site in Grenada offering excellent diving on healthy cora
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 meters
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Flamingo Bay is home to dramatically abundant fish life including blue clouds of chromis, big-eyed squirrelfish, jackknife fish, yellowtail snapper, Creole wrasse, bar jacks, spotted drums, batfish, and garden eels. Also expect to encounter lobster, crabs, and occasionally sea horses, pipefish, and brindled jawfish. Sea turtles, southern stingrays, and eagle rays are frequently sighted.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The reef slope begins at approximately 7 meters and descends gently to 18 meters. Begin your dive in the shallower sections where chromis swirl around coral formations, then work deeper along the slope to explore deeper reef structures. Most abundant marine life is found throughout the water column. Plan your dive within your certification limits and allow adequate air for safety stops.
 
 ## Entry and Exit
 

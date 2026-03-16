@@ -2,66 +2,72 @@
 name: Tormentos Reef
 lat: 20.373273
 lng: -87.04193
-difficulty: Beginner
-maxDepth: 18
+difficulty: Intermediate
+maxDepth: 20
 entryType: boat
 siteType: reef
 ref: null
 osmId: 663869341
 addedBy: osm_import
+validated: true
+validationSource: "The Reefs of Cozumel, Pro Dive International, Tripadvisor"
 ---
 
 ## Tormentos Reef
 
-Tormentos Reef is a reef dive site in Cozumel, Caribbean.
+Tormentos Reef features distinctive coral heads 20-30 feet tall separated by sandy areas, with interesting tunnels and overhangs. This reef is ideal for intermediate divers seeking strong current drift diving experiences and encounters with large schools of fish.
 
 ## Overview
 
-Tormentos Reef is a dive site in Cozumel offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Tormentos is characterized by healthy coral reef formations with substantial structure. The reef heads create natural dive pathways between sandy flats, offering excellent marine life viewing opportunities. The site typically experiences a strong current, especially after noon, making it particularly suitable for experienced drift divers seeking challenging, dynamic diving.
 
 ## Site Information
 
-- **Location**: Cozumel, Caribbean
+- **Location**: Cozumel, Mexico (northern section)
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 20 meters
+- **Typical Visibility**: 20-35 meters (65-115 feet)
+- **Current**: Strong to very strong (especially afternoon)
+- **Best Time**: Early morning for lighter currents; December-April for more moderate conditions
+
+## Dive Characteristics
+
+Tormentos features distinctive reef head structures rising 20-30 feet from the sandy bottom. The reef heads contain nice tunnels and overhangs that provide shelter for fish and interesting navigation challenges. The strong current typical at this site makes it an excellent spot for drift diving, though currents can become very strong, especially in the afternoon.
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The site is known for large schools of French grunts and snappers around the reef heads. Other common sightings include nurse sharks, black grouper, sea turtles, angelfish, crustaceans, moray eels, and toadfish. The reef structure supports a healthy, abundant fish population.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin your descent on the reef top and follow the reef heads as they create natural drift corridors. Navigate between the coral patches at 12-20 meters depth. Look into tunnels and overhangs for sheltering fish and creatures. Monitor your current drift and air consumption carefully due to strong currents. Allow adequate air for a safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access exclusively by dive boat from local operators. Enter via giant stride. Descend quickly to the reef and begin drifting along the reef heads. Stay in visual contact with your dive guide and group. Deploy an SMB at safety stop depth for boat pickup.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Best dived as a second dive when currents may be stronger
+- Go early (morning dives) for lighter, more manageable currents
+- Excellent site for drift diving practice and current management
+- Strong marine life observation opportunities for fish lovers
+- Keep an eye on current direction before descent
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Strong currents are typical at this site and can intensify after noon. Recommended for Intermediate Open Water divers or higher with drift diving experience. Watch for fire coral and sea urchins. Maintain buddy contact and group cohesion. Monitor your depth gauge and air consumption regularly during the drift.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Good wide-angle shots of the reef heads and drift composition. The large fish schools offer action photography opportunities. Natural light is best in morning hours.
 
 ## Additional Resources
 
-- **Website**: http://www.dive-links.com/tauchplatz.php?id=2767
+- **Source**: The Reefs of Cozumel, Pro Dive International, Tripadvisor
 - **Last Updated**: 2026-03-15
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was validated through research of dive operator and guide sites. Last updated 2026-03-15.*

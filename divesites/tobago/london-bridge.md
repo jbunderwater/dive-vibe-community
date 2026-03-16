@@ -3,9 +3,9 @@ name: London Bridge
 lat: 11.3
 lng: -60.51
 difficulty: Intermediate
-maxDepth: 18
+maxDepth: 30
 entryType: boat
-siteType: reef
+siteType: rock_formation
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,22 +13,24 @@ addedBy: osm_import
 
 ## London Bridge
 
-London Bridge is a reef dive site in Tobago, Caribbean.
+London Bridge is the most famous dive site in Charlotteville, Speyside, Tobago, featuring a natural rock arch that echoes its iconic namesake. The site is known for encounters with large schools of tarpon and occasional pelagic visitors.
 
 ## Overview
 
-London Bridge is a dive site in Tobago offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+This distinctive site features a natural arch formation surrounded by huge boulders with dramatic overhangs and crevices. Divers swim through the middle of the 'bridge' when conditions permit, discovering a unique underwater landscape populated by large schools of tarpon, lobsters, and sea turtles. The site reaches depths of 30 meters and is subject to significant surge and current, making it suitable for intermediate to experienced divers. The current can create a dangerous funneling effect through the bridge, making it undiveable during strong conditions.
 
 ## Site Information
 
-- **Location**: Tobago, Caribbean
+- **Location**: Charlotteville/St. Giles, Speyside, Tobago
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rock_formation
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Maximum Depth**: 30 meters
+- **Depth Range**: 10-30 meters (33-98 feet)
+- **Typical Visibility**: 15-30 meters on good days
+- **Water Temperature**: 27-30°C (81-86°F)
+- **Current**: Variable; can be strong with dangerous surge
+- **Best Time**: December to April (dry season); site can be undiveable in bad weather
 
 ## Marine Life
 

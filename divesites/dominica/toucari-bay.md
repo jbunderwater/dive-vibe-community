@@ -2,8 +2,8 @@
 name: Toucari Bay
 lat: 15.625
 lng: -61.475
-difficulty: Beginner
-maxDepth: 14
+difficulty: Intermediate
+maxDepth: 33
 entryType: shore
 siteType: reef
 ref: null
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Toucari Bay
 
-Toucari Bay is a reef dive site in Dominica, Caribbean.
+Toucari Bay is often considered the most photogenic of Dominica's dive sites, featuring intricate rock formations embellished with colorful corals.
 
 ## Overview
 
-Toucari Bay is a dive site in Dominica offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+This site is a honeycomb of tunnels with several swim-throughs—including tunnels 25 and 45 feet long—providing exquisite navigation through nooks filled with French grunts and other schooling fish. The reef structure drops to 110 feet and harbors large schools of mahogany snapper, big crabs, and frogfish. Extraordinary corals and colorful marine life make this a must-visit site. The site is not so much a cave as a small system of caverns, arches, and swim-throughs with stunning photographic potential.
 
 ## Site Information
 
-- **Location**: Dominica, Caribbean
+- **Location**: North coast, Dominica
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 14 meters
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 33 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Extraordinary corals and colorful reef life throughout. Tunnel systems host schools of French grunts, French angelfish, and other schooling fish. Large formations include mahogany snapper schools, big crabs, frogfish, octopus, rays, trumpet fish, parrotfish, and more.
 
 ## Dive Profile
 

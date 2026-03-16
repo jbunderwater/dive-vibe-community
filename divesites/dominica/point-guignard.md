@@ -2,10 +2,10 @@
 name: Point Guignard
 lat: 15.28
 lng: -61.39
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Beginner
+maxDepth: 25
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Point Guignard
 
-Point Guignard is a reef dive site in Dominica, Caribbean.
+Point Guignard is a slowly sloping wall dive site rich with small critters and macro life, easily enjoyed by all diving levels.
 
 ## Overview
 
-Point Guignard is a dive site in Dominica offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Starting at about 30 feet, Point Guignard descends gradually as a gently sloping wall to approximately 80 feet. The dive is relatively easy and calm, making it accessible to divers of varying experience levels. The site is particularly rewarding for those interested in macro photography and small creature observation.
 
 ## Site Information
 
-- **Location**: Dominica, Caribbean
+- **Location**: Central coast, south of Salisbury, Dominica
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Site Type**: Wall dive
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
+- **Current**: Light
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Abundant small creatures including seahorses, nudibranches, sea slugs, and other macro subjects. The slowly descending terrain supports varied invertebrate life and small reef fish.
 
 ## Dive Profile
 

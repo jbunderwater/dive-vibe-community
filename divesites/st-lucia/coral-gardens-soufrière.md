@@ -3,7 +3,7 @@ name: Coral Gardens Soufrière
 lat: 13.848
 lng: -61.068
 difficulty: Beginner
-maxDepth: 8
+maxDepth: 14
 entryType: shore
 siteType: reef
 ref: null
@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Coral Gardens Soufrière
 
-Coral Gardens Soufrière is a reef dive site in St. Lucia, Caribbean.
+Coral Gardens is a beautiful sloping reef dive at the foot of the impressive Gros Piton, ideal for novice divers and snorkelers.
 
 ## Overview
 
-Coral Gardens Soufrière is a dive site in St. Lucia offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Coral Garden comprises a steep slope with a variety of coral species and large barrel sponges, starting right at the cliff of the Gros Piton. The scenic views between 5-15 meters are particularly striking, with excellent visibility and a diverse range of coral formations. The site is perfect for novice divers and one of the most beautiful sites for snorkeling in St. Lucia. Views between 5-15 meters are scenic, making it an ideal site for novice divers.
 
 ## Site Information
 
-- **Location**: St. Lucia, Caribbean
+- **Location**: Foot of Gros Piton, Soufrière, St. Lucia
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 8 meters
+- **Maximum Depth**: 14 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
+- **Current**: Light
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The site features a great range of coral species and large barrel sponges. Divers may spot the unusual Sargassum trigger fish in deeper areas. Occasionally large schools of barracuda are present. Sea turtles, southern stingrays, and eagle rays are commonly encountered. Parrotfish, angelfish, and smaller reef fish school among the corals.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 8 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-8 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin your dive in shallow water and gradually work deeper along the sloping reef structure. The most abundant and colorful marine life is typically found between 5-14 meters. Views between 5-15 meters are particularly scenic with excellent coral and sponge displays. You must frequently monitor your depth gauge as the slope continues for hundreds of feet beyond recreational limits. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 

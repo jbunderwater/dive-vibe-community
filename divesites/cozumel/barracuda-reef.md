@@ -2,13 +2,15 @@
 name: Barracuda Reef
 lat: 20.568028
 lng: -86.912326
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Advanced
+maxDepth: 30
 entryType: boat
 siteType: reef
 ref: null
 osmId: 663869363
 addedBy: osm_import
+validated: true
+validationSource: "The Reefs of Cozumel, dive operator sites"
 ---
 
 ## Barracuda Reef
@@ -24,8 +26,8 @@ Barracuda Reef is a dive site in Cozumel offering rewarding diving on healthy co
 - **Location**: Cozumel, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)

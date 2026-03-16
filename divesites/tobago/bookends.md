@@ -3,7 +3,7 @@ name: Bookends
 lat: 11.305
 lng: -60.515
 difficulty: Beginner
-maxDepth: 16
+maxDepth: 18
 entryType: boat
 siteType: reef
 ref: null
@@ -13,20 +13,21 @@ addedBy: osm_import
 
 ## Bookends
 
-Bookends is a reef dive site in Tobago, Caribbean.
+Bookends is a beginner-friendly reef dive in the Speyside area, ideal for newer divers and those building drift diving experience.
 
 ## Overview
 
-Bookends is a dive site in Tobago offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Bookends offers excellent diving on healthy coral reef structures in shallow waters. This beginner-level site in the Speyside region features calm conditions and easy navigation, making it ideal for building diving confidence and drift diving experience.
 
 ## Site Information
 
-- **Location**: Tobago, Caribbean
+- **Location**: Speyside, Tobago
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 16 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Maximum Depth**: 18 meters
+- **Typical Visibility**: 15-30 meters
+- **Water Temperature**: 27-30°C (81-86°F)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
 

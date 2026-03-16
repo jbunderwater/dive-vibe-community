@@ -13,19 +13,21 @@ addedBy: osm_import
 
 ## USS Kittiwake Shipwreck
 
-USS Kittiwake Shipwreck is a historic wreck dive in Cayman Islands, Caribbean.
+The USS Kittiwake is a former U.S. Navy submarine rescue ship that was deliberately scuttled in 2011 to create an artificial reef. This iconic wreck dive offers exciting exploration and excellent photo opportunities on Grand Cayman's West Bay.
 
 ## Overview
 
-USS Kittiwake Shipwreck is a dive site in Cayman Islands featuring a historic wreck which sank in 05-01-2011. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The USS Kittiwake (ASR-13) was a United States Navy submarine rescue ship purposefully sunk on February 5, 2011, to create an artificial reef and diving attraction. This shallow wreck lies in Grand Cayman's West Bay and has become one of the Cayman Islands' most popular dive sites. The wreck sits upright at approximately 20 meters depth, with excellent visibility and calm conditions ideal for wreck exploration.
 
 ## Site Information
 
-- **Location**: Cayman Islands, Caribbean
+- **Location**: West Bay, Grand Cayman, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
+- **Vessel Details**: 205-foot U.S. Navy submarine rescue ship (ASR-13)
+- **Wreck Condition**: Intact and upright; purposefully cleaned of hazards before sinking
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
@@ -36,7 +38,7 @@ Divers at this site can expect to encounter groupers, snappers, soldierfish, gla
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 20 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The USS Kittiwake is suitable for Open Water certified divers and above. The dive typically begins with a descent to the wreck sitting upright on the sandy bottom at 20 meters. The structure remains largely intact with multiple entry and exit points. Divers can explore the exterior hull, railings, and accessible interior passageways and cabins. Advanced divers may attempt limited wreck penetrations (with proper training), while others prefer exterior exploration. Most dives are made at 15-20 meters maximum depth. Plan 30-40 minute bottom times with proper air reserves for safety stops.
 
 ## Entry and Exit
 

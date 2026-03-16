@@ -3,7 +3,7 @@ name: Arnos Vale
 lat: 11.21
 lng: -60.79
 difficulty: Beginner
-maxDepth: 10
+maxDepth: 12
 entryType: shore
 siteType: reef
 ref: null
@@ -13,22 +13,24 @@ addedBy: osm_import
 
 ## Arnos Vale
 
-Arnos Vale is a reef dive site in Tobago, Caribbean.
+Arnos Vale is a protected beginner-friendly shore dive site in a sheltered bay on Tobago's southwest coast. The rocky shelf reef serves as a nursery for juvenile fish and is an ideal location for night diving.
 
 ## Overview
 
-Arnos Vale is a dive site in Tobago offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+This protected bay features a rocky shelf reef with constantly undulating topography of shallower and deeper coral outcrops. The reef is a nursery and refuge for juvenile reef fish of all kinds, making it excellent for observing smaller species. Depths vary from 5 meters in shallower areas to 12 meters on deeper outcrops. The sheltered bay conditions make it perfect for beginner divers and night dives. The diverse fish population and crevices create a rich macro-diving environment.
 
 ## Site Information
 
-- **Location**: Tobago, Caribbean
+- **Location**: Southwest Tobago, Arnos Vale Bay
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 10 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Maximum Depth**: 12 meters
+- **Depth Range**: 5-12 meters (18-40 feet)
+- **Typical Visibility**: 15-25 meters
+- **Water Temperature**: 27-30°C (81-86°F)
+- **Current**: Minimal to light (protected bay)
+- **Best Time**: December to April (dry season); excellent for night dives
 
 ## Marine Life
 

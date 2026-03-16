@@ -3,7 +3,7 @@ name: Cathedral
 lat: 11.295
 lng: -60.505
 difficulty: Intermediate
-maxDepth: 22
+maxDepth: 37
 entryType: boat
 siteType: cave
 ref: null
@@ -13,20 +13,21 @@ addedBy: osm_import
 
 ## Cathedral
 
-Cathedral is a cave dive site in Tobago, Caribbean.
+Cathedral is a cave dive site in the Speyside area featuring underwater cavern formations. This intermediate-level site offers a unique exploration experience in the Speyside diving region.
 
 ## Overview
 
-Cathedral is a dive site in Tobago featuring underwater cave and cavern formations. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Cathedral features underwater cave and cavern formations that create a dramatic diving environment. Located in the Speyside area, this site reaches moderate depths and offers intermediate-level divers a chance to explore cavern systems with proper training. The surrounding reef supports diverse marine life.
 
 ## Site Information
 
-- **Location**: Tobago, Caribbean
+- **Location**: Speyside, Tobago
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Maximum Depth**: 37 meters
+- **Typical Visibility**: 15-30 meters on good days
+- **Water Temperature**: 27-30°C (81-86°F)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
 

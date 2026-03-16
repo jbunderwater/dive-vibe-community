@@ -2,8 +2,8 @@
 name: Cartanser Sr Wreck
 lat: 18.315
 lng: -64.935
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Beginner
+maxDepth: 14
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,19 +13,19 @@ addedBy: osm_import
 
 ## Cartanser Sr Wreck
 
-Cartanser Sr Wreck is a historic wreck dive in US Virgin Islands, Caribbean.
+The Cartanser Senior is one of the most iconic wrecks in the USVI, a 190-foot WWII-era freighter resting in three distinct sections off St. Thomas.
 
 ## Overview
 
-Cartanser Sr Wreck is a dive site in US Virgin Islands featuring the wreck of the Cartanser Sr Wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+This wreck was intentionally sunk by divers and brought to the cove at Buck Island, where it has weathered multiple hurricanes. The sections rest on sandy bottom in moderate depth, making it accessible to novice-level divers. The wreck is completely covered with corals and sponges and serves as an egg hatchery for Sergeant Major Fish. Sea turtles often rest on the deck, while octopuses hide in crevices throughout the structure. The combination of coral growth, marine life, and accessible depth makes it an excellent educational and photographic dive site.
 
 ## Site Information
 
-- **Location**: US Virgin Islands, Caribbean
+- **Location**: St. Thomas, US Virgin Islands, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 14 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)

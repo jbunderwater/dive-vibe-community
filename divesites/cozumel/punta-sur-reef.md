@@ -9,15 +9,17 @@ siteType: wall
 ref: null
 osmId: 663869325
 addedBy: osm_import
+validated: true
+validationSource: "BlueProject Cozumel, dive operator sites"
 ---
 
 ## Punta Sur Reef
 
-Punta Sur Reef is a wall dive site in Cozumel, Caribbean.
+Punta Sur Reef is an advanced wall dive site featuring a dramatic vertical wall on Cozumel's southern tip. This is a challenging drift dive suitable only for experienced divers comfortable with strong currents and deeper depths.
 
 ## Overview
 
-Punta Sur Reef is a dive site in Cozumel featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Punta Sur Reef features a dramatic vertical wall that drops into the deep blue, beginning at shallow depths and plunging beyond recreational limits. Located at Cozumel's southern extremity, this site offers exceptional visibility and marine life, though the strong currents and depth make it suitable only for advanced divers.
 
 ## Site Information
 

@@ -3,7 +3,7 @@ name: Skalahein Reef
 lat: 12.445
 lng: -69.94
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 23
 entryType: boat
 siteType: reef
 ref: null
@@ -13,22 +13,23 @@ addedBy: osm_import
 
 ## Skalahein Reef
 
-Skalahein Reef is a reef dive site in Aruba, Caribbean.
+Skalahein Reef is an intermediate drift dive known for its fine coral formations, abundant barracuda populations, and dramatic drop-off structure. The site is particularly popular for drift diving with excellent visibility.
 
 ## Overview
 
-Skalahein Reef is a dive site in Aruba offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Skalahein Reef features fine hard coral formations sloping to great depth, making it an excellent choice for drift diving. The site is particularly distinguished by its large population of barracudas, though diverse reef fish also populate the area. The reef drops from shallow areas (5+ meters) to depths exceeding 30 meters, with the most interesting coral formations and marine life found between 15-30 meters. The site follows the characteristic pattern of the Balashi Reef complex with excellent visibility and good current conditions for drift dives. This is one of Aruba's designated "deep" dive sites where divers can expect depths ranging from 13-30 meters, suitable for intermediate to advanced recreational divers.
 
 ## Site Information
 
-- **Location**: Aruba, Caribbean
+- **Location**: Eastern coast, Aruba, Caribbean (Balashi Reef complex)
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
+- **Maximum Depth**: 23 meters
+- **Typical Visibility**: 20-25 meters (65-80+ feet)
+- **Current**: Moderate (drift dive)
 - **Best Time**: December to April (dry season)
+- **Special Features**: Fine coral formations, abundant barracuda, drift dive
 
 ## Marine Life
 

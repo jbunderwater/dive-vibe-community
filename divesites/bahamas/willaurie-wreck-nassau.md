@@ -3,7 +3,7 @@ name: Willaurie Wreck Nassau
 lat: 25.0667
 lng: -77.4667
 difficulty: Beginner
-maxDepth: 14
+maxDepth: 19
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,22 +13,22 @@ addedBy: osm_import
 
 ## Willaurie Wreck Nassau
 
-Willaurie Wreck Nassau is a historic wreck dive in Bahamas, Caribbean.
+The Willaurie is a 43-meter (140-foot) Danish-built river barge resting in 19 meters (62 feet) of water, covered in brilliant red and orange corals and sponges, making it a favorite of underwater photographers.
 
 ## Overview
 
-Willaurie Wreck Nassau is a dive site in Bahamas featuring the wreck of the Willaurie Wreck Nassau. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Willaurie is one of Nassau's most photographed wrecks, built in Denmark in 1907 and originally sunk in Potters Cay before being moved and sunk again during a storm near Clifton Pier. The former river barge lies upright in relatively shallow water with its cargo hold and propellers in good condition. The wreck is densely covered with colorful red and orange corals and sponges, creating a stunning display. Schools of Nassau grouper and Cubera snapper swim past, along with sea turtles. On the deck sits a cage structure with amazing coral growth. The site is popular with divers of various skill levels and is particularly appealing to underwater photographers. Average visibility reaches 16-18 meters (52-60 feet), and the wreck is easily navigable for beginners to intermediate divers.
 
 ## Site Information
 
-- **Location**: Bahamas, Caribbean
+- **Location**: Nassau, New Providence, Bahamas
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 14 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Maximum Depth**: 19 meters
+- **Typical Visibility**: 15-18 meters (50-60 feet)
+- **Current**: Light to minimal
+- **Best Time**: December to April, year-round accessible
 
 ## Marine Life
 

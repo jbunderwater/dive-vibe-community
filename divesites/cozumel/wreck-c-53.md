@@ -3,66 +3,79 @@ name: Wreck C-53
 lat: 20.4467119
 lng: -86.9988993
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 24
 entryType: boat
 siteType: wreck
 ref: null
 osmId: 663869368
 addedBy: osm_import
+validated: true
+validationSource: "Blue Note Scuba, DivePoint Mexico, California Diver Magazine"
 ---
 
-## Wreck C-53
+## Wreck C-53 (Felipe Xicoténcatl)
 
-Wreck C-53 is a historic wreck dive in Cozumel, Caribbean.
+The C-53 Felipe Xicoténcatl is Cozumel's most iconic wreck dive and Mexico's largest artificial reef wreck. Originally a U.S. Navy minesweeper during World War II, this historic vessel was transferred to the Mexican Navy and intentionally sunk in June 2000 to create an artificial reef and dive site.
 
 ## Overview
 
-Wreck C-53 is a dive site in Cozumel featuring a historic wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The C-53 rests at approximately 24 meters, making it accessible for recreational divers with some prior experience and basic wreck diving awareness. The shallowest parts of the wreck reach 12 meters, allowing varied diving profiles. The site combines historical significance with exceptional marine life habitats, as the structure has become completely encrusted with coral and sponges.
 
 ## Site Information
 
-- **Location**: Cozumel, Caribbean
+- **Location**: Cozumel, Mexico
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Maximum Depth**: 24 meters
+- **Depth Range**: 12-24 meters (40-78 feet)
+- **Typical Visibility**: 20-30 meters (65-100 feet)
 - **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Best Time**: December to April for optimal conditions
+
+## Wreck History
+
+The C-53 Felipe Xicoténcatl was built as a U.S. Navy YMS-class minesweeper during World War II, originally designated as USS Atakapa (YMS-85). The ship was transferred to Mexico following WWII and served in the Mexican Navy for decades before being deliberately sunk in June 2000 specifically to create this dive site and artificial reef habitat.
+
+## Dive Characteristics
+
+The wreck is fully colonized by coral and sponges, providing excellent habitats for fish and other marine life. The hull structure remains intact with recognizable features. The site can be dived as an external exploration or with controlled penetration for trained wreck divers. The moderate depth and accessible structure make it suitable for recreational diving while maintaining an aura of historical exploration.
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, snappers, soldierfish, glassy sweepers, coral growth, sponge encrustation, sea turtles (green, hawksbill), southern stingrays. Additional species commonly sighted include eagle rays, nurse sharks, reef sharks, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The wreck structure provides excellent shelter for groupers, snappers, soldierfish, and glassy sweepers. Sea turtles (green and hawksbill), southern stingrays, eagle rays, and nurse sharks are common sightings. The completely encrusted surfaces support coral growth and abundant sponge species, creating a thriving artificial reef ecosystem that has developed over decades.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 25 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Begin your descent to the top of the wreck at approximately 12-15 meters. Explore the external structure and recognizable features while maintaining awareness of your depth gauge. Most recreational dives explore the exterior to 20-24 meters. Monitor your air supply carefully. Ascend slowly with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access exclusively by dive boat from local operators. Enter via giant stride or back roll. Descend as a group to the wreck. Explore the structure while staying together and maintaining visual contact with your guide. Deploy an SMB at safety stop depth for boat pickup.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Excellent historical dive combining WWII history with marine life observation
+- Bring a dive torch for exploring shaded areas and bringing out colors
+- This site is accessible for non-penetration wreck diving
+- Advanced divers may do controlled penetrations with proper training
+- Book with operators experienced with wreck diving
+- Ideal for history buffs and photographers interested in unique subjects
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Do not attempt wreck penetration without proper training and equipment. Maintain excellent buoyancy to avoid silt disturbance. Watch for sharp wreck edges and protrusions. Always dive with a buddy and stay in visual contact with your group. Monitor your depth and air consumption during the entire dive. Currents can vary, so maintain awareness of your position relative to the wreck.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+Wide-angle shots of the wreck structure are dramatic and compelling. Natural light filtering through openings creates interesting compositions. A dive torch is essential for illuminating interior details and bringing out vivid colors on the coral and sponge growth. Macro opportunities abound on the heavily encrusted surfaces.
 
 ## Additional Resources
 
-- **Website**: http://www.dive-links.com/tauchplatz.php?id=2765
+- **Historical Source**: WWII naval records, Mexican Navy
+- **Dive Operator Sources**: Blue Note Scuba, DivePoint Mexico
+- **Reference**: California Diver Magazine wreck diving article
 - **Last Updated**: 2026-03-15
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was validated through dive operator research and historical documentation. Last updated 2026-03-15.*

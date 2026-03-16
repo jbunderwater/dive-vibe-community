@@ -17,7 +17,7 @@ Peter's Place is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Peter's Place is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Peter's Place is a wall dive site listed among Roatán's top dive sites. It is accessible by boat from West End dive operators. The site features wall structures with interesting topography suitable for intermediate divers. Water temperatures average 26-29°C with typical good visibility.
 
 ## Site Information
 

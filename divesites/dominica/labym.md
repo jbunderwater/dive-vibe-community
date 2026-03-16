@@ -3,7 +3,7 @@ name: L'Abym
 lat: 15.26
 lng: -61.385
 difficulty: Advanced
-maxDepth: 28
+maxDepth: 30
 entryType: boat
 siteType: wall
 ref: null
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## L'Abym
 
-L'Abym is a wall dive site in Dominica, Caribbean.
+L'Abym (meaning "the Abyss" or "the Depth" in Creole) is home to one of the most impressive vertical walls in Dominica, plunging 1500 feet into the deep blue.
 
 ## Overview
 
-L'Abym is a dive site in Dominica featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+This completely vertical wall (except where it becomes concave) offers one of the most dramatic diving experiences in the region. Float 30 feet off the wall to observe the surface cliff entering the sea and disappearing into the depths. The site begins on a sandy/rock shelf at 25 feet with typically no current, making it accessible despite its advanced character. The wall is covered with healthy and varied corals including barrels, anemones, and tubes, with shrimp-anemone symbiosis visible to observant divers.
 
 ## Site Information
 
-- **Location**: Dominica, Caribbean
+- **Location**: Soufriere, southwest coast, Dominica
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 28 meters
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
+- **Current**: Typically none
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+The wall hosts healthy coral coverage with barrel sponges, anemones, and tubes. Macro life is particularly rewarding—seahorses (6-10 cm), tiny spider noses (2-5 cm), and abundant shrimp in symbiosis with anemones. Close observation often reveals seahorse sightings.
 
 ## Dive Profile
 

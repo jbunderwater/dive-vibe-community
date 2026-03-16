@@ -3,9 +3,9 @@ name: Black Forest
 lat: 21.85
 lng: -72.3
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 24
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Black Forest
 
-Black Forest is a reef dive site in Turks and Caicos, Caribbean.
+Black Forest is a distinctive wall dive site at Northwest Point featuring a dramatic overhang densely covered with black coral species.
 
 ## Overview
 
-Black Forest is a dive site in Turks and Caicos offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Black Forest is named for an overhang between 70 and 90 feet that is filled with various species of black coral, including pinnate and wire coral formations. Located at Northwest Point just off Providenciales, the site boasts an impressive assortment of soft and hard corals, tube sponges, and a resident school of horse-eye jacks. The abundance of crustaceans and diverse macro life makes this an excellent subject for underwater photography.
 
 ## Site Information
 
-- **Location**: Turks and Caicos, Caribbean
+- **Location**: Northwest Point, Providenciales, Turks and Caicos
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 24 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
+- **Current**: Moderate
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Schools of horse-eye jacks congregate throughout the site. Crustaceans including lobsters and crabs are abundant, particularly around the black coral formations. Soft and hard coral polyps feed in the moderate current. Various species of reef fish including snappers and groupers inhabit the wall structure.
 
 ## Dive Profile
 

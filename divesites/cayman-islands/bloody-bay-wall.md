@@ -3,7 +3,7 @@ name: Bloody Bay Wall
 lat: 19.7
 lng: -80.0833
 difficulty: Intermediate
-maxDepth: 30
+maxDepth: 27
 entryType: boat
 siteType: wall
 ref: null
@@ -13,19 +13,21 @@ addedBy: osm_import
 
 ## Bloody Bay Wall
 
-Bloody Bay Wall is a wall dive site in Cayman Islands, Caribbean.
+Bloody Bay Wall on Little Cayman is one of the world's premier wall diving destinations, featuring a sheer vertical wall decorated with colorful corals, sponges, and sea fans. Accessible to divers of all skill levels, this world-famous marine park offers diverse diving from beginner to advanced.
 
 ## Overview
 
-Bloody Bay Wall is a renowned dive site in Cayman Islands featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Bloody Bay Wall on Little Cayman's North Shore is consistently ranked as one of the world's top dive sites and a must-do for wall diving enthusiasts. The famous wall features sections that drop nearly vertically from just 5.5 meters to over 150 meters depth, making it suitable for divers of various skill levels. The Bloody Bay Marine Park encompasses over 30 dive sites, allowing dive operators to choose conditions that match your experience. The site is lavishly decorated with sea fans, coral formations, and features dramatic chimneys, swim-throughs, and arches carved through the reef structure.
 
 ## Site Information
 
-- **Location**: Cayman Islands, Caribbean
+- **Location**: Bloody Bay Marine Park, Little Cayman, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
+- **Wall Top**: 5.5 meters (18 feet)
+- **Maximum Depth**: 27 meters
+- **Primary Diving Depth**: 15-30 meters (suitable for recreational limits)
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
@@ -36,7 +38,7 @@ Divers at this site can expect to encounter sea turtles (green, hawksbill), sout
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-30 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Bloody Bay Wall dives are tailored to your experience level through the 30+ sites in the Marine Park. Novice divers typically work the shallow sections where the drop-off begins at 20 feet (6 meters), allowing them to experience wall diving without extreme depths. The dive begins with a descent to the wall top, where divers then follow the reef contour and wall features down to their maximum depth. Drift diving along the wall is common here, with divers exploring chimneys, arches, and crevices filled with sponges and corals. Most dives occur between 15-30 meters for recreational divers.
 
 ## Entry and Exit
 

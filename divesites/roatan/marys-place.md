@@ -3,7 +3,7 @@ name: Mary's Place
 lat: 16.285
 lng: -86.555
 difficulty: Advanced
-maxDepth: 40
+maxDepth: 36
 entryType: boat
 siteType: wall
 ref: null
@@ -17,7 +17,7 @@ Mary's Place is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Mary's Place is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Mary's Place is a signature Roatán wall dive featuring a dramatic 36-meter crevasse formed by volcanic activity. The site is renowned for its large cracks and fissures created when a section of reef peninsula fractured away from the main wall. This vertical wall dive offers excellent visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ Mary's Place is a dive site in Roatán featuring a dramatic vertical wall that d
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 40 meters
+- **Maximum Depth**: 36 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter sea turtles (green, hawksbill), sout
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-40 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+The site features a triangular plateau starting at 10 meters that slopes to about 18 meters at the shallow end. The distinctive 4-10 meter-wide crevasses and cracks are the main attraction, descending to about 36 meters. Most exploration happens between 10-36 meters. The crack walls are densely decorated with black coral, gorgonians, and overhangs. Careful depth management is essential for this advanced dive.
 
 ## Entry and Exit
 
@@ -44,12 +44,12 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
+- Watch your depth carefully in the crevasses — they descend to 36 meters
+- Explore the walls between the cracks for abundant black coral and gorgonians
+- The crevices contain overhangs filled with beautiful bushy and feathery black coral
 - Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
+- Bring an underwater camera — this site offers excellent photography opportunities of the unique volcanic formations
 - Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 

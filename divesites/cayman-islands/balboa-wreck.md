@@ -3,7 +3,7 @@ name: Balboa Wreck
 lat: 19.325
 lng: -81.3667
 difficulty: Beginner
-maxDepth: 9
+maxDepth: 32
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,22 +13,25 @@ addedBy: osm_import
 
 ## Balboa Wreck
 
-Balboa Wreck is a historic wreck dive in Cayman Islands, Caribbean.
+The Balboa is a historic 1,389-ton freighter that sunk during a storm near George Town. Located in the main transfer channel, this wreck offers a beginner-friendly dive with healthy coral and sponge encrustation. Access requires planning around cruise ship schedules.
 
 ## Overview
 
-Balboa Wreck is a dive site in Cayman Islands featuring the wreck of the Balboa Wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Balboa was a 375-foot general cargo freighter that sank during a turbulent storm near George Town. Now sitting in the main transfer channel used by cruise ships, this wreck is partially intact and beautifully encrusted with healthy corals and sponges, supporting diverse marine life. While the wreck structure is not pristine, it offers excellent learning opportunities for newer divers seeking wreck exploration experience. The site's shallow depth and manageable conditions make it suitable for divers progressing beyond basic reef training.
 
 ## Site Information
 
-- **Location**: Cayman Islands, Caribbean
+- **Location**: George Town, Grand Cayman, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 9 meters
+- **Maximum Depth**: 32 meters
+- **Vessel Details**: 375-foot general cargo freighter, sunk during storm
+- **Wreck Condition**: Partially intact with healthy coral and sponge growth
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
+- **Access Note**: Located in cruise ship transfer channel; check schedules before diving
 
 ## Marine Life
 

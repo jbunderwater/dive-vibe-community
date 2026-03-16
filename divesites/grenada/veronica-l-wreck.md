@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Veronica L Wreck
 
-Veronica L Wreck is a historic wreck dive in Grenada, Caribbean.
+The Veronica L was a cargo ship from Trinidad that started taking on water at anchor outside St. George's Harbor in 1993. Rather than be salvaged, she was intentionally re-floated and repositioned off Grand Anse Beach to create an artificial reef at approximately 15 meters depth in the sand.
 
 ## Overview
 
-Veronica L Wreck is a dive site in Grenada featuring the wreck of the Veronica L Wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Veronica L is an excellent beginner-friendly wreck due to its small size, shallow depth, and placement in sand. Good light penetration makes it ideal for photography, and divers can cover the entire wreck multiple times during a single dive. The small cargo vessel now teems with marine life and coral growth. Located in the Caribbean region, this site offers excellent visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter groupers, snappers, soldierfish, gla
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 15 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The dive begins with descent to the intact wreck structure at 15 meters. The small size allows thorough exploration of the entire vessel during a single dive. Good natural light penetrates throughout the wreck, making it safe and photogenic. Newer divers can comfortably spend significant bottom time, and the sand bottom provides easy reference points. Multiple dives are recommended to fully photograph and explore the site.
 
 ## Entry and Exit
 

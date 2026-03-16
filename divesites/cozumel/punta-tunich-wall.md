@@ -2,13 +2,15 @@
 name: Punta Tunich Wall
 lat: 20.3555713
 lng: -87.046051
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Advanced
+maxDepth: 30
 entryType: boat
 siteType: wall
 ref: null
 osmId: 663869334
 addedBy: osm_import
+validated: true
+validationSource: "Pro Dive International, Tripadvisor"
 ---
 
 ## Punta Tunich Wall
@@ -24,8 +26,8 @@ Punta Tunich Wall is a dive site in Cozumel featuring a dramatic vertical wall t
 - **Location**: Cozumel, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)

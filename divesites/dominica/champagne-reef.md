@@ -17,22 +17,22 @@ Champagne Reef is a reef dive site in Dominica, Caribbean.
 
 ## Overview
 
-Champagne Reef is a dive site in Dominica offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Champagne Reef is Dominica's most famous diving and snorkeling destination, celebrated for its unique geothermal activity. Named for the constant streams of bubbles rising from volcanic vents on the ocean floor, diving here feels like swimming through a glass of champagne. The site is part of the Soufriere Scotts Head Marine Reserve and is accessible to divers of all experience levels.
 
 ## Site Information
 
-- **Location**: Dominica, Caribbean
+- **Location**: Pointe Michel, southwest coast, Dominica
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
+- **Current**: Light
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The site features diverse marine life including octopus, rays, trumpet fish, parrotfish, frogfish, batfish, hawksbill turtles, seahorses, sea snakes, and eels. Sponges and crinoids provide colorful backdrop to the unique geothermal features.
 
 ## Dive Profile
 

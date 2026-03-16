@@ -3,7 +3,7 @@ name: Five Finger Rock
 lat: 15.55
 lng: -61.46
 difficulty: Intermediate
-maxDepth: 22
+maxDepth: 30
 entryType: boat
 siteType: reef
 ref: null
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Five Finger Rock
 
-Five Finger Rock is a reef dive site in Dominica, Caribbean.
+Five Finger Rock is one of several must-visit sites centered around the Cabrits National Park peninsula in northern Dominica's marine park.
 
 ## Overview
 
-Five Finger Rock is a dive site in Dominica offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+This site is part of Dominica's northern marine park, which features several outstanding dive sites. Five Finger Rock is known for its colorful reef structure and abundant marine life. The site is centrally located in one of Dominica's most developed diving regions.
 
 ## Site Information
 
-- **Location**: Dominica, Caribbean
+- **Location**: Cabrits area, Portsmouth, north Dominica
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 meters
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Abundant reef and pelagic life typical of northern Dominica's productive waters including parrotfish, angelfish, grunts, and various reef sharks and rays.
 
 ## Dive Profile
 

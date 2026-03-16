@@ -3,7 +3,7 @@ name: Rodney's Rock
 lat: 15.27
 lng: -61.378
 difficulty: Beginner
-maxDepth: 16
+maxDepth: 15
 entryType: boat
 siteType: reef
 ref: null
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Rodney's Rock
 
-Rodney's Rock is a reef dive site in Dominica, Caribbean.
+Rodney's Rock is one of Dominica's premier critter and macro diving sites, known for exceptional opportunities to observe small and unusual marine life.
 
 ## Overview
 
-Rodney's Rock is a dive site in Dominica offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+This shallow dive (maximum 50 feet) offers mini caves and overhangs that harbor abundant critter life including spiny and slipper lobster, crabs, and morays. The site is particularly famous for seahorse sightings—notably holding the record of 11 seahorses observed in a single dive. The variety of nooks and crannies combined with shallow, accessible depths makes this an excellent site for photographers and macro enthusiasts.
 
 ## Site Information
 
-- **Location**: Dominica, Caribbean
+- **Location**: Central coast, south of Roseau, Dominica
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 16 meters
+- **Maximum Depth**: 15 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
+- **Current**: Light
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Exceptionally rich critter fauna including spiny and slipper lobster, crabs, morays, seahorses (record 11 in single dive), and abundant other small creatures in crevices and overhangs. Excellent for macro photography.
 
 ## Dive Profile
 

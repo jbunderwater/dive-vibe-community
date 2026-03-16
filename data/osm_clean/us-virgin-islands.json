@@ -3,10 +3,12 @@
     "name": "Buck Island Reef",
     "lat": 17.79,
     "lon": -64.62,
-    "depth": 10,
+    "depth": 12,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
+    "validated": true,
+    "validation_source": "Zentacle, ScubaBoard, NPS Buck Island Reef National Monument",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean"
@@ -20,6 +22,8 @@
     "site_type": "wall",
     "entry_type": "shore",
     "difficulty": "Advanced",
+    "validated": true,
+    "validation_source": "GoToStCroix, Cane Bay Dive Shop, PADI",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean"
@@ -29,10 +33,12 @@
     "name": "Frederiksted Pier",
     "lat": 17.715,
     "lon": -64.882,
-    "depth": 12,
+    "depth": 8,
     "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Beginner",
+    "validated": true,
+    "validation_source": "Ultimate Bluewater Adventures, GoToStCroix, Crucian Adventure Divers",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean"
@@ -42,10 +48,12 @@
     "name": "WIT Shoal II Wreck",
     "lat": 18.32,
     "lon": -64.94,
-    "depth": 26,
+    "depth": 21,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
+    "validated": true,
+    "validation_source": "DreamWrecks, Dolphin Water Taxi, Wannadive",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean"
@@ -55,10 +63,12 @@
     "name": "Cow and Calf",
     "lat": 18.31,
     "lon": -64.88,
-    "depth": 15,
+    "depth": 12,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
+    "validated": true,
+    "validation_source": "Virgin Islands Charter Yachts, Zentacle, TripAdvisor",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean"
@@ -68,10 +78,12 @@
     "name": "Cartanser Sr Wreck",
     "lat": 18.315,
     "lon": -64.935,
-    "depth": 20,
+    "depth": 14,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
+    "validated": true,
+    "validation_source": "Virgin Islands Charter Yachts, Freedom Tour Travel",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean"
@@ -85,6 +97,8 @@
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
+    "validated": true,
+    "validation_source": "GoToStCroix, PADI, ScubaBoard",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean"
@@ -94,10 +108,12 @@
     "name": "Grain Wreck (Suffolk Maid)",
     "lat": 18.34,
     "lon": -64.96,
-    "depth": 18,
+    "depth": 23,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
+    "validated": true,
+    "validation_source": "GoToStCroix Butler Bay, Triton's Realm",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean"
@@ -107,10 +123,12 @@
     "name": "Coral World",
     "lat": 18.35,
     "lon": -64.86,
-    "depth": 10,
+    "depth": 6,
     "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Beginner",
+    "validated": true,
+    "validation_source": "St. Thomas Dive Center, local operators",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean"
@@ -120,10 +138,12 @@
     "name": "The Pinnacle (St. Croix)",
     "lat": 17.76,
     "lon": -64.83,
-    "depth": 28,
-    "site_type": "wall",
+    "depth": 29,
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Advanced",
+    "validated": true,
+    "validation_source": "Scuba Diving Magazine, PADI",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean"
@@ -133,10 +153,12 @@
     "name": "French Cap Cay",
     "lat": 18.265,
     "lon": -64.69,
-    "depth": 22,
+    "depth": 23,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
+    "validated": true,
+    "validation_source": "ScubaMaxsta, JJ Divers, AA Divers",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean"
@@ -146,10 +168,12 @@
     "name": "Sapphire Beach Reef",
     "lat": 18.335,
     "lon": -64.85,
-    "depth": 14,
+    "depth": 5,
     "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Beginner",
+    "validated": true,
+    "validation_source": "Sapphire Beach Resort, TripAdvisor, Virgin Islands Saver",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean"
@@ -161,10 +185,12 @@
     "lon": -64.5345635,
     "osm_id": 302028648,
     "osm_type": "node",
-    "depth": null,
+    "depth": 26,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "validated": true,
+    "validation_source": "Blue Water Divers BVI, Scuba Diving Magazine, Wikipedia RMS Rhone",
     "tags": {
       "historic": "wreck",
       "name": "Rhone",
@@ -179,10 +205,12 @@
     "lon": -64.6896876,
     "osm_id": 893436066,
     "osm_type": "way",
-    "depth": null,
+    "depth": 15,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": true,
+    "validation_source": "Scuba Diving Magazine, Waypoints Yacht Charters",
     "tags": {
       "name": "Eagle Shoal",
       "natural": "reef",

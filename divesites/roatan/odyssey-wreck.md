@@ -3,7 +3,7 @@ name: Odyssey Wreck
 lat: 16.26
 lng: -86.5
 difficulty: Advanced
-maxDepth: 30
+maxDepth: 33
 entryType: boat
 siteType: wreck
 ref: null
@@ -17,7 +17,7 @@ Odyssey Wreck is a historic wreck dive in Roatán, Caribbean.
 
 ## Overview
 
-Odyssey Wreck is a dive site in Roatán featuring the wreck of the Odyssey Wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Odyssey is Roatán's largest and one of the Caribbean's most impressive wreck dives. The 300-foot (91-meter) long, 50-foot (15-meter) wide commercial freighter sits at 33 meters (110 feet) depth. Originally a freighter that suffered a catastrophic fire during reconstruction, it was donated for marine conservation and intentionally sunk in 2002. The wreck remains largely intact and requires advanced wreck diving skills to explore safely. Water temperatures average 26-29°C.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ Odyssey Wreck is a dive site in Roatán featuring the wreck of the Odyssey Wreck
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
+- **Maximum Depth**: 33 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter groupers, snappers, soldierfish, gla
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 30 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend to the wreck at 33 meters (110 feet). The 300-foot freighter features an impressive intact bow that rises upright, providing scenic views of the surrounding reef wall, nearby sand patch, and the rest of the ship. The center section has collapsed, but the bow provides dramatic exploration. Holes for divers have been cut into the sides of the ship, though full interior penetration requires wreck diving certification and advanced training. Schools of large grouper, barracuda, tuna, and sharks often surround the wreck. Explore carefully while monitoring air supply and depth. Begin ascent with adequate reserve for a safety stop at 5 meters. Maximum bottom time should be carefully planned for this deep dive.
 
 ## Entry and Exit
 
@@ -44,12 +44,14 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
+- This is an advanced dive requiring Advanced Open Water certification minimum
+- Wreck diving certification is recommended for interior exploration
+- Bring a dive torch to illuminate interior details and bring out colors
+- The intact bow provides dramatic wide-angle photography opportunities
+- Look for schools of large fish surrounding the wreck
 - Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Book with experienced local operators who specialize in wreck diving
+- Plan your air consumption carefully for this deep, long-duration dive
 
 ## Safety Considerations
 

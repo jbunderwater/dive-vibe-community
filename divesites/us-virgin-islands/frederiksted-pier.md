@@ -3,7 +3,7 @@ name: Frederiksted Pier
 lat: 17.715
 lng: -64.882
 difficulty: Beginner
-maxDepth: 12
+maxDepth: 8
 entryType: shore
 siteType: reef
 ref: null
@@ -13,22 +13,22 @@ addedBy: osm_import
 
 ## Frederiksted Pier
 
-Frederiksted Pier is a reef dive site in US Virgin Islands, Caribbean.
+Frederiksted Pier is world-renowned as one of the top macro-diving destinations in the Caribbean, featuring the Ann E. Abramson Marine Facility's deep-water cruise ship pier.
 
 ## Overview
 
-Frederiksted Pier is a dive site in US Virgin Islands offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+This exceptional macro-diving site features pilings covered in vibrant soft corals and sponges in rainbow colors, creating habitat for an incredible diversity of small creatures. The 1,526-foot pier sits in shallow water (most diving at 7.5 meters) with virtually no current and easy entry-exit, making it ideal for photographers. Day dives showcase colorful reef fish, octopi, seahorses, squid, hermit crabs, pufferfish, frogfish, and massive bait balls, while night dives reveal hunting octopi, giant tarpon, and lobsters feeding on the sand floor.
 
 ## Site Information
 
-- **Location**: US Virgin Islands, Caribbean
+- **Location**: Frederiksted, St. Croix, US Virgin Islands, Caribbean
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 12 meters
+- **Maximum Depth**: 8 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Current**: Minimal
+- **Best Time**: Year-round (daytime and night dives possible)
 
 ## Marine Life
 
@@ -40,7 +40,7 @@ The site offers diving at depths ranging from shallow reef areas down to approxi
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+The entry is exceptionally easy: steps into the water are located just 50 feet from the front door of the dive shop. Descend directly under the pier to explore the pilings. Note: diving under the pier is not allowed when a cruise ship is in port—check local conditions before diving. Exit is equally straightforward via the same steps.
 
 ## Tips and Recommendations
 

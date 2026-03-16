@@ -4,7 +4,7 @@ lat: 16.305
 lng: -86.6
 difficulty: Intermediate
 maxDepth: 30
-entryType: shore
+entryType: boat
 siteType: wall
 ref: null
 osmId: null
@@ -17,12 +17,12 @@ West End Wall is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-West End Wall is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+West End Wall is one of Roatán's most popular wall dives, featuring a dramatic vertical wall starting at 15 meters and dropping to depths beyond 50 meters. The wall is covered with black coral, barrel sponges, sea fans, and a large variety of marine life. Located at the western tip of the island, it is suitable for drift diving when currents are moderate. Water temperatures average 26-29°C.
 
 ## Site Information
 
 - **Location**: Roatán, Caribbean
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter sea turtles (green, hawksbill), sout
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-30 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+The reef top and shallower area begins at approximately 15 meters (50 feet). Descend along the impressive wall that is densely covered with black coral colonies, giant barrel sponges, and sea fans. The wall can be explored by drift dive if currents are manageable. Most features are found between 15-30 meters. Schools of barracudas, triggerfish, trumpet fish, dog snappers, and schools of jacks are commonly seen. Currents can be medium to strong at depth, making this suitable for more experienced divers.
 
 ## Entry and Exit
 

@@ -3,7 +3,7 @@ name: Sapphire Beach Reef
 lat: 18.335
 lng: -64.85
 difficulty: Beginner
-maxDepth: 14
+maxDepth: 5
 entryType: shore
 siteType: reef
 ref: null
@@ -13,22 +13,22 @@ addedBy: osm_import
 
 ## Sapphire Beach Reef
 
-Sapphire Beach Reef is a reef dive site in US Virgin Islands, Caribbean.
+Sapphire Beach is one of St. Thomas's prettiest white-sand beaches with adjacent reef diving and snorkeling, ideal for beginners and families.
 
 ## Overview
 
-Sapphire Beach Reef is a dive site in US Virgin Islands offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+A large swath of reef extends from the beach and reaches right to the shore, covering hundreds of feet offshore. The reef location varies by area—the left side of the beach provides excellent snorkeling and diving on healthy coral with diverse fish populations, while the right side is shallower and rockier with limited diving interest. Sapphire Beach Resort and Marina operates an onsite dive shop with equipment rental and offers access to the reef. The calm, protected waters and shallow reef make it ideal for divers of all levels, with common sights including brain coral, tropical fish, sea turtles, rays, and diverse macro life.
 
 ## Site Information
 
-- **Location**: US Virgin Islands, Caribbean
+- **Location**: East End, St. Thomas, US Virgin Islands, Caribbean
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 14 meters
+- **Maximum Depth**: 5 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Current**: Light
+- **Best Time**: Year-round
 
 ## Marine Life
 

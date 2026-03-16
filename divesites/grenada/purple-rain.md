@@ -2,8 +2,8 @@
 name: Purple Rain
 lat: 12.07
 lng: -61.72
-difficulty: Advanced
-maxDepth: 28
+difficulty: Intermediate
+maxDepth: 25
 entryType: boat
 siteType: wall
 ref: null
@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Purple Rain
 
-Purple Rain is a wall dive site in Grenada, Caribbean.
+Purple Rain is named for the swathes of beautiful purple Creole wrasse that fill the water column. This dramatic wall extends from 6 meters to 25 meters, covered in a mantle of soft coral, huge barrel sponges, and numerous other coral and sponge species.
 
 ## Overview
 
-Purple Rain is a dive site in Grenada featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Purple Rain offers stunning wall diving with excellent coral encrustation and prolific marine life. The reef is home to barracuda, hawksbill and green sea turtles, southern stingrays, and abundant colorful tropical fish. The soft coral-dominated wall creates dramatic wide-angle photography opportunities. Located in the Caribbean region, this site offers excellent visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
 - **Location**: Grenada, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 28 meters
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+The wall is famous for swathes of purple Creole wrasse, along with hawksbill and green sea turtles, barracuda, southern stingrays, and abundant colorful reef fish. The soft coral structures provide excellent habitat for macro subjects including nudibranchs, small crustaceans, and reef fish hunting among the coral polyps. Larger pelagic fish sometimes patrol the wall edge.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-28 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Begin along the reef top at 6 meters before descending along the wall. The wall slopes dramatically toward deeper water, creating excellent visual depth. Most interesting coral encrustation and marine life are found between 10-25 meters. Maintain good buoyancy control, monitor your depth gauge, and consider staying on the reef slope rather than dropping into the blue beyond the wall to conserve air and manage bottom time effectively.
 
 ## Entry and Exit
 

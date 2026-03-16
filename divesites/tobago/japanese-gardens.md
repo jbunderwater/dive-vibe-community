@@ -2,8 +2,8 @@
 name: Japanese Gardens
 lat: 11.29
 lng: -60.5
-difficulty: Beginner
-maxDepth: 15
+difficulty: Intermediate
+maxDepth: 34
 entryType: boat
 siteType: reef
 ref: null
@@ -13,20 +13,22 @@ addedBy: osm_import
 
 ## Japanese Gardens
 
-Japanese Gardens is a reef dive site in Tobago, Caribbean.
+Japanese Gardens is a vibrant reef dive site located at the end of Goat Island near Charlotteville in Speyside, Tobago. The site features an exceptional diversity of sponges and corals that create a serene underwater landscape resembling its namesake.
 
 ## Overview
 
-Japanese Gardens is a dive site in Tobago offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+At the end of Goat Island, divers swim over a lively reef abundant with corals and sponges before arriving at spectacular formations of bright yellow tube sponges, red sea rods, orange and purple tube sponges, and barrel sponges. This intermediate-level site offers a rewarding combination of coral diversity and healthy reef structures, with depths reaching 34 meters at maximum.
 
 ## Site Information
 
-- **Location**: Tobago, Caribbean
+- **Location**: Speyside, Tobago, near Charlotteville
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 34 meters
+- **Depth Range**: 20-34 meters (66-111 feet)
+- **Typical Visibility**: 15-30 meters on good days
+- **Water Temperature**: 27-30°C (81-86°F)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
 

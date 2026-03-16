@@ -2,8 +2,8 @@
 name: Ray of Hope Nassau
 lat: 25.0583
 lng: -77.475
-difficulty: Beginner
-maxDepth: 12
+difficulty: Intermediate
+maxDepth: 50
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,22 +13,22 @@ addedBy: osm_import
 
 ## Ray of Hope Nassau
 
-Ray of Hope Nassau is a historic wreck dive in Bahamas, Caribbean.
+The Ray of Hope is a 200-foot Haitian freighter intentionally sunk in 2003 as an artificial reef, sitting upright in 40-60 meters of water with full penetration opportunities and a giant runway-like sand patch beyond.
 
 ## Overview
 
-Ray of Hope Nassau is a dive site in Bahamas featuring the wreck of the Ray of Hope Nassau. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Ray of Hope is a modern artificial reef and one of Nassau's newest wreck dives, purposefully sunk on July 7, 2003 by Stuart Cove's Dive Bahamas. The 200-foot freighter remains fully intact and upright, allowing divers to penetrate her interior cabins, gangways, and structures. The wreck sits at the edge of the Tongue-of-the-Ocean wall, one of the Bahamas' most dramatic geographic features. The enormous sand patch surrounding the wreck looks like a giant runway from the air. Located directly behind the "Bahama Mama" wreck, the Ray of Hope offers dives for all levels, with the bow at 40 feet (12m) and the stern sloping to 60 feet (18m). The wreck is frequently visited by sharks, raising the pulse for those seeking an adrenaline-filled dive. The location benefits from short boat trips and good protection from the elements.
 
 ## Site Information
 
-- **Location**: Bahamas, Caribbean
+- **Location**: Nassau, New Providence, Bahamas
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 12 meters
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 50 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Best Time**: December to April, year-round accessible
 
 ## Marine Life
 

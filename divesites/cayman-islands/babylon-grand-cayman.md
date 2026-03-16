@@ -3,9 +3,9 @@ name: Babylon Grand Cayman
 lat: 19.2833
 lng: -81.4333
 difficulty: Intermediate
-maxDepth: 30
+maxDepth: 45
 entryType: boat
-siteType: wall
+siteType: pinnacle
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,19 +13,21 @@ addedBy: osm_import
 
 ## Babylon Grand Cayman
 
-Babylon Grand Cayman is a wall dive site in Cayman Islands, Caribbean.
+Named after the Hanging Gardens of Babylon, this dramatic North Wall site features a towering freestanding pinnacle rising from over 100 meters to just 45 meters depth. Babylon is consistently ranked as one of the top 10 dive sites in the Caribbean and offers stunning wall formations, abundant marine life, and excellent pelagic encounters.
 
 ## Overview
 
-Babylon Grand Cayman is a dive site in Cayman Islands featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Babylon is one of Grand Cayman's most spectacular wall diving destinations, located on the North Wall and easily reachable from the western dive operations. The site's defining feature is a towering freestanding pinnacle decorated with black coral, purple sea fans, and barrel sponges. The main pinnacle rises dramatically from depths exceeding 100 meters to just 45 meters at its peak, with the wall top at approximately 35-45 feet. Turtles, eagle rays, and Caribbean reef sharks regularly cruise the wall face, while snappers, angelfish, and triggerfish populate the shallower sections.
 
 ## Site Information
 
-- **Location**: Cayman Islands, Caribbean
+- **Location**: North Wall, Grand Cayman, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
+- **Wall Top**: 35-45 meters (115-150 feet)
+- **Pinnacle Peak**: 45 meters (150 feet)
+- **Maximum Depth**: 45 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
@@ -36,7 +38,7 @@ Divers at this site can expect to encounter sea turtles (green, hawksbill), sout
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-30 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Babylon dives begin with a descent to the wall top (35-45 meters). Divers then explore the pinnacle structure and wall face, typically limiting recreational dives to 40 meters maximum depth. The site allows for both deeper wall exploration by advanced divers and excellent shallow reef touring. Most divers circle the pinnacle, exploring its decorated sides and the main wall face. The deeper sections offer opportunities to encounter pelagic species in the blue water beyond the wall face. Typical dive duration is 40-50 minutes with proper air management.
 
 ## Entry and Exit
 

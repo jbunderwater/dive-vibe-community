@@ -2,9 +2,9 @@
 name: M Alexand
 lat: 16.3273466
 lng: -86.5007403
-difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+difficulty: Advanced
+maxDepth: 30
+entryType: boat
 siteType: wreck
 ref: null
 osmId: 20255613
@@ -17,15 +17,15 @@ M Alexand is a historic wreck dive in Roatán, Caribbean.
 
 ## Overview
 
-M Alexand is a dive site in Roatán featuring the wreck of the M Alexand which sank in 1981. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+M Alexand is Roatán's largest shipwreck, a 4,064-ton cargo freighter built in Germany in 1951. The vessel sank in 1981 while carrying 300,000 sacks of cement to Ecuador. It was towed to Dixon Cove during hurricane season and has remained motionless ever since, slowly deteriorating. The M Alexand is an imposing and iconic wreck, one of the most photographed shipwrecks on the island. Water temperatures average 26-29°C.
 
 ## Site Information
 
 - **Location**: Roatán, Caribbean
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter groupers, snappers, soldierfish, gla
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 25 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The M Alexand is a massive 4,064-ton cargo vessel resting in Dixon Cove. Descend to explore the impressive rusting hull, one of the most photographed wrecks on the island. The size and scale of this wreck make it suitable primarily for advanced divers or those with wreck training. Exterior exploration allows photographers to capture the imposing structure. Full penetration requires advanced training and equipment. Monitor air supply and depth carefully when exploring this large wreck.
 
 ## Entry and Exit
 

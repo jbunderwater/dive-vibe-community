@@ -3,7 +3,7 @@ name: Coral World
 lat: 18.35
 lng: -64.86
 difficulty: Beginner
-maxDepth: 10
+maxDepth: 6
 entryType: shore
 siteType: reef
 ref: null
@@ -13,22 +13,22 @@ addedBy: osm_import
 
 ## Coral World
 
-Coral World is a reef dive site in US Virgin Islands, Caribbean.
+Coral World offers shore diving off St. Thomas near the renowned Coral World Ocean Park, featuring reef exploration in shallow, protected waters.
 
 ## Overview
 
-Coral World is a dive site in US Virgin Islands offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+This shallow reef site is accessed from shore in an area managed near the famous Undersea Observatory. The site offers calm, shallow-water diving ideal for beginners and photographers exploring small reef structures. Local dive operators lead certified divers on underwater trails through the vibrant coral reef surrounding the area. The protected location means minimal currents and excellent conditions for learning proper buoyancy and reef exploration techniques.
 
 ## Site Information
 
-- **Location**: US Virgin Islands, Caribbean
+- **Location**: Smith Bay, East End, St. Thomas, US Virgin Islands, Caribbean
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 10 meters
+- **Maximum Depth**: 6 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Current**: Minimal
+- **Best Time**: Year-round
 
 ## Marine Life
 

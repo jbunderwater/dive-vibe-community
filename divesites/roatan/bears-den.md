@@ -3,7 +3,7 @@ name: Bear's Den
 lat: 16.29
 lng: -86.545
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 30
 entryType: boat
 siteType: wall
 ref: null
@@ -25,7 +25,7 @@ Bear's Den is a dive site in Roatán featuring a dramatic vertical wall that dro
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter sea turtles (green, hawksbill), sout
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-25 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Begin in shallow water and drop down to sandy bottom at 12 meters (40 feet), where you can follow a swim-through tunnel out to the reef wall at about 18 meters (60 feet). The wall extends to depths beyond 30 meters (100 feet). The site features a large cave and tunnel system filled with black corals, sea whips, and giant sponges. Multiple levels and deep crevices provide exploration opportunities. Cavern areas should only be explored by experienced divers with proper training. Shallow areas near the reef crest are excellent for snorkeling.
 
 ## Entry and Exit
 
@@ -44,12 +44,13 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
+- Watch your depth carefully on the drop-off — the wall descends beyond 30 meters
+- Explore the tunnel system and caves filled with black corals and sponges
+- Only enter caverns with proper training and experience
+- Excellent site for snorkeling in shallow areas with brain corals
 - Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 

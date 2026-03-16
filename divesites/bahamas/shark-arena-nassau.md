@@ -3,7 +3,7 @@ name: Shark Arena Nassau
 lat: 25.0417
 lng: -77.5
 difficulty: Intermediate
-maxDepth: 15
+maxDepth: 12
 entryType: boat
 siteType: reef
 ref: null
@@ -13,22 +13,22 @@ addedBy: osm_import
 
 ## Shark Arena Nassau
 
-Shark Arena Nassau is a reef dive site in Bahamas, Caribbean.
+Shark Arena Nassau is a shallow reef site off Nassau where Caribbean reef sharks gather in large numbers, offering reliable shark encounters in calm, sandy bottom conditions perfect for shark-feeding dives.
 
 ## Overview
 
-Shark Arena Nassau is a dive site in Bahamas offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Shark Arena Nassau is Stuart Cove's signature shark dive site, where Caribbean reef sharks gather by the dozen in a spectacular arena atmosphere. The dive takes place in just 12 meters (40 feet) of water on a sandy bottom, allowing extended bottom time and comfortable observation. Local experts use bait and selective hand feeding to encourage the sharks to approach closely while divers rest comfortably on the bottom with outstanding visibility. The site features reef structures, abundant fish life, and reliable shark encounters year-round. This two-tank dive is accessible to intermediate divers and provides an unforgettable close encounter with apex predators in a controlled, supervised environment.
 
 ## Site Information
 
-- **Location**: Bahamas, Caribbean
+- **Location**: Nassau, New Providence, Bahamas
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 15 meters
+- **Maximum Depth**: 12 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Current**: Light to minimal
+- **Best Time**: Year-round, December to April for optimal conditions
 
 ## Marine Life
 

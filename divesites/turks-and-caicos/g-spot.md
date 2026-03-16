@@ -2,8 +2,8 @@
 name: G-Spot
 lat: 21.8583
 lng: -72.3167
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Advanced
+maxDepth: 30
 entryType: boat
 siteType: wall
 ref: null
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## G-Spot
 
-G-Spot is a wall dive site in Turks and Caicos, Caribbean.
+G-Spot at French Cay is a stunning wall dive with exceptional pelagic action and prolific sponge growth, named for its distinctive "G-shaped" wall configuration.
 
 ## Overview
 
-G-Spot is a dive site in Turks and Caicos featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+G-Spot is an absolutely stunning wall smothered in huge deep-water gorgonians, massive elephant ear sponges, and vast barrel sponges. The site gets its name from its unique geography—the wall dips south and then turns north, creating a shape that resembles the letter "G". The site begins on a plateau covered with soft coral formations and leads to a V-shaped wall drop-off. A small niche in the wall forms water eddies that concentrate nutrients, creating a field of black coral cascading down the wall. The mooring sits in about 50 feet of water, but the wall drops very fast.
 
 ## Site Information
 
-- **Location**: Turks and Caicos, Caribbean
+- **Location**: French Cay, Turks and Caicos
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
+- **Current**: Strong and variable (best on good weather days)
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+A large population of nurse sharks may be snoozing or cruising the shallow reef top, and Caribbean reef sharks patrol the shallows. Reef sharks are present on the wall, and nurse sharks rest on the coral beds at 50 feet. Pelagics including jacks and trevally cruise through regularly. The abundance of soft corals and sponges creates a rich micro-habitat for small crustaceans and fish.
 
 ## Dive Profile
 

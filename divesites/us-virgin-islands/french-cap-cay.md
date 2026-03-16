@@ -2,8 +2,8 @@
 name: French Cap Cay
 lat: 18.265
 lng: -64.69
-difficulty: Intermediate
-maxDepth: 22
+difficulty: Advanced
+maxDepth: 23
 entryType: boat
 siteType: reef
 ref: null
@@ -13,22 +13,22 @@ addedBy: osm_import
 
 ## French Cap Cay
 
-French Cap Cay is a reef dive site in US Virgin Islands, Caribbean.
+French Cap Cay (also called Frenchcap or Frenchman's Cap) is a remote offshore islet south of St. Thomas, featuring one of the healthiest reefs in the USVI.
 
 ## Overview
 
-French Cap Cay is a dive site in US Virgin Islands offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+French Cap is accessible by a 30-minute boat ride in flat-calm conditions only, making it an advanced-only destination due to sea state requirements. The pinnacle at the reef top sits in just 12 meters, but the average dive depth reaches 23 meters with easy access to 37 meters. The reef is in exceptional condition with approximately 100% living coral—rare in today's world. Visibility is absolutely incredible, commonly reaching 30+ meters with striking cobalt blue water. The site features multiple dive areas including "The Cathedral" and "the Ledges," making multi-dive trips worthwhile for serious reef exploration.
 
 ## Site Information
 
-- **Location**: US Virgin Islands, Caribbean
+- **Location**: South of St. Thomas, US Virgin Islands, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 23 meters
+- **Typical Visibility**: 30+ meters (100+ feet)
+- **Current**: Moderate to strong
+- **Best Time**: December to April (flat-calm conditions only)
 
 ## Marine Life
 

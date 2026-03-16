@@ -2,10 +2,10 @@
 name: Danglebens Pinnacles
 lat: 15.24
 lng: -61.38
-difficulty: Advanced
-maxDepth: 35
+difficulty: Intermediate
+maxDepth: 40
 entryType: boat
-siteType: reef
+siteType: pinnacle
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Danglebens Pinnacles
 
-Danglebens Pinnacles is a reef dive site in Dominica, Caribbean.
+Danglebens Pinnacles is a series of five distinct pinnacles with varied habitats, each offering different diving experiences within a single site.
 
 ## Overview
 
-Danglebens Pinnacles is a dive site in Dominica offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+This site features five pinnacles of different shapes and sizes with sandy bottoms separating each formation, creating an undulating landscape. The pinnacles rise from 30-40 meters and are heavily covered in barrel sponges, table corals, and brain corals. All five are accessible in a single dive and popular for repeat visits. Abundant marine life includes colorful angel and butterflyfish, boxfish, trumpetfish, and anthias. Hidden in crevices are morays and reef sharks, adding to the excitement of exploration.
 
 ## Site Information
 
-- **Location**: Dominica, Caribbean
+- **Location**: South coast, inside the bay, Dominica
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 35 meters
+- **Site Type**: Pinnacle/seamount
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Abundant reef life covers all five pinnacles including barrel sponges, table and brain corals, colorful angel and butterflyfish, boxfish, trumpetfish, anthias, big morays in crevices, and reef sharks. The varied terrain at multiple pinnacles supports rich diversity.
 
 ## Dive Profile
 

@@ -2,8 +2,8 @@
 name: Butcher Bank
 lat: 16.265
 lng: -86.51
-difficulty: Advanced
-maxDepth: 30
+difficulty: Intermediate
+maxDepth: 37
 entryType: boat
 siteType: reef
 ref: null
@@ -17,15 +17,15 @@ Butcher Bank is a reef dive site in Roatán, Caribbean.
 
 ## Overview
 
-Butcher Bank is a dive site in Roatán offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Butcher's Bank is a fun and excellent dive site near West End with a 12-meter (40-foot) plateau descending to a deeper plateau with a nice sandy bottom and coral outcroppings. Suitable for beginners to intermediate divers still refining buoyancy control. The site features large coral outcroppings and sand channels that make exploration intuitive. Excellent for spotting macro creatures and juvenile fish. Water temperatures average 26-29°C.
 
 ## Site Information
 
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 37 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter sea turtles (green, hawksbill), sout
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+A 40-foot (12-meter) plateau guides you down to deeper plateaus with a nice sandy bottom and coral outcroppings. Dive depths typically stay between 12-18 meters (40-60 feet), ideal for divers refining buoyancy control. The site features large coral outcroppings and intuitive sand channels. Maximum depth is 37 meters (120+ feet), but most interesting features are in the 12-18 meter range. Excellent for spotting southern stingrays, barracudas, juvenile fish, and macro creatures in the sand and around coral formations.
 
 ## Entry and Exit
 
@@ -44,10 +44,13 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
+- Especially good as a second dive after your first Roatan experience
+- Look for macro creatures and juvenile fish in the sand channels
+- Explore around the coral outcroppings on both plateaus
+- Great site for practicing buoyancy control in moderate depths
+- Watch for southern stingrays and barracudas
 - Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 

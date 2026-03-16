@@ -9,6 +9,8 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
+    "validated": true,
+    "validation_source": "PADI, Barefoot Cozumel, DivePoint Mexico",
     "tags": {
       "name": "Palancar Reef",
       "sport": "scuba_diving"
@@ -24,6 +26,8 @@
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
+    "validated": true,
+    "validation_source": "BlueProject Cozumel, dive operator sites",
     "tags": {
       "name": "Punta Sur Reef",
       "sport": "scuba_diving"
@@ -36,9 +40,11 @@
     "osm_id": 663869330,
     "osm_type": "node",
     "depth": 18,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Beginner",
+    "validated": true,
+    "validation_source": "PADI, BlueProject, Tripadvisor",
     "tags": {
       "name": "Paso El Cedral Reef",
       "sport": "scuba_diving"
@@ -50,10 +56,12 @@
     "lon": -87.031631,
     "osm_id": 663869331,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 18,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
+    "validated": true,
+    "validation_source": "Blue Note Scuba, dive.site",
     "tags": {
       "name": "La Francesa",
       "sport": "scuba_diving"
@@ -69,6 +77,8 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
+    "validated": false,
+    "validation_source": null,
     "tags": {
       "name": "Punta Dalila",
       "sport": "scuba_diving"
@@ -84,6 +94,8 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
+    "validated": true,
+    "validation_source": "Divepoint Mexico, dive.site",
     "tags": {
       "name": "Yucab Reef",
       "sport": "scuba_diving"
@@ -95,10 +107,12 @@
     "lon": -87.046051,
     "osm_id": 663869334,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 30,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
+    "validated": true,
+    "validation_source": "Pro Dive International, Tripadvisor",
     "tags": {
       "name": "Punta Tunich Wall",
       "sport": "scuba_diving"
@@ -114,6 +128,8 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
+    "validated": false,
+    "validation_source": null,
     "tags": {
       "name": "Cardona",
       "sport": "scuba_diving"
@@ -126,9 +142,11 @@
     "osm_id": 663869337,
     "osm_type": "node",
     "depth": 25,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
+    "validated": true,
+    "validation_source": "DivePoint Mexico, dive.site",
     "tags": {
       "name": "San Frandsco Reef",
       "sport": "scuba_diving"
@@ -144,6 +162,8 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
+    "validated": false,
+    "validation_source": null,
     "tags": {
       "name": "Las Palamas",
       "sport": "scuba_diving"
@@ -155,10 +175,12 @@
     "lon": -87.04193,
     "osm_id": 663869341,
     "osm_type": "node",
-    "depth": 18,
+    "depth": 20,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
+    "validated": true,
+    "validation_source": "The Reefs of Cozumel, Pro Dive International, Tripadvisor",
     "tags": {
       "name": "Tormentos Reef",
       "sport": "scuba_diving"
@@ -174,6 +196,8 @@
     "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Beginner",
+    "validated": true,
+    "validation_source": "PADI, The Reefs of Cozumel, Tripadvisor",
     "tags": {
       "name": "Chankanaab Reef",
       "sport": "scuba_diving"
@@ -189,6 +213,8 @@
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
+    "validated": false,
+    "validation_source": null,
     "tags": {
       "name": "Maracaibo Reef",
       "sport": "scuba_diving"
@@ -204,6 +230,8 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
+    "validated": false,
+    "validation_source": null,
     "tags": {
       "name": "El Islote",
       "sport": "scuba_diving"
@@ -219,6 +247,8 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
+    "validated": false,
+    "validation_source": null,
     "tags": {
       "name": "Chun Chacaaab Reef",
       "sport": "scuba_diving"
@@ -234,6 +264,8 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
+    "validated": false,
+    "validation_source": null,
     "tags": {
       "name": "Chen Rio",
       "sport": "scuba_diving"
@@ -249,6 +281,8 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
+    "validated": false,
+    "validation_source": null,
     "tags": {
       "name": "El Mirador",
       "sport": "scuba_diving"
@@ -264,6 +298,8 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
+    "validated": false,
+    "validation_source": null,
     "tags": {
       "name": "San Juan Reef",
       "sport": "scuba_diving"
@@ -275,10 +311,12 @@
     "lon": -86.912326,
     "osm_id": 663869363,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 30,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
+    "validated": true,
+    "validation_source": "The Reefs of Cozumel, dive operator sites",
     "tags": {
       "name": "Barracuda Reef",
       "sport": "scuba_diving"
@@ -290,10 +328,12 @@
     "lon": -87.0309448,
     "osm_id": 663869365,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 15,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
+    "validated": true,
+    "validation_source": "PADI, The Reefs of Cozumel, Tripadvisor",
     "tags": {
       "name": "Paraiso Reef",
       "sport": "scuba_diving"
@@ -305,10 +345,12 @@
     "lon": -86.979446,
     "osm_id": 663869366,
     "osm_type": "node",
-    "depth": 12,
+    "depth": 30,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
+    "validated": true,
+    "validation_source": "The Reefs of Cozumel, Pro Dive International",
     "tags": {
       "name": "Villa Blanca Wall",
       "sport": "scuba_diving"
@@ -324,6 +366,8 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
+    "validated": false,
+    "validation_source": null,
     "tags": {
       "name": "Cantarell Sand Reef",
       "sport": "scuba_diving"
@@ -335,10 +379,12 @@
     "lon": -86.9988993,
     "osm_id": 663869368,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 24,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
+    "validated": true,
+    "validation_source": "Blue Note Scuba, DivePoint Mexico, California Diver Magazine",
     "tags": {
       "name": "Wreck C-53",
       "sport": "scuba_diving"

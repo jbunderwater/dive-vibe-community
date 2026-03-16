@@ -13,22 +13,23 @@ addedBy: osm_import
 
 ## SS Antilla Wreck
 
-SS Antilla Wreck is a historic wreck dive in Aruba, Caribbean.
+The SS Antilla is the third-largest shipwreck in the Caribbean, a 400-foot German freighter intentionally scuttled on May 10, 1940, when Germany invaded Holland.
 
 ## Overview
 
-SS Antilla Wreck is a dive site in Aruba featuring a historic wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Antilla is one of Aruba's most iconic dive sites, resting in calm, sheltered Malmok Bay with minimal current and exceptional visibility (50-70 feet typically). The wreck sits upright on a sandy bottom with little to no current, making it accessible to intermediate divers and an excellent target for those interested in wreck structures. The ship's bow often breaks the surface, making it easy to locate and navigate. Her hull is now covered with giant tube sponges and coral formations, creating a thriving artificial reef habitat.
 
 ## Site Information
 
-- **Location**: Aruba, Caribbean
+- **Location**: Malmok Bay, Aruba, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Wreck Length**: 400 feet
+- **Typical Visibility**: 15-21 meters (50-70 feet)
+- **Current**: Light to negligible
+- **Best Time**: December to April (dry season) for calmest conditions
 
 ## Marine Life
 
@@ -36,7 +37,7 @@ Divers at this site can expect to encounter groupers, snappers, soldierfish, gla
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 18 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Begin your descent near the bow and work along the hull structure. The wreck sits in 18 meters of water, providing good light penetration for photography. Explore the exterior structures and coral-covered hull while maintaining proper buoyancy to avoid silting. The bow area offers the most dramatic photo opportunities. Due to minimal current and calm conditions, divers can spend more time exploring. Ascend along the same descent line and complete your safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -44,12 +45,13 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- This is one of the most popular wrecks in the Caribbean — often crowded with tour groups
+- Bring a dive torch to reveal coral and sponge colors in darker crevices
+- The bow area is excellent for wide-angle photography with natural light
+- Wreck penetration is possible but requires advanced training and experience
+- The relatively shallow depth and calm conditions make this suitable for recreational diving
+- Plan accordingly if other dive boats are operating nearby
+- Arrival early in the day offers better conditions and fewer divers
 
 ## Safety Considerations
 

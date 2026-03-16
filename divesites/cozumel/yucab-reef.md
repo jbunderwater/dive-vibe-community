@@ -9,6 +9,8 @@ siteType: reef
 ref: null
 osmId: 663869333
 addedBy: osm_import
+validated: true
+validationSource: "Divepoint Mexico, dive.site"
 ---
 
 ## Yucab Reef

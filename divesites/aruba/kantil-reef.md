@@ -3,7 +3,7 @@ name: Kantil Reef
 lat: 12.45
 lng: -69.95
 difficulty: Advanced
-maxDepth: 30
+maxDepth: 27
 entryType: boat
 siteType: wall
 ref: null
@@ -13,22 +13,23 @@ addedBy: osm_import
 
 ## Kantil Reef
 
-Kantil Reef is a wall dive site in Aruba, Caribbean.
+Kantil Reef is an advanced wall dive featuring a spectacular drop-off with gigantic boulder formations and exceptional coral growth, offering stunning photography opportunities.
 
 ## Overview
 
-Kantil Reef is a dive site in Aruba featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Kantil Reef is known for its fascinating wall structure with dramatic drop-off characterized by gigantic boulders of brain and star coral. Massive formations of leaf and sheet corals, along with enormous sea fans and gorgonians, create a richly decorated underwater landscape. The depths range from shallow top areas (5 meters) to impressive drop-offs exceeding 40 meters, with the most interesting features concentrated between 10-30 meters. The site is particularly known for abundant parrotfish, barracudas, and lobsters. Exceptional visibility (25-27 meters typical) makes this an excellent location for both wide-angle and macro photography. The wall structure creates a vertical ecosystem suitable for advanced divers comfortable with depth management and current awareness.
 
 ## Site Information
 
-- **Location**: Aruba, Caribbean
+- **Location**: Southeastern Aruba, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
+- **Maximum Depth**: 27 meters
+- **Typical Visibility**: 25-27 meters (82-90 feet)
+- **Current**: Moderate to strong (drift dive)
 - **Best Time**: December to April (dry season)
+- **Special Features**: Gigantic boulders, massive sheet corals, sea fans
 
 ## Marine Life
 

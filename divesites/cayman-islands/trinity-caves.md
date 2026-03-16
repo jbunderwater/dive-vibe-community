@@ -3,7 +3,7 @@ name: Trinity Caves
 lat: 19.2917
 lng: -81.425
 difficulty: Intermediate
-maxDepth: 18
+maxDepth: 24
 entryType: boat
 siteType: cave
 ref: null
@@ -13,22 +13,24 @@ addedBy: osm_import
 
 ## Trinity Caves
 
-Trinity Caves is a cave dive site in Cayman Islands, Caribbean.
+Made famous in the 1980s by the movie "The Firm," Trinity Caves features three large beautiful swim-throughs woven through the main reef structure. This intermediate-level site offers exciting cave/cavern exploration ending on the wall at approximately 80 feet depth.
 
 ## Overview
 
-Trinity Caves is a dive site in Cayman Islands featuring underwater cave and cavern formations. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Trinity Caves is a spectacular cave dive site on Grand Cayman, famous for its feature in the 1980s film "The Firm." Despite its name suggesting true caves, the site consists of three large, beautiful swim-throughs that weave in and out of the main reef structure, offering the excitement of cave diving with easier access. The route guides divers through progressively deeper sections, eventually emerging onto the main wall face at approximately 24 meters depth. The site offers excellent topography, coral formations, and the thrill of penetrating reef formations.
 
 ## Site Information
 
-- **Location**: Cayman Islands, Caribbean
+- **Location**: Grand Cayman, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
+- **Depth Range**: 12-24 meters (through caves to wall)
+- **Wall Depth**: Emerges at ~80 feet (24 meters)
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
+- **Notable Feature**: Three large swim-throughs featured in "The Firm" (1989)
 
 ## Marine Life
 

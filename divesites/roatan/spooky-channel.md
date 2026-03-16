@@ -3,7 +3,7 @@ name: Spooky Channel
 lat: 16.3
 lng: -86.57
 difficulty: Advanced
-maxDepth: 28
+maxDepth: 29
 entryType: boat
 siteType: cave
 ref: null
@@ -17,7 +17,7 @@ Spooky Channel is a cave dive site in Roatán, Caribbean.
 
 ## Overview
 
-Spooky Channel is a dive site in Roatán featuring underwater cave and cavern formations. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Spooky Channel is a unique dive site on Roatán's north shore featuring the remains of an ancient waterfall that carved a natural underwater channel. Located near Lawson Rock and accessible from Sunnyside dock, the site features narrow gaps between walls creating an eerie, low-light environment with dramatic depth changes. Dark overhangs, mysterious cracks, and fascinating crevices offer exploration opportunities. Water temperatures average 26-29°C and visibility is highly dependent on tides and currents.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ Spooky Channel is a dive site in Roatán featuring underwater cave and cavern fo
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 28 meters
+- **Maximum Depth**: 29 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter sea turtles (green, hawksbill), sout
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 28 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The channel begins in the shallows of Sandy Bay's murky lagoon and winds through distinctive topography until reaching maximum depth of 29 meters (95 feet). The channel can be as wide as 15 meters across in places. Very narrow gaps between walls create the eerie low-light atmosphere that gave the site its name. Shimmering schools of glassy sweepers cluster in tight schools in the dim light, adding an ethereal feel. Lobsters, octopuses, groupers, shrimps, and rays are frequently encountered. Visibility is highly subject to tidal conditions. A boat guide is recommended to determine optimal conditions and provide safe drop-offs.
 
 ## Entry and Exit
 
@@ -44,9 +44,11 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Dive with an experienced guide who knows the site and tidal conditions
+- Bring a dive light to enhance colors in the narrow, shadowy areas
+- Watch for the ethereal schools of glassy sweepers in the dim light
+- Look for lobsters, octopuses, and other crustaceans along the walls
+- This site is affected by tides and currents — check conditions before diving
 - Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations

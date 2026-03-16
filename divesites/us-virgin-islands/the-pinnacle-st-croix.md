@@ -3,9 +3,9 @@ name: The Pinnacle (St. Croix)
 lat: 17.76
 lng: -64.83
 difficulty: Advanced
-maxDepth: 28
+maxDepth: 29
 entryType: boat
-siteType: wall
+siteType: pinnacle
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,22 +13,22 @@ addedBy: osm_import
 
 ## The Pinnacle (St. Croix)
 
-The Pinnacle (St. Croix) is a reef dive site in US Virgin Islands, Caribbean.
+The Pinnacle is a small cay south of St. Thomas featuring dramatic rock spires and a maze of swim-throughs that rise from a 95-foot bottom.
 
 ## Overview
 
-The Pinnacle (St. Croix) is a dive site in US Virgin Islands offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+A handful of rock formations shoot up from depths of 29 meters to approximately 12 meters, suggesting the site was once an above-ground waterfall formation. The geological formations create a spectacular maze of swim-throughs, cuts, ledges, overhangs, and recesses ideal for exploration. Jacks and barracuda chase swarms of reef fish around the summit, while craggy fissures provide excellent habitat for green morays and octopuses. Though accessible only on special trips when weather permits, The Pinnacle offers one of the most unique diving experiences in the USVI and is well worth the extra effort to visit.
 
 ## Site Information
 
-- **Location**: US Virgin Islands, Caribbean
+- **Location**: South of St. Thomas, US Virgin Islands, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 28 meters
+- **Maximum Depth**: 29 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Current**: Light to strong
+- **Best Time**: December to April (calm weather required)
 
 ## Marine Life
 

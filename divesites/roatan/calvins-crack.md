@@ -17,7 +17,7 @@ Calvin's Crack is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Calvin's Crack is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Calvin's Crack is one of the most popular dive sites on Roatán's east side, located in Jonesville. The site features an elbow-shaped crevasse formed by volcanic activity. A long, dramatic tunnel-like crack in the reef is the main attraction, with walls on either side rising 24 meters (80 feet) high. The crack is densely decorated with colorful sponges, gorgonians, brain coral, and thin-leaf coral. Water temperatures average 26-29°C.
 
 ## Site Information
 
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter sea turtles (green, hawksbill), sout
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-35 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+A buoy marks the entry at 9 meters (30 feet). Divers normally enter the dramatic crevice and follow it through while exploring the abundant marine life attached to both walls. The crack is an elbow-shaped formation with walls that rise to 24 meters (80 feet) high on either side. Schools of silverside fish shimmer in the crevice, and seahorses are occasionally spotted along the walls. The pretty steep wall at 24 meters descends deeper with dense decoration of colorful sponges, gorgonians, brain and thin-leaf coral. Maximum depth exploration extends to 35 meters.
 
 ## Entry and Exit
 
@@ -44,12 +44,13 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
+- Use the mooring buoy at 9 meters to find the crevice entry
+- Swim through the dramatic elbow-shaped tunnel between the walls
+- Look for seahorses along the crevice walls and schools of silversides
+- Watch your depth carefully — the walls descend beyond 35 meters
+- Explore the colorful sponges, gorgonians, and coral on the walls
+- Book with local dive operators who know the site and current conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 

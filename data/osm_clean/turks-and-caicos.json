@@ -11,7 +11,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": true,
+      "validation_source": "Visit TCI, Dive Provo, Atlas & Boots"
     }
   },
   {
@@ -20,13 +22,15 @@
     "lon": -72.2333,
     "osm_id": null,
     "osm_type": null,
-    "depth": 18,
-    "site_type": "reef",
+    "depth": 24,
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": true,
+      "validation_source": "GetYourGuide, Visit TCI"
     }
   },
   {
@@ -35,13 +39,15 @@
     "lon": -72.3,
     "osm_id": null,
     "osm_type": null,
-    "depth": 20,
-    "site_type": "reef",
+    "depth": 24,
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": true,
+      "validation_source": "Dive Provo, The Scuba Directory"
     }
   },
   {
@@ -50,13 +56,15 @@
     "lon": -72.25,
     "osm_id": null,
     "osm_type": null,
-    "depth": 12,
-    "site_type": "reef",
+    "depth": 26,
+    "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": true,
+      "validation_source": "DiveBuddy, Dive Provo"
     }
   },
   {
@@ -65,13 +73,15 @@
     "lon": -72.3167,
     "osm_id": null,
     "osm_type": null,
-    "depth": 25,
+    "depth": 30,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": true,
+      "validation_source": "DiveNET, Zentacle, Wannadive"
     }
   },
   {
@@ -86,7 +96,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": false,
+      "validation_note": "Name not found in standard wreck databases; possibly alternative name"
     }
   },
   {
@@ -101,7 +113,9 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": false,
+      "validation_note": "Name not found in standard wreck databases; possibly alternative name"
     }
   },
   {
@@ -110,13 +124,15 @@
     "lon": -72.2167,
     "osm_id": null,
     "osm_type": null,
-    "depth": 10,
+    "depth": 6,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": true,
+      "validation_source": "Visit TCI, BEACHES, Coral Gardens Resort"
     }
   },
   {
@@ -125,13 +141,15 @@
     "lon": -71.6167,
     "osm_id": null,
     "osm_type": null,
-    "depth": 25,
-    "site_type": "wall",
+    "depth": 27,
+    "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": true,
+      "validation_source": "Dive Provo, Xtreme Spots, BEACHES"
     }
   },
   {
@@ -146,7 +164,9 @@
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": true,
+      "validation_source": "Scuba Diving Magazine, Visit TCI, Atlas & Boots"
     }
   }
 ]

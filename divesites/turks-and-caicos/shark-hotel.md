@@ -3,9 +3,9 @@ name: Shark Hotel
 lat: 21.8333
 lng: -72.2333
 difficulty: Intermediate
-maxDepth: 18
+maxDepth: 24
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Shark Hotel
 
-Shark Hotel is a reef dive site in Turks and Caicos, Caribbean.
+Shark Hotel is a dramatic wall dive site off Northwest Point in Turks and Caicos, famous for resident shark populations.
 
 ## Overview
 
-Shark Hotel is a dive site in Turks and Caicos offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Shark Hotel lives up to its name as a prime location for encountering sharks, featuring a wall that begins at 45 feet and drops straight down to 80-100 feet before a plateau juts out, forming a shelf before plunging into the depths. The wall is encrusted with some of the largest pillar coral in Turks and Caicos, alongside massive sponge formations. This is a world-class wall dive offering excellent visibility and diverse marine life encounters.
 
 ## Site Information
 
-- **Location**: Turks and Caicos, Caribbean
+- **Location**: Northwest Point, Providenciales, Turks and Caicos
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
+- **Maximum Depth**: 24 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
+- **Current**: Moderate to strong
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Shark Hotel is the destination for shark encounters. Small to large reef sharks patrol the site regularly, with opportunities to spot lemon sharks and tiger sharks. Green and hawksbill turtles frequently visit. Near the top of the wall, grunts, snappers, and goatfish are common. A large archway features massive schools of glass-eye snappers and French grunts.
 
 ## Dive Profile
 

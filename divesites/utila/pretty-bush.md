@@ -3,7 +3,7 @@ name: Pretty Bush
 lat: 16.075
 lng: -86.965
 difficulty: Beginner
-maxDepth: 14
+maxDepth: 30
 entryType: boat
 siteType: reef
 ref: null
@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Pretty Bush
 
-Pretty Bush is a reef dive site in Utila, Caribbean.
+A macro photographer's dream featuring broken walls, sand channels, and an abundance of small creatures and vibrant reef life.
 
 ## Overview
 
-Pretty Bush is a dive site in Utila offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Pretty Bush is a shore-accessible dive site identified by a small piece of landmass with dense brush and a noticeable wall drop-off. The site begins at the shoreline and descends to 15 feet before dropping off to 30+ meters. Broken walls and sand channels create varied underwater topography. One of the best macro sites around Utila for photographers. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Utila, Caribbean
+- **Location**: Utila, Caribbean (West of Little Bight on south side)
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 14 meters
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Pretty Bush offers abundant small creatures perfect for macro photography. Divers frequently spot juvenile yellow-tail damselfish and lettuce sea slugs in shallower regions. As you explore the wall, look for spotted eagle rays, angelfish, and trumpetfish. Sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, blue tangs, moray eels, and lobsters populate the area. This is one of Utila's best macro sites with numerous small critters hidden in the reef structures.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 14 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-14 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin at the shoreline starting in about 4 meters of water. Explore the shallow reef areas and gradually work deeper as conditions allow. The wall descends to about 30 meters at the reef base. The varied terrain with broken walls and sand channels creates multiple exploration opportunities. The most abundant macro life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop. Shore entry means you can manage your own dive timing.
 
 ## Entry and Exit
 
@@ -44,9 +44,12 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
+- Excellent site for newer divers—calm conditions and easy shore entry
+- A macro photographer's dream—bring a macro lens and be patient for small creatures
+- Along with Black Coral Wall, Pretty Bush is one of Utila's best macro photography locations
+- Look carefully in reef crevices and sand for nudibranchs, juvenile fish, and small invertebrates
 - Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
+- Bring an underwater camera—this site offers excellent macro and wide-angle photography opportunities
 - Check local weather and sea conditions before diving
 - Respect marine life and maintain proper buoyancy to protect the reef
 

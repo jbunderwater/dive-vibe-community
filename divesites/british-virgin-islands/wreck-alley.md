@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Wreck Alley
 
-Wreck Alley is a historic wreck dive in British Virgin Islands, Caribbean.
+Wreck Alley is one of the most popular underwater attractions in the British Virgin Islands, featuring four purposefully scuttled wrecks off the south coast of Cooper Island. The wrecks—Pat, Beata, Mary L, and Island Seal—have collectively created a thriving artificial reef teeming with marine life. This site combines the appeal of wreck diving with a vibrant reef ecosystem.
 
 ## Overview
 
-Wreck Alley is a dive site in British Virgin Islands featuring a historic wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Wreck Alley consists of four individual wrecks positioned in sand at approximately 27 meters, making it an excellent site for intermediate divers with wreck experience. The scuttled vessels have been colonized by corals and have become magnets for reef fish. Garden eels are frequently seen in the surrounding sand beds. The wrecks are positioned relatively close together, allowing divers to explore multiple structures on a single dive. The artificial reef has created a habitat that supports abundant fish populations including snappers, groupers, moray eels, and rays.
 
 ## Site Information
 

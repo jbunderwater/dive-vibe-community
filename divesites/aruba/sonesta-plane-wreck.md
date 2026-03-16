@@ -3,7 +3,7 @@ name: Sonesta Plane Wreck
 lat: 12.56
 lng: -70.03
 difficulty: Beginner
-maxDepth: 8
+maxDepth: 12
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Sonesta Plane Wreck
 
-Sonesta Plane Wreck is a historic wreck dive in Aruba, Caribbean.
+The Sonesta Airplanes consist of two intentionally sunk aircraft creating an artificial reef dive site unique in the Caribbean. The site features a Convair 240 and a YS-11, accessible to both beginner and intermediate divers.
 
 ## Overview
 
-Sonesta Plane Wreck is a dive site in Aruba featuring the wreck of the Sonesta Plane Wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Sonesta Plane Wrecks offer a distinctive diving experience featuring two different aircraft sunk intentionally to create an artificial reef. The Beech 18 sits in shallow water (5 meters) on a sloping reef dropping to 30+ meters, while the Convair 240 rests at 12 meters with its tail section reaching 14 meters. The YS-11 came to rest at 14 meters with its tail at 23 meters. The relatively shallow depths and intact aircraft structures make this site accessible to both beginner and intermediate divers. The aircraft provide excellent macro photography subjects and shelter a developing marine ecosystem. The site's uniqueness as one of the few multi-aircraft wreck dives in the region makes it a popular tourist attraction for recreational diving.
 
 ## Site Information
 
@@ -25,10 +25,12 @@ Sonesta Plane Wreck is a dive site in Aruba featuring the wreck of the Sonesta P
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 8 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Maximum Depth**: 12 meters
+- **Aircraft Types**: Beech 18 (shallow 5m), Convair 240 (12m), YS-11 (14m)
+- **Typical Visibility**: 15-25 meters (50-80 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
+- **Special Features**: Multiple intact aircraft structures
 
 ## Marine Life
 

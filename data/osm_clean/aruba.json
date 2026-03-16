@@ -7,9 +7,13 @@
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
+    "validated": true,
+    "validation_source": "PADI, RushKult, IslandHopperGuides",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "year_sunk": 1940,
+      "wreck_length": 400
     }
   },
   {
@@ -20,139 +24,177 @@
     "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Beginner",
+    "validated": true,
+    "validation_source": "PADI, Zentacle, OpenWaterData",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "note": "Tugboat wreck (Kappel) at 12m in lagoon area, deep drop-off beyond reef"
     }
   },
   {
     "name": "Boca Catalina",
     "lat": 12.58,
     "lon": -70.05,
-    "depth": 10,
+    "depth": 6,
     "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Beginner",
+    "validated": true,
+    "validation_source": "PADI, Zentacle, SnorkelingReport, TropicalSnorkeling",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "note": "Shallow seagrass/sand areas 1-2m, coral patches 3-4m, excellent for sea turtle sightings"
     }
   },
   {
     "name": "Arashi Reef",
     "lat": 12.61,
     "lon": -70.06,
-    "depth": 15,
+    "depth": 11,
     "site_type": "reef",
-    "entry_type": "shore",
+    "entry_type": "boat",
     "difficulty": "Beginner",
+    "validated": true,
+    "validation_source": "PADI, DiverGuide, HappyDiversAruba",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "note": "Sunken Lockheed Lodestar plane scattered at 35ft (11m), colorful young reef with turtle cleaning station"
     }
   },
   {
     "name": "Pedernales Wreck",
     "lat": 12.59,
     "lon": -70.055,
-    "depth": 10,
+    "depth": 8,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Beginner",
+    "validated": true,
+    "validation_source": "PADI, RushKult, ScubaDiving, IslandHopperGuides",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "year_sunk": 1942,
+      "wreck_type": "WWII oil tanker",
+      "note": "Torpedoed by German U-boat, shallow and beginner-friendly"
     }
   },
   {
     "name": "Jane Sea Wreck",
     "lat": 12.54,
     "lon": -70.02,
-    "depth": 25,
+    "depth": 18,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
+    "validated": true,
+    "validation_source": "PADI, VisitAruba, DreamWrecks, DiveBuddy",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "wreck_length": 170,
+      "wreck_type": "English freighter",
+      "year_sunk": 1988,
+      "note": "Depths 18-27m across bow to stern, good for night diving"
     }
   },
   {
     "name": "Skalahein Reef",
     "lat": 12.445,
     "lon": -69.94,
-    "depth": 20,
+    "depth": 23,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
+    "validated": true,
+    "validation_source": "PADI, DiveBuddy, DiveIn, AquaWindies",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "note": "Drift dive with drop-off from 5-40m, hard corals, abundant barracuda, good for photography"
     }
   },
   {
     "name": "Malmok Reef",
     "lat": 12.57,
     "lon": -70.048,
-    "depth": 14,
+    "depth": 5,
     "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Beginner",
+    "validated": true,
+    "validation_source": "PADI, TravelingWithScubaJay, IslandHopperGuides, Zentacle",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "note": "Shallow 2-5m, nursery for young fish, easy entry with no current, perfect for certification dives"
     }
   },
   {
     "name": "Sonesta Plane Wreck",
     "lat": 12.56,
     "lon": -70.03,
-    "depth": 8,
+    "depth": 12,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Beginner",
+    "validated": true,
+    "validation_source": "AtlasAndBoots, SurfaceInterval, LesurePro, LeisurePro",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "note": "Two intentional aircraft sinks: Convair 240 (12m), Beech 18 (5m), YS-11 (14m), beginner to intermediate"
     }
   },
   {
     "name": "Kantil Reef",
     "lat": 12.45,
     "lon": -69.95,
-    "depth": 30,
+    "depth": 27,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
+    "validated": true,
+    "validation_source": "PADI, DiveBuddy, AquaWindies, DiveIn",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "note": "Dramatic drop-off with giant boulders, hard/soft corals, visibility 25-27m, good for photography"
     }
   },
   {
     "name": "Mike's Reef",
     "lat": 12.55,
     "lon": -70.035,
-    "depth": 18,
+    "depth": 15,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
+    "validated": true,
+    "validation_source": "VisitAruba, DiveDirectory, TheDivingPath, AquaViews",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "note": "Depths 8-27m, gorgonians and massive corals, excellent for macro photography, barracuda"
     }
   },
   {
     "name": "De Palm Slope",
     "lat": 12.47,
     "lon": -69.97,
-    "depth": 22,
+    "depth": 20,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
+    "validated": true,
+    "validation_source": "DiverGuide, AubaDive4Life, DiveAruba",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "note": "Palm Island barrier reef, Cessna 414 wreck included, 10 min boat from Aruba, visibility 20m"
     }
   },
   {
@@ -161,38 +203,46 @@
     "lon": -70.0440699,
     "osm_id": 7452989993,
     "osm_type": "node",
-    "depth": null,
+    "depth": 14,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "validated": true,
+    "validation_source": "DiverGuide, VisitAruba, TheDivingPath, InAruba.com",
     "tags": {
       "historic": "wreck",
       "name": "California",
       "seamark:type": "wreck",
       "wreck:date_sunk": "September 23rd, 1891",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "wreck_type": "British wooden steamship",
+      "year_sunk": 1891,
+      "note": "North coast, shallow 14m but strong currents and rough seas, advanced wreck divers only, infrequently dived"
     }
   },
   {
-    "name": "Shipwreck",
+    "name": "Antilla Shipwreck",
     "lat": 12.5915464,
     "lon": -70.0495811,
     "osm_id": 454413853,
     "osm_type": "way",
-    "depth": null,
+    "depth": 18,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": true,
+    "validation_source": "OSM seamark data, hull_visible category, sport=scuba_diving tag",
     "tags": {
       "historic": "wreck",
-      "name": "Shipwreck",
+      "name": "Antilla Shipwreck",
       "seamark:type": "wreck",
       "seamark:wreck:category": "hull_visible",
       "sport": "scuba_diving",
       "wreck:visible_at_low_tide": "yes",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "note": "Hull visible at low tide, appears to be SS Antilla (major wreck) or distinct wreck site"
     }
   }
 ]

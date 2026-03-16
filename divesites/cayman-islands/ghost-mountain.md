@@ -5,7 +5,7 @@ lng: -80.075
 difficulty: Intermediate
 maxDepth: 30
 entryType: boat
-siteType: reef
+siteType: pinnacle
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,22 +13,23 @@ addedBy: osm_import
 
 ## Ghost Mountain
 
-Ghost Mountain is a reef dive site in Cayman Islands, Caribbean.
+Ghost Mountain is a dramatic pinnacle site outside Little Cayman's North Sound offering breathtaking blue-water scenery. When visibility is excellent, the site attracts pelagic species including eagle rays, tarpon, reef sharks, and large schools of jacks.
 
 ## Overview
 
-Ghost Mountain is a dive site in Cayman Islands offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Ghost Mountain is a spectacular pinnacle dive site on Little Cayman featuring a dramatic topography that creates excellent visibility and pelagic encounters. The site's name reflects its ethereal appearance in the blue water when conditions are clear. The pinnacle rises from the sandy bottom, creating interesting topography with varying depths and habitats. Eagle rays, tarpon, reef sharks, and schools of horse-eye jacks regularly cruise this site, making it an excellent destination for divers seeking thrilling encounters with larger pelagic species.
 
 ## Site Information
 
-- **Location**: Cayman Islands, Caribbean
+- **Location**: Little Cayman, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
+- **Notable Feature**: Pelagic activity (eagles rays, sharks, jacks, tarpon)
 
 ## Marine Life
 

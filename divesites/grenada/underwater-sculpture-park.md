@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Underwater Sculpture Park
 
-Underwater Sculpture Park is a reef dive site in Grenada, Caribbean.
+The Molinere Underwater Sculpture Park is a unique art installation by world-renowned artist Jason deCaires Taylor. This collection of submerged sculptures sits in shallow water, creating an underwater gallery combined with natural reef systems.
 
 ## Overview
 
-Underwater Sculpture Park is a dive site in Grenada offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Underwater Sculpture Park offers accessible, shallow diving and snorkeling through an artistic and natural environment. The sculptures are positioned at 5-9 meters depth, making them ideal for all diving levels, including snorkelers and beginners. Each sculpture has become a living coral platform, slowly being reclaimed by the reef ecosystem. Located in the Caribbean region, this site offers excellent visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter sea turtles (green, hawksbill), sout
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 8 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-8 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The sculptures sit at 5-9 meters, making this an ideal shallow dive for all skill levels. Begin in the shallower areas and work your way through the sculpture collection at your own pace. The artwork combined with reef growth provides interesting compositional opportunities for photography. All marine life viewing occurs within shallow depths, so surface time is typically used for snorkeling or checking out additional sculptures.
 
 ## Entry and Exit
 

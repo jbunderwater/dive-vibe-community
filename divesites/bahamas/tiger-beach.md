@@ -3,7 +3,7 @@ name: Tiger Beach
 lat: 26.85
 lng: -79.0333
 difficulty: Intermediate
-maxDepth: 12
+maxDepth: 9
 entryType: boat
 siteType: reef
 ref: null
@@ -13,22 +13,22 @@ addedBy: osm_import
 
 ## Tiger Beach
 
-Tiger Beach is a reef dive site in Bahamas, Caribbean.
+Tiger Beach is a legendary shark diving site and one of the world's most famous locations for tiger shark encounters in Grand Bahama.
 
 ## Overview
 
-Tiger Beach is a renowned dive site in Bahamas offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Tiger Beach is the Bahamas' most iconic shark diving site, renowned for consistent tiger shark encounters in relatively shallow, clear water. Located off Grand Bahama's northwestern edge, divers descend onto a flat sandy bottom where tiger sharks, reef sharks, and other large predators gather—particularly during October through January. The site operates as a stationary dive with minimal current and ample bottom time, making it accessible to intermediate divers while providing unforgettable close encounters with apex predators. Visibility regularly exceeds 100 feet.
 
 ## Site Information
 
-- **Location**: Bahamas, Caribbean
+- **Location**: Grand Bahama, Bahamas
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 12 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Maximum Depth**: 9 meters
+- **Typical Visibility**: 30-40+ meters (100+ feet)
+- **Current**: Minimal to light
+- **Best Time**: October to January (peak tiger shark season), year-round resident population
 
 ## Marine Life
 

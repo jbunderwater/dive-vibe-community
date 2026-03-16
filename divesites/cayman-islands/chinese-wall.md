@@ -3,7 +3,7 @@ name: Chinese Wall
 lat: 19.2667
 lng: -81.45
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 45
 entryType: boat
 siteType: wall
 ref: null
@@ -13,22 +13,24 @@ addedBy: osm_import
 
 ## Chinese Wall
 
-Chinese Wall is a wall dive site in Cayman Islands, Caribbean.
+Chinese Wall is a North Wall dive site featuring steep wall formations and excellent coral and sponge growth. This intermediate-level wall dive offers dramatic topography and good opportunities for encountering pelagic species beyond the wall face.
 
 ## Overview
 
-Chinese Wall is a dive site in Cayman Islands featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Chinese Wall is a Grand Cayman North Wall site known for its steep wall formations and excellent coral and sponge encrustation. The site's name reflects the dramatic vertical nature of the wall formation. The steep wall provides good habitat for both reef fish and pelagic species. Divers following the wall face typically encounter a variety of fish species and have opportunities to spot larger pelagic visitors in the blue water beyond the wall.
 
 ## Site Information
 
-- **Location**: Cayman Islands, Caribbean
+- **Location**: North Wall, Grand Cayman, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Depth Range**: 20-45 meters (primary diving at 40 meters or shallower)
+- **Wall Face**: Steep formations extending beyond recreational limits
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
+- **Notable Feature**: Steep wall with excellent coral and sponge growth
 
 ## Marine Life
 

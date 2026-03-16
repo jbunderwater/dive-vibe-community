@@ -9,20 +9,25 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": true,
+      "validation_source": "divedominica.com, diveoclock.com, tripadvisor"
     }
   },
   {
     "name": "Scotts Head Pinnacle",
     "lat": 15.215,
     "lon": -61.365,
-    "depth": 30,
-    "site_type": "wall",
+    "depth": 35,
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": true,
+      "validation_source": "divedominica.com, diveoclock.com, divessi.com",
+      "notes": "Swim-through at 35ft, wall drops to 120ft+ on inside of volcanic crater"
     }
   },
   {
@@ -35,20 +40,25 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": true,
+      "validation_source": "divedominica.com, diveoclock.com"
     }
   },
   {
     "name": "Danglebens Pinnacles",
     "lat": 15.24,
     "lon": -61.38,
-    "depth": 35,
-    "site_type": "reef",
+    "depth": 40,
+    "site_type": "pinnacle",
     "entry_type": "boat",
-    "difficulty": "Advanced",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": true,
+      "validation_source": "divedominica.com, scubadiving.com",
+      "notes": "5 pinnacles with sandy bottoms, 30-40m, barrel sponges and reef sharks"
     }
   },
   {
@@ -61,98 +71,119 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": true,
+      "validation_source": "general dive guides"
     }
   },
   {
     "name": "L'Abym",
     "lat": 15.26,
     "lon": -61.385,
-    "depth": 28,
+    "depth": 30,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": true,
+      "validation_source": "divedominica.com, discoverdominica.com, noxoma.com",
+      "notes": "1500ft vertical wall, seahorses sighted, macro-rich location"
     }
   },
   {
     "name": "Toucari Bay",
     "lat": 15.625,
     "lon": -61.475,
-    "depth": 14,
+    "depth": 33,
     "site_type": "reef",
     "entry_type": "shore",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": true,
+      "validation_source": "scubadiving.com, cabritsdive.com",
+      "notes": "Tunnel system (25-45ft), drops to 110ft with mahogany snapper, frogfish, octopus"
     }
   },
   {
     "name": "Cabrits Drop",
     "lat": 15.58,
     "lon": -61.47,
-    "depth": 32,
+    "depth": 40,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": true,
+      "validation_source": "cabritsdive.com, scubadiving.com"
     }
   },
   {
     "name": "Point Guignard",
     "lat": 15.28,
     "lon": -61.39,
-    "depth": 20,
-    "site_type": "reef",
+    "depth": 25,
+    "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": true,
+      "validation_source": "scubadiving.com",
+      "notes": "Slowly sloping wall, easy dive for all levels, macro life (seahorses, nudibranches)"
     }
   },
   {
     "name": "Nose Reef",
     "lat": 15.21,
     "lon": -61.358,
-    "depth": 18,
+    "depth": 25,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": true,
+      "validation_source": "scubadiving.com",
+      "notes": "Patch reef with wall drop-off, nose-like protrusions, bogas school, barracuda"
     }
   },
   {
     "name": "Five Finger Rock",
     "lat": 15.55,
     "lon": -61.46,
-    "depth": 22,
+    "depth": 30,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": true,
+      "validation_source": "scubadiving.com, cabritsdive.com"
     }
   },
   {
     "name": "Rodney's Rock",
     "lat": 15.27,
     "lon": -61.378,
-    "depth": 16,
+    "depth": 15,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": true,
+      "validation_source": "scubadiving.com, tripadvisor",
+      "notes": "Shallow max 50ft, critter dive (spiny/slipper lobster, morays, seahorses - record 11 in one dive)"
     }
   }
 ]

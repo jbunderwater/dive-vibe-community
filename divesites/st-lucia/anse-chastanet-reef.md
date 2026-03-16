@@ -3,7 +3,7 @@ name: Anse Chastanet Reef
 lat: 13.862
 lng: -61.072
 difficulty: Beginner
-maxDepth: 15
+maxDepth: 20
 entryType: shore
 siteType: reef
 ref: null
@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Anse Chastanet Reef
 
-Anse Chastanet Reef is a reef dive site in St. Lucia, Caribbean.
+Anse Chastanet Reef is one of St. Lucia's most popular and accessible dive sites, starting just 10 yards beyond the water's edge in the Anse Chastanet Marine Reserve.
 
 ## Overview
 
-Anse Chastanet Reef is a dive site in St. Lucia offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The remarkable ecosystem of Anse Chastanet offers an amazing profusion of unusual tropical marine life in calm, clear water. The reef begins in shallow water and drops away to a beautiful wall of mixed corals, making it ideal for both beginner and experienced divers. A shallow protected reef and warm clear waters make this a perfect site for learning to dive and exploring diverse marine life. This is traditionally the mandatory first dive for all guests at the nearby dive resort to ensure equipment is functioning and buoyancy skills are adequate.
 
 ## Site Information
 
-- **Location**: St. Lucia, Caribbean
+- **Location**: Anse Chastanet Marine Reserve, St. Lucia
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 meters
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Home to more than 150 different species of fish, the site features diverse marine life across depth ranges. In shallow areas look for peacock flounders, octopus, needle fish and turtles. Over dense coral growth at moderate depths, spot puffers, moray eels, parrotfish, lobsters and seahorses. Sea turtles, southern stingrays, eagle rays and nurse sharks are also commonly encountered.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The reef features a plateau area with depths between 5-25 feet, and at the end of the plateau, the reef falls away from 20-140 feet in a solid wall of mixed corals. Begin your dive in the shallower plateau sections and gradually work deeper as conditions allow. The most abundant and colorful marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 

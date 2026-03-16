@@ -5,10 +5,12 @@
     "lon": -86.9490156,
     "osm_id": 820354025,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 12,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
+    "validated": true,
+    "validation_source": "scubadiverlife.com, thescubadirectory.com, divescover.com",
     "tags": {
       "name": "The Maze",
       "source": "survey",
@@ -19,10 +21,12 @@
     "name": "Black Hills",
     "lat": 16.115,
     "lon": -86.92,
-    "depth": 30,
-    "site_type": "wall",
+    "depth": 45,
+    "site_type": "seamount",
     "entry_type": "boat",
-    "difficulty": "Advanced",
+    "difficulty": "Intermediate",
+    "validated": true,
+    "validation_source": "zentacle.com, scubadiverlife.com, dive-the-world.com",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps"
@@ -32,10 +36,12 @@
     "name": "Duppy Waters",
     "lat": 16.08,
     "lon": -86.95,
-    "depth": 22,
-    "site_type": "reef",
+    "depth": 30,
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
+    "validated": true,
+    "validation_source": "zentacle.com, scubadiverlife.com, divebooker.com",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps"
@@ -45,10 +51,12 @@
     "name": "CJ's Drop Off",
     "lat": 16.105,
     "lon": -86.94,
-    "depth": 35,
+    "depth": 40,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
+    "validated": true,
+    "validation_source": "globaldiveguide.com, zentacle.com, scubadiverlife.com",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps"
@@ -58,10 +66,12 @@
     "name": "Halliburton Wreck",
     "lat": 16.095,
     "lon": -86.93,
-    "depth": 28,
+    "depth": 30,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
+    "validated": true,
+    "validation_source": "scubadiverlife.com, divebooker.com, alertdiver.eu, divessi.com",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps"
@@ -71,10 +81,12 @@
     "name": "Stingray Point",
     "lat": 16.1,
     "lon": -86.945,
-    "depth": 12,
+    "depth": 40,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
+    "validated": true,
+    "validation_source": "zentacle.com, divessi.com, utilascubadiving.com",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps"
@@ -84,10 +96,12 @@
     "name": "Jack Neil Point",
     "lat": 16.09,
     "lon": -86.955,
-    "depth": 15,
+    "depth": 30,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
+    "validated": true,
+    "validation_source": "divessi.com, padi.com, scubadiverlife.com",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps"
@@ -97,10 +111,12 @@
     "name": "Ron's Wreck",
     "lat": 16.085,
     "lon": -86.96,
-    "depth": 20,
+    "depth": 18,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
+    "validated": true,
+    "validation_source": "divessi.com, greatestdivesites.com, divescover.com",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps"
@@ -110,10 +126,12 @@
     "name": "Airport Caves",
     "lat": 16.11,
     "lon": -86.925,
-    "depth": 25,
+    "depth": 18,
     "site_type": "cave",
     "entry_type": "boat",
-    "difficulty": "Advanced",
+    "difficulty": "Beginner",
+    "validated": true,
+    "validation_source": "divescover.com, zentacle.com, divebooker.com",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps"
@@ -123,10 +141,12 @@
     "name": "Pretty Bush",
     "lat": 16.075,
     "lon": -86.965,
-    "depth": 14,
+    "depth": 30,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
+    "validated": true,
+    "validation_source": "scubago.com, divejournal.io, padi.com, greatestdivesites.com",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps"
@@ -136,10 +156,12 @@
     "name": "Lighthouse Reef",
     "lat": 16.13,
     "lon": -86.905,
-    "depth": 20,
+    "depth": 21,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
+    "validated": true,
+    "validation_source": "divessi.com, scubadiving.place, adrex.com",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps"
@@ -149,10 +171,12 @@
     "name": "Ted's Point",
     "lat": 16.07,
     "lon": -86.97,
-    "depth": 25,
+    "depth": 30,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
+    "validated": true,
+    "validation_source": "divessi.com, thescubadirectory.com, zentacle.com",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps"

@@ -3,7 +3,7 @@ name: Cabrits Drop
 lat: 15.58
 lng: -61.47
 difficulty: Advanced
-maxDepth: 32
+maxDepth: 40
 entryType: boat
 siteType: wall
 ref: null
@@ -13,19 +13,19 @@ addedBy: osm_import
 
 ## Cabrits Drop
 
-Cabrits Drop is a wall dive site in Dominica, Caribbean.
+Cabrits Drop is a dramatic wall dive site located at Cabrits National Park in northern Dominica.
 
 ## Overview
 
-Cabrits Drop is a dive site in Dominica featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+This spectacular wall site offers the characteristic features of Cabrits diving within the northern marine park. The wall drops steeply from shallow depths, providing excellent opportunities for wall-following dives and observation of pelagic species at deeper depths.
 
 ## Site Information
 
-- **Location**: Dominica, Caribbean
+- **Location**: Cabrits National Park, Portsmouth area, north Dominica
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 32 meters
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)

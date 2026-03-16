@@ -3,13 +3,15 @@
     "name": "Bianca C",
     "lat": 12.04,
     "lon": -61.75,
-    "depth": 50,
+    "depth": 40,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": true,
+      "validation_source": "divegrenada.com, caribbean-diving.com"
     }
   },
   {
@@ -22,33 +24,39 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": true,
+      "validation_source": "underwatersculpture.com, PADI"
     }
   },
   {
     "name": "Flamingo Bay",
     "lat": 12.05,
     "lon": -61.76,
-    "depth": 15,
+    "depth": 18,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": true,
+      "validation_source": "PADI, SANDALS dive guide"
     }
   },
   {
     "name": "Boss Reef",
     "lat": 12.08,
     "lon": -61.73,
-    "depth": 22,
+    "depth": 24,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": true,
+      "validation_source": "puregrenada.com, sportifdive.co.uk"
     }
   },
   {
@@ -61,20 +69,24 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": true,
+      "validation_source": "Caribbean Authority dive guide"
     }
   },
   {
     "name": "Purple Rain",
     "lat": 12.07,
     "lon": -61.72,
-    "depth": 28,
+    "depth": 25,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Advanced",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": true,
+      "validation_source": "PADI, justgottadive.com"
     }
   },
   {
@@ -87,33 +99,39 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": true,
+      "validation_source": "dreamwrecks.com, divebuddy.com"
     }
   },
   {
     "name": "Shakem Wreck",
     "lat": 12.055,
     "lon": -61.745,
-    "depth": 28,
+    "depth": 33,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": true,
+      "validation_source": "scubadivermag.com, freedomtourtravel.com"
     }
   },
   {
     "name": "Northern Exposure",
     "lat": 12.2,
     "lon": -61.62,
-    "depth": 20,
+    "depth": 23,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": true,
+      "validation_source": "diveadvisor.com, AquaViews"
     }
   },
   {
@@ -126,20 +144,24 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": true,
+      "validation_source": "California Diver Magazine"
     }
   },
   {
     "name": "Valley of Whales",
     "lat": 12.02,
     "lon": -61.735,
-    "depth": 32,
+    "depth": 22,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Advanced",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": true,
+      "validation_source": "PADI, ECO Dive Grenada"
     }
   },
   {
@@ -152,7 +174,9 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": true,
+      "validation_source": "AquaViews, California Diver Magazine"
     }
   }
 ]

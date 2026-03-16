@@ -3,9 +3,9 @@ name: Scotts Head Pinnacle
 lat: 15.215
 lng: -61.365
 difficulty: Advanced
-maxDepth: 30
+maxDepth: 35
 entryType: boat
-siteType: wall
+siteType: pinnacle
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Scotts Head Pinnacle
 
-Scotts Head Pinnacle is a reef dive site in Dominica, Caribbean.
+Scotts Head Pinnacle is one of Dominica's most famous dive sites, featuring a unique geology and dramatic topography.
 
 ## Overview
 
-Scotts Head Pinnacle is a dive site in Dominica offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Beginning on Swiss Cheese, a large rock formation home to the Soldierfish Cave, this dive leads to the pinnacle where a picturesque swim-through bisects the formation. At 35 feet depth, the swim-through opens to a steep wall on the inside of a volcanic crater that plunges beyond 120 feet. The wall is covered in deepwater sea fans and colorful gorgonians, teeming with blackbar soldierfish, grunts, and lobster.
 
 ## Site Information
 
-- **Location**: Dominica, Caribbean
+- **Location**: Scotts Head, Soufriere-Scotts Head Marine Reserve, southwest Dominica
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
+- **Maximum Depth**: 35 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Abundant marine life from shallow areas to beyond 30 meters includes blackbar soldierfish (especially in the swim-through), grunts, lobster, sea fans, and gorgonians. The topography supports life at all depths from surface to the deep wall.
 
 ## Dive Profile
 

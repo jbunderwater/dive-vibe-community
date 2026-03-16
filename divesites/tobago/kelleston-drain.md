@@ -2,10 +2,10 @@
 name: Kelleston Drain
 lat: 11.28
 lng: -60.49
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Advanced
+maxDepth: 40
 entryType: boat
-siteType: wall
+siteType: reef
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,22 +13,24 @@ addedBy: osm_import
 
 ## Kelleston Drain
 
-Kelleston Drain is a wall dive site in Tobago, Caribbean.
+Kelleston Drain is a world-renowned advanced dive site in Speyside, Tobago, home to the world's largest brain coral colony and famous for seasonal manta ray encounters.
 
 ## Overview
 
-Kelleston Drain is a dive site in Tobago featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+This advanced-level drift dive features a long plain of lush corals that slopes from 10 meters to 20 meters, then drops steeply to depths of 40 meters. The site is dominated by the presence of the largest single brain coral in the Caribbean—measuring approximately 3 meters tall and 5 meters wide—comprising millions of individual coral animals. The surrounding reef is rich with colorful sponges, branching corals, sea rods, and sea fans, hosting large populations of barracuda and green moray eels. Manta rays are seasonally present from March-July, with peak sightings in April-May during mating season.
 
 ## Site Information
 
-- **Location**: Tobago, Caribbean
+- **Location**: Speyside, Tobago (Little Tobago)
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Site Type**: Coral reef
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 40 meters
+- **Depth Range**: 10-40 meters (33-131 feet)
+- **Typical Visibility**: 15-30 meters on good days, up to 10 meters on poor days
+- **Water Temperature**: 27-30°C (81-86°F)
+- **Current**: Moderate to strong drift (typical)
+- **Best Time**: December to April (dry season); March-July for manta rays
 
 ## Marine Life
 

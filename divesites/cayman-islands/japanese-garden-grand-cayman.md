@@ -3,7 +3,7 @@ name: Japanese Garden Grand Cayman
 lat: 19.35
 lng: -81.4167
 difficulty: Beginner
-maxDepth: 12
+maxDepth: 7
 entryType: boat
 siteType: reef
 ref: null
@@ -13,22 +13,23 @@ addedBy: osm_import
 
 ## Japanese Garden Grand Cayman
 
-Japanese Garden Grand Cayman is a reef dive site in Cayman Islands, Caribbean.
+Japanese Garden is named for its abundance of staghorn and elkhorn corals creating a natural garden-like environment. This shallow South Wall site features coral formations, swim-throughs, and archways, making it an excellent beginner-friendly shallow dive on the South Coast.
 
 ## Overview
 
-Japanese Garden Grand Cayman is a dive site in Cayman Islands offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Japanese Garden is a shallow dive site on Grand Cayman's South Coast, named for the abundance of staghorn and elkhorn corals that create a beautiful underwater garden aesthetic. The site features coral formations, archways, and swim-throughs at shallow depths, making it ideal for beginners and those seeking extended bottom time. Unlike the deeper North Wall dives, the South Coast sites like Japanese Garden feature different coral species and gentler topography while still offering excellent reef exploration and photography opportunities.
 
 ## Site Information
 
-- **Location**: Cayman Islands, Caribbean
+- **Location**: South Coast, Grand Cayman, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 12 meters
+- **Maximum Depth**: 7 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
+- **Notable Feature**: Staghorn and elkhorn corals, archways, swim-throughs
 
 ## Marine Life
 

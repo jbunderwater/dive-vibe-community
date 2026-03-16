@@ -2,8 +2,8 @@
 name: Mike's Reef
 lat: 12.55
 lng: -70.035
-difficulty: Intermediate
-maxDepth: 18
+difficulty: Beginner
+maxDepth: 15
 entryType: boat
 siteType: reef
 ref: null
@@ -13,22 +13,23 @@ addedBy: osm_import
 
 ## Mike's Reef
 
-Mike's Reef is a reef dive site in Aruba, Caribbean.
+Mike's Reef is a boat-accessible coral reef site featuring enormous gorgonian clusters, massive brain and star coral formations, and vibrant sponges creating an excellent macro and wide-angle photography destination.
 
 ## Overview
 
-Mike's Reef is a dive site in Aruba offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Mike's Reef showcases spectacular coral formations with enormous clusters of gorgonians, massive brain and star coral structures, and brilliant purple and orange sponges creating a colorful backdrop for reef fish and barracuda. The site spans depths from 8 to 27 meters, allowing divers to explore varied coral zones and life communities. The reef is particularly renowned as a macro hotspot for underwater photographers, with abundant detail and colorful subjects. The site is accessible to divers of various skill levels, though the deeper sections (18-27 meters) are better suited for intermediate divers. Located approximately 45 minutes by boat from Oranjestad, Mike's Reef offers an excellent balance of accessibility, diversity, and photographic opportunities.
 
 ## Site Information
 
-- **Location**: Aruba, Caribbean
+- **Location**: Southern Aruba, Caribbean (~45 min boat from Oranjestad)
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 15 meters
+- **Typical Visibility**: 15-25 meters (50-80 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
+- **Special Features**: Gorgonian clusters, macro photography hotspot
 
 ## Marine Life
 

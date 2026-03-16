@@ -3,7 +3,7 @@ name: Boss Reef
 lat: 12.08
 lng: -61.73
 difficulty: Intermediate
-maxDepth: 22
+maxDepth: 24
 entryType: boat
 siteType: reef
 ref: null
@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Boss Reef
 
-Boss Reef is a reef dive site in Grenada, Caribbean.
+Boss Reef is an extensive reef system spanning five miles off the coast of Saint George's. This massive reef features gently rolling mounds of rock, sandy valleys, and large plate coral formations, making it one of Grenada's largest dive sites.
 
 ## Overview
 
-Boss Reef is a dive site in Grenada offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Boss Reef offers diverse diving experiences across a vast reef system. The shallow areas feature distinctive star coral starting around 6 meters, while a characteristic hole at 14-18 meters is a popular gathering spot for barracuda. Multiple dive sites within the reef system include Japanese Gardens, Lower Boss, Middle Boss, and Valleys. Located in the Caribbean region, this site offers excellent visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
@@ -25,18 +25,18 @@ Boss Reef is a dive site in Grenada offering rewarding diving on healthy coral r
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 meters
+- **Maximum Depth**: 24 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+In the shallow star coral area, look for Creole wrasse, cero mackerel, yellowtail snapper, and other colorful reef fish. The characteristic barracuda hole at 14-18 meters is a reliable spot for sighting this large predator. Upper reef areas host lobster, eels, trunkfish, and occasionally green or hawksbill turtles. Southern stingrays and eagle rays are also frequently encountered.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 22 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Boss Reef's gently rolling topography allows flexible dive planning. Most divers explore the star coral shallows (6-12 meters), the barracuda hole (14-18 meters), and sandy valleys at varying depths. The extensive reef system allows multiple dives to fully explore different sections. Plan your dive to 24 meters maximum and establish depth limits based on the specific area you're exploring.
 
 ## Entry and Exit
 

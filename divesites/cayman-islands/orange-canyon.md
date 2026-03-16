@@ -3,7 +3,7 @@ name: Orange Canyon
 lat: 19.275
 lng: -81.4417
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 25
 entryType: boat
 siteType: wall
 ref: null
@@ -13,22 +13,24 @@ addedBy: osm_import
 
 ## Orange Canyon
 
-Orange Canyon is a wall dive site in Cayman Islands, Caribbean.
+Orange Canyon is a North Wall dive site known for its dramatic passages and swim-throughs created by centuries of coral growth. The site features passages and canyons carved through the reef that offer exciting exploration for intermediate divers.
 
 ## Overview
 
-Orange Canyon is a dive site in Cayman Islands featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Orange Canyon is a Grand Cayman North Wall site famous for its passages and swim-throughs created as coral formations have built up over centuries, carving natural passages under the reef. The site name reflects the coral colors found throughout the formation. These passages and canyon systems create visual drama and offer thrilling exploration opportunities for divers comfortable with overhead environments. The site is part of the spectacular North Wall diving that Grand Cayman is famous for.
 
 ## Site Information
 
-- **Location**: Cayman Islands, Caribbean
+- **Location**: North Wall, Grand Cayman, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Depth Range**: 20-25 meters (primary dive zone)
+- **Wall Depth**: Extends beyond recreational limits
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
+- **Special Feature**: Dramatic passages and swim-throughs
 
 ## Marine Life
 

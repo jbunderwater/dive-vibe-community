@@ -3,7 +3,7 @@ name: Grain Wreck (Suffolk Maid)
 lat: 18.34
 lng: -64.96
 difficulty: Intermediate
-maxDepth: 18
+maxDepth: 23
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,19 +13,19 @@ addedBy: osm_import
 
 ## Grain Wreck (Suffolk Maid)
 
-Grain Wreck (Suffolk Maid) is a historic wreck dive in US Virgin Islands, Caribbean.
+The Suffolk Maid is a 144-foot North Sea trawler scuttled in Butler Bay on St. Croix, representing one of the shallow wreck options in the USVI.
 
 ## Overview
 
-Grain Wreck (Suffolk Maid) is a dive site in US Virgin Islands featuring the wreck of the Grain Wreck (Suffolk Maid). Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Originally driven into the Frederiksted Pier during a hurricane in 1984, the Suffolk Maid was later cleaned, gutted, and intentionally sunk in December 1985 as a dive site. It now sits upright on the ocean floor in 18-24 meters of water, resting only a few hundred yards south of the Rosaomaira wreck and a hundred yards north of the Northwind wreck—creating a cluster of shallow wreck diving options. Divers can still recognize the ship's name on her bow. The wreck provides excellent marine habitat with coral and sponge encrustation.
 
 ## Site Information
 
-- **Location**: US Virgin Islands, Caribbean
+- **Location**: Butler Bay, St. Croix, US Virgin Islands, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
+- **Maximum Depth**: 23 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)

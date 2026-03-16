@@ -2,8 +2,8 @@
 name: Mt Irvine Wall
 lat: 11.2
 lng: -60.8
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Beginner
+maxDepth: 15
 entryType: shore
 siteType: wall
 ref: null
@@ -13,21 +13,23 @@ addedBy: osm_import
 
 ## Mt Irvine Wall
 
-Mt Irvine Wall is a wall dive site in Tobago, Caribbean.
+Mt Irvine Wall is the most popular rocky reef shore dive on Tobago's Caribbean coast. This shallow, beginner-friendly site features colorful rocky reefs with abundant macro life, making it perfect for new and experienced divers alike.
 
 ## Overview
 
-Mt Irvine Wall is a dive site in Tobago featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Mt Irvine Wall is a shallow rocky reef close to shore, dropping from approximately 10 meters to a flat sandy bottom at 12-15 meters. The colorful rocky reef is full of interesting crevices where moray eels, spiny lobsters, and crabs congregate. The shallow depth, protected location, and abundance of macro subjects make it ideal for beginner divers. The site also has an extension that follows the outcropping rocks of Mount Irvine Bay, where larger groupers, snapper, and hawksbill turtles can be seen.
 
 ## Site Information
 
-- **Location**: Tobago, Caribbean
+- **Location**: Mount Irvine Bay, Caribbean coast, southwest Tobago
 - **Entry Type**: Shore entry
 - **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 15 meters
+- **Depth Range**: 5-15 meters (18-50 feet)
+- **Typical Visibility**: 15-25 meters
+- **Water Temperature**: 27-30°C (81-86°F)
+- **Current**: Light to minimal
 - **Best Time**: December to April (dry season)
 
 ## Marine Life

@@ -3,7 +3,7 @@ name: Ron's Wreck
 lat: 16.085
 lng: -86.96
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 18
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Ron's Wreck
 
-Ron's Wreck is a historic wreck dive in Utila, Caribbean.
+A small tugboat deliberately sunk to create an artificial reef, now transformed into a vibrant underwater habitat covered in colorful coral and sponges.
 
 ## Overview
 
-Ron's Wreck is a dive site in Utila featuring the wreck of the Ron's Wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Ron's Wreck is a former shrimp fishing boat (small tugboat) deliberately sunk at 18 meters to create an artificial reef. Now a resounding success, the wreck is completely transformed into a vibrant underwater habitat with a beautiful coral colony taking over and providing shelter for numerous marine species. The site sits within a U-shaped reef wall with a gently sloping sandy bottom. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Utila, Caribbean
+- **Location**: Utila, Caribbean (accessible from Moon Hole)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, snappers, soldierfish, glassy sweepers, coral growth, sponge encrustation, sea turtles (green, hawksbill), southern stingrays. Additional species commonly sighted include eagle rays, nurse sharks, reef sharks, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Divers frequently spot moray eels (particularly green morays), lobsters, blue tangs, lionfish, nudibranchs, and lettuce sea slugs around and on the wreck. Fire worms and sea slugs are commonly sighted. The thriving coral colony now covers much of the wreck, providing shelter for groupers, snappers, sea turtles (green, hawksbill), southern stingrays, and a diverse array of reef fish. The wreck structure provides excellent habitat for a thriving marine ecosystem.
 
 ## Dive Profile
 
@@ -44,11 +44,13 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
+- This is a great site to observe reef recovery and artificial reef development
+- Bring a dive torch to illuminate wreck interiors and dark spaces
+- Look closely for small critters like nudibranchs and sea slugs
+- The surrounding reef wall and sandy bottom also offer exploration opportunities
+- Suitable for all divers; this is a friendly, manageable wreck dive
 - Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
+- Bring an underwater camera—this site offers excellent opportunities for macro and wide-angle photography
 - Check local weather and sea conditions before diving
 
 ## Safety Considerations

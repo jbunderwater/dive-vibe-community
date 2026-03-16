@@ -2,8 +2,8 @@
 name: Lost Blue Hole Andros
 lat: 24.7
 lng: -77.7833
-difficulty: Advanced
-maxDepth: 40
+difficulty: Intermediate
+maxDepth: 30
 entryType: boat
 siteType: cave
 ref: null
@@ -13,22 +13,22 @@ addedBy: osm_import
 
 ## Lost Blue Hole Andros
 
-Lost Blue Hole Andros is a cave dive site in Bahamas, Caribbean.
+Lost Blue Hole is a vast underwater sinkhole with a 100-foot diameter and 200+ foot depth, teeming with marine life and famous for hosting breeding aggregations of blacknose sharks from May to August.
 
 ## Overview
 
-Lost Blue Hole Andros is a dive site in Bahamas featuring underwater cave and cavern formations. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Lost Blue Hole, located in Andros in seagrass beds approximately 10-12 meters down, is a remarkable geological formation popular with liveaboard dive operators. The site features a massive circular hole with vertical walls and abundant marine life. Notably, from May through early August, up to 100 blacknose sharks (small sharks under 1 meter) congregate in the hole to breed, creating a unique seasonal diving opportunity. The site is accessible without strong tidal currents (unlike many blue holes), allowing divers to safely and leisurely explore the flora and fauna. The seafloor surrounding the hole is covered in seagrass where you descend before swimming over and viewing the hole structure. This popular liveaboard destination offers one of the premier blue hole diving experiences in the Bahamas.
 
 ## Site Information
 
-- **Location**: Bahamas, Caribbean
+- **Location**: Andros, Bahamas
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 40 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 30 meters
+- **Typical Visibility**: 15-25 meters (50-80 feet)
+- **Current**: Minimal to light (no tidal flow)
+- **Best Time**: May to August for shark aggregation, year-round for structure diving
 
 ## Marine Life
 

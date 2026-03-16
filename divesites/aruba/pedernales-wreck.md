@@ -3,7 +3,7 @@ name: Pedernales Wreck
 lat: 12.59
 lng: -70.055
 difficulty: Beginner
-maxDepth: 10
+maxDepth: 8
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Pedernales Wreck
 
-Pedernales Wreck is a historic wreck dive in Aruba, Caribbean.
+The Pedernales is a WWII-era oil tanker torpedoed by the German military in 1942, creating one of Aruba's most beginner-friendly wreck dives.
 
 ## Overview
 
-Pedernales Wreck is a dive site in Aruba featuring the wreck of the Pedernales Wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Pedernales represents an ideal introduction to wreck diving. The shallow 8-meter depth, calm conditions, and good visibility make this site accessible to open-water certified divers with minimal experience. Large pieces of the tanker are spread throughout the site, providing tangible wreck exploration without requiring penetration skills. Divers can examine pipelines, lavatories, washbasins, and cabin sections. The wreck has developed a healthy coral and fish community, creating excellent opportunities for both exploration and photography. The site's historical significance (WWII torpedo hit) combined with its ease of access makes it one of Aruba's most popular beginner wreck sites.
 
 ## Site Information
 
@@ -25,9 +25,11 @@ Pedernales Wreck is a dive site in Aruba featuring the wreck of the Pedernales W
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 10 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
+- **Maximum Depth**: 8 meters
+- **Wreck Type**: Oil tanker
+- **Year Sunk**: 1942 (German U-boat torpedo)
+- **Typical Visibility**: 15-25 meters (50-80 feet)
+- **Current**: Light to negligible
 - **Best Time**: December to April (dry season)
 
 ## Marine Life

@@ -2,66 +2,74 @@
 name: Villa Blanca Wall
 lat: 20.4955268
 lng: -86.979446
-difficulty: Beginner
-maxDepth: 12
+difficulty: Intermediate
+maxDepth: 30
 entryType: boat
 siteType: wall
 ref: null
 osmId: 663869366
 addedBy: osm_import
+validated: true
+validationSource: "The Reefs of Cozumel, Pro Dive International"
 ---
 
 ## Villa Blanca Wall
 
-Villa Blanca Wall is a reef dive site in Cozumel, Caribbean.
+Villa Blanca Wall is located on the northern section of Cozumel, just south of San Miguel. This impressive wall dive is typically reserved as a second dive after a deeper site like Barracuda Reef due to its strong and unpredictable currents.
 
 ## Overview
 
-Villa Blanca Wall is a dive site in Cozumel offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Villa Blanca begins at approximately 15 meters depth and continues down to 30+ meters, featuring a sloping wall covered with giant sponges and gorgonians. The site offers excellent wall characteristics with dramatic depth and significant marine life, though currents can be strong and variable. Best dived by experienced drift divers comfortable with deeper depths and challenging conditions.
 
 ## Site Information
 
-- **Location**: Cozumel, Caribbean
+- **Location**: Northern Cozumel, Mexico
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 12 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 30 meters
+- **Typical Visibility**: 25-35 meters (80-115 feet)
+- **Current**: Strong and unpredictable
+- **Best Time**: December to April when currents are more moderate
+- **Water Temperature**: 26-29°C (79-84°F)
+
+## Dive Characteristics
+
+Villa Blanca is a drift dive along a dramatic wall covered in sponges and soft corals. The wall drops steeply from 15 meters down to 30+ meters, with steep descent possible to much greater depths beyond recreational limits. Strong currents are typical, requiring excellent buoyancy control and drift diving experience. This is an exciting site for experienced divers but not suitable for beginners.
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The wall ecosystem supports giant sponges, gorgonians, black coral, sea turtles, eagle rays, nurse sharks, groupers, snappers, and various reef fish species. The strong current often brings pelagic species and creates excellent conditions for observing marine life behavior.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Start your descent at the reef top in shallower water. Follow the wall down as it slopes away. Stay between 15-30 meters depending on your experience and air consumption. Be mindful of the current and drift rate. Watch for overhangs and crevices where marine life congregates. Ascend slowly with a safety stop at 5 meters.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access exclusively by dive boat from local operators. Enter via giant stride. Descend and follow the wall, keeping your guide in sight. Control your descent carefully to avoid nitrogen narcosis effects. Exit as directed by the dive guide, deploying an SMB at safety stop depth.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Best dived as a second tank after an earlier dive at a different site
+- Excellent for experienced drift divers wanting challenging conditions
+- Watch for strong currents; current strength varies by time of day
+- Early morning dives often have lighter currents
+- Book with operators experienced at this site
+- Bring an underwater camera for impressive wall photography
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+This is an advanced drift dive with strong, unpredictable currents. Recommended for Advanced Open Water certified divers with drift diving experience. Watch for nitrogen narcosis below 30 meters. Maintain excellent buoyancy control. Always dive with a buddy and monitor air consumption regularly. Strong currents can disorient inexperienced divers.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Wall dives offer stunning wide-angle opportunities, especially in afternoon light. The sponges and soft corals provide excellent color and texture. Macro opportunities exist in wall crevices and overhangs where creatures shelter.
 
 ## Additional Resources
 
-- **Website**: http://www.dive-links.com/tauchplatz.php?id=2762
+- **Source**: The Reefs of Cozumel, Pro Dive International
 - **Last Updated**: 2026-03-15
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was validated through research of dive operator sites. Last updated 2026-03-15.*

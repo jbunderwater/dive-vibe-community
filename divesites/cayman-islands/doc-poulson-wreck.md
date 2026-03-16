@@ -3,7 +3,7 @@ name: Doc Poulson Wreck
 lat: 19.3417
 lng: -81.4083
 difficulty: Beginner
-maxDepth: 18
+maxDepth: 16
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,21 +13,24 @@ addedBy: osm_import
 
 ## Doc Poulson Wreck
 
-Doc Poulson Wreck is a historic wreck dive in Cayman Islands, Caribbean.
+The Doc Poulson is an 80-foot former Japanese cable-laying ship intentionally sunk in 1981 to create an artificial reef. Located in West Bay with a 20-minute boat ride from shore, this beginner-friendly wreck offers accessible penetration points, good visibility, and excellent underwater photography opportunities.
 
 ## Overview
 
-Doc Poulson Wreck is a dive site in Cayman Islands featuring the wreck of the Doc Poulson Wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Doc Poulson is a purpose-sunk artificial reef in Grand Cayman's West Bay, deliberately sunk in 1981 to honor Dr. James St. Clair Polson, a pioneer of hyperbaric medicine in the Cayman Islands. The 80-foot former Japanese cable-laying vessel sits upright in 15-18 meters of water, offering accessible dive experiences for divers progressing beyond basic reef skills. The wreck is an underwater photographer's paradise with its encrusted surfaces, thriving marine ecosystem (including Goliath groupers and cleaner shrimp), and moderate visibility making for excellent macro and wide-angle opportunities.
 
 ## Site Information
 
-- **Location**: Cayman Islands, Caribbean
+- **Location**: West Bay, Grand Cayman, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Maximum Depth**: 16 meters
+- **Vessel Details**: 80-foot former Japanese cable-laying ship, sunk 1981
+- **Wreck Condition**: Upright; good penetration points suitable for beginners
+- **Typical Visibility**: Moderate (variable)
 - **Current**: Light to moderate
+- **Boat Time**: 20 minutes from West Side beach hotels
 - **Best Time**: December to April (dry season)
 
 ## Marine Life

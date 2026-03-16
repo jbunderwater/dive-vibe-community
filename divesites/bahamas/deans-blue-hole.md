@@ -3,7 +3,7 @@ name: Dean's Blue Hole
 lat: 23.105
 lng: -75.0294
 difficulty: Advanced
-maxDepth: 60
+maxDepth: 202
 entryType: shore
 siteType: cave
 ref: null
@@ -13,22 +13,22 @@ addedBy: osm_import
 
 ## Dean's Blue Hole
 
-Dean's Blue Hole is a cave dive site in Bahamas, Caribbean.
+Dean's Blue Hole is the world's third-deepest blue hole at 202 meters (663 feet), a bucket-list destination for technical divers and freediving competitors seeking the ultimate vertical challenge.
 
 ## Overview
 
-Dean's Blue Hole is a renowned dive site in Bahamas featuring underwater cave and cavern formations. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Dean's Blue Hole, located on Long Island, is a massive underwater sinkhole and one of the most remarkable geological features in the Bahamas. Descending from approximately 6 meters (20 feet) at the surface, the perfectly circular hole widens to 82-115 meters (270-380 feet) in diameter before plunging 202 meters (663 feet) straight down to the ocean floor. The water clarity is exceptional—on good days, visibility reaches 35+ meters (115+ feet). The site hosts the annual Vertical Blue freediving competition, attracting elite divers from around the world. Most recreational scuba dives remain in the shallower sections (10-20m) where marine life abounds, while technical divers explore the deep walls and caves.
 
 ## Site Information
 
-- **Location**: Bahamas, Caribbean
+- **Location**: Long Island, Bahamas
 - **Entry Type**: Shore entry
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 60 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Maximum Depth**: 202 meters
+- **Typical Visibility**: 25-35 meters (80-115 feet)
+- **Current**: Minimal to light
+- **Best Time**: Year-round, December to April for best conditions
 
 ## Marine Life
 

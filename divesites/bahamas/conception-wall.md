@@ -3,7 +3,7 @@ name: Conception Wall
 lat: 23.85
 lng: -75.1167
 difficulty: Intermediate
-maxDepth: 30
+maxDepth: 43
 entryType: boat
 siteType: wall
 ref: null
@@ -13,22 +13,22 @@ addedBy: osm_import
 
 ## Conception Wall
 
-Conception Wall is a wall dive site in Bahamas, Caribbean.
+Conception Wall is one of the Bahamas' premier wall dives, featuring plummeting walls with the top starting at 43 feet (13 meters) before dropping 330 feet, with swim-throughs, caves, and forests of elk horn coral.
 
 ## Overview
 
-Conception Wall is a dive site in Bahamas featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Conception Wall on Long Island is spectacular wall diving at its finest. The wall begins at approximately 43 feet (13 meters) at the top before dropping vertically to around 330 feet (100+ meters), creating dramatic depth perspectives. The wall features plummeting drop-offs, swim-throughs, and caves with amazing visibility and a mix of soft and hard corals and sponges. The structure is famous for forests of elk horn coral, and divers commonly encounter sea turtles, blue parrotfish, reef sharks, manta rays, angelfish, and stingrays. Conception Island itself is an uninhabited national park serving as a green turtle hatching site and nesting area for seabirds. Just to the north runs the "Southampton" reef, which breaks the surface at low tide and extends 3.5 miles. This is some of the best wall diving to be seen in the Bahamas.
 
 ## Site Information
 
-- **Location**: Bahamas, Caribbean
+- **Location**: Long Island, Bahamas
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
+- **Maximum Depth**: 43 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Best Time**: December to April, year-round accessible
 
 ## Marine Life
 

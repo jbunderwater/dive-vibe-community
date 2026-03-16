@@ -3,9 +3,9 @@ name: Shark Wall New Providence
 lat: 25.025
 lng: -77.4917
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 12
 entryType: boat
-siteType: wall
+siteType: reef
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,22 +13,22 @@ addedBy: osm_import
 
 ## Shark Wall New Providence
 
-Shark Wall New Providence is a wall dive site in Bahamas, Caribbean.
+Shark Wall New Providence is a dramatic wall dive near Nassau where divers encounter both the sheer vertical structure and reliable shark populations in the blue water beyond the wall.
 
 ## Overview
 
-Shark Wall New Providence is a dive site in Bahamas featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Shark Wall is Stuart Cove's other primary shark diving site, featuring a vertical wall descent with Caribbean reef shark encounters. Unlike Shark Arena which uses bait feeding on the bottom, Shark Wall offers a free-swimming experience along the wall structure where sharks naturally congregate. The wall begins in shallow water and descends to significant depths, creating distinct ecosystems at different levels. Sharks, groupers, snappers, and pelagic species frequent the wall and the blue water beyond. This site combines dramatic geology with exciting shark encounters, making it appealing to divers seeking the adrenaline of sharking without the baited-feeding scenario. The dive can be adjusted for various experience levels by controlling depth and location along the wall.
 
 ## Site Information
 
-- **Location**: Bahamas, Caribbean
+- **Location**: Nassau, New Providence, Bahamas
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 12 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Best Time**: Year-round, December to April for optimal conditions
 
 ## Marine Life
 
