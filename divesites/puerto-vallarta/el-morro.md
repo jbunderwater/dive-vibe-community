@@ -13,17 +13,17 @@ addedBy: osm_import
 
 # El Morro
 
-Large rocky pinnacle near Las Marietas with wall sections, a navigable rock tunnel, sea fans, and reliable eagle ray and manta ray sightings in current-swept water
+Series of rock pinnacles 6 miles west of Las Marietas outside Banderas Bay — a 15-meter submarine tunnel entered at 27-30m, gorgonians, giant oceanic mantas, whale sharks in early summer, and humpback whales in winter; minimum 25 dives required
 
 ## Overview
 
-El Morro is a substantial rocky pinnacle located in the northern part of Banderas Bay, roughly 90 minutes by boat from Puerto Vallarta near the Las Marietas Islands. Where Los Arcos and the southern bay sites draw crowds for their arches and shallow macro life, El Morro attracts more experienced divers for its wall diving, stronger current exposure, and consistent pelagic activity.
+El Morro is a series of rock pinnacles located approximately 6 miles west of Las Marietas Islands, outside the mouth of Banderas Bay in exposed Pacific waters. The 90-minute boat crossing from Puerto Vallarta delivers divers to a site with a completely different character from the sheltered bay: cleaner water, stronger current, and the pelagic marine life that comes with genuine open-ocean exposure.
 
-The site's most distinctive feature is a rock cavern containing a roughly 15-meter tunnel that passes completely through the formation at around 21-27 meters depth. The tunnel is wide enough to navigate comfortably but dark enough to warrant a torch. Outside the cavern, the rock walls are draped with sea fans and decorated with colorful nudibranchs, shrimp, and octopus in crevices. The deeper sections offer genuine wall diving on near-vertical faces. El Morro sits exposed to open-ocean swells and currents, which keeps the water clear and the pelagic life more active than at the more sheltered inshore sites.
+The defining feature of El Morro is a 15-meter submarine tunnel that passes completely through the main pinnacle formation, entered at 27-30 meters and exiting at 18 meters. Adjacent to the tunnel entrance, a large cavern extends at 21-27 meters — a substantial overhead environment requiring a torch and controlled buoyancy. Outside the cavern and tunnel, the rock walls carry significant growth of gorgonians and sea fans, and the open water around the pinnacles sees regular visits from giant oceanic mantas, seasonal whale sharks, and winter humpback whales. A minimum of 25 logged dives is required by most operators.
 
 ## Site Information
 
-- **Location**: Northern Banderas Bay, near Las Marietas Islands
+- **Location**: 6 miles west of Las Marietas, outside Banderas Bay; ~90 min from Puerto Vallarta
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
@@ -35,20 +35,20 @@ The site's most distinctive feature is a rock cavern containing a roughly 15-met
 
 ## Marine Life
 
-Eagle rays are a reliable sighting at El Morro, frequently seen along the base of the rock faces and in the open water adjacent to the walls. Manta rays pass through the site, drawn by the current-rich water. The tunnel and cavern walls host nudibranchs, cleaning shrimp, and octopus in the crevices. Sea fans of various sizes grow on the exposed walls where current delivers nutrients. Moray eels occupy rock openings throughout the site. Schools of snapper and jack work the current lines above the formation. Sea turtles are regularly seen resting on deeper ledges.
+Giant oceanic manta rays are El Morro's signature encounter, drawn by the current-rich water sweeping the exposed pinnacles. Whale sharks appear in early summer (May-June), attracted by warm-water plankton concentrations in the open Pacific. Humpback whales pass through the area during winter (December-March) and can be heard — and occasionally seen — during dives. Sailfish and marlin inhabit the open water adjacent to the pinnacles. Dolphins regularly accompany the dive boat on transit. Gorgonians and large sea fans cover the exposed wall faces. Eagle rays patrol the deeper base of the formations. The tunnel and cavern walls host nudibranchs, octopus, and cleaning shrimp.
 
 ## Dive Profile
 
-Dives at El Morro typically range from 9 to 40+ meters. Most divers begin by exploring the shallower sections of the formation before dropping to the tunnel at depth. The 15-meter rock tunnel is the dive's centerpiece — enter from one face, navigate through with a light, and exit on the other side. Current can be pronounced around the exposed sections, so maintain awareness of position relative to the rock. Plan your dive to complete the deeper exploration first and use the shallower sections for your safety stop. Advanced certification or extensive deep dive experience is strongly recommended given the depth and current potential.
+Dives at El Morro begin at the cavern at 21-27 meters before navigating the 15-meter submarine tunnel — entering at 27-30 meters and exiting at 18 meters on the other side. A torch is required throughout the tunnel. After the tunnel, divers work the outer walls and watch the blue water for pelagics before ascending. Current around the exposed pinnacle faces requires active management and good trim. The depth range and overhead environment demand Advanced certification; the 25-dive minimum reflects genuine skill requirements rather than a formality.
 
 ## Entry and Exit
 
-Access is by dive boat, approximately 90 minutes from the Puerto Vallarta marina. Giant stride entry from the boat; ascend with an SMB deployed at depth given the potential for current drift and exposure in open water.
+Boat access, approximately 90 minutes from Puerto Vallarta marina. Exposed open-ocean conditions — surface chop and swell may be significantly rougher than inside the bay. Giant stride entry; ascend with SMB deployed from depth. Two-tank trips are standard given the transit time. Minimum 25 logged dives required by most operators.
 
 ## Tips and Recommendations
 
-- A dive torch is essential for the rock tunnel — the passage is dark and the walls reveal far more detail with artificial light
-- Eagle rays tend to appear along the deeper base of the formation; spend time at depth before working shallower
-- Currents at El Morro are notably stronger than at the southern bay sites; check conditions with the operator before diving
-- Good buoyancy control is needed around the cavern entrance to avoid disturbing the walls
-- Best combined with Las Marietas Islands on a full-day northern bay trip
+- Carry a primary and backup dive torch — the tunnel is completely dark and both lights are essential for safe passage
+- Whale shark encounters are most likely in early morning in May and June, before boat traffic increases at the site
+- Humpback whale vocalizations can be heard underwater during winter months — listen during the dive, particularly during ascent on calmer days
+- Manta rays appear most reliably when current is running; flat, windless days with no current often mean fewer pelagic sightings
+- The 25-dive minimum is a genuine experience requirement — the tunnel, cavern, open-ocean current, and depth demand solid skills from every diver in the water

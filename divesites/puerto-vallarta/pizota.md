@@ -13,42 +13,42 @@ addedBy: osm_import
 
 # Pizota
 
-Advanced reef at the far southern end of Banderas Bay — deep rocky formations, strong current exposure, and open-Pacific marine life at the boundary between the bay and open ocean
+Secluded south-bay reef near a small fishing village, accessible only by boat (~1hr 20min) — abundant marine life including moray eels, sea snakes, and sheltered conditions away from boat traffic
 
 ## Overview
 
-Pizota is an advanced reef dive located at the far southern end of Banderas Bay, positioned near the outer edge of the bay where conditions approach open-ocean character. The coordinates place it south of El Chimo and near the bay's southern boundary, making it one of the most remote sites reachable on a day trip from Puerto Vallarta. The 40-meter depth and advanced difficulty rating reflect the combination of depth, current exposure, and remote location.
+Pizota is a secluded reef site located near a small fishing village at the southern end of Banderas Bay, approximately 1 hour and 20 minutes by boat from Puerto Vallarta. The site sees very little recreational boat traffic — most operators focus on the closer, more famous sites — which translates directly into undisturbed marine conditions and a quieter, more exploratory dive experience.
 
-Like other southern bay sites, the position at the bay-ocean interface brings cleaner water and stronger current than the more sheltered inshore sites. The rocky reef structure here extends to depth, with the deeper sections accessible only to divers comfortable managing depth and current simultaneously.
+The protected location of the reef, sheltered from the main bay boat traffic, has allowed resident marine populations to thrive without the disturbance that affects busier destinations. Pizota is a site where species that tend to be shy at high-traffic locations — moray eels, sea snakes, and bottom-dwelling species — are more relaxed and visible. The remote character means this is a dive that rewards those willing to make the longer boat ride.
 
 ## Site Information
 
-- **Location**: Far southern Banderas Bay, near bay-ocean boundary
+- **Location**: Southern Banderas Bay near a fishing village; ~1hr 20min from Puerto Vallarta
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
-- **Typical Visibility**: 10-25 meters
-- **Water Temperature**: 18-27°C (thermoclines common at depth)
-- **Current**: Strong; exposed position
-- **Best Time**: May to November (calmer crossing conditions)
+- **Typical Visibility**: 10-20 meters
+- **Water Temperature**: 18-27°C (thermoclines possible at depth)
+- **Current**: Moderate to strong; exposed southern bay position
+- **Best Time**: May to November
 
 ## Marine Life
 
-The open-ocean proximity of Pizota means pelagic species are more likely than at inshore sites. Manta rays, eagle rays, and shark species associated with the outer bay all potentially pass through the site. The rocky reef structure supports moray eels, lobsters, and the encrusting invertebrate communities typical of current-swept southern bay reefs. Schools of jacks, snapper, and other reef fish aggregate around the structure where current provides nutrients.
+Moray eels are unusually abundant and visible at Pizota — the low disturbance levels mean they are more frequently seen with heads and bodies extended from their holes rather than retreated. Sea snakes are a notable sighting specific to this site; they are commonly encountered on the reef and in the water column, and are generally docile but warrant respectful distance. Abundant reef fish — snapper, parrotfish, angelfish, jacks — populate the reef structure in the lower-pressure environment. The deeper sections attract rays and the occasional pelagic species drawn in from the southern bay entrance.
 
 ## Dive Profile
 
-Dives at Pizota typically run 15-40 meters, with the deepest sections at the base of the reef formations requiring careful depth monitoring and management. Plan your profile to complete the deepest portion first while air supply is at its highest, then work progressively shallower as the dive continues. Decompression calculations need attention given the 40-meter maximum depth. Current management is part of every dive here — brief conditions with the operator before entry and be prepared to abort to shallower sections if conditions deteriorate.
+Dives at Pizota run 10-40 meters on the rocky reef structure. Plan depth carefully — 40 meters is at the recreational limit and requires careful gas management given the 1hr 20min return boat ride with no option for early turnaround. Most of the abundant marine life is accessible in the 10-25 meter range, which offers the best return on air consumption. Advanced certification is required; comfort with depth and potential current are prerequisites.
 
 ## Entry and Exit
 
-Full-day boat expedition required from Puerto Vallarta marina. Transit time will be substantial given the southern bay location. Giant stride entry; ascend with SMB in potentially current-affected water. Advanced Open Water certification required.
+Boat access only from Puerto Vallarta marina, approximately 1 hour and 20 minutes each way. The long transit makes this a full-day commitment. Giant stride entry; ascend with SMB deployed. Advanced Open Water certification required.
 
 ## Tips and Recommendations
 
-- This site requires recent experience with deep dives and current — it is not a site for newly Advanced-certified divers without additional experience
-- Thermoclines at depth can drop water temperature significantly below surface readings; bring a suitable wetsuit (5mm minimum)
-- The remote southern location means the boat ride can be long and rough; plan accordingly
-- Combine with El Chimo or nearby southern bay sites on the same day to justify the travel time
-- Always carry an SMB at this site — current can separate divers from the boat during ascent
+- Sea snakes are a highlight of Pizota that distinguishes it from most other PV sites — they are non-aggressive but give them space, particularly around their heads
+- The low boat traffic here means marine life is noticeably less wary than at Los Arcos or other popular sites
+- The 1hr 20min transit justifies a two-tank dive at the site — plan with your operator to maximize bottom time at the destination
+- Moray eels at Pizota are more fully visible than at busier sites; approach slowly and without sudden movements for the best observation
+- Bring a 5mm wetsuit — thermoclines at depth can drop temperatures significantly from the warm surface layer

@@ -13,42 +13,42 @@ addedBy: osm_import
 
 # Love Rocks
 
-Very shallow beginner reef near Las Marietas Islands — ideal for snorkeling crossover and introductory dives, with a rocky reef floor packed with damselfish, parrotfish, and sea turtles at 10 meters maximum
+Very shallow rocky reef near Punta de Mita — maximum 10 meters, consistently calm conditions, and abundant beginner-friendly marine life; ideal as a first dive or paired with La Puntilla on two-tank trips
 
 ## Overview
 
-Love Rocks is a shallow reef site located near the Las Marietas Islands in the northern part of Banderas Bay, with a maximum depth of just 10 meters. The extremely shallow profile makes it one of the most accessible dive sites in the Puerto Vallarta area, suitable for introductory dives, snorkelers making their first scuba attempt, and newly certified divers building confidence in a forgiving environment.
+Love Rocks is a very shallow rocky reef site located near Punta de Mita at the northern tip of Banderas Bay. At a maximum depth of 10 meters, it is one of the shallowest dive sites in the Puerto Vallarta area and is specifically valued for its consistently calm conditions and easy entry. The shallow depth and protected location make it ideal for beginners, newly certified divers, and those doing their first dive in a new destination.
 
-The site sits within the Las Marietas marine protected area zone, which means the usual benefits of park protection apply: bolder marine life, better reef condition, and no fishing pressure. At 10 meters, natural light is strong throughout the dive, which means excellent visibility of the reef and its inhabitants without requiring artificial light for basic exploration.
+The site's rocky formations create an accessible, low-stress environment where divers can focus on relaxing into their buoyancy and observing marine life without depth pressure or navigation complexity. Love Rocks is frequently paired with La Puntilla (which offers a deeper 22-meter option) on two-tank trips out of Punta de Mita, giving mixed-experience groups a practical way to split the day by ability level.
 
 ## Site Information
 
-- **Location**: Near Las Marietas Islands, northern Banderas Bay
+- **Location**: Near Punta de Mita, northern tip of Banderas Bay
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 10 meters
 - **Typical Visibility**: 10-15 meters
-- **Water Temperature**: 17-28°C (seasonal; cooler near Marietas)
-- **Current**: Usually mild; check conditions near the islands
-- **Best Time**: November to May for best visibility
+- **Water Temperature**: 22-27°C (72-80°F)
+- **Current**: Mild; generally calm conditions
+- **Best Time**: Year-round; most reliable May to November
 
 ## Marine Life
 
-The shallow reef supports a dense population of damselfish, which are visible in large numbers across the rocky substrate. Parrotfish work the reef surface constantly. Sea turtles visit the site regularly within the protected area. The rocky reef provides habitat for moray eels, nudibranchs, and small invertebrates accessible at snorkeling depth. Triggerfish and pufferfish are common. The strong natural light at 10 meters means colors are vivid without a torch.
+Damselfish are the most abundant species, covering the rocky substrate in dense numbers throughout the site. Parrotfish work the reef surface consistently. Pufferfish are common in the shallower sections and tend to be tolerant of close approach. Triggerfish patrol the reef surface. Moray eels occupy the rock crevices throughout the formation. The strong natural light at 10 meters means colors appear vivid and clearly defined without artificial lighting.
 
 ## Dive Profile
 
-All diving at Love Rocks occurs at 5-10 meters, making this a genuinely shallow site where depth management is simple and bottom times are essentially unlimited. Buoyancy control at shallow depth requires attention — overweighted divers or those with poor trim will constantly hover above the reef. The reef structure provides natural route-finding. This site is ideal for practicing buoyancy and reef-interaction skills at low risk.
+All diving at Love Rocks occurs at 5-10 meters, producing unlimited practical bottom times within recreational air limits. The shallow depth requires active buoyancy management — the reef is never far below, and overweighted divers or those with poor trim will drag along the bottom. The rocky formation provides natural navigation. The site is ideal for practicing trim, buoyancy, and marine-life observation skills in a low-risk, forgiving environment.
 
 ## Entry and Exit
 
-Boat dive combined with Las Marietas Islands trips. Approximately 70 minutes from Puerto Vallarta marina. Las Marietas protected area fees apply.
+Boat dive from Punta de Mita operators. Short transit time from the Punta de Mita launch area. Giant stride entry; exit to the boat. Conditions are consistently calm.
 
 ## Tips and Recommendations
 
-- Love Rocks works well as a warm-up dive before deeper Marietas sites or as a standalone introductory experience
-- The shallow depth makes it appropriate for snorkelers attempting their first scuba equipment experience
-- Practice neutral buoyancy carefully at 10 meters — the reef is very close and good trim matters
-- Water near Las Marietas can be cooler than the main bay; a wetsuit is recommended even in summer
-- Strong natural light means photos taken here look vivid without a strobe if shooting in the shallower sections
+- Love Rocks naturally pairs with La Puntilla on two-tank trips from Punta de Mita — do Love Rocks first to warm up, then La Puntilla for the deeper dive
+- The consistently calm conditions here make it one of the most reliable beginner sites in the northern bay regardless of weather
+- Practice neutral buoyancy actively — at 10 meters the reef is always close and good trim makes a genuine difference
+- Pufferfish here are relaxed and allow close observation; approach slowly and avoid sudden movements
+- Natural light is strong throughout the dive — no torch needed for basic exploration, but one reveals details in rock crevices

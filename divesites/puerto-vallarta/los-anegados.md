@@ -13,42 +13,42 @@ addedBy: osm_import
 
 # Los Anegados
 
-Volcanic cavern and cave formations near Las Marietas Islands — dark passages, encrusting invertebrates, and the dramatic light-play typical of the Marietas volcanic rock system
+Rocky bank between Las Marietas and El Morro — caves and swimthroughs starting at 9 meters, nurse sharks on the sandy bottom, stingrays, moray eels, and occasional giant mantas
 
 ## Overview
 
-Los Anegados is a cave and cavern dive site located in the Las Marietas Islands area of northern Banderas Bay. The site's volcanic origins are shared with the main Marietas dive sites — the same lava flow erosion that created the tunnels and passages at La Pared has produced similar formations at Los Anegados, including accessible caverns and passages at recreational depths.
+Los Anegados is a rocky bank situated between Las Marietas Islands and El Morro in the northern section of Banderas Bay. The site sits in a productive stretch of the bay where current from the open Pacific mixes with bay water, creating conditions that support a diverse mix of resident and pelagic species. Los Anegados draws far less traffic than its neighbors — Las Marietas has park rules and tourist crowds, El Morro attracts experienced divers for the tunnel — making Los Anegados a quieter, exploratory alternative.
 
-The volcanic substrate is heavily encrusted with invertebrate growth: corals, sponges, gorgonians, and the cup corals that thrive in the reduced-light environment of cavern walls. The transition between the sunlit exterior and the dimmer cavern interior creates the layered light quality characteristic of cavern diving, with beams penetrating from the entrance and gradually fading into darker sections deeper inside.
+The defining feature is an intricate network of caves and swimthroughs beginning as shallow as 9 meters, penetrating the rock formations at various depths and emerging on different faces. The rock formations are interspersed with sandy bottom sections between the structures, and these sandy areas are where nurse sharks rest — a consistent and memorable sighting that distinguishes Los Anegados from most other bay sites. The combination of cave navigation and shark-on-the-sand encounters makes it a particularly varied single dive.
 
 ## Site Information
 
-- **Location**: Las Marietas Islands area, northern Banderas Bay
+- **Location**: Between Las Marietas Islands and El Morro, northern Banderas Bay
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-18 meters
-- **Water Temperature**: 17-28°C (seasonal; thermoclines possible in this area)
-- **Current**: Moderate; can strengthen on exposed approaches
-- **Best Time**: November to May (typically better visibility)
+- **Water Temperature**: 20-27°C (68-80°F)
+- **Current**: Moderate; varies with tidal flow
+- **Best Time**: May to November
 
 ## Marine Life
 
-The cavern walls support the encrusting invertebrate communities typical of the Marietas volcanic rock system: cup corals, sponges, nudibranchs, and cleaning shrimp in the darker interior sections. Moray eels occupy cavern crevices. Fish species associated with the Marietas protected area are present throughout the site: angelfish, damselfish, snapper, and parrotfish on the exterior rock faces. Sea turtles are common in the broader Las Marietas area and may be encountered on the approaches to the site.
+Nurse sharks rest on the sandy bottom sections between rock formations — they are typically stationary and can be approached closely for observation. Stingrays inhabit the sandy areas and are commonly encountered at multiple depths. Moray eels occupy the cave entrances and crevices throughout the formation. Giant manta rays pass through Los Anegados when current is running in the northern bay, with less predictability than at El Morro but genuine sighting frequency. The swimthrough walls support sponges, encrusting corals, and nudibranchs in the sheltered sections. Reef fish — snapper, parrotfish, angelfish — are consistent throughout.
 
 ## Dive Profile
 
-Dives at Los Anegados begin in the shallow exterior areas and move into the cavern sections at depth. The cavern formations are accessible to intermediate divers who have cavern or overhead environment awareness — stay within the light zone and maintain a clear view of the entrance throughout. Depth ranges from around 10 meters at the shallowest exterior sections to 25 meters in the deeper cavern approaches. A dive torch is essential for the interior sections. The site is typically combined with other Las Marietas dives on the same day.
+Dives at Los Anegados begin at the shallow formation tops (around 9 meters) and work down through the cave and swimthrough network to 20-25 meters. A torch is required for the interior passages. Sandy sections between formations are worth traversing at a low, slow pace to spot nurse sharks and stingrays without disturbing them. Most productive sightings concentrate in the 10-20 meter range. The site is often used as the second tank on El Morro or Las Marietas trips, giving divers a shallower, more exploratory experience after the deep pinnacle diving.
 
 ## Entry and Exit
 
-Boat dive, part of Las Marietas Islands trip packages. Approximately 70 minutes from Puerto Vallarta marina. Giant stride entry; exit to the dive boat. Las Marietas protected area fees apply.
+Boat access; typically combined as a second tank on El Morro or Las Marietas trips from Puerto Vallarta, approximately 60-75 minutes from the marina. Giant stride entry; ascent with SMB.
 
 ## Tips and Recommendations
 
-- Bring a reliable dive torch — the cavern interior is significantly darker than the exterior rock faces
-- Cavern diving requires maintaining visual contact with the entrance and not exceeding the depth of natural light penetration — this is not a full cave penetration site
-- The cup corals and sponges on cavern walls photograph beautifully with a torch providing fill light on the background
-- Water temperature near Las Marietas can be noticeably cooler than at the main Puerto Vallarta sites — wear at least a 3mm wetsuit
-- This site is often combined with Las Marietas Islands (La Montana/La Pared) as a second tank on northern bay trips
+- A dive torch is essential — cave passages are dark and the encrusting life on the walls is invisible without light
+- Approach sandy sections slowly from a low angle to observe nurse sharks without triggering movement
+- Often the better second dive after El Morro — shallower and more cave-focused, offering genuine contrast to the open-pinnacle experience
+- The swimthrough network means no two dives are identical; ask guides to take different routes on repeat visits
+- Good neutral buoyancy in the passages protects the encrusting walls and makes navigation through tighter sections cleaner

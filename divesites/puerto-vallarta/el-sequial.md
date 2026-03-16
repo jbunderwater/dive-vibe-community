@@ -13,42 +13,42 @@ addedBy: osm_import
 
 # El Sequial
 
-Remote offshore pinnacle beyond La Corbeteña — advanced dive in open Pacific conditions with pelagic fish, sharks, and rays far from the main Banderas Bay sites
+Submerged mesa approximately 1 km north of Corbeteña — a 300-meter-long underwater plateau at 18-25 meters, with giant sailfish, dense tuna schools, and the same pelagic diversity as its famous neighbor
 
 ## Overview
 
-El Sequial is an advanced offshore pinnacle located in the open Pacific beyond the mouth of Banderas Bay, at a similar longitude to La Corbeteña and northwest of Puerto Vallarta. The coordinates place it well offshore in oceanic water, accessible only on full-day expeditions in suitable sea conditions. Like La Corbeteña, the remote open-ocean position means the site is subject to current, swells, and thermoclines that require experience and preparation to manage safely.
+El Sequial is a submerged mesa located approximately 1 kilometer north of El Bajo de Corbeteña, sharing the same remote offshore position northwest of Puerto Vallarta and requiring the same 2+ hour boat crossing. The name refers to the elongated table-top shape of the formation — roughly 300 meters long and flat on top at 18-25 meters — which local divemasters sometimes describe as an "underwater sports field" because of its open, level character compared to the more dramatic walls of Corbeteña.
 
-The pinnacle structure rises from deep water to its shallowest point at around 27 meters, with the surrounding seafloor dropping well beyond recreational limits. The open Pacific setting brings in oceanic species that rarely appear at inshore sites, and the strong current sweeping the formation keeps the water clear and the marine life active. El Sequial is typically combined with La Corbeteña on multi-day or liveaboard-style day trips.
+The mesa is regularly visited as a second dive on Corbeteña expeditions. While Corbeteña draws the most attention, El Sequial consistently delivers comparable pelagic action and occasionally outdoes its neighbor for sailfish and tuna school density. The flat plateau top makes drift diving across the structure straightforward, and the open exposure brings in the same offshore species that define Corbeteña diving.
 
 ## Site Information
 
-- **Location**: Open Pacific, northwest of Puerto Vallarta beyond La Corbeteña
+- **Location**: ~1 km north of Corbeteña, northwest of Puerto Vallarta; ~2+ hr by boat
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 27 meters
-- **Typical Visibility**: 15-30+ meters in good conditions
+- **Typical Visibility**: 12-30 meters; among the best in the region
 - **Water Temperature**: 17-26°C (variable; thermoclines common)
-- **Current**: Strong; variable
-- **Best Time**: May to November (calmer crossing conditions)
+- **Current**: Strong; variable direction
+- **Best Time**: May to November
 
 ## Marine Life
 
-The oceanic position of El Sequial makes pelagic encounters more likely than at inshore sites. Manta rays — including Giant Pacific mantas — are drawn to the current sweeping the pinnacle. Sharks, including hammerheads and reef species, patrol the deeper edge of the formation. Large schools of jacks, tuna, and other open-water fish aggregate around the structure. Rays and sea turtles are regularly seen. The pinnacle's hard surfaces support encrusting life where the depth allows light penetration.
+Giant sailfish are among the most memorable sightings at El Sequial — the site sees some of the most reliable sailfish encounters in the Puerto Vallarta area. Dense schools of yellowfin tuna aggregate around the edges of the mesa, often in numbers that make the water appear dark with fish. Oceanic manta rays visit the plateau when current is running and plankton is concentrated. Hammerhead sharks patrol the deeper flanks. The same pelagic diversity present at Corbeteña applies here — the proximity and identical open-ocean setting means the two sites draw the same species.
 
 ## Dive Profile
 
-All diving at El Sequial occurs on the pinnacle structure in 15-27 meter range. The site is current-exposed throughout, meaning drift diving techniques are often necessary. Plan your descent around the current direction briefed by the divemaster and maintain situational awareness of the formation's position relative to your drift. Deploy an SMB before ascending from depth; open-water conditions mean pick-up requires clear signaling. Advanced Open Water certification and genuine deep-diving experience are necessary prerequisites.
+Dives at El Sequial run across the flat mesa top at 18-25 meters, drifting with the current along the 300-meter length of the structure. The elongated plateau shape means there is room to move laterally while watching the blue water above and beside the mesa for incoming animals. Plan gas consumption carefully — the 2+ hour return boat ride means no early turnaround option is available if air runs low. Advanced certification and open-ocean current experience are prerequisites.
 
 ## Entry and Exit
 
-Full-day boat expedition required from Puerto Vallarta marina; expect a 2+ hour crossing depending on conditions. Weather windows are critical — the open Pacific is genuinely rough in poor conditions. Giant stride entry; drift ascent with SMB in open water.
+Full-day boat expedition from Puerto Vallarta marina; typically the second dive after Corbeteña on the same trip. Expect a 2+ hour crossing each way. Giant stride entry; drift ascent with SMB in open water. Sea conditions can be rough — confirm with the operator the morning of departure.
 
 ## Tips and Recommendations
 
-- This is a destination for experienced divers who are comfortable with open-ocean conditions, current diving, and managing thermoclines
-- Combine with La Corbeteña on the same day to maximize the long boat ride
-- Seasickness medication is strongly advised — the open Pacific crossing can be rough even in summer
-- Bring a thicker wetsuit (5mm or more) for thermoclines below the surface layer
-- Confirm conditions with the operator the morning of departure — the site is frequently skipped in rough weather
+- El Sequial is most effectively dived as the second tank after Corbeteña — the proximity makes the combination the standard format
+- Sailfish encounters are particularly associated with this site; ask your divemaster if conditions favor it
+- The flat mesa top makes depth management easier than at Corbeteña's walls — a good site to focus attention on the water column above rather than the structure below
+- Bring seasickness medication for the crossing — the open Pacific can be rough even in summer months
+- A 5mm wetsuit is recommended for the thermoclines that can drop temperatures 5-8°C below the surface layer

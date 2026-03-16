@@ -13,41 +13,41 @@ addedBy: osm_import
 
 # La Puntilla
 
-Sheltered reef point near Las Marietas Islands — beginner-friendly diving with tropical fish, moray eels, nudibranchs, and sea turtles in protected marine reserve waters
+Reef and rocky formations at the northern tip of Banderas Bay near Punta de Mita — available as a shallow 12-meter dive or a deeper 22-meter dive, with tropical fish and calm conditions for beginners
 
 ## Overview
 
-La Puntilla is a reef dive site located near the Las Marietas Islands in the northern part of Banderas Bay, sitting within or adjacent to the Marietas marine protected area. The coordinates place it near the Las Marietas island group on the Nayarit side of the bay, where the protected status and relatively low boat traffic create conditions favorable for beginner diving and relaxed marine life encounters.
+La Puntilla (The Point) is a reef dive site at the northern tip of Banderas Bay near Punta de Mita on the Nayarit coast. The site takes its name from the rocky point that extends into the bay at this location, creating underwater reef structure on both sides of the tip. Operators from the Punta de Mita area use La Puntilla regularly for beginners, certification dives, and as a second-tank option on multi-dive northern bay trips.
 
-The site features reef structure at accessible depths, with the typical volcanic rock and hard coral growth characteristic of the Marietas area. As a beginner-rated site, La Puntilla is used for introductory dives and early certification work on trips that combine it with the main Las Marietas diving sites, offering a lower-stress entry to Marietas-area conditions before advancing to the deeper walls and caves.
+The site is structured to accommodate two distinct dive profiles: a shallow version that stays around 12 meters, working the reef formations near the point in a comfortable low-depth environment, and a deeper version that extends to 22 meters where the reef structure transitions to a more complex rocky landscape with greater species variety. This flexibility makes La Puntilla useful for mixed-experience groups — beginners on the shallow profile while more experienced divers work the deeper sections independently.
 
 ## Site Information
 
-- **Location**: Near Las Marietas Islands, northern Banderas Bay
+- **Location**: Northern tip of Banderas Bay near Punta de Mita
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 22 meters
-- **Typical Visibility**: 10-15 meters
-- **Water Temperature**: 17-28°C (seasonal; thermoclines possible near Marietas)
-- **Current**: Usually mild; can increase on exposed faces
-- **Best Time**: November to May (better visibility season near Marietas)
+- **Typical Visibility**: 10-18 meters
+- **Water Temperature**: 22-27°C (72-80°F)
+- **Current**: Usually mild; can increase around the point
+- **Best Time**: May to November
 
 ## Marine Life
 
-Sea turtles are common in the Las Marietas area and visit La Puntilla regularly, benefiting from the marine protected area status. Moray eels inhabit the volcanic rock crevices throughout the site. Nudibranchs appear on the reef surfaces, with species diversity typical of the protected northern bay. Reef fish include angelfish, damselfish, parrotfish, and snapper. The gorgonians and sea fans growing on the rocky sections support invertebrate communities that reward close observation.
+Tropical reef fish are the consistent draw at La Puntilla — parrotfish, angelfish, damselfish, and triggerfish are common throughout both the shallow and deep profiles. Moray eels inhabit the rocky sections at multiple depths. Sea turtles visit the reef, benefiting from the northern bay's relatively low boat traffic compared to the PV marina area. Pufferfish are reliable in the shallower sections. Stingrays rest on the sandy patches between rocky formations. The deeper 22-meter zone offers the better chance of spotting jacks or other schooling fish aggregating around the point.
 
 ## Dive Profile
 
-Dives at La Puntilla typically run 5-20 meters, staying within the comfortable range for beginner divers. The reef structure provides clear visual reference for navigation. Most of the interesting marine life is concentrated in the 8-15 meter range on the rocky reef sections. The site's beginner orientation means it's often combined with a deeper Marietas dive on the same trip — La Puntilla serves as the introductory or warm-up dive.
+The shallow dive option at La Puntilla runs 6-12 meters on the rocky reef near the point — straightforward, low-pressure, and ideal for new divers building confidence. The deeper option descends to 22 meters on the more complex reef structure beyond the shallow zone, offering greater topographic variety and access to species less common in the shallows. Both profiles finish with a comfortable safety stop on the shallower reef section. The two-profile structure makes La Puntilla a natural pair with Love Rocks on two-tank trips out of Punta de Mita.
 
 ## Entry and Exit
 
-Boat dive, typically combined with trips to the main Las Marietas dive sites. Approximately 70-80 minutes from Puerto Vallarta marina. Giant stride entry; exit to the dive boat.
+Boat dive from Punta de Mita operators (short transit) or Puerto Vallarta marina (longer transit). Giant stride entry; exit to the boat. Conditions around the point are generally calm but can increase in current on the exposed face.
 
 ## Tips and Recommendations
 
-- This site works well as a first dive on Las Marietas trips — use it to check your weighting and buoyancy before attempting the deeper walls and caves at La Pared
-- Water near the Marietas can be cooler than the main bay; bring at least a 3mm wetsuit and 5mm if diving outside summer months
-- Sea turtles in the Marietas area are protected and accustomed to divers — observe without approaching too close
-- The marine protected area fee applies to all Marietas diving, including La Puntilla
+- La Puntilla pairs naturally with Love Rocks on two-tank trips out of Punta de Mita — both sites are nearby and complement each other with different depth profiles
+- The shallow 12-meter option is one of the most beginner-friendly sites in the northern bay — good for first open-water dives in real ocean conditions
+- The deeper 22-meter zone rewards divers who extend their bottom time beyond the shallow reef
+- Current can increase around the point itself — stay inside the sheltered reef face if conditions pick up

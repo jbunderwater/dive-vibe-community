@@ -13,42 +13,42 @@ addedBy: osm_import
 
 # Las Viudas
 
-Mid-bay muck dive site in Banderas Bay — sandy bottom and mixed substrate with critters, flatfish, and invertebrates for patient macro enthusiasts
+One of the few sandy-bottom muck dive sites in Banderas Bay, west of La Cruz de Huanacaxtle — rich invertebrate life including sponges, nudibranchs, and diverse reef fish on a 20-meter sandy and mixed-substrate site
 
 ## Overview
 
-Las Viudas is a muck diving site located in the mid-section of Banderas Bay, offering a completely different character from the rocky reef and pinnacle sites that dominate the Puerto Vallarta diving scene. Where most bay sites feature granite boulders, volcanic walls, or open-ocean seamounts, Las Viudas centers on a sandy, mixed-substrate bottom where the focus shifts to small, camouflaged, and unusual species rather than dramatic reef architecture.
+Las Viudas is one of the only dedicated muck dive sites in Banderas Bay, located west of La Cruz de Huanacaxtle in the northern section of the bay. Most Puerto Vallarta diving happens on granite boulders, volcanic walls, or offshore seamounts — Las Viudas offers a completely different experience: a sandy and muddy bottom environment where the focus shifts from reef architecture to close-in invertebrate and cryptic species hunting.
 
-Muck diving requires a different approach and mindset from reef diving: slower movement, careful scanning of the substrate for animals using camouflage or buried in the sand, and an eye for unusual textures and shapes. The site is shallow enough (maximum 20 meters) that long bottom times are achievable, which suits the deliberate pace that muck diving rewards.
+The site is specifically valued for its rich invertebrate life, which is denser here than at most sandy-bottom sites in the region. Sponges colonize the mixed substrate in unusual variety, providing structure for nudibranchs and small crustaceans. Diverse reef fish species inhabit the rubble and algae patches. This is the kind of site that rewards divers who slow down, scan systematically, and look carefully rather than cover distance.
 
 ## Site Information
 
-- **Location**: Mid-Banderas Bay
+- **Location**: West of La Cruz de Huanacaxtle, northern Banderas Bay
 - **Entry Type**: Boat dive
 - **Site Type**: Muck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: Moderate; can be reduced by particulate matter over sandy bottom
+- **Typical Visibility**: Moderate; can be reduced by particulate over sandy bottom
 - **Water Temperature**: 22-28°C (72-82°F)
 - **Current**: Usually mild
 - **Best Time**: May to November
 
 ## Marine Life
 
-Muck diving at Las Viudas targets small, cryptic, and often unusual species: flatfish and flounder that blend with the sandy substrate, lizardfish resting on the bottom, scorpionfish among rubble patches, garden eels in sandy sections, and various invertebrates including sea stars, urchins, and mollusks. Rays — stingrays and electric rays — are common across the sandy areas. The mixed sandy-rubble substrate supports resident populations of species rarely seen on hard reef. Careful searching of algae patches may reveal seahorses.
+Sponges cover large sections of the mixed substrate in unusually high diversity for a sandy bottom site in the bay. Nudibranchs use the sponge communities as habitat and feeding grounds. Diverse reef fish — including species typically associated with reef structure — inhabit the algae patches and rubble sections between sandy areas. Stingrays and electric rays rest on the sandy flats. Flatfish blend with the substrate throughout the site. Careful searching of algae and sponge patches can reveal shrimp, crabs, and small mollusks. Octopus are present and active in the mixed-substrate zones.
 
 ## Dive Profile
 
-Dives at Las Viudas run at relatively shallow depths (5-20 meters) for extended bottom times. The muck diving approach means moving slowly across the bottom at constant depth rather than making depth transitions. Most discoveries happen within centimeters of the substrate surface. Plan for a thorough, unhurried exploration of a relatively compact area rather than covering large distances. Good buoyancy control is important to avoid stirring up the sandy bottom and reducing visibility.
+Dives at Las Viudas run at 5-20 meters across the sandy and mixed-substrate bottom. Muck diving technique applies: move slowly and horizontally at a constant depth rather than making frequent depth transitions. Most productive encounters happen within centimeters of the substrate surface. Extended bottom times are achievable given the shallow-to-mid depth range. Good buoyancy is critical on sandy bottom — hovering neutral just above the substrate without touching it prevents silting and protects visibility for subsequent divers.
 
 ## Entry and Exit
 
-Boat dive from Puerto Vallarta marina. Giant stride entry; exit back to the boat after completing the dive.
+Boat dive from Puerto Vallarta marina or operators based in La Cruz de Huanacaxtle. Giant stride entry; exit back to the boat. Conditions are typically calm.
 
 ## Tips and Recommendations
 
-- Move slowly and look for slight variations in texture, color, or pattern that indicate camouflaged animals — muck diving rewards patience over distance
-- A focused, narrow torch beam helps reveal animals that blend with the substrate
-- Bring a macro lens — the subjects here are small and benefit from close-up photography
-- Good buoyancy control is essential on sandy bottom to avoid silting out the area and obscuring subjects for other divers
-- Las Viudas offers a useful contrast to the reef and pinnacle sites in the bay; add it to your PV itinerary for a different experience
+- Move slowly and scan systematically — muck diving rewards patience and methodical searching over distance covered
+- Sponge communities are the most productive zones for nudibranch hunting; work along these patches carefully
+- A focused torch beam reveals animals that blend with the substrate and brings out the colors on sponge surfaces
+- Bring a macro lens — the subjects at Las Viudas are small and close-focus photography is the primary reward
+- This site offers a useful contrast to the dramatic reef and pinnacle sites elsewhere in the bay; add it to an itinerary for a change of pace
