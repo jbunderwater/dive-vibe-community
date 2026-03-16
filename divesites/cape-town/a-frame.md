@@ -17,7 +17,7 @@ A-Frame is a reef dive site in Cape Town, Africa.
 
 ## Overview
 
-A-Frame is a dive site in Cape Town offering excellent diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+A-Frame is a shallow reef dive site in Cape Town, perfect for beginner and recreational divers. This site features Atlantic rocky reefs and kelp forest ecosystems typical of the Cape Peninsula. Expected water temperature is 10-14°C (cold Atlantic waters), requiring full 5mm+ wetsuits year-round.
 
 ## Site Information
 
@@ -26,13 +26,14 @@ A-Frame is a dive site in Cape Town offering excellent diving on healthy coral r
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Typical Visibility**: 6-15 meters (Atlantic seaboard variability)
+- **Current**: Variable, can be strong
+- **Best Time**: October to March (calmer seas); summer after southeast winds
+- **Water Temperature**: 10-14°C year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
+A-Frame hosts diverse kelp forest fauna and reef-dwelling species. Common sightings include Cape sea urchins, starfish, nudibranchs, various reef fish, and occasional Cape fur seals. The area also supports crayfish and abalone populations. Winter months may bring ragged-tooth sharks and other pelagic species.
 
 ## Dive Profile
 

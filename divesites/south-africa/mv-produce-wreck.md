@@ -2,8 +2,8 @@
 name: MV Produce Wreck
 lat: -30.2583
 lng: 30.825
-difficulty: Intermediate
-maxDepth: 30
+difficulty: Advanced
+maxDepth: 32
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## MV Produce Wreck
 
-MV Produce Wreck is a historic wreck dive in South Africa, Africa.
+The MV Produce is a large Norwegian bulk carrier that sank on August 11, 1974, when it struck the northeast pinnacle at Aliwal Shoal while carrying a full cargo of molasses. At 168 meters in length, the Produce was a significant cargo vessel that has become one of Aliwal Shoal's major wreck attractions. The site is designated advanced-level dive due to depth and currents, and penetration is no longer permitted by local authorities to preserve the wreck and protect the brindle bass populations that inhabit it.
 
 ## Overview
 
-MV Produce Wreck is a dive site in South Africa featuring a historic wreck. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+The MV Produce lies on its right side with depths ranging from 14 meters at the top to approximately 32 meters on the sand bottom. Characterized by strong currents typical of Aliwal Shoal, this wreck requires careful navigation and planning. The external structure provides excellent exploration opportunities while protecting sensitive marine communities within the structure.
 
 ## Site Information
 
 - **Location**: South Africa, Africa
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 32 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)
 - **Current**: Moderate to strong
 - **Best Time**: October to March (East Africa), varies by location
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, batfish, coral growth, lionfish, whale sharks, manta rays, humpback whales, sea turtles. Additional species commonly sighted include dolphins, reef sharks. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Brindle bass populations are the primary resident fish species, sheltering throughout the wreck structure. The site's protected status reflects the importance of the wreck as a critical fish habitat. Hard corals, sponges, and other encrusting organisms colonize the hull and structural surfaces. Groupers, morays, and other reef fish frequent the external structure and nearby reef ecosystems.
 
 ## Dive Profile
 

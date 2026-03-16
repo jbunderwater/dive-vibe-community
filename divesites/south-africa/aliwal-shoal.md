@@ -3,7 +3,7 @@ name: Aliwal Shoal
 lat: -30.2667
 lng: 30.8333
 difficulty: Intermediate
-maxDepth: 27
+maxDepth: 20
 entryType: boat
 siteType: reef
 ref: null
@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Aliwal Shoal
 
-Aliwal Shoal is a reef dive site in South Africa, Africa.
+Aliwal Shoal is rated as one of the world's top ten dive sites and the best dive site in South Africa after Sodwana Bay. Located 2.5-5 kilometers offshore from Umkomaas on the KwaZulu-Natal coast, this site is globally renowned as a premier shark diving destination, particularly for ragged-tooth sharks (Grey Nurse Sharks).
 
 ## Overview
 
-Aliwal Shoal is a dive site in South Africa offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Aliwal Shoal is a fossilized Pleistocene-era sand dune transformed into an aeolianite reef featuring hard corals and sponges where warm Indian Ocean waters meet cooler currents. The reef structure creates unique habitats supporting exceptional shark populations and diverse tropical fish. Depths range from 12-27 meters with varying topography including caves, ledges, and sandy patches.
 
 ## Site Information
 
@@ -25,14 +25,14 @@ Aliwal Shoal is a dive site in South Africa offering rewarding diving on healthy
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 27 meters
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)
 - **Current**: Moderate to strong
 - **Best Time**: October to March (East Africa), varies by location
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
+Aliwal Shoal is renowned for its Grey Nurse Sharks (ragged-tooth sharks or "raggies"), which congregate in large mating groups between July-November, with formations of dozens visible at sites like Raggie's Cave and Cathedral. The site also features diverse tropical fish, hard corals, and sponges. Divers encounter large potato bass, morays, and tropical reef fish year-round.
 
 ## Dive Profile
 

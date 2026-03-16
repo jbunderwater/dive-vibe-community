@@ -2,10 +2,10 @@
 name: Shark Alley Gansbaai
 lat: -34.6
 lng: 19.35
-difficulty: Intermediate
-maxDepth: 12
+difficulty: Beginner
+maxDepth: 8
 entryType: boat
-siteType: reef
+siteType: beach
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Shark Alley Gansbaai
 
-Shark Alley Gansbaai is a reef dive site in South Africa, Africa.
+Shark Alley is a world-famous great white shark cage diving location located in a 150-meter wide channel between Geyser Rock and Dyer Island near Gansbaai, Western Cape. Located just 2 hours from Cape Town and only 12 kilometers from the coastal village of Gansbaai, this destination attracts thousands of divers annually seeking encounters with the ocean's apex predators.
 
 ## Overview
 
-Shark Alley Gansbaai is a dive site in South Africa offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Shark Alley offers a unique diving experience quite different from traditional scuba: divers descend in protective underwater cages where they observe great white sharks at very close range. Most of the diving experience occurs at near-surface depths with the cage positioned just below the waterline. Divers maintain mostly surface-level positioning, holding their breath for brief moments to observe sharks passing by the cage.
 
 ## Site Information
 
 - **Location**: South Africa, Africa
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 12 meters
+- **Site Type**: Beach dive
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 8 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)
 - **Current**: Moderate to strong
 - **Best Time**: October to March (East Africa), varies by location
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
+Shark Alley's primary attraction is the resident population of great white sharks, which prey on the approximately 60,000 Cape Fur Seals breeding on Geyser Rock. Great white sharks are the dominant predator, with multiple sightings common per excursion. The location's high shark concentration is due to the abundant seal prey base, making it one of the most reliable great white shark encounter locations globally.
 
 ## Dive Profile
 

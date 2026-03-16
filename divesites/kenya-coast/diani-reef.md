@@ -3,7 +3,7 @@ name: Diani Reef
 lat: -4.34
 lng: 39.6
 difficulty: Beginner
-maxDepth: 14
+maxDepth: 16
 entryType: boat
 siteType: reef
 ref: null
@@ -13,30 +13,31 @@ addedBy: osm_import
 
 ## Diani Reef
 
-Diani Reef is a reef dive site in Kenya Coast, Africa.
+Diani Reef is part of Kenya's premier south coast dive destination, known for vast coral gardens, clear waters, and exceptional marine biodiversity. Located south of Mombasa, Diani offers fringing coral reefs and pinnacles starting from shallow depths down to 25 meters.
 
 ## Overview
 
-Diani Reef is a dive site in Kenya Coast offering excellent diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Diani Beach is famous for vibrant coral gardens teeming with tropical fish and diverse marine life. The reef system features healthy coral growth across depths of 7-25 meters, with shallow beginner-friendly areas (3-8 meters) and more challenging deeper sections. Water temperatures average 26-28°C with visibility typically 15-25 meters. The area is particularly known for seasonal whale shark encounters (November-February) and resident turtle communities.
 
 ## Site Information
 
-- **Location**: Kenya Coast, Africa
+- **Location**: Diani, Kenya South Coast
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 14 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Maximum Depth**: 16 meters
+- **Typical Visibility**: 15-25 meters
+- **Current**: Mild
+- **Best Time**: October to March (whale shark season November-February)
+- **Notable Features**: Coral gardens, turtle nesting areas, whale shark corridor
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
+Diani's waters host moray eels, turtles, clownfish, starfish, sweetlips, lionfish, crocodile fish, anemones, dolphins, octopus, white-tip reef sharks, and stingrays. The site is particularly renowned for seasonal whale shark encounters and close turtle encounters.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 14 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-14 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin at 10-12 meters over coral heads and channels, exploring the garden structures and overhangs. The reef extends gradually deeper to 20-25 meters over sandy bottom. Most abundant marine life is found between 8-16 meters. The shallow reef sections are ideal for photography and leisurely exploration. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 

@@ -3,7 +3,7 @@ name: Raggie Cave Aliwal
 lat: -30.275
 lng: 30.8417
 difficulty: Intermediate
-maxDepth: 18
+maxDepth: 16
 entryType: boat
 siteType: cave
 ref: null
@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Raggie Cave Aliwal
 
-Raggie Cave Aliwal is a cave dive site in South Africa, Africa.
+Raggie Cave (also called "Shark Alley" locally) is a large underwater cave system at Aliwal Shoal that serves as a critical mating and aggregation site for ragged-tooth sharks (Grey Nurse Sharks). During breeding season (August-November), the cave hosts dozens of these normally docile sharks. The site offers shallow diving with dramatic cave formations and exceptional shark encounters during peak season.
 
 ## Overview
 
-Raggie Cave Aliwal is a dive site in South Africa featuring underwater cave and cavern formations. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Raggie Cave features a large cave structure with depths averaging 12 meters and maximum depth of 19 meters. Divers typically kneel on sandy approaches to observe sharks without disturbing cave residents. Visibility is typically excellent (15-30m), and warm Indian Ocean waters (22-26°C) create comfortable conditions. The site is critically important for understanding shark breeding behavior and ecosystem dynamics.
 
 ## Site Information
 
@@ -25,14 +25,14 @@ Raggie Cave Aliwal is a dive site in South Africa featuring underwater cave and 
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
+- **Maximum Depth**: 16 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)
 - **Current**: Moderate to strong
 - **Best Time**: October to March (East Africa), varies by location
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+Ragged-tooth sharks (Grey Nurse Sharks) are the primary marine life attraction, forming massive congregations during breeding season (August-November) with dozens observed in a single dive. These normally docile sharks gather in the cave for mating. The cave structure also shelters groupers, morays, and other fish seeking shelter. Hard corals and invertebrates colonize the cave entrance and surrounding reef.
 
 ## Dive Profile
 

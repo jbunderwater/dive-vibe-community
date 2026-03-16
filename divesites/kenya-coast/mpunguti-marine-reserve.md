@@ -3,7 +3,7 @@ name: Mpunguti Marine Reserve
 lat: -4.68
 lng: 39.39
 difficulty: Beginner
-maxDepth: 15
+maxDepth: 20
 entryType: boat
 siteType: reef
 ref: null
@@ -13,30 +13,31 @@ addedBy: osm_import
 
 ## Mpunguti Marine Reserve
 
-Mpunguti Marine Reserve is a reef dive site in Kenya Coast, Africa.
+Kisite-Mpunguti Marine Reserve is Kenya's premier protected marine sanctuary, encompassing Mpunguti Reef as a core diving destination. The reserve protects one of the most biodiverse reef ecosystems on Kenya's south coast, featuring 11 designated dive sites and exceptional coral gardens.
 
 ## Overview
 
-Mpunguti Marine Reserve is a dive site in Kenya Coast offering excellent diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Kisite-Mpunguti Marine National Park and Reserve protects extensive reef systems starting at shallow depths (4-5 meters) descending to 30+ meters. The reserve hosts 250+ fish species and 40+ coral varieties, making it a world-class diving destination. Visibility ranges 15-25 meters with water temperatures averaging 24-26°C year-round. Dhows anchor at reef edges between 4-8 meters depth.
 
 ## Site Information
 
-- **Location**: Kenya Coast, Africa
+- **Location**: Shimoni area, South Coast near Tanzania border
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Maximum Depth**: 20 meters
+- **Typical Visibility**: 15-25 meters
+- **Current**: Mild to moderate
+- **Best Time**: October to March
+- **Notable Features**: Protected ecosystem, complete coral ecosystem, diverse coral gardens, marine wildlife
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
+The reserve supports 250+ fish species and 40+ coral varieties. Notable coral species include staghorn, brain, mushroom, lilac-blue, and lavender coral. Divers encounter groupers, moray eels, sea turtles, dolphins, reef sharks, rays, and abundant tropical fish schools. The protected status ensures thriving ecosystems with healthy populations.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin over shallow reef at 4-8 meters, exploring coral gardens with excellent visibility. Descend gradually through channels and coral formations to 12-20 meters. The complete coral ecosystem begins at 4-5 meters depth, making the shallow zones ideal for photography and creature observation. Navigate carefully through coral structures, maintaining excellent buoyancy. The site is perfect for all experience levels, with plenty of sheltered spots for relaxed exploration and ample air for safety stops.
 
 ## Entry and Exit
 

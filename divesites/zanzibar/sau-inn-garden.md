@@ -3,8 +3,8 @@ name: Sau Inn Garden
 lat: -6.327524
 lng: 39.5788004
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+maxDepth: 18
+entryType: boat
 siteType: reef
 ref: null
 osmId: 10224583149
@@ -13,22 +13,22 @@ addedBy: osm_import
 
 ## Sau Inn Garden
 
-Sau Inn Garden is a reef dive site in Zanzibar, Africa.
+Sau Inn Garden is an intermediate reef dive site in Menai Bay offering moderate depths and vibrant coral formations with diverse tropical fish species.
 
 ## Overview
 
-Sau Inn Garden is a dive site in Zanzibar offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Sau Inn Garden is a coral reef dive site in Menai Bay Conservation Area characterized by healthy coral gardens teeming with tropical fish. The reef features moderate depths with diverse coral species providing habitat for reef fish, snappers, and occasional larger pelagic species. Suitable for intermediate divers seeking established coral reef ecosystems with good marine biodiversity.
 
 ## Site Information
 
-- **Location**: Zanzibar, Africa
-- **Entry Type**: Shore entry
+- **Location**: Menai Bay Conservation Area, southeastern Unguja, Zanzibar
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Maximum Depth**: 18 meters
+- **Typical Visibility**: 12-25 meters (39-82 feet)
+- **Current**: Light to moderate
+- **Best Time**: October to March (peak season)
 
 ## Marine Life
 

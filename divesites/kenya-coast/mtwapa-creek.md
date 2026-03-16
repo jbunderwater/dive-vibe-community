@@ -2,8 +2,8 @@
 name: Mtwapa Creek
 lat: -3.95
 lng: 39.75
-difficulty: Beginner
-maxDepth: 8
+difficulty: Intermediate
+maxDepth: 15
 entryType: shore
 siteType: reef
 ref: null
@@ -13,30 +13,31 @@ addedBy: osm_import
 
 ## Mtwapa Creek
 
-Mtwapa Creek is a reef dive site in Kenya Coast, Africa.
+Mtwapa Creek is a unique tidal creek dive site 25 km north of Mombasa, featuring extensive mud banks, mangrove-lined shores, and spectacular coral gardens. This long, narrow semi-enclosed tropical estuary extends 14 kilometers inland and offers a completely different diving experience from Kenya's outer reef sites.
 
 ## Overview
 
-Mtwapa Creek is a dive site in Kenya Coast offering excellent diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Mtwapa Creek is renowned for world-class coral gardens featuring diverse species including Acropora, Turbinaria, and Porites corals. Maximum depth reaches 23 meters with visibility typically 12 meters. Water temperatures average 24-30°C. The creek is famous for strong currents driven by large schools of pelagic fish including great barracuda, yellow-tail barracuda, black trevally, and kingfish, making it particularly suited for drift diving.
 
 ## Site Information
 
-- **Location**: Kenya Coast, Africa
+- **Location**: Mtwapa, 25 km north of Mombasa
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 8 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 15 meters
+- **Typical Visibility**: 12 meters
+- **Current**: Strong (drift diving conditions)
+- **Best Time**: October to March
+- **Notable Features**: Mangrove surroundings, strong pelagic schools, rich coral gardens
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
+The creek supports thriving coral gardens with great and yellow-tail barracuda, black trevally, kingfish, and other pelagic species. Large schools create dynamic drift conditions. The abundant pelagic life indicates healthy, nutrient-rich waters.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 8 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-8 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Enter from Mtwapa Marina. Begin in the creek mouth at shallow depths, descending gradually through mangrove channel structures. The strong currents created by pelagic fish schools make this an excellent drift dive destination. Stay with experienced guides familiar with tidal flow patterns. Most exploration occurs between 8-15 meters. The abundant barracuda and trevally schools offer exciting encounters. Drift diving experience recommended for best safety and enjoyment.
 
 ## Entry and Exit
 

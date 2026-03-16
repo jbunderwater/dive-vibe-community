@@ -3,32 +3,32 @@ name: Woo south
 lat: -6.3539863
 lng: 39.5850976
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+maxDepth: 18
+entryType: boat
 siteType: reef
 ref: null
 osmId: 10224583151
 addedBy: osm_import
 ---
 
-## Woo south
+## Woo South
 
-Woo south is a reef dive site in Zanzibar, Africa.
+Woo South is an intermediate reef dive site in Menai Bay offering healthy coral formations and moderate depths with good marine biodiversity.
 
 ## Overview
 
-Woo south is a dive site in Zanzibar offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Woo South is a coral reef dive site in Menai Bay Conservation Area featuring vibrant coral systems and diverse tropical fish species. The site offers moderate depths suitable for intermediate divers seeking established coral reef ecosystems. The healthy reef structures provide habitat for numerous fish species and invertebrates typical of East African coral reef environments.
 
 ## Site Information
 
-- **Location**: Zanzibar, Africa
-- **Entry Type**: Shore entry
+- **Location**: Menai Bay Conservation Area, southeastern Unguja, Zanzibar
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Maximum Depth**: 18 meters
+- **Typical Visibility**: 12-25 meters (39-82 feet)
+- **Current**: Light to moderate
+- **Best Time**: October to March (peak season)
 
 ## Marine Life
 

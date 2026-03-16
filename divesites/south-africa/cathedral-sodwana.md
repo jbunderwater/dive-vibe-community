@@ -3,7 +3,7 @@ name: Cathedral Sodwana
 lat: -27.5333
 lng: 32.6833
 difficulty: Intermediate
-maxDepth: 18
+maxDepth: 20
 entryType: boat
 siteType: reef
 ref: null
@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Cathedral Sodwana
 
-Cathedral Sodwana is a reef dive site in South Africa, Africa.
+Cathedral is a named dive site within the Aliwal Shoal reef system near the KwaZulu-Natal coast. As one of Aliwal Shoal's primary named sites, Cathedral is particularly known for seasonal ragged-tooth shark gatherings and diverse tropical reef structures.
 
 ## Overview
 
-Cathedral Sodwana is a dive site in South Africa offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Cathedral Sodwana is a reef dive site with depths ranging from 12-27 meters, featuring hard and soft corals in a diverse tropical ecosystem. The warm Indian Ocean waters (22-26°C) support abundant reef fish and regular pelagic encounters. Excellent visibility and moderate currents make this an accessible intermediate dive.
 
 ## Site Information
 
@@ -25,14 +25,14 @@ Cathedral Sodwana is a dive site in South Africa offering rewarding diving on he
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)
 - **Current**: Moderate to strong
 - **Best Time**: October to March (East Africa), varies by location
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
+Cathedral hosts significant ragged-tooth shark populations between July-November during mating season, with congregation sizes reaching dozens. Tropical reef fish are abundant including morays, potato bass, and colorful reef species. Hard and soft corals, sponges, and a diverse invertebrate community create rich underwater landscapes.
 
 ## Dive Profile
 

@@ -17,22 +17,24 @@ Smitswinkel Bay Wrecks is a historic wreck dive in Cape Town, Africa.
 
 ## Overview
 
-Smitswinkel Bay Wrecks is a dive site in Cape Town featuring the wreck of the Smitswinkel Bay Wrecks. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Smitswinkel Bay is legendary in Cape Town diving for hosting five scuttled wrecks: MV Rockeater, SAS Good Hope, MFV Princess Elizabeth, MFV Orotava, and SAS Transvaal. These wrecks were deliberately sunk in the 1970s-1980s to create an artificial reef. This is one of South Africa's most challenging wreck dive destinations, requiring Advanced certification and Nitrox training recommended.
 
 ## Site Information
 
-- **Location**: Cape Town, Africa
+- **Location**: Smitswinkel Bay, False Bay coast (4 km from Kalk Bay/Miller's Point)
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Site Type**: Five scuttled wrecks
+- **Difficulty Level**: Advanced (minimum)
+- **Maximum Depth**: 40 meters (deepest parts)
+- **Typical Visibility**: Variable, cold water conditions
+- **Water Temperature**: 10-14°C (cold Atlantic)
+- **Depth Range**: 22-40m across wreck field
+- **Best Time**: Calm sea conditions only
+- **Requirements**: Advanced certification, Nitrox specialty recommended for extended bottom times
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, batfish, coral growth, lionfish, whale sharks, manta rays, humpback whales, sea turtles. Additional species commonly sighted include dolphins, reef sharks. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The wrecks have become artificial reefs hosting diverse marine life. The structures provide shelter for fish species and invertebrates. These deepwater wrecks attract pelagic fish and provide habitats for organisms that have colonized the wreck structures over decades.
 
 ## Dive Profile
 

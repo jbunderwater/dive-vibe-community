@@ -3,32 +3,32 @@ name: Cement wall
 lat: -6.320227
 lng: 39.5781007
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+maxDepth: 22
+entryType: boat
 siteType: wall
 ref: null
 osmId: 10224583148
 addedBy: osm_import
 ---
 
-## Cement wall
+## Cement Wall
 
-Cement wall is a reef dive site in Zanzibar, Africa.
+Cement Wall is a dramatic wall dive site in Menai Bay featuring a steep vertical drop. This intermediate-level wall offers deeper diving with excellent visibility and marine life encounters.
 
 ## Overview
 
-Cement wall is a dive site in Zanzibar offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Cement Wall is a wall dive site within Menai Bay Conservation Area, characterized by a dramatic vertical reef wall. The site drops from the shallower reef edge into deeper water, creating diverse habitats for marine species. The wall structure provides habitat for reef fish, pelagic visitors, and various coral species. Suitable for intermediate divers comfortable with wall diving techniques and depth management.
 
 ## Site Information
 
-- **Location**: Zanzibar, Africa
-- **Entry Type**: Shore entry
+- **Location**: Menai Bay Conservation Area, southeastern Unguja, Zanzibar
+- **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Maximum Depth**: 22 meters
+- **Typical Visibility**: 12-25 meters (39-82 feet)
+- **Current**: Moderate
+- **Best Time**: October to March (peak season)
 
 ## Marine Life
 

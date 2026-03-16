@@ -3,8 +3,8 @@ name: Moore Bank
 lat: -6.4575788
 lng: 39.3602024
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+maxDepth: 22
+entryType: boat
 siteType: reef
 ref: null
 osmId: 704644197
@@ -13,22 +13,22 @@ addedBy: osm_import
 
 ## Moore Bank
 
-Moore Bank is a reef dive site in Zanzibar, Africa.
+Moore Bank is an offshore reef bank dive site featuring coral formations at moderate depths with good visibility and marine life encounters.
 
 ## Overview
 
-Moore Bank is a dive site in Zanzibar offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Moore Bank is a coral reef dive site off the southern coast of Zanzibar, characterized by elevated reef structures in open water. The site offers moderate depths with healthy coral formations and good opportunities for pelagic fish encounters. The offshore location provides clean, clear water with excellent visibility. Suitable for intermediate divers seeking more exposed reef diving with good marine biodiversity.
 
 ## Site Information
 
-- **Location**: Zanzibar, Africa
-- **Entry Type**: Shore entry
+- **Location**: Southern Zanzibar offshore, Unguja Channel
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Maximum Depth**: 22 meters
+- **Typical Visibility**: 15-25 meters (49-82 feet)
+- **Current**: Light to moderate
+- **Best Time**: October to March (peak season)
 
 ## Marine Life
 

@@ -2,9 +2,9 @@
 name: Jambiani Lagoon
 lat: -6.3065501
 lng: 39.5583202
-difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+difficulty: Beginner
+maxDepth: 8
+entryType: boat
 siteType: reef
 ref: null
 osmId: 10224583147
@@ -13,22 +13,22 @@ addedBy: osm_import
 
 ## Jambiani Lagoon
 
-Jambiani Lagoon is a reef dive site in Zanzibar, Africa.
+Jambiani Lagoon is a shallow, beginner-friendly reef dive in southeast Zanzibar. Located within the Menai Bay Conservation Area, this site features vibrant coral reefs, seagrass meadows, and abundant tropical fish species.
 
 ## Overview
 
-Jambiani Lagoon is a dive site in Zanzibar offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Jambiani Lagoon is a protected reef dive site in the Menai Bay Conservation Area on Zanzibar's southeast coast. The lagoon is known for its shallow, sheltered waters and thriving coral ecosystems. This site is excellent for beginners and snorkelers, with abundant marine life including turtles, colorful reef fish, and occasional eagle rays over sandy channels. The shallow depths and calm conditions make it accessible at high tide.
 
 ## Site Information
 
-- **Location**: Zanzibar, Africa
-- **Entry Type**: Shore entry
+- **Location**: Jambiani Lagoon, southeastern Unguja, Menai Bay Conservation Area
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 8 meters
+- **Typical Visibility**: 8-20 meters (25-65 feet)
+- **Current**: Light
+- **Best Time**: October to March; best at high tide on east coast
 
 ## Marine Life
 

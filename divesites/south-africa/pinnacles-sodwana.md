@@ -3,9 +3,9 @@ name: Pinnacles Sodwana
 lat: -27.525
 lng: 32.6917
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 15
 entryType: boat
-siteType: reef
+siteType: pinnacle
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Pinnacles Sodwana
 
-Pinnacles Sodwana is a reef dive site in South Africa, Africa.
+Pinnacles is a distinctive rock formation dive site in Sodwana Bay, KwaZulu-Natal, featuring dramatic underwater pinnacles rising from the seafloor. The site consists of large rock formations with numerous gullies, boulders, and sand patches creating scenic topography suited to intermediate divers.
 
 ## Overview
 
-Pinnacles Sodwana is a dive site in South Africa offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Pinnacles are characterized by rock formations with one main pinnacle rising only 6 meters from the surface, making this an exceptionally shallow and accessible dive site. The varied topography with gullies and boulders supports exceptional coral growth and marine life. Warm Indian Ocean waters (22-26°C) and shallow depths combine to create ideal conditions for macro photography and leisurely reef exploration.
 
 ## Site Information
 
 - **Location**: South Africa, Africa
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 15 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)
 - **Current**: Moderate to strong
 - **Best Time**: October to March (East Africa), varies by location
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
+Pinnacles is a hub for Zebra sea bream, with this species frequently encountered throughout the reef structure. Hard and soft coral coverage is vibrant, including fleshy soft coral, clustered finger coral, colorful thistle coral, whip coral, and anemones. The elusive Paperfish can occasionally be spotted along sandy margins. Diverse reef fish assemblages and macro invertebrates are abundant.
 
 ## Dive Profile
 

@@ -2,9 +2,9 @@
 name: Memba 2
 lat: -5.8281185
 lng: 39.3825609
-difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+difficulty: Beginner
+maxDepth: 15
+entryType: boat
 siteType: reef
 ref: null
 osmId: 10224583153
@@ -13,22 +13,22 @@ addedBy: osm_import
 
 ## Memba 2
 
-Memba 2 is a reef dive site in Zanzibar, Africa.
+Memba 2 is a beginner-friendly reef site in Mnemba Atoll, offering shallow diving with excellent visibility. Part of Zanzibar's Marine Conservation Area, this site features vibrant coral and tropical fish species.
 
 ## Overview
 
-Memba 2 is a dive site in Zanzibar offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Memba 2 is a coral reef dive site within the Mnemba Atoll system, a protected marine reserve renowned for pristine diving conditions. The site features gentle reef topography suitable for beginner and recreational divers. With exceptional visibility that often exceeds 20 meters, the site is ideal for exploring healthy coral formations and diverse marine life.
 
 ## Site Information
 
-- **Location**: Zanzibar, Africa
-- **Entry Type**: Shore entry
+- **Location**: Mnemba Atoll, northeastern Unguja, Zanzibar
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 15 meters
+- **Typical Visibility**: 15-30 meters (50-100 feet)
+- **Current**: Light to moderate
+- **Best Time**: October to March (peak season)
 
 ## Marine Life
 

@@ -17,22 +17,25 @@ Tafelberg Reef is a reef dive site in Cape Town, Africa.
 
 ## Overview
 
-Tafelberg Reef is a dive site in Cape Town offering excellent diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Tafelberg Reef is an offshore rocky reef in the Hout Bay area on the Atlantic seaboard, 4.5 km from Hout Bay Harbour. This intermediate boat dive site features multiple pinnacles rising through a rocky reef formation with depths from 8m (pinnacle tops) to 30m (sand bottom). Excellent conditions for wreck-style exploration with encrusting organisms.
 
 ## Site Information
 
-- **Location**: Cape Town, Africa
-- **Entry Type**: Shore entry
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 14 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Location**: Hout Bay, Atlantic seaboard (4.5 km from harbour)
+- **Entry Type**: Boat dive
+- **Site Type**: Offshore rocky reef pinnacles
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 30 meters
+- **Pinnacle Range**: 8-30m (multiple rocks at different depths)
+- **Typical Visibility**: 10-20 meters (can exceed 20m on good days)
+- **Water Temperature**: 10-14°C (cold Atlantic)
+- **Current**: Light surface current typical
+- **Marine Protected Area**: Controlled area - permit required
+- **Best Time**: Calm sea conditions
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
+Tafelberg hosts sponges, hard and soft corals, and ascidians on vertical surfaces. The reef is heavily encrusted with red and brown algae, with a sparse kelp forest on top. Marine life includes invertebrates such as sponge crabs and basket stars. Fish populations vary by season.
 
 ## Dive Profile
 

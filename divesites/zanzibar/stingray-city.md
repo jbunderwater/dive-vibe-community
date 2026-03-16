@@ -2,33 +2,33 @@
 name: Stingray city
 lat: -6.3014954
 lng: 39.5584061
-difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+difficulty: Beginner
+maxDepth: 10
+entryType: boat
 siteType: reef
 ref: null
 osmId: 10224583146
 addedBy: osm_import
 ---
 
-## Stingray city
+## Stingray City
 
-Stingray city is a reef dive site in Zanzibar, Africa.
+Stingray City is a shallow lagoon reef site famous for stingray encounters in Zanzibar's Menai Bay. This beginner-friendly site features shallow sandy bottoms with occasional reef patches and abundant marine life.
 
 ## Overview
 
-Stingray city is a dive site in Zanzibar offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Stingray City is a protected shallow-water dive site within Menai Bay Conservation Area, renowned for frequent stingray sightings. The site features sandy bottoms interspersed with coral patches and seagrass beds, creating diverse habitats for marine species. Excellent for beginner divers and snorkelers seeking safe, shallow water diving with guaranteed wildlife encounters.
 
 ## Site Information
 
-- **Location**: Zanzibar, Africa
-- **Entry Type**: Shore entry
+- **Location**: Menai Bay, southeastern Unguja, Zanzibar
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 10 meters
+- **Typical Visibility**: 10-20 meters (33-65 feet)
+- **Current**: Light
+- **Best Time**: October to March (east coast protected)
 
 ## Marine Life
 

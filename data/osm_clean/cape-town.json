@@ -9,7 +9,10 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": true,
+      "validation_source": "web_research",
+      "marine_life": "kelp forest, sea urchins, reef fish"
     }
   },
   {
@@ -22,20 +25,30 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": true,
+      "validation_source": "web_research",
+      "marine_life": "sevengill sharks, Cape fur seals, fish",
+      "water_temp_c": "14-18"
     }
   },
   {
     "name": "Smitswinkel Bay Wrecks",
     "lat": -34.25,
     "lon": 18.47,
-    "depth": 30,
+    "depth": 38,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": true,
+      "validation_source": "web_research",
+      "wreck_count": 5,
+      "wrecks": ["MV Rockeater", "SAS Good Hope", "MFV Princess Elizabeth", "MFV Orotava", "SAS Transvaal"],
+      "depth_range": "22-40m",
+      "notes": "Five scuttled wrecks; requires Advanced certification and Nitrox recommended"
     }
   },
   {
@@ -48,59 +61,89 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": true,
+      "validation_source": "web_research",
+      "marine_protected_area": true,
+      "pinnacles": "rise from 14m to 5m",
+      "marine_life": "invertebrates, reef fish"
     }
   },
   {
     "name": "Photographer's Reef",
     "lat": -34.08,
     "lon": 18.35,
-    "depth": 10,
+    "depth": 13,
     "site_type": "reef",
-    "entry_type": "shore",
+    "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": true,
+      "validation_source": "web_research",
+      "marine_protected_area": true,
+      "permit_required": true,
+      "specialty": "macro photography, nudibranchs",
+      "depth_range": "3-13m"
     }
   },
   {
     "name": "Tafelberg Reef",
     "lat": -33.9,
     "lon": 18.38,
-    "depth": 14,
+    "depth": 30,
     "site_type": "reef",
-    "entry_type": "shore",
-    "difficulty": "Beginner",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": true,
+      "validation_source": "web_research",
+      "marine_protected_area": true,
+      "permit_required": true,
+      "depth_range": "8-30m",
+      "marine_life": "sponges, corals, kelp forest, nudibranchs, basket stars"
     }
   },
   {
     "name": "Justin's Caves",
     "lat": -34.22,
     "lon": 18.455,
-    "depth": 20,
+    "depth": 15,
     "site_type": "cave",
-    "entry_type": "boat",
+    "entry_type": "shore",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": true,
+      "validation_source": "web_research",
+      "features": "granite caves, swim-throughs, narrow gaps, walls, overhangs",
+      "marine_life": "sea urchins, sea cucumbers, mussels, corals, nudibranchs, anemones",
+      "conditions": "strong swell in southwest winds, currents at passages",
+      "visibility_m": 6
     }
   },
   {
     "name": "SAS Transvaal Wreck",
     "lat": -34.18,
     "lon": 18.44,
-    "depth": 33,
+    "depth": 34,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": true,
+      "validation_source": "web_research",
+      "ship_type": "Loch class frigate",
+      "sunk": "1978-08-03",
+      "history": "Scuttled to form artificial reef",
+      "condition": "deteriorating, bow broken off",
+      "permit_required": true
     }
   },
   {
@@ -113,72 +156,107 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": true,
+      "validation_source": "web_research",
+      "features": "large boulders, swim-throughs, breaks surface at low tide",
+      "marine_life": "Red bait ascidian, kelp, false corals, feather stars, sea cucumbers, fish shoals",
+      "alternate_names": "Castle Blinder"
     }
   },
   {
     "name": "Finlay's Point",
     "lat": -34.19,
     "lon": 18.47,
-    "depth": 8,
+    "depth": 15,
     "site_type": "reef",
     "entry_type": "shore",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": true,
+      "validation_source": "web_research",
+      "features": "kelp forests, swim-throughs, rocky reef",
+      "pinnacle": "Finlay's Pinnacle rises from 15m to 6m",
+      "marine_life": "bryozoans, sponges, colonial ascidians, anemones, reef fish",
+      "alternate_names": "Jenga Reef"
     }
   },
   {
     "name": "Bos 400 Wreck",
     "lat": -33.82,
     "lon": 18.36,
-    "depth": 15,
+    "depth": 20,
     "site_type": "wreck",
     "entry_type": "shore",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": true,
+      "validation_source": "web_research",
+      "ship_type": "French crane and pipelaying barge",
+      "sunk": "1994-06-27",
+      "wreck_length": "100m",
+      "wreck_displacement": "12000 tons",
+      "warning": "Unstable, hazardous; keep safe distance",
+      "conditions": "exposed location, strong surge in shallows"
     }
   },
   {
     "name": "Long Beach Kelp Forest",
     "lat": -34.13,
     "lon": 18.43,
-    "depth": 12,
+    "depth": 8,
     "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": true,
+      "validation_source": "web_research",
+      "specialty": "kelp forest, Great African Seaforest",
+      "marine_life": "pyjama sharks, gully sharks, shysharks, starfish, nudibranchs, seals",
+      "depth_range": "0-8m",
+      "conditions": "calm sheltered site"
     }
   },
   {
     "name": "Cow and Calf",
     "lat": -34.205,
     "lon": 18.462,
-    "depth": 16,
+    "depth": 12,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": true,
+      "validation_source": "web_research",
+      "features": "twin reefs (cow and calf), drop to 12m sand",
+      "marine_life": "palmate sea fans, soft corals, feather stars, urchins, nudibranchs, rock suckers, Cape fur seals (playful young)",
+      "depth_range": "5-12m"
     }
   },
   {
     "name": "Partridge Point",
     "lat": -34.23,
     "lon": 18.45,
-    "depth": 25,
+    "depth": 26,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Advanced",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": true,
+      "validation_source": "web_research",
+      "depth_range": "5-26m",
+      "features": "drop-offs, Deep Partridge reaches 25m",
+      "versatile": "suitable for varying experience levels"
     }
   },
   {
@@ -187,21 +265,25 @@
     "lon": 18.3562528,
     "osm_id": 270978722,
     "osm_type": "node",
-    "depth": 11,
+    "depth": 15,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": "Beginner",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
     "tags": {
       "historic": "wreck",
       "name": "Antipolis",
-      "note": "Position is a guess since I did not have a GPS on the surface swim to the wreck.",
-      "position:accuracy": "1000m",
-      "seamark:type": "wreck",
+      "validated": true,
+      "validation_source": "web_research",
+      "ship_type": "Greek oil tanker",
+      "displacement": "25000 tons",
+      "sunk": "1977-07",
+      "depth_range": "7-20m",
+      "location": "Oudekraal, Atlantic seaboard",
+      "marine_life": "algae-covered, shellfish, starfish, crayfish",
+      "visibility_m": "5-10",
+      "conditions": "very cold water",
       "wikidata": "Q14213801",
-      "wikimedia_commons": "Category:Dive site Antipolis",
-      "wreck:depth": "11m",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "wikimedia_commons": "Category:Dive site Antipolis"
     }
   },
   {
@@ -210,17 +292,22 @@
     "lon": 18.4710634,
     "osm_id": 1594626525,
     "osm_type": "node",
-    "depth": null,
+    "depth": 20,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "historic": "wreck",
       "name": "SELI1",
-      "seamark:type": "wreck",
-      "seamark:wreck:category": "hull_showing",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "validated": true,
+      "validation_source": "web_research",
+      "ship_type": "Turkish bulk carrier",
+      "sunk": "2009-09-08",
+      "location": "Table Bay, Bloubergstrand",
+      "cargo": "30000 tons coal, 660 tons heavy fuel oil",
+      "condition": "hull showing, salvage operations completed",
+      "marker_buoy": true,
+      "seamark:wreck:category": "hull_showing"
     }
   },
   {
@@ -229,17 +316,23 @@
     "lon": 18.3620862,
     "osm_id": 5310394646,
     "osm_type": "node",
-    "depth": null,
+    "depth": 12,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "historic": "wreck",
       "name": "Het Huis te Kraaienstjin",
-      "seamark:type": "wreck",
-      "wreck:date_sunk": "1670",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "validated": true,
+      "validation_source": "web_research",
+      "ship_type": "Dutch pinas (square rigged galleon)",
+      "sunk": "1698-01-01",
+      "history": "South Africa's oldest wreck; maiden voyage; anchor cable parted in fog",
+      "location": "Oudekraal, Atlantic seaboard",
+      "depth_range": "3-12m",
+      "marine_life": "scattered remains: cannons, anchor, wood pieces",
+      "notes": "Broken up, remains scattered",
+      "seamark:type": "wreck"
     }
   },
   {
@@ -248,21 +341,25 @@
     "lon": 18.3808435,
     "osm_id": 7025899718,
     "osm_type": "node",
-    "depth": null,
+    "depth": 10,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
     "tags": {
       "access": "permit",
       "historic": "wreck",
       "name": "Thomas T. Tucker",
-      "seamark:type": "wreck",
-      "seamark:wreck:category": "dangerous",
-      "wreck:date_sunk": "1942-11-27",
-      "wreck:visible_at_high_tide": "yes",
-      "wreck:visible_at_low_tide": "yes",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "validated": true,
+      "validation_source": "web_research",
+      "ship_type": "U.S. liberty ship",
+      "sunk": "1942-11-27",
+      "hull_number": 269,
+      "location": "Olifantsbospunt (Cape Point), Table Mountain NP MPA",
+      "conditions": "exposed, divable only in flat seas",
+      "visibility_m": "poor",
+      "permit_required": true,
+      "hazard": "dangerous wreck category",
+      "seamark:wreck:category": "dangerous"
     }
   },
   {
@@ -271,17 +368,23 @@
     "lon": 18.3884129,
     "osm_id": 7025899719,
     "osm_type": "node",
-    "depth": null,
+    "depth": 5,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "historic": "wreck",
       "name": "Nolloth",
-      "seamark:type": "wreck",
-      "wreck:date_sunk": "1965",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "validated": true,
+      "validation_source": "web_research",
+      "ship_type": "Dutch coaster",
+      "displacement": "347 tons",
+      "sunk": "1965-04-30",
+      "location": "Olifantsbos, Cape Point",
+      "depth_range": "0-5m",
+      "conditions": "visible at high tide, walkable at low tide",
+      "history": "First helicopter rescue in SA maritime history",
+      "seamark:type": "wreck"
     }
   },
   {
@@ -290,20 +393,23 @@
     "lon": 18.4018744,
     "osm_id": 11051586533,
     "osm_type": "node",
-    "depth": null,
+    "depth": 5,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "access": "permissive",
       "historic": "wreck",
       "name": "Phyllisia Shipwreck",
-      "seamark:type": "wreck",
-      "seamark:wreck:category": "hull_showing",
-      "wreck:date_sunk": "3 May 1968",
-      "wreck:visible_at_low_tide": "yes",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "validated": true,
+      "validation_source": "web_research",
+      "ship_type": "fishing trawler",
+      "sunk": "1968-05-03",
+      "location": "Cape Point, Hoek van Bobbejaan",
+      "depth_range": "0-5m",
+      "conditions": "best viewed at low tide",
+      "access_type": "hikers trail (Phyllisia Circuit)",
+      "seamark:wreck:category": "hull_showing"
     }
   },
   {
@@ -312,17 +418,21 @@
     "lon": 18.5539711,
     "osm_id": 11831313172,
     "osm_type": "node",
-    "depth": null,
+    "depth": 40,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Whittle Rock",
+      "validated": true,
+      "validation_source": "web_research",
       "natural": "reef",
+      "depth_range": "3.2-40m",
+      "pinnacle_top": "3.6m at low tide",
+      "features": "large offshore pinnacle, buoy marked",
+      "conditions": "popular recreational dive site",
       "wikidata": "Q110064499",
-      "wikipedia": "en:Whittle Rock",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "wikipedia": "en:Whittle Rock"
     }
   },
   {
@@ -331,18 +441,26 @@
     "lon": 18.4304841,
     "osm_id": 5555966,
     "osm_type": "relation",
-    "depth": null,
+    "depth": 9,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "historic": "wreck",
       "name": "Clan Stewart",
-      "seamark:type": "wreck",
-      "type": "multipolygon",
-      "wreck:date_sunk": "1914-11-21",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "validated": true,
+      "validation_source": "web_research",
+      "ship_type": "British turret steamer",
+      "displacement": "3500 tons",
+      "sunk": "1914-11-21",
+      "location": "Glen Cairn Beach, Simons Town",
+      "depth_range": "7-9m",
+      "distance_from_shore": "100m from Mackerel Beach",
+      "marine_protected_area": true,
+      "permit_required": true,
+      "marine_life": "squid, cuttlefish, rays, fish species",
+      "access": "shore entry from Mackerel Beach",
+      "seamark:type": "wreck"
     }
   }
 ]

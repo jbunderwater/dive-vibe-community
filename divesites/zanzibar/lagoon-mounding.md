@@ -2,9 +2,9 @@
 name: Lagoon Mounding
 lat: -6.294392
 lng: 39.5564155
-difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+difficulty: Beginner
+maxDepth: 12
+entryType: boat
 siteType: reef
 ref: null
 osmId: 10224583145
@@ -13,22 +13,22 @@ addedBy: osm_import
 
 ## Lagoon Mounding
 
-Lagoon Mounding is a reef dive site in Zanzibar, Africa.
+Lagoon Mounding is a shallow reef site featuring coral mounds in protected Menai Bay waters. This beginner-friendly location offers shallow depths and calm conditions ideal for newer divers.
 
 ## Overview
 
-Lagoon Mounding is a dive site in Zanzibar offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Lagoon Mounding is a shallow-water reef dive site in Menai Bay Conservation Area, characterized by coral formations and lagoon habitat. The site features gently sloping reef with coral mounds rising from sandy bottoms. Excellent for beginner and recreational divers seeking calm, shallow water diving with healthy coral formations and tropical reef fish.
 
 ## Site Information
 
-- **Location**: Zanzibar, Africa
-- **Entry Type**: Shore entry
+- **Location**: Menai Bay, southeastern Unguja, Zanzibar
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 12 meters
+- **Typical Visibility**: 10-20 meters (33-65 feet)
+- **Current**: Light to moderate
+- **Best Time**: October to March (peak season)
 
 ## Marine Life
 

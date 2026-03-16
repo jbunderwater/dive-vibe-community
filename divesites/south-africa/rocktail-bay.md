@@ -2,7 +2,7 @@
 name: Rocktail Bay
 lat: -27.2
 lng: 32.75
-difficulty: Intermediate
+difficulty: Beginner
 maxDepth: 15
 entryType: boat
 siteType: reef
@@ -13,18 +13,18 @@ addedBy: osm_import
 
 ## Rocktail Bay
 
-Rocktail Bay is a reef dive site in South Africa, Africa.
+Rocktail Bay is a remote dive destination in northern KwaZulu-Natal, South Africa, featuring pristine reef systems and pelagic encounters in warm Indian Ocean waters. The site is home to dramatic drift dives along soft coral and rocky outcrops with pinnacles on the south side, offering excellent opportunities for encountering tropical sharks and seasonal species aggregations.
 
 ## Overview
 
-Rocktail Bay is a dive site in South Africa offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Rocktail Bay offers shallow to moderate diving (9-18 meters) along drift-dive routes featuring soft corals and rocky outcroppings with dramatic pinnacle formations. Warm Indian Ocean waters (22-26°C) support exceptional tropical marine biodiversity. The site is particularly noted for seasonal ragged-tooth shark encounters during breeding season (late December-March) when pregnant females congregate.
 
 ## Site Information
 
 - **Location**: South Africa, Africa
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)
 - **Current**: Moderate to strong
@@ -32,7 +32,7 @@ Rocktail Bay is a dive site in South Africa offering rewarding diving on healthy
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
+Rocktail Bay features blacktip reef sharks, tiger sharks, and spotted eagle rays as regular encounters along drift dives. Pregnant female ragged-tooth sharks congregate seasonally during summer (late December-March), creating unique opportunity for observing this species during breeding season. Diverse tropical reef fish, hard and soft corals, and invertebrates populate the rocky outcroppings and sandy margins.
 
 ## Dive Profile
 

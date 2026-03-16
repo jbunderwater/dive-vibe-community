@@ -3,7 +3,7 @@ name: Two Mile Reef Sodwana
 lat: -27.5167
 lng: 32.6833
 difficulty: Intermediate
-maxDepth: 18
+maxDepth: 20
 entryType: boat
 siteType: reef
 ref: null
@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Two Mile Reef Sodwana
 
-Two Mile Reef Sodwana is a reef dive site in South Africa, Africa.
+Two Mile Reef is one of the most popular and diverse reef systems in Sodwana Bay, KwaZulu-Natal. Located only minutes by boat from the main launch site, this vast reef complex stretches 1.8 kilometers long and nearly 900 meters wide, offering multiple distinct dive sites and varied topography for every experience level.
 
 ## Overview
 
-Two Mile Reef Sodwana is a dive site in South Africa offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Two Mile Reef features pinnacles, swim-throughs, rocky outcroppings, large sand patches, and cave formations across a depth range of 9-32+ meters. The warm Indian Ocean waters (22-26°C) support exceptional coral formations and abundant tropical marine life. With multiple named sub-sites including Anton's Massif, Wayne's World, and Whitetip Caves, divers can cover multiple sites in a single drift dive when currents allow.
 
 ## Site Information
 
@@ -25,14 +25,14 @@ Two Mile Reef Sodwana is a dive site in South Africa offering rewarding diving o
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)
 - **Current**: Moderate to strong
 - **Best Time**: October to March (East Africa), varies by location
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
+Two Mile Reef supports the full diversity of Sodwana Bay's marine ecosystem. Divers encounter parrotfish, triggerfish, moray eels, sea turtles, butterfly fish, angelfish, large schools of snapper and fusiliers, potato cods, manta rays, and ragged-tooth sharks. Hard and soft corals, nudibranchs, scorpionfish, cleaner shrimps, ribbon eels, and large groupers are abundant.
 
 ## Dive Profile
 

@@ -11,7 +11,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Amoray",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -20,13 +22,16 @@
     "lon": 30.8333,
     "osm_id": null,
     "osm_type": null,
-    "depth": 27,
+    "depth": 20,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research",
+      "notes": "Major ragged-tooth shark congregation site (June-November)"
     }
   },
   {
@@ -35,13 +40,16 @@
     "lon": 30.5333,
     "osm_id": null,
     "osm_type": null,
-    "depth": 40,
-    "site_type": "reef",
+    "depth": 35,
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research",
+      "notes": "Famous shark dive (hammerhead, tiger, zambesi), strong Agulhas Current, drift dive"
     }
   },
   {
@@ -50,13 +58,16 @@
     "lon": 29.9167,
     "osm_id": null,
     "osm_type": null,
-    "depth": 20,
+    "depth": 18,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research",
+      "notes": "Seasonal (June-July), strong currents, cold water, 50+ logged dives recommended"
     }
   },
   {
@@ -65,13 +76,16 @@
     "lon": 32.6833,
     "osm_id": null,
     "osm_type": null,
-    "depth": 18,
+    "depth": 20,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research",
+      "notes": "Hard and soft corals, warm Indian Ocean waters, diverse fish life"
     }
   },
   {
@@ -80,13 +94,16 @@
     "lon": 32.6833,
     "osm_id": null,
     "osm_type": null,
-    "depth": 18,
+    "depth": 20,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research",
+      "notes": "Vast reef complex (1.8km x 900m), pinnacles, swim-throughs, multiple named sites"
     }
   },
   {
@@ -95,13 +112,16 @@
     "lon": 32.6833,
     "osm_id": null,
     "osm_type": null,
-    "depth": 20,
+    "depth": 18,
     "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research",
+      "notes": "Big blocky boulders with cave formations, excellent light penetration, shallow depth"
     }
   },
   {
@@ -110,13 +130,16 @@
     "lon": 32.6917,
     "osm_id": null,
     "osm_type": null,
-    "depth": 25,
-    "site_type": "reef",
+    "depth": 15,
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research",
+      "notes": "Rock formations with gullies, 6m from surface, hard/soft corals, Zebra sea bream"
     }
   },
   {
@@ -125,13 +148,16 @@
     "lon": 19.35,
     "osm_id": null,
     "osm_type": null,
-    "depth": 12,
-    "site_type": "reef",
+    "depth": 8,
+    "site_type": "beach",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research",
+      "notes": "Great white shark cage diving, 150m channel between Geyser Rock and Dyer Island, surface diving"
     }
   },
   {
@@ -143,10 +169,13 @@
     "depth": 15,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research",
+      "notes": "Shallow drift dive along soft coral and rocky outcrops, blacktip sharks, eagle rays"
     }
   },
   {
@@ -155,13 +184,16 @@
     "lon": 25.65,
     "osm_id": null,
     "osm_type": null,
-    "depth": 33,
+    "depth": 34,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research",
+      "notes": "Military ship in False Bay, upright, collapsing structure, requires permit, winter best"
     }
   },
   {
@@ -170,13 +202,16 @@
     "lon": 30.8417,
     "osm_id": null,
     "osm_type": null,
-    "depth": 18,
+    "depth": 16,
     "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research",
+      "notes": "Large cave with ragged-tooth shark congregation (Aug-Nov), do not enter during shark season"
     }
   },
   {
@@ -185,13 +220,16 @@
     "lon": 30.825,
     "osm_id": null,
     "osm_type": null,
-    "depth": 30,
+    "depth": 32,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "web_research",
+      "notes": "Norwegian bulk carrier (1974), molasses tanker, no penetration allowed, strong currents"
     }
   }
 ]

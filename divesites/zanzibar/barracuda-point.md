@@ -4,7 +4,7 @@ lat: -6.2728904
 lng: 39.5532195
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
+entryType: boat
 siteType: reef
 ref: null
 osmId: 9943059717
@@ -13,22 +13,22 @@ addedBy: osm_import
 
 ## Barracuda Point
 
-Barracuda Point is a reef dive site in Zanzibar, Africa.
+Barracuda Point is a reef dive site in Menai Bay known for pelagic fish encounters including barracuda. This intermediate-level site offers moderate depths and healthy reef structures.
 
 ## Overview
 
-Barracuda Point is a dive site in Zanzibar offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Barracuda Point is a coral reef dive site within Menai Bay Conservation Area on southeastern Zanzibar. The site is named for frequent barracuda schools and other pelagic fish. The reef features healthy coral formations at moderate depths with excellent opportunities for fish watching. Suitable for intermediate divers seeking more challenging reef dives with good marine life encounters.
 
 ## Site Information
 
-- **Location**: Zanzibar, Africa
-- **Entry Type**: Shore entry
+- **Location**: Menai Bay Conservation Area, southeastern Unguja, Zanzibar
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Typical Visibility**: 12-25 meters (39-82 feet)
+- **Current**: Light to moderate
+- **Best Time**: October to March (peak season)
 
 ## Marine Life
 

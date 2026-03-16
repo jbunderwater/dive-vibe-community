@@ -3,9 +3,9 @@ name: Protea Banks
 lat: -30.75
 lng: 30.5333
 difficulty: Advanced
-maxDepth: 40
+maxDepth: 35
 entryType: boat
-siteType: reef
+siteType: pinnacle
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Protea Banks
 
-Protea Banks is a reef dive site in South Africa, Africa.
+Protea Banks is South Africa's premier shark dive destination, located offshore from KwaZulu-Natal approximately one hour's drive south of Aliwal Shoal near Umkomaas. This world-class pinnacle and channel system is shaped by powerful deep-water topography and the Agulhas Current, creating a natural highway for large pelagic sharks.
 
 ## Overview
 
-Protea Banks is a dive site in South Africa offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Protea Banks is a fossilized dune reef featuring pinnacles, channels, and ledges that drop from 28 meters to beyond 45+ meters, creating a dynamic blue-water drift diving environment. The powerful Agulhas Current, one of the world's fastest-flowing currents, drives dramatic drift dives over the reef structure. Advanced Open Water certification with 20+ logged dives is required due to depths and strong currents.
 
 ## Site Information
 
 - **Location**: South Africa, Africa
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 40 meters
+- **Maximum Depth**: 35 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)
 - **Current**: Moderate to strong
 - **Best Time**: October to March (East Africa), varies by location
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
+Protea Banks is famous for encounters with large predatory sharks including hammerhead sharks, tiger sharks, zambesi (bull) sharks, ragged-tooth sharks, thresher sharks, bronze whalers, white-tip and copper sharks, and dusky sharks. The occasional great white shark is also recorded. The site's open-water channel structure attracts pelagic species seeking the abundant prey driven by the Agulhas Current.
 
 ## Dive Profile
 

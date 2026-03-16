@@ -3,7 +3,7 @@ name: Sardine Run Reef
 lat: -31.4167
 lng: 29.9167
 difficulty: Advanced
-maxDepth: 20
+maxDepth: 18
 entryType: boat
 siteType: reef
 ref: null
@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Sardine Run Reef
 
-Sardine Run Reef is a reef dive site in South Africa, Africa.
+The Sardine Run is one of the world's most dramatic marine spectacles, occurring annually during South African winter (June-July) along the eastern coastline. Massive shoals of sardines migrate from Cape Town's cold Atlantic waters northeastward toward Mozambique, forming bait balls attacked by dolphins, sharks, penguins, and seabirds in a multi-species feeding frenzy.
 
 ## Overview
 
-Sardine Run Reef is a dive site in South Africa offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Sardine Run diving is a highly specialized, dynamic experience requiring advanced skills and cold-water tolerance. The action occurs in cold, open ocean with strong currents, large swells, and challenging conditions requiring PADI Advanced Open Water certification with 50+ logged dives minimum. Most dives are conducted at shallow depths (15-25m), though rapid boat movements and current management are essential. The experience is almost exclusively snorkeling due to rapidly moving bait balls.
 
 ## Site Information
 
@@ -25,14 +25,14 @@ Sardine Run Reef is a dive site in South Africa offering rewarding diving on hea
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)
 - **Current**: Moderate to strong
 - **Best Time**: October to March (East Africa), varies by location
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
+The Sardine Run involves a multi-species feeding frenzy orchestrated by dolphins that circle and compress sardine bait balls. Bronze whaler sharks actively feed on the tightly packed prey, with encounters with large predatory sharks common. Bryde's whales, cormorants, gannets, and African penguins also participate in feeding events. The event showcases apex predators and pelagic species in their natural hunting behavior.
 
 ## Dive Profile
 

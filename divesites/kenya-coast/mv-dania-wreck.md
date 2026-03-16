@@ -13,30 +13,31 @@ addedBy: osm_import
 
 ## MV Dania Wreck
 
-MV Dania Wreck is a historic wreck dive in Kenya Coast, Africa.
+The MV Dania is Kenya's premier wreck dive site, a 76-meter former cattle carrier deliberately scuttled in 2002 within the Mombasa Marine National Park. The wreck sits upright on a sand patch at 30 meters depth, 1.5 km off Bamburi Beach, and has become a thriving artificial reef teeming with marine life.
 
 ## Overview
 
-MV Dania Wreck is a dive site in Kenya Coast featuring a historic wreck. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Scuttled with Kenya Wildlife Service approval, the Dania was carefully decontaminated and prepared for dive access before sinking. Permanent penetration lines were installed to prevent diver disorientation inside the wreck. The upper portions of the wreck are accessible from 12 meters, while the full structure extends to 32 meters. Water temperatures average 26-28°C with visibility typically 15-25 meters.
 
 ## Site Information
 
-- **Location**: Kenya Coast, Africa
+- **Location**: Bamburi, Mombasa Marine National Park
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Typical Visibility**: 15-25 meters
+- **Current**: Moderate
+- **Best Time**: October to March
+- **Notable Features**: Intact upright wreck, penetration-ready interior, artificial reef ecosystem
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, batfish, coral growth, lionfish, whale sharks, manta rays, humpback whales, sea turtles. Additional species commonly sighted include dolphins, reef sharks. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The wreck has become a thriving artificial reef attracting moray eels, barracudas, schools of colorful fish, groupers, and diverse coral growth. Residents include leopard sharks and rays on the sandy bottom. The structure's overhangs and chambers provide shelter for nocturnal species.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 30 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend along the mooring line to the upper superstructure at 12-15 meters. External exploration reveals deck structures, cargo holds, and overhangs covered in coral growth. Advanced divers can navigate interior penetrations via installed safety lines, exploring cabins and passages. Maintain proper buoyancy to avoid silt disturbance. Most exploration occurs between 20-30 meters. Conduct your dive within your certification limits and allow adequate air for a comprehensive safety stop.
 
 ## Entry and Exit
 

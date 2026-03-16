@@ -3,7 +3,7 @@ name: Caves Sodwana
 lat: -27.55
 lng: 32.6833
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 18
 entryType: boat
 siteType: cave
 ref: null
@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Caves Sodwana
 
-Caves Sodwana is a cave dive site in South Africa, Africa.
+Caves and Overhangs is a distinctive dive site within the Sodwana Bay reef system, KwaZulu-Natal, featuring dramatic underwater cave and boulder formations. The site consists of large blocky boulders covered in vibrant coral with sandy patches creating a beautiful sculpted reef garden.
 
 ## Overview
 
-Caves Sodwana is a dive site in South Africa featuring underwater cave and cavern formations. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Caves Sodwana offers shallow to moderate diving (15-20 meters) among large rock formations with cave entrances, overhangs, and gullies. Excellent light penetration into cave structures creates a visually striking environment with dramatic geological features. The warm Indian Ocean waters (22-26°C) and shallow depth make this an ideal intermediate dive.
 
 ## Site Information
 
@@ -25,14 +25,14 @@ Caves Sodwana is a dive site in South Africa featuring underwater cave and caver
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)
 - **Current**: Moderate to strong
 - **Best Time**: October to March (East Africa), varies by location
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+The cave structure creates sheltered microhabitats attracting crustaceans and small fish seeking protection in rock overhangs. Potato bass, scorpionfish, moray eels, and cleaner shrimp are common. Hard and soft corals cover the boulder formations, with fleshy soft coral, finger coral, thistle coral, whip coral, and anemones providing color and habitat complexity. Reef fish diversity is high, including parrotfish, fusiliers, and other tropical species.
 
 ## Dive Profile
 

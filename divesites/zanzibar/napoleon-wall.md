@@ -3,8 +3,8 @@ name: Napoleon Wall
 lat: -6.3633696
 lng: 39.58805
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+maxDepth: 28
+entryType: boat
 siteType: wall
 ref: null
 osmId: 13165341861
@@ -13,22 +13,22 @@ addedBy: osm_import
 
 ## Napoleon Wall
 
-Napoleon Wall is a reef dive site in Zanzibar, Africa.
+Napoleon Wall is a vertical wall dive named for the Napoleon wrasse species encountered here. This intermediate-level wall site in Menai Bay offers dramatic topography and diverse marine life.
 
 ## Overview
 
-Napoleon Wall is a dive site in Zanzibar offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Napoleon Wall is a wall dive site in Menai Bay Conservation Area featuring a steep vertical reef wall. The site is named for regular Napoleon wrasse sightings. The wall provides excellent habitat for pelagic fish, reef fish, and larger species like snappers and trevally. The dramatic topography and excellent visibility make this a rewarding intermediate dive site for wall diving experience.
 
 ## Site Information
 
-- **Location**: Zanzibar, Africa
-- **Entry Type**: Shore entry
+- **Location**: Menai Bay Conservation Area, southeastern Unguja, Zanzibar
+- **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Maximum Depth**: 28 meters
+- **Typical Visibility**: 12-25 meters (39-82 feet)
+- **Current**: Moderate
+- **Best Time**: October to March (peak season)
 
 ## Marine Life
 

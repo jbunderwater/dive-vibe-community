@@ -17,22 +17,24 @@ Photographer's Reef is a reef dive site in Cape Town, Africa.
 
 ## Overview
 
-Photographer's Reef is a dive site in Cape Town offering excellent diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Photographer's Reef (JJM Reef) is a compact cluster of high-profile granite outcrops and boulders featuring deep gaps, cracks, overhangs, and swim-throughs in Simon's Town. This site is renowned for macro photography and nudibranchs, making it ideal for invertebrate specialists. Located within a Marine Protected Area requiring a permit.
 
 ## Site Information
 
-- **Location**: Cape Town, Africa
-- **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Location**: Simon's Town, Seaforth area (False Bay coast)
+- **Entry Type**: Boat dive (can do shore from North Windmill Beach)
+- **Site Type**: Granite pinnacle reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 10 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Maximum Depth**: 13 meters
+- **Depth Range**: 3-13m (flat top to pinnacle bottom)
+- **Typical Visibility**: 6-12 meters
+- **Water Temperature**: 10-14°C
+- **Marine Protected Area**: Yes (permit required)
+- **Specialty**: Macro photography, nudibranchs
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
+Photographer's Reef is famous for nudibranchs and is among the best sites for nudibranch photography in Cape Town. The site features diverse invertebrates including anemones, sponges, sea stars, and various gastropods. Small reef fish occupy crevices and cavities in the granite formations.
 
 ## Dive Profile
 

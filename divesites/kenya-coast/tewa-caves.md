@@ -13,30 +13,31 @@ addedBy: osm_import
 
 ## Tewa Caves
 
-Tewa Caves is a cave dive site in Kenya Coast, Africa.
+Tewa Caves is a unique reef cave system near the mouth of a creek in Watamu Marine National Park, famous for its giant groupers and scenic light-flooded cave formations. The site offers an unusual combination of cave diving with excellent macro and wide-angle photography opportunities.
 
 ## Overview
 
-Tewa Caves is a dive site in Kenya Coast featuring underwater cave and cavern formations. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Located in Watamu Marine National Park near Watamu Creek, Tewa Caves features partly underwater cave formations with pristine white sand surroundings. The caves are inhabited by giant groupers reaching up to 363 kg (800 lbs), along with diverse tropical fish and intricate coral formations. Depths range 8-24 meters with visibility typically 15-25 meters and water temperatures averaging 24-28°C.
 
 ## Site Information
 
-- **Location**: Kenya Coast, Africa
+- **Location**: Watamu Creek mouth, Watamu Marine National Park
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Typical Visibility**: 15-25 meters
+- **Current**: Mild to moderate
+- **Best Time**: October to March
+- **Notable Features**: Giant groupers, cave formations, white sand, light-flooded interiors
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+The caves are famous for hosting massive giant groupers, the primary attraction for divers. Additional marine life includes moray eels, diverse tropical fish species, blue-spotted stingrays, lionfish, and intricate coral formations. The cave environment creates a unique ecosystem where larger fish species gather for shelter.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to shallow reef at 8-10 meters, exploring coral islands and white sand channels. Ascend to locate cave entrances typically found at 12-18 meters. The caves feature light-filled interiors with excellent natural illumination. Observe the giant groupers in their natural habitat—they are relatively unafraid of divers. Navigate carefully through cave passages, avoiding disturbing the sand bottom. The site is suitable for all experience levels, with excellent opportunities for both wide-angle cave photography and close-up creature encounters.
 
 ## Entry and Exit
 

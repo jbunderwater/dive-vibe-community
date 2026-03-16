@@ -11,7 +11,10 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Little Wall",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "web_research",
+      "validation_date": "2026-03-16"
     }
   },
   {
@@ -26,7 +29,10 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Big Wall",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "web_research",
+      "validation_date": "2026-03-16"
     }
   },
   {
@@ -41,7 +47,10 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Captain Muddy",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "web_research",
+      "validation_date": "2026-03-16"
     }
   },
   {
@@ -50,13 +59,16 @@
     "lon": 39.2926562,
     "osm_id": 10790374783,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 15,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "name": "THGI Nungwi",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "web_research",
+      "validation_date": "2026-03-16"
     }
   },
   {
@@ -65,16 +77,19 @@
     "lon": 39.5532195,
     "osm_id": 9943059717,
     "osm_type": "node",
-    "depth": null,
+    "depth": 25,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Barracuda Point",
       "natural": "reef",
       "scuba_diving:divespot": "yes",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "web_research",
+      "validation_date": "2026-03-16"
     }
   },
   {
@@ -83,16 +98,19 @@
     "lon": 39.5564155,
     "osm_id": 10224583145,
     "osm_type": "node",
-    "depth": null,
+    "depth": 12,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Lagoon Mounding",
       "natural": "reef",
       "scuba_diving:divespot": "yes",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "web_research",
+      "validation_date": "2026-03-16"
     }
   },
   {
@@ -101,16 +119,19 @@
     "lon": 39.5584061,
     "osm_id": 10224583146,
     "osm_type": "node",
-    "depth": null,
+    "depth": 10,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Stingray city",
       "natural": "reef",
       "scuba_diving:divespot": "yes",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "web_research",
+      "validation_date": "2026-03-16"
     }
   },
   {
@@ -119,15 +140,18 @@
     "lon": 39.5583202,
     "osm_id": 10224583147,
     "osm_type": "node",
-    "depth": null,
+    "depth": 8,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Jambiani Lagoon",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "web_research",
+      "validation_date": "2026-03-16"
     }
   },
   {
@@ -136,16 +160,19 @@
     "lon": 39.5781007,
     "osm_id": 10224583148,
     "osm_type": "node",
-    "depth": null,
+    "depth": 22,
     "site_type": "wall",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Cement wall",
       "natural": "reef",
       "scuba_diving:divespot": "yes",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "web_research",
+      "validation_date": "2026-03-16"
     }
   },
   {
@@ -154,16 +181,19 @@
     "lon": 39.5788004,
     "osm_id": 10224583149,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Sau Inn Garden",
       "natural": "reef",
       "scuba_diving:divespot": "yes",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "web_research",
+      "validation_date": "2026-03-16"
     }
   },
   {
@@ -172,15 +202,18 @@
     "lon": 39.5795066,
     "osm_id": 10224583150,
     "osm_type": "node",
-    "depth": null,
+    "depth": 20,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Pawoni Hill",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "web_research",
+      "validation_date": "2026-03-16"
     }
   },
   {
@@ -189,16 +222,19 @@
     "lon": 39.5850976,
     "osm_id": 10224583151,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Woo south",
       "natural": "reef",
       "scuba_diving:divespot": "yes",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "web_research",
+      "validation_date": "2026-03-16"
     }
   },
   {
@@ -207,15 +243,18 @@
     "lon": 39.3909732,
     "osm_id": 10224583152,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Memba 1",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "web_research",
+      "validation_date": "2026-03-16"
     }
   },
   {
@@ -224,15 +263,18 @@
     "lon": 39.3825609,
     "osm_id": 10224583153,
     "osm_type": "node",
-    "depth": null,
+    "depth": 15,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Memba 2",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "web_research",
+      "validation_date": "2026-03-16"
     }
   },
   {
@@ -241,16 +283,19 @@
     "lon": 39.58805,
     "osm_id": 13165341861,
     "osm_type": "node",
-    "depth": null,
+    "depth": 28,
     "site_type": "wall",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Napoleon Wall",
       "natural": "reef",
       "scuba_diving:divespot": "yes",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "web_research",
+      "validation_date": "2026-03-16"
     }
   },
   {
@@ -259,15 +304,18 @@
     "lon": 39.3602024,
     "osm_id": 704644197,
     "osm_type": "way",
-    "depth": null,
+    "depth": 22,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Moore Bank",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "web_research",
+      "validation_date": "2026-03-16"
     }
   },
   {
@@ -276,15 +324,18 @@
     "lon": 39.3878745,
     "osm_id": 704649412,
     "osm_type": "way",
-    "depth": null,
+    "depth": 20,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Pungume Patches",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "web_research",
+      "validation_date": "2026-03-16"
     }
   }
 ]

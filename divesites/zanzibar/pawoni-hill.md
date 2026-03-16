@@ -3,8 +3,8 @@ name: Pawoni Hill
 lat: -6.3297416
 lng: 39.5795066
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+maxDepth: 20
+entryType: boat
 siteType: reef
 ref: null
 osmId: 10224583150
@@ -13,22 +13,22 @@ addedBy: osm_import
 
 ## Pawoni Hill
 
-Pawoni Hill is a reef dive site in Zanzibar, Africa.
+Pawoni Hill is an intermediate reef dive site in Menai Bay featuring coral pinnacles and moderate depths with diverse marine life.
 
 ## Overview
 
-Pawoni Hill is a dive site in Zanzibar offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Pawoni Hill is a coral reef dive site in Menai Bay Conservation Area featuring reef pinnacles and elevated coral formations. The site offers moderate diving depths with good habitat for tropical fish species. The reef topography creates varied diving experiences with interesting coral structures. Suitable for intermediate divers seeking coral reef diving with moderate depth exposure.
 
 ## Site Information
 
-- **Location**: Zanzibar, Africa
-- **Entry Type**: Shore entry
+- **Location**: Menai Bay Conservation Area, southeastern Unguja, Zanzibar
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Maximum Depth**: 20 meters
+- **Typical Visibility**: 12-25 meters (39-82 feet)
+- **Current**: Light to moderate
+- **Best Time**: October to March (peak season)
 
 ## Marine Life
 

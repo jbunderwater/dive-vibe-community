@@ -3,7 +3,7 @@ name: Sita Reef
 lat: -4.7
 lng: 39.36
 difficulty: Intermediate
-maxDepth: 22
+maxDepth: 18
 entryType: boat
 siteType: reef
 ref: null
@@ -13,30 +13,31 @@ addedBy: osm_import
 
 ## Sita Reef
 
-Sita Reef is a reef dive site in Kenya Coast, Africa.
+Sita Reef is part of the Kisite-Mpunguti Marine Park system on Kenya's south coast, featuring healthy coral reef structures within a protected marine sanctuary. The site showcases the region's exceptional marine biodiversity and coral garden ecosystems.
 
 ## Overview
 
-Sita Reef is a dive site in Kenya Coast offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Sita Reef is a protected reef site within Kisite-Mpunguti Marine National Park, featuring depths from 5 meters to 18+ meters. The site is part of a larger reef system hosting over 250 fish species and 40+ coral varieties. Visibility typically ranges 15-25 meters with water temperatures averaging 24-26°C.
 
 ## Site Information
 
-- **Location**: Kenya Coast, Africa
+- **Location**: Kisite-Mpunguti Marine Park, South Coast
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Maximum Depth**: 18 meters
+- **Typical Visibility**: 15-25 meters
+- **Current**: Mild to moderate
+- **Best Time**: October to March
+- **Notable Features**: Protected reef system, coral gardens, diverse fish populations
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
+Sita Reef supports 250+ fish species and 40+ coral varieties characteristic of the Kisite-Mpunguti system. Divers encounter groupers, moray eels, octopuses, lobsters, crabs, and vibrant schools of tropical fish. Larger residents include rays, reef sharks, and dolphins. The protected status ensures healthy ecosystems.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 22 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Enter over the shallow reef at 8-12 meters and explore coral head structures. Gradually descend through channels and overhangs to 15-18 meters. The reef features natural coral formations providing shelter for diverse marine life. Most abundant marine life occurs between 10-18 meters. Navigate carefully through coral gardens, maintaining excellent buoyancy to protect the reef. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 

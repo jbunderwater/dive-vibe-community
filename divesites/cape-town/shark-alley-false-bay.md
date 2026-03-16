@@ -17,22 +17,23 @@ Shark Alley (False Bay) is a reef dive site in Cape Town, Africa.
 
 ## Overview
 
-Shark Alley (False Bay) is a dive site in Cape Town offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Shark Alley is an inshore rocky reef channel in False Bay, located between Dyer Island and Geyser Rock near Simon's Town. This intermediate dive site is known for encounters with sevengill sharks and Cape fur seals. Water temperature ranges from 14-18°C, requiring 5mm+ wetsuits.
 
 ## Site Information
 
-- **Location**: Cape Town, Africa
+- **Location**: False Bay, near Simon's Town (Dyer Island-Geyser Rock area)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Inshore rocky reef channel
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 10 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Typical Visibility**: 3-20 meters
+- **Water Temperature**: 14-18°C (cold Atlantic)
+- **Current**: Variable
+- **Best Time**: Year-round; marine life seasonal variations
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
+Shark Alley is famous for sevengill sharks (broadnose sevengill/cow sharks), pyjama catsharks, spotted-gully sharks, and other rarely seen deep-water shark species. Cape fur seals frequently visit and interact with divers. The site also features diverse reef fish populations including reef-feeding species and invertebrates.
 
 ## Dive Profile
 

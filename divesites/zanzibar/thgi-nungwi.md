@@ -2,8 +2,8 @@
 name: THGI Nungwi
 lat: -5.7301527
 lng: 39.2926562
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Beginner
+maxDepth: 15
 entryType: boat
 siteType: reef
 ref: null
@@ -13,22 +13,22 @@ addedBy: osm_import
 
 ## THGI Nungwi
 
-THGI Nungwi is a reef dive site in Zanzibar, Africa.
+THGI Nungwi is a shallow reef site off Nungwi village in northern Zanzibar. This beginner-friendly reef offers protected shallow waters and vibrant coral formations accessible from local dive operators.
 
 ## Overview
 
-THGI Nungwi is a dive site in Zanzibar offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+THGI Nungwi is a coral reef dive site off Nungwi beach on Zanzibar's north coast. The shallow reef features healthy coral structures and abundant tropical fish species. This site is suitable for all experience levels and offers excellent visibility with calm, protected waters. Nungwi's north and west shores provide protected diving with shallow lagoons ideal for beginner training and recreational diving.
 
 ## Site Information
 
-- **Location**: Zanzibar, Africa
+- **Location**: Nungwi, northern Unguja, Zanzibar
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 15 meters
+- **Typical Visibility**: 10-25 meters (33-82 feet)
+- **Current**: Light to moderate
+- **Best Time**: October to March; Nungwi accessible year-round
 
 ## Marine Life
 

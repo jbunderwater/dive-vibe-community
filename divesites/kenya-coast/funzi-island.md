@@ -3,7 +3,7 @@ name: Funzi Island
 lat: -4.56
 lng: 39.42
 difficulty: Beginner
-maxDepth: 10
+maxDepth: 16
 entryType: boat
 siteType: reef
 ref: null
@@ -13,30 +13,31 @@ addedBy: osm_import
 
 ## Funzi Island
 
-Funzi Island is a reef dive site in Kenya Coast, Africa.
+Funzi Island is a tranquil reef diving destination on Kenya's isolated south coast, comprising four mangrove-covered islets. The site offers excellent beginner diving with easy access to diverse marine ecosystems and is conveniently located near the Kisite-Mpunguti Marine Park.
 
 ## Overview
 
-Funzi Island is a dive site in Kenya Coast offering excellent diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Funzi Island sits near Kisite-Mpunguti Marine Park, extending the park's exceptional marine biodiversity to a quieter, more secluded diving area. The surrounding reef system hosts 360+ fish species and 45+ coral types. Depths range from 5 to 30 meters with visibility typically 15-25 meters and water temperatures averaging 24-26°C.
 
 ## Site Information
 
-- **Location**: Kenya Coast, Africa
+- **Location**: Funzi, South Coast near Kisite-Mpunguti Marine Park
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 10 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Maximum Depth**: 16 meters
+- **Typical Visibility**: 15-25 meters
+- **Current**: Mild
+- **Best Time**: October to March
+- **Notable Features**: Shallow coral gardens, mangrove surroundings, abundant fish populations
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
+The reef system supports 360+ fish species and 45+ coral varieties. Funzi divers encounter groupers, moray eels, colorful reef fish, octopuses, rays, and sharks in abundance. The sheltered location attracts both resident reef fish and migratory pelagic species. Excellent macro and wide-angle photography opportunities.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 10 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-10 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin diving in shallow coral gardens at 5-8 meters, perfect for beginners and photography. Gradually explore deeper sections reaching 12-16 meters. The reef features natural coral formations and sandy channels. Navigate gently through coral structures, maintaining excellent buoyancy. Most abundant marine life is found between 8-16 meters. The site is ideal for leisurely exploration with ample bottom time for photography and creature spotting.
 
 ## Entry and Exit
 

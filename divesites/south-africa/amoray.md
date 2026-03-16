@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Amoray
 
-Amoray is a reef dive site in South Africa, Africa.
+Amoray is a popular reef dive site and dive operator base in Sodwana Bay, KwaZulu-Natal, South Africa. Located within the iSimangaliso Wetland Park, Amoray operates as both a professional dive center and access point to the renowned Sodwana Bay reef system.
 
 ## Overview
 
-Amoray is a dive site in South Africa offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Amoray offers year-round diving on the vibrant Sodwana Bay reefs with access to shallow coral gardens rich in marine biodiversity. The warm Indian Ocean waters (22-26°C) support over 1,200 fish species and create ideal conditions for intermediate divers exploring pristine hard and soft coral formations. Water temperatures average 22-26°C throughout the year, supporting exceptional tropical reef ecosystems.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Amoray is a dive site in South Africa offering rewarding diving on healthy coral
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
+Sodwana Bay's exceptional biodiversity includes parrotfish, triggerfish, moray eels, sea turtles, butterfly fish, angelfish, large schools of snapper and fusiliers, potato cods, manta rays, and ragged-tooth sharks. Hard and soft corals, nudibranchs, scorpionfish, ribbon eels, and cleaner shrimps are abundant.
 
 ## Dive Profile
 
