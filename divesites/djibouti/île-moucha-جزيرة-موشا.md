@@ -3,7 +3,7 @@ name: Île Moucha جزيرة موشا
 lat: 11.7209561
 lng: 43.195043
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 18
 entryType: boat
 siteType: reef
 ref: null
@@ -17,7 +17,7 @@ addedBy: osm_import
 
 ## Overview
 
-Île Moucha جزيرة موشا is a dive site in Djibouti offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Île Moucha جزيرة موشا (Moucha Island) is part of Djibouti's first designated marine protected area, featuring outstanding coral reef diving. The island's underwater landscape includes coral-covered slopes, sandy patches, and wall sections at various depths suitable for intermediate divers. Visibility typically ranges 5-15 meters with water temperatures 25-29°C (November-January peak season).
 
 ## Site Information
 
@@ -25,14 +25,14 @@ addedBy: osm_import
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)
 - **Current**: Moderate to strong
 - **Best Time**: October to March (East Africa), varies by location
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
+Moucha Island reefs host colorful reef fish including angelfish, butterflyfish, parrotfish, snappers, and lionfish. Moray eels hide in reef crevices, while rays and sea turtles are frequently encountered. During seasonal visits (November-February), whale sharks and manta rays feed on plankton blooms, with juvenile whale sharks often approaching divers at the surface.
 
 ## Dive Profile
 

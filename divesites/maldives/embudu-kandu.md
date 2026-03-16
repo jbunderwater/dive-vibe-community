@@ -2,8 +2,8 @@
 name: Embudu Kandu
 lat: 4.085491
 lng: 73.529577
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Advanced
+maxDepth: 28
 entryType: boat
 siteType: drift
 ref: null
@@ -24,8 +24,8 @@ Embudu Kandu is a dive site in Maldives offering rewarding diving on healthy cor
 - **Location**: Maldives, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Drift dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 28 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)

@@ -11,7 +11,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Divebase",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -26,7 +28,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Exit 1 and 2",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -41,7 +45,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Exit 10",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -56,7 +62,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Exit 9",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -71,7 +79,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Exit 8",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -86,7 +96,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Exit 7",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -101,7 +113,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Exit 5 + 6",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -116,7 +130,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Exit 4",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -125,8 +141,8 @@
     "lon": 72.9116389,
     "osm_id": 663869881,
     "osm_type": "node",
-    "depth": 25,
-    "site_type": "wreck",
+    "depth": 28,
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
@@ -137,7 +153,9 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "wreck:date_sunk": "1991"
+      "wreck:date_sunk": "1991",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -146,13 +164,15 @@
     "lon": 72.7155667,
     "osm_id": 663869883,
     "osm_type": "node",
-    "depth": 25,
-    "site_type": "reef",
+    "depth": 28,
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "HimendhooThila West",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -161,13 +181,15 @@
     "lon": 72.9318167,
     "osm_id": 663869884,
     "osm_type": "node",
-    "depth": 30,
-    "site_type": "reef",
+    "depth": 40,
+    "site_type": "pinnacle",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Fish Head",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -176,13 +198,15 @@
     "lon": 72.819074,
     "osm_id": 663869885,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 12,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Velidhu Hausriff",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -191,16 +215,18 @@
     "lon": 72.77895,
     "osm_id": 663869886,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 10,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Pineapple Island Hausriff",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -209,15 +235,17 @@
     "lon": 72.9571983,
     "osm_id": 663869887,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 15,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Vilamendhoo Housereef",
       "natural": "reef",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -235,7 +263,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -244,16 +274,18 @@
     "lon": 73.364956,
     "osm_id": 663869889,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 28,
     "site_type": "drift",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Lhohi Bodu Kandu",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -262,16 +294,18 @@
     "lon": 73.363679,
     "osm_id": 663869890,
     "osm_type": "node",
-    "depth": 25,
-    "site_type": "drift",
+    "depth": 30,
+    "site_type": "pinnacle",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Lhohi Kandu Tila",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -289,7 +323,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -307,7 +343,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -325,7 +363,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -334,16 +374,18 @@
     "lon": 73.417159,
     "osm_id": 663869894,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 22,
     "site_type": "cave",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Fulhidoo Caves",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -352,8 +394,8 @@
     "lon": 73.430742,
     "osm_id": 663869895,
     "osm_type": "node",
-    "depth": 25,
-    "site_type": "reef",
+    "depth": 28,
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
@@ -361,7 +403,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -379,7 +423,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -397,7 +443,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -415,7 +463,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -433,7 +483,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -442,16 +494,18 @@
     "lon": 73.368477,
     "osm_id": 663869901,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 12,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Fihalhohi Hausriff",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -469,7 +523,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -478,8 +534,8 @@
     "lon": 73.383658,
     "osm_id": 663869903,
     "osm_type": "node",
-    "depth": 25,
-    "site_type": "reef",
+    "depth": 26,
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
@@ -487,7 +543,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -497,7 +555,7 @@
     "osm_id": 663869904,
     "osm_type": "node",
     "depth": 25,
-    "site_type": "reef",
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
@@ -505,7 +563,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -523,7 +583,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -532,7 +594,7 @@
     "lon": 73.360051,
     "osm_id": 663869906,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 28,
     "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -541,7 +603,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -550,8 +614,8 @@
     "lon": 73.369075,
     "osm_id": 663869907,
     "osm_type": "node",
-    "depth": 25,
-    "site_type": "pinnacle",
+    "depth": 20,
+    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
@@ -559,7 +623,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -568,16 +634,18 @@
     "lon": 73.367513,
     "osm_id": 663869908,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 12,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Fihalhohi Hausriff Nord",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -595,7 +663,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -613,7 +683,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -631,7 +703,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -649,7 +723,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -667,7 +743,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -685,7 +763,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -703,7 +783,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -721,7 +803,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -739,7 +823,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -757,11 +843,13 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
-    "name": "Vaageli Faru Süd",
+    "name": "Vaageli Faru S\u00fcd",
     "lat": 3.947749,
     "lon": 73.353433,
     "osm_id": 663869919,
@@ -771,11 +859,13 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
-      "name": "Vaageli Faru Süd",
+      "name": "Vaageli Faru S\u00fcd",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -793,7 +883,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -811,7 +903,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -829,7 +923,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -847,7 +943,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -865,7 +963,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -877,13 +977,15 @@
     "depth": 25,
     "site_type": "cave",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Vaageli Caves",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -901,7 +1003,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -919,7 +1023,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -937,7 +1043,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -955,7 +1063,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -973,7 +1083,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -991,7 +1103,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -1009,7 +1123,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -1027,7 +1143,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -1045,7 +1163,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -1054,7 +1174,7 @@
     "lon": 73.46935,
     "osm_id": 663869936,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 22,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -1063,7 +1183,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1072,8 +1194,8 @@
     "lon": 73.456299,
     "osm_id": 663869937,
     "osm_type": "node",
-    "depth": 20,
-    "site_type": "reef",
+    "depth": 30,
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
@@ -1081,7 +1203,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1099,7 +1223,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -1117,7 +1243,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -1135,7 +1263,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -1144,16 +1274,18 @@
     "lon": 73.433551,
     "osm_id": 663869941,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 20,
     "site_type": "cave",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Velassaru Caves",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1162,16 +1294,18 @@
     "lon": 73.455125,
     "osm_id": 663869942,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 24,
     "site_type": "cave",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Vaadho Caves",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1189,7 +1323,9 @@
       "name": "Bolifushi",
       "seamark:type": "wreck",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -1198,7 +1334,7 @@
     "lon": 73.493256,
     "osm_id": 663869944,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 28,
     "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -1207,7 +1343,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1226,7 +1364,9 @@
       "scuba_diving:entry:boat": "yes",
       "seamark:type": "wreck",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -1244,7 +1384,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1253,7 +1395,7 @@
     "lon": 73.519771,
     "osm_id": 663869947,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 28,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -1262,7 +1404,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1271,7 +1415,7 @@
     "lon": 73.478393,
     "osm_id": 663869948,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 28,
     "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -1280,7 +1424,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1298,7 +1444,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -1307,16 +1455,18 @@
     "lon": 73.5338869,
     "osm_id": 663869950,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 30,
     "site_type": "drift",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Embudu Channel / Embudu Express",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1325,16 +1475,18 @@
     "lon": 73.529577,
     "osm_id": 663869951,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 28,
     "site_type": "drift",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Embudu Kandu",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1343,15 +1495,17 @@
     "lon": 73.4129734,
     "osm_id": 672632385,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 12,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "name": "house reef",
       "natural": "reef",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1370,7 +1524,9 @@
       "scuba_diving:difficulty": "1",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -1386,7 +1542,9 @@
     "tags": {
       "name": "Main jetty exit",
       "scuba_diving:entry": "shore",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -1402,7 +1560,9 @@
     "tags": {
       "name": "Bungalow 78 exit",
       "scuba_diving:entry": "shore",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -1417,7 +1577,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Entrence 155",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -1432,7 +1594,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Entrence 110",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -1447,7 +1611,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Entrence 128",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -1465,7 +1631,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -1483,7 +1651,9 @@
       "natural": "reef",
       "scuba_diving:entry": "shore",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -1492,16 +1662,18 @@
     "lon": 73.4635205,
     "osm_id": 4584554103,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 32,
     "site_type": "drift",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Guraidhoo Channel",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1519,7 +1691,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -1528,15 +1702,17 @@
     "lon": 73.1620467,
     "osm_id": 6013133717,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 12,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Housereef West",
       "natural": "reef",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1545,15 +1721,17 @@
     "lon": 73.1652935,
     "osm_id": 6013133718,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 12,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Housereef East",
       "natural": "reef",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1569,7 +1747,9 @@
     "tags": {
       "name": "Miyaru Faru",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -1588,7 +1768,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -1597,7 +1779,7 @@
     "lon": 73.5042226,
     "osm_id": 7151743385,
     "osm_type": "node",
-    "depth": 35,
+    "depth": 30,
     "site_type": "drift",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -1609,7 +1791,9 @@
       "scuba_diving:depth": "30",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1627,7 +1811,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -1636,7 +1822,7 @@
     "lon": 72.8827411,
     "osm_id": 7156015385,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 20,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -1644,7 +1830,9 @@
       "name": "Kudhi Maa Wreck",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1661,7 +1849,9 @@
       "name": "Moofushi",
       "natural": "reef",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -1679,7 +1869,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -1688,15 +1880,17 @@
     "lon": 72.8844468,
     "osm_id": 7158528485,
     "osm_type": "node",
-    "depth": 25,
-    "site_type": "reef",
+    "depth": 30,
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Maaya Lagoon",
       "natural": "reef",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1714,7 +1908,9 @@
       "natural": "reef",
       "scuba_diving:type:drift": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -1723,15 +1919,17 @@
     "lon": 72.9682155,
     "osm_id": 8584208530,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 15,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Kuramathi house reef",
       "natural": "reef",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1751,7 +1949,9 @@
       "scuba_diving:entry:boat": "yes",
       "scuba_diving:type:sharks": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -1769,7 +1969,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -1778,8 +1980,8 @@
     "lon": 72.7193872,
     "osm_id": 8584302415,
     "osm_type": "node",
-    "depth": 20,
-    "site_type": "reef",
+    "depth": 28,
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
@@ -1787,7 +1989,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1805,7 +2009,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1815,7 +2021,7 @@
     "osm_id": 8584320417,
     "osm_type": "node",
     "depth": 25,
-    "site_type": "reef",
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
@@ -1824,7 +2030,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1833,16 +2041,18 @@
     "lon": 72.7364113,
     "osm_id": 8584373032,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 35,
     "site_type": "drift",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Gangehi Kandu",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1851,7 +2061,7 @@
     "lon": 72.7192917,
     "osm_id": 8584458546,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 28,
     "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -1861,7 +2071,9 @@
       "scuba_diving:current": "2",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1870,16 +2082,18 @@
     "lon": 72.9498129,
     "osm_id": 8584458549,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 15,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Ellaidhoo house reef",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1888,7 +2102,7 @@
     "lon": 72.9523073,
     "osm_id": 8584458550,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 30,
     "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -1897,7 +2111,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1906,8 +2122,8 @@
     "lon": 72.9497539,
     "osm_id": 8584458552,
     "osm_type": "node",
-    "depth": 25,
-    "site_type": "reef",
+    "depth": 32,
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
@@ -1915,7 +2131,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1924,17 +2142,19 @@
     "lon": 72.8619718,
     "osm_id": 8584458555,
     "osm_type": "node",
-    "depth": 30,
+    "depth": 35,
     "site_type": "pinnacle",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "description": "One of the most popular diving site in atoll. Water is not clear",
       "name": "Maaya Thila",
       "natural": "reef",
       "scuba_diving:type:sharks": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1943,7 +2163,7 @@
     "lon": 72.8382075,
     "osm_id": 8584458557,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 32,
     "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -1954,7 +2174,9 @@
       "scuba_diving:entry:boat": "yes",
       "scuba_diving:type:sharks": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1963,17 +2185,19 @@
     "lon": 72.7812266,
     "osm_id": 8584458560,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 35,
     "site_type": "drift",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "description": "Manta cleaning station (5-7 mantas at once in right time and current)",
       "name": "Gangehi North Kandu - manta cleaning station",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1982,7 +2206,7 @@
     "lon": 73.115684,
     "osm_id": 9180047748,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 28,
     "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -1991,7 +2215,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -2009,7 +2235,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -2027,7 +2255,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -2045,7 +2275,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -2054,7 +2286,7 @@
     "lon": 73.121948,
     "osm_id": 9180047752,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 28,
     "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -2063,7 +2295,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -2072,17 +2306,19 @@
     "lon": 72.9368108,
     "osm_id": 9318704315,
     "osm_type": "node",
-    "depth": 25,
-    "site_type": "wall",
+    "depth": 12,
+    "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "description": "Very colorful coral wall with overhangs. One of the best divespot for underwater photo and macro photo",
       "name": "Etheremadivaru house reef",
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -2104,7 +2340,9 @@
       "scuba_diving:entry:boat": "yes",
       "scuba_diving:type:sharks": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -2124,7 +2362,9 @@
       "scuba_diving:current": "0",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -2143,7 +2383,9 @@
       "scuba_diving:entry:boat": "yes",
       "scuba_diving:maxdepth": "25",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -2163,7 +2405,9 @@
       "scuba_diving:current": "2",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -2183,7 +2427,9 @@
       "scuba_diving:current": "0",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -2203,7 +2449,9 @@
       "scuba_diving:depth": "40",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -2222,7 +2470,9 @@
       "scuba_diving:entry:boat": "yes",
       "scuba_diving:maxdepth": "25",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -2240,7 +2490,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -2258,7 +2510,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -2276,7 +2530,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -2294,7 +2550,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -2312,7 +2570,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -2321,7 +2581,7 @@
     "lon": 72.940986,
     "osm_id": 9572676008,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 28,
     "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -2330,7 +2590,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -2348,7 +2610,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -2367,7 +2631,9 @@
       "natural": "reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "pattern"
     }
   },
   {
@@ -2376,17 +2642,19 @@
     "lon": 72.7857358,
     "osm_id": 10185709789,
     "osm_type": "node",
-    "depth": 16,
+    "depth": 26,
     "site_type": "pinnacle",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Fesdhoo thila",
       "scuba_diving:depth": "16",
       "scuba_diving:entry:boat": "yes",
       "scuba_diving:type:sharks": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -2395,10 +2663,10 @@
     "lon": 73.52538,
     "osm_id": 11300291678,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 38,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "historic": "wreck",
       "name": "Victory Wreck",
@@ -2406,7 +2674,9 @@
       "sport": "scuba_diving",
       "wreck:date_sunk": "1981-02-23",
       "wreck:visible_at_high_tide": "no",
-      "wreck:visible_at_low_tide": "no"
+      "wreck:visible_at_low_tide": "no",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -2415,17 +2685,19 @@
     "lon": 73.4166647,
     "osm_id": 11300299755,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 42,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "historic": "wreck",
       "name": "Rannamaari Wreck",
       "seamark:type": "wreck",
       "sport": "scuba_diving",
       "wreck:visible_at_high_tide": "no",
-      "wreck:visible_at_low_tide": "no"
+      "wreck:visible_at_low_tide": "no",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -2434,10 +2706,10 @@
     "lon": 73.560624,
     "osm_id": 1481943981,
     "osm_type": "way",
-    "depth": 25,
+    "depth": 35,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "access": "yes",
       "alt_name": "Vaavu Atoll Shipwreck",
@@ -2448,7 +2720,9 @@
       "sport": "scuba_diving",
       "wreck:date_sunk": "2015",
       "wreck:visible_at_high_tide": "no",
-      "wreck:visible_at_low_tide": "no"
+      "wreck:visible_at_low_tide": "no",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   }
 ]

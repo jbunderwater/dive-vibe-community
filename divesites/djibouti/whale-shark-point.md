@@ -3,7 +3,7 @@ name: Whale Shark Point
 lat: 11.7
 lng: 43.2
 difficulty: Beginner
-maxDepth: 10
+maxDepth: 15
 entryType: boat
 siteType: reef
 ref: null
@@ -17,7 +17,7 @@ Whale Shark Point is a reef dive site in Djibouti, Africa.
 
 ## Overview
 
-Whale Shark Point is a dive site in Djibouti offering excellent diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Whale Shark Point is a beginner-friendly shallow reef site in the Gulf of Tadjoura specifically positioned for whale shark encounters. This site is uniquely named for the seasonal aggregation of juvenile whale sharks (November-February) that feed on plankton blooms. The shallow depth and calm conditions make it accessible for newer divers while offering extraordinary opportunities to encounter the world's largest fish. Visibility typically 10-15 meters with water temperatures 25-29°C during peak season.
 
 ## Site Information
 
@@ -25,14 +25,14 @@ Whale Shark Point is a dive site in Djibouti offering excellent diving on health
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 10 meters
+- **Maximum Depth**: 15 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)
 - **Current**: Moderate to strong
 - **Best Time**: October to March (East Africa), varies by location
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
+The signature attraction is juvenile whale sharks (averaging 4 meters, with some as small as 2 meters) that visit seasonally (November-February) to feed on plankton. Djibouti appears to be a critical nursery ground for young whale sharks. Manta rays also aggregate during the same season. In addition to these megafauna, colorful reef fish, corals, sea turtles, and occasionally dolphins populate the site.
 
 ## Dive Profile
 

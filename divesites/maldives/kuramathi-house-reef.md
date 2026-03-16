@@ -2,8 +2,8 @@
 name: Kuramathi house reef
 lat: 4.2594906
 lng: 72.9682155
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Beginner
+maxDepth: 15
 entryType: boat
 siteType: reef
 ref: null
@@ -24,8 +24,8 @@ Kuramathi house reef is a dive site in Maldives offering rewarding diving on hea
 - **Location**: Maldives, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 15 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)

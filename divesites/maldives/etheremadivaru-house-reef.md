@@ -2,10 +2,10 @@
 name: Etheremadivaru house reef
 lat: 4.1161509
 lng: 72.9368108
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Beginner
+maxDepth: 12
 entryType: boat
-siteType: wall
+siteType: reef
 ref: null
 osmId: 9318704315
 addedBy: osm_import
@@ -23,9 +23,9 @@ Etheremadivaru house reef is a dive site in Maldives featuring a dramatic vertic
 
 - **Location**: Maldives, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Site Type**: Coral reef
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 12 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)

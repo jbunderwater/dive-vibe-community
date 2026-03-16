@@ -2,8 +2,8 @@
 name: Velassaru Caves
 lat: 4.125016
 lng: 73.433551
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Advanced
+maxDepth: 20
 entryType: boat
 siteType: cave
 ref: null
@@ -24,8 +24,8 @@ Velassaru Caves is a dive site in Maldives featuring underwater cave and cavern 
 - **Location**: Maldives, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)

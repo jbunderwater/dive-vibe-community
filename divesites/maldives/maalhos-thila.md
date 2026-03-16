@@ -3,7 +3,7 @@ name: Maalhos Thila
 lat: 4.0023266
 lng: 72.7192917
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 28
 entryType: boat
 siteType: pinnacle
 ref: null
@@ -25,7 +25,7 @@ Maalhos Thila is a dive site in Maldives offering rewarding diving on healthy co
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 28 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: 2
 - **Best Time**: October to April (varies by location)

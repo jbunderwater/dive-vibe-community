@@ -5,13 +5,15 @@
     "lon": 105.7,
     "osm_id": null,
     "osm_type": null,
-    "depth": 22,
+    "depth": 12,
     "site_type": "cave",
     "entry_type": "shore",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": true,
+      "validation_source": "perplexity + diveplanit + divernet"
     }
   },
   {
@@ -20,13 +22,15 @@
     "lon": 105.6753,
     "osm_id": null,
     "osm_type": null,
-    "depth": 15,
+    "depth": 18,
     "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": true,
+      "validation_source": "perplexity + diveplanit + divernet"
     }
   },
   {
@@ -41,7 +45,9 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": true,
+      "validation_source": "perplexity + tourism sources"
     }
   },
   {
@@ -50,13 +56,15 @@
     "lon": 105.67,
     "osm_id": null,
     "osm_type": null,
-    "depth": 18,
+    "depth": 12,
     "site_type": "cave",
     "entry_type": "shore",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": true,
+      "validation_source": "perplexity + dive operator sources"
     }
   },
   {
@@ -65,13 +73,15 @@
     "lon": 105.6333,
     "osm_id": null,
     "osm_type": null,
-    "depth": 30,
+    "depth": 22,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": true,
+      "validation_source": "perplexity + dive operator sources"
     }
   },
   {
@@ -80,13 +90,15 @@
     "lon": 105.6,
     "osm_id": null,
     "osm_type": null,
-    "depth": 20,
-    "site_type": "reef",
+    "depth": 12,
+    "site_type": "cave",
     "entry_type": "shore",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": true,
+      "validation_source": "perplexity + tourism sources"
     }
   },
   {
@@ -95,13 +107,15 @@
     "lon": 105.65,
     "osm_id": null,
     "osm_type": null,
-    "depth": 40,
+    "depth": 36,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": true,
+      "validation_source": "perplexity + diveplanit + divernet"
     }
   },
   {
@@ -116,7 +130,9 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": true,
+      "validation_source": "perplexity + tourism sources"
     }
   }
 ]

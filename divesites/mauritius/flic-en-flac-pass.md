@@ -2,10 +2,10 @@
 name: Flic en Flac Pass
 lat: -20.28
 lng: 57.36
-difficulty: Advanced
-maxDepth: 30
+difficulty: Intermediate
+maxDepth: 26
 entryType: boat
-siteType: drift
+siteType: reef
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Flic en Flac Pass
 
-Flic en Flac Pass is a reef dive site in Mauritius, Africa.
+Spectacular drift dive from the west coast's most popular beach. Diverse reef diving combining Aquarium (7-18m shallow drift) with Big Rock (20-26m deeper drift). Eagle rays, turtles, and colourful reef fish in magical blue water. Often combined for full-day reef adventures.
 
 ## Overview
 
-Flic en Flac Pass is a dive site in Mauritius offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Flic en Flac is the longest and most popular beach on Mauritius's west coast and the launch point for most dive boats. The pass offers variable currents depending on wind and tide: options range from no current to light current to very strong drift conditions. Aquarium is a slow, shallow drift beginning at 7 meters descending to 18 meters. Big Rock is a deeper drift with maximum depth of 26 meters. These two sites are frequently combined into single dives, with opportunities for 40+ eagle rays and diverse schooling fish.
 
 ## Site Information
 
-- **Location**: Mauritius, Africa
+- **Location**: Flic en Flac, West Coast (multiple reef dive options)
 - **Entry Type**: Boat dive
-- **Site Type**: Drift dive
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 26 meters
+- **Typical Visibility**: 15-25 meters (50-80 feet)
+- **Current**: Variable (none to very strong depending on conditions)
+- **Best Time**: Year-round; October to April calmest conditions
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
+Iconic encounters include schools of 40+ eagle rays (memorable experience), green sea turtles, and diverse reef fish. Colourful tropical species: butterflyfish, parrotfish, wrasses, triggerfish, angelfish. Reef sharks, tuna, jacks, and barracuda patrol deeper zones. Soft corals and hard coral formations support abundant macro life. Turtles, dolphins, and occasional whale sharks add to the sighting opportunities.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Aquarium dive begins at shallow reef (7m) and drifts down to 18m. Ideal for intermediate divers seeking easy drift practice. Big Rock dive accesses deeper reef (20-26m) with more dramatic formations. Combining both in sequence allows progressive depth exploration. Strong current options are available for advanced drift divers, but many dives can be completed with minimal to light current. Visibility is consistently good supporting photo opportunities.
 
 ## Entry and Exit
 

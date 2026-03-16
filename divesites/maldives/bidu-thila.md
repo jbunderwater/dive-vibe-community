@@ -3,7 +3,7 @@ name: Bidu Thila
 lat: 4.042284
 lng: 72.9523073
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 30
 entryType: boat
 siteType: pinnacle
 ref: null
@@ -25,7 +25,7 @@ Bidu Thila is a dive site in Maldives offering rewarding diving on healthy coral
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)

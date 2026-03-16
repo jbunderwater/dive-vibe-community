@@ -5,7 +5,7 @@ lng: 73.37785
 difficulty: Intermediate
 maxDepth: 25
 entryType: boat
-siteType: reef
+siteType: pinnacle
 ref: null
 osmId: 663869904
 addedBy: osm_import
@@ -23,7 +23,7 @@ Lhohi Giri is a dive site in Maldives offering rewarding diving on healthy coral
 
 - **Location**: Maldives, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

@@ -3,7 +3,7 @@ name: Thundercliff Cave
 lat: -10.4833
 lng: 105.7
 difficulty: Intermediate
-maxDepth: 22
+maxDepth: 12
 entryType: shore
 siteType: cave
 ref: null
@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Thundercliff Cave
 
-Thundercliff Cave is a cave dive site in Christmas Island, Oceania.
+A signature Christmas Island dive combining reef exploration, cave diving, and the possibility of encountering large pelagic species in dramatic limestone formations.
 
 ## Overview
 
-Thundercliff Cave is a dive site in Christmas Island featuring underwater cave and cavern formations. Located in the Oceania region, this site offers 15-40 meters of visibility with water temperatures averaging 20-29°C.
+Thundercliff Cave is one of Christmas Island's most distinctive dive sites, featuring a submerged cave entrance at 6 meters depth opening into a cathedral-like chamber with stalactites. The site combines reef diving outside the cave with cave exploration inside, offering unique geological formations and diverse marine life. The dive showcases the geological character of Christmas Island and is considered a must-do experience for intermediate-level divers.
 
 ## Site Information
 
-- **Location**: Christmas Island, Oceania
+- **Location**: Christmas Island, Oceania (north coast)
 - **Entry Type**: Shore entry
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 meters
-- **Typical Visibility**: 15-40 meters (50-130 feet)
+- **Maximum Depth**: 12 meters
+- **Typical Visibility**: 20+ meters (65+ feet)
 - **Current**: Variable
 - **Best Time**: September to February
 
 ## Marine Life
 
-Divers at this site can expect to encounter great white sharks, grey nurse sharks, whale sharks, manta rays, sea turtles, dolphins, dugongs, potato cod. Additional species commonly sighted include maori wrasse, giant trevally, hard corals, soft corals. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+Outside the cave, divers encounter reef fish including butterflyfish, surgeonfish, ornate hawkfish, leatherjackets, and goldspot seabream. Schools of cave sweepers inhabit the cave entrance and interior chambers. The site occasionally features larger pelagic species including hammerheads and barracuda. The cave environment shelters low-light-adapted species including crustaceans and small reef fish seeking protection in crevices and overhangs. Soft and hard corals populate the reef sections.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 22 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin on the reef outside the cave entrance, then descend to 6 meters where the submerged cave entrance reveals a rippled sandy bottom. Swim into the cave system and surface inside a massive chamber open to the sky. Explore the cathedral-like main chamber with spectacular stalactites and geological formations. The site features taller columns and hanging shroud formations creating a dramatic underwater landscape. Beyond the cave, the reef flattens at approximately 12 meters before dropping off at a steeper angle. Adequate air management is essential as you'll need sufficient reserves to safely exit the cave system.
 
 ## Entry and Exit
 

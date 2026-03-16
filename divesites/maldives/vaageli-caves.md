@@ -2,7 +2,7 @@
 name: Vaageli Caves
 lat: 3.914468
 lng: 73.351402
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 25
 entryType: boat
 siteType: cave
@@ -24,7 +24,7 @@ Vaageli Caves is a dive site in Maldives featuring underwater cave and cavern fo
 - **Location**: Maldives, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong

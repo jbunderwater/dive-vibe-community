@@ -2,8 +2,8 @@
 name: Keyodhoo Shipwreck
 lat: 3.4513707
 lng: 73.560624
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Advanced
+maxDepth: 35
 entryType: boat
 siteType: wreck
 ref: null
@@ -24,8 +24,8 @@ Keyodhoo Shipwreck is a dive site in Maldives featuring the wreck of the Keyodho
 - **Location**: Maldives, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 35 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)

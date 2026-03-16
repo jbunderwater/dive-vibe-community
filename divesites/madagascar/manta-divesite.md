@@ -3,9 +3,9 @@ name: Manta divesite
 lat: -13.3683279
 lng: 48.0627584
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 30
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: 6943571813
 addedBy: osm_import
@@ -13,30 +13,31 @@ addedBy: osm_import
 
 ## Manta divesite
 
-Manta divesite is a reef dive site in Madagascar, Africa.
+Manta divesite is a drop-off wall in Nosy Be famous as a consistent manta ray cleaning station.
 
 ## Overview
 
-Manta divesite is a dive site in Madagascar offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+This spectacular wall dive drops from shallow depths to 30+ meters, hosting a reliable cleaning station where manta rays gather year-round. Unlike seasonal manta sites elsewhere, Manta divesite offers consistent opportunities to encounter these graceful giants gliding through the water column. The site features sandy patches interspersed with coral formations and excellent visibility of 15-30 meters in typical conditions.
 
 ## Site Information
 
-- **Location**: Madagascar, Africa
+- **Location**: Nosy Be, Madagascar
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Maximum Depth**: 30 meters
+- **Typical Visibility**: 15-30 meters
+- **Water Temperature**: 26-30°C year-round
+- **Current**: Variable; can be significant
+- **Best Time**: April-January (year-round manta presence)
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
+The primary draw is manta rays, which measure up to 6-7 meters and provide spectacular "dancing" displays as they feed on plankton at the cleaning station. Expect regular sightings at this reliable site. Supporting marine life includes reef sharks, barracudas, jacks, snappers, and diverse reef fish. Seasonal megafauna include whale sharks (September-December) and humpback whales (August-October).
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to 12-18 meters and position yourself on the sandy seabed or gently sloping wall. Manta rays typically cruise the area at these moderate depths while cleaning. The cleaning station operates throughout the day as rays cycle through periodically. Maintain neutral buoyancy and remain patient for encounters. Plan 45-50 minutes at depth with adequate surface interval for safety protocols.
 
 ## Entry and Exit
 

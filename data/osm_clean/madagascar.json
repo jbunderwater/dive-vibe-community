@@ -5,8 +5,8 @@
     "lon": 48.0195595,
     "osm_id": 6943550642,
     "osm_type": "node",
-    "depth": 25,
-    "site_type": "reef",
+    "depth": 20,
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
@@ -14,7 +14,9 @@
       "scuba_diving:entry:boat": "yes",
       "scuba_diving:type:sharks": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "web_research"
     }
   },
   {
@@ -23,15 +25,17 @@
     "lon": 48.0627584,
     "osm_id": 6943571813,
     "osm_type": "node",
-    "depth": 20,
-    "site_type": "reef",
+    "depth": 30,
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Manta divesite",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "web_research"
     }
   },
   {
@@ -48,7 +52,9 @@
       "name": "Rosado",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "web_research"
     }
   },
   {
@@ -65,7 +71,9 @@
       "name": "Chameau",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "web_research"
     }
   }
 ]

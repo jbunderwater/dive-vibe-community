@@ -3,7 +3,7 @@ name: Shark Point
 lat: 3.988882
 lng: 73.519771
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 28
 entryType: boat
 siteType: reef
 ref: null
@@ -13,22 +13,22 @@ addedBy: osm_import
 
 ## Shark Point
 
-Shark Point is a reef dive site in Maldives, Asia.
+Shark Point is an intermediate reef dive site located in South Male Atoll, Maldives.
 
 ## Overview
 
-Shark Point is a dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Shark Point is a popular reef dive known for consistent shark encounters, particularly reef sharks and occasional hammerheads. The site features excellent coral structures and a good mix of reef fish. Named for the frequency of shark sightings, this site offers reliable marine biodiversity within moderate depth. Visibility typically ranges from 20-35 meters, with water temperatures averaging 26-29°C year-round.
 
 ## Site Information
 
-- **Location**: Maldives, Asia
+- **Location**: South Male Atoll, Maldives
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 28 meters
+- **Typical Visibility**: 20-35 meters (65-115 feet)
+- **Current**: Moderate, predictable
+- **Best Time**: October to April (dry season)
 
 ## Marine Life
 
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter manta rays, whale sharks, reef shark
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Shark Point is a gentle reef dive suitable for varied depths. The reef structure provides multiple options for divers at different skill levels, with shallow sections at 5-10 meters and deeper exploration to 25-28 meters. Most shark and pelagic activity occurs between 12-20 meters. The reef formations provide reference points and natural current breaks for comfortable diving.
 
 ## Entry and Exit
 
@@ -44,11 +44,13 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Watch the blue water away from the reef for passing sharks
+- Best shark sightings occur mid-dive as fish settle
+- Bring a camera for potential large pelagic encounters
+- Maintain distance from sharks and respect their space
+- The reef structure provides natural shelter if currents strengthen
+- Good site for practicing mid-water buoyancy
+- Multiple passes are possible in a single dive
 
 ## Safety Considerations
 

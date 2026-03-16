@@ -2,10 +2,10 @@
 name: Lhohi Kandu Tila
 lat: 3.856683
 lng: 73.363679
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Advanced
+maxDepth: 30
 entryType: boat
-siteType: drift
+siteType: pinnacle
 ref: null
 osmId: 663869890
 addedBy: osm_import
@@ -23,9 +23,9 @@ Lhohi Kandu Tila is a dive site in Maldives offering rewarding diving on healthy
 
 - **Location**: Maldives, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Drift dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Site Type**: Pinnacle/seamount
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)

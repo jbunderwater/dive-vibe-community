@@ -2,8 +2,8 @@
 name: Embudu Channel / Embudu Express
 lat: 4.0874002
 lng: 73.5338869
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Advanced
+maxDepth: 30
 entryType: boat
 siteType: drift
 ref: null
@@ -13,22 +13,22 @@ addedBy: osm_import
 
 ## Embudu Channel / Embudu Express
 
-Embudu Channel / Embudu Express is a reef dive site in Maldives, Asia.
+Embudu Channel (known as Embudu Express) is an advanced drift diving site located in South Male Atoll, Maldives.
 
 ## Overview
 
-Embudu Channel / Embudu Express is a dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Embudu Express is a famous drift dive through a narrow channel between two islands. The site is known for strong, predictable currents that allow divers to cover significant distances while observing passing pelagic fish. This is a signature Maldivian diving experience ideal for practicing drift diving skills. Visibility typically ranges from 20-40 meters, with water temperatures averaging 26-29°C year-round.
 
 ## Site Information
 
-- **Location**: Maldives, Asia
+- **Location**: South Male Atoll, Maldives
 - **Entry Type**: Boat dive
 - **Site Type**: Drift dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 30 meters
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Strong and consistent
+- **Best Time**: October to April (dry season)
 
 ## Marine Life
 
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter manta rays, whale sharks, reef shark
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Embudu Express is a drift dive through a channel cut. Entry is typically made off the boat drift, and divers position themselves in the channel at 10-20 meters where the strongest current flows and the most fish activity occurs. The current carries divers through the channel for the duration of the dive. Exit is typically at a predetermined pickup point. The dive profile varies based on entry depth and current strength, but expect to cover 200-400 meters horizontally during the dive.
 
 ## Entry and Exit
 
@@ -44,15 +44,18 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Advanced drift diving skills are required
+- Drift diving can be disorienting — focus on relative position to buddy and guide
+- Use an SMB deployment point as planned with the operator
+- Arrive early at the pickup point
+- Keep your descent controlled — the current starts pulling immediately
+- Excellent opportunity to practice drift diving in a managed environment
+- Bring a wide-angle camera for capturing fish schools and pelagics
+- This is often listed as a training ground for confident Maldivian drift divers
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Strong currents are the defining feature — do not attempt this without Advanced certification and drift diving experience. Disorientation is a real risk in current. Maintain constant buddy contact and keep focused on your guide. Do not attempt to swim against the current. Always carry an SMB for surface signaling and deploy it during your ascent. Use an ascent line if available. Be prepared to maintain neutral buoyancy while ascending in current.
 
 ## Photography
 

@@ -5,15 +5,17 @@
     "lon": 55.6859107,
     "osm_id": 9865500503,
     "osm_type": "node",
-    "depth": 20,
-    "site_type": "reef",
+    "depth": 25,
+    "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Roche Grand Maman",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -22,7 +24,7 @@
     "lon": 53.34612,
     "osm_id": 52577559,
     "osm_type": "way",
-    "depth": null,
+    "depth": 20,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -30,7 +32,9 @@
       "name": "Remire Reef",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -51,26 +55,30 @@
     "name": "Brissare Rocks",
     "lat": -4.58,
     "lon": 55.4,
-    "depth": 20,
-    "site_type": "reef",
+    "depth": 12,
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
     "name": "Aldabra Atoll Channel",
     "lat": -9.41,
     "lon": 46.35,
-    "depth": 25,
+    "depth": 20,
     "site_type": "drift",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -91,13 +99,15 @@
     "name": "Conception Island",
     "lat": -4.63,
     "lon": 55.55,
-    "depth": 22,
-    "site_type": "reef",
+    "depth": 25,
+    "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -118,13 +128,15 @@
     "name": "Ennerdale Wreck",
     "lat": -4.6,
     "lon": 55.42,
-    "depth": 28,
+    "depth": 30,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -145,13 +157,15 @@
     "name": "L'Ilot Island",
     "lat": -4.55,
     "lon": 55.5,
-    "depth": 12,
+    "depth": 20,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -159,12 +173,14 @@
     "lat": -4.54,
     "lon": 55.35,
     "depth": 20,
-    "site_type": "reef",
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   }
 ]

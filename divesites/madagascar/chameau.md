@@ -13,30 +13,31 @@ addedBy: osm_import
 
 ## Chameau
 
-Chameau is a reef dive site in Madagascar, Africa.
+Chameau is a coral reef dive site in Nosy Be, Madagascar, offering reliable diving on healthy reef structures.
 
 ## Overview
 
-Chameau is a dive site in Madagascar offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Chameau provides accessible intermediate diving on well-developed coral formations typical of the Nosy Be region. The site features a mix of hard corals and gorgonians at moderate depths, with consistent good conditions and reasonable current patterns. As part of the northern Madagascar diving circuit, Chameau complements nearby sites with its own distinct coral and marine life composition.
 
 ## Site Information
 
-- **Location**: Madagascar, Africa
+- **Location**: Nosy Be, Madagascar
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Typical Visibility**: 15-30 meters
+- **Water Temperature**: 26-30°C year-round
+- **Current**: Moderate, generally favorable
+- **Best Time**: April-January (post-rainy season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
+Hard corals and gorgonian sea fans dominate the reef structure, hosting diverse reef fish including groupers, fusiliers, snappers, and smaller reef species. Stingrays and various eels inhabit the reef crevices. Occasional visits from larger pelagics and seasonal megafauna (whale sharks September-December, humpback whales August-October).
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to 8-15 meters and cruise across the reef. The gorgonian formations and hard coral patches provide excellent navigation landmarks. Explore crevices and overhangs where smaller species hide. The moderate current creates a pleasant drift option. Plan 45-50 minutes at depth to thoroughly explore the reef structure and marine inhabitants.
 
 ## Entry and Exit
 

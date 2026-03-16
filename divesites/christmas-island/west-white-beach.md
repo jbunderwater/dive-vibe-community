@@ -3,9 +3,9 @@ name: West White Beach
 lat: -10.4333
 lng: 105.6
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 12
 entryType: shore
-siteType: reef
+siteType: cave
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## West White Beach
 
-West White Beach is a reef dive site in Christmas Island, Oceania.
+A cavern site perfect for intermediate divers seeking accessible cave exploration combined with spectacular reef scenery on Christmas Island's dramatic north coast.
 
 ## Overview
 
-West White Beach is a dive site in Christmas Island offering rewarding diving on healthy coral reef structures. Located in the Oceania region, this site offers 15-40 meters of visibility with water temperatures averaging 20-29°C.
+West White Beach is a cave diving site nestled on Christmas Island's north coast, featuring a cavern system that opens at approximately 12 meters depth. West White Beach Cave honeycombs the limestone cliffs typical of Christmas Island's geology. Two large cavern entrances welcome divers into a spacious chamber with interesting geological features and coral growth on interior surfaces. The site combines cavern diving with excellent reef scenery, offering both technical interest and spectacular marine viewing opportunities.
 
 ## Site Information
 
-- **Location**: Christmas Island, Oceania
+- **Location**: Christmas Island, Oceania (north coast, near West White Beach)
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 15-40 meters (50-130 feet)
+- **Maximum Depth**: 12 meters
+- **Typical Visibility**: 25+ meters (80+ feet)
 - **Current**: Variable
 - **Best Time**: September to February
 
 ## Marine Life
 
-Divers at this site can expect to encounter great white sharks, grey nurse sharks, whale sharks, manta rays, sea turtles, dolphins, dugongs, potato cod. Additional species commonly sighted include maori wrasse, giant trevally, hard corals, soft corals.
+The cavern shelters lionfish resting under protected ledges and various cave-dwelling fish species adapted to low-light conditions. Soft and hard corals have colonized interior chamber walls. Outside the cavern, the reef hosts typical tropical species including butterflyfish, surgeonfish, parrotfish, wrasses, and other colorful reef residents. The site's combination of reef and cave environments supports diverse marine life adapted to both light levels.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin on the reef and descend to approximately 12 meters where the cavern system opens with two large entrances. The openings welcome divers into a spacious chamber featuring interesting geological formations and coral growth on interior surfaces. The cavern offers excellent opportunities for exploring the limestone geology of Christmas Island while observing specialized cave-dwelling marine life. Maintain appropriate depth management and conservative air reserves for safe cave exit. The site's combination of accessible cavern and surrounding reef allows flexibility in dive planning.
 
 ## Entry and Exit
 

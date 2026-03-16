@@ -4,17 +4,19 @@ addedBy: osm_import
 
 ## Mauritius
 
-Historic shipwrecks, coral reefs, and diverse Indian Ocean marine biodiversity.
+Premier Indian Ocean diving destination with over 30 dive sites, renowned for wreck diving, pelagic encounters, and year-round accessibility. Historic Japanese trawlers, intentionally sunk artificial reefs, dramatic cave formations, and thriving coral ecosystems attract divers of all levels.
 
 ## Description
 
-Mauritius is a notable diving destination in the Africa region, offering 2 documented dive sites with depths ranging from 20 to 20 meters. Water temperatures average 20-29°C (68-84°F), with visibility typically reaching 10-30 meters (30-100 feet). Year-round diving is possible, with the best conditions during October to March (East Africa), varies by location.
+Mauritius offers exceptional diving across depths from shallow lagoons (1-5m) to wreck dives beyond 30 meters. Water temperatures range from 20-28°C (68-82°F), providing comfortable diving conditions year-round. Visibility typically reaches 10-30 meters (30-100 feet), with currents varying from none in lagoons to strong at exposed sites. The west coast hosts the highest diversity of marine life, with over 50 dive sites concentrated around Flic en Flac and the northern Trou aux Biches area.
 
 ### Diving Opportunities
 
-- **Boat Diving**: 2 boat-accessible sites reached through local dive operators
-- **Reef Diving**: Healthy coral reef systems supporting diverse marine ecosystems
-- **Night Diving**: After-dark diving reveals nocturnal marine species and different reef behaviors
+- **Wreck Diving**: Approximately 100 registered wrecks including famous sites like Stella Maru (1987 Japanese trawler), intentionally sunk artificial reefs (Silver Star, Emily, Waterlily), and conservation wrecks
+- **Boat Diving**: 30+ boat-accessible sites with professional operators launching from Flic en Flac and Trou aux Biches
+- **Reef Diving**: Healthy coral reef systems with soft coral growth, cleaning stations (stingrays, whiprays), and diverse tropical species
+- **Drift Diving**: Current-assisted dives for pelagic encounters with hammerhead sharks, whale sharks, manta rays, and seasonal humpback whales
+- **Cave Diving**: Advanced cave formations like Cathedral with dramatic arches, boulders, and lobster habitat
 
 ### Accessibility
 
@@ -26,9 +28,11 @@ Mauritius is a notable diving destination in the Africa region, offering 2 docum
 
 ### Marine Life & Environment
 
-- **Water Conditions**: Water temperatures range from 20-29°C (68-84°F) with visibility of 10-30 meters (30-100 feet). Currents are generally moderate to strong.
-- **Marine Biodiversity**: The waters support diverse marine ecosystems including whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally, kingfish, hard corals.
-- **Conservation**: Local conservation efforts help protect marine habitats and ensure sustainable diving practices.
+- **Water Conditions**: Subtropical waters ranging from 20-28°C (68-82°F) year-round. Visibility typically 10-30 meters (30-100 feet). Currents variable: lagoons offer minimal current, while offshore sites experience moderate to strong currents perfect for drift diving
+- **Marine Megafauna**: Hammerhead sharks, whale sharks (seasonal), manta rays, eagle rays, humpback whales (seasonal), dolphins, green sea turtles, and various reef sharks
+- **Reef Fish**: Butterflyfish, angelfish, parrotfish, bluestripe snappers, moorish idols, wrasses, triggerfish, giant trevally, kingfish, pufferfish, and prolific lionfish
+- **Wreck Life**: Encrusting soft corals, anemones, sea urchins, schooling fish around structure penetrations
+- **Conservation**: Intentional wreck sinking programs and marine park protection (Blue Bay) support sustainable diving and reef conservation
 
 ## Additional Information
 

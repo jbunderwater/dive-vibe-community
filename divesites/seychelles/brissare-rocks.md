@@ -3,9 +3,9 @@ name: Brissare Rocks
 lat: -4.58
 lng: 55.4
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 12
 entryType: boat
-siteType: reef
+siteType: pinnacle
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Brissare Rocks
 
-Brissare Rocks is a reef dive site in Seychelles, Africa.
+Brissare Rocks is a remote pinnacle dive site located between Mahé and Praslin Islands, featuring massive granite rock formations with colorful soft corals, nudibranchs, and prolific marine life in a rarely-visited location.
 
 ## Overview
 
-Brissare Rocks is a dive site in Seychelles offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Brissare Rocks consists of two tiny granite islands rising from the ocean floor, located approximately midway between Mahé and Praslin. The underwater formations feature natural swim-throughs decorated with soft corals and sponges, plus exceptional biodiversity. The isolation of this site means fewer crowds and unique encounters with marine life. Water temperatures average 20-29°C.
 
 ## Site Information
 
-- **Location**: Seychelles, Africa
+- **Location**: Between Mahé and Praslin Islands, Seychelles
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 12 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Current**: Moderate to strong (watch for changes)
+- **Best Time**: April-May, October-November
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
+Brissare Rocks is a paradise for macro photographers, featuring incredibly colorful nudibranchs, shrimps, and scorpionfish. The boulder formations provide shelter for lionfish, groupers, and hunting opportunities for sharks and rays. Due to its remote location, divers encounter preserved marine life and unique species less commonly seen at frequently-visited sites. Whale shark season (September-November) occasionally brings larger pelagic encounters.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+This pinnacle dive typically involves descent to 8-12 meters where the rock formations begin. The boulder formations create natural swim-throughs decorated with colorful sponges and soft corals. Due to the site's isolation, strong currents are common, so drift diving techniques are often used. Most of the interesting features are between 8-16 meters, making it ideal for intermediate divers who are comfortable with current.
 
 ## Entry and Exit
 
@@ -52,7 +52,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, remote locations in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+This remote site is rarely visited, making it essential to dive with experienced operators. Be aware of strong currents — this is not a beginner site despite moderate depth. Carry appropriate signaling devices and be prepared to abort if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB). The isolation means rescue response time is longer, so conservative diving practices are recommended.
 
 ## Photography
 

@@ -2,8 +2,8 @@
 name: Vaadho Caves
 lat: 4.128736
 lng: 73.455125
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Advanced
+maxDepth: 24
 entryType: boat
 siteType: cave
 ref: null
@@ -24,8 +24,8 @@ Vaadho Caves is a dive site in Maldives featuring underwater cave and cavern for
 - **Location**: Maldives, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 24 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)

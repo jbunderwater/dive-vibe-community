@@ -1,5 +1,5 @@
 ---
-name: old shipwreck
+name: Old Shipwreck
 lat: -6.7596209
 lng: 39.2683104
 difficulty: Intermediate
@@ -11,13 +11,13 @@ osmId: 13265023321
 addedBy: osm_import
 ---
 
-## old shipwreck
+## Old shipwreck
 
 Historic shipwreck off southern Zanzibar. Suitable for intermediate divers with experience in wreck diving.
 
 ## Overview
 
-old shipwreck is a wreck dive site in Tanzania, Africa. a historic shipwreck dive site offering unique underwater archaeology and reef colonization. Wreck structures provide habitat for diverse marine species and interesting dive profiles..
+Old Shipwreck is a wreck dive site in Tanzania, Africa. a historic shipwreck dive site offering unique underwater archaeology and reef colonization. Wreck structures provide habitat for diverse marine species and interesting dive profiles.
 
 ## Site Information
 

@@ -2,8 +2,8 @@
 name: Fesdhoo thila
 lat: 3.9995814
 lng: 72.7857358
-difficulty: Beginner
-maxDepth: 16
+difficulty: Intermediate
+maxDepth: 26
 entryType: boat
 siteType: pinnacle
 ref: null
@@ -24,8 +24,8 @@ Fesdhoo thila is a dive site in Maldives offering excellent diving on healthy co
 - **Location**: Maldives, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 16 meters
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 26 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)

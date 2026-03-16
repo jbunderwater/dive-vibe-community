@@ -2,8 +2,8 @@
 name: Housereef West
 lat: 5.255602
 lng: 73.1620467
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Beginner
+maxDepth: 12
 entryType: boat
 siteType: reef
 ref: null
@@ -24,8 +24,8 @@ Housereef West is a dive site in Maldives offering rewarding diving on healthy c
 - **Location**: Maldives, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 12 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)

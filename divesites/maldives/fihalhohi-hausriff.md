@@ -2,8 +2,8 @@
 name: Fihalhohi Hausriff
 lat: 3.877139
 lng: 73.368477
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Beginner
+maxDepth: 12
 entryType: boat
 siteType: reef
 ref: null
@@ -24,8 +24,8 @@ Fihalhohi Hausriff is a dive site in Maldives offering rewarding diving on healt
 - **Location**: Maldives, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 12 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)

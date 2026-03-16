@@ -3,7 +3,7 @@ name: Île Maskali جزيرة ماسكالي
 lat: 11.7139115
 lng: 43.1570783
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 18
 entryType: boat
 siteType: reef
 ref: null
@@ -17,7 +17,7 @@ addedBy: osm_import
 
 ## Overview
 
-Île Maskali جزيرة ماسكالي is a dive site in Djibouti offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Île Maskali جزيرة ماسكالي (Maskali Island) is an intermediate reef dive within Djibouti's first designated marine protected area. The site features pristine coral gardens, underwater caves, and coral arches ideal for intermediate divers exploring the reef. Visibility typically ranges 5-15 meters with water temperatures 25-29°C (November-January peak season).
 
 ## Site Information
 
@@ -25,14 +25,14 @@ addedBy: osm_import
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)
 - **Current**: Moderate to strong
 - **Best Time**: October to March (East Africa), varies by location
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
+Maskali Island reefs feature surgeonfish, angelfish, parrotfish, napoleon fish, and barracuda. Sea turtles navigate the coral arches regularly. Rays glide through sandy patches, and during seasonal visits (November-February), whale sharks and manta rays aggregate to feed on plankton. Hard and soft coral communities support diverse macro creatures and invertebrate life.
 
 ## Dive Profile
 

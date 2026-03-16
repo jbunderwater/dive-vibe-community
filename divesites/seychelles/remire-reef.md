@@ -3,7 +3,7 @@ name: Remire Reef
 lat: -5.0998656
 lng: 53.34612
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 20
 entryType: boat
 siteType: reef
 ref: null
@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Remire Reef
 
-Remire Reef is a reef dive site in Seychelles, Africa.
+Remire Reef is a colorful coral garden located in the remote Outer Islands of Seychelles, featuring vibrant soft corals, tropical fish species, and occasional visits from rays and sea turtles.
 
 ## Overview
 
-Remire Reef is a dive site in Seychelles offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Part of the Remire Island ecosystem, this reef features sheltered coral gardens with excellent marine life diversity. The site offers 10-30 meters of visibility with water temperatures averaging 20-29°C. Remire Island itself has a fascinating history as a former presidential retreat and guano mining settlement, making the area culturally significant.
 
 ## Site Information
 
-- **Location**: Seychelles, Africa
+- **Location**: Remire Island, Outer Islands, Seychelles (240 km SW of Victoria)
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Current**: Moderate
+- **Best Time**: April-May, October-November (excellent diving year-round)
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
+Remire Reef features vibrant coral gardens sheltering diverse marine life. Divers can expect to encounter rays, sea turtles, schools of tropical reef fish, and occasional larger species. The colorful soft corals and sponges make this a popular photography destination. Whale shark season (September-November) offers chances for larger pelagic encounters.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+This is a sheltered reef site with depths ranging from shallow areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper. The colorful coral gardens are found throughout the site, with good visibility and calm conditions typical. Most of the interesting features are between 8-18 meters depth, making this suitable for intermediate divers seeking a relaxed experience.
 
 ## Entry and Exit
 

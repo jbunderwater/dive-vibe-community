@@ -3,7 +3,7 @@ name: Iles des Sept Frères
 lat: 12.45
 lng: 43.38
 difficulty: Advanced
-maxDepth: 25
+maxDepth: 35
 entryType: boat
 siteType: wall
 ref: null
@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Iles des Sept Frères
 
-Iles des Sept Frères is a reef dive site in Djibouti, Africa.
+Iles des Sept Frères (Seven Brothers Islands) is an advanced wall dive site in Djibouti, located in the remote Bab-el-Mandeb strait between the Red Sea and Gulf of Aden.
 
 ## Overview
 
-Iles des Sept Frères is a dive site in Djibouti offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Seven Brothers Islands features a chain of six volcanic islands connected by a stunning reef system with dramatic drop-offs and untouched coral formations. This is a world-class advanced wall dive characterized by intense currents, deep walls with caves and overhangs, and exceptional pelagic encounters. The site demands strong current experience and advanced diving skills. Visibility varies 10-20 meters with water temperatures 24-28°C.
 
 ## Site Information
 
@@ -25,14 +25,14 @@ Iles des Sept Frères is a dive site in Djibouti offering rewarding diving on he
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 35 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)
 - **Current**: Moderate to strong
 - **Best Time**: October to March (East Africa), varies by location
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
+Seven Brothers Islands is renowned for exceptional pelagic encounters due to strong currents funneling through the strait. Giant jacks, manta rays, mobulas, schooling snappers, and abundant sharks (including occasional visits by large numbers of sharks) are characteristic. Colorful soft and hard corals line the walls, creating habitat for reef fish and invertebrates. Hammerhead sharks have been documented in the area.
 
 ## Dive Profile
 

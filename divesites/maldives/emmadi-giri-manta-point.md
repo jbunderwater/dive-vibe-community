@@ -3,9 +3,9 @@ name: Emmadi Giri (Manta Point)
 lat: 3.895817
 lng: 73.456299
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 30
 entryType: boat
-siteType: reef
+siteType: pinnacle
 ref: null
 osmId: 663869937
 addedBy: osm_import
@@ -13,22 +13,22 @@ addedBy: osm_import
 
 ## Emmadi Giri (Manta Point)
 
-Emmadi Giri (Manta Point) is a reef dive site in Maldives, Asia.
+Emmadi Giri (Manta Point) is an intermediate pinnacle dive site located in South Male Atoll, Maldives.
 
 ## Overview
 
-Emmadi Giri (Manta Point) is a dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Emmadi Giri is one of Maldives' famous manta ray cleaning stations. The site is known for consistent encounters with manta rays during the dry season, particularly during incoming currents. This submerged pinnacle features coral-covered rocks and a moderate depth profile suitable for intermediate divers. The combination of current flow and manta activity makes this one of the most sought-after dives in South Male Atoll. Visibility typically ranges from 20-35 meters, with water temperatures averaging 26-29°C year-round.
 
 ## Site Information
 
-- **Location**: Maldives, Asia
+- **Location**: South Male Atoll, Maldives
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 30 meters
+- **Typical Visibility**: 20-35 meters (65-115 feet)
+- **Current**: Moderate to strong
+- **Best Time**: October to April (peak manta season)
 
 ## Marine Life
 
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter manta rays, whale sharks, reef shark
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Emmadi Giri is typically dived as a pinnacle dive with focus on the cleaning station area. Divers position themselves on or near the pinnacle at 10-20 meters and wait for manta rays to arrive for cleaning. The site structure allows divers to rest in shallow areas and monitor the blue water for approaching mantas. Dives typically last 40-50 minutes with slow movement and hovering near the pinnacle.
 
 ## Entry and Exit
 
@@ -44,11 +44,14 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Manta encounters are never guaranteed — weather and season affect sightings
+- October to April is peak manta season; December-March is prime
+- Incoming current typically brings mantas to the cleaning station
+- Maintain excellent buoyancy to avoid disturbing the reef
+- Wide-angle camera recommended for manta photography
+- Positioning is key — position yourself along the expected manta approach route
+- Patience is essential; some dives require 30+ minutes of waiting
+- Multiple mantas may arrive in succession during good conditions
 
 ## Safety Considerations
 

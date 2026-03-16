@@ -2,10 +2,10 @@
 name: Conception Island
 lat: -4.63
 lng: 55.55
-difficulty: Intermediate
-maxDepth: 22
+difficulty: Advanced
+maxDepth: 25
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Conception Island
 
-Conception Island is a reef dive site in Seychelles, Africa.
+Conception Island features two distinct diving experiences: Conception Rock (18-29m) and Conception Arena (25-30m), the latter a submerged granite reef forming a natural amphitheater. Both sites demand respect for strong currents and are best suited for experienced divers.
 
 ## Overview
 
-Conception Island is a dive site in Seychelles offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Located west of Conception Island, Conception Arena is a dramatic granite wall site featuring a natural amphitheater carved into the reef, with depths dropping to 30 meters. The submerged granite formations create a spectacular dive experience. Water temperatures average 20-29°C with visibility typically 10-30 meters.
 
 ## Site Information
 
-- **Location**: Seychelles, Africa
+- **Location**: West of Conception Island, Seychelles
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 meters
+- **Site Type**: Wall dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Current**: Strong (often challenging)
+- **Best Time**: April-May, October-November
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
+Conception Arena attracts a variety of marine life to its natural amphitheater structure. Divers commonly encounter reef fish, schools of snappers, and predatory species drawn to the dramatic topography. Whale sharks visit seasonally (September-November), and manta rays are occasionally sighted. The granite formations provide shelter for various species and create a dynamic diving environment.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 22 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+This wall dive features a dramatic drop-off into the natural arena. Descent typically begins at 15-18 meters and extends to 25-30 meters depending on experience and conditions. The granite walls create a natural corridor where fish congregate. Due to strong currents, drift diving is often used. Most interesting features are found between 15-25 meters. Extended safety stops are recommended given the depth. This is an advanced site requiring excellent current management and buoyancy control.
 
 ## Entry and Exit
 
@@ -52,7 +52,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, remote locations in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Strong currents are a defining characteristic of this dive site and require advanced current diving skills. Only experienced divers should attempt Conception Arena. Carry appropriate signaling devices and be prepared to abort if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB). Plan extended safety stops and conservative depth profiles. Do a pre-dive current check and discuss abort criteria with your dive partner.
 
 ## Photography
 

@@ -3,9 +3,9 @@ name: Ali Tila
 lat: 3.867608
 lng: 73.369075
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 20
 entryType: boat
-siteType: pinnacle
+siteType: reef
 ref: null
 osmId: 663869907
 addedBy: osm_import
@@ -23,9 +23,9 @@ Ali Tila is a dive site in Maldives offering rewarding diving on healthy coral r
 
 - **Location**: Maldives, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle/seamount
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)

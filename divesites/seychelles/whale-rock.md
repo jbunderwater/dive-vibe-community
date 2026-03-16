@@ -5,7 +5,7 @@ lng: 55.35
 difficulty: Intermediate
 maxDepth: 20
 entryType: boat
-siteType: reef
+siteType: pinnacle
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Whale Rock
 
-Whale Rock is a reef dive site in Seychelles, Africa.
+Whale Rock is a pinnacle dive site located south of Beau Vallon, featuring massive granite boulders stacked into archways and swim-through passages. Named for seasonal whale shark visits, this site offers epic rock formations and excellent marine life encounters.
 
 ## Overview
 
-Whale Rock is a dive site in Seychelles offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+This granite pinnacle features large boulders forming dramatic swim-throughs that can reach up to 10 meters long. The stacked rock formations create a natural maze of archways and corridors, making this a highly engaging dive. Clear skies and bright moonlight make it a fun night dive option as well. Water temperatures average 20-29°C with typical visibility 10-30 meters.
 
 ## Site Information
 
-- **Location**: Seychelles, Africa
+- **Location**: South of Beau Vallon, near Praslin Island
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)
 - **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Best Time**: September-November (whale sharks), April-May, October-November (calm seas)
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
+As the name suggests, Whale Rock is a popular site for whale shark encounters during the season (September-November). However, eels, turtles, lionfish, eagle rays, and various species of reef sharks can be found year-round. The granite formations provide structure that attracts schools of fish and larger pelagic species passing through the area.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+This pinnacle dive typically involves descending to 15-20 meters where the main rock formations are located. The dramatic granite boulders and archways form natural swim-through passages, some extending up to 10 meters long. Navigate through the boulder maze, exploring different passages and corners where marine life congregates. The site maintains interesting features from 10-25 meters. Plan time to explore multiple passages and passages while watching for current changes.
 
 ## Entry and Exit
 
@@ -44,11 +44,13 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
+- Book during whale shark season (September-December) for best encounters
+- Bring an underwater camera — the granite formations are excellent photography subjects
+- Consider night diving — the moonlight makes night dives particularly enjoyable
 - Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Respect marine life and maintain proper buoyancy while navigating passages
 - Carry a surface marker buoy (SMB) and be prepared for current changes
+- Explore the various passages but maintain awareness of exit routes
 
 ## Safety Considerations
 

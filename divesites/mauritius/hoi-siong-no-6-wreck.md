@@ -2,8 +2,8 @@
 name: Hoi Siong No. 6 Wreck
 lat: -20.16
 lng: 57.5
-difficulty: Advanced
-maxDepth: 32
+difficulty: Intermediate
+maxDepth: 29
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Hoi Siong No. 6 Wreck
 
-Hoi Siong No. 6 Wreck is a historic wreck dive in Mauritius, Africa.
+Intentionally sunk conservation wreck (2003) near Le Morne. Artificial reef at 28-29 meters supporting tropical fish schools, barracuda, tuna, surgeon fish, lionfish, and butterfly fish. Perfect for intermediate wreck divers seeking thriving marine ecosystem.
 
 ## Overview
 
-Hoi Siong No. 6 Wreck is a dive site in Mauritius featuring the wreck of the Hoi Siong No. 6 Wreck. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+The Hoi Siong No. 6 was intentionally sunk in 2003 as part of a conservation initiative to create an artificial reef near Le Morne on Mauritius's southwestern coast. The wreck has been transformed into a thriving underwater habitat attracting prolific marine life. At 28-29 meters depth, the site is accessible to intermediate divers with proper training. The shallow wreck position relative to maximum depth and prolific fish life make this an excellent introduction to wreck diving in Mauritius.
 
 ## Site Information
 
-- **Location**: Mauritius, Africa
+- **Location**: Le Morne, Southwest Mauritius
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 32 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 29 meters
+- **Typical Visibility**: 15-25 meters (50-80 feet)
+- **Current**: Moderate
+- **Best Time**: Year-round; October to April warmest water (27-28°C) and calmest conditions
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, batfish, coral growth, lionfish, whale sharks, manta rays, humpback whales, sea turtles. Additional species commonly sighted include dolphins, reef sharks. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The wreck hosts abundant tropical fish schools including fusiliers, barracuda, tuna, surgeon fish, butterfly fish, and lionfish. Large numbers of schooling fish circle the structure. Occasional reef sharks, jacks, and other pelagics visit. The wreck encrustation provides habitat for small cryptic species and corals slowly colonizing the structure. The young wreck is in active ecological transition with increasing complexity year over year.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 32 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend to the wreck structure at 20-25 meters. Explore the exterior hull and accessible features. Conservative depth management is important despite the moderate maximum depth. Plan for 35-45 minute bottom times with attention to air consumption. The prolific fish life and good visibility make this an excellent photographic dive. Penetration is possible but should only be attempted by divers with appropriate training.
 
 ## Entry and Exit
 

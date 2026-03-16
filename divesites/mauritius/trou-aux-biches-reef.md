@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Trou aux Biches Reef
 
-Trou aux Biches Reef is a reef dive site in Mauritius, Africa.
+Accessible beginner reef site in the hub of Mauritius's best diving. Home to Coral Garden, Water Lily wreck, and countless tropical fish. Clear lagoon waters and minimal current make this perfect for certification training and first wreck exploration.
 
 ## Overview
 
-Trou aux Biches Reef is a dive site in Mauritius offering excellent diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Trou aux Biches, on the northern coast in Pamplemousses district, is the center of Mauritius diving with over 30 PADI 5-star dive centers. The reef systems here offer excellent beginner diving with minimal currents and outstanding visibility. The area combines multiple dive types: shallow reefs for training, famous wrecks (Stella Maru, Water Lily, Emily), and numerous drop-offs and caves. The hub attracts professional dive operators and offers courses for all skill levels.
 
 ## Site Information
 
-- **Location**: Mauritius, Africa
+- **Location**: Trou aux Biches, North Mauritius (Pamplemousses district)
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Typical Visibility**: 15-25 meters (50-80 feet)
+- **Current**: Minimal to light
+- **Best Time**: Year-round; October to April warmest water (27-28°C) and calmest conditions
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
+Prolific reef fish including butterflyfish, angelfish, parrotfish, wrasses, triggerfish, and snappers populate the shallow reef. Common sightings include bluestripe snappers, moorish idols, fusiliers in schools, and occasional groupers. Reef sharks, eagle rays, and sea turtles visit regularly. Soft corals and hard coral structures support an abundance of macro life including nudibranchs, crustaceans, and small fish seeking shelter.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the reef at 6-8 meters and navigate along the coral formations. Maximum depth of 12 meters allows for extended bottom times of 50+ minutes. Explore the various reef pockets and coral gardens at comfortable depth. This location is ideal for controlled buoyancy practice and photography given the shallow, stable conditions. Beginners can easily manage air consumption and bottom times here.
 
 ## Entry and Exit
 

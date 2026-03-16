@@ -9,20 +9,24 @@
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
     "name": "Whale Rock",
     "lat": -20.3,
     "lon": 57.6,
-    "depth": 18,
-    "site_type": "reef",
+    "depth": 32,
+    "site_type": "pinnacle",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -35,85 +39,99 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
     "name": "Blue Bay Marine Park",
     "lat": -20.44,
     "lon": 57.71,
-    "depth": 8,
+    "depth": 5,
     "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
     "name": "Stella Maru Wreck",
     "lat": -20.295,
     "lon": 57.59,
-    "depth": 25,
+    "depth": 26,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
     "name": "Colorado Point",
     "lat": -20.35,
     "lon": 57.55,
-    "depth": 20,
-    "site_type": "wall",
+    "depth": 30,
+    "site_type": "cave",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
     "name": "Flic en Flac Pass",
     "lat": -20.28,
     "lon": 57.36,
-    "depth": 30,
-    "site_type": "drift",
+    "depth": 26,
+    "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Advanced",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
     "name": "Rempart Serpent",
     "lat": -20.31,
     "lon": 57.58,
-    "depth": 15,
+    "depth": 27,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
     "name": "Hoi Siong No. 6 Wreck",
     "lat": -20.16,
     "lon": 57.5,
-    "depth": 32,
+    "depth": 29,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Advanced",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   }
 ]

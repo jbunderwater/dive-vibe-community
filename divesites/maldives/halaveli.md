@@ -3,9 +3,9 @@ name: Halaveli
 lat: 4.0545578
 lng: 72.9116389
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 28
 entryType: boat
-siteType: wreck
+siteType: pinnacle
 ref: null
 osmId: 663869881
 addedBy: osm_import
@@ -23,9 +23,9 @@ Halaveli is a dive site in Maldives featuring the wreck of the Halaveli which sa
 
 - **Location**: Maldives, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 28 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)

@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Dolly Beach
 
-Dolly Beach is a reef dive site in Christmas Island, Oceania.
+A gateway to Christmas Island's best snorkeling and diving sites, Dolly Beach offers vibrant coral reefs teeming with tropical fish in an easily accessible shore entry location.
 
 ## Overview
 
-Dolly Beach is a dive site in Christmas Island offering excellent diving on healthy coral reef structures. Located in the Oceania region, this site offers 15-40 meters of visibility with water temperatures averaging 20-29°C.
+Dolly Beach is a beginner-friendly shore dive providing access to vibrant coral reefs and abundant marine life. Located on Christmas Island's east coast, the beach is a gateway to some of the island's best snorkeling and diving sites. The vibrant coral reefs and tropical fish are easily accessible from the shore, allowing visitors to immerse themselves in the underwater wonders of the Indian Ocean. The site combines excellent marine biodiversity with convenient shore access and is suitable for both snorkeling and scuba diving.
 
 ## Site Information
 
-- **Location**: Christmas Island, Oceania
+- **Location**: Christmas Island, Oceania (east coast)
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 15-40 meters (50-130 feet)
+- **Typical Visibility**: 25+ meters (80+ feet)
 - **Current**: Variable
 - **Best Time**: September to February
 
 ## Marine Life
 
-Divers at this site can expect to encounter great white sharks, grey nurse sharks, whale sharks, manta rays, sea turtles, dolphins, dugongs, potato cod. Additional species commonly sighted include maori wrasse, giant trevally, hard corals, soft corals.
+Dolly Beach's reef environment supports vibrant tropical fish communities including butterflyfish, surgeonfish, snappers, groupers, tangs, parrotfish, and wrasses. Soft and hard coral formations provide habitat for diverse reef species. The site showcases Christmas Island's characteristic fish abundance and marine biodiversity. Sea turtles and reef sharks are occasionally encountered. The healthy reef environment supports one of Christmas Island's richest fish populations for a beginner-level site.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Enter from the beach and descend into vibrant coral reef at accessible depths. The reef slopes gradually to approximately 15 meters with abundant marine life visible throughout. Most diverse coral formations and tropical fish species are found between 5-15 meters. Navigate along the reef following its natural contours and topography. The site's combination of easy access and rich marine life makes it an excellent introduction to Christmas Island diving while providing interesting content for more experienced divers seeking abundant fish and coral photography opportunities.
 
 ## Entry and Exit
 

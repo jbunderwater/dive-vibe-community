@@ -3,7 +3,7 @@ name: L'Ilot Island
 lat: -4.55
 lng: 55.5
 difficulty: Beginner
-maxDepth: 12
+maxDepth: 20
 entryType: boat
 siteType: reef
 ref: null
@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## L'Ilot Island
 
-L'Ilot Island is a reef dive site in Seychelles, Africa.
+L'Ilot Island (The Islet) is one of Seychelles' most popular dive sites, featuring massive granite boulders covered with soft corals and sponges, just 200 meters from Mahé. Easily accessible and teeming with marine life, this is an ideal site for both beginner and advanced divers.
 
 ## Overview
 
-L'Ilot Island is a dive site in Seychelles offering excellent diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Located only 200 meters offshore from Mahé near Beau Vallon, L'Ilot Island features colorful granite rock formations surrounded by diverse marine life. The site is excellent for photography, offers good visibility (up to 30m), and has opportunities to spot whale sharks during season. Water temperatures average 20-29°C. Night diving is also popular here.
 
 ## Site Information
 
-- **Location**: Seychelles, Africa
+- **Location**: 200m offshore from Beau Vallon, Mahé
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 12 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Maximum Depth**: 20 meters
+- **Typical Visibility**: Up to 30 meters (30-100 feet)
+- **Current**: Moderate (can be strong)
+- **Best Time**: April-May, October-November (whale sharks September-December)
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
+L'Ilot Island is teeming with marine life. Divers regularly encounter schools of Big-Eye Snappers, Sergeant Majors, Silver Batfish, Pick-handle Barracuda, and Soldier Fish in the caverns. Hawksbill turtles, White Tip Reef Sharks, and Marble Stingrays are commonly sighted. The highlight for many is the chance to see whale sharks during their season (September-December). The colorful sponges and soft coral formations attract a diverse array of species.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+This site features granite boulder formations with swim-throughs and caverns. Diving typically begins at 5-10 meters and extends to approximately 20 meters. The colorful rock formations and caverns are found throughout the site, making it excellent for exploration. The site suits beginner divers in calmer conditions and intermediate divers seeking more adventurous cavern and swim-through exploration. Night diving opportunities are excellent here, with different species active after dark.
 
 ## Entry and Exit
 
@@ -44,12 +44,13 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
+- Book in advance during whale shark season (September-December) for best sightings
+- Excellent site for certification courses and beginners — shallow and sheltered
+- Bring an underwater camera — the granite formations and marine life offer excellent photography
+- Consider night diving — completely different experience with nocturnal species
 - Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Respect marine life and maintain proper buoyancy to protect the soft corals
+- Carry a surface marker buoy (SMB) and be prepared for potential current changes
 
 ## Safety Considerations
 

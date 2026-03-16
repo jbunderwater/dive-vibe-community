@@ -3,7 +3,7 @@ name: Îles Moucha الجزر موشا
 lat: 11.7191937
 lng: 43.1718877
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 18
 entryType: boat
 siteType: reef
 ref: null
@@ -17,7 +17,7 @@ addedBy: osm_import
 
 ## Overview
 
-Îles Moucha الجزر موشا is a dive site in Djibouti offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Îles Moucha الجزر موشا (Moucha Islands) are a premiere diving destination in the Gulf of Tadjoura, featuring pristine coral gardens with coral-covered slopes, sandy patches, and multiple wall sections. Part of Djibouti's first designated marine protected area, these islands offer vibrant reef diving suitable for all certification levels. Visibility typically ranges 5-15 meters with water temperatures 25-29°C (November-January peak season).
 
 ## Site Information
 
@@ -25,14 +25,14 @@ addedBy: osm_import
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)
 - **Current**: Moderate to strong
 - **Best Time**: October to March (East Africa), varies by location
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
+Moucha Islands support diverse reef fish including angelfish, butterflyfish, parrotfish, snappers, and lionfish. Colorful corals provide habitat for moray eels and other invertebrates. Rays and sea turtles are regularly encountered. During seasonal visits (November-February), whale sharks and manta rays feed on plankton blooms, making this an extraordinary destination for encountering these megafauna.
 
 ## Dive Profile
 

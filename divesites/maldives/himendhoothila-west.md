@@ -3,9 +3,9 @@ name: HimendhooThila West
 lat: 3.9155167
 lng: 72.7155667
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 28
 entryType: boat
-siteType: reef
+siteType: pinnacle
 ref: null
 osmId: 663869883
 addedBy: osm_import
@@ -23,9 +23,9 @@ HimendhooThila West is a dive site in Maldives offering rewarding diving on heal
 
 - **Location**: Maldives, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 28 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)

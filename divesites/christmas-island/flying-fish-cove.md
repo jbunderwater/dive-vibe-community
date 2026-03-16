@@ -3,7 +3,7 @@ name: Flying Fish Cove
 lat: -10.4278
 lng: 105.6753
 difficulty: Beginner
-maxDepth: 15
+maxDepth: 18
 entryType: shore
 siteType: reef
 ref: null
@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Flying Fish Cove
 
-Flying Fish Cove is a reef dive site in Christmas Island, Oceania.
+Widely regarded as one of the best shore dives in the world, Flying Fish Cove offers exceptional biodiversity in a beginner-friendly setting on Christmas Island.
 
 ## Overview
 
-Flying Fish Cove is a dive site in Christmas Island offering excellent diving on healthy coral reef structures. Located in the Oceania region, this site offers 15-40 meters of visibility with water temperatures averaging 20-29°C.
+Flying Fish Cove is Christmas Island's premier shore dive, featuring a gently sloping reef with exceptional marine life diversity. The site showcases spectacular coral formations and reef fish concentrated in shallow to moderate depths. Located on Christmas Island's western edge, this site is perfect for beginners or divers seeking a relaxing, easy dive surrounded by up to 90% of the fish species found in Christmas Island waters.
 
 ## Site Information
 
-- **Location**: Christmas Island, Oceania
+- **Location**: Christmas Island, Oceania (western edge, near Flying Fish Cove boat ramp)
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 meters
-- **Typical Visibility**: 15-40 meters (50-130 feet)
+- **Maximum Depth**: 18 meters
+- **Typical Visibility**: 30+ meters (100+ feet)
 - **Current**: Variable
-- **Best Time**: September to February
+- **Best Time**: September to February (whale shark season: November-April)
 
 ## Marine Life
 
-Divers at this site can expect to encounter great white sharks, grey nurse sharks, whale sharks, manta rays, sea turtles, dolphins, dugongs, potato cod. Additional species commonly sighted include maori wrasse, giant trevally, hard corals, soft corals.
+Flying Fish Cove delivers exceptional fish and coral diversity in a single dive. Commonly sighted species include ornate hawkfish, blackspotted pufferfish, surgeonfish, butterflyfish, groupers, tangs, snappers, and parrotfish. Corals abound in every shape and size, with hard corals and soft corals covering the reef structures. The site is home to more fish and coral types than many divers will see in a week of diving elsewhere. Seasonal whale sharks (November-April) and manta rays are also possible.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The dive begins directly from the boat ramp with an easily navigated 9-meter slope descending to an 18-meter drop-off. The route proceeds straight from the boat ramp to the drop-off, with depths gradually increasing to approximately 18 meters. After exploring the deeper sections, divers ascend back to around 9 meters before returning to shore along a shallower route. Two guide chains laid out like "airport landing lights" mark the return path to the ramp. The entire dive is exceptionally easy to navigate, with abundant reef life visible throughout, especially between 5-18 meters.
 
 ## Entry and Exit
 

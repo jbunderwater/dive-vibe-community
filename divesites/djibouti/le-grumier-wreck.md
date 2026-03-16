@@ -3,7 +3,7 @@ name: Le Grumier Wreck
 lat: 11.59
 lng: 43.15
 difficulty: Advanced
-maxDepth: 30
+maxDepth: 28
 entryType: boat
 siteType: wreck
 ref: null
@@ -17,7 +17,7 @@ Le Grumier Wreck is a historic wreck dive in Djibouti, Africa.
 
 ## Overview
 
-Le Grumier Wreck is a dive site in Djibouti featuring the wreck of the Le Grumier Wreck. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Le Grumier Wreck is an advanced wreck dive in the Gulf of Tadjoura, offering exploration of a sunken cargo vessel that has become an artificial reef. The wreck sits at 25-30 meters and has been enveloped by corals and sponges, creating a thriving habitat. This site requires advanced wreck diving experience and is best visited November-January when conditions are calmest. Visibility ranges 8-15 meters with water temperatures 25-28°C.
 
 ## Site Information
 
@@ -25,14 +25,14 @@ Le Grumier Wreck is a dive site in Djibouti featuring the wreck of the Le Grumie
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
+- **Maximum Depth**: 28 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)
 - **Current**: Moderate to strong
 - **Best Time**: October to March (East Africa), varies by location
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, batfish, coral growth, lionfish, whale sharks, manta rays, humpback whales, sea turtles. Additional species commonly sighted include dolphins, reef sharks. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The wreck attracts abundant marine life seeking shelter in the hull structure. Large groupers, batfish, and lionfish are common residents enveloped by hard and soft corals covering the wreck. Fish and invertebrate colonies thrive on the encrusted surfaces. Macro subjects include sponges, nudibranchs, and other small creatures. Larger pelagics occasionally pass by, especially during seasonal visits by whale sharks and manta rays (November-February).
 
 ## Dive Profile
 

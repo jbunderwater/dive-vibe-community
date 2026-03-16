@@ -3,9 +3,9 @@ name: Shark Point
 lat: -13.3233766
 lng: 48.0195595
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 20
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: 6943550642
 addedBy: osm_import
@@ -13,30 +13,31 @@ addedBy: osm_import
 
 ## Shark Point
 
-Shark Point is a reef dive site in Madagascar, Africa.
+Shark Point is a dramatic wall dive site in Nosy Be, Madagascar, famous among shark enthusiasts.
 
 ## Overview
 
-Shark Point is a dive site in Madagascar offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Shark Point features a stunning 20-meter drop-off covered with hard and soft corals, consistently attracting grey reef sharks, white-tipped reef sharks, and occasionally hammerhead sharks. The site is accessible to intermediate divers and offers excellent opportunities to observe these magnificent predators in their natural habitat. Water temperatures remain a pleasant 26-30°C year-round, with visibility typically 15-30 meters depending on seasonal conditions.
 
 ## Site Information
 
-- **Location**: Madagascar, Africa
+- **Location**: Nosy Be, Madagascar
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Maximum Depth**: 20 meters
+- **Typical Visibility**: 15-30 meters
+- **Water Temperature**: 26-30°C year-round
+- **Current**: Variable, can be strong; best dived during rising tide
+- **Best Time**: April-January (post-rainy season); September-December for seasonal megafauna
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
+Shark Point lives up to its name, featuring abundant reef sharks including grey reef sharks, white-tipped reef sharks, and hammerhead sharks. Fish abundance is exceptional with groupers, snappers, tunas, morays, and pufferfish. Seasonal visitors include whale sharks (September-December), manta rays, and humpback whales (August-October).
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend along the wall gradient from 5 meters at the top to 20 meters at the sandy bottom. The wall itself is the primary feature, hosting most of the shark activity and reef fish. Sharks are frequently observed at all depths, though they concentrate around the wall structure. Plan approximately 40-50 minutes at depth with a conservative safety stop.
 
 ## Entry and Exit
 

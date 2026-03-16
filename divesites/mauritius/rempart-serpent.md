@@ -2,8 +2,8 @@
 name: Rempart Serpent
 lat: -20.31
 lng: 57.58
-difficulty: Beginner
-maxDepth: 15
+difficulty: Intermediate
+maxDepth: 27
 entryType: boat
 siteType: reef
 ref: null
@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Rempart Serpent
 
-Rempart Serpent is a reef dive site in Mauritius, Africa.
+Snake Reef dive site near Flic en Flac featuring a winding 100m+ snake-like rock formation covered in seaweed at 25-27 meters. Abundant macro life: stonefish, scorpionfish, lionfish, morays, leaf fish. Recommended for experienced divers due to strong currents.
 
 ## Overview
 
-Rempart Serpent is a dive site in Mauritius offering excellent diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Rempart Serpent (Snake Reef) takes its name from a remarkable winding rock formation that resembles a slow-moving snake sliding across the ocean floor. The incredible rocky pocket stretches over 100 meters at 25-27 meter depth. The seaweed blanket bends and sways in slow-moving water, creating a mesmerizing landscape. The site is home to prolific cryptic marine life including venomous species and eel concentrations. Located just 15 minutes from Flic en Flac, the site is accessible but requires current-aware diving.
 
 ## Site Information
 
-- **Location**: Mauritius, Africa
+- **Location**: Flic en Flac area, 15 minutes by boat
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 27 meters
+- **Typical Visibility**: 15-25 meters (50-80 feet)
+- **Current**: Strong to variable
+- **Best Time**: Year-round; October to April calmest conditions
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
+This small area (approximately 400-500 m²) hosts remarkable fish diversity. Large concentrations of sinister-looking stonefish, scorpionfish, and lionfish thrive here alongside moray eels. Leaf fish, nudibranchs, and other cryptic species hide within the lava formation. The seaweed-covered topography provides diverse habitat for secretive species. Venomous species concentration requires heightened awareness and careful observation.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to 20-25 meters and follow the snake-like rock formation along its length. The topography offers varying depths with deepest sections approaching 40+ meters. Maintain current awareness and conservative depth management given the strong flow. Explore the detailed formations and cryptic life closely. Expect bottom times of 25-35 minutes given the strong current and significant depth. This site rewards patient observation and macro-focused exploration.
 
 ## Entry and Exit
 

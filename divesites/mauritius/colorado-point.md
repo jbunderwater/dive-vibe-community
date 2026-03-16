@@ -2,10 +2,10 @@
 name: Colorado Point
 lat: -20.35
 lng: 57.55
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Advanced
+maxDepth: 30
 entryType: boat
-siteType: wall
+siteType: cave
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Colorado Point
 
-Colorado Point is a wall dive site in Mauritius, Africa.
+Spectacular canyon dive in South Mauritius with extraordinary topography. A 400-meter-long immersion canyon with tunnel passages and crevices creates dramatic architecture. Located 500-600m behind the barrier reef with excellent marine life encounters.
 
 ## Overview
 
-Colorado Point is a dive site in Mauritius featuring a dramatic vertical wall that drops into the deep blue. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Colorado sits in the South of Mauritius behind the barrier reef and offers one of the most unique underwater environments in the region. The immersion occurs in a massive 400-meter canyon that descends to depths beyond recreational limits. A tunnel passage that bends before exiting through crevices creates a spectacular and memorable dive. The site combines geological interest with opportunities for pelagic encounters including sharks, whales, and dolphins. This is an advanced dive recommended for experienced explorers.
 
 ## Site Information
 
-- **Location**: Mauritius, Africa
+- **Location**: South Mauritius, 500-600m behind barrier reef
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
+- **Site Type**: Cave/cavern
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 30 meters
+- **Typical Visibility**: 15-25 meters (50-80 feet)
 - **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Best Time**: Year-round; October to April calmest conditions
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Pelagic sharks (reef and whale sharks), dolphins, and humpback whales (seasonal) are regularly encountered. Deeper reef zones support groupers, snappers, jacks, and barracuda. The canyon environment with boulders and crevices shelters diverse cryptic species. Hard and soft corals encrust the geological structures. The diversity reflects the site's blend of isolated pelagic habitat and deep reef environment.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-20 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Descend into the canyon entrance at 15-20 meters and follow the 400-meter-long immersion channel. Explore the tunnel system and bend passages with careful orientation and light discipline. Conservative depth management is essential given the advanced nature of the site. Maximum depths can exceed 30 meters depending on the specific tunnel route. Plan for 30-40 minute bottom times with careful air monitoring.
 
 ## Entry and Exit
 

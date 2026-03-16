@@ -3,9 +3,9 @@ name: Bathalaamaagaa Kanthila
 lat: 4.0705807
 lng: 72.9497539
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 32
 entryType: boat
-siteType: reef
+siteType: pinnacle
 ref: null
 osmId: 8584458552
 addedBy: osm_import
@@ -23,9 +23,9 @@ Bathalaamaagaa Kanthila is a dive site in Maldives offering rewarding diving on 
 
 - **Location**: Maldives, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 32 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)

@@ -2,8 +2,8 @@
 name: Maaya Thila
 lat: 4.0913626
 lng: 72.8619718
-difficulty: Intermediate
-maxDepth: 30
+difficulty: Advanced
+maxDepth: 35
 entryType: boat
 siteType: pinnacle
 ref: null
@@ -13,22 +13,22 @@ addedBy: osm_import
 
 ## Maaya Thila
 
-Maaya Thila is a reef dive site in Maldives, Asia.
+Maaya Thila is an advanced pinnacle dive site located in Baa Atoll, Maldives.
 
 ## Overview
 
-Maaya Thila is a dive site in Maldives offering rewarding diving on healthy coral reef structures . One of the most popular diving site in atoll. Water is not clear. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Maaya Thila is one of the most renowned dive sites in Baa Atoll, famous for excellent shark encounters and strong currents. This submerged pinnacle features a distinctive cone shape with steep walls dropping into deep water. The site is particularly known for reef sharks, hammerheads, and eagle rays, especially during incoming currents. Visibility typically ranges from 15-35 meters, with water temperatures averaging 26-29°C year-round.
 
 ## Site Information
 
-- **Location**: Maldives, Asia
+- **Location**: Baa Atoll, Maldives
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 35 meters
+- **Typical Visibility**: 15-35 meters (50-115 feet)
+- **Current**: Strong and consistent
+- **Best Time**: October to April (dry season)
 
 ## Marine Life
 
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter manta rays, whale sharks, reef shark
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Maaya Thila is a pinnacle dive requiring strong buoyancy control and current management. The thila rises from deep water with the shallowest point around 5-10 meters. Divers typically descend to 25-35 meters and position themselves along the pinnacle sides to view passing pelagics. The cone-shaped structure provides multiple depth options. Be prepared for strong currents and plan your dive profile carefully to ensure sufficient air and multiple safety stops.
 
 ## Entry and Exit
 
@@ -44,15 +44,18 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Advanced divers only; strong current experience required
+- Dive during incoming current for best pelagic encounters
+- Arrive early to position yourself before the current peaks
+- Use a descent line if available
+- Carry an SMB for surface pickup
+- Bring a camera for excellent shark and eagle ray photography
+- Monitor bottom time carefully due to depth
+- Consider this a conditioning dive for future challenging Maldives sites
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Strong currents are the defining hazard at Maaya Thila — this is strictly an Advanced dive. Disorientation and depth management are major risks. Do not attempt without Advanced certification and strong current experience. Maintain constant buddy contact and communication. Be ready to ascend if conditions become dangerous. Decompression dives are common — carry sufficient gas and plan accordingly. The site is known for strong flows; stay alert and respect your air supply.
 
 ## Photography
 

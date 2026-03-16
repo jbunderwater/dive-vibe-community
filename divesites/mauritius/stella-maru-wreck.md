@@ -3,7 +3,7 @@ name: Stella Maru Wreck
 lat: -20.295
 lng: 57.59
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 26
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Stella Maru Wreck
 
-Stella Maru Wreck is a historic wreck dive in Mauritius, Africa.
+Historic Japanese trawler sunk in 1987, now a pristine wreck dive covered in soft corals and anemones. Excellent for intermediate wreck exploration with mild currents and good visibility.
 
 ## Overview
 
-Stella Maru Wreck is a dive site in Mauritius featuring the wreck of the Stella Maru Wreck. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+The Stella Maru is a Japanese fishing trawler that sank in 1987 and rests upright on the sandy bottom adjacent to a reef in the Trou aux Biches area. The 20-26m depth range makes it accessible for intermediate divers, while the well-preserved structure and prolific marine life attract photographers and wreck explorers. The wreck sits in relatively shallow water with mild currents, providing ideal conditions for wreck penetration training or recreational exploration.
 
 ## Site Information
 
-- **Location**: Mauritius, Africa
+- **Location**: Trou aux Biches area, North Mauritius
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Maximum Depth**: 26 meters
+- **Typical Visibility**: 15-25 meters (50-80 feet)
+- **Current**: Mild
+- **Best Time**: Year-round; October to April offers calmest conditions and warmest water (27-28°C)
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, batfish, coral growth, lionfish, whale sharks, manta rays, humpback whales, sea turtles. Additional species commonly sighted include dolphins, reef sharks. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The wreck is covered with algae, small soft corals, anemones, and sea urchins. Common fish species include fusiliers, snappers, groupers, and schools of smaller reef fish. The wreck structure provides excellent shelter for cryptic species including lobsters, morays, and nudibranchs. Larger pelagic visitors (tuna, jacks) occasionally patrol the area.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 25 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend along the mooring line to the wreck's top at approximately 18-20 meters. The wreck sits upright on sandy bottom at 26 meters. Explore the exterior structure, including the deck and cabin areas. The moderate depth and mild current allow for 40-50 minute bottom times depending on certification. Conservative air management is recommended given the isolated location. Ascend with adequate reserve, conducting a safety stop at 5 meters.
 
 ## Entry and Exit
 

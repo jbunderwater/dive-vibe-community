@@ -2,8 +2,8 @@
 name: Ghoubbet Al-Kharab
 lat: 11.53
 lng: 42.53
-difficulty: Intermediate
-maxDepth: 22
+difficulty: Advanced
+maxDepth: 25
 entryType: boat
 siteType: wall
 ref: null
@@ -17,22 +17,22 @@ Ghoubbet Al-Kharab is a wall dive site in Djibouti, Africa.
 
 ## Overview
 
-Ghoubbet Al-Kharab is a dive site in Djibouti featuring a dramatic vertical wall that drops into the deep blue. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Ghoubbet Al-Kharab (also known as the "Devil's Goblet") is an advanced drift wall dive connecting the cove to the open sea through a narrow channel with intense tidal currents. The site sits at the junction of African and Arabian continental plates, making it geologically unique. The dramatic underwater cliff and strong currents create an exhilarating drift dive for experienced divers. Visibility ranges 10-20 meters with water temperatures 24-28°C. This is an experienced diver's playground requiring strong current skills.
 
 ## Site Information
 
 - **Location**: Djibouti, Africa
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 meters
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)
 - **Current**: Moderate to strong
 - **Best Time**: October to March (East Africa), varies by location
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Ghoubbet Al-Kharab is famous for large pelagic species swept by strong currents. Hammerhead sharks frequent this site, along with whale sharks, manta rays, and large schools of other shark species. Grey and nurse sharks are commonly encountered. Soft coral forests line the walls, and macro creatures hide in wall crevices. The nutrient-rich currents support abundant reef fish and create ideal conditions for large pelagic encounters.
 
 ## Dive Profile
 

@@ -3,7 +3,7 @@ name: Hudhu Thila
 lat: 3.5697576
 lng: 72.940986
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 28
 entryType: boat
 siteType: pinnacle
 ref: null
@@ -25,7 +25,7 @@ Hudhu Thila is a dive site in Maldives offering rewarding diving on healthy cora
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 28 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)
