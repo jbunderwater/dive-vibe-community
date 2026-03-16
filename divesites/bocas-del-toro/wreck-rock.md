@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Wreck Rock
 
-Wreck Rock is a historic wreck dive in Bocas del Toro, Caribbean.
+Wreck Rock is a wreck dive site in Bocas del Toro, Caribbean. This site offers the unique combination of wreck exploration with reef characteristics.
 
 ## Overview
 
-Wreck Rock is a dive site in Bocas del Toro featuring a historic wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Wreck Rock combines wreck diving with reef habitat. The structure has been underwater long enough to host coral growth and established marine communities. Schools of snapper, jackfish, and other tropical fish have colonized the wreck, providing both wreck exploration and reef diving elements. This intermediate-level site appeals to divers interested in wreck diving without requiring advanced training.
 
 ## Site Information
 
@@ -32,11 +32,11 @@ Wreck Rock is a dive site in Bocas del Toro featuring a historic wreck. Located 
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, snappers, soldierfish, glassy sweepers, coral growth, sponge encrustation, sea turtles (green, hawksbill), southern stingrays. Additional species commonly sighted include eagle rays, nurse sharks, reef sharks, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Schools of snapper, jackfish, grunts, and grouper have colonized the wreck structure. Nurse sharks may be encountered. Coral and sponge growth encrust the structure, with associated reef fauna including smaller tropical fish. The wreck creates an artificial reef ecosystem that supports diverse marine life.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 22 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The dive focuses on exploring the wreck structure and observing the marine life that has colonized it. External exploration is the primary focus for intermediate divers. The structure sits in manageable depths allowing 30-45 minutes of bottom time. Careful buoyancy is important to avoid stirring silt on the wreck floor.
 
 ## Entry and Exit
 
@@ -44,12 +44,12 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Bring a dive torch to illuminate wreck details and shadowed areas
+- Maintain excellent buoyancy to avoid stirring up silt
+- Look for schools of fish sheltering in the structure
+- Wreck penetration should only be done with proper advanced wreck training
+- Bring an underwater camera — the wreck and fish populations offer good subjects
+- Good site for practicing wreck awareness before attempting advanced wreck dives
 
 ## Safety Considerations
 

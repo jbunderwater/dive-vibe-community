@@ -2,8 +2,8 @@
 name: Hangover
 lat: 17.5
 lng: -62.995
-difficulty: Advanced
-maxDepth: 28
+difficulty: Intermediate
+maxDepth: 17
 entryType: boat
 siteType: wall
 ref: null
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Hangover
 
-Hangover is a wall dive site in Sint Eustatius, Caribbean.
+Hangover Reef is a colorful labyrinth of ancient lava formations, featuring overgrown coral and sponges creating a natural maze of cracks and crevices. Named for its challenging geography rather than diving conditions, this site is a joy for explorers seeking healthy coral ecosystems and macro diving opportunities.
 
 ## Overview
 
-Hangover is a dive site in Sint Eustatius featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Hangover is a shallow wall of ancient lava at 45-60 feet (14-17m), offering spectacular opportunities for observing Caribbean reef ecosystems and small creatures. The site's abundant coral and sponge growth attracts large schools of reef fish, permits, and horse-eye jackfish. Cracks and crevices hide long-snout seahorses, frogfish, yellow-head jawfish, peacock flounders, and queen conch. Excellent for both wide-angle ecosystem diving and macro photography.
 
 ## Site Information
 
-- **Location**: Sint Eustatius, Caribbean
+- **Location**: Sint Eustatius (Statia), Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 28 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 17 meters
+- **Typical Visibility**: 20-30 meters (65-100 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Permits and horse-eye jackfish school over the reef. Look in cracks and overhangs for long-snout seahorses, frogfish, yellow-head jawfish, peacock flounders, and queen conch. Moray eels, lobsters, and large schools of reef fish are abundant. The healthy coral and sponge ecosystem supports diverse species at varying depths.
 
 ## Dive Profile
 

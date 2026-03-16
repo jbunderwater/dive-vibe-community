@@ -3,7 +3,7 @@ name: Crash Boat Beach
 lat: 18.49
 lng: -67.16
 difficulty: Beginner
-maxDepth: 12
+maxDepth: 15
 entryType: shore
 siteType: reef
 ref: null
@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Crash Boat Beach
 
-Crash Boat Beach is a reef dive site in Puerto Rico, Caribbean.
+Crash Boat Beach in Aguadilla is one of Puerto Rico's most accessible and popular shore dives. The site features a collapsed Navy military pier that has become an artificial reef structure, creating an ideal beginner-friendly dive with coral growth, minimal currents, and excellent visibility.
 
 ## Overview
 
-Crash Boat Beach is a dive site in Puerto Rico offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The site offers diving around submerged pier pilings and a collapsed concrete structure that now hosts vibrant coral growth and thriving fish communities. Depths range from 25-35 feet around the pier area, with a maximum depth of 45 feet if divers venture into deeper sections. The site is perfect for beginners due to shallow depths, calm conditions, and the dramatic underwater structures that provide endless exploration opportunities within easy access from shore.
 
 ## Site Information
 
-- **Location**: Puerto Rico, Caribbean
+- **Location**: Aguadilla, West Coast Puerto Rico
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 12 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Maximum Depth**: 15 meters
+- **Typical Visibility**: 15-25 meters (50-80 feet)
+- **Current**: Minimal to light
+- **Best Time**: Year-round, calmer in summer months
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Common sightings include sergeant major fish, tangs, angelfish, butterflyfish, filefish, trunkfish, goatfish, wrasses, snappers, and damselfish. Occasionally divers encounter sea turtles, porkfish, flying gurnards, squid, octopus, and trumpetfish. The pier structure is particularly noted for abundant moray eels and dense schooling fish congregations. The artificial reef created by the pier's collapse has become home to healthy coral and colorful reef inhabitants.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Enter from the shallow sandy beach and gradually work toward the pier structures. Begin at 8-12 meters and explore the pier pilings, which drop to 10-15 meters. The collapsed section provides interesting three-dimensional navigation with swimthroughs and overhangs at moderate depths. Stay shallower than 15 meters for extended bottom time and safety. The site's calm conditions and shallow profile make it ideal for developing buoyancy skills and practicing photography.
 
 ## Entry and Exit
 

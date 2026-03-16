@@ -3,7 +3,7 @@ name: Blue Beach
 lat: 18.06
 lng: -65.29
 difficulty: Beginner
-maxDepth: 10
+maxDepth: 8
 entryType: shore
 siteType: reef
 ref: null
@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Blue Beach
 
-Blue Beach is a reef dive site in Puerto Rico, Caribbean.
+Blue Beach, known locally as La Chiva Beach (Playa La Chiva), is an unspoiled shore dive on Vieques Island's southern coast. The beach is part of the Vieques National Wildlife Refuge and offers calm, shallow waters perfect for beginners. The site is celebrated for its crystal-clear water, soft white sand, and natural reef formations close to shore.
 
 ## Overview
 
-Blue Beach is a dive site in Puerto Rico offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Blue Beach is consistently ranked among the best beaches in the Caribbean. The site features calm, shallow reef waters ideal for entry-level divers and snorkelers. Visibility is typically excellent with water temperatures warm year-round. The protected waters and proximity of reef structures to shore make this an ideal beginner dive site accessible to anyone with basic swimming ability. The site's natural beauty and peaceful atmosphere make it a favorite among casual divers and families.
 
 ## Site Information
 
-- **Location**: Puerto Rico, Caribbean
+- **Location**: Vieques Island, South Coast (Barrio Puerto Ferro)
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 10 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Maximum Depth**: 8 meters
+- **Typical Visibility**: 15-25 meters (50-80 feet)
+- **Current**: Minimal to light
+- **Best Time**: Year-round diving; calm year-round conditions
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The reef supports colorful tropical fish including parrotfish, surgeonfish, angelfish, butterflyfish, damselfish, and wrasses. Occasional visitors include sea turtles and rays. The shallow depths and healthy coral provide excellent habitat for reef fish communities. Macro subjects include moray eels, crustaceans, and various nudibranchs on coral structures.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 10 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-10 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Enter from the sandy beach and gradually work toward reef structures in 3-8 meters. Shallow depths allow extended bottom times and unhurried exploration. The site is ideal for practicing buoyancy control, photography, and developing comfort in the water. Navigation is straightforward with natural features marking the return path. The calm conditions and minimal current make this site accessible to nearly all diver certifications.
 
 ## Entry and Exit
 

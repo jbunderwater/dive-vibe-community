@@ -9,7 +9,9 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": true,
+      "validation_source": "Tobago Cays Marine Park official info, Bluewater Dive Travel, dive operator sources"
     }
   },
   {
@@ -22,20 +24,25 @@
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": true,
+      "validation_source": "Dive Bequia, ZuBlu diving, local dive operator guides"
     }
   },
   {
     "name": "Anchor Reef",
     "lat": 13.15,
     "lon": -61.2,
-    "depth": 18,
-    "site_type": "reef",
+    "depth": 36,
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": true,
+      "validation_source": "Dive Bequia official site, TripAdvisor Anchor Reef Bequia, DiveSI",
+      "notes": "Starts at 30ft (9m), drops to 120ft (36m) wall with swim-throughs and 18th century anchor"
     }
   },
   {
@@ -48,7 +55,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": false,
+      "validation_note": "Site exists but limited specific source documentation found"
     }
   },
   {
@@ -61,7 +70,9 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": false,
+      "validation_note": "Not found in primary dive operator databases; may be local/alternate name"
     }
   },
   {
@@ -74,7 +85,10 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": true,
+      "validation_source": "PADI dive site database, Bluewater Dive Travel, macro diving guides",
+      "notes": "St. Vincent's token muck dive in shadow of Fort Durvernette; volcanic sand bottom with flying gurnards, frogfish, seahorses"
     }
   },
   {
@@ -87,7 +101,10 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": true,
+      "validation_source": "Tobago Cays Marine Park official site, Bluewater Dive Travel, dive operator sources",
+      "notes": "Expansive coral reef between Tobago Cays and Mayreau; excellent drift dive with crinoids, garden eels, flamingo tongues"
     }
   },
   {
@@ -100,7 +117,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": true,
+      "validation_source": "Petit St. Vincent Resort dive center, PADI dive site listings"
     }
   },
   {
@@ -113,20 +132,26 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": true,
+      "validation_source": "Bluewater Dive Travel, dive operator guides",
+      "notes": "Sloping reef with coral expanse; shy spotted drums, banded coral shrimp"
     }
   },
   {
     "name": "Bat Cave (St. Vincent)",
     "lat": 13.2,
     "lon": -61.22,
-    "depth": 15,
+    "depth": 10,
     "site_type": "cave",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": true,
+      "validation_source": "Bluewater Dive Travel, Wannadive, TripAdvisor, Zentacle",
+      "notes": "Half-submerged cave with colony of bats; rocky passageway through reef into cliff cave; challenging, thrilling dive with surge"
     }
   }
 ]

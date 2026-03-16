@@ -7,6 +7,8 @@
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
+    "validated": true,
+    "validation_source": "divernet.com, adrex.com - Greek freighter sunk 1976, 365ft vessel",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean"
@@ -20,6 +22,8 @@
     "site_type": "wreck",
     "entry_type": "shore",
     "difficulty": "Beginner",
+    "validated": true,
+    "validation_source": "barbados.org, divernet.com - Carlisle Bay wreck trail, WWII era",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean"
@@ -33,6 +37,8 @@
     "site_type": "wreck",
     "entry_type": "shore",
     "difficulty": "Beginner",
+    "validated": true,
+    "validation_source": "barbados.org, divernet.com - Carlisle Bay wreck trail, WWII era",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean"
@@ -46,6 +52,8 @@
     "site_type": "wreck",
     "entry_type": "shore",
     "difficulty": "Beginner",
+    "validated": true,
+    "validation_source": "barbados.org, divernet.com - Carlisle Bay wreck trail, WWII era",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean"
@@ -59,6 +67,8 @@
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
+    "validated": true,
+    "validation_source": "barbados.org - Carlisle Bay wreck, accessible for experienced recreational divers",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean"
@@ -68,10 +78,12 @@
     "name": "Friars Craig Wreck",
     "lat": 13.082,
     "lon": -59.628,
-    "depth": 18,
+    "depth": 17,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
+    "validated": true,
+    "validation_source": "padi.com, adventuredives.com - 100ft Dutch freighter (1984), 55ft depth, broken in 3 pieces",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean"
@@ -85,6 +97,8 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
+    "validated": true,
+    "validation_source": "barbados.org - Established reef diving site, southeast coast",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean"
@@ -98,6 +112,8 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
+    "validated": true,
+    "validation_source": "barbados.org - Shallow reef for beginners, south coast",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean"
@@ -111,6 +127,8 @@
     "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Beginner",
+    "validated": true,
+    "validation_source": "folkestonemarinepark.com, tripadvisor.com - Protected marine park, beginner-friendly shore access, 5-30ft depth range",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean"
@@ -124,6 +142,8 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
+    "validated": true,
+    "validation_source": "barbados.org - Named reef structure for intermediate divers",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean"
@@ -133,10 +153,12 @@
     "name": "Shark Bank Barbados",
     "lat": 13.15,
     "lon": -59.605,
-    "depth": 30,
+    "depth": 43,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Advanced",
+    "validated": true,
+    "validation_source": "villasunnysidebarbados.com - Deep coral reef, 135-145ft depth (41-44m), strong currents, offshore pelagic encounters",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean"
@@ -150,6 +172,8 @@
     "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Beginner",
+    "validated": true,
+    "validation_source": "barbados.org - Beginner-friendly shore reef",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean"
@@ -161,10 +185,12 @@
     "lon": -59.6119693,
     "osm_id": 7075601814,
     "osm_type": "node",
-    "depth": null,
+    "depth": 17,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "validated": true,
+    "validation_source": "caribbeanwarehouse.co.uk, diveoclock.com - 110ft drug boat sunk June 8 1996, 55ft depth (17m), air pocket in bow for penetration",
     "tags": {
       "access": "yes",
       "historic": "wreck",
@@ -180,10 +206,12 @@
     "lon": -59.6120651,
     "osm_id": 7075601815,
     "osm_type": "node",
-    "depth": null,
+    "depth": 11,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "validated": true,
+    "validation_source": "caribbeanwarehouse.co.uk, diveoclock.com - Former tugboat 'Pelican' then party boat, sunk May 19 2002, 35ft depth (11m), Carlisle Bay Marine Park",
     "tags": {
       "access": "yes",
       "historic": "wreck",
@@ -195,32 +223,17 @@
     }
   },
   {
-    "name": "SS Stavronikita",
-    "lat": 13.18,
-    "lon": -59.642,
-    "osm_id": 13461568301,
-    "osm_type": "node",
-    "depth": null,
-    "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": null,
-    "tags": {
-      "historic": "wreck",
-      "name": "SS Stavronikita",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass"
-    }
-  },
-  {
     "name": "The Barge",
     "lat": 13.1865,
     "lon": -59.6437,
     "osm_id": 13461587401,
     "osm_type": "node",
-    "depth": null,
+    "depth": 4,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "validated": true,
+    "validation_source": "wanderlusters.com, sandals.com - Naval Landing Barge, 12ft depth (3.6m), shallowest Carlisle Bay wreck, good for macro photography",
     "tags": {
       "historic": "wreck",
       "name": "The Barge",

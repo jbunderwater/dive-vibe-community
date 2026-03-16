@@ -3,7 +3,7 @@ name: Coconut Tree Reef
 lat: 17.36
 lng: -62.79
 difficulty: Beginner
-maxDepth: 14
+maxDepth: 34
 entryType: boat
 siteType: reef
 ref: null
@@ -13,30 +13,31 @@ addedBy: osm_import
 
 ## Coconut Tree Reef
 
-Coconut Tree Reef is a reef dive site in St. Kitts and Nevis, Caribbean.
+Coconut Tree Reef is one of the largest reefs in the St. Kitts area, famous for its abundant barrel corals and expansive coral-covered slopes ideal for multi-level diving. The reef features excellent visibility (often reaching 100 feet) and diverse marine life, from beginner-friendly shallow areas to intermediate depths for more experienced divers.
 
 ## Overview
 
-Coconut Tree Reef is a dive site in St. Kitts and Nevis offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The reef spans 40-110 feet with pristine conditions and a large population of barrel corals. The dive begins on flat terrain before sloping away to greater depths, allowing for flexible dive profiles. Large schools of fish are abundant throughout the reef system. The exceptional visibility and coral-covered terrain make this a favorite for photography and marine life observation.
 
 ## Site Information
 
-- **Location**: St. Kitts and Nevis, Caribbean
+- **Location**: St. Kitts, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 14 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Maximum Depth**: 34 meters
+- **Typical Visibility**: 25-30+ meters (80-100+ feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
+- **Signature Feature**: Extensive barrel coral formations
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Large schools of fish populate the reef including grunts, snappers, and groupers. Barracuda, eels, turtles, and nurse sharks are frequently observed. The reef is particularly known for prolific grouper, grunts, and snapper populations. Parrotfish, angelfish, and other reef fish species are abundant. The coral structures provide shelter for moray eels, lobsters, and numerous smaller reef inhabitants.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 14 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-14 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The dive begins on relatively flat bottom (5-10 meters) and slopes gradually away as you progress deeper. This multi-level profile allows for extended bottom times at shallower depths with deeper exploration for more advanced divers. The 40-50 foot range offers excellent marine life viewing and photographic opportunities. Experienced intermediate divers can explore to 34 meters. Plan your dive profile and air consumption accordingly for a typical safety stop at 5 meters.
 
 ## Entry and Exit
 

@@ -3,7 +3,7 @@ name: Runaway Bay Wall
 lat: 18.47
 lng: -77.33
 difficulty: Advanced
-maxDepth: 35
+maxDepth: 40
 entryType: boat
 siteType: wall
 ref: null
@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Runaway Bay Wall
 
-Runaway Bay Wall is a wall dive site in Jamaica, Caribbean.
+Runaway Bay Wall is a spectacular deep wall dive featuring a sheer 125+ foot (40+ meter) drop with an anchored chain at 50 feet providing navigation reference.
 
 ## Overview
 
-Runaway Bay Wall is a dive site in Jamaica featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Runaway Bay Wall stands as one of Jamaica's premier wall diving experiences, accessed directly from the Franklin D. Resort. The site features a dramatic wall that begins at moderate depths and plunges beyond recreational limits, requiring advanced certification and excellent depth discipline. An anchor chain dangling from 15 meters (50 feet) marks the descent line, while the wall itself displays vibrant soft coral growth, sponges, whips, feather duster worms, and abundant fish life. Divers encounter schools of snappers, rays, turtles, and nurse sharks along the wall.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ Runaway Bay Wall is a dive site in Jamaica featuring a dramatic vertical wall th
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 35 meters
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)

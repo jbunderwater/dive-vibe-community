@@ -3,7 +3,7 @@ name: La Caleta Underwater Park
 lat: 18.43
 lng: -69.75
 difficulty: Intermediate
-maxDepth: 18
+maxDepth: 30
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,19 +13,20 @@ addedBy: osm_import
 
 ## La Caleta Underwater Park
 
-La Caleta Underwater Park is a historic wreck dive in Dominican Republic, Caribbean.
+Parque Nacional Submarino La Caleta is the first underwater national park in the Caribbean, spanning 10 km² from Las Golondrinas Cave to Punta Caucedo. The park features multiple wrecks including the Hickory at 18 meters, El Limón and Capitán Alsina at 30 meters, and Don Quico at 58 meters. Depths range from 6 to 180 meters, accommodating all experience levels.
 
 ## Overview
 
-La Caleta Underwater Park is a dive site in Dominican Republic featuring the wreck of the La Caleta Underwater Park. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+La Caleta is a flagship underwater protected area offering diverse diving experiences with multiple shipwrecks creating artificial reefs for marine life proliferation. The Hickory, a 1984 ship sunk for diving, sits at 18 meters and is accessible for intermediate divers. Deeper wrecks and cave systems provide advanced diving opportunities. This park is one of the Caribbean's most significant artificial reef sites with abundant marine life throughout the site.
 
 ## Site Information
 
-- **Location**: Dominican Republic, Caribbean
+- **Location**: Santo Domingo, Boca Chica, Dominican Republic
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
+- **Maximum Depth**: 30 meters
+- **Park Depth Range**: 6-180 meters (20-591 feet)
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)

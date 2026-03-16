@@ -3,7 +3,7 @@ name: Sunken Rock
 lat: 17.02
 lng: -61.77
 difficulty: Advanced
-maxDepth: 28
+maxDepth: 30
 entryType: boat
 siteType: wall
 ref: null
@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Sunken Rock
 
-Sunken Rock is a reef dive site in Antigua and Barbuda, Caribbean.
+Sunken Rock is Antigua's only known wall dive, a dramatic underwater formation offering an Advanced dive with spectacular vertical drop-offs and sheer overhangs.
 
 ## Overview
 
-Sunken Rock is a dive site in Antigua and Barbuda offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+A massive building-sized rock rising from the seafloor to the surface, Sunken Rock features a vertical wall on one side that plunges from 6 meters to 30 meters or beyond. The gully between the rock and the wall creates dramatic terrain with excellent visibility and frequent reef shark and Atlantic spadefish sightings. This is a challenging but rewarding dive for experienced divers.
 
 ## Site Information
 
-- **Location**: Antigua and Barbuda, Caribbean
+- **Location**: East of English Harbour, near Eric Clapton's Antigua estate
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 28 meters
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Current**: Minimal to light (even in choppy surface conditions)
+- **Best Time**: December to April (calmer weather required)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Caribbean reef sharks are resident on this site, with large schools of Atlantic spadefish commonly seen. The wall and rock structure attract pelagic species. Excellent visibility usually means exceptional sightings even in rougher conditions elsewhere on the island.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 28 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The dive can begin on top of the rock (6m) and work along the gully and wall system. The wall extends beyond recreational depth limits (30m+), so advanced training in deep diving is recommended for divers pushing depth boundaries. Most recreational divers explore the wall to 20-25m and work the shallower overhangs above. The site rewards careful exploration with dramatic photography and excellent fish life.
 
 ## Entry and Exit
 
@@ -44,10 +44,11 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Requires excellent buoyancy control due to depth and dramatic features
+- Close to shore but accessible only by boat; check weather conditions carefully
+- Excellent for advanced photographers — the wall and overhangs create dramatic compositions
+- Even on choppy days, underwater conditions are often excellent due to protected location
+- Best dived with an experienced local guide who knows the currents and fauna
 
 ## Safety Considerations
 

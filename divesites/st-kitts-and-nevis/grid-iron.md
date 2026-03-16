@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Grid Iron
 
-Grid Iron is a reef dive site in St. Kitts and Nevis, Caribbean.
+Grid Iron is a moderate-depth reef dive site on St. Kitts, offering intermediate diving on healthy coral structures. Limited detailed information is publicly available about this site, but it features a typical Caribbean reef profile with good coral development and marine biodiversity.
 
 ## Overview
 
-Grid Iron is a dive site in St. Kitts and Nevis offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Grid Iron is a reef dive site in St. Kitts and Nevis offering diving on coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C. The site is best explored with local dive operators who are familiar with current conditions and seasonal variations.
 
 ## Site Information
 
-- **Location**: St. Kitts and Nevis, Caribbean
+- **Location**: St. Kitts, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
@@ -29,6 +29,7 @@ Grid Iron is a dive site in St. Kitts and Nevis offering rewarding diving on hea
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
+- **Note**: Limited public documentation available; recommend diving with local operators
 
 ## Marine Life
 

@@ -2,10 +2,10 @@
 name: Rocher de la Perle
 lat: 14.77
 lng: -61.21
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Advanced
+maxDepth: 40
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import
@@ -17,26 +17,27 @@ Rocher de la Perle is a reef dive site in Martinique, Caribbean.
 
 ## Overview
 
-Rocher de la Perle is a dive site in Martinique offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Îlet de la Perle (Pearl Rock) is Martinique's northernmost and most remote diving destination, located 2,800 meters offshore in the Dominique channel near Anse Couleuvre. This secret paradise is protected as part of the Le Prêcheur - Albert Falco Marine Reserve (classified 2014) and is considered by specialists to be one of the most beautiful diving spots in Martinique. The dramatic volcanic rock formation features spectacular drop-offs and a pristine marine ecosystem.
 
 ## Site Information
 
-- **Location**: Martinique, Caribbean
+- **Location**: Le Prêcheur, Martinique (2.8km offshore in Dominique channel)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Site Type**: Wall dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
+- **Current**: Strong, turbulent; exercise caution
 - **Best Time**: December to April (dry season)
+- **Special Status**: Protected marine reserve, less frequented
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Exceptional fish diversity with 68 species identified at this site. Divers encounter schools of bigeye trevally, Southern sennet, large green sea turtles, barracudas, groupers, snappers, parrotfish, and fusiliers. Large pelagic fish and dolphins are sometimes observed. The dramatic rock formations with gorgonians, soft corals, and sponges provide habitat for numerous reef-associated species.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend the dramatic drop-offs and explore the volcanic rock formations. Drop-offs begin around 20 meters and extend to 60 meters. Exercise excellent buoyancy control due to currents and depth. The spectacular geology and abundance of large fish make this a world-class dive site for experienced divers. The remote location and pristine conditions reward those who venture to this northern outpost.
 
 ## Entry and Exit
 

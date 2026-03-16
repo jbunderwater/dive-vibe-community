@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Port Royal Reef
 
-Port Royal Reef is a reef dive site in Jamaica, Caribbean.
+Port Royal Reef offers unique diving combining natural reef exploration with the submerged ruins of 17th-century Port Royal, destroyed by earthquake in 1692.
 
 ## Overview
 
-Port Royal Reef is a dive site in Jamaica offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Port Royal Reef represents a rare archaeological dive site where natural coral reefs surround the partially submerged ruins of the historic pirate city. Divers explore both natural reef structures and preserved artifacts at shallow depths (10-35 meters), with sections accessible to all experience levels. The site features healthy reef growth interspersed with historical remnants, creating a unique combination of natural marine environment and archaeological significance. All dives require permissions and local dive operator guidance for proper site access.
 
 ## Site Information
 

@@ -3,7 +3,7 @@ name: Nag's Head
 lat: 17.27
 lng: -62.7
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 24
 entryType: boat
 siteType: wall
 ref: null
@@ -13,30 +13,31 @@ addedBy: osm_import
 
 ## Nag's Head
 
-Nag's Head is a wall dive site in St. Kitts and Nevis, Caribbean.
+Nag's Head is located at the dramatic point where the Caribbean Sea meets the Atlantic Ocean, featuring a battered rock formation that has fallen into the ocean creating a miniature wall structure. The site offers strong currents and exciting drift diving with outstanding marine life and drift opportunities, particularly attractive to experienced divers seeking more challenging conditions.
 
 ## Overview
 
-Nag's Head is a dive site in St. Kitts and Nevis featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+This site sits at the natural boundary between two seas, making it geologically and biologically significant. The submerged rock formations create a wall structure descending from 20 feet to depths over 80 feet. Strong currents are characteristic of this location, bringing pelagic marine life and creating dynamic drift diving opportunities. The currents that experienced divers find exciting do pose challenges requiring good buoyancy control and safety awareness.
 
 ## Site Information
 
-- **Location**: St. Kitts and Nevis, Caribbean
+- **Location**: Point where Caribbean Sea meets Atlantic Ocean, St. Kitts, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 24 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
+- **Current**: Moderate to strong (characteristic of this location)
 - **Best Time**: December to April (dry season)
+- **Special Features**: Caribbean/Atlantic meeting point, drift diving opportunities
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+The strong currents attract pelagic species including reef sharks, barracuda, and eagle rays. Resident reef fish populations include parrotfish, angelfish, and groupers. Sea turtles, southern stingrays, moray eels, and lobsters are commonly sighted. The wall structure supports varied depth zones with different species distributions, often with large pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-25 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Begin along the reef top at shallower depths (16-18 meters) before descending along the wall structure. The wall creates a dramatic vertical ecosystem with careful depth management essential, particularly when exploring to the 24-meter limit. Monitor your depth gauge regularly and stay alert to current direction. Most interesting features and marine life are found between 10-24 meters. Prepare for a drift dive profile with the boat standing by for pickup at your planned exit point.
 
 ## Entry and Exit
 

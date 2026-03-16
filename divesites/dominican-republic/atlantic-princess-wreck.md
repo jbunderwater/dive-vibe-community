@@ -2,8 +2,8 @@
 name: Atlantic Princess Wreck
 lat: 18.45
 lng: -69.86
-difficulty: Advanced
-maxDepth: 28
+difficulty: Beginner
+maxDepth: 12
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,19 +13,19 @@ addedBy: osm_import
 
 ## Atlantic Princess Wreck
 
-Atlantic Princess Wreck is a historic wreck dive in Dominican Republic, Caribbean.
+A small passenger liner intentionally sunk in 2009, the Atlantic Princess rests at just 12 meters depth in Bayahibe. This beginner-friendly wreck is perfect for all certification levels and teems with fish and marine life. The shallow depth makes it ideal for longer bottom times and excellent underwater photography.
 
 ## Overview
 
-Atlantic Princess Wreck is a dive site in Dominican Republic featuring the wreck of the Atlantic Princess Wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Originally a small cruise ship catering to tourists, the Atlantic Princess ran aground during Tropical Storm Fay in 2008. The vessel was intentionally sunk on May 6, 2009, transforming it into an enchanting artificial reef. Measuring 30 meters wide by 99 feet long, the wreck remains accessible to divers of all experience levels. The shallow depth and abundant marine life make it a must-see site for beginners and a great spot for photographers.
 
 ## Site Information
 
-- **Location**: Dominican Republic, Caribbean
+- **Location**: Bayahibe, La Romana, Dominican Republic
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 28 meters
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 12 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)

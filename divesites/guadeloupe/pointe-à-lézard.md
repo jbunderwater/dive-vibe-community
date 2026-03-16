@@ -3,7 +3,7 @@ name: Pointe à Lézard
 lat: 16.18
 lng: -61.775
 difficulty: Intermediate
-maxDepth: 22
+maxDepth: 25
 entryType: boat
 siteType: wall
 ref: null
@@ -25,7 +25,7 @@ Pointe à Lézard is a dive site in Guadeloupe featuring a dramatic vertical wal
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 meters
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)

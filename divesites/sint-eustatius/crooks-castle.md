@@ -2,8 +2,8 @@
 name: Crooks Castle
 lat: 17.47
 lng: -62.97
-difficulty: Intermediate
-maxDepth: 22
+difficulty: Beginner
+maxDepth: 10
 entryType: boat
 siteType: reef
 ref: null
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Crooks Castle
 
-Crooks Castle is a reef dive site in Sint Eustatius, Caribbean.
+Crooks Castle (White Buoy #21) is a beginner-friendly dive and snorkel site located just southwest of Lower Town. It features excellent coral formations and is renowned for blue beads—historical artifacts that have washed ashore from the 1600s-1800s, making it an archaeological treasure for lucky divers.
 
 ## Overview
 
-Crooks Castle is a dive site in Sint Eustatius offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+A healthy reef with stands of pillar coral, giant yellow sea fans, and sea whips, Crooks Castle appeals to both beginners and experienced divers. Sea turtles and stingrays are regular visitors. Snorkelers will love the shallow coral gardens, while beachcombers explore the sandy areas where blue beads occasionally appear. The site exemplifies Statia's unique combination of healthy reef ecology and historical significance.
 
 ## Site Information
 
-- **Location**: Sint Eustatius, Caribbean
+- **Location**: Sint Eustatius (Statia), Lower Town area
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 10 meters
+- **Typical Visibility**: 20-30 meters (65-100 feet)
+- **Current**: Light
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Sea turtles and stingrays frequent this site. Pillar coral, giant yellow sea fans, and sea whips create the reef structure. Sharks (reef and nurse sharks), whales, and dolphins occasionally pass through. The coral-rich environment supports diverse fish species and provides excellent photography subjects.
 
 ## Dive Profile
 

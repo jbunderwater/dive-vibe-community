@@ -17,18 +17,19 @@ Grande Anse Reef is a reef dive site in Martinique, Caribbean.
 
 ## Overview
 
-Grande Anse Reef is a dive site in Martinique offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Grande Anse Reef is located right in front of the magnificent beach of Grande Anse, which is known as the home of green sea turtles. Multiple dive centers operate from this beautiful location, offering easy access to more than 20 nearby dive sites. The reef diving from Grande Anse is gentle and accessible, making it perfect for beginners and families.
 
 ## Site Information
 
-- **Location**: Martinique, Caribbean
+- **Location**: Grande Anse beach, Les Anses d'Arlet, Martinique
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 14 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
+- **Current**: Minimal
 - **Best Time**: December to April (dry season)
+- **Special Feature**: Home to green sea turtles; excellent for beginners and families
 
 ## Marine Life
 

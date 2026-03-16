@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Montego Bay Marine Park
 
-Montego Bay Marine Park is a reef dive site in Jamaica, Caribbean.
+Montego Bay Marine Park encompasses a protected marine reserve with diverse reef structures, caverns, and arches ideal for beginner to intermediate divers.
 
 ## Overview
 
-Montego Bay Marine Park is a dive site in Jamaica offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Montego Bay Marine Park is a protected marine area featuring healthy coral gardens, brain coral formations, sea fans, and barrel sponges. This beginner-friendly site showcases the biodiversity of Jamaica's north coast reefs, with multiple points of interest including shallow caverns and overhangs. The marine park serves as an excellent introduction to Montego Bay's diving, with calm, protected waters and close proximity to shore making it ideal for newer divers and training dives.
 
 ## Site Information
 

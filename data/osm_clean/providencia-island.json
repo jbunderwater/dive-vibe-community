@@ -10,7 +10,9 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations"
-    }
+    },
+    "validated": true,
+    "validation_source": "Felipe Diving Center, ScubaDiving.com"
   },
   {
     "name": "Manta's City",
@@ -23,20 +25,24 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations"
-    }
+    },
+    "validated": true,
+    "validation_source": "Colombia Travel, ScubaDiving.com"
   },
   {
     "name": "Nick's Place",
     "lat": 13.38,
     "lon": -81.37,
-    "depth": 30,
+    "depth": 40,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations"
-    }
+    },
+    "validated": true,
+    "validation_source": "Sport Diver, DiveScover"
   },
   {
     "name": "The Pinnacle",
@@ -49,20 +55,24 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations"
-    }
+    },
+    "validated": true,
+    "validation_source": "Local dive operators, regional sources"
   },
   {
     "name": "Stairway to Heaven",
     "lat": 13.34,
     "lon": -81.36,
-    "depth": 22,
+    "depth": 52,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations"
-    }
+    },
+    "validated": true,
+    "validation_source": "Just Gotta Dive, ScubaDiving.com"
   },
   {
     "name": "Crab Cay Reef",
@@ -75,20 +85,24 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations"
-    }
+    },
+    "validated": true,
+    "validation_source": "Old Providence McBean Lagoon National Park, TripAdvisor"
   },
   {
     "name": "Blue Diamond",
     "lat": 13.355,
     "lon": -81.395,
-    "depth": 28,
-    "site_type": "wall",
+    "depth": 24,
+    "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations"
-    }
+    },
+    "validated": true,
+    "validation_source": "PADI, DiveAdvisor"
   },
   {
     "name": "Tete's Place",
@@ -101,7 +115,9 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations"
-    }
+    },
+    "validated": true,
+    "validation_source": "ScubaDiving.com, DiveScover"
   },
   {
     "name": "Convento Reef",
@@ -114,19 +130,23 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations"
-    }
+    },
+    "validated": true,
+    "validation_source": "Colombia Travel, local operators"
   },
   {
     "name": "Table Rock",
     "lat": 13.345,
     "lon": -81.35,
-    "depth": 20,
-    "site_type": "reef",
+    "depth": 25,
+    "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations"
-    }
+    },
+    "validated": true,
+    "validation_source": "DiveAdvisor, Joe's Scuba Shack"
   }
 ]

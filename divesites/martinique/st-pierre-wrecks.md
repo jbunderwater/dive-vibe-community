@@ -3,7 +3,7 @@ name: St. Pierre Wrecks
 lat: 14.74
 lng: -61.18
 difficulty: Advanced
-maxDepth: 30
+maxDepth: 60
 entryType: boat
 siteType: wreck
 ref: null
@@ -17,18 +17,25 @@ St. Pierre Wrecks is a historic wreck dive in Martinique, Caribbean.
 
 ## Overview
 
-St. Pierre Wrecks is a dive site in Martinique featuring the wreck of the St. Pierre Wrecks. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Bay of Saint-Pierre is a haunting underwater museum, home to multiple wrecks sunk during the catastrophic eruption of Mount Pelée on May 8, 1902. This event created a pyroclastic flow (nuées ardentes or "burning clouds") that destroyed the city in minutes and sank numerous ships. Today, exploring these wreck sites is a journey through Martinique's most significant maritime disaster, with the most iconic being the SS Roraima.
 
 ## Site Information
 
-- **Location**: Martinique, Caribbean
+- **Location**: Saint-Pierre, Martinique (Bay)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
+- **Maximum Depth**: 60 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
+- **Current**: Moderate
 - **Best Time**: December to April (dry season)
+- **Historical Context**: 1902 Mount Pelée eruption
+
+## Notable Wrecks
+
+**SS Roraima**: The most emblematic wreck, a 103-meter Canadian-flagged mixed steam cargo and passenger ship with an 11-meter beam. The iron hull rests on a bed of gray mud at approximately 55 meters depth, with its large bow standing vertically on the bottom. The Roraima burned for three days before sinking by the stern. Known as "The Titanic of Martinique," it is located only 700 yards from shore.
+
+**Other wrecks**: The Tamaya, Biscaye, and Diamant have also been identified and are divable, though some require technical diving certification due to extreme depths.
 
 ## Marine Life
 

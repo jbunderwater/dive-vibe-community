@@ -17,7 +17,7 @@ The Pinnacle is a reef dive site in Providencia Island, Caribbean.
 
 ## Overview
 
-The Pinnacle is a dive site in Providencia Island offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Pinnacle is an advanced wall dive site featuring dramatic drop-offs and strong vertical structure. This site showcases Providencia's pristine barrier reef system with deep wall diving opportunities suitable for experienced divers seeking challenging diving in the Colombian Caribbean.
 
 ## Site Information
 
@@ -32,11 +32,11 @@ The Pinnacle is a dive site in Providencia Island offering rewarding diving on h
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The deep wall provides opportunities to encounter pelagic species, reef sharks, eagle rays, and other large fish species. The vertical ecosystem of the wall supports diverse species at varying depths.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 35 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin at the reef top at shallower depths before descending along the dramatic wall structure. The wall descends to significant depths beyond 35 meters. Most interesting features are found along the wall structure, with varying depths depending on your dive plan. Careful depth management and buoyancy control are essential for this advanced site.
 
 ## Entry and Exit
 

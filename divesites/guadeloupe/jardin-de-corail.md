@@ -17,11 +17,11 @@ Jardin de Corail is a reef dive site in Guadeloupe, Caribbean.
 
 ## Overview
 
-Jardin de Corail is a dive site in Guadeloupe offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Jardin de Corail is the most famous site in the Jacques Cousteau Underwater Reserve and one of Guadeloupe's finest reef dives. Located at Pigeon Island (Îlets Pigeon) just 10 minutes by boat from Malendure Beach, this protected site features vibrant coral gardens and an iconic underwater landmark.
 
 ## Site Information
 
-- **Location**: Guadeloupe, Caribbean
+- **Location**: Pigeon Island, Cousteau Reserve, Guadeloupe
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
@@ -29,14 +29,15 @@ Jardin de Corail is a dive site in Guadeloupe offering excellent diving on healt
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
+- **Boat Time**: 10 minutes from Malendure
 
-## Marine Life
+## The Cousteau Bust
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The National Park of Guadeloupe placed a bronze bust of Jacques Cousteau at this site on the sand at 12 meters depth as a tribute to the legendary oceanographer. This iconic monument has become the centerpiece of the dive.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The dive begins in very shallow water with magnificent coral carpets visible at just 3 meters depth. Gradual descent takes you past enormous brain coral, staghorn, and elkhorn formations. The slope brings you deeper toward the Cousteau bust at 12 meters. The most abundant and diverse coral and fish life is found between 5-12 meters. Multiple dive profiles are possible, from shallow snorkeling (3-6m) to deeper reef exploration (12m).
 
 ## Entry and Exit
 

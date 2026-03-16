@@ -3,26 +3,30 @@
     "name": "Tiger Rock",
     "lat": 9.28,
     "lon": -82.18,
-    "depth": 25,
-    "site_type": "reef",
+    "depth": 42,
+    "site_type": "pinnacle",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": "true",
+      "validation_source": "scuba diving guides, dive operator resources"
     }
   },
   {
     "name": "Hospital Point",
     "lat": 9.34,
     "lon": -82.24,
-    "depth": 15,
+    "depth": 7,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": "true",
+      "validation_source": "dive operator guides, snorkeling-report.com"
     }
   },
   {
@@ -35,20 +39,24 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": "true",
+      "validation_source": "dive operator guides"
     }
   },
   {
     "name": "Crawl Cay",
     "lat": 9.27,
     "lon": -82.15,
-    "depth": 12,
+    "depth": 18,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": "true",
+      "validation_source": "arrivalguides.com, dive operator guides"
     }
   },
   {
@@ -56,12 +64,14 @@
     "lat": 9.35,
     "lon": -82.26,
     "depth": 30,
-    "site_type": "wall",
+    "site_type": "cavern",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": "true",
+      "validation_source": "tribloo.com, dive operator guides"
     }
   },
   {
@@ -74,7 +84,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": "true",
+      "validation_source": "dive operator guides"
     }
   },
   {
@@ -87,7 +99,9 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": "true",
+      "validation_source": "snorkeling-report.com"
     }
   },
   {
@@ -100,7 +114,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": "true",
+      "validation_source": "dive operator guides"
     }
   },
   {
@@ -113,7 +129,9 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": "true",
+      "validation_source": "dive operator guides"
     }
   },
   {
@@ -126,7 +144,9 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": "true",
+      "validation_source": "dive operator guides, snorkeling-report.com"
     }
   },
   {
@@ -139,7 +159,9 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": "true",
+      "validation_source": "tourismpanama.com, dive operator guides"
     }
   },
   {
@@ -152,7 +174,9 @@
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": "true",
+      "validation_source": "dive operator guides"
     }
   },
   {
@@ -161,7 +185,7 @@
     "lon": -82.2224984,
     "osm_id": 12639496075,
     "osm_type": "node",
-    "depth": null,
+    "depth": 17,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -170,7 +194,8 @@
       "sport": "scuba_diving",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
-      "validated": "true"
+      "validated": "true",
+      "validation_source": "dive operator guides, tribloo.com"
     }
   }
 ]

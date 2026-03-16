@@ -3,9 +3,9 @@ name: Anchor Reef
 lat: 13.15
 lng: -61.2
 difficulty: Intermediate
-maxDepth: 18
+maxDepth: 36
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,19 +13,19 @@ addedBy: osm_import
 
 ## Anchor Reef
 
-Anchor Reef is a reef dive site in St. Vincent and the Grenadines, Caribbean.
+Anchor Reef is a spectacular wall dive site off Bequia in St. Vincent and the Grenadines, Caribbean.
 
 ## Overview
 
-Anchor Reef is a dive site in St. Vincent and the Grenadines offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Anchor Reef is one of Bequia's top dive sites, featuring a dramatic wall structure decorated with gorgonians and black corals. The site is named for an 18th-century anchor buried within the reef, now covered with corals. This varied dive begins on a sandy bottom in shallow water and drops dramatically to a 120-foot wall-like peninsula with an underwater maze of large rocks, caves, and swim-throughs. The site is typically relaxed with minimal current and excellent for macro and wide-angle photography.
 
 ## Site Information
 
-- **Location**: St. Vincent and the Grenadines, Caribbean
+- **Location**: Bequia, St. Vincent and the Grenadines, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
+- **Maximum Depth**: 36 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)

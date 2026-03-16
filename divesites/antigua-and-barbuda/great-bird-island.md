@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Great Bird Island
 
-Great Bird Island is a reef dive site in Antigua and Barbuda, Caribbean.
+Great Bird Island is a tiny uninhabited islet 3 km northeast of Antigua, featuring a protected reef system with vibrant coral gardens and exceptional marine biodiversity.
 
 ## Overview
 
-Great Bird Island is a dive site in Antigua and Barbuda offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+A protected eco-tourism destination with pristine reefs, Great Bird Island offers excellent diving in clear water with frequent turtle sightings. The island itself is home to the rare Antiguan racer snake and numerous seabirds. The reef environment is well-preserved and ideal for all diving levels.
 
 ## Site Information
 
-- **Location**: Antigua and Barbuda, Caribbean
+- **Location**: Northeast of Antigua (North Sound), 3 km offshore
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 14 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: 20-30 meters (65-100 feet)
+- **Current**: Minimal
+- **Best Time**: December to May (including whale watching season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Sea turtles are frequently encountered and photographed here. Rays, colorful reef fish, and vibrant coral gardens create a lively underwater environment. Migrating whales may be seen from December to May (from the surface). The island is a protected area supporting seabirds and the endangered Antiguan racer snake above water.
 
 ## Dive Profile
 
@@ -44,11 +44,11 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Excellent for turtle photography — most reliable location on Antigua for turtle encounters
+- Many operators offer combination snorkel/dive trips to the island
+- Above-water activities include beach time and hiking the trail connecting North and South beaches
+- The island is a protected area — respect wildlife and follow eco-tourism guidelines
+- Consider visiting December-May to potentially see migrating humpback whales from the surface
 
 ## Safety Considerations
 

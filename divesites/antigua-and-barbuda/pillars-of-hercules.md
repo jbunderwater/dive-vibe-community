@@ -3,7 +3,7 @@ name: Pillars of Hercules
 lat: 17.01
 lng: -61.76
 difficulty: Intermediate
-maxDepth: 22
+maxDepth: 9
 entryType: boat
 siteType: wall
 ref: null
@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Pillars of Hercules
 
-Pillars of Hercules is a reef dive site in Antigua and Barbuda, Caribbean.
+Pillars of Hercules is a dramatic wall and geological formation dive site located inside Nelson's Dockyard National Park on Antigua's south coast.
 
 ## Overview
 
-Pillars of Hercules is a dive site in Antigua and Barbuda offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Named for its distinctive pillar-shaped limestone rock formations rising from the ocean, Pillars of Hercules offers excellent diving with exceptional visibility. The site features a shallow wall dive ideal for intermediate divers, with healthy coral growth and abundant marine life. This is a signature Antigua dive site, easily accessible from English Harbour.
 
 ## Site Information
 
-- **Location**: Antigua and Barbuda, Caribbean
+- **Location**: English Harbour, Antigua (inside Nelson's Dockyard National Park)
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Maximum Depth**: 9 meters
+- **Typical Visibility**: 18-30 meters (60-100 feet)
+- **Current**: Minimal to light
+- **Best Time**: December to April (calm seas and excellent visibility)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The site is home to over 100 fish species. Commonly sighted are green sea turtles, spotted eagle rays, common octopus, and a variety of Caribbean reef fish including trumpetfish, parrotfish, porcupinefish, and blue tangs. The site supports a coral nursery programme, making it a conservation-focused dive destination.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 22 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The dive profile is straightforward and beginner-friendly despite the Intermediate rating. The pillars drop gradually from the surface to around 9 meters maximum depth. Divers can circle the formations, explore the rock features, and observe the coral growth and marine life. The site offers relaxed conditions with minimal current, making it suitable for building confidence.
 
 ## Entry and Exit
 
@@ -44,10 +44,11 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- This is an excellent site to combine with other English Harbour dives (Sunken Rock, nearby wrecks)
+- Bring an underwater camera — the distinctive rock formations make exceptional photography subjects
+- An 18th-century anchor rests at the site, adding historical interest
+- The site has calm surface conditions even when other sites are choppy
+- Respect the coral nursery programme by maintaining excellent buoyancy
 
 ## Safety Considerations
 

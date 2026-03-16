@@ -17,7 +17,7 @@ Manta's City is a reef dive site in Providencia Island, Caribbean.
 
 ## Overview
 
-Manta's City is a dive site in Providencia Island offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Manta's City is a stunning shallow patch reef site adorned with vibrant coral formations and prolific marine life. The large stony corals at this site provide shelter to schooling fish and sea turtles, making it ideal for both photographers and newer divers seeking to explore Providencia's healthy reef ecosystem.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Manta's City is a dive site in Providencia Island offering rewarding diving on h
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The site hosts an abundance of marine life including large stony corals sheltering sea turtles, sergeant majors, butterflyfish, goatfish, and parrotfish. Manta rays and schooling jacks are frequently sighted in the blue water.
 
 ## Dive Profile
 

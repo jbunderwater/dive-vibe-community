@@ -13,21 +13,21 @@ addedBy: osm_import
 
 ## Bayahibe Reef
 
-Bayahibe Reef is a reef dive site in Dominican Republic, Caribbean.
+Bayahibe is the hotspot for scuba diving in the Dominican Republic with over 20 official dive sites. This reef site offers shallow coral structures ideal for beginners, with little to no current and abundant tropical marine life including sea turtles, rays, and schools of reef fish.
 
 ## Overview
 
-Bayahibe Reef is a dive site in Dominican Republic offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Bayahibe Reef features healthy coral formations with minimal current, making it perfect for newer divers. The area is home to extensive seagrass beds, sandy bottoms, and coral reefs that teem with tropical fish. The protected waters near Bayahibe provide consistent, calm conditions year-round. This region is the epicenter of Dominican diving with access to multiple wrecks (St. George, Atlantic Princess, Coca) alongside pristine reef dives and freshwater cave systems.
 
 ## Site Information
 
-- **Location**: Dominican Republic, Caribbean
+- **Location**: Bayahibe, La Romana, Dominican Republic
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 14 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
+- **Current**: Minimal to light
 - **Best Time**: December to April (dry season)
 
 ## Marine Life

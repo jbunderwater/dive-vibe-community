@@ -3,7 +3,7 @@ name: Deep Bay Wreck (Andes)
 lat: 17.14
 lng: -61.87
 difficulty: Beginner
-maxDepth: 10
+maxDepth: 9
 entryType: shore
 siteType: wreck
 ref: null
@@ -13,22 +13,22 @@ addedBy: osm_import
 
 ## Deep Bay Wreck (Andes)
 
-Deep Bay Wreck (Andes) is a historic wreck dive in Antigua and Barbuda, Caribbean.
+The Andes wreck in Deep Bay is one of Antigua's most accessible dives, lying in just 9 meters of water near St. John's harbor. This shore-entry wreck is equally enjoyable for snorkelers and divers.
 
 ## Overview
 
-Deep Bay Wreck (Andes) is a dive site in Antigua and Barbuda featuring the wreck of the Deep Bay Wreck (Andes). Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+This is an ideal beginner-friendly wreck dive, offering easy access from shore and shallow, calm water. The wreck is fully encrusted with corals and sponges, providing excellent opportunities to see how shipwrecks become artificial reefs. The site is protected and is a popular gateway to wreck diving in Antigua.
 
 ## Site Information
 
-- **Location**: Antigua and Barbuda, Caribbean
+- **Location**: Deep Bay, west coast near St. John's, Antigua
 - **Entry Type**: Shore entry
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 10 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Maximum Depth**: 9 meters
+- **Typical Visibility**: 15-25 meters (50-80 feet)
+- **Current**: Minimal
+- **Best Time**: Year-round (sheltered bay location)
 
 ## Marine Life
 
@@ -44,12 +44,11 @@ Enter from the shore following established entry points. Check conditions before
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Perfect for snorkelers and beginner divers — minimal current, excellent access
+- Protected under the Marine Areas Act of 1972 — do not remove artifacts
+- Shore entry on a sandy beach makes this convenient and cost-effective
+- Bring a torch to illuminate interior details and see the coral colonization
+- Excellent site for combination snorkel/dive trips with family or mixed-skill groups
 
 ## Safety Considerations
 

@@ -3,14 +3,15 @@
     "name": "Pillars of Hercules",
     "lat": 17.01,
     "lon": -61.76,
-    "depth": 22,
+    "depth": 9,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
-      "validated": "true"
+      "validated": "true",
+      "validation_source": "PADI, Sandals, DiveCarib - Located inside Nelson's Dockyard National Park"
     }
   },
   {
@@ -23,47 +24,54 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "validation_source": "Protected Marine Reserve - 2-mile barrier reef, excellent visibility"
     }
   },
   {
     "name": "Andes Wreck",
     "lat": 17.04,
     "lon": -61.78,
-    "depth": 20,
+    "depth": 8,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "validation_source": "Historic wreck - 3-masted merchant ship sank 1905"
     }
   },
   {
     "name": "Sunken Rock",
     "lat": 17.02,
     "lon": -61.77,
-    "depth": 28,
+    "depth": 30,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
-      "validated": "true"
+      "validated": "true",
+      "validation_source": "Only known wall dive in Antigua - drops from 2m to 30m+ with sheer overhangs"
     }
   },
   {
     "name": "Deep Bay Wreck (Andes)",
     "lat": 17.14,
     "lon": -61.87,
-    "depth": 10,
+    "depth": 9,
     "site_type": "wreck",
     "entry_type": "shore",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "validation_source": "Protected wreck at 30ft depth - accessible to snorkelers and divers"
     }
   },
   {
@@ -76,20 +84,24 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "validation_source": "Multiple named sites - The Ledge, Jewel Box, Sunken Barge"
     }
   },
   {
     "name": "Ariadne Shoal",
     "lat": 17.05,
     "lon": -61.79,
-    "depth": 25,
+    "depth": 15,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "validation_source": "Offshore 7 miles - excellent pelagic fish schools, larger fish than typical Antigua sites"
     }
   },
   {
@@ -102,33 +114,39 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "validation_source": "Protected area - vibrant reefs, frequent turtle sightings, island location"
     }
   },
   {
     "name": "Barbuda Reef",
     "lat": 17.62,
     "lon": -61.75,
-    "depth": 18,
+    "depth": 15,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "validation_source": "Barbuda barrier reef - pristine with minimal boat traffic, similar to Palmetto Point"
     }
   },
   {
     "name": "Carpenter's Reef",
     "lat": 17.035,
     "lon": -61.865,
-    "depth": 20,
-    "site_type": "reef",
+    "depth": 24,
+    "site_type": "drift",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": "true",
+      "validation_source": "Drift dive site (Windward Bay) - ridges/valleys 12-24m, requires calm weather"
     }
   }
 ]

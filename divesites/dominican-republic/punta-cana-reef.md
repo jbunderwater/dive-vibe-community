@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Punta Cana Reef
 
-Punta Cana Reef is a reef dive site in Dominican Republic, Caribbean.
+Punta Cana features the longest reef system in the Dominican Republic stretching north to Bavaro. The shallow coral reefs teem with tropical fish including parrotfish, angelfish, sergeant majors, and damselfish. Green and hawksbill turtles are commonly encountered here, making it excellent for all diver levels.
 
 ## Overview
 
-Punta Cana Reef is a dive site in Dominican Republic offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Punta Cana boasts the country's longest reef and a great variety of dive environments from shallow coral gardens to deeper wrecks and canyons. Shallow coral gardens host parrotfish munching coral, angelfish, rays, and sea turtles. The reefs feature healthy tropical fish populations with excellent visibility. Punta Cana's combination of shallow reefs, artificial wrecks, and diverse marine life makes it ideal for beginners and underwater photographers alike.
 
 ## Site Information
 
-- **Location**: Dominican Republic, Caribbean
+- **Location**: Punta Cana, La Altagracia, Dominican Republic
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner

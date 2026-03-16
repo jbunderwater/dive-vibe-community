@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Culebra Reef
 
-Culebra Reef is a reef dive site in Puerto Rico, Caribbean.
+Culebra Reef offers rewarding boat diving on Culebra Island, located east of Puerto Rico. The site features intact coral reef structures with diverse marine life and dramatic underwater formations including natural tunnels, caves, and deep-water drop-offs.
 
 ## Overview
 
-Culebra Reef is a dive site in Puerto Rico offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Culebra is known worldwide for some of the Caribbean's most beautiful and intact coral reef systems accessible to recreational diving. The reefs are rich in marine biodiversity and feature distinctive formations including natural swimthroughs and tunnels. Depths range from 20 to 55 feet, with most recreational dives conducted between 20-45 feet. Typical bottom times of 40-50 minutes are feasible given the depths. The site provides excellent opportunities for intermediate divers to explore healthy coral ecosystems.
 
 ## Site Information
 
-- **Location**: Puerto Rico, Caribbean
+- **Location**: Culebra Island, East of Puerto Rico
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Typical Visibility**: 15-25 meters (50-80 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Culebra's reefs support diverse tropical fish communities including parrotfish, surgeonfish, angelfish, butterflyfish, and damselfish. Occasional pelagic visitors include eagle rays and sharks. The reef habitat is particularly rich with moray eels, lobsters, and numerous other crustaceans. Macro photography subjects abound with nudibranchs, sea urchins, and colorful invertebrates on healthy coral structures.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Boat access to the reef followed by mooring or anchor dive to 6-18 meters depending on the specific reef section. The site's distinctive tunnels and caves provide excellent opportunities for exploration within intermediate diving limits. Navigate through natural swimthroughs while maintaining awareness of your position and depth. The varied topography provides continuous visual interest throughout a 40-50 minute dive.
 
 ## Entry and Exit
 

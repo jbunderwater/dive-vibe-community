@@ -17,18 +17,19 @@ Anse Noire is a reef dive site in Martinique, Caribbean.
 
 ## Overview
 
-Anse Noire is a dive site in Martinique offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Anse Noire is Martinique's only black sand beach and a geological curiosity that stands out from neighboring Anse Dufour with its distinctive volcanic appearance. This peaceful cove features a ribbon of volcanic black sand fringed by tall coconut palms and framed by steep hills. Like its neighboring beaches, Anse Noire is one of the best places to observe sea turtles in their natural habitat and offers calm reef diving.
 
 ## Site Information
 
-- **Location**: Martinique, Caribbean
+- **Location**: Anse Noire, Les Anses d'Arlet, Martinique
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 8 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
+- **Current**: Minimal
 - **Best Time**: December to April (dry season)
+- **Special Feature**: Only black sand beach in south Martinique; excellent turtle encounters
 
 ## Marine Life
 

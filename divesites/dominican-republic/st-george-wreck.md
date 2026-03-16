@@ -2,8 +2,8 @@
 name: St. George Wreck
 lat: 18.47
 lng: -69.88
-difficulty: Intermediate
-maxDepth: 22
+difficulty: Advanced
+maxDepth: 44
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,19 +13,20 @@ addedBy: osm_import
 
 ## St. George Wreck
 
-St. George Wreck is a historic wreck dive in Dominican Republic, Caribbean.
+The St. George is a 73-meter (240 ft) cargo ship deliberately sunk in 1999 near Bayahibe to create an artificial reef. The wreck rests at 44 meters depth, with the top at 15 meters, offering multi-level dive opportunities from recreational to advanced.
 
 ## Overview
 
-St. George Wreck is a dive site in Dominican Republic featuring the wreck of the St. George Wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+A deep wreck dive in Bayahibe, the St. George is one of the Caribbean's most iconic artificial reef wrecks. The vessel was originally the M.V. Norbrae, a Scottish-built cargo ship used to transport grain between Norway and the Americas. Sunk on June 12, 1999, it has become an extensive artificial reef teeming with marine life including eagle rays and barracuda. The wreck offers dramatic wide-angle photography and penetration opportunities for trained divers.
 
 ## Site Information
 
-- **Location**: Dominican Republic, Caribbean
+- **Location**: Bayahibe, La Romana, Dominican Republic
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 meters
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 44 meters
+- **Top of Wreck**: 15 meters (50 feet)
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)

@@ -17,11 +17,11 @@ Cap Enragé is a reef dive site in Martinique, Caribbean.
 
 ## Overview
 
-Cap Enragé is a dive site in Martinique offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Cap Enragé is a site exceptionally rich in fauna and flora that is accessible to all diving levels. The dive features a spectacular coral garden on a plateau with caves and small canyons, offering diverse habitats for marine life. Soft corals, hard corals, gorgonian fans, and whipped corals create a vibrant reef environment teeming with life.
 
 ## Site Information
 
-- **Location**: Martinique, Caribbean
+- **Location**: Martinique, Caribbean (near Diamond Rock area)
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
@@ -29,14 +29,15 @@ Cap Enragé is a dive site in Martinique offering rewarding diving on healthy co
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
+- **Special Features**: Coral gardens, caves, canyons, all-levels accessibility
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The coral gardens and reef canyons support incredible biodiversity including scorpion fish, barracuda, coral reef fish, and stingrays. Soft corals, hard corals, gorgonian fans, and other invertebrates create a dynamic ecosystem. Sea turtles, groupers, snappers, and other reef residents are commonly encountered.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 22 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin your dive exploring the coral garden plateau at shallow to moderate depths. Navigate through the small canyons and caves, observing the spectacular soft coral formations. The site's gentle slopes and multiple depth options make it suitable for both newer and experienced divers. Plan your dive to visit shallower coral areas first, then explore deeper canyon features as conditions allow.
 
 ## Entry and Exit
 

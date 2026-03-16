@@ -3,7 +3,7 @@ name: Hospital Point
 lat: 9.34
 lng: -82.24
 difficulty: Beginner
-maxDepth: 15
+maxDepth: 7
 entryType: boat
 siteType: reef
 ref: null
@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Hospital Point
 
-Hospital Point is a reef dive site in Bocas del Toro, Caribbean.
+Hospital Point is a reef dive site on the north tip of Isla Solarte in Bocas del Toro, Caribbean.
 
 ## Overview
 
-Hospital Point is a dive site in Bocas del Toro offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Hospital Point is located just 5 minutes by boat from Isla Colon, making it one of the most accessible dive sites in Bocas del Toro. The site features a shallow sandy bay ideal for practicing open water skills and a vibrant reef teeming with tropical fish and coral. This is an excellent site for beginners and also popular for night dives when nocturnal marine life becomes active.
 
 ## Site Information
 
-- **Location**: Bocas del Toro, Caribbean
+- **Location**: North tip of Isla Solarte, Bocas del Toro, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Maximum Depth**: 7 meters
+- **Typical Visibility**: 15-25 meters (50-80 feet)
+- **Current**: Light
+- **Best Time**: Year-round (good visibility all seasons)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Hospital Point hosts abundant tropical reef fish and healthy coral. During daytime dives, expect parrotfish, snappers, sergeant majors, angelfish, and other reef residents. The site is famous for night dives when lobster, hermit crabs, and nurse sharks become active, providing unique nocturnal wildlife encounters. Sea turtles are occasionally spotted.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Hospital Point features a shallow sandy bay around 6-7 meters deep, making it perfect for open water certification dives and skill practice. The reef itself offers exploration opportunities in the shallow to moderate depth range. Even on a single tank, divers have ample bottom time to thoroughly explore the site. Visibility is typically excellent, and currents are minimal.
 
 ## Entry and Exit
 
@@ -44,15 +44,15 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Perfect site for open water certification dives and building confidence
+- Consider a night dive to experience the different marine life that emerges after dark
+- The close proximity to Isla Colon makes it ideal for multiple dives on the same day
+- Bring a light for night dives — the site comes alive with nocturnal activity
 - Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Hospital Point is a very safe, beginner-friendly dive. Shallow depths and calm conditions minimize risks. Be aware of water taxi traffic in the area and stay alert. Always dive with a buddy and follow all standard safety protocols.
 
 ## Photography
 

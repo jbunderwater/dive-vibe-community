@@ -3,14 +3,16 @@
     "name": "Charles L. Brown Wreck",
     "lat": 17.49,
     "lon": -62.99,
-    "depth": 20,
+    "depth": 29,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean"
-    }
+    },
+    "validated": true,
+    "validation_source": "PADI, Golden Rock Resort, Scubaqua"
   },
   {
     "name": "Anchor Point South",
@@ -23,110 +25,128 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean"
-    }
+    },
+    "validated": true,
+    "validation_source": "Dive operators, historical anchor from 1750"
   },
   {
     "name": "Blue Bead Hole",
     "lat": 17.48,
     "lon": -62.98,
-    "depth": 15,
+    "depth": 10,
     "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean"
-    }
+    },
+    "validated": true,
+    "validation_source": "PADI, Scuba Diving Magazine, Golden Rock Resort"
   },
   {
     "name": "Stenapa Reef",
     "lat": 17.485,
     "lon": -62.985,
-    "depth": 12,
+    "depth": 6,
     "site_type": "reef",
-    "entry_type": "shore",
+    "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean"
-    }
+    },
+    "validated": true,
+    "validation_source": "STENAPA Marine Park, Golden Rock Resort"
   },
   {
     "name": "Hangover",
     "lat": 17.5,
     "lon": -62.995,
-    "depth": 28,
+    "depth": 17,
     "site_type": "wall",
-    "entry_type": "boat",
-    "difficulty": "Advanced",
-    "tags": {
-      "source": "curated",
-      "addedBy": "fill_caribbean"
-    }
-  },
-  {
-    "name": "Crooks Castle",
-    "lat": 17.47,
-    "lon": -62.97,
-    "depth": 22,
-    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean"
-    }
+    },
+    "validated": true,
+    "validation_source": "Golden Rock Resort, Dive operator reports"
+  },
+  {
+    "name": "Crooks Castle",
+    "lat": 17.47,
+    "lon": -62.97,
+    "depth": 10,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    },
+    "validated": true,
+    "validation_source": "PADI, Golden Rock Resort, blue bead site"
   },
   {
     "name": "Double Wreck",
     "lat": 17.495,
     "lon": -62.992,
-    "depth": 16,
+    "depth": 17,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean"
-    }
+    },
+    "validated": true,
+    "validation_source": "PADI, Golden Rock Resort, historical 1700s wrecks"
   },
   {
     "name": "Nursing Station",
     "lat": 17.465,
     "lon": -62.968,
-    "depth": 8,
-    "site_type": "reef",
-    "entry_type": "shore",
-    "difficulty": "Beginner",
-    "tags": {
-      "source": "curated",
-      "addedBy": "fill_caribbean"
-    }
-  },
-  {
-    "name": "Five Fingers South",
-    "lat": 17.46,
-    "lon": -62.965,
-    "depth": 25,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Advanced",
-    "tags": {
-      "source": "curated",
-      "addedBy": "fill_caribbean"
-    }
-  },
-  {
-    "name": "The Ledges",
-    "lat": 17.505,
-    "lon": -63.0,
-    "depth": 20,
+    "depth": 19,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean"
-    }
+    },
+    "validated": true,
+    "validation_source": "PADI, Golden Rock Resort, wall reef with 18th-19th century anchors"
+  },
+  {
+    "name": "Five Fingers South",
+    "lat": 17.46,
+    "lon": -62.965,
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    },
+    "validated": true,
+    "validation_source": "PADI, lava bombs with macro diving opportunities"
+  },
+  {
+    "name": "The Ledges",
+    "lat": 17.505,
+    "lon": -63.0,
+    "depth": 15,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    },
+    "validated": true,
+    "validation_source": "Golden Rock Resort, STENAPA Marine Park"
   }
 ]

@@ -2,8 +2,8 @@
 name: Rocher du Diamant Cave
 lat: 14.447
 lng: -61.038
-difficulty: Advanced
-maxDepth: 25
+difficulty: Intermediate
+maxDepth: 20
 entryType: boat
 siteType: cave
 ref: null
@@ -17,26 +17,27 @@ Rocher du Diamant Cave is a cave dive site in Martinique, Caribbean.
 
 ## Overview
 
-Rocher du Diamant Cave is a dive site in Martinique featuring underwater cave and cavern formations. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Diamond Rock cavern feature is a deep triangular cave within Rocher du Diamant, one of Martinique's premier cave dives. Located at the iconic volcanic pinnacle, this site combines dramatic geology with accessible cavern diving. The cave is said to contain prolific quantities of beautiful sea fans and corals, though strong currents around the island require respect and experience.
 
 ## Site Information
 
-- **Location**: Martinique, Caribbean
+- **Location**: Rocher du Diamant (Diamond Rock), Martinique
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 25 meters
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
+- **Current**: Strong around the island; use caution
 - **Best Time**: December to April (dry season)
+- **Special Features**: Cathedral-shaped crack/fault, sea fans, soft corals
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+The cavern and surrounding wall structures host prolific sea fans, soft corals, sponges, and anemones. Fish species include sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish, blue tangs, trumpetfish, moray eels, and crustaceans. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in overhangs and crevices.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Enter the cavern feature and explore the dramatic cathedral-shaped formation and sea fan gardens. The cavern entrance is typically around 16-20 meters. Excellent light penetration and comfortable cavern geometry make this accessible to trained cavern divers. Respect the unique geology and avoid disturbing the prolific coral growth. Be aware of strong currents around the rock formation and exit conservatively.
 
 ## Entry and Exit
 

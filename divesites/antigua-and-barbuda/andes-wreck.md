@@ -3,7 +3,7 @@ name: Andes Wreck
 lat: 17.04
 lng: -61.78
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 8
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Andes Wreck
 
-Andes Wreck is a historic wreck dive in Antigua and Barbuda, Caribbean.
+The Andes is a three-masted steel merchant sailing ship that caught fire and sank in 1905, now a popular boat wreck dive off Antigua's south coast.
 
 ## Overview
 
-Andes Wreck is a dive site in Antigua and Barbuda featuring the wreck of the Andes Wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Located in relatively shallow water, the Andes provides an excellent wreck dive for intermediate divers. The wreck is now covered in coral and encrusted with sponges, creating a thriving marine habitat. The site offers good wreck penetration opportunities and excellent fish life, combining historical interest with healthy marine ecosystems.
 
 ## Site Information
 
-- **Location**: Antigua and Barbuda, Caribbean
+- **Location**: Off south coast of Antigua, near English Harbour
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Maximum Depth**: 8 meters
+- **Typical Visibility**: 18-25 meters (60-80 feet)
+- **Current**: Light
+- **Best Time**: December to April (calm conditions)
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, snappers, soldierfish, glassy sweepers, coral growth, sponge encrustation, sea turtles (green, hawksbill), southern stingrays. Additional species commonly sighted include eagle rays, nurse sharks, reef sharks, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The wreck is now prolific with marine life, encrusted with corals and sponges. Fish species include groupers, snappers, parrotfish, and barracuda. Sea turtles are frequently encountered. The abundant coral and sponge growth makes this an excellent site to observe reef recovery and colonization on man-made structures.
 
 ## Dive Profile
 
@@ -44,12 +44,11 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- The wreck is protected under the Marine Areas Act of 1972 — nothing may be removed
+- Good wreck for moderate penetration with proper training
+- Bring a torch to explore darker sections and illuminate the coral growth
+- The historic nature of the wreck adds to the appeal beyond just the marine life
+- Pair with other nearby wreck dives or reef sites in a full day itinerary
 
 ## Safety Considerations
 

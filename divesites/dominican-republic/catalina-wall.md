@@ -2,8 +2,8 @@
 name: Catalina Wall
 lat: 18.22
 lng: -68.95
-difficulty: Advanced
-maxDepth: 30
+difficulty: Intermediate
+maxDepth: 40
 entryType: boat
 siteType: wall
 ref: null
@@ -13,19 +13,20 @@ addedBy: osm_import
 
 ## Catalina Wall
 
-Catalina Wall is a wall dive site in Dominican Republic, Caribbean.
+Catalina Island's famous wall dive features some of the Caribbean's tallest pillar corals, healthy elkhorn stands, and enormous vase sponges. The wall starts at 5 meters depth and drops beyond 40 meters, making it accessible for all experience levels with proper depth management.
 
 ## Overview
 
-Catalina Wall is a dive site in Dominican Republic featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Wall at Catalina Island is considered among the very best wall dives in the Dominican Republic. Divers encounter extensive coral formations including the tallest Caribbean pillar corals alongside healthy elkhorn coral gardens and massive vase sponges. Colorful schools of grunts and creole wrasse surround the coral heads, and seahorses are frequently spotted here. The wall structure creates distinct dive profiles suitable for both newer and experienced divers.
 
 ## Site Information
 
-- **Location**: Dominican Republic, Caribbean
+- **Location**: Catalina Island, near Bayahibe, Dominican Republic
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 40 meters
+- **Top of Wall**: 5 meters (16 feet)
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)

@@ -3,7 +3,7 @@ name: Aquarium
 lat: 16.17
 lng: -61.785
 difficulty: Beginner
-maxDepth: 8
+maxDepth: 6
 entryType: boat
 siteType: reef
 ref: null
@@ -25,7 +25,7 @@ Aquarium is a dive site in Guadeloupe offering excellent diving on healthy coral
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 8 meters
+- **Maximum Depth**: 6 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)

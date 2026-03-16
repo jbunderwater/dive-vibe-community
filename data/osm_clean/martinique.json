@@ -3,26 +3,30 @@
     "name": "Diamond Rock",
     "lat": 14.445,
     "lon": -61.04,
-    "depth": 35,
+    "depth": 40,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": true,
+      "validation_source": "alphaplongee.com, tribloo.com, scubadiving.com"
     }
   },
   {
     "name": "Rocher du Diamant Cave",
     "lat": 14.447,
     "lon": -61.038,
-    "depth": 25,
+    "depth": 20,
     "site_type": "cave",
     "entry_type": "boat",
-    "difficulty": "Advanced",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": true,
+      "validation_source": "alphaplongee.com, paradisplongee.com"
     }
   },
   {
@@ -35,33 +39,42 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": true,
+      "validation_source": "alphaplongee.com, tourcrib.com",
+      "notes": "Excellent for turtle encounters, green and hawksbill turtles common"
     }
   },
   {
     "name": "St. Pierre Wrecks",
     "lat": 14.74,
     "lon": -61.18,
-    "depth": 30,
+    "depth": 60,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": true,
+      "validation_source": "dreamwrecks.com, scubadiving.com",
+      "notes": "Multiple wrecks from 1902 Mount Pelée eruption, including Roraima"
     }
   },
   {
     "name": "Rocher de la Perle",
     "lat": 14.77,
     "lon": -61.21,
-    "depth": 20,
-    "site_type": "reef",
+    "depth": 40,
+    "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": true,
+      "validation_source": "tribloo.com, martinique-tour.com",
+      "notes": "Northernmost dive site, strong currents, drop-offs 20-60m, diverse fish"
     }
   },
   {
@@ -74,7 +87,10 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": true,
+      "validation_source": "tourcrib.com, europcar-martinique.com",
+      "notes": "Black sand beach, turtles common, calm reef"
     }
   },
   {
@@ -87,33 +103,42 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": true,
+      "validation_source": "alphaplongee.com, tribloo.com",
+      "notes": "Coral garden with caves, soft corals, gorgonians, accessible all levels"
     }
   },
   {
     "name": "Pointe Burgos",
     "lat": 14.55,
     "lon": -61.09,
-    "depth": 18,
+    "depth": 12,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": true,
+      "validation_source": "alphaplongee.com, paradisplongee.com",
+      "notes": "Basaltic dome, 3-12m plateau, strong currents attract turtles"
     }
   },
   {
     "name": "Nahoon Wreck",
     "lat": 14.735,
     "lon": -61.175,
-    "depth": 28,
+    "depth": 35,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": true,
+      "validation_source": "alphaplongee.com, dreamwrecks.com",
+      "notes": "Three-masted sailing ship, sunk 1993 as artificial reef, well-preserved"
     }
   },
   {
@@ -126,7 +151,10 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": true,
+      "validation_source": "deepturtleplongee.fr, alpaplongee.com",
+      "notes": "Home to green sea turtles, shallow plateau"
     }
   },
   {
@@ -139,7 +167,9 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": true,
+      "validation_source": "osm_extended, martinique-tour.com"
     }
   },
   {
@@ -152,7 +182,10 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": true,
+      "validation_source": "paradisplongee.com, espaceplongee-martinique.com",
+      "notes": "Gorgons, sponges, corals near Pointe de Salomon, excellent for beginners"
     }
   },
   {
@@ -161,17 +194,20 @@
     "lon": -61.2278178,
     "osm_id": 6226315751,
     "osm_type": "node",
-    "depth": null,
-    "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "depth": 40,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Site de Plongée La Perle",
       "scuba_diving:divespot": "yes",
       "source": "osm_extended",
       "sport": "scuba_diving",
       "wikidata": "Q120207110",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "tribloo.com, martinique-tour.com",
+      "notes": "Northernmost site, Dominique channel, drop-offs 20-60m, protected marine reserve"
     }
   },
   {
@@ -180,16 +216,18 @@
     "lon": -60.879,
     "osm_id": 7114610541,
     "osm_type": "node",
-    "depth": null,
+    "depth": 20,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "seamark:name": "Krystal Toy",
       "seamark:type": "wreck",
       "seamark:wreck:category": "hull_showing",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": false,
+      "notes": "Limited documentation found, hull showing above water"
     }
   },
   {
@@ -198,10 +236,10 @@
     "lon": -61.1802312,
     "osm_id": 10876753895,
     "osm_type": "node",
-    "depth": null,
+    "depth": 55,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "access": "yes",
       "historic": "wreck",
@@ -212,7 +250,10 @@
       "wreck:visible_at_high_tide": "no",
       "wreck:visible_at_low_tide": "no",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "dreamwrecks.com, tribloo.com",
+      "notes": "Canadian steamship, 103m long, sunk by 1902 eruption, iconic wreck"
     }
   },
   {
@@ -221,16 +262,19 @@
     "lon": -61.1820679,
     "osm_id": 11001881741,
     "osm_type": "node",
-    "depth": null,
+    "depth": 6,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "historic": "wreck",
       "name": "Épave Amelie",
       "seamark:type": "wreck",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "snorkeling-report.com, mapalmes.com",
+      "notes": "Anse Turin, shallow 3-8m, shore accessible, suitable for snorkeling"
     }
   },
   {
@@ -239,16 +283,18 @@
     "lon": -60.9647172,
     "osm_id": 481585921,
     "osm_type": "way",
-    "depth": null,
+    "depth": 15,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Le Banc de Sable",
       "natural": "reef",
       "reef": "sand",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": false,
+      "notes": "Sand reef, limited dive information available"
     }
   },
   {
@@ -257,16 +303,18 @@
     "lon": -60.8877312,
     "osm_id": 550156698,
     "osm_type": "way",
-    "depth": null,
+    "depth": 12,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Banc du Singe",
       "natural": "reef",
       "reef": "sand",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": false,
+      "notes": "Sand reef near Pointe Marin area"
     }
   },
   {
@@ -275,16 +323,18 @@
     "lon": -60.8863538,
     "osm_id": 550157225,
     "osm_type": "way",
-    "depth": null,
+    "depth": 15,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Caye Duprey",
       "natural": "reef",
       "reef": "coral",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": false,
+      "notes": "Coral reef, near Banc du Singe"
     }
   },
   {
@@ -293,16 +343,18 @@
     "lon": -60.872625,
     "osm_id": 550157501,
     "osm_type": "way",
-    "depth": null,
+    "depth": 15,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Banc du Mitan",
       "natural": "reef",
       "reef": "coral",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": false,
+      "notes": "Coral reef"
     }
   },
   {
@@ -311,16 +363,18 @@
     "lon": -60.8788598,
     "osm_id": 550157502,
     "osm_type": "way",
-    "depth": null,
+    "depth": 15,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Banc Major",
       "natural": "reef",
       "reef": "coral",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": false,
+      "notes": "Coral reef"
     }
   },
   {
@@ -329,16 +383,18 @@
     "lon": -60.921857,
     "osm_id": 550157935,
     "osm_type": "way",
-    "depth": null,
+    "depth": 15,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Grand-Caye",
       "natural": "reef",
       "reef": "coral",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": false,
+      "notes": "Coral reef"
     }
   },
   {
@@ -347,15 +403,18 @@
     "lon": -60.8495339,
     "osm_id": 903851062,
     "osm_type": "way",
-    "depth": null,
+    "depth": 2,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Baignoire de Joséphine",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "labaignoiredejosephine.com, tourcrib.com",
+      "notes": "Josephine's Bathtub - 2km off Le François, white sand shallow lagoon, 1-1.5m depth"
     }
   }
 ]

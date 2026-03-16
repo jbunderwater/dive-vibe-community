@@ -3,7 +3,7 @@ name: The Ledges
 lat: 17.505
 lng: -63.0
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 15
 entryType: boat
 siteType: wall
 ref: null
@@ -13,26 +13,27 @@ addedBy: osm_import
 
 ## The Ledges
 
-The Ledges is a wall dive site in Sint Eustatius, Caribbean.
+The Ledges is one of Sint Eustatius's wall dive sites offering dramatic vertical reef formations. The site features interesting ledge structures and drop-offs that provide excellent opportunities for both reef ecology observation and pelagic encounters.
 
 ## Overview
 
-The Ledges is a dive site in Sint Eustatius featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Ledges represents the diverse wall and reef formations created by Sint Eustatius's geological heritage. The site features layered rock ledges creating a dramatic vertical ecosystem. Beginning along the reef top at shallow depths, divers descend along the wall, encountering different species and marine communities at varying depths. The site is managed under STENAPA Marine Park protection with strict mooring protocols to prevent anchor damage.
 
 ## Site Information
 
-- **Location**: Sint Eustatius, Caribbean
+- **Location**: Sint Eustatius (Statia), Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Maximum Depth**: 15 meters
+- **Typical Visibility**: 20-30 meters (65-100 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
+- **Protected by**: STENAPA Marine Park
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Sea turtles, southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, and angelfish are common. The wall structure creates a vertical ecosystem with different species at varying depths. Pelagic visitors frequently approach the wall. Moray eels and lobsters hide in wall crevices. Blue tangs and trumpetfish patrol the reef.
 
 ## Dive Profile
 

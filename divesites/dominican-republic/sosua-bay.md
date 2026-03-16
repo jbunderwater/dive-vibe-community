@@ -3,7 +3,7 @@ name: Sosua Bay
 lat: 19.76
 lng: -70.51
 difficulty: Beginner
-maxDepth: 16
+maxDepth: 20
 entryType: shore
 siteType: reef
 ref: null
@@ -13,22 +13,22 @@ addedBy: osm_import
 
 ## Sosua Bay
 
-Sosua Bay is a reef dive site in Dominican Republic, Caribbean.
+Sosua Bay offers a unique Atlantic diving experience with shallow coral reefs accessible from shore. The bay features minimal current, great visibility, and tropical fish species. It's accessible for all certification levels, making it ideal for newer divers to gain experience in calm, protected waters.
 
 ## Overview
 
-Sosua Bay is a dive site in Dominican Republic offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Sosua is famous for beginner-friendly diving with excellent year-round conditions. The bay offers a variety of underwater landscapes from shallow reefs to deeper walls outside the confines of the bay. The shallow coral gardens feature numerous fish species, colorful corals, and occasionally seahorses. The protected western side provides calm waters while the eastern side offers stronger currents for more experienced divers. Sosua Bay remains one of the most accessible and consistent dive destinations on the island.
 
 ## Site Information
 
-- **Location**: Dominican Republic, Caribbean
+- **Location**: Puerto Plata Province, Sosua, Dominican Republic
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 16 meters
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Current**: Minimal in bay
+- **Best Time**: Year-round (water temperature averages 27°C/82°F)
 
 ## Marine Life
 

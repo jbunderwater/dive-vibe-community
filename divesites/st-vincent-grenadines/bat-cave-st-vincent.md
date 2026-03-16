@@ -2,8 +2,8 @@
 name: Bat Cave (St. Vincent)
 lat: 13.2
 lng: -61.22
-difficulty: Intermediate
-maxDepth: 15
+difficulty: Advanced
+maxDepth: 10
 entryType: boat
 siteType: cave
 ref: null
@@ -13,19 +13,19 @@ addedBy: osm_import
 
 ## Bat Cave (St. Vincent)
 
-Bat Cave (St. Vincent) is a cave dive site in St. Vincent and the Grenadines, Caribbean.
+Bat Cave is one of the most challenging and thrilling cave dive sites in St. Vincent and the Grenadines, Caribbean.
 
 ## Overview
 
-Bat Cave (St. Vincent) is a dive site in St. Vincent and the Grenadines featuring underwater cave and cavern formations. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Bat Cave is a unique and demanding dive site featuring a fissure in the reef that leads to a shallow rocky passageway, which in turn enters a cave chamber inside the cliff face. The cave is home to a colony of bats isolated above the water, which emerge through fissures above the diving area. A narrow surge-prone gap (approximately 4 feet wide) with brilliant blue light at the end marks the cave entrance. This is not a beginner cave dive—it requires excellent buoyancy control, cave diving experience, and comfort with surge and confined spaces. The site is challenging but highly rewarding for experienced divers seeking a unique Caribbean cave diving experience.
 
 ## Site Information
 
 - **Location**: St. Vincent and the Grenadines, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 15 meters
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 10 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)

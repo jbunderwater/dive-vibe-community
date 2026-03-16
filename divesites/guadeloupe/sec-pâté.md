@@ -3,9 +3,9 @@ name: Sec Pâté
 lat: 16.15
 lng: -61.8
 difficulty: Advanced
-maxDepth: 30
+maxDepth: 40
 entryType: boat
-siteType: reef
+siteType: pinnacle
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,30 +13,28 @@ addedBy: osm_import
 
 ## Sec Pâté
 
-Sec Pâté is a reef dive site in Guadeloupe, Caribbean.
+Sec Pâté is one of the most legendary and sought-after dive sites in the Lesser Antilles, renowned for its phenomenal marine life and challenging deep-water conditions.
 
 ## Overview
 
-Sec Pâté is a dive site in Guadeloupe offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Located between Les Saintes archipelago and Basse-Terre, Sec Pâté is a dramatic offshore pinnacle that rises from depths exceeding 300 meters to shallow waters starting at just 15 meters. This creates an incredibly rich feeding ground attracting pelagic fish, large groupers, and tuna schools. The site is famous for powerful currents and excellent visibility, but is only suitable for experienced deep divers.
 
 ## Site Information
 
-- **Location**: Guadeloupe, Caribbean
+- **Location**: Between Les Saintes and Basse-Terre, Guadeloupe
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
+- **Maximum Depth**: 40 meters
+- **Average Recreational Depth**: 35-40 meters
+- **Typical Visibility**: 30-50+ meters
+- **Current**: Strong - 1 to 4 knots
 - **Best Time**: December to April (dry season)
-
-## Marine Life
-
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+- **Certification Required**: Level 2/PE40 CMAS or Advanced Open Water + Deep specialty
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Sec Pâté begins at 15 meters and extends far deeper. Recreational diving occurs on the pinnacle top and slopes between 15-40 meters. Expect pumping currents and thriving coral gardens covered in colorful sponges. The site teems with angelfish, ocean triggerfish, moray eels, and lobsters. Schools of fish shoal around the reef. Visibility is typically excellent, often exceeding 40 meters.
 
 ## Entry and Exit
 

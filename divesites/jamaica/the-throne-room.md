@@ -3,7 +3,7 @@ name: The Throne Room
 lat: 18.365
 lng: -78.355
 difficulty: Advanced
-maxDepth: 25
+maxDepth: 21
 entryType: boat
 siteType: cave
 ref: null
@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## The Throne Room
 
-The Throne Room is a cave dive site in Jamaica, Caribbean.
+The Throne Room is Negril's most iconic cavern dive site, offering spectacular cathedral-like chambers accessible only to experienced divers with proper training.
 
 ## Overview
 
-The Throne Room is a dive site in Jamaica featuring underwater cave and cavern formations. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Throne Room stands as Negril's premier cavern diving destination, featuring large underwater chambers and cathedral-like formations best explored with cavern diving certification. Located near Negril's main wall system, this site requires divers to carefully navigate through chambers filled with soft corals, ledges, and overhangs. Visibility is typically excellent (65-130 feet), and the depth ranges from 12 to 21 meters (40-70 feet), making it a challenging but rewarding dive for advanced divers.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ The Throne Room is a dive site in Jamaica featuring underwater cave and cavern f
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 21 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)

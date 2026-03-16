@@ -3,7 +3,7 @@ name: Nahoon Wreck
 lat: 14.735
 lng: -61.175
 difficulty: Advanced
-maxDepth: 28
+maxDepth: 35
 entryType: boat
 siteType: wreck
 ref: null
@@ -17,26 +17,27 @@ Nahoon Wreck is a historic wreck dive in Martinique, Caribbean.
 
 ## Overview
 
-Nahoon Wreck is a dive site in Martinique featuring the wreck of the Nahoon Wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Nahoon is a three-masted sailing ship that lies flat on a sandy bottom at 35 meters depth off Anse Dufour in Les Anses d'Arlet. Built in Royan, France in 1911, the vessel was intentionally sunk in 1993 by local dive centers and the Regional Tourism Committee to create an artificial reef. Today it stands as one of the Caribbean's most celebrated wreck dives, with the ship still well-preserved and extensively colonized by marine life.
 
 ## Site Information
 
-- **Location**: Martinique, Caribbean
+- **Location**: Les Anses d'Arlet, Martinique (off Anse Dufour)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 28 meters
+- **Maximum Depth**: 35 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
+- **Wreck Orientation**: Lying flat on sandy bottom
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, snappers, soldierfish, glassy sweepers, coral growth, sponge encrustation, sea turtles (green, hawksbill), southern stingrays. Additional species commonly sighted include eagle rays, nurse sharks, reef sharks, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The wreck serves as a thriving artificial reef, heavily colonized with hard and soft corals, sponges, and anemones. Divers encounter diverse fish species including groupers, snappers, soldierfish, glassy sweepers, and tropical reef fish. Sea turtles (green and hawksbill), southern stingrays, eagle rays, and sharks are frequently observed. The wreck structure provides numerous cavities and crevices rich with crustaceans and other marine invertebrates.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 28 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend to the sandy bottom at 35 meters and explore the ship's well-preserved structures. Visit the deck, holds, and cabins which are still recognizable and accessible. The spacious interior and abundant natural light make this an ideal wreck for experienced divers. Explore the exterior hull features and observe the extensive coral and sponge growth. Monitor your air supply carefully at this depth and plan your ascent with adequate reserve for a safety stop.
 
 ## Entry and Exit
 

@@ -3,7 +3,7 @@ name: Diamond Rock
 lat: 14.445
 lng: -61.04
 difficulty: Advanced
-maxDepth: 35
+maxDepth: 40
 entryType: boat
 siteType: wall
 ref: null
@@ -17,26 +17,27 @@ Diamond Rock is a wall dive site in Martinique, Caribbean.
 
 ## Overview
 
-Diamond Rock is a dive site in Martinique featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Rocher du Diamant (Diamond Rock) is one of Martinique's premier diving destinations, featuring a dramatic volcanic pinnacle that rises 175 meters from the sea. This immense rock formation towers 5 kilometers off the coast and offers multiple diving circuits from 0-60 meters, making it suitable for divers of varying experience levels.
 
 ## Site Information
 
-- **Location**: Martinique, Caribbean
+- **Location**: Martinique, Caribbean (5km off coast)
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 35 meters
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
+- **Current**: Light to moderate, can be strong around the island
 - **Best Time**: December to April (dry season)
+- **Notable Features**: Cathedral-shaped crack/fault piercing the island at 16m depth, sheltered cove for beginners on north side
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+The site hosts prolific marine life including sea turtles (green, hawksbill), Spanish mackerels, moray eels, lobsters (crawfish), shrimp, and crabs hidden in crevices. The water teems with tropical reef fish, gorgonian fans, soft corals, sponges, and anemones. The volcanic rock structure provides shelter for diverse species at varying depths.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-35 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+For Level 1 divers, a sheltered cove on the north side offers a gentle introduction. An alternative circuit follows the base of the diamond on a plateau between 15-20 meters that passes through the famous fault. For experienced divers, a breathtaking drop-off descends to 40 meters along the rock face. The dramatic cathedral-shaped crack/fault starts around 16 meters and pierces completely through the island—a unique geological feature. Careful depth management is essential on the deeper circuits.
 
 ## Entry and Exit
 

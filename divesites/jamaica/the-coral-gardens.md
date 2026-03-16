@@ -3,7 +3,7 @@ name: The Coral Gardens
 lat: 18.49
 lng: -77.92
 difficulty: Beginner
-maxDepth: 8
+maxDepth: 12
 entryType: boat
 siteType: reef
 ref: null
@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## The Coral Gardens
 
-The Coral Gardens is a reef dive site in Jamaica, Caribbean.
+The Coral Gardens is a shallow, beginner-friendly reef site in Montego Bay featuring spectacular coral formations and abundant tropical fish ideal for newcomers to diving.
 
 ## Overview
 
-The Coral Gardens is a dive site in Jamaica offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Coral Gardens showcase Montego Bay's most pristine shallow coral formations, with brain coral, sea fans, and barrel sponges creating a vibrant underwater garden. This ultra-shallow site (8-12 meters) is one of Jamaica's safest introductory dives, with calm conditions, excellent light penetration, and minimal current. The site is perfect for training dives, certification courses, and snorkeling transitions, offering colorful reef fish including parrotfish, angelfish, and trumpetfish at depths suitable for extended bottom time and photography.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ The Coral Gardens is a dive site in Jamaica offering excellent diving on healthy
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 8 meters
+- **Maximum Depth**: 12 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)

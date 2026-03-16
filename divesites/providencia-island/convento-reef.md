@@ -17,7 +17,7 @@ Convento Reef is a reef dive site in Providencia Island, Caribbean.
 
 ## Overview
 
-Convento Reef is a dive site in Providencia Island offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Convento Reef is a shallow beginner-friendly reef site featuring healthy coral structures typical of Providencia's pristine barrier reef ecosystem. The site offers gentle diving conditions suitable for newer divers and snorkelers exploring the UNESCO Seaflower Biosphere Reserve.
 
 ## Site Information
 

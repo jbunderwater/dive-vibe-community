@@ -17,7 +17,7 @@ Crab Cay Reef is a reef dive site in Providencia Island, Caribbean.
 
 ## Overview
 
-Crab Cay Reef is a dive site in Providencia Island offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Crab Cay Reef is a shallow snorkel and dive site surrounding a scenic cay that's part of Old Providence McBean Lagoon National Park. The site features crystal-clear waters and vibrant coral reefs, with an explosion of colorful marine life in natural pools near the reef structure.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Crab Cay Reef is a dive site in Providencia Island offering excellent diving on 
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+An explosion of colorful, tranquil marine life including barracudas, clownfish, surgeon fish, parrotfish, and red snapper. The natural pools near the reef structure attract schooling fish and provide excellent opportunities for observing reef fauna in shallow water.
 
 ## Dive Profile
 

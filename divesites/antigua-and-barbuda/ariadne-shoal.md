@@ -3,7 +3,7 @@ name: Ariadne Shoal
 lat: 17.05
 lng: -61.79
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 15
 entryType: boat
 siteType: reef
 ref: null
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Ariadne Shoal
 
-Ariadne Shoal is a reef dive site in Antigua and Barbuda, Caribbean.
+Ariadne Shoal is an offshore reef system 7 miles (11 km) west of Antigua's main coast, known for exceptional pelagic fish sightings and larger marine life than typical island reefs.
 
 ## Overview
 
-Ariadne Shoal is a dive site in Antigua and Barbuda offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Accessible after a 50-minute boat ride from St. John's, this offshore shoal rewards adventurous divers with excellent fish life, healthy corals, and good opportunities to see larger pelagic species and sharks. The site has minimal boat traffic and pristine diving conditions.
 
 ## Site Information
 
-- **Location**: Antigua and Barbuda, Caribbean
+- **Location**: 7 miles west of Antigua (50 minutes by boat from St. John's)
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Maximum Depth**: 15 meters
+- **Typical Visibility**: 20-30 meters (65-100 feet)
+- **Current**: Minimal to light
+- **Best Time**: December to April (calm seas essential)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+A lively area with larger fish than typical Antigua sites. Turtles, nurse sharks, and blacktip reef sharks are common residents. Large schools of grunts and snappers congregate here. Barracuda and other pelagic species are frequently encountered, making this an excellent site for photographing bigger fauna.
 
 ## Dive Profile
 
@@ -44,10 +44,11 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Requires a dedicated boat trip; arrange with operators specializing in offshore dives
+- Named sites at the shoal include Ming's Bank, The Cave, Grunts, and Zurich Train Station
+- Excellent for pelagic and larger fish photography
+- Weather-dependent — seas must be calm for comfortable crossing
+- Generally less crowded than closer island sites — expect excellent fish encounters
 
 ## Safety Considerations
 

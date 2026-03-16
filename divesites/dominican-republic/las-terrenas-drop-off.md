@@ -2,8 +2,8 @@
 name: Las Terrenas Drop-Off
 lat: 19.32
 lng: -69.53
-difficulty: Advanced
-maxDepth: 35
+difficulty: Intermediate
+maxDepth: 30
 entryType: boat
 siteType: wall
 ref: null
@@ -13,22 +13,23 @@ addedBy: osm_import
 
 ## Las Terrenas Drop-Off
 
-Las Terrenas Drop-Off is a wall dive site in Dominican Republic, Caribbean.
+Las Terrenas offers dramatic wall and canyon diving on the Samaná Peninsula's northern coast. The Tibisi wall and famous Tower (Piedra Bonita) feature walls starting at 6 meters and dropping beyond 30 meters. La Farola wall reaches 25 meters with depths of 12-20 meters. Excellent coral and diverse marine life make this a scenic intermediate dive.
 
 ## Overview
 
-Las Terrenas Drop-Off is a dive site in Dominican Republic featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Las Terrenas provides more secluded diving with excellent coral conditions and abundant soft corals and marine diversity. The area features canyons, caverns, coral reefs, and dramatic walls. Walls such as La Farola and Tibisi offer excellent opportunities for intermediate divers to explore vertical geography. The Ballenas dive site is noted for dramatic coral structures and abundant marine life. Best conditions occur May to September with stable water.
 
 ## Site Information
 
-- **Location**: Dominican Republic, Caribbean
+- **Location**: Las Terrenas, Samaná Province, Dominican Republic
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 35 meters
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 30 meters
+- **Top of Wall**: 6 meters (20 feet)
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Best Time**: May to September (stable conditions)
 
 ## Marine Life
 

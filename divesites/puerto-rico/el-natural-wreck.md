@@ -2,10 +2,10 @@
 name: El Natural Wreck
 lat: 18.4
 lng: -67.2
-difficulty: Advanced
-maxDepth: 28
-entryType: boat
-siteType: wreck
+difficulty: Beginner
+maxDepth: 24
+entryType: shore
+siteType: reef
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## El Natural Wreck
 
-El Natural Wreck is a historic wreck dive in Puerto Rico, Caribbean.
+El Natural, also known as "Gas Chamber," is a shore-accessible artificial reef site in Aguadilla featuring a main pier with two square free-standing piers and collapsed submerged structures. The site has become a popular beginner and intermediate dive destination with excellent access and diverse underwater features.
 
 ## Overview
 
-El Natural Wreck is a dive site in Puerto Rico featuring the wreck of the El Natural Wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+El Natural features submerged pier pilings and structures covered in coral and colonized by fish communities. The site's main attractions are the pier structures creating swimthroughs, overhangs, and interesting three-dimensional navigation. Water depth varies from the shallower pier areas to 24+ meters in the deeper sections beyond the structures. The site is popular for its accessibility, moderate depths for skill building, and abundance of marine life attracted to the artificial structures.
 
 ## Site Information
 
-- **Location**: Puerto Rico, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 28 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Location**: Aguadilla, West Coast Puerto Rico (Route 107)
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 24 meters
+- **Typical Visibility**: 15-25 meters (50-80 feet)
 - **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Best Time**: Year-round diving
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, snappers, soldierfish, glassy sweepers, coral growth, sponge encrustation, sea turtles (green, hawksbill), southern stingrays. Additional species commonly sighted include eagle rays, nurse sharks, reef sharks, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The pier structures attract dense fish congregations including sergeants, tangs, angelfish, butterflyfish, filefish, trunkfish, goatfish, wrasses, snappers, and damselfish. The site is particularly noted for abundant moray eels living among the pier pilings. Occasional visitors include sea turtles, porkfish, flying gurnards, squid, and octopus. Trumpetfish and seahorses are sometimes spotted among the structure. The concentrated marine life around the pilings makes this an excellent site for observation and photography.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 28 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Enter from the beach and navigate to the pier structures. The site is best explored by working around the main pier's pilings and free-standing structures, examining the marine growth and fauna in 6-15 meters. The collapsed section provides more advanced navigational challenges with overhangs and swimthroughs. Divers can extend deeper to 20-24 meters in the open water beyond the structures if experience allows. The site's multiple features allow flexibility in dive planning based on skill level and interests.
 
 ## Entry and Exit
 

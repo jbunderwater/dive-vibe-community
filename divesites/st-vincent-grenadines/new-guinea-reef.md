@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## New Guinea Reef
 
-New Guinea Reef is a reef dive site in St. Vincent and the Grenadines, Caribbean.
+New Guinea Reef is a shallow coral reef dive site in the Bequia area of St. Vincent and the Grenadines, Caribbean.
 
 ## Overview
 
-New Guinea Reef is a dive site in St. Vincent and the Grenadines offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+New Guinea Reef offers excellent diving on healthy coral reef structures in shallow, beginner-friendly depths. This calm, accessible site provides calm conditions and easy navigation ideal for newer divers or those looking for a relaxing reef dive. Typical Caribbean reef fish, corals, and invertebrates populate the area, making this a suitable location for reef exploration at all experience levels.
 
 ## Site Information
 

@@ -3,7 +3,7 @@ name: Steps (Tres Palmas)
 lat: 18.35
 lng: -67.27
 difficulty: Beginner
-maxDepth: 15
+maxDepth: 10
 entryType: shore
 siteType: reef
 ref: null
@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Steps (Tres Palmas)
 
-Steps (Tres Palmas) is a reef dive site in Puerto Rico, Caribbean.
+Steps Beach, locally known as "Escalera" (Spanish for steps), is part of the Tres Palmas Marine Reserve in Rincón. The site features a unique natural reef formation accessed by descending steps that rapidly drop from ankle-deep water to deeper dive depths. The reserve protects the largest and healthiest elkhorn coral (acropora palmata) in the Caribbean.
 
 ## Overview
 
-Steps (Tres Palmas) is a dive site in Puerto Rico offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Steps Beach offers exceptional snorkeling and shallow reef diving within a protected marine reserve. The reef begins just offshore and features dramatic depth changes—water depth goes from 4 feet at the entry point to 10+ feet within a few steps. The site is renowned for massive healthy coral formations, particularly the rare and critically endangered elkhorn coral. Best diving conditions occur May through October during calmer summer months.
 
 ## Site Information
 
-- **Location**: Puerto Rico, Caribbean
+- **Location**: Rincón, West Coast Puerto Rico (Road 413, kilometer 1.7)
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Maximum Depth**: 10 meters
+- **Typical Visibility**: 10-20 meters (33-65 feet)
+- **Current**: Powerful rip currents present—important safety consideration
+- **Best Time**: May to October (calmer summer waters)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The reef hosts parrotfish, angelfish, butterflyfish, damselfish, wrasses, and surgeonfish. Occasional visitors include sea turtles, eagle rays, and southern stingrays. The site is particularly noted for its large school of tropical fish and the dominant elkhorn coral formations that provide habitat for many reef-dwelling species. Macro life includes moray eels, lobsters, and various nudibranchs on the healthy coral structures.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Enter from Steps Beach and descend the natural sandy area adjacent to the reef. The depth increases rapidly from 4 feet to 10+ feet. Most diving occurs in 3-10 meters where coral formations are abundant. The healthy elkhorn coral creates natural swimthroughs and overhangs at these shallow depths. Strong rip currents can develop, so monitor your position carefully and stay within sight of your dive buddy. Drift diving techniques may be employed by experienced divers comfortable managing the current.
 
 ## Entry and Exit
 

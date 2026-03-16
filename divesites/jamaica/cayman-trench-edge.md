@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Cayman Trench Edge
 
-Cayman Trench Edge is a wall dive site in Jamaica, Caribbean.
+Cayman Trench Edge is a deep wall dive along Negril's north coast where the massive Cayman Trench lies just offshore, feeding nutrient-rich currents that support abundant marine life.
 
 ## Overview
 
-Cayman Trench Edge is a dive site in Jamaica featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Cayman Trench Edge represents one of the Caribbean's most dramatic geological features, with the world's deepest submarine trench passing just offshore of Jamaica's north coast. At the edge, divers experience an exceptional wall dive with strong nutrient upwelling that supports vibrant coral and marine life. The site is characterized by excellent visibility (65-130 feet), moderate to strong currents, and pelagic fish encounters. As a boundary zone between shallow reefs and the deep trench, this site attracts larger species including reef sharks and barracudas.
 
 ## Site Information
 

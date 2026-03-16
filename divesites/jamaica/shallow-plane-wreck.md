@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Shallow Plane Wreck
 
-Shallow Plane Wreck is a historic wreck dive in Jamaica, Caribbean.
+Shallow Plane Wreck is Montego Bay's famous beginner-friendly aircraft wreck, with the fuselage accessible at minimal depth ideal for newer divers and strong photography opportunities.
 
 ## Overview
 
-Shallow Plane Wreck is a dive site in Jamaica featuring the wreck of the Shallow Plane Wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Shallow Plane Wreck is one of Jamaica's most iconic beginner wreck dives, featuring an aircraft fuselage resting at just 10 meters (32 feet) depth. The recognizable outline of wings and fuselage body allows divers to swim through accessible sections while remaining comfortable at shallow depths with extended bottom time. The wreck is now an artificial reef supporting abundant marine life including groupers, snappers, rays, and schooling fish. Excellent water clarity and minimal current make this an ideal introduction to wreck diving, with no penetration required.
 
 ## Site Information
 

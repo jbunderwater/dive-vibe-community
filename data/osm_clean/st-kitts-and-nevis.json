@@ -3,32 +3,6 @@
     "name": "MV River Taw Wreck",
     "lat": 17.29,
     "lon": -62.72,
-    "depth": 15,
-    "site_type": "wreck",
-    "entry_type": "boat",
-    "difficulty": "Beginner",
-    "tags": {
-      "source": "curated",
-      "addedBy": "fill_caribbean"
-    }
-  },
-  {
-    "name": "Monkey Shoals",
-    "lat": 17.3,
-    "lon": -62.73,
-    "depth": 18,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "source": "curated",
-      "addedBy": "fill_caribbean"
-    }
-  },
-  {
-    "name": "Brassball Wreck",
-    "lat": 17.31,
-    "lon": -62.74,
     "depth": 12,
     "site_type": "wreck",
     "entry_type": "boat",
@@ -36,20 +10,54 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean"
-    }
+    },
+    "validated": true,
+    "validation_source": "Dive Nevis, Pro Divers St Kitts, DiveBuddy"
+  },
+  {
+    "name": "Monkey Shoals",
+    "lat": 17.3,
+    "lon": -62.73,
+    "depth": 34,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    },
+    "validated": true,
+    "validation_source": "Living Oceans Foundation, DiveBuddy, PADI"
+  },
+  {
+    "name": "Brassball Wreck",
+    "lat": 17.31,
+    "lon": -62.74,
+    "depth": 8,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_caribbean"
+    },
+    "validated": true,
+    "validation_source": "My St Kitts Dive Buddy, Pro Divers St Kitts"
   },
   {
     "name": "Coral Garden",
     "lat": 17.28,
     "lon": -62.71,
-    "depth": 10,
+    "depth": 15,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean"
-    }
+    },
+    "validated": true,
+    "validation_source": "My St Kitts Dive Buddy, dive operator sites"
   },
   {
     "name": "Grid Iron",
@@ -62,71 +70,83 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean"
-    }
+    },
+    "validated": false,
+    "validation_source": "Limited public information available"
   },
   {
     "name": "Sandy Point Reef",
     "lat": 17.34,
     "lon": -62.84,
-    "depth": 20,
+    "depth": 40,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean"
-    }
+    },
+    "validated": true,
+    "validation_source": "My St Kitts Dive Buddy, dive operator sites, DiveBuddy"
   },
   {
     "name": "Nag's Head",
     "lat": 17.27,
     "lon": -62.7,
-    "depth": 25,
+    "depth": 24,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean"
-    }
+    },
+    "validated": true,
+    "validation_source": "DiveBuddy, scubaspace.club, dive operator sites"
   },
   {
     "name": "Coconut Tree Reef",
     "lat": 17.36,
     "lon": -62.79,
-    "depth": 14,
+    "depth": 34,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean"
-    }
+    },
+    "validated": true,
+    "validation_source": "Pro Divers St Kitts, dive operator sites"
   },
   {
     "name": "Devil's Caves",
     "lat": 17.13,
     "lon": -62.6,
-    "depth": 20,
+    "depth": 12,
     "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean"
-    }
+    },
+    "validated": true,
+    "validation_source": "dive operator sites (Nevis)"
   },
   {
     "name": "Booby Shoals",
     "lat": 17.16,
     "lon": -62.62,
-    "depth": 16,
+    "depth": 12,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean"
-    }
+    },
+    "validated": true,
+    "validation_source": "My St Kitts Dive Buddy, Caradonna Adventures"
   }
 ]

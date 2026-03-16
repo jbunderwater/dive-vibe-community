@@ -2,8 +2,8 @@
 name: Widowmaker's Cave
 lat: 18.36
 lng: -78.36
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Advanced
+maxDepth: 25
 entryType: boat
 siteType: cave
 ref: null
@@ -13,19 +13,19 @@ addedBy: osm_import
 
 ## Widowmaker's Cave
 
-Widowmaker's Cave is a cave dive site in Jamaica, Caribbean.
+Widowmaker's Cave is the most famous cavern dive in Montego Bay, Jamaica, offering two distinct entry options and dramatic black coral-covered passages.
 
 ## Overview
 
-Widowmaker's Cave is a dive site in Jamaica featuring underwater cave and cavern formations. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Widowmaker's Cave is Montego Bay's premier cave diving destination, featuring deep cavern formations accessible from two starting points. Divers can enter from the reef top opening at 10-11 meters (35 feet) or descend directly to the bottom entrance near 24 meters (80 feet), creating flexibility for varying experience levels. The cave is covered in black soft corals, home to parrotfish, barracudas, and other reef species sheltering within the cavern system.
 
 ## Site Information
 
 - **Location**: Jamaica, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)

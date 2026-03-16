@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Arches (Negril)
 
-Arches (Negril) is a cave dive site in Jamaica, Caribbean.
+Arches (Negril) is an intermediate-level cavern dive featuring multiple arch formations and wall explorations, combining cave diving with spectacular Negril wall topography.
 
 ## Overview
 
-Arches (Negril) is a dive site in Jamaica featuring underwater cave and cavern formations. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Arches represent Negril's unique cavern dive combining multiple arch openings with wall diving characteristics. Divers descend through 12-18 meters (40-60 feet) featuring distinct drop-offs at 12 meters with ledges and overhangs creating the arch formations. The site is suitable for intermediate divers comfortable with basic cavern diving and features excellent visibility, moderate currents, and abundant coral growth. Marine life includes nurse sharks, barracudas, and reef fish sheltering in the cavern overhangs.
 
 ## Site Information
 

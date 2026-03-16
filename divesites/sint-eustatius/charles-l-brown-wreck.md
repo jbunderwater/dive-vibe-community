@@ -2,8 +2,8 @@
 name: Charles L. Brown Wreck
 lat: 17.49
 lng: -62.99
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Advanced
+maxDepth: 29
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,30 +13,31 @@ addedBy: osm_import
 
 ## Charles L. Brown Wreck
 
-Charles L. Brown Wreck is a historic wreck dive in Sint Eustatius, Caribbean.
+The Charles L. Brown is one of the largest and most impressive wrecks in the entire Caribbean. This former cable-laying ship (built in 1954) was intentionally sunk in 2003 to create an artificial reef and diving destination. At 100 meters (327 feet) long, it's a spectacular wreck dive site showcasing Sint Eustatius's maritime heritage.
 
 ## Overview
 
-Charles L. Brown Wreck is a dive site in Sint Eustatius featuring the wreck of the Charles L. Brown Wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Charles L. Brown wreck lies on its side in approximately 29-30 meters of water off the island's southwest coast. The top of the wreck reaches about 20 meters, while the hull extends deeper. The wreck has become completely overgrown with coral and sponges, creating a thriving artificial reef ecosystem. This is the deepest and most challenging dive on Statia, requiring Advanced certification.
 
 ## Site Information
 
-- **Location**: Sint Eustatius, Caribbean
+- **Location**: Sint Eustatius (Statia), Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 29 meters
+- **Wreck Length**: 100 meters (327 feet)
+- **Typical Visibility**: 20-30 meters (65-100 feet)
+- **Current**: Moderate
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, snappers, soldierfish, glassy sweepers, coral growth, sponge encrustation, sea turtles (green, hawksbill), southern stingrays. Additional species commonly sighted include eagle rays, nurse sharks, reef sharks, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The wreck structure provides massive habitat for Caribbean marine life including coral polyps, sponges, groupers, snappers, soldierfish, glassy sweepers, sea turtles, southern stingrays, eagle rays, and nurse sharks. Reef sharks and barracuda patrol the exterior. The wreck's passages and structure create a complex ecosystem supporting both resident species and transient visitors.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 20 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The Charles L. Brown is divided into North and South sections due to its massive length. Descend to the wreck's upper structure (20m) and carefully explore the exterior. The hull extends to 29-30 meters and beyond. Only experienced wreck divers with proper certification should attempt wreck penetration. Plan conservatively given the depth and bottom time required. Maintain excellent buoyancy control and monitor air supply carefully.
 
 ## Entry and Exit
 

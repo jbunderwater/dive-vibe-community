@@ -3,9 +3,9 @@ name: Blue Diamond
 lat: 13.355
 lng: -81.395
 difficulty: Advanced
-maxDepth: 28
+maxDepth: 24
 entryType: boat
-siteType: wall
+siteType: wreck
 ref: null
 osmId: null
 addedBy: osm_import
@@ -17,26 +17,26 @@ Blue Diamond is a wall dive site in Providencia Island, Caribbean.
 
 ## Overview
 
-Blue Diamond is a dive site in Providencia Island featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Blue Diamond is a sunken shipwreck near the coast of Providencia, accessible by boat from local operators. This wreck dive features fish and corals that have colonized the ship's structure over time, creating a unique underwater habitat within Providencia's pristine marine protected area.
 
 ## Site Information
 
 - **Location**: Providencia Island, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 28 meters
+- **Maximum Depth**: 24 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Common sightings include boxfish, pufferfish, parrotfish, moray eel, angelfish (including Queen Angelfish and Blue Angelfish), and numerous reef fish species that have colonized the wreck structure.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-28 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+The wreck is located at shallow depths accessible from the surface. Explore the ship's structure carefully, observing how coral and fish have colonized the wreck. Maintain good buoyancy control to avoid damaging the wreck structure and protective corals. PADI Wreck Diver certification is recommended for detailed wreck penetration.
 
 ## Entry and Exit
 

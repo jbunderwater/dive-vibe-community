@@ -3,8 +3,8 @@ name: Stenapa Reef
 lat: 17.485
 lng: -62.985
 difficulty: Beginner
-maxDepth: 12
-entryType: shore
+maxDepth: 6
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
@@ -13,26 +13,27 @@ addedBy: osm_import
 
 ## Stenapa Reef
 
-Stenapa Reef is a reef dive site in Sint Eustatius, Caribbean.
+Stenapa Reef is managed by the Sint Eustatius National Parks Foundation (STENAPA), which oversees the island's entire marine protection system. The site features an artificial reef created from a sunken barge, offering unique diving opportunities among historical and man-made structures.
 
 ## Overview
 
-Stenapa Reef is a dive site in Sint Eustatius offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Located next to Chien Tong dive site, Stenapa Reef showcases how artificial structures become thriving marine ecosystems. A massive sunken barge's deck is now completely covered in sponges, while a large pipe section from the oil terminal creates additional reef structure. Within sandy spaces between structures, extensive colonies of Garden Eels and numerous Southern Stingrays make their homes. The site is perfect for spotting octopus—look for discarded mollusk and clam shells indicating nearby dens.
 
 ## Site Information
 
-- **Location**: Sint Eustatius, Caribbean
-- **Entry Type**: Shore entry
+- **Location**: Sint Eustatius (Statia), Caribbean
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 12 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
+- **Maximum Depth**: 6 meters
+- **Typical Visibility**: 20-30 meters (65-100 feet)
+- **Current**: Light
 - **Best Time**: December to April (dry season)
+- **Protected by**: STENAPA Marine Park
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Garden Eels abundant in sandy areas, Southern Stingrays common throughout, Octopus sightings likely. Sponges completely cover the barge structure. The site provides excellent opportunities for observing behavioral ecology as creatures adapt to artificial reef habitats.
 
 ## Dive Profile
 

@@ -17,7 +17,7 @@ Punta Juan is a reef dive site in Bocas del Toro, Caribbean.
 
 ## Overview
 
-Punta Juan is a dive site in Bocas del Toro offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Punta Juan is an accessible reef dive suitable for beginner to early intermediate divers. The site features healthy coral and abundant tropical fish in manageable depths. The point formation creates interesting reef topography and provides good opportunities for observing typical Caribbean reef life.
 
 ## Site Information
 

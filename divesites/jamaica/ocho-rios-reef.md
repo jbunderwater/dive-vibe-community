@@ -3,7 +3,7 @@ name: Ocho Rios Reef
 lat: 18.41
 lng: -77.1
 difficulty: Beginner
-maxDepth: 16
+maxDepth: 20
 entryType: boat
 siteType: reef
 ref: null
@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Ocho Rios Reef
 
-Ocho Rios Reef is a reef dive site in Jamaica, Caribbean.
+Ocho Rios Reef is a beginner-friendly coral reef site in Jamaica's northeast with variable depth options, protected shallow reefs, and excellent visibility up to 100 feet.
 
 ## Overview
 
-Ocho Rios Reef is a dive site in Jamaica offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Ocho Rios offers versatile reef diving with depths ranging from 10 to 40 meters (32-131 feet), allowing divers to choose shallow protected reefs or deeper wall explorations. The site features healthy coral formations, abundant reef fish, turtles, and occasional rays. Beginner divers can stay in the shallow protected sections (10-15 meters), while more experienced divers can explore deeper areas with magnificent drop-offs. The north shore location provides generally calm conditions with minimal current, making it suitable for various experience levels within a single dive site.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ Ocho Rios Reef is a dive site in Jamaica offering excellent diving on healthy co
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 16 meters
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)

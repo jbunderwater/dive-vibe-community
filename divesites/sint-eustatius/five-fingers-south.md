@@ -2,8 +2,8 @@
 name: Five Fingers South
 lat: 17.46
 lng: -62.965
-difficulty: Advanced
-maxDepth: 25
+difficulty: Intermediate
+maxDepth: 20
 entryType: boat
 siteType: reef
 ref: null
@@ -13,26 +13,27 @@ addedBy: osm_import
 
 ## Five Fingers South
 
-Five Fingers South is a reef dive site in Sint Eustatius, Caribbean.
+Five Fingers is named after huge coral-covered lava bombs—the result of violent underwater eruptions from the Quill volcano. These distinctive lava fingers and bombs create a stark visual contrast with surrounding white sand fields, forming a unique landscape both shallow enough for beginners and deep enough to fascinate experienced divers.
 
 ## Overview
 
-Five Fingers South is a dive site in Sint Eustatius offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+A perfect dive site for all levels, Five Fingers offers shallow depth (suitable for beginners) but features complex geology that appeals to experienced divers. The lava formations create numerous micro-habitats supporting macro life. Pike bennies, orange-sided gobies, and decorated neck crabs are the main characters for macro photographers. The site is part of Sint Eustatius's officially managed marine park, protected by mooring systems to save the reef from anchor damage.
 
 ## Site Information
 
-- **Location**: Sint Eustatius, Caribbean
+- **Location**: Sint Eustatius (Statia), Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 20 meters
+- **Typical Visibility**: 20-30 meters (65-100 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
+- **Protected by**: STENAPA Marine Park mooring
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Macro specialists will find pike bennies, orange-sided gobies, and decorated neck crabs. The lava formations create shelter for diverse fish species. Sharks, dolphins, whales, and turtles occasionally visit. The contrast between lava structures and white sand creates diverse habitats supporting varied marine communities.
 
 ## Dive Profile
 

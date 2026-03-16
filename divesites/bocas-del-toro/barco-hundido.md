@@ -3,7 +3,7 @@ name: Barco Hundido
 lat: 9.3308072
 lng: -82.2224984
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 17
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,40 +13,42 @@ addedBy: osm_import
 
 ## Barco Hundido
 
-Barco Hundido is a reef dive site in Bocas del Toro, Caribbean.
+Barco Hundido is a sunken ferryboat wreck dive site in Bocas del Toro, Caribbean. The boat has been underwater since 1997.
 
 ## Overview
 
-Barco Hundido is a dive site in Bocas del Toro offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Barco Hundido (Spanish for "sunken boat") is a submerged ferryboat that has served as an artificial reef for nearly three decades. The wreck is easily accessible in clear water in front of the popular Barco Hundido Bar on Isla Colon. The structure is fully colonized by marine life with excellent visibility and manageable depths for intermediate divers. Divers can swim under and around the vessel structure in the clear Caribbean water.
 
 ## Site Information
 
-- **Location**: Bocas del Toro, Caribbean
+- **Location**: Off Isla Colon, Bocas del Toro, Caribbean (in front of Barco Hundido Bar)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Maximum Depth**: 17 meters
+- **Typical Visibility**: Excellent (clear water)
+- **Current**: Minimal
+- **Best Time**: Year-round (accessible all seasons)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The wreck structure hosts colonizing corals and sponges with associated reef fauna. Schools of fish including snappers, grunts, and jacks have made the wreck their home. Nurse sharks may be encountered. The artificial reef ecosystem is thriving with typical Caribbean reef species adapted to sheltering in the wreck structure.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The ferryboat wreck is accessible from boat entry with excellent visibility. The wreck structure sits in shallow to moderate depths with the top near the surface. Divers can explore around and under the vessel, observing the marine life that has colonized the structure. Plan 30-40 minutes of bottom time with good air consumption due to moderate depths. The wreck structure itself provides natural navigation and interest.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat entry takes divers directly to the wreck site with excellent visibility and calm conditions typical of the location. Descent to the wreck is straightforward with good site orientation.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Bring an underwater camera — the wreck structure and marine life offer good photography subjects
+- The nearby Barco Hundido Bar makes for convenient pre/post dive meals and drinks
+- Good site for practicing intermediate wreck diving awareness
+- The visibility is typically excellent making this a great photo opportunity
+- Look for fish sheltering in the wreck structure
 
 ## Safety Considerations
 

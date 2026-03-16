@@ -3,7 +3,7 @@ name: Blue Bead Hole
 lat: 17.48
 lng: -62.98
 difficulty: Beginner
-maxDepth: 15
+maxDepth: 10
 entryType: shore
 siteType: reef
 ref: null
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Blue Bead Hole
 
-Blue Bead Hole is a reef dive site in Sint Eustatius, Caribbean.
+Blue Bead Hole is Sint Eustatius's most unique dive site, famous for hand-crafted blue glass beads dating to the 1600s. These historically significant artifacts were produced in the Netherlands and Venice and used as currency for enslaved laborers on the island. Legend has it that after emancipation in 1863, formerly enslaved people threw their beads into the sea to celebrate freedom.
 
 ## Overview
 
-Blue Bead Hole is a dive site in Sint Eustatius offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Located on the southwestern side of Sint Eustatius, Blue Bead Hole features a fairly flat sandy bottom with patches of seagrass, rocks, and corals. It's a haven for macro photography enthusiasts, home to rare species like the Carib blenny. Approximately 100 divers find blue beads here each year—the only artifact allowed to take home from Sint Eustatius dives. Local lore says the bead finds you rather than the other way around!
 
 ## Site Information
 
-- **Location**: Sint Eustatius, Caribbean
+- **Location**: Sint Eustatius (Statia), southwestern coast
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
+- **Maximum Depth**: 10 meters
+- **Typical Visibility**: 20-30 meters (65-100 feet)
+- **Current**: Minimal
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Home to rare Carib blenny and yellow-headed jawfish. Southern stingrays, queen conch, sailfish blenny, and flying gurnards are commonly sighted. Macro lovers will find abundant small critters making this site excellent for detail photography. The sandy bottom with coral patches creates excellent hunting ground for small fish species.
 
 ## Dive Profile
 

@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Stavronikita Wreck
 
-Stavronikita Wreck is a historic wreck dive in Barbados, Caribbean.
+The SS Stavronikita is a legendary 365-foot Greek freighter and one of the Caribbean's most iconic wreck dives, sitting in 40 meters of water off Barbados.
 
 ## Overview
 
-Stavronikita Wreck is a dive site in Barbados featuring the wreck of the Stavronikita Wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The SS Stavronikita is a 111-meter Greek freighter built in Denmark in 1956, originally named the Ohio. The ship caught fire on August 26, 1976, while en route from Ireland to the Caribbean carrying 101,000 bags of cement, resulting in six fatalities. The vessel was deliberately sunk off Barbados and has become one of the region's most visited artificial reefs, encrusted with vibrant marine growth. This is an advanced deep dive requiring extensive experience and proper training for penetration.
 
 ## Site Information
 
-- **Location**: Barbados, Caribbean
+- **Location**: Carlisle Bay, Barbados
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Best Time**: December to April (dry season) - calmest conditions
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, snappers, soldierfish, glassy sweepers, coral growth, sponge encrustation, sea turtles (green, hawksbill), southern stingrays. Additional species commonly sighted include eagle rays, nurse sharks, reef sharks, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The heavily encrusted Stavronikita supports a thriving ecosystem. Common sightings include colorful sponge and coral growth, groupers, snappers, soldierfish, glassy sweepers, sea turtles (green and hawksbill), southern stingrays, and eagle rays. Larger pelagic species including reef sharks and barracuda are occasionally encountered. The wreck's interior passages provide shelter for nocturnal species and serve as a nursery for juvenile fish. Night dives reveal nocturnal species including scorpionfish, octopus, and numerous invertebrates.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 40 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The dive begins with a moored descent to the wreck's superstructure. Most recreational dives explore the exterior decks and accessible corridors at 30-40 meters. The bow section is relatively intact and accessible, while the stern section has suffered more deterioration. The ship's vertical orientation provides excellent wide-angle photography opportunities, but requires strong buoyancy control. Divers must plan for substantial bottom time limits at this depth; most recreational dives allow 10-15 minutes at maximum depth. Ascent includes a mandatory safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -44,16 +44,18 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- This is a bucket-list dive for many advanced recreational divers — book with experienced local operators
+- Bring a dive torch for interior exploration; colored filters reveal vibrant sponge colors
+- Excellent wide-angle photography opportunities; bring neutral density filters for silhouettes against surface
+- Use nitrox (32% or 36%) to extend bottom time safely at this depth
+- Check weather and sea state — rough seas can make boat access difficult
+- Consider a guided dive for your first visit; local knowledge of wreck layout is valuable
+- This dive is NOT suitable for divers approaching their recreational depth limit
+- The interior deteriorates gradually; respect structural hazards and do not over-penetrate
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
+This is a deep dive appropriate only for Advanced certification holders with wreck diving experience. Narcosis becomes significant at 40 meters — plan dives accordingly and monitor buddy response. Watch for silt clouds from bottom-dwelling fish; maintain excellent buoyancy control. Fire coral, sea urchins, and sharp metal edges present hazards. Always dive with a buddy experienced in deep diving, carry a redundant air source for potential emergencies, and deploy a surface marker buoy (SMB). Strong boat captains monitor moored divers closely; coordinate with crew before descent.
 
 ## Photography
 

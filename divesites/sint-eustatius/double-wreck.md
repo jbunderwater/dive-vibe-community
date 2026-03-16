@@ -3,7 +3,7 @@ name: Double Wreck
 lat: 17.495
 lng: -62.992
 difficulty: Intermediate
-maxDepth: 16
+maxDepth: 17
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Double Wreck
 
-Double Wreck is a historic wreck dive in Sint Eustatius, Caribbean.
+Double Wreck showcases two tall-masted merchant ships that sank in the 1700s, now transformed into coral-encrusted patch reefs. The site exemplifies Statia's archaeological diving heritage, where disintegrated wooden vessels have been colonized and cemented together by calcareous corals and sponges, creating distinctive reef structures roughly in the shape of the original ships.
 
 ## Overview
 
-Double Wreck is a dive site in Sint Eustatius featuring the wreck of the Double Wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Located just offshore from Lower Town, Double Wreck features the remains of two 18th-century sailing vessels where only ballast stones remain from the original ships. These stones were quickly colonized and cemented by coral before being overgrown with layers of sponges and coral, creating patch reef formations with unique character. At 55-60 feet (17-18m), the site offers good depth and visibility for exploring these fascinating archaeological sites.
 
 ## Site Information
 
-- **Location**: Sint Eustatius, Caribbean
+- **Location**: Sint Eustatius (Statia), Lower Town area
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 16 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Maximum Depth**: 17 meters
+- **Typical Visibility**: 20-30 meters (65-100 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, snappers, soldierfish, glassy sweepers, coral growth, sponge encrustation, sea turtles (green, hawksbill), southern stingrays. Additional species commonly sighted include eagle rays, nurse sharks, reef sharks, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Spiny lobsters, stingrays, moray eels, and large schools of fish populate the site. Southern stingrays common in the sand. Good probability of turtle sightings. Excellent habitat for smaller critters including seahorses and frogfish. The wreck structure provides crevices for green moray eels and lobsters.
 
 ## Dive Profile
 

@@ -2,8 +2,8 @@
 name: Barbuda Reef
 lat: 17.62
 lng: -61.75
-difficulty: Intermediate
-maxDepth: 18
+difficulty: Beginner
+maxDepth: 15
 entryType: boat
 siteType: reef
 ref: null
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Barbuda Reef
 
-Barbuda Reef is a reef dive site in Antigua and Barbuda, Caribbean.
+Barbuda offers pristine, less-dived alternatives to nearby Antigua's reefs. The island's barrier reef system provides excellent diving with minimal boat traffic and a remote island experience.
 
 ## Overview
 
-Barbuda Reef is a dive site in Antigua and Barbuda offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+While Barbuda has no dedicated dive centers, diving here reveals why it's becoming a favorite destination for divers seeking uncrowded reefs and pristine marine environments. The barrier reef extends along the island's coast with features ranging from shallow reefs (Palmetto Point) to deeper barrier reefs (Palaster Reef). This is an excellent complement to Antigua diving.
 
 ## Site Information
 
-- **Location**: Antigua and Barbuda, Caribbean
+- **Location**: Barbuda island reefs (offshore from main island)
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 15 meters
+- **Typical Visibility**: 20-30 meters (65-100 feet)
+- **Current**: Minimal
+- **Best Time**: December to April (calm seas)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Hard corals including brain coral and starlet coral dominate. Sandy patches between reefs harbor queen conch, tritons trumpet, and southern stingrays. Spotted eagle rays frequent the area. Green turtles are abundant, and hatchlings can be seen seasonally as they make their way to the ocean. The pristine state of the reefs indicates minimal pressure from diving.
 
 ## Dive Profile
 
@@ -44,10 +44,11 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- No dedicated dive centers on Barbuda — arrange dives through Antigua operators or provide your own tanks
+- Tanks available for hire/fill from the fisheries building and local outlets
+- Best explored as a multi-day adventure combining snorkeling and diving
+- Expect minimal boat traffic and pristine reef conditions
+- Excellent for turtle and conch viewing compared to heavily dived Antigua sites
 
 ## Safety Considerations
 

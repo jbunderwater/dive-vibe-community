@@ -17,11 +17,11 @@ Augustin Fresnel Wreck is a historic wreck dive in Guadeloupe, Caribbean.
 
 ## Overview
 
-Augustin Fresnel Wreck is a dive site in Guadeloupe featuring the wreck of the Augustin Fresnel Wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Augustin Fresnel II is one of Guadeloupe's most significant artificial reefs and a popular wreck dive. This 53-meter Canadian lighthouse ship was deliberately sunk in the Cousteau Reserve in 2003 to create an artificial reef. Originally placed at 25 meters depth, Hurricane Dean moved the wreck to its current position at approximately 33 meters in 2007.
 
 ## Site Information
 
-- **Location**: Guadeloupe, Caribbean
+- **Location**: Cousteau Reserve, Guadeloupe
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
@@ -29,14 +29,15 @@ Augustin Fresnel Wreck is a dive site in Guadeloupe featuring the wreck of the A
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
+- **Certification**: CMAS**/AOW minimum
 
-## Marine Life
+## History
 
-Divers at this site can expect to encounter groupers, snappers, soldierfish, glassy sweepers, coral growth, sponge encrustation, sea turtles (green, hawksbill), southern stingrays. Additional species commonly sighted include eagle rays, nurse sharks, reef sharks, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Built as a lighthouse support vessel, the ship served as an auxiliary vessel for buoy maintenance in the Antilles and Guyana from 1990 to 1994. After being damaged by Hurricane Hugo in 1989, it became unsuitable for operation. Rather than scrap the vessel, authorities deliberately sank it in 2003 to create an artificial reef. The wreck was the first deliberately sunk in the area for this purpose, pioneering the artificial reef program in the reserve.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 28 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The dive typically begins with a descent to the top of the wreck structure at approximately 33 meters. The vessel rests on a sandy bottom and is cleaned and safe for diving. Explore the exterior features and structure while monitoring air supply and depth carefully due to the deep profile. The wreck has become heavily colonized with marine growth and sponges. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 

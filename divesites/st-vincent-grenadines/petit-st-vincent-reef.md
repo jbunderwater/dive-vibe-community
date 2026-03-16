@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Petit St. Vincent Reef
 
-Petit St. Vincent Reef is a reef dive site in St. Vincent and the Grenadines, Caribbean.
+Petit St. Vincent Reef is a coral reef dive site off the private island of Petit St. Vincent in St. Vincent and the Grenadines, Caribbean.
 
 ## Overview
 
-Petit St. Vincent Reef is a dive site in St. Vincent and the Grenadines offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Petit St. Vincent Reef features rewarding diving on healthy coral reef structures with typical Caribbean reef ecosystems. The site is easily accessible from the Petit St. Vincent resort, which operates an onsite PADI dive center. The reefs around Petit St. Vincent offer relaxed reef explorations suitable for newer divers along with deeper, more challenging drift dives for experienced divers. Good visibility and calm conditions make this an excellent destination for reef diving and marine life observation in the southern Grenadines.
 
 ## Site Information
 

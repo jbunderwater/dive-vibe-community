@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Cayo Coral
 
-Cayo Coral is a reef dive site in Bocas del Toro, Caribbean.
+Cayo Coral is a shore-entry reef dive site in Bocas del Toro, Caribbean. The site has a restaurant on the beach for convenient access.
 
 ## Overview
 
-Cayo Coral is a dive site in Bocas del Toro offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Cayo Coral is a snorkeler-friendly reef with shore entry, making it accessible to non-divers. The colorful coral gardens teem with tropical fish in warm, shallow water. A restaurant on the beach allows for convenient access and relaxation between water activities. The site is popular for families and those preferring shore-based diving/snorkeling.
 
 ## Site Information
 
-- **Location**: Bocas del Toro, Caribbean
+- **Location**: Cayo Coral, Bocas del Toro, Caribbean
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 8 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: 10-20 meters
+- **Current**: Minimal
+- **Best Time**: Year-round (calm, shallow conditions)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Colorful coral gardens support abundant tropical fish populations. The shallow depth and protected location make this accessible for snorkelers and divers alike. Sea turtles are occasionally encountered. The reef structures support diverse reef fauna including typical Caribbean species.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 8 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-8 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Entry from the beach puts divers immediately into shallow reef habitat. Divers can explore at very shallow depths (3-8 meters) with extended bottom time. The shallow depths and calm conditions make this ideal for skill practice or relaxation diving. Snorkelers can explore the same reef from the surface.
 
 ## Entry and Exit
 
@@ -44,10 +44,12 @@ Enter from the shore following established entry points. Check conditions before
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Perfect for families and non-divers (snorkeling available)
+- Bring snorkel gear to explore between dives or if family members don't dive
+- Excellent site for practicing buoyancy in shallow water
+- The restaurant on the beach offers food and beverage services
+- Very beginner-friendly entry conditions
+- Combine with snorkeling for a full day of water activities
 
 ## Safety Considerations
 

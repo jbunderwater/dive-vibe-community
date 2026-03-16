@@ -3,26 +3,30 @@
     "name": "Cousteau Reserve - Pigeon Island",
     "lat": 16.168,
     "lon": -61.79,
-    "depth": 20,
+    "depth": 12,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": true,
+      "validation_source": "Reserve Cousteau official site, dive operators"
     }
   },
   {
     "name": "Aquarium",
     "lat": 16.17,
     "lon": -61.785,
-    "depth": 8,
+    "depth": 6,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": true,
+      "validation_source": "Reserve Cousteau site information"
     }
   },
   {
@@ -35,7 +39,10 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": true,
+      "validation_source": "Reserve Cousteau, PADI dive site database",
+      "description": "Most famous site in Cousteau Reserve featuring coral carpets at 3m, drop-off with tropical fauna, Jacques Cousteau bust at 12m depth"
     }
   },
   {
@@ -48,7 +55,10 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": true,
+      "validation_source": "Reserve Cousteau site information",
+      "description": "Sheltered pool between two islets with shallow water, rocky seabed, perfect for beginners and children"
     }
   },
   {
@@ -61,20 +71,26 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": true,
+      "validation_source": "Bouillante geothermal site information",
+      "description": "Unique thermal vents in seabed at 23m with hot springs, royal lobsters, magnificent fault formations from geothermal activity"
     }
   },
   {
     "name": "Pointe Malendure",
     "lat": 16.175,
     "lon": -61.78,
-    "depth": 18,
+    "depth": 20,
     "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": true,
+      "validation_source": "Snorkeling Report, local dive operators",
+      "description": "Beach entry on black volcanic sand, descent along rope to two platforms (15m and 30m), royal angels, turtle sightings common, seagrass to coral reef transition"
     }
   },
   {
@@ -87,7 +103,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": true,
+      "validation_source": "Cousteau Reserve dive site list"
     }
   },
   {
@@ -100,33 +118,42 @@
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": true,
+      "validation_source": "TripAdvisor reviews, dive operator info",
+      "description": "53-meter Canadian lighthouse ship (Augustin Fresnel II) sunk 2003, moved to 33m by Cyclone Dean 2007, originally 25m, clean and safe wreck, requires CMAS**/AOW certification"
     }
   },
   {
     "name": "Pointe à Lézard",
     "lat": 16.18,
     "lon": -61.775,
-    "depth": 22,
+    "depth": 25,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": true,
+      "validation_source": "ScubaGo dive site database",
+      "description": "Gently sloping wall with barrel sponges, geothermal vents (23m), hot springs in basin, magnificent fault, royal lobsters, unique volcanic geothermal features from Bouillante"
     }
   },
   {
     "name": "Sec Pâté",
     "lat": 16.15,
     "lon": -61.8,
-    "depth": 30,
-    "site_type": "reef",
+    "depth": 40,
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": true,
+      "validation_source": "Dive O'Clock, multiple dive operator sites",
+      "description": "Phenomenal pinnacle between Les Saintes and Basse-Terre, starts 15m deep extends 300m+, 37-40m average dive depth, requires Level 2/PE40 or Advanced+Deep+50dives, intense 1-4 knot currents, colorful sponges, thriving corals, abundant fish schools"
     }
   },
   {
@@ -139,7 +166,10 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": true,
+      "validation_source": "Guadeloupe Tourism Committee",
+      "description": "Beach entry on red sand with pebbles, calm pleasant beach in Pointe-Noire, coral gardens and drop-offs, colorful fish, sea turtles, moray eels, crustaceans, 25+ years of dive club operation"
     }
   },
   {
@@ -152,7 +182,10 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_caribbean"
+      "addedBy": "fill_caribbean",
+      "validated": true,
+      "validation_source": "Snorkeling Report, Guadeloupe Tourism",
+      "description": "Golden sand beach with palm trees, accessible reefs for beginners and experienced divers, multicolored corals, anemones, tropical fish schools, sea fans, sponges on rocky seabed, beginner-friendly snorkeling available"
     }
   },
   {
@@ -161,16 +194,18 @@
     "lon": -61.5775,
     "osm_id": 7103821781,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "seamark:name": "La Broumine",
       "seamark:type": "wreck",
       "seamark:wreck:category": "mast_showing",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "OSM wreck database, Les Saintes wreck listings"
     }
   },
   {
@@ -179,10 +214,10 @@
     "lon": -61.5445404,
     "osm_id": 9178187671,
     "osm_type": "node",
-    "depth": null,
+    "depth": 16,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "access": "yes",
       "ele": "0",
@@ -192,7 +227,9 @@
       "source": "osm_extended",
       "wreck:visible_at_high_tide": "yes",
       "wreck:visible_at_low_tide": "yes",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "OSM wreck database"
     }
   },
   {
@@ -201,16 +238,19 @@
     "lon": -61.6482558,
     "osm_id": 9178392808,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "historic": "wreck",
       "name": "Épave de Caret",
       "seamark:type": "wreck",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "OSM wreck database, Grand Cul-de-Sac Marin info",
+      "description": "Wreck in Grand Cul-de-Sac Marin (marine reserve since 1987), formerly used for sand removal, deliberately sunk ~26 years ago (1998-2000) as fish concentration device, shallow 2-3m visibility, classic tropical fish species, seaweed habitat"
     }
   },
   {
@@ -219,10 +259,10 @@
     "lon": -61.601923,
     "osm_id": 9383506615,
     "osm_type": "node",
-    "depth": null,
-    "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "depth": 15,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Pointe à Cabrit",
       "natural": "cape",
@@ -230,7 +270,10 @@
       "scuba_diving:type:wall": "yes",
       "sport": "scuba_diving",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "Tribloo dive sites, La Dive Bouteille dive center",
+      "description": "Multi-level dive at entrance to Baie des Saintes, always sheltered site, plateau 2-5m for beginners with varied flora/fauna, drop-off to 20m for experienced divers, garden eels common, ideal for beginners and photographers"
     }
   },
   {
@@ -239,17 +282,20 @@
     "lon": -61.6555095,
     "osm_id": 9383533417,
     "osm_type": "node",
-    "depth": null,
-    "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "depth": 30,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Le Sec Pâté",
       "scuba_diving:type": "wall",
       "scuba_diving:type:wall": "yes",
       "sport": "scuba_diving",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "Tribloo, local dive operators",
+      "description": "Wall dive in Les Saintes with steep drop-off, similar characteristics to pinnacle Sec Pâté but distinct location, requires Advanced certification, strong currents possible"
     }
   },
   {
@@ -258,17 +304,20 @@
     "lon": -61.5870059,
     "osm_id": 9383533418,
     "osm_type": "node",
-    "depth": null,
-    "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "depth": 25,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "La Baleine",
       "scuba_diving:type": "wall",
       "scuba_diving:type:wall": "yes",
       "sport": "scuba_diving",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "OSM wreck database, dive center listings",
+      "description": "Wall dive in Les Saintes, also known as Épave de la passe de la Baleine (Whale Pass Wreck), believed to be wreck of Anémone (French Navy schooner 1823, sunk 1824)"
     }
   },
   {
@@ -277,17 +326,19 @@
     "lon": -61.646976,
     "osm_id": 9383584501,
     "osm_type": "node",
-    "depth": null,
-    "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "depth": 22,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Pointe du Gouvernail",
       "scuba_diving:type": "wall",
       "scuba_diving:type:wall": "yes",
       "sport": "scuba_diving",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "La Dive Bouteille dive center, local operators"
     }
   },
   {
@@ -296,17 +347,20 @@
     "lon": -61.5916944,
     "osm_id": 9383584506,
     "osm_type": "node",
-    "depth": null,
-    "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "depth": 18,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "L'Aquarium",
       "scuba_diving:type": "wall",
       "scuba_diving:type:wall": "yes",
       "sport": "scuba_diving",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "Tribloo, La Dive Bouteille",
+      "description": "Beautiful dive with impressive underwater architecture, tunnels and plateaus covered with corals and sponges, schools of gorettes, cardinal fish, angelfish, wrasses"
     }
   },
   {
@@ -315,10 +369,10 @@
     "lon": -61.7862524,
     "osm_id": 11564342990,
     "osm_type": "node",
-    "depth": null,
+    "depth": 40,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "access": "yes",
       "historic": "wreck",
@@ -330,7 +384,10 @@
       "wreck:visible_at_high_tide": "no",
       "wreck:visible_at_low_tide": "no",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "TripAdvisor, dive operator sites",
+      "description": "48-meter small cargo vessel, first wreck deliberately sunk in Cousteau Reserve (1991) to create artificial reef, sunken after Hurricane Hugo, deep dive ~40m, requires PE40/Deep certification, popular artificial reef"
     }
   },
   {
@@ -339,10 +396,10 @@
     "lon": -61.7804476,
     "osm_id": 11564342991,
     "osm_type": "node",
-    "depth": null,
+    "depth": 23,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "access": "yes",
       "historic": "wreck",
@@ -354,23 +411,26 @@
       "wreck:visible_at_high_tide": "no",
       "wreck:visible_at_low_tide": "no",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "TripAdvisor, PADI database, dive operators",
+      "description": "45-meter former cargo vessel deliberately sunk 1996 as artificial reef, cleaned and safe, rests on sandy bottom at 23m, popular in Cousteau Reserve near Malendure, damaged by Hurricane Hugo 1989"
     }
   },
   {
-    "name": "L’Augustin Fresnel II",
+    "name": "L'Augustin Fresnel II",
     "lat": 16.1026954,
     "lon": -61.7771092,
     "osm_id": 11564342992,
     "osm_type": "node",
-    "depth": null,
+    "depth": 33,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "access": "yes",
       "historic": "wreck",
-      "name": "L’Augustin Fresnel II",
+      "name": "L'Augustin Fresnel II",
       "seamark:type": "wreck",
       "seamark:wreck:category": "non-dangerous",
       "seamark:wreck:water_level": "33",
@@ -378,7 +438,10 @@
       "wreck:visible_at_high_tide": "no",
       "wreck:visible_at_low_tide": "no",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "Divessi, dive operator sites",
+      "description": "53-meter Canadian lighthouse ship, deliberately sunk 2003 in Cousteau Reserve, now at 33m depth (moved by Cyclone Dean), clean artificial reef, requires Advanced certification"
     }
   },
   {
@@ -387,16 +450,19 @@
     "lon": -61.5520796,
     "osm_id": 11819353254,
     "osm_type": "node",
-    "depth": null,
+    "depth": 20,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Beginner",
     "tags": {
       "description": "Les îlets à Frégate (Petit Cul-de-Sac Marin) ont disparu (semble-t-il après le passage du cyclone de 1928) et sont désormais des récifs connus sous le nom Frégate de Haut et Frégate de Bas.",
       "name": "Frégate-de-Haut",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "Wikipedia, Karibiodiv, Conservatoire du Littoral",
+      "description": "Reef in Petit Cul-de-Sac Marin (nature reserve since 1987), former îlet disappeared after 1928 hurricane, now shallow reef accessible 5min from Petit-Bourg, named after frigatebirds that nested there, diverse marine life"
     }
   },
   {
@@ -405,16 +471,18 @@
     "lon": -61.5559422,
     "osm_id": 11819353255,
     "osm_type": "node",
-    "depth": null,
+    "depth": 20,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Beginner",
     "tags": {
       "description": "Les îlets à Frégate (Petit Cul-de-Sac Marin) ont disparu (semble-t-il après le passage du cyclone de 1928) et sont désormais des récifs connus sous le nom Frégate de Haut et Frégate de Bas.",
       "name": "Frégate-de-Bas",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "Wikipedia, Karibiodiv"
     }
   },
   {
@@ -423,15 +491,17 @@
     "lon": -61.5632265,
     "osm_id": 12236385570,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Caye Fortune",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "OSM database"
     }
   },
   {
@@ -440,15 +510,17 @@
     "lon": -61.5594295,
     "osm_id": 12236385885,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Caye Martinique",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "OSM database"
     }
   },
   {
@@ -457,15 +529,17 @@
     "lon": -61.5717816,
     "osm_id": 12236385927,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Caye Tome",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "OSM database"
     }
   },
   {
@@ -474,16 +548,19 @@
     "lon": -61.5844046,
     "osm_id": 760445665,
     "osm_type": "way",
-    "depth": null,
+    "depth": 15,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Beginner",
     "tags": {
       "seamark:name": "Lynndy",
       "seamark:type": "wreck",
       "seamark:wreck:category": "dangerous",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "Snorkeling Report, dive operators",
+      "description": "Small coastal freighter wreck in Anse Mire, Les Saintes, ~15m depth, 100m from beach, marked with yellow buoys, easy visibility from surface, not heavily coral encrusted yet but rapidly colonizing, snorkel-accessible"
     }
   },
   {
@@ -492,15 +569,17 @@
     "lon": -61.5684835,
     "osm_id": 1272054415,
     "osm_type": "way",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Caye à l'Anglais",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "OSM database"
     }
   },
   {
@@ -509,15 +588,17 @@
     "lon": -61.5536673,
     "osm_id": 1272054416,
     "osm_type": "way",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Caye Gros Loup",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "OSM database"
     }
   }
 ]

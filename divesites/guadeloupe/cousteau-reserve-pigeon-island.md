@@ -2,8 +2,8 @@
 name: Cousteau Reserve - Pigeon Island
 lat: 16.168
 lng: -61.79
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Beginner
+maxDepth: 12
 entryType: boat
 siteType: reef
 ref: null
@@ -24,8 +24,8 @@ Cousteau Reserve - Pigeon Island is a dive site in Guadeloupe offering rewarding
 - **Location**: Guadeloupe, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 12 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)

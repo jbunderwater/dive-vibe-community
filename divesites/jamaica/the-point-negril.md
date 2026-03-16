@@ -3,7 +3,7 @@ name: The Point (Negril)
 lat: 18.34
 lng: -78.37
 difficulty: Advanced
-maxDepth: 30
+maxDepth: 35
 entryType: boat
 siteType: wall
 ref: null
@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## The Point (Negril)
 
-The Point (Negril) is a wall dive site in Jamaica, Caribbean.
+The Point (Negril) is one of Negril's most dramatic wall dives, featuring a sheer vertical drop requiring Advanced certification and excellent depth management.
 
 ## Overview
 
-The Point (Negril) is a dive site in Jamaica featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Point marks the beginning of Negril's famous wall system, where the reef drops steeply from shallow depths into the Caribbean blue. This advanced dive requires careful attention to depth gauge and air consumption, as the wall extends well beyond safe recreational diving limits (90+ feet). The site features rich coral growth on the wall face, with abundant marine life including nurse sharks, barracudas, and schools of snappers. Excellent water clarity (65-130 feet visibility) and moderate currents characterize this challenging dive.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ The Point (Negril) is a dive site in Jamaica featuring a dramatic vertical wall 
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
+- **Maximum Depth**: 35 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)

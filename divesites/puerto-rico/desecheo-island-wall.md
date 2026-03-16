@@ -3,7 +3,7 @@ name: Desecheo Island Wall
 lat: 18.383
 lng: -67.48
 difficulty: Advanced
-maxDepth: 35
+maxDepth: 40
 entryType: boat
 siteType: wall
 ref: null
@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Desecheo Island Wall
 
-Desecheo Island Wall is a wall dive site in Puerto Rico, Caribbean.
+Desecheo Island Wall is a premier bucket-list dive destination off Rincón featuring dramatic underwater formations. The wall drops steeply with distinctive undersea canyons, caverns, arches, and overhangs. The site is known for exceptional visibility (30-45 meters), pelagic marine life, and challenging diving conditions requiring open water certification and comfort at depths up to 100 feet.
 
 ## Overview
 
-Desecheo Island Wall is a dive site in Puerto Rico featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Desecheo Island offers some of the Caribbean's most spectacular wall diving. The underwater topography features steep walls, dramatic swim-throughs, and distinctive geological formations. Visibility is consistently excellent at 98-148 feet. The site is remote and accessible primarily by live-aboard or charter boat. Conditions can be challenging with strong currents and rough surface conditions, making this strictly an advanced dive. The dramatic underwater landscape and abundance of pelagic marine life make the challenge worthwhile for qualified divers.
 
 ## Site Information
 
-- **Location**: Puerto Rico, Caribbean
+- **Location**: Off Rincón, West Coast Puerto Rico (part of Desecheo Island National Wildlife Refuge)
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 35 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
+- **Maximum Depth**: 40 meters
+- **Typical Visibility**: 30-45 meters (98-148 feet)
+- **Current**: Moderate to strong
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Desecheo features abundant pelagic marine life including sharks, eagle rays, large fish schools, sea turtles, and occasional manta rays. The wall itself supports coral growth, sponges, and reef fish communities. The distinctive geological formations including canyons and caverns provide shelter for diverse fish species and invertebrates. Macro subjects include nudibranchs and colorful invertebrates on coral-covered surfaces. The site's remote location and pristine condition support thriving marine ecosystems.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-35 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Advanced wall dive following the dramatic drop-off. Descent to 60-100+ feet is common, requiring excellent depth management and attention to bottom time. The site's distinctive canyons and cavern features create navigation opportunities for experienced divers. Strong currents may require modified dive planning. The exceptional visibility and dramatic topography reward the challenging conditions. Mooring lines and proper dive planning with reputable charter operators are essential for safely managing this advanced site.
 
 ## Entry and Exit
 

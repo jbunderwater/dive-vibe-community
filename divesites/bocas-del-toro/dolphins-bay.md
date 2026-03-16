@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Dolphins Bay
 
-Dolphins Bay is a reef dive site in Bocas del Toro, Caribbean.
+Dolphins Bay is a reef dive site in a shallow lagoon with mangrove surroundings in Bocas del Toro, Caribbean.
 
 ## Overview
 
-Dolphins Bay is a dive site in Bocas del Toro offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Dolphins Bay is a unique ecosystem combining shallow reef diving with an active dolphin sanctuary. Bottlenose dolphins inhabit the lagoon throughout much of the year, creating opportunities for marine mammal encounters during dives. The mangrove-surrounded waters support abundant small fish and crustaceans that attract the dolphin population. The extremely shallow depths make this perfect for beginners and those seeking a unique diving experience.
 
 ## Site Information
 
-- **Location**: Bocas del Toro, Caribbean
+- **Location**: Dolphins Bay lagoon, Bocas del Toro, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 10 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: 10-20 meters
+- **Current**: Minimal
+- **Best Time**: Year-round (dolphins present throughout much of the year)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The primary attraction is bottlenose dolphins that inhabit the bay, often observed jumping, swimming, and playing in pairs and small groups. Baby dolphins learning to swim alongside their mothers are commonly seen. The shallow reef supports small tropical fish and reef fauna. The mangrove ecosystem supports abundant small fish and crustaceans that form the dolphins' prey base.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 10 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-10 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Diving in the shallow bay allows extended bottom time due to minimal depths. The primary focus is observing dolphins and the mangrove ecosystem. Divers remain in very shallow water with abundant surface time for observations. This is not a technical dive but rather a wildlife observation and nature appreciation experience.
 
 ## Entry and Exit
 
@@ -44,11 +44,12 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- This is a unique wildlife observation dive — focus on observing dolphins in their natural habitat
+- Move slowly and quietly to avoid disturbing the dolphins
+- Bring an underwater camera — dolphin encounters offer exceptional photography opportunities
+- Be patient — dolphin activity varies by season and time of day
+- Respect the dolphin sanctuary status and observe all local regulations
+- The mangrove ecosystem is delicate — maintain good buoyancy
 
 ## Safety Considerations
 

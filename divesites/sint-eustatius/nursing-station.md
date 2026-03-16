@@ -2,10 +2,10 @@
 name: Nursing Station
 lat: 17.465
 lng: -62.968
-difficulty: Beginner
-maxDepth: 8
-entryType: shore
-siteType: reef
+difficulty: Intermediate
+maxDepth: 19
+entryType: boat
+siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Nursing Station
 
-Nursing Station is a reef dive site in Sint Eustatius, Caribbean.
+Nursing Station is a small wall reef in the southern marine reserve, offering a magnificent dive experience rich with history and marine life. The site features several 18th and 19th-century anchors—a common artifact at this location—providing insights into Statia's busy maritime past.
 
 ## Overview
 
-Nursing Station is a dive site in Sint Eustatius offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Described as a coral-encrusted lava flow wall, Nursing Station (Drift and Reef type) features a teeming ecosystem with huge schools of reef fish, barracuda, and nurse sharks. The wall's crevices hide lobsters, drumfish, and occasionally massive green moray eels. This dive combines the challenge of a wall structure with rich archaeological context and exceptional marine life diversity.
 
 ## Site Information
 
-- **Location**: Sint Eustatius, Caribbean
-- **Entry Type**: Shore entry
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 8 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Location**: Sint Eustatius (Statia), southern marine reserve
+- **Entry Type**: Boat dive
+- **Site Type**: Wall dive
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 19 meters
+- **Typical Visibility**: 20-30 meters (65-100 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Colorful lettuce sea slugs, nurse sharks, large schools of reef fish, barracuda, spiny lobsters, stingrays, and moray eels (especially massive green moray eels in crevices). The wall provides habitat for diverse species at varying depths. Common sightings include sharks, dolphins, and turtles.
 
 ## Dive Profile
 

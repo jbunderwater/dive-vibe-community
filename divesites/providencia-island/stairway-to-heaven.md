@@ -2,8 +2,8 @@
 name: Stairway to Heaven
 lat: 13.34
 lng: -81.36
-difficulty: Intermediate
-maxDepth: 22
+difficulty: Advanced
+maxDepth: 52
 entryType: boat
 siteType: wall
 ref: null
@@ -17,26 +17,26 @@ Stairway to Heaven is a wall dive site in Providencia Island, Caribbean.
 
 ## Overview
 
-Stairway to Heaven is a dive site in Providencia Island featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Stairway to Heaven is a spectacular advanced dive site beginning at 24-36 meters (80-120 feet) with a sandy channel leading to a massive gorge and drop-off. The site features three impressive step formations in stony coral, colorful soft corals, and enormous tube sponges descending to 52 meters (170 feet).
 
 ## Site Information
 
 - **Location**: Providencia Island, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 meters
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 52 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+This site is well-populated with small creatures but is an outstanding location for encountering sharks, rays, and big sea turtles. The incredible rewards at this advanced site include sightings of reef sharks, eagle rays, and large pelagic fish species in the blue water beyond the drop-off.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-22 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+This site begins at 24-36 meters (80-120 feet) with a sandy sloping channel descending steeply at 36 meters (120 feet). The dive features a couple of walls and 3 step formations with colorful soft and hard corals, huge tube sponges, and a drop-off extending to 52 meters (170 feet). Current can be strong. Careful depth management and buoyancy control are essential.
 
 ## Entry and Exit
 

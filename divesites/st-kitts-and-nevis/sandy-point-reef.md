@@ -3,7 +3,7 @@ name: Sandy Point Reef
 lat: 17.34
 lng: -62.84
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 40
 entryType: boat
 siteType: reef
 ref: null
@@ -13,30 +13,31 @@ addedBy: osm_import
 
 ## Sandy Point Reef
 
-Sandy Point Reef is a reef dive site in St. Kitts and Nevis, Caribbean.
+Sandy Point Reef is widely regarded as the best reef dive in St. Kitts, featuring pristine coral structures in excellent condition. Located just offshore in the shadow of Brimstone Hill, the reef ranges from 50-130 feet with two popular dive sites: Paradise Reef and Anchors Away. Large coral formations create spectacular swim-throughs and canyons, with volcanic ridges and clefts adding geological interest.
 
 ## Overview
 
-Sandy Point Reef is a dive site in St. Kitts and Nevis offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+This is the premier reef dive on St. Kitts, featuring expansive coral-covered slopes ideal for multi-level dive profiles. The reef demonstrates dense growths of brain and star coral with slopes and walls that drop well past 100 feet. A historic mooring site called Anchors Away is marked by a half-dozen anchors dropped centuries ago by French, English, and Spanish warships during naval conflicts. Sandy Point National Marine Park protects this exceptional dive area.
 
 ## Site Information
 
-- **Location**: St. Kitts and Nevis, Caribbean
+- **Location**: Sandy Point, shadow of Brimstone Hill, St. Kitts, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Maximum Depth**: 40 meters
+- **Typical Visibility**: Variable, proximity to shore can affect conditions
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
+- **Historic Features**: Anchors Away mooring site with 17th-18th century anchors
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Fish life is abundant with large schools throughout the reef system. Coral structures are dominated by brain and star coral formations. Sea turtles, southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, and angelfish are frequently encountered. The reef complexity provides habitat for moray eels, lobsters, and numerous reef fish species.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site begins with descent to coral formations around 15-20 meters, with options to explore deeper walls and canyons to 40+ meters for experienced divers. The reef features interesting swim-throughs and canyons that allow for varied dive profiles. Multiple depth zones provide options for different experience levels. Plan for multi-level profiles to maximize bottom time across the site's features. Monitor depth carefully when exploring deeper wall sections.
 
 ## Entry and Exit
 

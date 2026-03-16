@@ -2,8 +2,8 @@
 name: Saona Island
 lat: 18.15
 lng: -68.72
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Beginner
+maxDepth: 12
 entryType: boat
 siteType: reef
 ref: null
@@ -13,21 +13,21 @@ addedBy: osm_import
 
 ## Saona Island
 
-Saona Island is a reef dive site in Dominican Republic, Caribbean.
+Saona Island, part of Parque Nacional Del Este, features protected reef diving with excellent coral gardens and healthy fish populations. The protected western side offers shallow reefs ideal for beginners, while the exposed eastern side features stronger currents and larger pelagic fish. The site includes seagrass beds, swim-through tunnels, and caverns.
 
 ## Overview
 
-Saona Island is a dive site in Dominican Republic offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Saona Island offers diverse reef diving from shallow coral gardens to deeper canyon dives. El Peñón is a prime reef at 12 meters featuring tropical fish, rays, and turtles. The reef is colorful with soft corals, gorgonians, sea fans, and corky sea fingers. Nurse sharks, green moray eels, and lobsters inhabit these protected waters. The site is ideal for intermediate divers seeking a mix of reef exploration and pelagic action depending on current conditions.
 
 ## Site Information
 
-- **Location**: Dominican Republic, Caribbean
+- **Location**: Saona Island, Parque Nacional Del Este, Dominican Republic
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 12 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
+- **Current**: Light (protected side), strong (exposed side)
 - **Best Time**: December to April (dry season)
 
 ## Marine Life

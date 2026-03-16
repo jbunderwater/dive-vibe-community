@@ -2,8 +2,8 @@
 name: Pointe Burgos
 lat: 14.55
 lng: -61.09
-difficulty: Intermediate
-maxDepth: 18
+difficulty: Beginner
+maxDepth: 12
 entryType: boat
 siteType: reef
 ref: null
@@ -17,26 +17,27 @@ Pointe Burgos is a reef dive site in Martinique, Caribbean.
 
 ## Overview
 
-Pointe Burgos is a dive site in Martinique offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Pointe Burgos is the basaltic dome that extends Morne Champagne and separates Grande Anse beach from Anses d'Arlet. Formed from a lava flow, this prime dive location features a shallow plateau perfect for beginners. At the boundary between the Caribbean Sea and local waters, Pointe Burgos frequently experiences strong currents that attract schools of fish and turtles, making it one of the most beautiful spots in south Martinique.
 
 ## Site Information
 
-- **Location**: Martinique, Caribbean
+- **Location**: Pointe Burgos, Grande Anse/Anses d'Arlet, Martinique
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 12 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
+- **Current**: Can be strong
 - **Best Time**: December to April (dry season)
+- **Special Feature**: Excellent for turtle encounters, currents attract large schools
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Strong currents at Pointe Burgos attract abundant marine life including schools of large, peaceful fish. Divers commonly encounter 5-6 sea turtles (green, hawksbill) during a single dive. Additional species include southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish, blue tangs, trumpetfish, moray eels, and lobsters.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin your dive on the small plateau between 3-12 meters, which offers terrain ideal for beginners and orientation dives (baptisms). The shallow plateau provides an excellent foundation. For experienced divers comfortable in currents, deeper features can be explored. The strong currents here draw pelagic visitors and large school-forming fish, making this a dynamic and productive dive site.
 
 ## Entry and Exit
 
