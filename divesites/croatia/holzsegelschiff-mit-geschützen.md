@@ -5,7 +5,7 @@ lng: 14.5339
 difficulty: Intermediate
 maxDepth: 25
 entryType: boat
-siteType: reef
+siteType: wreck
 ref: null
 osmId: 663869739
 addedBy: osm_import
@@ -23,7 +23,7 @@ Holzsegelschiff mit Geschützen is a dive site in Croatia offering rewarding div
 
 - **Location**: Croatia, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

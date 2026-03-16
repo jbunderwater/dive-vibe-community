@@ -5,14 +5,16 @@
     "lon": 54.804763,
     "osm_id": 306049996,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 24,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "diving:entry": "yes",
       "name": "The Wall",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -21,14 +23,16 @@
     "lon": 54.8045232,
     "osm_id": 306050015,
     "osm_type": "node",
-    "depth": 20,
-    "site_type": "reef",
+    "depth": 24,
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "diving:entry": "yes",
       "name": "Aquarium",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -37,14 +41,16 @@
     "lon": 54.707109,
     "osm_id": 306050042,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 25,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "diving:entry": "yes",
       "name": "China Wreck (direction 150deg)",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -53,14 +59,15 @@
     "lon": 54.1517412,
     "osm_id": 306050061,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 25,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "ABT Salalah",
       "sport": "scuba_diving",
-      "validated": "true"
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -69,14 +76,16 @@
     "lon": 54.8188777,
     "osm_id": 306100677,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 15,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "diving:entry": "yes",
       "name": "Flamingo Beach: Side Entry",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -85,14 +94,16 @@
     "lon": 54.8192384,
     "osm_id": 306100678,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 15,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "diving:entry": "yes",
       "name": "Flamingo Beach: New Entry",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -101,14 +112,16 @@
     "lon": 54.8158953,
     "osm_id": 306105649,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 15,
     "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "entry_type": "beach",
+    "difficulty": "Beginner",
     "tags": {
       "diving:entry": "yes",
       "name": "Flamingo Beach: Beach Entry",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -117,14 +130,16 @@
     "lon": 54.798294,
     "osm_id": 306112631,
     "osm_type": "node",
-    "depth": 20,
-    "site_type": "reef",
+    "depth": 15,
+    "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "diving:entry": "yes",
       "name": "Eagle Bay",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -133,16 +148,18 @@
     "lon": 56.3508923,
     "osm_id": 3357581,
     "osm_type": "relation",
-    "depth": 20,
+    "depth": 18,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "boundary": "protected_area",
       "name": "Dibba Rock Reef",
       "name:en": "Dibba Rock Reef",
       "sport": "scuba_diving",
-      "type": "multipolygon"
+      "type": "multipolygon",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -151,16 +168,19 @@
     "lon": 56.3640027,
     "osm_id": 3357593,
     "osm_type": "relation",
-    "depth": 20,
+    "depth": 24,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "boundary": "protected_area",
       "name": "Snoopy Island Reef",
       "name:en": "Snoopy Island Reef",
       "sport": "scuba_diving",
-      "type": "multipolygon"
+      "type": "multipolygon",
+      "validated": "true",
+      "validation_source": "web_research",
+      "note": "Located in UAE (Fujairah), not Oman. Coordinate error in OSM data."
     }
   }
 ]

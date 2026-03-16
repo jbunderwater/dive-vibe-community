@@ -13,30 +13,32 @@ addedBy: osm_import
 
 ## Porto Conte Reef
 
-Porto Conte Reef is a reef dive site in Sardinia, Europe.
+Porto Conte is a picturesque bay in northwestern Sardinia within the Capo Caccia-Isola Piana Marine Protected Area, offering accessible shore diving with posidonia meadows and coral formations along the coast of the Riviera del Corallo.
 
 ## Overview
 
-Porto Conte Reef is a dive site in Sardinia offering excellent diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Porto Conte Bay provides straightforward shore entry diving suitable for beginners and training. The underwater landscape features extensive posidonia oceanica seagrass meadows interspersed with rocky patches and coral formations. The bay is sheltered and calm, making it ideal for new divers and certification courses. Shore entry from Porto Conte Marina or the Mugoni Beach area provides easy access to the marine park with numerous submerged caves and coral communities nearby.
 
 ## Site Information
 
-- **Location**: Sardinia, Europe
+- **Location**: Porto Conte Bay, northwestern Sardinia (near Alghero)
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
+- **Depth Range**: 2-16 meters
 - **Maximum Depth**: 16 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
+- **Typical Visibility**: 15-30 meters
+- **Water Temperature**: 18-24°C (May-October)
+- **Current**: Light (bay is sheltered)
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
+Small groupers, bream, snappers, and schooling fish inhabit the posidonia meadows and rocky areas. Seahorses, sea urchins, and nudibranchs are common. The posidonia itself is crucial nursery habitat for many Mediterranean fish species.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 16 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-16 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Shore dives from Porto Conte follow the sloping seabed, moving through shallow posidonia meadows (2-8m) and transitioning to rocky patches and coral formations (8-16m). Most divers spend 30-45 minutes on this gentle profile, exploring the meadows for seahorses and juvenile fish, then moving to deeper rocky areas to find small coral formations and crustaceans. Shore entry from the beach requires attention to surge conditions, but the calm bay generally offers straightforward entries and exits.
 
 ## Entry and Exit
 

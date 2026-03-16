@@ -2,7 +2,7 @@
 name: The Car Cemetery
 lat: 25.5167
 lng: 56.35
-difficulty: Intermediate
+difficulty: Beginner
 maxDepth: 18
 entryType: boat
 siteType: wreck
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## The Car Cemetery
 
-The Car Cemetery is a historic wreck dive in UAE - Fujairah, Middle East.
+The Car Cemetery is a unique artificial reef dive site created from approximately 50 wrecked vehicles sunk in the 1980s.
 
 ## Overview
 
-The Car Cemetery is a dive site in UAE - Fujairah featuring the wreck of the The Car Cemetery. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+This artificial reef is one of Fujairah's most popular and unusual dive sites. Approximately 50 vehicles were deliberately sunk around 1988 to create an artificial reef and fishing ground. The site features cars at depths of 12-18 meters, covered with marine growth and fish habitats. This beginner-friendly site offers excellent photography opportunities and is suitable for exploring the vehicles from outside without penetration.
 
 ## Site Information
 
-- **Location**: UAE - Fujairah, Middle East
+- **Location**: UAE - Fujairah coast
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
+- **Typical Visibility**: 10-15 meters
+- **Current**: Mild to moderate
 - **Best Time**: September to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter glassy sweepers, lionfish, groupers, coral growth, soft corals, whale sharks, manta rays, hammerhead sharks. Additional species commonly sighted include oceanic whitetip sharks, sea turtles, dolphins. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The vehicles provide shelter and habitat for abundant marine life. Expect encounters with groupers, lionfish, snappers, and schools of smaller reef fish. Scorpionfish and stonefish are common on the vehicles. The site is excellent for macro photography with coral-encrusted surfaces and small crustaceans populating the vehicles.
 
 ## Dive Profile
 

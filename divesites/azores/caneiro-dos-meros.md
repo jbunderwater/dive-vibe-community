@@ -5,7 +5,7 @@ lng: -25.5167
 difficulty: Intermediate
 maxDepth: 25
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import
@@ -17,26 +17,26 @@ Caneiro dos Meros is a reef dive site in Azores, Europe.
 
 ## Overview
 
-Caneiro dos Meros is a dive site in Azores offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Caneiro dos Meros (Dusky Grouper Passageway) is a unique wall dive site located just 100 meters off the remote island of Corvo. This protected marine reserve features the highest concentration of dusky groupers (Epinephelus marginatus) in the Azores, with individuals often exceeding 1 meter in length. The site's name refers to "meros" (dusky groupers in Portuguese), and these gentle giants regularly approach divers, competing for their attention.
 
 ## Site Information
 
-- **Location**: Azores, Europe
+- **Location**: Corvo Island, Azores (100m offshore)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Typical Visibility**: 20-30 meters (65-100 feet)
 - **Current**: Light to moderate
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
+The site is renowned for encounters with 5+ dusky groupers per dive, with individuals often in excess of 1 meter. Because fishing is prohibited in this voluntary reserve, you'll also encounter barred hogfish, Mediterranean parrotfish, Almaco jacks, white trevallies, and yellowmouth barracudas in exceptional abundance. The protected status supports rare pelagic species uncommon elsewhere in Azorean waters.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Navigate along large lava-formed ravines ("caneiros") with sandy patches between 18-25 meters. The last ravine drops to sandy seafloor at 40-45 meters where large groupers congregate. The dramatic wall formations and exceptional grouper encounters make this one of the most distinctive dives in the Azores. Monitor air supply as groupers may lead you deeper than expected.
 
 ## Entry and Exit
 

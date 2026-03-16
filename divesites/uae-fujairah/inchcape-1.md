@@ -2,8 +2,8 @@
 name: Inchcape 1
 lat: 25.5833
 lng: 56.2917
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Advanced
+maxDepth: 32
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Inchcape 1
 
-Inchcape 1 is a historic wreck dive in UAE - Fujairah, Middle East.
+Inchcape 1 is an advanced-level shipwreck dive featuring a decommissioned supply and transport vessel with significant coral colonization.
 
 ## Overview
 
-Inchcape 1 is a dive site in UAE - Fujairah featuring the wreck of the Inchcape 1. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Inchcape 1 is a deeper wreck dive at 32 meters requiring Advanced certification. The vessel served as a crew and supply transport for Inchcape Shipping Services between Dubai and Fujairah oil platforms before decommissioning in 2001. The wreck sits upright on sandy bottom and has become thoroughly colonized by corals and marine life over two decades. Significant coral growth makes this a striking artificial reef.
 
 ## Site Information
 
-- **Location**: UAE - Fujairah, Middle East
+- **Location**: UAE - Fujairah, Gulf of Oman
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 32 meters
+- **Typical Visibility**: 15-20 meters
+- **Current**: Moderate
 - **Best Time**: September to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter glassy sweepers, lionfish, groupers, coral growth, soft corals, whale sharks, manta rays, hammerhead sharks. Additional species commonly sighted include oceanic whitetip sharks, sea turtles, dolphins. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The wreck provides excellent habitat for fish schools and larger species. Groupers, snappers, barracudas, and jacks patrol the structure. Neon sponges, soft corals, and gorgonians have extensively colonized the vessel. The site attracts diverse reef fish and occasional larger pelagics.
 
 ## Dive Profile
 

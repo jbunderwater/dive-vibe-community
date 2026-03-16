@@ -3,7 +3,7 @@ name: HMS Maori
 lat: 35.9026619
 lng: 14.5155983
 difficulty: Beginner
-maxDepth: 14
+maxDepth: 16
 entryType: shore
 siteType: wreck
 ref: null
@@ -17,7 +17,7 @@ HMS Maori is a historic wreck dive in Malta and Gozo, Europe.
 
 ## Overview
 
-HMS Maori is a renowned dive site in Malta and Gozo featuring a historic wreck which sank in 1942-02-12 . British Tribal-class destroyer sank by German aircraft 1942-02-12, raised and scuttled here 1945-07-15. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+HMS Maori is a British Tribal-class destroyer (WW2 era), ideal for beginner wreck divers. The wreck rests in just 14-16m on white sand, easily accessible by a relaxed 10-minute shore entry swim. Bow section at 14m. Excellent training site with abundant marine life, though penetration is not recommended due to structural instability from decades at sea. Good for building wreck diving skills in a forgiving depth.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ HMS Maori is a renowned dive site in Malta and Gozo featuring a historic wreck w
 - **Entry Type**: Shore entry
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 14 meters
+- **Maximum Depth**: 16 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: May to October

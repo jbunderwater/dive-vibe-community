@@ -5,8 +5,8 @@
     "lon": 28.2372284,
     "osm_id": 793101120,
     "osm_type": "node",
-    "depth": 30,
-    "site_type": "reef",
+    "depth": 15,
+    "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
@@ -17,7 +17,9 @@
       "name:en": "Kalithea",
       "name:tr": "Kalatiz",
       "place": "suburb",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "web_research_kalithea_springs"
     }
   },
   {
@@ -82,15 +84,17 @@
     "lon": 25.0280717,
     "osm_id": 2467454824,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 24,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Lygaria",
-      "scuba_diving:depth": "20",
+      "scuba_diving:depth": "24",
       "scuba_diving:entry": "boat",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "web_research_crete_diving_sites"
     }
   },
   {
@@ -99,15 +103,17 @@
     "lon": 25.0230868,
     "osm_id": 2467454825,
     "osm_type": "node",
-    "depth": 22,
+    "depth": 35,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Mononaftis",
-      "scuba_diving:depth": "22",
+      "scuba_diving:depth": "35",
       "scuba_diving:entry": "boat",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "web_research_crete_diving_sites"
     }
   },
   {
@@ -116,14 +122,16 @@
     "lon": 27.0360789,
     "osm_id": 2547460303,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 22,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "leisure": "pitch",
       "name": "Kerveli scouba diving",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "web_research_kerveli_samos"
     }
   },
   {
@@ -132,10 +140,10 @@
     "lon": 20.0116347,
     "osm_id": 9489868295,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 22,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "access": "yes",
       "historic": "wreck",
@@ -147,7 +155,9 @@
       "tourism": "attraction",
       "wreck:date_sunk": "1943",
       "wreck:visible_at_high_tide": "no",
-      "wreck:visible_at_low_tide": "no"
+      "wreck:visible_at_low_tide": "no",
+      "validated": true,
+      "validation_source": "web_research_ss_probitas_wreck"
     }
   },
   {
@@ -156,10 +166,10 @@
     "lon": 25.3823493,
     "osm_id": 9968656595,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 20,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "depth:source_quality": "unreliable",
       "description": "diving boat scenes of the movie The Big Blue in front of Manganari and/or Tris Klisies bay",
@@ -169,7 +179,9 @@
       "scuba_diving:type:sea": "yes",
       "source": "interview with Manganari local diver, records of Spiti Louka",
       "sport": "scuba_diving",
-      "wikipedia": "en:The Big Blue"
+      "wikipedia": "en:The Big Blue",
+      "validated": true,
+      "validation_source": "web_research_crete_diving_manganari"
     }
   },
   {
@@ -178,14 +190,16 @@
     "lon": 27.4325639,
     "osm_id": 10973665012,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 72,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Uçak Batığı",
       "scuba_diving:type": "wreck",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "web_research_junkers_52_rhodes_aircraft"
     }
   },
   {
@@ -226,10 +240,10 @@
     "lon": 28.1425738,
     "osm_id": 11212100525,
     "osm_type": "node",
-    "depth": 30,
+    "depth": 25,
     "site_type": "cave",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "description": "Natural Caves and Grottos",
       "name": "Σπήλαιο Αρχαγγέλου",
@@ -238,7 +252,9 @@
       "natural": "cave_entrance",
       "scuba_diving:divespot": "no",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "web_research_archangelos_cave_kos"
     }
   },
   {
@@ -262,10 +278,10 @@
     "lon": 24.5243531,
     "osm_id": 2766866,
     "osm_type": "relation",
-    "depth": 30,
+    "depth": 15,
     "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "access": "yes",
       "name": "Φαρι",
@@ -274,7 +290,9 @@
       "sport": "scuba_diving",
       "supervised": "no",
       "surface": "pebblestone",
-      "type": "multipolygon"
+      "type": "multipolygon",
+      "validated": true,
+      "validation_source": "web_research_fari_beach_thassos"
     }
   }
 ]

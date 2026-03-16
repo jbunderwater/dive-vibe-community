@@ -4,7 +4,7 @@ lat: 78.23
 lng: 15.64
 difficulty: Advanced
 maxDepth: 12
-entryType: shore
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
@@ -13,34 +13,32 @@ addedBy: osm_import
 
 ## Longyearbyen Pier
 
-Longyearbyen Pier is a reef dive site in Svalbard, Arctic.
+Gateway Arctic dive site near Svalbard's primary settlement.
 
 ## Overview
 
-Longyearbyen Pier is a dive site in Svalbard offering rewarding diving on healthy coral reef structures. Located in the Arctic region, this site offers 10-30 meters of visibility with water temperatures averaging -1 to 8°C.
+Longyearbyen Pier is an accessible Arctic diving site near Spitsbergen's main settlement. Located on Isfjorden, the pier and surrounding shallow reefs offer diving for experienced Arctic divers. Maximum depth reaches 12 meters, with water temperatures 2-7°C. Visibility typically ranges 10-30 meters. This site is primarily accessed by boat from local dive operators or small vessels, though it is relatively sheltered compared to outer Arctic sites. It serves as an entry point for experienced Arctic divers beginning explorations of Svalbard's underwater world.
 
 ## Site Information
 
-- **Location**: Svalbard, Arctic
-- **Entry Type**: Shore entry
+- **Location**: Longyearbyen, Isfjorden, Spitsbergen
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 12 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Variable, tidal currents
+- **Water Temperature**: 2-7°C (36-45°F)
+- **Typical Visibility**: 10-30 meters
+- **Current**: Variable, fjord tidal currents
 - **Best Time**: June to September
+- **Access**: Day boat from Longyearbyen operators
 
 ## Marine Life
 
-Divers at this site can expect to encounter seals (harbor, bearded, ringed), walruses, beluga whales, narwhals, polar cod, sea anemones, soft corals, kelp forests. Additional species commonly sighted include sea urchins, starfish, crabs.
+Arctic reef ecosystem with kelp growth, anemones, starfish, and Arctic fish species including polar cod. Seals are commonly observed, and beluga whales may visit. Sea urchins and crabs inhabit the substrate. The relatively shallow depth and sheltered location create a less extreme cold-diving environment compared to outer fjord sites, though water temperature remains challenging (2-7°C).
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Descend gradually to 10-12 meters along the kelp-covered reef. The dive is straightforward in protected water with minimal current. Survey the reef structure, look for marine life in crevices and under kelp canopy. Conservative bottom time (40-50 minutes) is recommended due to cold water. Ascend gradually with a full safety stop, using a surface marker buoy for boat pickup.
 
 ## Tips and Recommendations
 

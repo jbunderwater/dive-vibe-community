@@ -5,13 +5,15 @@
     "lon": -29.9476204,
     "osm_id": 5875583620,
     "osm_type": "node",
-    "depth": 35,
-    "site_type": "reef",
+    "depth": 29,
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "name": "princess alice bank",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -21,12 +23,14 @@
     "osm_id": null,
     "osm_type": null,
     "depth": 25,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -35,13 +39,15 @@
     "lon": -26.6333,
     "osm_id": null,
     "osm_type": null,
-    "depth": 30,
-    "site_type": "reef",
+    "depth": 13,
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -53,10 +59,12 @@
     "depth": 20,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -65,13 +73,15 @@
     "lon": -25.6667,
     "osm_id": null,
     "osm_type": null,
-    "depth": 30,
+    "depth": 20,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -80,13 +90,15 @@
     "lon": -25.5,
     "osm_id": null,
     "osm_type": null,
-    "depth": 15,
+    "depth": 20,
     "site_type": "cave",
     "entry_type": "shore",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -101,7 +113,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "false",
+      "validation_source": "perplexity_no_specific_data"
     }
   },
   {
@@ -110,13 +124,15 @@
     "lon": -27.2167,
     "osm_id": null,
     "osm_type": null,
-    "depth": 20,
+    "depth": 40,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -131,7 +147,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -146,7 +164,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   }
 ]

@@ -2,7 +2,7 @@
 name: Crystal Lagoon (Dive Site)
 lat: 36.0100895
 lng: 14.3277632
-difficulty: Intermediate
+difficulty: Beginner
 maxDepth: 20
 entryType: boat
 siteType: reef
@@ -24,7 +24,7 @@ Crystal Lagoon (Dive Site) is a dive site in Malta and Gozo offering rewarding d
 - **Location**: Malta and Gozo, Europe
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Light to moderate

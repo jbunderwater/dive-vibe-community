@@ -2,8 +2,8 @@
 name: Plane wreck
 lat: 29.4180629
 lng: 34.97162
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Beginner
+maxDepth: 17
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,34 +13,35 @@ addedBy: osm_import
 
 ## Plane wreck
 
-Plane wreck is a historic wreck dive in Jordan - Aqaba, Middle East.
+The C-130 Hercules is Aqaba's first aircraft wreck, deliberately sunk in 2017 as an artificial reef and diving attraction. The military transport plane's large interior and open doors provide fascinating penetration opportunities for divers of all levels.
 
 ## Overview
 
-Plane wreck is a dive site in Jordan - Aqaba featuring the wreck of the Plane wreck. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+A Lockheed C-130 Hercules transport aircraft, donated by the Royal Jordanian Air Force, was deliberately sunk on November 16, 2017, at 300 meters from shore in 17 meters of depth. All hazardous materials (fuel, oil, paint) were removed before sinking. The aircraft's doors were removed to provide easy access to the cavernous interior (approximately 12 meters long and 3 meters wide), which is well-lit by open doors and cockpit windows. In March 2020, a severe storm damaged the fuselage, breaking it into sections with the wings sinking deeper and the fuselage splitting. Despite the damage, it remains an accessible and exciting artificial reef.
 
 ## Site Information
 
-- **Location**: Jordan - Aqaba, Middle East
+- **Location**: Jordan - Aqaba, Red Sea (300 m from shore)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 17 meters
+- **Typical Visibility**: 20-40 meters
+- **Current**: Minimal to gentle
 - **Best Time**: September to May
+- **Water Temperature**: 18-27°C
 
 ## Marine Life
 
-Divers at this site can expect to encounter glassy sweepers, lionfish, groupers, coral growth, soft corals, whale sharks, manta rays, hammerhead sharks. Additional species commonly sighted include oceanic whitetip sharks, sea turtles, dolphins. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The aircraft structure is colonized with soft corals and houses schools of glassfish, snappers, and other reef fish. Lionfish hunt among the schools, and groupers shelter in the wreck spaces. The cockpit windows and open doors allow natural light, attracting diurnal fish species and offering excellent visibility for photography.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 20 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend to the cockpit area at 13 meters. The open doors and large windows provide safe, well-lit penetration without special training. Explore the spacious interior (12m x 3m) following natural light. Visit the intact sections and observe the sections separated by the 2020 storm. The shallow depths and excellent lighting make this suitable for newly certified divers. Plan for a gradual ascent with a safety stop at 5 meters.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Board the dive boat for a short ride to the site. Enter via giant stride or back roll. Descend directly to the aircraft structure. After exploration, ascend slowly with a safety stop. Deploy your surface marker buoy (SMB) and coordinate with the boat crew for pickup.
 
 ## Tips and Recommendations
 

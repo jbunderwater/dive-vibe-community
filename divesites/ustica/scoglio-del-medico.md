@@ -3,9 +3,9 @@ name: Scoglio del Medico
 lat: 38.7
 lng: 13.2
 difficulty: Advanced
-maxDepth: 40
+maxDepth: 38
 entryType: boat
-siteType: wall
+siteType: cave
 ref: null
 osmId: null
 addedBy: osm_import
@@ -17,26 +17,26 @@ Scoglio del Medico is a wall dive site in Ustica, Europe.
 
 ## Overview
 
-Scoglio del Medico is a dive site in Ustica featuring a dramatic vertical wall that drops into the deep blue. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Scoglio del Medico (Doctor's Rock) is a blackish lava cluster approximately 100 meters long and 20-30 meters wide, located 600 meters off Ustica's northwest coast. The site rises from a sandy bottom at 50 meters to its summit at 26 meters. The main attraction is the impressive "Grotta della Balena" (Whale Cave) on the southern side, named for its enormous whale-mouth-shaped opening. The dive features spectacular canyons, ravines, tunnels, and mystical light shows.
 
 ## Site Information
 
-- **Location**: Ustica, Europe
+- **Location**: Northwest coast of Ustica, Mediterranean
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 40 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Maximum Depth**: 38 meters
+- **Typical Visibility**: Good - usually 25-40 meters
 - **Current**: Light to moderate
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+The lava formation creates rich ravine habitat. Divers encounter groupers, moray eels, nudibranchs, and crustaceans. The dramatic topography and cave structures attract Mediterranean species adapted to shadowed environments.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-40 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+The dive structure is complex with multiple cave and passage options. At 18 meters depth, the entrance to the Grotta della Balena features a dramatic mouth-shaped opening. The cave extends through the rock and reaches 26 meters inside, requiring approximately 10 minutes to navigate. A 25-meter-wide underwater tunnel at 20-meter depth creates a unique passage. The site also features magnificent 30-meter-deep canyons formed by vertical walls on a rocky platform. Experience level and thorough briefing are essential for safe navigation.
 
 ## Entry and Exit
 
@@ -44,12 +44,12 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Book only with experienced local operators familiar with this complex site
+- The Grotta della Balena requires careful navigation and torch work
+- Bring a dive light to explore the Whale Cave interior
+- The underwater tunnel requires good awareness of buddy position
+- Respect the rocky formations to avoid breaking delicate lava structures
+- This site demands excellent buoyancy control in confined areas
 
 ## Safety Considerations
 

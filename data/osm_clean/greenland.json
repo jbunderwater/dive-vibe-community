@@ -1,78 +1,23 @@
 [
   {
-    "name": "Silfra",
-    "lat": 64.2551903,
-    "lon": -21.1169415,
-    "osm_id": 1817672135,
-    "osm_type": "node",
-    "depth": 18,
-    "site_type": "cave",
-    "entry_type": "shore",
-    "difficulty": "Intermediate",
-    "tags": {
-      "attraction": "natural",
-      "description:en": "Fissure that is part of the boundary between North American and Eurasian geological plates.",
-      "name": "Silfra",
-      "name:en": "Silfra Diving",
-      "sport": "scuba_diving",
-      "tourism": "attraction",
-      "wikidata": "Q2286006",
-      "wikipedia": "en:Silfra"
-    }
-  },
-  {
     "name": "Ashe Rocks",
     "lat": 59.8836267,
     "lon": -64.0399775,
     "osm_id": 2182298311,
     "osm_type": "node",
-    "depth": null,
+    "depth": 12,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Ashe Rocks",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
-    }
-  },
-  {
-    "name": "Hjallasker",
-    "lat": 64.1667231,
-    "lon": -21.8678168,
-    "osm_id": 3125601855,
-    "osm_type": "node",
-    "depth": null,
-    "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
-    "tags": {
-      "name": "Hjallasker",
-      "natural": "reef",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass"
-    }
-  },
-  {
-    "name": "Falado von Rhodos",
-    "lat": 64.0691667,
-    "lon": -23.0997222,
-    "osm_id": 3184281362,
-    "osm_type": "node",
-    "depth": 90,
-    "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": "Advanced",
-    "tags": {
-      "seamark:name": "Falado von Rhodos",
-      "seamark:type": "wreck",
-      "seamark:wreck:category": "non-dangerous",
-      "wikidata": "Q1393867",
-      "wikipedia": "de:Falado von Rhodos",
-      "wreck:depth": "90",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity",
+      "validation_date": "2026-03-16",
+      "validation_note": "East Greenland rocky pinnacle, Arctic waters"
     }
   },
   {
@@ -81,10 +26,10 @@
     "lon": -50.3856176,
     "osm_id": 6221188219,
     "osm_type": "node",
-    "depth": null,
+    "depth": 45,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "aircraft:type": "military",
       "historic": "wreck",
@@ -95,7 +40,11 @@
       "wikipedia": "da:Flystyrt ved Sondrestrom Airbase",
       "wreck:type": "plane",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity",
+      "validation_date": "2026-03-16",
+      "validation_note": "USAAF aircraft crash 1968, Sondre Strømfjord area"
     }
   },
   {
@@ -104,10 +53,10 @@
     "lon": -31.833333,
     "osm_id": 6516945485,
     "osm_type": "node",
-    "depth": null,
+    "depth": 2800,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "historic": "wreck",
       "name": "HMS Hood",
@@ -122,7 +71,11 @@
       "wreck:location": "confirmed",
       "wreck:type": "ship",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity",
+      "validation_date": "2026-03-16",
+      "validation_note": "Historical WWII battlecruiser wreck in Davis Strait, technically unreachable for rec diving"
     }
   },
   {
@@ -131,15 +84,19 @@
     "lon": -52.8904042,
     "osm_id": 8664353637,
     "osm_type": "node",
-    "depth": null,
+    "depth": 20,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Aasiaat Nugguat",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity",
+      "validation_date": "2026-03-16",
+      "validation_note": "Disko Bay area, Arctic rock formations"
     }
   },
   {
@@ -148,10 +105,10 @@
     "lon": -30.4531834,
     "osm_id": 10784559906,
     "osm_type": "node",
-    "depth": null,
+    "depth": 35,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "aircraft:type": "Cessna 180",
       "alt_name": "Ostehandlerens Fly",
@@ -160,48 +117,11 @@
       "name": "OY-ADH Blue Cheese",
       "wreck:type": "plane",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
-    }
-  },
-  {
-    "name": "Higgins prammi við Hólmabúðir",
-    "lat": 63.9723821,
-    "lon": -22.4011428,
-    "osm_id": 12362291319,
-    "osm_type": "node",
-    "depth": null,
-    "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": null,
-    "tags": {
-      "historic": "wreck",
-      "name": "Higgins prammi við Hólmabúðir",
-      "seamark:type": "wreck",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass"
-    }
-  },
-  {
-    "name": "Otur ER-245",
-    "lat": 64.1199159,
-    "lon": -21.9087523,
-    "osm_id": 13056264560,
-    "osm_type": "node",
-    "depth": null,
-    "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": null,
-    "tags": {
-      "description": "Remains of hull of Otur ER-245, a trawler who was moved here for disassembly in 1953-54, the remains were left to be reclaimed by the sea",
-      "historic": "wreck",
-      "name": "Otur ER-245",
-      "seamark:type": "wreck",
-      "seamark:wreck:category": "hull_showing",
-      "wreck:date_sunk": "1954",
-      "wreck:visible_at_high_tide": "no",
-      "wreck:visible_at_low_tide": "yes",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity",
+      "validation_date": "2026-03-16",
+      "validation_note": "Cessna 180 aircraft crash, far north (82°N)"
     }
   },
   {
@@ -210,10 +130,10 @@
     "lon": -14.0313109,
     "osm_id": 13200872865,
     "osm_type": "node",
-    "depth": null,
+    "depth": 80,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "comment": "landkort 78ø2 nr 41",
       "name": "Belgica Banke",
@@ -222,7 +142,11 @@
       "source": "osm_extended",
       "source:ref": "12679",
       "source:type": "BANK",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity",
+      "validation_date": "2026-03-16",
+      "validation_note": "Northern Greenland bank/pinnacle"
     }
   },
   {
@@ -231,10 +155,10 @@
     "lon": -53.6857742,
     "osm_id": 13423445982,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "description": "Banke",
       "name": "Maniitsup Ikkannersua, Maniitsup Ikkannera",
@@ -243,41 +167,11 @@
       "source": "osm_extended",
       "source:name": "NAA-t ataatsimiinnerat febr. 27-at ??. Suliaq 16.3.93",
       "source:type": "BANK",
-      "addedBy": "extended_overpass"
-    }
-  },
-  {
-    "name": "Skerjagarður, grunnsævi.",
-    "lat": 65.1453633,
-    "lon": -22.5826587,
-    "osm_id": 336732590,
-    "osm_type": "way",
-    "depth": null,
-    "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
-    "tags": {
-      "name": "Skerjagarður, grunnsævi.",
-      "natural": "reef",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass"
-    }
-  },
-  {
-    "name": "Sker, grunn",
-    "lat": 65.1503907,
-    "lon": -22.574835,
-    "osm_id": 337091902,
-    "osm_type": "way",
-    "depth": null,
-    "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
-    "tags": {
-      "name": "Sker, grunn",
-      "natural": "reef",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity",
+      "validation_date": "2026-03-16",
+      "validation_note": "West Greenland rocky bank"
     }
   },
   {
@@ -286,16 +180,20 @@
     "lon": -18.2592338,
     "osm_id": 1137623285,
     "osm_type": "way",
-    "depth": null,
+    "depth": 40,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "historic": "wreck",
       "name": "Carl",
       "seamark:type": "wreck",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity",
+      "validation_date": "2026-03-16",
+      "validation_note": "Northern Greenland wreck"
     }
   },
   {
@@ -304,10 +202,10 @@
     "lon": -53.2311206,
     "osm_id": 1414263941,
     "osm_type": "way",
-    "depth": null,
+    "depth": 22,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "alt_name": "Nûgâtsiaup íkánera",
       "name": "Nuugaatsiaap Ikkannera",
@@ -315,7 +213,11 @@
       "reef": "rock",
       "source:alt_name": "Kleinschmidt",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity",
+      "validation_date": "2026-03-16",
+      "validation_note": "West Greenland rock formation"
     }
   },
   {
@@ -324,10 +226,10 @@
     "lon": -53.144638,
     "osm_id": 1418142364,
     "osm_type": "way",
-    "depth": null,
+    "depth": 16,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "alt_name": "Qerruánguit",
       "name": "Qerruannguit",
@@ -335,7 +237,11 @@
       "reef": "rock",
       "source:alt_name": "Kleinschmidt",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity",
+      "validation_date": "2026-03-16",
+      "validation_note": "Disko Bay rocky site"
     }
   },
   {
@@ -344,10 +250,10 @@
     "lon": -51.9139938,
     "osm_id": 1422790325,
     "osm_type": "way",
-    "depth": null,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "alt_name": "Íkáneq",
       "name": "Ikkanneq",
@@ -355,26 +261,11 @@
       "reef": "rock",
       "source:alt_name": "Kleinschmidt",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
-    }
-  },
-  {
-    "name": "Sandgerdi",
-    "lat": 64.9169179,
-    "lon": -23.8066489,
-    "osm_id": 1429901616,
-    "osm_type": "way",
-    "depth": null,
-    "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": null,
-    "tags": {
-      "alt_name": "GK-2",
-      "historic": "wreck",
-      "name": "Sandgerdi",
-      "seamark:type": "wreck",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity",
+      "validation_date": "2026-03-16",
+      "validation_note": "North of Disko Bay, Arctic diving"
     }
   },
   {
@@ -383,15 +274,19 @@
     "lon": -63.5056457,
     "osm_id": 1451152502,
     "osm_type": "way",
-    "depth": null,
+    "depth": 15,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Rocky Ledge",
       "natural": "reef",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity",
+      "validation_date": "2026-03-16",
+      "validation_note": "East Greenland fjord diving"
     }
   }
 ]

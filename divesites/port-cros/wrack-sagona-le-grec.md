@@ -3,8 +3,8 @@ name: Wrack 'Sagona' (Le Grec)
 lat: 42.9932666
 lng: 6.2739333
 difficulty: Advanced
-maxDepth: 35
-entryType: shore
+maxDepth: 47
+entryType: boat
 siteType: wreck
 ref: null
 osmId: 663869693
@@ -17,22 +17,23 @@ Wrack 'Sagona' (Le Grec) is a reef dive site in Port-Cros, Europe.
 
 ## Overview
 
-Wrack 'Sagona' (Le Grec) is a dive site in Port-Cros offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Le Grec (also known as Sagona) is a legendary Mediterranean wreck at 47 meters depth located between Porquerolles and Port-Cros. This cargo vessel is completely encrusted with corals and anemones, serving as a thriving artificial reef that hosts an incredible abundance of marine life. Like the Donator wreck, the Grec benefits from exceptional biological richness, making it a must-dive site for experienced wreck divers seeking encounters with groupers and large pelagic fish. The wreck rivals the Donator in terms of marine biodiversity.
 
 ## Site Information
 
-- **Location**: Port-Cros, Europe
-- **Entry Type**: Shore entry
+- **Location**: Between Porquerolles and Port-Cros, Côte d'Azur, France
+- **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 35 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
+- **Maximum Depth**: 47 meters
+- **Typical Visibility**: 15-35 meters
+- **Current**: Moderate (seasonal)
 - **Best Time**: May to October
+- **Water Temperature**: 15-24°C
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
+The wreck is heavily encrusted with colorful anemones and corals supporting a thriving ecosystem. Brown groupers and schools of Mediterranean barracudas are regularly encountered. Moray eels, gorgonian fans, and sponges colonize the wreck's exterior. This is one of the richest wreck ecosystems in continental France, rivaling the Donator in biological abundance and offering exceptional opportunities to encounter large pelagics and groupers.
 
 ## Dive Profile
 

@@ -17,22 +17,23 @@ Plage de la Fausse Monnaie is a reef dive site in Port-Cros, Europe.
 
 ## Overview
 
-Plage de la Fausse Monnaie is a dive site in Port-Cros offering excellent diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Plage de la Fausse Monnaie is one of Port-Cros's most accessible sites—a shallow beach-entry reef perfect for beginner divers and training. With maximum depths of only 8 meters and minimal current, this site offers excellent opportunities to observe Mediterranean marine life without deep-water risks. This is an ideal site for Open Water certifications, refresher training, and first dives in Port-Cros.
 
 ## Site Information
 
-- **Location**: Port-Cros, Europe
+- **Location**: Beach access, Port-Cros National Park, France
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 8 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
+- **Typical Visibility**: 10-30 meters
+- **Current**: Minimal
 - **Best Time**: May to October
+- **Water Temperature**: 15-24°C
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
+Groupers, sea bream, Mediterranean wrasses, and juvenile fish schools are common at this shallow site. Moray eels and crabs occupy rocky crevices. Posidonia seagrass meadows immediately adjacent provide critical nursery habitat and excellent macro subjects. Nudibranchs and small sponges are abundant. This is an excellent site for macro photographers and naturalists seeking detailed observation of small creatures.
 
 ## Dive Profile
 

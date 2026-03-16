@@ -3,7 +3,7 @@ name: Grotta Azzurra
 lat: 38.705
 lng: 13.165
 difficulty: Beginner
-maxDepth: 15
+maxDepth: 20
 entryType: boat
 siteType: cave
 ref: null
@@ -17,26 +17,26 @@ Grotta Azzurra is a cave dive site in Ustica, Europe.
 
 ## Overview
 
-Grotta Azzurra is a dive site in Ustica featuring underwater cave and cavern formations. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Grotta Azzurra is an accessible beginner-friendly cave dive located approximately 15 minutes by boat from Ustica's port. The site features an incredible shoal that rises from 50 meters depth to just 3 meters at the summit, making it suitable for divers of all levels. It's one of the most popular shore entry points for snorkelers and a frequent location for dive courses and training.
 
 ## Site Information
 
-- **Location**: Ustica, Europe
+- **Location**: Ustica, Mediterranean
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: May to October
+- **Maximum Depth**: 20 meters
+- **Typical Visibility**: Excellent - typically 25-40 meters
+- **Current**: Light
+- **Best Time**: May to October (calmest conditions)
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+The shallow summit and surrounding reef support abundant small fish. The cave environment provides shelter for crustaceans and fish adapted to low-light conditions. The shoal attracts a variety of Mediterranean reef species.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the shoal from 50 meters and work upward, exploring features between 20-3 meters. Multiple dive routes are available suitable for various experience levels. It's an excellent site for courses with calm conditions and easy navigation. First-time divers can stay shallow while experienced divers can explore deeper sections.
 
 ## Entry and Exit
 

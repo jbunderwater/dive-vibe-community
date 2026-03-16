@@ -2,8 +2,8 @@
 name: Xlendi Tunnel
 lat: 36.0296422
 lng: 14.214495
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Beginner
+maxDepth: 10
 entryType: shore
 siteType: cave
 ref: null
@@ -17,15 +17,15 @@ Xlendi Tunnel is a reef dive site in Malta and Gozo, Europe.
 
 ## Overview
 
-Xlendi Tunnel is a dive site in Malta and Gozo offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Xlendi Tunnel is a shallow, beginner-friendly cave tunnel - ideal first cave dive. A 70m tunnel runs through limestone headland connecting two bays. Entrance at 5m, gentle descent to 8-10m, with cracks in ceiling letting light through creating a magical effect. Not a true overhead environment - surfaces available in many sections. No previous cave experience needed, though proper technique advised. Calm conditions, easy shore entry, excellent for both divers and sightseers.
 
 ## Site Information
 
 - **Location**: Malta and Gozo, Europe
 - **Entry Type**: Shore entry
 - **Site Type**: Cave/cavern
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 10 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: May to October

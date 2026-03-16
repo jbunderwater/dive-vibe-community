@@ -5,14 +5,17 @@
     "lon": 9.6124256,
     "osm_id": 4840240367,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 6,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "historic": "monument",
       "name": "MuMart (museo sommerso)",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research",
+      "description": "Underwater art museum with contemporary sculptures anchored on sandy seabed"
     }
   },
   {
@@ -28,7 +31,10 @@
     "tags": {
       "club": "sport",
       "name": "Diving Archimete",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research",
+      "description": "Rocky reef diving site in Alghero area with rich coral and fish life"
     }
   },
   {
@@ -37,8 +43,8 @@
     "lon": 9.6767178,
     "osm_id": 184754084,
     "osm_type": "way",
-    "depth": 25,
-    "site_type": "beach",
+    "depth": 18,
+    "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
@@ -48,85 +54,106 @@
       "name:sc": "Ispuligedenie",
       "natural": "beach",
       "sport": "scuba_diving",
-      "surface": "pebblestone"
+      "surface": "pebblestone",
+      "validated": "true",
+      "validation_source": "web_research",
+      "description": "Sheltered cove with dramatic south wall featuring caves and tunnels, crystal clear waters"
     }
   },
   {
     "name": "Nereo Cave",
     "lat": 40.56,
     "lon": 8.16,
-    "depth": 30,
+    "depth": 35,
     "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "web_research",
+      "description": "Largest marine cave in Mediterranean with 10+ entrances, tunnels, air chambers; red coral walls"
     }
   },
   {
     "name": "Capo Caccia Cliffs",
     "lat": 40.57,
     "lon": 8.155,
-    "depth": 25,
+    "depth": 30,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "web_research",
+      "description": "Dramatic vertical walls up to 30m with caves, cracks and rich marine life in protected marine reserve"
     }
   },
   {
     "name": "KT Wreck",
     "lat": 39.22,
     "lon": 9.12,
-    "depth": 35,
+    "depth": 34,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "web_research",
+      "description": "WWII German cargo ship KT12, split in two by torpedo, stern gun visible, surrounded by cargo fragments"
     }
   },
   {
     "name": "Tavolara Island",
     "lat": 40.89,
     "lon": 9.71,
-    "depth": 20,
+    "depth": 25,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "web_research",
+      "description": "Part of marine protected area with limestone and granite formations, 16 mooring buoys, dusky groupers"
     }
   },
   {
     "name": "Secca del Papa",
     "lat": 39.13,
     "lon": 8.4,
-    "depth": 18,
-    "site_type": "reef",
+    "depth": 35,
+    "site_type": "pinnacle",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "web_research",
+      "description": "Magnificent shoal split by sandy channel, top 15-24m, banks of snappers, groupers, barracuda; current present"
     }
   },
   {
     "name": "Isola dei Cavoli",
     "lat": 39.08,
     "lon": 9.53,
-    "depth": 22,
+    "depth": 25,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "web_research",
+      "description": "Granite island in Capo Carbonara Marine Protected Area with rocky seabed, sea fans, nudibranchs, red coral"
     }
   },
   {
@@ -136,10 +163,13 @@
     "depth": 15,
     "site_type": "cave",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "web_research",
+      "description": "Shallow cave systems averaging 9m depth with spectacular halocline, Bue Marino cave with stalactites"
     }
   },
   {
@@ -152,7 +182,10 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "web_research",
+      "description": "Protected marine area with Capo Carbonara, easy shallow reef, abundant fish, snorkeling friendly"
     }
   },
   {
@@ -165,7 +198,10 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "web_research",
+      "description": "Posidonia oceanica meadows and coral formations in Capo Caccia Marine Protected Area, easy shore entry"
     }
   }
 ]

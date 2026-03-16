@@ -2,9 +2,9 @@
 name: Belgica Banke
 lat: 79.0612626
 lng: -14.0313109
-difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+difficulty: Advanced
+maxDepth: 80
+entryType: boat
 siteType: reef
 ref: null
 osmId: 13200872865
@@ -13,52 +13,57 @@ addedBy: osm_import
 
 ## Belgica Banke
 
-Belgica Banke is a reef dive site in Greenland, Arctic.
+Belgica Banke is an advanced Arctic diving site in Greenland featuring Northern Greenland underwater bank/pinnacle. This site requires Advanced cold-water certification and expedition diving experience.
 
 ## Overview
 
-Belgica Banke is a dive site in Greenland offering rewarding diving on healthy coral reef structures. Located in the Arctic region, this site offers 10-30 meters of visibility with water temperatures averaging -1 to 8°C.
+Belgica Banke offers remote Arctic diving in pristine Greenland waters. The site features Northern Greenland underwater bank/pinnacle with extreme environmental conditions requiring specialized training and equipment. Divers encounter unique Arctic marine life in one of the world's most remote diving destinations.
 
 ## Site Information
 
-- **Location**: Greenland, Arctic
-- **Entry Type**: Shore entry
+- **Location**: Northern Greenland waters (79.06°N, 14.03°W)
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Variable, tidal currents
-- **Best Time**: June to September
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 80 meters
+- **Typical Visibility**: 8-15 meters (26-50 feet)
+- **Water Temperature**: 0 to 2°C (32-36°F) — **DRY SUIT REQUIRED**
+- **Current**: Variable, tidal and fjord currents
+- **Best Time**: June to September (Arctic summer only)
 
 ## Marine Life
 
-Divers at this site can expect to encounter seals (harbor, bearded, ringed), walruses, beluga whales, narwhals, polar cod, sea anemones, soft corals, kelp forests. Additional species commonly sighted include sea urchins, starfish, crabs.
+Divers encounter cold-adapted Arctic marine species: ringed seals, bearded seals, occasional narwhals (summer), kelp forests, polar cod, Arctic char, sea anemones, and crustaceans. The remote location means wildlife encounters are common on surface.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend conservatively to the site's maximum depth, navigating rock formations or wreck features. Arctic currents and visibility variability require careful navigation. Most marine life concentrates around structure at 5-15 meters. Allow adequate air for conservative safety stop at 5 meters. Total bottom time should be strictly limited due to extreme conditions.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat-based entry from local Greenlandic dive operators (very limited). Standard boat drop with surface interval between dives. Conservative ascent with mandatory safety stop. Exit via boat. Surface safety monitoring for ice, wind, and wildlife essential.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Arrange with Arctic dive operators well in advance (very few exist)
+- Thermal undersuit system and dry suit integrity are non-negotiable
+- Bring redundant lights, gauges, and air supplies
+- Study local fjord conditions and tidal patterns
+- Polar bear surface awareness training required
+- Plan for limited dive opportunities per day due to extreme weather
+- Bring surface signaling equipment (dye marker, whistle)
 
 ## Safety Considerations
 
-Be aware of extreme cold, hypothermia risk, ice in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+**EXTREME CONDITIONS**: Arctic water temperature (0-4°C), severe hypothermia risk, strong currents, ice hazards, kelp entanglement risk, isolated location with minimal rescue, and **polar bear presence**. This is Advanced-only Arctic diving. Dry suit failure = rapid incapacitation. Never dive without redundant systems and professional guide.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Arctic diving provides unique photography opportunities with extended daylight in summer. Rock formations and marine life offer diverse subjects. Cold-adapted species and kelp forests provide macro and wide-angle options.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-15
+- **Last Updated**: 2026-03-16
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-15.*
+*This dive site information was researched and validated for Arctic conditions. Last updated 2026-03-16.*

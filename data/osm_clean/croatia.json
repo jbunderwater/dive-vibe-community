@@ -5,8 +5,8 @@
     "lon": 14.2790667,
     "osm_id": 495589635,
     "osm_type": "node",
-    "depth": 60,
-    "minDepth": 30,
+    "depth": 55,
+    "minDepth": 25,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -18,7 +18,9 @@
       "name": "Lina wreck",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "type": "wreck"
+      "type": "wreck",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -28,6 +30,7 @@
     "osm_id": 663869712,
     "osm_type": "node",
     "depth": 40,
+    "minDepth": 28,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -42,7 +45,9 @@
       "wikipedia": "hr:Baron Gautsch",
       "wreck:date_sunk": "1914-08-13",
       "wreck:visible_at_high_tide": "no",
-      "wreck:visible_at_low_tide": "no"
+      "wreck:visible_at_low_tide": "no",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -135,7 +140,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Margarina (Sanddüne)",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -189,15 +196,17 @@
     "lon": 14.7460115,
     "osm_id": 663869727,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 4,
     "site_type": "cave",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Medova Buža",
       "natural": "cave_entrance",
       "source": "geoportal.dgu.hr: TK25 (Topografska karta 1:25000)",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -236,13 +245,15 @@
     "lon": 14.4702833,
     "osm_id": 663869731,
     "osm_type": "node",
-    "depth": 25,
-    "site_type": "reef",
+    "depth": 45,
+    "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Kap Selzine",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -342,7 +353,7 @@
     "osm_id": 663869739,
     "osm_type": "node",
     "depth": 25,
-    "site_type": "reef",
+    "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
@@ -448,13 +459,15 @@
     "lon": 14.7709667,
     "osm_id": 663869746,
     "osm_type": "node",
-    "depth": 25,
-    "site_type": "reef",
+    "depth": 20,
+    "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Tunel Prvić",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -494,6 +507,7 @@
     "osm_id": 663870764,
     "osm_type": "node",
     "depth": 55,
+    "minDepth": 25,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -501,7 +515,9 @@
       "historic": "wreck",
       "name": "Wrack Lina",
       "seamark:type": "wreck",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -540,13 +556,15 @@
     "lon": 14.6733667,
     "osm_id": 663870768,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 13,
     "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Grotte Vrbnik",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -555,7 +573,8 @@
     "lon": 14.6457184,
     "osm_id": 663870769,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 32,
+    "minDepth": 10,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -569,7 +588,9 @@
       "wreck:date_sunk": "1968-01-08",
       "wreck:length": "60.2",
       "wreck:type": "ship",
-      "wreck:width": "8.3"
+      "wreck:width": "8.3",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -625,14 +646,16 @@
     "lon": 13.6106199,
     "osm_id": 1874390437,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 15,
     "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Banjol",
       "natural": "cave_entrance",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -676,7 +699,7 @@
     "osm_id": 3084519395,
     "osm_type": "node",
     "depth": 25,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
@@ -724,11 +747,11 @@
     "lon": 14.4363449,
     "osm_id": 5769069572,
     "osm_type": "node",
-    "depth": 45,
-    "minDepth": 31,
+    "depth": 42,
+    "minDepth": 26,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Advanced",
+    "difficulty": "Intermediate",
     "tags": {
       "allowed_depth": "40",
       "difficulty": "expert",
@@ -739,7 +762,9 @@
       "seamark:type": "wreck",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "type": "wreck"
+      "type": "wreck",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -775,7 +800,9 @@
       "scuba_diving:depth": "2",
       "scuba_diving:divespot": "yes",
       "scuba_diving:type": "snorkeling",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -784,10 +811,11 @@
     "lon": 15.6745446,
     "osm_id": 9510868539,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 50,
+    "minDepth": 38,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "historic": "wreck",
       "name": "Francesca da Rimini",
@@ -795,7 +823,9 @@
       "sport": "scuba_diving",
       "wreck:date_sunk": "24.01.1944",
       "wreck:visible_at_high_tide": "no",
-      "wreck:visible_at_low_tide": "no"
+      "wreck:visible_at_low_tide": "no",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -824,10 +854,10 @@
     "lon": 15.7863515,
     "osm_id": 12498962266,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 22,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "historic": "wreck",
       "name": "Plavi Jadran",
@@ -835,7 +865,9 @@
       "seamark:wreck:water_level": "20 m",
       "sport": "scuba_diving",
       "wreck:date_sunk": "2018-01-31",
-      "wreck:type": "ship"
+      "wreck:type": "ship",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -844,15 +876,17 @@
     "lon": 15.7010576,
     "osm_id": 1071050527,
     "osm_type": "way",
-    "depth": 25,
-    "site_type": "reef",
+    "depth": 28,
+    "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Stuka / Junkers Ju 87",
       "natural": "water",
       "scuba_diving:divespot": "yes",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   }
 ]

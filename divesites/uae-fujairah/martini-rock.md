@@ -3,9 +3,9 @@ name: Martini Rock
 lat: 25.6083
 lng: 56.275
 difficulty: Intermediate
-maxDepth: 22
+maxDepth: 20
 entryType: boat
-siteType: reef
+siteType: pinnacle
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Martini Rock
 
-Martini Rock is a reef dive site in UAE - Fujairah, Middle East.
+Martini Rock is an intermediate-level pinnacle dive in Fujairah offering dramatic rock formations and diverse coral ecosystems.
 
 ## Overview
 
-Martini Rock is a dive site in UAE - Fujairah offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Martini Rock features a prominent underwater rock structure with depths ranging from 12-20 meters. A notable current makes this site more suited to intermediate divers. The rock formation itself creates dramatic landscape photography opportunities and is covered with various soft corals and marine growth. The site is best dived during periods of manageable current.
 
 ## Site Information
 
-- **Location**: UAE - Fujairah, Middle East
+- **Location**: UAE - Fujairah coast
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Maximum Depth**: 20 meters
+- **Typical Visibility**: 15-20 meters
+- **Current**: Moderate to strong (main challenge of site)
+- **Best Time**: September to May (check conditions)
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Martini Rock's rock structures attract diverse reef fish species and soft corals. Expect to encounter groupers, lionfish, moray eels, and various smaller reef fish. The structure provides excellent habitat for macro photography subjects.
 
 ## Dive Profile
 

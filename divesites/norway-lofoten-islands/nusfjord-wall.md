@@ -3,7 +3,7 @@ name: Nusfjord Wall
 lat: 68.035
 lng: 13.35
 difficulty: Advanced
-maxDepth: 25
+maxDepth: 22
 entryType: boat
 siteType: wall
 ref: null
@@ -13,51 +13,51 @@ addedBy: osm_import
 
 ## Nusfjord Wall
 
-Nusfjord Wall is a wall dive site in Norway Lofoten Islands, Europe.
+Nusfjord Wall is an advanced wall dive known locally as "Shit Wall," featuring one of Nusfjord's most dramatic vertical rock faces. This anemone-covered wall is a stunning representation of Arctic wall diving near this historic fishing village.
 
 ## Overview
 
-Nusfjord Wall is a dive site in Norway Lofoten Islands featuring a dramatic vertical wall that drops into the deep blue. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The Nusfjord Wall is a steep rock face rising from the harbor area, with the most beautiful portions in shallow water. The wall is thickly covered with thousands of anemones, creating a spectacular visual display. The wall rises from approximately 12 meters at the top to 22 meters depth. Visibility typically ranges 10-20 meters, with water temperatures between 0-15°C depending on season. This is an advanced dive due to the depth, current potential, and skill required for proper wall technique in Arctic conditions.
 
 ## Site Information
 
-- **Location**: Norway Lofoten Islands, Europe
+- **Location**: Nusfjord Harbor, Flakstad, Lofoten Islands, Arctic Norway
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Maximum Depth**: 22 meters
+- **Depth Range**: 12-22 meters
+- **Typical Visibility**: 10-20 meters
+- **Water Temperature**: 0-15°C (seasonal)
 - **Current**: Light to moderate
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+The wall is famously covered with thousands of sea anemones in dense colonies, creating a carpet-like appearance. Arctic species include sea urchins, crabs, starfish, and cold-adapted fish. The wall provides shelter for small fish and crustaceans. The anemone-rich ecosystem supports interesting macro photography and biological observation of Arctic fauna.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-25 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Begin at the north end of the wall in shallower water (12 meters) to maximize bottom time. Descend slowly along the wall face, staying 0.5-1 meter from the structure to observe anemone colonies and attached organisms. Work deeper gradually, reaching maximum depth of 22 meters. Monitor air consumption carefully; wall diving at depth requires controlled breathing. Begin ascent with adequate air reserves and conduct proper safety stops.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by dive boat from Nusfjord. Entry is typically via giant stride into the water. Follow operator's descent briefing for the wall location. Deploy surface marker buoy (SMB) during your safety stop. Exit via boat pickup as directed by crew.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Start dive at the north end in shallow water to maximize bottom time
+- Maintain distance from the wall (0.5-1 meter) to observe anemone ecosystems
+- Bring a macro lens for photographing the dense anemone colonies
+- Watch depth carefully—it's easy to exceed planned depth on walls
+- Bring a dive torch to illuminate anemone colors and detail
+- Wear thermal protection; Arctic water is consistently cold
+- Book experienced Arctic wall-diving specialists for best results
+- Visit during summer (May-August) for warmer water and better conditions
 
 ## Safety Considerations
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+Cold water requires specialized thermal protection and hypothermia awareness. Wall dives can lead to unplanned depth increase; monitor gauges carefully. Monitor air consumption—cold water increases air use. Always dive with a buddy and use a safety sausage. Respect the anemone ecosystem by maintaining proper buoyancy and distance.
 
 ## Additional Resources
 

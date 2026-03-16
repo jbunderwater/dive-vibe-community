@@ -2,8 +2,8 @@
 name: Plavi Jadran
 lat: 43.7259359
 lng: 15.7863515
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Beginner
+maxDepth: 22
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,30 +13,36 @@ addedBy: osm_import
 
 ## Plavi Jadran
 
-Plavi Jadran is a historic wreck dive in Croatia, Europe.
+Plavi Jadran is a recent shipwreck offering beginners an accessible introduction to wreck diving in the Adriatic. This 30-meter cargo ship sank in 2018 following a collision off the island of Prvić in central Croatia, creating a young but already colonizing artificial reef habitat.
 
 ## Overview
 
-Plavi Jadran is a dive site in Croatia featuring the wreck of the Plavi Jadran which sank in 2018-01-31. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+On January 31, 2018, the Plavi Jadran (a 30-meter cargo ship) collided with the passenger ferry Tijata operated by Jadrolinija. The cargo ship sank rapidly, resting on the seabed at a depth of approximately 20-22 meters. The ship carried two crew members (captain and owner) and one additional crew member at the time of collision. All crew members survived the incident. As a very recent wreck, the Plavi Jadran still retains good structural integrity and provides accessible wreck diving suitable for recreational divers with proper training.
 
 ## Site Information
 
-- **Location**: Croatia, Europe
+- **Location**: Off Prvić Island, Central Croatia (Adriatic Sea)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Difficulty Level**: Beginner
+- **Depth**: 20-22 meters (very accessible depth)
+- **Wreck Dimensions**: 30 meters long
+- **Typical Visibility**: 10-30 meters
 - **Current**: Light to moderate
 - **Best Time**: May to October
+- **Historical**: Recent sinking (2018) provides excellent teaching opportunity
 
 ## Marine Life
 
-Divers at this site can expect to encounter conger eels, lobsters, crabs, anemones, coral encrustation, groupers, moray eels, octopus. Additional species commonly sighted include barracuda, sea bream, amberjack. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The wreck is beginning to accumulate marine colonization. Fish are already taking shelter in structural cavities. Soft corals and sponges will increasingly colonize the hull as years pass. Currently, it serves as a growing artificial reef with developing biological communities.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 25 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The shallow depth (20-22m) allows recreational divers with proper training to explore the wreck with good bottom time. The structure is relatively accessible for beginners. Maintain proper buoyancy to avoid silt disturbance. The recent sinking means fewer encrusting organisms, making structural details clearly visible.
+
+## Historical Note
+
+This wreck represents a recent maritime incident. Both the Plavi Jadran and Tijata were affected; crews were rescued safely. The wreck has become a valuable training and tourism dive site.
 
 ## Entry and Exit
 

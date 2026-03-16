@@ -2,10 +2,10 @@
 name: Ras il-Ħobż (Dive Site)
 lat: 36.0156263
 lng: 14.2793976
-difficulty: Intermediate
-maxDepth: 30
+difficulty: Advanced
+maxDepth: 100
 entryType: boat
-siteType: reef
+siteType: pinnacle
 ref: null
 osmId: 4159831401
 addedBy: osm_import
@@ -23,9 +23,9 @@ Ras il-Ħobż (Dive Site) is a dive site in Malta and Gozo offering rewarding di
 
 - **Location**: Malta and Gozo, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
+- **Site Type**: Pinnacle/seamount
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 100 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: May to October

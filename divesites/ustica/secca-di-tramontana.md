@@ -5,7 +5,7 @@ lng: 13.16
 difficulty: Advanced
 maxDepth: 28
 entryType: boat
-siteType: reef
+siteType: seamount
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Secca di Tramontana
 
-Secca di Tramontana is a reef dive site in Ustica, Europe.
+Secca di Tramontana is a seamount dive site at Ustica's northern edge, reserved for advanced divers.
 
 ## Overview
 
@@ -23,7 +23,7 @@ Secca di Tramontana is a dive site in Ustica offering rewarding diving on health
 
 - **Location**: Ustica, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Seamount
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 28 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

@@ -3,7 +3,7 @@ name: MT Hephaestus
 lat: 36.0167721
 lng: 14.2900963
 difficulty: Advanced
-maxDepth: 46
+maxDepth: 47
 entryType: boat
 siteType: wreck
 ref: null
@@ -25,7 +25,7 @@ MT Hephaestus is a dive site in Malta and Gozo featuring the wreck of the MT Hep
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 46 meters
+- **Maximum Depth**: 47 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: May to October

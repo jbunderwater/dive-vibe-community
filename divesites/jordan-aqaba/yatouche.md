@@ -13,34 +13,35 @@ addedBy: osm_import
 
 ## Yatouche
 
-Yatouche is a historic wreck dive in Jordan - Aqaba, Middle East.
+Yatouche is a wreck dive site in Aqaba's northern diving area. This boat-accessible wreck sits at moderate depth and is part of Aqaba's diverse artificial reef collection.
 
 ## Overview
 
-Yatouche is a dive site in Jordan - Aqaba featuring the wreck of the Yatouche. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Yatouche is one of Aqaba's historic wreck sites, accessible by boat in the northern area of the diving zone. At a maximum depth of 20 meters, this wreck provides an intermediate-level dive with wreck structure and surrounding reef formation. The site is less frequently dived than the more famous Cedar Pride but offers good opportunities for wreck exploration and marine life observation.
 
 ## Site Information
 
-- **Location**: Jordan - Aqaba, Middle East
+- **Location**: Jordan - Aqaba, Red Sea (northern zone)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
+- **Typical Visibility**: 20-40 meters
+- **Current**: Minimal to gentle
 - **Best Time**: September to May
+- **Water Temperature**: 18-27°C
 
 ## Marine Life
 
-Divers at this site can expect to encounter glassy sweepers, lionfish, groupers, coral growth, soft corals, whale sharks, manta rays, hammerhead sharks. Additional species commonly sighted include oceanic whitetip sharks, sea turtles, dolphins. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The wreck structure provides habitat for lionfish, groupers, and other reef fish. Soft corals and sponges colonize the structure. Schools of snapper and other pelagic species visit the site. Nudibranchs and small crustaceans inhabit the wreck surfaces.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 20 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend via the boat mooring to the wreck structure at around 20 meters. Explore the wreck exterior and accessible sections while monitoring your air supply and depth. Observe the marine life and coral growth around the structure. Plan for a gradual ascent with a safety stop at 5 meters, maintaining proper buoyancy to avoid silt disturbance.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Board the dive boat for access to this northern site. Enter via giant stride or back roll. Descend along the mooring line or directly to the wreck structure. After exploration, ascend slowly with appropriate safety stops. Deploy your surface marker buoy (SMB) and coordinate with the boat crew for pickup.
 
 ## Tips and Recommendations
 

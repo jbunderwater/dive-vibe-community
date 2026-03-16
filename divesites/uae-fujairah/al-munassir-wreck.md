@@ -3,7 +3,7 @@ name: Al Munassir Wreck
 lat: 25.5083
 lng: 56.3583
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 26
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Al Munassir Wreck
 
-Al Munassir Wreck is a historic wreck dive in UAE - Fujairah, Middle East.
+Al Munassir is an intermediate-level warship wreck located in the Muscat area with exceptional fish aggregations and coral growth.
 
 ## Overview
 
-Al Munassir Wreck is a dive site in UAE - Fujairah featuring the wreck of the Al Munassir Wreck. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Al Munassir is a 3,000-ton English-built warship commissioned by the Royal Navy of Oman. The vessel was deliberately sunk in 2003 to create an artificial reef. The wreck sits upright at 26-30 meters depth with the superstructure rising to 6 meters. This purposefully sunk vessel has become densely colonized with corals and sponges and attracts exceptionally large numbers of fish, particularly snappers and other schooling species.
 
 ## Site Information
 
-- **Location**: UAE - Fujairah, Middle East
+- **Location**: Muscat area, Bandar Al Khayran (may be closer to Oman than UAE)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Maximum Depth**: 26 meters
+- **Typical Visibility**: 15-25 meters
+- **Current**: Mild to moderate
+- **Best Time**: Year-round accessible
 
 ## Marine Life
 
-Divers at this site can expect to encounter glassy sweepers, lionfish, groupers, coral growth, soft corals, whale sharks, manta rays, hammerhead sharks. Additional species commonly sighted include oceanic whitetip sharks, sea turtles, dolphins. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Al Munassir is famous for extraordinary fish aggregations. Massive schools of snappers, angelfish, triggerfish, parrotfish, barracuda, batfish, and sergeant fish surround the structure. Lionfish, rays, and sea turtles are common. The gun platform and helicopter structures are covered in corals. Seahorses cling to the anchor chain.
 
 ## Dive Profile
 

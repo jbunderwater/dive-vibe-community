@@ -31,11 +31,13 @@
       "historic": "wreck",
       "name": "Cedar Pride",
       "seamark:type": "wreck",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
-    "name": "סופה",
+    "name": "Soufa",
     "lat": 29.5447222,
     "lon": 34.9539555,
     "osm_id": 663869878,
@@ -65,23 +67,9 @@
     "difficulty": "Beginner",
     "tags": {
       "name": "Japanese Gardens Coral Reefs",
-      "sport": "scuba_diving"
-    }
-  },
-  {
-    "name": "Cedar Pride Shipwreck",
-    "lat": 29.4310657,
-    "lon": 34.9731609,
-    "osm_id": 4329102691,
-    "osm_type": "node",
-    "depth": 27,
-    "site_type": "wreck",
-    "entry_type": "shore",
-    "difficulty": "Intermediate",
-    "tags": {
-      "name": "Cedar Pride Shipwreck",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -90,13 +78,15 @@
     "lon": 34.9721236,
     "osm_id": 5504662457,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 18,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Gorgon 1",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -105,14 +95,16 @@
     "lon": 34.9716597,
     "osm_id": 5522700737,
     "osm_type": "node",
-    "depth": 20,
-    "site_type": "reef",
+    "depth": 6,
+    "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Tank",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -121,14 +113,16 @@
     "lon": 34.97162,
     "osm_id": 5522700738,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 17,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Plane wreck",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -137,18 +131,20 @@
     "lon": 34.9737847,
     "osm_id": 5603008074,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 18,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Rainbow reef",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
-    "name": "אתר צלילה -סטי\"ל (24 מטר)",
+    "name": "Underwater Military Museum",
     "lat": 29.5145068,
     "lon": 34.9270007,
     "osm_id": 8577535117,
@@ -156,14 +152,16 @@
     "depth": 20,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "historic": "wreck",
       "name": "אתר צלילה -סטי\"ל (24 מטר)",
       "name:he": "אתר צלילה -סטי\"ל (24 מטר)",
       "seamark:type": "wreck",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   }
 ]

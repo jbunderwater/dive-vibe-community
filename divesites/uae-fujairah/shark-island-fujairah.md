@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Shark Island Fujairah
 
-Shark Island Fujairah is a reef dive site in UAE - Fujairah, Middle East.
+Shark Island is a beginner-friendly reef dive site near Fujairah, featuring Anemone Gardens and diverse coral ecosystems.
 
 ## Overview
 
-Shark Island Fujairah is a dive site in UAE - Fujairah offering excellent diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Shark Island and its adjacent Anemone Gardens feature soft coral reefs on sandy bottoms with excellent beginner accessibility. Typical depths range from 8-15 meters. The site is known for encounters with black-tipped reef sharks, moray eels, and vibrant soft coral species. This popular boat dive destination offers good visibility and calm conditions suitable for newer divers.
 
 ## Site Information
 
-- **Location**: UAE - Fujairah, Middle East
+- **Location**: UAE - Fujairah, northeast of main coast
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
+- **Typical Visibility**: 15-20 meters
+- **Current**: Mild to moderate
 - **Best Time**: September to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Shark Island hosts dense soft coral colonies and is famous for anemone gardens teeming with clownfish. Black-tipped reef sharks are the area's namesake marine life and are commonly encountered. Moray eels, groupers, and various reef fish species populate the site. The sandy bottom supports garden eels and rays.
 
 ## Dive Profile
 

@@ -2,8 +2,8 @@
 name: Francesca da Rimini
 lat: 43.72182
 lng: 15.6745446
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Advanced
+maxDepth: 50
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,30 +13,32 @@ addedBy: osm_import
 
 ## Francesca da Rimini
 
-Francesca da Rimini is a historic wreck dive in Croatia, Europe.
+Francesca da Rimini is a deep, challenging World War II-era cargo ship wreck located off the island of Kaprije in central Croatia. This Italian warship was torpedoed and sunk by British Spitfire bombers in March 1944 while carrying weapons and ammunition. The well-preserved wreck offers an historically significant and technically demanding dive experience.
 
 ## Overview
 
-Francesca da Rimini is a dive site in Croatia featuring the wreck of the Francesca da Rimini which sank in 24.01.1944. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Built in Rijeka in 1942 as a 42m cargo warship, the Francesca da Rimini sank on March 22, 1944 after being bombed by Allied forces. The wreck lies upright on the seabed with three masts, two of which are broken in the sand and one rising upright to 28 meters. The ship is extremely well preserved, though diving it requires advanced skills due to depth and proximity to the north coast of Kaprije, creating challenging conditions with unpredictable currents.
 
 ## Site Information
 
-- **Location**: Croatia, Europe
+- **Location**: Off Kaprije Island, Central Croatia (Adriatic Sea)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: May to October
+- **Difficulty Level**: Advanced
+- **Depth Range**: 38-50 meters (stern at 38m, deeper sections to 50m)
+- **Mast Height**: Upright mast reaches to 28 meters
+- **Typical Visibility**: 10-40 meters depending on season
+- **Current**: Moderate to strong (north coast exposure)
+- **Best Time**: May to September (summer/early fall)
+- **Historical Significance**: Italian cargo vessel seized by Nazi Germany; sunk during WWII
 
 ## Marine Life
 
-Divers at this site can expect to encounter conger eels, lobsters, crabs, anemones, coral encrustation, groupers, moray eels, octopus. Additional species commonly sighted include barracuda, sea bream, amberjack. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The wreck is encrusted with sponges and soft corals, creating a colorful artificial reef. Conger eels, lobsters, scorpionfish, and Mediterranean groupers inhabit the wreck structure. The hull plates support vibrant growth of red and orange moss animals. Barracuda and sea bream are common around the exterior.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 25 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+This is an advanced technical dive requiring careful planning. Descent to 38-50 meters takes approximately 3-4 minutes. The maximum bottom time is severely limited at these depths—calculate your no-decompression limits carefully. The upright mast (to 28m) offers shallower exploration options. Check local conditions with operators before diving, as currents near Kaprije can be unpredictable. Plan adequate reserve gas for safety stops at 5 meters.
 
 ## Entry and Exit
 

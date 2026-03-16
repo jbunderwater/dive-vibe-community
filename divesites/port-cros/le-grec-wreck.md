@@ -3,7 +3,7 @@ name: Le Grec Wreck
 lat: 43.03
 lng: 6.37
 difficulty: Advanced
-maxDepth: 45
+maxDepth: 47
 entryType: boat
 siteType: wreck
 ref: null
@@ -17,22 +17,23 @@ Le Grec Wreck is a historic wreck dive in Port-Cros, Europe.
 
 ## Overview
 
-Le Grec Wreck is a dive site in Port-Cros featuring the wreck of the Le Grec Wreck. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Le Grec (also known as Sagona) is a legendary deep wreck dive located between Porquerolles and Port-Cros. This cargo vessel lies at 47 meters depth and is completely encrusted with corals and anemones, providing shelter for abundant marine life. Like its sister wreck the Donator, the Grec benefits from an incredible abundance of life and is a favorite site for experienced wreck divers seeking dramatic encounters with pelagics and groupers.
 
 ## Site Information
 
-- **Location**: Port-Cros, Europe
+- **Location**: Between Porquerolles and Port-Cros, Côte d'Azur, France
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 45 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
+- **Maximum Depth**: 47 meters
+- **Typical Visibility**: 15-35 meters
+- **Current**: Moderate (depends on season)
 - **Best Time**: May to October
+- **Water Temperature**: 15-24°C
 
 ## Marine Life
 
-Divers at this site can expect to encounter conger eels, lobsters, crabs, anemones, coral encrustation, groupers, moray eels, octopus. Additional species commonly sighted include barracuda, sea bream, amberjack. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The wreck is encrusted with colorful anemones and soft corals supporting a thriving ecosystem. Brown groupers, moray eels, and schools of barracuda frequent the structure. Gorgonian fans and sponges create intricate habitats on the wreck's exterior. The abundance of life rivals the Donator, making this one of the most biodiverse wreck sites in the Mediterranean.
 
 ## Dive Profile
 

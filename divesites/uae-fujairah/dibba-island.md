@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Dibba Island
 
-Dibba Island is a reef dive site in UAE - Fujairah, Middle East.
+Dibba Island is a beginner-friendly reef dive near the Dibba area in northern Fujairah.
 
 ## Overview
 
-Dibba Island is a dive site in UAE - Fujairah offering excellent diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Dibba Island offers shallow reef diving suitable for beginners with depths to 15 meters. The site features healthy coral structures and good fish diversity in the clear Gulf of Oman waters. Located in the northern Fujairah region, this boat dive site provides relaxed exploration of natural coral reef formations with excellent visibility typical of the East Coast diving season.
 
 ## Site Information
 
-- **Location**: UAE - Fujairah, Middle East
+- **Location**: UAE - Fujairah, northern coast near Dibba
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
+- **Typical Visibility**: 15-20 meters
+- **Current**: Mild to moderate
 - **Best Time**: September to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Dibba Island features typical Gulf of Oman reef fish species including clownfish, butterflyfish, groupers, lionfish, and various goby species. Moray eels inhabit reef crevices. Soft corals and hard coral formations provide habitat for abundant small reef fish.
 
 ## Dive Profile
 

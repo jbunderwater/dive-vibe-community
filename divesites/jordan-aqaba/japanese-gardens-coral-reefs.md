@@ -13,34 +13,35 @@ addedBy: osm_import
 
 ## Japanese Gardens Coral Reefs
 
-Japanese Gardens Coral Reefs is a reef dive site in Jordan - Aqaba, Middle East.
+The Japanese Gardens is one of Aqaba's most beautiful and beginner-friendly reef sites, featuring shallow hard corals in the shallows that transition to deeper soft coral formations and an impressive Black Coral Valley at 26-30 meters.
 
 ## Overview
 
-Japanese Gardens Coral Reefs is a dive site in Jordan - Aqaba offering excellent diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Located just south of the Cedar Pride wreck and offshore from Aqaba's electricity plant, the Japanese Gardens features colorful, healthy coral formations that start in just a few meters of water and progressively deepen. In 2013, corals were relocated here from the Saudi border to save them from port development, and they are now flourishing as part of this vibrant reef ecosystem. The sheltered, shallow reef makes it ideal for snorkeling and beginner diving, while deeper sections offer advanced exploration opportunities.
 
 ## Site Information
 
-- **Location**: Jordan - Aqaba, Middle East
+- **Location**: Jordan - Aqaba, Red Sea (south of Cedar Pride)
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
+- **Typical Visibility**: 20-40 meters
+- **Current**: Minimal to gentle
 - **Best Time**: September to May
+- **Water Temperature**: 18-27°C
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Hard corals including brain coral and fire coral in shallow sections. Deeper wall features black coral specimens and soft coral gardens. Marine life includes parrotfish, anthias, fusiliers, clownfish, and various moray species. Red pencil urchins and sea stars are common on the reef structure. Hawksbill turtles occasionally visit the site.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin in shallow water (2-5 meters) over sandy bottom and move to the coral formations. Work your way along the reef, starting at the inshore coral heads and gradually moving to the outer reef with two boat moorings. The reef drops into Black Coral Valley at 26-30 meters with a sloping bottom—this section is best for advanced divers. Plan your dive to spend more time at the colorful shallow and mid-depth sections (5-20 meters) where marine life is most abundant.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Enter from shore at the designated beach area. Shallow water entry with sand bottom provides easy access for beginners and snorkelers. Navigate using the reef structure. Exit at the same location, watching for any surface surge or wind conditions.
 
 ## Tips and Recommendations
 

@@ -3,7 +3,7 @@ name: Plane wreck
 lat: 29.4180629
 lng: 34.97162
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 30
 entryType: boat
 siteType: wreck
 ref: null
@@ -25,7 +25,7 @@ Plane wreck is a dive site in Red Sea featuring the wreck of the Plane wreck. Lo
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Moderate to strong
 - **Best Time**: September to May

@@ -3,9 +3,9 @@ name: Sutta zà Lisa
 lat: 38.6920525
 lng: 13.1624883
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
-siteType: reef
+maxDepth: 20
+entryType: boat
+siteType: wall
 ref: null
 osmId: 2137061116
 addedBy: osm_import
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Sutta zà Lisa
 
-Sutta zà Lisa is a reef dive site in Ustica, Europe.
+Sutta zà Lisa is a beautiful bay with tunnels, caves, canyons and wall features, ideal for macro photographers.
 
 ## Overview
 
-Sutta zà Lisa is a dive site in Ustica offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Sutta a Za' Lisa is a beautiful bay overlooking Sicily with multitudes of tunnels, caves and canyons to explore. The site is a playground of tight swim-throughs and a steep vertical wall facing the open blue sea with regular encounters of pelagic species like large amberjacks. This is a true paradise for macro photography lovers, with extraordinary quantities and variety of nudibranchs depending on season.
 
 ## Site Information
 
-- **Location**: Ustica, Europe
-- **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Location**: Ustica, Mediterranean
+- **Entry Type**: Boat dive
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Maximum Depth**: 20 meters
+- **Typical Visibility**: Good - usually 20-30 meters
 - **Current**: Light to moderate
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
+An easy dive between 5-20 meters carpeted with sponges. Numerous nudibranchs in great quantity and variety are present depending on season. Slipper lobsters, crabs, sea bream, groupers, and more inhabit the site. Pelagic big amberjacks frequently encounter divers in the blue water beyond the wall. Submerged cave at 9 meters contains fragments of ancient Roman amphorae.
 
 ## Dive Profile
 
@@ -40,13 +40,15 @@ The site offers diving at depths ranging from shallow reef areas down to approxi
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
+- A macro photography paradise — excellent for nudibranch and small crustacean photography
+- Bring quality macro lighting to illuminate nudibranchs in cave areas
+- Explore the different seasonal variations in nudibranch populations
+- Watch for pelagic species in the open water beyond the wall
 - Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 

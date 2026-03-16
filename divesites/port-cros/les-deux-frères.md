@@ -17,22 +17,23 @@ Les Deux Frères is a reef dive site in Port-Cros, Europe.
 
 ## Overview
 
-Les Deux Frères is a dive site in Port-Cros offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Les Deux Frères features two large parallel tongues of rock running east-west, forming a dramatic underwater landscape. The main rock extends 200 meters and is surrounded by posidonia meadows and sandy banks. This reef site offers excellent biodiversity with groupers, schools of breams, and rich invertebrate life typical of healthy Mediterranean ecosystems. The posidonia meadows provide critical habitat for juvenile fish and are home to numerous small creatures that reward careful observation.
 
 ## Site Information
 
-- **Location**: Port-Cros, Europe
+- **Location**: North of Port-Cros, Côte d'Azur, France
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Typical Visibility**: 15-35 meters
 - **Current**: Light to moderate
 - **Best Time**: May to October
+- **Water Temperature**: 15-24°C
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
+Groupers, schools of breams, Mediterranean wrasses, and goatfish patrol the rock formations. Moray eels, octopus, and crabs inhabit crevices. The surrounding posidonia seagrass meadows teem with juvenile fish, seahorses, and invertebrates. Nudibranchs, sea fans, and sponges colonize exposed rock surfaces. The site is excellent for naturalists and macro photographers.
 
 ## Dive Profile
 

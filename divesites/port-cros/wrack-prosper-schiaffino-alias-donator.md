@@ -2,9 +2,9 @@
 name: Wrack 'Prosper Schiaffino' (Alias Donator)
 lat: 42.9941166
 lng: 6.2783333
-difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+difficulty: Advanced
+maxDepth: 52
+entryType: boat
 siteType: wreck
 ref: null
 osmId: 663869699
@@ -17,22 +17,23 @@ Wrack 'Prosper Schiaffino' (Alias Donator) is a reef dive site in Port-Cros, Eur
 
 ## Overview
 
-Wrack 'Prosper Schiaffino' (Alias Donator) is a dive site in Port-Cros offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The Prosper Schiaffino (also known as Le Donator) is a 78-meter Norwegian-built cargo ship that sank in November 1945 after striking a mine near the Sarranier islets. Originally built in 1931 as "Le Donator," the vessel was renamed when purchased by the Compagnie Schiaffino in 1939, who converted it to a wine tanker. The wreck lies upright between Porquerolles and Port-Cros at depths ranging from 35 meters on the deck to 52 meters at the propeller. It is completely encrusted with corals and anemones, providing exceptional habitat for Mediterranean marine life.
 
 ## Site Information
 
-- **Location**: Port-Cros, Europe
-- **Entry Type**: Shore entry
+- **Location**: Between Porquerolles and Port-Cros, Côte d'Azur, France
+- **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 52 meters
+- **Typical Visibility**: 15-35 meters
+- **Current**: Moderate (seasonal)
 - **Best Time**: May to October
+- **Water Temperature**: 15-24°C
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
+The wreck is heavily encrusted with colorful anemones and corals supporting a thriving ecosystem. Brown groupers and schools of Mediterranean barracudas frequent the structure. Moray eels, gorgonian fans, and sponges colonize the wreck's exterior. This is one of the richest wreck ecosystems in continental France, offering encounters with large pelagics and abundant groupers.
 
 ## Dive Profile
 

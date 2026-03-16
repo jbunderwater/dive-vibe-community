@@ -3,9 +3,9 @@ name: Aquarium
 lat: 16.9462204
 lng: 54.8045232
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 24
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: 306050015
 addedBy: osm_import
@@ -13,30 +13,31 @@ addedBy: osm_import
 
 ## Aquarium
 
-Aquarium is a reef dive site in Oman, Middle East.
+Aquarium is a scenic wall dive located 15 minutes before the Daymaniyat Islands, part of the Muscat diving system.
 
 ## Overview
 
-Aquarium is a dive site in Oman offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Aquarium is an underwater rock formation featuring both wall and plateau dives with excellent coral coverage. The site starts at approximately 7 meters depth at the anchor point and features either northward or southward wall sections. Blue coral bushes, soft corals, and sponges loosely cover the walls and plateau areas. Water temperatures range from 23–25°C with visibility typically 18–30 meters. Best diving conditions occur April-May and September-October.
 
 ## Site Information
 
-- **Location**: Oman, Middle East
+- **Location**: North of Muscat, Daymaniyat Islands approach area
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Maximum Depth**: 24 meters
+- **Typical Visibility**: 18-30 meters (60-100 feet)
+- **Water Temperature**: 23-25°C (73-77°F)
+- **Current**: Moderate, variable by direction
+- **Best Time**: April-May, September-October
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The coral formations and plateau attract diverse fish life including small reef fish, sponge-dwelling creatures, and blue coral specialists. Moray eels, grouper, rays, and occasionally larger pelagic visitors frequent the site. Nudibranchs can be found among coral formations.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin at 7 meters where the anchor line is attached. Choose to swim north or south depending on current conditions. Northward route leads over sand chute then along wall to a plateau at 22–24 meters depth. Southward route travels along wall and over sand/coral block areas. Most coral and marine life concentrated between 10–24 meters.
 
 ## Entry and Exit
 

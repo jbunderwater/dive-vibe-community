@@ -17,22 +17,23 @@ Pointe du Cognet is a reef dive site in Port-Cros, Europe.
 
 ## Overview
 
-Pointe du Cognet is a dive site in Port-Cros offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Pointe du Cognet is an accessible intermediate reef site offering pleasant diving to 20 meters depth. This point site combines easy navigation with good opportunities to observe Mediterranean marine life in shallow water. The site is well-suited for intermediate divers building experience and for recreational diving without deep technical demands.
 
 ## Site Information
 
-- **Location**: Port-Cros, Europe
+- **Location**: Port-Cros National Park, Côte d'Azur, France
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Typical Visibility**: 15-35 meters
 - **Current**: Light to moderate
 - **Best Time**: May to October
+- **Water Temperature**: 15-24°C
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
+Groupers, schools of breams, Mediterranean wrasses, and sea bream inhabit the reef structures. Moray eels and crabs occupy rocky crevices. Posidonia seagrass meadows support juvenile fish and invertebrates. Nudibranchs, sea fans, and sponges colonize rock surfaces. The shallow depth makes this excellent for macro photography and detailed wildlife observation.
 
 ## Dive Profile
 

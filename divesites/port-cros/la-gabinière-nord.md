@@ -3,7 +3,7 @@ name: La Gabinière Nord
 lat: 43.002
 lng: 6.398
 difficulty: Advanced
-maxDepth: 35
+maxDepth: 40
 entryType: boat
 siteType: wall
 ref: null
@@ -17,22 +17,23 @@ La Gabinière Nord is a wall dive site in Port-Cros, Europe.
 
 ## Overview
 
-La Gabinière Nord is a dive site in Port-Cros featuring a dramatic vertical wall that drops into the deep blue. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+La Gabinière Nord, the northern section of the famous Gabinière islet, features a dramatic wall structure reaching depths beyond 40 meters. This is a more exposed and current-prone alternative to the main Gabinière site, but rewards advanced divers with excellent visibility and opportunities to encounter the area's famous population of brown groupers at intermediate depths (20-40 meters). The site's dramatic topography and rich biodiversity make it an excellent choice for experienced wall divers.
 
 ## Site Information
 
-- **Location**: Port-Cros, Europe
+- **Location**: North face of Gabinière Islet, Port-Cros National Park, France
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 35 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
+- **Maximum Depth**: 40 meters
+- **Typical Visibility**: 15-35 meters
+- **Current**: Moderate to strong
 - **Best Time**: May to October
+- **Water Temperature**: 15-24°C
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Brown groupers (mérou brun) are the dominant large species, particularly in the 20-40 meter depth range. Mediterranean barracudas patrol the walls and open water. Moray eels, octopus, and sea bream are common. Red gorgonians and sponges encrust the wall surfaces. The surrounding posidonia meadows provide critical nursery habitat for Mediterranean fish species.
 
 ## Dive Profile
 

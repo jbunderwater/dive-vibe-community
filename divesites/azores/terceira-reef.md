@@ -2,8 +2,8 @@
 name: Terceira Reef
 lat: 38.65
 lng: -27.2167
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Advanced
+maxDepth: 40
 entryType: boat
 siteType: reef
 ref: null
@@ -17,26 +17,26 @@ Terceira Reef is a reef dive site in Azores, Europe.
 
 ## Overview
 
-Terceira Reef is a dive site in Azores offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Terceira Reef is a deep reef system off Terceira Island, part of the central Azores group. The site features multiple depth platforms and complex topography extending from 5 meters down to 40 meters, creating distinct diving zones for different experience levels. The nutrient-rich waters of this region support strong pelagic activity and diverse reef ecology. Advanced divers can explore the deeper platforms where stronger currents and deeper structures demand experienced buoyancy control.
 
 ## Site Information
 
-- **Location**: Azores, Europe
+- **Location**: Terceira Island, central Azores
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 40 meters
+- **Typical Visibility**: 25-35 meters (80-115 feet)
+- **Current**: Moderate to strong
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
+The multi-depth platform system supports diverse fish communities. Pelagic encounters with jacks (carangidae), barracuda, and tunas occur in the current-swept zones. Groupers, moray eels, wrasses, parrotfish, and cryptic invertebrate communities inhabit the reef structure. The deeper platforms (30-40m) attract species adapted to lower light and stronger current conditions.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The reef features distinct platforms: shallow platform at 5 meters, second platform at 16 meters, third at 30 meters, and deeper structure to 40 meters. Experienced divers can plan dives from shallow to deep or intermediate platforms depending on certification and experience. The strong currents typical of Terceira require excellent buoyancy control and current management. Plan ascents with adequate bottom time and safety stops on the shallower platforms.
 
 ## Entry and Exit
 

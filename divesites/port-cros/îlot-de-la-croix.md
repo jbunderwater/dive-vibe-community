@@ -2,8 +2,8 @@
 name: Îlot de la Croix
 lat: 43.005
 lng: 6.42
-difficulty: Beginner
-maxDepth: 15
+difficulty: Intermediate
+maxDepth: 30
 entryType: boat
 siteType: reef
 ref: null
@@ -17,22 +17,23 @@ addedBy: osm_import
 
 ## Overview
 
-Îlot de la Croix is a dive site in Port-Cros offering excellent diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Îlot de la Croix is an ideal introduction to Port-Cros diving—a shallow reef site with depths to 30 meters and rocky ridge topography surrounded by posidonia seagrass. This intermediate-level site combines accessibility with excellent marine biodiversity and is popular with diving clubs and first-time visitors. The rocky ridge formations provide habitat for groupers, breams, wrasses, moray eels, and goatfish. The exposure to easterly winds and currents requires attention but adds to the site's ecological richness.
 
 ## Site Information
 
-- **Location**: Port-Cros, Europe
+- **Location**: South coast of Port-Cros, Côte d'Azur, France
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 30 meters
+- **Typical Visibility**: 15-35 meters
+- **Current**: Moderate (watch conditions)
 - **Best Time**: May to October
+- **Water Temperature**: 15-24°C
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
+Rocky ridges provide habitat for schools of breams, Mediterranean wrasses, groupers, and goatfish. Moray eels, Spanish lobsters, and crabs inhabit crevices. White gorgonian fans and sponges colonize the rock structures. The surrounding posidonia seagrass meadows teem with juvenile fish and invertebrates, making this an excellent site for naturalists and photographers.
 
 ## Dive Profile
 

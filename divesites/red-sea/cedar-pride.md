@@ -3,8 +3,8 @@ name: Cedar Pride
 lat: 29.5216667
 lng: 34.9883333
 difficulty: Intermediate
-maxDepth: 27
-entryType: shore
+maxDepth: 22
+entryType: boat
 siteType: wreck
 ref: null
 osmId: 663869877
@@ -22,10 +22,10 @@ Cedar Pride is a dive site in Red Sea featuring the wreck of the Cedar Pride. Lo
 ## Site Information
 
 - **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 27 meters
+- **Maximum Depth**: 22 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Moderate to strong
 - **Best Time**: September to May

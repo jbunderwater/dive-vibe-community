@@ -2,10 +2,10 @@
 name: Eagle Bay
 lat: 16.9402373
 lng: 54.798294
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Beginner
+maxDepth: 15
 entryType: boat
-siteType: reef
+siteType: wreck
 ref: null
 osmId: 306112631
 addedBy: osm_import
@@ -13,30 +13,31 @@ addedBy: osm_import
 
 ## Eagle Bay
 
-Eagle Bay is a reef dive site in Oman, Middle East.
+Eagle Bay is a beginner-friendly mixed reef and wreck dive site in a sheltered bay near Muscat.
 
 ## Overview
 
-Eagle Bay is a dive site in Oman offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Eagle Bay is a shallow dive site perfect for beginners and Basic divers, featuring both coral reef and an old wreck structure. The site is located in a small sheltered bay with a surface float marking the drop point. The coral reef sits at 6 meters with an old wreck resting at approximately 8 meters depth. Diverse coral formations and rock structures create interesting topography. Water temperatures range 23–25°C with typical visibility 15–25 meters. A short 15-minute boat ride from Muscat marina makes this an ideal introductory dive.
 
 ## Site Information
 
-- **Location**: Oman, Middle East
+- **Location**: Bay near Muscat, Oman
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Site Type**: Wreck dive
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 15 meters
+- **Typical Visibility**: 15-25 meters (50-80 feet)
+- **Water Temperature**: 23-25°C (73-77°F)
+- **Current**: Minimal in sheltered bay
+- **Best Time**: Year-round, April-May and September-October preferred
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Common sightings include rays, hawksbill turtles, green turtles, moray eels, scorpionfish, boxfish, puffer fish, surgeonfish, angelfish, bannerfish, triggerfish, parrotfish, trumpetfish, pipefish, clownfish, sweetlips, snapper, grouper, and lionfish. The wreck structure and coral formations attract a diverse array of reef fish.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin at the surface float marking the drop point. Descend through the shallow reef zone starting at 6 meters where coral coverage is densest. Continue to the wreck structure at approximately 8 meters. Explore both the coral formations and the wreck structure at this beginner-friendly depth. The site allows ample time for careful observation and photography.
 
 ## Entry and Exit
 

@@ -3,7 +3,7 @@ name: Dunraven
 lat: 27.7033333
 lng: 34.1216666
 difficulty: Intermediate
-maxDepth: 28
+maxDepth: 18
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Dunraven
 
-Dunraven is a historic wreck dive in Red Sea, Middle East.
+The Dunraven is a wooden steamship that sank in 1873 after striking Beacon Rock reef while returning from India. The wreck rests at the entrance to Ras Mohammed National Park, making it an accessible and historically significant dive.
 
 ## Overview
 
-Dunraven is a dive site in Red Sea featuring the wreck of the Dunraven. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+This 19th-century wreck lies at 18 meters depth at Beacon Rock in Ras Mohammed, well-preserved and heavily encrusted with soft and hard corals. The Dunraven caught fire and sank with no loss of life. Its sheltered location provides excellent visibility and calm conditions compared to other Red Sea wrecks. The site frequently hosts visiting dolphin pods, adding to its appeal for recreational wreck divers.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ Dunraven is a dive site in Red Sea featuring the wreck of the Dunraven. Located 
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 28 meters
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Moderate to strong
 - **Best Time**: September to May
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter glassy sweepers, lionfish, groupers,
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 28 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+This is a swim-through wreck dive accessible to intermediate divers. Begin your descent along the anchor line to the wreck top at around 10-12 meters. The wreck is covered in coral and provides excellent navigation landmarks. Explore the accessible sections and superstructure in a circular pattern, staying within recreational depths. The sheltered location provides some of the best visibility conditions in the Red Sea. Maximum depth reaches 18 meters at the seabed. Ascend gradually with a safety stop at 5 meters. This site offers an ideal progression for divers transitioning from reef dives to wreck diving.
 
 ## Entry and Exit
 

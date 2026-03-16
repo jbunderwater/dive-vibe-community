@@ -3,7 +3,7 @@ name: Ulysses
 lat: 27.6867
 lng: 33.8021333
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 30
 entryType: boat
 siteType: wreck
 ref: null
@@ -25,7 +25,7 @@ Ulysses is a dive site in Red Sea featuring the wreck of the Ulysses. Located in
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Moderate to strong
 - **Best Time**: September to May

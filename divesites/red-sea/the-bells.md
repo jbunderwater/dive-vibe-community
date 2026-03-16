@@ -3,8 +3,8 @@ name: The Bells
 lat: 28.5734535
 lng: 34.5392697
 difficulty: Advanced
-maxDepth: 31
-entryType: shore
+maxDepth: 28
+entryType: boat
 siteType: wall
 ref: null
 osmId: 271181711
@@ -22,10 +22,10 @@ The Bells is a dive site in Red Sea offering rewarding diving on healthy coral r
 ## Site Information
 
 - **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 31 meters
+- **Maximum Depth**: 28 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Moderate to strong
 - **Best Time**: September to May

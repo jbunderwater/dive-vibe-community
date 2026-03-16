@@ -3,7 +3,7 @@ name: Carnatic
 lat: 27.5792666
 lng: 33.92695
 difficulty: Intermediate
-maxDepth: 24
+maxDepth: 28
 entryType: boat
 siteType: wreck
 ref: null
@@ -25,7 +25,7 @@ Carnatic is a dive site in Red Sea featuring the wreck of the Carnatic. Located 
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 24 meters
+- **Maximum Depth**: 28 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Moderate to strong
 - **Best Time**: September to May

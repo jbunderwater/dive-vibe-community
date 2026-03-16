@@ -2,7 +2,7 @@
 name: Shark Reef
 lat: 27.7257079
 lng: 34.259035
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 25
 entryType: boat
 siteType: wall
@@ -13,18 +13,18 @@ addedBy: osm_import
 
 ## Shark Reef
 
-Shark Reef is a wall dive site in Red Sea, Middle East.
+Shark Reef is one of the world's top-ten dive sites and the most famous site in Ras Mohammed National Park. Named for the frequent shark sightings, this wall dive is known for dramatic topography and abundant pelagic action.
 
 ## Overview
 
-Shark Reef is a dive site in Red Sea featuring a dramatic vertical wall that drops into the deep blue. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The reef features sheer walls dropping from 10-15 meters down to depths exceeding 800 meters into the abyss. The combination of dramatic walls, pelagic species including reef sharks, jacks, barracudas, and snappers makes this an advanced dive site. Strong currents are common and necessary for the drift diving that defines the site. Visibility typically reaches 20-40 meters, ideal for spotting deep-water species.
 
 ## Site Information
 
 - **Location**: Red Sea, Middle East
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Moderate to strong
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter whale sharks, manta rays, hammerhead
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-25 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+This is a drift dive along dramatic vertical walls. Entry is typically via drift descent into blue water, with the reef appearing below. Divers drift along the wall face from 10-30 meters, monitoring the wall for marine life while maintaining distance from the vertical drop-off. This drift dive requires strong current competency and excellent buoyancy control. The most dramatic topography and frequent shark sightings occur between 15-30 meters. Plan the dive with the boat for pickup at the drift exit point. Ascend with an SMB for boat location.
 
 ## Entry and Exit
 

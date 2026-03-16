@@ -2,8 +2,8 @@
 name: Kerveli scouba diving
 lat: 37.7325497
 lng: 27.0360789
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Beginner
+maxDepth: 22
 entryType: boat
 siteType: reef
 ref: null
@@ -11,32 +11,33 @@ osmId: 2547460303
 addedBy: osm_import
 ---
 
-## Kerveli scouba diving
+## Kerveli Reef (Samos)
 
-Kerveli scouba diving is a reef dive site in Greece, Europe.
+Kerveli Reef on Samos offers calm, beginner-friendly diving in a naturally protected bay with excellent accessibility. The dive base operates directly from the Kerveli Village Hotel, making logistics extremely simple.
 
 ## Overview
 
-Kerveli scouba diving is a dive site in Greece offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Located on Samos in the Eastern Aegean, Kerveli Reef is a relaxed diving destination suitable for all experience levels. The reef sits just minutes from the Kerveli Village Hotel's private dock in a naturally sheltered bay. Conditions are typically calm and suitable for training and recreational dives.
 
 ## Site Information
 
-- **Location**: Greece, Europe
+- **Location**: Kerveli, Samos, Eastern Aegean Islands
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 22 meters
+- **Typical Visibility**: 12-25 meters (40-80 feet)
+- **Current**: Light
 - **Best Time**: May to October
+- **Facilities**: Kerveli Village Hotel dive base with direct access
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
+Expect encounters with moray eels and octopus in reef crevices. Small Mediterranean reef fish species populate the structures. The site provides habitat for typical Aegean fauna.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The reef dive offers exploration between scattered reef pinnacles at 10-22 meters. The shallow structure and minimal current make this ideal for skill development and relaxed recreation. Multiple reef features provide navigation variety within a compact area.
 
 ## Entry and Exit
 

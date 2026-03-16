@@ -3,8 +3,8 @@ name: Canyon
 lat: 28.554359
 lng: 34.5212059
 difficulty: Advanced
-maxDepth: 39
-entryType: shore
+maxDepth: 45
+entryType: boat
 siteType: reef
 ref: null
 osmId: 663869872
@@ -22,10 +22,10 @@ Canyon is a dive site in Red Sea offering rewarding diving on healthy coral reef
 ## Site Information
 
 - **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 39 meters
+- **Maximum Depth**: 45 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Moderate to strong
 - **Best Time**: September to May

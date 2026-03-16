@@ -3,8 +3,8 @@ name: Gabiniėre Est
 lat: 42.989263
 lng: 6.3957633
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+maxDepth: 40
+entryType: boat
 siteType: reef
 ref: null
 osmId: 12988211769
@@ -17,22 +17,23 @@ Gabiniėre Est is a reef dive site in Port-Cros, Europe.
 
 ## Overview
 
-Gabiniėre Est is a dive site in Port-Cros offering rewarding diving on healthy coral reef structures . De 10 a 40m... Appelé aussi MerouLand. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Gabinière Est, also affectionately called "MerouLand," is the eastern face of the famous Gabinière islet. Diving depths range from 10 meters at the top to 40 meters on the eastern face, offering excellent opportunities to encounter the dense population of brown groupers that make this site legendary. The site combines shallow reef exploration with deeper wall diving, making it versatile for different skill levels. The eastern exposure and drop-off create dynamic diving conditions with good current-driven productivity.
 
 ## Site Information
 
-- **Location**: Port-Cros, Europe
-- **Entry Type**: Shore entry
+- **Location**: East face of Gabinière Islet, Port-Cros National Park, France
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Maximum Depth**: 40 meters
+- **Typical Visibility**: 15-35 meters
 - **Current**: Light to moderate
 - **Best Time**: May to October
+- **Water Temperature**: 15-24°C
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
+Brown groupers (mérou brun) are abundant throughout the site, particularly at 10-40 meter depths. Schools of Mediterranean barracudas, sea bream, and wrasses are common. Moray eels and octopus inhabit rocky crevices. The posidonia meadows on the approach provide critical nursery habitat. Red gorgonians, sea fans, and sponges colonize the reef structures throughout the site.
 
 ## Dive Profile
 

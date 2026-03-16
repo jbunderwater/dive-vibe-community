@@ -2,10 +2,10 @@
 name: Dibba Rock
 lat: 25.6167
 lng: 56.2667
-difficulty: Beginner
-maxDepth: 18
+difficulty: Intermediate
+maxDepth: 16
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Dibba Rock
 
-Dibba Rock is a reef dive site in UAE - Fujairah, Middle East.
+Dibba Rock is a dramatic wall and rock formation dive site off the Fujairah coast in the Gulf of Oman.
 
 ## Overview
 
-Dibba Rock is a dive site in UAE - Fujairah offering excellent diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Dibba Rock features beautiful wall and rock formations with extensive coral gardens and abundant marine life. This intermediate-level site offers depths ranging from 10-16 meters with typically clear visibility. The site is renowned for its colorful corals, high green turtle population, and diverse reef fish species including clownfish and black-tipped reef sharks.
 
 ## Site Information
 
-- **Location**: UAE - Fujairah, Middle East
+- **Location**: UAE - Fujairah, Gulf of Oman coast
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
+- **Site Type**: Wall dive
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 16 meters
+- **Typical Visibility**: 15-25 meters
+- **Current**: Moderate to strong (dive during high tide preferred)
 - **Best Time**: September to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Dibba Rock features exceptional coral diversity and fish populations. Expect encounters with green turtles, black-tipped reef sharks, moray eels, clownfish, and vibrant soft coral species. Lionfish and groupers are also common. The colorful coral garden provides habitat for numerous smaller reef fish species.
 
 ## Dive Profile
 

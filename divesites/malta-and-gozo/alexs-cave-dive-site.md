@@ -2,7 +2,7 @@
 name: Alex's Cave (Dive Site)
 lat: 36.0105408
 lng: 14.3251669
-difficulty: Intermediate
+difficulty: Beginner
 maxDepth: 20
 entryType: boat
 siteType: cave
@@ -24,7 +24,7 @@ Alex's Cave (Dive Site) is a dive site in Malta and Gozo featuring underwater ca
 - **Location**: Malta and Gozo, Europe
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Light to moderate

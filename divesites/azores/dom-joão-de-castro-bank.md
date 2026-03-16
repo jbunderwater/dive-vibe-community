@@ -3,9 +3,9 @@ name: Dom João de Castro Bank
 lat: 38.2167
 lng: -26.6333
 difficulty: Advanced
-maxDepth: 30
+maxDepth: 13
 entryType: boat
-siteType: reef
+siteType: pinnacle
 ref: null
 osmId: null
 addedBy: osm_import
@@ -17,26 +17,26 @@ Dom João de Castro Bank is a reef dive site in Azores, Europe.
 
 ## Overview
 
-Dom João de Castro Bank is a dive site in Azores offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Dom João de Castro Bank is a unique underwater volcano located between São Miguel and Terceira islands. The seamount rises from depths exceeding 1,000 meters to just 13 meters, with its caldera top at approximately 13 meters and bottom at 50 meters. The summit is distinguished by hydrothermal vents and vertical walls leaking volcanic gases—the only EU Natura 2000 seamount and the only Atlantic location with shallow-water hydrothermal activity. Last erupted in 1720, it briefly formed an island 150 meters high before ocean swells eroded it in just four months.
 
 ## Site Information
 
-- **Location**: Azores, Europe
+- **Location**: Azores, between São Miguel and Terceira
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
+- **Maximum Depth**: 13 meters
+- **Typical Visibility**: 30+ meters (100+ feet, exceptionally clear)
+- **Current**: Strong pelagic currents
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
+Approximately 220 identified species inhabit this site. Pelagic encounters include mobula rays, carangidae (jacks), enormous wahoos, schools of tuna, and sea turtles drawn by the nutrient-rich waters. The volcanic vents support unique hydrothermal fauna and support abundant schooling baitfish.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the caldera rim at 13-15 meters. Observe the four peaks between 40-50 meters where the caldera bottom lies. Gas vents create a unique underwater landscape with vertical walls and visible thermal activity. Strong currents typical of open-ocean pinnacle diving require advanced buoyancy control. The clear, clean water and dramatic geology make this a distinctive destination, though its remote location and current conditions demand experienced divers.
 
 ## Entry and Exit
 

@@ -2,8 +2,8 @@
 name: Dibba Rock Reef
 lat: 25.6031152
 lng: 56.3508923
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Beginner
+maxDepth: 18
 entryType: boat
 siteType: reef
 ref: null
@@ -13,30 +13,19 @@ addedBy: osm_import
 
 ## Dibba Rock Reef
 
-Dibba Rock Reef is a reef dive site in Oman, Middle East.
+Dibba Rock Reef is a premier beginner-friendly dive site in the Musandam Peninsula of northern Oman.
 
 ## Overview
 
-Dibba Rock Reef is a dive site in Oman offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
-
-## Site Information
-
-- **Location**: Oman, Middle East
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+Dibba Rock Reef is a shallow reef dive perfect for beginners and photographers, located off the coast of Dibba in the Musandam Peninsula near the UAE border. The site features shallow coral reef formations, unique underwater topography including caves and drop-offs, and exceptional clarity often exceeding 30 meters visibility. Colorful clownfish, butterflyfish, rays, and various shark species thrive in the protected waters. Maximum depth approximately 18 meters. The site is part of a protected marine area that prohibits fishing, allowing marine life to flourish.
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Vibrant marine life includes colorful clownfish, butterflyfish, various rays species, sea turtles, sharks resting on sandy bottoms, and diverse reef fish. The protected marine reserve status ensures healthy populations of reef-dependent species.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the shallow reef starting at 5–8 meters depth. Explore the unique topography including caves and drop-off areas. The site's shallow maximum depth of 18 meters allows ample bottom time for observation and photography. The exceptional clarity (often 25–30 meters) makes this ideal for learning underwater photography and practicing buoyancy control.
 
 ## Entry and Exit
 

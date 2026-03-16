@@ -3,7 +3,7 @@ name: Barge de Gubal
 lat: 27.6779833
 lng: 33.8046
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 25
 entryType: boat
 siteType: wreck
 ref: null
@@ -25,7 +25,7 @@ Barge de Gubal is a dive site in Red Sea featuring the wreck of the Barge de Gub
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Moderate to strong
 - **Best Time**: September to May

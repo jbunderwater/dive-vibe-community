@@ -13,11 +13,11 @@
       "name": "Il-Bajja tax-Xwejni",
       "name:en": "Xwejni Bay",
       "natural": "beach",
-      "source": "signpost at the beach",
       "sport": "scuba_diving",
       "wikidata": "Q3571076",
-      "wikimedia_commons": "Category:Xwejni Bay",
-      "wikipedia": "en:Xwejni Bay"
+      "wikipedia": "en:Xwejni Bay",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -26,14 +26,16 @@
     "lon": 14.2585789,
     "osm_id": 384931936,
     "osm_type": "node",
-    "depth": 20,
-    "site_type": "reef",
+    "depth": 19,
+    "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Santa Marija Point",
       "scuba_diving:divespot": "yes",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -42,14 +44,16 @@
     "lon": 14.2465145,
     "osm_id": 384933337,
     "osm_type": "node",
-    "depth": 18,
-    "site_type": "cave",
-    "entry_type": "shore",
+    "depth": 30,
+    "site_type": "wall",
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Double Arch Reef",
       "scuba_diving:divespot": "yes",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -58,7 +62,7 @@
     "lon": 14.2486946,
     "osm_id": 384934092,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 30,
     "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -66,7 +70,9 @@
       "name": "Calypso Cave",
       "natural": "cave_entrance",
       "scuba_diving:divespot": "yes",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -75,15 +81,17 @@
     "lon": 14.235361,
     "osm_id": 384934491,
     "osm_type": "node",
-    "depth": 30,
+    "depth": 26,
     "site_type": "cave",
     "entry_type": "shore",
     "difficulty": "Advanced",
     "tags": {
-      "description": "entry/exit ladder",
+      "description": "100m tunnel through cliff face with air pocket at end",
       "name": "Billinghurst Cave",
       "natural": "cliff",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -101,7 +109,9 @@
       "name:en": "Cathedral Cave",
       "natural": "cave_entrance",
       "scuba_diving:divespot": "yes",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -110,16 +120,18 @@
     "lon": 14.1887151,
     "osm_id": 384936428,
     "osm_type": "node",
-    "depth": 20,
-    "site_type": "reef",
-    "entry_type": "boat",
+    "depth": 40,
+    "site_type": "cave",
+    "entry_type": "shore",
     "difficulty": "Intermediate",
     "tags": {
       "alt_name": "Blue Hole",
       "name": "Il-Ħofra tal-Bidwin",
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -128,14 +140,16 @@
     "lon": 14.214495,
     "osm_id": 384941960,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 10,
     "site_type": "cave",
     "entry_type": "shore",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Xlendi Tunnel",
       "scuba_diving:divespot": "yes",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -151,7 +165,9 @@
     "tags": {
       "name": "Big Bear-Little Bear",
       "scuba_diving:divespot": "yes",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -167,7 +183,9 @@
     "tags": {
       "name": "The Washing Machine",
       "scuba_diving:divespot": "yes",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -176,20 +194,21 @@
     "lon": 14.4495578,
     "osm_id": 663869707,
     "osm_type": "node",
-    "depth": 35,
+    "depth": 36,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
-      "description": "It was the first open dive after autumn 1998 Maltaqua controlled circumstances, the assistance of experts sunk, then the following week also were 4 times that of the impressive 104 m long wreck",
+      "description": "115m oil tanker wreck (115m x 15.5m) sitting upright on sandy bottom. Funnel at 15m, propeller at 36m. Penetrable with strong currents possible.",
       "historic": "wreck",
       "name": "Um El Faroud",
       "seamark:type": "wreck",
-      "source": "Maltese Islands Diving Guide, =BjP= (SSI Instructor Trainer)",
       "sport": "scuba_diving",
       "wreck:date_sunk": "1998-09-02",
       "wreck:visible_at_high_tide": "no",
-      "wreck:visible_at_low_tide": "no"
+      "wreck:visible_at_low_tide": "no",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -199,16 +218,18 @@
     "osm_id": 663869711,
     "osm_type": "node",
     "depth": 70,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
-      "description": "entry/exit ladder",
+      "description": "Dramatic wall drop-off. Reef drops to 17-25m to the west, 60m+ to the east. Deep chimney 'Reqqa bottle' at 58m.",
       "name": "Reqqa Point",
       "natural": "cliff",
       "scuba_diving:depth": "30",
       "scuba_diving:maxdepth": "70",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -217,26 +238,23 @@
     "lon": 14.5155983,
     "osm_id": 1245126314,
     "osm_type": "node",
-    "depth": 14,
+    "depth": 16,
     "site_type": "wreck",
     "entry_type": "shore",
     "difficulty": "Beginner",
     "tags": {
-      "description": "British Tribal-class destroyer sank by German aircraft 1942-02-12, raised and scuttled here 1945-07-15",
-      "end_date": "1942-02-12",
+      "description": "British Tribal-class destroyer (WW2). Bow at 14m on white sand. Good training wreck for beginners; penetration not recommended due to structural instability. Abundant marine life.",
       "historic": "wreck",
       "name": "HMS Maori",
       "seamark:type": "wreck",
-      "source": "Maltese Islands Diving Guide;survey",
-      "source:description": "en:wikipedia",
       "sport": "scuba_diving",
-      "start_date": "1937-09-02",
       "wikidata": "Q495405",
-      "wikimedia_commons": "Category:HMS Maori (F24)",
       "wikipedia": "en:HMS Maori (F24)",
       "wreck:date_sunk": "1942-02-12",
       "wreck:visible_at_high_tide": "no",
-      "wreck:visible_at_low_tide": "no"
+      "wreck:visible_at_low_tide": "no",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -245,15 +263,17 @@
     "lon": 14.3402297,
     "osm_id": 3767235079,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 19,
     "site_type": "cave",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Santa Marija Caves (Dive Site)",
-      "natural": "reef",
+      "natural": "cave",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -265,7 +285,7 @@
     "depth": 20,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "historic": "wreck",
       "name": "P31 - Patrol Boat",
@@ -274,7 +294,9 @@
       "tourism": "attraction",
       "wreck:date_sunk": "2009-08-25",
       "wreck:visible_at_high_tide": "no",
-      "wreck:visible_at_low_tide": "no"
+      "wreck:visible_at_low_tide": "no",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -286,11 +308,13 @@
     "depth": 20,
     "site_type": "cave",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Alex's Cave (Dive Site)",
-      "natural": "reef",
-      "sport": "scuba_diving"
+      "natural": "cave",
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -302,11 +326,13 @@
     "depth": 20,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Crystal Lagoon (Dive Site)",
       "natural": "reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -322,7 +348,9 @@
     "tags": {
       "name": "Blue Lagoon Tunnel Dive Site",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -338,7 +366,9 @@
     "tags": {
       "name": "Lantern Point West Dive Site",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -354,7 +384,9 @@
     "tags": {
       "name": "Lantern Point (Dive Site)",
       "natural": "reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -363,14 +395,16 @@
     "lon": 14.3193411,
     "osm_id": 4159831396,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 30,
     "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Cominotto Arch (Dive Site)",
-      "natural": "reef",
-      "sport": "scuba_diving"
+      "natural": "arch",
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -386,7 +420,9 @@
     "tags": {
       "name": "Anchor Reef (Dive Site)",
       "natural": "reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -402,7 +438,9 @@
     "tags": {
       "name": "Santa Marija Reef Dive Site",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -418,7 +456,9 @@
     "tags": {
       "name": "Fessej Rock",
       "scuba_diving:divespot": "yes",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -427,16 +467,18 @@
     "lon": 14.2793976,
     "osm_id": 4159831401,
     "osm_type": "node",
-    "depth": 30,
-    "site_type": "reef",
+    "depth": 100,
+    "site_type": "pinnacle",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "alt_name": "Middle Finger",
       "name": "Ras il-Ħobż (Dive Site)",
-      "natural": "reef",
+      "natural": "pinnacle",
       "scuba_diving:depth": "30",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -445,15 +487,15 @@
     "lon": 14.2862962,
     "osm_id": 4159831402,
     "osm_type": "node",
-    "depth": 44,
+    "depth": 41,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "historic": "wreck",
       "name": "MV Karwela",
-      "scuba_diving:depth": "40",
-      "scuba_diving:maxdepth": "44",
+      "scuba_diving:depth": "30",
+      "scuba_diving:maxdepth": "41",
       "scuba_diving:type:wreck": "yes",
       "seamark:type": "wreck",
       "seamark:wreck:category": "non-dangerous",
@@ -462,7 +504,9 @@
       "wreck:date_sunk": "2006-08-12",
       "wreck:type": "ship",
       "wreck:visible_at_high_tide": "no",
-      "wreck:visible_at_low_tide": "no"
+      "wreck:visible_at_low_tide": "no",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -473,12 +517,12 @@
     "osm_type": "node",
     "depth": 44,
     "site_type": "wreck",
-    "entry_type": "shore",
-    "difficulty": "Intermediate",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "historic": "wreck",
       "name": "MV Xlendi",
-      "scuba_diving:depth": "40",
+      "scuba_diving:depth": "42",
       "scuba_diving:maxdepth": "44",
       "scuba_diving:type:wreck": "yes",
       "seamark:type": "wreck",
@@ -488,7 +532,9 @@
       "wreck:date_sunk": "1999-11-12",
       "wreck:type": "ship",
       "wreck:visible_at_high_tide": "no",
-      "wreck:visible_at_low_tide": "no"
+      "wreck:visible_at_low_tide": "no",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -514,7 +560,9 @@
       "wreck:date_sunk": "2006-08-12",
       "wreck:type": "ship",
       "wreck:visible_at_high_tide": "no",
-      "wreck:visible_at_low_tide": "no"
+      "wreck:visible_at_low_tide": "no",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -530,7 +578,9 @@
     "tags": {
       "name": "Xatt l-Aħmar Reef",
       "natural": "reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -546,7 +596,9 @@
     "tags": {
       "name": "Ta' Ċenċ Dive Site",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -563,7 +615,9 @@
       "name": "Mġarr ix-Xini",
       "natural": "beach",
       "scuba_diving:divespot": "yes",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -578,9 +632,11 @@
     "difficulty": "Beginner",
     "tags": {
       "name": "Cirkewwa - Right Arch (Dive Site)",
-      "natural": "reef",
+      "natural": "arch",
       "scuba_diving:divespot": "yes",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -589,7 +645,7 @@
     "lon": 14.5227148,
     "osm_id": 4159847956,
     "osm_type": "node",
-    "depth": 24,
+    "depth": 22,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -600,8 +656,10 @@
       "sport": "scuba_diving",
       "tourism": "attraction",
       "wreck:date_sunk": "1941-04-19",
-      "wreck:depth": "24",
-      "wreck:length": "100"
+      "wreck:depth": "22",
+      "wreck:length": "100",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -610,16 +668,16 @@
     "lon": 14.2900963,
     "osm_id": 10203592554,
     "osm_type": "node",
-    "depth": 46,
+    "depth": 47,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "historic": "wreck",
       "name": "MT Hephaestus",
-      "note": "Scuttled 2022-08 as an attraction for scuba divers",
-      "scuba_diving:depth": "32",
-      "scuba_diving:maxdepth": "46",
+      "note": "Oil tanker scuttled August 2022. For experienced/technical divers. Range 35-47m. Dangerous elements removed; large entry holes cut.",
+      "scuba_diving:depth": "35",
+      "scuba_diving:maxdepth": "47",
       "scuba_diving:type:wreck": "yes",
       "seamark:type": "wreck",
       "seamark:wreck:category": "non-dangerous",
@@ -628,7 +686,9 @@
       "wreck:date_sunk": "2022-08-29",
       "wreck:type": "ship",
       "wreck:visible_at_high_tide": "no",
-      "wreck:visible_at_low_tide": "no"
+      "wreck:visible_at_low_tide": "no",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -646,7 +706,9 @@
       "name:en": "Cave of Wheat",
       "natural": "cave_entrance",
       "scuba_diving:divespot": "yes",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -661,9 +723,11 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Bottleneck Cave (Dive Site)",
-      "natural": "reef",
+      "natural": "cave",
       "scuba_diving:divespot": "yes",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -679,7 +743,9 @@
     "tags": {
       "name": "Xwejni Bay",
       "scuba_diving:divespot": "yes",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -695,10 +761,9 @@
     "tags": {
       "name": "Qbajjar Reef",
       "scuba_diving:divespot": "yes",
-      "shower": "yes",
       "sport": "scuba_diving",
-      "swimming": "yes",
-      "toilets": "yes"
+      "validated": "true",
+      "validation_source": "web_research"
     }
   },
   {
@@ -712,14 +777,15 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
-      "description": "Beach and coastline with salt pans and caves. Popular for snorlelling and diving.",
+      "description": "Beach and coastline with salt pans and caves. Popular for snorkelling and diving.",
       "name": "Ħondoq ir-Rummien",
       "natural": "beach",
-      "source:description": "en:wikipedia",
       "sport": "scuba_diving",
       "surface": "sand",
       "wikidata": "Q8080010",
-      "wikipedia": "en:Ħondoq ir-Rummien"
+      "wikipedia": "en:Ħondoq ir-Rummien",
+      "validated": "true",
+      "validation_source": "web_research"
     }
   }
 ]

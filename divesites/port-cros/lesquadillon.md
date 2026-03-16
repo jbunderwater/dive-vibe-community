@@ -4,7 +4,7 @@ lat: 43.0475448
 lng: 6.5138411
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
+entryType: boat
 siteType: reef
 ref: null
 osmId: 602115153
@@ -17,22 +17,23 @@ l’Esquadillon is a reef dive site in Port-Cros, Europe.
 
 ## Overview
 
-l’Esquadillon is a dive site in Port-Cros offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+l’Esquadillon is a rock reef islet site offering intermediate-level diving to 25 meters depth. This site combines easy reef navigation with good opportunities to observe Mediterranean marine life. The rocky islet formation and surrounding seagrass provide diverse habitat for fish and invertebrates. This is an accessible site for intermediate divers seeking reef experience without deep technical demands.
 
 ## Site Information
 
-- **Location**: Port-Cros, Europe
-- **Entry Type**: Shore entry
+- **Location**: Port-Cros area, Côte d’Azur, France
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Typical Visibility**: 15-35 meters
 - **Current**: Light to moderate
 - **Best Time**: May to October
+- **Water Temperature**: 15-24°C
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
+Groupers, schools of breams and Mediterranean wrasses patrol the rocky formations. Moray eels, crabs, and Spanish lobsters inhabit crevices. Posidonia seagrass meadows surrounding the islet support diverse juvenile fish and invertebrate fauna. Nudibranchs, sea fans, and sponges colonize rock surfaces. The site is excellent for general reef observation and macro photography.
 
 ## Dive Profile
 

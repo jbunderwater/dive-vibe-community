@@ -5,7 +5,7 @@ lng: 14.6804754
 difficulty: Intermediate
 maxDepth: 25
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: 3084519395
 addedBy: osm_import
@@ -23,7 +23,7 @@ Vajavine is a dive site in Croatia offering rewarding diving on healthy coral re
 
 - **Location**: Croatia, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

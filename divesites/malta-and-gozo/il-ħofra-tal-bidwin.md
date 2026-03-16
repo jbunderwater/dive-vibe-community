@@ -3,9 +3,9 @@ name: Il-Ħofra tal-Bidwin
 lat: 36.0530121
 lng: 14.1887151
 difficulty: Intermediate
-maxDepth: 20
-entryType: boat
-siteType: reef
+maxDepth: 40
+entryType: shore
+siteType: cave
 ref: null
 osmId: 384936428
 addedBy: osm_import
@@ -17,15 +17,15 @@ Il-Ħofra tal-Bidwin is a reef dive site in Malta and Gozo, Europe.
 
 ## Overview
 
-Il-Ħofra tal-Bidwin is a dive site in Malta and Gozo offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The famous Blue Hole (Il-Ħofra tal-Bidwin) is Gozo's iconic cave dive, a natural sinkhole with breathtaking underwater arch. Descend 15m into the hole through walls covered with colorful sponges and tubeworms, then swim through an underwater archway (9m) opening to the blue. Depths range 8-40m+ to open sea beyond. Excellent visibility (20-30m), dramatic light effects. Shore entry via difficult walk over rough limestone with carved steps. Suitable for all levels exploring at their depth.
 
 ## Site Information
 
 - **Location**: Malta and Gozo, Europe
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Entry Type**: Shore entry
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: May to October

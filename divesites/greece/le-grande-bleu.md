@@ -2,8 +2,8 @@
 name: Le Grande Bleu
 lat: 36.6501675
 lng: 25.3823493
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Beginner
+maxDepth: 20
 entryType: boat
 siteType: reef
 ref: null
@@ -13,30 +13,31 @@ addedBy: osm_import
 
 ## Le Grande Bleu
 
-Le Grande Bleu is a reef dive site in Greece, Europe.
+Named after the celebrated 1988 film of the same name, Le Grande Bleu is a shallow reef dive near Manganari in Crete where diving boat scenes were filmed. The site is known for crystal-clear water and excellent beginner access.
 
 ## Overview
 
-Le Grande Bleu is a dive site in Greece offering rewarding diving on healthy coral reef structures . diving boat scenes of the movie The Big Blue in front of Manganari and/or Tris Klisies bay. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+This historically significant dive site in front of Manganari beach and Tris Klisies Bay offers the calm, shallow conditions featured in the film "The Big Blue." Perfect for beginners and families, the site features healthy reef structures and exceptional water clarity typical of southern Crete. Local divers, including records from Spiti Louka, have contributed to knowledge of this site.
 
 ## Site Information
 
-- **Location**: Greece, Europe
+- **Location**: Manganari, Crete, Greece
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 20 meters
+- **Typical Visibility**: 15-35 meters (50-115 feet)
+- **Current**: Light
 - **Best Time**: May to October
+- **Historical Note**: Featured in the 1988 film "The Big Blue"
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
+Reef fish including sea bream, damselfish, and small groupers are abundant. Octopus, moray eels, and crustaceans inhabit deeper reef crevices. The shallow reef structure supports healthy coral growth and provides excellent habitat for small Mediterranean species.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to 8-12 meters over sand and shallow reef structures. Explore the reef edge where most fish activity occurs at 10-18 meters. The dive remains shallow enough for excellent natural light photography. Maximum depth of 20 meters ensures comfortable bottom times for all certification levels.
 
 ## Entry and Exit
 

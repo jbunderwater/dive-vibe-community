@@ -2,8 +2,8 @@
 name: Isfjorden Kelp Forest
 lat: 78.25
 lng: 15.0
-difficulty: Intermediate
-maxDepth: 10
+difficulty: Advanced
+maxDepth: 15
 entryType: boat
 siteType: reef
 ref: null
@@ -13,49 +13,53 @@ addedBy: osm_import
 
 ## Isfjorden Kelp Forest
 
-Isfjorden Kelp Forest is a reef dive site in Svalbard, Arctic.
+Accessible Arctic kelp forest dive in Spitsbergen's largest fjord.
 
 ## Overview
 
-Isfjorden Kelp Forest is a dive site in Svalbard offering rewarding diving on healthy coral reef structures. Located in the Arctic region, this site offers 10-30 meters of visibility with water temperatures averaging -1 to 8°C.
+Isfjorden is Spitsbergen's largest and most sheltered fjord, making it a primary gateway for Arctic diving operations. The kelp forests extend across the fjord at 5-15 meters depth, creating lush brown seaweed ecosystems. Water temperature ranges 2-7°C, visibility 10-30 meters. The fjord's sheltered nature and accessibility from Longyearbyen (20+ km) make it a popular site for both research and recreational diving. Access is exclusively by boat from local operators.
 
 ## Site Information
 
-- **Location**: Svalbard, Arctic
+- **Location**: Isfjorden, central Spitsbergen
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 10 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Variable, tidal currents
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 15 meters
+- **Water Temperature**: 2-7°C (36-45°F)
+- **Typical Visibility**: 10-30 meters
+- **Current**: Variable fjord currents
 - **Best Time**: June to September
+- **Access**: Day boat or liveaboard from Longyearbyen (20+ km away)
 
 ## Marine Life
 
-Divers at this site can expect to encounter seals (harbor, bearded, ringed), walruses, beluga whales, narwhals, polar cod, sea anemones, soft corals, kelp forests. Additional species commonly sighted include sea urchins, starfish, crabs.
+Brown kelp forests (5-15 m depth) support thriving Arctic ecosystems with anemones, starfish, sea urchins, Arctic fish, and abundant invertebrates. Seals are frequently observed. The kelp holdfasts are particularly rich with biodiversity. Beluga whales and walruses may visit the fjord.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 10 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-10 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend gradually into the kelp forest to 12-15 meters. The kelp provides natural visual reference and habitat navigation. Stay within the kelp ecosystem; avoid drifting into open fjord water. Most marine life concentrates 5-15 meters within the kelp. Conservative bottom time (45-50 minutes) due to cold. Ascend gradually following kelp stalks to the surface. Conduct safety stop at 5 meters using the kelp for visual reference.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is exclusively by boat from local operators. Entry is typically via giant stride or back roll at designated fjord anchors. Follow dive master briefing for current conditions and descent strategy. Deploy a surface marker buoy (SMB) during safety stop for boat pickup. Coordinate with boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Book with experienced Arctic dive operators familiar with fjord conditions
+- Bring a waterproof camera for kelp forest macro and wide-angle photography
+- Check current conditions and glacier discharge status before descent
+- Respect kelp ecosystem; maintain excellent buoyancy control
+- Look closely at kelp holdfasts for invertebrate biodiversity
+- Isfjorden is less extreme than outer fjord sites—good for Arctic dive progression
 
 ## Safety Considerations
 
-Be aware of extreme cold, hypothermia risk, ice in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Cold water (2-7°C) requires dry suit and appropriate thermal protection. Hypothermia risk is significant; monitor diving time closely. Fjord currents can change rapidly with glacier discharge. Dive only with experienced Arctic operators. Always maintain buddy contact, carry an SMB, and monitor depth and bottom time conservatively.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Kelp forest photography offers excellent macro opportunities on holdfasts and branches, plus wide-angle compositions capturing forest scale. Use backlit techniques for silhouetted kelp fronds. Macro subjects include nudibranchs, amphipods, and small fish. Lighting challenges in the dense kelp require careful technique and positioning.
 
 ## Additional Resources
 

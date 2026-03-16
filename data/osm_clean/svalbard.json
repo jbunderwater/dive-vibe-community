@@ -5,10 +5,10 @@
     "lon": 19.0930712,
     "osm_id": 5128182531,
     "osm_type": "node",
-    "depth": null,
+    "depth": 25,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "access": "yes",
       "historic": "wreck",
@@ -19,6 +19,8 @@
       "wreck:date_sunk": "2009-05",
       "wreck:visible_at_high_tide": "yes",
       "wreck:visible_at_low_tide": "yes",
+      "validated": "true",
+      "validation_source": "web_research",
       "source": "osm_extended",
       "addedBy": "extended_overpass"
     }
@@ -27,11 +29,13 @@
     "name": "Ny-Ålesund Harbor",
     "lat": 78.924,
     "lon": 11.928,
-    "depth": 15,
+    "depth": 18,
     "site_type": "reef",
-    "entry_type": "shore",
+    "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
+      "validated": "true",
+      "validation_source": "web_research",
       "source": "curated",
       "addedBy": "fill_remaining_gaps"
     }
@@ -42,9 +46,11 @@
     "lon": 15.64,
     "depth": 12,
     "site_type": "reef",
-    "entry_type": "shore",
+    "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
+      "validated": "true",
+      "validation_source": "web_research",
       "source": "curated",
       "addedBy": "fill_remaining_gaps"
     }
@@ -53,11 +59,13 @@
     "name": "Smeerenburg",
     "lat": 79.73,
     "lon": 11.05,
-    "depth": 18,
-    "site_type": "reef",
+    "depth": 20,
+    "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
+      "validated": "true",
+      "validation_source": "web_research",
       "source": "curated",
       "addedBy": "fill_remaining_gaps"
     }
@@ -68,9 +76,11 @@
     "lon": 16.328,
     "depth": 20,
     "site_type": "reef",
-    "entry_type": "shore",
+    "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
+      "validated": "true",
+      "validation_source": "web_research",
       "source": "curated",
       "addedBy": "fill_remaining_gaps"
     }
@@ -80,10 +90,13 @@
     "lat": 78.96,
     "lon": 12.0,
     "depth": 25,
-    "site_type": "wall",
+    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
+      "validated": "true",
+      "validation_source": "web_research",
+      "kelp_forest": "true",
       "source": "curated",
       "addedBy": "fill_remaining_gaps"
     }
@@ -94,9 +107,11 @@
     "lon": 14.225,
     "depth": 15,
     "site_type": "reef",
-    "entry_type": "shore",
+    "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
+      "validated": "true",
+      "validation_source": "web_research",
       "source": "curated",
       "addedBy": "fill_remaining_gaps"
     }
@@ -105,11 +120,14 @@
     "name": "Isfjorden Kelp Forest",
     "lat": 78.25,
     "lon": 15.0,
-    "depth": 10,
+    "depth": 15,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
+      "validated": "true",
+      "validation_source": "web_research",
+      "kelp_forest": "true",
       "source": "curated",
       "addedBy": "fill_remaining_gaps"
     }
@@ -123,6 +141,8 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
+      "validated": "true",
+      "validation_source": "web_research",
       "source": "curated",
       "addedBy": "fill_remaining_gaps"
     }

@@ -5,7 +5,7 @@ lng: 14.236345
 difficulty: Advanced
 maxDepth: 70
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: 663869711
 addedBy: osm_import
@@ -17,13 +17,13 @@ Reqqa Point is a reef dive site in Malta and Gozo, Europe.
 
 ## Overview
 
-Reqqa Point is a dive site in Malta and Gozo offering rewarding diving on healthy coral reef structures . entry/exit ladder. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Reqqa Point is one of Gozo's most dramatic dive sites, featuring a sheer wall drop-off ideal for advanced divers. Reef tops at 17-25m on west side, 60m+ on east side with numerous fissures and crevices. Deep technical dive destination with the famous 'Reqqa bottle' - a deep chimney at 58m entrance/35m exit. Excellent visibility, cold water, strong currents possible. AOWD certification minimum recommended.
 
 ## Site Information
 
 - **Location**: Malta and Gozo, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 70 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

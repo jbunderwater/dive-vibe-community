@@ -3,7 +3,7 @@ name: Nereo Cave
 lat: 40.56
 lng: 8.16
 difficulty: Advanced
-maxDepth: 30
+maxDepth: 35
 entryType: boat
 siteType: cave
 ref: null
@@ -13,30 +13,32 @@ addedBy: osm_import
 
 ## Nereo Cave
 
-Nereo Cave is a cave dive site in Sardinia, Europe.
+Nereo Cave is the largest marine cave in the Mediterranean Sea, located near Alghero on the northwestern coast of Sardinia beneath the limestone cliffs of Capo Caccia.
 
 ## Overview
 
-Nereo Cave is a dive site in Sardinia featuring underwater cave and cavern formations. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Nereo Cave is a spectacular underwater cave system considered one of the world's premier cave diving destinations. With around 10 entrances, arches, and tunnels creating a labyrinthine network, the cave accommodates dives of varying depths and complexity. The cave's unique feature is its massive chambers and multiple routes suitable for different experience levels. Walls are covered in red coral and yellow leptosamnia, creating a dramatic underwater landscape.
 
 ## Site Information
 
-- **Location**: Sardinia, Europe
+- **Location**: Capo Caccia, near Alghero, northwestern Sardinia
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: May to October
+- **Depth Range**: 0-35 meters
+- **Maximum Depth**: 35 meters
+- **Typical Visibility**: 20-30+ meters (summer)
+- **Water Temperature**: 18-24°C (May-October)
+- **Current**: Variable, can be strong
+- **Best Time**: May to October (summer for best visibility)
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+Nereo Cave hosts groupers, conger eels, scorpionfish, barracuda, snappers, blue lobsters, and red coral. The cave's red coral and leptosamnia (yellow soft coral) dominate the walls. Low-light-adapted species including moray eels and various crustaceans shelter in deep recesses.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Nereo Cave requires advanced cave diving training or cavern certification at minimum. The main attraction is navigating the cave's 10+ entrance points, tunnels, and massive chambers. Dives typically range 0-35 meters depending on the route chosen. The cave system allows modification of routes based on diver ability, making it suitable for intermediate advanced divers (cavern dives) through expert technical divers. Summer visibility exceeds 30 meters; air pockets within the cave allow for decompression stops and underwater breathing exchanges.
 
 ## Entry and Exit
 

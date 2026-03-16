@@ -3,7 +3,7 @@ name: Cominotto Arch (Dive Site)
 lat: 36.0119901
 lng: 14.3193411
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 30
 entryType: boat
 siteType: cave
 ref: null
@@ -25,7 +25,7 @@ Cominotto Arch (Dive Site) is a dive site in Malta and Gozo offering rewarding d
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: May to October

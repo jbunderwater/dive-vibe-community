@@ -2,8 +2,8 @@
 name: Um El Faroud
 lat: 35.8175798
 lng: 14.4495578
-difficulty: Intermediate
-maxDepth: 35
+difficulty: Advanced
+maxDepth: 36
 entryType: boat
 siteType: wreck
 ref: null
@@ -17,15 +17,15 @@ Um El Faroud is a historic wreck dive in Malta and Gozo, Europe.
 
 ## Overview
 
-Um El Faroud is a renowned dive site in Malta and Gozo featuring the wreck of the Um El Faroud which sank in 1998-09-02 . It was the first open dive after autumn 1998 Maltaqua controlled circumstances, the assistance of experts sunk, then the following week also were 4 times that of the impressive 104 m long wreck. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The Um El Faroud is a 115-meter Libyan oil tanker (15.5m beam) sunk in 1998, one of Malta's premier wreck dives. The wreck sits upright on sandy bottom with funnel at 15m and propeller at 36m. It was purpose-scuttled with doors and windows removed and penetration holes cut for diving. Strong currents possible; requires advanced wreck training for penetration. Excellent visibility (20-40m) and thriving artificial reef ecosystem.
 
 ## Site Information
 
 - **Location**: Malta and Gozo, Europe
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 35 meters
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 36 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: May to October

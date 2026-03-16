@@ -11,32 +11,34 @@ osmId: 2092439797
 addedBy: osm_import
 ---
 
-## fighter plane wrack world war II
+## World War II Fighter Plane Wreck
 
-fighter plane wrack world war II is a historic wreck dive in Greece, Europe.
+This ultra-shallow fighter aircraft wreck is one of the shallowest wreck dives in Greece, with portions in just 2 meters of water. Perfect for training, snorkeling conversion, and historical exploration with minimal depth management required.
 
 ## Overview
 
-fighter plane wrack world war II is a dive site in Greece featuring the wreck of the fighter plane wrack world war II. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+A World War II fighter aircraft lies in exceptionally shallow water near Poros, making it ideal for trainee divers and experienced divers seeking a relaxing historical dive. The wreck was surveyed and GPS marked in 2019 and officially classified as non-dangerous. Plant growth and marine encrustation now cover the fuselage and components.
 
 ## Site Information
 
-- **Location**: Greece, Europe
+- **Location**: Poros area, near Athens, Greece
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 7 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
+- **Shallowest Point**: 2 meters (at high tide)
+- **Typical Visibility**: 8-20 meters (25-65 feet)
+- **Current**: Light
 - **Best Time**: May to October
+- **Classification**: Non-dangerous (open to recreational divers)
 
 ## Marine Life
 
-Divers at this site can expect to encounter conger eels, lobsters, crabs, anemones, coral encrustation, groupers, moray eels, octopus. Additional species commonly sighted include barracuda, sea bream, amberjack. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Despite the shallow depth, the wreck hosts anemones, small crustaceans, and algae-covered surfaces. Small fish species utilize the structure. The gentle environment allows extended bottom times for photography and exploration.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 7 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Begin in the shallow water zone where you can see the entire wreck structure at once. The maximum 7-meter depth allows extremely long bottom times even for recreational divers. Excellent for skill practice and photography with natural light reaching the entire structure. No air consumption challenges make this ideal for training.
 
 ## Entry and Exit
 

@@ -3,39 +3,45 @@
     "name": "La Gabinière",
     "lat": 43.0,
     "lon": 6.4,
-    "depth": 40,
+    "depth": 45,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": true,
+      "validation_source": "web_research"
     }
   },
   {
     "name": "La Pointe de la Galère",
     "lat": 42.985,
     "lon": 6.39,
-    "depth": 22,
+    "depth": 34,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": true,
+      "validation_source": "web_research"
     }
   },
   {
     "name": "Le Donator Wreck",
     "lat": 43.02,
     "lon": 6.38,
-    "depth": 50,
+    "depth": 52,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": true,
+      "validation_source": "web_research"
     }
   },
   {
@@ -55,26 +61,30 @@
     "name": "Le Grec Wreck",
     "lat": 43.03,
     "lon": 6.37,
-    "depth": 45,
+    "depth": 47,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": true,
+      "validation_source": "web_research"
     }
   },
   {
     "name": "Îlot de la Croix",
     "lat": 43.005,
     "lon": 6.42,
-    "depth": 15,
+    "depth": 30,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": true,
+      "validation_source": "web_research"
     }
   },
   {
@@ -100,7 +110,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": true,
+      "validation_source": "web_research"
     }
   },
   {
@@ -120,13 +132,15 @@
     "name": "La Gabinière Nord",
     "lat": 43.002,
     "lon": 6.398,
-    "depth": 35,
+    "depth": 40,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": true,
+      "validation_source": "web_research"
     }
   },
   {
@@ -161,16 +175,18 @@
     "lon": 6.2739333,
     "osm_id": 663869693,
     "osm_type": "node",
-    "depth": 35,
+    "depth": 47,
     "site_type": "wreck",
-    "entry_type": null,
+    "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "name": "Wrack 'Sagona' (Le Grec)",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "wreck:depth": "35m",
-      "addedBy": "extended_overpass"
+      "wreck:depth": "47m",
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "web_research"
     }
   },
   {
@@ -179,16 +195,18 @@
     "lon": 6.2783333,
     "osm_id": 663869699,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 52,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": "Intermediate",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Wrack 'Prosper Schiaffino' (Alias Donator)",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "wreck:depth": "25m",
-      "addedBy": "extended_overpass"
+      "wreck:depth": "52m",
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "web_research"
     }
   },
   {
@@ -197,20 +215,21 @@
     "lon": 6.3611,
     "osm_id": 663869700,
     "osm_type": "node",
-    "depth": null,
+    "depth": 48,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "alt_name": "La Barge aux congres",
       "historic": "wreck",
       "name": "La Tantine",
       "name:en": "Wrack 'Tantine'",
-      "note": "please check and del this tag",
       "seamark:type": "wreck",
       "source": "osm_extended",
       "sport": "scuba_diving",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "web_research"
     }
   },
   {
@@ -219,10 +238,10 @@
     "lon": 6.3962166,
     "osm_id": 663869701,
     "osm_type": "node",
-    "depth": null,
+    "depth": 53,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "historic": "wreck",
       "name": "Wildcat",
@@ -230,7 +249,9 @@
       "source": "osm_extended",
       "sport": "scuba_diving",
       "wreck:type": "aircraft",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "web_research"
     }
   },
   {
@@ -239,16 +260,18 @@
     "lon": 6.3957633,
     "osm_id": 12988211769,
     "osm_type": "node",
-    "depth": null,
+    "depth": 40,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "description": "De 10 a 40m... Appelé aussi MerouLand",
       "name": "Gabiniėre Est",
       "sport": "scuba_diving",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "web_research"
     }
   },
   {
@@ -257,17 +280,19 @@
     "lon": 6.5138411,
     "osm_id": 602115153,
     "osm_type": "way",
-    "depth": null,
+    "depth": 25,
     "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "l’Esquadillon",
       "natural": "reef",
       "place": "islet",
       "reef": "rock",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "web_research"
     }
   }
 ]

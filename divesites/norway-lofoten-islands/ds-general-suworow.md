@@ -3,8 +3,8 @@ name: D/S General Suworow
 lat: 68.1416033
 lng: 13.5253098
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+maxDepth: 18
+entryType: boat
 siteType: wreck
 ref: null
 osmId: 11673361278
@@ -13,51 +13,53 @@ addedBy: osm_import
 
 ## D/S General Suworow
 
-D/S General Suworow is a historic wreck dive in Norway Lofoten Islands, Europe.
+D/S General Suworow is a historic wreck dive in Norway Lofoten Islands, representing a century-old vessel that sank in 1919. This well-preserved wreck provides excellent Arctic diving opportunities in the heart of the Lofoten diving region.
 
 ## Overview
 
-D/S General Suworow is a dive site in Norway Lofoten Islands featuring the wreck of the D/S General Suworow which sank in 1919-08-05. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The General Suworow sank on August 5, 1919, and now rests at approximately 18 meters depth in the Lofoten Islands. The wreck has been exceptionally well-preserved by the cold Arctic conditions, providing excellent structure for exploration and photography. Visibility typically ranges 10-20 meters, with water temperatures between 0-15°C depending on season. The wreck offers both exterior structure exploration and limited penetration opportunities for trained divers.
 
 ## Site Information
 
-- **Location**: Norway Lofoten Islands, Europe
-- **Entry Type**: Shore entry
+- **Location**: Lofoten Islands, Arctic Norway
+- **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Maximum Depth**: 18 meters
+- **Typical Visibility**: 10-20 meters
+- **Water Temperature**: 0-15°C (seasonal variation)
 - **Current**: Light to moderate
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter conger eels, lobsters, crabs, anemones, coral encrustation, groupers, moray eels, octopus. Additional species commonly sighted include barracuda, sea bream, amberjack. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Arctic marine species inhabit the wreck structure, including crabs, anemones, sea urchins, starfish, and cold-adapted fish species. The wreck colonization by Arctic organisms provides interesting ecology and exceptional macro photography subjects. Seals occasionally visit the area, and winter months may bring orca pods to surrounding waters.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 25 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descent begins at 8-18 meters depth. The wreck structure is fully accessible for exterior exploration. The relatively shallow depth allows for extended bottom time and thorough examination of the historic vessel. Plan appropriate safety stops based on your certification level. The thermocline typically occurs around 20 meters with temperature transitions.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Access is by dive boat from Lofoten-based operators. Entry is typically via giant stride from the RIB boat. Follow the operator's descent procedures to the wreck. Deploy a surface marker buoy (SMB) during your safety stop. Coordinate with boat crew for final exit procedures.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Bring a strong dive torch to illuminate interior features and enhance visibility
+- Maintain excellent buoyancy control to preserve the historic wreck structure
+- Do not attempt penetration without proper wreck training certification
+- Book with Arctic-experienced operators familiar with cold-water techniques
+- Wear thick thermal protection or dry suit; water temperatures are consistently cold
+- Visit during summer months (May-August) for relatively warmer conditions
+- Plan dives during calm weather windows typical of Arctic seasons
 
 ## Safety Considerations
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Cold water requires specialized thermal protection and hypothermia awareness. Air consumption increases in cold conditions—monitor your gauges closely. Currents may be present; always dive with a buddy. Carry a safety sausage. Respect this historic wreck and its role in Lofoten diving heritage.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The well-preserved wreck structure provides dramatic composition opportunities. A torch is essential for illuminating interior compartments and bringing out colors. The encrusted surfaces offer excellent macro photography subjects showcasing Arctic biodiversity.
 
 ## Additional Resources
 

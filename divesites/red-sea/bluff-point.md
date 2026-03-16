@@ -2,7 +2,7 @@
 name: Bluff Point
 lat: 27.6812826
 lng: 33.8080826
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 20
 entryType: boat
 siteType: wall
@@ -24,7 +24,7 @@ Bluff Point is a dive site in Red Sea featuring a dramatic vertical wall that dr
 - **Location**: Red Sea, Middle East
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Moderate to strong

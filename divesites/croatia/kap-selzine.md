@@ -2,10 +2,10 @@
 name: Kap Selzine
 lat: 44.9814833
 lng: 14.4702833
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Advanced
+maxDepth: 45
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: 663869731
 addedBy: osm_import
@@ -23,9 +23,9 @@ Kap Selzine is a dive site in Croatia offering rewarding diving on healthy coral
 
 - **Location**: Croatia, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Site Type**: Wall dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 45 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: May to October

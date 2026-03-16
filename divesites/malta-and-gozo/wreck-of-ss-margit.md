@@ -3,7 +3,7 @@ name: Wreck of SS Margit
 lat: 35.8904822
 lng: 14.5227148
 difficulty: Intermediate
-maxDepth: 24
+maxDepth: 22
 entryType: boat
 siteType: wreck
 ref: null
@@ -25,7 +25,7 @@ Wreck of SS Margit is a dive site in Malta and Gozo featuring a historic wreck w
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 24 meters
+- **Maximum Depth**: 22 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: May to October

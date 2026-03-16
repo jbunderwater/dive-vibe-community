@@ -3,7 +3,7 @@ name: La Gabinière
 lat: 43.0
 lng: 6.4
 difficulty: Advanced
-maxDepth: 40
+maxDepth: 45
 entryType: boat
 siteType: reef
 ref: null
@@ -17,22 +17,23 @@ La Gabinière is a reef dive site in Port-Cros, Europe.
 
 ## Overview
 
-La Gabinière is a dive site in Port-Cros offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+La Gabinière is the crown jewel of Port-Cros diving—an exceptional reef site renowned for its dramatic drop-offs and extraordinary grouper population. This protected integral reserve hosts over 300 brown groupers that are accustomed to divers, making it one of the richest dive sites in continental France. The islet is only accessible by sea and reaches depths beyond 40 meters on its eastern face.
 
 ## Site Information
 
-- **Location**: Port-Cros, Europe
+- **Location**: Port-Cros National Park, Côte d'Azur, France
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 40 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
+- **Maximum Depth**: 45 meters
+- **Typical Visibility**: 15-35 meters
+- **Current**: Light to moderate (more exposed areas)
 - **Best Time**: May to October
+- **Water Temperature**: 15-24°C
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
+La Gabinière is famous for its dense population of brown groupers (mérou brun), particularly in the 20-40 meter depth range. Schools of Mediterranean barracudas patrol the drop-offs. Other common species include moray eels, octopus, sea bream, dentex, and vibrant red gorgonians. The surrounding posidonia seagrass meadows provide critical habitat for juvenile fish and invertebrates.
 
 ## Dive Profile
 

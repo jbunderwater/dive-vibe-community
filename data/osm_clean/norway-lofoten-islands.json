@@ -5,7 +5,7 @@
     "lon": 14.534333,
     "osm_id": 663871180,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 22,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -13,7 +13,10 @@
       "historic": "wreck",
       "name": "MS Hamburg",
       "seamark:type": "wreck",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity",
+      "wreck_year": "1941"
     }
   },
   {
@@ -22,17 +25,19 @@
     "lon": 13.5253098,
     "osm_id": 11673361278,
     "osm_type": "node",
-    "depth": null,
+    "depth": 18,
     "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "historic": "wreck",
       "name": "D/S General Suworow",
       "seamark:type": "wreck",
       "wreck:date_sunk": "1919-08-05",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -45,20 +50,24 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
     "name": "Nusfjord Wall",
     "lat": 68.035,
     "lon": 13.35,
-    "depth": 25,
+    "depth": 22,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -68,23 +77,27 @@
     "depth": 12,
     "site_type": "reef",
     "entry_type": "shore",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
     "name": "Henningsvær Wall",
     "lat": 68.151,
     "lon": 14.2,
-    "depth": 30,
+    "depth": 28,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -97,7 +110,9 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -110,7 +125,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -123,20 +140,24 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
     "name": "Maelstrom Wall",
     "lat": 67.9,
     "lon": 13.0,
-    "depth": 35,
+    "depth": 32,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -149,7 +170,9 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_remaining_gaps"
+      "addedBy": "fill_remaining_gaps",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   }
 ]

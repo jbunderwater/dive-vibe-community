@@ -3,7 +3,7 @@ name: Calypso Cave
 lat: 36.0817449
 lng: 14.2486946
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 30
 entryType: boat
 siteType: cave
 ref: null
@@ -25,7 +25,7 @@ Calypso Cave is a dive site in Malta and Gozo featuring underwater cave and cave
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: May to October

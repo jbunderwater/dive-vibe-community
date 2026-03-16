@@ -2,8 +2,8 @@
 name: Rainbow reef
 lat: 29.4325243
 lng: 34.9737847
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Beginner
+maxDepth: 18
 entryType: boat
 siteType: reef
 ref: null
@@ -13,34 +13,35 @@ addedBy: osm_import
 
 ## Rainbow reef
 
-Rainbow reef is a reef dive site in Jordan - Aqaba, Middle East.
+Rainbow Reef is named for its vibrant shape and spectacular soft and hard coral formations in brilliant reds, yellows, purples, and blues. This gently sloping reef is famous for its exceptional night dives, when nocturnal creatures including Spanish dancers and moray eels emerge to hunt.
 
 ## Overview
 
-Rainbow reef is a dive site in Jordan - Aqaba offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Located in the heart of Aqaba Marine Park, Rainbow Reef is one of the most visually stunning dive sites in Jordan. The reef's distinctive rainbow shape and kaleidoscope of soft and hard corals create an underwater landscape of extraordinary color. The reef begins in shallow water (around 6 meters) and slopes gently to 18 meters at the reef top, with a deeper gulley running down the north side forming a beautiful wall. Four telecommunications cables laid in 1996 between Jordan and Egypt run beneath the surface. The northern wall features a thriving artificial reef constructed to protect these cables.
 
 ## Site Information
 
-- **Location**: Jordan - Aqaba, Middle East
+- **Location**: Jordan - Aqaba Marine Park, Red Sea
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 18 meters
+- **Typical Visibility**: 20-40 meters
+- **Current**: Minimal to gentle
+- **Best Time**: September to May (excellent for night diving)
+- **Water Temperature**: 18-27°C
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Moray eels and lionfish hunt among schools of glassfish. Nudibranchs including Spanish dancers are common, especially at night. Feather stars in every color of the rainbow create a spiny forest across the reef. Hard corals (brain coral, table coral) and soft corals dominate the structure. Fusiliers, anthias, parrotfish, and groupers populate the reef throughout the day.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the reef top at 6-18 meters and begin following the rainbow-shaped formation. Explore the shallow sections for the best color saturation and schooling fish. Gradually work deeper toward the wall on the north side, which slopes to 30+ meters. The reef's gentle slope and easy-to-navigate structure make it accessible for newly certified divers during daytime. Night dives here are exceptional—corals extend polyps, nocturnal creatures emerge, and the bioluminescence is remarkable under torch light.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Board the dive boat for access to the two moorings (one near shore, one on the outer reef). Enter via giant stride or back roll. Descend along the mooring line to the reef structure. After exploration, ascend slowly with a safety stop at 5 meters. Deploy your surface marker buoy (SMB) and coordinate with the boat crew for pickup.
 
 ## Tips and Recommendations
 

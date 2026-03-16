@@ -3,9 +3,9 @@ name: Yolanda Reef
 lat: 27.7247011
 lng: 34.2583484
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 14
 entryType: boat
-siteType: reef
+siteType: wreck
 ref: null
 osmId: 278086478
 addedBy: osm_import
@@ -13,19 +13,19 @@ addedBy: osm_import
 
 ## Yolanda Reef
 
-Yolanda Reef is a reef dive site in Red Sea, Middle East.
+Yolanda Reef is a unique shallow wreck site at Ras Mohammed, named after the cargo scattered on the reef from the deep wreck of the MV Yolanda. This is one of the Red Sea's most iconic dive sites, famous for the dramatic topography and abundant marine life.
 
 ## Overview
 
-Yolanda Reef is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+This mixed reef and wreck dive features the cargo and debris scattered across a reef at 10-30 meters, primarily visible between 10-14 meters. The actual ship wreck lies much deeper (145-160 meters) at technical diving depths. Recreational divers typically encounter toilets, cargo containers, and ship parts piled on the shallow reef. The site is known for dramatic vertical walls nearby and frequent sightings of large pelagics including sharks and barracudas.
 
 ## Site Information
 
 - **Location**: Red Sea, Middle East
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 14 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Moderate to strong
 - **Best Time**: September to May
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter whale sharks, manta rays, hammerhead
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin by descending the anchor line through blue water, often encountering large pelagics during the descent. Explore the cargo scattered on the reef between 10-14 meters, examining toilets, containers, and wreck debris. The site offers dramatic reef topography with walls dropping off steeply to deep water nearby. Maximum recreational depth is 14 meters at the wreck cargo debris. Ascend slowly through the blue water zone, scanning for sharks and rays. A safety stop at 5 meters is recommended before surfacing. The site is best dived early in the day when sharks are more active.
 
 ## Entry and Exit
 

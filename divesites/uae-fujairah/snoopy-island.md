@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Snoopy Island
 
-Snoopy Island is a reef dive site in UAE - Fujairah, Middle East.
+Snoopy Island is a famous beginner-friendly coral reef near Fujairah, popular for both shore-based diving and snorkeling.
 
 ## Overview
 
-Snoopy Island is a dive site in UAE - Fujairah offering excellent diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Snoopy Island offers crystal-clear waters with excellent visibility up to 20 meters and stunning coral reef structures. This shallow, accessible site is perfect for newer divers and snorkelers, with depths never exceeding 12 meters. The island features vibrant corals, diverse fish species, green turtles, and occasional reef shark encounters.
 
 ## Site Information
 
-- **Location**: UAE - Fujairah, Middle East
+- **Location**: UAE - Fujairah, Gulf of Oman
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
+- **Typical Visibility**: 15-20 meters
+- **Current**: Typically calm (excellent for beginners)
 - **Best Time**: September to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Snoopy Island's coral reefs support abundant fish species including clownfish, butterflyfish, and various reef fish. Green turtles are frequently spotted at this site. Reef sharks (typically small species) are occasionally encountered but pose no threat. Soft corals create colorful backdrops for photography.
 
 ## Dive Profile
 

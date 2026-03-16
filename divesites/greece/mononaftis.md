@@ -3,7 +3,7 @@ name: Mononaftis
 lat: 35.4082835
 lng: 25.0230868
 difficulty: Intermediate
-maxDepth: 22
+maxDepth: 35
 entryType: boat
 siteType: reef
 ref: null
@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Mononaftis
 
-Mononaftis is a reef dive site in Greece, Europe.
+Mononaftis is a dynamic reef and cavern site near Agia Pelagia in Crete, known for large barracuda schools and caves accessible to intermediate divers.
 
 ## Overview
 
-Mononaftis is a dive site in Greece offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Also located near Agia Pelagia in Crete, Mononaftis offers deeper exploration than neighboring Lygaria with a more dramatic underwater topography. The site features reef structures interspersed with caverns and crevices, excellent for intermediate-level divers. Visibility often exceeds 20 meters in summer months.
 
 ## Site Information
 
-- **Location**: Greece, Europe
+- **Location**: Agia Pelagia, Crete, Greece
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
+- **Maximum Depth**: 35 meters
+- **Typical Visibility**: 15-30 meters (50-100 feet)
+- **Current**: Moderate to strong
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
+Notable for large schools of barracudas at depth, the site also hosts groupers, moray eels, stingrays, octopus, and occasional black scorpionfish. Small fish species including damselfish and wrasse provide constant activity in the shallower areas.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 22 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin at 18-20 meters exploring the main reef structure. Progress deeper to follow the reef contour and explore small caves and cavern entrances around 30 meters. The deepest section reaches 35 meters. Large barracuda schools are often encountered at depths between 25-35 meters. Return via the shallower sections for safety stop, exploring marine life at 10-15 meters.
 
 ## Entry and Exit
 

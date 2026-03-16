@@ -3,7 +3,7 @@ name: Chrisoula K
 lat: 27.5805307
 lng: 33.9287744
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 26
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Chrisoula K
 
-Chrisoula K is a historic wreck dive in Red Sea, Middle East.
+The Chrisoula K is one of the Abu Nuhas wreck cluster—four wrecks in close proximity that make this area one of the Red Sea's premier wreck diving destinations. This 98-meter Greek registered freighter sank on August 31, 1981, laden with floor tiles after hitting the Abu Nuhas reef.
 
 ## Overview
 
-Chrisoula K is a dive site in Red Sea featuring the wreck of the Chrisoula K. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The ship lies mostly upright with its stern at 26 meters and bow in shallow water at only 3 meters. The shallow bow section makes this site accessible for less experienced wreck divers, while deeper stern sections suit advanced divers. The stern is slowly separating from the bow, creating distinct dive segments. Cargo tiles are scattered on the seabed, and the wreck is encrusted with marine growth. This is typically dived as part of a multi-wreck day with Kimon M, Giannis D, and Carnatic all nearby.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ Chrisoula K is a dive site in Red Sea featuring the wreck of the Chrisoula K. Lo
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 26 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Moderate to strong
 - **Best Time**: September to May
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter glassy sweepers, lionfish, groupers,
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 20 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Most divers begin at the shallow bow section (3 meters) for orientation, then descend toward the stern at 26 meters. The relatively upright orientation makes navigation straightforward. The bow-stern separation allows divers to explore both sections depending on their depth preference and certification level. Intermediate divers can focus on the bow-to-midships sections, while advanced divers explore the deeper stern sections. The scattered cargo adds visual interest at multiple depths. Plan 45-60 minute bottom times. Ascend with a safety stop at 5 meters. This site is often dived as part of a sequence with the nearby Kimon M (easy swim) and other wrecks in the cluster.
 
 ## Entry and Exit
 

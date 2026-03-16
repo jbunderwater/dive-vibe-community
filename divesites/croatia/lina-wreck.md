@@ -3,7 +3,7 @@ name: Lina wreck
 lat: 45.1024305
 lng: 14.2790667
 difficulty: Advanced
-maxDepth: 60
+maxDepth: 55
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,30 +13,31 @@ addedBy: osm_import
 
 ## Lina wreck
 
-Lina wreck is a historic wreck dive in Croatia, Europe.
+One of Croatia's most photogenic and accessible deep wrecks, the Lina is a historic iron steamship built in 1879 that sank in 1914 after running aground during dense fog and storm conditions. Located in the Kvarner region of the North Adriatic, the Lina is considered one of the best wrecks in the Adriatic for experienced divers.
 
 ## Overview
 
-Lina wreck is a dive site in Croatia featuring the wreck of the Lina wreck. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The Lina was built in Great Britain in 1879 and sailed throughout the Mediterranean and northern Europe transporting oil, wine, coal, and other cargo. On a dark night in 1914, the crew lost its way in dense fog, and the ship wrecked on coastal cliffs. The wreck extends across multiple depths: bow at 20-25 meters, bridge and engine room at 40 meters, stern at 55 meters. To see the entire structure, divers must descend to 55 meters. Despite its depth, the Lina remains one of the most visited wrecks in the Adriatic due to its excellent preservation and photogenic features including decomposing cabins and visible hull damage from the reef strike.
 
 ## Site Information
 
-- **Location**: Croatia, Europe
+- **Location**: Kvarner Bay, North Adriatic, Croatia
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 60 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Depth Range**: Bow 20m, Bridge/Engine 40m, Stern 55 meters
+- **Typical Visibility**: 10-20 meters (35-65 feet)
 - **Current**: Light to moderate
-- **Best Time**: May to October
+- **Best Time**: May to September
+- **Historical Note**: Sank 1914 after running aground in storm
 
 ## Marine Life
 
-Divers at this site can expect to encounter conger eels, lobsters, crabs, anemones, coral encrustation, groupers, moray eels, octopus. Additional species commonly sighted include barracuda, sea bream, amberjack. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The wreck is heavily colonized with red and orange moss animals, colorful sponges, and encrusting corals. Conger eels, lobsters, and schools of small fish inhabit the structure. Groupers, scorpionfish, and occasionally larger pelagics patrol the exterior.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 60 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Most divers explore the shallower sections (20-40m) where the bow, bridge, and engine room offer excellent features. Descent to bow: 4-5 minutes. The cabins remain decomposing with visible structural damage from the original reef strike. Advanced divers may descend to 55 meters to reach the stern, but bottom time is extremely limited. Plan your dive carefully—only experienced technical divers should attempt full wreck penetration.
 
 ## Entry and Exit
 

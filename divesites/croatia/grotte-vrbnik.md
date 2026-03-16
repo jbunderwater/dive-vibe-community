@@ -3,7 +3,7 @@ name: Grotte Vrbnik
 lat: 45.08265
 lng: 14.6733667
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 13
 entryType: boat
 siteType: cave
 ref: null
@@ -13,26 +13,29 @@ addedBy: osm_import
 
 ## Grotte Vrbnik
 
-Grotte Vrbnik is a reef dive site in Croatia, Europe.
+Vrbnik Cave is a scenic underwater cave system located on the island of Krk in the Kvarner Bay. Just 100 meters from a dive center, this cave stretches approximately 35 meters into the rock, lit dramatically by a chimney (vertical shaft) that reaches to the water surface, creating a fascinating interplay of natural light within the cave.
 
 ## Overview
 
-Grotte Vrbnik is a dive site in Croatia offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The Vrbnik Cave entrance is located at 13 meters depth and is completely overgrown with colorful sponges in various hues. The cave extends 30 meters inland with an irregular triangular prism shape. A natural chimney opens to the surface, flooding the interior with natural light. The cave has an air pocket where divers can surface and examine the unique rock formations. The cave bottom is covered with mud and boulders. Geological studies reveal the cave was formed in Upper Cretaceous limestone under terrestrial conditions, probably during glaciation, and was subsequently submerged during sea-level rise.
 
 ## Site Information
 
-- **Location**: Croatia, Europe
+- **Location**: Vrbnik, Island of Krk, Kvarner Bay
+- **Distance to Dive Center**: ~100 meters
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: May to October
+- **Depth Range**: Cave entrance 13m, extends inland at varied depths
+- **Cave Dimension**: ~30 meters long, irregular triangular profile
+- **Typical Visibility**: 15-30 meters
+- **Current**: Minimal
+- **Best Time**: May to September
+- **Special Feature**: Natural light chimney and air pocket
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
+The cave entrance is heavily colonized with sponges in diverse colors. Conger eels and lobsters are frequently sighted within and around the entrance. The biocenological surveys have documented 23 taxa of macroflora at the entrance and 115 taxa of macrofauna, including porifera, cnidaria, bivalvia, gastropoda, crustacea, and fish species adapted to cave conditions.
 
 ## Dive Profile
 

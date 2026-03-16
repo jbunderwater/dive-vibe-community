@@ -17,22 +17,23 @@ La Pointe du Vaisseau is a reef dive site in Port-Cros, Europe.
 
 ## Overview
 
-La Pointe du Vaisseau is a dive site in Port-Cros offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+La Pointe du Vaisseau is an accessible intermediate reef site in Port-Cros offering pleasant diving to 18 meters depth. The site combines shallow reef exploration with Mediterranean marine biodiversity in an easy-to-navigate location. This is an excellent site for intermediate divers seeking to build experience with reef navigation, marine life observation, and photography without deep technical demands. The shallow depth and gentle topography make it suitable for training and recreational diving.
 
 ## Site Information
 
-- **Location**: Port-Cros, Europe
+- **Location**: Port-Cros National Park, Côte d'Azur, France
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Typical Visibility**: 15-35 meters
 - **Current**: Light to moderate
 - **Best Time**: May to October
+- **Water Temperature**: 15-24°C
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
+Groupers, schools of breams, Mediterranean wrasses, and sea bream inhabit the reef. Moray eels and crabs occupy rocky crevices. Posidonia seagrass meadows support juvenile fish and invertebrates. Nudibranchs, sea fans, and sponges colonize rock surfaces. The shallow depth makes this an excellent site for macro photography and wildlife observation without decompression concerns.
 
 ## Dive Profile
 

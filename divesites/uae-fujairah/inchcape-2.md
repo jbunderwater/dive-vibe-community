@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Inchcape 2
 
-Inchcape 2 is a historic wreck dive in UAE - Fujairah, Middle East.
+Inchcape 2 is an intermediate-level shipwreck dive featuring another Inchcape Shipping vessel with excellent coral coverage.
 
 ## Overview
 
-Inchcape 2 is a dive site in UAE - Fujairah featuring the wreck of the Inchcape 2. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Inchcape 2 is the sister wreck to Inchcape 1, sitting at more accessible 25 meters depth (making it intermediate-level). This decommissioned supply vessel has become an impressive artificial reef with dense coral colonization over two decades. The wreck remains largely intact and upright, providing excellent external exploration opportunities without deep technical diving requirements.
 
 ## Site Information
 
-- **Location**: UAE - Fujairah, Middle East
+- **Location**: UAE - Fujairah, Gulf of Oman
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
+- **Typical Visibility**: 15-20 meters
+- **Current**: Moderate
 - **Best Time**: September to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter glassy sweepers, lionfish, groupers, coral growth, soft corals, whale sharks, manta rays, hammerhead sharks. Additional species commonly sighted include oceanic whitetip sharks, sea turtles, dolphins. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Inchcape 2 attracts abundant fish life including groupers, snappers, angelfish, and schools of jacks and barracuda. Soft corals and sponges have encrusted the vessel. Macro subjects are plentiful on the encrusted surfaces, making this an excellent photography site.
 
 ## Dive Profile
 

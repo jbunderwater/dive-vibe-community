@@ -2,10 +2,10 @@
 name: Punta dell'Arpa
 lat: 38.72
 lng: 13.18
-difficulty: Intermediate
-maxDepth: 18
+difficulty: Advanced
+maxDepth: 35
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import
@@ -17,26 +17,26 @@ Punta dell'Arpa is a reef dive site in Ustica, Europe.
 
 ## Overview
 
-Punta dell'Arpa is a dive site in Ustica offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Punta dell'Arpa is located at the southernmost tip of Ustica and features a path through tunnels and creeks culminating in a spectacular red gorgonian forest. The site descends to approximately 35 meters where thousands of gorgonians create a vibrant underwater landscape. This is one of Ustica's premier gorgonian diving locations, offering an advanced dive with swim-throughs through stony coral formations.
 
 ## Site Information
 
-- **Location**: Ustica, Europe
+- **Location**: South tip of Ustica, Mediterranean
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Site Type**: Wall dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 35 meters
+- **Typical Visibility**: Excellent - usually 25-40 meters
 - **Current**: Light to moderate
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
+Red gorgonians cover the boulders and swim-throughs, creating a spectacular coral garden. Stony coral madrepores decorate the underwater passages. Shrimp colonies inhabit the depths. The gorgonian formations attract small fish and crustaceans seeking shelter in the coral branches.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin at the shallower sections and navigate through tunnels and creek passages as you descend. The best gorgonian displays are encountered between 25-35 meters. Take time to explore the red gorgonian forest at the site's deepest sections. The swim-throughs require moderate buoyancy control and awareness of your depth.
 
 ## Entry and Exit
 

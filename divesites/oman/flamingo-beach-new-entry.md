@@ -2,8 +2,8 @@
 name: Flamingo Beach: New Entry
 lat: 16.9500559
 lng: 54.8192384
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Beginner
+maxDepth: 15
 entryType: boat
 siteType: reef
 ref: null
@@ -13,30 +13,31 @@ addedBy: osm_import
 
 ## Flamingo Beach: New Entry
 
-Flamingo Beach: New Entry is a reef dive site in Oman, Middle East.
+Flamingo Beach offers multiple beginner-friendly entry points for coral reef diving near Muscat.
 
 ## Overview
 
-Flamingo Beach: New Entry is a dive site in Oman offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Flamingo Beach: New Entry provides an alternative boat entry to shallow coral reef diving at the Flamingo Beach area. The site features healthy coral formations and abundant reef fish in sheltered waters suitable for beginner divers and training. Maximum depth approximately 15 meters with excellent conditions for building confidence. Water temperatures 23–25°C with typical visibility 15–25 meters. Best diving April-May and September-October.
 
 ## Site Information
 
-- **Location**: Oman, Middle East
+- **Location**: Flamingo Beach area, Muscat, Oman
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 15 meters
+- **Typical Visibility**: 15-25 meters (50-80 feet)
+- **Water Temperature**: 23-25°C (73-77°F)
+- **Current**: Minimal
+- **Best Time**: April-May, September-October
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Reef fish including clownfish, butterflyfish, angelfish, parrotfish, grouper, snapper, scorpionfish, triggerfish, and surgeonfish. Sea turtles, rays, and moray eels frequent the reef. Soft corals and sea urchins add to the marine diversity.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Enter via boat and descend to the shallow reef at 6–15 meters. Explore the coral structures within beginner depth limits. Take time to observe reef behavior and photograph the diverse fish life. This entry point is particularly suitable for practicing new diving skills in a forgiving environment.
 
 ## Entry and Exit
 

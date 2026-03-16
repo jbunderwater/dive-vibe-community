@@ -3,7 +3,7 @@ name: Salem Express
 lat: 26.6397175
 lng: 34.0615772
 difficulty: Advanced
-maxDepth: 20
+maxDepth: 27
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Salem Express
 
-Salem Express is a historic wreck dive in Red Sea, Middle East.
+The Salem Express is a tragic yet historically significant wreck dive near Safaga. This vehicular ferry sank on December 14, 1991, just one hour from its final destination in Safaga, resulting in an estimated 600+ casualties—one of the deadliest maritime disasters in peacetime. The wreck remains controversial and emotionally sensitive to dive operators and local communities.
 
 ## Overview
 
-Salem Express is a dive site in Red Sea featuring the wreck of the Salem Express which sank in 11:13pm on December 14th, 1991. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The ship rests on its starboard side at 27 meters on a flat sand bottom, with the shallowest section at just 7 meters. The wreck is structurally weak and unstable, with collapsed sections and narrow passageways. The bow doors remain open, revealing the interior. While exterior diving is possible, full penetration is not recommended due to silt, disorientation, and structural instability. The wreck is a sober reminder of maritime tragedy and is best approached with respect for the lives lost.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ Salem Express is a dive site in Red Sea featuring the wreck of the Salem Express
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 27 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Moderate to strong
 - **Best Time**: September to May
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter glassy sweepers, lionfish, groupers,
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 20 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The dive begins with descent along the anchor line to the wreck top around 15-20 meters. This is primarily an exterior dive focusing on the hull structure, open bow doors, and deck features. The shallowest sections at 7 meters can be explored for better light and easier navigation. Most divers stay in the 12-25 meter range. The wreck interior is dark, silt-laden, and disorienting—penetration is only for experienced wreck divers with proper training and is generally not recommended. Ascend slowly with a safety stop at 5 meters. The dive should be conducted with reverence given the loss of life.
 
 ## Entry and Exit
 

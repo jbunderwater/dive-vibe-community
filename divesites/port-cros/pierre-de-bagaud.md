@@ -17,22 +17,23 @@ Pierre de Bagaud is a reef dive site in Port-Cros, Europe.
 
 ## Overview
 
-Pierre de Bagaud is a dive site in Port-Cros offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Pierre de Bagaud is a reef site near Bagaud Island in Port-Cros National Park, offering diving to 25 meters depth. The site combines rocky reef structures with posidonia meadows, creating diverse habitat for Mediterranean marine life. This is an accessible intermediate site with good opportunities to encounter groupers, breams, and other typical Mediterranean reef fish. The protected status of the National Park ensures healthy ecosystems and a rewarding diving experience.
 
 ## Site Information
 
-- **Location**: Port-Cros, Europe
+- **Location**: Near Bagaud Island, Port-Cros National Park, France
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Typical Visibility**: 15-35 meters
 - **Current**: Light to moderate
 - **Best Time**: May to October
+- **Water Temperature**: 15-24°C
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
+Groupers, breams, Mediterranean wrasses, and sea bream inhabit the reef. Moray eels and crabs occupy rocky crevices. Posidonia seagrass meadows provide critical habitat for juvenile fish and invertebrates. Nudibranchs, sea fans, and colorful sponges colonize rock surfaces. The site is excellent for both general reef diving and macro photography.
 
 ## Dive Profile
 

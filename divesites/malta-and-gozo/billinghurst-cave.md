@@ -3,7 +3,7 @@ name: Billinghurst Cave
 lat: 36.0812516
 lng: 14.235361
 difficulty: Advanced
-maxDepth: 30
+maxDepth: 26
 entryType: shore
 siteType: cave
 ref: null
@@ -25,7 +25,7 @@ Billinghurst Cave is a dive site in Malta and Gozo featuring underwater cave and
 - **Entry Type**: Shore entry
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
+- **Maximum Depth**: 26 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: May to October

@@ -3,9 +3,9 @@ name: Stuka / Junkers Ju 87
 lat: 43.6050422
 lng: 15.7010576
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 28
 entryType: boat
-siteType: reef
+siteType: wreck
 ref: null
 osmId: 1071050527
 addedBy: osm_import
@@ -13,26 +13,32 @@ addedBy: osm_import
 
 ## Stuka / Junkers Ju 87
 
-Stuka / Junkers Ju 87 is a reef dive site in Croatia, Europe.
+The Stuka wreck is one of the world's most historically significant WWII aircraft wrecks. A German Junkers Ju 87 R-2 dive bomber lies in pristine condition on the seabed off the island of Žirje in southern Croatia. Discovered in 2014 after 73 years, this rare artifact is protected and can only be dived with authorized operators who hold special permits.
 
 ## Overview
 
-Stuka / Junkers Ju 87 is a dive site in Croatia offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+On April 1, 1941, a German Junkers Ju 87 R-2 "Stuka" was shot down by Yugoslav anti-aircraft defense while attacking Šibenik. The aircraft sank and remained lost for 73 years until rediscovered by spear fishers in September 2014. Of only four Ju 87s known to exist worldwide, three are museum exhibits (Museum of Science and Industry in Chicago, Royal Air Force Museum in London, Auto and Technik Museum Sinsheim). The Croatian specimen is in far better condition than comparable examples. The aircraft rests on sandy bottom covered with Posidonia grass at approximately 28 meters. Since April 2015, diving is permitted only through licensed dive centers that maintain strict protocols to prevent damage or artifact removal.
 
 ## Site Information
 
-- **Location**: Croatia, Europe
+- **Location**: Off Žirje Island, southern Croatia (Adriatic Sea)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: May to October
+- **Depth**: ~28 meters (sandy bottom)
+- **Aircraft Type**: Two-man dive bomber and ground-attack aircraft
+- **Historical Significance**: Only WWII Stuka in good condition; three others in museums
+- **Protected Status**: Licensed dive centers only since April 2015
+- **Best Time**: May to September
+- **Access**: Restricted—dive center must have special license and staff present
+
+## Historical Context
+
+The Junkers Ju 87 (Sturzkampfflugzeug, literally "dive-bomber") was a German WWII-era aircraft used for precision bombing runs. The Croatian specimen represents rare material evidence of WWII operations in the Adriatic. This is a living underwater museum exhibit.
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
+The aircraft rests on sandy bottom with Posidonia seagrass meadow. Small fish congregate around the wreck. The sandy environment supports fewer colonizing organisms than rocky wrecks, preserving the aircraft's structural integrity.
 
 ## Dive Profile
 

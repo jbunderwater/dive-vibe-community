@@ -2,7 +2,7 @@
 name: Ilhéu de Vila Franca do Campo
 lat: 37.71
 lng: -25.43
-difficulty: Intermediate
+difficulty: Beginner
 maxDepth: 20
 entryType: boat
 siteType: reef
@@ -17,26 +17,26 @@ Ilhéu de Vila Franca do Campo is a reef dive site in Azores, Europe.
 
 ## Overview
 
-Ilhéu de Vila Franca do Campo is a dive site in Azores offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Ilhéu de Vila Franca do Campo is a protected volcanic island islet located just 500 meters off the coast of São Miguel. The islet's interior bay was created by an extinct volcanic crater that rose from the sea over 4,000 years ago. Originally classified as a Nature Reserve in 1983, it's now integrated into the Caloura–Ilhéu da Vila Franca do Campo Resource Management Protected Area. The protected status limits daily visitors to 400 total, preserving the site's exceptional marine biodiversity and making it ideal for beginners, snorkelers, and underwater photographers.
 
 ## Site Information
 
-- **Location**: Azores, Europe
+- **Location**: São Miguel Island, Azores (500m offshore)
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: May to October
+- **Typical Visibility**: 20-30 meters (65-100 feet)
+- **Current**: Light
+- **Best Time**: Year-round (sheltered bay)
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
+The protected status supports exceptional abundance of Azores chromis (Chromis limbata), ornate wrasses (Thalassoma pavo), blacktail combers, parrotfish, ballan wrasses, barred hogfish, moray eels, and dusky groupers. Common octopuses are frequently encountered. The diverse fish communities and invertebrate fauna thrive due to fishing prohibition.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Explore major cracks and canyons within the islet's bay structure. Dives can be tailored based on wave direction, with multiple options for all experience levels. Shallow sections suitable for night dives, baptism dives, and snorkeling. The site's accessibility and sheltered conditions make it perfect for skill development and macro photography of nudibranchs and invertebrate life.
 
 ## Entry and Exit
 

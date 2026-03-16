@@ -5,70 +5,19 @@
     "lon": 29.6091391,
     "osm_id": 27147064,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 28,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "artwork_type": "statue",
-      "description": "underwater shark sculpture",
+      "description": "underwater shark sculpture at Pigeon Island with reef features and scattered wreck remains",
       "is_in": "Turkey, Antalya, Kaş",
       "name": "Shark Sculpture",
       "sport": "scuba_diving",
-      "tourism": "artwork"
-    }
-  },
-  {
-    "name": "Καλλιθέα",
-    "lat": 36.3776033,
-    "lon": 28.2372284,
-    "osm_id": 793101120,
-    "osm_type": "node",
-    "depth": 30,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "int_name": "Kalithea",
-      "name": "Καλλιθέα",
-      "name:de": "Kalithea Therme",
-      "name:el": "Kalithea Therme",
-      "name:en": "Kalithea",
-      "name:tr": "Kalatiz",
-      "place": "suburb",
-      "sport": "scuba_diving"
-    }
-  },
-  {
-    "name": "Waterhoppers",
-    "lat": 36.4477122,
-    "lon": 28.2263974,
-    "osm_id": 793101328,
-    "osm_type": "node",
-    "depth": 25,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "description": "Info point only",
-      "name": "Waterhoppers",
-      "sport": "scuba_diving"
-    }
-  },
-  {
-    "name": "Kerveli scouba diving",
-    "lat": 37.7325497,
-    "lon": 27.0360789,
-    "osm_id": 2547460303,
-    "osm_type": "node",
-    "depth": 25,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "leisure": "pitch",
-      "name": "Kerveli scouba diving",
-      "sport": "scuba_diving"
+      "tourism": "artwork",
+      "validated": "true",
+      "validation_source": "perplexity"
     }
   },
   {
@@ -77,14 +26,19 @@
     "lon": 27.4325639,
     "osm_id": 10973665012,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 65,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Uçak Batığı",
       "scuba_diving:type": "wreck",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "wreck_type": "aircraft",
+      "historic_period": "WWII",
+      "validated": "true",
+      "validation_source": "perplexity",
+      "description": "Savoia-Marchetti SM.79 Italian torpedo bomber wreck from WWII, bow at 58m, tail at 71m"
     }
   },
   {
@@ -93,14 +47,17 @@
     "lon": 27.4129862,
     "osm_id": 10973665013,
     "osm_type": "node",
-    "depth": 25,
-    "site_type": "reef",
+    "depth": 34,
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Büyük Resif",
       "scuba_diving:type": "reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": "true",
+      "validation_source": "perplexity",
+      "description": "Big Reef near Bodrum, features shallow anchor area at 7m descending to wall dropping to 34m, rich marine biodiversity"
     }
   },
   {
@@ -109,50 +66,17 @@
     "lon": 27.4864435,
     "osm_id": 10973665014,
     "osm_type": "node",
-    "depth": 25,
-    "site_type": "reef",
+    "depth": 45,
+    "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Aksona",
       "scuba_diving:type": "yes",
-      "sport": "scuba_diving"
-    }
-  },
-  {
-    "name": "Σπήλαιο Αρχαγγέλου",
-    "lat": 36.2025045,
-    "lon": 28.1425738,
-    "osm_id": 11212100525,
-    "osm_type": "node",
-    "depth": 30,
-    "site_type": "cave",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "description": "Natural Caves and Grottos",
-      "name": "Σπήλαιο Αρχαγγέλου",
-      "name:el": "Σπήλαιο Αρχαγγέλου",
-      "name:en": "Archangelos Cave",
-      "natural": "cave_entrance",
-      "scuba_diving:divespot": "no",
       "sport": "scuba_diving",
-      "tourism": "attraction"
-    }
-  },
-  {
-    "name": "Psarapoula",
-    "lat": 36.453164,
-    "lon": 28.2169361,
-    "osm_id": 11842033099,
-    "osm_type": "node",
-    "depth": 25,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "name": "Psarapoula",
-      "sport": "scuba_diving"
+      "validated": "true",
+      "validation_source": "perplexity",
+      "description": "Aksona Bay near Bodrum, dramatic wall dive starting at 3m with steep drop-offs to 30-35m and deeper, challenging conditions with variable current"
     }
   }
 ]

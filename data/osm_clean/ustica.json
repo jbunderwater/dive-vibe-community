@@ -3,78 +3,90 @@
     "name": "Grotta della Pastizza",
     "lat": 38.71,
     "lon": 13.17,
-    "depth": 22,
+    "depth": 19,
     "site_type": "cave",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": true,
+      "validation_source": "web_research"
     }
   },
   {
     "name": "Secca della Colombara",
     "lat": 38.73,
     "lon": 13.155,
-    "depth": 35,
-    "site_type": "reef",
+    "depth": 27,
+    "site_type": "seamount",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": true,
+      "validation_source": "web_research"
     }
   },
   {
     "name": "Scoglio del Medico",
     "lat": 38.7,
     "lon": 13.2,
-    "depth": 40,
-    "site_type": "wall",
+    "depth": 38,
+    "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": true,
+      "validation_source": "web_research"
     }
   },
   {
     "name": "Punta dell'Arpa",
     "lat": 38.72,
     "lon": 13.18,
-    "depth": 18,
-    "site_type": "reef",
+    "depth": 35,
+    "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": true,
+      "validation_source": "web_research"
     }
   },
   {
     "name": "Grotta Azzurra",
     "lat": 38.705,
     "lon": 13.165,
-    "depth": 15,
+    "depth": 20,
     "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": true,
+      "validation_source": "web_research"
     }
   },
   {
     "name": "Punta Gavazzi",
     "lat": 38.695,
     "lon": 13.175,
-    "depth": 30,
-    "site_type": "wall",
+    "depth": 17,
+    "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Advanced",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": true,
+      "validation_source": "web_research"
     }
   },
   {
@@ -87,20 +99,24 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": true,
+      "validation_source": "web_research"
     }
   },
   {
     "name": "Punta Omo Morto",
     "lat": 38.69,
     "lon": 13.19,
-    "depth": 25,
+    "depth": 27,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": true,
+      "validation_source": "web_research"
     }
   },
   {
@@ -113,7 +129,9 @@
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "fill_new_destinations"
+      "addedBy": "fill_new_destinations",
+      "validated": true,
+      "validation_source": "web_research"
     }
   },
   {
@@ -121,7 +139,7 @@
     "lat": 38.735,
     "lon": 13.16,
     "depth": 28,
-    "site_type": "reef",
+    "site_type": "seamount",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
@@ -135,10 +153,10 @@
     "lon": 13.152312,
     "osm_id": 2137060566,
     "osm_type": "node",
-    "depth": null,
-    "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "depth": 35,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "attraction": "scuba_diving",
       "name": "Le Piramidi",
@@ -146,7 +164,9 @@
       "scuba_diving:type": "sea",
       "sport": "scuba_diving",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "web_research"
     }
   },
   {
@@ -155,16 +175,18 @@
     "lon": 13.1624883,
     "osm_id": 2137061116,
     "osm_type": "node",
-    "depth": null,
-    "site_type": "reef",
-    "entry_type": null,
-    "difficulty": null,
+    "depth": 20,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Sutta zà Lisa",
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "web_research"
     }
   },
   {
@@ -173,16 +195,18 @@
     "lon": 13.1830126,
     "osm_id": 2137062026,
     "osm_type": "node",
-    "depth": null,
+    "depth": 37,
     "site_type": "cave",
-    "entry_type": null,
-    "difficulty": null,
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Grotta dei Gamberi",
       "natural": "cave_entrance",
       "sport": "scuba_diving",
       "source": "osm_extended",
-      "addedBy": "extended_overpass"
+      "addedBy": "extended_overpass",
+      "validated": true,
+      "validation_source": "web_research"
     }
   }
 ]

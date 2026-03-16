@@ -2,7 +2,7 @@
 name: Cave Reef
 lat: 22.385833
 lng: 38.856
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 20
 entryType: boat
 siteType: cave
@@ -24,7 +24,7 @@ Cave Reef is a dive site in Red Sea featuring underwater cave and cavern formati
 - **Location**: Red Sea, Middle East
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Moderate to strong

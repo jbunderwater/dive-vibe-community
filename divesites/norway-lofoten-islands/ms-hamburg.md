@@ -3,7 +3,7 @@ name: MS Hamburg
 lat: 68.23333
 lng: 14.534333
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 22
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,47 +13,50 @@ addedBy: osm_import
 
 ## MS Hamburg
 
-MS Hamburg is a historic wreck dive in Norway Lofoten Islands, Europe.
+MS Hamburg is a historic wreck dive in Norway Lofoten Islands, sunk during World War II in 1941. This intact wreck provides excellent access to Arctic diving in the industrial port of Svolvær.
 
 ## Overview
 
-MS Hamburg is a dive site in Norway Lofoten Islands featuring the wreck of the MS Hamburg. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+MS Hamburg is a well-preserved WWII-era wreck resting in Svolvær harbor, sunk during the British Claymore operation on 4 March 1941. The wreck lies intact on the starboard side at depths ranging from 6-22 meters, making it accessible from shore or by short boat ride. The cold Arctic waters have preserved the structure exceptionally well, with visibility typically 10-20 meters. Water temperatures average 0-15°C depending on season.
 
 ## Site Information
 
-- **Location**: Norway Lofoten Islands, Europe
+- **Location**: Svolvær, Norway Lofoten Islands, Arctic Norway
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Maximum Depth**: 22 meters
+- **Depth Range**: 6-22 meters
+- **Typical Visibility**: 10-20 meters
+- **Water Temperature**: 0-15°C (seasonal variation)
 - **Current**: Light to moderate
-- **Best Time**: May to October
+- **Best Time**: May to October (colder water Dec-March)
 
 ## Marine Life
 
-Divers at this site can expect to encounter conger eels, lobsters, crabs, anemones, coral encrustation, groupers, moray eels, octopus. Additional species commonly sighted include barracuda, sea bream, amberjack. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Arctic marine life includes crabs, anemones, sea urchins, starfish, and cold-water fish species. The wreck structure provides habitat for kelp forest organisms and occasional seals. Winter months (November-January) may bring orca encounters in the surrounding waters.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 20 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The dive begins with descent to the wreck at 6-22 meters. Explore the exterior structure and decking. The wreck's shallow depth allows for extended bottom time. Plan appropriate safety stops for your certification level. The thermocline typically occurs around 20 meters depth with temperature variation.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by dive boat from Svolvær or via shore entry in harbor conditions. Entry is typically via giant stride from boat or careful shore entry. Follow local operator briefing for descent procedures. Deploy a surface marker buoy (SMB) during safety stop. Coordinate with boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Bring a dive torch to illuminate interior compartments
+- Maintain excellent buoyancy to avoid silt disturbance
+- Do not attempt penetration without proper wreck training
+- Book with experienced Arctic dive operators familiar with cold water
+- Bring dry suit and thick thermal protection layers
+- Check local weather and sea conditions; Arctic weather can change rapidly
+- Visit in summer months (May-August) for warmer water and calmer conditions
 
 ## Safety Considerations
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Cold water requires proper thermal protection and awareness of hypothermia risk. Monitor air consumption in cold conditions. Currents can be present; dive with a buddy. Always carry a safety sausage. Respect the historical significance of this WWII wreck.
 
 ## Photography
 

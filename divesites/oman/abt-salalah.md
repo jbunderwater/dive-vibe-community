@@ -3,7 +3,7 @@ name: ABT Salalah
 lat: 17.0087552
 lng: 54.1517412
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 25
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,30 +13,31 @@ addedBy: osm_import
 
 ## ABT Salalah
 
-ABT Salalah is a reef dive site in Oman, Middle East.
+ABT Salalah is a wreck dive site located near Salalah in Oman's Dhofar region, operated by ABT Divers.
 
 ## Overview
 
-ABT Salalah is a dive site in Oman offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+ABT Salalah is a wreck dive site in the Salalah area accessible through ABT Divers. The site offers wreck exploration at moderate depths around 25 meters. Water conditions vary seasonally with best diving October-April. The site is known for prolific marine life surrounding the wreck structure.
 
 ## Site Information
 
-- **Location**: Oman, Middle East
+- **Location**: Salalah, Dhofar region, Oman
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Maximum Depth**: 25 meters
+- **Typical Visibility**: 10-20 meters (33-65 feet)
+- **Water Temperature**: 26-32°C (79-90°F) summer; 24-26°C (75-79°F) winter
+- **Current**: Variable to strong
+- **Best Time**: October-April
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Wreck-associated fish species including honeycomb and giant moray eels, grouper, snapper, barracuda, rays, eagle rays, sea turtles, and soft/hard coral growths encrust the wreck. The enclosed structure attracts both resident reef fish and larger pelagic species.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the wreck in the 20–25 meter range. Explore the wreck exterior and any accessible entry points for trained divers. Monitor your position in relation to the wreck to manage bottom time and depth effectively. Strong currents may influence dive planning. Allow adequate air for ascent and safety stop.
 
 ## Entry and Exit
 

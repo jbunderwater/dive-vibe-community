@@ -11,13 +11,15 @@
     "difficulty": "Beginner",
     "tags": {
       "description:en": "House reef for many diveclubs. Elephant statue under the water",
-      "description:ru": "\u0414\u043e\u043c\u0430\u0448\u043d\u0438\u0439 \u0440\u0438\u0444 \u0434\u043b\u044f \u0434\u0430\u0439\u0432 \u0446\u0435\u043d\u0442\u0440\u043e\u0432. \u0415\u0441\u0442\u044c \u0441\u0442\u0430\u0442\u0443\u044f \u0441\u043b\u043e\u043d\u0430 \u043f\u043e\u0434 \u0432\u043e\u0434\u043e\u0439.",
+      "description:ru": "Домашний риф для дайв центров. Есть статуя слона под водой.",
       "name": "Light House",
       "scuba_diving:depth": "18",
       "scuba_diving:difficulty": "1",
       "scuba_diving:entry": "shore",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -32,7 +34,7 @@
     "difficulty": "Beginner",
     "tags": {
       "description:en": "Sand bottom with hundreds of eels",
-      "description:ru": "\u041f\u0435\u0441\u0447\u0430\u043d\u043e\u0435 \u0434\u043d\u043e \u0441 \u0441\u043e\u0442\u043d\u044f\u043c\u0438 \u0443\u0433\u0440\u0435\u0439.",
+      "description:ru": "Песчаное дно с сотнями угрей.",
       "name": "Eel Garden",
       "scuba_diving:depth": "20",
       "scuba_diving:difficulty": "1",
@@ -40,11 +42,13 @@
       "source": "local_knowledge",
       "sport": "scuba_diving",
       "sport:scuba_diving": "yes",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
-    "name": "\u0627\u0644\u062c\u0632\u0631",
+    "name": "الجزر",
     "lat": 28.4772304,
     "lon": 34.5132459,
     "osm_id": 251193886,
@@ -54,19 +58,21 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
-      "alt_name": "\u0627\u0644\u062c\u0632\u0631",
+      "alt_name": "الجزر",
       "description:en": "Coral underwater islands-reefs, amazing landscape. Good for night diving. Turtle living here.",
-      "description:ru": "\u041f\u043e\u0442\u0440\u044f\u0441\u0430\u044e\u0449\u0438\u0439 \u043f\u043e\u0434\u0432\u043e\u0434\u043d\u044b\u0439 \u043b\u0430\u043d\u0434\u0448\u0430\u0444\u0442 \u0438\u0437 \u043a\u043e\u0440\u0430\u043b\u043b\u043e\u0432\u044b\u0445 \u043e\u0441\u0442\u0440\u043e\u0432\u043a\u043e\u0432. \u041f\u043e\u0434\u0445\u043e\u0434\u0438\u0442 \u0434\u043b\u044f \u043d\u043e\u0447\u043d\u044b\u0445 \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0439. \u041d\u0430 \u0440\u0438\u0444\u0435 \u0436\u0438\u0432\u0435\u0442 \u0447\u0435\u0440\u0435\u043f\u0430\u0445\u0430.",
-      "name": "\u0627\u0644\u062c\u0632\u0631",
-      "name:ar": "\u0627\u0644\u062c\u0632\u0631",
-      "name:ar1": "\u0627\u0644\u062c\u0632\u0631",
+      "description:ru": "Потрясающий подводный ландшафт из коралловых островков. Подходит для ночных погружений. На рифе живет черепаха.",
+      "name": "الجزر",
+      "name:ar": "الجزر",
+      "name:ar1": "الجزر",
       "name:en": "The Islands",
       "scuba_diving:depth": "16",
       "scuba_diving:entry": "shore",
       "source": "local_knowledge",
       "sport": "scuba_diving",
       "sport:scuba_diving": "yes",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -80,7 +86,7 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
-      "description:ru": "\u0411\u0440\u0438\u0442\u0430\u043d\u0441\u043a\u0438\u0439 \u0432\u043e\u043e\u0440\u0443\u0436\u0435\u043d\u043d\u044b\u0439 \u0441\u0443\u0445\u043e\u0433\u0440\u0443\u0437, \u0437\u0430\u0442\u043e\u043d\u0443\u043b 6 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 1941 \u0433\u043e\u0434\u0430",
+      "description:ru": "Британский вооруженный сухогруз, затонул 6 октября 1941 года",
       "historic": "wreck",
       "name": "SS Thistlegorm",
       "seamark:type": "wreck",
@@ -89,8 +95,10 @@
       "sport:scuba_diving": "yes",
       "wikidata": "Q32276",
       "wikimedia_commons": "Category:Thistlegorm (ship, 1940)",
-      "wikipedia": "ar:\u0633\u0641\u064a\u0646\u0629 \u0632\u064a\u0633\u062a\u0644 \u062c\u0648\u0631\u0645",
-      "wreck:max_depth": "31"
+      "wikipedia": "ar:سفينة زيستل جورم",
+      "wreck:max_depth": "31",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -102,11 +110,13 @@
     "depth": 20,
     "site_type": "cave",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "St John's Caves",
       "sport": "scuba_diving",
-      "sport:scuba_diving": "yes"
+      "sport:scuba_diving": "yes",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -124,7 +134,9 @@
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
       "sport:scuba_diving": "yes",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -141,7 +153,9 @@
       "name": "Sataya South",
       "scuba_diving:type": "reef",
       "sport": "scuba_diving",
-      "sport:scuba_diving": "yes"
+      "sport:scuba_diving": "yes",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -159,7 +173,9 @@
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
       "sport:scuba_diving": "yes",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -177,7 +193,9 @@
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
       "sport:scuba_diving": "yes",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -194,7 +212,9 @@
       "name": "Torfi, Wadi Gamal",
       "sport": "scuba_diving",
       "sport:scuba_diving": "yes",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -211,7 +231,9 @@
       "name": "Ras Shona",
       "sport": "scuba_diving",
       "sport:scuba_diving": "yes",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -220,21 +242,21 @@
     "lon": 34.5392697,
     "osm_id": 271181711,
     "osm_type": "node",
-    "depth": 31,
+    "depth": 28,
     "site_type": "wall",
-    "entry_type": "shore",
+    "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "description:en": "Beautiful place with coral arches, narrow entrance. Named for knocking of tank to narrow coral tunnel.",
-      "description:ru": "\u041a\u0440\u0430\u0441\u0438\u0432\u044b\u0439 \u0434\u0430\u0439\u0432\u0441\u0430\u0439\u0442, \u0441 \u0443\u0437\u043a\u0438\u043c \u0442\u0443\u043d\u0435\u043b\u0435\u043c \u0432 \u043a\u043e\u0440\u0430\u043b\u043b\u0435, \u043f\u043e\u0441\u0442\u0435\u043f\u0435\u043d\u043d\u043e \u0443\u0445\u043e\u0434\u044f\u0449\u0435\u043c \u043d\u0430 \u0433\u043b\u0443\u0431\u0438\u043d\u0443 \u0438 \u0430\u0440\u043a\u043e\u0439 \u043d\u0430 \u0433\u043b\u0443\u0431\u0438\u043d\u0435 \u043e\u043a\u043e\u043b\u043e 25\u043c. \u041d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u043f\u043e\u043b\u0443\u0447\u0438\u043b \u0437\u0430 \u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u043d\u044b\u0439 \u0437\u0432\u0443\u043a \u0441\u0442\u0443\u043a\u0430 \u0431\u0430\u043b\u043e\u043d\u043e\u0432 \u043e \u043a\u043e\u0440\u0430\u043b\u043b\u043e\u0432\u044b\u0435 \u0441\u0442\u0435\u043d\u043a\u0438.",
+      "description:ru": "Красивый дайвсайт, с узким тунелем в коралле, постепенно уходящем на глубину и аркой на глубине около 25м. Название получил за характерный звук стука балонов о коралловые стенки.",
       "name": "The Bells",
       "scuba_diving:depth": "31",
       "scuba_diving:entry": "shore",
       "sport": "scuba_diving",
       "sport:scuba_diving": "yes",
       "tourism": "attraction",
-      "validated": "true",
-      "validation_source": "scubaboard"
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -246,13 +268,15 @@
     "depth": 25,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Shark Reef",
-      "name:ru": "\u0440\u0438\u0444 \u0410\u043a\u0443\u043b\u0430",
+      "name:ru": "риф Акула",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -269,7 +293,9 @@
       "name": "Anemone City",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -286,7 +312,9 @@
       "name": "Poseidon Reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -304,7 +332,9 @@
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
       "sport:scuba_diving": "yes",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -321,7 +351,9 @@
       "name": "Satellite Reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -333,7 +365,7 @@
     "depth": 20,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "leisure": "pitch",
       "name": "Bluff Point",
@@ -344,7 +376,9 @@
       "scuba_diving:type:drift": "yes",
       "scuba_diving:type:reef": "yes",
       "scuba_diving:type:wall": "yes",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -353,15 +387,17 @@
     "lon": 34.2583484,
     "osm_id": 278086478,
     "osm_type": "node",
-    "depth": 25,
-    "site_type": "reef",
+    "depth": 14,
+    "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Yolanda Reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -377,7 +413,9 @@
     "tags": {
       "name": "Ras Ghozlani",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -393,7 +431,9 @@
     "tags": {
       "name": "Far Garden",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -410,7 +450,9 @@
       "name": "Jackfish Alley",
       "source": "survey",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -427,7 +469,9 @@
       "name": "Near Garden",
       "source": "survey",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -444,7 +488,9 @@
       "name": "Middle Garden",
       "source": "extrapolation",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -464,7 +510,9 @@
       "seamark:type": "wreck",
       "source": "Bing",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -483,7 +531,9 @@
       "natural": "reef",
       "scuba_diving:divespot": "yes",
       "scuba_diving:entry": "boat",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -501,7 +551,9 @@
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
       "sport:scuba_diving": "yes",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -519,7 +571,9 @@
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
       "sport:scuba_diving": "yes",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -537,7 +591,9 @@
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
       "sport:scuba_diving": "yes",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -555,7 +611,9 @@
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
       "sport:scuba_diving": "yes",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -573,7 +631,9 @@
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
       "sport:scuba_diving": "yes",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -590,7 +650,9 @@
       "name": "Shaab Shona",
       "sport": "scuba_diving",
       "sport:scuba_diving": "yes",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -609,7 +671,9 @@
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
       "sport:scuba_diving": "yes",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -627,7 +691,9 @@
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
       "sport:scuba_diving": "yes",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -645,7 +711,9 @@
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
       "sport:scuba_diving": "yes",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -663,7 +731,9 @@
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
       "sport:scuba_diving": "yes",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -679,7 +749,9 @@
     "tags": {
       "name": "Golden Blocks",
       "note": "Only appox position",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -694,7 +766,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Dahayla South",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -709,7 +783,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Dahayla North",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -726,7 +802,9 @@
       "historic": "wreck",
       "name": "Blue Belt",
       "seamark:type": "wreck",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -743,7 +821,9 @@
       "historic": "wreck",
       "name": "Neptuna",
       "seamark:type": "wreck",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -758,7 +838,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "South Point",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -773,7 +855,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Big Stone",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -788,7 +872,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "East Point",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -803,7 +889,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Rocky North",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -818,7 +906,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Rocky South",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -833,7 +923,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Rocky East",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -848,7 +940,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Rocky West",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -863,7 +957,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Zabargad Jetty",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -878,7 +974,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Siyal Island",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -895,7 +993,9 @@
       "historic": "wreck",
       "name": "Abu Galawa Kebir",
       "seamark:type": "wreck",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -910,7 +1010,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Shaab Sataya Amphoren",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -927,7 +1029,9 @@
       "historic": "wreck",
       "name": "Adantia K.",
       "seamark:type": "wreck",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -944,7 +1048,9 @@
       "historic": "wreck",
       "name": "Hamada",
       "seamark:type": "wreck",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -959,7 +1065,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Shaab Ini",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -974,7 +1082,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Shaab Malahi",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -989,7 +1099,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Shaab Bohar Soraya",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -1004,7 +1116,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Shaab Bohar Kebir Ost",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -1019,7 +1133,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Shaab Said Nord",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -1028,7 +1144,7 @@
     "lon": 34.0615772,
     "osm_id": 663869778,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 27,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -1039,11 +1155,13 @@
       "scuba_diving:type": "wreck",
       "seamark:type": "wreck",
       "sport": "scuba_diving",
-      "wreck:date_sunk": "11:13pm on December 14th, 1991"
+      "wreck:date_sunk": "11:13pm on December 14th, 1991",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
-    "name": "\u0646\u0648\u0645\u064a\u062f\u064a\u0627",
+    "name": "نوميديا",
     "lat": 26.3156833,
     "lon": 34.84145,
     "osm_id": 663869779,
@@ -1054,19 +1172,21 @@
     "difficulty": "Advanced",
     "tags": {
       "historic": "wreck",
-      "name": "\u0646\u0648\u0645\u064a\u062f\u064a\u0627",
-      "name:ar": "\u0646\u0648\u0645\u064a\u062f\u064a\u0627",
+      "name": "نوميديا",
+      "name:ar": "نوميديا",
       "name:de": "Numidia",
       "name:en": "Numidia",
       "name:fr": "Numidia",
       "scuba_diving:divespot": "yes",
       "scuba_diving:type:wreck": "yes",
       "seamark:type": "wreck",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
-    "name": "\u0639\u0627\u064a\u062f\u0629",
+    "name": "عايدة",
     "lat": 26.3138104,
     "lon": 34.8432379,
     "osm_id": 663869780,
@@ -1076,18 +1196,20 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
-      "brand:ar": "\u0639\u0627\u064a\u062f\u0629",
-      "brand:wikipedia": "ar:\u0639\u0627\u064a\u062f\u0629 (\u0633\u0641\u0646 \u0633\u064a\u0627\u062d\u064a\u0629)",
+      "brand:ar": "عايدة",
+      "brand:wikipedia": "ar:عايدة (سفن سياحية)",
       "historic": "wreck",
-      "name": "\u0639\u0627\u064a\u062f\u0629",
-      "name:ar": "\u0639\u0627\u064a\u062f\u0629",
+      "name": "عايدة",
+      "name:ar": "عايدة",
       "name:de": "Aida",
       "name:en": "Aida",
       "name:fr": "Aida",
       "scuba_diving:divespot": "yes",
       "scuba_diving:type:wreck": "yes",
       "seamark:type": "wreck",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -1106,7 +1228,9 @@
       "reef": "coral",
       "scuba_diving:divespot": "yes",
       "scuba_diving:entry": "boat",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -1125,7 +1249,9 @@
       "reef": "coral",
       "scuba_diving:divespot": "yes",
       "scuba_diving:entry": "boat",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -1144,7 +1270,9 @@
       "reef": "coral",
       "scuba_diving:divespot": "yes",
       "scuba_diving:entry": "boat",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -1160,7 +1288,9 @@
     "tags": {
       "description": "mooring place for dive boats",
       "name": "Shaab Sabrina",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -1177,7 +1307,9 @@
       "historic": "wreck",
       "name": "Shaabruhr Umm Gamar",
       "seamark:type": "wreck",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -1186,15 +1318,17 @@
     "lon": 33.9787866,
     "osm_id": 663869795,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 15,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "description": "mooring place for dive boats",
       "name": "Giftun Soraya",
       "sport": "scuba_diving",
-      "survey:date": "2018-06-08"
+      "survey:date": "2018-06-08",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1203,13 +1337,15 @@
     "lon": 33.979164,
     "osm_id": 663869797,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 12,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "name": "Abu Ramada South",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1218,17 +1354,19 @@
     "lon": 33.9846132,
     "osm_id": 663869798,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 12,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "alt_name": "Abu Ramada North",
       "alt_name:de": "Abu Ramada - Nord",
       "description": "alt_name:reference Abu Ramada Plateau \"Red Sea Partners\"",
       "name": "Abu Ramada Plateau",
       "sport": "scuba_diving",
-      "survey:date": "2018-06-08"
+      "survey:date": "2018-06-08",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1237,7 +1375,7 @@
     "lon": 33.9532666,
     "osm_id": 663869799,
     "osm_type": "node",
-    "depth": 16,
+    "depth": 12,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
@@ -1255,7 +1393,9 @@
       "scuba_diving:type:drift": "yes",
       "scuba_diving:type:lake": "no",
       "scuba_diving:type:sea": "yes",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1271,7 +1411,9 @@
     "tags": {
       "alt_name": "Police Station",
       "name": "Ham Ham",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -1287,7 +1429,9 @@
     "tags": {
       "alt_name": "Hamda",
       "name": "Stone Beach",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -1302,7 +1446,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Abu Ramada - Ost",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -1317,7 +1463,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Sha`ab Quais",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -1341,7 +1489,9 @@
       "scuba_diving:type:sea": "yes",
       "seamark:type": "wreck",
       "sport": "scuba_diving",
-      "survey:date": "2015-09-13"
+      "survey:date": "2015-09-13",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -1364,7 +1514,9 @@
       "scuba_diving:type:drift": "yes",
       "scuba_diving:type:sea": "yes",
       "sport": "scuba_diving",
-      "survey:date": "2018-06-16"
+      "survey:date": "2018-06-16",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -1389,7 +1541,9 @@
       "scuba_diving:type:drift": "yes",
       "scuba_diving:type:sea": "yes",
       "sport": "scuba_diving",
-      "survey:date": "2018-06-15"
+      "survey:date": "2018-06-15",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -1404,7 +1558,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Shaab El Erg",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -1413,7 +1569,7 @@
     "lon": 33.92695,
     "osm_id": 663869809,
     "osm_type": "node",
-    "depth": 24,
+    "depth": 28,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -1421,7 +1577,9 @@
       "historic": "wreck",
       "name": "Carnatic",
       "seamark:type": "wreck",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1430,7 +1588,7 @@
     "lon": 33.9287744,
     "osm_id": 663869810,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 26,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -1439,7 +1597,9 @@
       "historic": "wreck",
       "name": "Chrisoula K",
       "seamark:type": "wreck",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1448,7 +1608,7 @@
     "lon": 33.9302166,
     "osm_id": 663869811,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 32,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -1456,7 +1616,9 @@
       "historic": "wreck",
       "name": "Kimon M",
       "seamark:type": "wreck",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1465,7 +1627,7 @@
     "lon": 33.9231833,
     "osm_id": 663869812,
     "osm_type": "node",
-    "depth": 27,
+    "depth": 24,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -1473,7 +1635,9 @@
       "historic": "wreck",
       "name": "Giannis D",
       "seamark:type": "wreck",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1488,7 +1652,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Manta Point.",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -1497,7 +1663,7 @@
     "lon": 33.8046,
     "osm_id": 663869815,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 25,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -1506,7 +1672,9 @@
       "name": "Barge de Gubal",
       "name:fr": "Barge de Gubal",
       "seamark:type": "wreck",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1515,7 +1683,7 @@
     "lon": 33.8021333,
     "osm_id": 663869816,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 30,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -1523,7 +1691,9 @@
       "historic": "wreck",
       "name": "Ulysses",
       "seamark:type": "wreck",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1539,7 +1709,9 @@
     "tags": {
       "mooring": "yes",
       "name": "Small Crack",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -1548,7 +1720,7 @@
     "lon": 34.1216666,
     "osm_id": 663869819,
     "osm_type": "node",
-    "depth": 28,
+    "depth": 18,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -1561,7 +1733,9 @@
       "tourism": "attraction",
       "wikidata": "Q1266243",
       "wikimedia_commons": "Category:Dunraven (ship, 1873)",
-      "wikipedia": "en:SS Dunraven"
+      "wikipedia": "en:SS Dunraven",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1577,7 +1751,9 @@
     "tags": {
       "name": "Ras Katy",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -1592,13 +1768,15 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Ras Umm Sid",
-      "name:ar": "\u0631\u0623\u0633 \u0623\u0645 \u0633\u062f",
+      "name:ar": "رأس أم سد",
       "name:en": "Ras Umm Sid",
-      "name:ru": "\u0420\u0430\u0441 \u0423\u043c\u043c \u0421\u0438\u0434",
+      "name:ru": "Рас Умм Сид",
       "sport": "scuba_diving",
       "tourism": "attraction",
       "wikidata": "Q14218645",
-      "wikimedia_commons": "Category:Hadaba"
+      "wikimedia_commons": "Category:Hadaba",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -1610,10 +1788,12 @@
     "depth": 20,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Pinky Wall",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -1628,7 +1808,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Sodfa",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -1644,7 +1826,9 @@
     "tags": {
       "name": "Ras Bob Reef",
       "natural": "reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -1659,7 +1843,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "White Knight",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -1675,7 +1861,9 @@
     "tags": {
       "name": "Ras Ghamila Reef",
       "natural": "reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -1692,7 +1880,9 @@
       "historic": "wreck",
       "name": "Hey Daroma",
       "seamark:type": "wreck",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -1709,7 +1899,9 @@
       "historic": "wreck",
       "name": "Million Hope",
       "seamark:type": "wreck",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1724,8 +1916,10 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Kormoran",
-      "name:ru": "\u041a\u043e\u0440\u043c\u043e\u0440\u0430\u043d",
-      "sport": "scuba_diving"
+      "name:ru": "Корморан",
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -1740,7 +1934,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Gabu El Bint",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -1755,7 +1951,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Moray Garden",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -1770,7 +1968,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "7 Pinnacles",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -1785,7 +1985,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Umm Sid",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -1800,7 +2002,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "3 Pools",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -1815,7 +2019,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "South Oasis",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -1827,10 +2033,12 @@
     "depth": 20,
     "site_type": "cave",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "The Caves",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -1845,7 +2053,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Napoleon Reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -1860,7 +2070,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Ras Abu Galum",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -1875,11 +2087,13 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Reeks Reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
-    "name": "\u0633\u0646\u0633\u0628\u0644\u0627\u0634 \u0647\u0627\u0648\u0633 \u0631\u064a\u0641",
+    "name": "سنسبلاش هاوس ريف",
     "lat": 28.486668,
     "lon": 34.516587,
     "osm_id": 663869868,
@@ -1889,12 +2103,14 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
-      "alt_name": "\u0633\u0646\u0633\u0628\u0644\u0627\u0634 \u0647\u0627\u0648\u0633 \u0631\u064a\u0641",
-      "name": "\u0633\u0646\u0633\u0628\u0644\u0627\u0634 \u0647\u0627\u0648\u0633 \u0631\u064a\u0641",
-      "name:ar": "\u0633\u0646\u0633\u0628\u0644\u0627\u0634 \u0647\u0627\u0648\u0633 \u0631\u064a\u0641",
-      "name:ar1": "\u0633\u0646\u0633\u0628\u0644\u0627\u0634 \u0647\u0627\u0648\u0633 \u0631\u064a\u0641",
+      "alt_name": "سنسبلاش هاوس ريف",
+      "name": "سنسبلاش هاوس ريف",
+      "name:ar": "سنسبلاش هاوس ريف",
+      "name:ar1": "سنسبلاش هاوس ريف",
       "name:en": "Sunsplash Housereef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -1905,12 +2121,12 @@
     "osm_type": "node",
     "depth": 100,
     "site_type": "cave",
-    "entry_type": "shore",
+    "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "depth": "100",
       "description:en": "One of the most popular deep dive site in the world. Blue hole arch under 50m depth",
-      "description:ru": "\u041e\u0434\u043d\u043e \u0438\u0437 \u0441\u0430\u043c\u044b\u0445 \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u044b\u0445 \u043c\u0435\u0441\u0442 \u0432 \u043c\u0438\u0440\u0435 \u0434\u043b\u044f \u0433\u043b\u0443\u0431\u043e\u043a\u043e\u0432\u043e\u0434\u043d\u044b\u0445 \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0439 - \u0430\u0440\u043a\u0430 \u0413\u043e\u043b\u0443\u0431\u043e\u0439 \u0434\u044b\u0440\u044b \u043d\u0430 \u0433\u043b\u0443\u0431\u0438\u043d\u0435 \u0431\u043e\u043bee 50\u043c",
+      "description:ru": "Одно из самых популярных мест в мире для глубоководных погружений - арка Голубой дыры на глубине болee 50м",
       "name": "Blue Hole",
       "name:de": "Blaues Loch",
       "scuba_diving:entry": "shore",
@@ -1919,7 +2135,9 @@
       "tourism": "attraction",
       "wikidata": "Q885734",
       "wikimedia_commons": "Category:Blue Hole (Red Sea)",
-      "wikipedia": "en:Blue Hole (Red Sea)"
+      "wikipedia": "en:Blue Hole (Red Sea)",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1934,7 +2152,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Abu Helal",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -1943,18 +2163,20 @@
     "lon": 34.5212059,
     "osm_id": 663869872,
     "osm_type": "node",
-    "depth": 39,
+    "depth": 45,
     "site_type": "reef",
-    "entry_type": "shore",
+    "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "description:en": "Amazing landscape, deep dive polular place.",
-      "description:ru": "\u041f\u043e\u0442\u0440\u044f\u0441\u0430\u044e\u0449\u0438\u0439 \u043b\u0430\u043d\u0434\u0448\u0430\u0444\u0442, \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u043e\u0435 \u043c\u0435\u0441\u0442\u043e \u0434\u043b\u044f \u0433\u043b\u0443\u0431\u043e\u043a\u043e\u0432\u043e\u0434\u043d\u044b\u0445 \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0439.",
+      "description:ru": "Потрясающий ландшафт, популярное место для глубоководных погружений.",
       "name": "Canyon",
       "scuba_diving:depth": "39",
       "scuba_diving:entry": "shore",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -1972,7 +2194,9 @@
       "name": "Yatouche",
       "name:en": "Yatouche",
       "seamark:type": "wreck",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -1981,19 +2205,21 @@
     "lon": 34.9883333,
     "osm_id": 663869877,
     "osm_type": "node",
-    "depth": 27,
+    "depth": 22,
     "site_type": "wreck",
-    "entry_type": "shore",
+    "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "historic": "wreck",
       "name": "Cedar Pride",
       "seamark:type": "wreck",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
-    "name": "\u05e1\u05d5\u05e4\u05d4",
+    "name": "סופה",
     "lat": 29.5447222,
     "lon": 34.9539555,
     "osm_id": 663869878,
@@ -2004,11 +2230,13 @@
     "difficulty": "Intermediate",
     "tags": {
       "historic": "wreck",
-      "name": "\u05e1\u05d5\u05e4\u05d4",
+      "name": "סופה",
       "name:en": "Soufa",
-      "name:he": "\u05e1\u05d5\u05e4\u05d4",
+      "name:he": "סופה",
       "seamark:type": "wreck",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -2023,7 +2251,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Ras Disha",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -2041,7 +2271,9 @@
       "alt_name:source": "referenced as Shaab Dorfa in \"Red Sea Partners\"",
       "description": "mooring place for dive boats",
       "name": "Ben El Gebel",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -2065,7 +2297,9 @@
       "scuba_diving:maxdepth": "19",
       "scuba_diving:type": "reef",
       "sport": "scuba_diving",
-      "survey:date": "2015-09-18"
+      "survey:date": "2015-09-18",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -2080,7 +2314,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Abu Hashish Lagoon",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -2095,7 +2331,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Abu Hashish Drift",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -2110,7 +2348,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Erg Abu Hashish",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -2125,7 +2365,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "El Aruk Gigi",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -2148,7 +2390,9 @@
       "scuba_diving:entry:boat": "yes",
       "scuba_diving:type:drift": "yes",
       "scuba_diving:type:sea": "yes",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -2163,7 +2407,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Erg Somaya Drift",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -2179,7 +2425,9 @@
     "tags": {
       "description": "mooring place for dive boats",
       "name": "Erg Sabina",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -2196,7 +2444,9 @@
       "alt_name": "Abo El Nogar",
       "name": "Abu Nugar",
       "scuba_diving:divespot": "yes",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -2211,7 +2461,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Dolphin House",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -2226,7 +2478,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Makadi Garden",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -2241,7 +2495,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Tofa Abu Hashish",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -2256,7 +2512,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Sharm Rashid",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -2271,7 +2529,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Dangerous Reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -2286,7 +2546,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Habili Zabargad",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -2301,7 +2563,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Habili Radir",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -2316,7 +2580,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Abu Diab",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -2331,7 +2597,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Sataya East",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -2347,7 +2615,9 @@
     "tags": {
       "alt_name": "Stairway to Heaven",
       "name": "Shaab Hamam",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -2365,7 +2635,9 @@
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
       "sport:scuba_diving": "yes",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -2388,8 +2660,8 @@
       "scuba_diving:type:sharks": "yes",
       "scuba_diving:type:wall": "yes",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "scubaboard"
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -2407,7 +2679,9 @@
       "name:en": "Shab Sataya N-W",
       "scuba_diving:type": "reef",
       "sport": "scuba_diving",
-      "sport:scuba_diving": "yes"
+      "sport:scuba_diving": "yes",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -2425,11 +2699,13 @@
       "name:en": "Gota Wadi Gamal",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
-    "name": "\u0634\u0631\u0645 \u0627\u0644\u0646\u0627\u0642\u0629",
+    "name": "شرم الناقة",
     "lat": 26.9,
     "lon": 33.966667,
     "osm_id": 767991726,
@@ -2439,20 +2715,22 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
-      "alt_name": "\u0634\u0631\u0645 \u0627\u0644\u0646\u0627\u0642\u0629",
-      "int_name": "Sharm el-N\u00e2qa, Sharm al Naqa",
-      "name": "\u0634\u0631\u0645 \u0627\u0644\u0646\u0627\u0642\u0629",
-      "name:ar": "\u0634\u0631\u0645 \u0627\u0644\u0646\u0627\u0642\u0629",
-      "name:ar1": "\u0634\u0631\u0645 \u0627\u0644\u0646\u0627\u0642\u0629",
+      "alt_name": "شرم الناقة",
+      "int_name": "Sharm el-Nâqa, Sharm al Naqa",
+      "name": "شرم الناقة",
+      "name:ar": "شرم الناقة",
+      "name:ar1": "شرم الناقة",
       "name:de": "Sharm al Naqa",
       "name:en": "Sharm al Naqa",
       "name:fr": "Sharm al Naqa",
       "natural": "bay",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
-    "name": "\u0627\u0644\u0625\u0633\u0645 \u0627\u0644\u0639\u0631\u0628\u064a \u061f",
+    "name": "الإسم العربي ؟",
     "lat": 27.7038233,
     "lon": 34.127467,
     "osm_id": 768031212,
@@ -2462,17 +2740,19 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
-      "alt_name": "\u0627\u0644\u0625\u0633\u0645 \u0627\u0644\u0639\u0631\u0628\u064a \u061f",
+      "alt_name": "الإسم العربي ؟",
       "int_name": "Beacon Rock, Beacon Rock",
-      "name": "\u0627\u0644\u0625\u0633\u0645 \u0627\u0644\u0639\u0631\u0628\u064a \u061f",
-      "name:ar": "\u0627\u0644\u0625\u0633\u0645 \u0627\u0644\u0639\u0631\u0628\u064a \u061f",
-      "name:ar1": "\u0627\u0644\u0625\u0633\u0645 \u0627\u0644\u0639\u0631\u0628\u064a \u061f",
+      "name": "الإسم العربي ؟",
+      "name:ar": "الإسم العربي ؟",
+      "name:ar1": "الإسم العربي ؟",
       "name:de": "Beacon Rock",
       "name:en": "Beacon Rock",
       "name:fr": "Beacon Rock",
       "place": "locality",
       "scuba_diving:type": "reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -2490,7 +2770,9 @@
       "name": "Aluminium",
       "seamark:harbour:category": "marina",
       "seamark:type": "harbour",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -2508,7 +2790,9 @@
       "historic": "wreck",
       "name": "Turbo",
       "seamark:type": "wreck",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -2525,7 +2809,9 @@
       "historic": "wreck",
       "name": "Khanka",
       "seamark:type": "wreck",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -2541,7 +2827,9 @@
     "tags": {
       "name": "Shaab Nakari",
       "source": "GPS",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -2558,11 +2846,13 @@
       "historic": "wreck",
       "name": "Sirnaka Island",
       "seamark:type": "wreck",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
-    "name": "\u062e\u0644\u064a\u062c \u0627\u0644\u0642\u0631\u0634",
+    "name": "خليج القرش",
     "lat": 27.946547,
     "lon": 34.3882994,
     "osm_id": 1149253646,
@@ -2572,11 +2862,13 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
-      "alt_name:ar": "\u0634\u0627\u0631\u0643\u0633 \u0628\u064a;\u0634\u0627\u0631\u0643\u0633 \u0628\u0627\u064a",
-      "name": "\u062e\u0644\u064a\u062c \u0627\u0644\u0642\u0631\u0634",
-      "name:ar": "\u062e\u0644\u064a\u062c \u0627\u0644\u0642\u0631\u0634",
+      "alt_name:ar": "شاركس بي;شاركس باي",
+      "name": "خليج القرش",
+      "name:ar": "خليج القرش",
       "name:en": "Shark's Bay",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -2594,7 +2886,9 @@
       "name:de": "El Sheig Malik",
       "sport": "scuba_diving",
       "sport:scuba_diving": "yes",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -2612,7 +2906,9 @@
       "name:de": "Soug Bahar",
       "sport": "scuba_diving",
       "sport:scuba_diving": "yes",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -2630,7 +2926,9 @@
       "name:de": "Sham Fugami",
       "sport": "scuba_diving",
       "sport:scuba_diving": "yes",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -2648,7 +2946,9 @@
       "name:de": "Maheleg",
       "sport": "scuba_diving",
       "sport:scuba_diving": "yes",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -2660,14 +2960,14 @@
     "depth": 20,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Gordon reef",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "validated": "true",
-      "validation_source": "scubaboard"
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -2684,7 +2984,9 @@
       "name": "Soma Gatden",
       "natural": "reef",
       "scuba_diving:divespot": "yes",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -2696,12 +2998,14 @@
     "depth": 20,
     "site_type": "cave",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Ras Malah",
       "scuba_diving:entry": "steps",
       "scuba_diving:type:cave": "yes",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -2718,7 +3022,9 @@
       "name": "Tower",
       "source": "Bing",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -2733,7 +3039,9 @@
     "difficulty": "Beginner",
     "tags": {
       "name": "Japanese Gardens Coral Reefs",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -2748,11 +3056,13 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Laguna Reef",
-      "name:ru": "\u0440\u0438\u0444 \u041b\u0430\u0433\u0443\u043d\u0430",
+      "name:ru": "риф Лагуна",
       "natural": "reef",
       "reef": "coral",
       "sport": "scuba_diving",
-      "wikidata": "Q14213694"
+      "wikidata": "Q14213694",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -2767,11 +3077,13 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Abu Salama",
-      "name:de": "Gummib\u00e4rchenriff",
+      "name:de": "Gummibärchenriff",
       "natural": "reef",
       "scuba_diving:divespot": "yes",
       "scuba_diving:type:reef": "yes",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -2786,7 +3098,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Shaab Samir",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -2807,7 +3121,9 @@
       "scuba_diving:type:drift": "yes",
       "scuba_diving:type:sea": "yes",
       "sport": "scuba_diving",
-      "survey:date": "2015-09-15"
+      "survey:date": "2015-09-15",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -2830,7 +3146,9 @@
       "scuba_diving:surface:sand": "yes",
       "scuba_diving:type:drift": "yes",
       "scuba_diving:type:sea": "yes",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -2848,7 +3166,9 @@
       "name": "Dorfa El Fanus West",
       "note": "alt_name:source \"Red Sea Partner\"",
       "sport": "scuba_diving",
-      "survey:date": "2015-09-18"
+      "survey:date": "2015-09-18",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -2864,7 +3184,9 @@
     "tags": {
       "name": "Cedar Pride Shipwreck",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -2879,7 +3201,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Al Fahal East",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -2894,7 +3218,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Al Fahal North",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -2909,7 +3235,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Al Fahal South",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -2924,7 +3252,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Al Fahal vis Wreck",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -2939,7 +3269,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Aquarium Reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -2951,10 +3283,12 @@
     "depth": 20,
     "site_type": "cave",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Cave Reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -2969,7 +3303,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Cement Reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -2984,7 +3320,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Garden Reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -2999,7 +3337,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Horse Shoe Reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -3014,7 +3354,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Middle Reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -3029,7 +3371,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "North Long Reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -3044,7 +3388,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Rose Reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -3059,7 +3405,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Sand Island",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -3074,7 +3422,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Shi'b Nazar",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -3089,7 +3439,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Marsalis Abu Galawa",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -3104,7 +3456,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Blue Water House Reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -3119,7 +3473,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Gota Abu Galaua",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -3134,12 +3490,14 @@
     "difficulty": "Beginner",
     "tags": {
       "description:en": "Saddle is the part of Blue hole wall destroyed by scientists",
-      "description:ru": "\u0421\u0435\u0434\u043b\u043e - \u0447\u0430\u0441\u0442\u044c \u0441\u0442\u0435\u043d\u043e\u043a \u043a\u043e\u0440\u0430\u043b\u043b\u043e\u0432\u043e\u0433\u043e \u043a\u043e\u043b\u043e\u0434\u0446\u0430 \u0440\u0430\u0437\u0440\u0443\u0448\u0435\u043d\u043d\u043e\u0435 \u0443\u0447\u0435\u043d\u044b\u043c\u0438.",
+      "description:ru": "Седло - часть стенок кораллового колодца разрушенное учеными.",
       "name": "Saddle",
       "scuba_diving:depth": "6",
       "scuba_diving:entry": "shore",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -3160,7 +3518,9 @@
       "sport": "scuba_diving",
       "sport:scuba_diving": "yes",
       "tourism": "attraction",
-      "wikidata": "Q23946315"
+      "wikidata": "Q23946315",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -3181,7 +3541,9 @@
       "scuba_diving:entry:boat": "yes",
       "scuba_diving:maxdepth": "30",
       "scuba_diving:type:sea": "yes",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -3196,7 +3558,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Gorgon 1",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -3212,7 +3576,9 @@
     "tags": {
       "name": "Tank",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -3221,14 +3587,16 @@
     "lon": 34.97162,
     "osm_id": 5522700738,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 30,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "name": "Plane wreck",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -3244,7 +3612,9 @@
     "tags": {
       "name": "Rainbow reef",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -3260,51 +3630,55 @@
     "tags": {
       "name": "El Casra",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
-    "name": "\u0645\u0648\u0642\u0639 \u0627\u0644\u063a\u0648\u0635 - \u062c\u0632\u064a\u0631\u0629 \u0627\u0644\u0623\u062e \u0627\u0644\u0635\u063a\u064a\u0631",
+    "name": "موقع الغوص - جزيرة الأخ الصغير",
     "lat": 26.3007944,
     "lon": 34.862559,
     "osm_id": 5610583021,
     "osm_type": "node",
-    "depth": 30,
+    "depth": 35,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "attraction": "sport",
-      "name": "\u0645\u0648\u0642\u0639 \u0627\u0644\u063a\u0648\u0635 - \u062c\u0632\u064a\u0631\u0629 \u0627\u0644\u0623\u062e \u0627\u0644\u0635\u063a\u064a\u0631",
-      "name:ar": "\u0645\u0648\u0642\u0639 \u0627\u0644\u063a\u0648\u0635 - \u062c\u0632\u064a\u0631\u0629 \u0627\u0644\u0623\u062e \u0627\u0644\u0635\u063a\u064a\u0631",
+      "name": "موقع الغوص - جزيرة الأخ الصغير",
+      "name:ar": "موقع الغوص - جزيرة الأخ الصغير",
       "name:en": "Little Brother Dive Site",
       "name:fr": "Little Brother",
-      "name:uk": "\u041c\u0430\u043b\u0438\u0439 \u0411\u0440\u0430\u0442 \u043c\u0456\u0441\u0446\u0435 \u0434\u043b\u044f \u0437\u0430\u043d\u0443\u0440\u0435\u043d\u043d\u044f",
+      "name:uk": "Малий Брат місце для занурення",
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "validated": "true"
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
-    "name": "\u0645\u0648\u0642\u0639 \u0627\u0644\u063a\u0648\u0635 - \u062c\u0632\u064a\u0631\u0629 \u0627\u0644\u0623\u062e \u0627\u0644\u0623\u0643\u0628\u0631",
+    "name": "موقع الغوص - جزيرة الأخ الأكبر",
     "lat": 26.3130389,
     "lon": 34.8442682,
     "osm_id": 5610583022,
     "osm_type": "node",
-    "depth": 30,
+    "depth": 40,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
-      "name": "\u0645\u0648\u0642\u0639 \u0627\u0644\u063a\u0648\u0635 - \u062c\u0632\u064a\u0631\u0629 \u0627\u0644\u0623\u062e \u0627\u0644\u0623\u0643\u0628\u0631",
-      "name:ar": "\u0645\u0648\u0642\u0639 \u0627\u0644\u063a\u0648\u0635 - \u062c\u0632\u064a\u0631\u0629 \u0627\u0644\u0623\u062e \u0627\u0644\u0623\u0643\u0628\u0631",
+      "name": "موقع الغوص - جزيرة الأخ الأكبر",
+      "name:ar": "موقع الغوص - جزيرة الأخ الأكبر",
       "name:en": "Big Brother Dive Site",
       "name:fr": "Big Brother",
-      "name:uk": "\u0412\u0435\u043b\u0438\u043a\u0438\u0439 \u0411\u0440\u0430\u0442 \u043c\u0456\u0441\u0446\u0435 \u0434\u043b\u044f \u0437\u0430\u043d\u0443\u0440\u0435\u043d\u043d\u044f",
+      "name:uk": "Великий Брат місце для занурення",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "validated": "true"
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -3316,7 +3690,7 @@
     "depth": 3,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "historic": "wreck",
       "name": "Balena",
@@ -3324,7 +3698,9 @@
       "scuba_diving:depth": "3",
       "scuba_diving:entry:boat": "yes",
       "scuba_diving:maxdepth": "8.5",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -3346,7 +3722,9 @@
       "scuba_diving:maxdepth": "25",
       "scuba_diving:type:drift": "yes",
       "scuba_diving:type:sea": "yes",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -3367,7 +3745,9 @@
       "scuba_diving:entry:boat": "yes",
       "scuba_diving:maxdepth": "13",
       "scuba_diving:type:sea": "yes",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -3382,7 +3762,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Shaab Nenad",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -3399,7 +3781,9 @@
       "name": "Flamenco Hausriff",
       "name:de": "Sport-scuba-diving",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -3414,7 +3798,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "panorama Reef North",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -3429,7 +3815,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Panorama Reef East",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -3444,7 +3832,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Shaab Tiffany",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -3460,7 +3850,9 @@
     "tags": {
       "name": "Wadi Lahmy Azur Housereef",
       "natural": "reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -3475,7 +3867,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Shaab Sakara",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -3490,7 +3884,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Siyal South",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -3505,7 +3901,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Um El Sheikh",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -3521,7 +3919,9 @@
     "tags": {
       "name": "Marsa Bareika",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -3539,8 +3939,8 @@
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "validated": "true",
-      "validation_source": "scubaboard"
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -3558,12 +3958,12 @@
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
       "tourism": "attraction",
-      "validated": "true",
-      "validation_source": "scubaboard"
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
-    "name": "\u05d0\u05ea\u05e8 \u05e6\u05dc\u05d9\u05dc\u05d4 -\u05e1\u05d8\u05d9\"\u05dc (24 \u05de\u05d8\u05e8)",
+    "name": "אתר צלילה -סטי\"ל (24 מטר)",
     "lat": 29.5145068,
     "lon": 34.9270007,
     "osm_id": 8577535117,
@@ -3574,11 +3974,13 @@
     "difficulty": "Intermediate",
     "tags": {
       "historic": "wreck",
-      "name": "\u05d0\u05ea\u05e8 \u05e6\u05dc\u05d9\u05dc\u05d4 -\u05e1\u05d8\u05d9\"\u05dc (24 \u05de\u05d8\u05e8)",
-      "name:he": "\u05d0\u05ea\u05e8 \u05e6\u05dc\u05d9\u05dc\u05d4 -\u05e1\u05d8\u05d9\"\u05dc (24 \u05de\u05d8\u05e8)",
+      "name": "אתר צלילה -סטי\"ל (24 מטר)",
+      "name:he": "אתר צלילה -סטי\"ל (24 מטר)",
       "seamark:type": "wreck",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -3593,7 +3995,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Ras Za'atar",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -3610,7 +4014,9 @@
       "name": "Shark Observatory",
       "scuba_diving:entry:boat": "yes",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -3625,7 +4031,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Ras Nasrani",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -3640,7 +4048,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Habili Ali",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -3656,7 +4066,9 @@
     "tags": {
       "name": "Gota Mesharifa",
       "scuba_diving:type": "reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -3671,7 +4083,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Pfeiffer Reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -3686,7 +4100,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Sweet Potato",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -3706,7 +4122,9 @@
       "scuba_diving:type": "reef",
       "sport": "scuba_diving",
       "wikidata": "Q3408831",
-      "wikipedia": "en:Continental Shelf Station Two"
+      "wikipedia": "en:Continental Shelf Station Two",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -3721,7 +4139,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Daharat Abida",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -3736,7 +4156,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Merlo Reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -3752,7 +4174,9 @@
     "tags": {
       "name": "Shaab Jimna",
       "scuba_diving:type": "reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -3767,7 +4191,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Dibsel Island",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -3783,7 +4209,9 @@
     "tags": {
       "name": "Isar Island",
       "scuba_diving:type": "reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -3799,7 +4227,9 @@
     "tags": {
       "description": "Shab Rumi",
       "name": "Shab Rumi, Plateau S",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -3815,7 +4245,9 @@
     "tags": {
       "name": "Elba Reef",
       "scuba_diving:type": "reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -3830,7 +4262,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Karam Marsmarit",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -3845,7 +4279,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Abu Seif",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -3860,7 +4296,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Sanganeb Plauteua N",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -3876,7 +4314,9 @@
     "tags": {
       "name": "Angarosh",
       "scuba_diving:type": "reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -3892,7 +4332,9 @@
     "tags": {
       "name": "Elba Reef, South Plateau",
       "scuba_diving:type": "reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -3908,7 +4350,9 @@
     "tags": {
       "name": "Elba Reef, North Plateau",
       "scuba_diving:type": "reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -3917,7 +4361,7 @@
     "lon": 37.2906381,
     "osm_id": 9721478944,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 35,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -3926,7 +4370,9 @@
       "scuba_diving:type": "wreck",
       "sport": "scuba_diving",
       "wikipedia": "en:SS Umbria",
-      "wreck:date_sunk": "9 June 1940"
+      "wreck:date_sunk": "9 June 1940",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -3942,7 +4388,9 @@
     "tags": {
       "name": "Shark's Bay",
       "scuba_diving:type": "reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -3958,7 +4406,9 @@
     "tags": {
       "name": "Novotel House Reef",
       "natural": "reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -3978,7 +4428,9 @@
       "scuba_diving:entry": "boat",
       "scuba_diving:maxdepth": "26",
       "scuba_diving:type": "reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -3998,7 +4450,9 @@
       "scuba_diving:entry": "boat",
       "scuba_diving:maxdepth": "11",
       "scuba_diving:type": "reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -4018,7 +4472,9 @@
       "scuba_diving:entry": "boat",
       "scuba_diving:maxdepth": "30",
       "scuba_diving:type": "reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -4034,7 +4490,9 @@
     "tags": {
       "name": "Sha'ab El Erg",
       "natural": "reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -4052,7 +4510,9 @@
       "fixme": "Approximative position",
       "name": "Abu Fendira",
       "scuba_diving:type": "reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -4069,7 +4529,9 @@
       "fixme": "Approximative position",
       "name": "Habili Omran",
       "scuba_diving:type": "reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -4090,7 +4552,9 @@
       "scuba_diving:type": "wreck",
       "seamark:type": "wreck",
       "sport": "scuba_diving",
-      "wreck:date_sunk": "2002-10-17"
+      "wreck:date_sunk": "2002-10-17",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -4107,7 +4571,9 @@
       "name": "Heaven",
       "scuba_diving:type": "wreck",
       "sport": "scuba_diving",
-      "wreck:date_sunk": "2003"
+      "wreck:date_sunk": "2003",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -4127,7 +4593,9 @@
       "leisure": "pitch",
       "name": "Farsha Ergein Farayed",
       "scuba_diving:type": "reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -4143,7 +4611,9 @@
     "tags": {
       "name": "Marsa Nakari South reef",
       "scuba_diving:divespot": "yes",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -4159,7 +4629,9 @@
     "tags": {
       "name": "Marsa Nakari North reef",
       "scuba_diving:divespot": "yes",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -4175,8 +4647,8 @@
     "tags": {
       "name": "Daedalus Reef",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "scubaboard"
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -4191,7 +4663,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Wreck of Grumman HU-16 Albatros Aircraft",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -4206,7 +4680,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Elba Reef West (Fingers)",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -4221,7 +4697,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Elba Reef, West-Plateau",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -4236,7 +4714,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Levanzo Wreck",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -4251,7 +4731,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Elba Reef East (Southplateau)",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -4266,7 +4748,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Elba Reef East (North-Plateau)",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -4281,7 +4765,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Habili Dibia",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -4296,7 +4782,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Sha'ab Ohroob / Wreck of Sabri Baba 1",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -4311,7 +4799,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Shaab El Shaga",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -4326,7 +4816,9 @@
     "difficulty": "Intermediate",
     "tags": {
       "name": "Scubaworld",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -4345,11 +4837,13 @@
       "scuba_diving:divespot": "yes",
       "scuba_diving:drift": "no",
       "scuba_diving:entry": "shore",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
-    "name": "\u0634\u0639\u0628 \u062a\u0648\u0645\u0627\u0633",
+    "name": "شعب توماس",
     "lat": 27.9927336,
     "lon": 34.4600961,
     "osm_id": 23185890,
@@ -4359,8 +4853,8 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
-      "name": "\u0634\u0639\u0628 \u062a\u0648\u0645\u0627\u0633",
-      "name:ar": "\u0634\u0639\u0628 \u062a\u0648\u0645\u0627\u0633",
+      "name": "شعب توماس",
+      "name:ar": "شعب توماس",
       "name:de": "Thomas-Riff",
       "name:en": "Thomas Reef",
       "natural": "reef",
@@ -4369,22 +4863,23 @@
       "sport": "scuba_diving",
       "wikidata": "Q14221722",
       "wikimedia_commons": "Category:Thomas Reef",
-      "validated": "true"
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
-    "name": "\u0634\u0639\u0628 \u0648\u0648\u062f\u0647\u0627\u0648\u0633",
+    "name": "شعب وودهاوس",
     "lat": 28.0012225,
     "lon": 34.4649921,
     "osm_id": 23185891,
     "osm_type": "way",
-    "depth": 30,
+    "depth": 28,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
-      "name": "\u0634\u0639\u0628 \u0648\u0648\u062f\u0647\u0627\u0648\u0633",
-      "name:ar": "\u0634\u0639\u0628 \u0648\u0648\u062f\u0647\u0627\u0648\u0633",
+      "name": "شعب وودهاوس",
+      "name:ar": "شعب وودهاوس",
       "name:de": "Woodhouse-Riff",
       "name:en": "Woodhouse Reef",
       "natural": "reef",
@@ -4392,11 +4887,12 @@
       "source": "landsat",
       "sport": "scuba_diving",
       "wikidata": "Q14223403",
-      "validated": "true"
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
-    "name": "\u0634\u0639\u0628 \u062c\u0627\u0643\u0633\u0648\u0646",
+    "name": "شعب جاكسون",
     "lat": 28.008815,
     "lon": 34.4731592,
     "osm_id": 23185893,
@@ -4406,17 +4902,18 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
-      "name": "\u0634\u0639\u0628 \u062c\u0627\u0643\u0633\u0648\u0646",
-      "name:ar": "\u0634\u0639\u0628 \u062c\u0627\u0643\u0633\u0648\u0646",
+      "name": "شعب جاكسون",
+      "name:ar": "شعب جاكسون",
       "name:de": "Jackson-Riff",
       "name:en": "Jackson Reef",
-      "name:ru": "\u0440\u0438\u0444 \u0414\u0436\u0435\u043a\u0441\u043e\u043d",
+      "name:ru": "риф Джексон",
       "natural": "reef",
       "reef": "coral",
       "source": "landsat",
       "sport": "scuba_diving",
       "wikidata": "Q14212223",
-      "validated": "true"
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -4436,7 +4933,9 @@
       "reef": "coral",
       "scuba_diving:divespot": "yes",
       "scuba_diving:entry": "boat",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -4456,7 +4955,9 @@
       "scuba_diving:divespot": "yes",
       "scuba_diving:entry": "boat",
       "sport": "scuba_diving",
-      "subsea": "reef"
+      "subsea": "reef",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -4472,11 +4973,13 @@
     "tags": {
       "int_name": "Panorama Reef",
       "name": "Panorama Reef",
-      "name:ar": "\u0627\u0644\u0625\u0633\u0645 \u0627\u0644\u0639\u0631\u0628\u064a \u061f",
+      "name:ar": "الإسم العربي ؟",
       "natural": "reef",
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
-      "sub_sea": "reef"
+      "sub_sea": "reef",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -4495,7 +4998,9 @@
       "natural": "reef",
       "sport": "scuba_diving",
       "subsea": "reef",
-      "wikidata": "Q108884574"
+      "wikidata": "Q108884574",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -4515,25 +5020,27 @@
       "sport": "scuba_diving",
       "subsea": "reef",
       "wikidata": "Q108884583",
-      "wikimedia_commons": "Category:Abu Dabbab 3 Reef"
+      "wikimedia_commons": "Category:Abu Dabbab 3 Reef",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
-    "name": "\u062c\u064a\u0631\u0629 \u062f\u064a\u062f\u0644\u0627\u0633",
+    "name": "جيرة ديدلاس",
     "lat": 24.9348279,
     "lon": 35.8681459,
     "osm_id": 374758292,
     "osm_type": "way",
-    "depth": 30,
+    "depth": 40,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
-      "alt_name": "Abu el Kiz\u00e2n",
+      "alt_name": "Abu el Kizân",
       "int_name": "Didalas Reef;Daedalus Reef;Jairat Didalas",
       "loc_name": "Abu Kizan",
-      "name": "\u062c\u064a\u0631\u0629 \u062f\u064a\u062f\u0644\u0627\u0633",
-      "name:ar": "\u062c\u064a\u0631\u0629 \u062f\u064a\u062f\u0644\u0627\u0633",
+      "name": "جيرة ديدلاس",
+      "name:ar": "جيرة ديدلاس",
       "name:de": "Daedalus Riff",
       "name:en": "Daedalus Reef",
       "name:fr": "Daedalus Reef",
@@ -4545,7 +5052,8 @@
       "sport": "scuba_diving",
       "wikidata": "Q15212511",
       "wikipedia": "en:Daedalus Reef",
-      "validated": "true"
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -4564,12 +5072,14 @@
       "name": "Elphinstone Reef",
       "name:de": "Elphinstone-Riff",
       "name:en": "Elphinstone Reef",
-      "name:fr": "R\u00e9cif d'Elphinstone",
+      "name:fr": "Récif d'Elphinstone",
       "natural": "reef",
       "scuba_diving:divespot": "yes",
       "sport": "scuba_diving",
       "wikidata": "Q1333272",
-      "wikipedia": "de:Elphinstone-Riff"
+      "wikipedia": "de:Elphinstone-Riff",
+      "validated": true,
+      "validation_source": "perplexity"
     }
   },
   {
@@ -4586,7 +5096,9 @@
       "name": "Fandera Hemera",
       "natural": "reef",
       "scuba_diving:type": "reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -4606,7 +5118,9 @@
       "reef": "coral",
       "scuba_diving:divespot": "yes",
       "scuba_diving:entry": "boat",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -4625,7 +5139,9 @@
       "reef": "coral",
       "scuba_diving:divespot": "yes",
       "scuba_diving:entry": "boat",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -4642,7 +5158,9 @@
       "name": "Gotta Hemera",
       "natural": "reef",
       "scuba_diving:type": "reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -4660,7 +5178,9 @@
       "name": "Abu Dabbab Wahid",
       "natural": "reef",
       "sport": "scuba_diving",
-      "wikidata": "Q108884558"
+      "wikidata": "Q108884558",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -4679,7 +5199,9 @@
       "reef": "coral",
       "scuba_diving:divespot": "yes",
       "scuba_diving:entry": "boat",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -4698,7 +5220,9 @@
       "reef": "coral",
       "scuba_diving:divespot": "yes",
       "scuba_diving:entry": "boat",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -4717,7 +5241,9 @@
       "reef": "coral",
       "scuba_diving:divespot": "yes",
       "scuba_diving:entry": "boat",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -4738,7 +5264,9 @@
       "scuba_diving:divespot": "yes",
       "scuba_diving:entry": "boat",
       "sport": "scuba_diving",
-      "type": "multipolygon"
+      "type": "multipolygon",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -4756,7 +5284,9 @@
       "natural": "reef",
       "scuba_diving:type": "reef",
       "sport": "scuba_diving",
-      "type": "multipolygon"
+      "type": "multipolygon",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -4773,7 +5303,9 @@
       "name": "Alternatives",
       "scuba_diving:type": "reef",
       "sport": "scuba_diving",
-      "type": "site"
+      "type": "site",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -4791,7 +5323,9 @@
       "name": "Farewell Reef",
       "scuba_diving:type": "reef",
       "sport": "scuba_diving",
-      "type": "site"
+      "type": "site",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -4811,7 +5345,9 @@
       "scuba_diving:divespot": "yes",
       "scuba_diving:entry": "boat",
       "sport": "scuba_diving",
-      "type": "multipolygon"
+      "type": "multipolygon",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -4831,7 +5367,9 @@
       "scuba_diving:divespot": "yes",
       "scuba_diving:entry": "boat",
       "sport": "scuba_diving",
-      "type": "multipolygon"
+      "type": "multipolygon",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -4851,7 +5389,9 @@
       "scuba_diving:divespot": "yes",
       "scuba_diving:entry": "boat",
       "sport": "scuba_diving",
-      "type": "multipolygon"
+      "type": "multipolygon",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -4871,7 +5411,9 @@
       "scuba_diving:divespot": "yes",
       "scuba_diving:entry": "boat",
       "sport": "scuba_diving",
-      "type": "multipolygon"
+      "type": "multipolygon",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -4891,7 +5433,9 @@
       "scuba_diving:divespot": "yes",
       "scuba_diving:entry": "boat",
       "sport": "scuba_diving",
-      "type": "multipolygon"
+      "type": "multipolygon",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -4911,7 +5455,9 @@
       "scuba_diving:divespot": "yes",
       "scuba_diving:entry": "boat",
       "sport": "scuba_diving",
-      "type": "multipolygon"
+      "type": "multipolygon",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -4933,7 +5479,9 @@
       "sport": "scuba_diving",
       "subsea": "reef",
       "type": "multipolygon",
-      "wikidata": "Q108898080"
+      "wikidata": "Q108898080",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   },
   {
@@ -4954,7 +5502,9 @@
       "scuba_diving:divespot": "yes",
       "scuba_diving:entry": "boat",
       "sport": "scuba_diving",
-      "type": "multipolygon"
+      "type": "multipolygon",
+      "validated": true,
+      "validation_source": "perplexity_limited"
     }
   }
 ]

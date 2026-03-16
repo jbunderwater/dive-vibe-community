@@ -2,7 +2,7 @@
 name: Balena
 lat: 27.1782408
 lng: 33.831981
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 3
 entryType: boat
 siteType: wreck
@@ -24,7 +24,7 @@ Balena is a dive site in Red Sea featuring the wreck of the Balena. Located in t
 - **Location**: Red Sea, Middle East
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Beginner
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 3 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Moderate to strong

@@ -3,40 +3,42 @@ name: Smeerenburg
 lat: 79.73
 lng: 11.05
 difficulty: Advanced
-maxDepth: 18
+maxDepth: 20
 entryType: boat
-siteType: reef
+siteType: wreck
 ref: null
 osmId: null
 addedBy: osm_import
 ---
 
-## Smeerenburg
+## Smeerenburg — Historic Whaling Wrecks
 
-Smeerenburg is a reef dive site in Svalbard, Arctic.
+Dutch 17th-century wreck site in the Arctic's first European settlement.
 
 ## Overview
 
-Smeerenburg is a dive site in Svalbard offering rewarding diving on healthy coral reef structures. Located in the Arctic region, this site offers 10-30 meters of visibility with water temperatures averaging -1 to 8°C.
+Smeerenburg ("Blubber Town") was the world's northernmost whaling settlement in the 17th century, founded by Dutch whalers in 1619. The fjord contains approximately 17 historic shipwrecks—mostly Dutch whaling vessels intentionally sunk in the harbor, along with French frigates from the 1693 naval battle in nearby Sorgfjorden. The cold Arctic water has preserved the wooden wrecks in remarkable condition. Recreational diving accesses the shallower wreck debris fields at 15-20 meters. Access requires liveaboard or expedition boat from Longyearbyen.
 
 ## Site Information
 
-- **Location**: Svalbard, Arctic
+- **Location**: Smeerenburg Fjord, northwest Spitsbergen
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Variable, tidal currents
-- **Best Time**: June to September
+- **Maximum Depth**: 20 meters
+- **Water Temperature**: 2-4°C (36-39°F)
+- **Typical Visibility**: 10-30 meters
+- **Current**: Variable fjord currents
+- **Best Time**: July-August (peak accessibility)
+- **Access**: Expedition/liveaboard boats only
 
 ## Marine Life
 
-Divers at this site can expect to encounter seals (harbor, bearded, ringed), walruses, beluga whales, narwhals, polar cod, sea anemones, soft corals, kelp forests. Additional species commonly sighted include sea urchins, starfish, crabs.
+The cold Arctic water has caused exceptional wreck preservation. Encrusting anemones, starfish, sea urchins, and kelp growth coat the wooden structures. Arctic fish including polar cod inhabit wreck crevices. Seals and Arctic marine mammals may visit. The wreck field creates artificial reef habitat with distinct marine life communities adapted to extreme Arctic conditions.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to accessible wreck debris and intact sections at 15-20 meters. The shallow wreck field allows exploration of hulls and structure without deep penetration. Most wooden wrecks are stable but require careful buoyancy control to avoid silting. Bottom time 35-45 minutes maximum due to extreme cold. Ascend gradually with conservative safety stops. Use a surface marker buoy for boat positioning.
 
 ## Entry and Exit
 

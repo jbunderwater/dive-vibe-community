@@ -3,7 +3,7 @@ name: La Pointe de la Galère
 lat: 42.985
 lng: 6.39
 difficulty: Intermediate
-maxDepth: 22
+maxDepth: 34
 entryType: boat
 siteType: wall
 ref: null
@@ -17,22 +17,23 @@ La Pointe de la Galère is a wall dive site in Port-Cros, Europe.
 
 ## Overview
 
-La Pointe de la Galère is a dive site in Port-Cros featuring a dramatic vertical wall that drops into the deep blue. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+La Pointe de la Galère, located at the north-east end of Port-Cros island, is one of the most beautiful wall dives in the National Park. A distinctive ridge descends to 34 meters depth, flanked by two walls approximately 7 meters across. The east side features a sandy bottom while the west is covered with posidonia meadows. The site is strongly affected by wind and currents, but a mooring buoy is reserved for diving clubs. An enormous anglerfish regularly hides near a rock outcrop at 28 meters on the east side, making this a photographer's dream.
 
 ## Site Information
 
-- **Location**: Port-Cros, Europe
+- **Location**: North-east coast of Port-Cros, Côte d'Azur, France
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
+- **Maximum Depth**: 34 meters
+- **Typical Visibility**: 15-35 meters
+- **Current**: Moderate to strong (watch conditions)
 - **Best Time**: May to October
+- **Water Temperature**: 15-24°C
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+The walls and ridge support a dense population of Mediterranean fauna: conger eels, moray eels, Spanish lobsters, gobies, and scorpionfish. Red and yellow gorgonian fans are abundant, along with starfish and nudibranchs. The east side's sandy bottom hosts regular appearances of a large anglerfish. Posidonia meadows on the west provide critical spawning and nursery habitat for Mediterranean fish species.
 
 ## Dive Profile
 

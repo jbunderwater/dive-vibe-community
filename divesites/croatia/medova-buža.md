@@ -2,8 +2,8 @@
 name: Medova Buža
 lat: 44.8131957
 lng: 14.7460115
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Beginner
+maxDepth: 4
 entryType: boat
 siteType: cave
 ref: null
@@ -24,8 +24,8 @@ Medova Buža is a dive site in Croatia featuring underwater cave and cavern form
 - **Location**: Croatia, Europe
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 4 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: May to October

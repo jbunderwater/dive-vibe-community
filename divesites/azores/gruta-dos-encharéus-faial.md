@@ -17,26 +17,26 @@ Gruta dos Encharéus Faial is a cave dive site in Azores, Europe.
 
 ## Overview
 
-Gruta dos Encharéus Faial is a dive site in Azores featuring underwater cave and cavern formations. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Gruta dos Encharéus is a unique submerged cavern dive located at the foot of cliffs on Flores Island. The cave features impressive narrow corridors (often just 1 meter wide) divided into two main 30-meter-long passages. The site takes its name from "enchareús," the Portuguese word for white trevallies (Pseudocaranx dentex), which regularly inhabit the cave system. Divers frequently encounter large stingrays (Dasyatis pastinaca) in groups of 6+ entering and exiting the cavern corridors.
 
 ## Site Information
 
-- **Location**: Azores, Europe
+- **Location**: Flores Island (Santa Cruz area), Azores
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Typical Visibility**: 15-25 meters (50-80 feet)
 - **Current**: Light to moderate
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+The cave is famous for encounters with common stingrays (Dasyatis pastinaca) that congregate in groups as they move between the corridors. Outside the cave entrance, schools of white trevallies, Almaco jacks (Seriola rivoliana), and grey triggerfish (Balistes carolinensis) inhabit the small natural bay. The narrow cavern corridors create intimate, unique diving experiences.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Enter the cave at shallow depth and explore the wide entrance. The two main corridors extend 30 meters into the cavern, each just over 1 meter wide in places. Expect close encounters with large stingrays using the passages. The shallow maximum depth and non-penetration-dependent cavern design make this accessible to intermediate divers. Exit to the natural bay around the cavern base to observe pelagic species and schooling fish. Good lighting and careful buoyancy essential in narrow passages.
 
 ## Entry and Exit
 

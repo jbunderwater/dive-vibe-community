@@ -2,8 +2,8 @@
 name: Lygaria
 lat: 35.4022795
 lng: 25.0280717
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Beginner
+maxDepth: 24
 entryType: boat
 siteType: reef
 ref: null
@@ -13,30 +13,30 @@ addedBy: osm_import
 
 ## Lygaria
 
-Lygaria is a reef dive site in Greece, Europe.
+Lygaria is an accessible reef dive site near Agia Pelagia in Crete, featuring small swim-throughs and abundant marine life at beginner-friendly depths.
 
 ## Overview
 
-Lygaria is a dive site in Greece offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Located near Agia Pelagia in central Crete, Lygaria is a classic Mediterranean reef dive featuring stunning coral formations and diverse marine life. The site's combination of shallow features and deeper exploration make it suitable for divers of varying experience levels. Visibility typically reaches 15-30 meters with excellent summer conditions.
 
 ## Site Information
 
-- **Location**: Greece, Europe
+- **Location**: Agia Pelagia, Crete, Greece
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 24 meters
+- **Typical Visibility**: 15-30 meters (50-100 feet)
 - **Current**: Light to moderate
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
+Expect to encounter groupers, moray eels, anemones, nudibranchs, crabs, lobsters, scorpionfish, and octopus. Small reef fish including damselfish and sea bream are abundant in the shallower sections. Small red coral colonies inhabit reef crevices.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the shallow reef zone at 10-12 meters where abundant small fish provide excellent photography. Follow the reef contour northwestward to explore small caverns and swim-throughs at 14 meters. The deepest exploration reaches 24 meters at the NW corner of the reef. The dive offers flexibility for all certification levels with protected shallow areas and more challenging deeper sections.
 
 ## Entry and Exit
 

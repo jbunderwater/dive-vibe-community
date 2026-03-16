@@ -3,9 +3,9 @@ name: Tunel Prvić
 lat: 44.93455
 lng: 14.7709667
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 20
 entryType: boat
-siteType: reef
+siteType: cave
 ref: null
 osmId: 663869746
 addedBy: osm_import
@@ -23,9 +23,9 @@ Tunel Prvić is a dive site in Croatia offering rewarding diving on healthy cora
 
 - **Location**: Croatia, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: May to October

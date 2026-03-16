@@ -2,8 +2,8 @@
 name: Santa Marija Caves (Dive Site)
 lat: 36.0179931
 lng: 14.3402297
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Beginner
+maxDepth: 19
 entryType: boat
 siteType: cave
 ref: null
@@ -24,8 +24,8 @@ Santa Marija Caves (Dive Site) is a dive site in Malta and Gozo featuring underw
 - **Location**: Malta and Gozo, Europe
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 19 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: May to October

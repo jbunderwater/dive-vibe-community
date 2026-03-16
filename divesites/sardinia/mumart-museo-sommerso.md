@@ -2,8 +2,8 @@
 name: MuMart (museo sommerso)
 lat: 40.9991561
 lng: 9.6124256
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Beginner
+maxDepth: 6
 entryType: boat
 siteType: reef
 ref: null
@@ -13,30 +13,32 @@ addedBy: osm_import
 
 ## MuMart (museo sommerso)
 
-MuMart (museo sommerso) is a reef dive site in Sardinia, Europe.
+MuMart (museo sommerso) is an underwater art museum and unique dive site off Golfo Aranci in northeastern Sardinia.
 
 ## Overview
 
-MuMart (museo sommerso) is a dive site in Sardinia offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+MuMart is Italy's only underwater art museum, officially inaugurated in July 2013. Modern artworks by 14 international artists are anchored on the white sandy seabed, accessible to divers and snorkelers. The site offers shallow, beginner-friendly diving with excellent visibility in calm, sheltered waters.
 
 ## Site Information
 
-- **Location**: Sardinia, Europe
+- **Location**: Golfo Aranci, northeastern Sardinia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
+- **Difficulty Level**: Beginner
+- **Depth Range**: 4-7 meters
+- **Maximum Depth**: 6 meters
+- **Typical Visibility**: 15-30 meters (summer)
+- **Water Temperature**: 18-24°C (May-October)
+- **Current**: Minimal (sheltered bay)
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
+Shallow waters support small fish species, nudibranchs, sea urchins, and summer visibility of schooling bream and other Mediterranean species. The sandy seabed is relatively sparse in marine life but provides an excellent introduction to the Italian underwater art collection.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+This is a very shallow dive suited for beginners and snorkelers. Maximum depth of 6 meters means safe bottom time for recreational divers. Position yourself among the art installations, photograph the sculptures, and explore at a leisurely pace. The sheltered bay with minimal currents makes this an ideal introduction to Sardinian diving.
 
 ## Entry and Exit
 

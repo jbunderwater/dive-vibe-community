@@ -17,26 +17,26 @@ SS Slavonia Wreck is a historic wreck dive in Azores, Europe.
 
 ## Overview
 
-SS Slavonia Wreck is a dive site in Azores featuring a historic wreck. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The RMS Slavonia is a historic steamship wreck grounded on Flores Island in 1909, representing part of the Azores' extensive maritime heritage. The vessel ran aground on June 10, 1909, with no loss of life. Unlike many Atlantic shipwrecks, the Slavonia was salvaged after grounding, making it a partial wreck or wreck remains rather than a complete hull. The site preserves a century of maritime history and serves as a living reef supporting diverse marine communities.
 
 ## Site Information
 
-- **Location**: Azores, Europe
+- **Location**: Flores Island, Azores (wrecked June 10, 1909)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Typical Visibility**: 15-25 meters (50-80 feet)
 - **Current**: Light to moderate
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter conger eels, lobsters, crabs, anemones, coral encrustation, groupers, moray eels, octopus. Additional species commonly sighted include barracuda, sea bream, amberjack. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The wreck structure and partial hull support extensive coral encrustation, anemones, and colonial tunicates. Resident species include groupers, moray eels, conger eels, octopus, lobsters, and crabs sheltering within the wreck framework. Schooling pelagic species and barracuda patrol the site. The century-old wreck provides exceptional habitat diversity supporting both demersal and transient species.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 18 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend to the wreck remains at 18 meters. Explore the structural elements and exterior features while monitoring air and depth. The partial nature of the wreck and moderate maximum depth make it accessible for wreck-training divers. Bring a torch to illuminate encrusted surfaces and interior cavities for macro photography. The historic significance combined with extensive biofouling makes this a fascinating archaeological and biological site.
 
 ## Entry and Exit
 

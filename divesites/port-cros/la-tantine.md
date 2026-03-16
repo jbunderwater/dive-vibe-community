@@ -2,9 +2,9 @@
 name: La Tantine
 lat: 43.0244334
 lng: 6.3611
-difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+difficulty: Advanced
+maxDepth: 48
+entryType: boat
 siteType: wreck
 ref: null
 osmId: 663869700
@@ -17,30 +17,31 @@ La Tantine is a historic wreck dive in Port-Cros, Europe.
 
 ## Overview
 
-La Tantine is a dive site in Port-Cros featuring the wreck of the La Tantine . please check and del this tag. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+La Tantine (also called La Barge aux Congres) is a small wooden service vessel measuring 15-20 meters long that sank around 1960 during a towing operation. The vessel rests flat on the sand at 48 meters depth above the island of Bagaud, with its crane protruding 3-4 meters above the seabed. A steel-wheeled motor pump and numerous single-row brick perforations remain visible on the port side. Historically famous for its large conger eel population, the population has declined to only 2-3 individuals today due to overfishing. This is a technical deep dive requiring advanced certification.
 
 ## Site Information
 
-- **Location**: Port-Cros, Europe
-- **Entry Type**: Shore entry
+- **Location**: Above Bagaud Island, Port-Cros National Park, Côte d'Azur, France
+- **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 48 meters
+- **Typical Visibility**: 15-35 meters
+- **Current**: Moderate (variable)
 - **Best Time**: May to October
+- **Water Temperature**: 15-24°C
 
 ## Marine Life
 
-Divers at this site can expect to encounter conger eels, lobsters, crabs, anemones, coral encrustation, groupers, moray eels, octopus. Additional species commonly sighted include barracuda, sea bream, amberjack. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Conger eels were historically abundant at this site, earning it the nickname "Barge aux Congres," but current population numbers are reduced to only 2-3 individuals. Other encrusting organisms colonize the wooden structure. The deep sandy bottom occasionally hosts groupers and other bottom-dwelling species. Historical significance exceeds current biological richness, making this a wreck diving and history site.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 25 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+This is a technical deep wreck dive requiring advanced training and certification. Descend via mooring line to the wooden wreck at 48 meters. The vessel rests flat on sand with the crane protruding upward. Time your bottom time carefully and begin ascending with adequate breathing gas reserve for decompression stops. Visibility allows viewing the wreck structure from approach depths of 35-40 meters.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Access is exclusively by dive boat. Ensure you are properly equipped and certified for deep wreck diving. Entry is via giant stride or back roll. A mooring line guides descent to the wreck. Deploy a surface marker buoy (SMB) and maintain contact with boat during safety stops. Plan and execute proper decompression—this is a deep dive subject to currents.
 
 ## Tips and Recommendations
 
