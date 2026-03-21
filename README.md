@@ -227,6 +227,22 @@ See `CLAUDE.md` for the full specification.
 - **Source citation**: Note validation sources in the `validation_source` tag
 - **Consistency**: Follow the established data format
 
+## OpenStreetMap Attribution
+
+This project includes data derived from OpenStreetMap and therefore must preserve attribution and share-alike requirements for derivative databases.
+
+- Required credit: `© OpenStreetMap contributors`
+- Required link: [https://www.openstreetmap.org/copyright](https://www.openstreetmap.org/copyright)
+- If you publicly use a derivative database from this repository, provide ODbL-compliant attribution and make the derivative database available under ODbL 1.0
+
+Copy-ready attribution text and implementation guidance are in [ATTRIBUTION.md](ATTRIBUTION.md).
+
 ## License
 
-This repository is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+Licensing is split by content type:
+
+- **Code in `scripts/` and project tooling**: MIT License (`LICENSE`)
+- **Data in `data/` and generated database artifacts (including `divesites/*/index.json`)**: Open Database License (ODbL) 1.0 (`LICENSE-DATA.md`)
+- **Site markdown narrative content in `divesites/*/*.md`**: follow source-based rights and ensure OSM-derived facts remain ODbL-compliant when redistributed as a database
+
+See `LICENSE`, `LICENSE-DATA.md`, and `ATTRIBUTION.md` for details.
