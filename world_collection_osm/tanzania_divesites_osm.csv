@@ -1,0 +1,9 @@
+name,description,lat,lon,country,region,city,website,phone,email,difficulty,max_depth,entry_type,site_type,osm_id,osm_type,tags
+Swahil Divers,,-4.9223877,39.6756306,,,,,,,,,,,622526346,node,"{""name"": ""Swahil Divers"", ""sport"": ""scuba_diving""}"
+Spanish dancer divers,,-5.7315362,39.2911686,,,,https://www.divinginzanzibar.com/,+255 777 417 717,contact@spanishdancerdivers.com,,,,,7977558438,node,"{""amenity"": ""dive_centre"", ""contact:facebook"": ""SpanishDancerDivers"", ""contact:instagram"": ""spanish_dancer_divers"", ""email"": ""contact@spanishdancerdivers.com"", ""name"": ""Spanish dancer divers"", ""phone"": ""+255 777 417 717"", ""scuba_diving:air_fill"": ""yes"", ""scuba_diving:education"": ""yes"", ""scuba_diving:equipment"": ""yes"", ""scuba_diving:organization"": ""PADI"", ""scuba_diving:spoken_languages"": ""EN;FR;DE"", ""sport"": ""scuba_diving"", ""website"": ""https://www.divinginzanzibar.com/""}"
+Little Wall,,-5.8387967,39.3918874,,,,,,,,,,,10209111349,node,"{""name"": ""Little Wall"", ""sport"": ""scuba_diving""}"
+Big Wall,,-5.8015048,39.4182592,,,,,,,,,,,10209140310,node,"{""name"": ""Big Wall"", ""sport"": ""scuba_diving""}"
+Little Wall,,-5.8387027,39.3919965,,,,,,,,,,,10210198821,node,"{""name"": ""Little Wall"", ""natural"": ""reef"", ""sport"": ""scuba_diving""}"
+Big Wall,,-5.8016272,39.418089,,,,,,,,,,,10210198822,node,"{""name"": ""Big Wall"", ""natural"": ""reef"", ""sport"": ""scuba_diving""}"
+Captain Muddy,,-5.7355216,39.2902305,,,,,,,,,,,10790374777,node,"{""name"": ""Captain Muddy"", ""sport"": ""scuba_diving""}"
+THGI Nungwi,,-5.7301527,39.2926562,,,,,,,,,,,10790374783,node,"{""name"": ""THGI Nungwi"", ""sport"": ""scuba_diving""}"

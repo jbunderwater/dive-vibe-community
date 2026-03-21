@@ -1,0 +1,2 @@
+name,description,lat,lon,country,region,city,website,phone,email,difficulty,max_depth,entry_type,site_type,osm_id,osm_type,tags
+Silfra,,64.2551903,-21.1169415,,,,,,,,,,,1817672135,node,"{""attraction"": ""natural"", ""description:en"": ""Fissure that is part of the boundary between North American and Eurasian geological plates."", ""name"": ""Silfra"", ""name:en"": ""Silfra Diving"", ""sport"": ""scuba_diving"", ""tourism"": ""attraction"", ""wikidata"": ""Q2286006"", ""wikipedia"": ""en:Silfra""}"

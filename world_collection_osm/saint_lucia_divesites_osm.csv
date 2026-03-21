@@ -1,0 +1,4 @@
+name,description,lat,lon,country,region,city,website,phone,email,difficulty,max_depth,entry_type,site_type,osm_id,osm_type,tags
+Turtle Reef,,13.866573,-61.0789468,,,,,,,,,,,398450578,way,"{""area"": ""yes"", ""name"": ""Turtle Reef"", ""sport"": ""scuba_diving""}"
+Fairyland,,13.8627497,-61.0779083,,,,,,,,,,,398450579,way,"{""area"": ""yes"", ""name"": ""Fairyland"", ""sport"": ""scuba_diving""}"
+Dive Fair Haven,,13.9669866,-61.0261004,,,,,,,,,,,1372008160,way,"{""building"": ""yes"", ""name"": ""Dive Fair Haven"", ""sport"": ""scuba_diving""}"

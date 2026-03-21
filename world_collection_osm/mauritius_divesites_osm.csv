@@ -1,0 +1,5 @@
+name,description,lat,lon,country,region,city,website,phone,email,difficulty,max_depth,entry_type,site_type,osm_id,osm_type,tags
+Rodrigues Diving,,-19.672944,63.4360825,,,,,,,,,,,440068070,node,"{""amenity"": ""dive_centre"", ""name"": ""Rodrigues Diving"", ""sport"": ""scuba_diving""}"
+Exploration Sous-Marine,,-20.2758489,57.369129,MU,,Flic en Flac,https://www.exploration-sous-marine.com/,+230 4538 450;+230 5758 2375,Pascalava1208@gmail.com,,,,,4888172009,node,"{""access"": ""yes"", ""addr:city"": ""Flic en Flac"", ""addr:country"": ""MU"", ""addr:street"": ""C/O Villas Caroline"", ""amenity"": ""dive_centre"", ""email"": ""Pascalava1208@gmail.com"", ""name"": ""Exploration Sous-Marine"", ""phone"": ""+230 4538 450;+230 5758 2375"", ""sport"": ""scuba_diving"", ""website"": ""https://www.exploration-sous-marine.com/""}"
+Ocean Spirit,,-19.993447,57.5920734,,,,,,,,,,,5225994872,node,"{""amenity"": ""dive_centre"", ""name"": ""Ocean Spirit"", ""sport"": ""scuba_diving""}"
+BASE Diving,,-19.9930129,57.5924,,,,,,,,,,,9236229535,node,"{""amenity"": ""dive_centre"", ""name"": ""BASE Diving"", ""sport"": ""scuba_diving""}"

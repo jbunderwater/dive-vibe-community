@@ -1,0 +1,5 @@
+name,description,lat,lon,country,region,city,website,phone,email,difficulty,max_depth,entry_type,site_type,osm_id,osm_type,tags
+Centro de Buceo Mike Rapu,,-27.1468009,-109.430646,,,,,,,,,,,3402292893,node,"{""amenity"": ""dive_centre"", ""name"": ""Centro de Buceo Mike Rapu"", ""name:es"": ""Centro de Buceo Mike Rapu"", ""scuba_diving:guided_tours"": ""yes"", ""sport"": ""scuba_diving""}"
+Buceo Orca,,-27.1467412,-109.430996,,,,,,,,,,,3402292894,node,"{""amenity"": ""dive_centre"", ""guide"": ""scuba_diving"", ""name"": ""Buceo Orca"", ""name:es"": ""Buceo Orca"", ""sport"": ""scuba_diving""}"
+Club de Buceo,,-33.0220006,-71.6449852,,,,,,,,,,,11328375085,node,"{""name"": ""Club de Buceo"", ""sport"": ""scuba_diving""}"
+Valpo Sup,,-33.022266,-71.6439164,,,,,,,,,,,11328375086,node,"{""name"": ""Valpo Sup"", ""sport"": ""scuba_diving""}"

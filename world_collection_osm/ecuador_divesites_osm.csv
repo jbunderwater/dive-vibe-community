@@ -1,0 +1,10 @@
+name,description,lat,lon,country,region,city,website,phone,email,difficulty,max_depth,entry_type,site_type,osm_id,osm_type,tags
+Dive and Surf,,-1.826673,-80.752531,,,,,,,,,,,1527739026,node,"{""amenity"": ""dive_centre"", ""name"": ""Dive and Surf"", ""sport"": ""scuba_diving""}"
+Galapagos People,,-0.7429614,-90.3119827,,,,,,,,,,,1761225926,node,"{""amenity"": ""dive_centre"", ""name"": ""Galapagos People"", ""scuba_diving:guided_tours"": ""yes"", ""sport"": ""scuba_diving""}"
+SOPE Diving,,-0.7462858,-90.3127809,,,,,,,,,,,2469405192,node,"{""amenity"": ""dive_centre"", ""name"": ""SOPE Diving"", ""scuba_diving:education"": ""yes"", ""scuba_diving:guided_tours"": ""yes"", ""sport"": ""scuba_diving""}"
+Galapagos fan dive,,-0.9010163,-89.6106449,,,,,,,,,,,3667973195,node,"{""amenity"": ""tourism"", ""name"": ""Galapagos fan dive"", ""sport"": ""scuba_diving""}"
+Parcela Marina,,-1.5927583,-80.8625987,,,,,,,,,,,5511745359,node,"{""name"": ""Parcela Marina"", ""natural"": ""reef"", ""scuba_diving:divespot"": ""yes"", ""sport"": ""scuba_diving""}"
+Isla Salango,,-1.5968145,-80.8655385,,,,,,,,,,,11868297,way,"{""admin_level"": ""4"", ""boundary"": ""administrative"", ""name"": ""Isla Salango"", ""natural"": ""coastline"", ""place"": ""islet"", ""scuba_diving:divespot"": ""yes"", ""sport"": ""scuba_diving"", ""wikipedia"": ""es:Isla Salango""}"
+Islas Los Ahorcados,,-1.6775902,-80.8365257,,,,,,,,,,,36880268,way,"{""name"": ""Islas Los Ahorcados"", ""natural"": ""coastline"", ""place"": ""islet"", ""scuba_diving:divespot"": ""yes"", ""sport"": ""scuba_diving""}"
+Islas Los Ahorcados,,-1.6784187,-80.835858,,,,,,,,,,,36880269,way,"{""name"": ""Islas Los Ahorcados"", ""natural"": ""coastline"", ""place"": ""islet"", ""scuba_diving:divespot"": ""yes"", ""sport"": ""scuba_diving""}"
+Café Scuba,,-0.7383927,-90.3113775,,,,,,,,,,,166505477,way,"{""amenity"": ""cafe"", ""building"": ""yes"", ""guide"": ""scuba_diving"", ""name"": ""Caf\u00e9 Scuba"", ""sport"": ""scuba_diving""}"

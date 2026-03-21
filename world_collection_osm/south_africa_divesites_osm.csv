@@ -1,0 +1,5 @@
+name,description,lat,lon,country,region,city,website,phone,email,difficulty,max_depth,entry_type,site_type,osm_id,osm_type,tags
+Pisces Diving,,-27.5408271,32.6790455,,,,https://www.piscesdiving.co.za/,+27 82 651 1870,,,,,,3270398763,node,"{""contact:mobile"": ""+27 83 462 5022"", ""name"": ""Pisces Diving"", ""phone"": ""+27 82 651 1870"", ""sport"": ""scuba_diving"", ""website"": ""https://www.piscesdiving.co.za/""}"
+Amoray,,-27.540906,32.6789322,,,,,,,,,,,6579846285,node,"{""name"": ""Amoray"", ""sport"": ""scuba_diving""}"
+Mozdivers,,-24.516361,35.2004163,,,,http://www.mozdivers.com/,,,,,,,224711456,way,"{""amenity"": ""dive_centre"", ""building"": ""yes"", ""name"": ""Mozdivers"", ""sport"": ""scuba_diving"", ""website"": ""http://www.mozdivers.com/""}"
+Diversity Scuba,,-23.8545661,35.5456427,,,,,,,,,,,239335954,way,"{""amenity"": ""dive_centre"", ""building"": ""yes"", ""name"": ""Diversity Scuba"", ""sport"": ""scuba_diving""}"

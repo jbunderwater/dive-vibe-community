@@ -1,0 +1,7 @@
+name,description,lat,lon,country,region,city,website,phone,email,difficulty,max_depth,entry_type,site_type,osm_id,osm_type,tags
+Tauchbasis Lorenc,,47.8680361,16.3880653,,,,,,,,,,,827199403,node,"{""name"": ""Tauchbasis Lorenc"", ""sport"": ""scuba_diving""}"
+Tauchsport Vienna,,47.8688912,16.3839236,,,,,,,,,,,4538434045,node,"{""leisure"": ""pitch"", ""name"": ""Tauchsport Vienna"", ""scuba_diving:access_easyness"": ""1"", ""scuba_diving:difficulty"": ""1"", ""scuba_diving:entry"": ""steps"", ""scuba_diving:maxdepth"": ""21"", ""scuba_diving:type"": ""training"", ""sport"": ""scuba_diving""}"
+Diveworld Hungary,,47.5043857,19.0734402,,,,,,,,,,,4682252316,node,"{""club"": ""skuba_diving"", ""level"": ""-1"", ""name"": ""Diveworld Hungary"", ""sport"": ""scuba_diving""}"
+Búváriskola,,46.0794908,18.2128483,,,,,,,,,,,7250105597,node,"{""amenity"": ""dive_centre"", ""name"": ""B\u00fav\u00e1riskola"", ""sport"": ""scuba_diving""}"
+Műugró medence,,47.5218994,19.0426521,,,,,,,,,,,48456809,way,"{""access"": ""permissive"", ""covered"": ""no"", ""leisure"": ""swimming_pool"", ""location"": ""outdoor"", ""name"": ""M\u0171ugr\u00f3 medence"", ""sport"": ""scuba_diving""}"
+Műugró medence,"1m, 3m, 5m, 7,5m, 10m",47.5221485,19.042715,,,,,,,,,,,196947633,way,"{""access"": ""permissive"", ""covered"": ""no"", ""description"": ""1m, 3m, 5m, 7,5m, 10m"", ""leisure"": ""swimming_pool"", ""length"": ""25"", ""location"": ""outdoor"", ""name"": ""M\u0171ugr\u00f3 medence"", ""sport"": ""scuba_diving"", ""width"": ""25""}"

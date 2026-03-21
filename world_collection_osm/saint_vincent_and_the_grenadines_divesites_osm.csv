@@ -1,0 +1,3 @@
+name,description,lat,lon,country,region,city,website,phone,email,difficulty,max_depth,entry_type,site_type,osm_id,osm_type,tags
+Devil's Table + dinghy mooring,,13.0124229,-61.2497593,,,,,,,,,,,5075261521,node,"{""name"": ""Devil's Table + dinghy mooring"", ""scuba_diving:name"": ""Devil's Table"", ""scuba_diving:type"": ""reef"", ""sport"": ""scuba_diving""}"
+Stratmann Wreck + dinghy mooring,,13.0133159,-61.2500594,,,,,,,,,,,5075463222,node,"{""name"": ""Stratmann Wreck + dinghy mooring"", ""scuba_diving:name"": ""Stratmann Wreck"", ""scuba_diving:type"": ""wreck"", ""sport"": ""scuba_diving""}"

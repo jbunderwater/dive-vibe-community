@@ -1,0 +1,9 @@
+name,description,lat,lon,country,region,city,website,phone,email,difficulty,max_depth,entry_type,site_type,osm_id,osm_type,tags
+The Elephants,submerged statues of elephants,11.805333,102.4554154,,,,,,,,,,,2607957014,node,"{""artwork_type"": ""sculpture"", ""description"": ""submerged statues of elephants"", ""name"": ""The Elephants"", ""scuba_diving:type"": ""attraction"", ""sport"": ""scuba_diving"", ""tourism"": ""artwork""}"
+Corner Bar,,10.6265304,103.2956549,,,,,,,,15,,,3650995806,node,"{""depth"": ""15"", ""entry"": ""boat"", ""name"": ""Corner Bar"", ""scuba_diving"": ""divespot"", ""sport"": ""scuba_diving""}"
+Old Jetty Wreck,,10.619907,103.3023588,,,,,,,,6,,,3651013790,node,"{""depth"": ""6"", ""name"": ""Old Jetty Wreck"", ""scuba_diving"": ""divespot"", ""sport"": ""scuba_diving""}"
+BBDivers,,11.8250249,102.4704643,,,,,,,,,,,4163477897,node,"{""name"": ""BBDivers"", ""sport"": ""scuba_diving""}"
+Koh Laun - Scuba Diving,,11.7843951,102.3944143,,,,,,,,,,,7097921854,node,"{""name"": ""Koh Laun - Scuba Diving"", ""name:en"": ""Diving and Snorkeling spot"", ""sport"": ""scuba_diving"", ""tourism"": ""attraction""}"
+Good snorkeling,,11.9039533,102.4128703,,,,,,,,,,,7132586486,node,"{""name"": ""Good snorkeling"", ""name:en"": ""Diving and Snorkeling spot"", ""sport"": ""scuba_diving"", ""tourism"": ""attraction""}"
+Good snorkeling,,11.9034883,102.4135888,,,,,,,,,,,7132586586,node,"{""name"": ""Good snorkeling"", ""name:en"": ""Diving and Snorkeling spot"", ""sport"": ""scuba_diving"", ""tourism"": ""attraction""}"
+Ko Thian - Scuba Diving,,11.8057483,102.378362,,,,,,,,,,,11265804078,node,"{""name"": ""Ko Thian - Scuba Diving"", ""name:en"": ""Diving and Snorkeling spot"", ""sport"": ""scuba_diving"", ""tourism"": ""attraction""}"

@@ -1,0 +1,7 @@
+name,description,lat,lon,country,region,city,website,phone,email,difficulty,max_depth,entry_type,site_type,osm_id,osm_type,tags
+Bocas Diving Pirates,,9.3425207,-82.2411948,,,,,,,,,,,3380292448,node,"{""name"": ""Bocas Diving Pirates"", ""sport"": ""scuba_diving""}"
+Starfleet Scuba Diving,,9.3385615,-82.2403258,,,,,,,,,,,3506370477,node,"{""name"": ""Starfleet Scuba Diving"", ""sport"": ""scuba_diving""}"
+La Buga Dive & Surf,,9.3371182,-82.2405793,,,,,,,,,,,3506370479,node,"{""name"": ""La Buga Dive & Surf"", ""sport"": ""scuba_diving""}"
+Scuba 6 Eco Diving,,9.3476977,-82.2115114,,,,,,,,,,,6407783489,node,"{""name"": ""Scuba 6 Eco Diving"", ""sport"": ""scuba_diving""}"
+Casa Verde,,9.3219472,-82.2195889,,,,,,,,,,,12601627187,node,"{""name"": ""Casa Verde"", ""sport"": ""scuba_diving""}"
+Barco Hundido,,9.3308072,-82.2224984,,,,,,,,,,,12639496075,node,"{""name"": ""Barco Hundido"", ""sport"": ""scuba_diving""}"

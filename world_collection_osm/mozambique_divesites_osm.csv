@@ -1,0 +1,3 @@
+name,description,lat,lon,country,region,city,website,phone,email,difficulty,max_depth,entry_type,site_type,osm_id,osm_type,tags
+Mozdivers,,-24.516361,35.2004163,,,,http://www.mozdivers.com/,,,,,,,224711456,way,"{""amenity"": ""dive_centre"", ""building"": ""yes"", ""name"": ""Mozdivers"", ""sport"": ""scuba_diving"", ""website"": ""http://www.mozdivers.com/""}"
+Diversity Scuba,,-23.8545661,35.5456427,,,,,,,,,,,239335954,way,"{""amenity"": ""dive_centre"", ""building"": ""yes"", ""name"": ""Diversity Scuba"", ""sport"": ""scuba_diving""}"

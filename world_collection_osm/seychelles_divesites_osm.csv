@@ -1,0 +1,4 @@
+name,description,lat,lon,country,region,city,website,phone,email,difficulty,max_depth,entry_type,site_type,osm_id,osm_type,tags
+Roche Grand Maman,,-4.2900691,55.6859107,,,,,,,,,,,9865500503,node,"{""name"": ""Roche Grand Maman"", ""scuba_diving:entry:boat"": ""yes"", ""sport"": ""scuba_diving"", ""tourism"": ""attraction""}"
+Ave maria Rock,,-4.3174981,55.8167062,,,,,,,,,,,29309654,way,"{""name"": ""Ave maria Rock"", ""natural"": ""coastline"", ""place"": ""islet"", ""source"": ""yahoo"", ""sport"": ""scuba_diving""}"
+Roche Grand Maman,,-4.2899147,55.685785,,,,,,,,,,,299835883,way,"{""name"": ""Roche Grand Maman"", ""sport"": ""scuba_diving""}"

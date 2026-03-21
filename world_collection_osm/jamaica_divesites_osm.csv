@@ -1,0 +1,3 @@
+name,description,lat,lon,country,region,city,website,phone,email,difficulty,max_depth,entry_type,site_type,osm_id,osm_type,tags
+Lady G'Diver,PADI certified,18.1813572,-76.4529264,,,,https://www.ladygdiver.com/,,,,,,,2998062638,node,"{""name"": ""Lady G'Diver"", ""note"": ""PADI certified"", ""sport"": ""scuba_diving"", ""website"": ""https://www.ladygdiver.com/""}"
+Snorkeler's Cove,,18.4099121,-76.9481261,,,,,,,,,,,7157290216,node,"{""name"": ""Snorkeler's Cove"", ""scuba_diving:type"": ""snorkeling"", ""sport"": ""scuba_diving""}"
