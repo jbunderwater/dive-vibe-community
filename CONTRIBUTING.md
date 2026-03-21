@@ -4,7 +4,7 @@ Thank you for your interest in contributing! We welcome contributions from diver
 
 ## How we accept contributions
 
-**All changes go through GitHub:** fork this repository, push your work to a branch on your fork, and open a **pull request (PR)** against `main` here. We do not accept contributions through the Dive Vibe app or other external submission flows—use the repo and a PR so changes are reviewable, attributable, and licensed consistently.
+**All changes go through GitHub:** fork this repository, push your work to a branch on your fork, and open a **pull request (PR)** against `main` here so changes are reviewable, attributable, and licensed consistently.
 
 ### Workflow
 

@@ -206,7 +206,7 @@ See `CLAUDE.md` for the full specification.
 
 ## Contributing
 
-Contributions are accepted **only via GitHub**: fork this repository, push a branch to your fork, and open a **pull request** against `main`. See [CONTRIBUTING.md](CONTRIBUTING.md) for the full workflow. We do not use the Dive Vibe app for contributions anymore.
+Contributions go through **GitHub**: fork this repository, push a branch to your fork, and open a **pull request** against `main`. See [CONTRIBUTING.md](CONTRIBUTING.md) for the full workflow.
 
 **Typical data contribution:**
 
