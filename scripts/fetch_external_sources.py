@@ -448,7 +448,7 @@ def main():
         for name, cls in FETCHERS.items():
             key_var = API_KEY_ENV.get(name, "N/A")
             has_key = bool(os.environ.get(key_var, "")) if key_var != "N/A" else True
-            status = "ready" if has_key else f"needs {key_var}"
+            status = "ready" if has_key else "missing key"
             print(f"  {name:15s} {'[KEY]' if cls.requires_key else '[FREE]':8s} {status}")
         return
 
