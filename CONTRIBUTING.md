@@ -1,134 +1,67 @@
 # Contributing to Dive Vibe Community Data
 
-Thank you for your interest in contributing to the Dive Vibe Community Data repository! We welcome contributions from divers, travelers, and anyone passionate about sharing dive site information with the world.
+Thank you for your interest in contributing! We welcome contributions from divers, travelers, and anyone who wants to improve this dive site database.
 
-## How to Contribute
+## How we accept contributions
 
-### Option 1: Through the Dive Vibe App (Recommended for New Users)
+**All changes go through GitHub:** fork this repository, push your work to a branch on your fork, and open a **pull request (PR)** against `main` here. We do not accept contributions through the Dive Vibe app or other external submission flows—use the repo and a PR so changes are reviewable, attributable, and licensed consistently.
 
-The easiest way to contribute is through our web application:
+### Workflow
 
-1. **Visit the Dive Vibe App**
-   - Go to [dive-vibe.com](https://divevibe.app) 
-   - Sign in with your GitHub account
+1. **Fork** this repository on GitHub (your own copy under your account).
+2. **Clone your fork** and add this repo as `upstream` if you want to stay in sync:
+   - `git clone https://github.com/<your-username>/dive-vibe-community.git`
+   - `git remote add upstream https://github.com/jbunderwater/dive-vibe-community.git`
+3. **Create a branch** for your change: `git checkout -b short-description-of-change`
+4. **Make your edits** following [Data quality standards](#data-quality-standards) and the structure in `README.md` / `CLAUDE.md`.
+5. **Commit** with clear messages.
+6. **Push** to your fork: `git push origin short-description-of-change`
+7. **Open a pull request** from your branch into `main` on the upstream repository. Describe what you changed and why.
 
-2. **Submit Your Contribution**
-   - **New Dive Sites**: Use the "Add Dive Site" feature to submit new sites
-   - **Destination Requests**: Use the "Request Destination" feature to suggest new destinations
-   - **Issue Reports**: Use the "Report Issue" feature to report problems or suggest improvements
+Maintainers will review your PR; we may request changes before merging.
 
-3. **What Happens Next**
-   - Your submission will be automatically converted to a GitHub issue
-   - Our team will review and process your contribution
-   - You'll be credited for your contribution in the data
+### Optional tooling
 
-### Option 2: Direct GitHub Contribution (For Advanced Users)
+Some maintainers use [Claude Code](https://docs.anthropic.com/en/docs/claude-code) with the slash commands in `.claude/commands/` (e.g. `/validate-sites`). That is optional—you can contribute with any editor and the Python scripts documented in `README.md`.
 
-If you're comfortable with Git and GitHub:
+## What you can contribute
 
-1. **Fork the repository**
-   - Click the "Fork" button at the top right of this page to create your own copy.
-2. **Clone your fork**
-   - `git clone https://github.com/your-username/dive-vibe-community.git`
-3. **Create a new branch**
-   - `git checkout -b my-feature-branch`
-4. **Make your changes**
-   - Add or update dive site markdown files, destination data, or images.
-   - Follow the data format and guidelines below.
-5. **Commit and push your changes**
-   - `git add .`
-   - `git commit -m "Add new dive site: [Site Name]"`
-   - `git push origin my-feature-branch`
-6. **Open a Pull Request**
-   - Go to your fork on GitHub and click "Compare & pull request".
-   - Provide a clear description of your changes.
+- **Site data**: corrections and additions in `data/osm_clean/{slug}.json`, then run `python3 scripts/sync_sites.py <slug>` so markdown and `index.json` stay in sync (see `README.md`).
+- **New destinations**: follow the pipeline in `README.md` / `CLAUDE.md` (`destinations.json`, scrapers, cleaning, gap-fill as needed).
+- **Descriptions & validation**: improve site text and metadata where you can cite reliable sources.
+- **Scripts & docs**: fixes and improvements to tooling or documentation.
+- **Issues**: open an issue for bugs, data problems, or discussion before large changes.
 
-## What Can You Contribute?
+## Data quality standards
 
-- **New Dive Sites**: Add new dive sites with accurate information and tips.
-- **Site Updates**: Improve or correct existing dive site data.
-- **New Destinations**: Add new diving destinations and their metadata.
-- **Images**: Contribute high-quality, properly attributed images.
-- **Data Quality**: Fix typos, improve descriptions, or add missing details.
-- **Bug Reports**: Report issues with existing data or the platform.
+Contributions must follow the rules in `CLAUDE.md` (also summarized in `README.md`), including:
 
-## Data Format Guidelines
+- Dive **sites** only—no commercial dive shops, schools, or operators framed as “sites.”
+- No contact info (websites, phones, social URLs) in data meant for redistribution.
+- Accurate **site types** (not defaulting everything to “reef” without justification).
+- Valid coordinates within each destination’s bounds, no duplicate site names per destination, and sensible difficulty/depth where stated.
 
-### Dive Site Markdown Files
-- Place new files in the appropriate `divesites/[destination]/` folder.
-- Use YAML frontmatter for metadata:
+## Data format (quick reference)
 
-  ```markdown
-  ---
-  name: [Site Name]
-  lat: [latitude]
-  lng: [longitude]
-  difficulty: [beginner/intermediate/advanced]
-  maxDepth: [max depth in feet]
-  infoLink: [external reference link]
-  addedBy: [your GitHub username]
-  ---
-  
-  # [Site Name]
-  
-  [Description of the site]
-  
-  ## Tips
-  - [Tip 1]
-  - [Tip 2]
-  ```
+- **JSON source of truth for bulk edits**: `data/osm_clean/{slug}.json`
+- **Generated pages**: `divesites/{slug}/*.md` and `divesites/{slug}/index.json` — regenerate with `sync_sites.py` after JSON changes unless you’re editing in a coordinated way described in the docs.
+- **Destination list**: `destinations.json`
 
-- Keep descriptions concise but informative.
-- Add tips, marine life info, and entry/exit notes if possible.
+For frontmatter fields and conventions, see existing files under `divesites/` and `_template.md`.
 
-### Destination Data
-- Add new destinations to `destinations.json`.
-- Include:
-  - `name`, `slug`, `center`, `bounds`, `description`
+## Code of conduct
 
-### Images
-- Place images in the `images/` directory or appropriate subfolder.
-- Only upload images you have rights to share.
-- Add attribution in the image filename or a separate credits file.
+Be respectful and constructive. We want a welcoming, inclusive community around the data.
 
-## App-Based Contribution Guidelines
+## Review process
 
-When contributing through the app:
-
-### For New Dive Sites
-- Provide accurate GPS coordinates
-- Include difficulty level and maximum depth
-- Add a detailed description of the site
-- Mention notable marine life and features
-- Include tips for visiting divers
-
-### For Destination Requests
-- Provide the destination name and location
-- Include a brief description of why it should be added
-- Mention any notable dive sites in the area
-
-### For Issue Reports
-- Be specific about what needs to be fixed
-- Include screenshots if relevant
-- Provide context about when you encountered the issue
-
-## Code of Conduct
-
-Be respectful and constructive. We value a welcoming and inclusive community.
-
-## Review Process
-
-- All submissions (both app-based and direct GitHub contributions) are reviewed by maintainers.
-- We may request changes or clarifications before merging.
-- Once approved, your contribution will be merged and credited.
-- For app-based contributions, you'll receive updates via GitHub notifications.
+- Every PR is reviewed by maintainers.
+- We may ask for changes or more detail before merging.
+- Once merged, your contribution is part of the repo history and subject to the same licenses (`LICENSE` for code, `LICENSE-DATA.md` / ODbL for OSM-derived data—see `README.md` and `ATTRIBUTION.md`).
 
 ## Questions?
 
-- Open an issue for help or suggestions.
-- Join our [Discussions](https://github.com/your-org/dive-vibe-community/discussions) for community support.
-- Contact us through the app's support features.
+- Open an **issue** on this repository for bugs, data problems, or proposals.
+- Use **GitHub Discussions** if enabled on the repo for broader questions.
 
----
-
-Thank you for helping make Dive Vibe better for divers everywhere! 
+Thank you for helping improve this resource for divers.

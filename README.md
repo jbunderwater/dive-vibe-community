@@ -206,19 +206,16 @@ See `CLAUDE.md` for the full specification.
 
 ## Contributing
 
-### With Claude Code (recommended)
+Contributions are accepted **only via GitHub**: fork this repository, push a branch to your fork, and open a **pull request** against `main`. See [CONTRIBUTING.md](CONTRIBUTING.md) for the full workflow. We do not use the Dive Vibe app for contributions anymore.
+
+**Typical data contribution:**
 
 1. Fork and clone the repository
-2. Use `/validate-sites <slug>` to improve site data quality
-3. Use `/add-destinations` to add new destinations
-4. Submit a pull request
+2. Add or update dive site data in `data/osm_clean/{slug}.json` (or follow the new-destination pipeline in `CLAUDE.md`)
+3. Run `python3 scripts/sync_sites.py <slug>` to sync markdown frontmatter and `index.json`
+4. Open a pull request with a clear description
 
-### Manual contributions
-
-1. Fork the repository
-2. Add or update dive site data in `data/osm_clean/{slug}.json`
-3. Run `python3 scripts/sync_sites.py <slug>` to sync changes
-4. Submit a pull request
+**Optional — Claude Code:** Some maintainers use [Claude Code](https://docs.anthropic.com/en/docs/claude-code) with slash commands in `.claude/commands/` (e.g. `/validate-sites`, `/add-destinations`). That is optional tooling, not required to contribute.
 
 ### Data Guidelines
 
