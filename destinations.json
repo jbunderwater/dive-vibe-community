@@ -220,6 +220,28 @@
     "countryCode": "MX"
   },
   {
+    "name": "Puerto Vallarta",
+    "slug": "puerto-vallarta",
+    "region": "Central America",
+    "center": [
+      20.6,
+      -105.45
+    ],
+    "bounds": [
+      [
+        20.4,
+        -105.8
+      ],
+      [
+        20.85,
+        -105.2
+      ]
+    ],
+    "description": "Pacific Mexico diving featuring the iconic Los Arcos marine park, granite pinnacles, seasonal humpback whales, and giant manta rays in Banderas Bay.",
+    "overviewFile": "overview.md",
+    "countryCode": "MX"
+  },
+  {
     "name": "Bermuda",
     "slug": "bermuda",
     "region": "Atlantic",
