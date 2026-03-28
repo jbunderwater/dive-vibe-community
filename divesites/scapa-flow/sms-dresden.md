@@ -13,55 +13,55 @@ addedBy: osm_import
 
 ## SMS Dresden
 
-SMS Dresden is a historic wreck dive in Scapa Flow, Europe.
+A Scapa Flow light cruiser completed just before WWI's end, inclined at an angle that creates a natural multi-level dive profile from a shakedown shallow section down to 38 meters.
 
 ## Overview
 
-SMS Dresden is a dive site in Scapa Flow featuring the wreck of the SMS Dresden. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+SMS Dresden was completed in 1917 and commissioned into the German Imperial High Seas Fleet in 1918, serving for only a brief period before the end of WWI. Like her fleet companions, she was interned at Scapa Flow and scuttled on June 21, 1919. Her orientation — inclined at an angle on the seabed — naturally creates a multi-level dive experience: the shallower bow section allows conservative shakedown profiles while the deeper stern section appeals to more experienced divers. This makes the Dresden a popular choice for the first dive of a Scapa Flow week, allowing divers to acclimatize to the cold water and dry suit conditions before committing to the deeper penetrations of the larger battleships. The wreck has retained her shape remarkably well and preserves many original interior features that provide insight into life aboard a WWI Imperial German warship.
 
 ## Site Information
 
-- **Location**: Scapa Flow, Europe
+- **Location**: Scapa Flow, Orkney, Scotland
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck (light cruiser — protected scheduled monument)
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 38 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: May to October
+- **Maximum Depth**: 38 meters (125 feet)
+- **Typical Visibility**: 5–20 meters (16–66 feet) — best May and September–October
+- **Current**: Light
+- **Water Temperature**: 6–14°C (43–57°F)
+- **Best Time**: May–October
 
 ## Marine Life
 
-Divers at this site can expect to encounter conger eels, lobsters, crabs, anemones, coral encrustation, groupers, moray eels, octopus. Additional species commonly sighted include barracuda, sea bream, amberjack. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The SMS Dresden's well-preserved surfaces host the characteristic Scapa Flow cold-water community. Plumose anemones, dead man's fingers, and encrusting sponges are established throughout the accessible exterior sections. Conger eels are resident in the hull's interior spaces and are a regular encounter. Large edible crabs are common. Schools of saithe and pollack move through the water above the wreck. The preserved interior features — retained by regular Scapa Flow wreck divers as highlights of the dive — provide additional context for the species found sheltering within.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 38 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The Dresden's angled profile allows a multi-level dive: begin on the shallower bow section at 20–24 meters to acclimatize, then explore the mid-ship section before deciding whether to drop to the deeper stern at 38 meters. The first dive is best kept to the bow section. Subsequent dives can explore the stern and any accessible interior features with appropriate time management.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Stromness-based operators. The Dresden is often chosen as the first German fleet dive of a Scapa liveaboard week specifically for its conservative bow-section profile. Shot line descent to the shallowest section of the wreck, then descend further as the dive plan allows. Dry suit mandatory.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- The Dresden is the recommended first German fleet dive for acclimatizing to Scapa conditions
+- Use the bow section to calibrate dry suit buoyancy before working deeper
+- The preserved interior features visible through openings provide compelling historical detail
+- Experienced divers and local guides regularly discover new areas of interest as they learn the wreck's layout
+- Return dives on the Dresden often reveal features completely missed on the first visit
 
 ## Safety Considerations
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+The 38-meter stern depth is within recreational limits but demands careful no-decompression management in cold water with elevated gas consumption rates. The inclined orientation means depth changes rapidly as you move along the hull — monitor your computer frequently. This is a protected monument — no artifacts may be disturbed. Use shot lines exclusively for ascent.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The Dresden's preserved interior details visible through hull openings are unique photographic subjects. The inclined hull profile creates asymmetric compositions different from the predominantly sideways cruisers. Encrusted deck features and superstructure elements photograph well with artificial light. The bow section in the shallower zone allows slightly better natural light exposure than the deeper sterns of the battleships.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*

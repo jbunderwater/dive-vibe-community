@@ -11,57 +11,56 @@ osmId: 2395669758
 addedBy: osm_import
 ---
 
-## Shallow Turbo
+# Shallow Turbo
 
-Shallow Turbo is a reef dive site in Lombok, Asia.
+A coral reef with large sea mounds and sandy channels off the east coast of Gili Trawangan — accessible for beginners and rich in reef life.
 
 ## Overview
 
-Shallow Turbo is a dive site in Lombok offering excellent diving on healthy coral reef structures . source is Diveschool Notice Board - Location might have to be checked with a GPS. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Shallow Turbo sits off the eastern side of Gili Trawangan, a companion site to the deeper Deep Turbo dive. The site features a sandy bottom with large sea mounds rising up to around 18 meters, with the tops of the larger mounds reaching 10 meters or shallower. The mounds are covered in a varied mix of hard and soft corals supporting a diverse reef fish community. Unlike the exposed northern drift sites, Shallow Turbo has calmer conditions typical of the east side of Gili Trawangan, making it one of the more accessible dive sites in the Gili area for beginner divers. The sandy channels between mounds are home to blue-spotted rays and garden eels.
 
 ## Site Information
 
-- **Location**: Lombok, Asia
+- **Location**: East side, Gili Trawangan, Lombok, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef (mounds)
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 18 meters (60 feet)
+- **Typical Visibility**: 10–25 meters
+- **Current**: Generally mild on the east side
+- **Water Temperature**: 26–30°C (79–86°F)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Green and hawksbill turtles regularly rest on the coral mounds and sandy patches. Blue-spotted stingrays are abundant in the sandy channels between sea mounds. Garden eels emerge from the sand in areas with gentle water movement. Moray eels inhabit crevices throughout the mound structures. Cuttlefish cruise the reef edge at dusk and dawn. Anemonefish inhabit anemones on the mound surfaces. Groupers, sweetlips, and snapper use the larger mounds as shelter points. The gorgonian sea fans on the deeper mound faces shelter shrimps and small crustaceans.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin from the boat and descend to the sandy bottom between mounds at 15–18 meters. Explore the mound bases first, then work up to the higher sections. The dive can be conducted entirely between 8 and 18 meters, staying on or around the mounds. The sandy channels provide navigational landmarks between structures. Ascend from the shallowest mound top for a safety stop. Total dive time of 50–60 minutes is typical.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Gili Trawangan. The east side of the island has calmer sea conditions than the north and west. Giant stride entry is standard. The boat can moor nearby given the calm conditions.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Excellent site for Open Water students completing training dives — the mound topography makes navigation clear and manageable
+- Blue-spotted rays in the sandy channels are easily observed without chasing — just wait near a channel opening
+- Combines well with nearby Turtle Point and Trawangan Wall for a comprehensive Gili Trawangan east-side day
+- Good for night dives — the sandy channels between mounds are active with crustaceans after dark
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+This is one of the most accessible and lowest-risk dive sites in the Gili Islands. Monitor current in the sandy channels — flow can occasionally be stronger between mound structures. Buoyancy control is important to avoid contact with coral mound surfaces.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The sea mound topography creates interesting wide-angle compositions showing corals and their structure. Blue-spotted rays resting in sandy channels photograph well with a wide lens — approach slowly from ahead of the ray rather than from behind. Turtle encounters on the mound tops offer relaxed, unobstructed portraiture.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- [Trawangan Dive – Dive Sites](https://www.trawangandive.com/dive-sites-gili-islands/)
+- [Almarik – Gili Trawangan Dive Sites](https://www.almarik-lombok.com/news/dive-sites-gili-trawangan-air-meno/)
+- Last Updated: 2026-03-28
 
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

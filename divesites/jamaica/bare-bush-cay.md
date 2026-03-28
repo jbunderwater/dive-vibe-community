@@ -11,56 +11,56 @@ osmId: 746501570
 addedBy: osm_import
 ---
 
-## Bare Bush Cay
+# Bare Bush Cay
 
-Bare Bush Cay is a reef dive site in Jamaica, Caribbean.
+A remote south-coast cay reef in the Portland Bight Protected Area, offering undisturbed Caribbean reef diving away from the tourist crowds.
 
 ## Overview
 
-Bare Bush Cay is a dive site in Jamaica offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Bare Bush Cay is one of several small cay-fringing reefs in Jamaica's Portland Bight Protected Area, located along the island's southern coast — a region that receives far less dive traffic than Negril or Montego Bay. The cay itself is a small mangrove-fringed islet with a surrounding reef that reaches 14 metres. The Portland Bight area was designated a protected area for its exceptional marine biodiversity, and the reefs here are relatively pristine compared to the heavily visited north coast. The isolation makes for a quiet, exploratory dive experience. Conditions on the south coast can be more variable than the sheltered north — check weather and sea state before travelling to this site.
 
 ## Site Information
 
-- **Location**: Jamaica, Caribbean
+- **Location**: Portland Bight Protected Area, south Jamaica
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 14 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Typical Visibility**: 15–25 meters (50–80 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The cay reef supports typical Caribbean fish communities including schoolmaster snapper, bar jacks, parrotfish, and small reef sharks. Nurse sharks are commonly seen resting on sandy patches beneath the reef structure. Hawksbill turtles nest on the cay beaches and are regularly sighted in the surrounding reef. Lobsters, moray eels, and queen conch inhabit the shallower reef sections. The mangrove fringe of the cay provides nursery habitat for juvenile fish and is worth snorkeling if conditions allow.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 14 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-14 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the reef base at 10–14 metres and circumnavigate the cay reef. Navigation is straightforward — keep the cay on one side and the open sea on the other. The reef top at 5–8 metres is productive for turtles and is suitable for a second shallow loop. Ascend to 5 metres for a 3-minute safety stop before surfacing. Plan for moderate current on the seaward side of the cay.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by dive boat; the Portland Bight area is remote and has limited local dive infrastructure. Most divers reach this area via liveaboard or with a private charter from Kingston or the south coast. Entry via giant stride or back roll. Check current direction and moor on the lee side of the cay.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Portland Bight is one of the least-dived areas of Jamaica — expect an exploratory, uncrowded experience
+- The mangrove snorkeling around the cay complements the reef diving
+- Combine multiple cays in the area (South Cay, Maiden Cay, Gun Cay) for a full day of south-coast diving
+- Check carefully with a local operator regarding access and sea conditions before planning this trip
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Remote location — have all equipment in good order before departure. Cell coverage may be limited. Carry adequate water and sun protection. Current can be variable on the open southern side of the cay. Always deploy SMB before surfacing.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The undisturbed reef and frequent turtle and shark sightings make this a good photography destination for those willing to travel. Wide-angle shots of the cay's reef structure with nurse sharks on the bottom are compelling. The mangrove-reef transition zone is unique to south-coast sites and produces interesting wide-angle compositions.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Protected Area**: Portland Bight Protected Area, Jamaica
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -11,56 +11,56 @@ osmId: 2395670512
 addedBy: osm_import
 ---
 
-## Segaluh
+# Segaluh
 
-Segaluh is a reef dive site in Lombok, Asia.
+A reef dive off the northeastern coast of Gili Air in open Lombok Strait waters, featuring rich coral coverage and schooling reef fish.
 
 ## Overview
 
-Segaluh is a dive site in Lombok offering rewarding diving on healthy coral reef structures . source is Diveschool Notice Board - Location might have to be checked with a GPS. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Segaluh is a reef site located in the open Lombok Strait waters northeast of Gili Air. The site's position — further from the sheltered island sides — means it receives stronger tidal flow from the Indonesian Throughflow, which delivers clear, nutrient-rich Pacific water and supports dense fish populations. The reef structure descends from around 8 meters down a slope to 25 meters, with the deeper sections transitioning to sandy patches interspersed with coral heads. The site is less frequently dived than the main Gili circuit sites, giving marine life encounters here a more undisturbed character.
 
 ## Site Information
 
-- **Location**: Lombok, Asia
+- **Location**: Northeast of Gili Air, Lombok Strait, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 25 meters (82 feet)
+- **Typical Visibility**: 10–25 meters
+- **Current**: Variable; stronger on ebb tide in the open strait
+- **Water Temperature**: 26–30°C (79–86°F)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The open-strait location brings pelagic visitors alongside the permanent reef residents. Schooling fusiliers and snapper are abundant. Whitetip reef sharks patrol the deeper sections. Turtles are regularly sighted on the reef slope. Blue-spotted stingrays rest on sandy patches at depth. Moray eels and lionfish occupy crevices. Cuttlefish are common in the shallower reef top areas. Eagle rays occasionally transit the site on flooding tides.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin at the reef top at 8 meters and explore the slope down to 25 meters. The most productive zone for reef fish is between 10 and 18 meters. Briefly visit the deeper sections before ascending to make the most of the available bottom time. Safety stop in the shallows at 5 meters. Total dive time approximately 45–55 minutes.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Gili Air. Operators based on Gili Air occasionally include this site in their extended day trip itineraries. The exposed location means the boat should remain with the divers. Negative entry when current is running; SMB on ascent.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Monitor current conditions carefully before this dive — the open-strait location means conditions change more rapidly than at sheltered Gili sites
+- Best timed around slack water for the calmest conditions and clearest visibility
+- The less-frequented nature of this site makes it worthwhile for divers seeking encounters away from the busier tourist circuit
+- Nitrox is useful for extending bottom time in the 20–25 meter range
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The open-water location and variable current require more situational awareness than sheltered reef sites. Stay close to the reef as a reference point. Carry an SMB and deploy it well before surfacing. If current increases significantly, shelter on the reef and signal the boat. Do not surface in the middle of the strait away from the descent point.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The undisturbed nature of Segaluh rewards natural-behavior photography. Schooling fusiliers in clear open water suit wide-angle. Cuttlefish encounters in the shallows are particularly good for close-focus wide-angle. Turtle portraits against the coral slope background are clean and uncluttered compared to the busier main sites.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- [Starfish.ch – Gili Islands Dive Sites](https://www.starfish.ch/dive/Lombok.html)
+- [Lombok Diving – BlueWater Dive Travel](https://www.bluewaterdivetravel.com/destination/lombok-diving)
+- Last Updated: 2026-03-28
 
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

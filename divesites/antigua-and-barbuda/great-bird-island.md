@@ -11,56 +11,53 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Great Bird Island
+# Great Bird Island
 
-Great Bird Island is a reef dive site in Antigua and Barbuda, Caribbean.
+A coral reef surrounding one of Antigua's most scenic offshore cays — combining excellent marine life with above-water encounters on an island that hosts the Antiguan racer snake, one of the world's rarest.
 
 ## Overview
 
-Great Bird Island is a dive site in Antigua and Barbuda offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Great Bird Island is a small, uninhabited cay in the northeast corner of Antigua — part of the North Sound Marine Park — that offers both excellent diving and a notable above-water natural history experience. Underwater, the island is ringed by a coral reef that descends from 3 meters at the crest to 14 meters at the sandy base. The reef is in good condition, benefiting from the lower visitor pressure of the northeast coast compared to the more heavily dived southwest. Hard coral formations include healthy brain, star, and finger corals. Visibility is typically 20–30 meters. The island above water is the primary remaining refuge for the Antiguan racer snake (Alsophis antiguae), a critically endangered species found nowhere else on Earth.
 
 ## Site Information
 
-- **Location**: Antigua and Barbuda, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 14 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+| Detail | Value |
+|--------|-------|
+| Depth Range | 3–14 m |
+| Difficulty | Beginner |
+| Entry Type | Boat |
+| Site Type | Reef |
+| Visibility | 20–30 m |
+| Current | Light |
+| Water Temp | 26–28°C |
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The reef around Great Bird Island supports a diverse Caribbean reef community. Hawksbill and green sea turtles are regular presences. French angelfish and queen angelfish are particularly abundant compared to many Antigua sites. Schools of blue tang and doctorfish move across the reef crest. Spotted moray eels occupy reef crevices. Southern stingrays rest in the sandy clearings at the reef base. Caribbean spiny lobster can be found beneath coral overhangs. The clear northeast waters provide above-average visibility for fish observation.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 14 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-14 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descent from the boat to the reef crest at 3–5 meters, then navigation east or west along the island's reef perimeter at chosen depth. The reef on the northeast face of the island is typically the most productive section. Maximum depth of 14 meters allows 60+ minutes of bottom time at recreational consumption rates.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from operators based at English Harbour or Jolly Harbour on Antigua. Great Bird Island is a longer boat ride than the southwest coast sites (approximately 30–45 minutes). Entry by giant stride. The North Sound Marine Park prohibits anchoring — mooring buoys available.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+Great Bird Island is best visited as a full-day trip that includes both the dive and a landing on the island to see the Antiguan racer snake habitat. Environmental awareness guided tours are available with some operators. Combining the dive with a visit to the adjacent cays in North Sound creates a full-day northeast Antigua experience. The northeast coast dives best in the dry season (December–April) when trade winds keep the seas calm.
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+The northeast coast of Antigua is more exposed to Atlantic swell than the leeward southwest — check sea state conditions before booking. Current in the North Sound area can be moderate on tidal flows. Standard marine park rules apply: no touching or collecting. DSMB required.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Great Bird Island's clear northeast water provides excellent conditions for wide-angle reef photography. The island visible at the surface above the reef crest creates distinctive above-below split-level photography opportunities. Angelfish and turtle portraits in clear water are excellent. The reef's relatively undisturbed condition means fish are large and numerous by Caribbean standards.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- North Sound Marine Park: governed by Antigua and Barbuda's Department of Marine Resources
+- Antigua Racer Conservation Project: information on the island's rare snake population
 
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

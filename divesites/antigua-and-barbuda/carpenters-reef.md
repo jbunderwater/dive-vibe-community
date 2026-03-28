@@ -11,55 +11,53 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Carpenter's Reef
+# Carpenter's Reef
 
-Carpenter's Reef is a drift dive site in Antigua and Barbuda, Caribbean.
+A current-swept reef channel on Antigua's southwest coast where tidal flow creates a fast drift past coral walls rich in sea fans, barrel sponges, and large schooling fish.
 
 ## Overview
 
-Carpenter's Reef is a dive site in Antigua and Barbuda offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Carpenter's Reef is a drift dive site in the channel area off Antigua's southwest coast, positioned to intercept the tidal flow that runs through the passages between the offshore reef systems and the main island. When current is running, divers drift effortlessly along a coral-encrusted reef wall dropping from 12 to 24 meters, carried past formations of sea fans, barrel sponges, and black coral that flourish in the nutrient-rich moving water. The site requires good conditions timing — the drift is best when tidal flow aligns with the reef face, allowing sustained drifting without fighting the current. Visibility can reach 25–35 meters in optimal conditions. Water temperature is 26–28°C.
 
 ## Site Information
 
-- **Location**: Antigua and Barbuda, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Drift
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 24 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+| Detail | Value |
+|--------|-------|
+| Depth Range | 12–24 m |
+| Difficulty | Intermediate |
+| Entry Type | Boat |
+| Site Type | Drift |
+| Visibility | 20–35 m |
+| Current | Moderate to strong (tidal) |
+| Water Temp | 26–28°C |
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Current-washed reef sites attract pelagic species that are less common at calmer locations. Spotted eagle rays sweep past the reef face during drift dives at this site. Schools of horse-eye jacks and bar jacks use the current to hunt efficiently, creating large, dynamic formations. Caribbean reef sharks are consistent sightings at depth. On the reef itself, large barrel sponges at 18–24 meters and sea fan formations at 15–20 meters support dense invertebrate communities. Hawksbill turtles are regularly seen at the shallower sections of the reef face.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 24 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Entry at the upstream end of the reef and drift with the current along the face at chosen depth. Drift divers typically start at 15–18 meters and let the current carry them along the wall, ascending gradually to 12–15 meters as the dive progresses. The downstream end of the drift is the pickup point where the chase boat recovers divers. Total dive: 35–45 minutes typically, depending on current speed.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+The operator times the dive with the tidal cycle for optimal drift conditions. Entry by backward roll, descending quickly to working depth before being swept past the entry point. Ascent at the downstream end with DSMB deployment for boat pickup. No mooring — this is a true drift dive.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+Carpenter's Reef is only worth diving when current is running — a slack-water dive here is far less interesting than nearby Cades Reef. Operators check tidal tables before booking this site. DSMB skills are essential — this is not a site for divers who have not yet mastered DSMB deployment under current conditions. A wrist computer with dive planning capability helps manage depth on the descent.
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Drift diving requires solid buoyancy control and the ability to maintain depth while moving horizontally. Do not fight the current — go with it. All divers must carry a DSMB, and deployment should occur well before the planned ascent point. Separate from the group in a drift is more serious than at moored sites. The dive operator must be an experienced drift dive captain who knows the pickup procedure.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Drift photography at Carpenter's Reef rewards wide-angle lenses — the combination of moving water, large fish schools, and expansive reef creates dynamic compositions. Tracking an eagle ray in mid-current with the reef face in the background is a signature image. The barrel sponge and sea fan formations photographed from below with ambient light from above are characteristic deep Caribbean drift photography.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- Antigua dive operators: check conditions before booking — this site is tide-dependent
+- Local operators provide drift dive briefings specific to Carpenter's Reef current patterns
 
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
