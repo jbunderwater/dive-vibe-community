@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Deep Turbo
 
-Deep Turbo is a pinnacle dive site in Gili Islands, Asia.
+An offshore pinnacle in the Gili Islands channel — strong current, big pelagics, and advanced diving conditions for experienced drift divers.
 
 ## Overview
 
-Deep Turbo is a dive site in Gili Islands offering rewarding diving on healthy coral reef structures . source is Diveschool Notice Board - Location might have to be checked with a GPS. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Deep Turbo is an offshore pinnacle in the channel around the Gili Islands, reserved for advanced divers who are comfortable in strong current conditions. The pinnacle rises from depth to around 10–15 m at its shallowest and drops away steeply on all sides into the channel. The exposed position means significant current flow that attracts pelagic species — trevally, reef sharks, eagle rays, and schooling fish concentrate around the pinnacle's upcurrent face. This is not a site for beginners; the current here can be genuinely challenging and requires good buoyancy and drift experience to manage safely.
 
 ## Site Information
 
-- **Location**: Gili Islands, Asia
+- **Location**: Offshore channel, Gili Islands
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 30 m
+- **Typical Visibility**: 15–30 m (current-swept)
+- **Current**: Strong to very strong; always present
+- **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Reef sharks are reliably present on the upcurrent face of the pinnacle. Eagle rays and stingrays pass in the open water. Giant trevally and barracuda hunt around the pinnacle. Schooling fusiliers and snapper fill the mid-water zone. The pinnacle structure hosts gorgonian fans and soft corals that have established in the strong current.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Boat entry upstream of the pinnacle. Descend quickly and locate the pinnacle's upcurrent face where marine life concentrates. Maintain depth using reference to the pinnacle. After observing the pelagics, ascend along the pinnacle face and drift off in a controlled manner. SMB deployment at depth before surfacing away from the pinnacle.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Gili Islands operators who regularly schedule this site. Timing is based on current conditions. Drift pickup required — boat must follow the dive team throughout. SMB mandatory.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Advanced Open Water certification and proven drift dive experience required
+- A reef hook is useful for stationing at the upcurrent face without fighting current
+- Dive on neap tides for the most manageable conditions
+- Only dive with operators who know this site intimately and have done it recently
+- The reward is big pelagics in clear water — commit to the conditions if you have the experience
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Strong current is the primary hazard. Be prepared to abort immediately and surface if conditions exceed your ability. Do not descend beyond planned limits while focused on pelagics. Always carry an SMB. Coordinate with the boat captain on current direction and pickup plan before descending.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Eagle rays in strong current against vivid blue water are the defining shot of Deep Turbo. Reef sharks on the upcurrent pinnacle face with schools of snapper behind them suit wide-angle. Fast shutter speeds are needed for the moving fish in current.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*

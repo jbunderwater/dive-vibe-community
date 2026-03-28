@@ -11,57 +11,56 @@ osmId: 663869793
 addedBy: osm_import
 ---
 
-## Umm Gamar
+# Umm Gamar
 
-Umm Gamar is a historic wreck dive in Red Sea, Middle East.
+An elongated island reef north of Hurghada featuring three hollow coral towers swarming with glassfish, a sandy cave at 27 metres, and the remnants of a small patrol boat wreck on the slope.
 
 ## Overview
 
-Umm Gamar is a dive site in Red Sea featuring the wreck of the Umm Gamar. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Umm Gamar — meaning "Mother of the Moon" in Arabic, a reference to the island's crescent shape — is a narrow, elongated reef running north to south approximately 60 minutes by boat northeast of Hurghada. The reef's eastern face drops as a near-vertical wall from the surface to beyond 35 metres, while the plateaus at the northern and southern ends sit at around 20 metres. The site's most distinctive features are three coral towers rising from the eastern edge of the northern plateau: the first two are hollow pinnacles densely packed with glassfish (silverside), their interiors draped in purple soft corals; the third has a large sandy cave at 27 metres. A small Egyptian patrol boat wreck lies on the slope at Shabrur Umm Gamar, the companion reef just northwest. Manta rays visit in February and March; titan triggerfish guard nests in September.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Location**: Offshore Hurghada, northern Egyptian Red Sea
+- **Entry Type**: Boat dive (day trip from Hurghada)
+- **Site Type**: Reef with cave and wreck features
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Maximum Depth**: 25 meters (plateau and cave areas; wall extends deeper)
+- **Typical Visibility**: 20–30 meters
+- **Current**: Mild to moderate; stronger at the northern tip in poor weather
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter glassy sweepers, lionfish, groupers, coral growth, soft corals, whale sharks, manta rays, hammerhead sharks. Additional species commonly sighted include oceanic whitetip sharks, sea turtles, dolphins. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The three coral towers on the northern plateau are the site's signature feature — their hollow interiors are filled with dense clouds of glassfish attended by hunting red-toothed triggerfish and groupers. Giant moray eels inhabit the wall crevices. Schools of fusiliers and hunting jackfish sweep along the eastern face. Hawksbill turtles and spotted eagle rays are regular sightings. Blue-spotted stingrays rest on the sandy patches at the base of the wall. Manta rays appear at the northern tip in late February and March. In September, titan triggerfish become notably territorial around nesting pits on the plateau. Whitetip reef sharks occasionally patrol the deeper sections of the eastern wall.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 25 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Begin on the northern plateau at 18–20 metres and locate the three coral towers — the first two are immediately rewarding for their glassfish-packed interiors and soft coral growth; the third has a cave at 27 metres worth a brief visit. From the towers, drift south along the eastern wall at 15–20 metres, scanning the water column for passing pelagics. The wall continues deeper but the most productive dive stays at 10–25 metres. Finish the dive on the reef flat at 5–10 metres for a comfortable safety stop. Strong-weather conditions make the northern "halg" (channel) inaccessible — confirm with the captain before planning this section.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Day boat from Hurghada (approximately 60-minute transfer each way). Entry by giant stride. The dive is suitable for intermediate and advanced divers alike, though strong-weather conditions at the exposed northern tip require Advanced Open Water competence. Deploy an SMB before ascending. Night dives at Umm Gamar are offered by some operators and reveal Spanish dancers, octopuses, and hunting eels.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Plan your first dive on the northern plateau to visit the coral towers when energy and air are highest
+- Shine a torch into the hollow towers from outside to see the full density of the glassfish school inside
+- The sandy cave at 27 metres rewards a brief penetration for a torch-lit view of the interior ceiling covered in soft corals
+- September visits bring titan triggerfish nesting — give territorial fish wide berth, especially near sandy areas
+- Pair with Shabrur Umm Gamar (Little Umm Gamar) for a second dive on the patrol boat wreck
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Umm Gamar's northern tip and the halg channel between the main reef and Shabrur Umm Gamar are exposed to open-sea swell and can have unpredictable surface conditions. Titan triggerfish in nesting season (September) will aggressively defend a conical territory extending upward from their nest — if one approaches directly, swim horizontally out of its cone and ascend elsewhere. Fire coral is present on the reef crest. Always carry an SMB for all ascents at this offshore site.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The hollow coral towers at the northern plateau are among the most photogenic structures in the Hurghada area — shooting into the glassfish-filled interiors from outside with a wide-angle lens and single strobe creates cascading silver light effects. The cave interior at 27 metres rewards a torch and a macro lens for soft coral detail. Giant moray eels in wall crevices and blue-spotted stingrays on the sand bottom are reliable subjects. Manta ray encounters in February–March offer rare wide-angle opportunities at this site.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

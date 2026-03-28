@@ -13,53 +13,55 @@ addedBy: osm_import
 
 ## Ghost Mountain
 
-Ghost Mountain is a pinnacle dive site in Cayman Islands, Caribbean.
+A dramatic submerged pinnacle near Little Cayman that rises from the deep wall to shallow diving depth, surrounded by pristine coral and regular eagle ray activity.
 
 ## Overview
 
-Ghost Mountain is a dive site in Cayman Islands offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Ghost Mountain is a prominent coral pinnacle near Little Cayman, rising from the wall environment to accessible diving depths. Pinnacles of this type in the Cayman Islands serve as underwater landmarks and concentration points for marine life — fish, rays, and sharks use them as navigational references and feeding stations. Ghost Mountain features excellent coral growth across its faces, with sea fans, hard corals, and sponges colonizing the structure comprehensively. The pinnacle sits adjacent to Bloody Bay Wall and Jackson Bight, making it an excellent add-on dive for divers spending multiple days in the Little Cayman area. The site is less visited than the wall sites, providing an unhurried and more intimate dive experience.
 
 ## Site Information
 
-- **Location**: Cayman Islands, Caribbean
+- **Location**: Near Little Cayman (Bloody Bay / Jackson Bight area)
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Maximum Depth**: 30 meters (98 feet)
+- **Typical Visibility**: 25–40 meters (82–130 feet)
 - **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Water Temperature**: 26–29°C (79–84°F)
+- **Best Time**: Year-round (December–April for calmest conditions)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Ghost Mountain's pinnacle structure concentrates pelagic and reef species. Spotted eagle rays make passes around the pinnacle — the area between the pinnacle and Bloody Bay Wall is productive for ray encounters. Nassau grouper and large parrotfish occupy ledges on the pinnacle faces. Caribbean reef sharks patrol the deeper sections. Hawksbill turtles are frequently seen in the Little Cayman area. The pinnacle's top section in 8–12 meters supports dense coral growth with diverse reef fish including queen angelfish and rock beauty.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the pinnacle top and survey the structure before dropping down each face to the working depth. The upper pinnacle at 8–15 meters carries the most colorful coral coverage. Deeper sections at 20–30 meters are productive for larger fish encounters and eagle ray passes. Ascend up the pinnacle structure for a natural safety stop on the shallow top.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Little Cayman resort operators. The site may require a short transit from the main Bloody Bay mooring area. Giant stride entry. Mooring buoy or anchor deployment managed by operator. SMB for ascent.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Little Cayman diving is best experienced over multiple days — at least 3 nights is recommended
+- Ghost Mountain combines well with Bloody Bay Wall and Mixing Bowl in a multi-dive day
+- The pinnacle top in shallow water is an excellent safety stop venue rich in fish life
+- Early morning dives on the pinnacle before other sites often produce the calmest water
+- This site offers a more intimate experience than the busier Bloody Bay Wall mooring sites
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+The 30-meter maximum depth is within standard recreational diving limits. Current can develop in this area adjacent to the Bloody Bay Wall — monitor throughout the dive and adjust the dive plan if current increases. Little Cayman's remote location means emergency medical response is limited — conservative dive planning is advisable.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Ghost Mountain's pinnacle structure provides excellent wide-angle composition opportunities. The pinnacle face against deep blue water is visually striking. Eagle ray encounters near the pinnacle require quick reflexes — pre-set exposure for ambient conditions. The colorful upper pinnacle in shallow water photographs brilliantly in natural light without flash.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*

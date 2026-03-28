@@ -13,55 +13,55 @@ addedBy: osm_import
 
 ## Doc Poulson Wreck
 
-Doc Poulson Wreck is a historic wreck dive in Cayman Islands, Caribbean.
+A Japanese cable-laying vessel intentionally sunk in 1981 off Grand Cayman's West Bay, sitting upright in 16 meters on brilliant white sand beside a prolific coral reef.
 
 ## Overview
 
-Doc Poulson Wreck is a dive site in Cayman Islands featuring the wreck of the Doc Poulson Wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Doc Poulson was a Japanese cable-laying vessel deliberately sunk in 1981 off West Bay, Grand Cayman, as an artificial reef. She rests upright on a flat white sand bottom in 16 meters of water — an ideal depth for beginner wreck divers — with the sand around her hull providing excellent contrast that makes the wreck visually striking in Cayman's clear water. The hull has multiple large access openings cut before sinking, making it safe for basic wreck penetration without specialized cave training. A productive coral reef sits nearby, meaning divers can combine wreck exploration with reef diving in the same visit. Turtles, nurse sharks, and eagle rays are all regularly documented at this site.
 
 ## Site Information
 
-- **Location**: Cayman Islands, Caribbean
+- **Location**: West Bay, Grand Cayman
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 16 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Maximum Depth**: 16 meters (52 feet)
+- **Typical Visibility**: 20–35 meters (65–115 feet)
+- **Current**: Light
+- **Water Temperature**: 26–29°C (79–84°F)
+- **Best Time**: Year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, snappers, soldierfish, glassy sweepers, coral growth, sponge encrustation, sea turtles (green, hawksbill), southern stingrays. Additional species commonly sighted include eagle rays, nurse sharks, reef sharks, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The Doc Poulson hosts an impressive species list for a relatively compact wreck. Green turtles and hawksbill turtles regularly rest on the hull or are found near the wreck. Nurse sharks are commonly seen resting on the sandy bottom beneath and around the hull. Eagle rays make periodic passes. Large green moray eels occupy sheltered spaces in the hull. The coral reef adjacent to the wreck adds parrotfish, angelfish, and French grunt to the total species count. Sergeant majors and chromis school in the water column above the wreck.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 16 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend to the deck level (approximately 10 meters) and work toward the bow, then down to the sandy bottom at 16 meters. The pre-cut hull openings allow basic penetration of the forward compartments for those with wreck diving training. After exploring the wreck, swim to the adjacent reef section for an extended dive. The 16-meter depth allows comfortable recreational bottom time.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from West Bay operators including several well-established dive operations in this area. The site is regularly visited and operators are thoroughly familiar with it. Giant stride entry. Mooring buoys may be present. SMB deployment for surface pickup.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
+- The combination of wreck and adjacent reef makes this one of Grand Cayman's most complete dive experiences
+- Nurse sharks under the hull are a regular sighting — approach calmly and maintain a respectful distance
+- Bring a dive torch for illuminating the interior spaces even on the basic penetration
+- The upright orientation and white sand bottom creates ideal conditions for ambient light photography
+- This is one of Grand Cayman's best beginner wreck dives — the safe penetration openings provide wreck atmosphere without risk
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+At 16 meters, this is well within recreational diving limits for beginners. Wreck penetration beyond the light zone requires proper training and equipment even in this purpose-built artificial reef. Always maintain a clear exit path during interior exploration. Nurse sharks are docile but should not be handled or cornered.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The Doc Poulson in Cayman's extraordinary clear water is a natural photography site. The upright hull on white sand creates clean, uncluttered compositions. Turtle portraits resting on the hull are a classic Grand Cayman image. The large hull openings with ambient light streaming through them create dramatic interior light effects. A strobe is useful for close-up detail work on encrusted hull surfaces.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*
