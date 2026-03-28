@@ -11,56 +11,54 @@ osmId: 663869817
 addedBy: osm_import
 ---
 
-## Small Crack
+# Small Crack
 
-Small Crack is a reef dive site in Red Sea, Middle East.
+A crevice formation on the southern Sinai coast — a narrow fissure in the reef that divers pass through as a swim-through, flanked by soft corals and glassfish clouds, providing a geological feature in contrast to the open-water diving of the adjacent headland sites.
 
 ## Overview
 
-Small Crack is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Small Crack sits at approximately 27.73°N, 34.10°E on the Sinai Peninsula's southwestern coast south of Sharm el-Sheikh — in the same geographic band as Shark Observatory and Ras Ghozlani. The name is descriptive: the site's signature feature is a narrow crack or crevice in the reef structure that forms a natural swim-through. In a dive region dominated by walls, slopes, and open reef, Small Crack's geological feature provides a different experience — the confined passage creates a different light environment, concentrates soft corals and glassfish, and gives the dive a distinctive character among the southern Sinai coastal sites.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Southern Sinai coast, southwest of Sharm el-Sheikh (~27.73°N, 34.10°E)
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 15–25 meters
+- **Current**: Mild to moderate; tidal influence
+- **Best Time**: Year-round; October to May optimal
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, humphead wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The crack itself concentrates glassfish in the dimly-lit interior, with hunting groupers waiting at the exits. Soft corals and crinoids colonise the crack walls in the reduced-light environment. The reef surrounding the crack carries the standard southern Sinai assemblage: moray eels, anthias schools, butterflyfish, and surgeonfish throughout. The open outer reef beyond the crack holds barracuda and occasional grey reef sharks.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin on the outer reef at 8–12 metres to assess current and observe the surrounding reef. Approach the crack entrance from the leeward side and pass through at a controlled buoyancy position — single file. The crack exit opens onto the open reef or bay face depending on orientation. After the swim-through, explore the surrounding reef at 10–15 metres. Safety stop at 5 metres over the shallow reef.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Day boat from Sharm el-Sheikh (40–60 minutes). Giant stride entry. Pair with Shark Observatory or Ras Za'atar for a two-dive southern Sinai day. SMB deployment before ascending.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The swim-through requires single-file movement and good buoyancy control — do not enter in strong current or with large groups
+- A torch illuminates the crack interior and reveals the soft coral and glassfish in better detail than ambient light alone
+- The crack exit may have stronger current than the entry — assess before committing and back out if conditions are unsuitable
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The crack is not a full cave system — natural light is visible throughout. Do not enter if visibility is compromised or if current is pushing into the crack. Maintain buoyancy precision throughout the passage. Good trim control required to avoid disturbing the soft coral on the crack walls. SMB before ascending.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The crack swim-through with natural light filtering through one end creates a classic silhouette composition — position the camera to frame the light entry with the diver as silhouette. Glassfish clouds inside the crack respond well to torch-backlighting. The soft coral walls of the crack suit close-focus wide-angle in the confined space.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

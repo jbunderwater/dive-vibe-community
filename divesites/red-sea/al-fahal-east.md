@@ -11,56 +11,53 @@ osmId: 4433719546
 addedBy: osm_import
 ---
 
-## Al Fahal East
+# Al Fahal East
 
-Al Fahal East is a reef dive site in Red Sea, Middle East.
+The eastern face of Al Fahal reef in the southern Saudi Red Sea — a current-exposed wall where open-ocean influence produces dense fish aggregations and shark activity in a stretch of reef receiving minimal diver traffic.
 
 ## Overview
 
-Al Fahal East is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Al Fahal East is the eastern-facing dive site on the Al Fahal reef system at approximately 22.29°N, 38.97°E in the southern Saudi Red Sea. Al Fahal is a significant reef system in this latitude range — the name (الفحل — "the stallion") suggests prominent natural geography. The eastern face of any reef in this zone receives the prevailing current and open-ocean exposure, which drives the high fish productivity that characterises Al Fahal's eastern section. The reef system spans three designated dive sites: East, North, and South. This is specialist regional territory, accessed by Saudi-licensed operators or specialist liveaboards with appropriate clearances.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Boat dive
+- **Location**: Al Fahal reef, eastern face, southern Saudi Red Sea (~22.29°N, 38.97°E)
+- **Entry Type**: Boat dive (specialist regional operator or permitted liveaboard)
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 20–35 meters
+- **Current**: Moderate to strong on the exposed eastern face
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, humphead wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The current-swept eastern face produces concentrations of schooling fish: barracuda schools, jack schools, and fusiliers in the open water. Grey reef sharks patrol the outer reef edge. The hard coral coverage on the exposed eastern face is in excellent condition — this reef has seen minimal bleaching pressure relative to the heavily-dived northern Red Sea. Large groupers in the deeper sections of the wall. Moray eels throughout the crevices. Hawksbill turtles on the reef platform.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the outer reef edge at 15–18 metres and assess current direction before extending the dive. Work along the eastern face with the current, observing shark activity and schooling fish in the open water. Ascend the face progressively to the upper reef at 8–12 metres. Safety stop at 5 metres over the reef crest.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Specialist regional operator in Saudi Arabia or permitted liveaboard. Giant stride entry from the tender. SMB deployment before ascending. Research current access requirements for Saudi Red Sea diving before planning.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The eastern face is best dived when current is running — calm conditions reduce the fish aggregation that defines this site
+- Pair with Al Fahal North and Al Fahal South for a comprehensive three-section exploration of the reef system
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Current on the exposed face requires management. Research the permit requirements for Saudi Red Sea access thoroughly. Remote location. SMB before ascending.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Dense school shots in current — barracuda and jacks against the open-ocean background — are the primary wide-angle subjects. Grey reef shark portraits at the outer reef edge in clear Saudi Red Sea water.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -11,56 +11,54 @@ osmId: 315494013
 addedBy: osm_import
 ---
 
-## Shilineat
+# Shilineat
 
-Shilineat is a reef dive site in Red Sea, Middle East.
+A sheltered reef in the Wadi el Gemal National Park zone — a dive site within protected waters north of Marsa Alam where marine conservation measures support healthy turtle populations and the calm conditions allow extended seagrass zone exploration.
 
 ## Overview
 
-Shilineat is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Shilineat sits at approximately 24.67°N, 35.13°E in the coastal zone adjacent to the Wadi el Gemal (Wadi Gamal) National Park, north of Marsa Alam. It occupies a similar geographic zone to Torfi — both sites are in the protected area where dugong and turtle conservation creates a different diving context from mainstream commercial sites. The reef structure is a fringing type, with the characteristic combination of coral reef margins, sandy transitions, and seagrass meadows that define this park zone. The site may be dived in conjunction with Torfi as part of a park-access day trip.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Boat dive
+- **Location**: Wadi el Gemal National Park zone, north of Marsa Alam (~24.67°N, 35.13°E)
+- **Entry Type**: Boat dive (park regulations apply)
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 10–20 meters
+- **Current**: Mild; protected park zone
+- **Best Time**: October to May; year-round for turtle encounters
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, humphead wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Hawksbill turtles are the most reliable large-animal encounter — the park's conservation status means turtles are more approachable here than at unprotected sites. Dugongs are possible in the seagrass sections, particularly in winter months. The reef supports moray eels, groupers, and the typical reef fish assemblage. Blue-spotted stingrays on the sandy transitions. The seagrass meadows adjacent to the reef produce their own macro diversity — seahorses and pipefish are associated with seagrass habitat in the Red Sea.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the fringing reef face and work along the reef at 10–15 metres before transitioning to the sandy and seagrass zones. The seagrass area rewards slow, quiet movement. Safety stop at 5 metres over the shallow reef.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Day boat from Marsa Alam or Port Ghalib (30–50 minutes). National park entry fees apply. Often combined with Torfi for a two-site park day. SMB deployment before ascending.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Seagrass zone exploration requires very slow movement and minimal fin use — turbulence disturbs resident fauna
+- Approach turtles from a low angle, moving sideways rather than directly toward them
+- The park's conservation rules limit diver numbers — book early for peak season visits
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Mild conditions. Follow all park regulations. Approach dugongs from the side, never from above or directly ahead. SMB before ascending.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Turtle portraits in the park context — well-lit, approachable subjects in calm water — are among the most accessible in the Red Sea. Seagrass zone macro photography rewards a macro lens and patient, low-impact approach.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

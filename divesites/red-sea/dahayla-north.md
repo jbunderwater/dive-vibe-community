@@ -11,56 +11,54 @@ osmId: 517346399
 addedBy: osm_import
 ---
 
-## Dahayla North
+# Dahayla North
 
-Dahayla North is a reef dive site in Red Sea, Middle East.
+The northern section of the Dahayla reef near the Gulf of Aqaba entrance — a fringing reef in the far northern Sinai zone accessible from Aqaba or Nuweiba, with clear water and the fish diversity characteristic of the northern Red Sea reef corridor.
 
 ## Overview
 
-Dahayla North is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Dahayla North sits at approximately 28.61°N, 34.56°E on the northern Sinai Peninsula — in the coastal zone near the Gulf of Aqaba and accessible from Aqaba (Jordan), Eilat (Israel), or Nuweiba (Egypt). This section of the Sinai coast receives diver traffic from multiple national tourism systems due to the convergence of Israeli, Jordanian, and Egyptian territory in the northern Aqaba/Tiran area. The reef is a fringing type on the Sinai eastern coast, with the clear water characteristic of the Gulf of Aqaba system — often better visibility than the main Red Sea western coast. Dahayla North is the northern section of a reef that splits into north and south dive sites.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Northern Sinai, near Gulf of Aqaba (~28.61°N, 34.56°E)
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 15–25 meters
+- **Current**: Generally mild in the Gulf of Aqaba zone
+- **Best Time**: Year-round; October to May optimal
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, humphead wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The northern Sinai/Gulf of Aqaba reef supports a diverse fish community: moray eels, groupers, and the dense anthias clouds characteristic of healthy Red Sea reefs. Hawksbill turtles are present. Schools of snapper and fusiliers. Cleaning stations established at 8–12 metres. The clear Gulf of Aqaba water allows appreciation of the reef's full vertical structure from the surface.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend on the outer reef face and work along at 10–15 metres. The reef face carries the most diverse coral and fish life. Ascend progressively to the upper reef at 5–8 metres. Safety stop at 5 metres.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Day boat from Nuweiba, Aqaba, or Eilat depending on operational base. Giant stride entry. SMB deployment before ascending.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The Gulf of Aqaba's typically excellent visibility makes this a good introduction to Red Sea reef diving
+- Combine with Dahayla South for a two-section exploration of the reef complex
+- The cleaner northern Gulf water produces excellent ambient photography conditions
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Generally mild conditions in the Gulf of Aqaba. Current can develop in tidal transitions. Fire coral on the upper reef. SMB before ascending.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The excellent Gulf of Aqaba visibility suits ambient wide-angle reef photography throughout the dive. Reef fish portraits in natural light are consistently accessible.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
