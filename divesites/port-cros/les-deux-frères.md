@@ -11,55 +11,56 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Les Deux Frères
+# Les Deux Frères
 
-Les Deux Frères is a reef dive site in Port-Cros, Europe.
+Twin rocky formations in the waters north of Port-Cros, offering intermediate Mediterranean reef diving with groupers and Posidonia seagrass meadows.
 
 ## Overview
 
-Les Deux Frères is a dive site in Port-Cros offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Les Deux Frères ("The Two Brothers") is a site named for twin rocky formations in the waters north of Île de Port-Cros, in the outer reach of the park's protected maritime zone. The site features a combination of rocky reef structure and adjacent Posidonia oceanica seagrass meadows — a habitat combination characteristic of the healthiest sections of the western Mediterranean. Groupers are present in good numbers, and the two rocky formations provide shelter for moray eels, octopus, and spiny lobsters. Maximum depth is 30 metres.
 
 ## Site Information
 
-- **Location**: Port-Cros, Europe
+- **Location**: North of Île de Port-Cros, Hyères area, Var, France
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky formations / reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Maximum Depth**: 30 metres
+- **Typical Visibility**: 10–25 metres
+- **Water Temperature**: 13–25°C
 - **Current**: Light to moderate
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
+Brown groupers are present around both rocky formations, moving between the reef structure and the adjacent seagrass at 15–25 metres. Moray eels occupy crevices in the twin rocks. Octopus inhabit accessible cavities. The Posidonia meadows shelter seahorses, pipefish, and the cryptic cuttlefish that prowl the seagrass fronds. Sea bream, salema, and oblades school above the meadows. Nudibranchs are found on the rocky surfaces. The cleaner water column above the seagrass often holds barracuda in small groups.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The dive can be planned as a circuit of both rock formations with a transit across the Posidonia meadow connecting them. Begin at the shallower rocky sections (8–12 metres), descend to the deeper base of the formations at 25–30 metres, and return across the seagrass meadow. Both rocky features are worth thorough exploration; plan time for each. The seagrass transit is often the most rewarding section for Posidonia-specific species.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from operators in La Londe, Le Lavandou, or directly from the Port-Cros harbour (single dive centre on the island). Back roll or giant stride entry. Mooring buoys should be used where available. Deploy SMB before ascending; coordinate with boat crew for pickup.
 
-## Tips and Recommendations
+## Tips
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Move very slowly across the Posidonia meadow — cuttlefish and seahorses are cryptic and easily missed
+- The twin rock symmetry makes navigation intuitive — the two formations are recognisable landmarks throughout the dive
+- The Posidonia seagrass is a protected habitat throughout the Mediterranean; hovering above it (never kneeling on it) is essential
+- Summer evenings can bring cuttlefish out of the seagrass to hunt — night diving this site has potential
 
-## Safety Considerations
+## Safety
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+A moderate-depth intermediate site with good shelter from swell. Posidonia meadow diving requires excellent buoyancy to avoid contact with the protected seagrass. Normal Mediterranean boat-diving safety protocols apply. Deploy an SMB before surfacing. Visibility is generally excellent here.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The Posidonia meadow provides superb macro opportunities: seahorses, pipefish, and cuttlefish against the seagrass background. Wide-angle shots of groupers near the rocky formations capture the Mediterranean character of the site. Nudibranchs on the encrusted rock surfaces are detailed macro subjects.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

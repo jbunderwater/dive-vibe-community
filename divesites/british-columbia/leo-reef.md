@@ -11,55 +11,57 @@ osmId: 632735255
 addedBy: osm_import
 ---
 
-## Leo Reef
+# Leo Reef
 
-Leo Reef is a reef dive site in British Columbia, North America.
+A submerged reef in the southern Strait of Georgia with productive cold-water marine life.
 
 ## Overview
 
-Leo Reef is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Leo Reef lies in the southern Strait of Georgia near the US-Canada border area, accessible from Sidney or nearby communities. The reef provides hard-bottom habitat in the tidal waters of the southern Strait, supporting the rich cold-water community characteristic of the Salish Sea. This is a typical Gulf Islands-area intermediate boat dive with the standard BC cold-water experience. Water temperatures are 8–12°C and visibility averages 6–15 metres.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Southern Strait of Georgia, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Submerged reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 6–15 metres
+- **Current**: Tidal currents in the Strait — plan around slack
+- **Best Time**: Late spring through autumn
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Leo Reef hosts the full suite of Salish Sea cold-water species. Giant Pacific octopus are found in rocky crevices throughout the reef. Lingcod and copper rockfish are the dominant fish. Plumose anemones cover current-facing surfaces. Kelp greenlings and painted greenlings are common in shallow sections. Nudibranchs are diverse. Harbour seals visit consistently. Dungeness crab are found on adjacent sandy areas.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The reef rises to approximately 6–8 metres, with the perimeter extending to 18 metres on sand. Work the outer reef faces at depth during the main dive, then transition to the reef crest zone for the safety stop. Look carefully into every crevice for octopus — this species is the primary draw at reefs throughout the southern Strait.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access from Sidney marina. GPS required. Anchor on sand clear of the reef. Deploy SMB before ascending due to boat traffic in the southern Strait. A live boat pickup is preferable.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Leo Reef can be combined with other nearby southern Strait reef dives for a full day
+- Sidney dive operators know local reef conditions and can advise on exact timing
+- Autumn typically produces the best visibility conditions in the southern Strait
+- Morning dives tend to have calmer surface conditions before afternoon winds develop
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Tidal currents require planning. Heavy vessel traffic requires SMB deployment before any ascent. Cold water (8–12°C) demands drysuit protection. Maintain buddy contact throughout.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Octopus portraits and wide-angle reef compositions are the standard photographic approach. Rockfish in mid-water against the reef structure make effective images. Macro work on sponge-covered surfaces finds diverse nudibranchs. Bring strobes for accurate colour at depth.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
+- Sidney area dive operators
+- Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

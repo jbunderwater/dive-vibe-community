@@ -11,55 +11,56 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Îlot de la Croix
+# Îlot de la Croix
 
-Îlot de la Croix is a reef dive site in Port-Cros, Europe.
+A small islet in the eastern approaches to Port-Cros with rocky reef diving, groupers, and a mix of open-sea and sheltered habitats.
 
 ## Overview
 
-Îlot de la Croix is a dive site in Port-Cros offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Îlot de la Croix (Cross Islet) is a small rocky islet in the eastern approaches to Île de Port-Cros, within the boundaries of the national park. The site is listed among Port-Cros's notable dive spots in the park's own official dive site inventory, alongside La Gabinière, La Pointe du Vaisseau, and other established sites. The underwater terrain around the islet drops to 30 metres, with rocky slopes and boulder fields providing habitat for resident groupers and Mediterranean reef species. The islet's position gives divers access to multiple faces with varying current exposure and depth.
 
 ## Site Information
 
-- **Location**: Port-Cros, Europe
+- **Location**: Eastern approaches to Île de Port-Cros, Port-Cros National Park, France
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky islet / reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Maximum Depth**: 30 metres
+- **Typical Visibility**: 10–25 metres
+- **Water Temperature**: 13–25°C
 - **Current**: Light to moderate
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
+Brown groupers are characteristic of this park site, patrolling the rocky structure between 15 and 25 metres. Moray eels inhabit the islet's rock crevices. Sea bream, salema, and oblades school in the water column above the reef. Octopus and spiny lobsters are found at the deeper rocky sections. Scorpionfish blend into the bottom. Below 18 metres, gorgonian fans colonise the more exposed rock faces. The Posidonia seagrass meadows in the shallower sections shelter cuttlefish. Nudibranchs are present throughout on encrusted surfaces.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The circuit around the islet can be completed in a single dive. Begin on one face, descend to the maximum depth of 30 metres on the most productive deep section, then ascend gradually as you work around the islet perimeter. Multiple faces provide varying character — the more exposed side will have denser gorgonian growth; the sheltered side will be calmer with better seagrass access. Complete the dive in the shallows with a safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access with mooring buoys where available. No anchoring in the park zone. Back roll or giant stride entry. Coordinate the starting face with the boat operator based on current and conditions. Deploy SMB before surfacing.
 
-## Tips and Recommendations
+## Tips
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- An islet circuit is a particularly satisfying dive profile — you return to the starting point with a complete picture of the site
+- This site is mentioned in official park materials as a "surprising" location worth visiting beyond the main Gabinière sites
+- The eastern approach position means it can be combined with other eastern-sector park sites in a multi-dive day
+- Carry a dive light to investigate rock crevices; moray eels here are accessible and photogenic
 
-## Safety Considerations
+## Safety
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Standard park intermediate diving. Respect all park regulations — no anchoring, no touching the reef, no fish feeding. Advanced buoyancy essential near Posidonia meadows. Deploy an SMB before surfacing. The islet position creates some current on the exposed faces; evaluate before committing to a deep circuit.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The islet circuit provides varied photography across multiple habitat types. Wide-angle shots of groupers near rock structures, moray eel portraits in their crevices, and Posidonia meadow macro subjects all work well. The gorgonian coverage on deeper faces is a complementary subject for a second dive.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

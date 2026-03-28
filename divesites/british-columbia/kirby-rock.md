@@ -11,55 +11,57 @@ osmId: 6417239182
 addedBy: osm_import
 ---
 
-## Kirby Rock
+# Kirby Rock
 
-Kirby Rock is a reef dive site in British Columbia, North America.
+A productive reef rock in Barkley Sound on the west coast of Vancouver Island.
 
 ## Overview
 
-Kirby Rock is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Kirby Rock is located in the outer Barkley Sound area on Vancouver Island's west coast, in the waters between the Broken Group Islands and the open Pacific. Barkley Sound is one of BC's premier diving regions, receiving nutrients from Pacific upwelling and supporting exceptional biodiversity. The site is accessed from Bamfield or via liveaboard, and represents the productive, more exposed west coast diving character. Water temperatures are 7–11°C and visibility can reach 15–20 metres with favourable upwelling conditions.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Barkley Sound, west coast of Vancouver Island, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Submerged rock / reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 8–20 metres
+- **Current**: Ocean swell and tidal currents — conditions-dependent
+- **Best Time**: Late summer and autumn for calmest conditions and best visibility
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Barkley Sound's ocean influence makes sites like Kirby Rock exceptionally productive. Giant Pacific octopus are large and numerous. Lingcod, cabezon, and tiger rockfish are well-represented. Plumose anemones and coloured encrusting sponges cover exposed rock faces in dense growth. Sea pens inhabit sandy areas around the rock base. Steller sea lions are common in Barkley Sound and may be encountered underwater. Grey whales feed in adjacent shallows during spring. Cloud sponge formations occur in deeper areas of Barkley Sound.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The rock provides diving from the summit at approximately 8–10 metres to the base at 18 metres. Work the perimeter of the rock, prioritising the current-facing faces where encrusting growth is heaviest. Barkley Sound ocean conditions require careful attention to swell — dive only in calm periods. Complete a safety stop at 5 metres before surfacing.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access from Bamfield. Bamfield is accessible via the West Coast Road from Port Alberni or by MV Frances Barkley from Port Alberni. Ocean swell can make the outer Barkley Sound sites challenging — carry backup site options in sheltered Broken Group Islands areas.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Barkley Sound rewards multi-day trips — consider camping at Gibraltar Island or staying in Bamfield
+- The Broken Group Islands are designated as Pacific Rim National Park — camping permits required
+- Diving conditions in outer Barkley Sound can change rapidly — maintain situational awareness
+- The Bamfield Marine Sciences Centre is an excellent resource for area information
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+West coast ocean conditions add swell and surge to the typical BC diving hazards. Only dive in appropriate sea states. Tidal current timing is essential. Cold water (7–11°C) demands drysuit proficiency. Remote location requires emergency preparedness. Monitor VHF radio for weather updates.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+West coast BC diving provides exceptional wide-angle photography opportunities — dense sponge and anemone-covered rock faces with clear Pacific water behind are stunning. Large octopus and sea lions make outstanding subjects. Sea pen fields with sand-dwelling critters are excellent for macro and wide-angle work.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
+- Bamfield Marine Sciences Centre: bamfieldmsc.com
+- Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

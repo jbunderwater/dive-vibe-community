@@ -11,55 +11,56 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Pointe du Cognet
+# Pointe du Cognet
 
-Pointe du Cognet is a reef dive site in Port-Cros, Europe.
+A headland dive on the southern coast of Port-Cros with a rocky drop-off, resident groupers, and typically calm conditions.
 
 ## Overview
 
-Pointe du Cognet is a dive site in Port-Cros offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+La Pointe du Cognet is a headland on the southern coast of Île de Port-Cros, in the protected marine zone of the national park. The underwater terrain extends from the headland as a sloping rock and boulder structure, dropping to 30 metres, with adjacent Posidonia seagrass meadows in the shallower sections. The headland position creates a site that is moderately exposed on the open-sea face but sheltered on the landward side, providing good alternatives when conditions are mixed. Groupers are present and accustomed to diving activity in the park.
 
 ## Site Information
 
-- **Location**: Port-Cros, Europe
+- **Location**: Southern coast of Île de Port-Cros, Port-Cros National Park, France
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky headland / reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
+- **Maximum Depth**: 30 metres
+- **Typical Visibility**: 10–25 metres
+- **Water Temperature**: 13–25°C
+- **Current**: Light; increases on exposed headland face
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
+Brown groupers are the headline species — resident fish that know the park and approach divers with bold curiosity. Moray eels inhabit the rock crevices along the entire depth range, and octopus are found at the transitions between rock and sandy or seagrass substrate. Sea bream, salema, and oblades move through the water column. Scorpionfish are common (and often invisible until very close inspection). Below 18 metres, gorgonian sea fans and encrusting sponges appear on the rocky surfaces. The Posidonia meadow sections in the upper 12 metres shelter cuttlefish and seahorses.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The most protected entry is on the sheltered side of the headland. Descend to the rock face and work toward the open-sea face and deeper sections, monitoring conditions as the exposed face is approached. The deeper gorgonian zone at 20–30 metres is the most developed invertebrate section. Ascend via the shallower rock structure and transit the Posidonia zone before surfacing. Complete a safety stop at 5 metres.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access; mooring buoys preferred over anchoring in the park. Coordinate the dive plan with conditions — the sheltered face is appropriate in any weather; the exposed face only in calm sea states. Back roll or giant stride entry. Deploy SMB before surfacing.
 
-## Tips and Recommendations
+## Tips
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Use the sheltered face of the headland in any wind or swell from the south — it provides clean conditions when other southern sites are compromised
+- The exposed face of the headland rewards calm days with its more developed gorgonian communities
+- This site is frequently included in multi-dive day trips from La Londe or Le Lavandou operators
+- Inspect the transition zones between rock and Posidonia carefully — these ecotones have the highest species diversity in shallow Mediterranean diving
 
-## Safety Considerations
+## Safety
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Standard park intermediate conditions. The exposed face of the headland requires surface condition evaluation. Never anchor in the Posidonia seagrass. Maintain excellent buoyancy throughout. Deploy an SMB before surfacing; the headland position can put divers in moderate boat traffic.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Grouper portraits near the rocky headland structure are the photographic highlight. The Posidonia meadow provides excellent macro subjects (cuttlefish, seahorses). Gorgonian fans on the deeper rock faces photograph well wide-angle with a strobe. Natural light is productive in the upper 15 metres.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

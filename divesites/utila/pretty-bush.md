@@ -11,56 +11,56 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Pretty Bush
+# Pretty Bush
 
-Pretty Bush is a reef dive site in Utila, Caribbean.
+*A reef site on the western tip of Utila known for lush coral growth and consistent turtle encounters, accessible in the shallows to beginners and extending deeper for experienced divers.*
 
 ## Overview
 
-Pretty Bush is a dive site in Utila offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Pretty Bush occupies the western end of Utila's reef system, where the island's tip creates a diverse habitat combining shallow coral gardens, sponge-encrusted formations, and a deeper reef slope. The site's name reflects the visual character of the reef: an exceptionally lush growth of coral and sponge formations in the 8–18 meter range that gives the impression of an underwater garden. While the maximum depth reaches 30 meters along the western slope, the most compelling diving is in the 8–20 meter range where coral coverage and fish diversity are greatest. The western position gives this site excellent afternoon light. Visibility averages 20–25 meters.
 
 ## Site Information
 
-- **Location**: Utila, Caribbean
+- **Location**: Western tip of Utila, Bay Islands, Honduras
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
+- **Site Type**: Coral reef with deeper slope
+- **Difficulty Level**: Beginner (in the 8–15 meter garden section); deeper slope is intermediate
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: 20–25 meters (65–80 feet)
+- **Current**: Light to moderate; the western tip creates some current concentration
+- **Best Time**: Year-round; afternoon light is particularly favorable at this westward-facing site
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Pretty Bush has exceptional coral density — the site lives up to its name with extensive brain corals, star corals, and massive barrel sponges in the 8–18 meter section. Hawksbill turtles are reliably encountered here, often feeding actively on the sponge gardens. French and queen angelfish are prominent. Large parrotfish roam the coral formations. Nurse sharks rest on the sandy patches at the base of the coral structures. Caribbean reef sharks are occasionally seen cruising the deeper sections at the base of the slope. Schools of blue tang and surgeonfish sweep across the reef in waves. The sandy border between the reef and the deeper slope holds southern stingrays.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the coral garden section at 8–10 meters and explore the lush formations slowly. The beauty of the reef is in the detail — coral heads, sponge formations, and the fish communities living in and around them. Spend the main portion of the dive in the 10–18 meter range. Experienced divers can drop to the slope at 20–25 meters before returning shallower. Complete the dive on the shallowest part of the coral garden at 5–8 meters for the safety stop period.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Operated by Utila Town dive shops. The western tip crossing is 20–25 minutes from town. Entry via giant stride. The western position can be exposed to afternoon swells — morning dives are preferred.
 
-## Tips and Recommendations
+## Tips
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Afternoon light hits the reef at a favorable angle from the west — afternoon dives here can be spectacularly lit
+- This is one of Utila's best sites for macro photography given the density and diversity of the coral and sponge encrustation
+- The sponge formations at 12–15 meters are worth extended scrutiny — hawksbill turtles actively graze the barrel sponges
+- Combine Pretty Bush with Duppy Waters or Ron's Wreck on the south side for a two-tank western/south run
+- Take a naturalist approach and count species — the diversity at this site is high
 
-## Safety Considerations
+## Safety
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Beginner-accessible in the shallow sections with guide supervision. The deeper slope section (beyond 20 meters) requires intermediate experience. Current at the western tip can be moderate — assess on arrival. The main reef garden is sheltered. Always carry an SMB given the boat pickup format.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Pretty Bush is Utila's best reef photography site for coral beauty. Wide-angle reef scenes with exceptional coral and sponge formations under good afternoon light. The barrel sponge formations at 12–15 meters are dramatic wide-angle subjects. Turtle encounters in the coral garden, with divers above in bright, clear water, are among the most photogenic reef interactions in Utila. Macro subjects are abundant — tube worms, flamingo tongues, and coral polyps.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

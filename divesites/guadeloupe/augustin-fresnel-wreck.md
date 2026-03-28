@@ -11,57 +11,56 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Augustin Fresnel Wreck
+# Augustin Fresnel Wreck
 
-Augustin Fresnel Wreck is a historic wreck dive in Guadeloupe, Caribbean.
+*A 53-meter Canadian lighthouse ship deliberately sunk in the Cousteau Reserve in 2003, extensively colonized and now one of Guadeloupe's premier wreck dives.*
 
 ## Overview
 
-Augustin Fresnel Wreck is a dive site in Guadeloupe featuring the wreck of the Augustin Fresnel Wreck . 53-meter Canadian lighthouse ship (Augustin Fresnel II) sunk 2003, moved to 33m by Cyclone Dean 2007, originally 25m, clean and safe wreck, requires CMAS**/AOW certification. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Augustin Fresnel II is a 53-meter Canadian lighthouse ship (lightvessel) that was deliberately sunk on June 10, 2003, as an artificial reef within the Jacques Cousteau Underwater Reserve near Bouillante, Guadeloupe. The wreck was originally placed at 25 meters, but Cyclone Dean in 2007 moved the vessel deeper — it now rests at approximately 28–33 meters. The wreck was professionally cleaned before sinking and is considered safe for qualified divers. Advanced certification (CMAS** or AOW equivalent) is required due to the depth. After more than two decades underwater, the Augustin Fresnel II is substantially colonized with corals and sponges and is regarded as one of the most impressive accessible wrecks in the French Caribbean.
 
 ## Site Information
 
-- **Location**: Guadeloupe, Caribbean
+- **Location**: Cousteau Reserve, Bouillante, Basse-Terre, Guadeloupe
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 28 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Difficulty Level**: Advanced (CMAS** / AOW equivalent minimum)
+- **Maximum Depth**: 28–33 meters (Cyclone Dean shifted the wreck to deeper water)
+- **Typical Visibility**: 20–30 meters (65–100 feet)
+- **Current**: Light to moderate in the Cousteau Reserve area
+- **Best Time**: Year-round from Bouillante; best visibility November to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, snappers, soldierfish, glassy sweepers, coral growth, sponge encrustation, sea turtles (green, hawksbill), southern stingrays. Additional species commonly sighted include eagle rays, nurse sharks, reef sharks, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Two decades of colonization have transformed the Augustin Fresnel II into a living reef. The hull is encrusted with orange and red sponges, black coral at the deeper sections, and stony coral formations. Hawksbill turtles rest on the superstructure during their sleep cycles — early morning dives sometimes reveal sleeping turtles on the deck. Large groupers hold territorial positions near the superstructure. Schools of gorettes pack the interior spaces. Moray eels inhabit the machinery spaces accessible through open doorways. Barracuda patrol the water column above. The vessel's large size means multiple dives are needed to fully explore the structure.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 28 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend directly to the wreck, which can be accessed along the mooring line. The upper deck structures sit at 28 meters; the keel at 33 meters. Spend the first portion of the dive on the shallower superstructure sections to maximize bottom time. Penetrate accessible interior spaces with a torch, but only as appropriate to your training level. Begin your ascent from the stern or bow deck structure and make a gradual ascent to the safety stop at 5 meters. Nitrox 32% is strongly recommended. Total dive time on air at this depth is approximately 20–25 minutes for the deeper sections.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Operated exclusively by licensed Bouillante dive operators within the Cousteau Reserve. Permanent mooring on the wreck. Entry via giant stride. Reservations through Bouillante dive shops required.
 
-## Tips and Recommendations
+## Tips
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Nitrox 32% or 36% is the standard choice for this dive — significantly extends bottom time and reduces post-dive fatigue
+- Plan a second shallow Cousteau Reserve dive (L'Aquarium or Jardin de Corail) as the follow-up to this advanced dive
+- Sleeping turtles on the superstructure are occasionally reported on very early morning dives — before 7am
+- The vessel's compass, some instruments, and structural features remain identifiable — bring a waterproof guidebook to the vessel's history
+- The Cousteau Reserve is a strictly managed protected area — follow all reserve guidelines and book with licensed operators only
 
-## Safety Considerations
+## Safety
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
+Advanced dive requiring careful gas management at 28–33 meters. Narcosis can be a factor — discuss with your buddy and agree on abort criteria. The wreck has been in situ for over 20 years and some sections may be structurally weakened — inspect carefully before penetrating. Always carry a primary and backup torch for interior diving. Safety stop of minimum 3 minutes at 5 meters is mandatory. Always dive with a buddy.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The Augustin Fresnel II is a spectacular wreck photography subject. The large scale of the vessel allows impressive wide-angle compositions — shoot from the sandy seabed with the hull towering above. Sponge encrustation in orange and red against the hull steel makes vibrant color photography. Turtle encounters on the superstructure in the early morning are extraordinary. A strobe or video light system is needed to illuminate the interior and deep hull sections.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

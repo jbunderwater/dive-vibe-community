@@ -11,57 +11,56 @@ osmId: 663869693
 addedBy: osm_import
 ---
 
-## Wrack 'Sagona' (Le Grec)
+# Wrack 'Sagona' (Le Grec)
 
-Wrack 'Sagona' (Le Grec) is a historic wreck dive in Port-Cros, Europe.
+An alternate buoy access point to the Sagona (Le Grec) wreck, a 54-metre Scottish-built cargo ship that struck a mine in 1945 and lies in three sections at 36–47 metres south of Porquerolles.
 
 ## Overview
 
-Wrack 'Sagona' (Le Grec) is a dive site in Port-Cros featuring the wreck of the Wrack 'Sagona' (Le Grec). Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+This entry marks an alternate access buoy to the *Sagona*, the cargo ship universally known by divers as "Le Grec" — a name given by French Navy divers who found Greek-language documents aboard during a post-war survey. Built in 1912 in Dundee, Scotland, the 54-metre vessel was carrying a cargo of wine when it struck a floating mine on 3 December 1945, just south of Porquerolles — six weeks and a few hundred metres from the nearly identical fate of the *Prosper Schiaffino* (Donator). The bow was literally torn off by the explosion, and the wreck now lies in three distinct sections 60 metres apart, providing multiple exploration objectives between 36 and 47 metres.
 
 ## Site Information
 
-- **Location**: Port-Cros, Europe
+- **Location**: South of Porquerolles, Hyères Bay (alternate buoy), Var, France
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck (three sections)
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 47 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
+- **Maximum Depth**: 47 metres
+- **Typical Visibility**: 10–25 metres
+- **Water Temperature**: 13–25°C
+- **Current**: Moderate to strong; variable with tidal state
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter conger eels, lobsters, crabs, anemones, coral encrustation, groupers, moray eels, octopus. Additional species commonly sighted include barracuda, sea bream, amberjack. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Gorgonian red sea fans and two-tone gorgonians colonise the gangways and accessible surfaces throughout the hull. The holds still contain recognisable barrel stave debris from the wine cargo — a tangible connection to the ship's last voyage. Dense fish communities occupy all three sections: groupers, barracuda, moray eels, and hundreds of dentex create constant activity. Conger eels inhabit the deeper interior spaces. Schools of swallowtail sea perch swarm the mast (which lies on the port side of the main hull section).
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 47 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The main hull (middle and stern) is the primary dive at 36–47 metres — explore the winch, propeller, holds with barrel remnants, and the port-side mast. The separate bow section (approximately 60 metres north-northeast) can be the objective of a second dive on the same excursion. Plan the deepest objective first; nitrox is strongly recommended. Begin ascent with generous reserves — the multiple sections invite extended bottom time that must be resisted to maintain safe gas margins.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from La Londe, Le Lavandou, or Hyères operators. A descent line is essential at these depths. Confirm which section the line leads to before the dive (main hull vs. bow). Ascend via the line; deploy SMB at 5 metres before surfacing. Brief the surfacing plan with the boat operator.
 
-## Tips and Recommendations
+## Tips
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- The story of the ship's name is a fascinating element of this dive — briefly reviewing it before descent enriches the experience
+- The barrel stave debris in the holds is one of the wreck's most evocative details, connecting the cargo ship's final journey to the present
+- Comparing this wreck with the Donator (just a few hundred metres away, same fate, same date range) is a compelling twin-wreck experience
+- Nitrox planning: EAN36 at 47 metres extends no-decompression time from approximately 20 to 30 minutes
 
-## Safety Considerations
+## Safety
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
+Advanced depth and current conditions. Advanced open water certification minimum; deep specialty or technical dive training preferred. Monitor gas at all times — the three-section layout can lead to overextended dives. Current in the Hyères channel should be assessed before each descent. Two SMBs recommended given the open-water ascent environment.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The gorgonian-covered gangways and machinery are outstanding wide-angle subjects, as are the fish schools above the main hull. The barrel stave debris in the holds, photographed with a torch for illumination, tells a story. Macro work on gorgonian polyps and encrusting sponges shows exceptional detail. Powerful artificial lighting is essential at 36–47 metres.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

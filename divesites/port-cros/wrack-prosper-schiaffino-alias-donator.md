@@ -11,57 +11,56 @@ osmId: 663869699
 addedBy: osm_import
 ---
 
-## Wrack 'Prosper Schiaffino' (Alias Donator)
+# Wrack 'Prosper Schiaffino' (Alias Donator)
 
-Wrack 'Prosper Schiaffino' (Alias Donator) is a historic wreck dive in Port-Cros, Europe.
+An alternative access point to the legendary Donator wreck, France's most celebrated intact shipwreck lying upright at 35–52 metres between Porquerolles and Port-Cros.
 
 ## Overview
 
-Wrack 'Prosper Schiaffino' (Alias Donator) is a dive site in Port-Cros featuring the wreck of the Wrack 'Prosper Schiaffino' (Alias Donator). Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+This entry references an alternate buoy access point to the *Prosper Schiaffino* — the official name of the wreck universally known among divers as "Le Donator." The ship was built in Bergen, Norway in 1931 (78 metres long, 12 metres wide), bought by the Compagnie Schiaffino in 1939 and renamed *Prosper Schiaffino*. On 10 November 1945, returning from Algeria with a cargo of wine, she struck a mine in the Mistral south of Porquerolles and sank within four minutes. She lies upright and fully intact on a sandy bottom at 42°59'592"N / 06°16'436"E, in the Hyères Bay Natura 2000 zone managed cooperatively with Port-Cros National Park.
 
 ## Site Information
 
-- **Location**: Port-Cros, Europe
+- **Location**: Between Porquerolles and Port-Cros, Hyères Bay, Var, France (alternate buoy position)
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck (intact upright)
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 52 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
+- **Maximum Depth**: 52 metres
+- **Typical Visibility**: 10–25 metres
+- **Water Temperature**: 13–25°C
+- **Current**: Strong current possible; approach operators for conditions report
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter conger eels, lobsters, crabs, anemones, coral encrustation, groupers, moray eels, octopus. Additional species commonly sighted include barracuda, sea bream, amberjack. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The *Prosper Schiaffino* wreck is densely colonised. Enormous gorgonian red sea fans and yellow gorgonians cover the superstructures from mast to propeller. Schools of swallowtail sea perch (castagnoles) swarm around the bridge and crane structures. Dentex, groupers, two-banded sea bream, and striped red mullet are abundant. Large conger eels and moray eels occupy the interior passageways. Spiny lobsters inhabit sheltered positions under the hull. The wine vat cargo holds are still recognisable and shelter their own community of fish and crustaceans.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 52 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+From this alternate buoy position, descend directly to the wreck. The deck sits at 35 metres; the propeller and rudder are at 52 metres. Major landmarks include the superb large steering wheel at the stern castle, the spare propeller aft, the mast, the crane, and the accessible holds. Nitrox is strongly recommended to extend no-decompression limits at this depth. Plan the deepest objectives first (propeller at 52 metres), then work progressively shallower through the deck and mast sections. Ascend via the descent line.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from La Londe, Le Lavandou, or Hyères-based operators. Descent line is essential; do not free-dive at this depth in open water without a reference line. Giant stride entry. Ascend on the line; deploy SMB from the 5-metre safety stop before surfacing. Coordinate with the boat crew on the surfacing plan.
 
-## Tips and Recommendations
+## Tips
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Confirm which buoy position the boat is using before the dive so your wreck orientation is correct
+- The steerman's wheel is one of the most iconic images from this wreck — allocate specific time to photograph or simply appreciate it
+- Both interior penetration (galley, crew quarters, engine room) and exterior exploration are productive at this wreck
+- Request nitrox from the dive operator if available — it significantly improves safety and enjoyment at these depths
 
-## Safety Considerations
+## Safety
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
+Minimum advanced open water certification required; deep specialty experience strongly preferred. Nitrox 32–36% recommended. Monitor gas constantly — the wreck's many interesting features encourage longer bottom times than are safe. Strong current is possible; abort or relocate if the descent line shows significant drag. Wreck penetration requires wreck training and illumination.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+See Le Donator Wreck for full photography notes. The gorgonian-covered superstructure, steering wheel, propeller, and dense fish schools are all outstanding subjects. Bring a powerful strobe and a torch — at 35–52 metres, artificial lighting is the entire story.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
