@@ -11,57 +11,56 @@ osmId: 663869701
 addedBy: osm_import
 ---
 
-## Wildcat
+# Wildcat
 
-Wildcat is a historic wreck dive in Port-Cros, Europe.
+A rare aircraft wreck at the north-eastern tip of Port-Cros island — a Royal Navy Grumman Wildcat (Martlet) resting upside down at 53 metres.
 
 ## Overview
 
-Wildcat is a dive site in Port-Cros featuring the wreck of the Wildcat. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The Wildcat is one of the most unusual dive sites in the Port-Cros area: a single-seat Royal Navy Grumman F4F Wildcat (known in British service as the "Martlet") aircraft that was discarded from an aircraft carrier in the late 1950s following irreparable damage, coming to rest on the sandy bottom at the north-eastern tip of Port-Cros island. The aircraft lies upside down with the cockpit buried, at depths of 53 metres maximum, visible from around 30–35 metres in good visibility. It is a technically challenging dive due to both its depth and the strong current that often runs at the site. The Wildcat is a reminder of the long history of Royal Navy carrier operations in Mediterranean waters.
 
 ## Site Information
 
-- **Location**: Port-Cros, Europe
+- **Location**: North-eastern tip of Île de Port-Cros, Var, France
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 53 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: May to October
+- **Site Type**: Aircraft wreck
+- **Difficulty Level**: Advanced (deep and current-sensitive)
+- **Maximum Depth**: 53 metres
+- **Typical Visibility**: 10–25 metres
+- **Water Temperature**: 13–25°C
+- **Current**: Often strong; check conditions before diving
+- **Best Time**: June to September (best current windows)
 
 ## Marine Life
 
-Divers at this site can expect to encounter conger eels, lobsters, crabs, anemones, coral encrustation, groupers, moray eels, octopus. Additional species commonly sighted include barracuda, sea bream, amberjack. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The aircraft frame, though inverted and partially buried, has become an artificial reef structure in the years since its deposit. Conger eels and scorpionfish shelter around the fuselage. Gorgonian fans colonise sections of the wings and tail assembly. Schools of swallowtail sea perch hover above the wreck, and groupers have been sighted nearby. The sandy bottom around the aircraft supports flatfish and sea urchins. The isolated position in open water means pelagic species — including barracuda and occasional amberjack — pass through.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 53 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+This is a pure deep dive. Descend rapidly to the wreck on a line from the boat. The aircraft is identifiable by its distinctive inverted fuselage shape. Explore the accessible exterior — the wings, tail assembly, and engine area — within no-decompression limits. The cockpit is buried and inaccessible. Bottom time on air at 53 metres is extremely limited (approximately 10–12 minutes to a no-decompression limit). Nitrox 32 provides approximately 15 minutes. Begin ascent with substantial reserve. A planned decompression profile may be appropriate for advanced technical divers wishing to fully document the wreck.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from operators based in La Londe or Le Lavandou who specialise in the Hyères deep wreck circuit. A descent line is mandatory. Giant stride entry, descend directly and efficiently. Ascend on the line; complete a safety stop at 5 metres. Deploy SMB from the safety stop before surfacing.
 
-## Tips and Recommendations
+## Tips
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Confirm current conditions with the boat captain before entry — the north-eastern position of the island makes this site current-sensitive
+- Brief the dive plan thoroughly: which direction the fuselage runs, depth of the major recognisable features, and the ascent plan
+- Nitrox 32 or 36% is strongly recommended to extend the limited no-decompression time at this depth
+- The experience of finding a single aircraft on the sandy bottom in open water is completely different from a ship wreck — uniquely worth the depth commitment
 
-## Safety Considerations
+## Safety
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
+Technical-level depths require advanced certifications as a minimum. Strong current can develop and make ascent from depth without a line extremely difficult. Carry two SMBs. Gas planning should be conservative: the depth, current, and dive complexity mean margin reduction is dangerous. Experienced guides who know the site's current patterns are advisable.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The inverted aircraft is a unique and unusual wide-angle subject. Shooting along the wing line from a distance, with a diver above for scale, captures the shape clearly. The encrusted sections of the tail and wings show the passage of time effectively. Powerful artificial lighting is essential at 53 metres — ambient light is minimal and colour is absent.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

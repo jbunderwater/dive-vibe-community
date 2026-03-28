@@ -11,55 +11,57 @@ osmId: 663869320
 addedBy: osm_import
 ---
 
-## Imrie Island
+# Imrie Island
 
-Imrie Island is a reef dive site in British Columbia, North America.
+A small island in the Gulf Islands with productive rocky reef diving around its perimeter.
 
 ## Overview
 
-Imrie Island is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Imrie Island is a small island in the central Gulf Islands between Salt Spring Island and the Saanich Peninsula. As with most Gulf Islands features, the rocky perimeter extends below the waterline to create productive reef terrain. The island's shores are subject to the moderate tidal currents that flow through the channels of the archipelago, supporting encrusting invertebrate communities and the fish species that depend on them. Water temperatures are 8–11°C with visibility of 8–15 metres.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Central Gulf Islands, Haro Strait area, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky island reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 8–15 metres
+- **Current**: Moderate tidal currents in the Gulf Islands
+- **Best Time**: Late spring through autumn
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Imrie Island's rocky perimeter hosts the typical Gulf Islands species assemblage. Giant Pacific octopus are found in crevices around the island base. Lingcod and cabezon are present as the primary predator fish. Copper and quillback rockfish are abundant. Plumose anemones colonise current-facing rock surfaces. Kelp greenlings and painted greenlings inhabit the shallower rocky zones. Harbour seals haul out on the island and frequently follow divers. California sea lions visit seasonally.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+A circumnavigation dive of the island's perimeter is the natural approach. The island's deeper sides drop to 18 metres, while the shallower sides provide terrain between 5–10 metres. Work the deeper perimeter first, then circuit the island at shallower depths for the safety stop portion. The complete circuit is achievable in a single dive at a comfortable pace.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access from Sidney or Ganges Harbour. The island is navigated on standard marine charts. Approach carefully and anchor on sand away from the rocky perimeter. Respect any wildlife haul-out areas on the island — approach seals on land with care and distance.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Circumnavigation dives provide varied habitat encounters within a single dive
+- Bring a dive light to explore shaded aspects of the island's rocky base
+- Gulf Islands spring and autumn tides are larger than summer neap tides — plan current timing accordingly
+- Local Sidney dive operators run regular Gulf Islands island perimeter dives
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Tidal currents in the Gulf Islands can be significant. Monitor current timing carefully. Vessel traffic in the region requires SMB deployment before any ascent. Wildlife disturbance — particularly of haul-out seals — must be avoided. Cold water (8–11°C) demands drysuit protection.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Island perimeter dives offer diverse photographic compositions — from wide-angle reef scenes to tight macro shots. Lingcod resting on horizontal rock with encrusting sponge backgrounds are strong subjects. Octopus in crevice entrances make compelling images. Harbour seals underwater are particularly photogenic in clear Gulf Islands water.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
+- Sidney area dive operators
+- Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

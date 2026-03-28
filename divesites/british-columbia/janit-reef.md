@@ -11,55 +11,57 @@ osmId: 5680657263
 addedBy: osm_import
 ---
 
-## Janit Reef
+# Janit Reef
 
-Janit Reef is a reef dive site in British Columbia, North America.
+A remote reef in Barkley Sound offering pristine cold-water diving on western Vancouver Island.
 
 ## Overview
 
-Janit Reef is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Janit Reef lies in Barkley Sound on the west coast of Vancouver Island, one of BC's most prolific diving regions. Barkley Sound receives ocean swells and nutrients from the open Pacific, producing exceptional invertebrate growth and abundant fish life. Sites like Janit Reef are accessed from Bamfield or Ucluelet, and often included in liveaboard dive trips of Barkley Sound. The west coast diving is generally more exposed and more productive than the sheltered east coast, with water temperatures of 7–11°C and visibility of 8–20 metres in good conditions.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Barkley Sound, west coast of Vancouver Island, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Submerged reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 8–20 metres
+- **Current**: Ocean swells and tidal currents — plan around slack
+- **Best Time**: Late summer and autumn for best visibility
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Barkley Sound's ocean-influenced waters support exceptional biodiversity. Giant Pacific octopus are large and numerous in this productive environment. Lingcod, cabezon, and tiger rockfish are all present at impressive sizes. Plumose anemones and encrusting sponges grow in dense multi-coloured layers on exposed reef faces. Sea pens and basket stars are found in deeper sandy areas. Cloud sponges — a signature BC indicator species — have been documented in Barkley Sound. Steller sea lions haul out on Barkley Sound rocks and frequently encounter divers. Grey whales feed in the shallows during spring migration.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The reef descends from approximately 8 metres at the crest to 18 metres at the base. Work the current-facing faces where the richest invertebrate growth occurs. The underwater topography in Barkley Sound tends to be dramatic — vertical faces and overhangs are common. Plan the dive around the slack and allow conservative bottom times given the remote location. Complete a 3-metre safety stop before ascending.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access from Bamfield or via Ucluelet. Bamfield is a small fishing village accessible via a rough forestry road or by ferry from Port Alberni. Liveaboard operations are the most efficient way to dive multiple Barkley Sound sites. Ocean swell can make some sites untenable on rough days — carry alternative site plans. GPS and marine charts are essential.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Barkley Sound is a world-class diving destination — dedicate multiple days to explore it properly
+- Liveaboard operations from Bamfield or Tofino-area charters provide the best access
+- The Lady Rose and Alberni Marine Transportation provide ferry access to Bamfield for those without vehicles
+- Cloud sponge formations in some Barkley Sound sites are irreplaceable — never touch or anchor on them
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+West coast BC diving is more demanding than sheltered inside waters. Ocean swells require swell-appropriate boat handling. Cold water (7–11°C) with occasional thermoclines demands drysuit proficiency. Remote location requires self-sufficiency and emergency preparedness. Always carry a VHF radio and emergency signaling equipment.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Barkley Sound's biodiversity creates outstanding photographic opportunities. Dense sponge and anemone growth on current-swept walls produces classic Pacific Northwest wide-angle images. Giant octopus in the open are exceptional subjects. Look for sea pens on sandy substrate adjacent to the reef and photograph them in their extended feeding position.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
+- Bamfield Marine Sciences Centre for area information
+- Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

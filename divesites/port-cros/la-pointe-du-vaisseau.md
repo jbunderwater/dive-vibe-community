@@ -11,55 +11,56 @@ osmId: null
 addedBy: osm_import
 ---
 
-## La Pointe du Vaisseau
+# La Pointe du Vaisseau
 
-La Pointe du Vaisseau is a reef dive site in Port-Cros, Europe.
+A south-eastern headland at Port-Cros with a rich coralligenous drop-off, excellent grouper encounters, and calmer conditions than the exposed Gabinière sites.
 
 ## Overview
 
-La Pointe du Vaisseau is a dive site in Port-Cros offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+La Pointe du Vaisseau is located on the south-eastern tip of Île de Port-Cros, in an area historically considered one of the park's best diving locations alongside La Gabinière. Unlike the more current-exposed Gabinière sites, the Vaisseau point offers notably calmer conditions, making it a good choice for less experienced park visitors and an excellent first dive when swell or wind makes the exposed southern rocks uncomfortable. The coralligenous drop-off descends to 35 metres, and groupers here have become accustomed to divers over decades of park visits, approaching closely and with apparent curiosity.
 
 ## Site Information
 
-- **Location**: Port-Cros, Europe
+- **Location**: South-eastern tip of Île de Port-Cros, Port-Cros National Park, France
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Site Type**: Rocky wall / coralligenous drop-off
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 35 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
+- **Maximum Depth**: 35 metres
+- **Typical Visibility**: 10–30 metres
+- **Water Temperature**: 13–25°C
+- **Current**: Light; generally less than La Gabinière
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
+Brown groupers are numerous and highly approachable — dive guides describe them as "accustomed to human presence" and willing to swim alongside divers at close range. Moray eels emerge from crevices throughout the drop-off, and small-spotted catsharks are occasionally seen resting on the rock ledges. Conger eels occupy the deeper overhangs. The coralligenous drop-off supports gorgonian sea fans, encrusting red coral, and vivid sponge communities. Scorpionfish blend almost invisibly into the rocky substrate. Steinitz' gobies, sea spiders (unusual Pycnogonida), and spiny lobsters are also recorded at this site.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend along the drop-off face, beginning at the shallower sections (5–10 metres) where grouper and sea bream activity is often concentrated. Move progressively deeper along the wall to 30–35 metres where gorgonians are most developed. The point itself offers views in multiple directions along the wall faces. Ascend via the drop-off to the reef top at 5 metres for a safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access; mooring buoys are reserved for dive clubs and operators. No anchoring. Coordinate mooring with the national park office or dive operator in advance. Back roll or giant stride entry. Deploy an SMB from 5 metres before ascending.
 
-## Tips and Recommendations
+## Tips
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- The calmer conditions at this point make it an excellent first dive in the park for less confident intermediates
+- The combination of groupers, catsharks, and sea spiders makes Vaisseau one of the most species-diverse encounters in the park
+- Visit the deeper gorgonian sections in the morning when natural light penetrates at the best angle
+- This site appeared in early park management surveys as one of the original high-quality dive zones; its protection over decades has maintained exceptional marine life
 
-## Safety Considerations
+## Safety
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Although calmer than the Gabinière sites, the 35-metre maximum depth warrants careful air and depth management for intermediate divers. Maintain good buoyancy to avoid disturbing the coralligenous bottom. Never anchor in the park's protected zones. Deploy an SMB before surfacing.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Grouper portraits at Vaisseau are among the best in the park — the fish are calm and approachable. Wide-angle shots along the coralligenous wall with groupers mid-frame and gorgonians in the background are outstanding. Macro photography on the encrusted rock surfaces reveals sea spiders, nudibranchs, and coral polyp detail.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

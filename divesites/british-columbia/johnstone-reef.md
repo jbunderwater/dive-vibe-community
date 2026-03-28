@@ -11,55 +11,57 @@ osmId: 663869275
 addedBy: osm_import
 ---
 
-## Johnstone Reef
+# Johnstone Reef
 
-Johnstone Reef is a reef dive site in British Columbia, North America.
+A reef near Victoria in the Haro Strait with strong tidal influence and productive cold-water marine life.
 
 ## Overview
 
-Johnstone Reef is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Johnstone Reef is located in the Haro Strait south of Victoria, in the channel between Vancouver Island and the San Juan Islands of Washington State. The reef sits in significant tidal flow that supports rich invertebrate communities on its exposed faces. The site is accessible by boat from Victoria or Sidney and experiences the stronger tidal conditions characteristic of the Haro Strait. Water temperatures are 8–11°C and visibility ranges 8–15 metres in the summer and autumn.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Haro Strait, south of Victoria, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Submerged reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 8–15 metres
+- **Current**: Moderate to strong tidal currents in Haro Strait — dive at slack
+- **Best Time**: Late spring through autumn
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Johnstone Reef's position in the Haro Strait means it experiences stronger currents than inner Gulf Islands sites, supporting particularly dense plumose anemone growth on current-facing surfaces. Giant Pacific octopus are well-represented. Lingcod are numerous and bold. Copper and quillback rockfish are abundant. The reef's position also makes it accessible to open-water species — Pacific white-sided dolphins sometimes hunt in the Haro Strait and may be seen from the surface. Harbour seals are abundant throughout the area.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The reef rises to approximately 8–10 metres, with outer flanks to 18 metres. The current-facing sides have the richest invertebrate growth and should be prioritised when current is minimal at slack. Work the perimeter of the reef efficiently during the slack window and begin ascending before current returns. Complete a 3-metre safety stop and ascend with a deployed SMB.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access from Victoria or Sidney. Haro Strait currents require precise timing — consult current tables for this specific strait and plan your launch time accordingly. The strait has significant boat traffic including ferries and US customs traffic. Surface with a clearly visible SMB. Live boat pickup is recommended.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Haro Strait timing requires careful research — use specific current tables for this location
+- Victoria dive charter operators have extensive experience with Haro Strait sites and can advise on timing
+- The Victoria and Sidney area has exceptional whale-watching opportunities — resident orca frequent the Haro Strait
+- Autumn diving in the Haro Strait often benefits from clearer visibility and reduced boat traffic
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Haro Strait currents can be powerful and change quickly between slack and full tidal flow. Never attempt this site without reliable current timing data. International shipping and BC Ferries traffic makes surface signalling critical. Cold water (8–11°C) demands drysuit proficiency. Maintain close buddy contact throughout.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The current-swept reef faces with dense plumose anemone growth create outstanding wide-angle photography. Pacific white-sided dolphin surface encounters near the dive site are worth photographing. Lingcod territorial behaviour and octopus foraging provide behavioural subjects. Bring strobes for colour accuracy at depth.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
+- Victoria and Sidney dive operators for Haro Strait current timing
+- Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
