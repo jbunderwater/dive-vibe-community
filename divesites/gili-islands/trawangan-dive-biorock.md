@@ -13,55 +13,54 @@ addedBy: osm_import
 
 ## Trawangan Dive Biorock
 
-Trawangan Dive Biorock is a artificial dive site in Gili Islands, Asia.
+The flagship Biorock structure supported by the Trawangan Dive operation — a focus of conservation education and coral restoration on Gili Trawangan's house reef.
 
 ## Overview
 
-Trawangan Dive Biorock is a dive site in Gili Islands offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Trawangan Dive Biorock is the coral restoration structure operated and maintained by Trawangan Dive, one of the Gili Islands' most conservation-focused dive operators. Trawangan Dive has been a key supporter of the Gili Eco Trust's Biorock initiative and offers Biorock specialty courses alongside traditional dive training. The structure sits on the east coast house reef, within walking distance of the dive centre, and has been developing for years to create a maturing artificial reef habitat. The Biorock process has resulted in faster coral growth rates, higher bleaching survival rates, and improved reef biodiversity in the surrounding area.
 
 ## Site Information
 
-- **Location**: Gili Islands, Asia
+- **Location**: East coast Gili Trawangan (house reef), Gili Islands
 - **Entry Type**: Boat dive
-- **Site Type**: Artificial
+- **Site Type**: Artificial Reef / Biorock
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 15 m
+- **Typical Visibility**: 15–20 m
+- **Current**: Minimal
+- **Best Time**: Year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The mature structure hosts an established reef community. Lionfish, batfish, pufferfish, and sweetlips are resident. Turtles regularly visit the east coast Biorock cluster. The surrounding sandy substrate supports garden eels and cuttlefish. Nudibranchs and cleaner shrimps inhabit coral crevices.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend from the boat to the Biorock structure. Circle it systematically while observing coral growth zones and resident species. Extend the dive to the natural house reef portions adjacent to the structure. Total dive time 40–55 minutes. Ascend for a standard 3-minute safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat from Trawangan Dive or other Gili Trawangan operators. Accessible as a shore dive for those based at the dive centre. Calm east coast conditions. Entry via back roll or shore entry.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The Biorock speciality course at Trawangan Dive is an excellent way to contribute directly to reef restoration
+- The house reef character means this is also diveable as a relaxed night dive
+- Ask your dive guide about coral gardening opportunities during the dive
+- The structure is close enough to the beach to be enjoyed by snorkellers in the shallows
+- Combine with Good Heart house reef dive for a comprehensive east coast experience
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Maintain neutral buoyancy near the coral-covered frame to avoid fin strikes. Sharp metal edges may be present on the structure. Lionfish are venomous — observe without contact. Low-voltage electrical current in the system is completely safe for divers and marine life.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The Trawangan Dive Biorock makes a compelling documentary subject showing conservation in action. Fish in the artificial reef structure with divers exploring in the background. Macro on the coral growth patterns and encrusting organisms on the frame.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*

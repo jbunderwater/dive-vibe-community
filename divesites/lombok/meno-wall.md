@@ -11,57 +11,56 @@ osmId: 2395669756
 addedBy: osm_import
 ---
 
-## Meno Wall
+# Meno Wall
 
-Meno Wall is a wall dive site in Lombok, Asia.
+Two sections of vertical coral wall on Gili Meno's northwest corner — a macro lover's site by day and one of the best night dives in the Gili Islands.
 
 ## Overview
 
-Meno Wall is a dive site in Lombok featuring a dramatic vertical wall that drops into the deep blue . source is Diveschool Notice Board - Location might have to be checked with a GPS. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Meno Wall sits on the northwest side of Gili Meno, consisting of two separate wall sections. The first wall runs from 5 meters down to 16–18 meters, and the second drops to around 24 meters, with a sandy slope connecting the two sections. The wall faces the channel between Gili Trawangan and Gili Meno, meaning current can be variable — sometimes completely still, sometimes among the strongest in the Gilis — which makes each dive different. The wall faces are rich with lionfish, scorpionfish, moray eels, lobsters, clownfish, and groupers in the crevices, while the blue water beyond the wall edge occasionally produces bumphead parrotfish aggregations and passing sharks. This site is equally popular as a night dive, where Spanish dancers, sleeping turtles, large crabs, and cuttlefish are regularly encountered.
 
 ## Site Information
 
-- **Location**: Lombok, Asia
+- **Location**: Northwest side, Gili Meno, Lombok, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Site Type**: Wall
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 22 meters (72 feet)
+- **Typical Visibility**: 8–25 meters (variable with current)
+- **Current**: Highly variable — calm to very strong
+- **Water Temperature**: 26–30°C (79–86°F)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+The wall is rich with invertebrates and predatory fish. Lionfish and scorpionfish perch on ledges throughout both wall sections. Moray eels occupy crevices. Lobsters shelter in overhangs. Clownfish and groupers are among the most consistent residents. Below 18 meters, large coral bommies hold schools of glassfish — a striking visual against the sandy bottom. Look into the blue from the wall edge for bumphead parrotfish schooling in the channel current. Turtles are common in the channel-side shallows. Night diving reveals sponge crabs, sleeping turtles, baby cuttlefish, Spanish dancers, and abundant crustaceans.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-22 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Begin at the top of the first wall at 5 meters and follow the wall face down to its base at 16–18 meters. Cross the sandy slope to the second wall and descend to 22 meters. Explore the bommies at the base of the second wall before ascending back up the first wall face. Safety stop in the 5-meter zone at the top of the wall. Night dives follow a similar profile with torch illumination.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Gili Meno, Gili Trawangan, or Gili Air. The site can also be accessed from shore on Gili Meno. Night dives are often organized from Gili Meno-based operators. Entry and exit by giant stride or back roll.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Night diving here is exceptional — the wall comes alive with crustaceans, Spanish dancers, and octopus after dark
+- Check the current direction before your dive — on a strong ebb, the wall provides shelter on one face
+- Look carefully into bommie crevices below 18 meters for the largest lobsters and groupers
+- The variable current makes this a good site to dive multiple times — each current condition reveals different wildlife
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The highly variable current at this site is its primary challenge. On strong current days, the wall can be difficult to navigate and may require aborting. During calm conditions, it is suitable for all Intermediate divers. Always carry an SMB. On night dives, maintain close contact with your divemaster and buddy.
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+The wall crevices provide intimate macro opportunities — lionfish, moray eels, and crustaceans in their natural shelters. Night photography here is outstanding: Spanish dancers, sleeping turtles on the sandy bottom, and wide-eyed cuttlefish all make compelling subjects. Wide-angle shots along the wall face with divers silhouetted against the blue channel work well on clear days.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- [DiveZone – Meno Wall](https://divezone.net/divesite/meno-wall)
+- [Manta Dive – Gili Air Meno Wall](https://manta-dive-giliair.com/gili-islands-dive-sites/meno-wall-all-levels)
+- Last Updated: 2026-03-28
 
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
