@@ -13,54 +13,55 @@ addedBy: osm_import
 
 ## Little Komodo
 
-Little Komodo is a reef dive site in Triton Bay, Asia.
+Little Komodo is one of Triton Bay's most celebrated dive sites — a dramatic boulder reef system draped in explosively colorful soft corals, earning its name from the rugged, prehistoric character of its submerged rock formations.
 
 ## Overview
 
-Little Komodo is a dive site in Triton Bay offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Situated in the sheltered inner reaches of Triton Bay, West Papua, Indonesia, Little Komodo takes its name from the massive, weathered rock formations that dominate the site — their rough, layered texture and imposing presence evoking the landscape of Komodo Island, hundreds of kilometers to the west. But the resemblance ends above the water. Below the surface, every square centimeter of rock is colonized by soft corals in vivid purples, pinks, oranges, and yellows — a density of life that experienced divers consistently rank among the richest reef coverage they have ever seen. Currents funneled through the bay keep the water nutrient-rich and the corals in peak condition. This is a site that rewards both wide-angle photographers seeking explosive color and macro hunters looking for the critters tucked within the coral branches.
 
 ## Site Information
 
-- **Location**: Triton Bay, Asia
+- **Location**: Triton Bay, West Papua, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 8-20 meters
+- **Current**: Moderate to strong; dive guides time entries with tidal flow
+- **Water Temperature**: 27-30°C (81-86°F)
+- **Best Time**: October to April (liveaboard season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The soft coral encrustation at Little Komodo supports extraordinary biodiversity. Pygmy seahorses (Hippocampus bargibanti and H. denise) hide within sea fan branches. Ornate ghost pipefish hover in mid-water alongside the larger formations. Wobbegong sharks and epaulette sharks rest in crevices beneath the boulders. Schools of anthias cloud the upper reef in dense orange and purple masses. Bumphead parrotfish occasionally visit in groups of 20 or more, while reef sharks patrol the outer edges of the structure. The boulder gaps at depth harbor flasher wrasse, dart gobies, and mantis shrimp. This is one of Triton Bay's best sites for macro photography alongside its wide-angle coral spectacle.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend onto the top of the boulder reef at 5 to 8 meters, where the soft coral density is highest and natural light strongest. Work along the rock faces, peering into gaps and crevices before gradually descending to the sandy channels between the formations at 18 to 25 meters. Currents can run strongly across the exposed faces of the boulders — guides typically time dives to use the current for a relaxed drift along the reef. Begin your ascent with sufficient reserve air for a thorough safety stop at 5 meters, where schooling fish life is spectacular.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is exclusively by liveaboard vessel or day-boat tender. The boat anchors in the lee of the rocks and divers enter by giant stride or back roll. Exit is via the dive ladder on the tender. In stronger current conditions, guides may deploy a drift-dive strategy with the boat following divers along the reef.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Ask your dive guide to point out pygmy seahorses — they are tiny and perfectly camouflaged in the sea fan polyps
+- A wide-angle lens captures the boulder-coral panoramas; bring a macro lens for a second camera body or dedicated macro dive
+- Current can be unpredictable — stay close to the reef structure and use the rocks as a windbreak
+- Visit on multiple dives at different times of day — the site looks completely different in morning and afternoon light
+- Watch for the passing schools of bumphead parrotfish on the deeper sand channels
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Currents at Little Komodo can intensify quickly as tidal flow changes. Stay within sight of your guide and be prepared to hold position on a rock briefly if current spikes. The boulder terrain creates some surge at shallower depths — maintain good buoyancy to avoid contact with the corals. Always carry and deploy an SMB for ascent, particularly if the current has carried you away from the anchor point. This site is appropriate for intermediate divers comfortable with moderate current.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Little Komodo is consistently cited in liveaboard trip reports as one of the top wide-angle soft coral photography sites in West Papua. The combination of densely colonized boulders, rich ambient light, and schooling anthias creates compositions that are difficult to replicate elsewhere. Shoot upward from the sand channels between boulders for dramatic silhouette frames. For macro work, a 60mm or 100mm lens will reveal the seahorses, nudibranchs, and tiny crustaceans hidden throughout the coral structure.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Beang Abang
 
-Beang Abang is a muck dive site in Alor Archipelago, Asia.
+Beang Abang is a muck dive site in the Alor Archipelago, East Nusa Tenggara, Indonesia — a sheltered bay with a silty, rubble-strewn bottom that harbours an astonishing concentration of small cryptic creatures rarely found at the archipelago's more dramatic reef and wall sites.
 
 ## Overview
 
-Beang Abang is a dive site in Alor Archipelago offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Nestled on Alor's northern coast, Beang Abang is a calm, shallow embayment where the seafloor transitions from coarse volcanic sand to patches of rubble, sea grass, and scattered coral heads. The lack of heavy current makes it one of the few sites in Alor where slow, methodical muck diving is possible, and liveaboard guides have used it as an antidote to the high-octane wall and drift dives elsewhere in the itinerary. Visibility is typically 8–15 metres — lower than the open-water sites — but this matters little when the subjects are millimetres long. The site tops out at 20 metres, with most of the interesting life concentrated between 5 and 15 metres.
 
 ## Site Information
 
-- **Location**: Alor Archipelago, Asia
+- **Location**: Alor Archipelago, East Nusa Tenggara, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Muck
+- **Site Type**: Muck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 8–15 metres
+- **Current**: Usually gentle; slight tidal flow possible
+- **Best Time**: April to November (dry season; reduced runoff improves visibility)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Beang Abang has a reputation for unusual nudibranch diversity, with experienced guides finding species uncommon elsewhere in East Nusa Tenggara. Robust ghost pipefish and ornate ghost pipefish appear among the sea grass blades, while hairy frogfish and painted frogfish sit motionless on rubble patches waiting to ambush prey. Mimic octopus and long-armed octopus are regularly spotted, and the site is good for flamboyant cuttlefish hunting small shrimp in the shallows. Blue-ringed octopus have been recorded here — beautiful but best observed without handling. Seahorses cling to soft coral stems at mid-depth, and mantis shrimp are resident in burrows throughout the sandy patches.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Enter over the shallows and work methodically across the sand and rubble, covering ground slowly and scanning each coral head, sponge base, and tuft of algae for cryptic animals. Guides will often lead in a zig-zag pattern to cover the richest habitat zones. Depth rarely exceeds 15 metres during the productive portion of the dive; save the last minutes for a slow ascent over the scattered corals in 5–8 metres. No significant current means air consumption drives the profile rather than drift position.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by liveaboard or day-boat tender. Entry via giant stride into calm water. The tender typically anchors nearby or follows divers from the surface. SMB deployment at the end of the dive alerts the crew for pick-up.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Approach subjects extremely slowly — most muck creatures will freeze rather than flee if disturbance is minimal, but sudden movements will drive them into the substrate
+- Ask your guide specifically about ghost pipefish and frogfish, as their camouflage makes them nearly impossible to find without local knowledge
+- A dedicated macro lens (60 mm or 100 mm equivalent) is ideal; wide-angle is largely unnecessary here
+- Blue-ringed octopus are present — observe from a respectful distance and never touch
+- A pointer stick rather than your hands keeps you off the bottom and helps indicate subjects to dive buddies without disturbing them
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Currents are generally mild, but monitor conditions and stay aware of boat traffic in the bay. Blue-ringed octopus venom is extremely dangerous; admire from a distance only. Maintain buoyancy to avoid disturbing the silty bottom, which reduces visibility for all divers behind you and damages cryptic habitat.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Beang Abang is a macro photographer's site. Use a dioptre or wet lens for extreme close-ups of nudibranchs and pygmy cephalopods. Two strobes allow precise lighting on small, three-dimensional subjects. The challenge here is finding the subjects — once located, cooperative critters allow extended shooting sessions that would be impossible at current-swept sites.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

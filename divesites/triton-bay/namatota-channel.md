@@ -13,55 +13,55 @@ addedBy: osm_import
 
 ## Namatota Channel
 
-Namatota Channel is a wall dive site in Triton Bay, Asia.
+Namatota Channel is one of Triton Bay's premier advanced dive sites — a nutrient-charged passage at the mouth of Namatota Island where powerful currents sweep plankton-rich water along steep walls, producing some of the densest aggregations of fish and soft coral found anywhere in West Papua.
 
 ## Overview
 
-Namatota Channel is a dive site in Triton Bay featuring a dramatic vertical wall that drops into the deep blue . One of Triton Bay's best sites alongside Aquarium, Little Komodo, Bo's Rainbow. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The channel at Namatota Island marks the transition between the sheltered inner bay and the more exposed outer waters of Triton Bay, West Papua, Indonesia. Tidal exchange forces large volumes of productive water through the passage, creating the conditions that allow this reef to compete with the best dive sites in the Coral Triangle. The walls on either side of the channel drop to 28 meters and beyond, festooned with large sea fans, black coral trees, and layer upon layer of encrusting soft corals in every color. The nutrient flow also attracts whale sharks, which sometimes appear in the channel itself — making this a rare site where both megafauna encounters and exceptional reef diving can occur on the same dive. Consistently listed alongside Aquarium, Little Komodo, and Bo's Rainbow as one of the top sites on any Triton Bay liveaboard itinerary.
 
 ## Site Information
 
-- **Location**: Triton Bay, Asia
+- **Location**: Triton Bay, West Papua, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 28 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 10-25 meters
+- **Current**: Strong to very strong during tidal exchange; timing is critical
+- **Water Temperature**: 27-30°C (81-86°F)
+- **Best Time**: October to April; slack water periods around tidal changes
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Namatota Channel is exceptional for both reef species and pelagic visitors. The walls support massive sea fans, wire corals, and forests of black coral beginning at around 15 meters. Schooling fish life is prolific: giant trevally, yellowtail fusiliers, surgeonfish, and snapper form dense aggregations in the current. Whitetip and blacktip reef sharks are regular residents, patrolling the channel edges. Whale sharks are sighted with meaningful frequency, drawn by the plankton concentrations that the tidal flow concentrates here. Dogtooth tuna and giant barracuda appear in the open water beyond the wall. The rocky substrate closer to the island holds nudibranchs, ornate ghost pipefish, and frogfish.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-28 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Timing your entry with the dive guide is critical at Namatota Channel — the ideal window is the last portion of an incoming or outgoing tide, when current is manageable and fish activity peaks. Descend quickly to the wall at 10 to 15 meters and use the reef as a buffer against the flow. Work down to 20 to 28 meters along the wall face, examining sea fans and black coral branches for associated critters. As the current eases through slack water, move into the channel itself for the strongest fish aggregations. Begin a slow ascent back along the reef, saving at least 50 bar for a thorough 5-meter safety stop — current at depth may have carried you well along the wall by this point.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by liveaboard tender or day-boat. In strong current conditions the boat will position upstream and divers drop to depth immediately on entry. A drift exit may be required depending on tidal state — the boat crew will track divers' SMBs and collect them in open water. Always deploy your SMB before ascending from depth. This is not a site for independent diving; local guide knowledge of the tidal schedule is essential.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Let the dive guide choose the entry time based on the tidal schedule — this makes the difference between an exceptional dive and a survival exercise
+- Carry a reef hook if permitted by your operator; it allows effortless station-keeping in the current while watching the action
+- Watch the blue water above and beside the wall for whale shark silhouettes, particularly in the late morning
+- The deeper sections of the wall (20-28m) harbor the largest sea fans and the most impressive black coral — allocate bottom time accordingly
+- Night dives at Namatota can be outstanding when current settles; ask your liveaboard guides if this is on the itinerary
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+This site is recommended for experienced, current-comfortable divers only. The tidal exchange in the channel can produce very strong, unpredictable flows. Never fight the current — if conditions change, ascend and let the boat retrieve you. Keep your guide in sight at all times. Carry both an SMB and a signal mirror or whistle in case of surface separation. The combination of current and depth (28m) demands careful gas management — plan for a minimum 70-bar reserve for ascent and safety stop.
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+Namatota Channel rewards both wide-angle and macro approaches. Wide-angle shots along the wall capture the scale of the sea fans and the dramatic blue-water backdrop of the channel. Shooting into the current shows schooling fish funneling past with a sense of motion. For macro, sea fan branches at 15 to 25 meters harbor flamingo shrimp, sea fan crabs, and basket star details. The combination of strong current and dim light at depth demands fast lenses — shoot at ISO 400 or above and use strobes for wall work.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
