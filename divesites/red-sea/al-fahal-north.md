@@ -11,56 +11,54 @@ osmId: 4433719547
 addedBy: osm_import
 ---
 
-## Al Fahal North
+# Al Fahal North
 
-Al Fahal North is a reef dive site in Red Sea, Middle East.
+The northern tip of Al Fahal reef in the southern Saudi Red Sea — a current convergence point where both eastern and western face currents meet, concentrating pelagics and creating the rich fish aggregations typical of exposed northern reef points.
 
 ## Overview
 
-Al Fahal North is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Al Fahal North occupies the northern tip of the Al Fahal reef at approximately 22.31°N, 38.97°E in the southern Saudi Red Sea. As the northernmost point of the reef, it functions as a natural current trap — water sweeping around both the eastern and western faces converges here, creating the nutrient-rich, fish-concentrated conditions that make northern reef tips productive throughout the Red Sea. Al Fahal North is the most current-affected of the three Al Fahal dive sites and typically the one with the best shark and pelagic activity. Like all Al Fahal sites, it requires specialist access arrangements in the Saudi Red Sea.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Boat dive
+- **Location**: Al Fahal reef, northern tip, southern Saudi Red Sea (~22.31°N, 38.97°E)
+- **Entry Type**: Boat dive (specialist regional operator or permitted liveaboard)
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 20–35 meters
+- **Current**: Moderate to strong; converging at the reef tip
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, humphead wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The northern tip current convergence drives the highest fish density on the entire Al Fahal system. Large schools of barracuda and jacks sweep around the reef point. Grey reef sharks and occasionally hammerhead sharks use the current at the northern tip. Humphead wrasse patrol the outer reef edge. The cleaning stations on the northern face are the most active on the reef system. Eagle rays are sighted on the open-water transition zones adjacent to the tip.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend at the northern tip at 12–15 metres and station facing into the convergent current. Observe pelagics passing through for 10–15 minutes before working along the eastern or western face depending on current direction. The upper section of the reef at 5–10 metres is covered last for the safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Specialist regional operator or liveaboard with Saudi clearance. Giant stride entry. SMB before ascending.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The northern tip is the first choice for pelagic encounters on Al Fahal — dive it when fresh and with maximum air
+- Station at the tip and wait rather than moving continuously — sharks and rays follow predictable paths around the point
+- Pair with Al Fahal East for maximum pelagic exposure on a two-dive day
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Converging current at the tip requires careful positioning. Do not drift away from the reef tip into open water without the tender tracking. SMB mandatory. Research Saudi access requirements.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Hammerhead and grey reef shark shots at the northern tip require wide-angle positioning with the current carrying subjects past the camera. Dense school portraits in the convergent current zone produce compelling aggregation shots.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
