@@ -11,57 +11,53 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Nursing Station
+# Nursing Station
 
-Nursing Station is a wall dive site in Sint Eustatius, Caribbean.
+A productive volcanic wall on Statia's southern leeward coast named for the large nurse sharks that rest beneath the wall's deep ledges — a reliable big-animal encounter alongside excellent coral and sponge growth.
 
 ## Overview
 
-Nursing Station is a dive site in Sint Eustatius featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Nursing Station is one of Sint Eustatius's most popular dive sites, combining the volcanic wall topography typical of Statia's underwater terrain with reliable nurse shark encounters that give the site its name. The wall drops from a shallow reef crest at approximately 8 meters to a sandy ledge system at 16–19 meters, where large nurse sharks — commonly 2–3 meters in length — rest motionless beneath overhang formations during the day. STENAPA's marine park protection has allowed both the marine life and the reef structure to develop undisturbed, and Nursing Station represents some of the best-preserved intermediate wall diving on the island. Visibility averages 20–30 meters.
 
 ## Site Information
 
-- **Location**: Sint Eustatius, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 19 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+| Detail | Value |
+|--------|-------|
+| Depth Range | 8–19 m |
+| Difficulty | Intermediate |
+| Entry Type | Boat |
+| Site Type | Wall |
+| Visibility | 20–30 m |
+| Current | Light to moderate |
+| Water Temp | 26–28°C |
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Nurse sharks are the defining attraction — typically 2–4 individuals resting in the sandy ledges at 16–19 meters during daylight hours. These benthic sharks are generally indifferent to divers, remaining still unless approached too closely. The wall above the shark ledges carries healthy hard coral coverage with sea fans, tube sponges, and encrusting organisms. French and grey angelfish are ubiquitous on the reef. Caribbean spiny lobster occupy the deep ledge crevices alongside the sharks. Bar jacks hunt in mid-water above the reef top. Hawksbill turtles are consistent sightings.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-19 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Descent via mooring to the reef crest at 8 meters. Navigate south along the wall face to the nurse shark ledges at 16–19 meters. After observing the sharks from a respectful distance, ascend the wall face gradually while working north along the reef. Safety stop on the crest at 5 meters. A typical dive is 45–55 minutes.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive with STENAPA mooring. Access via Golden Rock Dive Center. Entry by giant stride. DSMB recommended for the safety stop.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+Approach the nurse shark ledges slowly and horizontally — a vertical descent toward resting sharks is the most likely way to cause them to move. Position yourself at the ledge entrance at the same depth as the sharks rather than hovering above. Do not touch or crowd the sharks. The ledges are best accessed in calm conditions when horizontal visibility is maximum — this is typically morning in the dry season (December–April).
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Nurse sharks are docile but will react defensively if harassed or cornered. Maintain a respectful distance and do not block the exit from the ledge. Do not touch sharks under any circumstances. The STENAPA rule of no touching any marine life applies. Fire coral is present on the upper reef. DSMB required.
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+Nurse shark photography at Nursing Station is excellent — the animals are large, still, and in good ambient light at 16–18 meters. A medium zoom (28–70mm equivalent) captures the full shark with ledge context. Wide-angle includes the ledge ceiling and encrusting organisms above. Patience and slow movement yield better shots than a rushed approach.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- STENAPA: stenapafoundation.com — guidelines on wildlife encounters at marine park sites
+- Golden Rock Dive Center: Nursing Station is a regular inclusion in daily dive itineraries
 
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

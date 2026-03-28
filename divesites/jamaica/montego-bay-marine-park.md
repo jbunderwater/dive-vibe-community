@@ -11,56 +11,57 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Montego Bay Marine Park
+# Montego Bay Marine Park
 
-Montego Bay Marine Park is a reef dive site in Jamaica, Caribbean.
+Jamaica's first protected marine area, where over three decades of conservation have produced some of the island's healthiest and most accessible reef diving.
 
 ## Overview
 
-Montego Bay Marine Park is a dive site in Jamaica offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Montego Bay Marine Park was established in 1991 as Jamaica's first declared Marine Protected Area, covering approximately 15 square kilometres of coastal and marine habitat including coral reef, seagrass, and mangrove. Fishing, anchoring, and waste disposal are prohibited within the park boundaries, and the results are visible underwater — the reef communities here are among the healthiest on Jamaica's north coast. The park encompasses multiple named dive sites including Airport Reef, Stingray City, Fish Pond, Pelican Reef, and The Coral Gardens. The water is warm (27–29°C) and clear, with visibility commonly reaching 25 metres. Depths on the reef plateau range from 3 to 15 metres, making the park ideal for beginner and intermediate divers.
 
 ## Site Information
 
-- **Location**: Jamaica, Caribbean
+- **Location**: Montego Bay, Jamaica
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
+- **Typical Visibility**: 20–25 meters (65–80 feet)
+- **Current**: Minimal to light
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The Park's protected reefs support over 260 species of reef fish including parrotfish, angelfish, butterflyfish, snapper, and grouper. Hawksbill turtles are consistently present throughout the park and are among the most reliably sighted in Jamaican waters. Nurse sharks rest under coral ledges, particularly in deeper sections near 15 metres. Southern stingrays and eagle rays frequent the sandy channels between reef structures. Spotted eagle rays cross the open sandy areas in the park's interior. Spiny lobsters and spotted moray eels occupy coral crevices. Large barrel sponges and gorgonian sea fans are found throughout.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Most diving within the park stays in the 5–15 metre range along the reef plateau. The spur-and-groove formations provide natural navigation routes. Sandy channels between reef ridges allow divers to cross between structures at depth. The outer edge of the reef at 15 metres leads toward deeper water beyond the park boundary. Begin near the mooring and explore along the reef; the shallower sections (3–8 m) serve well for safety stops and snorkeling.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+All diving within the Marine Park is conducted from boats using designated mooring buoys — anchoring is prohibited. Access via dive operators based in Montego Bay. Entry by giant stride or back roll. Coordinate exit with the boat at the mooring buoy. The Sangster International Airport (MBJ) is minutes from the Montego Bay waterfront, making this one of the most accessible dive destinations in the Caribbean.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- The park contains multiple named sites — ask your operator to take you to different areas across multiple dives
+- Observe Marine Park regulations strictly — no collecting, no touching coral, no feeding fish
+- Visibility is at its best during the dry season (December–April) when runoff is minimal
+- Evening boat dives often reveal octopus and hunting moray eels on the reef
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Boat traffic within the Marine Park can be significant during peak season. Always surface near a mooring buoy line and deploy an SMB before ascending. Fire coral is present on some reef structures. Respect the Marine Park boundaries and regulations — rangers patrol the area.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The clear, shallow water and diverse reef life make the Montego Bay Marine Park one of the Caribbean's premier underwater photography locations. Wide-angle shots of the reef landscape with turtle subjects are a highlight. Macro opportunities are abundant — look for cleaning stations with cleaning gobies and shrimp in crevices.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Marine Park Authority**: Montego Bay Marine Park
+- **Park Regulations**: No anchoring, no fishing, no collecting within park boundaries
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

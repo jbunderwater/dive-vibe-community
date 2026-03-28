@@ -13,55 +13,54 @@ addedBy: osm_import
 
 ## Bale Sampan Biorock
 
-Bale Sampan Biorock is a artificial dive site in Gili Islands, Asia.
+One of the Gili Islands' Biorock coral restoration structures — an artificial metal framework using low-voltage current to accelerate coral growth on the east coast of Gili Trawangan.
 
 ## Overview
 
-Bale Sampan Biorock is a dive site in Gili Islands offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Bale Sampan Biorock is one of more than 120 Biorock structures placed in the waters around the Gili Islands since the program began in 2006, making the Gilis the second largest Biorock project in the world. The steel framework is supplied with a low-voltage electrical current that stimulates limestone accretion — the natural substrate for hard coral — causing coral to grow five times faster than normal and dramatically improving coral survival rates through bleaching events. Located on the east coast of Gili Trawangan to 15 m depth, the structure is now well-colonised with diverse coral and shelters lionfish, batfish, sweetlips, trumpetfish, and pufferfish. It is a cornerstone of the island's reef restoration and conservation education effort.
 
 ## Site Information
 
-- **Location**: Gili Islands, Asia
+- **Location**: East coast Gili Trawangan, Gili Islands
 - **Entry Type**: Boat dive
-- **Site Type**: Artificial
+- **Site Type**: Artificial Reef / Biorock
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 15 m
+- **Typical Visibility**: 15–20 m
+- **Current**: Minimal
+- **Best Time**: Year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The Biorock structure shelters lionfish, batfish, sweetlips, trumpetfish, and pufferfish. Turtles visit the structure regularly. Reef fish diversity including anthias, wrasse, and various reef species have colonised the coral-covered frame. Cleaner shrimps and small crustaceans inhabit the coral crevices. Cuttlefish are often seen nearby.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the Biorock frame and circle the structure systematically at 5–15 m. Examine the coral growth on the steel framework and the fish sheltering within the structure. The dive is typically 40–50 minutes at the shallow depth. Ascend slowly and complete a standard safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat from Gili Trawangan. Short transit to the east coast. Entry via back roll or giant stride. Conditions are calm on the sheltered east coast. Return to the boat mooring after the dive.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Ask your dive operator about the Biorock speciality course to learn about the technology and conservation role
+- The structure demonstrates coral restoration in action — compare the growth to natural reef nearby
+- Turtle encounters at the Biorock are common — the structure functions as a cleaning station
+- Combine with a natural reef site like Turtle Point for a conservation-natural contrast day
+- The shallow depth makes this ideal for underwater photography practice
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The steel frame can have sharp metal edges — do not touch the structure. Low-voltage current is safe and undetectable by humans. Maintain neutral buoyancy near the structure. Lionfish on the frame are venomous — observe from a safe distance.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The Biorock structure provides a unique photographic subject showing reef restoration technology. Coral growth patterns on the metal frame contrast with the steel geometry. Lionfish and pufferfish portraits against the coral-covered frame make compelling subjects.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*

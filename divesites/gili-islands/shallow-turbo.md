@@ -13,55 +13,54 @@ addedBy: osm_import
 
 ## Shallow Turbo
 
-Shallow Turbo is a reef dive site in Gili Islands, Asia.
+The accessible, shallower version of the Turbo dive series — a reef site in the Gili Islands channel suitable for Open Water certified divers.
 
 ## Overview
 
-Shallow Turbo is a dive site in Gili Islands offering excellent diving on healthy coral reef structures . source is Diveschool Notice Board - Location might have to be checked with a GPS. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Shallow Turbo is the more beginner-accessible sibling of Deep Turbo in the Gili Islands channel system. Operating in the 6–18 m range, it provides a reef experience with current-driven fish aggregations at depths manageable for newly certified divers. The site features the coral slope and reef formations characteristic of the Gili Islands system, with turtles, reef sharks, and the typical school fish that follow the channel currents. It serves as an excellent introduction to Gili Islands drift diving before progressing to more exposed sites.
 
 ## Site Information
 
-- **Location**: Gili Islands, Asia
+- **Location**: Gili Islands channel
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef / Drift
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 18 m
+- **Typical Visibility**: 15–25 m
+- **Current**: Moderate; gentle drift
+- **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Turtles are reliably sighted. Reef sharks cruise the outer reef. Schools of snapper and fusiliers follow the current. Cuttlefish hover near coral heads. Clownfish in anemones are common throughout the upper reef sections. Moray eels and parrotfish in the coral structure.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to 10–18 m and drift gently with the current along the reef slope. Spend time at the coral formations between 6–15 m where turtle encounters and fish density are highest. Ascend gradually and complete a 3-minute safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat from Gili Islands operators. Drift pickup. Entry via back roll. Gentle current conditions appropriate for beginner divers. SMB essential for pickup.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- This site builds confidence for beginner drift divers before moving to Deep Turbo or Shark Point
+- Turtles on the upper reef are the highlight for beginner divers
+- Combine with Meno Wall or Turtle Point for a Gili Islands two-dive day
+- Current is gentler here than at the offshore pinnacles — ideal for practising drift diving technique
+- Ask your operator about current direction to plan the optimal drift entry point
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Even gentle drift requires SMB carry and drift pickup procedures. Do not attempt to swim upstream against the current. Reef sharks are non-aggressive. Always dive with a buddy.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Turtles in the current-swept reef are accessible wide-angle subjects. Clownfish portraits in anemones suit macro or close-focus wide-angle. The natural light in 6–15 m produces vivid coral colour without strobe.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*

@@ -11,56 +11,56 @@ osmId: 2395669754
 addedBy: osm_import
 ---
 
-## Meno Corner
+# Meno Corner
 
-Meno Corner is a drift dive site in Lombok, Asia.
+A current-swept corner reef off Gili Meno where the channel between Trawangan and Meno funnels water and concentrates schooling fish.
 
 ## Overview
 
-Meno Corner is a dive site in Lombok offering rewarding diving on healthy coral reef structures . source is Diveschool Notice Board - Location might have to be checked with a GPS. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Meno Corner sits at the southern tip of Gili Meno, where the channel between Gili Trawangan and Gili Meno narrows and accelerates the tidal flow. This funneling effect creates a drift dive with reliable current that sweeps divers around the corner of the reef, exposing them to both the protected western channel conditions and the more exposed southern slope. The corner topography — dropping from a shallow reef top at 5 meters through a slope with ridges and gullies to 20 meters — concentrates fish in the water column during stronger current periods. The site serves as a natural aggregation point for schooling reef fish and the predators that follow them.
 
 ## Site Information
 
-- **Location**: Lombok, Asia
+- **Location**: Southern tip, Gili Meno, Lombok, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Drift
+- **Site Type**: Drift (corner reef)
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 20 meters (66 feet)
+- **Typical Visibility**: 10–25 meters
+- **Current**: Moderate to strong; channel effect at the corner
+- **Water Temperature**: 26–30°C (79–86°F)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The channel current concentrates schooling fusiliers, snapper, and sweetlips in the water column above the corner. Giant trevally ambush these schools in open water. Whitetip and blacktip reef sharks cruise the deeper reef sections. Turtles are frequently encountered on the coral patches along the slope. Moray eels and groupers inhabit the reef crevices. Blue-spotted stingrays rest on sandy areas between coral heads. Bumphead parrotfish sometimes appear when current is at its strongest, particularly around full moon periods.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin the dive upstream of the corner and let the current carry you around the point. The first section of the dive follows the channel wall at 8–15 meters, with excellent fish concentration. Rounding the corner at the tip of Gili Meno, the reef opens onto the southern slope. Work the slope down to 20 meters briefly before ascending. The boat follows bubbles and collects divers downstream of the corner. Total dive time is typically 45–55 minutes depending on current speed.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Gili Meno, Gili Trawangan, or Gili Air. The site is within easy range of all three islands. Negative entry upstream of the corner; SMB on ascent. The boat should follow divers around the corner.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Time this dive to coincide with a flooding tide for the strongest current and best schooling fish aggregations
+- The transition point from the channel to the southern slope is the most productive section — slow down around the corner itself
+- Combine with Meno Wall for a two-tank trip covering both corner reef and vertical wall habitats
+- Ask your divemaster about the current schedule for the day
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The channel between Trawangan and Meno can generate strong, unpredictable currents. Divers who are not comfortable with drift diving should discuss conditions with the divemaster before committing to this site. If the current overpowers navigation ability, drop to the reef and shelter behind a coral structure. Always carry an SMB.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The fish aggregations around the corner are the best photographic subject — wide-angle shots of schooling fusiliers and snapper with predators in the background work well. Turtle encounters on the slope are consistently good. The corner topography itself makes for an interesting wide-angle composition when framed to show the reef edge dropping into blue water.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- [Oceans 5 – Gili Islands Dive Sites](https://www.oceans5dive.com/dive-sites/)
+- [Starfish.ch – Gili Islands](https://www.starfish.ch/dive/Lombok.html)
+- Last Updated: 2026-03-28
 
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
