@@ -13,55 +13,54 @@ addedBy: osm_import
 
 ## Buoyancy
 
-Buoyancy is a artificial_reef dive site in Koh Tao, Asia.
+Koh Tao's dedicated buoyancy training site — purpose-built artificial structures and coral nurseries adjacent to the Twins pinnacles.
 
 ## Overview
 
-Buoyancy is a dive site in Koh Tao offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Buoyancy World (locally called Buoyancy) was purpose-built by Koh Tao's dive centres to provide a dedicated training and skill-building site that relieves pressure on the more popular natural reefs. Located just north of the Twins dive site near Koh Nang Yuan, the site features artificial structures including a miniature shipwreck, giant octopus sculpture, and buoyancy practice hoops alongside coral nursery frames that contribute to reef restoration. The sandy bottom at 10–15 m provides an ideal environment for buoyancy exercises while the structures attract natural marine life over time.
 
 ## Site Information
 
-- **Location**: Koh Tao, Asia
+- **Location**: North of Twins, near Koh Nang Yuan, Koh Tao
 - **Entry Type**: Boat dive
-- **Site Type**: Artificial_Reef
+- **Site Type**: Artificial Reef / Training
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 15 m
+- **Typical Visibility**: 10–18 m
+- **Current**: Minimal
+- **Best Time**: Year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The artificial structures attract fish as the site matures. Triggerfish and parrotfish visit the coral nursery frames. The giant octopus sculpture has become a cleaning station for fish. Sand-dwelling species including garden eels, cuttlefish, and stingrays inhabit the sandy bottom between structures. Small reef fish shelter around the growing coral fragments.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the sandy bottom at 10–15 m and navigate between the purpose-built structures. Practice buoyancy exercises through the hoops before exploring the coral nursery area. The dive is typically 40–50 minutes at this shallow depth. Ascend slowly from the sandy bottom for a standard safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat from Koh Tao (approximately 10 minutes). Entry via back roll or giant stride. Conditions are consistently calm and minimal current. Typically combined with a Twins dive on the same boat trip.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Ideal for pre-certification buoyancy exercises before diving more complex natural sites
+- The coral nursery area is a gentle introduction to reef conservation in action
+- Combine with Twins in the same dive by swimming between the two adjacent sites
+- Works well as the second dive when air supply is lower after a deeper first dive
+- The miniature wreck is a fun swim-through for beginners practising overhead navigation
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Conditions are consistently calm and suitable for the most inexperienced divers. Standard buoyancy care applies near coral nursery frames. Avoid stirring sand near the structures which reduces visibility and disturbs critters.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The giant octopus sculpture makes a quirky wide-angle subject with a diver in the frame. Coral nursery frames provide context shots showing reef restoration in progress. The clean sandy bottom and bright natural light produce well-exposed images for beginner underwater photographers.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*

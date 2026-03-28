@@ -11,55 +11,53 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Ladder Labyrinth
+# Ladder Labyrinth
 
-Ladder Labyrinth is a pinnacle dive site in Saba, Caribbean.
+A network of connected volcanic pinnacles near Saba's historic Ladder Bay, forming an underwater maze of swim-throughs, crevices, and arches encrusted with sponges and sea fans.
 
 ## Overview
 
-Ladder Labyrinth is a dive site in Saba offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Ladder Labyrinth takes its name from both the historic Ladder Bay — the traditional landing point cut into Saba's cliffs before the island had a road — and the maze-like underwater topography below. The site consists of several low volcanic pinnacles and rocky ridges forming a convoluted terrain of passages, overhangs, and swim-throughs between 8 and 20 meters. The shallow profile and somewhat sheltered position make this an accessible intermediate site that rewards slow, exploratory diving. The Saba Marine Park protection has allowed the encrusting organisms — orange and yellow tube sponges, sea fans, cup corals — to colonise every available surface. Visibility is 20–30 meters.
 
 ## Site Information
 
-- **Location**: Saba, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Pinnacle/seamount
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+| Detail | Value |
+|--------|-------|
+| Depth Range | 8–20 m |
+| Difficulty | Intermediate |
+| Entry Type | Boat |
+| Site Type | Pinnacle |
+| Visibility | 20–30 m |
+| Current | Light to moderate |
+| Water Temp | 25–28°C |
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The complex structure of Ladder Labyrinth creates exceptional habitat diversity, with micro-environments inside swim-throughs and overhangs that shelter different species from those on the open reef. Copper sweepers and glassfish school densely inside the larger passages, creating glittering clouds backlit against the openings. Caribbean spiny lobster are abundant beneath overhangs. Toadfish and frogfish have been recorded at this site, occupying cryptic positions on sponge-encrusted ledges. Hawksbill turtles are common throughout. Banded butterflyfish and foureye butterflyfish occupy the outer reef areas.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Divers descend the mooring and enter the labyrinth from the north end, working south through the passages while maintaining depth between 12–20 meters. The swim-throughs range from wide passages that accommodate two divers abreast to tighter crevices best explored solo. A typical dive circuit of the labyrinth takes 40–50 minutes. The sandy floor of each chamber provides stable hovering points while observing the walls of organisms around you.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access only from Fort Bay. Permanent mooring buoy maintained by the Saba Conservation Foundation. Entry by giant stride. The shallow maximum depth (20 m) makes this a good site for longer, relaxed dives with ample bottom time.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+Take your time in Ladder Labyrinth — this is not a fast-swimming site. The reward is in looking closely at every surface. Bring a torch for the deeper swim-through sections where natural light diminishes. The interior of passages is richest in macro life, particularly on the walls just inside each entrance. The site is an excellent second or third dive of the day when deeper pinnacles have been covered.
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+The swim-throughs are all open (no overhead environment) but narrow sections require attention to buoyancy to avoid disturbing the encrusted walls. Maintain awareness of your position relative to the mooring line. Current can push through the passages, making navigation inside the labyrinth feel more complex — follow your guide's planned route. DSMB required for surface ascent.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Ladder Labyrinth is one of Saba's best macro sites. The interior walls of passages are covered with subjects — tube sponges, basket stars, and the occasional frogfish or seahorse. A wide-angle lens suits the swim-through entrance shots with silhouettes. Carry a torch or video light for the darker interior chambers.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- Saba Conservation Foundation: maps of dive site locations including Ladder Labyrinth
+- Sea Saba and Saba Divers both offer guided dives at this site
 
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
