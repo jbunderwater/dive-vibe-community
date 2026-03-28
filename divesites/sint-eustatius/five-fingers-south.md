@@ -11,55 +11,53 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Five Fingers South
+# Five Fingers South
 
-Five Fingers South is a reef dive site in Sint Eustatius, Caribbean.
+Five finger-like volcanic rock formations extending from Statia's southern coast create an underwater terrain of ridges, channels, and coral-covered spurs accessible to intermediate divers.
 
 ## Overview
 
-Five Fingers South is a dive site in Sint Eustatius offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Five Fingers South takes its name from the five distinct rocky ridges extending seaward from the southern coastline of Sint Eustatius, each forming an underwater spur at depths of 8–20 meters with sandy channels running between them. The volcanic geology of Statia — the island is dominated by the inactive Quill volcano — creates a distinctive rugged underwater topography that is different from most Caribbean reef diving. Each spur carries dense hard coral coverage on its crest and sides, with encrusting sponges and sea fans on the sheltered undersides. The southern position of this site means it can experience some surge and current from the Caribbean, making it more dynamic than the sheltered leeward sites. Visibility is 20–30 meters.
 
 ## Site Information
 
-- **Location**: Sint Eustatius, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+| Detail | Value |
+|--------|-------|
+| Depth Range | 8–20 m |
+| Difficulty | Intermediate |
+| Entry Type | Boat |
+| Site Type | Reef |
+| Visibility | 20–30 m |
+| Current | Moderate |
+| Water Temp | 26–28°C |
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The five-spur structure creates diverse micro-habitats. The ridges' crests host brain corals and sea fans with schooling blue tang and parrotfish. The channels between spurs are patrolled by barracuda and bar jacks. The sandy channel floors host southern stingrays and garden eels. Caribbean spiny lobster occupy the overhangs on the undersides of the spurs. Hawksbill turtles are regular visitors throughout the site. The southern exposure occasionally brings pelagic species including spotted eagle rays sweeping through the channels.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descent via mooring to the northernmost spur crest, then navigate southward through the channel system, descending to 18–20 meters between spurs before ascending each spur crest in turn. The five-finger plan allows a natural south-to-north return dive, working the eastern face of the spurs on the return. Bottom time at 18 meters: approximately 50 minutes.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive with STENAPA mooring. Access via Golden Rock Dive Center. Entry by giant stride. The moderate current at this site means DSMB deployment for the safety stop is advisable.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+The channels between the five spurs are the most dynamic part of the dive — current concentrates here and so do the pelagic fish species. Spend time in the saddles between spurs at 16–20 meters looking for rays and jacks. The spur crests at 8–12 meters are excellent for fish photography in strong ambient light. This site is a good complement to the wreck and historical sites on the main leeward coast.
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Moderate current can flow through the spur channels — maintain awareness of drift direction throughout the dive. The southerly exposure means surge can develop when northern swell wraps around the island. Fire coral is present on the spur crests. DSMB required.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The finger-like spur topography provides strong compositional leading lines for wide-angle photography. The channels between spurs frame divers effectively. Sandy channel floors with encrusted volcanic walls on either side create the distinctive visual character of this site. Fish portraits on the spur crests in morning light are excellent.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- STENAPA: stenapafoundation.com — dive site maps and conditions
+- Golden Rock Dive Center: guided dives at Five Fingers South
 
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

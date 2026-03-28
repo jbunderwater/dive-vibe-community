@@ -11,56 +11,56 @@ osmId: 2395669752
 addedBy: osm_import
 ---
 
-## Malang
+# Malang
 
-Malang is a reef dive site in Lombok, Asia.
+Takat Malang — a deep reef off Gili Air with dramatic underwater canyons, pelagic visitors, and one of the best chances for manta rays in the Gilis.
 
 ## Overview
 
-Malang is a dive site in Lombok offering rewarding diving on healthy coral reef structures . source is Diveschool Notice Board - Location might have to be checked with a GPS. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Malang (known locally as Takat Malang or Malang Reef) is located off the coast of Gili Air and is one of the most spectacular Advanced dive sites in the Gili Islands. The site features a plateau that begins at around 10 meters before dropping dramatically down to 40 meters through a network of underwater canyons. The deep canyon topography channels the strong Lombok Strait currents, creating the upwelling that draws large pelagic species. Mantas, blue-spotted stingrays, scorpionfish, lionfish, and whitetip reef sharks are regular residents. Occasionally eagle rays glide through the canyon openings. The depth and current exposure make this strictly an Advanced dive, typically requiring good buoyancy control and experience with drift conditions.
 
 ## Site Information
 
-- **Location**: Lombok, Asia
+- **Location**: Off Gili Air, Lombok, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef (canyon/deep reef)
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 40 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 40 meters (130 feet)
+- **Typical Visibility**: 15–30 meters
+- **Current**: Strong; tidal-driven canyon currents
+- **Water Temperature**: 26–30°C (79–86°F)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Manta rays are the headline attraction at Malang and are more consistently sighted here than at most other Gili sites. They cruise the canyon openings, using the nutrient-rich upwelling from depth. Blue-spotted stingrays rest on sandy patches within the canyon floor. Scorpionfish and lionfish occupy ledges throughout the reef. Whitetip reef sharks patrol the deeper canyon walls. Schools of snapper and fusiliers aggregate in the mid-water zone. Eagle rays are periodic visitors. Spiny lobsters are found in crevices below 25 meters. In the shallower plateau zone, cuttlefish and reef octopus are common.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 40 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the top of the plateau at around 10 meters, then work through the canyon system to explore deeper sections. Maximum depth of 40 meters should only be visited briefly given no-decompression limits — most of the interesting wildlife observation occurs between 15 and 30 meters. Current navigation through the canyons requires continuous depth and direction awareness. Ascend with sufficient reserve for a 5-meter safety stop. Nitrox is strongly recommended.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Gili Air or Gili Trawangan. The site requires a longer boat ride than the main island sites. Current assessment is critical before entry — if conditions are too strong or visibility is poor, experienced operators will reschedule. Giant stride entry with negative descent is standard.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Nitrox certification is strongly recommended for this depth
+- The best manta sightings occur during plankton-rich periods, typically April to October
+- Brief your computer for 40 meters before entry and plan your gas consumption conservatively
+- Combine with Turtle Heaven or Meno Wall on a two-tank trip for a contrasting experience
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+This is one of the most demanding dive sites in the Gili Islands due to depth (40 m), strong canyon currents, and exposure. Advanced Open Water certification is the minimum; additional logged dives are strongly preferred. Dive only with experienced guides. Currents can reverse mid-dive. Carry a dive computer, SMB, and redundant signaling equipment. Do not exceed no-decompression limits at 40 meters.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The canyon architecture at depth provides dramatic wide-angle shots with good ambient light penetration. Manta ray encounters in the canyon openings are the most sought-after images from Malang — use a wide lens and let the mantas approach rather than chasing. Scorpionfish portraits against encrusted canyon walls are striking macro subjects.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- [Starfish.ch – Gili Islands Dive Sites](https://www.starfish.ch/dive/Lombok.html)
+- [Manta Dive – Gili Islands Sites](https://manta-dive.com/diving-gili-trawangan/gili-dive-sites/)
+- Last Updated: 2026-03-28
 
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

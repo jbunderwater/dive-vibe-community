@@ -13,54 +13,55 @@ addedBy: osm_import
 
 ## Japanese Garden Grand Cayman
 
-Japanese Garden Grand Cayman is a reef dive site in Cayman Islands, Caribbean.
+A beautifully manicured shallow coral garden south of George Town named for its abundance of staghorn and elkhorn corals, perfectly suited for beginner divers and snorkelers.
 
 ## Overview
 
-Japanese Garden Grand Cayman is a dive site in Cayman Islands offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Japanese Garden is one of Grand Cayman's distinctive South Side shallow reef sites, named for the abundance of staghorn and elkhorn corals that create a garden-like, structured coral landscape in just 7 meters of water. The visual impression of neat, branching coral formations amid clean white sand gave rise to the Japanese garden analogy. Located south of George Town, this site sees less traffic than the popular Seven Mile Beach sites to the north while offering an equally impressive coral experience in very manageable conditions. The site's extreme shallowness and characteristically calm South Bay conditions make it ideal for beginning divers and snorkelers seeking excellent coral encounters without depth.
 
 ## Site Information
 
-- **Location**: Cayman Islands, Caribbean
+- **Location**: South of George Town, Grand Cayman
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Shallow coral reef / garden
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 7 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Maximum Depth**: 7 meters (23 feet)
+- **Typical Visibility**: 15–30 meters (50–100 feet)
+- **Current**: Light
+- **Water Temperature**: 26–29°C (79–84°F)
+- **Best Time**: Year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The staghorn and elkhorn coral formations of Japanese Garden provide essential structural habitat for reef fish. Schools of blue chromis and brown chromis hover above the branching corals. French and gray angelfish are common throughout the site. Butterflyfish, including spotfin and foureye, are abundant in the coral formations. Juvenile fish in multiple species shelter within the branching coral structure. Green turtles occasionally rest or graze on the coral rubble between formations.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 7 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-7 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The 7-meter maximum depth means this is as much a snorkel site as a scuba site. Divers can spend extended time covering the full extent of the coral garden, stopping to observe and photograph fish in and around the branching coral formations. The flat bottom allows comfortable hover and observation without depth management concerns. Safety stops are conducted in ambient depth.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from operators servicing the South Side. The site may also be accessible as a snorkel from a glass-bottom boat. Giant stride or back roll entry. The calm, protected south bay location makes entry and exit comfortable throughout the dive season.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- The staghorn and elkhorn coral here are among Grand Cayman's healthiest stands — treat them with care
+- Float horizontally above the coral rather than standing — even brief contact damages these organisms
+- Snorkelers have a fully comparable experience at this site to divers
+- A underwater photography course is an excellent complement to diving here — the conditions are ideal for learning
+- Combine with the nearby Cali or Balboa wrecks for a varied dive day in the south George Town area
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+At 7 meters, this is one of Grand Cayman's safest dive sites from a depth perspective. Primary concerns are boat traffic in the approach channel and avoiding physical contact with the coral formations. Staghorn and elkhorn are fragile and recovering species — finning over the reef or standing on the bottom causes damage that takes decades to repair. Maintain horizontal trim throughout the dive.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Japanese Garden is an exceptional photography site for wide-angle coral landscapes. The neat branching coral formations against white sand create clean, structured compositions. Natural light at 7 meters is brilliant and rarely requires supplementation. Schools of blue chromis above the coral create colorful mid-frame subjects for reef landscape shots. Macro work on the coral surface reveals small crabs, cleaner shrimp, and blennies.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*

@@ -11,56 +11,56 @@ osmId: 19266688
 addedBy: osm_import
 ---
 
-## Tobia Araba
+# Tobia Araba
 
-Tobia Araba is a reef dive site in Red Sea, Middle East.
+Seven coral pinnacles rising from a shallow sandy bottom near Safaga — an accessible and versatile site that works equally well as a day dive and a night dive, known for lionfish, puffer fish, and octopus.
 
 ## Overview
 
-Tobia Araba is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Tobia Araba (also spelled Tobia Arba'a — meaning "Four Tobia" in Arabic, though the site actually has seven distinct pinnacles) is a submerged reef structure in the Safaga area of the central Egyptian Red Sea, accessible from both Safaga and Hurghada. The reef consists of a cluster of coral pinnacles (ergs) that nearly reach the surface, rising from a sandy bottom at around 15 metres. No strong current affects the site in most conditions, and the maximum dive depth stays within 15–20 metres, making this one of the most beginner-friendly offshore sites in the area while still providing enough structural complexity to interest experienced divers. It has an established reputation as an excellent night dive site.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Location**: Safaga area, central Egyptian Red Sea
+- **Entry Type**: Boat dive (day trip from Safaga or Hurghada)
+- **Site Type**: Coral reef (pinnacles/ergs)
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 15–25 meters
+- **Current**: Generally mild
+- **Best Time**: Year-round; October to May optimal
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The pinnacles host diverse hard and soft coral coverage with resident communities of puffer fish, lionfish, and coral groupers at every erg. Octopuses occupy crevices between pinnacles and are reliably found on night dives. Moray eels are common in the gaps between coral formations. Clownfish occupy anemones on the upper pinnacle surfaces. The sandy areas between pinnacles host blue-spotted stingrays, garden eels (smaller colonies than at Tobia Kebir), and flatfish. Horse mackerel and barracuda patrol the open water around the pinnacle cluster. At night, hunting crustaceans, sleeping parrotfish in mucus cocoons, and Spanish dancers emerge.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Entry on the sandy bottom adjacent to the pinnacle cluster at 12–15 metres. Navigate between the individual pinnacles, exploring the crevices and gaps at each. Most of the biological interest is concentrated in the 5–15 metre range on the upper and mid sections of the pinnacles. The sandy bottom between ergs is worth examining for rays and octopuses. The site is small enough that a thorough exploration of all seven pinnacles fits in a single dive. Safety stop in the shallows at 3–5 metres on the upper pinnacle surfaces.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat from Safaga or Hurghada. Entry by giant stride on the sandy area adjacent to the reef. The accessible depth and calm conditions make this site appropriate for entry-level divers doing some of their first boat dives. Night dive operations are common here — entry and exit are both handled from the dive dhow with guide torches marking the line.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- This is one of the best night dive sites in the Safaga area — a night dive is highly recommended
+- Approach lionfish carefully — their venomous spines are a hazard to inattentive divers
+- Check crevice entrances at the base of each pinnacle for resting octopuses and moray eels
+- The site is shallow enough for comfortable air management — take your time at each pinnacle rather than rushing through all seven
+- Pairs well with Tobia Kebir or Tobia Hamra for a two-site day trip
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Conditions are generally benign at Tobia Araba. The primary hazard is lionfish — their camouflage makes them easy to contact accidentally, resulting in painful stings. Maintain awareness of your surroundings when exploring crevices. Titan triggerfish may be present in summer nesting season; give any territorial fish space. Fire coral is present on the pinnacle surfaces. Standard safety procedures apply: complete a safety stop and deploy an SMB before surfacing.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The pinnacle cluster offers versatile photographic opportunities. Close-focus wide-angle shots of a single pinnacle capture the coral coverage in context. Lionfish among soft corals are outstanding macro-to-wide subjects. At night, octopus portraits with a single strobe, sleeping parrotfish in their mucus cocoons, and hunting crustaceans provide rich macro subjects. The sandy areas between pinnacles offer blue-spotted stingray portraits and garden eel detail shots.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -11,57 +11,55 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Runaway Bay Wall
+# Runaway Bay Wall
 
-Runaway Bay Wall is a wall dive site in Jamaica, Caribbean.
+A spectacular north-coast wall where the Cayman Trench approaches the shoreline and the reef drops from 18 metres to over 900 metres in the deep blue.
 
 ## Overview
 
-Runaway Bay Wall is a dive site in Jamaica featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Runaway Bay sits roughly midway along Jamaica's north coast, and the underwater topography here is among the island's most dramatic. The Cayman Trench nears the shoreline in this area, bringing deep cold-water upwelling that fuels exceptional fish life. The Runaway Bay Wall begins at around 18 metres on the shallow reef shelf before plunging steeply — at depth, the wall drops to over 900 metres into the trench. The upper wall is cut with open-ended tunnels and chimneys lined with white feathery soft corals and orange anemone colonies. Large schools of fish, including creole wrasse and parrotfish, are abundant on the reef top above the wall. Water temperatures average 27–28°C and visibility frequently exceeds 25 metres.
 
 ## Site Information
 
-- **Location**: Jamaica, Caribbean
+- **Location**: Runaway Bay, Jamaica (north coast)
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
+- **Typical Visibility**: 20–30 meters (65–100 feet)
+- **Current**: Light to moderate; variable
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+The reef top is alive with brightly colored angelfish, parrotfish, sergeant majors, and blue chromis. The wall face features clusters of sea fans, rope sponges, and tube sponges at all depths. Large green moray eels and spotted moray eels occupy wall crevices. Hawksbill turtles and green turtles are frequently seen along the wall. Barracuda patrol mid-water above the wall. The tunnels and chimneys in the wall face provide sheltered habitat for soldierfish, glassy sweepers, and bigeye fish. Larger pelagics including horse-eye jacks and occasional eagle rays pass along the wall face.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-40 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Begin on the shallow reef shelf at 10–15 metres. Navigate to the wall edge and begin descending, exploring the chimney and tunnel formations in the upper wall. The most impressive sponge and coral formations appear between 20 and 35 metres. Plan your maximum depth and begin ascending with 100 bar/1,500 psi remaining. Complete a 3-minute safety stop at 5 metres. The wall is long — plan an out-and-back route or a drift dive depending on current.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by dive boat from Runaway Bay operators. Entry via giant stride or back roll. Current direction should be established before the dive. For a drift dive along the wall, coordinate your exit point with the boat in advance. Deploy SMB clearly during ascent. The boat will follow the bubbles on a drift dive.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- The tunnels and chimneys in the wall face are a distinctive feature — ask your divemaster to guide you to them
+- Runaway Bay is less crowded than Montego Bay or Negril, making for a more intimate wall diving experience
+- The shallow reef above the wall is excellent for a second tank at reduced depth
+- Bring a dive torch to illuminate the tunnel and chimney interiors
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
+Advanced divers only. The wall drops well beyond recreational limits and depth discipline is essential. Current can develop unexpectedly in this area — monitor conditions throughout the dive. Ascend the wall face rather than doing a free ascent from depth. Carry and deploy SMB before surfacing. The tunnels are diveable without cave certification, but maintain visual contact with ambient light throughout.
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+Wide-angle shots of the wall face with its tunnel and chimney entrances are compelling. Position a diver in a chimney entrance to convey scale. The upper reef shot downward toward the deep blue wall is dramatic. Macro opportunities on the chimney walls include tunicates, hydroids, and encrusting sponges.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

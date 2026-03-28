@@ -11,56 +11,56 @@ osmId: 4270913147
 addedBy: osm_import
 ---
 
-## Lombok Dive
+# Lombok Dive
 
-Lombok Dive is a reef dive site in Lombok, Asia.
+A sloping coral reef on the western side of Gili Trawangan with mixed hard and soft coral and reliable turtle encounters.
 
 ## Overview
 
-Lombok Dive is a dive site in Lombok offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Lombok Dive is a reef dive site on the western side of Gili Trawangan, sitting on a gentle coral slope that descends from around 5 meters to 20 meters. The reef is characteristic of the Gili Islands' western sheltered side — moderate current exposure, mixed hard and soft coral cover, and consistent populations of turtles and reef fish. The site is accessed by boat from Gili Trawangan and provides a well-rounded intermediate dive that complements the more dramatic drift and wall sites further north. The Lombok Strait flows past this western face, bringing clear water from the open ocean and occasional pelagic visitors along the reef edge.
 
 ## Site Information
 
-- **Location**: Lombok, Asia
+- **Location**: West side, Gili Trawangan, Lombok, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 20 meters (66 feet)
+- **Typical Visibility**: 10–25 meters
+- **Current**: Variable; moderate on ebb and flood tides
+- **Water Temperature**: 26–30°C (79–86°F)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Green and hawksbill turtles graze on soft corals across the slope and are among the most reliable sightings. Blacktip reef sharks are occasionally seen in the deeper sections of the reef. Schools of sweetlips and snapper aggregate around larger coral heads. Moray eels and lionfish inhabit overhangs and crevices. Blue-spotted stingrays rest on sandy patches between coral formations. Cuttlefish are common visitors, particularly in the mornings. The surrounding water column brings fusiliers, trevally, and occasional eagle rays.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Start from the reef top at 5 meters and work the slope downward to 20 meters, exploring coral heads and sandy gullies along the way. Mid-dive focus is typically at 10–15 meters where coral diversity is greatest. Begin ascending before 100 bar and conduct a safety stop at 5 meters. Total dive time is typically 45–55 minutes.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Gili Trawangan. The site is on the western side of the island, a short boat ride from the main beach. Giant stride entry is standard. SMB deployment during ascent is recommended.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The western face of Gili Trawangan receives less boat traffic than the east, making it calmer and quieter for wildlife encounters
+- Approach turtles gently and never cut off their path to the surface
+- Best dived on a gently ebbing tide for clearest water
+- Pairs well with Sunset Reef for a two-tank trip along the western side
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Current on the western side of Gili Trawangan can be unpredictable. Monitor conditions during the briefing and be prepared for current to pick up during the dive. Always carry an SMB and deploy it before ascending. Sea conditions can be rougher on the western side during the northwest monsoon (November to March).
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The mixed coral slope provides good wide-angle compositions. Turtle encounters are among the most photogenic in the Gili Islands due to the turtles' relaxed behaviour on this less-dived western face. Cuttlefish portraits and moray eel shots in overhangs are popular subjects. Natural light from above is good during morning dives.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- [Gili Islands Dive Sites – Manta Dive](https://manta-dive.com/diving-gili-trawangan/gili-dive-sites/)
+- [Starfish.ch – Lombok Dive Sites](https://www.starfish.ch/dive/Lombok.html)
+- Last Updated: 2026-03-28
 
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -11,57 +11,53 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Double Wreck
+# Double Wreck
 
-Double Wreck is a historic wreck dive in Sint Eustatius, Caribbean.
+The cannon, anchors, and ballast stones of two 18th-century sailing vessels lying side by side on Statia's seafloor — among the oldest diveable colonial-era shipwrecks in the Caribbean.
 
 ## Overview
 
-Double Wreck is a dive site in Sint Eustatius featuring the wreck of the Double Wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Double Wreck is Sint Eustatius's most historically significant dive site — the remains of two wooden sailing vessels likely dating from the 18th century during Statia's peak as the Caribbean's busiest commercial harbour. The wooden hulls have long since decayed, leaving behind iron cannon, anchors, ballast stones, and ceramic fragments spread across the sandy bottom in two overlapping clusters at 12–17 meters. The archaeological significance is considerable: researchers from the St. Eustatius Center for Archaeological Research (SECAR) have conducted systematic survey work here, and the site is protected under STENAPA's marine park regulations and Dutch law. The name "Double Wreck" reflects the two distinct concentrations of artifacts visible on the seafloor. Visibility averages 20–25 meters in calm conditions.
 
 ## Site Information
 
-- **Location**: Sint Eustatius, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Wreck
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 17 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+| Detail | Value |
+|--------|-------|
+| Depth Range | 12–17 m |
+| Difficulty | Intermediate |
+| Entry Type | Boat |
+| Site Type | Wreck (historic) |
+| Visibility | 20–25 m |
+| Current | Light |
+| Water Temp | 26–28°C |
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, snappers, soldierfish, glassy sweepers, coral growth, sponge encrustation, sea turtles (green, hawksbill), southern stingrays. Additional species commonly sighted include eagle rays, nurse sharks, reef sharks, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The scattered cannon and ballast stone formations provide excellent hard substrate, hosting corals, sponges, and encrusting organisms accumulated over two centuries. Caribbean spiny lobster shelter beneath cannon tubes. Moray eels occupy gaps between ballast stone piles. French and grey angelfish are abundant throughout the area. Sandy zones between artifact clusters host southern stingrays. Hawksbill turtles are common visitors.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 17 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Divers descend the mooring and navigate the two wreck clusters systematically, spending time at each cannon and anchor grouping. Both wrecks lie in close proximity, allowing both to be covered in a single 40–50 minute dive. The depth range (12–17 m) is accessible to intermediate divers with comfortable NDL margins. A knowledgeable guide adds significant historical context.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive with STENAPA mooring. Access via Golden Rock Dive Center. Entry by giant stride. DSMB required.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+A historical briefing before the dive significantly enhances the experience — understanding Statia's extraordinary 18th-century commerce makes the cannon clusters far more evocative. Carry a torch for examining the undersides of cannon tubes, where banded coral shrimp and juvenile fish congregate. Pair this dive with Blue Bead Hole or Crooks Castle for a full day of Statia's unique historical diving.
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+All artifacts are protected by STENAPA regulations and Dutch law — no touching, moving, or collecting under any circumstances. Some cannon carry fire coral encrustation — maintain safe distance. Current is typically light at this site but can develop on incoming tides.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+Cannon lying in the sand with coral and sponge growth are the defining images of this site. A 12–24mm wide-angle with dual strobes captures cannon with encrustation in context. Individual cannon bore openings make excellent close-focus wide-angle subjects. The two-century accumulation of encrusting life on every iron surface creates rich colour and texture for macro photography.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- STENAPA: stenapafoundation.com — archaeological site protection information
+- SECAR: St. Eustatius Center for Archaeological Research — published research on Double Wreck
 
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

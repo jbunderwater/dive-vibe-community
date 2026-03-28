@@ -11,57 +11,56 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Shallow Plane Wreck
+# Shallow Plane Wreck
 
-Shallow Plane Wreck is a historic wreck dive in Jamaica, Caribbean.
+A coral-encrusted Cessna aircraft resting on a sandy bottom at 10 metres near Negril's Bloody Bay, accessible to all certification levels.
 
 ## Overview
 
-Shallow Plane Wreck is a dive site in Jamaica featuring the wreck of the Shallow Plane Wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Shallow Plane Wreck is one of several artificial dive sites created in the Negril area by deliberately sinking a small aircraft to establish a new reef. A Cessna aircraft was dropped in a sandy area adjacent to the reef, and over the years it has been colonized by coral, sponge, and encrusting organisms. The fuselage, wings, and tail section are intact and penetrable, with the seats, engine, and doors removed to create easy swim-through access. The wreck sits at around 10 metres on a white sandy patch, making it an ideal site for beginners and open water divers. It is frequently paired with a nearby reef dive on a two-tank trip out of Negril, and is close to The Arches dive area.
 
 ## Site Information
 
-- **Location**: Jamaica, Caribbean
+- **Location**: Negril, Jamaica (Bloody Bay area)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 10 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: 20–30 meters (65–100 feet)
+- **Current**: Minimal
+- **Best Time**: Year-round; best December to April
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, snappers, soldierfish, glassy sweepers, coral growth, sponge encrustation, sea turtles (green, hawksbill), southern stingrays. Additional species commonly sighted include eagle rays, nurse sharks, reef sharks, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The plane structure has become a thriving artificial reef. A large crab was famously reported living in the tail section, and banded coral shrimp have been found near the engine cavity. Glassy sweepers and glassy cardinalfish school inside the fuselage. Nurse sharks rest on the sand beside the wreck. Large southern stingrays are commonly seen on the sandy flats adjacent to the plane. Hawksbill turtles visit the site regularly. Blue angelfish, sergeant majors, and blue-headed wrasse patrol the exterior. Fire worms, Christmas tree worms, and encrusting sponges colonize the fuselage surfaces.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 10 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend to the sandy bottom at 8–10 metres. Circumnavigate the plane exterior before entering the fuselage through the open doorways. The swim-through from cockpit to tail is straightforward and open. The sandy patch around the plane at 10 metres provides space to observe stingrays. Ascend from the wreck to 5 metres for your 3-minute safety stop in clear, shallow water. Bottom time is typically 50–60 minutes at this depth.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by dive boat from Negril operators. Entry via giant stride or back roll. Boats moor near the site on the reef edge. This site is frequently combined with The Arches or a nearby reef dive on the same boat trip. Deploy SMB on ascent for boat pickup.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
+- Excellent first wreck dive or refresher dive for newer divers
+- Bring a dive torch to illuminate the fuselage interior and reveal the colors of encrusting organisms
+- Look carefully beneath the wings and under the fuselage for resting nurse sharks and stingrays
+- The Shallow Plane is frequently combined with The Arches on a half-day two-tank dive trip from Negril
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+The plane fuselage is fully open with no entanglement hazards, but maintain buoyancy to avoid contact with encrusting coral. Watch for fire coral on the wing leading edges. The sandy bottom can silt up if multiple divers disturb it — enter the fuselage in small groups. Carry an SMB for the ascent.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The entire plane is excellent for wide-angle photography. Shooting the nose or tail toward open water with a diver inside creates effective compositions. The encrusted surfaces are dense with macro subjects — tube worms, encrusting sponges, and cleaning shrimp. Shoot the sandy bottom around the wreck to capture stingrays in their natural habitat.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Local Operators**: SunDivers Negril, Couples Swept Away Dive Team
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
