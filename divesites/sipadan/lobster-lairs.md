@@ -11,57 +11,47 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Lobster Lairs
+# Lobster Lairs
 
-Lobster Lairs is a wall dive site in Sipadan, Asia.
+A wall riddled with small caves and crevices sheltering spiny lobsters, moray eels, and octopuses — one of Sipadan's finest sites for night diving and macro exploration
 
 ## Overview
-
-Lobster Lairs is a dive site in Sipadan featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Lobster Lairs sits on Sipadan's southwestern wall, named for the large numbers of painted and ornate spiny lobsters that inhabit the countless small caves, overhangs, and crevices along the wall face. The wall geometry here is less sheer than at some of Sipadan's other sites, featuring more irregular formations with numerous holes and ledges that create ideal shelter for crustaceans, cephalopods, and moray eels. This makes Lobster Lairs one of the island's best sites for macro diving and a top-tier night dive destination, where the lobsters emerge from their lairs and the wall comes alive with nocturnal hunters.
 
 ## Site Information
-
-- **Location**: Sipadan, Asia
+- **Location**: Sipadan Island, Sabah, Malaysia
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 22 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-30 metres
+- **Current**: Mild to moderate
+- **Best Time**: Year-round; night dives are the highlight
 
 ## Marine Life
-
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Painted spiny lobsters and ornate spiny lobsters are the namesake inhabitants, found in nearly every crevice and overhang along the wall during daytime dives — their long antennae protruding from holes are often the first sign. Giant moray eels, whitemouth morays, and honeycomb morays share the wall's crevice habitat. Octopuses are common, particularly during night dives when they hunt across the reef. Cuttlefish hover near the wall during night dives, displaying their hypnotic colour-changing patterns. Nudibranchs, flatworms, and various shrimp species populate the wall surface. Turtles rest in the larger overhangs. The blue water off the wall still delivers occasional sightings of reef sharks and schooling fish.
 
 ## Dive Profile
-
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-22 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+A gentle wall drift dive at moderate depth. Descend along the wall to 15-22 metres and drift slowly, peering into the crevices, overhangs, and small caves that characterize this stretch of wall. The irregular wall profile means there are interesting features at all depths, so a multi-level profile works well — start deeper and work gradually shallower. Night dives follow a similar pattern but at shallower depths of 10-18 metres, moving slowly and using torchlight to explore the caves where lobsters and other nocturnal creatures emerge. Safety stop on the reef crest.
 
 ## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Mabul or Kapalai island resorts. Giant stride entry. The southwestern aspect provides some shelter from prevailing currents. For night dives, the divemaster will set the entry and exit points carefully. Deploy an SMB for boat pickup.
 
 ## Tips and Recommendations
-
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Request a night dive at this site — the lobsters, octopuses, and cuttlefish encounters are far more dramatic after dark
+- During day dives, shine your torch into crevices to spot lobsters, morays, and crustaceans sheltering in the shadows
+- Move slowly along the wall — the macro life rewards patience and a careful eye
+- Sipadan permits (120 per day) are required and must be arranged through your resort
+- Pair with a morning dive at one of the pelagic sites for the ideal contrast between Sipadan's big-animal and small-animal diving
 
 ## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Current conditions are generally moderate, making this one of Sipadan's more relaxed wall dives. The irregular wall with its caves and overhangs can create mild disorientation — maintain awareness of the wall face and open water at all times. For night dives, carry primary and backup torches and stay close to the group. An SMB and signalling device are essential. The nearest hyperbaric chamber is in Kota Kinabalu.
 
 ## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+Macro is the primary discipline here. A macro lens will find lobster portraits, moray eel close-ups, nudibranch details, and octopus behaviour shots. Night photography is particularly rewarding — hunting octopuses changing colour, cuttlefish displays, and lobsters emerging from their lairs are all strong subjects. Use a snoot or focused strobe to isolate subjects against the dark wall background. Wide-angle can capture the wall structure with its many holes and overhangs, particularly with a diver's torch beam illuminating a crevice.
 
 ## Additional Resources
-
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

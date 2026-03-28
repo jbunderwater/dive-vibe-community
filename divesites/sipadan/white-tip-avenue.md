@@ -11,57 +11,47 @@ osmId: null
 addedBy: osm_import
 ---
 
-## White Tip Avenue
+# White Tip Avenue
 
-White Tip Avenue is a wall dive site in Sipadan, Asia.
+A wall lined with sandy ledges where whitetip reef sharks rest by day and hunt by night, making this one of Sipadan's finest night diving destinations
 
 ## Overview
-
-White Tip Avenue is a dive site in Sipadan featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+White Tip Avenue runs along Sipadan's southwestern wall, named for the large numbers of whitetip reef sharks that use the sandy ledges and overhangs along the wall face as daytime resting spots. During the day, divers drift along the wall encountering groups of whitetips lying motionless on the sand shelves — sometimes five or six sharks on a single ledge. At night, the site transforms entirely as the sharks become active hunters, and dozens of whitetips can be seen coursing along the reef in pursuit of prey. The wall here is somewhat more sheltered from the prevailing currents than the island's northern and southern points, making it more accessible for intermediate divers while still delivering reliable shark encounters.
 
 ## Site Information
-
-- **Location**: Sipadan, Asia
+- **Location**: Sipadan Island, Sabah, Malaysia
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 40 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-30 metres
+- **Current**: Mild to moderate — more sheltered than the exposed points
+- **Best Time**: Year-round for day dives; night dives are the highlight when available
 
 ## Marine Life
-
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Whitetip reef sharks are the defining species, found resting on sandy ledges throughout the wall during daytime dives. At night, these same sharks become active predators, and observing dozens of whitetips hunting along the reef under torchlight is one of Sipadan's most memorable experiences. Green and hawksbill turtles are common, with some resting in wall crevices overnight. Occasional leopard sharks (bamboo sharks) are encountered on the sandy patches. The reef supports healthy populations of reef fish including sweetlips, groupers, and anthias. Nudibranchs, flatworms, and crustaceans are found in wall crevices. Schools of fusiliers pass along the wall during the day.
 
 ## Dive Profile
-
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-40 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+A straightforward wall drift dive. Descend along the wall and drift with the mild current, scanning the sandy ledges and overhangs at 15-25 metres for resting whitetips. The wall drops well beyond recreational limits, so depth management is still important despite the more moderate conditions. For night dives, the profile stays shallower — 10-20 metres along the wall — focusing torchlight on the ledges where sharks hunt and the reef comes alive with nocturnal activity. Safety stop on the reef crest.
 
 ## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Mabul or Kapalai island resorts. Giant stride entry. The more sheltered conditions at this site make entry and exit more relaxed than at the current-swept points. For night dives, follow the divemaster closely and maintain visual contact with the group. Deploy an SMB for boat pickup.
 
 ## Tips and Recommendations
-
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Request a night dive at this site if your operator offers it — the hunting whitetip sharks are extraordinary
+- During day dives, approach resting sharks slowly and avoid shining torches directly at them, which may disturb their rest
+- Check sandy patches between coral formations for leopard sharks, which are well camouflaged
+- Sipadan permits (120 per day) are required — night dives may require separate arrangements
+- The more moderate current conditions make this a good site for divers building wall diving experience
 
 ## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Though more sheltered than Barracuda Point or South Point, currents can still pick up without warning. Maintain awareness of your depth along the vertical wall. For night dives, carry a primary torch and a backup, and stay close to the divemaster. An SMB and signalling device are essential. The nearest hyperbaric chamber is in Kota Kinabalu.
 
 ## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+For day dives, the resting whitetip sharks on sandy ledges are excellent subjects for wide-angle compositions with natural light. Night photography is the real highlight — hunting whitetips, active moray eels, and the dramatic torch-lit wall create powerful images. A video light or focus light is essential for night work. Macro subjects including nudibranchs and crustaceans emerge at night along the wall crevices.
 
 ## Additional Resources
-
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
