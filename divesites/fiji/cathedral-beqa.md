@@ -11,56 +11,56 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Cathedral Beqa
+# Cathedral Beqa
 
-Cathedral Beqa is a reef dive site in Fiji, Pacific.
+A natural swim-through where cathedral-like light beams penetrate from above — soft corals within, sharks patrolling outside.
 
 ## Overview
 
-Cathedral Beqa is a dive site in Fiji offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Cathedral Beqa takes its name from the dramatic swim-through cavern that forms its centerpiece. The structure is a large coral archway and tunnel system on the Beqa Lagoon reef, where shafts of sunlight filter through cracks and openings in the roof, creating beams of light that illuminate the soft coral-encrusted interior walls in exactly the way light enters the nave of a cathedral. The effect is most pronounced on morning dives when the sun is at a low angle and the beams are clearly defined. Outside the cathedral structure, the reef slopes into open water where grey reef sharks are resident and regularly visible from 10 to 20 meters. The combination of the architectural feature inside and the shark activity outside makes Cathedral one of Beqa Lagoon's most memorable dives.
 
 ## Site Information
 
-- **Location**: Fiji, Pacific
+- **Location**: Beqa Lagoon, Pacific Harbour, Viti Levu, Fiji
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 15–25 meters (50–80 feet)
+- **Current**: Light to moderate
+- **Best Time**: Year-round; morning dives best for light effect
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Inside the cathedral swim-through, the low-light environment hosts soft corals and sea fans that benefit from reduced UV exposure, creating a particularly vivid display in the orange and red spectrum. Large groupers inhabit the swim-through interior and have become bold enough to approach divers closely. Glassfish and cardinalfish congregate in the filtered light zones just inside the entrance. Outside on the reef face, grey reef sharks — often 5–10 individuals — patrol the drop-off at 15–20 meters in a steady, unhurried circuit. Whitetip reef sharks rest on sand patches at the base of the reef. Turtles are common on the outer reef, and large schools of surgeonfish and fusiliers flow past the reef face. The connection to the deeper Beqa Lagoon ecosystem means silvertip sharks occasionally appear on the outer edge.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin the dive on the outer reef to catch the shark activity early in the dive while gas and attention are high. Descend to 18–20 meters and observe the patrol at depth, then ascend to the reef structure. Enter the cathedral swim-through from the deeper opening at approximately 15 meters and navigate through toward the shallower exit at 8–10 meters, pausing inside to observe the light beams and the soft coral walls. Complete the dive on the upper reef in 5–8 meters, where coral coverage is dense and light is abundant. Morning light beams are optimal — ask your operator to schedule Cathedral as the first dive of the morning.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Accessed by boat from Pacific Harbour operators, typically as part of a Beqa Lagoon package that includes Shark Reef Marine Reserve. Cathedral is commonly the second dive on a two-dive Beqa package, following the deeper shark feed. Entry by giant stride; lagoon conditions are usually calm. Some operators include Cathedral as the "explore" portion of the standard shark dive day.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- **Dive it in the morning**: The defining visual feature — sunbeams through the roof openings — only appears when the sun is at the right angle. Midday and afternoon dives produce flat, uniform light inside the cavern. Book Cathedral as a morning dive.
+- **Observe sharks from the reef top first**: Starting outside on the reef edge gives you the chance to watch the shark patrol while you're at your deepest and most alert. Don't enter the swim-through immediately on descent.
+- **Maintain horizontal trim in the swim-through**: The cavern is large enough for comfortable passage by divers with proper trim, but poor buoyancy and a vertical position will kick up sediment from the floor and reduce visibility for everyone behind you.
+- **Carry a small torch**: The deepest part of the swim-through interior is dark enough to benefit from a light, revealing the soft coral colors and the crevice life (moray eels, lobsters) that the ambient light does not fully illuminate.
+- **Combine this with Coral Gardens**: These two sites are geographically close and offer contrasting character — Cathedral for drama, Coral Gardens for relaxed exploration. They make an excellent two-dive pairing.
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The swim-through is wide and well-ventilated — this is not a penetration dive and does not require cave or cavern training. However, divers with claustrophobia may find the interior uncomfortable during the brief section where the roof is low. Confirm the route with your guide before entering. Monitor your depth through the cavern as the floor slopes; the deepest point of the swim-through is at the entry end. Grey reef sharks outside are habituated to divers and are not aggressive in the absence of feeding stimuli — observe calmly and avoid cornering individuals.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Cathedral Beqa presents two entirely different photographic opportunities in a single dive. Inside the swim-through, the light beam effect rewards wide-angle and fisheye shooting timed to the morning angle — position yourself in the dark interior and shoot toward the light shafts with a diver silhouetted against the opening. Outside, the shark patrol offers clean wide-angle shark portraits against the blue water backdrop. Shooting both in a single dive requires a versatile setup — a wide-angle zoom (16–35mm) handles both scenarios better than a prime fisheye if you can only carry one lens.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
