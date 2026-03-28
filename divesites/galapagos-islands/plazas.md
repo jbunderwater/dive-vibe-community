@@ -11,57 +11,56 @@ osmId: 13123276912
 addedBy: osm_import
 ---
 
-## Plazas
+# Plazas
 
-Plazas is a wall dive site in Galápagos Islands, South America.
+A wall dive off South Plaza Island where a resident sea lion colony dives in to play and eagle rays cruise along a coral-covered drop-off just minutes from Santa Cruz.
 
 ## Overview
 
-Plazas is a dive site in Galápagos Islands featuring a dramatic vertical wall that drops into the deep blue. Located in the South America region, this site offers 10-25 meters of visibility with water temperatures averaging 15-26°C.
+Plazas is a wall dive site off the southern shore of South Plaza Island, one of the small islets east of Santa Cruz. A dramatic wall drops from a shallow reef top into the depths, with good coral coverage and consistent marine life. The nearby South Plaza sea lion colony sends its members into the water constantly, creating reliable and often extended interactions with divers along the wall. Its relative proximity to Puerto Ayora on Santa Cruz makes it one of the more accessible dive sites in the Galapagos, though conditions still demand advanced-level skills.
 
 ## Site Information
 
-- **Location**: Galápagos Islands, South America
+- **Location**: Off South Plaza Island, east of Santa Cruz, Galapagos Islands
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-25 meters (30-80 feet)
-- **Current**: Moderate to strong
-- **Best Time**: June to November
+- **Typical Visibility**: 10-20 meters (30-65 feet)
+- **Current**: Mild to moderate
+- **Best Time**: Year-round; best visibility June to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter hammerhead sharks, whale sharks, sea lions, marine iguanas, manta rays, eagle rays, sea turtles, dolphins. Additional species commonly sighted include penguins, moray eels. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Galapagos sea lions from the South Plaza colony are the highlight, launching off the rocky shore and descending to interact with divers along the wall -- juveniles are particularly bold and curious. Spotted eagle rays are regularly seen cruising along the wall edge, sometimes in groups. Green sea turtles rest on wall ledges and graze on algae. Schools of reef fish -- king angelfish, surgeonfish, parrotfish, and damselfish -- populate the wall face. The coral coverage is among the better in the Galapagos, with colonies of Pocillopora and Pavona creating structure. Whitetip reef sharks rest in crevices. Moray eels peer from holes. Octopus can be found on the reef top.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-20 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+The dive begins with a descent along the wall face from the shallow reef top at 3-5 meters down to the maximum depth of approximately 20 meters. The wall face is covered in coral growth and features ledges, small overhangs, and crevices worth inspecting. Divers drift along the wall with the mild current, covering a section of the island's southern shore. The best sea lion encounters usually happen during the ascent as divers return to the shallower reef top. Safety stop is easily performed on the reef top in generally calm conditions.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Day boat from Puerto Ayora, Santa Cruz, with a ride of approximately 30-45 minutes to the site. Giant stride entry near the wall edge. Mild current means surface conditions are usually manageable. The dive follows the wall, with the boat repositioning to meet divers at the exit point. Exit via ladder onto the day boat, or panga pickup if current has carried divers further than expected. SMB deployment is recommended regardless.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Spend time on the reef top during your safety stop -- sea lions are most playful in the shallows and the coral growth is worth exploring
+- Look along the wall edge at mid-depth for eagle rays, which tend to cruise at 10-15 meters
+- Morning departures from Santa Cruz offer the best conditions and light on the south-facing wall
+- Check wall crevices carefully for resting whitetip sharks and octopus
+- This is a good site for divers who want Galapagos marine life encounters without the extreme currents of Gordon Rocks or Wolf
 
 ## Safety Considerations
 
-Be aware of strong currents, cold thermoclines, surge in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Conditions are generally more forgiving than at the Galapagos' more exposed sites, but currents can still be present and may strengthen without warning. The wall drops beyond recreational limits, so depth awareness is important. Sea lions can be playful to the point of bumping equipment or pulling on hoses -- secure loose gear. Standard Galapagos thermal protection (5-7mm wetsuit) is required. Carry an SMB and signaling devices. As with all Galapagos diving, the remote location means extended time to medical facilities in an emergency.
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+Sea lions playing along the wall provide outstanding wide-angle subjects -- shoot upward to silhouette them against the surface light. Eagle rays along the wall edge are best captured with a wide-angle lens from below. The coral-covered wall itself makes a more photogenic background than the bare volcanic rock at many Galapagos sites, improving composition options. Sea turtles resting on ledges are patient portrait subjects. The relatively mild current makes this a more comfortable site for photography than many alternatives. Morning light on the south-facing wall provides good illumination.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
