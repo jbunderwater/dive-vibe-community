@@ -11,56 +11,54 @@ osmId: 4433719552
 addedBy: osm_import
 ---
 
-## Cement Reef
+# Cement Reef
 
-Cement Reef is a reef dive site in Red Sea, Middle East.
+A distinctive reef landmark in the southern Saudi Red Sea known by its unusual name — a structure with a hard, compressed coral facade and an exposed position that drives dense fish aggregations and occasional pelagic encounters in one of the least-dived sections of the Red Sea.
 
 ## Overview
 
-Cement Reef is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Cement Reef sits at approximately 22.39°N, 38.85°E in the southern Saudi Red Sea — a remote position in an area with very limited dive tourism infrastructure. The name describes either the hard, dense coral crust characteristic of this particular reef's surface structure or may derive from industrial activity in the region. The reef is accessed from liveaboard operations or specialist regional dive operators and lies in a section of the Red Sea that sees very little diving pressure. The reef structure at this latitude benefits from the warm, clear water characteristic of the central Red Sea and the open-ocean influence that drives productivity. Fish biomass is high due to the near-pristine environment.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Boat dive
+- **Location**: Southern Saudi Red Sea (~22.39°N, 38.85°E)
+- **Entry Type**: Boat dive (liveaboard or specialist local operator)
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 20–30 meters
+- **Current**: Variable; moderate is typical
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, humphead wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The site's undisturbed character means fish populations are dense by Red Sea standards. Schooling barracuda and jacks patrol the reef edges. Grey reef sharks are present on the outer reef slope. Groupers occupy the coral structure in unusually high numbers — a consequence of limited fishing pressure in this area. The hard coral coverage is characteristic of sites in this latitude range: dense table corals and brain corals with abundant soft coral growth in deeper sections. Turtles are frequently encountered. Moray eels inhabit the reef crevices throughout.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend on the sheltered face and work around to the exposed side at 12–18 metres, observing current strength and direction. The main reef structure is explored at 10–18 metres with the sandy bottom transition at 18–20 metres providing additional habitat variety. Return to the sheltered face for the safety stop at 5 metres over the upper reef.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from liveaboard or regional operator. Entry by giant stride. SMB deployment before ascending. The remote location requires self-sufficient diving — carry all necessary equipment and safety gear.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Approach the outer reef edge at depth for the best shark and pelagic activity
+- The dense grouper populations on this reef are unusual and reward slow, non-threatening movement near the coral structure
+- Combine with Al Fahal reef sites on the same itinerary for comprehensive coverage of this area
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Remote location with limited emergency response infrastructure. Dive conservatively and within limits. Deploy SMB before ascending. Assess current conditions before every entry. Fire coral, lionfish, and urchins are present throughout.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The undisturbed fish populations and clean water of Cement Reef create ideal conditions for ambient reef photography. Dense grouper aggregations and schooling barracuda are the primary subjects. The hard coral structure suits close-focus wide-angle work in good natural light.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -11,7 +11,7 @@ osmId: null
 addedBy: osm_import
 ---
 
-## The Indians
+# The Indians
 
 The Indians is one of the BVI's most iconic and recognisable dive sites — four dramatic rock pillars rising 10 meters above the sea surface off the western tip of Norman Island, creating an underwater landscape of arches, channels, and richly encrusted rock faces that drop to 35 meters.
 
@@ -21,14 +21,15 @@ The four spire-like rock formations of The Indians are a landmark visible from m
 
 ## Site Information
 
-- **Location**: West of Norman Island, British Virgin Islands
-- **Entry Type**: Boat dive
-- **Site Type**: Rock pillars with vertical faces and swimthroughs
-- **Difficulty Level**: Beginner (in the main pillar zone; deeper sections more advanced)
-- **Maximum Depth**: 35 meters
-- **Typical Visibility**: 20–30 meters
-- **Current**: Light to moderate; usually manageable
-- **Best Time**: December to April
+| Detail | Value |
+|--------|-------|
+| Depth Range | 5–35 m |
+| Difficulty | Beginner |
+| Entry Type | Boat |
+| Site Type | Reef |
+| Visibility | 20–30 m |
+| Current | Light to moderate |
+| Water Temp | 26–28°C |
 
 ## Marine Life
 
@@ -58,5 +59,9 @@ The site's popularity means the area around The Indians can have multiple boats 
 
 The Indians is arguably the BVI's best wide-angle photography site. The vertical rock pillars and the channels between them create sweeping compositional opportunities. Shooting up through overhangs with nurse sharks in the foreground and dappled light above, or capturing the dense colonial encrustation of sea fans and sponges, are the signature images. Natural light is superb throughout the 5–20 meter zone.
 
----
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+## Additional Resources
+
+- Blue Water Divers (Road Town) and most BVI operators: The Indians is on nearly every BVI dive itinerary
+- The Bight at Norman Island: standard yacht anchorage — the site is 10 minutes by dinghy from the anchorage
+
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

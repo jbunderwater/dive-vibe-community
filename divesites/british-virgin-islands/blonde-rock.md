@@ -11,7 +11,7 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Blonde Rock
+# Blonde Rock
 
 Blonde Rock is one of the BVI's most renowned advanced dive sites — a dramatic underwater pinnacle rising between Salt Island and Dead Chest Island that is exposed to significant open-ocean current and offers one of the best pelagic encounter opportunities in the island group.
 
@@ -21,14 +21,15 @@ Blonde Rock is an isolated submerged pinnacle topped at just 4 meters below the 
 
 ## Site Information
 
-- **Location**: Between Salt Island and Dead Chest Island, British Virgin Islands
-- **Entry Type**: Boat dive
-- **Site Type**: Open-ocean pinnacle
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 25–35 meters
-- **Current**: Moderate to strong; site-dependent on tidal timing
-- **Best Time**: December to April (calmer conditions)
+| Detail | Value |
+|--------|-------|
+| Depth Range | 4–20 m |
+| Difficulty | Advanced |
+| Entry Type | Boat |
+| Site Type | Pinnacle |
+| Visibility | 25–35 m |
+| Current | Moderate to strong |
+| Water Temp | 26–28°C |
 
 ## Marine Life
 
@@ -57,5 +58,9 @@ Current is the primary hazard and must never be underestimated. All divers must 
 
 Blonde Rock offers the BVI's best wide-angle pelagic photography. Jacks in spiralling schools around the pinnacle top, reef shark portraits at the base, and eagle ray passes in the blue water are the signature images. Current conditions require efficient underwater movement and camera pre-setting before descent.
 
----
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+## Additional Resources
+
+- Blue Water Divers and Sail Caribbean Divers (Road Town): operate Blonde Rock on suitable tidal conditions
+- Best combined with Dead Chest Wall for a two-tank Salt Island area day
+
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

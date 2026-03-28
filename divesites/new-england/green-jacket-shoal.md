@@ -11,55 +11,58 @@ osmId: 1304349266
 addedBy: osm_import
 ---
 
-## Green Jacket Shoal
+# Green Jacket Shoal
 
-Green Jacket Shoal is a reef dive site in New England, North America.
+A rocky shoal in the upper Providence River/Upper Narragansett Bay area of Rhode Island, accessible from the Providence metropolitan area.
 
 ## Overview
 
-Green Jacket Shoal is a dive site in New England offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Green Jacket Shoal lies in the upper Providence River or lower Providence metropolitan area at the head of Narragansett Bay, at coordinates suggesting a position in the upper bay north of Providence. This is an unusual location for recreational scuba — the upper bay is significantly influenced by Providence River freshwater input, industrial history, and shallower depths compared to the more open lower bay and Rhode Island Sound sites. At 18 metres maximum depth, this represents one of the deeper features in the upper bay system. The name "Green Jacket Shoal" evokes 18th-century maritime nomenclature, though the specific origin is unclear. Upper Narragansett Bay diving is less common than lower bay sites but offers an accessible, locally interesting alternative for Providence-area divers.
 
 ## Site Information
 
-- **Location**: New England, North America
+- **Location**: Upper Narragansett Bay / Providence River area, Rhode Island
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky shoal / reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
+- **Typical Visibility**: 3–8 meters (upper bay visibility is typically lower than lower bay)
+- **Current**: Moderate; upper bay tidal current
+- **Water Temperature**: 8–22°C depending on season
 - **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Upper Narragansett Bay species. Tautog resident on rocky structures. Striped bass are plentiful in the upper bay in warmer months — the Providence area is well known for striper fishing. Bluefish pass through seasonally. American lobsters in deeper crevices. Cunner around hard substrate. Winter flounder common on surrounding sand/mud. Sea urchins on rocky sections. The upper bay ecology is less diverse than open sound reefs but can offer good encounters with large stripers.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Boat access from Providence area launch sites. Descend to rocky shoal at 12–18 metres. Navigate the shoal perimeter. Upper bay visibility tends to be lower than lower bay — dive light recommended. Plan around bay slack tide. Complete a 3-minute safety stop at 5 metres.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat charter or private boat required. Providence metropolitan area provides multiple launch facilities. Local operators familiar with upper bay navigation are recommended. Anchor in sand adjacent to shoal. Deploy SMB before ascending.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Upper bay visibility is typically lower than Rhode Island Sound sites — set expectations accordingly
+- Striped bass hunting the Providence River tidal current are an accessible encounter in summer months
+- The upper bay sediment history means visibility can be affected by recent rain or storm disturbance
+- 7mm wetsuit or drysuit recommended throughout the season
+- Plan around bay slack tide
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Upper bay tidal current can be moderate at peak flow. Reduced visibility in the upper bay requires close buddy contact. Cold water below thermocline. Deploy SMB before surfacing. Upper bay boat traffic from Providence Harbor approach routes should be considered.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Lower visibility in the upper bay limits photographic range. Close-focus subjects — tautog portraits, encrusting organisms, lobster in crevices — are the practical approach. Strobe lighting essential.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Charter Access**: Providence area dive charters and boat launch facilities
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

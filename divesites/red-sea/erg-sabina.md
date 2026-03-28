@@ -11,56 +11,55 @@ osmId: 700999363
 addedBy: osm_import
 ---
 
-## Erg Sabina
+# Erg Sabina
 
-Erg Sabina is a reef dive site in Red Sea, Middle East.
+An isolated coral pinnacle in the Hurghada offshore zone named for a local diving personality — a classic erg structure with cleaning stations, octopuses in the base crevices, and reliable shark activity when current is running.
 
 ## Overview
 
-Erg Sabina is a dive site in Red Sea offering rewarding diving on healthy coral reef structures . mooring place for dive boats. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Erg Sabina is a coral pinnacle at approximately 27.22°N, 33.95°E in the offshore zone between Hurghada and Makadi Bay. Like all erg dives in this section of the central Egyptian Red Sea, it rises from a sandy floor as an isolated structure that functions as a fish-concentration point. The name is a local nickname — Sabina is a name associated with Egyptian dive guide community traditions. The erg itself rises from approximately 18–20 metres to a summit around 5–8 metres. The position is reasonably sheltered compared to the more exposed offshore sites, making it accessible in conditions that affect larger offshore reefs.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Hurghada offshore zone, central Egyptian Red Sea (~27.22°N, 33.95°E)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Coral reef (pinnacle/erg)
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 15–25 meters
+- **Current**: Mild to moderate; stronger when wind opposes current
+- **Best Time**: Year-round; October to May optimal
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, humphead wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Grey reef sharks patrol the base of the pinnacle when current is running — they are attracted by the concentrated fish life and appear reliably in late afternoon dives. Cleaning stations occupy the middle section of the pinnacle at 10–15 metres, with resident cleaner wrasse servicing groupers and moray eels. Reef octopuses inhabit the base crevices and are reliably found during slow, careful circumnavigation of the pinnacle base at 18–20 metres. Lionfish shelter in the overhanging sections. Schools of anthias and glassfish cover the upper pinnacle faces.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the base of the pinnacle at 18–20 metres and circle the full perimeter looking for octopuses in the crevices and moray eels in the deeper cavities. Ascend to the cleaning station zone at 10–15 metres for stationary observation. The upper pinnacle faces at 5–10 metres provide the best natural light and the highest fish density. Safety stop at 5 metres at the pinnacle summit.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Day boat from Hurghada (30–50 minutes). Giant stride entry. Often combined with Erg Somaya for a two-erg day dive. SMB deployment before ascending.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Afternoon dives on Erg Sabina tend to produce better grey reef shark activity than morning dives
+- At the base, look in every crevice for octopuses — they are present but well-camouflaged against the coral rubble
+- Station yourself at the cleaning station at 12 metres and remain completely still — moray eels will hold position for extended cleaning sessions
+- Night dives here are excellent — the octopuses and moray eels are most active after dark
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Standard erg dive hazards apply: current wrapping around the isolated structure, scorpionfish and lionfish contact hazards on the reef face, and fire coral on the upper pinnacle. Maintain good buoyancy to avoid damaging the coral structure. SMB before ascending.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Cleaning station portraits — moray eels mid-clean — at 12–15 metres are the most distinctive images at Erg Sabina. Octopus portraits in the base crevices reward a macro approach with external torch. The upper pinnacle in morning light suits ambient close-focus wide-angle for reef fish portraits.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

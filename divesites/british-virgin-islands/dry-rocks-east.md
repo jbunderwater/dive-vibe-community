@@ -11,7 +11,7 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Dry Rocks East
+# Dry Rocks East
 
 Dry Rocks East is a rocky reef dive off the east end of Peter Island in the BVI, one of the less crowded intermediate sites in the southern island group. The site features the kind of rugged rocky terrain interspersed with coral growth that characterises BVI diving at its most natural.
 
@@ -21,14 +21,15 @@ The "dry rocks" are a series of exposed rocky outcrops at the surface that exten
 
 ## Site Information
 
-- **Location**: East end of Peter Island, British Virgin Islands
-- **Entry Type**: Boat dive
-- **Site Type**: Rocky reef with coral
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 24 meters
-- **Typical Visibility**: 20–30 meters
-- **Current**: Light to moderate; channel position
-- **Best Time**: December to April
+| Detail | Value |
+|--------|-------|
+| Depth Range | 5–24 m |
+| Difficulty | Intermediate |
+| Entry Type | Boat |
+| Site Type | Reef |
+| Visibility | 20–30 m |
+| Current | Light to moderate |
+| Water Temp | 26–28°C |
 
 ## Marine Life
 
@@ -57,5 +58,9 @@ Current can be moderate on the channel-facing side — position yourself appropr
 
 The layered rocky terrain creates three-dimensional photographic compositions. Wide-angle shots through rocky overhangs with fish in the background work well. Deeper ledge sections provide dramatic shadow-and-light contrasts with a strobe setup.
 
----
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+## Additional Resources
+
+- Peter Island Resort dive operation and Road Town operators: include Dry Rocks East on southern island itineraries
+- Good pairing with Norman Island's The Caves or The Indians for a southern BVI two-tank day
+
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

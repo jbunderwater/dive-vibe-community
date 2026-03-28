@@ -21,14 +21,15 @@ The site's defining feature is the collection of large mushroom-shaped coral for
 
 ## Site Information
 
-- **Location**: South side of Ginger Island, British Virgin Islands
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef with distinctive mushroom coral formations
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 21 meters
-- **Typical Visibility**: 20–30 meters
-- **Current**: Light to moderate; exposed southern exposure
-- **Best Time**: December to April (dry season, calmest conditions)
+| Detail | Value |
+|--------|-------|
+| Depth Range | 5–21 m |
+| Difficulty | Beginner |
+| Entry Type | Boat |
+| Site Type | Reef |
+| Visibility | 20–30 m |
+| Current | Light to moderate |
+| Water Temp | 26–28°C |
 
 ## Marine Life
 
@@ -57,5 +58,9 @@ Current can strengthen on the site's exposed southern exposure — dive around s
 
 The mushroom coral formations create genuinely otherworldly wide-angle subjects. Shooting upward through the coral overhangs with a wide-angle lens, with light filtering from above, creates images that justify the site's Alice in Wonderland name. Nurse shark portraits under overhangs are also excellent subjects.
 
----
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+## Additional Resources
+
+- Road Town and Norman Island operators: include Alice in Wonderland on southern island itineraries
+- Best combined with Ginger Steps or The Indians for a full southern BVI dive day
+
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

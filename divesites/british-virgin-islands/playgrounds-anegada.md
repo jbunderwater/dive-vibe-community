@@ -11,7 +11,7 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Playgrounds Anegada
+# Playgrounds Anegada
 
 Playgrounds Anegada is a shallow, frolicsome reef dive off Anegada's coastline — one of the most relaxed and enjoyable dives accessible from the island, with an easy profile that lives up to the playful name.
 
@@ -21,14 +21,15 @@ Situated in the clear turquoise water around Anegada's flat coral atoll, Playgro
 
 ## Site Information
 
-- **Location**: Off Anegada, northern British Virgin Islands
-- **Entry Type**: Boat dive
-- **Site Type**: Shallow coral reef / atoll
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 8 meters
-- **Typical Visibility**: 25–35 meters
-- **Current**: Variable; atoll reef can funnel currents
-- **Best Time**: December to April
+| Detail | Value |
+|--------|-------|
+| Depth Range | 2–8 m |
+| Difficulty | Beginner |
+| Entry Type | Boat |
+| Site Type | Reef |
+| Visibility | 25–35 m |
+| Current | Variable |
+| Water Temp | 26–28°C |
 
 ## Marine Life
 
@@ -57,5 +58,9 @@ The atoll reef can funnel current in unexpected directions — check with your g
 
 The exceptional clarity of Anegada's water, combined with shallow depth and active marine life, creates ideal conditions for natural-light photography. Turtle portraits over white sand in crystal-clear water are among the best available in the Caribbean. The flat atoll horizon above water creates distinctive split-level photography opportunities.
 
----
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+## Additional Resources
+
+- Anegada Reef Hotel dive operation: the primary access point for Anegada dive sites
+- Best combined with Anegada Reef for a two-tank Anegada atoll day
+
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

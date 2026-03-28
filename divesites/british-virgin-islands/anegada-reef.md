@@ -11,7 +11,7 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Anegada Reef
+# Anegada Reef
 
 Anegada Reef is a shallow coral reef system off Anegada, the BVI's most northerly and unique island. Unlike the volcanic islands of the BVI chain, Anegada is a flat coral limestone atoll barely 10 meters above sea level, surrounded by one of the Caribbean's most extensive and dangerous barrier reef systems — responsible for over 300 documented shipwrecks over the centuries.
 
@@ -21,14 +21,15 @@ The reef sits in the shallow, crystal-clear waters off Anegada's coastline and r
 
 ## Site Information
 
-- **Location**: Anegada, British Virgin Islands (northern BVI)
-- **Entry Type**: Boat dive
-- **Site Type**: Platform reef / barrier reef system
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 10 meters
-- **Typical Visibility**: 20–30 meters
-- **Current**: Variable; reef system influences flow
-- **Best Time**: December to April
+| Detail | Value |
+|--------|-------|
+| Depth Range | 3–10 m |
+| Difficulty | Beginner |
+| Entry Type | Boat |
+| Site Type | Reef |
+| Visibility | 20–30 m |
+| Current | Variable |
+| Water Temp | 26–28°C |
 
 ## Marine Life
 
@@ -57,5 +58,9 @@ The Anegada reef system is genuinely hazardous for navigation — only anchor an
 
 Anegada's clear, shallow water and less-disturbed marine life create excellent natural-light photography conditions. Large turtle encounters and conch shell compositions in clear water are distinctive subjects. The landscape above the reef — flat atoll horizon with turquoise water — creates striking above-and-below split-level photography opportunities.
 
----
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+## Additional Resources
+
+- Anegada Reef Hotel dive operation: the primary dive operator on Anegada
+- Most BVI liveaboards include Anegada on multi-day itineraries
+
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

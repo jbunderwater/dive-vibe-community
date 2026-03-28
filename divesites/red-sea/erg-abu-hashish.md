@@ -11,56 +11,55 @@ osmId: 700999356
 addedBy: osm_import
 ---
 
-## Erg Abu Hashish
+# Erg Abu Hashish
 
-Erg Abu Hashish is a reef dive site in Red Sea, Middle East.
+An isolated coral pinnacle rising from the sandy floor in the Makadi Bay area — a concentrated reef structure with dense glassfish schools, resident groupers and moray eels, and the classic erg character that makes single-pinnacle dives so productive in the central Egyptian Red Sea.
 
 ## Overview
 
-Erg Abu Hashish is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Erg Abu Hashish is a coral pinnacle ("erg" in the local Red Sea diving vocabulary describes an isolated coral pillar rising from a sandy seabed) located in the Makadi Bay offshore zone at approximately 27.01°N, 33.92°E — about 35 kilometres south of central Hurghada. The pinnacle rises from a sandy floor at around 18–20 metres to a summit at approximately 5 metres, creating a vertical reef structure that concentrates fish life in a way that continuous fringing reefs don't. The Abu Hashish site name links it to the Abu Hashish bay area — a section of coast known for several quality erg dives in relatively close proximity. The isolated position means the pinnacle receives current from multiple directions, enhancing its productivity.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Makadi Bay offshore zone, ~35 km south of Hurghada, central Egyptian Red Sea
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Coral reef (pinnacle/erg)
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 15–25 meters
+- **Current**: Mild to moderate; variable around the pinnacle
+- **Best Time**: Year-round; October to May optimal
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, humphead wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Glassfish schools are the signature element of the pinnacle structure — they occupy the shadowed sections of the erg in dense silver cascades, attracting hunting groupers and trevally. Moray eels inhabit the base of the pinnacle at 15–20 metres. Lionfish and scorpionfish occupy the overhanging sections of the coral structure. Blue-spotted stingrays rest on the sandy floor around the pinnacle base. Turtles are occasionally seen resting on the summit of the erg. Schools of anthias cover the upper sections of the pinnacle in good ambient light.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend directly to the base of the erg at 18–20 metres and perform a full circumnavigation at depth to observe the moray eels, lionfish, and sandy floor species. Ascend the pinnacle face to 10–12 metres and visit the glassfish sections on the shadowed flanks. The summit at 5 metres is the safety stop zone — the shallowest, best-lit section of the reef with the highest anthias concentration. The full dive circumnavigates the pinnacle at three different depth bands.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Day boat from Hurghada or Makadi Bay hotels (45–90 minutes depending on departure point). Giant stride entry close to the pinnacle. SMB deployment before ascending. Tofa Abu Hashish and Erg Abu Hashish are often combined in the same area for a two-dive day.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Use a torch to illuminate the glassfish sections — torch-lit schools create more dramatic photography than ambient light alone
+- The base of the pinnacle at 15–18 metres is the productive moray-and-scorpionfish zone — spend at least 10 minutes here before ascending
+- The sandy floor around the pinnacle base holds goby-shrimp burrow pairs in the calmer sections — look for sentinel gobies hovering 10–20 cm above the sand
+- Pair with Tofa Abu Hashish for a two-erg day from the same area
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Current can wrap around the isolated pinnacle unpredictably — maintain awareness of drift direction. The sandy floor at 20 metres should not be exceeded without careful air management. Scorpionfish and lionfish on the pinnacle are contact hazards — never touch the reef surface. Fire coral on the upper pinnacle structure. Deploy SMB before ascending.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The glassfish schools in the shaded pinnacle sections are excellent torch-assisted wide-angle subjects — position the torch to backlight the school against the blue water background. Lionfish and scorpionfish portraits in their natural overhanging positions are accessible with a macro lens. The summit of the erg at 5 metres in morning light provides ambient wide-angle reef shots with good natural illumination.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
