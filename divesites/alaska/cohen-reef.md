@@ -13,61 +13,55 @@ addedBy: osm_import
 
 ## Cohen Reef
 
-Cohen Reef is a reef dive site in Alaska, North America.
+A submerged reef in the waters south of Juneau supporting prolific cold-water marine life in the Lynn Canal system.
 
 ## Overview
 
-Cohen Reef is a dive site in Alaska offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Cohen Reef is situated in the rich tidal waterways south of Juneau, where the mixing of glacial meltwater and deep Pacific water creates productive conditions for cold-water species. The reef structure supports dense populations of plumose anemones and encrusting invertebrates, with rockfish congregating around its exposed points. Juneau area diving is characterized by excellent marine biodiversity, with resident giant Pacific octopus, wolf eels, and seasonal sea lion encounters. The surrounding waters drain glacially modified fjords, so visibility can fluctuate depending on glacial outflow conditions. Diving here requires dry suit proficiency and current awareness.
 
 ## Site Information
 
-- **Location**: Prince William Sound, Alaska
+- **Location**: South of Juneau, Lynn Canal system, Southeast Alaska
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Advanced
-- **Typical Visibility**: 8-20 meters (26-66 feet)
-- **Current**: Strong, slack tide required
-- **Water Temperature**: 6-12°C (43-54°F)
-- **Best Time**: July-September (warmest months)
-
+- **Maximum Depth**: 26 meters (85 feet)
+- **Typical Visibility**: 6–15 meters (20–50 feet)
+- **Current**: Moderate to strong — slack tide required
+- **Water Temperature**: 4–10°C (39–50°F)
+- **Best Time**: May–September
 
 ## Marine Life
 
-The rocky formations support cold-water invertebrate communities including sea urchins, starfish, anemones, nudibranchs, and sponges. Lingcod, rockfish, and cabezon patrol the rocks. Giant Pacific octopus inhabit rock crevices. Kelp fronds extend from shallower formations.
-
+The Juneau-area waters surrounding Cohen Reef are among the most biologically productive in Alaska. Expect aggregating anemones, sea urchins, Dungeness crabs, and sea cucumbers on the reef base. Lingcod, cabezon, and multiple rockfish species are common. Giant Pacific octopus are frequently observed. In summer, Steller sea lions and harbor seals sometimes join divers near the surface.
 
 ## Dive Profile
 
-Descend to the rocky formation and stay close to structure for current management. Explore rock faces and crevices watching for fauna. Most dive time spent between 15-24 meters. Watch for large mobile fauna on exposed areas.
-
+Dive the reef structure during slack tide, focusing on the mid-depth zone between 12–22 meters where invertebrate density is highest. The reef top in shallower water can be subject to swell surge. Allow ample time for a slow, controlled ascent and a 3-minute safety stop at 5 meters.
 
 ## Entry and Exit
 
-Boat dive access from Ketchikan or nearby operators. Descend directly on a line or GPS coordinates. Maintain group cohesion.
-
+Access is by dive boat from Juneau or nearby operators. Juneau has several active dive operators familiar with local slack tide schedules and reef locations. Descend on a shot line in areas with current potential.
 
 ## Tips and Recommendations
 
-- Book with a local dive operator familiar with slack tide schedules
-- Wear dry suit with proper thermal insulation
-- Install cold-water regulator
-- Use a dive torch for fauna spotting
-- Deploy surface marker buoy (SMB) at ascent
-- Practice buoyancy control on rocky bottom
-
+- Visibility is typically best in late winter and early spring before plankton blooms
+- Glacier-fed meltwater can sharply reduce visibility at certain times of year — ask local operators
+- A dry suit undergarment rated for sub-10°C water is essential
+- Strong flashlight or video light enhances color rendition significantly in these dark-water conditions
+- Coordinate with Juneau dive operators for the latest conditions on this site
 
 ## Safety Considerations
 
-This is an Advanced site requiring cold-water and current diving experience. Strong currents demand slack tide coordination. Limited visibility in glacier outflow requires navigation skills. Always dive with buddy, maintain group cohesion, and abort if conditions deteriorate.
-
+Cold water (as low as 4°C in some seasons) makes hypothermia a genuine risk if thermal protection fails. Glacial particulate can reduce visibility rapidly. Tidal currents in the Lynn Canal system can be powerful and unpredictable — always verify slack windows with local knowledge.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Cohen Reef rewards photographers who embrace cold-water subjects. Plumose anemones, nudibranchs, and colorful sea stars make excellent macro subjects. Under artificial light the reds and oranges of encrusting life are revealed dramatically. Wide-angle shots of the anemone-covered reef face require close focus for impact.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*

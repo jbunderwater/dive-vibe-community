@@ -13,55 +13,54 @@ addedBy: osm_import
 
 ## Coral Garden
 
-Coral Garden is a reef dive site in Bali, Asia.
+A vibrant shallow reef on the north side of Menjangan Island, rich with hard and soft corals and suited to all experience levels.
 
 ## Overview
 
-Coral Garden is a dive site in Bali offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Coral Garden occupies the northern coastline of Menjangan Island within West Bali National Park, beginning at 5 m and sloping steeply to over 40 m. The reef is celebrated for the density and health of its hard and soft corals — colourful gorgonian fans, table corals, and large barrel sponges create a kaleidoscopic underwater landscape. Cleaning stations attract larger fish, while shallow sections between 5–12 m host clownfish in their anemones alongside titan triggerfish and scorpionfish. The protected location within the national park means the reef has been largely undisturbed, making it one of the most pristine coral environments in Bali.
 
 ## Site Information
 
-- **Location**: Bali, Asia
+- **Location**: Menjangan Island, West Bali National Park, northwest Bali
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Slope / Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 20 m (reef continues deeper)
+- **Typical Visibility**: 15–30 m
+- **Current**: Generally mild; occasional light current
+- **Best Time**: April to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Clownfish and their host anemones are found throughout the shallows. Bigeye trevally, titan triggerfish, and scorpionfish are common. Deeper sections host stingrays, sea turtles, garden eels in sandy patches, and large grouper. Nudibranchs are plentiful on the reef rubble, and pygmy seahorses have been found in the gorgonians. Sharks — particularly whitetip reef sharks — are occasionally seen below 20 m.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Most divers stay between 5–18 m, following the sloping reef as it transitions from hard coral plateau to steep wall. The shallow cleaning station areas between 5–12 m offer the densest fish life. Beginners should follow the slope; more experienced divers can drop to the wall section below 20 m. Allow adequate air for a 5-minute safety stop before ascending.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Reach Menjangan Island by boat from Labuhan Lalang, northwest Bali. Entry via back roll or giant stride from the dive boat. The site is sheltered with minimal current, making it easy to manage. Follow the boat crew's instructions for SMB deployment and surface pickup.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- An excellent site for new divers and underwater photographers at any experience level
+- The shallow reef between 5–12 m is ideal for beginners and snorkellers
+- Look for scorpionfish resting motionless on coral heads — they are well camouflaged
+- Check sandy patches at the base of the slope for garden eels and stingrays
+- Pair with a dive at Bat Cave or Pos 2 for a full-day Menjangan experience
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Titan triggerfish nest in the shallow sections — give them a wide berth, especially from June to August. Currents are usually mild but can pick up on the wall sections below 20 m. Maintain neutral buoyancy to avoid damaging delicate coral structures. Dive within your certification limits.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Coral Garden is one of Bali's best underwater photography sites. The shallow, bright reef provides excellent natural light for wide-angle shots of coral formations and fish schools. Look for clownfish portrait opportunities in the anemones, and explore the deeper gorgonians for pygmy seahorses and nudibranchs with a macro lens.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*

@@ -13,55 +13,54 @@ addedBy: osm_import
 
 ## Manta Point
 
-Manta Point is a reef dive site in Bali, Asia.
+Nusa Penida's most celebrated manta ray cleaning station — nearly year-round encounters with reef manta rays on a shallow coral plateau.
 
 ## Overview
 
-Manta Point is a renowned dive site in Bali offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Manta Point is located on the southwestern coast of Nusa Penida and is the most reliable place in Bali to observe reef manta rays in their natural environment. The site centres on several coral head cleaning stations where manta rays circle continuously while small cleaner wrasses remove parasites from their skin. Most encounters happen at 5–15 m as the mantas rise to the cleaning stations, making this accessible even to snorkellers above. The site extends across a sandy seabed and a vibrant coral plateau, with a second cleaning station reachable by following the reef. Outside of stormy conditions, operators report manta encounter rates exceeding 90%.
 
 ## Site Information
 
-- **Location**: Bali, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Location**: Southwest coast of Nusa Penida, Bali region
+- **Entry Type**: Boat dive (45 min from Toyapakeh or Sanur)
+- **Site Type**: Reef / Cleaning Station
+- **Difficulty Level**: Beginner (conditions can elevate to Advanced)
+- **Maximum Depth**: 15 m (manta encounters)
+- **Typical Visibility**: 10–20 m
+- **Current**: Variable; can be strong on the exposed southern coast
+- **Best Time**: April to October for most stable conditions
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Reef manta rays with wingspans up to 5 m are the headline attraction. Rare melanistic (all-black) manta rays have been recorded here. Blue-spotted stingrays rest on the sandy seabed, bamboo sharks cruise the reef base, and nudibranchs, Zanzibar shrimps, and porcelain crabs inhabit the coral structure. Mola mola (oceanic sunfish) are occasionally seen on the wall during the July–October season, and whale shark sightings have been recorded.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the sandy seabed at around 12–15 m and approach the cleaning station slowly from a distance. Kneel or hover neutrally in the sand, remaining still while the mantas circle. Avoid rising above the mantas or chasing them. Follow the sandy plateau to the second cleaning station before ascending via the coral reef. Safety stop at 5 m for 3 minutes.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat only — no shore access exists. Depart from Toyapakeh (Nusa Penida) or Sanur (Bali). The boat journey can be rough crossing the Badung Strait; motion sickness medication is recommended for susceptible divers. Entry via back roll or giant stride.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Approach cleaning stations slowly and stay low — do not shadow the mantas from above
+- Wear a 5–7 mm wetsuit; water temperature can drop to 15–18°C on the exposed southern side
+- Manta encounters are not guaranteed; operators will advise on alternative sites if conditions prevent access
+- Stay at Nusa Penida for 2–3 days to maximise opportunities and explore other sites
+- Early morning departures experience less boat traffic at the cleaning stations
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The site is fully exposed to Indian Ocean swell, and surge can be powerful. Strong currents are possible. Only dive in good conditions and follow your guide's briefing — operators cancel trips to this site when weather conditions are unsafe. A 5–7 mm wetsuit is essential due to cold water upwellings. Always carry an SMB.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Manta rays at close range on the cleaning station provide world-class wide-angle subjects. Use a rectilinear wide-angle lens for belly shots as they circle overhead. Avoid using flash on the mantas — natural light combined with sunbursts from above works beautifully at 10–15 m depth.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*

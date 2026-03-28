@@ -13,61 +13,55 @@ addedBy: osm_import
 
 ## Client Reefs
 
-Client Reefs is a reef dive site in Alaska, North America.
+Offshore rocky reef system near Prince Rupert where cold Pacific currents fuel dramatic invertebrate life.
 
 ## Overview
 
-Client Reefs is a dive site in Alaska offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Client Reefs lie in the productive waters near the Alaska–British Columbia border, accessed from the Prince Rupert corridor. This cluster of submerged rocky formations intercepts the tidal streams flowing through Chatham Sound, delivering a constant supply of nutrients that support dense communities of filter feeders. The reefs are blanketed by plumose anemones, encrusting sponges, and colorful sea stars, with lingcod and rockfish holding position on the exposed pinnacles. These are remote sites with no onshore infrastructure nearby, requiring a well-prepared boat dive operation. The cold, clear water typical of this region provides excellent contrast for photography when plankton levels are low.
 
 ## Site Information
 
-- **Location**: Southeast Alaska (Ketchikan area), Alaska
+- **Location**: Chatham Sound area, Southeast Alaska near Prince Rupert
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Advanced
-- **Typical Visibility**: 8-20 meters (26-66 feet)
-- **Current**: Strong, slack tide required
-- **Water Temperature**: 6-12°C (43-54°F)
-- **Best Time**: July-September (warmest months)
-
+- **Maximum Depth**: 25 meters (82 feet)
+- **Typical Visibility**: 8–18 meters (26–60 feet)
+- **Current**: Moderate to strong — slack tide required
+- **Water Temperature**: 6–12°C (43–54°F)
+- **Best Time**: June–September
 
 ## Marine Life
 
-The rocky formations support cold-water invertebrate communities including sea urchins, starfish, anemones, nudibranchs, and sponges. Lingcod, rockfish, and cabezon patrol the rocks. Giant Pacific octopus inhabit rock crevices. Kelp fronds extend from shallower formations.
-
+Client Reefs host classic cold-water Pacific communities: plumose anemones in white and orange clusters, various sea star species, sunflower stars, nudibranchs, and horse mussels. Lingcod are common on exposed rock faces. Giant Pacific octopus are resident in deeper crevices. Schools of black rockfish may be encountered in mid-water above the reef structure.
 
 ## Dive Profile
 
-Descend to the rocky formation and stay close to structure for current management. Explore rock faces and crevices watching for fauna. Most dive time spent between 15-24 meters. Watch for large mobile fauna on exposed areas.
-
+Descend onto the reef top during the slack tide window and explore the perimeter systematically. The upper reef between 8–14 meters holds the densest invertebrate life. Deeper sections at 18–25 meters offer larger rock faces and better encounters with lingcod. Monitor your air consumption carefully — distances to shore are considerable and conditions can deteriorate quickly.
 
 ## Entry and Exit
 
-Boat dive access from Ketchikan or nearby operators. Descend directly on a line or GPS coordinates. Maintain group cohesion.
-
+Access requires a capable charter boat from Prince Rupert or southern Southeast Alaska operators. There are no mooring buoys — anchoring or GPS drift diving is typical. Always carry redundant surface signaling devices given the remote location.
 
 ## Tips and Recommendations
 
-- Book with a local dive operator familiar with slack tide schedules
-- Wear dry suit with proper thermal insulation
-- Install cold-water regulator
-- Use a dive torch for fauna spotting
-- Deploy surface marker buoy (SMB) at ascent
-- Practice buoyancy control on rocky bottom
-
+- Use a dive computer with nitrox capability to extend bottom time
+- Dry suit certification is mandatory — these waters are consistently cold year-round
+- Check both tidal and weather windows before committing to an offshore run
+- A dive knife or shears is wise in case of kelp entanglement
+- Buddy teams should stay within visual range given current potential
 
 ## Safety Considerations
 
-This is an Advanced site requiring cold-water and current diving experience. Strong currents demand slack tide coordination. Limited visibility in glacier outflow requires navigation skills. Always dive with buddy, maintain group cohesion, and abort if conditions deteriorate.
-
+Remoteness is the primary consideration at Client Reefs. Boat breakdown or weather deterioration presents a genuine risk far from port. Ensure your vessel has adequate safety equipment, communications gear, and abort protocols. Strong currents demand strict slack-tide diving discipline. Always deploy an SMB on ascent.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The dense anemone colonies and colorful encrusting invertebrates make Client Reefs excellent for wide-angle reef photography. Macro photographers will find nudibranchs and small crustaceans among the bryozoan mats. Strobes are essential to reveal the red and orange tones otherwise lost at depth.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*
