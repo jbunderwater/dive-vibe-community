@@ -32,7 +32,7 @@ Abu Salama is one of the scattered offshore and nearshore reef structures along 
 
 ## Marine Life
 
-The reef supports the characteristic community of northern and central Egyptian Red Sea species. Napoleon wrasse are reported as residents, circling the reef mid-water. Parrotfish, surgeonfish, and groupers are abundant. Sea turtles rest on the reef and are commonly encountered. Moray eels occupy crevices throughout, and lionfish patrol the shaded undersides of coral tables. The sandy margin at the reef base hosts garden eels and bluespotted ribbontail rays, making a slow exploration of the base zone worthwhile.
+The reef supports the characteristic community of northern and central Egyptian Red Sea species. humphead wrasse are reported as residents, circling the reef mid-water. Parrotfish, surgeonfish, and groupers are abundant. Sea turtles rest on the reef and are commonly encountered. Moray eels occupy crevices throughout, and lionfish patrol the shaded undersides of coral tables. The sandy margin at the reef base hosts garden eels and bluespotted ribbontail rays, making a slow exploration of the base zone worthwhile.
 
 ## Dive Profile
 
@@ -55,7 +55,7 @@ Light to moderate current is typical at this site. Fire coral is present on prot
 
 ## Photography
 
-The coral formations at 8–12 meters provide strong wide-angle subject matter in good natural light. The sandy base offers ray and garden eel subjects for photographers willing to explore the lowest section. Napoleon wrasse and sea turtle portraits are achievable with patient positioning.
+The coral formations at 8–12 meters provide strong wide-angle subject matter in good natural light. The sandy base offers ray and garden eel subjects for photographers willing to explore the lowest section. humphead wrasse and sea turtle portraits are achievable with patient positioning.
 
 ## Additional Resources
 

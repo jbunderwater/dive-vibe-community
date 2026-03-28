@@ -32,7 +32,7 @@ At this latitude, Abu Seif lies in one of the most rarely visited stretches of t
 
 ## Marine Life
 
-Southern Red Sea reefs at this latitude host the full complement of top predators in significant numbers. Grey reef sharks and whitetip reef sharks are common. Large napoleon wrasse, substantial groupers, and barracuda schools are characteristic of this level of isolation. The coral community on a rarely-visited reef reflects decades of undisturbed growth: large table corals, dense gorgonian sea fans, and walls covered in brilliant soft corals. Sea turtles are present throughout the broader Red Sea and visit clean reef sites regularly.
+Southern Red Sea reefs at this latitude host the full complement of top predators in significant numbers. Grey reef sharks and whitetip reef sharks are common. Large humphead wrasse, substantial groupers, and barracuda schools are characteristic of this level of isolation. The coral community on a rarely-visited reef reflects decades of undisturbed growth: large table corals, dense gorgonian sea fans, and walls covered in brilliant soft corals. Sea turtles are present throughout the broader Red Sea and visit clean reef sites regularly.
 
 ## Dive Profile
 

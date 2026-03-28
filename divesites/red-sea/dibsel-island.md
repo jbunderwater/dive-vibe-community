@@ -32,7 +32,7 @@ The island itself is a low-lying coral cay surrounded by fringing reef on multip
 
 ## Marine Life
 
-The fringing reefs around Dibsel Island support thriving populations of reef fish — anthias clouds, emperor angelfish, large Napoleon wrasse, and dense schools of snapper are consistently reported. Sea turtles are frequent visitors to the shallower reef flat. Reef sharks patrol the deeper sections. In the pelagic zone off the island, barracuda, trevally, and occasional hammerhead sharks are encountered. The reef's remoteness means marine life exhibits little fear of divers — a rare characteristic in the more heavily visited northern Red Sea.
+The fringing reefs around Dibsel Island support thriving populations of reef fish — anthias clouds, emperor angelfish, large humphead wrasse, and dense schools of snapper are consistently reported. Sea turtles are frequent visitors to the shallower reef flat. Reef sharks patrol the deeper sections. In the pelagic zone off the island, barracuda, trevally, and occasional hammerhead sharks are encountered. The reef's remoteness means marine life exhibits little fear of divers — a rare characteristic in the more heavily visited northern Red Sea.
 
 ## Dive Profile
 
@@ -56,7 +56,7 @@ Remote location means emergency medical support is hours away. Ensure your dive 
 
 ## Photography
 
-Dibsel Island rewards wide-angle photographers with pristine coral scenery and approachable reef fish. The shallow reef flat in calm morning conditions is excellent for natural-light reef photography. Look for cleaning stations on the outer slope where Napoleon wrasse and sharks come in for attention from cleaner wrasse — these are outstanding behavioural photography opportunities.
+Dibsel Island rewards wide-angle photographers with pristine coral scenery and approachable reef fish. The shallow reef flat in calm morning conditions is excellent for natural-light reef photography. Look for cleaning stations on the outer slope where humphead wrasse and sharks come in for attention from cleaner wrasse — these are outstanding behavioural photography opportunities.
 
 ---
 *This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

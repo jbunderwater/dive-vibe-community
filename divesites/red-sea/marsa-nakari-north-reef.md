@@ -32,7 +32,7 @@ The Marsa Nakari reef system benefits from its location within a protected natio
 
 ## Marine Life
 
-The undisturbed reefs of the Marsa Nakari area support exceptional marine biodiversity. Sea turtles are a consistent highlight throughout the Wadi el Gemal region — both green and hawksbill turtles are documented at Marsa Nakari. Napoleon wrasse are commonly encountered on the reef, along with large groupers that are notably less wary of divers than at heavily trafficked northern sites. Grey reef sharks patrol the outer edges. Dense anthias and chromis populations cover every coral head, while the larger hard coral formations shelter moray eels and lionfish. The relative isolation means fish populations are measurably larger and calmer than at resort dive sites.
+The undisturbed reefs of the Marsa Nakari area support exceptional marine biodiversity. Sea turtles are a consistent highlight throughout the Wadi el Gemal region — both green and hawksbill turtles are documented at Marsa Nakari. humphead wrasse are commonly encountered on the reef, along with large groupers that are notably less wary of divers than at heavily trafficked northern sites. Grey reef sharks patrol the outer edges. Dense anthias and chromis populations cover every coral head, while the larger hard coral formations shelter moray eels and lionfish. The relative isolation means fish populations are measurably larger and calmer than at resort dive sites.
 
 ## Dive Profile
 
@@ -45,7 +45,7 @@ Accessed by liveaboard from Marsa Alam or day boats from the Hamata area. Entry 
 ## Tips and Recommendations
 
 - The Wadi el Gemal area is best explored on an extended liveaboard — combine Marsa Nakari North and South reefs in a single day
-- Fish are noticeably calmer here due to minimal diver pressure — move slowly and approach large species (napoleon wrasse, groupers, turtles) at their pace
+- Fish are noticeably calmer here due to minimal diver pressure — move slowly and approach large species (humphead wrasse, groupers, turtles) at their pace
 - The site is remote; carry full safety equipment including a charged SMB, signal mirror, and audible device
 - Water temperatures in this southern area are slightly cooler in winter — a 5mm wetsuit is comfortable from November to March
 
@@ -55,7 +55,7 @@ The remote location of Marsa Nakari requires greater self-sufficiency than resor
 
 ## Photography
 
-The minimal diver pressure at Marsa Nakari translates to more natural fish behaviour and closer approach distances for photography. Sea turtle portraits, napoleon wrasse close-ups, and wide-angle reef scenes with dense fish populations are all achievable here. The excellent water clarity and healthy coral provide compelling backgrounds for any subject.
+The minimal diver pressure at Marsa Nakari translates to more natural fish behaviour and closer approach distances for photography. Sea turtle portraits, humphead wrasse close-ups, and wide-angle reef scenes with dense fish populations are all achievable here. The excellent water clarity and healthy coral provide compelling backgrounds for any subject.
 
 ---
 *This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

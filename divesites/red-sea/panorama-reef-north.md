@@ -32,7 +32,7 @@ The northern tip of Panorama Reef is characterized by a pronounced reef point wh
 
 ## Marine Life
 
-The northern tip is particularly productive for fish watching. Large schools of snapper and fusiliers orbit the point, pursued by trevally and barracuda. Napoleon wrasse are habituated to divers at this site and sometimes approach closely. Whitetip reef sharks rest on the sandy bottom between 18-25 meters. Turtles, both hawksbill and green, are frequent visitors to the reef top. The coral heads in the shallows support clownfish, butterflyfish, and dense anthias shoals.
+The northern tip is particularly productive for fish watching. Large schools of snapper and fusiliers orbit the point, pursued by trevally and barracuda. humphead wrasse are habituated to divers at this site and sometimes approach closely. Whitetip reef sharks rest on the sandy bottom between 18-25 meters. Turtles, both hawksbill and green, are frequent visitors to the reef top. The coral heads in the shallows support clownfish, butterflyfish, and dense anthias shoals.
 
 ## Dive Profile
 
@@ -46,7 +46,7 @@ Boat access from Hurghada or day trips from El Gouna. Giant stride entry with de
 
 - The tip of the north point is best dived when there is some gentle current to attract schools and pelagics
 - Check both sides of the point for whitetip reef sharks resting on sandy patches
-- Napoleon wrasse at this site are often friendly — respect their space but enjoy the encounter
+- humphead wrasse at this site are often friendly — respect their space but enjoy the encounter
 - Start your dive at the point and drift back along whichever face offers better conditions
 
 ## Safety Considerations
@@ -55,7 +55,7 @@ Current strength at the point can be variable and increases with tidal cycles. I
 
 ## Photography
 
-The reef point is ideal for wide-angle fish portraits — Napoleon wrasse will often pose for photographs. The dense school aggregations at the tip create impressive wide-angle opportunities. Coral heads in the shallows have good color and detail for reef macro and close-focus wide-angle work. Shoot toward the blue water off the point for silhouette schooling fish images.
+The reef point is ideal for wide-angle fish portraits — humphead wrasse will often pose for photographs. The dense school aggregations at the tip create impressive wide-angle opportunities. Coral heads in the shallows have good color and detail for reef macro and close-focus wide-angle work. Shoot toward the blue water off the point for silhouette schooling fish images.
 
 ---
 *This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

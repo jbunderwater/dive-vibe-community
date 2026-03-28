@@ -32,7 +32,7 @@ El Casra is a submerged reef platform with a characteristic Red Sea profile: the
 
 ## Marine Life
 
-The reef hosts the core species of the Egyptian Red Sea: Napoleon wrasse, various groupers, cloud-like schools of anthias, and bright butterflyfish pairs. Moray eels occupy crevices along the deeper sections, and lionfish are present in most underhangs. Sea turtles are regularly sighted grazing the reef crown. Schools of snapper and fusiliers orbit the reef structure, while barracuda and the occasional reef shark cruise the outer edges. The sandy terrain adjacent to the reef base holds goby-shrimp pairs and blue-spotted stingrays.
+The reef hosts the core species of the Egyptian Red Sea: humphead wrasse, various groupers, cloud-like schools of anthias, and bright butterflyfish pairs. Moray eels occupy crevices along the deeper sections, and lionfish are present in most underhangs. Sea turtles are regularly sighted grazing the reef crown. Schools of snapper and fusiliers orbit the reef structure, while barracuda and the occasional reef shark cruise the outer edges. The sandy terrain adjacent to the reef base holds goby-shrimp pairs and blue-spotted stingrays.
 
 ## Dive Profile
 

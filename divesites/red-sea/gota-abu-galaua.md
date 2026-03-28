@@ -32,7 +32,7 @@ Gota Abu Galaua is an offshore pinnacle reef in the central Egyptian Red Sea, si
 
 ## Marine Life
 
-The isolated pinnacle acts as a magnet for pelagic species. Schools of trevally and jacks orbit the structure, while barracuda hang in the current flow above. Resident Napoleon wrasse and large groupers occupy the deeper overhangs below 12 meters. Sharks — particularly grey reef and whitetip reef sharks — are regularly seen circling at depth. Soft corals on the deeper flanks shelter glassy sweepers and small cardinalfish. Hawksbill turtles are a near-certain sighting on most dives. The reef top hosts the usual Red Sea reef fish community in abundance: butterflyfish, surgeonfish, and chromis in thick schools.
+The isolated pinnacle acts as a magnet for pelagic species. Schools of trevally and jacks orbit the structure, while barracuda hang in the current flow above. Resident humphead wrasse and large groupers occupy the deeper overhangs below 12 meters. Sharks — particularly grey reef and whitetip reef sharks — are regularly seen circling at depth. Soft corals on the deeper flanks shelter glassy sweepers and small cardinalfish. Hawksbill turtles are a near-certain sighting on most dives. The reef top hosts the usual Red Sea reef fish community in abundance: butterflyfish, surgeonfish, and chromis in thick schools.
 
 ## Dive Profile
 

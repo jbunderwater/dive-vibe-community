@@ -32,7 +32,7 @@ Rocky South sits on the southern face of its reef structure, receiving the predo
 
 ## Marine Life
 
-The current-exposed southern face supports schooling fish that feed in the flow — fusiliers, anthias, and surgeonfish pack the water above the reef crest. Napoleon wrasse patrol the deeper reef sections. Moray eels occupy the coral crevices throughout the dive, and lionfish perch on coral heads and ledges. Reef sharks are occasionally observed along the outer reef edge. Sea turtles rest on the flat sections of coral platform and green turtles are regularly encountered at this depth range in the central Red Sea.
+The current-exposed southern face supports schooling fish that feed in the flow — fusiliers, anthias, and surgeonfish pack the water above the reef crest. humphead wrasse patrol the deeper reef sections. Moray eels occupy the coral crevices throughout the dive, and lionfish perch on coral heads and ledges. Reef sharks are occasionally observed along the outer reef edge. Sea turtles rest on the flat sections of coral platform and green turtles are regularly encountered at this depth range in the central Red Sea.
 
 ## Dive Profile
 
@@ -55,7 +55,7 @@ Current can be moderate to strong on the southern exposure. Be prepared for drif
 
 ## Photography
 
-The current-exposed slope produces dynamic wide-angle shots with schooling fish framed against the coral. Morning light striking the south face creates good ambient conditions through the first part of the day. Napoleon wrasse portraits and reef fish schooling shots over the coral crest are the primary subjects. Macro shooting in the crevices produces moray and lionfish portraits.
+The current-exposed slope produces dynamic wide-angle shots with schooling fish framed against the coral. Morning light striking the south face creates good ambient conditions through the first part of the day. humphead wrasse portraits and reef fish schooling shots over the coral crest are the primary subjects. Macro shooting in the crevices produces moray and lionfish portraits.
 
 ## Additional Resources
 

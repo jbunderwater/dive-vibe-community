@@ -32,7 +32,7 @@ addedBy: osm_import
 
 ## Marine Life
 
-The pinnacles attract dense aggregations of schooling fish — glassfish, fusiliers, and anthias swarm the structures in spectacular numbers. Large grouper and snapper patrol the bases, and Napoleon wrasse are regularly spotted. Reef sharks occasionally cruise the deeper sections between pinnacles. The nutrient-rich current draws planktivores in abundance, which in turn attracts larger predators. Turtles are sometimes seen resting on the coral heads.
+The pinnacles attract dense aggregations of schooling fish — glassfish, fusiliers, and anthias swarm the structures in spectacular numbers. Large grouper and snapper patrol the bases, and humphead wrasse are regularly spotted. Reef sharks occasionally cruise the deeper sections between pinnacles. The nutrient-rich current draws planktivores in abundance, which in turn attracts larger predators. Turtles are sometimes seen resting on the coral heads.
 
 ## Dive Profile
 

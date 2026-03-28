@@ -32,7 +32,7 @@ White Knight lies within the broader Sharm el-Sheikh diving area and is known fo
 
 ## Marine Life
 
-White Knight hosts a typical Sinai reef community with good density and variety. Anthias cloud the upper coral formations in large numbers. Reef fish including surgeonfish, wrasse, triggerfish, and pufferfish are routinely sighted. Moray eels inhabit the crevices and are frequently spotted by attentive divers. Sea turtles are occasionally seen resting on the larger coral heads, particularly in the early morning. Napoleon wrasse pass through periodically. Stonefish and scorpionfish blend into the reef rubble zones and require careful attention.
+White Knight hosts a typical Sinai reef community with good density and variety. Anthias cloud the upper coral formations in large numbers. Reef fish including surgeonfish, wrasse, triggerfish, and pufferfish are routinely sighted. Moray eels inhabit the crevices and are frequently spotted by attentive divers. Sea turtles are occasionally seen resting on the larger coral heads, particularly in the early morning. humphead wrasse pass through periodically. Stonefish and scorpionfish blend into the reef rubble zones and require careful attention.
 
 ## Dive Profile
 

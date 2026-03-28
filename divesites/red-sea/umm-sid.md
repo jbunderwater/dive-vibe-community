@@ -32,7 +32,7 @@ Umm Sid sits just south of Sharm el-Sheikh and is accessed by boat from the Na'a
 
 ## Marine Life
 
-The coral pillars at Umm Sid shelter a diverse community of reef fish. Napoleon wrasse (humphead wrasse) are frequently encountered cruising between the towers, along with large groups of anthias, glassfish, and banner fish. Moray eels and lionfish lurk in the crevices. Sea turtles rest on the coral heads and are commonly spotted by divers. Triggerfish, surgeonfish, and butterflyfish populate the shallower reef platform. Reef sharks occasionally patrol the deeper sandy channels between the pillars.
+The coral pillars at Umm Sid shelter a diverse community of reef fish. humphead wrasse (humphead wrasse) are frequently encountered cruising between the towers, along with large groups of anthias, glassfish, and banner fish. Moray eels and lionfish lurk in the crevices. Sea turtles rest on the coral heads and are commonly spotted by divers. Triggerfish, surgeonfish, and butterflyfish populate the shallower reef platform. Reef sharks occasionally patrol the deeper sandy channels between the pillars.
 
 ## Dive Profile
 
@@ -56,7 +56,7 @@ Fire coral is present throughout the reef; maintain careful buoyancy and avoid c
 
 ## Photography
 
-The coral pillars at Umm Sid are among the most photogenic structures in the Sharm el-Sheikh area. Wide-angle shots looking up through the towers toward the surface produce striking silhouettes when sun angle is favorable. Napoleon wrasse and turtles offer compelling portrait subjects. Macro photographers will find nudibranchs, shrimp, and small gobies along the encrusted pillar bases. Shoot during the morning for natural light filtering through the formations.
+The coral pillars at Umm Sid are among the most photogenic structures in the Sharm el-Sheikh area. Wide-angle shots looking up through the towers toward the surface produce striking silhouettes when sun angle is favorable. humphead wrasse and turtles offer compelling portrait subjects. Macro photographers will find nudibranchs, shrimp, and small gobies along the encrusted pillar bases. Shoot during the morning for natural light filtering through the formations.
 
 ---
 *This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

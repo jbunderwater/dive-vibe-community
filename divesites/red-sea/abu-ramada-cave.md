@@ -32,7 +32,7 @@ Abu Ramada Cave sits on the southern edge of Abu Ramada Island, one of the coral
 
 ## Marine Life
 
-The drift along Abu Ramada Cave's southern wall regularly produces sightings of Napoleon wrasse cruising in the current, along with large schools of glassy sweepers sheltering inside and around the cave entrance. Bluespotted ribbontail rays rest on sandy patches between coral heads, while lionfish and scorpionfish blend into the reef structure. Reef sharks are occasional visitors, and green sea turtles are frequently spotted resting on the coral terraces. The cave interior harbors moray eels, shrimp, and a variety of invertebrates.
+The drift along Abu Ramada Cave's southern wall regularly produces sightings of humphead wrasse cruising in the current, along with large schools of glassy sweepers sheltering inside and around the cave entrance. Bluespotted ribbontail rays rest on sandy patches between coral heads, while lionfish and scorpionfish blend into the reef structure. Reef sharks are occasional visitors, and green sea turtles are frequently spotted resting on the coral terraces. The cave interior harbors moray eels, shrimp, and a variety of invertebrates.
 
 ## Dive Profile
 
@@ -56,7 +56,7 @@ Currents can accelerate unexpectedly around the island's southern tip. Divers sh
 
 ## Photography
 
-The cave entrance provides a natural frame for wide-angle shots with sunlight streaming in from the opening. The drift section offers opportunities to photograph Napoleon wrasse and turtles in open water. Inside the cave, a strobe is essential to bring out the crimson and orange sponges coating the walls.
+The cave entrance provides a natural frame for wide-angle shots with sunlight streaming in from the opening. The drift section offers opportunities to photograph humphead wrasse and turtles in open water. Inside the cave, a strobe is essential to bring out the crimson and orange sponges coating the walls.
 
 ## Additional Resources
 

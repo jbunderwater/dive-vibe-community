@@ -32,7 +32,7 @@ El Aruk Gigi is a submerged coral pinnacle rising from the sandy bottom to withi
 
 ## Marine Life
 
-Isolated pinnacles like El Aruk Gigi function as congregation points for pelagic fish. Schools of snapper, barracuda, and jacks regularly circle the structure. Napoleon wrasse and large groupers are resident. Reef sharks — predominantly grey tip and whitetip — patrol the base of the pinnacle. The sandy patches surrounding the pinnacle hold blue-spotted stingrays, garden eels, and various goby species. Sea turtles are frequently sighted resting on the upper crown of the structure.
+Isolated pinnacles like El Aruk Gigi function as congregation points for pelagic fish. Schools of snapper, barracuda, and jacks regularly circle the structure. humphead wrasse and large groupers are resident. Reef sharks — predominantly grey tip and whitetip — patrol the base of the pinnacle. The sandy patches surrounding the pinnacle hold blue-spotted stingrays, garden eels, and various goby species. Sea turtles are frequently sighted resting on the upper crown of the structure.
 
 ## Dive Profile
 

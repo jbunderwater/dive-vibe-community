@@ -36,7 +36,7 @@ The south reef arm at Marsa Nakari features a sloping outer wall with coral form
 
 ## Marine Life
 
-Sea turtles are the headline wildlife encounter throughout the Marsa Nakari system, and the South Reef is no exception — both green and hawksbill turtles regularly patrol the reef, resting on sandy sections and grazing. The south-facing outer slope supports good populations of larger fish: napoleon wrasse, groupers, and grey reef sharks are all reported consistently by operators visiting this site. The inner bay side of the south reef has softer, gentler coral growth suited to slower exploration, with anthias, chromis, butterflyfish, and the full complement of Red Sea reef fish in abundance.
+Sea turtles are the headline wildlife encounter throughout the Marsa Nakari system, and the South Reef is no exception — both green and hawksbill turtles regularly patrol the reef, resting on sandy sections and grazing. The south-facing outer slope supports good populations of larger fish: humphead wrasse, groupers, and grey reef sharks are all reported consistently by operators visiting this site. The inner bay side of the south reef has softer, gentler coral growth suited to slower exploration, with anthias, chromis, butterflyfish, and the full complement of Red Sea reef fish in abundance.
 
 ## Dive Profile
 
@@ -59,7 +59,7 @@ Remote location and minimal nearby services require complete dive self-sufficien
 
 ## Photography
 
-The South Reef offers similar photography opportunities to the North Reef with the added dimension of the outer slope's different light angle in the afternoon. Wide-angle reef portraits on the outer wall, sea turtle subjects in the seagrass margin, and napoleon wrasse close-ups are all well-suited to this site. Morning dives favour the North Reef for best light; afternoon dives favour the South Reef's westward-facing outer wall.
+The South Reef offers similar photography opportunities to the North Reef with the added dimension of the outer slope's different light angle in the afternoon. Wide-angle reef portraits on the outer wall, sea turtle subjects in the seagrass margin, and humphead wrasse close-ups are all well-suited to this site. Morning dives favour the North Reef for best light; afternoon dives favour the South Reef's westward-facing outer wall.
 
 ---
 *This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

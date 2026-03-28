@@ -32,7 +32,7 @@ The Louilla sits at a relatively accessible depth with the shallowest sections n
 
 ## Marine Life
 
-The Louilla wreck hosts a community of encrusting organisms and resident fish that has established over decades. Schools of glassy sweepers fill interior spaces, and groupers occupy the shaded hold sections. Lionfish are abundant along shaded hull sections, and moray eels are common in every suitable crevice. The coral growth on the exterior supports sea fans, soft corals in orange and red, and a range of associated small invertebrates. In the open water surrounding the wreck, the Tiran area's characteristic mix of napoleon wrasse, barracuda schools, and grey reef sharks may be encountered.
+The Louilla wreck hosts a community of encrusting organisms and resident fish that has established over decades. Schools of glassy sweepers fill interior spaces, and groupers occupy the shaded hold sections. Lionfish are abundant along shaded hull sections, and moray eels are common in every suitable crevice. The coral growth on the exterior supports sea fans, soft corals in orange and red, and a range of associated small invertebrates. In the open water surrounding the wreck, the Tiran area's characteristic mix of humphead wrasse, barracuda schools, and grey reef sharks may be encountered.
 
 ## Dive Profile
 

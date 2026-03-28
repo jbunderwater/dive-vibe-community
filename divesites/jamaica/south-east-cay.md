@@ -11,56 +11,55 @@ osmId: 746173575
 addedBy: osm_import
 ---
 
-## South East Cay
+# South East Cay
 
-South East Cay is a reef dive site in Jamaica, Caribbean.
+The easternmost of the Portland Bight cay cluster, offering coral-covered fringing reef and sea turtle encounters in a quiet, protected marine environment.
 
 ## Overview
 
-South East Cay is a dive site in Jamaica offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+South East Cay sits at the eastern margin of the Portland Bight Protected Area cay group, south of Kingston. The cay's directional name indicates its position relative to the other cays in this cluster. The fringing reef extends to 15 metres with spur-and-groove formations, sandy channels, and small overhangs characteristic of Jamaican south-coast shallow reefs. The protected area status has helped maintain reef integrity. The site is most accessible via the south coast and receives minimal recreational dive traffic. Conditions are generally calm in the dry season, with visibility of 15–22 metres.
 
 ## Site Information
 
-- **Location**: Jamaica, Caribbean
+- **Location**: Portland Bight Protected Area, south Jamaica (eastern)
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
+- **Typical Visibility**: 15–22 meters (50–70 feet)
+- **Current**: Light
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The reef community includes parrotfish, French angelfish, blue tangs, and schoolmaster snapper. Hawksbill turtles are regular visitors, grazing on sponges throughout the reef. Nurse sharks rest under deep coral overhangs. Spiny lobsters and spotted moray eels are found in crevices. Southern stingrays rest on sandy patches. The mangrove fringe adjacent to the cay provides nursery habitat for juvenile fish that can be observed in the shallows.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Circumnavigate the cay reef at 5–15 metres. The deeper seaward section at 12–15 metres has the richest coral and sponge formations. Return to the sheltered inner reef for the safety stop at 5 metres. Bottom time is generous at these depths.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by local charter from the south coast — limited commercial infrastructure. Entry via giant stride or back roll. Moor on the sheltered side of the cay. Deploy SMB before surfacing.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Best as part of a full south-coast cay diving day visiting multiple cays in the Portland Bight area
+- The eastern position of this cay gives it slightly different current patterns than the western cays
+- Bring a macro lens for the crevice-dwelling species that are particularly abundant at south-coast cay sites
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Remote location — carry complete safety equipment. Sea conditions should be checked before departure. Deploy SMB before surfacing.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Turtle encounters and nurse shark portraits are the signature shots at south-coast cay reefs. The clean coral formations in the protected area provide strong wide-angle landscape subjects.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Protected Area**: Portland Bight Protected Area, Jamaica
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

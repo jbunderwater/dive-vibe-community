@@ -32,7 +32,7 @@ Marsalis Abu Galawa sits at a moderate intermediate depth of approximately 20 me
 
 ## Marine Life
 
-The Abu Galawa reef system is well known in the Marsa Alam dive community for sea turtle encounters — green turtles are commonly found resting and feeding on the seagrass and reef areas throughout this section of coast. The Marsalis section of Abu Galawa offers the reef flat and sloping habitat where napoleon wrasse, groupers, and moray eels take up territories. Schools of glassy sweepers and anthias are abundant on the shallow reef structures. Lionfish are present in shaded sections, and the sandy margins support garden eels and stingrays. At the right time of year, spinner dolphins enter the bay area.
+The Abu Galawa reef system is well known in the Marsa Alam dive community for sea turtle encounters — green turtles are commonly found resting and feeding on the seagrass and reef areas throughout this section of coast. The Marsalis section of Abu Galawa offers the reef flat and sloping habitat where humphead wrasse, groupers, and moray eels take up territories. Schools of glassy sweepers and anthias are abundant on the shallow reef structures. Lionfish are present in shaded sections, and the sandy margins support garden eels and stingrays. At the right time of year, spinner dolphins enter the bay area.
 
 ## Dive Profile
 

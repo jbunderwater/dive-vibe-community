@@ -32,7 +32,7 @@ Makadi Garden offers a coral garden dive in the productive nearshore reef enviro
 
 ## Marine Life
 
-The coral garden structure at Makadi Garden supports a typical Red Sea nearshore reef community. Napoleon wrasse of considerable size are documented in this area, often approaching dive groups with familiarity from regular human presence. Schools of anthias, chromis, and butterflyfish are constant on every coral head. Octopus, moray eels, and lionfish are regular crevice inhabitants. Stonefish, well-camouflaged against sandy substrate, require careful attention near the reef base. Sea turtles make occasional appearances at this and neighbouring Makadi Bay sites. The sandy channels between coral outcroppings are worth examining for garden eels, rays, and flatfish.
+The coral garden structure at Makadi Garden supports a typical Red Sea nearshore reef community. humphead wrasse of considerable size are documented in this area, often approaching dive groups with familiarity from regular human presence. Schools of anthias, chromis, and butterflyfish are constant on every coral head. Octopus, moray eels, and lionfish are regular crevice inhabitants. Stonefish, well-camouflaged against sandy substrate, require careful attention near the reef base. Sea turtles make occasional appearances at this and neighbouring Makadi Bay sites. The sandy channels between coral outcroppings are worth examining for garden eels, rays, and flatfish.
 
 ## Dive Profile
 
@@ -45,7 +45,7 @@ Boat dive from Makadi Bay resort jetties and dive centres. Entry via giant strid
 ## Tips and Recommendations
 
 - For the best experience, move slowly and look carefully at each coral structure — resident species like stonefish and frogfish reward attentive observation
-- Napoleon wrasse at this site are accustomed to divers and may approach closely — resist the temptation to feed or touch them
+- humphead wrasse at this site are accustomed to divers and may approach closely — resist the temptation to feed or touch them
 - This is an excellent site for the second or third dive of the day at a comfortable depth
 - Makadi Bay operators offer night dives at Makadi Garden — excellent for cuttlefish, octopus, and sleeping reef fish
 
@@ -55,7 +55,7 @@ Stonefish are present in sandy substrate areas adjacent to coral formations — 
 
 ## Photography
 
-Coral garden sites offer flexible composition options — wide-angle scenes capturing multiple coral heads with fish life above, or tight macro work on the encrusted surfaces. Napoleon wrasse close-up portraits are a signature Makadi area shot. The sandy channels make excellent foreground elements in wide compositions. Night photography at the garden yields cuttlefish and octopus hunting subjects.
+Coral garden sites offer flexible composition options — wide-angle scenes capturing multiple coral heads with fish life above, or tight macro work on the encrusted surfaces. humphead wrasse close-up portraits are a signature Makadi area shot. The sandy channels make excellent foreground elements in wide compositions. Night photography at the garden yields cuttlefish and octopus hunting subjects.
 
 ---
 *This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

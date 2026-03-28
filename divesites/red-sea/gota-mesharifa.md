@@ -32,7 +32,7 @@ Sitting in some of the most isolated and rarely-dived waters of the Egyptian Red
 
 ## Marine Life
 
-The isolation of this site means marine life is abundant and largely unafraid of divers. Napoleon wrasse of impressive size patrol the reef edge. Schools of snapper, fusiliers, and surgeonfish are extremely dense. Large groupers occupy the deeper overhangs, and giant moray eels are numerous. Hammerhead sharks are periodically encountered at depth, and reef sharks patrol the outer margins of the pinnacle. Hawksbill turtles rest on the reef flat. The clear southern water is host to occasional whale shark sightings on the surface during calm conditions.
+The isolation of this site means marine life is abundant and largely unafraid of divers. humphead wrasse of impressive size patrol the reef edge. Schools of snapper, fusiliers, and surgeonfish are extremely dense. Large groupers occupy the deeper overhangs, and giant moray eels are numerous. Hammerhead sharks are periodically encountered at depth, and reef sharks patrol the outer margins of the pinnacle. Hawksbill turtles rest on the reef flat. The clear southern water is host to occasional whale shark sightings on the surface during calm conditions.
 
 ## Dive Profile
 
@@ -56,7 +56,7 @@ The remote location is the primary safety concern. No shore-based assistance is 
 
 ## Photography
 
-The pristine reef and abundant fish life create excellent wide-angle opportunities. The density of fish schools in the clear southern Red Sea water is exceptional. Turtle portraits, Napoleon wrasse close-ups, and schooling snapper shots are all highly productive here.
+The pristine reef and abundant fish life create excellent wide-angle opportunities. The density of fish schools in the clear southern Red Sea water is exceptional. Turtle portraits, humphead wrasse close-ups, and schooling snapper shots are all highly productive here.
 
 ---
 *This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

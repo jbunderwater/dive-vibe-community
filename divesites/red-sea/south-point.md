@@ -32,7 +32,7 @@ South Point marks the southern extremity of an offshore reef system in the deep 
 
 ## Marine Life
 
-The southern Red Sea's remote reefs support strong populations of large pelagics alongside resident reef species. Hammerhead sharks and oceanic whitetip sharks are occasionally sighted on the outer reef slope. Sea turtles, spotted eagle rays, and large Napoleon wrasse are regular encounters. Dense schools of fusilers and snappers hover in the current while giant moray eels occupy the reef's crevices.
+The southern Red Sea's remote reefs support strong populations of large pelagics alongside resident reef species. Hammerhead sharks and oceanic whitetip sharks are occasionally sighted on the outer reef slope. Sea turtles, spotted eagle rays, and large humphead wrasse are regular encounters. Dense schools of fusilers and snappers hover in the current while giant moray eels occupy the reef's crevices.
 
 ## Dive Profile
 

@@ -32,7 +32,7 @@ Flamenco Hausriff is the house reef of the Flamenco Beach & Resort area near Saf
 
 ## Marine Life
 
-The soft-coral sections host numerous nudibranchs, flatworms, and ornate ghost pipefish — making it one of the better macro sites in the Safaga area. Blue-spotted stingrays rest on sandy patches between the coral heads. Anthias and glassfish swarm above the reef in impressive clouds, and Napoleon wrasse visit regularly. Reef octopuses are commonly found at night, along with sleeping parrotfish and hunting lionfish. Hawksbill turtles graze the sea grass areas at the reef's sandy edges.
+The soft-coral sections host numerous nudibranchs, flatworms, and ornate ghost pipefish — making it one of the better macro sites in the Safaga area. Blue-spotted stingrays rest on sandy patches between the coral heads. Anthias and glassfish swarm above the reef in impressive clouds, and humphead wrasse visit regularly. Reef octopuses are commonly found at night, along with sleeping parrotfish and hunting lionfish. Hawksbill turtles graze the sea grass areas at the reef's sandy edges.
 
 ## Dive Profile
 

@@ -32,7 +32,7 @@ Giftun Soraya (the smaller Giftun island, as opposed to the larger Giftun Kebir)
 
 ## Marine Life
 
-The shallow reef is teeming with colourful reef fish — butterflyfish, parrotfish, wrasse, and chromis fill the water above the coral. Clownfish inhabit anemones on the reef flat, and hawksbill turtles are regularly seen grazing. Napoleon wrasse are present and notably accustomed to human contact given the high visitor numbers. Bluespotted stingrays rest under coral overhangs, and sergeant major fish defend egg patches on flat rock surfaces. The sandy floor hosts garden eels at the reef base.
+The shallow reef is teeming with colourful reef fish — butterflyfish, parrotfish, wrasse, and chromis fill the water above the coral. Clownfish inhabit anemones on the reef flat, and hawksbill turtles are regularly seen grazing. humphead wrasse are present and notably accustomed to human contact given the high visitor numbers. Bluespotted stingrays rest under coral overhangs, and sergeant major fish defend egg patches on flat rock surfaces. The sandy floor hosts garden eels at the reef base.
 
 ## Dive Profile
 

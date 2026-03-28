@@ -32,7 +32,7 @@ The site consists of a horseshoe-shaped reef enclosing a broad shallow lagoon, w
 
 ## Marine Life
 
-The spinner dolphins are the headline attraction — pods of 50 to over 100 individuals frequently rest and socialise in the lagoon. Divers who enter calmly and avoid chasing the dolphins often experience extended encounters. The sandy lagoon floor hosts dense colonies of garden eels that retract as divers approach. The outer reef holds the typical Red Sea assemblage: anthias, butterflyfish, surgeonfish, Napoleon wrasse, octopus, and moray eels. Sea turtles are regularly sighted grazing on sea grass patches within the lagoon.
+The spinner dolphins are the headline attraction — pods of 50 to over 100 individuals frequently rest and socialise in the lagoon. Divers who enter calmly and avoid chasing the dolphins often experience extended encounters. The sandy lagoon floor hosts dense colonies of garden eels that retract as divers approach. The outer reef holds the typical Red Sea assemblage: anthias, butterflyfish, surgeonfish, humphead wrasse, octopus, and moray eels. Sea turtles are regularly sighted grazing on sea grass patches within the lagoon.
 
 ## Dive Profile
 

@@ -32,7 +32,7 @@ Rising from a sandy bottom to within a few meters of the surface, Habili Gaffar 
 
 ## Marine Life
 
-The current-washed flanks of Habili Gaffar support spectacular concentrations of fish. Enormous schools of barracuda and fusiliers swarm the pinnacle top, while large trevally and dogtooth tuna make sweeping passes. Whitetip reef sharks and grey reef sharks are commonly encountered, often sheltering in the lee of the pinnacle between hunting forays. Napoleon wrasse are resident and conspicuous. During the right season, hammerhead sharks and manta rays patrol the deeper water around the base of the pinnacle.
+The current-washed flanks of Habili Gaffar support spectacular concentrations of fish. Enormous schools of barracuda and fusiliers swarm the pinnacle top, while large trevally and dogtooth tuna make sweeping passes. Whitetip reef sharks and grey reef sharks are commonly encountered, often sheltering in the lee of the pinnacle between hunting forays. humphead wrasse are resident and conspicuous. During the right season, hammerhead sharks and manta rays patrol the deeper water around the base of the pinnacle.
 
 ## Dive Profile
 

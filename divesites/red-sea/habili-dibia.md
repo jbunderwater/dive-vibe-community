@@ -32,7 +32,7 @@ Habili Dibia lies in one of the least-visited zones of the Egyptian Red Sea. The
 
 ## Marine Life
 
-At this latitude and with this level of isolation, the marine community reflects a near-undisturbed ecosystem. Large Napoleon wrasse, sizeable groupers, and substantial schools of snapper are present in concentrations rarely encountered at busier sites. Reef sharks — grey reef and whitetip species — are common. Eagle rays and spotted eagle rays cross the sandy areas flanking the pinnacle. The exceptional visibility allows pelagic sightings at distance: hammerheads in mid-water and, on occasion, thresher sharks reported from liveaboard trip reports in the area. Hawksbill turtles are abundant in the wider southern Red Sea.
+At this latitude and with this level of isolation, the marine community reflects a near-undisturbed ecosystem. Large humphead wrasse, sizeable groupers, and substantial schools of snapper are present in concentrations rarely encountered at busier sites. Reef sharks — grey reef and whitetip species — are common. Eagle rays and spotted eagle rays cross the sandy areas flanking the pinnacle. The exceptional visibility allows pelagic sightings at distance: hammerheads in mid-water and, on occasion, thresher sharks reported from liveaboard trip reports in the area. Hawksbill turtles are abundant in the wider southern Red Sea.
 
 ## Dive Profile
 

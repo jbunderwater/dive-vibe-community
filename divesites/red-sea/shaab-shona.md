@@ -32,7 +32,7 @@ Shaab Shona lies on the outer Egyptian Red Sea shelf in the zone between Hurghad
 
 ## Marine Life
 
-The reef at Shaab Shona holds the characteristic fish fauna of the central Egyptian Red Sea: anthias swarm around the coral formations, and resident groupers occupy the deeper coral ledges. Napoleon wrasse are sighted intermittently, and sea turtles appear on the reef platform. The outer slope base holds blue-spotted stingrays and the occasional whitetip reef shark resting in the sand. Moray eels and lionfish are present throughout, and butterflyfish are conspicuous on the shallower coral formations.
+The reef at Shaab Shona holds the characteristic fish fauna of the central Egyptian Red Sea: anthias swarm around the coral formations, and resident groupers occupy the deeper coral ledges. humphead wrasse are sighted intermittently, and sea turtles appear on the reef platform. The outer slope base holds blue-spotted stingrays and the occasional whitetip reef shark resting in the sand. Moray eels and lionfish are present throughout, and butterflyfish are conspicuous on the shallower coral formations.
 
 ## Dive Profile
 

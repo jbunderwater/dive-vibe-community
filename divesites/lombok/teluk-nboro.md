@@ -11,56 +11,56 @@ osmId: 2395670513
 addedBy: osm_import
 ---
 
-# Teluk NBoro
+## Teluk NBoro
 
-A sheltered bay reef on the southern coast of Lombok, removed from the tourist circuit and offering calm diving on undisturbed coral gardens.
+A bay dive on Lombok's northwest coast — a relaxed reef with seahorse populations and muck-style sandy slope for macro enthusiasts.
 
 ## Overview
 
-Teluk NBoro (NBoro Bay) is a reef site on the southern coast of Lombok, well south of the Gili Islands circuit and significantly removed from the main tourist diving areas. The bay's sheltered position provides calm conditions that contrast with the exposed northern Gili sites, making it a reliable alternative during periods when current or swell makes the main sites difficult. The reef descends from a shallow fringing zone around 5 meters down a coral slope to 25 meters. The site's relative isolation from heavy diver traffic means coral coverage and fish populations are in good condition. Proximity to the influence of Belongas Bay's Indian Ocean swells adds an element of variability, and conditions should be assessed before diving.
+Teluk NBoro (Naro Bay) is a dive site on Lombok's northwest coast, approximately 25 minutes by boat from the Gili Islands. The site sits in a sheltered bay with a sandy slope and scattered coral development, making it a relaxed dive that appeals particularly to macro photographers and divers interested in critter hunting rather than current-driven pelagic action. The nearby Mentigi Bay area on the Lombok coast is famous for seahorse populations, and Teluk NBoro shares similar substrate characteristics, with the potential for seahorses, pipefish, and ghost pipefish in the rubble and sand zones.
 
 ## Site Information
 
-- **Location**: Teluk NBoro (NBoro Bay), south coast of Lombok, Indonesia
+- **Location**: Teluk Naro, northwest Lombok coast
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef / Sandy Slope
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters (82 feet)
-- **Typical Visibility**: 8–20 meters
-- **Current**: Generally mild in the bay; can increase with tidal flow
-- **Water Temperature**: 26–30°C (79–86°F)
+- **Maximum Depth**: 25 m
+- **Typical Visibility**: 10–18 m
+- **Current**: Generally mild inside the bay
+- **Best Time**: May to October
 
 ## Marine Life
 
-The fringing reef hosts a typical southern Lombok reef community. Turtles are regularly encountered on the coral slope. Moray eels and lionfish occupy crevices. Schools of snapper and fusiliers aggregate around larger coral formations. Blue-spotted stingrays rest on sandy patches at the base of the reef. Cuttlefish and octopus are common in the shallower reef edge. The reduced diver pressure at this site results in relatively unbothered reef fish that are easy to approach and observe.
+Seahorses are occasionally found in the sandy rubble zone. Pipefish and ghost pipefish among sparse coral growth. Blue-spotted stingrays on the sandy bottom. Nudibranchs throughout the rubble. The bay fringe reef hosts typical reef fish — butterflyfish, parrotfish, and moray eels.
 
 ## Dive Profile
 
-Begin on the shallow fringing reef at 5 meters and descend gradually down the coral slope. The most productive diving is between 8 and 20 meters where coral coverage and fish density are highest. The deeper sections at 20–25 meters transition to rubble and sand. Ascend through the mid-slope before conducting a safety stop in the shallows. Total dive time approximately 45–55 minutes.
+Descend to the sandy slope and move slowly searching the substrate. Focus on rubble patches, sparse coral fragments, and any algae growth where critters seek cover. The bay fringe reef at 10–18 m adds reef fish variety. Total dive time 50–60 minutes.
 
 ## Entry and Exit
 
-Boat dive. The site requires a longer transit than the main Gili sites, and is typically included in day trips to south Lombok that also visit Belongas Bay area sites. The bay itself provides a calm boarding and exit point. Giant stride entry; SMB on ascent.
+Boat from Gili Islands or Lombok northwest coast. Short transit from Gili Air (approximately 25 minutes). Entry via back roll. Calm conditions.
 
 ## Tips and Recommendations
 
-- This site works well as a relaxed complementary dive before or after the more demanding Belongas Bay dives
-- The undisturbed character of the reef is worth appreciating — move slowly and observe before approaching marine life
-- Best dived in the morning when visibility is clearest
-- Check weather conditions specifically for the south coast, which can have different swell patterns from the north
+- Primarily a macro site — a dedicated macro camera setup maximises the experience
+- Move extremely slowly and methodically across the sandy substrate
+- Ask your guide about current seahorse and ghost pipefish locations before the dive
+- Combine with Frog Fish Point for a full macro dive day from Lombok or Gili Air
+- Night dives reveal octopus, mantis shrimps, and crabs active on the sandy bottom
 
 ## Safety Considerations
 
-The south coast of Lombok is more exposed to Indian Ocean swell and weather than the northern Gili area. Check conditions before travelling to this site. Strong current can appear on incoming tides even in the bay. Carry an SMB and a dive flag on the boat. Rescue response is slower at this remote location — dive conservatively.
+Mild currents but standard buoyancy care essential above the sandy substrate. Do not stir the sand — visibility collapses and critters are disturbed. Stingrays partially buried in the sand can sting if disturbed. Maintain awareness of depth on the outer slope.
 
 ## Photography
 
-The clean, undisturbed coral provides excellent wide-angle compositions without the disturbance of multiple dive groups. Turtle encounters are reliable enough for patient portraiture. Cuttlefish in shallow water with natural top-light suit wide-angle or close-focus wide-angle approaches.
+Seahorse portraits on their natural substrate are the highlight subject. Ghost pipefish camouflage against surrounding material — macro lens essential. Stingrays on sand suit wide-angle close-focus for environmental context.
 
 ## Additional Resources
 
-- [Bottles Up Diving – South Lombok Diving](https://www.bottles-up-diving.com/EN-pages/BU_divingother_LombokSouth_EN.html)
-- [Lombok Diving Guide – NoTroubles Just Bubbles](https://www.notroublesjustbubbles.com/diving-destinations/indonesia/lombok)
-- Last Updated: 2026-03-28
+- **Last Updated**: 2026-03-28
 
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*

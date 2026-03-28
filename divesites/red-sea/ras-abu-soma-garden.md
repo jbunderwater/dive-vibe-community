@@ -32,7 +32,7 @@ The "Garden" designation is well-earned: the reef here consists of a broad, gent
 
 ## Marine Life
 
-The garden reef supports an exceptionally diverse fish community. Napoleon wrasse cruise the outer garden edge. Schools of snapper and fusiliers gather over the coral heads, and large aggregations of anthias coat the upper slope. Butterflyfish pairs browse the coral in the typical manner. Spotted eagle rays have been reported over the sand at the base of the garden. Turtles are frequently encountered resting on coral platforms or grazing algae from hard substrate. Nudibranchs and flatworms are present throughout the coral rubble zones for keen macro observers.
+The garden reef supports an exceptionally diverse fish community. humphead wrasse cruise the outer garden edge. Schools of snapper and fusiliers gather over the coral heads, and large aggregations of anthias coat the upper slope. Butterflyfish pairs browse the coral in the typical manner. Spotted eagle rays have been reported over the sand at the base of the garden. Turtles are frequently encountered resting on coral platforms or grazing algae from hard substrate. Nudibranchs and flatworms are present throughout the coral rubble zones for keen macro observers.
 
 ## Dive Profile
 

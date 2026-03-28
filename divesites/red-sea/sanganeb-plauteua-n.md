@@ -17,7 +17,7 @@ Sanganeb Plateau N is the northern plateau section of Sanganeb Atoll, one of the
 
 ## Overview
 
-The northern plateau of Sanganeb sits in the 5–20 meter depth range and is characterized by broad expanses of table coral, brain coral, and massive Porites formations interspersed with sand channels. This shallower plateau area contrasts with the dramatic vertical walls on the atoll's exterior, offering a different but equally productive diving experience. The plateau is a favored hunting ground for reef sharks, napoleon wrasse, and pelagic species that follow the atoll's nutrient-rich upwellings. Hammerhead sharks are reliably encountered at Sanganeb, particularly at depth along the seaward walls — but the plateau provides a strategic vantage point to watch for them ascending into shallower water.
+The northern plateau of Sanganeb sits in the 5–20 meter depth range and is characterized by broad expanses of table coral, brain coral, and massive Porites formations interspersed with sand channels. This shallower plateau area contrasts with the dramatic vertical walls on the atoll's exterior, offering a different but equally productive diving experience. The plateau is a favored hunting ground for reef sharks, humphead wrasse, and pelagic species that follow the atoll's nutrient-rich upwellings. Hammerhead sharks are reliably encountered at Sanganeb, particularly at depth along the seaward walls — but the plateau provides a strategic vantage point to watch for them ascending into shallower water.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ The northern plateau of Sanganeb sits in the 5–20 meter depth range and is cha
 
 ## Marine Life
 
-Sanganeb is internationally recognized for its shark populations. Grey reef sharks and whitetip reef sharks patrol the plateau edges, and hammerhead sharks are frequently encountered on morning dives at this remote atoll. Napoleon wrasse are common and curious here, approaching divers closely due to the site's protected status. Large groupers, barracuda schools, and eagle rays cruise the plateau. Turtles rest on the coral heads and sea snakes are regularly seen crossing the sandy channels. The coral formations host an exceptional density of reef fish — anthias, chromis, and butterflyfish pack the water above every coral structure.
+Sanganeb is internationally recognized for its shark populations. Grey reef sharks and whitetip reef sharks patrol the plateau edges, and hammerhead sharks are frequently encountered on morning dives at this remote atoll. humphead wrasse are common and curious here, approaching divers closely due to the site's protected status. Large groupers, barracuda schools, and eagle rays cruise the plateau. Turtles rest on the coral heads and sea snakes are regularly seen crossing the sandy channels. The coral formations host an exceptional density of reef fish — anthias, chromis, and butterflyfish pack the water above every coral structure.
 
 ## Dive Profile
 

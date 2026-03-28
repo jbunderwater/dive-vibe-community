@@ -32,7 +32,7 @@ Soma Gatden sits within the protected waters of Soma Bay, offering relatively sh
 
 ## Marine Life
 
-Soma Gatden supports a healthy community of reef fish, including anthias clouds, emperor angelfish, and pairs of Picasso triggerfish patrolling the shallows. Crocodilefish and scorpionfish blend into the sandy substrate at the reef base, while various species of nudibranch can be found on coral rubble. Napoleon wrasse are occasionally encountered, and green sea turtles rest among the coral heads. Hawksbill turtles are also reported.
+Soma Gatden supports a healthy community of reef fish, including anthias clouds, emperor angelfish, and pairs of Picasso triggerfish patrolling the shallows. Crocodilefish and scorpionfish blend into the sandy substrate at the reef base, while various species of nudibranch can be found on coral rubble. humphead wrasse are occasionally encountered, and green sea turtles rest among the coral heads. Hawksbill turtles are also reported.
 
 ## Dive Profile
 

@@ -32,7 +32,7 @@ Shaab Hamam is a typical Fury Shoals reef structure: a broad coral flat rising t
 
 ## Marine Life
 
-Sea turtles are among the most reliable sightings in the Fury Shoals; hawksbill and green turtles rest on the coral platforms and are approached closely at this low-traffic site. Spinner dolphins are frequently encountered in the blue water around the outer reefs. Napoleon wrasse patrol the reef edge. Grey reef sharks and whitetip reef sharks are present along the deeper outer wall. Coral groupers and parrotfish are abundant on the reef platform, and the sandy base hosts blue-spotted stingrays and garden eels.
+Sea turtles are among the most reliable sightings in the Fury Shoals; hawksbill and green turtles rest on the coral platforms and are approached closely at this low-traffic site. Spinner dolphins are frequently encountered in the blue water around the outer reefs. humphead wrasse patrol the reef edge. Grey reef sharks and whitetip reef sharks are present along the deeper outer wall. Coral groupers and parrotfish are abundant on the reef platform, and the sandy base hosts blue-spotted stingrays and garden eels.
 
 ## Dive Profile
 

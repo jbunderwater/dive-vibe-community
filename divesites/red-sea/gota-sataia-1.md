@@ -32,7 +32,7 @@ The Sataia reefs lie in the southern offshore waters, accessible from Wadi Laham
 
 ## Marine Life
 
-Dense schools of anthias hover above the soft-coral-draped flanks, creating a colourful backdrop for wide-angle photography. Napoleon wrasse and large groupers are resident. Schools of trevally and jacks orbit the pinnacle in the blue water above, and barracuda patrol in loose formations. Hawksbill turtles are frequent visitors. In winter months, hammerhead sharks have been reported passing the deeper base of the pinnacle. Moray eels occupy every sizeable coral head, and lionfish are present throughout the reef.
+Dense schools of anthias hover above the soft-coral-draped flanks, creating a colourful backdrop for wide-angle photography. humphead wrasse and large groupers are resident. Schools of trevally and jacks orbit the pinnacle in the blue water above, and barracuda patrol in loose formations. Hawksbill turtles are frequent visitors. In winter months, hammerhead sharks have been reported passing the deeper base of the pinnacle. Moray eels occupy every sizeable coral head, and lionfish are present throughout the reef.
 
 ## Dive Profile
 

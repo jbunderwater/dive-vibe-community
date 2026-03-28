@@ -32,7 +32,7 @@ Gabu El Bint is a reef dive site in the northern Egyptian Red Sea near Sharm el-
 
 ## Marine Life
 
-Schools of bannerfish and pyramid butterflyfish are a constant presence above the coral. Giant moray eels occupy the larger coral crevices, and bluespotted ribbontail rays rest on the sandy patches. Small reef sharks and Napoleon wrasse cruise the deeper sections of the reef slope, while hawksbill turtles are regularly spotted grazing on sponges. Sergeant major fish defend egg patches on the flat reef surfaces, and the occasional barracuda patrols in the open water just off the reef edge.
+Schools of bannerfish and pyramid butterflyfish are a constant presence above the coral. Giant moray eels occupy the larger coral crevices, and bluespotted ribbontail rays rest on the sandy patches. Small reef sharks and humphead wrasse cruise the deeper sections of the reef slope, while hawksbill turtles are regularly spotted grazing on sponges. Sergeant major fish defend egg patches on the flat reef surfaces, and the occasional barracuda patrols in the open water just off the reef edge.
 
 ## Dive Profile
 

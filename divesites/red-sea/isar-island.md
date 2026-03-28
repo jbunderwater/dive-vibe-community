@@ -32,7 +32,7 @@ At this latitude — barely north of the Sudanese border — Isar Island sits in
 
 ## Marine Life
 
-The extreme isolation ensures marine life at Isar Island is among the most pristine in the Red Sea. Hammerhead sharks are reported at depth from November through March. Manta rays visit the island seasonally. Large Napoleon wrasse, massive groupers, and dense schools of snapper and fusiliers are present in concentrations that reflect the site's total lack of fishing pressure. Sea turtles — both hawksbill and green — nest on the island's beaches and are found in large numbers underwater. The surrounding deep water regularly delivers pelagic species including barracuda schools, wahoo, and occasional whale sharks in summer.
+The extreme isolation ensures marine life at Isar Island is among the most pristine in the Red Sea. Hammerhead sharks are reported at depth from November through March. Manta rays visit the island seasonally. Large humphead wrasse, massive groupers, and dense schools of snapper and fusiliers are present in concentrations that reflect the site's total lack of fishing pressure. Sea turtles — both hawksbill and green — nest on the island's beaches and are found in large numbers underwater. The surrounding deep water regularly delivers pelagic species including barracuda schools, wahoo, and occasional whale sharks in summer.
 
 ## Dive Profile
 

@@ -32,7 +32,7 @@ Shaab Claudio follows the typical Fury Shoals reef profile: a coral platform ris
 
 ## Marine Life
 
-The Fury Shoals reef system is renowned for dolphin encounters, and spinner dolphins are frequently observed in the blue water around these outer reefs. Sea turtles are abundant — both green and hawksbill turtles rest on the coral platform and are among the most reliable sightings on any Fury Shoals dive. Napoleon wrasse are present on the outer reef edges. Grey reef sharks patrol the deeper sections. The reef surface hosts enormous populations of anthias and chromis, and the transition zone between coral and sand at the reef base provides habitat for garden eels and stingrays.
+The Fury Shoals reef system is renowned for dolphin encounters, and spinner dolphins are frequently observed in the blue water around these outer reefs. Sea turtles are abundant — both green and hawksbill turtles rest on the coral platform and are among the most reliable sightings on any Fury Shoals dive. humphead wrasse are present on the outer reef edges. Grey reef sharks patrol the deeper sections. The reef surface hosts enormous populations of anthias and chromis, and the transition zone between coral and sand at the reef base provides habitat for garden eels and stingrays.
 
 ## Dive Profile
 

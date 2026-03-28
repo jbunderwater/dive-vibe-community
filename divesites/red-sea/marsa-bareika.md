@@ -32,7 +32,7 @@ Ras Mohammed National Park is Egypt's oldest and most strictly protected marine 
 
 ## Marine Life
 
-Ras Mohammed's protected status means remarkably healthy reef ecosystems, and Marsa Bareika benefits from this conservation context. Sea turtles are commonly encountered resting on sandy areas and grazing on the reef. Napoleon wrasse and giant moray eels are regular sightings. Schools of batfish congregate at certain times of year within the bay's sheltered waters, and spinner dolphins frequently enter the bay. Dense anthias clouds, butterflyfish, and surgeonfish populations are consistent throughout the site. The sandy bay floor harbours garden eels in visible colonies, and stingrays are occasional visitors.
+Ras Mohammed's protected status means remarkably healthy reef ecosystems, and Marsa Bareika benefits from this conservation context. Sea turtles are commonly encountered resting on sandy areas and grazing on the reef. humphead wrasse and giant moray eels are regular sightings. Schools of batfish congregate at certain times of year within the bay's sheltered waters, and spinner dolphins frequently enter the bay. Dense anthias clouds, butterflyfish, and surgeonfish populations are consistent throughout the site. The sandy bay floor harbours garden eels in visible colonies, and stingrays are occasional visitors.
 
 ## Dive Profile
 
@@ -55,7 +55,7 @@ Ras Mohammed National Park requires strict adherence to marine conservation rule
 
 ## Photography
 
-The calm, well-lit conditions of Marsa Bareika make it an excellent photography site. Sea turtle portraits, napoleon wrasse close-ups, and garden eel colonies are signature subjects. The healthy coral coverage creates beautiful wide-angle reef scenes. If dolphins enter the bay, wide-angle surface-to-underwater shots through the thermocline produce striking images.
+The calm, well-lit conditions of Marsa Bareika make it an excellent photography site. Sea turtle portraits, humphead wrasse close-ups, and garden eel colonies are signature subjects. The healthy coral coverage creates beautiful wide-angle reef scenes. If dolphins enter the bay, wide-angle surface-to-underwater shots through the thermocline produce striking images.
 
 ---
 *This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

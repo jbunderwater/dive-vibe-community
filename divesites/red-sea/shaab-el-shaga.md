@@ -32,7 +32,7 @@ At this latitude in the southern Red Sea, reefs benefit from warm, nutrient-rich
 
 ## Marine Life
 
-The reduced diver pressure of the southern Red Sea produces unusually relaxed marine life behavior. Napoleon wrasse approach divers without wariness. Reef sharks — both grey reef and whitetip reef species — are present and more visible than at heavily-dived northern sites. Sea turtles are resident on the reef platform. Large groupers occupy the deeper sections. The upper reef platform supports excellent diversity of butterflyfish, angelfish, and the characteristic dense schools of anthias above the coral heads.
+The reduced diver pressure of the southern Red Sea produces unusually relaxed marine life behavior. humphead wrasse approach divers without wariness. Reef sharks — both grey reef and whitetip reef species — are present and more visible than at heavily-dived northern sites. Sea turtles are resident on the reef platform. Large groupers occupy the deeper sections. The upper reef platform supports excellent diversity of butterflyfish, angelfish, and the characteristic dense schools of anthias above the coral heads.
 
 ## Dive Profile
 

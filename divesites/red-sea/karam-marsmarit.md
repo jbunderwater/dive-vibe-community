@@ -32,7 +32,7 @@ This is an offshore reef site accessed exclusively by liveaboard, with the isola
 
 ## Marine Life
 
-The offshore reef environment supports good shark activity, with grey reef sharks and whitetip reef sharks regularly patrolling the reef edges. Napoleon wrasse are common at southern Red Sea offshore reefs, and schools of barracuda and trevally are frequently encountered around the reef top. Sea turtles appear regularly at cleaner reef sites in this region. The hard and soft coral communities on an undisturbed reef of this type support dense populations of anthias, butterflyfish, and surgeonfish, with moray eels and lionfish occupying reef crevices at multiple depth levels.
+The offshore reef environment supports good shark activity, with grey reef sharks and whitetip reef sharks regularly patrolling the reef edges. humphead wrasse are common at southern Red Sea offshore reefs, and schools of barracuda and trevally are frequently encountered around the reef top. Sea turtles appear regularly at cleaner reef sites in this region. The hard and soft coral communities on an undisturbed reef of this type support dense populations of anthias, butterflyfish, and surgeonfish, with moray eels and lionfish occupying reef crevices at multiple depth levels.
 
 ## Dive Profile
 

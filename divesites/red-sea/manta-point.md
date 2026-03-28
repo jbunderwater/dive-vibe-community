@@ -32,7 +32,7 @@ Manta rays in the Egyptian Red Sea are associated with specific reef features �
 
 ## Marine Life
 
-Reef manta rays are the headline species and the reason for the site's name. When present, mantas follow predictable circuits between cleaning stations and open-water feeding areas. Divers who descend calmly and hover neutrally without chasing have the best chance of extended manta company — mantas will approach divers who are still and unthreatening. Outside manta encounters, the reef supports napoleon wrasse, grey reef sharks on the outer edges, schools of barracuda, and dense populations of Red Sea reef fish. Moray eels, lionfish, and sea turtles are regular sightings. The current that makes this area productive for manta feeding also brings good pelagic activity.
+Reef manta rays are the headline species and the reason for the site's name. When present, mantas follow predictable circuits between cleaning stations and open-water feeding areas. Divers who descend calmly and hover neutrally without chasing have the best chance of extended manta company — mantas will approach divers who are still and unthreatening. Outside manta encounters, the reef supports humphead wrasse, grey reef sharks on the outer edges, schools of barracuda, and dense populations of Red Sea reef fish. Moray eels, lionfish, and sea turtles are regular sightings. The current that makes this area productive for manta feeding also brings good pelagic activity.
 
 ## Dive Profile
 

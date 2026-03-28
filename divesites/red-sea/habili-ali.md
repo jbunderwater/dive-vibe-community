@@ -32,7 +32,7 @@ Habili Ali is an offshore reef pinnacle in the far southern Egyptian Red Sea, si
 
 ## Marine Life
 
-Resident Napoleon wrasse are immediately apparent on descent, often approaching divers within metres. Large groupers occupy the overhangs at 12–18 meters. Schools of snapper and fusiliers are dense, and a school of barracuda is typically found hanging above the pinnacle in the current shadow. Grey reef sharks patrol the base of the structure. Hawksbill turtles are consistent presences on the reef crown. The clean offshore water supports impressive soft-coral growth with accompanying glassfish schools that explode outward when larger predators approach.
+Resident humphead wrasse are immediately apparent on descent, often approaching divers within metres. Large groupers occupy the overhangs at 12–18 meters. Schools of snapper and fusiliers are dense, and a school of barracuda is typically found hanging above the pinnacle in the current shadow. Grey reef sharks patrol the base of the structure. Hawksbill turtles are consistent presences on the reef crown. The clean offshore water supports impressive soft-coral growth with accompanying glassfish schools that explode outward when larger predators approach.
 
 ## Dive Profile
 
@@ -47,7 +47,7 @@ Liveaboard access only. Entry by giant stride from the boat. Deploy an SMB befor
 - Habili sites in the southern Red Sea are among the most rewarding for sheer fish density
 - The small footprint of the pinnacle means divers feel fully immersed in an ocean environment rather than on a reef wall
 - Look carefully in the deep overhangs for sleeping whitetip reef sharks
-- Napoleon wrasse at remote sites like this are often curious and will follow divers throughout the dive
+- humphead wrasse at remote sites like this are often curious and will follow divers throughout the dive
 - Plan for a full southern Red Sea itinerary — these remote habili sites cannot be visited on shorter trips
 
 ## Safety Considerations
@@ -56,7 +56,7 @@ Standard remote offshore pinnacle safety applies. Deploy an SMB before every asc
 
 ## Photography
 
-The Napoleon wrasse's curiosity makes for compelling fish portrait photography. Wide-angle shots of the pinnacle's flanks draped in soft coral with schools of fish above and divers for scale are consistently outstanding. The clear offshore water provides a deep-blue background that requires no artificial light for effective wide-angle compositions.
+The humphead wrasse's curiosity makes for compelling fish portrait photography. Wide-angle shots of the pinnacle's flanks draped in soft coral with schools of fish above and divers for scale are consistently outstanding. The clear offshore water provides a deep-blue background that requires no artificial light for effective wide-angle compositions.
 
 ---
 *This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

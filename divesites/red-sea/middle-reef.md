@@ -32,7 +32,7 @@ Middle Reef and its neighbouring North Long Reef form a reef complex in open Red
 
 ## Marine Life
 
-Remote open Red Sea reefs with minimal diver pressure support well-established shark populations. Grey reef sharks and whitetip reef sharks are the most likely encounters along the reef edge, with silvertip sharks possible at depth. Large schools of barracuda and trevally are common at mid-water. Napoleon wrasse and groupers take up territories on the reef, noticeably calmer than the same species at heavily dived northern sites. Sea turtles make appearances at offshore reefs throughout the Red Sea. Coral coverage on rarely-visited reefs tends to be exceptional, with both hard coral and sea fan development at their best.
+Remote open Red Sea reefs with minimal diver pressure support well-established shark populations. Grey reef sharks and whitetip reef sharks are the most likely encounters along the reef edge, with silvertip sharks possible at depth. Large schools of barracuda and trevally are common at mid-water. humphead wrasse and groupers take up territories on the reef, noticeably calmer than the same species at heavily dived northern sites. Sea turtles make appearances at offshore reefs throughout the Red Sea. Coral coverage on rarely-visited reefs tends to be exceptional, with both hard coral and sea fan development at their best.
 
 ## Dive Profile
 

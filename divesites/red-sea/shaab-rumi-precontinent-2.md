@@ -32,7 +32,7 @@ Shaab Rumi — "Roman Reef" in Arabic — is a large circular reef in Sudanese w
 
 ## Marine Life
 
-Shaab Rumi's southern plateau area hosts dense schools of barracuda, jacks, and fusiliers. Grey reef sharks and whitetip reef sharks are resident, and hammerhead sharks are reliably sighted on early morning dives near the outer wall. Napoleon wrasse are a common and approachable feature. The reef structure around the Precontinent 2 remains has been colonised by hard and soft corals over the decades, with glassfish, lionfish, and moray eels occupying the metalwork. Guitarfish rest on the sandy bottom nearby, and green turtles appear throughout the lagoon.
+Shaab Rumi's southern plateau area hosts dense schools of barracuda, jacks, and fusiliers. Grey reef sharks and whitetip reef sharks are resident, and hammerhead sharks are reliably sighted on early morning dives near the outer wall. humphead wrasse are a common and approachable feature. The reef structure around the Precontinent 2 remains has been colonised by hard and soft corals over the decades, with glassfish, lionfish, and moray eels occupying the metalwork. Guitarfish rest on the sandy bottom nearby, and green turtles appear throughout the lagoon.
 
 ## Dive Profile
 

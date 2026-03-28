@@ -32,7 +32,7 @@ Located between Hurghada and Quseir on the mid-northern Egyptian Red Sea shelf, 
 
 ## Marine Life
 
-Shaab Sheer supports the standard assemblage of northern Red Sea reef fish — dense anthias populations on the coral heads, groupers holding territory on the mid-slope, and occasional Napoleon wrasse moving along the reef edge. Moray eels inhabit crevices throughout the reef, and lionfish are found perched near overhangs at most depths. Sea turtles visit the reef platform, particularly in the calmer sections. The sandy areas at the reef base are worth checking for blue-spotted stingrays and crocodilefish lying flat against the bottom.
+Shaab Sheer supports the standard assemblage of northern Red Sea reef fish — dense anthias populations on the coral heads, groupers holding territory on the mid-slope, and occasional humphead wrasse moving along the reef edge. Moray eels inhabit crevices throughout the reef, and lionfish are found perched near overhangs at most depths. Sea turtles visit the reef platform, particularly in the calmer sections. The sandy areas at the reef base are worth checking for blue-spotted stingrays and crocodilefish lying flat against the bottom.
 
 ## Dive Profile
 

@@ -32,7 +32,7 @@ The northern Red Sea near Sharm el-Sheikh is a historically active shipping lane
 
 ## Marine Life
 
-Schools of glassy sweepers and cardinalfish fill the wreck's interior spaces and overhangs, creating a shimmering silver curtain effect typical of Red Sea wreck diving. Lionfish are consistently present, hovering motionless in the shade of the hull. Large groupers claim the deeper sections. Moray eels are resident throughout the structure, and triggerfish patrol the exterior hull surfaces. The surrounding reef slope hosts the standard Sharm-area community of reef fish, including Napoleon wrasse and hawksbill turtles grazing the coral nearby.
+Schools of glassy sweepers and cardinalfish fill the wreck's interior spaces and overhangs, creating a shimmering silver curtain effect typical of Red Sea wreck diving. Lionfish are consistently present, hovering motionless in the shade of the hull. Large groupers claim the deeper sections. Moray eels are resident throughout the structure, and triggerfish patrol the exterior hull surfaces. The surrounding reef slope hosts the standard Sharm-area community of reef fish, including humphead wrasse and hawksbill turtles grazing the coral nearby.
 
 ## Dive Profile
 

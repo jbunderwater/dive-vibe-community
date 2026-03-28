@@ -32,7 +32,7 @@ Shaab El Erg consists of a horseshoe-shaped reef with a protected inner lagoon. 
 
 ## Marine Life
 
-The resident spinner dolphin pod is the headline attraction. Pod size varies but typically numbers 20–50 individuals, and encounters of divers and dolphins in the lagoon are documented in almost every trip report from this site. Dolphins are the primary reason most divers visit Shaab El Erg, but the reef itself supports a full northern Red Sea reef community. Napoleon wrasse are resident on the outer reef edge. Sea turtles are regularly seen on the reef platform. The lagoon and outer reef host the standard anthias, parrotfish, surgeonfish, and butterflyfish assemblage. Moray eels and lionfish occupy the crevices throughout.
+The resident spinner dolphin pod is the headline attraction. Pod size varies but typically numbers 20–50 individuals, and encounters of divers and dolphins in the lagoon are documented in almost every trip report from this site. Dolphins are the primary reason most divers visit Shaab El Erg, but the reef itself supports a full northern Red Sea reef community. humphead wrasse are resident on the outer reef edge. Sea turtles are regularly seen on the reef platform. The lagoon and outer reef host the standard anthias, parrotfish, surgeonfish, and butterflyfish assemblage. Moray eels and lionfish occupy the crevices throughout.
 
 ## Dive Profile
 

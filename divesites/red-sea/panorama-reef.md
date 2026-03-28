@@ -32,7 +32,7 @@ The main section of Panorama Reef presents a classic Red Sea reef profile — a 
 
 ## Marine Life
 
-Panorama Reef has a well-established resident community. Napoleon wrasse are a reliable highlight and are often seen cruising the reef top in pairs. Large groupers occupy deep coral overhangs, and moray eels extend from crevices at multiple points along the wall. Schools of glassfish and anthias coat the shallower sections of the reef, with predatory trevally and barracuda cutting through them. Hawksbill turtles regularly graze algae on the reef top. Whitetip reef sharks rest on sand patches at the base of the wall between 20-25 meters. Occasional pelagic visitors include hammerhead sharks, particularly on early morning winter dives.
+Panorama Reef has a well-established resident community. humphead wrasse are a reliable highlight and are often seen cruising the reef top in pairs. Large groupers occupy deep coral overhangs, and moray eels extend from crevices at multiple points along the wall. Schools of glassfish and anthias coat the shallower sections of the reef, with predatory trevally and barracuda cutting through them. Hawksbill turtles regularly graze algae on the reef top. Whitetip reef sharks rest on sand patches at the base of the wall between 20-25 meters. Occasional pelagic visitors include hammerhead sharks, particularly on early morning winter dives.
 
 ## Dive Profile
 
@@ -46,7 +46,7 @@ Day boats and liveaboards from Hurghada and El Gouna anchor at the main mooring 
 
 - Morning dives have the best light for photography and calmer conditions
 - The western face is recommended for the main dive; explore the north and east tips for pelagic encounters on separate dives
-- Napoleon wrasse here are accustomed to divers — maintain calm, non-threatening behavior for close approaches
+- humphead wrasse here are accustomed to divers — maintain calm, non-threatening behavior for close approaches
 - Combine a wall dive with time on the reef top to observe the contrasting communities
 
 ## Safety Considerations
@@ -55,7 +55,7 @@ Current direction and intensity varies around the reef perimeter. The northern a
 
 ## Photography
 
-Panorama Reef is a premier photography destination. Wide-angle shots of the wall with gorgonian sea fans in the foreground and clear blue water behind are iconic Red Sea images. The Napoleon wrasse offer outstanding fish portrait opportunities. Schools of anthias and glassfish in the shallows create spectacular mid-water compositions. Macro subjects including nudibranchs, pipefish, and crinoid shrimp reward careful searching in coral crevices.
+Panorama Reef is a premier photography destination. Wide-angle shots of the wall with gorgonian sea fans in the foreground and clear blue water behind are iconic Red Sea images. The humphead wrasse offer outstanding fish portrait opportunities. Schools of anthias and glassfish in the shallows create spectacular mid-water compositions. Macro subjects including nudibranchs, pipefish, and crinoid shrimp reward careful searching in coral crevices.
 
 ---
 *This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

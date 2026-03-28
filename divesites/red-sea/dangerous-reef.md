@@ -32,7 +32,7 @@ Dangerous Reef sits in the central Red Sea south of the Brothers (El Akhawein), 
 
 ## Marine Life
 
-The reef hosts healthy populations of napoleon wrasse, various grouper species, and large schools of snapper and fusiliers. Reef sharks — grey tip and whitetip — are regularly encountered cruising the outer edges. Oceanic whitetip sharks have been reported at this site, particularly in bluewater off the reef walls. Sea turtles are common visitors to the shallower coral gardens. Lionfish rest in crevices throughout the reef structure, and moray eels of several species occupy the rocky substrate below 10 meters.
+The reef hosts healthy populations of humphead wrasse, various grouper species, and large schools of snapper and fusiliers. Reef sharks — grey tip and whitetip — are regularly encountered cruising the outer edges. Oceanic whitetip sharks have been reported at this site, particularly in bluewater off the reef walls. Sea turtles are common visitors to the shallower coral gardens. Lionfish rest in crevices throughout the reef structure, and moray eels of several species occupy the rocky substrate below 10 meters.
 
 ## Dive Profile
 

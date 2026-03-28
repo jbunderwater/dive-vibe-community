@@ -32,7 +32,7 @@ Shaab Said North sits close to the reef crest of the northern portion of the Sha
 
 ## Marine Life
 
-Shaab Said North's reef structure supports robust coral communities with dense anthias populations around the branching coral heads. Napoleon wrasse are resident on this section of the reef, and grey reef sharks are regularly seen patrolling the outer edge. Green and hawksbill turtles feed along the reef platform and are a consistent highlight of dives here. Large moray eels inhabit the deeper crevices, and sweetlips and snapper school near overhangs. Passing schools of barracuda and trevally are common.
+Shaab Said North's reef structure supports robust coral communities with dense anthias populations around the branching coral heads. humphead wrasse are resident on this section of the reef, and grey reef sharks are regularly seen patrolling the outer edge. Green and hawksbill turtles feed along the reef platform and are a consistent highlight of dives here. Large moray eels inhabit the deeper crevices, and sweetlips and snapper school near overhangs. Passing schools of barracuda and trevally are common.
 
 ## Dive Profile
 
@@ -56,7 +56,7 @@ The outer reef location means help is not immediately accessible in an emergency
 
 ## Photography
 
-Clear water and healthy coral make Shaab Said North an excellent wide-angle reef photography location. Early morning sun angles provide pleasing back-scatter-free conditions for shots up the reef slope toward the surface. Napoleon wrasse and reef shark encounters offer compelling large-animal photography.
+Clear water and healthy coral make Shaab Said North an excellent wide-angle reef photography location. Early morning sun angles provide pleasing back-scatter-free conditions for shots up the reef slope toward the surface. humphead wrasse and reef shark encounters offer compelling large-animal photography.
 
 ## Additional Resources
 

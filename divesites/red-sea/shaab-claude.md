@@ -32,7 +32,7 @@ Shaab Claude rises from deeper water to a shallow reef crest in the 5–10 meter
 
 ## Marine Life
 
-The Safaga reef system is particularly productive for pelagic encounters. Spinner dolphins frequently investigate divers in the mid-water zone around the outer reef edges. Schools of barracuda and trevally hunt the reef tips in current flow. Napoleon wrasse are resident in the deeper sections of the reef. The reef surface is covered in the dense anthias and chromis clouds typical of healthy Red Sea reefs. Hammerhead sharks have been reported along the deeper reef sections in the cooler winter months. Reef sharks are occasional visitors throughout the year.
+The Safaga reef system is particularly productive for pelagic encounters. Spinner dolphins frequently investigate divers in the mid-water zone around the outer reef edges. Schools of barracuda and trevally hunt the reef tips in current flow. humphead wrasse are resident in the deeper sections of the reef. The reef surface is covered in the dense anthias and chromis clouds typical of healthy Red Sea reefs. Hammerhead sharks have been reported along the deeper reef sections in the cooler winter months. Reef sharks are occasional visitors throughout the year.
 
 ## Dive Profile
 

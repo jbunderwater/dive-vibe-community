@@ -32,7 +32,7 @@ Heaven sits in the reef zone between Hurghada and Marsa Alam, in the El Quseir c
 
 ## Marine Life
 
-The gentle conditions and abundant hard coral make this site a nursery habitat for juvenile reef fish, so species diversity is high even though individual sizes may be smaller than on offshore reefs. Clownfish in anemones are reliably found on the reef flat. Butterflyfish, parrotfish, and surgeonfish are abundant. Napoleon wrasse make occasional appearances. Sea turtles visit the reef to graze on algae and sponges. Bluespotted stingrays occupy the sandy patches between coral heads, and moray eels are resident in the coral crevices. Garden eels emerge from the sandy margin at the reef base.
+The gentle conditions and abundant hard coral make this site a nursery habitat for juvenile reef fish, so species diversity is high even though individual sizes may be smaller than on offshore reefs. Clownfish in anemones are reliably found on the reef flat. Butterflyfish, parrotfish, and surgeonfish are abundant. humphead wrasse make occasional appearances. Sea turtles visit the reef to graze on algae and sponges. Bluespotted stingrays occupy the sandy patches between coral heads, and moray eels are resident in the coral crevices. Garden eels emerge from the sandy margin at the reef base.
 
 ## Dive Profile
 

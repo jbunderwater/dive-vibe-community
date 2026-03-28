@@ -32,7 +32,7 @@ Where Gamul Kebir is the bigger, more dramatic reef, Gamul Soraya tends to be qu
 
 ## Marine Life
 
-The shallower reef platform draws large schools of anthias, chromis, and bannerfish that create a constant movement above the coral. Napoleon wrasse and groupers are present, and sea turtles are regularly seen resting on the reef plateau. The deeper slope harbours sweeping schools of snapper and fusiliers, and small reef sharks occasionally pass through below 15 meters. Garden eels populate the sandy patches at the reef base, and bluespotted stingrays rest in the sand between coral outcrops.
+The shallower reef platform draws large schools of anthias, chromis, and bannerfish that create a constant movement above the coral. humphead wrasse and groupers are present, and sea turtles are regularly seen resting on the reef plateau. The deeper slope harbours sweeping schools of snapper and fusiliers, and small reef sharks occasionally pass through below 15 meters. Garden eels populate the sandy patches at the reef base, and bluespotted stingrays rest in the sand between coral outcrops.
 
 ## Dive Profile
 

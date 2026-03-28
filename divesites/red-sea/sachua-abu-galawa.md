@@ -32,7 +32,7 @@ The reef at Sachua Abu Galawa rises to within a few meters of the surface on a b
 
 ## Marine Life
 
-The Hurghada reef system supports the characteristic northern Red Sea community. Anthias and chromis are abundant over the coral tops. Clownfish occupy anemones in the shallower sections — these are frequently sought out by snorkelers and beginner divers. Blue-spotted stingrays rest on sandy patches. Napoleon wrasse are resident on the reef edge. Sea turtles appear regularly on the platform, and green turtles in particular are a reliable sighting. Moray eels are present in the crevices, and lionfish pose their usual hazard along ledges.
+The Hurghada reef system supports the characteristic northern Red Sea community. Anthias and chromis are abundant over the coral tops. Clownfish occupy anemones in the shallower sections — these are frequently sought out by snorkelers and beginner divers. Blue-spotted stingrays rest on sandy patches. humphead wrasse are resident on the reef edge. Sea turtles appear regularly on the platform, and green turtles in particular are a reliable sighting. Moray eels are present in the crevices, and lionfish pose their usual hazard along ledges.
 
 ## Dive Profile
 
@@ -55,7 +55,7 @@ Beginner-level site but standard Red Sea precautions apply. Fire coral is presen
 
 ## Photography
 
-The shallow platform with its table corals and resident clownfish produces excellent close-focus wide-angle images with natural overhead light. Blue-spotted ray portraits on the sandy base are a reliable subject. Napoleon wrasse encounters on the reef edge reward wider-angle work.
+The shallow platform with its table corals and resident clownfish produces excellent close-focus wide-angle images with natural overhead light. Blue-spotted ray portraits on the sandy base are a reliable subject. humphead wrasse encounters on the reef edge reward wider-angle work.
 
 ## Additional Resources
 

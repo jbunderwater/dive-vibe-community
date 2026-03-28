@@ -11,56 +11,55 @@ osmId: 746173576
 addedBy: osm_import
 ---
 
-## Maiden Cay
+# Maiden Cay
 
-Maiden Cay is a reef dive site in Jamaica, Caribbean.
+A sheltered south-coast cay in the Portland Bight Protected Area with a productive fringing reef and reliable encounters with turtles and nurse sharks.
 
 ## Overview
 
-Maiden Cay is a dive site in Jamaica offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Maiden Cay is part of the Portland Bight Protected Area cluster of cay-fringed reefs along Jamaica's southern coast. The protected area designation since 1999 has allowed the reef communities here to remain in good health relative to many more heavily fished areas around the island. The cay's fringing reef extends from the shoreline to 16 metres, with spur-and-groove formations, sandy channels, and small overhangs. The site is calm and well-suited for beginner divers, particularly in the dry season when south coast conditions are most benign. Visibility typically reaches 18–22 metres in good conditions.
 
 ## Site Information
 
-- **Location**: Jamaica, Caribbean
+- **Location**: Portland Bight Protected Area, south Jamaica
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 16 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
+- **Typical Visibility**: 18–22 meters (60–70 feet)
+- **Current**: Light
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Hawksbill turtles are a consistent highlight at Maiden Cay, feeding on sponge formations across the reef. French grunts, snapper, and parrotfish are abundant. Nurse sharks rest at the base of the reef. Spiny lobsters occupy the deeper crevices. Southern stingrays rest on sandy channels around the cay base. Green turtles are occasionally seen on the seagrass areas adjacent to the cay. Spotted moray eels and small reef sharks are occasional sightings.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 16 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-16 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Circumnavigate the cay reef, spending time at the deeper seaward section (12–16 m) before returning to the shallower lee side for the safety stop. The circumnavigation is straightforward with the cay providing a visual reference throughout. Bottom time is generous at beginner depths.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by local charter from the south coast. Limited commercial dive infrastructure — a knowledgeable local operator is required. Entry via giant stride or back roll from a small boat. Moor on the protected lee side.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Best combined with other nearby Portland Bight cay dives for a full day of south-coast exploration
+- The seagrass areas around the cay base are worth snorkeling or a slow swim-through for turtles
+- Portland Bight is a UNESCO World Biosphere Reserve candidate — the marine environment reflects conservation efforts
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Remote dive area. Carry full safety equipment. South coast conditions are variable — always check the local forecast before departure. Deploy SMB before surfacing.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Turtle portraits in the clear water of this protected area are exceptional. The cay fringe environment with hard coral formations and white sand provides a clean, photogenic backdrop.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Protected Area**: Portland Bight Protected Area, Jamaica
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

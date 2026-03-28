@@ -32,7 +32,7 @@ Stone Beach takes its name from the characteristic rocky, rubble-strewn shorelin
 
 ## Marine Life
 
-The reef supports the characteristic Red Sea mix of reef fish: dense anthias aggregations, parrotfish, various wrasse species, and hawkfish perching on coral heads. Moray eels occupy every suitable crevice, and lionfish hover motionlessly in the shadows. Scorpionfish and stonefish blend into the rubble bottom, making careful fin placement essential. Napoleon wrasse are occasionally seen, and sea turtles have been reported at this site.
+The reef supports the characteristic Red Sea mix of reef fish: dense anthias aggregations, parrotfish, various wrasse species, and hawkfish perching on coral heads. Moray eels occupy every suitable crevice, and lionfish hover motionlessly in the shadows. Scorpionfish and stonefish blend into the rubble bottom, making careful fin placement essential. humphead wrasse are occasionally seen, and sea turtles have been reported at this site.
 
 ## Dive Profile
 

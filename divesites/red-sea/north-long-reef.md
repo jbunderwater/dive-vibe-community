@@ -32,7 +32,7 @@ North Long Reef and Middle Reef form a connected reef complex in some of the mos
 
 ## Marine Life
 
-Undisturbed reefs in the open Red Sea support large, visible populations of the region's apex species. Grey reef sharks, whitetip reef sharks, and potentially silvertip or oceanic whitetip sharks are expected at remote reef edges like North Long Reef. Large napoleon wrasse and groupers, unusually tame due to minimal human exposure, regularly approach divers. Barracuda and trevally schools are consistent at offshore sites. Sea turtles are possible throughout the Red Sea at clean reef sites. The coral community on a pristine reef of this type demonstrates what Red Sea reefs look like without decades of intensive diver traffic: dense hard coral coverage, well-developed sea fans, and undisturbed encrusting communities on all available hard substrate.
+Undisturbed reefs in the open Red Sea support large, visible populations of the region's apex species. Grey reef sharks, whitetip reef sharks, and potentially silvertip or oceanic whitetip sharks are expected at remote reef edges like North Long Reef. Large humphead wrasse and groupers, unusually tame due to minimal human exposure, regularly approach divers. Barracuda and trevally schools are consistent at offshore sites. Sea turtles are possible throughout the Red Sea at clean reef sites. The coral community on a pristine reef of this type demonstrates what Red Sea reefs look like without decades of intensive diver traffic: dense hard coral coverage, well-developed sea fans, and undisturbed encrusting communities on all available hard substrate.
 
 ## Dive Profile
 

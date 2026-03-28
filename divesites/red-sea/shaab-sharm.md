@@ -32,7 +32,7 @@ Shaab Sharm occupies a position on the middle Egyptian Red Sea outer shelf, away
 
 ## Marine Life
 
-Reef fish at Shaab Sharm follow the patterns common to Egypt's central outer reefs: dense anthias colonies, permanent grouper residents, and reef-cruising Napoleon wrasse are reliable. Sea turtles appear on the platform, particularly in the shallower sections where algae and sponge growth provides feeding opportunities. Grey reef sharks patrol the outer edge, and the sandflats around the reef base shelter stingrays and goatfish. Moray eels are abundant in the crevices throughout the reef structure.
+Reef fish at Shaab Sharm follow the patterns common to Egypt's central outer reefs: dense anthias colonies, permanent grouper residents, and reef-cruising humphead wrasse are reliable. Sea turtles appear on the platform, particularly in the shallower sections where algae and sponge growth provides feeding opportunities. Grey reef sharks patrol the outer edge, and the sandflats around the reef base shelter stingrays and goatfish. Moray eels are abundant in the crevices throughout the reef structure.
 
 ## Dive Profile
 

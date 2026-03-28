@@ -32,7 +32,7 @@ The "garden" in the name reflects both the reef formation type and the character
 
 ## Marine Life
 
-Giant moray eels (Gymnothorax javanicus) are the defining species at this site — large individuals regularly extend from reef crevices with their characteristic rhythmic breathing motion, and multiple eels can be visible simultaneously at a single section of reef. Undulated moray and snowflake moray are also present in smaller numbers. The broader reef community includes napoleon wrasse, groupers, schools of anthias and chromis, and the standard complement of Red Sea reef fish. Lionfish occupy shaded ledges throughout the site. Cleaning stations where cleaner shrimp attend to eels and fish add an interesting behavioural dimension. The site occasionally sees turtles passing through the area.
+Giant moray eels (Gymnothorax javanicus) are the defining species at this site — large individuals regularly extend from reef crevices with their characteristic rhythmic breathing motion, and multiple eels can be visible simultaneously at a single section of reef. Undulated moray and snowflake moray are also present in smaller numbers. The broader reef community includes humphead wrasse, groupers, schools of anthias and chromis, and the standard complement of Red Sea reef fish. Lionfish occupy shaded ledges throughout the site. Cleaning stations where cleaner shrimp attend to eels and fish add an interesting behavioural dimension. The site occasionally sees turtles passing through the area.
 
 ## Dive Profile
 

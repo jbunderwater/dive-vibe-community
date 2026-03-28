@@ -32,7 +32,7 @@ Pfeiffer Reef is an elongated oval reef rising from deep water, with a shallow r
 
 ## Marine Life
 
-The southern Red Sea reefs support exceptional shark diversity. Grey reef sharks patrol the reef perimeter and are commonly encountered here. Whitetip reef sharks rest under coral overhangs throughout the dive. Schools of hammerhead sharks have been reported at the reef tips during the winter season. Napoleon wrasse are large and abundant. Sea turtles and bottlenose dolphins are regular visitors. The reef walls support dense gorgonian sea fans and soft coral towers populated by anthias, glassfish, and basslets in huge numbers.
+The southern Red Sea reefs support exceptional shark diversity. Grey reef sharks patrol the reef perimeter and are commonly encountered here. Whitetip reef sharks rest under coral overhangs throughout the dive. Schools of hammerhead sharks have been reported at the reef tips during the winter season. humphead wrasse are large and abundant. Sea turtles and bottlenose dolphins are regular visitors. The reef walls support dense gorgonian sea fans and soft coral towers populated by anthias, glassfish, and basslets in huge numbers.
 
 ## Dive Profile
 

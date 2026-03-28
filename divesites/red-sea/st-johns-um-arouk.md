@@ -32,7 +32,7 @@ Um Arouk is part of the sprawling St John's Reef complex approximately 100 km so
 
 ## Marine Life
 
-Um Arouk shares the exceptional marine life characteristic of St John's Reef. Napoleon wrasse are bold and curious. Groupers and moray eels occupy the reef structure. Green and hawksbill turtles are regularly encountered. Whitetip reef sharks rest on sandy patches at the reef base. The fish aggregations — dense clouds of anthias, fusiliers, and snappers — create a sense of diving through a living wall of color above the reef. Occasional hammerheads or manta rays are reported in the open water beyond the reef edge.
+Um Arouk shares the exceptional marine life characteristic of St John's Reef. humphead wrasse are bold and curious. Groupers and moray eels occupy the reef structure. Green and hawksbill turtles are regularly encountered. Whitetip reef sharks rest on sandy patches at the reef base. The fish aggregations — dense clouds of anthias, fusiliers, and snappers — create a sense of diving through a living wall of color above the reef. Occasional hammerheads or manta rays are reported in the open water beyond the reef edge.
 
 ## Dive Profile
 
@@ -44,7 +44,7 @@ Liveaboard zodiac access. Entry via back roll or giant stride. Ascend with a dep
 
 ## Tips and Recommendations
 
-- Approach Napoleon wrasse slowly and directly — they are surprisingly responsive to diver engagement
+- Approach humphead wrasse slowly and directly — they are surprisingly responsive to diver engagement
 - Check sandy patches at the reef base early in the dive when sharks are most active
 - Bring a wide-angle lens — the fish density makes for spectacular schooling photography
 - Plan the dive to end on the reef crest in good light for the safety stop

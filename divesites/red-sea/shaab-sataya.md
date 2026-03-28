@@ -32,7 +32,7 @@ Shaab Sataya is a large horseshoe-shaped reef approximately 60 kilometres southe
 
 ## Marine Life
 
-Shaab Sataya is synonymous with spinner dolphins — the resident pod often exceeds 100 individuals and is reliably present in the lagoon during morning hours. Divers enter the water quietly and allow the dolphins to approach, which they frequently do with great curiosity. The reef itself supports excellent fish diversity: grey reef sharks are seen on the outer walls, and Napoleon wrasse cruise the lagoon edge. Turtles rest on the reef platform, and the sandy lagoon bottom conceals goatfish, rays, and flat-bodied flounder. The outer reef attracts trevally, barracuda, and occasionally hammerhead sharks on early morning passes.
+Shaab Sataya is synonymous with spinner dolphins — the resident pod often exceeds 100 individuals and is reliably present in the lagoon during morning hours. Divers enter the water quietly and allow the dolphins to approach, which they frequently do with great curiosity. The reef itself supports excellent fish diversity: grey reef sharks are seen on the outer walls, and humphead wrasse cruise the lagoon edge. Turtles rest on the reef platform, and the sandy lagoon bottom conceals goatfish, rays, and flat-bodied flounder. The outer reef attracts trevally, barracuda, and occasionally hammerhead sharks on early morning passes.
 
 ## Dive Profile
 

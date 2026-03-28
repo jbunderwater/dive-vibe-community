@@ -32,7 +32,7 @@ Abu Galawa Soraya is the smaller counterpart to Abu Galawa Kebir, sitting slight
 
 ## Marine Life
 
-The sheltered lagoon is a haven for turtles, which are frequently seen resting on the shallow coral or grazing on algae. Napoleon wrasse are a constant presence in Fury Shoal lagoons. Reef sharks patrol the outer reef perimeter. Dense concentrations of schooling fish — fusiliers, anthias, snapper — fill the lagoon mid-water. The coral garden on the lagoon floor is rich with table corals, brain corals, and sea fans. Moray eels and lionfish occupy crevices throughout.
+The sheltered lagoon is a haven for turtles, which are frequently seen resting on the shallow coral or grazing on algae. humphead wrasse are a constant presence in Fury Shoal lagoons. Reef sharks patrol the outer reef perimeter. Dense concentrations of schooling fish — fusiliers, anthias, snapper — fill the lagoon mid-water. The coral garden on the lagoon floor is rich with table corals, brain corals, and sea fans. Moray eels and lionfish occupy crevices throughout.
 
 ## Dive Profile
 

@@ -32,7 +32,7 @@ The "garden" sites at Ras Mohammed represent the inner, coral garden habitat tha
 
 ## Marine Life
 
-The garden reef formations at Middle Garden host an impressive density of reef fish. Napoleon wrasse circle the larger coral structures with characteristic curiosity, and giant moray eels occupy every suitable crevice. Schools of anthias in orange and red hover above table corals in thousands, and butterflyfish patrol in characteristic pairs along the reef top. Lionfish are common in shaded overhangs. Sea turtles rest on sandy patches between formations. The sandy floor channels between coral heads support garden eel colonies visible from above. Spinner dolphins sometimes enter the park bay and may pass through Middle Garden's waters.
+The garden reef formations at Middle Garden host an impressive density of reef fish. humphead wrasse circle the larger coral structures with characteristic curiosity, and giant moray eels occupy every suitable crevice. Schools of anthias in orange and red hover above table corals in thousands, and butterflyfish patrol in characteristic pairs along the reef top. Lionfish are common in shaded overhangs. Sea turtles rest on sandy patches between formations. The sandy floor channels between coral heads support garden eel colonies visible from above. Spinner dolphins sometimes enter the park bay and may pass through Middle Garden's waters.
 
 ## Dive Profile
 
@@ -46,7 +46,7 @@ Day boats from Sharm el-Sheikh (approximately 30-45 minute journey) anchor in th
 
 - Combine Middle Garden with Near Garden or Far Garden on the same dive for a complete garden reef circuit
 - Look carefully at the sandy channels between coral heads for garden eels and the occasional flatfish or stingray
-- Napoleon wrasse at established park sites are habituated to divers and can approach very closely — resist the urge to touch
+- humphead wrasse at established park sites are habituated to divers and can approach very closely — resist the urge to touch
 - Morning light (before 10am) illuminates the garden formations from a favourable angle for photography
 - The site is within Ras Mohammed National Park — no marine life interaction, no collecting, and follow all operator guidelines
 
@@ -56,7 +56,7 @@ Conditions within the Ras Mohammed bay system are generally benign, but the bay 
 
 ## Photography
 
-Middle Garden is one of the best reef photography sites in Sinai for coral garden compositions. Wide-angle images through coral avenues with fish populations create layered, complex reef scenes. The anthias clouds above table corals are a signature shot with a wide lens looking upward through the formation. Napoleon wrasse portraits require a 60-105mm equivalent lens and a slow, non-threatening approach.
+Middle Garden is one of the best reef photography sites in Sinai for coral garden compositions. Wide-angle images through coral avenues with fish populations create layered, complex reef scenes. The anthias clouds above table corals are a signature shot with a wide lens looking upward through the formation. humphead wrasse portraits require a 60-105mm equivalent lens and a slow, non-threatening approach.
 
 ---
 *This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

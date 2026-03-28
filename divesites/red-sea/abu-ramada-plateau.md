@@ -32,7 +32,7 @@ The plateau on the northern side of Abu Ramada Island is one of the most accessi
 
 ## Marine Life
 
-The plateau hosts a dense and diverse reef fish community. Parrotfish, wrasse, triggerfish, and large groupers are constant companions. Clownfish nest in anemones along the coral heads, and schools of glassy sweepers hover in any available shade. Bluespotted ribbontail rays glide across sandy margins between coral formations. Moray eels are abundant in crevices throughout, and blue-spotted groupers patrol their territories. The site is known in the Hurghada area for close encounters with resident Napoleon wrasse.
+The plateau hosts a dense and diverse reef fish community. Parrotfish, wrasse, triggerfish, and large groupers are constant companions. Clownfish nest in anemones along the coral heads, and schools of glassy sweepers hover in any available shade. Bluespotted ribbontail rays glide across sandy margins between coral formations. Moray eels are abundant in crevices throughout, and blue-spotted groupers patrol their territories. The site is known in the Hurghada area for close encounters with resident humphead wrasse.
 
 ## Dive Profile
 

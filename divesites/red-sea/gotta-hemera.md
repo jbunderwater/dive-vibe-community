@@ -32,7 +32,7 @@ Gotta Hemera is a submerged reef pinnacle in the southern Egyptian Red Sea, loca
 
 ## Marine Life
 
-The isolation of the site means marine life shows little human habituation. Napoleon wrasse, large groupers, and giant moray eels are all present and notably unafraid of divers. Schools of fusiliers and snapper populate the mid-water zone above the reef, and barracuda hang in loose patrols above the pinnacle. Hammerhead sharks are encountered in the blue water around the base on winter itineraries. Hawksbill turtles rest on the reef crown. The plankton-rich southern waters support a richer array of filter feeders — including crinoids and basket stars — than is typical of northern Red Sea sites.
+The isolation of the site means marine life shows little human habituation. humphead wrasse, large groupers, and giant moray eels are all present and notably unafraid of divers. Schools of fusiliers and snapper populate the mid-water zone above the reef, and barracuda hang in loose patrols above the pinnacle. Hammerhead sharks are encountered in the blue water around the base on winter itineraries. Hawksbill turtles rest on the reef crown. The plankton-rich southern waters support a richer array of filter feeders — including crinoids and basket stars — than is typical of northern Red Sea sites.
 
 ## Dive Profile
 

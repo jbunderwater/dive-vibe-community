@@ -32,7 +32,7 @@ South Oasis lives up to its name as a verdant refuge of coral life on what is ot
 
 ## Marine Life
 
-The reef supports dense congregations of anthias, sergeant majors, and butterflyfish over the coral crest. Parrotfish and surgeonfish are ubiquitous grazers, while groups of barracuda patrol the blue water above. Napoleon wrasse and large groupers are regular visitors, and sea turtles are frequently encountered grazing on seagrass patches nearby. Occasional sightings of leopard sharks resting on the sandy bottom are reported.
+The reef supports dense congregations of anthias, sergeant majors, and butterflyfish over the coral crest. Parrotfish and surgeonfish are ubiquitous grazers, while groups of barracuda patrol the blue water above. humphead wrasse and large groupers are regular visitors, and sea turtles are frequently encountered grazing on seagrass patches nearby. Occasional sightings of leopard sharks resting on the sandy bottom are reported.
 
 ## Dive Profile
 

@@ -32,7 +32,7 @@ At this latitude in the Red Sea, reefs are influenced by the broader Indian Ocea
 
 ## Marine Life
 
-The southern and central Red Sea is productive shark habitat, and remote offshore reefs like Merlo are frequented by grey reef sharks, whitetip reef sharks, and potentially silvertip sharks along the deeper edges. Schools of barracuda and trevally use the reef structure as a reference point, and large napoleon wrasse are commonly encountered at undisturbed reefs. Sea turtles appear at offshore reef sites throughout this region. The coral reef itself — benefiting from minimal human disturbance — supports dense populations of all the characteristic Red Sea reef species, with hard coral coverage and sea fan development reflecting years of undisturbed growth.
+The southern and central Red Sea is productive shark habitat, and remote offshore reefs like Merlo are frequented by grey reef sharks, whitetip reef sharks, and potentially silvertip sharks along the deeper edges. Schools of barracuda and trevally use the reef structure as a reference point, and large humphead wrasse are commonly encountered at undisturbed reefs. Sea turtles appear at offshore reef sites throughout this region. The coral reef itself — benefiting from minimal human disturbance — supports dense populations of all the characteristic Red Sea reef species, with hard coral coverage and sea fan development reflecting years of undisturbed growth.
 
 ## Dive Profile
 

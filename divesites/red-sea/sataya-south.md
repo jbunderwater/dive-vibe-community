@@ -32,7 +32,7 @@ Sataya South is the go-to dive when conditions are calm and dolphin activity is 
 
 ## Marine Life
 
-Spinner dolphins are the headline attraction at Sataya South. The resident pod uses this sheltered section of the reef as a resting area, and encounters of 20 to 100 or more dolphins are documented in trip reports. Early morning dives — when the dolphins are still resting before departing to feed — produce the most extended encounters. Turtles are extremely common at Sataya and rest on the coral bommies in this section. Reef sharks patrol the outer edges, and large napoleon wrasse are resident. Moray eels and octopus are found in the coral crevices, and the sandy lagoon floor hosts stingrays and patches of garden eels.
+Spinner dolphins are the headline attraction at Sataya South. The resident pod uses this sheltered section of the reef as a resting area, and encounters of 20 to 100 or more dolphins are documented in trip reports. Early morning dives — when the dolphins are still resting before departing to feed — produce the most extended encounters. Turtles are extremely common at Sataya and rest on the coral bommies in this section. Reef sharks patrol the outer edges, and large humphead wrasse are resident. Moray eels and octopus are found in the coral crevices, and the sandy lagoon floor hosts stingrays and patches of garden eels.
 
 ## Dive Profile
 

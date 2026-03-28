@@ -32,7 +32,7 @@ Satellite Reef is a circular or elongated reef outcrop rising from the sandy sea
 
 ## Marine Life
 
-Isolated reef outcrops like Satellite Reef tend to accumulate reef fish in numbers disproportionate to their size. Anthias pack the upper reef, and schools of fusiliers hover in mid-water. Napoleon wrasse are common residents at Sharm-area reefs, and turtles rest on the coral formations. The sandy base around the reef perimeter shelters rays, sand gobies, and occasional octopus. Reef sharks may be encountered on the deeper sections of the outer slope.
+Isolated reef outcrops like Satellite Reef tend to accumulate reef fish in numbers disproportionate to their size. Anthias pack the upper reef, and schools of fusiliers hover in mid-water. humphead wrasse are common residents at Sharm-area reefs, and turtles rest on the coral formations. The sandy base around the reef perimeter shelters rays, sand gobies, and occasional octopus. Reef sharks may be encountered on the deeper sections of the outer slope.
 
 ## Dive Profile
 

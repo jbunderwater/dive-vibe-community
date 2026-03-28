@@ -32,7 +32,7 @@ Rose Reef sits on the shallow platform of the Farasan Banks, an extensive reef s
 
 ## Marine Life
 
-The low diver pressure of the southern Red Sea means fish behavior is relaxed and natural here. Large napoleon wrasse are curious and approach divers closely. Schools of snapper and fusiliers pack the upper reef. Sea turtles are frequent, resting on the coral platform and in the shallows. Grey reef sharks cruise the outer reef edges with minimal wariness. The coral formations support dense anthias and butterflyfish communities. In the southern Red Sea, manta rays are encountered at certain seasons, and whale sharks have been reported by liveaboard operators in the area.
+The low diver pressure of the southern Red Sea means fish behavior is relaxed and natural here. Large humphead wrasse are curious and approach divers closely. Schools of snapper and fusiliers pack the upper reef. Sea turtles are frequent, resting on the coral platform and in the shallows. Grey reef sharks cruise the outer reef edges with minimal wariness. The coral formations support dense anthias and butterflyfish communities. In the southern Red Sea, manta rays are encountered at certain seasons, and whale sharks have been reported by liveaboard operators in the area.
 
 ## Dive Profile
 
@@ -55,7 +55,7 @@ Remote location is the primary consideration — emergency evacuation from this 
 
 ## Photography
 
-The pristine reef condition and high visibility make Rose Reef an outstanding photography location. Natural-behavior shots of unhabituated fish are possible here that would be difficult at busier sites. Wide-angle reef landscapes with exceptional clarity, napoleon wrasse portraits, and turtle encounters are the headline subjects.
+The pristine reef condition and high visibility make Rose Reef an outstanding photography location. Natural-behavior shots of unhabituated fish are possible here that would be difficult at busier sites. Wide-angle reef landscapes with exceptional clarity, humphead wrasse portraits, and turtle encounters are the headline subjects.
 
 ## Additional Resources
 

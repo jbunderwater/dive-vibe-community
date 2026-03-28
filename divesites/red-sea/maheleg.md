@@ -32,7 +32,7 @@ Maheleg is a classic offshore Red Sea reef — a submerged platform or atoll str
 
 ## Marine Life
 
-Offshore reefs in this section of the Egyptian coast are productive shark habitats. Grey reef sharks and whitetip reef sharks are regularly reported at offshore reef sites in the Maheleg area, with sightings typically occurring along the reef edges in moderate current. Napoleon wrasse patrol the outer reef sections, and schools of barracuda and big-eye trevally hold position in the current. Sea turtles appear sporadically at cleaner offshore reefs. The reef structure supports anthias clouds, butterflyfish, surgeonfish, and parrotfish, with moray eels and lionfish occupying the more sheltered sections. Sandy areas adjacent to the reef may hold stingrays and garden eel colonies.
+Offshore reefs in this section of the Egyptian coast are productive shark habitats. Grey reef sharks and whitetip reef sharks are regularly reported at offshore reef sites in the Maheleg area, with sightings typically occurring along the reef edges in moderate current. humphead wrasse patrol the outer reef sections, and schools of barracuda and big-eye trevally hold position in the current. Sea turtles appear sporadically at cleaner offshore reefs. The reef structure supports anthias clouds, butterflyfish, surgeonfish, and parrotfish, with moray eels and lionfish occupying the more sheltered sections. Sandy areas adjacent to the reef may hold stingrays and garden eel colonies.
 
 ## Dive Profile
 

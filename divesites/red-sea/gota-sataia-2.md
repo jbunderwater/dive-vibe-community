@@ -32,7 +32,7 @@ Gota Sataia 2 sits marginally deeper than its companion, with the reef crown at 
 
 ## Marine Life
 
-The marine life mirrors that of Sataia 1 closely, but the slightly deeper crown and longer eastern wall tend to concentrate more larger reef fish. Big groupers and Napoleon wrasse are resident. The eastern wall — when current is running along it — attracts barracuda and jacks hanging in the flow. Turtles appear regularly on both pinnacles. The sandy flanks between the two pinnacles host garden eels and bluespotted stingrays resting on the sea floor. Nighttime diving here (for liveaboard groups) reveals hunting octopus and lobsters emerging from the reef.
+The marine life mirrors that of Sataia 1 closely, but the slightly deeper crown and longer eastern wall tend to concentrate more larger reef fish. Big groupers and humphead wrasse are resident. The eastern wall — when current is running along it — attracts barracuda and jacks hanging in the flow. Turtles appear regularly on both pinnacles. The sandy flanks between the two pinnacles host garden eels and bluespotted stingrays resting on the sea floor. Nighttime diving here (for liveaboard groups) reveals hunting octopus and lobsters emerging from the reef.
 
 ## Dive Profile
 

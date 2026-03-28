@@ -32,7 +32,7 @@ Soug Bahar is an open-ocean reef rising from deeper water, offering a classic Eg
 
 ## Marine Life
 
-The reef is home to a rich cross-section of Red Sea species. Dense schools of glassfish and anthias hover above the coral, drawing in groupers, trevally, and occasional Napoleon wrasse. Sea turtles are regularly sighted resting or feeding on the reef, and spotted eagle rays cruise the sandy margins. Lionfish and moray eels occupy the coral crevices, while clownfish tend their anemone hosts in the shallows.
+The reef is home to a rich cross-section of Red Sea species. Dense schools of glassfish and anthias hover above the coral, drawing in groupers, trevally, and occasional humphead wrasse. Sea turtles are regularly sighted resting or feeding on the reef, and spotted eagle rays cruise the sandy margins. Lionfish and moray eels occupy the coral crevices, while clownfish tend their anemone hosts in the shallows.
 
 ## Dive Profile
 

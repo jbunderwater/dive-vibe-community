@@ -32,7 +32,7 @@ Jackson Reef rises steeply from the seabed to within a few meters of the surface
 
 ## Marine Life
 
-The current-swept walls draw a reliable cast of pelagic species. Schooling hammerhead sharks are a signature sighting, particularly in the early morning hours when they gather in the blue water off the wall. Grey reef sharks cruise the upper wall edges, while oceanic whitetip sharks patrol the open water column. Napoleon wrasse in impressive sizes are resident along the deeper sections. Large schools of barracuda and trevally hold position in the current, and spotted eagle rays pass through regularly. The wall itself is colonized by dense soft corals, sea fans, and hard coral formations harboring lionfish, moray eels, and chromis clouds at shallower depths.
+The current-swept walls draw a reliable cast of pelagic species. Schooling hammerhead sharks are a signature sighting, particularly in the early morning hours when they gather in the blue water off the wall. Grey reef sharks cruise the upper wall edges, while oceanic whitetip sharks patrol the open water column. humphead wrasse in impressive sizes are resident along the deeper sections. Large schools of barracuda and trevally hold position in the current, and spotted eagle rays pass through regularly. The wall itself is colonized by dense soft corals, sea fans, and hard coral formations harboring lionfish, moray eels, and chromis clouds at shallower depths.
 
 ## Dive Profile
 

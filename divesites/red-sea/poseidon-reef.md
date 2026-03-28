@@ -32,7 +32,7 @@ Poseidon Reef is a relatively compact coral structure rising from deeper water t
 
 ## Marine Life
 
-Poseidon Reef supports the typical central Red Sea reef community. Napoleon wrasse are frequently encountered cruising the outer reef edge. Groupers, including giant grouper, favor the deeper coral overhangs. Schools of snapper and anthias inhabit the reef slope in numbers. Green and hawksbill turtles visit regularly. Lionfish, scorpionfish, and moray eels occupy the reef's crevices and ledges. The sandy bottom surrounding the reef provides additional habitat for bluespotted stingrays and garden eels visible from the reef base.
+Poseidon Reef supports the typical central Red Sea reef community. humphead wrasse are frequently encountered cruising the outer reef edge. Groupers, including giant grouper, favor the deeper coral overhangs. Schools of snapper and anthias inhabit the reef slope in numbers. Green and hawksbill turtles visit regularly. Lionfish, scorpionfish, and moray eels occupy the reef's crevices and ledges. The sandy bottom surrounding the reef provides additional habitat for bluespotted stingrays and garden eels visible from the reef base.
 
 ## Dive Profile
 
@@ -55,7 +55,7 @@ Current can develop on the exposed faces of the reef — stay oriented throughou
 
 ## Photography
 
-The compact size of Poseidon Reef means it can be covered thoroughly in a single dive, allowing time to photograph a variety of subjects. Wide-angle reef-scape photography works well along the sloping walls. Napoleon wrasse offer cooperative wide-angle portrait subjects. The sandy base hosts camouflaged subjects like crocodilefish and scorpionfish that reward careful searching. Anthias shoals over the reef crest photograph beautifully in natural light.
+The compact size of Poseidon Reef means it can be covered thoroughly in a single dive, allowing time to photograph a variety of subjects. Wide-angle reef-scape photography works well along the sloping walls. humphead wrasse offer cooperative wide-angle portrait subjects. The sandy base hosts camouflaged subjects like crocodilefish and scorpionfish that reward careful searching. Anthias shoals over the reef crest photograph beautifully in natural light.
 
 ---
 *This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -32,7 +32,7 @@ Sandy Island consists of a coral-encrusted reef rising from a sandy seafloor, re
 
 ## Marine Life
 
-The Safaga reef system supports a diverse and abundant reef fish community. Schools of fusiliers and anthias are a constant presence over the coral tops, and napoleon wrasse patrol the deeper reef edges. Parrotfish, surgeonfish, and triggerfish are common. Moray eels are residents in the coral crevices, and lionfish and scorpionfish conceal themselves in ledges. The sandy substrate around the base of the reef harbors garden eels, stingrays, and flatfish. Spinner dolphins are frequently seen in the surrounding water, and hammerhead sharks are reported in the area during cooler months.
+The Safaga reef system supports a diverse and abundant reef fish community. Schools of fusiliers and anthias are a constant presence over the coral tops, and humphead wrasse patrol the deeper reef edges. Parrotfish, surgeonfish, and triggerfish are common. Moray eels are residents in the coral crevices, and lionfish and scorpionfish conceal themselves in ledges. The sandy substrate around the base of the reef harbors garden eels, stingrays, and flatfish. Spinner dolphins are frequently seen in the surrounding water, and hammerhead sharks are reported in the area during cooler months.
 
 ## Dive Profile
 

@@ -32,7 +32,7 @@ The Blue Belt sank in the shallow waters north of Sanganeb reef and lies on its 
 
 ## Marine Life
 
-The resident barracuda school is the headline attraction — often 300–500 individuals forming a continuously rotating tornado above the wreck. Lionfish inhabit the holds and sheltered spaces. Moray eels occupy the interior corridors. Napoleon wrasse and large grouper are regularly sighted. The exterior coral encrustation hosts anthias, butterflyfish, and chromis in large numbers. Eagle rays have been sighted in the blue water surrounding the wreck.
+The resident barracuda school is the headline attraction — often 300–500 individuals forming a continuously rotating tornado above the wreck. Lionfish inhabit the holds and sheltered spaces. Moray eels occupy the interior corridors. humphead wrasse and large grouper are regularly sighted. The exterior coral encrustation hosts anthias, butterflyfish, and chromis in large numbers. Eagle rays have been sighted in the blue water surrounding the wreck.
 
 ## Dive Profile
 

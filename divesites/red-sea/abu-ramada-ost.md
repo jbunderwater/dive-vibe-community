@@ -32,7 +32,7 @@ The eastern face of Abu Ramada Island presents a classic Red Sea fringing reef, 
 
 ## Marine Life
 
-Abu Ramada's eastern reef is notable for its resident Napoleon wrasse, which are accustomed to divers and approach closely. Large parrotfish graze the coral heads, while scorpionfish and stonefish sit motionless among rubble patches. Schools of snappers and fusiliers gather in the water column above the slope. Hawksbill turtles are frequently found resting on the coral, and moray eels inhabit crevices throughout the site. Anthias and chromis swarm the soft coral branches at mid-depth in impressive numbers.
+Abu Ramada's eastern reef is notable for its resident humphead wrasse, which are accustomed to divers and approach closely. Large parrotfish graze the coral heads, while scorpionfish and stonefish sit motionless among rubble patches. Schools of snappers and fusiliers gather in the water column above the slope. Hawksbill turtles are frequently found resting on the coral, and moray eels inhabit crevices throughout the site. Anthias and chromis swarm the soft coral branches at mid-depth in impressive numbers.
 
 ## Dive Profile
 
@@ -46,7 +46,7 @@ Boat entry via giant stride from the dive platform. The mooring is positioned on
 
 - Morning dives benefit from direct sunlight on this eastward-facing wall
 - Watch for camouflaged scorpionfish in rubble zones — look before placing hands
-- The Napoleon wrasse here are approachable; avoid crowding or chasing them
+- The humphead wrasse here are approachable; avoid crowding or chasing them
 - Suitable for Open Water divers with good buoyancy control
 - Pair with Abu Ramada Plateau for an easy two-dive day from Hurghada
 
@@ -56,7 +56,7 @@ Light to moderate current is typical; strong currents can occasionally sweep div
 
 ## Photography
 
-Excellent wide-angle opportunities on the table coral garden at 5–10 meters where natural light is abundant. Seek macro subjects — nudibranchs, blennies, and cleaner shrimp — in crevices between coral heads. The resident Napoleon wrasse make for memorable portrait shots.
+Excellent wide-angle opportunities on the table coral garden at 5–10 meters where natural light is abundant. Seek macro subjects — nudibranchs, blennies, and cleaner shrimp — in crevices between coral heads. The resident humphead wrasse make for memorable portrait shots.
 
 ## Additional Resources
 

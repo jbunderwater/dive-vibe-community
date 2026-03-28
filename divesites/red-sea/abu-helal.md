@@ -32,7 +32,7 @@ Abu Helal sits in one of the most current-swept and biologically productive zone
 
 ## Marine Life
 
-The nutrient upwellings through the Tiran Strait sustain exceptional reef life. Large schools of fusiliers and anthias are a constant feature. Reef sharks — grey reefs and whitetip reefs — are regular visitors to the outer slopes. Napoleon wrasse are reliably present in the Tiran area. Turtles are seen year-round. Eagle rays and occasional hammerhead sharks have been reported during liveaboard dives. The coral itself is among the most diverse in the northern Red Sea.
+The nutrient upwellings through the Tiran Strait sustain exceptional reef life. Large schools of fusiliers and anthias are a constant feature. Reef sharks — grey reefs and whitetip reefs — are regular visitors to the outer slopes. humphead wrasse are reliably present in the Tiran area. Turtles are seen year-round. Eagle rays and occasional hammerhead sharks have been reported during liveaboard dives. The coral itself is among the most diverse in the northern Red Sea.
 
 ## Dive Profile
 
@@ -56,7 +56,7 @@ The Tiran Strait is known for strong and variable currents. Always carry an SMB 
 
 ## Photography
 
-Outstanding wide-angle conditions with schooling fish and diverse reef architecture. Reef sharks and Napoleon wrasse provide dramatic subjects. The coral walls with sea fans and soft corals frame well with natural light. The exceptional visibility makes ambient-light wide-angle possible throughout the dive.
+Outstanding wide-angle conditions with schooling fish and diverse reef architecture. Reef sharks and humphead wrasse provide dramatic subjects. The coral walls with sea fans and soft corals frame well with natural light. The exceptional visibility makes ambient-light wide-angle possible throughout the dive.
 
 ## Additional Resources
 

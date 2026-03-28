@@ -32,7 +32,7 @@ The Million Hope was a substantial cargo ship — reports suggest it was a large
 
 ## Marine Life
 
-The hull structure of the Million Hope provides habitat for one of the Red Sea's characteristic wreck marine communities. Massive schools of glassy sweepers fill any interior spaces accessible to divers. Groupers of impressive size occupy the hold areas, and moray eels take up residence in every gap in the corroding hull. Lionfish pose on ledges and overhangs throughout the structure. The soft coral growth on the hull exterior — sea fans, tree corals, and encrusting sponges — creates a colourful artificial reef. Given the Tiran Strait location, grey reef sharks, barracuda, and napoleon wrasse may be encountered in the open water alongside the wreck.
+The hull structure of the Million Hope provides habitat for one of the Red Sea's characteristic wreck marine communities. Massive schools of glassy sweepers fill any interior spaces accessible to divers. Groupers of impressive size occupy the hold areas, and moray eels take up residence in every gap in the corroding hull. Lionfish pose on ledges and overhangs throughout the structure. The soft coral growth on the hull exterior — sea fans, tree corals, and encrusting sponges — creates a colourful artificial reef. Given the Tiran Strait location, grey reef sharks, barracuda, and humphead wrasse may be encountered in the open water alongside the wreck.
 
 ## Dive Profile
 

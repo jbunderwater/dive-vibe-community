@@ -32,7 +32,7 @@ Shaab Bohar Soraya is a mid-sized reef structure with its own distinct character
 
 ## Marine Life
 
-Like all Fury Shoals reefs, Shaab Bohar Soraya supports a full Red Sea reef ecosystem. Grey reef sharks and whitetip reef sharks are present, particularly on the more exposed sections. Schools of snapper and fusiliers inhabit the mid-water zone above the reef. Napoleon wrasse, moray eels, and turtles are common. The coral formations include hard table corals, branching acropora, and massive Porites on the shallower sections, while the deeper and more exposed faces carry gorgonian fans and colorful soft corals. Octopus are often spotted in the sandy channels between reef structures.
+Like all Fury Shoals reefs, Shaab Bohar Soraya supports a full Red Sea reef ecosystem. Grey reef sharks and whitetip reef sharks are present, particularly on the more exposed sections. Schools of snapper and fusiliers inhabit the mid-water zone above the reef. humphead wrasse, moray eels, and turtles are common. The coral formations include hard table corals, branching acropora, and massive Porites on the shallower sections, while the deeper and more exposed faces carry gorgonian fans and colorful soft corals. Octopus are often spotted in the sandy channels between reef structures.
 
 ## Dive Profile
 

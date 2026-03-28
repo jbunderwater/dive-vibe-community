@@ -32,7 +32,7 @@ Near Garden features a classic coral garden formation: a spread of individual an
 
 ## Marine Life
 
-Near Garden's easy access and clear water make it one of the most frequented sites in the national park, and the resident fish have become relatively accustomed to divers — creating opportunities for close-range observations. Napoleon wrasse are regular visitors to the Near Garden area, circling the larger coral formations. Giant moray eels occupy crevices at multiple locations throughout the site. Clouds of anthias in orange and yellow hover above table corals in every direction, and butterflyfish patrol the coral heads in pairs. Lionfish are abundant in shaded overhangs. Garden eel colonies extend across sandy channels between coral formations. Sea turtles rest on the sand between dives and are often encountered early in the morning before boat traffic increases.
+Near Garden's easy access and clear water make it one of the most frequented sites in the national park, and the resident fish have become relatively accustomed to divers — creating opportunities for close-range observations. humphead wrasse are regular visitors to the Near Garden area, circling the larger coral formations. Giant moray eels occupy crevices at multiple locations throughout the site. Clouds of anthias in orange and yellow hover above table corals in every direction, and butterflyfish patrol the coral heads in pairs. Lionfish are abundant in shaded overhangs. Garden eel colonies extend across sandy channels between coral formations. Sea turtles rest on the sand between dives and are often encountered early in the morning before boat traffic increases.
 
 ## Dive Profile
 

@@ -32,7 +32,7 @@ Sweet Potato is a compact reef structure — likely a coral head or small platfo
 
 ## Marine Life
 
-Reef species typical of this latitude include anthias clouds, parrotfish, surgeonfish, and a variety of butterflyfish and angelfish. Hawkfish and dartfish occupy the reef-top rubble, while moray eels and lionfish patrol the crevices. Sea turtles are commonly seen, and Napoleon wrasse make occasional appearances. The sandy patches at depth may yield stingrays and garden eels.
+Reef species typical of this latitude include anthias clouds, parrotfish, surgeonfish, and a variety of butterflyfish and angelfish. Hawkfish and dartfish occupy the reef-top rubble, while moray eels and lionfish patrol the crevices. Sea turtles are commonly seen, and humphead wrasse make occasional appearances. The sandy patches at depth may yield stingrays and garden eels.
 
 ## Dive Profile
 

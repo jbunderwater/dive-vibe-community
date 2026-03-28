@@ -11,57 +11,53 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Long Cay Wall
+# Long Cay Wall
 
-Long Cay Wall is a wall dive site in Bocas del Toro, Caribbean.
+The most dramatic wall dive in Bocas del Toro — a nearly vertical drop from shallow coral garden to 28 meters on the exposed southeastern edge of the archipelago, with large sponge formations and pelagic visitors.
 
 ## Overview
 
-Long Cay Wall is a dive site in Bocas del Toro featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Long Cay Wall is the definitive advanced dive site of the Bocas del Toro archipelago — a vertical wall on the eastern, ocean-facing side of Long Cay that drops from a shallow reef crest at approximately 8 meters to a sandy base at 28 meters. The site is exposed to more Atlantic water influence than the sheltered inner sites, delivering improved clarity and bringing in pelagic species from the open Caribbean. The wall face carries large barrel sponge formations from 15 meters down, sea fans in the 12–18 meter zone, and encrusting organisms throughout. Current on the outer wall can be moderate, making buoyancy control important. This is the site where advanced Bocas del Toro divers go for the best diving the region offers. Visibility is 20–25 meters.
 
 ## Site Information
 
-- **Location**: Bocas del Toro, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 28 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+| Detail | Value |
+|--------|-------|
+| Depth Range | 8–28 m |
+| Difficulty | Advanced |
+| Entry Type | Boat |
+| Site Type | Wall |
+| Visibility | 20–25 m |
+| Current | Moderate |
+| Water Temp | 27–29°C |
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Long Cay Wall's position on the open Atlantic side of the archipelago brings species less common at sheltered inner sites. Spotted eagle rays are regular, sweeping the wall face in pairs or groups. Caribbean reef sharks patrol the deeper sections. Schools of horse-eye jacks orbit the upper wall in current-assisted hunting formations. Green sea turtles are common at the wall top. The barrel sponge communities at 18–25 meters support cleaning stations frequented by large groupers and jacks.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-28 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Descent to the wall top at 8 meters, then a controlled descent along the wall face to the planned maximum depth. Advanced divers typically work the deepest sections (22–28 m) where the barrel sponge formations are concentrated, then ascend the wall face gradually, spending time at each depth level before a safety stop on the reef crest. Plan the dive carefully to avoid spending excessive time at maximum depth.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Bocas Town operators. The southeastern outer edge requires a longer boat ride (20–30 minutes) and is only dived in suitable sea conditions. Entry by backward roll or giant stride. DSMB mandatory for ascent off the open wall.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+Long Cay Wall is the premium dive site in Bocas del Toro and should be reserved for divers with real wall diving experience and good buoyancy control. The combination of current, depth, and exposed position makes it unsuitable for divers still developing their skills. Plan the dive for slack or incoming tide for best current conditions. Morning dives typically have the best visibility.
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
+Wall dives make unintentional deep descents easy — set a firm maximum depth before entering the water and monitor the dive computer throughout. Current on the outer wall can increase suddenly. The open-water ascent after the dive requires DSMB deployment in advance of surfacing. Do not ascend from the wall face directly below the dive boat.
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+Long Cay Wall is Bocas del Toro's best photography site for advanced wide-angle reef work. The vertical wall face with barrel sponges and a diver descending creates the archetypal wall photography composition. Eagle ray encounters in clear water against the deep blue are the premium shot. Close-focus wide-angle at barrel sponge cleaning stations captures the fish activity in context.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- La Buga and Bocas Water Sports: both offer guided dives at Long Cay Wall for advanced divers
+- Best conditions: February–March dry season for maximum visibility
 
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

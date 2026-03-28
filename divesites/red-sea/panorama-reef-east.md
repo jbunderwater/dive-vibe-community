@@ -32,7 +32,7 @@ The eastern wall of Panorama Reef drops steeply from a shallow reef top at 3-5 m
 
 ## Marine Life
 
-The exposed eastern aspect of Panorama Reef regularly draws pelagic visitors including barracuda schools, trevally, and occasional hammerhead sharks during winter months. Oceanic whitetip sharks have been reported at depth along the outer wall. The reef itself hosts dense anthias colonies, Napoleon wrasse, and large groupers lurking under coral ledges. Moray eels, scorpionfish, and lionfish are found throughout. Hawksbill turtles are regular visitors grazing on the reef top.
+The exposed eastern aspect of Panorama Reef regularly draws pelagic visitors including barracuda schools, trevally, and occasional hammerhead sharks during winter months. Oceanic whitetip sharks have been reported at depth along the outer wall. The reef itself hosts dense anthias colonies, humphead wrasse, and large groupers lurking under coral ledges. Moray eels, scorpionfish, and lionfish are found throughout. Hawksbill turtles are regular visitors grazing on the reef top.
 
 ## Dive Profile
 

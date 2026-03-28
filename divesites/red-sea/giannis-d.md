@@ -32,7 +32,7 @@ The Giannis D was a Greek cargo vessel that grounded on the shallow reef of Sha'
 
 ## Marine Life
 
-The wreck is so thoroughly colonised by soft and hard corals that it reads more as an artificial reef than a shipwreck. Orange tree corals, giant sea fans, and anemone clusters coat the hull. Large schools of glassy sweepers fill the hold and cargo spaces, and lionfish are ubiquitous, hanging motionless in the shadows. Groupers occupy the deeper sections of the stern. Barracuda and jacks patrol the open water above the wreck, and several resident Napoleon wrasse visit regularly. The reef surrounding the wreck hosts triggerfish, butterflyfish, and parrotfish.
+The wreck is so thoroughly colonised by soft and hard corals that it reads more as an artificial reef than a shipwreck. Orange tree corals, giant sea fans, and anemone clusters coat the hull. Large schools of glassy sweepers fill the hold and cargo spaces, and lionfish are ubiquitous, hanging motionless in the shadows. Groupers occupy the deeper sections of the stern. Barracuda and jacks patrol the open water above the wreck, and several resident humphead wrasse visit regularly. The reef surrounding the wreck hosts triggerfish, butterflyfish, and parrotfish.
 
 ## Dive Profile
 

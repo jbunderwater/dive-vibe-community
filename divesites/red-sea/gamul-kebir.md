@@ -32,7 +32,7 @@ The Gamul reefs are a popular destination for Hurghada-based day boats, with Gam
 
 ## Marine Life
 
-Napoleon wrasse are frequently seen cruising the outer reef edge. Schools of snapper, fusiliers, and goatfish move across the reef plateau, chased by barracuda patrolling above. Reef sharks are occasionally spotted at depth below 15 meters. Large groupers claim the deeper overhangs, and giant moray eels are resident in the coral heads on the slope. Sea turtles rest on the platform and in the shallower sections of the reef crest, and eagle rays have been seen in the blue water on the eastern side.
+humphead wrasse are frequently seen cruising the outer reef edge. Schools of snapper, fusiliers, and goatfish move across the reef plateau, chased by barracuda patrolling above. Reef sharks are occasionally spotted at depth below 15 meters. Large groupers claim the deeper overhangs, and giant moray eels are resident in the coral heads on the slope. Sea turtles rest on the platform and in the shallower sections of the reef crest, and eagle rays have been seen in the blue water on the eastern side.
 
 ## Dive Profile
 
@@ -56,7 +56,7 @@ The exposed eastern face can experience strong tidal flow. Be cautious of uninte
 
 ## Photography
 
-The outer wall provides dramatic wide-angle backdrops with deep blue water and sloping reef. Napoleon wrasse and barracuda make striking subjects. The sheltered northern section of the reef top offers colourful macro photography among the coral heads.
+The outer wall provides dramatic wide-angle backdrops with deep blue water and sloping reef. humphead wrasse and barracuda make striking subjects. The sheltered northern section of the reef top offers colourful macro photography among the coral heads.
 
 ---
 *This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

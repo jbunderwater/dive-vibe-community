@@ -32,7 +32,7 @@ Abu Galawa Kebir ("Big Abu Galawa") is a Fury Shoal lagoon site containing a his
 
 ## Marine Life
 
-The lagoon's calm conditions and the wreck structure create a wildlife-rich environment. Large Napoleon wrasse frequently shelter near the wreck. Turtles are common lagoon residents. Dense schools of glassfish engulf the wreck superstructure. Grouper, snapper, and moray eels have established territories in the wreck's holds and cavities. The coral garden surrounding the wreck hosts clouds of anthias and butterflyfish.
+The lagoon's calm conditions and the wreck structure create a wildlife-rich environment. Large humphead wrasse frequently shelter near the wreck. Turtles are common lagoon residents. Dense schools of glassfish engulf the wreck superstructure. Grouper, snapper, and moray eels have established territories in the wreck's holds and cavities. The coral garden surrounding the wreck hosts clouds of anthias and butterflyfish.
 
 ## Dive Profile
 

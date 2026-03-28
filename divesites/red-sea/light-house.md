@@ -32,7 +32,7 @@ The reef at Light House descends from a rocky shore entry over a sloping coral g
 
 ## Marine Life
 
-Light House hosts a typical but diverse Gulf of Aqaba reef community that rewards attentive divers. Pufferfish and moray eels are reliable regulars in the reef's crevices and overhangs. Clownfish with their anemones are scattered across the reef, and napoleon wrasse cruise the mid-water section in impressive numbers for a nearshore site. Schools of anthias, butterflyfish, and surgeon fish populate every coral head. Nudibranchs, flatworms, and small crustaceans reward macro photographers who take time to scan encrusted rock surfaces. Stonefish and scorpionfish camouflage against rubble and rock — a reminder to watch foot placement at all times.
+Light House hosts a typical but diverse Gulf of Aqaba reef community that rewards attentive divers. Pufferfish and moray eels are reliable regulars in the reef's crevices and overhangs. Clownfish with their anemones are scattered across the reef, and humphead wrasse cruise the mid-water section in impressive numbers for a nearshore site. Schools of anthias, butterflyfish, and surgeon fish populate every coral head. Nudibranchs, flatworms, and small crustaceans reward macro photographers who take time to scan encrusted rock surfaces. Stonefish and scorpionfish camouflage against rubble and rock — a reminder to watch foot placement at all times.
 
 ## Dive Profile
 
@@ -56,7 +56,7 @@ Light House is one of the safest entry-level dives in Dahab, but standard precau
 
 ## Photography
 
-The combination of clear water, abundant marine life, and manageable depth makes Light House one of Dahab's best photography sites. Clownfish and anemone subjects are plentiful. Macro work on the encrusted slope rewards patience. Napoleon wrasse portraits require a wide-angle lens and slow approach. Night photography at this site yields cuttlefish, octopus, and sleeping parrotfish subjects.
+The combination of clear water, abundant marine life, and manageable depth makes Light House one of Dahab's best photography sites. Clownfish and anemone subjects are plentiful. Macro work on the encrusted slope rewards patience. humphead wrasse portraits require a wide-angle lens and slow approach. Night photography at this site yields cuttlefish, octopus, and sleeping parrotfish subjects.
 
 ---
 *This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

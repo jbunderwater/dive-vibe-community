@@ -32,7 +32,7 @@ Angarosh is part of the Brothers-Daedalus-Elphinstone liveaboard circuit and is 
 
 ## Marine Life
 
-Hammerhead sharks in schools of dozens to hundreds are the headline attraction, particularly in early morning dives. Grey reef sharks and silvertip sharks are resident year-round. Oceanic whitetip sharks patrol the blue water on the wall edges. Large napoleon wrasse, schools of barracuda, and hunting tuna add to the pelagic spectacle. The reef itself hosts rich coral communities with anthias, triggerfish, and moray eels.
+Hammerhead sharks in schools of dozens to hundreds are the headline attraction, particularly in early morning dives. Grey reef sharks and silvertip sharks are resident year-round. Oceanic whitetip sharks patrol the blue water on the wall edges. Large humphead wrasse, schools of barracuda, and hunting tuna add to the pelagic spectacle. The reef itself hosts rich coral communities with anthias, triggerfish, and moray eels.
 
 ## Dive Profile
 

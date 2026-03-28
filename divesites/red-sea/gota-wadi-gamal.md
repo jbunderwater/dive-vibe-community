@@ -32,7 +32,7 @@ Wadi El Gemal National Park encompasses a vast stretch of coastline and offshore
 
 ## Marine Life
 
-Sea turtles — both hawksbill and green — are notably abundant in this national park area and are almost guaranteed on every dive. Napoleon wrasse are resident. Schools of snapper and fusiliers move in dense clouds above the reef. The protected status means large groupers are more common here than at unprotected sites, and moray eels are found throughout the coral structure. Eagle rays pass through from the sandy seafloor areas adjacent to the pinnacle. In summer, whale shark sightings are recorded in the area around Wadi El Gemal.
+Sea turtles — both hawksbill and green — are notably abundant in this national park area and are almost guaranteed on every dive. humphead wrasse are resident. Schools of snapper and fusiliers move in dense clouds above the reef. The protected status means large groupers are more common here than at unprotected sites, and moray eels are found throughout the coral structure. Eagle rays pass through from the sandy seafloor areas adjacent to the pinnacle. In summer, whale shark sightings are recorded in the area around Wadi El Gemal.
 
 ## Dive Profile
 

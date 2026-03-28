@@ -32,7 +32,7 @@ Safaga is renowned among experienced Red Sea divers for its strong currents, whi
 
 ## Marine Life
 
-The currents channeled through the Safaga shoals support a rich pelagic food chain. Spinner dolphins frequently investigate divers and can be encountered mid-water at this site. Schools of barracuda and trevally cruise along the reef edges, while napoleon wrasse are resident in the deeper sections. On the reef itself, look for longnose hawkfish perched on gorgonians, moray eels in the coral heads, and dense clouds of glassfish sheltering in overhangs. Hammerhead sharks visit in the winter months, typically at depth along the reef's seaward edge.
+The currents channeled through the Safaga shoals support a rich pelagic food chain. Spinner dolphins frequently investigate divers and can be encountered mid-water at this site. Schools of barracuda and trevally cruise along the reef edges, while humphead wrasse are resident in the deeper sections. On the reef itself, look for longnose hawkfish perched on gorgonians, moray eels in the coral heads, and dense clouds of glassfish sheltering in overhangs. Hammerhead sharks visit in the winter months, typically at depth along the reef's seaward edge.
 
 ## Dive Profile
 

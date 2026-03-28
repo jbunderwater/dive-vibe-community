@@ -32,7 +32,7 @@ The SS Carnatic was an iron-hulled paddlewheel steamer carrying mail, cargo, and
 
 ## Marine Life
 
-Glassfish in dense clouds inhabit the wreck's holds and corridors, creating one of the Red Sea's most iconic underwater scenes. Lionfish hunt at the edges of the glassfish schools. Moray eels occupy the structural crevices and old rigging. Batfish hover in mid-water above the wreck. Napoleon wrasse and large grouper are resident. The coral-encrusted exterior hosts anthias, butterflyfish, and a variety of wrasse species.
+Glassfish in dense clouds inhabit the wreck's holds and corridors, creating one of the Red Sea's most iconic underwater scenes. Lionfish hunt at the edges of the glassfish schools. Moray eels occupy the structural crevices and old rigging. Batfish hover in mid-water above the wreck. humphead wrasse and large grouper are resident. The coral-encrusted exterior hosts anthias, butterflyfish, and a variety of wrasse species.
 
 ## Dive Profile
 

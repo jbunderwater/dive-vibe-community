@@ -32,7 +32,7 @@ Zabargad Island lies approximately 100 kilometers east-northeast of Berenice and
 
 ## Marine Life
 
-The sheltered waters around the jetty support one of the most impressive marine communities in the southern Red Sea. Hammerhead sharks are regularly seen schooling in the blue water around Zabargad, with early morning dives offering the best encounters. Manta rays visit seasonally. Dolphins are a near-constant presence in the protected lagoon. Green and hawksbill turtles rest and forage on the reef. The jetty pilings themselves are colonized by large grouper, moray eels, lionfish, and dense schools of glassfish. Dugongs have been reported in the area. Napoleon wrasse cruise the reef edge and are frequently approachable.
+The sheltered waters around the jetty support one of the most impressive marine communities in the southern Red Sea. Hammerhead sharks are regularly seen schooling in the blue water around Zabargad, with early morning dives offering the best encounters. Manta rays visit seasonally. Dolphins are a near-constant presence in the protected lagoon. Green and hawksbill turtles rest and forage on the reef. The jetty pilings themselves are colonized by large grouper, moray eels, lionfish, and dense schools of glassfish. Dugongs have been reported in the area. humphead wrasse cruise the reef edge and are frequently approachable.
 
 ## Dive Profile
 

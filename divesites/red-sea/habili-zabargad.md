@@ -32,7 +32,7 @@ Zabargad Island is famed in the liveaboard world as a jewel of the far southern 
 
 ## Marine Life
 
-The Zabargad area is renowned for hammerhead sightings in winter months (December–March), and Habili Zabargad participates in this pattern — divers can expect to see hammerheads at depth in the blue water in peak season. Year-round, the reef hosts Napoleon wrasse in impressive numbers, large groupers, moray eels, and abundant reef fish schools. Whitetip reef sharks are common residents, and grey reef sharks patrol the outer zone. Hawksbill turtles are numerous. Eagle rays and spotted eagle rays cross the sandy areas around the pinnacle. The oceanic conditions of the area bring a regular exchange of pelagic visitors including thresher sharks and barracuda in open water.
+The Zabargad area is renowned for hammerhead sightings in winter months (December–March), and Habili Zabargad participates in this pattern — divers can expect to see hammerheads at depth in the blue water in peak season. Year-round, the reef hosts humphead wrasse in impressive numbers, large groupers, moray eels, and abundant reef fish schools. Whitetip reef sharks are common residents, and grey reef sharks patrol the outer zone. Hawksbill turtles are numerous. Eagle rays and spotted eagle rays cross the sandy areas around the pinnacle. The oceanic conditions of the area bring a regular exchange of pelagic visitors including thresher sharks and barracuda in open water.
 
 ## Dive Profile
 

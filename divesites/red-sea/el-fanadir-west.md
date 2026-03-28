@@ -32,7 +32,7 @@ El Fanadir West shares the same reef structure as its sister sites El Fanadir an
 
 ## Marine Life
 
-The western face of El Fanadir hosts the standard northern Red Sea reef community with some additional features. The sandy terrace sections at 12–18 meters are productive for garden eel colonies and goby-shrimp pairs. Reef octopus are commonly spotted hunting along the reef base transition zone. Groupers tend to be larger on the deeper western sections, and cleaning stations are regularly active — Napoleon wrasse, sea turtles, and large snappers queue up to be groomed by cleaner wrasse in the 10–15 metre zone. Moray eels, pufferfish, lionfish, and the full range of reef fish are present throughout.
+The western face of El Fanadir hosts the standard northern Red Sea reef community with some additional features. The sandy terrace sections at 12–18 meters are productive for garden eel colonies and goby-shrimp pairs. Reef octopus are commonly spotted hunting along the reef base transition zone. Groupers tend to be larger on the deeper western sections, and cleaning stations are regularly active — humphead wrasse, sea turtles, and large snappers queue up to be groomed by cleaner wrasse in the 10–15 metre zone. Moray eels, pufferfish, lionfish, and the full range of reef fish are present throughout.
 
 ## Dive Profile
 

@@ -17,7 +17,7 @@ Habili Omran is an offshore reef pinnacle in the southern Egyptian Red Sea, situ
 
 ## Overview
 
-Like the other habili sites scattered across the southern Egyptian Red Sea, Habili Omran is a submerged rocky reef that rises from deep water, providing an isolated focal point for both reef and pelagic marine life. The pinnacle here is known among liveaboard guides for its soft-coral richness and the reliable presence of Napoleon wrasse that have come to associate the site with human visitors. The flanks slope from a shallow crown at around 5 meters to 18–20 meters before the sand, supporting a continuous carpet of soft coral, encrusting sponges, and sea fans across all depth zones. The surrounding open-ocean water is typically clear and inviting, with the pinnacle's silhouette visible from the surface on calm days.
+Like the other habili sites scattered across the southern Egyptian Red Sea, Habili Omran is a submerged rocky reef that rises from deep water, providing an isolated focal point for both reef and pelagic marine life. The pinnacle here is known among liveaboard guides for its soft-coral richness and the reliable presence of humphead wrasse that have come to associate the site with human visitors. The flanks slope from a shallow crown at around 5 meters to 18–20 meters before the sand, supporting a continuous carpet of soft coral, encrusting sponges, and sea fans across all depth zones. The surrounding open-ocean water is typically clear and inviting, with the pinnacle's silhouette visible from the surface on calm days.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Like the other habili sites scattered across the southern Egyptian Red Sea, Habi
 
 ## Marine Life
 
-Napoleon wrasse are the headline species here and are regularly encountered in pairs or small groups. Large groupers (including potato cod size range) occupy the deeper overhangs. Schools of anthias and fusiliers create a constant, colourful backdrop above the soft-coral flanks. Barracuda and trevally patrol the open-water zone above the pinnacle. Whitetip reef sharks rest on the sand at the base during daylight hours, becoming active hunters around the structure at dusk. Hawksbill turtles are a consistent presence. Garden eels populate the sandy areas immediately adjacent to the reef base.
+humphead wrasse are the headline species here and are regularly encountered in pairs or small groups. Large groupers (including potato cod size range) occupy the deeper overhangs. Schools of anthias and fusiliers create a constant, colourful backdrop above the soft-coral flanks. Barracuda and trevally patrol the open-water zone above the pinnacle. Whitetip reef sharks rest on the sand at the base during daylight hours, becoming active hunters around the structure at dusk. Hawksbill turtles are a consistent presence. Garden eels populate the sandy areas immediately adjacent to the reef base.
 
 ## Dive Profile
 
@@ -44,7 +44,7 @@ Liveaboard or extended day-charter access from Marsa Alam or Port Ghalib. Entry 
 
 ## Tips and Recommendations
 
-- Napoleon wrasse at this site are known to be particularly approachable — move slowly and avoid sudden fin kicks
+- humphead wrasse at this site are known to be particularly approachable — move slowly and avoid sudden fin kicks
 - The pinnacle is compact enough to thoroughly explore in a single dive
 - Look along the sandy base for resting sharks during the descent
 - If current is running along one face of the pinnacle, position yourself to drift up that face for an effortless ascent
@@ -56,7 +56,7 @@ Standard offshore pinnacle precautions apply. Deploy an SMB on every ascent. Mon
 
 ## Photography
 
-The approachable Napoleon wrasse provide exceptional fish portrait opportunities. Close-focus wide-angle of the soft-coral-draped flanks is highly productive. The open blue water surrounding the pinnacle allows backlit silhouette shots of schooling fish above the reef crown.
+The approachable humphead wrasse provide exceptional fish portrait opportunities. Close-focus wide-angle of the soft-coral-draped flanks is highly productive. The open blue water surrounding the pinnacle allows backlit silhouette shots of schooling fish above the reef crown.
 
 ---
 *This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

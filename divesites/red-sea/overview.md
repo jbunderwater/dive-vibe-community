@@ -29,7 +29,7 @@ Red Sea is a premier diving destination in the Middle East region, offering 298 
 ### Marine Life & Environment
 
 - **Water Conditions**: Water temperatures range from 22-30°C (72-86°F) with visibility of 20-40 meters (65-130 feet). Currents are generally moderate to strong.
-- **Marine Biodiversity**: The waters support diverse marine ecosystems including whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels, lionfish, clownfish.
+- **Marine Biodiversity**: The waters support diverse marine ecosystems including whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, humphead wrasse, giant moray eels, lionfish, clownfish.
 - **Conservation**: Marine protected areas help preserve the reef ecosystems and regulate diving activities.
 
 ## Additional Information

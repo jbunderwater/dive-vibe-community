@@ -32,7 +32,7 @@ addedBy: osm_import
 
 ## Marine Life
 
-The sheltered pools and surrounding reef host a healthy cross-section of Red Sea species. Expect to find bluespotted ribbontail rays resting on the sandy floors of the pools, alongside various species of grouper and snapper. The coral slopes attract anthias clouds, bannerfish, and butterflyfishes. Moray eels are common in crevices, and glassfish schools frequently appear near the reef edge. Occasional sightings of reef sharks and Napoleon wrasse have been reported by visiting divers.
+The sheltered pools and surrounding reef host a healthy cross-section of Red Sea species. Expect to find bluespotted ribbontail rays resting on the sandy floors of the pools, alongside various species of grouper and snapper. The coral slopes attract anthias clouds, bannerfish, and butterflyfishes. Moray eels are common in crevices, and glassfish schools frequently appear near the reef edge. Occasional sightings of reef sharks and humphead wrasse have been reported by visiting divers.
 
 ## Dive Profile
 

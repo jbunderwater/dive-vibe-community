@@ -32,7 +32,7 @@ The eastern point of an offshore reef offers one of the most exposed and current
 
 ## Marine Life
 
-The exposed east-facing point draws pelagic species that follow currents feeding on the concentrated plankton. Grey reef sharks and whitetip reef sharks are regular visitors. Schools of barracuda and trevally congregate at the point tip, and napoleon wrasse are frequently encountered on the upper reef. Sea turtles rest on the reef crest between dives. The current-swept slopes support excellent soft coral growth — fan corals, leather corals, and large sea whips — providing habitat for hawkfish, gobies, and various species of basslet.
+The exposed east-facing point draws pelagic species that follow currents feeding on the concentrated plankton. Grey reef sharks and whitetip reef sharks are regular visitors. Schools of barracuda and trevally congregate at the point tip, and humphead wrasse are frequently encountered on the upper reef. Sea turtles rest on the reef crest between dives. The current-swept slopes support excellent soft coral growth — fan corals, leather corals, and large sea whips — providing habitat for hawkfish, gobies, and various species of basslet.
 
 ## Dive Profile
 

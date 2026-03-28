@@ -32,11 +32,11 @@ Humphead wrasse are unmistakable — large adults can reach over 2 meters in len
 
 ## Marine Life
 
-Napoleon wrasse are the site's signature species — resident individuals have established territories on the reef and regularly approach dive groups with remarkable confidence given their size. Multiple individuals may be present simultaneously. The broader reef community supports giant moray eels, groupers, lionfish, sea turtles, and the full spectrum of Red Sea reef fish including clouds of anthias, butterflyfish, and surgeonfish. Turtle sightings at this stretch of the Sinai coast are documented regularly. The Gulf of Aqaba water brings excellent clarity and occasional pelagic visitors to the reef edge.
+humphead wrasse are the site's signature species — resident individuals have established territories on the reef and regularly approach dive groups with remarkable confidence given their size. Multiple individuals may be present simultaneously. The broader reef community supports giant moray eels, groupers, lionfish, sea turtles, and the full spectrum of Red Sea reef fish including clouds of anthias, butterflyfish, and surgeonfish. Turtle sightings at this stretch of the Sinai coast are documented regularly. The Gulf of Aqaba water brings excellent clarity and occasional pelagic visitors to the reef edge.
 
 ## Dive Profile
 
-Napoleon wrasse at this site often appear at the start of the descent and may accompany dive groups for extended periods. The dive follows the reef contour at 10-20 meters, with the wrasse encounters occurring across the full depth range rather than at a fixed location. Maintain a relaxed pace and allow the fish to determine the interaction — following rather than leading. The reef topography provides the usual range of coral formations and crevice habitats to explore between wrasse encounters.
+humphead wrasse at this site often appear at the start of the descent and may accompany dive groups for extended periods. The dive follows the reef contour at 10-20 meters, with the wrasse encounters occurring across the full depth range rather than at a fixed location. Maintain a relaxed pace and allow the fish to determine the interaction — following rather than leading. The reef topography provides the usual range of coral formations and crevice habitats to explore between wrasse encounters.
 
 ## Entry and Exit
 

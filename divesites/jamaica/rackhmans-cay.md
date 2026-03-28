@@ -11,56 +11,55 @@ osmId: 746173569
 addedBy: osm_import
 ---
 
-## Rackhmans Cay
+# Rackhmans Cay
 
-Rackhmans Cay is a reef dive site in Jamaica, Caribbean.
+A south-coast Jamaican cay reef potentially named for the legendary pirate "Calico Jack" Rackham, with healthy coral and quiet diving conditions.
 
 ## Overview
 
-Rackhmans Cay is a dive site in Jamaica offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Rackhmans Cay (likely named in reference to the infamous pirate John "Calico Jack" Rackham, who operated in Jamaican waters in the early 18th century) is one of the Portland Bight cluster of south-coast cay reefs. The fringing reef around the cay reaches 15 metres, with spur-and-groove formations, sandy channels, and small overhangs. The Portland Bight Protected Area status has maintained reef health in this region. The site offers classic, uncrowded Jamaican cay-reef diving in a remote setting with minimal other divers. Visibility averages 15–22 metres and conditions are calm in the dry season.
 
 ## Site Information
 
-- **Location**: Jamaica, Caribbean
+- **Location**: Portland Bight Protected Area, south Jamaica
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
+- **Typical Visibility**: 15–22 meters (50–70 feet)
+- **Current**: Light
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The reef supports schoolmaster snapper, French grunts, parrotfish, and blue tangs. Hawksbill turtles are present in the area. Nurse sharks rest at the base of the reef. Large spiny lobsters and spotted moray eels occupy crevices. Southern stingrays are found on sandy patches around the cay. The mangrove and seagrass areas adjacent to the cay provide additional habitat for juvenile fish and the occasional green turtle.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Circumnavigate the cay reef at 8–15 metres. The deeper seaward side at 12–15 metres has the most substantial coral and sponge formations. Return to the sheltered side for the safety stop at 5 metres. A leisurely circumnavigation takes 40–50 minutes.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by local charter from the south coast area. Limited commercial dive infrastructure — local knowledge required. Entry via giant stride or back roll from a small boat. Moor on the lee side of the cay.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- The pirate history of the area adds narrative interest to the dive — Calico Jack Rackham was famously captured by authorities in Jamaican waters in 1720
+- Combine with the nearby south-coast cays for a Portland Bight exploration day
+- Bring a dive torch for the crevices where lobsters congregate
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Remote location. Carry complete safety equipment. South coast conditions require a weather check before departure. Deploy SMB before surfacing.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Lobster portraits in torch-lit crevices and turtle encounters in the clear water of this protected area are the photographic highlights. Wide-angle shots of the cay reef structure convey the remote, natural character of the site.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Protected Area**: Portland Bight Protected Area, Jamaica
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

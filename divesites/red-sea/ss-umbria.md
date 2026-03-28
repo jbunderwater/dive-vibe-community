@@ -32,7 +32,7 @@ The Umbria measures 155 meters in length and lies on her port side in 35 meters 
 
 ## Marine Life
 
-The Umbria's encrusted hull hosts large colonies of black coral, soft corals in orange and yellow, and dense fish life. Napoleon wrasse patrol the deck, accompanied by large groupers, lionfish in every nook, and shimmering schools of glassfish. Hammerhead sharks are encountered on the deeper portions of the wreck and in the open water above. Manta rays and whale sharks have been reported in the surrounding waters. The Fiat cars on deck are draped in coral growth and occupied by moray eels — a surreal combination of marine biology and industrial history.
+The Umbria's encrusted hull hosts large colonies of black coral, soft corals in orange and yellow, and dense fish life. humphead wrasse patrol the deck, accompanied by large groupers, lionfish in every nook, and shimmering schools of glassfish. Hammerhead sharks are encountered on the deeper portions of the wreck and in the open water above. Manta rays and whale sharks have been reported in the surrounding waters. The Fiat cars on deck are draped in coral growth and occupied by moray eels — a surreal combination of marine biology and industrial history.
 
 ## Dive Profile
 

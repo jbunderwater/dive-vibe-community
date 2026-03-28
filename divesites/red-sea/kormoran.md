@@ -32,7 +32,7 @@ The site sits in the productive waters of the Strait of Tiran, an area famous fo
 
 ## Marine Life
 
-The Tiran area's productive, current-swept waters support excellent marine diversity. Napoleon wrasse are reliably sighted in this part of the Red Sea — large, characterful fish that often approach divers with curiosity. Grey reef sharks patrol the reef edges, and schools of barracuda and jack are common at sites influenced by tidal flow. The reef surface itself hosts dense populations of anthias, chromis, and butterflyfish, with moray eels in virtually every sizeable crevice. Spotted eagle rays pass through at irregular intervals, and sea turtles are occasionally encountered resting on sandy sections between coral formations.
+The Tiran area's productive, current-swept waters support excellent marine diversity. humphead wrasse are reliably sighted in this part of the Red Sea — large, characterful fish that often approach divers with curiosity. Grey reef sharks patrol the reef edges, and schools of barracuda and jack are common at sites influenced by tidal flow. The reef surface itself hosts dense populations of anthias, chromis, and butterflyfish, with moray eels in virtually every sizeable crevice. Spotted eagle rays pass through at irregular intervals, and sea turtles are occasionally encountered resting on sandy sections between coral formations.
 
 ## Dive Profile
 
@@ -55,7 +55,7 @@ Current is the primary safety consideration at Tiran area sites. Divers must be 
 
 ## Photography
 
-The combination of clear blue water, colorful reef, and large resident fish makes Kormoran and the wider Tiran area very photogenic. Wide-angle reef scenes with natural light work best in the 8-15 meter range. Napoleon wrasse close-up portraits are a classic Tiran shot. Pelagic subjects like barracuda schools require shooting into the blue water with a fast shutter speed.
+The combination of clear blue water, colorful reef, and large resident fish makes Kormoran and the wider Tiran area very photogenic. Wide-angle reef scenes with natural light work best in the 8-15 meter range. humphead wrasse close-up portraits are a classic Tiran shot. Pelagic subjects like barracuda schools require shooting into the blue water with a fast shutter speed.
 
 ---
 *This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

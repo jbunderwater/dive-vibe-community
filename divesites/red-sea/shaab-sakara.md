@@ -32,7 +32,7 @@ Shaab Sakara sits in the outer Red Sea between Quseir and Marsa Alam at approxim
 
 ## Marine Life
 
-Shaab Sakara's reef supports the typical fish assemblages of Egypt's outer reefs: anthias and glassfish congregate around coral heads, groupers and napoleon wrasse patrol the reef edge, and sea turtles appear regularly on the platform. The reduced diver traffic compared to more famous sites means reef sharks are sighted here with less disturbance, and the larger moray eels in their crevices show more relaxed behaviour. Lionfish perch on coral formations throughout the site, and the sand between coral patches holds stingrays.
+Shaab Sakara's reef supports the typical fish assemblages of Egypt's outer reefs: anthias and glassfish congregate around coral heads, groupers and humphead wrasse patrol the reef edge, and sea turtles appear regularly on the platform. The reduced diver traffic compared to more famous sites means reef sharks are sighted here with less disturbance, and the larger moray eels in their crevices show more relaxed behaviour. Lionfish perch on coral formations throughout the site, and the sand between coral patches holds stingrays.
 
 ## Dive Profile
 

@@ -32,7 +32,7 @@ Located in the Dahab area on the Gulf of Aqaba side of the Sinai Peninsula, Gold
 
 ## Marine Life
 
-The sandy corridors between the blocks are hunting grounds for Napoleon wrasse, and juvenile fish of many species shelter in the gaps. Triggerfish — both Picasso and titan — are territorial around nesting areas on the sand. Bluespotted ribbontail rays rest in the open sandy patches. The blocks themselves host numerous small critters including nudibranchs, shrimps, and juvenile moray eels. Reef sharks pass through on occasion, and barracuda hang in small groups above the deeper blocks. Turtles visit regularly to feed on algae growing on the block surfaces.
+The sandy corridors between the blocks are hunting grounds for humphead wrasse, and juvenile fish of many species shelter in the gaps. Triggerfish — both Picasso and titan — are territorial around nesting areas on the sand. Bluespotted ribbontail rays rest in the open sandy patches. The blocks themselves host numerous small critters including nudibranchs, shrimps, and juvenile moray eels. Reef sharks pass through on occasion, and barracuda hang in small groups above the deeper blocks. Turtles visit regularly to feed on algae growing on the block surfaces.
 
 ## Dive Profile
 

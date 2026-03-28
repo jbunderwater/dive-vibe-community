@@ -32,7 +32,7 @@ The horseshoe shape of this reef gives it a distinctive enclosed lagoon on the o
 
 ## Marine Life
 
-The enclosed interior of the horseshoe provides calm, shallow water that attracts turtles to rest and feed on the coral flat. The outer arms of the reef, where current flows, concentrate barracuda and jacks in schools. Napoleon wrasse, large groupers, and reef sharks patrol the outer wall. The interior reef face supports dense hard coral coverage with anthias and butterflyfish in abundance. Eagle rays are occasionally seen in the sandy areas between the reef and the seabed. The pristine nature of this rarely-dived reef means species populations are noticeably larger and less habituated to divers than northern Red Sea equivalents.
+The enclosed interior of the horseshoe provides calm, shallow water that attracts turtles to rest and feed on the coral flat. The outer arms of the reef, where current flows, concentrate barracuda and jacks in schools. humphead wrasse, large groupers, and reef sharks patrol the outer wall. The interior reef face supports dense hard coral coverage with anthias and butterflyfish in abundance. Eagle rays are occasionally seen in the sandy areas between the reef and the seabed. The pristine nature of this rarely-dived reef means species populations are noticeably larger and less habituated to divers than northern Red Sea equivalents.
 
 ## Dive Profile
 

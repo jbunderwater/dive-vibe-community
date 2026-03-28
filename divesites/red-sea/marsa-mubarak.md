@@ -32,7 +32,7 @@ Marsa Mubarak is a protected inlet with a seagrass meadow in the sheltered inner
 
 ## Marine Life
 
-Green sea turtles are the most reliable large animal encounter at Marsa Mubarak, frequently found grazing the seagrass meadow or resting on the bottom in the bay's calm sections. Hawksbill turtles also appear but less consistently. Dugongs — large marine mammals related to manatees — feed on the seagrass beds and have been sighted at this bay with enough regularity to give it an international reputation among wildlife divers. The reef portion of the site supports napoleon wrasse, groupers, anthias clouds, moray eels, and lionfish. Bottlenose dolphins sometimes pass through the bay, and the seagrass margin attracts a range of sand-associated species.
+Green sea turtles are the most reliable large animal encounter at Marsa Mubarak, frequently found grazing the seagrass meadow or resting on the bottom in the bay's calm sections. Hawksbill turtles also appear but less consistently. Dugongs — large marine mammals related to manatees — feed on the seagrass beds and have been sighted at this bay with enough regularity to give it an international reputation among wildlife divers. The reef portion of the site supports humphead wrasse, groupers, anthias clouds, moray eels, and lionfish. Bottlenose dolphins sometimes pass through the bay, and the seagrass margin attracts a range of sand-associated species.
 
 ## Dive Profile
 

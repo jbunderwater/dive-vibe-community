@@ -32,7 +32,7 @@ The reef slopes gradually from the surface down to around 20 meters, where the b
 
 ## Marine Life
 
-The El Fanus reef system is known for consistent reef fish populations: schools of anthias hover above the coral, with emperor angelfish, butterflyfish, and surgeonfish common throughout. Napoleon wrasse and large grouper are regularly encountered on the deeper sections of the slope. Moray eels, lionfish, and scorpionfish are found in rocky overhangs. Sea turtles graze on the reef in the shallower zones. Occasional reef sharks are spotted at depth on the outer edges.
+The El Fanus reef system is known for consistent reef fish populations: schools of anthias hover above the coral, with emperor angelfish, butterflyfish, and surgeonfish common throughout. humphead wrasse and large grouper are regularly encountered on the deeper sections of the slope. Moray eels, lionfish, and scorpionfish are found in rocky overhangs. Sea turtles graze on the reef in the shallower zones. Occasional reef sharks are spotted at depth on the outer edges.
 
 ## Dive Profile
 

@@ -32,7 +32,7 @@ The far northern Gulf of Aqaba is characterised by crystal-clear, exceptionally 
 
 ## Marine Life
 
-Large gorgonian sea fans — some exceeding a metre in diameter — dominate the reef below 12 meters and are the defining feature of the dive. Longnose hawkfish perch on the fan branches and are cooperative photographic subjects. The reef fish community includes anthias, surgeonfish, butterflyfish, and parrotfish in good numbers. Napoleon wrasse appear regularly, and the deeper sections of the wall attract the occasional grey reef shark. Moray eels and lionfish are present in the reef crevices. Triggerfish are territorial on the reef flat.
+Large gorgonian sea fans — some exceeding a metre in diameter — dominate the reef below 12 meters and are the defining feature of the dive. Longnose hawkfish perch on the fan branches and are cooperative photographic subjects. The reef fish community includes anthias, surgeonfish, butterflyfish, and parrotfish in good numbers. humphead wrasse appear regularly, and the deeper sections of the wall attract the occasional grey reef shark. Moray eels and lionfish are present in the reef crevices. Triggerfish are territorial on the reef flat.
 
 ## Dive Profile
 

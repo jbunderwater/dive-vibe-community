@@ -32,7 +32,7 @@ Big Stone is characterised by its central feature — a massive coral bommie or 
 
 ## Marine Life
 
-The central coral block attracts a rich community: schooling anthias cloud the upper surfaces, napoleon wrasse circle the mid-section, and moray eels occupy the lower crevices. Turtles regularly rest on the top of the formation. The surrounding reef supports parrotfish, surgeonfish, and bannerfish, while barracuda and trevally patrol the blue water around the pinnacle. Occasional eagle ray sightings reported by regular divers.
+The central coral block attracts a rich community: schooling anthias cloud the upper surfaces, humphead wrasse circle the mid-section, and moray eels occupy the lower crevices. Turtles regularly rest on the top of the formation. The surrounding reef supports parrotfish, surgeonfish, and bannerfish, while barracuda and trevally patrol the blue water around the pinnacle. Occasional eagle ray sightings reported by regular divers.
 
 ## Dive Profile
 
@@ -56,7 +56,7 @@ Current can channel around the isolated formation. Monitor air consumption on th
 
 ## Photography
 
-The isolated pinnacle format lends itself to dramatic wide-angle compositions, particularly shooting upward from the base toward the surface. Schools of anthias and napoleon wrasse against the coral provide strong subjects. Macro opportunities exist in the crevices and overhangs.
+The isolated pinnacle format lends itself to dramatic wide-angle compositions, particularly shooting upward from the base toward the surface. Schools of anthias and humphead wrasse against the coral provide strong subjects. Macro opportunities exist in the crevices and overhangs.
 
 ## Additional Resources
 

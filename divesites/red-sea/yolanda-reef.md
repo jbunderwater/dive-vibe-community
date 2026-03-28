@@ -32,7 +32,7 @@ The Yolanda lies in shallow to intermediate water within the Ras Mohammed Nation
 
 ## Marine Life
 
-Ras Mohammed hosts some of the most impressive reef fish biomass in the entire Red Sea, and Yolanda Reef is no exception. Large napoleon wrasse are near-guaranteed sightings. Reef sharks — grey reef and whitetip reef sharks — cruise the reef edge. Schools of barracuda and jack wheel in the blue water. The reef surface supports enormous numbers of anthias, butterflyfish, and parrotfish. Sea turtles rest on the shallow coral platform. Moray eels are plentiful in the reef crevices. The porcelain cargo among the coral has itself become colonized, with soft corals and encrusting growth turning the bathroom fixtures into an integral part of the reef ecosystem.
+Ras Mohammed hosts some of the most impressive reef fish biomass in the entire Red Sea, and Yolanda Reef is no exception. Large humphead wrasse are near-guaranteed sightings. Reef sharks — grey reef and whitetip reef sharks — cruise the reef edge. Schools of barracuda and jack wheel in the blue water. The reef surface supports enormous numbers of anthias, butterflyfish, and parrotfish. Sea turtles rest on the shallow coral platform. Moray eels are plentiful in the reef crevices. The porcelain cargo among the coral has itself become colonized, with soft corals and encrusting growth turning the bathroom fixtures into an integral part of the reef ecosystem.
 
 ## Dive Profile
 
@@ -56,7 +56,7 @@ Current at Ras Mohammed is the primary hazard and can shift from moderate to ver
 
 ## Photography
 
-Yolanda Reef is among the most photographed sites in the Red Sea. The juxtaposition of porcelain bathroom fixtures with encrusted tropical coral is inherently compelling and produces images that are instantly recognizable to any dive photographer. Wide-angle shots with toilets and soft corals in the same frame are the signature shot. Fish life — particularly napoleon wrasse portraits and reef shark silhouettes — rounds out the photography potential. The site rewards both wide-angle and macro work.
+Yolanda Reef is among the most photographed sites in the Red Sea. The juxtaposition of porcelain bathroom fixtures with encrusted tropical coral is inherently compelling and produces images that are instantly recognizable to any dive photographer. Wide-angle shots with toilets and soft corals in the same frame are the signature shot. Fish life — particularly humphead wrasse portraits and reef shark silhouettes — rounds out the photography potential. The site rewards both wide-angle and macro work.
 
 ---
 *This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

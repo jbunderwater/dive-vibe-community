@@ -32,7 +32,7 @@ Abu Dabbab Wahid is the first and most frequently visited of the Abu Dabbab offs
 
 ## Marine Life
 
-Abu Dabbab Wahid regularly delivers sightings of green sea turtles, which transit between the nearby seagrass beds and the outer reef. Napoleon wrasse are a feature of this site — large individuals are often relaxed around divers. Grouper and moray eels are common. The reef crest supports dense populations of anthias and butterflyfish. Barracuda and trevally school above the reef in the mid-water. Reef sharks are occasionally sighted on deeper passes.
+Abu Dabbab Wahid regularly delivers sightings of green sea turtles, which transit between the nearby seagrass beds and the outer reef. humphead wrasse are a feature of this site — large individuals are often relaxed around divers. Grouper and moray eels are common. The reef crest supports dense populations of anthias and butterflyfish. Barracuda and trevally school above the reef in the mid-water. Reef sharks are occasionally sighted on deeper passes.
 
 ## Dive Profile
 
@@ -44,7 +44,7 @@ Day-trip and liveaboard boats from Marsa Alam moor at this site regularly. Giant
 
 ## Tips and Recommendations
 
-- Ask your dive guide about recent turtle and Napoleon wrasse sightings — these are frequently seen
+- Ask your dive guide about recent turtle and humphead wrasse sightings — these are frequently seen
 - Spend time at the crest level (5–8 m) as well as the deeper slope — the reef top has character of its own
 - This is a popular site during peak season; to avoid crowds, plan for very early morning
 - Bring a dive torch to investigate the coral overhangs on the way down the slope
@@ -56,7 +56,7 @@ Maintain proper buoyancy above the coral crest to avoid damaging the reef. Monit
 
 ## Photography
 
-A favourite site for underwater photographers operating from Marsa Alam. Turtles and Napoleon wrasse offer approachable wide-angle subjects. The reef structure with sea fans and schooling fish provides rich background compositions. Macro opportunities abound on the reef slope in crevices and on the sand margin.
+A favourite site for underwater photographers operating from Marsa Alam. Turtles and humphead wrasse offer approachable wide-angle subjects. The reef structure with sea fans and schooling fish provides rich background compositions. Macro opportunities abound on the reef slope in crevices and on the sand margin.
 
 ## Additional Resources
 

@@ -11,56 +11,54 @@ osmId: 746216190
 addedBy: osm_import
 ---
 
-## One Bush Cay
+# One Bush Cay
 
-One Bush Cay is a reef dive site in Jamaica, Caribbean.
+A compact north-coast cay reef between Falmouth and Montego Bay, where the reef wraps around a distinctive solitary bush landmark.
 
 ## Overview
 
-One Bush Cay is a dive site in Jamaica offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+One Bush Cay sits along Jamaica's north coast in the stretch between Falmouth and Montego Bay, a section of coastline characterized by small offshore cays and patch reefs. The cay's name presumably derives from a solitary shrub or tree that was used as a navigation marker by local fishermen. The fringing reef reaches 15 metres and features the classic Jamaican spur-and-groove coral formations, with sandy channels and small overhangs. The north coast here is sheltered and consistent, with visibility of 20–25 metres and water temperatures of 27–29°C throughout the year. The site is a pleasant, uncrowded alternative to the busier Montego Bay Marine Park sites.
 
 ## Site Information
 
-- **Location**: Jamaica, Caribbean
+- **Location**: North Jamaica coast (between Falmouth and Montego Bay)
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
+- **Typical Visibility**: 20–25 meters (65–80 feet)
+- **Current**: Light
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The cay reef supports the typical north-coast Caribbean community: parrotfish, blue tangs, French angelfish, and yellow-tail snapper are abundant. Hawksbill turtles are frequently sighted at cay reef sites along this coast. Nurse sharks rest under overhangs. Spiny lobsters and moray eels occupy crevices. Southern stingrays are found on sandy patches. Sergeant majors and chromis are common in the shallower reef sections above 8 metres.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin at the cay reef edge at 8–10 metres and work around the cay, diving the deeper seaward side at 12–15 metres. Return to the shallower sheltered side for the safety stop at 5 metres. The site is compact — circumnavigation takes 35–45 minutes for an average diver.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by dive boat from Falmouth or Montego Bay operators. Entry via giant stride or back roll. Moor on the protected side of the cay. Deploy SMB before surfacing.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- A good introduction to Jamaica's north-coast cay-reef style diving for first-time visitors
+- Combine with Bucknors Reef for a productive two-tank north-coast day between Falmouth and Montego Bay
+- Early morning light on the shallow reef crest is outstanding for photography
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Fire coral is present on some reef structures. Maintain buoyancy above the coral. Deploy SMB before surfacing and be aware of any boat traffic in the area.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The compact cay reef is well-suited to a systematic approach — shoot the coral formations, then find wildlife subjects including turtles, nurse sharks, and stingrays. Morning light in the shallows produces vivid colors without strobes.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

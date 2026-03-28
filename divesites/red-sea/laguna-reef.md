@@ -32,7 +32,7 @@ Unlike the exposed outer walls of Jackson and Thomas Reef, Laguna Reef offers a 
 
 ## Marine Life
 
-The Tiran reef ecosystem supports some of the northern Red Sea's finest marine life, and Laguna Reef benefits from proximity to this broader system. Napoleon wrasse are frequently encountered here, circling reef structures with characteristic ease. Schools of barracuda hover in mid-water, and large groupers hold territories in the deeper coral formations. Sea turtles rest on sandy patches and graze on seagrass. The reef surface is covered in colourful anthias, butterflyfish, and angelfish, while moray eels and lionfish occupy the ubiquitous reef crevices. On calm days, the lagoon character of the site concentrates fish and reduces the pelagic encounters typical of the outer Tiran sites.
+The Tiran reef ecosystem supports some of the northern Red Sea's finest marine life, and Laguna Reef benefits from proximity to this broader system. humphead wrasse are frequently encountered here, circling reef structures with characteristic ease. Schools of barracuda hover in mid-water, and large groupers hold territories in the deeper coral formations. Sea turtles rest on sandy patches and graze on seagrass. The reef surface is covered in colourful anthias, butterflyfish, and angelfish, while moray eels and lionfish occupy the ubiquitous reef crevices. On calm days, the lagoon character of the site concentrates fish and reduces the pelagic encounters typical of the outer Tiran sites.
 
 ## Dive Profile
 
@@ -46,7 +46,7 @@ Day boats and liveaboards from Sharm el-Sheikh reach the Tiran area in 30-60 min
 
 - Use Laguna Reef as a relaxed second or third dive after starting the day at the more demanding Jackson or Thomas Reef
 - The calmer conditions make this a good choice for divers still building comfort in mild current environments
-- Look for resident napoleon wrasse — they are often found circling the same reef sections repeatedly
+- Look for resident humphead wrasse — they are often found circling the same reef sections repeatedly
 - Morning light at 8-10 meters makes for excellent natural-light photography
 
 ## Safety Considerations
@@ -55,7 +55,7 @@ Even in the more sheltered Tiran lagoon area, conditions can change with tidal s
 
 ## Photography
 
-The calm conditions and excellent reef fish populations make Laguna Reef one of the better sites for relaxed fish portraiture in the Tiran area. Napoleon wrasse and large grouper close-ups are the signature shots. Coral garden wide-angles work beautifully in the morning light when the sun angle illuminates the shallow reef top.
+The calm conditions and excellent reef fish populations make Laguna Reef one of the better sites for relaxed fish portraiture in the Tiran area. humphead wrasse and large grouper close-ups are the signature shots. Coral garden wide-angles work beautifully in the morning light when the sun angle illuminates the shallow reef top.
 
 ---
 *This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

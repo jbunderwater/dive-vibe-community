@@ -32,7 +32,7 @@ Jackfish Alley forms part of the Ras Mohammed reef system at the southern tip of
 
 ## Marine Life
 
-The headline attraction is the enormous, swirling tornado of bigeye trevally (jackfish) that occupies the alley, particularly during morning hours. The school can number in the thousands and creates one of the most visually spectacular sights in Red Sea diving. Barracuda school nearby in similar numbers. Below the jack tornado, the coral walls host anthias, butterflyfish, and groupers. Napoleon wrasse cruise the alley floor. Moray eels are resident in the wall crevices. Hawksbill turtles are frequently seen, and reef sharks patrol the outer edges of the current channel. In summer, whale sharks occasionally pass through the Ras Mohammed area.
+The headline attraction is the enormous, swirling tornado of bigeye trevally (jackfish) that occupies the alley, particularly during morning hours. The school can number in the thousands and creates one of the most visually spectacular sights in Red Sea diving. Barracuda school nearby in similar numbers. Below the jack tornado, the coral walls host anthias, butterflyfish, and groupers. humphead wrasse cruise the alley floor. Moray eels are resident in the wall crevices. Hawksbill turtles are frequently seen, and reef sharks patrol the outer edges of the current channel. In summer, whale sharks occasionally pass through the Ras Mohammed area.
 
 ## Dive Profile
 

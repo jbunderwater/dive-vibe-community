@@ -32,7 +32,7 @@ Habili Radir sits within or adjacent to the boundaries of the Wadi El Gemal Huss
 
 ## Marine Life
 
-The national park's protection is evident in the size of groupers and the density of reef fish. Large coral groupers, lyretail groupers, and Napoleon wrasse are abundant. Schools of snapper and fusiliers are dense. Sea turtles — hawksbill and occasionally green turtle — appear on most dives. Moray eels are numerous in the coral structure. Dolphins occasionally visit the area in the early morning, and reef sharks are periodically seen at the deeper base of the pinnacle. The reef crown hosts large numbers of butterflyfish and surgeonfish.
+The national park's protection is evident in the size of groupers and the density of reef fish. Large coral groupers, lyretail groupers, and humphead wrasse are abundant. Schools of snapper and fusiliers are dense. Sea turtles — hawksbill and occasionally green turtle — appear on most dives. Moray eels are numerous in the coral structure. Dolphins occasionally visit the area in the early morning, and reef sharks are periodically seen at the deeper base of the pinnacle. The reef crown hosts large numbers of butterflyfish and surgeonfish.
 
 ## Dive Profile
 

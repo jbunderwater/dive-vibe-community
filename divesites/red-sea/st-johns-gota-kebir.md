@@ -32,7 +32,7 @@ Gota Kebir presents as a broad, flattish reef top at 5-8 meters that slopes and 
 
 ## Marine Life
 
-Dense aggregations of anthias and chromis blanket the reef top, with butterflyfish and angelfish picking at coral polyps. Large Napoleon wrasse are resident and conspicuously unafraid of divers. Green turtles rest on sandy patches at the base of the reef. On the flanks, groupers and large moray eels occupy the ledges and overhangs. Whitetip reef sharks are frequently encountered on the sandy bottom or beneath overhangs, often in pairs or small groups. Schools of barracuda and yellowfin tuna occasionally sweep through in open water above the reef.
+Dense aggregations of anthias and chromis blanket the reef top, with butterflyfish and angelfish picking at coral polyps. Large humphead wrasse are resident and conspicuously unafraid of divers. Green turtles rest on sandy patches at the base of the reef. On the flanks, groupers and large moray eels occupy the ledges and overhangs. Whitetip reef sharks are frequently encountered on the sandy bottom or beneath overhangs, often in pairs or small groups. Schools of barracuda and yellowfin tuna occasionally sweep through in open water above the reef.
 
 ## Dive Profile
 
@@ -56,7 +56,7 @@ St John's is a remote area — no decompression chamber within practical reach. 
 
 ## Photography
 
-The reef top in the first half of a morning dive captures the best natural light angles on hard coral. Wide-angle compositions framing Napoleon wrasse against the coral surface are a consistent highlight. At the reef base, a torch helps bring out the colors in the overhangs.
+The reef top in the first half of a morning dive captures the best natural light angles on hard coral. Wide-angle compositions framing humphead wrasse against the coral surface are a consistent highlight. At the reef base, a torch helps bring out the colors in the overhangs.
 
 ---
 *This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

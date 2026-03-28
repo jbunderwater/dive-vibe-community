@@ -32,7 +32,7 @@ St John's Reef lies roughly 100 km south of Marsa Alam, accessible only by livea
 
 ## Marine Life
 
-The caves shelter moray eels, lobsters, glassfish clouds, and lionfish in crevices. Outside the cave entrances, the reef wall is festooned with orange and yellow soft corals, and anthias swarm every available surface. Sea turtles are commonly seen resting in the sandy cavern floors or grazing on the reef top. Whitetip reef sharks are regular residents, often found resting on sandy ledges inside the caves. Napoleon wrasse and large groupers patrol the outer wall.
+The caves shelter moray eels, lobsters, glassfish clouds, and lionfish in crevices. Outside the cave entrances, the reef wall is festooned with orange and yellow soft corals, and anthias swarm every available surface. Sea turtles are commonly seen resting in the sandy cavern floors or grazing on the reef top. Whitetip reef sharks are regular residents, often found resting on sandy ledges inside the caves. humphead wrasse and large groupers patrol the outer wall.
 
 ## Dive Profile
 

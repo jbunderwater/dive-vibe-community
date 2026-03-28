@@ -32,7 +32,7 @@ Gordon Reef (also spelled Gordan) is named for Colonel Gordon of the British Arm
 
 ## Marine Life
 
-The strong tidal currents through the Straits of Tiran attract one of the Red Sea's most diverse pelagic communities. Schooling hammerhead sharks are a regular winter sighting (December–March). Grey reef sharks and whitetip reef sharks patrol the wall. Napoleon wrasse of impressive size cruise the reef edge. Schools of barracuda, trevally, and jacks hang in the current, and manta rays pass through seasonally. The walls are festooned with large gorgonian fans and carpeted with soft corals fed by the current. Hawksbill turtles are year-round residents, and moray eels occupy every available crevice.
+The strong tidal currents through the Straits of Tiran attract one of the Red Sea's most diverse pelagic communities. Schooling hammerhead sharks are a regular winter sighting (December–March). Grey reef sharks and whitetip reef sharks patrol the wall. humphead wrasse of impressive size cruise the reef edge. Schools of barracuda, trevally, and jacks hang in the current, and manta rays pass through seasonally. The walls are festooned with large gorgonian fans and carpeted with soft corals fed by the current. Hawksbill turtles are year-round residents, and moray eels occupy every available crevice.
 
 ## Dive Profile
 

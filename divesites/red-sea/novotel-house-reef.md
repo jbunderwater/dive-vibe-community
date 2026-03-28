@@ -32,7 +32,7 @@ Novotel House Reef stretches along a shallow fringing reef flat before dropping 
 
 ## Marine Life
 
-The reef flat hosts dense schools of glassfish and anthias that shimmer over the coral heads in the shallows. Moray eels occupy crevices along the reef slope, and lionfish are commonly sighted hovering near coral outcrops. Butterflyfish, angelfish, and surgeonfish are abundant throughout. Green and hawksbill turtles visit the reef regularly, and Napoleon wrasse occasionally cruise the outer edge. Octopus can be found tucked beneath coral ledges on night dives.
+The reef flat hosts dense schools of glassfish and anthias that shimmer over the coral heads in the shallows. Moray eels occupy crevices along the reef slope, and lionfish are commonly sighted hovering near coral outcrops. Butterflyfish, angelfish, and surgeonfish are abundant throughout. Green and hawksbill turtles visit the reef regularly, and humphead wrasse occasionally cruise the outer edge. Octopus can be found tucked beneath coral ledges on night dives.
 
 ## Dive Profile
 

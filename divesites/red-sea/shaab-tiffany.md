@@ -32,7 +32,7 @@ Shaab Tiffany sits north of Hurghada at approximately 27.15°N, placing it firml
 
 ## Marine Life
 
-The sheltered inner sections of Shaab Tiffany support good populations of reef fish that adapt well to regular diver presence — butterflyfish, angelfish, and parrotfish are conspicuous on the coral platform. The outer edge produces more interesting encounters: moray eels in crevices, lionfish perching on coral heads, and the occasional napoleon wrasse cruising the deeper sections. Green turtles appear on the reef plateau, and blue-spotted stingrays are found on sandy patches between the coral formations.
+The sheltered inner sections of Shaab Tiffany support good populations of reef fish that adapt well to regular diver presence — butterflyfish, angelfish, and parrotfish are conspicuous on the coral platform. The outer edge produces more interesting encounters: moray eels in crevices, lionfish perching on coral heads, and the occasional humphead wrasse cruising the deeper sections. Green turtles appear on the reef plateau, and blue-spotted stingrays are found on sandy patches between the coral formations.
 
 ## Dive Profile
 

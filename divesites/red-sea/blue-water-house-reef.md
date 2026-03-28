@@ -32,7 +32,7 @@ The Blue Water House Reef occupies a section of the fringing reef characteristic
 
 ## Marine Life
 
-Fish life is dense and approachable. Resident napoleon wrasse have been observed at this site over many years. Moray eels occupy familiar crevices and can be predictably located by experienced dive guides. Turtles, bannerfish, parrotfish, and a variety of wrasse species form the core of the reef community. The sandy base holds garden eels and blue-spotted rays. Scorpionfish are camouflaged on the reef — watch where you place your hands.
+Fish life is dense and approachable. Resident humphead wrasse have been observed at this site over many years. Moray eels occupy familiar crevices and can be predictably located by experienced dive guides. Turtles, bannerfish, parrotfish, and a variety of wrasse species form the core of the reef community. The sandy base holds garden eels and blue-spotted rays. Scorpionfish are camouflaged on the reef — watch where you place your hands.
 
 ## Dive Profile
 
@@ -56,7 +56,7 @@ Conditions are generally benign. The main hazards are fire coral, sea urchins, a
 
 ## Photography
 
-House reefs reward patient photography. Returning to the same reef means building familiarity with specific subjects — resident eels, the local napoleon wrasse, and predictable macro finds. Natural light is good on the shallow reef crest.
+House reefs reward patient photography. Returning to the same reef means building familiarity with specific subjects — resident eels, the local humphead wrasse, and predictable macro finds. Natural light is good on the shallow reef crest.
 
 ## Additional Resources
 

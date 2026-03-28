@@ -32,7 +32,7 @@ Abu Dabbab Ithnain is one of several offshore reef structures in the Abu Dabbab 
 
 ## Marine Life
 
-Reef fish life is varied and abundant. Large grouper and snapper are resident, and Napoleon wrasse are regularly encountered. Moray eels inhabit crevices along the reef wall. Schools of fusiliers and anthias work the current. Barracuda often patrol above the reef. Turtles are possible given the proximity to the Abu Dabbab seagrass habitat. Reef sharks may be sighted on deeper sections.
+Reef fish life is varied and abundant. Large grouper and snapper are resident, and humphead wrasse are regularly encountered. Moray eels inhabit crevices along the reef wall. Schools of fusiliers and anthias work the current. Barracuda often patrol above the reef. Turtles are possible given the proximity to the Abu Dabbab seagrass habitat. Reef sharks may be sighted on deeper sections.
 
 ## Dive Profile
 

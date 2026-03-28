@@ -32,7 +32,7 @@ Pinky Wall takes its name from its position on the reef and is characterized by 
 
 ## Marine Life
 
-The current-swept wall is blanketed in soft coral outgrowths in shades of pink, red, and orange, swarmed by dense clouds of anthias. Gorgonian sea fans extend from crevices, and whip corals trail in the current. Moray eels and lionfish occupy sheltered positions throughout the wall. Schooling barracuda and jack are regular midwater sightings. Hammerhead sharks are spotted here during morning winter dives, typically as silhouettes in the blue water beyond the wall. Turtles and Napoleon wrasse round out the large animal roster.
+The current-swept wall is blanketed in soft coral outgrowths in shades of pink, red, and orange, swarmed by dense clouds of anthias. Gorgonian sea fans extend from crevices, and whip corals trail in the current. Moray eels and lionfish occupy sheltered positions throughout the wall. Schooling barracuda and jack are regular midwater sightings. Hammerhead sharks are spotted here during morning winter dives, typically as silhouettes in the blue water beyond the wall. Turtles and humphead wrasse round out the large animal roster.
 
 ## Dive Profile
 

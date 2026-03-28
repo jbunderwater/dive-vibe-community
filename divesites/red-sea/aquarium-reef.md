@@ -32,7 +32,7 @@ Aquarium Reef sits within the Al Fahal reef complex, a system of coral formation
 
 ## Marine Life
 
-The site lives up to its name with multi-species schools of fish creating a constant swirling display: anthias, various wrasse species, parrotfish, surgeonfish, and snapper are the backbone, supported by chromis and butterflyfish. Moray eels extend from crevices and napoleon wrasse cruise the mid-water. Turtles are regular visitors to the reef crest. Blue-spotted rays rest on sand patches between coral heads.
+The site lives up to its name with multi-species schools of fish creating a constant swirling display: anthias, various wrasse species, parrotfish, surgeonfish, and snapper are the backbone, supported by chromis and butterflyfish. Moray eels extend from crevices and humphead wrasse cruise the mid-water. Turtles are regular visitors to the reef crest. Blue-spotted rays rest on sand patches between coral heads.
 
 ## Dive Profile
 

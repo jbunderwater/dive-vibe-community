@@ -32,7 +32,7 @@ Shaab Bohar Kebir Ost is a substantial reef structure with a long east-facing wa
 
 ## Marine Life
 
-The eastern walls of Fury Shoals reefs are prime territory for grey reef sharks, which patrol in small groups along the reef edge. Napoleon wrasse are resident on this type of large reef structure. Schools of barracuda, snapper, and fusiliers populate the mid-water zone, and eagle rays occasionally pass over the reef top. The wall supports gorgonian sea fans and whip corals in the deeper sections, with hard coral formations dominating the shallower zones. Moray eels and lionfish are common on the reef face.
+The eastern walls of Fury Shoals reefs are prime territory for grey reef sharks, which patrol in small groups along the reef edge. humphead wrasse are resident on this type of large reef structure. Schools of barracuda, snapper, and fusiliers populate the mid-water zone, and eagle rays occasionally pass over the reef top. The wall supports gorgonian sea fans and whip corals in the deeper sections, with hard coral formations dominating the shallower zones. Moray eels and lionfish are common on the reef face.
 
 ## Dive Profile
 

@@ -32,7 +32,7 @@ Sataya East encompasses the eastern wall and slope of the atoll, facing into the
 
 ## Marine Life
 
-The signature experience at Sataya is swimming with the resident pod of spinner dolphins that rests in the lagoon and frequently investigates divers on the outer reef. Dolphins are encountered most reliably in the early morning before they depart to feed offshore. The outer wall at Sataya East hosts grey reef sharks, which patrol the reef edge in small groups. Schools of barracuda and trevally are common, along with large groupers, napoleon wrasse, and eagle rays. The wall corals include impressive gorgonian sea fans and fields of soft corals on the current-swept faces.
+The signature experience at Sataya is swimming with the resident pod of spinner dolphins that rests in the lagoon and frequently investigates divers on the outer reef. Dolphins are encountered most reliably in the early morning before they depart to feed offshore. The outer wall at Sataya East hosts grey reef sharks, which patrol the reef edge in small groups. Schools of barracuda and trevally are common, along with large groupers, humphead wrasse, and eagle rays. The wall corals include impressive gorgonian sea fans and fields of soft corals on the current-swept faces.
 
 ## Dive Profile
 

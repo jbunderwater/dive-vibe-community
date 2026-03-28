@@ -32,7 +32,7 @@ Wadi Lahmy is located roughly 200 kilometers south of Marsa Alam and sits within
 
 ## Marine Life
 
-The undisturbed reef at Wadi Lahmy supports a broad range of Indo-Pacific species. Dugongs have been reported in the area, making this one of a handful of Red Sea locations with regular sightings. Sea turtles, including hawksbill and green turtles, are commonly seen resting on or grazing near the reef. Napoleon wrasse, various grouper species, and large barracuda patrol the reef edge. The coral formations shelter clownfish in anemones, moray eels, and a dense resident population of anthias and chromis. Occasional sightings of octopus and cuttlefish add variety to the dive.
+The undisturbed reef at Wadi Lahmy supports a broad range of Indo-Pacific species. Dugongs have been reported in the area, making this one of a handful of Red Sea locations with regular sightings. Sea turtles, including hawksbill and green turtles, are commonly seen resting on or grazing near the reef. humphead wrasse, various grouper species, and large barracuda patrol the reef edge. The coral formations shelter clownfish in anemones, moray eels, and a dense resident population of anthias and chromis. Occasional sightings of octopus and cuttlefish add variety to the dive.
 
 ## Dive Profile
 

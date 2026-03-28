@@ -32,7 +32,7 @@ The Blue Hole is a roughly circular sinkhole approximately 60 meters across, ope
 
 ## Marine Life
 
-Despite the depth and exposure, the Blue Hole supports rich reef life. Inside the hole, reef fish including anthias, wrasse, and butterflyfish populate the upper sections, while the walls host coral formations to considerable depth. On the outer reef beyond the hole, the sloping wall and adjacent areas see Napoleon wrasse, turtles, and occasional pelagics. The sandy plateau at the top of the sinkhole rim is a reliable area for eagle rays and barracuda.
+Despite the depth and exposure, the Blue Hole supports rich reef life. Inside the hole, reef fish including anthias, wrasse, and butterflyfish populate the upper sections, while the walls host coral formations to considerable depth. On the outer reef beyond the hole, the sloping wall and adjacent areas see humphead wrasse, turtles, and occasional pelagics. The sandy plateau at the top of the sinkhole rim is a reliable area for eagle rays and barracuda.
 
 ## Dive Profile
 

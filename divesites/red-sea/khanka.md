@@ -32,7 +32,7 @@ The Khanka is a steel-hulled cargo or supply vessel that came to rest on a reef,
 
 ## Marine Life
 
-Wreck structures in the Red Sea are magnets for marine life, and the Khanka is no exception. Large schools of glassy sweepers fill the interior spaces in shimmering silver clouds. Groupers and napoleon wrasse occupy territories around the hull, and moray eels emerge from rusted gaps in the plating. Lionfish are resident along the shaded underside sections. The coral growth across the exterior — soft corals in purple and orange, fan corals, and encrusting hard corals — creates a richly textured surface that attracts nudibranchs, feather stars, and Christmas tree worms visible on close inspection.
+Wreck structures in the Red Sea are magnets for marine life, and the Khanka is no exception. Large schools of glassy sweepers fill the interior spaces in shimmering silver clouds. Groupers and humphead wrasse occupy territories around the hull, and moray eels emerge from rusted gaps in the plating. Lionfish are resident along the shaded underside sections. The coral growth across the exterior — soft corals in purple and orange, fan corals, and encrusting hard corals — creates a richly textured surface that attracts nudibranchs, feather stars, and Christmas tree worms visible on close inspection.
 
 ## Dive Profile
 

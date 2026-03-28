@@ -32,7 +32,7 @@ Ham Ham is a compact reef structure typical of the northern Red Sea's offshore r
 
 ## Marine Life
 
-The reef fish community is typical of the northern Red Sea: abundant chromis, anthias, butterflyfish, and parrotfish above the coral. Napoleon wrasse are present and visit regularly. Giant morays occupy the large coral crevices. Bluespotted stingrays rest in sandy patches between the coral heads. Hawksbill turtles are occasional visitors. Small reef sharks are sometimes seen on the outer edges of the reef slope. The sandy margin at the reef base is home to garden eels.
+The reef fish community is typical of the northern Red Sea: abundant chromis, anthias, butterflyfish, and parrotfish above the coral. humphead wrasse are present and visit regularly. Giant morays occupy the large coral crevices. Bluespotted stingrays rest in sandy patches between the coral heads. Hawksbill turtles are occasional visitors. Small reef sharks are sometimes seen on the outer edges of the reef slope. The sandy margin at the reef base is home to garden eels.
 
 ## Dive Profile
 

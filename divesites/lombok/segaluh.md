@@ -11,56 +11,56 @@ osmId: 2395670512
 addedBy: osm_import
 ---
 
-# Segaluh
+## Segaluh
 
-A reef dive off the northeastern coast of Gili Air in open Lombok Strait waters, featuring rich coral coverage and schooling reef fish.
+A reef site near Lombok's northeast coast with coral formations and diverse reef fish in a less-visited area beyond the main Gili Islands dive circuit.
 
 ## Overview
 
-Segaluh is a reef site located in the open Lombok Strait waters northeast of Gili Air. The site's position — further from the sheltered island sides — means it receives stronger tidal flow from the Indonesian Throughflow, which delivers clear, nutrient-rich Pacific water and supports dense fish populations. The reef structure descends from around 8 meters down a slope to 25 meters, with the deeper sections transitioning to sandy patches interspersed with coral heads. The site is less frequently dived than the main Gili circuit sites, giving marine life encounters here a more undisturbed character.
+Segaluh is a reef site in the northeast area beyond the main Gili Islands chain, lying in the waters closer to Lombok's north coast. The site is less frequented than the core Gili Islands sites, which contributes to healthy corals and more undisturbed fish behaviour. The reef features typical Indonesian tropical coral formations at 10–25 m with a range of reef fish, occasional turtles, and the biodiversity characteristic of Coral Triangle waters. It is accessible from Lombok operators as a day trip to this less-visited section of the region.
 
 ## Site Information
 
-- **Location**: Northeast of Gili Air, Lombok Strait, Indonesia
+- **Location**: North Lombok coast / east of Gili Islands
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters (82 feet)
-- **Typical Visibility**: 10–25 meters
-- **Current**: Variable; stronger on ebb tide in the open strait
-- **Water Temperature**: 26–30°C (79–86°F)
+- **Maximum Depth**: 25 m
+- **Typical Visibility**: 15–20 m
+- **Current**: Moderate
+- **Best Time**: May to October
 
 ## Marine Life
 
-The open-strait location brings pelagic visitors alongside the permanent reef residents. Schooling fusiliers and snapper are abundant. Whitetip reef sharks patrol the deeper sections. Turtles are regularly sighted on the reef slope. Blue-spotted stingrays rest on sandy patches at depth. Moray eels and lionfish occupy crevices. Cuttlefish are common in the shallower reef top areas. Eagle rays occasionally transit the site on flooding tides.
+Reef fish diversity typical of the region — parrotfish, triggerfish, surgeonfish, butterflyfish. Turtles graze the reef crest. Moray eels and grouper at depth. Reef sharks occasionally sighted on the outer slope. Nudibranchs and cleaner shrimps in the rubble zones.
 
 ## Dive Profile
 
-Begin at the reef top at 8 meters and explore the slope down to 25 meters. The most productive zone for reef fish is between 10 and 18 meters. Briefly visit the deeper sections before ascending to make the most of the available bottom time. Safety stop in the shallows at 5 meters. Total dive time approximately 45–55 minutes.
+Descend to the reef at 10–15 m and follow the slope to 25 m. Most of the productive reef life is concentrated between 8–18 m. Ascend gradually and complete a 3-minute safety stop.
 
 ## Entry and Exit
 
-Boat dive from Gili Air. Operators based on Gili Air occasionally include this site in their extended day trip itineraries. The exposed location means the boat should remain with the divers. Negative entry when current is running; SMB on ascent.
+Boat from Lombok operators. Moderate current. Entry via back roll. SMB for ascent.
 
 ## Tips and Recommendations
 
-- Monitor current conditions carefully before this dive — the open-strait location means conditions change more rapidly than at sheltered Gili sites
-- Best timed around slack water for the calmest conditions and clearest visibility
-- The less-frequented nature of this site makes it worthwhile for divers seeking encounters away from the busier tourist circuit
-- Nitrox is useful for extending bottom time in the 20–25 meter range
+- The less-visited character means more relaxed encounters with reef inhabitants
+- Combine with Teluk NBoro for a Lombok coastal dive day
+- A good site for advancing divers practicing coral reef navigation
+- The quieter conditions make this a good site for underwater photography practice
+- Ask local operators about recent specific sightings
 
 ## Safety Considerations
 
-The open-water location and variable current require more situational awareness than sheltered reef sites. Stay close to the reef as a reference point. Carry an SMB and deploy it well before surfacing. If current increases significantly, shelter on the reef and signal the boat. Do not surface in the middle of the strait away from the descent point.
+Standard intermediate reef precautions. Currents are moderate. Maintain buoyancy above coral. Always carry an SMB.
 
 ## Photography
 
-The undisturbed nature of Segaluh rewards natural-behavior photography. Schooling fusiliers in clear open water suit wide-angle. Cuttlefish encounters in the shallows are particularly good for close-focus wide-angle. Turtle portraits against the coral slope background are clean and uncluttered compared to the busier main sites.
+Fish portraits benefit from the undisturbed nature of the reef — subjects are less wary. Turtle encounters with natural light. Nudibranchs in coral rubble for macro work.
 
 ## Additional Resources
 
-- [Starfish.ch – Gili Islands Dive Sites](https://www.starfish.ch/dive/Lombok.html)
-- [Lombok Diving – BlueWater Dive Travel](https://www.bluewaterdivetravel.com/destination/lombok-diving)
-- Last Updated: 2026-03-28
+- **Last Updated**: 2026-03-28
 
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*

@@ -32,7 +32,7 @@ El Fanadir Foc is a shore-accessible dive site where entry is made directly from
 
 ## Marine Life
 
-El Fanadir's fringing reef supports a productive community of reef species typical of the northern Egyptian Red Sea. Anthias and damselfish are abundant in the upper reef zone. Large Napoleon wrasse patrol the deeper sections, and groupers occupy rocky overhangs. Moray eels are frequently sighted at the reef base, and octopus hunt across the sandy margins. Butterflyfish pairs are seen throughout. The shallower reef sections host clownfish in anemones and various pufferfish species. The transition zone between reef and sand below 12 meters holds the best concentration of larger species.
+El Fanadir's fringing reef supports a productive community of reef species typical of the northern Egyptian Red Sea. Anthias and damselfish are abundant in the upper reef zone. Large humphead wrasse patrol the deeper sections, and groupers occupy rocky overhangs. Moray eels are frequently sighted at the reef base, and octopus hunt across the sandy margins. Butterflyfish pairs are seen throughout. The shallower reef sections host clownfish in anemones and various pufferfish species. The transition zone between reef and sand below 12 meters holds the best concentration of larger species.
 
 ## Dive Profile
 

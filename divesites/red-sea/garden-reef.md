@@ -32,7 +32,7 @@ True to its name, Garden Reef presents one of the most pristine coral gardens in
 
 ## Marine Life
 
-The pristine coral coverage supports an unusually dense fish population. Schools of blue-lined snapper and fusiliers swarm above the reef in shimmering masses, while large Napoleon wrasse patrol the reef edge. The reef attracts regular visits from hammerhead sharks during winter months. Hawksbill and green turtles are numerous — it is not unusual to encounter three or four on a single dive. Eagle rays and spotted eagle rays cruise the sandy margins. Resident giant morays, lionfish, and scorpionfish occupy the coral heads, and cleaner stations attract parrotfish and surgeonfish queuing for service.
+The pristine coral coverage supports an unusually dense fish population. Schools of blue-lined snapper and fusiliers swarm above the reef in shimmering masses, while large humphead wrasse patrol the reef edge. The reef attracts regular visits from hammerhead sharks during winter months. Hawksbill and green turtles are numerous — it is not unusual to encounter three or four on a single dive. Eagle rays and spotted eagle rays cruise the sandy margins. Resident giant morays, lionfish, and scorpionfish occupy the coral heads, and cleaner stations attract parrotfish and surgeonfish queuing for service.
 
 ## Dive Profile
 

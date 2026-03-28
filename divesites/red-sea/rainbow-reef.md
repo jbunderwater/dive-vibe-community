@@ -32,7 +32,7 @@ Rainbow Reef presents a gently sloping reef profile from a shallow top at around
 
 ## Marine Life
 
-The diverse coral cover supports an equally diverse fish community. Anthias in large numbers swarm the soft coral sections. Butterflyfish, angelfish, and surgeonfish are abundant across the reef. Pufferfish and porcupinefish drift through the midwater. Moray eels are commonly found extending from crevices at multiple points along the reef slope. Hawksbill turtles visit to graze and rest, and Napoleon wrasse make regular appearances along the outer reef edge. The sandy bottom at the base hosts stingrays and flatfish.
+The diverse coral cover supports an equally diverse fish community. Anthias in large numbers swarm the soft coral sections. Butterflyfish, angelfish, and surgeonfish are abundant across the reef. Pufferfish and porcupinefish drift through the midwater. Moray eels are commonly found extending from crevices at multiple points along the reef slope. Hawksbill turtles visit to graze and rest, and humphead wrasse make regular appearances along the outer reef edge. The sandy bottom at the base hosts stingrays and flatfish.
 
 ## Dive Profile
 

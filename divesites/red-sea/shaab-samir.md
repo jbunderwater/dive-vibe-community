@@ -32,7 +32,7 @@ Located north of Hurghada at approximately 27.32°N, Shaab Samir is part of the 
 
 ## Marine Life
 
-Shaab Samir's reef supports dense anthias populations around branching coral formations, particularly on the shallower sections where light penetration is strongest. Groupers occupy prominent coral heads, and Napoleon wrasse are occasionally sighted on the deeper sections. Moray eels — both giant and yellowmouth species — inhabit the reef crevices, and sea turtles visit the site. The sandy base around the reef foot is home to blue-spotted stingrays, and lionfish are a near-constant presence on every section of the reef.
+Shaab Samir's reef supports dense anthias populations around branching coral formations, particularly on the shallower sections where light penetration is strongest. Groupers occupy prominent coral heads, and humphead wrasse are occasionally sighted on the deeper sections. Moray eels — both giant and yellowmouth species — inhabit the reef crevices, and sea turtles visit the site. The sandy base around the reef foot is home to blue-spotted stingrays, and lionfish are a near-constant presence on every section of the reef.
 
 ## Dive Profile
 

@@ -32,7 +32,7 @@ Sha`ab Quais is a lagoon-style reef situated in the central Red Sea north of Hur
 
 ## Marine Life
 
-The coral gardens of Sha`ab Quais support dense aggregations of glassfish and anthias around branching table corals, attracting hunting groupers and trevally. Napoleon wrasse patrol the deeper reef edges, and green turtles are frequently sighted resting on the coral heads. Moray eels occupy crevices throughout the reef, while blue-spotted stingrays rest on sandy patches between coral formations. Schools of snapper and fusiliers are common in mid-water, and lionfish are found perched on the reef at most depths.
+The coral gardens of Sha`ab Quais support dense aggregations of glassfish and anthias around branching table corals, attracting hunting groupers and trevally. humphead wrasse patrol the deeper reef edges, and green turtles are frequently sighted resting on the coral heads. Moray eels occupy crevices throughout the reef, while blue-spotted stingrays rest on sandy patches between coral formations. Schools of snapper and fusiliers are common in mid-water, and lionfish are found perched on the reef at most depths.
 
 ## Dive Profile
 

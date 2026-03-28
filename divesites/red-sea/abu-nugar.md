@@ -32,7 +32,7 @@ Abu Nugar sits in the coastal reef zone north of Hurghada, close to the upmarket
 
 ## Marine Life
 
-The reefs north of Hurghada are productive and reliably populated. Large grouper and Napoleon wrasse are frequently sighted. The mid-water above the reef holds schools of fusiliers and jacks. Moray eels are common in crevices. Turtles are encountered across the area. Reef sharks are present on the deeper outer slopes. The El Gouna reefs are known for their night-dive marine life — octopus, sleeping parrotfish, and hunting lionfish are commonly encountered after dark.
+The reefs north of Hurghada are productive and reliably populated. Large grouper and humphead wrasse are frequently sighted. The mid-water above the reef holds schools of fusiliers and jacks. Moray eels are common in crevices. Turtles are encountered across the area. Reef sharks are present on the deeper outer slopes. The El Gouna reefs are known for their night-dive marine life — octopus, sleeping parrotfish, and hunting lionfish are commonly encountered after dark.
 
 ## Dive Profile
 
@@ -56,7 +56,7 @@ The Hurghada-El Gouna boat corridor is busy with day-trip traffic. Surface caref
 
 ## Photography
 
-Consistent conditions and reliable subjects make this a good photography site. Napoleon wrasse and grouper provide large, approachable subjects. Night diving here is particularly rewarding for macro photographers — octopus and crustaceans are active after dark. Wide-angle coral landscapes work well in the clear northern Red Sea water.
+Consistent conditions and reliable subjects make this a good photography site. humphead wrasse and grouper provide large, approachable subjects. Night diving here is particularly rewarding for macro photographers — octopus and crustaceans are active after dark. Wide-angle coral landscapes work well in the clear northern Red Sea water.
 
 ## Additional Resources
 

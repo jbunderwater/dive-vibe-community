@@ -32,7 +32,7 @@ Abu Bassala ("Father of the Onion" in Arabic, possibly referring to the rounded 
 
 ## Marine Life
 
-The remote southern location supports a well-preserved reef ecosystem. Reef sharks are frequently sighted, along with various ray species crossing the sandy surrounding seabed. Dense populations of anthias, butterflyfish, and wrasse inhabit the coral structure. Napoleon wrasse and large grouper are present. Sea turtles are commonly encountered on southern Red Sea reefs of this type.
+The remote southern location supports a well-preserved reef ecosystem. Reef sharks are frequently sighted, along with various ray species crossing the sandy surrounding seabed. Dense populations of anthias, butterflyfish, and wrasse inhabit the coral structure. humphead wrasse and large grouper are present. Sea turtles are commonly encountered on southern Red Sea reefs of this type.
 
 ## Dive Profile
 

@@ -32,7 +32,7 @@ Farsha Ergein Farayed is a shallow-to-mid-depth reef rising from deeper water in
 
 ## Marine Life
 
-The flat reef top supports dense schools of glassfish and anthias hovering above the coral, drawing in big-eye trevally and small reef sharks patrolling the edges. Napoleon wrasse cruise the coral gardens, and it is not unusual to spot a resting turtle on the plateau. Giant moray eels occupy the larger coral heads, while lionfish and scorpionfish lurk at the base of the slope. Spotted eagle rays pass through on the current, and occasional oceanic whitetip sharks have been reported in the blue water off the reef wall.
+The flat reef top supports dense schools of glassfish and anthias hovering above the coral, drawing in big-eye trevally and small reef sharks patrolling the edges. humphead wrasse cruise the coral gardens, and it is not unusual to spot a resting turtle on the plateau. Giant moray eels occupy the larger coral heads, while lionfish and scorpionfish lurk at the base of the slope. Spotted eagle rays pass through on the current, and occasional oceanic whitetip sharks have been reported in the blue water off the reef wall.
 
 ## Dive Profile
 

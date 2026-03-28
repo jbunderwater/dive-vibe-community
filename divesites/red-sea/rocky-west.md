@@ -32,7 +32,7 @@ The western face of Rocky Reef slopes at a moderate angle from the shallow crest
 
 ## Marine Life
 
-The calmer conditions on the western face allow sedentary species to establish more readily. Blue-spotted stingrays rest on sandy patches at the base of the reef. Reef octopus are more common here than on the current-swept southern face, using the sheltered crevices for dens. Moray eels are abundant in the coral heads. Hawkfish perch on branching coral structures. Scorpionfish are well-camouflaged on the rocky reef base and require careful looking. The deeper sandy zones host garden eels and flatfish. Napoleon wrasse cruise through at reef-edge depth.
+The calmer conditions on the western face allow sedentary species to establish more readily. Blue-spotted stingrays rest on sandy patches at the base of the reef. Reef octopus are more common here than on the current-swept southern face, using the sheltered crevices for dens. Moray eels are abundant in the coral heads. Hawkfish perch on branching coral structures. Scorpionfish are well-camouflaged on the rocky reef base and require careful looking. The deeper sandy zones host garden eels and flatfish. humphead wrasse cruise through at reef-edge depth.
 
 ## Dive Profile
 
