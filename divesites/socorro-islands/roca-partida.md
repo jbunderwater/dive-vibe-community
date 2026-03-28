@@ -11,56 +11,47 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Roca Partida
+# Roca Partida
 
-Roca Partida is a pinnacle dive site in Socorro Islands, Pacific.
+A tiny volcanic pinnacle in open ocean, widely regarded as one of the best big-animal dive sites on the planet
 
 ## Overview
-
-Roca Partida is a dive site in Socorro Islands offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Roca Partida ("Split Rock") is the smallest and most remote of the Revillagigedo Islands, located approximately 100 km west of Socorro Island. Above water, it is just 100 metres long and 8 metres wide, rising into two barren peaks. Underwater, the pinnacle's sheer vertical walls plunge from near the surface to well beyond recreational limits, creating an isolated structure in deep open ocean that concentrates an extraordinary density of pelagic life. The site is accessible only by liveaboard, typically requiring an additional overnight transit from San Benedicto.
 
 ## Site Information
-
-- **Location**: Socorro Islands, Pacific
+- **Location**: Socorro Islands (Revillagigedo Archipelago), Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 50 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 20-30+ metres (often the best visibility in the archipelago)
+- **Current**: Moderate to strong, variable direction
+- **Best Time**: November to May (calmest seas)
 
 ## Marine Life
-
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Roca Partida's sheer remoteness and vertical walls create one of the highest concentrations of pelagic life in the Eastern Pacific. Whitetip reef sharks stack in resting recesses along the wall — this is where the iconic photographs of dozens of whitetips layered in caves originate. Schools of scalloped hammerhead sharks patrol the blue water, sometimes numbering in the hundreds. Oceanic whitetip sharks, silky sharks, and Galapagos sharks cruise the open water around the pinnacle. Giant Pacific manta rays visit regularly, and whale sharks are possible from November through April. Large schools of yellowfin tuna and bigeye jacks swirl around the rock. Humpback whales pass through from January to March, and their song is frequently audible underwater. Caves at approximately 20 metres harbour lobsters and moray eels.
 
 ## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 50 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The pinnacle is small enough to circumnavigate in a single dive. Entry is typically on the east (lee) side around the middle of the rock. Descend along the wall and work around the structure, checking the caves and recesses at 15-25 metres for resting whitetip reef sharks. Deeper along the wall (30-40m), look into the blue for schooling hammerheads and oceanic whitetips. The most productive zone is generally 15-30 metres where the wall's features concentrate both resident reef sharks and passing pelagics. Ascend along the wall and complete your safety stop against the rock structure.
 
 ## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by zodiac tender from the liveaboard. Giant stride entry into open ocean — there is no sheltered area. Negative entries are sometimes required depending on current and swell conditions. Deploy an SMB for all ascents as currents can carry divers away from the rock. Coordinate closely with the tender crew, as conditions change rapidly at this exposed site.
 
 ## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Carry a high-visibility SMB, audible signalling device, and ideally a GPS beacon — this is the most remote dive site in the archipelago
+- Nitrox is strongly recommended given the multi-dive daily profiles and depths
+- Look into every recess and cave along the wall for stacked whitetip reef sharks
+- Spend time at a comfortable depth watching the blue water — the big animals come to you
+- A 5-7mm wetsuit is essential; thermoclines can drop temperatures significantly at depth
 
 ## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+This is the most exposed and demanding dive site in the Socorro Islands. Strong and unpredictable currents can develop from any direction. Heavy surface swell and surge are common, creating "washing machine" conditions near the surface. The nearest hyperbaric chamber is approximately 30 hours away in Cabo San Lucas or La Paz. Dive conservatively, maintain close buddy contact, and be prepared to abort if conditions deteriorate. All divers must carry signalling devices.
 
 ## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Roca Partida offers world-class wide-angle opportunities. The vertical walls with stacked whitetip reef sharks in recesses are signature shots. Schooling hammerheads against the blue water provide dramatic silhouette compositions. The small size of the pinnacle means marine life is concentrated, making encounters more predictable than at larger sites.
 
 ## Additional Resources
-
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

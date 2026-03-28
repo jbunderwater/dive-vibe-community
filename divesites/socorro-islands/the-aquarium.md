@@ -11,56 +11,47 @@ osmId: null
 addedBy: osm_import
 ---
 
-## The Aquarium
+# The Aquarium
 
-The Aquarium is a reef dive site in Socorro Islands, Pacific.
+A shallow volcanic reef with the highest fish density on San Benedicto and excellent macro subjects
 
 ## Overview
-
-The Aquarium is a dive site in Socorro Islands offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+The Aquarium is a shallow dive site on San Benedicto Island, named for its exceptional density and variety of reef fish — unusual for the Socorro archipelago, where most sites are defined by pelagic encounters rather than reef life. The volcanic substrate supports a concentrated community of endemic and tropical fish species in a relatively small area at depths of 5-15 metres. While it lacks the headline pelagic action of The Boiler or El Canyon, The Aquarium offers a different character of diving that complements the big-animal sites and provides excellent macro and fish photography opportunities. Manta rays and sharks still pass through regularly.
 
 ## Site Information
-
-- **Location**: Socorro Islands, Pacific
+- **Location**: San Benedicto Island, Socorro Islands, Pacific
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 15-25 metres
+- **Current**: Mild to moderate
+- **Best Time**: November to June
 
 ## Marine Life
-
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+The site's shallow volcanic structure supports a concentration of reef fish uncommon in the open-ocean environment of the Revillagigedo. Endemic Clarion angelfish and Clarion damselfish — found nowhere else on Earth — are abundant here. Schools of surgeonfish, parrotfish, and wrasses populate the volcanic reef. Moray eels occupy crevices in the lava rock. Nudibranchs and other macro subjects are found on the rocky substrate. Despite the shallow, reef-focused character, manta rays make passes over the site, and whitetip reef sharks rest in overhangs. The site name reflects the feeling of being surrounded by dense fish life in clear water.
 
 ## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+A relaxed shallow dive, rarely exceeding 15 metres. Work along the volcanic reef structures, exploring crevices and overhangs. The shallow depth allows for extended bottom times — an ideal third or fourth dive of the day after deeper sites. The reef's compact size makes it easy to cover thoroughly in a single dive.
 
 ## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Zodiac tender from the liveaboard. Giant stride entry into relatively sheltered water compared to more exposed sites. Deploy an SMB during ascent. Conditions are generally calmer than the archipelago's more exposed pinnacle and wall sites.
 
 ## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Bring macro lenses or a close-focus setup — this is the best macro site in the archipelago
+- Look for endemic Clarion angelfish and Clarion damselfish in the shallows
+- An excellent site for extended bottom time after deeper morning dives
+- Check every overhang and crevice for moray eels and nudibranchs
+- Gloves are prohibited throughout the marine park
 
 ## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The shallow depth and typically milder conditions make this one of the more accessible sites in the archipelago, though the Advanced rating reflects the remote liveaboard-only location. Currents can still develop. The nearest hyperbaric chamber is approximately 30 hours away. Maintain standard safety practices.
 
 ## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The Aquarium is the best site in the Socorro Islands for macro photography. Endemic Clarion angelfish provide colourful, cooperative subjects. Dense schools of reef fish in clear water create vibrant wide-angle compositions at shallow depths with excellent natural light. The volcanic substrate provides interesting textures and backdrops.
 
 ## Additional Resources
-
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources and regional diving knowledge. Last updated 2026-03-28.*

@@ -11,56 +11,47 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Fondeadero
+# Fondeadero
 
-Fondeadero is a reef dive site in Socorro Islands, Pacific.
+The traditional checkout dive site near the Socorro Island anchorage, with three lava block formations and reliable marine life encounters
 
 ## Overview
-
-Fondeadero is a dive site in Socorro Islands offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Fondeadero is the anchorage site on Socorro Island where liveaboards typically make their first dive of the trip after the long transit from Cabo San Lucas. Three large lava block formations rise from the sandy bottom near the anchorage, providing the structure for a checkout dive that often surprises with quality encounters. While it serves a practical purpose — allowing divemasters to assess divers' skills before the more demanding sites — Fondeadero is a legitimate dive site in its own right, with manta rays, sharks, and dolphins making regular appearances around the lava blocks. Visibility can be lower than at the archipelago's more exposed sites.
 
 ## Site Information
-
-- **Location**: Socorro Islands, Pacific
+- **Location**: Socorro Island, Socorro Islands, Pacific
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 10-15 metres (lower than exposed sites due to sheltered location)
+- **Current**: Mild to moderate
+- **Best Time**: November to June
 
 ## Marine Life
-
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Despite its checkout-dive role, Fondeadero delivers legitimate Socorro encounters. Giant Pacific manta rays cruise past the lava formations. Whitetip reef sharks rest on and around the blocks. Galapagos sharks patrol the area. Bottlenose dolphins from the resident pod occasionally visit. Schools of jacks and tuna aggregate around the structures. The lava blocks harbour moray eels, lobsters, and reef fish including endemic Clarion angelfish. The sheltered sandy bottom between formations provides a different habitat than the archipelago's walls and pinnacles.
 
 ## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+A straightforward dive around and between the three lava block formations. Maximum depth is approximately 30 metres at the base of the deepest block. Work around each formation, checking overhangs and crevices for resting sharks and marine life. The sandy channels between blocks are worth exploring for passing mantas and pelagics. The relatively simple topography makes this an ideal orientation dive.
 
 ## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Zodiac tender from the liveaboard anchored nearby. Giant stride entry. Conditions are generally sheltered compared to the archipelago's exposed sites. Deploy an SMB during ascent.
 
 ## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Don't underestimate this site — Socorro-quality encounters can happen even at the checkout dive
+- The first dive of the trip after 30 hours of transit — take it easy and enjoy the warm-up
+- Check every overhang on the lava blocks for resting sharks and marine life
+- The sheltered conditions make this a good site for calibrating buoyancy and camera settings
+- Gloves are prohibited throughout the marine park
 
 ## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The mildest conditions in the archipelago, but the Advanced rating reflects the remote location. Currents are generally mild near the anchorage. The nearest hyperbaric chamber is approximately 30 hours away in Cabo San Lucas or La Paz. As the first dive after a long transit, be aware of potential fatigue and take a conservative approach.
 
 ## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+A good site for equipment testing and practice before the archipelago's more demanding sites. The lava block formations provide interesting structures for wide-angle compositions. Lower visibility compared to other Socorro sites may affect wide-angle range. Close-focus wide-angle on the lava formations can yield strong results.
 
 ## Additional Resources
-
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources and regional diving knowledge. Last updated 2026-03-28.*
