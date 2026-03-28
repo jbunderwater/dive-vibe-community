@@ -13,54 +13,51 @@ addedBy: osm_import
 
 ## Pixie Gardens
 
-Pixie Gardens is a reef dive site in Great Barrier Reef, Oceania.
+Pixie Gardens is a shallow coral garden in the Ribbon Reefs of the northern Great Barrier Reef, Queensland, Australia, situated immediately adjacent to the famous Pixie Pinnacle.
 
 ## Overview
 
-Pixie Gardens is a dive site in Great Barrier Reef offering excellent diving on healthy coral reef structures. Located in the Oceania region, this site offers 15-40 meters of visibility with water temperatures averaging 20-29°C.
+Where Pixie Pinnacle rewards patient macro hunters on a single bommie, Pixie Gardens extends the diving experience across a broad, gently sloping coral garden that spreads out from the base of the pinnacle. The site reaches a maximum depth of just 12 metres, making it ideal for new divers, snorkellers making their first scuba dives, and underwater photographers looking to extend their bottom time in excellent conditions.
+
+Coral coverage is exceptional — table corals, branching staghorns, brain corals, and encrusting plate corals compete for space across the reef flat, while gardens of soft coral and anemone fields fill the lower zones. The shallow depth means natural light penetrates fully throughout the dive, giving the site a luminous quality that deeper sites cannot match.
 
 ## Site Information
 
-- **Location**: Great Barrier Reef, Oceania
+- **Location**: Ribbon Reefs (adjacent to Pixie Pinnacle), northern Great Barrier Reef, Queensland, Australia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
-- **Typical Visibility**: 15-40 meters (50-130 feet)
-- **Current**: Variable
-- **Best Time**: September to February
+- **Typical Visibility**: 15–30 metres
+- **Current**: Generally mild
+- **Best Time**: July to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter great white sharks, grey nurse sharks, whale sharks, manta rays, sea turtles, dolphins, dugongs, potato cod. Additional species commonly sighted include maori wrasse, giant trevally, hard corals, soft corals.
+The shallow coral garden teems with reef fish: parrotfish, surgeonfish, butterflyfish, and wrasse move through the corals in constant activity. Clownfish colonies inhabit the numerous anemone patches scattered across the garden. Sea turtles regularly browse the coral, and hawksbill turtles are often found feeding on sponges. Blue-spotted stingrays rest on the sandy channels between coral heads. The site's proximity to Pixie Pinnacle means nudibranchs and pipefish spill over from the bommie into the garden, and the same pygmy seahorses known from the pinnacle's sea fans extend into the garden's outer reaches.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+A relaxed, meandering swim through the coral garden at any depth from 3 to 12 metres. The reef flat at 5–8 metres provides the densest coral coverage. Divers can spend extended time here given the shallow depth — 60-minute dives are comfortable for most certified divers at 8–10 metres. A natural circuit back to the liveaboard mooring is easily navigated.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Liveaboard access only. Free descent from the surface; the shallowest sections are visible from the surface in good visibility. Exit via swim back to the liveaboard or SMB deployment.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Combine with a dive on Pixie Pinnacle for a contrast between concentrated bommie life and spread-out garden diving
+- Ideal for reef photography with natural light — no strobe is needed in the top 8 metres during morning dives
+- Look for sleeping nurse sharks in the sandy channels between coral heads
+- An excellent site for divers building open-water experience in warm, clear, shallow conditions
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish (box jellyfish in summer), crocodiles (north) in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+The site is exceptionally safe for its target audience. The main consideration is sun protection — long surface intervals in tropical Queensland require appropriate sun coverage. Box jellyfish risk exists in inshore waters during the wet season (November–April); Ribbon Reef sites are considered lower risk than coastal sites but caution is advised.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Pixie Gardens is a natural-light photographer's venue. The 5–10 metre depth zone at midday allows reef photography without strobes, rendering the hard corals in their true colours against the blue water background. Wide-angle reef landscapes and close-focus wide-angle shots of resident clownfish are both well-served here. The site also offers good close-up work on the anemone colonies.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

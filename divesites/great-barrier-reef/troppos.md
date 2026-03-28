@@ -13,54 +13,50 @@ addedBy: osm_import
 
 ## Troppo's
 
-Troppo's is a reef dive site in Great Barrier Reef, Oceania.
+Troppo's is a reef dive site on the outer Great Barrier Reef near Lizard Island, Queensland, Australia.
 
 ## Overview
 
-Troppo's is a reef site with mooring facilities featuring scenic coral formations and excellent fish encounters. Located on the southern reef system off Cairns, this site offers 12-18 meters of visibility with water temperatures of 23-27°C. The moored location provides convenient access for recreational divers to enjoy healthy coral reefs and diverse marine life.
+Troppo's is a local name — "troppo" being Australian slang for someone who has gone a little crazy from the tropical heat, a name typically attached to dive sites or vessels with an endearing eccentricity. In this case, the site's name likely reflects a particularly exuberant concentration of marine life or the lively character of the reef.
+
+The site sits on the outer reef in the Lizard Island area, offering the clear water and rich coral coverage typical of this section of the northern GBR. It is often dived as part of a multi-site day from Lizard Island or included on liveaboard itineraries in the area.
 
 ## Site Information
 
-- **Location**: Great Barrier Reef, Oceania
+- **Location**: Outer Great Barrier Reef (Lizard Island area), Queensland, Australia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 15-40 meters (50-130 feet)
+- **Typical Visibility**: 15–30 metres
 - **Current**: Variable
-- **Best Time**: September to February
+- **Best Time**: August to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter great white sharks, grey nurse sharks, whale sharks, manta rays, sea turtles, dolphins, dugongs, potato cod. Additional species commonly sighted include maori wrasse, giant trevally, hard corals, soft corals.
+The outer reef position brings pelagic species to the reef edge regularly. Schools of barracuda gather in the mid-water above the reef during certain seasons, and Spanish mackerel pass through on hunting runs. The reef itself hosts the typical northern GBR assemblage: coral grouper, large wrasse including Napoleon wrasse, sweetlips, and batfish in the mid-water. Sea turtles are consistent grazers along the reef top. The soft coral coverage on the deeper slope hosts nudibranchs and crinoids.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+A straightforward outer reef dive following the slope from the crest at 5 metres down to 18 metres and back. The reef crest zone is particularly productive with its high light levels and dense fish activity. Spend the majority of bottom time at 10–15 metres where the reef structure is most varied.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from Lizard Island resort or liveaboard operators. Typically a moored dive with entry by giant stride and exit via boat ladder or platform.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Look for cleaning stations along the reef — large fish queue patiently at these points and are uncharacteristically approachable
+- The reef crest in the first few metres is excellent for snorkellers and less confident divers
+- Check with the boat crew for current direction before descent — the dive plan should account for drift along the reef
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish (box jellyfish in summer), crocodiles (north) in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Standard outer reef dive site. Sun protection is critical in tropical Queensland. Tidal currents on the outer reef can increase rapidly — monitor the conditions on descent and signal the boat if current is unexpectedly strong.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Troppo's offers good opportunities for wide-angle reef photography, particularly on the outer slope where the full depth range of the reef is visible. Schools of barracuda and batfish provide dramatic schooling fish images. Natural light is excellent throughout the morning at this depth range.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

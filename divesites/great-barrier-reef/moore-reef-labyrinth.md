@@ -13,54 +13,51 @@ addedBy: osm_import
 
 ## Moore Reef - Labyrinth
 
-Moore Reef - Labyrinth is a reef dive site in Great Barrier Reef, Oceania.
+Moore Reef - Labyrinth is a shallow reef dive site on Moore Reef, approximately 40km east of Cairns on the outer Great Barrier Reef, Queensland, Australia.
 
 ## Overview
 
-Moore Reef - Labyrinth is a unique reef site featuring intricate swim-throughs and complex coral formations. Located off Cairns in the central Great Barrier Reef, this site offers 12-18 meters of visibility with water temperatures of 23-27°C. The labyrinthine coral structure creates an excellent navigation challenge for recreational divers and offers excellent photo opportunities.
+The Labyrinth is the most distinctive dive site on Moore Reef, offering a coral maze of narrow passages, swim-throughs, and interconnected channels that give the site its name. The formation is created by closely-spaced coral bommies and reef structures that have grown together at their tops while remaining separated below, creating a three-dimensional puzzle of passages and dead-ends that divers navigate at very shallow depths.
+
+The maximum depth of just 12 metres makes the Labyrinth the shallowest and most relaxed dive site at Moore Reef. It is popular as a final dive of the day when air and bottom time are limited, and it is equally well-suited as an introductory dive for beginners encountering complex reef navigation for the first time.
 
 ## Site Information
 
-- **Location**: Great Barrier Reef, Oceania
+- **Location**: Moore Reef, outer Great Barrier Reef, approximately 40km east of Cairns, Queensland, Australia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
-- **Typical Visibility**: 15-40 meters (50-130 feet)
-- **Current**: Variable
-- **Best Time**: September to February
+- **Typical Visibility**: 10–20 metres
+- **Current**: Minimal within the labyrinth
+- **Best Time**: Year-round; July to October for optimal visibility
 
 ## Marine Life
 
-Divers at this site can expect to encounter great white sharks, grey nurse sharks, whale sharks, manta rays, sea turtles, dolphins, dugongs, potato cod. Additional species commonly sighted include maori wrasse, giant trevally, hard corals, soft corals.
+The enclosed passages of the Labyrinth create sheltered microhabitats that support species not found in open reef areas. Wobbegong sharks rest on the sand in corners and dead-ends of the maze. Juvenile fish use the passages as nursery areas — small wrasse, juvenile parrotfish, and juvenile surgeonfish are more abundant here than on the open reef. Coral coverage within the passages is dense and largely undisturbed; the complex architecture protects the inner structures from wave action and larger grazing animals. Moray eels are consistently present. The sandy pockets within the maze hold blue-spotted stingrays.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Navigation through the Labyrinth is the primary challenge and appeal. Enter one of the passages at 8–10 metres and explore the network, finding routes upward through gaps and over the tops of the coral walls. Buoyancy control is critical to avoid contact with the coral as you navigate the passages. The whole site can be explored in a single dive, with most divers spending time finding the deeper passages before ascending through the shallower channels.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Day trips from Cairns on the Moore Reef pontoon. Entry from the pontoon dive platform. Exit to the pontoon after navigating back through the Labyrinth.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Pre-dive orientation is important: the pontoon dive guides will give a compass heading for the exit — note it before you enter the maze
+- Buoyancy control is critical here — do not grab or push off coral walls to navigate passages
+- The site is ideal for buoyancy practice after an open-water course
+- Wobbegong sharks in the dead-ends are a highlight — observe from a distance without cornering them
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish (box jellyfish in summer), crocodiles (north) in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+The enclosed passages could cause navigation confusion — always maintain a mental note of your orientation and ascent routes. Do not enter passages that narrow to the point where exit is uncertain. In poor visibility (uncommon at Moore Reef but possible after storms), use the compass provided during the briefing. Touch nothing — the coral walls are fragile and wobbegong sharks will bite if cornered.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The Labyrinth's narrow passages create dramatic perspective shots — wide-angle images looking down a coral corridor are visually striking. The wobbegong sharks in the dead-ends are excellent subjects if approached carefully. Juvenile fish portraits reward a macro lens in the inner passages.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

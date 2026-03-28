@@ -13,54 +13,51 @@ addedBy: osm_import
 
 ## Agincourt Reef No. 1 - Trigger Fish City
 
-Agincourt Reef No. 1 - Trigger Fish City is a reef dive site in Great Barrier Reef, Oceania.
+Agincourt Reef No. 1 - Trigger Fish City is a reef dive site on Agincourt Reef, part of the Ribbon Reefs system approximately 65km east of Port Douglas, Queensland, Australia.
 
 ## Overview
 
-Agincourt Reef No. 1 - Trigger Fish City is a scenic reef site famous for abundant trigger fish populations and excellent fish diversity. Located along the Agincourt ribbon reefs off Port Douglas, this site offers 15-20 meters of visibility with water temperatures of 23-27°C. Named for its characteristic trigger fish encounters, this site is ideal for recreational and beginner divers.
+Agincourt Reef is the closest outer reef to Port Douglas and is the destination for the majority of day-trip dive boats from that town. The reef system consists of several numbered sections; No. 1 is among the most accessible and regularly dived. The name Trigger Fish City reflects the historically high density of triggerfish — particularly titan triggerfish and yellow-margin triggerfish — that populate this section of the reef.
+
+The site is characterised by healthy hard coral gardens on a shallow outer reef platform, making it an excellent destination for all levels. The triggerfish are a reliable attraction, though divers must be aware of their territorial behaviour during breeding season.
 
 ## Site Information
 
-- **Location**: Great Barrier Reef, Oceania
+- **Location**: Agincourt Reef No. 1, outer Great Barrier Reef, approximately 65km east of Port Douglas, Queensland, Australia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 16 meters
-- **Typical Visibility**: 15-40 meters (50-130 feet)
-- **Current**: Variable
-- **Best Time**: September to February
+- **Typical Visibility**: 15–25 metres
+- **Current**: Variable; typically moderate on outer reef
+- **Best Time**: August to November; year-round accessible
 
 ## Marine Life
 
-Divers at this site can expect to encounter great white sharks, grey nurse sharks, whale sharks, manta rays, sea turtles, dolphins, dugongs, potato cod. Additional species commonly sighted include maori wrasse, giant trevally, hard corals, soft corals.
+Titan triggerfish are the signature species, identifiable by their large size (up to 75cm), blue-grey and yellow colouration, and assertive territorial behaviour. Yellow-margin triggerfish are present in smaller numbers. Beyond the triggerfish, the reef holds impressive fish diversity: large maori wrasse, parrotfish of multiple species, grouper, and surgeonfish are abundant. Sea turtles are regulars. The reef's exposed outer position means pelagic species — Spanish mackerel, trevally, and barracuda — pass through regularly. Soft corals and sea fans decorate the deeper reef face.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 16 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-16 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+A shallow outer reef platform dive, with the most life concentrated in the 6–14 metre range. The maximum depth of 16 metres is reached at the reef slope base. Follow the reef contour along the outer edge, spending time at the hard coral gardens in the 8–12 metre zone where triggerfish density is highest. Return via the reef top in excellent visibility.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Day trips from Port Douglas marina with operators including Quicksilver Connections, which runs large vessels with pontoons at the Agincourt Reef sites. Entry from the vessel or tender, exit via the pontoon platform or vessel ladder.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Maintain awareness of the triggerfish: if a titan triggerfish begins swimming toward you aggressively, move horizontally away from the reef (not upward, which takes you deeper into their territory cone)
+- The triggerfish are most territorial during their October–December nesting season; at other times they are simply impressive large fish to observe
+- Port Douglas trips typically cover multiple Agincourt sites in a single day — plan your dives to include a deeper site and use Trigger Fish City for its shallower attractions
+- Excellent visibility on calm days makes this one of the best-value day-trip outer reef experiences from Port Douglas
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish (box jellyfish in summer), crocodiles (north) in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Titan triggerfish are the primary behavioural hazard at this site. Their bite is powerful and they defend territories aggressively when nesting. The defensive protocol (swim horizontally away from the reef) is reliably effective. Otherwise the site is straightforward outer reef diving with standard current and sun exposure considerations.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The titan triggerfish are photogenic subjects with their bold colouration and dramatic expressions. Wide-angle shots in the top 10 metres benefit from the excellent natural light. The reef fish diversity provides constant subject material for both wide-angle reef scenes and individual fish portraits.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

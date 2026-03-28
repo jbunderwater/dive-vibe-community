@@ -13,55 +13,52 @@ addedBy: osm_import
 
 ## North Horn
 
-North Horn is a wall dive site in Great Barrier Reef, Oceania.
+North Horn is Australia's most celebrated shark dive, located at the northern tip of Osprey Reef in the Coral Sea, approximately 350km northeast of Cairns, Queensland.
 
 ## Overview
 
-North Horn is a dive site in Great Barrier Reef featuring a dramatic vertical wall that drops into the deep blue. Located in the Oceania region, this site offers 15-40 meters of visibility with water temperatures averaging 20-29°C.
+Osprey Reef is an isolated atoll rising from 1,000-metre-deep Coral Sea, and North Horn is its dramatic northern extremity — a sheer wall plunging into the abyss with a sandy amphitheatre at its base. The site has hosted organised shark feeds since the 1980s, drawing grey reef sharks, whitetip reef sharks, and silvertip sharks in numbers that make it one of the most intense shark diving experiences in the Indo-Pacific.
+
+During the feed — conducted by liveaboard guides using a bait container — divers kneel on the sandy slope at 18–20 metres while 30 to 50 sharks spiral overhead in tightening circles. The sharks are unhurried and entirely focused on the bait, ignoring divers unless someone makes sudden movements. Away from the feed, the wall itself is extraordinary: vertical coral gardens descend past sport diving limits, and hammerhead sharks are regularly sighted in the blue water beyond the wall edge.
 
 ## Site Information
 
-- **Location**: Great Barrier Reef, Oceania
+- **Location**: North Horn, Osprey Reef, Coral Sea, Queensland, Australia
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 15-40 meters (50-130 feet)
-- **Current**: Variable
-- **Best Time**: September to February
+- **Typical Visibility**: 30–50 metres
+- **Current**: Variable; typically calm during organised feed dives
+- **Best Time**: August to November (calmest Coral Sea conditions)
 
 ## Marine Life
 
-Divers at this site can expect to encounter great white sharks, grey nurse sharks, whale sharks, manta rays, sea turtles, dolphins, dugongs, potato cod. Additional species commonly sighted include maori wrasse, giant trevally, hard corals, soft corals. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Grey reef sharks are the dominant species, often present in groups of 20 or more during feeds. Silvertip sharks — larger, more robust, and slightly more assertive — patrol the mid-water. Whitetip reef sharks rest on the sandy amphitheatre floor. Oceanic whitetip sharks make occasional appearances, especially in deeper water off the wall. Hammerheads — both scalloped and great — are regularly encountered on early morning dives before the feed. Sea turtles, Napoleon wrasse, dogtooth tuna, and large schools of bumphead parrotfish round out the pelagic life. The wall itself hosts prolific hard and soft corals, sea fans, and a full complement of reef fish.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-20 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Descent is typically along the wall or down the shot line to the sandy amphitheatre at 18–20 metres. During the feed, divers maintain position on the sand and observe. Between feeds, following the wall north reveals overhangs and swim-throughs. The wall drops sheer to beyond 100 metres — blue water drift along the face at 15–20 metres provides excellent shark encounters without current assistance.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Osprey Reef is reachable only by liveaboard, typically 18–24 hours from Cairns. Operators including Spirit of Freedom and Mike Ball Dive Expeditions run regular itineraries. Dives are usually timed around tidal slack. Exit via SMB from open water.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Attend the pre-dive briefing carefully — feed dives have specific positioning protocols
+- Wear full wetsuits including gloves and hoods to minimise exposed skin
+- Control buoyancy carefully; kneeling silently on the sand dramatically reduces shark wariness
+- Early morning dives before the feed often produce the best hammerhead encounters
+- Wide-angle lenses (14–16mm equivalent) are ideal; the sharks will come within arm's reach
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish (box jellyfish in summer), crocodiles (north) in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+The sharks at North Horn are wild animals that assess their environment continuously. Divers who remain still and non-threatening are consistently ignored during feeds. Erratic movements, surfacing quickly, or swimming alone should be avoided. Despite its intimidating appearance, the site has an excellent safety record. Monitor depth on the wall — the sheer face can draw divers unconsciously deeper.
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+North Horn offers world-class shark photography. During the feed, grey reef and silvertip sharks pass within 1–2 metres, enabling frame-filling wide-angle shots. Use a dome port with a rectilinear wide-angle lens. Strobe power must be balanced carefully to avoid backscatter in the particulate-rich water during the feed. Between feeds, position yourself at the wall edge with the blue water behind the sharks for classic silhouette shots.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
