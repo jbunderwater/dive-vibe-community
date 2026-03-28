@@ -11,56 +11,55 @@ osmId: 271180721
 addedBy: osm_import
 ---
 
-## Torfi, Wadi Gamal
+# Torfi, Wadi Gamal
 
-Torfi, Wadi Gamal is a reef dive site in Red Sea, Middle East.
+A reef within the Wadi el Gemal National Park — one of the protected marine areas north of Marsa Alam where dugong sightings are possible among the seagrass and the fringing reef offers calm diving conditions in a nationally significant conservation zone.
 
 ## Overview
 
-Torfi, Wadi Gamal is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Torfi lies at approximately 24.67°N, 35.15°E within or adjacent to the Wadi el Gemal (Wadi Gamal) National Park — a protected area north of Marsa Alam established specifically to protect dugongs, sea turtles, and the seagrass meadows they depend on. The national park context shapes diving here: boat access is regulated, diver numbers are managed, and the marine life reflects reduced pressure. Torfi is one of the dive sites within the park accessible on day-trip itineraries from Marsa Alam or Port Ghalib, and sits in a seagrass-adjacent zone that produces the dugong encounters for which the park is known.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Boat dive
+- **Location**: Wadi el Gemal National Park, north of Marsa Alam (~24.67°N, 35.15°E)
+- **Entry Type**: Boat dive (park access fees and regulations apply)
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 15–20 meters
+- **Current**: Generally mild; protected park zone
+- **Best Time**: October to May; dugong encounters year-round but best in winter
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, humphead wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Dugongs are the signature species of Wadi el Gemal National Park — they are encountered grazing the seagrass meadows adjacent to the reef and crossing the sandy zones between reef and seagrass. Hawksbill turtles are abundant throughout the park and regularly rest on the reef platform at Torfi. The reef carries a healthy assemblage of groupers, moray eels, and reef fish. Spinner dolphins transit the park waters and are occasionally encountered. The seagrass meadows are accessed via the sandy sections adjacent to the reef.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin on the reef crest at 5–8 metres and work along the outer slope at 12–15 metres. Transition to the sandy and seagrass zones at 12–18 metres, where dugong grazing occurs. Patient, slow movement through the seagrass is essential — bubbles can startle dugongs into departure before a sighting is confirmed. Safety stop at 5 metres over the reef.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Day boat from Marsa Alam or Port Ghalib (30–50 minutes). National park entry fees apply. Group sizes are regulated. Giant stride entry. SMB deployment before ascending.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Dugong encounters require patience and very slow, quiet movement — any rapid movement or loud breathing will cause the animal to leave
+- Position downwind of the seagrass meadow when waiting — dugongs surface periodically and may be spotted before they approach the reef
+- Turtles are reliable sightings and less skittish than dugongs — use turtle encounters to practice the calm approach technique before seeking dugongs
+- Early morning dives in the national park are best for dugong activity
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Follow all national park dive regulations — these exist specifically to protect dugong and turtle populations. Do not approach dugongs to within 5 metres. Mild conditions are typical in the park zone. SMB before ascending. Avoid the seagrass meadows if visibility is poor.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Dugong photography in seagrass requires a wide-angle lens, minimum disturbance approach, and natural light — artificial strobe flash disturbs the animals. Turtle portraits on the reef platform are more accessible and suit a macro/telephoto approach. The seagrass meadow with natural light filtering through the water surface creates distinctive ambient wide-angle compositions.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

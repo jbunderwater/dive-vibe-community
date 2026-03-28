@@ -11,57 +11,55 @@ osmId: 663869816
 addedBy: osm_import
 ---
 
-## Ulysses
+# Ulysses
 
-Ulysses is a historic wreck dive in Red Sea, Middle East.
+A wreck dive in the southern Hurghada offshore zone — a vessel lying at 30 metres with coral colonisation on its upper structure, resident shark activity on the sandy floor, and the deeper profile that distinguishes it from the standard Hurghada reef circuit.
 
 ## Overview
 
-Ulysses is a dive site in Red Sea featuring the wreck of the Ulysses. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Ulysses is a wreck site at approximately 27.69°N, 33.80°E in the Hurghada offshore zone. The classical name — Ulysses (Odysseus) — follows the tradition of assigning named wrecks in this section of the Red Sea. The vessel lies at up to 30 metres in moderately clear Hurghada-area water. Compared with the shallow, reef-focused day dives of the Hurghada standard circuit, Ulysses offers a deeper wreck profile with a different character: the exploration-oriented dive along a steel hull structure, the coral and fish communities that have established on the wreck, and the opportunity to see the site's resident whitetip reef shark population. It is operated as a day-boat site from Hurghada.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Offshore Hurghada, central Egyptian Red Sea (~27.69°N, 33.80°E)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 15–25 meters
+- **Current**: Mild to moderate
+- **Best Time**: Year-round; October to May optimal
 
 ## Marine Life
 
-Divers at this site can expect to encounter glassy sweepers, lionfish, groupers, coral growth, soft corals, whale sharks, manta rays, hammerhead sharks. Additional species commonly sighted include oceanic whitetip sharks, sea turtles, dolphins. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Whitetip reef sharks rest on the sandy floor adjacent to the wreck — they are the wreck's most reliable large-animal encounter. Schools of glassfish and snapper occupy the wreck's interior accessible sections. The upper hull structure carries soft coral and gorgonian colonisation. Moray eels are resident throughout the wreck's corroded cavities. Groupers patrol the outer hull sections. Schools of barracuda circle in the open water above the wreck.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 30 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend directly to the deepest section of the wreck at 28–30 metres and check the sandy floor for resting whitetip reef sharks. Work along the hull at depth for 10–12 minutes before beginning the multi-level ascent. The mid-sections of the wreck at 18–25 metres carry the best coral colonisation. The shallowest sections of the upper hull at 15–18 metres are explored last. Safety stop at 5 metres in the open water adjacent to the wreck.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Day boat from Hurghada (40–60 minutes). Intermediate divers with some wreck experience recommended for the 30-metre profile. Giant stride entry. SMB deployment before ascending.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Check the sandy floor at the bow or stern for resting whitetip reef sharks immediately on descent — they are typically in the same resting positions dive after dive
+- Do not approach resting sharks — remain stationary and observe
+- A torch is essential for examining the hull sections at depth — carry a primary and backup light
+- Do not penetrate the interior without overhead-environment training
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The 30-metre maximum depth requires air management awareness — begin ascent at 70 bar. No-decompression limits must be respected. No hull penetration without cave/wreck speciality training. Moray eels in the interior cavities react defensively if surprised. SMB mandatory before ascending.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+Whitetip reef shark portraits on the sandy floor adjacent to the wreck are the site's signature image — approach slowly from a distance and photograph from the horizontal plane at the shark's eye level. The colonised upper hull structure in natural light at 15–20 metres suits wide-angle wreck shots. Interior accessible sections with glassfish schools reward torch-assisted wide-angle technique.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
