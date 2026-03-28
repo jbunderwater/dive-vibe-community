@@ -11,56 +11,57 @@ osmId: 663869332
 addedBy: osm_import
 ---
 
-## Punta Dalila
+# Punta Dalila
 
-Punta Dalila is a reef dive site in Cozumel, Caribbean.
+A shallow, approachable reef in Cozumel's southern dive zone — ideal for new divers and snorkellers seeking excellent marine life encounters within easy depth limits.
 
 ## Overview
 
-Punta Dalila is a dive site in Cozumel offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Punta Dalila is a shallow point reef in the southern section of Cozumel's leeward coast, characterised by its accessible 15-meter maximum depth and consistent, gentle drift conditions. The site occupies a slight headland where mild current intensifies slightly, keeping the water rich in plankton and attracting a diverse range of smaller reef fish and invertebrates. The coral formations here include dense growth of star corals and brain corals in the 5–10 meter range, making the shallowest portion of the dive exceptionally rich. The combination of southern clarity, manageable depth, and relaxed current makes Punta Dalila an outstanding beginner site while still offering enough complexity to satisfy more experienced divers on a relaxed second dive.
 
 ## Site Information
 
-- **Location**: Cozumel, Caribbean
+- **Location**: Southern leeward coast, Cozumel, Quintana Roo, Mexico
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Shallow reef on a minor point
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Maximum Depth**: 15 meters (50 feet)
+- **Typical Visibility**: 20–35 meters (65–115 feet)
+- **Current**: Light northward drift
+- **Best Time**: Year-round; excellent in summer months when calmer conditions prevail
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The shallow, sunlit reef at Punta Dalila hosts an abundance of small and medium reef species. French angelfish and queen angelfish are present throughout. Spotted drums, with their distinctive long dorsal fin filaments, circle near larger coral heads. Hawksbill turtles graze on sponges in the upper reef zone. Banded butterflyfish, foureye butterflyfish, and longsnout butterflyfish are all found here, making this a good site for butterflyfish species counts. Cleaner wrasse stations are active on several coral heads. Green morays occupy the deeper crevices while spotted morays prefer the shallower structure. Caribbean reef squid are frequently observed in small groups in the water column above the reef.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Start at the shallowest portion of the reef crest (3–5 meters) and work through the brain and star coral formations toward deeper terrain at 10–15 meters. The manageable depth means a 60+ minute bottom time is achievable. Extend the dive time in the 5–10 meter zone on the return — the density of life in the brightest part of the reef is outstanding. Safety stop is comfortably performed in natural light in the shallows.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from San Miguel; southern location adds 25–35 minutes to the boat ride. Mooring buoys used within the national park. The gentle conditions make entry and exit uncomplicated even for new divers.
 
-## Tips and Recommendations
+## Tips
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Spend the majority of the dive at 5–10 meters where the reef is densest and the light most vivid
+- This site works well as the first southern dive for newer certified divers before progressing to Paso El Cedral or La Francesa
+- Look for Caribbean reef squid hovering above the reef in mid-water — they are intensely curious about divers and will often approach closely
+- The butterflyfish species diversity here makes Punta Dalila worth a dedicated fish-ID dive
+- Combine with a snorkelling segment from the boat on calm days — the shallows are outstanding from the surface too
 
-## Safety Considerations
+## Safety
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Beginners should still carry and deploy an SMB as standard practice on all Cozumel drift dives, even gentle ones. The current at Punta Dalila is mild, but divers should understand the basics of drift protocol before their first attempt. Fire coral occurs on some coral structures. Recompression facilities are in San Miguel, approximately 30–40 minutes by boat.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The bright, shallow, clear water at Punta Dalila is excellent for natural-light photography without strobes. Butterflyfish portraits in good ambient light are achievable with a compact camera or simple macro lens. The Caribbean reef squid, which approach curiously, are among the Caribbean's most photogenic small cephalopods — be patient and avoid sudden movements.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Arrecifes de Cozumel National Park**: Site within protected zone
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

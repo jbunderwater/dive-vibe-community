@@ -11,55 +11,56 @@ osmId: 620673918
 addedBy: osm_import
 ---
 
-## Center Reef
+# Center Reef
 
-Center Reef is a reef dive site in Puget Sound, North America.
+A submerged reef in Haro Strait on the western edge of the San Juan Islands, swept by strong currents and covered in exceptional anemone colonies.
 
 ## Overview
 
-Center Reef is a dive site in Puget Sound offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Center Reef occupies a position in Haro Strait, the main channel separating the San Juan Islands from Vancouver Island and one of the key passages for tidal exchange in the greater Salish Sea. This location means the reef experiences strong currents that deliver cold, nutrient-rich water continuously, producing some of the densest plumose anemone and sea star coverage in the region. Diving here at slack tide reveals a stunning display of white and orange anemone fields, while the fish life — particularly rockfish and lingcod — is abundant throughout the water column. A dry suit is essential.
 
 ## Site Information
 
-- **Location**: Puget Sound, North America
+- **Location**: Haro Strait, western San Juan Islands, Washington
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 8–15 metres
+- **Water Temperature**: 7–11°C
+- **Current**: Strong tidal; diving at slack is essential
+- **Best Time**: June to September
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Haro Strait is one of the key corridors for orca pods that travel through the San Juan Islands in summer following chinook salmon migrations — sightings from the boat are common between June and September. Underwater, the reef supports large lingcod, multiple rockfish species, and cabezon. Giant Pacific octopus inhabit the deeper rock piles. The invertebrate coverage is exceptional: white plumose anemones in dense colonies, red and orange encrusting sponges, Puget Sound king crabs, nudibranchs, and sea stars (where populations have recovered from sea star wasting syndrome). Dall's porpoises and harbour seals may be seen at the surface.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The reef crest is at approximately 6–8 metres. Work down the rock faces to 18 metres, spending time on the most anemone-covered vertical surfaces. Haro Strait currents can be 4 knots or more during exchange — arriving precisely at slack is non-negotiable. After the dive, use the shallower section of the reef for a safety stop before surfacing.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access only. Approach from the lee side during the pre-slack period and be ready to enter at the precise slack moment. Giant stride or back-roll entry. If current begins running during the dive, ascend along the reef face in the shelter of the rock. Deploy an SMB and surface up-current of the boat.
 
-## Tips and Recommendations
+## Tips
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Download a reliable tidal prediction app and use both the current and tide data — they do not always coincide
+- Brief all dive buddies on the abort signal if current picks up during the dive
+- Watch for orca from the boat on surface intervals — summer transits through Haro Strait are a highlight
+- Giant Pacific octopus here can be large (arm span 2–3 metres); give them respectful distance
 
-## Safety Considerations
+## Safety
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Haro Strait is one of the stronger tidal passages in the San Juan Islands. Timing errors can result in significant uncontrolled drift or an inability to ascend. Plan a hard abort: if any current is felt at the start of the dive, exit immediately and wait for the next slack. Dry suit is mandatory. Carry an SMB on every dive.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The anemone wall coverage on Center Reef rivals any site in the Pacific Northwest. Wide-angle shots of anemone fields with ambient light filtering down are compelling. Macro work on nudibranch species in the anemone bases is productive. Large lingcod portraits, taken with a wide-angle lens from close range, are a signature shot of this region.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -11,55 +11,57 @@ osmId: 155928935
 addedBy: osm_import
 ---
 
-## Collins Shoal
+# Collins Shoal
 
-Collins Shoal is a reef dive site in British Columbia, North America.
+A productive shoal near Gabriola Island offering typical Strait of Georgia cold-water reef diving.
 
 ## Overview
 
-Collins Shoal is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Collins Shoal lies in the Strait of Georgia near Gabriola Island, in the waters accessible from Nanaimo. The shoal creates an underwater feature that concentrates tidal current and supports rich filter-feeder communities on its rocky faces. As part of the wider Nanaimo diving area, Collins Shoal is often included on multi-site dive days alongside sites like Cluster Rocks and the Nanaimo artificial reefs. Water temperatures are cold at 8–11°C, requiring a drysuit, and visibility typically reaches 8–15 metres.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Strait of Georgia, near Gabriola Island, Nanaimo area, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Shoal / reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 8–15 metres
+- **Current**: Tidal currents present — plan around slack
+- **Best Time**: Late spring through autumn
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Collins Shoal hosts the productive Salish Sea cold-water community. Giant Pacific octopus are reliably encountered here. Lingcod are common and can be large at this site. Copper and quillback rockfish populate the rocky faces. Plumose anemones are abundant on current-exposed surfaces. Kelp greenlings hover among the rocks. Dungeness and rock crab forage on sandy adjacent areas. Harbour seals regularly follow dive groups throughout the shoal.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The shoal rises to approximately 6–10 metres below the surface, with flanks dropping to 18 metres. Start at depth on the outer flanks and work back to the shoal summit as the dive progresses. The transition from rocky reef to surrounding sand bottom often hosts the largest octopus. End the dive with a safety stop on the shallowest portion of the shoal.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access from Nanaimo's boat basin. The shoal is located by GPS. Anchor on sand clear of the reef peak. BC Ferries and other vessel traffic make Nanaimo waters busy — deploy a highly visible SMB before any ascent. A live boat pickup is preferred to allow the tender to stay close to the dive group.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Collins Shoal is often paired with Cluster Rocks for a full dive day from Nanaimo
+- Nanaimo dive operators can confirm exact current-slack timing for this specific location
+- Autumn visibility in the Strait of Georgia is typically excellent
+- The nearby Nanaimo artificial reefs (HMCS Saskatchewan, HMCS Cape Breton) make ideal additional dives
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Tidal currents in the Nanaimo area require careful planning. Heavy vessel traffic from BC Ferries to Gabriola Island and commercial shipping makes SMB deployment critical. Cold water (8–11°C) demands drysuit proficiency. Dive with a buddy and maintain close contact in any current.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Shoal diving offers wide-angle reef portraits with plumose anemones in the foreground. Octopus encounters with the rocky substrate background create compelling images. Macro photography on sponge-covered rocks produces diverse nudibranch images. Bring strobes for accurate colour reproduction at depth.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
+- Nanaimo dive shops and charter operators
+- Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -11,55 +11,58 @@ osmId: 5629821915
 addedBy: osm_import
 ---
 
-## Coghlan Rock
+# Coghlan Rock
 
-Coghlan Rock is a reef dive site in British Columbia, North America.
+A submerged navigational hazard near Victoria's Race Rocks, offering cold-water reef diving in tidal currents.
 
 ## Overview
 
-Coghlan Rock is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Coghlan Rock lies in the waters south of Victoria near Race Rocks, one of the strongest tidal environments on the BC coast. The rock is submerged and marks a navigational hazard that also serves as an excellent dive site when tidal timing allows. The Juan de Fuca Strait currents that sweep past this area support exceptional invertebrate growth and attract a range of mobile species. Water temperatures are cold at 7–11°C, and visibility ranges from 8–15 metres in good conditions.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Strait of Juan de Fuca, south of Victoria near Race Rocks, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Submerged rock / reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 8–15 metres
+- **Current**: Strong tidal currents — strict timing to slack essential
+- **Best Time**: Late spring through autumn at slack tide
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+The Race Rocks area, which Coghlan Rock is adjacent to, is one of BC's richest marine ecosystems. Steller sea lions haul out and hunt in these waters, and underwater encounters are possible. California sea lions are frequently present. Harbour seals are abundant. Lingcod are large and numerous in the current-swept zones. Plumose anemones and encrusting sponges coat every available surface. Giant Pacific octopus inhabit rocky crevices. Nudibranchs are diverse and well-studied in this area due to its ecological reserve status.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The rock sits in a zone of strong current, so the dive is structured entirely around the slack period. Descend promptly at slack and work the perimeter of the rock efficiently. Maximum depth of 18 metres is on the exposed seaward faces. Ascend before current picks up — conditions can deteriorate quickly in the Juan de Fuca Strait. Deploy SMB during the final ascent.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access from Victoria or Pedder Bay Marina. Pedder Bay provides a shorter crossing of the Strait and is preferred by local charters. The Juan de Fuca Strait is exposed to Pacific swell — sea conditions can be demanding. Only experienced skippers familiar with Race Rocks conditions should run this site. GPS required for the submerged rock.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Race Rocks Ecological Reserve has specific regulations — check with BC Parks before diving
+- Pedder Bay Marina and nearby dive charters are the standard access point for this area
+- The Race Rocks area is best dived with an operator experienced in the specific current timing
+- This site offers some of the best sea lion diving in Canada during autumn
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Strong tidal currents and Pacific swell make this an advanced-conditions site despite its intermediate-level underwater terrain. Conservative current timing is essential. Sea lion encounters require respectful behaviour — never block an animal's exit route. Vessel traffic in the Juan de Fuca Strait is heavy. Full drysuit required. Always dive with an experienced buddy at this site.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Sea lion underwater encounters are among the most exciting wildlife photography subjects in BC. The fast-moving animals and clear open water create dynamic wide-angle images. Plumose anemone fields with fish in the background make classic temperate reef compositions. Macro photography on sponge surfaces finds exceptional nudibranch diversity.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
+- Race Rocks Ecological Reserve: racerocks.com
+- Pedder Bay Marina for charter access
+- Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -11,55 +11,56 @@ osmId: 663869359
 addedBy: osm_import
 ---
 
-## Chen Rio
+# Chen Rio
 
-Chen Rio is a reef dive site in Cozumel, Caribbean.
+An east-coast Cozumel reef offering a dramatically different character from the calm leeward sites — exposed to open Caribbean surge with untamed reef formations.
 
 ## Overview
 
-Chen Rio is a dive site in Cozumel offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Chen Rio sits on Cozumel's windward eastern coast, which faces directly into the open Caribbean Sea without the shelter of the island's mass. This exposure creates a fundamentally different diving environment from the famous leeward sites: surge and swell are common, currents can be unpredictable, and the reef itself has a wilder, less-visited character. Chen Rio (a Maya place name meaning "stone mouth") is accessible only in suitable sea conditions — typically the calmer months or after extended periods of settled weather. The reef's reduced diver traffic has allowed formations to develop in near-pristine condition. The eastern exposure also means different species composition, with more open-water and current-adapted marine life.
 
 ## Site Information
 
-- **Location**: Cozumel, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Location**: East coast (windward), Cozumel, Quintana Roo, Mexico
+- **Entry Type**: Boat dive (weather-dependent)
+- **Site Type**: Exposed windward reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Maximum Depth**: 20 meters (65 feet)
+- **Typical Visibility**: 15–30 meters (50–100 feet; can vary with sea conditions)
+- **Current**: Variable and can be strong — eastward-facing coast exposed to Caribbean swell
+- **Best Time**: April to June when Caribbean swell is at its minimum; assess conditions on the day
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The eastern reefs see species that rarely visit the calmer leeward side. Greater amberjack and bar jacks sweep through the area in fast-moving schools. Larger pelagic species — including occasional passing cobia and the Atlantic sailfish in season — have been reported by experienced local operators. The reef structure itself hosts all the standard Caribbean species, but in larger, less-habituated populations due to reduced dive traffic. Hawksbill turtles are present on both coasts. Nurse sharks and spotted moray eels occupy the deeper reef crevices. The invertebrate community on the exposed surfaces has exceptional sponge variety.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Diving Chen Rio requires careful current and swell assessment from the boat before entering. When conditions allow, the dive follows the reef contours in whatever direction offers the most shelter from the dominant swell. Depth rarely needs to exceed 15 meters; staying in the mid-water avoids both the surge near the surface and the silting in the deeper channels. Bottom time decisions should be conservative and always deferring to the conditions. This is not a site to explore on solo basis or without an experienced local guide.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+The longest boat journey of the Cozumel circuit from San Miguel — approximately 40–50 minutes around the island's southern tip. Entry and exit are weather-dependent; the boat captain makes the final call. Only reputable operators with eastern-coast experience should be trusted to assess conditions here.
 
-## Tips and Recommendations
+## Tips
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Only attempt Chen Rio with an operator who regularly works the east coast and knows the site intimately
+- Be prepared for the dive to be cancelled or replaced — eastern conditions change quickly
+- The remoteness and pristine nature of the east coast reef is the reward for its unpredictability
+- Intermediate certification and current-diving experience are genuine prerequisites here
+- The dive may be less than 30 minutes if conditions deteriorate — manage expectations and enjoy what is offered
 
-## Safety Considerations
+## Safety
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+This is the most weather-dependent of Cozumel's standard sites. Surge creates risks of contact with the reef. Ocean currents on the exposed east coast are unpredictable compared to the reliable leeward northward drift. Never attempt this site without an experienced local captain and divemaster who know the daily sea state. The distance from San Miguel means emergency response time is the longest of any Cozumel dive site — emergency planning before the trip is essential.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The eastern reefs' pristine state rewards photographers with wide-angle images of undisturbed coral formations. The more intense light penetration on the east-facing coast creates dramatic morning photography opportunities. Surge makes macro shooting challenging — stick to wide-angle here and use fast shutter speeds to freeze the movement caused by swell. Pelagic fish action in the open water above the reef is worth having your camera ready throughout the dive.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

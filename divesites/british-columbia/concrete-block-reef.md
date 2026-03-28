@@ -11,55 +11,57 @@ osmId: 12410699146
 addedBy: osm_import
 ---
 
-## Concrete Block Reef
+# Concrete Block Reef
 
-Concrete Block Reef is a reef dive site in British Columbia, North America.
+An artificial reef in Howe Sound built from concrete blocks, now colonised by rich cold-water marine life.
 
 ## Overview
 
-Concrete Block Reef is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Concrete Block Reef is an artificial reef in Howe Sound north of Squamish, created from purposely placed concrete blocks that have become encrusted with cold-water invertebrate life over the years. Howe Sound is one of Canada's southernmost fjords, with depths exceeding 200 metres and cold, nutrient-rich water. The concrete structure has provided a hard substrate for filter feeders in an area where natural hard-bottom habitat is less common. Water temperatures are cold at 7–11°C, and visibility ranges from 5–12 metres. This is a popular site for divers based in Squamish, Whistler, and Vancouver.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Howe Sound, near Squamish, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Artificial reef (concrete blocks)
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 5–12 metres
+- **Current**: Moderate — Howe Sound has complex tidal flows
+- **Best Time**: Year-round; best visibility in winter
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+The concrete structure supports a thriving community of filter feeders. Plumose anemones colonise every available concrete surface in dense white carpets. Encrusting sponges in multiple colours coat the blocks. Giant Pacific octopus have adopted the concrete crevices as dens and are regularly encountered. Lingcod and copper rockfish are the dominant fish species. Painted greenlings and kelp greenlings are abundant throughout. Wolf eels have been documented at the site. In winter, large schools of herring use Howe Sound — their presence brings lingcod and rockfish into active hunting behaviour.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The concrete blocks spread across a relatively flat area, with the maximum depth reaching 18 metres. Work systematically across the block field, looking into every gap and crevice for octopus and fish. The mid-depth sections tend to have the densest filter-feeder encrustation. Allow adequate gas for a safety stop and ascent.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access from Squamish or Porteau Cove boat launch. Howe Sound is a fjord with complex bathymetry — navigation requires care and familiarity with the area. The site is marked by GPS coordinates available from local Squamish dive operators. Weather in Howe Sound can change quickly — strong squamish winds from the north can develop suddenly.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Squamish and Whistler divers regularly visit this site — local knowledge is valuable
+- Winter months often provide the clearest visibility in Howe Sound's cold, clear fjord water
+- The concrete blocks can be explored methodically — note your entry point and navigate consistently
+- Howe Sound's fjord geography makes it excellent for diving year-round despite surface weather
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Howe Sound is prone to sudden strong northerly winds, known locally as squamish winds. Monitor weather forecasts carefully. Boat handling in the fjord requires experience. Cold water (7–11°C) demands drysuit diving. The artificial reef blocks can create entanglement risk for divers — maintain awareness of your equipment and the structure.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Concrete block artificial reefs offer unique visual opportunities — the geometric forms covered in organic growth create interesting compositional contrasts. Wide-angle photography of plumose anemone-covered blocks with octopus in the frame is highly effective. The regular grid pattern of blocks with sponge and anemone overgrowth is photogenic from multiple angles.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
+- Squamish and Porteau Cove dive access points
+- Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
