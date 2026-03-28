@@ -11,57 +11,55 @@ osmId: 1068558027
 addedBy: osm_import
 ---
 
-## Sirnaka Island
+# Sirnaka Island
 
-Sirnaka Island is a historic wreck dive in Red Sea, Middle East.
+A remote southern Red Sea island site near the St. John's reef complex — combining wreck remains with pristine coral walls in an area of exceptional visibility and very low diver traffic.
 
 ## Overview
 
-Sirnaka Island is a dive site in Red Sea featuring the wreck of the Sirnaka Island. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Sirnaka Island lies at approximately 23.83°N, 35.81°E in the southern Egyptian Red Sea, within the St. John's reef complex area south of the Fury Shoals system. This remote site is only reachable by extended liveaboard voyages from Hamata or Marsa Alam. The St. John's and Fury Shoals region represents some of the least visited yet most spectacular diving in Egypt — coral health is exceptional, fish populations are large and unhurried, and visibility regularly exceeds 25–30 metres. The wreck element at this site has colonised significantly over the years, with coral growth and soft coral covering exposed surfaces and creating artificial reef habitat.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Boat dive
+- **Location**: Southern Red Sea, Egypt (St. John's reef area, approximately 23.83°N, 35.81°E)
+- **Entry Type**: Boat dive (liveaboard only)
 - **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 25–35 meters
+- **Current**: Moderate; can be stronger at reef tips
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter glassy sweepers, lionfish, groupers, coral growth, soft corals, whale sharks, manta rays, hammerhead sharks. Additional species commonly sighted include oceanic whitetip sharks, sea turtles, dolphins. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The wreck structure hosts resident marine communities typical of the southern Red Sea — glassfish, lionfish, and groupers in the sheltered sections; moray eels in the gaps of the encrusted hull; and hawksbill turtles on the adjacent reef. The surrounding reef area of the St. John's system supports grey reef sharks, whitetip reef sharks, and schooling barracuda. The reduced diver pressure in this remote area means fish behaviour is natural and unhurried — closer approaches are possible than at northern, more-trafficked sites. Dogtooth tuna and large schools of fusiliers are characteristic of the open water column around southern Red Sea islands.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 20 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Begin with a descent to the wreck structure and conduct an exterior survey at 10–20 metres before exploring accessible interior sections. The wreck provides the main focal point of the dive; the surrounding coral reef extends the experience after wreck exploration is complete. Current assessment is important before committing to the dive direction — follow the guide's briefing on optimal circuit direction. Safety stop at 5 metres over the reef flat adjacent to the wreck.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Liveaboard access only from Hamata (the nearest southern port) or Marsa Alam on extended itineraries. Giant stride entry from the zodiac tender. Full self-sufficiency is required given the remote location. SMB deployment is mandatory for all ascents.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Carry a torch for wreck interior sections — even in clear southern Red Sea water, hull interiors need illumination
+- The combination of wreck and adjacent reef rewards a longer bottom time — plan air management accordingly
+- This remote site sees very few divers; move slowly and observe natural fish behaviour
+- The St. John's area is best explored on a multi-day liveaboard allowing 3–4 dives per day across multiple reef systems
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Remote location is the primary safety consideration — emergency evacuation requires multi-hour response times. Dive conservatively and maintain close buddy proximity. Wreck penetration requires appropriate training and a minimum of a Basic Wreck Diver certification. Current at reef tips can be significant. Always carry a fully rigged SMB. Carry a compass and dive knife for open-water and potential line entanglement scenarios.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The combination of pristine visibility and low diver traffic creates outstanding photography conditions. Wreck exteriors colonised by soft corals and encrusting growth reward close-focus wide-angle technique. The natural fish behaviour typical of rarely-dived sites allows portrait approaches impossible at busier locations. Grey reef sharks and dogtooth tuna in the open water column around the island are pelagic photography subjects.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

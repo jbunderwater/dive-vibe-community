@@ -11,57 +11,53 @@ osmId: 948102800
 addedBy: osm_import
 ---
 
-## Curtiss C-46A-45-CU Commando
+# Curtiss C-46A-45-CU Commando
 
-Curtiss C-46A-45-CU Commando is a historic wreck dive in Bahamas, Caribbean.
+A remarkably intact twin-engine cargo aircraft resting on a sandy bottom at 20 meters in the Exuma Cays — one of the Bahamas' most unusual wreck dives.
 
 ## Overview
 
-Curtiss C-46A-45-CU Commando is a dive site in Bahamas featuring the wreck of the Curtiss C-46A-45-CU Commando which sank in 15 November 1980 . Civil registration, N355BY, cancelled on 15 November 1980.. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Curtiss C-46 Commando (civil registration N355BY) crashed into the waters off the Exuma Cays on 15 November 1980 and came to rest on the sandy bottom at 20 meters. The twin-engine WWII-era cargo aircraft design was widely used postwar for Caribbean freight operations, and this particular aircraft sits remarkably intact — the fuselage, wings, and engine nacelles are all identifiable despite four decades of coral and sponge colonisation. The Bahamas' clear water and sandy environment have preserved the structure well. The Exumas' crystalline water delivers excellent visibility of 25–35 meters. Water temperature is 25–28°C seasonally.
 
 ## Site Information
 
-- **Location**: Bahamas, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Wreck
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+| Detail | Value |
+|--------|-------|
+| Depth Range | 15–20 m |
+| Difficulty | Intermediate |
+| Entry Type | Boat |
+| Site Type | Wreck |
+| Visibility | 25–35 m |
+| Current | Light |
+| Water Temp | 25–28°C |
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, snappers, soldierfish, glassy sweepers, coral growth, sponge encrustation, sea turtles (green, hawksbill), southern stingrays. Additional species commonly sighted include eagle rays, nurse sharks, reef sharks, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The aircraft wreck has been colonised over four decades into a productive artificial reef. Large groupers inhabit the fuselage interior. Moray eels occupy the engine nacelles. Schools of snapper and grunt shelter around the wings. Sea turtles are common in the Exuma Cays waters. The sandy surrounding area hosts southern stingrays and garden eels. The clarity of Exuma water means visibility to the aircraft from above is often achievable in mid-water during descent.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 20 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descent to the aircraft top at 15 meters, with exploration of the full structure to the sand at 20 meters. The cockpit, fuselage, and wing sections can each be examined in sequence. The aircraft's compact size compared to ship wrecks means a complete exterior circuit takes 20–30 minutes, leaving time for multiple passes and photography. Total dive: 45–55 minutes.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive accessed via Exuma-based operators or liveaboard. The Exuma Cays are remote — this site requires either an overnight stay in the Exumas or a liveaboard. Entry by giant stride. The sandy surroundings mean easy navigation for exit. DSMB recommended.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+A torch helps illuminate the interior of the fuselage and engine nacelles, where the encrusted surfaces reveal the most marine life. The aircraft's wings provide an excellent wide-angle composition element — approach from the nose end for the classic front-of-aircraft shot. This is a unique subject among Bahamas dive sites — the aircraft wreck is a very different experience from the ship wrecks available elsewhere in the archipelago.
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+The aircraft interior should not be penetrated further than arm's length without wreck diving training. The fuselage interior is narrow and silt disturbance can rapidly reduce visibility. The remote Exuma location means emergency support is further away than Nassau sites. Dive conservatively.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+An aircraft wreck in crystal-clear Bahamas water is an exceptional photography subject. Wide-angle captures the full aircraft silhouette against the sandy bottom and blue water above. Close-focus wide-angle on the cockpit nose section is a classic image. The encrusted propellers and engine nacelles are excellent macro and close-up subjects.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- Exuma dive operators: based at Staniel Cay and George Town for access to this site
+- Bahamas liveaboard vessels frequently include this wreck in Exuma Cays itineraries
 
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

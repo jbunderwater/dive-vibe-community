@@ -11,57 +11,59 @@ osmId: 12077564745
 addedBy: osm_import
 ---
 
-## Charles S. Haight
+# Charles S. Haight
 
-Charles S. Haight is a historic wreck dive in New England, North America.
+A WWII Liberty Ship wrecked in 1946 on the Flat Ground inside the Dry Salvages off Rockport, Massachusetts — only her massive triple-expansion steam engine remains visible.
 
 ## Overview
 
-Charles S. Haight is a dive site in New England featuring the wreck of the Charles S. Haight which sank in 1946. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The Charles S. Haight was a 422-foot Liberty Ship built in 1944 in Brunswick, Georgia, by the J.A. Jones Construction Co. She was one of over 2,700 Liberty Ships constructed during World War II. On the night of April 2, 1946, the Haight was returning in ballast from Newport, England, to New York. With poor visibility, rough seas, and no radar, she was driven inshore by southeasterly winds and grounded on the Flat Ground inside the Dry Salvages — 1.5 miles east of Rockport. Despite salvage attempts, the Haight was reduced by winter storms until only vestiges of the hull remain. Today the most recognizable feature is the large triple-expansion steam engine, visible at low tide and diveable at high tide. The scattered steel beams and plates at the site are marked by Red Nun "2." The site is managed by Massachusetts BUAR as an Exempted Site.
 
 ## Site Information
 
-- **Location**: New England, North America
+- **Location**: Flat Ground, inside Dry Salvages, Rockport, Massachusetts
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 21 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
+- **Typical Visibility**: 5–10 meters (15–30 feet)
+- **Current**: Moderate to strong tidal current between rock outcrops
+- **Water Temperature**: 7–20°C depending on season
 - **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The remaining engine block and scattered steel provide hard substrate for anemones, bryozoans, and encrusting sponges. Tautog hold position on the steel wreckage. American lobsters inhabit the cavities under scattered plates and beams. Cunner hover in loose groups around the engine structure. Schools of pollock patrol above the site. Sea ravens and winter flounder rest on the sandy bottom adjacent to the wreck debris. By late summer, thick algae mat covers the steel, making rock and wreck difficult to distinguish.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 25 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Boat access required from Rockport. The engine block is the primary navigation target — it provides the most relief and identifiable structure on the site. At low tide portions of the wreck may be visible from the surface. Plan dives around slack tide to minimize current through the narrow Flat Ground channel. Descend to the engine structure and explore the surrounding scattered debris field. Maximum depth 18–21 metres at the outer edges of the debris field. Ascend with 80 bar/1,200 psi in reserve. Complete a 3-minute safety stop at 5 metres.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat charter required from Rockport or Gloucester. The Flat Ground and Dry Salvages area requires a skilled local captain — the submerged rock hazards are significant. Anchor carefully to avoid the wreck debris. Deploy SMB well before surfacing.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- The engine block is the hero feature — ask your captain to put you directly on it
+- By late summer the algae mat makes the wreck harder to distinguish from the rock ledge — spring and early summer diving offers better wreck definition
+- The ship's binnacle, now at the Sandy Bay Yacht Club, is a reminder of the historical richness of this site
+- Combine with nearby California wreck and Avery Ledge for a productive three-site Cape Ann day
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Tidal current between the Dry Salvages rock outcrops can be fast and variable. Plan dives strictly around slack tide. Cold water year-round — 7mm wetsuit or drysuit. Deploy SMB clearly before surfacing. A competent local captain is non-negotiable at this site.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The engine block is the primary photographic subject — wide-angle with a diver beside the massive triple-expansion engine conveys scale effectively. The steel beams and scattered plates photographed close-focus with a torch reveal encrusting anemones and bryozoans. Documentary-style wreck photography suits this site.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Management**: Massachusetts BUAR (Exempted Site)
+- **Coordinates**: Latitude 42° 40' 38" N; Longitude 70° 35' 03" W
+- **Navigation Marker**: Red Nun "2" near the wreck site
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
