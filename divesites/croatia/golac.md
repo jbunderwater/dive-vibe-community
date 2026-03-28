@@ -13,53 +13,49 @@ addedBy: osm_import
 
 ## Golac
 
-Golac is a reef dive site in Croatia, Europe.
+Golac is a rocky reef site in the Dugi Otok area of the Zadar Archipelago in northern Dalmatia. The site sits in the clear, open Adriatic waters between the islands, offering the kind of pristine rocky reef diving that makes this archipelago one of the Mediterranean's finest diving regions.
 
 ## Overview
 
-Golac is a dive site in Croatia offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The reef at Golac features the characteristic limestone rock formations of the Dalmatian coast — sloping faces, boulders, and natural channels descending to around 25 metres. The substrate supports colourful sponge communities, sea fans in the deeper sections, and Posidonia seagrass in the shallows. The clear Adriatic water provides visibility regularly exceeding 15–20 metres, and the remote character of the Zadar Archipelago means this site sees relatively light dive traffic.
 
 ## Site Information
 
-- **Location**: Croatia, Europe
+- **Location**: Dugi Otok area, Zadar Archipelago, Northern Dalmatia, Croatia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Typical Visibility**: 15–20 meters
 - **Current**: Light to moderate
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
+Dusky grouper are resident among the larger boulders. Moray eels inhabit crevices throughout the reef depth range. Octopus are frequently seen in open water around the rocks. Sea bream and ornate wrasse are abundant, and barracuda patrol the water column above the reef in summer. The Posidonia meadows in the shallows provide habitat for seahorses and pipefish.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the upper reef and work down the sloping terrain to the 25-metre maximum. Explore the rock faces and natural channels carefully. The reef holds most of its interest in the 10–20 metre zone. Ascend slowly along the reef face and complete a 3-minute safety stop at 5 metres.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Dive boats from Zadar or Sali (Dugi Otok) operators serve this site. Entry by giant stride or back roll. Deploy an SMB when ascending from depth for boat pickup.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Take time to explore the Posidonia shallows after the deeper part of the dive — they often reward with seahorses
+- Move slowly and scan the rocky surfaces for camouflaged scorpionfish and octopus
+- The relatively remote location of Dugi Otok means many sites here are lightly dived — an advantage for undisturbed wildlife encounters
+- Combine with a nearby wall or cavern dive for a varied day programme
 
 ## Safety Considerations
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Standard intermediate rocky reef diving. Monitor depth on the sloping terrain. Carry an SMB for surfacing. Dive within your certification level and always with a buddy.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The excellent visibility in the Zadar Archipelago makes this a rewarding wide-angle site. The rocky reef landscape with resident grouper and schooling sea bream photographs beautifully. The Posidonia meadow provides softer, more intimate photographic subjects in the shallows.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

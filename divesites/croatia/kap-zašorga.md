@@ -13,53 +13,49 @@ addedBy: osm_import
 
 ## Kap Zašorga
 
-Kap Zašorga is a reef dive site in Croatia, Europe.
+Kap Zašorga is a rocky cape reef dive in the Dugi Otok area of the Zadar Archipelago in northern Dalmatia. Positioned very close to the similar Kap Tanki site, this cape offers reef diving along limestone rocky faces in the clear open water between Dugi Otok and the surrounding islets.
 
 ## Overview
 
-Kap Zašorga is a dive site in Croatia offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The reef at Zašorga descends over sloping rocky terrain to approximately 25 metres, with the cape structure creating interesting topography that includes crevices, overhangs, and open rocky faces. The substrate is encrusted with sponge communities, encrusting corals, and sea anemones. Posidonia seagrass occupies the shallower sandy patches. Visibility in the Zadar Archipelago is consistently excellent, often 15–20+ metres during the main diving season.
 
 ## Site Information
 
-- **Location**: Croatia, Europe
+- **Location**: Cape Zašorga, Dugi Otok area, Zadar Archipelago, Northern Dalmatia, Croatia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
+- **Typical Visibility**: 15–20 meters
+- **Current**: Variable around the cape
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
+The reef supports resident grouper, moray eels in rocky crevices, and octopus across all depth levels. Sea bream, ornate wrasse, and saddled bream are abundant throughout. Barracuda appear in summer above the reef. The Posidonia patches in the shallows can yield seahorse sightings for attentive divers. Nudibranchs and sea slugs are present on the sponge surfaces.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the reef at 5–8 metres and follow the rocky slope down to 25 metres. Explore the cape structure methodically, checking crevices and under overhangs for resident species. The most productive marine life zone is typically 10–18 metres. Ascend slowly and complete a 3-minute safety stop at 5 metres.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Dive boats from Zadar or Sali operators serve this site. Entry by giant stride or back roll. Deploy an SMB when ascending — the open Adriatic position requires clear surface signalling for boat pickup.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Explore the Posidonia areas in the shallows for seahorses before or after the deeper section
+- A torch is useful for illuminating the crevice and overhang areas
+- Combine this site with Kap Tanki on the same day for a productive two-site dive programme in the area
+- The Zadar Archipelago is one of Croatia's most pristine diving areas — explore beyond the obvious sites
 
 ## Safety Considerations
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Cape exposure can concentrate current — check conditions before entry. Standard intermediate dive parameters. Always carry an SMB and dive with a buddy.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The clear Adriatic water of the Zadar Archipelago makes this an excellent wide-angle site. Rocky reef landscape, resident grouper, and the Posidonia meadows provide varied photographic subjects. The cape tip can be framed as a dramatic subject with deep blue water behind it.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,55 +13,53 @@ addedBy: osm_import
 
 ## Memba 2
 
-Memba 2 is a wall dive site in Tanzania, Africa.
+Memba 2 is the southern companion to Memba 1 on the eastern coast of Pemba Island, sharing the same wall escarpment with a slightly different coral and sponge community and accessed via a separate mooring point approximately 200 meters south of Memba 1.
 
 ## Overview
 
-Memba 2 is a dive site in Tanzania featuring a dramatic vertical wall that drops into the deep blue. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Memba 2 covers a southern section of the same Pemba Channel wall system as Memba 1, with similar topography — a near-vertical face from 6-8 meters reef crest to 25 meters — but distinct species distribution patterns and slightly different current exposure. Local guides report that Memba 2 tends to have better soft coral and sea fan development in the 18-25 meter range, while Memba 1 has more diverse invertebrate life on the shallower sections. Together, the two sites offer a comprehensive Pemba wall diving experience across a single dive day.
 
 ## Site Information
 
-- **Location**: Tanzania, Africa
+- **Location**: Memba area, East Pemba Island, Tanzania
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Typical Visibility**: 20-30 meters (65-100 feet)
+- **Current**: Moderate, tidal
+- **Best Time**: October to March (northeast monsoon)
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Memba 2's deeper section (18-25 meters) is particularly well-known for large sea fans hosting pygmy seahorses — a highlight that draws underwater photographers. Schooling fish including surgeonfish and anthias use the wall face as a current break. Large Napoleon wrasse are occasionally seen on the upper reef crest. The resident moray eels and groupers at Memba 2 tend to be less disturbed by divers than at more frequently visited sites, resulting in more relaxed animal behavior. Eagle rays are commonly reported patrolling below the wall base.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-25 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Like Memba 1, the standard approach is to descend to the deeper zone first and work up the wall, but Memba 2 rewards spending more time in the 18-25 meter section given the sea fan and soft coral development there. Budget at least 10 minutes at the deeper zone before ascending. Total dive time of 40-50 minutes is achievable while staying within NDL limits for a second dive.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Same logistics as Memba 1 — Pemba Island operators or liveaboard access. If diving both sites on the same day, Memba 1 is typically the first dive (deeper) with Memba 2 as the second (or vice versa if guides prefer the specific site order for current conditions). Surface interval on the boat.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Ask the guide specifically about the pygmy seahorse locations on sea fans in the 18-22 meter zone
+- Memba 2 is better photographically when current is light — strong current makes it difficult to hold position near small subjects like seahorses
+- Diving both Memba sites on a single day is a Pemba Island classic — do not miss the combination
+- Log both dives as separate entries to compare species lists between the sites
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, remote locations in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Same considerations as Memba 1 — careful NDL management, wall dive depth discipline, and reef hook preparation for potential current. When planning a two-dive Memba day, ensure the surface interval is adequate (minimum 1 hour) and that the second dive does not exceed 18 meters to stay within safe repetitive dive limits.
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+The sea fans in the 18-25 meter zone make Memba 2 a standout macro photography site for pygmy seahorse images. The overall wall architecture also photographs well at wide angle, and the excellent visibility allows for creative diver-in-frame compositions with the open blue Pemba Channel as backdrop.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

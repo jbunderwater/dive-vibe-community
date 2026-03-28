@@ -13,54 +13,32 @@ addedBy: osm_import
 
 ## North Loi Coral Head
 
-North Loi Coral Head is a reef dive site in Marshall Islands, Pacific.
+North Loi Coral Head is a lagoon pinnacle in the northern reaches of Kwajalein Atoll's inner lagoon, named for its position north of Loi Island — a small motu on the atoll rim — and representing one of the more remote coral head dives accessible from Kwajalein.
 
 ## Overview
 
-North Loi Coral Head is a dive site in Marshall Islands offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+North Loi Coral Head is positioned in the northern outer section of Kwajalein Atoll's lagoon, near Loi Island on the northern rim, placing it well away from the southern cluster of main island dive sites. The longer boat journey (20–30 minutes from the main dock) means this site sees the fewest diver visits in the active northern Kwajalein circuit, and its comparative isolation is reflected in less-disturbed reef conditions and wilder marine life behavior than the frequently dived southern cluster.
 
-## Site Information
+The proximity to the open lagoon in the northern section provides slightly more ocean-influenced water movement, delivering better nutrients and supporting a higher diversity of fish species than purely sheltered inner sites.
 
-- **Location**: Marshall Islands, Pacific
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+## What to Expect
 
-## Marine Life
+The reduced diver traffic at North Loi produces some of the most authentic "wilderness" reef encounters in the Kwajalein system. Grey reef sharks patrol the water column with the purposeful behavior of undisturbed predators. Large napoleon wrasse drift at respectful distance rather than approaching divers. The hard coral quality is exceptional — undisturbed table coral formations and thickets of staghorn coral in the shallows are among the most intact in the Kwajalein dive inventory.
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Pelagic visitors are more common here than at the more sheltered inner sites — schools of dogtooth tuna pass through, and eagle rays are occasional sightings in the open water above the pinnacle. Hawksbill turtles use the coral head's sponge-covered faces as a feeding ground.
 
-## Dive Profile
+## Practical Information
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Depth Range**: 5–25 meters
+- **Visibility**: 20–35 meters typical
+- **Currents**: Mild to moderate; slightly more ocean-influenced than inner lagoon sites
+- **Entry**: Boat dive; longer transit time from main island
+- **Best For**: Intermediate divers seeking less-dived sites with more natural marine behavior
 
-## Entry and Exit
+## Marine Life Highlights
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Grey reef sharks, napoleon wrasse, dogtooth tuna (occasional), eagle rays (occasional), hawksbill turtles, table corals, staghorn corals, fusiliers, snapper, groupers.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

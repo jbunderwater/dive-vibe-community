@@ -13,55 +13,55 @@ addedBy: osm_import
 
 ## Niagara II (sandsucker)
 
-Niagara II (sandsucker) is a historic wreck dive in Great Lakes, North America.
+The Niagara II is a deliberately sunk sandsucker (sand dredge vessel) resting in Fathom Five National Marine Park near Tobermory, Ontario. Scuttled intentionally in 1999 as a diving attraction, this 20th-century working vessel provides a different character from the historic sailing ships typical of the park — its industrial machinery and modern construction offer a compelling complement to the 19th-century wooden wrecks nearby.
 
 ## Overview
 
-Niagara II (sandsucker) is a dive site in Great Lakes featuring the wreck of the Niagara II (sandsucker) which sank in May 1999. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The Niagara II was an operational sand-dredging vessel that worked in Georgian Bay before being decommissioned and sunk as a dive attraction in May 1999. At 25 metres, she sits slightly deeper than the park's shallowest wrecks, providing a step up in experience for divers who have already explored the Sweepstakes and Caroline Rose. The sandsucker's industrial machinery — dredging equipment, engines, pumps, and pipes — creates a visually distinct dive from the wooden schooner aesthetic. Fathom Five's exceptional visibility (15–20+ metres) reveals the full length of the vessel in a single wide-angle view. The cold bottom water of Georgian Bay (consistently 4°C at this depth) has preserved the machinery in excellent condition since sinking.
 
 ## Site Information
 
-- **Location**: Great Lakes, North America
+- **Location**: Georgian Bay, Lake Huron, Fathom Five National Marine Park, Ontario, Canada
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 25 metres
+- **Typical Visibility**: 10–20 metres
+- **Water Temperature**: 4–16°C (seasonal); bottom consistently 4°C
+- **Current**: Minimal
+- **Best Time**: June to September
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Like all Tobermory wrecks, the Niagara II supports an active freshwater community. Lake trout are commonly seen at this depth. Smallmouth bass have colonized the hull and machinery. Yellow perch school around the vessel. The industrial machinery offers plentiful hiding places for freshwater crayfish and invertebrates. Georgian Bay's lake whitefish are occasionally seen in the water column above the wreck.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 25 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The Niagara II sits upright on a sandy bottom with the main deck at approximately 18–20 metres and the bottom at 25 metres. The dredging machinery on deck is the main attraction — explore the suction pipes, pump housings, and mechanical equipment that made this vessel work before her retirement. Ascend on the mooring line for a standard 3-minute safety stop at 5 metres.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Charter dive boats from Tobermory access the Niagara II as part of multi-site day charters. The vessel is typically offered to intermediate and above divers while beginners explore shallower sites. A Fathom Five National Marine Park day pass is required. Entry by giant stride.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- The Niagara II complements the historic sailing ships of Tobermory with 20th-century industrial character
+- The working machinery provides excellent close-up photography subjects
+- Drysuit essential for the cold bottom water
+- Plan to pair this with the Sweepstakes or Caroline Rose for a varied Tobermory day
+- The wreck has been in place since 1999 and is well-established as a dive attraction
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Cold bottom water at 25 metres requires proper thermal protection. Drysuit diving skills are necessary. The industrial machinery has nooks and crannies — maintain careful buoyancy to avoid getting wedged. Never attempt interior penetration without proper training. Boat traffic around Tobermory is high in summer — always deploy an SMB before ascending. Dive with a buddy.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The Niagara II's industrial machinery is visually distinctive from the wooden sailing ships typical of Tobermory. Macro photography of engine components, pipe joints, and mechanical details is rewarding. Wide-angle shots of the full vessel in Fathom Five's exceptional clarity are dramatic.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

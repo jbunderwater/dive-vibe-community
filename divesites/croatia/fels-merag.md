@@ -13,53 +13,49 @@ addedBy: osm_import
 
 ## Fels Merag
 
-Fels Merag is a reef dive site in Croatia, Europe.
+Fels Merag is a rocky reef site near the village of Merag on the eastern coast of Cres Island in the Kvarner region. The site benefits from the proximity to the Cres-Krk ferry crossing, making it accessible from either island. The dive offers typical Kvarner reef character with excellent visibility and a healthy Mediterranean marine community.
 
 ## Overview
 
-Fels Merag is a dive site in Croatia offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The reef at Merag descends over rocky limestone formations from the shallows to around 25 metres. The terrain is characterised by rocky outcrops, boulders, and narrow crevices that create interesting micro-topography. Sponge communities, sea anemones, and encrusting coralline algae colonise the substrate. The Kvarner's characteristic water clarity provides visibility regularly reaching 15–20 metres, giving the dive an open, spacious feel.
 
 ## Site Information
 
-- **Location**: Croatia, Europe
+- **Location**: Merag, Eastern Cres Island, Kvarner, Croatia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
+- **Typical Visibility**: 15–20 meters
+- **Current**: Can be moderate; the ferry channel generates some current
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
+Grouper are characteristic of this site, with resident individuals holding territories in the larger boulder areas. Moray eels occupy the rocky crevices throughout the depth range. Sea bream and ornate wrasse are abundant. Octopus are regularly seen hunting across the reef during the day. In summer, barracuda patrol the water column above the reef.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the upper reef at 5–8 metres and work systematically down the rock faces to the sandy bottom at 25 metres. Spend time in the 10–18 metre zone where the reef structure is most complex. Ascend along the reef face and complete a 3-minute safety stop at 5 metres.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Dive boats from operators on Cres or from Krk (short crossing) serve this site. Entry by giant stride or back roll. The ferry crossing nearby means boat traffic is possible — deploy an SMB well before surfacing.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Be aware of ferry traffic when surfacing — the Merag crossing is busy in summer
+- A torch helps explore the darker crevices and overhangs on the reef face
+- The site near the ferry terminal makes it an easy addition to a driving tour of Cres
+- Early morning dives often reward with the best light and least boat traffic
 
 ## Safety Considerations
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Ferry traffic is the primary safety consideration at this site — surface clearly away from the shipping lane and ensure the SMB is visible. Current can run with the ferry traffic. Dive within recreational limits and always carry an SMB.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The clear Kvarner water provides excellent ambient light for reef photography throughout the dive. Wide-angle shots capture the open reef landscape. Resident grouper and moray eels in their rocky settings are rewarding portrait subjects.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

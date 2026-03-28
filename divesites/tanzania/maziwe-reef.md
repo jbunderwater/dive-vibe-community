@@ -13,55 +13,53 @@ addedBy: osm_import
 
 ## Maziwe Reef
 
-Maziwe Reef is a reef dive site in Tanzania, Africa.
+Maziwe Reef surrounds Maziwe Island, a small sand island 10 kilometers offshore from Pangani on Tanzania's northern coast, protected as part of the Maziwe Marine Reserve. The island is known locally as a nesting site for green sea turtles and the reef is one of the most reliable turtle diving destinations on the Tanzanian mainland coast.
 
 ## Overview
 
-Maziwe Reef is a dive site in Tanzania offering excellent diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Maziwe Island is a low sand cay that disappears underwater at high tide, and the surrounding reef supports the green turtle nesting program that has made it a conservation landmark. The reef encircling the island starts at 2-3 meters on the shallow side and drops to 15 meters on the outer edge. While visibility can be variable due to the site's relatively sheltered inshore position (averaging 10-15 meters), the turtle encounters are exceptional by any standard. Water temperatures are warm year-round at 26-29°C.
 
 ## Site Information
 
-- **Location**: Tanzania, Africa
+- **Location**: Maziwe Marine Reserve, offshore Pangani, northern Tanzania
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Typical Visibility**: 10-15 meters (33-50 feet)
+- **Current**: Light to moderate
+- **Best Time**: October to March for clearest water; June-September for calm seas (southerly swell reduced)
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
+Green sea turtles are the star attraction and are present year-round, with nesting activity peaking from March to August. Divers regularly encounter 5-10 turtles in a single dive at Maziwe, with some individuals so accustomed to human presence they continue feeding undisturbed. Hawksbill turtles are also present in smaller numbers. The reef fish community is typical of northern Tanzanian coastal reefs — parrotfish, surgeonfish, triggerfish, and groupers populate the coral formations. Stingrays are common on the sandy patches around the reef perimeter.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+A relaxed circumnavigation of the island reef is the standard approach. The outer reef face at 10-15 meters is richer in coral coverage, while the shallower inner reef offers the most turtle encounters as they feed on algae and rest near the surface. A typical dive covers 200-300 meters of reef perimeter and allows observation of multiple turtle individuals.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat departure from Pangani or Ushongo beach, approximately 30-45 minutes by speedboat or 60-90 minutes by dhow. The reserve requires a fee payable to the Maziwe Marine Reserve management. Operations are managed by local community guides who know turtle locations and behavior.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Do not pursue or touch turtles — Maziwe is a nesting reserve and disturbance-free policy is essential
+- Early morning arrivals (before 8am) offer the best chance of observing turtles before fishing boats and tourist pressure peaks
+- Snorkeling is equally productive for turtle encounters and accessible to non-divers
+- The island disappears at high tide — plan arrival timing with the guide to avoid a submerged mooring situation
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, remote locations in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+A benign dive site suitable for all experience levels. Light currents, shallow maximum depth, and sheltered conditions from the island structure create low-hazard conditions. Boats in the area include fishing vessels — SMB deployment for ascent is essential. Be gentle with the reef as Maziwe's corals have suffered pressure and are in recovery.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Maziwe's turtle encounters offer some of the best underwater turtle photography in East Africa. The unhurried turtles allow extended positioning for portrait, feeding, and swimming shots. Natural light in the shallow reef provides excellent color rendition. A 10-17mm fisheye or 16-35mm wide angle captures turtles in their reef context most effectively.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

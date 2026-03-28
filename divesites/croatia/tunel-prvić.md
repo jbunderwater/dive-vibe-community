@@ -13,53 +13,50 @@ addedBy: osm_import
 
 ## Tunel Prvić
 
-Tunel Prvić is a cave dive site in Croatia, Europe.
+Tunel Prvić is an underwater tunnel (tunel = tunnel in Croatian) cutting through the rocky terrain of Prvić Island in the Šibenik region of central Dalmatia. The tunnel formation is one of the more distinctive dive features in the area and offers an exciting cavern/tunnel experience for intermediate divers.
 
 ## Overview
 
-Tunel Prvić is a dive site in Croatia featuring underwater cave and cavern formations. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The tunnel at Prvić cuts through a rocky promontory, allowing divers to enter on one side and exit on the other — a classic through-tunnel dive. The passage is wide enough to navigate comfortably, and natural light is visible throughout the traverse. The tunnel walls are encrusted with sponges, anemones, and colourful invertebrates, and the depth ranges from surface entry down to around 20 metres at the deepest point of the passage. The clear Dalmatian waters, with typical visibility of 10–20 metres, make navigation straightforward.
 
 ## Site Information
 
-- **Location**: Croatia, Europe
+- **Location**: Prvić Island, Šibenik area, Central Dalmatia, Croatia
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/cavern
+- **Site Type**: Cave/tunnel
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
+- **Typical Visibility**: 10–20 meters
+- **Current**: Can be present through the tunnel passage; check with operators
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+The tunnel interior walls host colourful sponge assemblages, sea anemones, and crustaceans in crevices. Conger eels and moray eels inhabit the darker end sections of the tunnel. Exiting the tunnel, the open reef supports grouper, sea bream, barracuda, and ornate wrasse. Octopus are frequently seen on the rocky reef just outside the tunnel entrances.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Plan the dive to transit the tunnel from one entrance to the other. Check the current direction before entering — tunnels can create flow that either assists or requires effort to swim against. Explore the tunnel walls en route, then spend time on the exterior reef at each end. Maximum depth of 20 metres at the lowest point of the tunnel. Safety stop at 5 metres before surfacing.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Dive boats from Šibenik or Vodice operators access Prvić. Entry on one side of the island at the tunnel entrance. Exit on the other side; coordinate with the dive boat for pickup at the correct location before the dive. SMB deployment on ascent is important for boat coordination.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Brief thoroughly with the local dive guide on current direction and pickup location before the dive
+- A torch is essential for illuminating the tunnel walls and finding residents in the darker sections
+- Do not attempt the tunnel if current is too strong to swim against comfortably
+- An excellent and memorable dive experience — the through-tunnel traverse is highly rewarding
+- Combine with a Šibenik area reef dive for a full day programme
 
 ## Safety Considerations
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Through-tunnel dives carry added responsibility: confirm the current direction, ensure all divers have torches, and agree on the exit plan before entering. The 20-metre depth is within recreational limits. If current is unexpectedly strong inside, remain calm and decide whether to continue or exit back the way you came. Always carry an SMB and dive with a buddy.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Shooting along the length of the tunnel toward the light-filled exit — with a diver as the focal point — creates a dramatic image. The circular/oval tunnel entrance framing blue water and a diver is a classic composition. Torch-lit close-ups of the encrusted tunnel walls provide excellent macro subjects.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

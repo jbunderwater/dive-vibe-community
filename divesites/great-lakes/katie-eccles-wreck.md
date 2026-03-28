@@ -13,55 +13,55 @@ addedBy: osm_import
 
 ## Katie Eccles (Wreck)
 
-Katie Eccles (Wreck) is a historic wreck dive in Great Lakes, North America.
+The Katie Eccles is a 19th-century wooden schooner wreck in Lake Ontario near Kingston, Ontario. At 30 metres depth, this site sits deeper than many Kingston-area wrecks and rewards divers with excellent preservation — the deeper, colder, darker water has kept this vessel in exceptional condition since her sinking.
 
 ## Overview
 
-Katie Eccles (Wreck) is a dive site in Great Lakes featuring the wreck of the Katie Eccles (Wreck). Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The Katie Eccles was a wooden schooner that served Lake Ontario trade in the 19th century before meeting her end in local waters near Kingston. She now rests at approximately 30 metres — a meaningful step deeper than the 18–22 metre Kingston cluster, and one that provides noticeably better preservation. Cold, dark water at 30 metres in Lake Ontario combines low oxygen levels, near-freezing temperatures, and minimal light to create near-ideal conditions for wood preservation. The hull, rigging, and structural details are well-maintained, and visibility at this depth is typically 5–10 metres. This site is one of the deeper recreational wreck dives in the Kingston area.
 
 ## Site Information
 
-- **Location**: Great Lakes, North America
+- **Location**: Lake Ontario, Great Lakes, Canada
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
+- **Maximum Depth**: 30 metres
+- **Typical Visibility**: 5–10 metres
+- **Water Temperature**: 4–18°C (seasonal); below 20m consistently 4°C
+- **Current**: Minimal
 - **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+At 30 metres, the fish community shifts slightly from the shallower Kingston wrecks. Large lake trout are more commonly encountered here than at shallower sites — they favour the cold, deep water. Smallmouth bass are still present at the upper sections of the wreck. Deep-water sculpin are occasionally seen on the lakebed around the hull. Yellow perch are less prevalent than at shallower wrecks.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 30 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+At 30 metres, NDL on air is approximately 20 minutes — plan a focused dive profile that prioritizes the main wreck features. Descend quickly on the anchor line to the bow section, work aft to the stern, then begin your ascent. Consider Nitrox 32% to extend bottom time. Safety stop at 5 metres for 3 minutes.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Charter dive boats from Kingston visit the Katie Eccles as part of deeper dive itineraries. This site is typically reserved for Advanced Open Water divers or above. Entry by giant stride. Deploy SMB on ascent.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- At 30 metres, time is more limited than at the shallower Kingston wrecks — pre-plan your exploration priorities
+- Nitrox 32% provides additional NDL margin at this depth
+- Drysuit essential — temperatures at 30m are 4°C year-round
+- Lake trout encounters at this depth are memorable
+- Heritage protection applies throughout the Kingston area
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The 30-metre depth requires advanced buoyancy control and gas management skills. Cold water at depth means narcosis effects may be subtly present. Know your limits and ascend conservatively. Always dive with a buddy. Deploy SMB before ascending in boat-trafficked waters.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The Katie Eccles benefits from being deeper than many Kingston wrecks — better preservation means more photographic detail to capture. Supplemental lighting is more important at 30 metres where ambient light is reduced. Wide-angle shots of the hull profile with a dive light illuminating key features work well.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

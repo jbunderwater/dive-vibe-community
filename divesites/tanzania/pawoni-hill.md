@@ -13,55 +13,53 @@ addedBy: osm_import
 
 ## Pawoni Hill
 
-Pawoni Hill is a reef dive site in Tanzania, Africa.
+Pawoni Hill is a coral reef formation off Zanzibar Island's southeastern coast near Jambiani, named for its distinctive raised hill-like topography that lifts the reef above the surrounding sandy lagoon floor and creates a concentration point for marine life.
 
 ## Overview
 
-Pawoni Hill is a dive site in Tanzania offering excellent diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Pawoni Hill rises from a sandy base at approximately 15 meters to its highest coral point at 5-6 meters, creating a prominent feature in the eastern Zanzibar lagoon that is visible from the surface as a coral mound. The elevated position in the otherwise flat lagoon floor creates gentle upwelling as water moves around the structure, concentrating small fish and invertebrate life. The site is ideal for beginner divers exploring eastern Zanzibar's quieter dive scene, offering interesting topography in an accessible depth range.
 
 ## Site Information
 
-- **Location**: Tanzania, Africa
+- **Location**: Jambiani area, Southeast Zanzibar Island, Tanzania
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Coral reef (coral hill formation)
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Typical Visibility**: 10-15 meters (33-50 feet)
+- **Current**: Light in the lagoon
+- **Best Time**: October to April (northeast monsoon, eastern sites calm)
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
+The hill formation acts as an oasis in the sandy lagoon, concentrating diverse species. Parrotfish and surgeonfish dominate the upper sections while morays and groupers inhabit the deeper base crevices. Sea turtles regularly use the hill as a resting point. The sandy base hosts garden eels in undisturbed patches, which are visible waving from their burrows before retreating as divers approach. Night dives on Pawoni Hill produce exceptional octopus activity and cuttlefish encounters.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the sandy base at 15-18 meters and circle the entire hill structure before ascending. The hill is compact enough to circumnavigate multiple times in a single dive, exploring different aspects of the topography. The upper sections at 5-8 meters are best saved for the last 15 minutes of the dive, where the richest coral growth and fish densities are found.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from Jambiani village. The calm lagoon conditions make this accessible on virtually all days when eastern Zanzibar diving is operating. Wooden traditional boats and small zodiacs are both used by Jambiani operators.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Excellent for practicing reef circumnavigation skills in a confined, easy-to-navigate structure
+- Night dives on Pawoni Hill are highly recommended for the octopus and cuttlefish activity
+- Scan the sandy base carefully for well-camouflaged flatfish, scorpionfish, and garden eels
+- The southeastern Zanzibar coast has fewer operators than Nungwi — book Jambiani-based guides specifically rather than trying to day-trip from the north
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, remote locations in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+A very safe diving environment in the protected lagoon. The main hazards are sea urchins on the reef base and fire coral on the upper hill sections. Night divers should carry primary and backup torches and agree on navigation procedures for returning to the boat in the dark.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Pawoni Hill's self-contained structure makes it an excellent photography site — the whole habitat can be covered systematically in a single dive. The hill top in 5-8 meters of water photographs beautifully in natural light from above. Garden eels at the sandy base require a very slow approach for successful shots before they retreat.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

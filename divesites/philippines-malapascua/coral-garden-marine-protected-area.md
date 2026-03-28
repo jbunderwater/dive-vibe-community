@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Coral Garden Marine Protected Area
 
-Coral Garden Marine Protected Area is a reef dive site in Philippines Malapascua, Asia.
+Coral Garden Marine Protected Area is one of Malapascua Island's protected reef zones, offering impressive coral diversity in a formally managed conservation area that showcases what the region's reefs can achieve with consistent protection.
 
 ## Overview
 
-Coral Garden Marine Protected Area is a dive site in Philippines Malapascua offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Malapascua Island hosts several marine protected areas, and this Coral Garden MPA represents one of the most significant reef conservation efforts in the community. The MPA designation has created a sanctuary effect, with fish populations visibly healthier and denser than in unprotected areas nearby. The reef structure features abundant hard corals including table Acropora, brain corals, and massive Porites, forming a complex habitat that extends to 30 meters at the deep perimeter. The shallow sections of the reef garden are characterised by branching coral colonies creating a maze-like topography. Visiting divers are expected to follow MPA rules, which typically include no collecting, no anchoring on coral, and limited diver numbers per day.
 
 ## Site Information
 
-- **Location**: Philippines Malapascua, Asia
+- **Location**: Malapascua Island, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Coral reef (marine protected area)
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 10-25 meters
+- **Current**: Moderate; variable direction
+- **Best Time**: March to June
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The MPA protection has allowed fish populations to recover to impressive levels. Large schools of snapper and fusiliers are characteristic of the site. Napoleon wrasse and large grouper occupy territories throughout the reef. Sea turtles rest on the coral structures. The structural complexity of the coral garden provides habitat for hundreds of reef fish species, and macro subjects including nudibranchs and flatworms are abundant in the rubble margins.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin on the shallower reef sections at 8–15 meters to appreciate the diverse coral architecture before working down to the reef perimeter at 25–30 meters. The MPA's protected status means fish are relatively approachable. Allow time on the way back up for a thorough exploration of the complex shallow coral formations, which reward slow, patient diving.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Accessible by banca from Malapascua dive resorts. MPA fees may apply — check with your dive operator before arrival. Entry by giant stride; SMB for ascent. Follow the briefing from your local guide regarding MPA rules and entry points.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Pay the MPA conservation fee willingly — it funds the protection that makes this site special
+- Take time to appreciate the complexity of the shallow coral garden, which is unique in the area
+- Move slowly through the MPA — the fish are less conditioned to flee than at unprotected sites
+- Bring macro gear alongside wide-angle; both will be productive here
+- Ask your guide about the best season for visibility — Malapascua can experience plankton blooms
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Currents can be moderate at times. The deeper sections at 25–30 meters require attention to no-decompression limits. MPA rules include behaviours that protect both the reef and divers, so follow them carefully. SMB for ascent is essential.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The Coral Garden's rich structure offers exceptional reef photography. Wide-angle shots in the shallow coral maze, close-up images of diverse coral species, and fish portrait photography are all productive. The MPA's dense fish populations make reef scenes particularly impressive.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

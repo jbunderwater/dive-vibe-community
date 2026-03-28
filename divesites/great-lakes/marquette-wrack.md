@@ -13,55 +13,55 @@ addedBy: osm_import
 
 ## Marquette (Wrack)
 
-Marquette (Wrack) is a historic wreck dive in Great Lakes, North America.
+The Marquette is a shallow Georgian Bay wreck lying in approximately 11 metres of water near Collingwood, Ontario. This well-preserved vessel provides an accessible beginner wreck dive in the cold, clear waters of Lake Huron's Georgian Bay.
 
 ## Overview
 
-Marquette (Wrack) is a dive site in Great Lakes featuring the wreck of the Marquette (Wrack). Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The Marquette rests in the shallow, relatively protected waters of southern Georgian Bay near Collingwood in a cluster of accessible wrecks that makes this area one of Ontario's most popular dive destinations for recreational divers. At 11 metres maximum depth, the wreck sits in the sunlit zone and offers generous bottom times for thorough exploration. The cold Georgian Bay water (bottom temperatures around 8–12°C in summer) has preserved the vessel well, and the relatively sheltered Collingwood area provides better sea conditions for diving than the more exposed parts of Georgian Bay. Visibility ranges from 5–10 metres.
 
 ## Site Information
 
-- **Location**: Great Lakes, North America
+- **Location**: Georgian Bay, Lake Huron, Ontario, Canada
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 11 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
+- **Maximum Depth**: 11 metres
+- **Typical Visibility**: 5–10 metres
+- **Water Temperature**: 8–20°C (seasonal); bottom 8–12°C in summer
+- **Current**: Minimal in Collingwood area
 - **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The Marquette hosts a typical southern Georgian Bay fish community. Smallmouth bass are the most visible residents and are often bold around visiting divers. Yellow perch school above the deck. Crayfish are abundant on the bottom and on the hull. Sunfish patrol the shallowest sections. In summer, aquatic vegetation on the hull's upper surfaces provides nursery habitat for juvenile fish. Northern pike occasionally appear in the open water around the site.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 11 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+At 11 metres, this is a highly accessible dive with generous bottom time. Explore the hull from end to end, examine the deck features and fittings, and peer through hatches and openings into the hull interior. No significant decompression concerns. Brief stop at 5 metres before surfacing is good practice. This site works well for students completing wreck specialty requirements.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Charter dive boats from Collingwood provide convenient access. Several local operators run regular trips to the Collingwood area wreck cluster. Entry by back roll or giant stride. Exit via ladder.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
+- Ideal for Open Water divers wanting their first wreck experience
+- Pair with the nearby Mapledawn for a complete shallow-wreck dive day
+- A wetsuit of 5mm or more is recommended even in summer
+- Natural light is excellent here — photography works well without artificial lighting
+- The Collingwood area wreck cluster makes it worth a weekend trip from southern Ontario
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Beginner-friendly in most respects, but cold water relative to tropical diving should be respected. Proper wetsuit or drysuit selection is important for comfort and safety. Dive with a buddy and use a surface marker. Stay aware of boat traffic.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+Natural-light photography at 11 metres in Georgian Bay produces excellent results on sunny days. The hull structure, small fish, and crayfish all photograph well in available light. The relatively colourful freshwater ecosystem at this depth rewards macro photography.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

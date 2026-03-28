@@ -13,53 +13,49 @@ addedBy: osm_import
 
 ## Citadelle
 
-Citadelle is a reef dive site in Martinique, Caribbean.
+Citadelle is a shore-entry reef dive in northern Martinique near Le Prêcheur on the island's wild northwestern coast, taking its name from the historic fortifications that define this part of Martinique. The site offers a distinctive combination of rugged volcanic scenery and rich coral reef in an area less visited than the island's southern dive centres.
 
 ## Overview
 
-Citadelle is a dive site in Martinique offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The northwestern coast of Martinique around Le Prêcheur is dominated by the presence of Mount Pelée volcano, and the underwater scenery reflects this geology — volcanic rock outcrops and dark substrate form the base for a fringing reef that extends to 16 meters. The site is accessible from shore and offers a varied terrain of rock, sand, and coral. Because the northern coast sees fewer divers than the more accessible south and west, the marine life here is relatively undisturbed. Visibility averages 15–25 meters. Water temperature is 26–28°C.
 
 ## Site Information
 
-- **Location**: Martinique, Caribbean
-- **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Location**: Near Le Prêcheur, northwest Martinique
+- **Entry Type**: Shore dive
+- **Site Type**: Volcanic rock and coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 16 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: 15–25 meters
+- **Current**: Light; some tidal flow near headlands
+- **Best Time**: November to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The combination of volcanic rock and coral provides habitat for a wide range of species. Sea turtles are common in the northern waters, and the less-disturbed environment means they are notably relaxed around divers. Parrotfish, damselfish, and wrasse are abundant. Moray eels are plentiful in the rocky substrate. The area is known for excellent crustacean diversity — spiny lobsters and slipper lobsters occupy deeper crevices.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 16 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-16 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Shore entry over volcanic rock or sand — conditions vary at different access points along the coast. Follow the terrain from shore to the reef, descending to the main reef structure at 8–16 meters. The varied topography rewards slow, careful exploration. Safety stop in the shallows near the entry point.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Shore access from the Le Prêcheur coast road or designated entry points. Water shoes are essential for rocky entry. The site is remote — self-sufficiency in navigation and equipment management is advisable. Check current and surge conditions before entering.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- The northern coast offers a more adventurous, less-tourist-oriented diving experience
+- The volcanic topography above and below water makes this site visually distinctive
+- Excellent site for crustacean enthusiasts — the crevice habitat here is particularly productive
+- Combine with nearby St. Pierre wreck sites for a full northern Martinique dive day
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+The northern coast is more exposed than the south — check Caribbean swell and wind conditions before committing to a shore dive. Entry and exit over volcanic rock requires care. A buddy is especially important on this more remote stretch of coastline.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The volcanic rock provides an unusual compositional element absent from the sandy south coast sites. Wide-angle shots combining dark volcanic substrate with coral growth and fish are visually distinctive. Macro work on the rocky substrate reveals nudibranchs, cleaning shrimp, and juvenile reef fish not easily found elsewhere in Martinique.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

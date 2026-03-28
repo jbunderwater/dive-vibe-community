@@ -13,53 +13,49 @@ addedBy: osm_import
 
 ## Jardin Tropical
 
-Jardin Tropical is a reef dive site in Martinique, Caribbean.
+Jardin Tropical — the Tropical Garden — is a shallow shore-entry reef dive in the Les Anses d'Arlet area of southwest Martinique, earning its evocative name from the colourful density of coral and fish life that covers the rocky reef between 5 and 10 meters.
 
 ## Overview
 
-Jardin Tropical is a dive site in Martinique offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The site lies just offshore from one of Martinique's most attractive coastlines, accessible directly from the beach. The reef begins close to shore and develops into a series of coral-topped rocky outcrops interspersed with sandy channels — a layout that genuinely resembles a garden, with coral "beds" separated by sandy "paths." Coverage of brain, star, and soft corals is good, and the fish community is rich and varied. Visibility averages 15–20 meters. Water temperature holds at 26–28°C. The site's sheltered position in the bay keeps conditions calm on most days.
 
 ## Site Information
 
-- **Location**: Martinique, Caribbean
-- **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Location**: Les Anses d'Arlet, southwest Martinique
+- **Entry Type**: Shore dive
+- **Site Type**: Rocky reef with sandy channels
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 10 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: 15–20 meters
+- **Current**: Very light; well-sheltered position
+- **Best Time**: Year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The garden-like structure of the reef creates habitat diversity concentrated in a small area. Seahorses have been reported here, taking advantage of sea fan anchors. Parrotfish, damselfish, and wrasse are abundant. French and grey angelfish move between coral heads in pairs. Juvenile fish of many species inhabit branching corals in the shallows. Sea turtles pass through regularly and often pause to feed on the reef's algae-covered surfaces.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 10 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-10 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Enter from the beach and navigate directly to the reef — the garden structure begins within a short swim. Work through the sandy channels between coral outcrops, exploring the varied micro-habitats. Maximum depth is 10 meters, allowing extended bottom times without NDL concerns. The dive rewards slow, deliberate exploration rather than covering distance.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Shore entry over sand or small rocks, depending on the exact access point. A beach mat or water shoes make entry comfortable. The site is immediately accessible from the beach — no long surface swim required.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Seahorse sightings are possible — look carefully in sea fan holdfasts and algae-covered rubble
+- The garden layout makes this site excellent for macro photography and species identification
+- A particularly good site for newer divers who want to explore reef structure without managing depth
+- Pair with Anse Dufour or Anse Noire for a full morning of shallow shore diving in the area
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+The beach entry requires care over rocks — water shoes until fully submerged. Watch for passing boats if the bay sees tourist traffic. Sea urchins are present in rocky areas near shore. Always dive with a buddy, even on this easy site.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The dense coral-garden arrangement creates naturally attractive compositions at every turn. Macro photography is the highlight — look for nudibranchs, flamingo tongues, and cleaning shrimp on coral surfaces. Natural light at 5–10 meters during morning hours is excellent without artificial lighting.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

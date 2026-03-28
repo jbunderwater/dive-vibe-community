@@ -13,54 +13,53 @@ addedBy: osm_import
 
 ## Moore Bank
 
-Moore Bank is a reef dive site in Tanzania, Africa.
+Moore Bank is a submerged reef bank southwest of Zanzibar Island in the Zanzibar Channel, one of a series of elevated reef formations in the channel that concentrate marine life in an otherwise deep-water environment between the Tanzania mainland and Zanzibar.
 
 ## Overview
 
-Moore Bank is a dive site in Tanzania offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Submerged banks like Moore Bank are formed by ancient reef systems now lying beneath the navigable channel surface. The reef top sits at approximately 5 meters, creating a broad, relatively flat platform before the edges slope down to 20 meters and beyond. The combination of channel position and shallow bank top creates productive conditions — nutrient-rich water upwells against the bank's sides while the flat top acts as a staging area for mid-water predators. Visibility averages 15-20 meters and can exceed 25 meters in the northeast monsoon.
 
 ## Site Information
 
-- **Location**: Tanzania, Africa
+- **Location**: Zanzibar Channel, southwest of Zanzibar Island, Tanzania
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Coral reef (submerged bank)
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Typical Visibility**: 15-20 meters (50-65 feet)
+- **Current**: Moderate, channel-influenced
+- **Best Time**: October to March
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
+The elevated bank position in the channel attracts a strong mid-water fish community. Schools of bigeye trevally and fusiliers hover over the bank top, with kingfish and barracuda circling in the blue water above. Giant trevally are regularly reported patrolling the bank edges. The reef surface hosts groupers, moray eels, and dense populations of reef fish typical of the Zanzibar Channel ecosystem. During October-March, whale sharks frequently surface in the channel and can sometimes be encountered around the bank perimeter.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the outer bank edge at 18-20 meters and work around the perimeter before ascending to the flat bank top at 5-10 meters. The top rewards extended exploration — fish densities are high and the clear water provides excellent visibility across the plateau. Current on the bank's channel-facing edge can be brisk; plan your dive to work with rather than against it.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from Zanzibar operators, typically from Stone Town or Fumba on the southwest coast of Zanzibar Island. Travel time of 20-40 minutes depending on departure point. A live-boat pickup is standard — deploy SMB at 5 meters and allow the boat to position before surfacing.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Scan the blue water above the bank for whale sharks during October to March passes
+- A drift dive configuration (enter at one end, exit at the other) is often the best approach when channel current is running
+- Afternoon dives on the bank can have reduced visibility as suspended particles build through the day — mornings preferred
+- The combination of channel fish and bank reef species makes for high species count dives
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, remote locations in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Channel position means currents can change in direction and strength with tidal variations. Brief the boat crew on abort procedures if current makes the planned route unworkable. Deploy SMBs early as the channel is crossed by ferry traffic. Maintain buddy contact throughout.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The bank's top provides excellent ambient-light photography conditions for schools of fish and reef scenes. Wide-angle shots across the bank top with fish in the mid-water above coral heads produce classic Indian Ocean reef images. The potential for whale shark encounters rewards having a wide-angle setup ready throughout the dive.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

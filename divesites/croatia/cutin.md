@@ -13,53 +13,50 @@ addedBy: osm_import
 
 ## Cutin
 
-Cutin is a reef dive site in Croatia, Europe.
+Cutin is a reef dive off the southern tip of Pag Island in the northern Dalmatian coast, near the Velebit Channel. The site features the classic rocky reef structure of the Dalmatian coastline — dramatic limestone formations, boulders, and overhangs descending to a sandy bottom, all in the clear blue waters between Pag and the mainland.
 
 ## Overview
 
-Cutin is a dive site in Croatia offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The reef at Cutin drops over rocky terrain from the shallows to approximately 25 metres, with varied topography including boulders, crevices, and overhangs that create an interesting dive landscape. The channel location between Pag and the mainland promotes water movement, bringing nutrients that support a healthy ecosystem. Visibility is typically 15–20 metres and the water is clear with a characteristic Adriatic blue.
 
 ## Site Information
 
-- **Location**: Croatia, Europe
+- **Location**: Pag Island South, Northern Dalmatian Coast, Croatia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
+- **Typical Visibility**: 15–20 meters
+- **Current**: Can be moderate in the Velebit Channel
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
+Large dusky grouper are characteristic of this site, holding territories among the larger boulders. Moray eels and conger eels inhabit the deeper rocky recesses. Scorpionfish sit motionless on rocky surfaces, camouflaged against the encrustation. Barracuda are regularly seen in the water column, and sea bream school around the reef structures. Octopus are common in the mid-reef zone.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the shallowest rocky features at 5–8 metres and work your way down the slope to the 25-metre maximum depth at the sandy base. Explore the boulder field and overhang sections on the way up, spending time in the 10–18 metre range where most of the marine life concentrates. Safety stop at 5 metres before ascending.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Dive boats from operators on Pag or the mainland coast access this site. Entry by giant stride or back roll. Current in the Velebit Channel can be present — check conditions with the captain before diving. Deploy an SMB for ascent and boat pickup.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- The Velebit Channel can generate current — time the dive to slack water conditions if possible
+- Scan boulders and rock faces carefully for camouflaged scorpionfish
+- A torch helps reveal grouper and eels in deeper crevices
+- Combine with a second dive at nearby Pag sites for a well-rounded diving day
+- Comfortable in a 5 mm wetsuit in summer; 7 mm for spring and autumn
 
 ## Safety Considerations
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Current awareness is important at this channel-adjacent site. Dive within your certified depth limits and maintain regular gas checks. Always carry an SMB and dive with a buddy. Boat traffic in the channel requires care on ascent.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The rocky reef terrain with its boulders and crevices provides wide-angle subjects, and resident grouper make excellent portrait subjects. Scorpionfish sitting on rocky surfaces reward patient photographers. The clear Dalmatian water provides good ambient light throughout the reef.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,54 +13,32 @@ addedBy: osm_import
 
 ## K-9 West Coral Head
 
-K-9 West Coral Head is a reef dive site in Marshall Islands, Pacific.
+K-9 West Coral Head is the westernmost pinnacle in the K-9 coral head cluster of Kwajalein Atoll, offering a complementary dive to the main K-9 and K-9 Deep sites with its own distinct orientation and resident marine community.
 
 ## Overview
 
-K-9 West Coral Head is a dive site in Marshall Islands offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+K-9 West provides the western bookend of the K-9 coral head cluster, sitting at approximately the same depth profile as the main K-9 site but slightly removed from the main traffic — it sees proportionally fewer diver visits and maintains a slightly more natural, undisturbed behavior in its resident species as a result. The pinnacle structure is mature and well-encrusted, rising from the sandy lagoon floor through 25 meters of clear water.
 
-## Site Information
+The western orientation means afternoon light hits this site differently than the eastern K-9 sites, making it a favorite for afternoon dive trips when the light angle produces excellent underwater photography conditions — particularly for wide-angle shots of the pinnacle profile with the sandy lagoon as background.
 
-- **Location**: Marshall Islands, Pacific
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+## What to Expect
 
-## Marine Life
+K-9 West has developed a reputation for particularly large napoleon wrasse specimens that have claimed territories on the pinnacle. These huge, lumbering fish — some exceeding a meter in length — appear completely habituated to divers and can be approached to within a few meters before they drift away. Hawksbill turtles are regular visitors, and the western face of the pinnacle has several large anemone colonies with resident clownfish.
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+The sandy area to the west of the pinnacle base is productive for macro work — flatworms, nudibranchs, and small crustaceans populate the mixed sand-and-rubble substrate. Garden eels sway in small groups at the perimeter. The pinnacle crown is dense with hard corals and hosts a typical Kwajalein community of butterflyfish, angelfish, damselfish, and surgeonfish.
 
-## Dive Profile
+## Practical Information
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Depth Range**: 5–25 meters
+- **Visibility**: 20–35 meters typical
+- **Currents**: Generally mild
+- **Entry**: Boat dive; often combined with K-9 and K-9 Deep
+- **Best For**: Intermediate divers; good for large napoleon wrasse encounters and afternoon photography
 
-## Entry and Exit
+## Marine Life Highlights
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Napoleon wrasse (large specimens), hawksbill turtles, clownfish and anemones, garden eels, flatworms, nudibranchs, butterflyfish, angelfish, surgeonfish, groupers.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

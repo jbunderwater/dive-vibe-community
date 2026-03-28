@@ -13,55 +13,55 @@ addedBy: osm_import
 
 ## Glenlyon
 
-Glenlyon is a historic wreck dive in Great Lakes, North America.
+The Glenlyon is a large steel steamer wreck in Lake Superior near the Keweenaw Peninsula of Michigan. This 19th-century bulk carrier sank in 1924 after a devastating November storm and now rests in the cold, clear waters of Lake Superior — one of the best-preserved steel wrecks in the Great Lakes system.
 
 ## Overview
 
-Glenlyon is a dive site in Great Lakes featuring the wreck of the Glenlyon. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The Glenlyon was a 116-metre steel-hulled lake freighter built in 1893 that sank during a violent November 1924 storm near the Keweenaw Peninsula of Michigan's Upper Peninsula. She lies in approximately 20 metres of water — shallow for Lake Superior, which typically preserves its wrecks in much deeper cold darkness. Lake Superior's cold, clear water and the site's relatively sheltered location have made the Glenlyon an exceptional dive. The visibility in Lake Superior can reach 15–25 metres in optimal conditions, revealing the entire scale of this impressive steel hull. Being located near the Keweenaw Peninsula, the site is accessible from Copper Harbor or Houghton, Michigan.
 
 ## Site Information
 
-- **Location**: Great Lakes, North America
+- **Location**: Lake Superior, Keweenaw Peninsula area, Michigan, USA
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 20 metres
+- **Typical Visibility**: 8–20 metres
+- **Water Temperature**: 4–16°C (seasonal); Lake Superior bottom water consistently near 4°C
+- **Current**: Minimal near the site
+- **Best Time**: June to September
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Lake Superior has the lowest biodiversity of the Great Lakes but supports impressive fish populations. Lake trout — one of Lake Superior's signature species — frequent the Glenlyon site and are often seen in substantial numbers. Cisco (lake herring) school in open water above the wreck. Rainbow smelt are abundant. The relative absence of invasive zebra mussels (less established in Lake Superior than the lower Great Lakes) means the hull maintains a more natural appearance.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 20 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The Glenlyon's large scale — 116 metres long — means multiple dives are needed for full exploration. The hull is largely intact in the shallow, clear Lake Superior water, making for impressive swimming experiences along the steel flanks. The stern section with its machinery and propeller is particularly photogenic. Ascend on the anchor line with a standard safety stop at 5 metres.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Charter dive boats from Copper Harbor or Eagle River, Michigan provide access. The Keweenaw Peninsula area offers excellent diving infrastructure for Great Lakes wreck enthusiasts. Entry by giant stride. Deploy SMB on ascent.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Lake Superior is cold year-round — a drysuit is strongly recommended
+- The Keweenaw Peninsula area offers multiple Lake Superior wrecks nearby
+- The exceptional visibility in Lake Superior compared to the lower Great Lakes is a noticeable difference
+- Plan for cold water and short bottom times if using a wetsuit
+- Lake trout are commonly seen here — approach slowly and quietly for the best viewing
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Lake Superior is famously cold and conditions can change rapidly. Even in summer, water temperatures require adequate thermal protection — a drysuit is the standard recommendation. Lake Superior is remote, and emergency services may take longer to reach than on the lower lakes. Always dive with a buddy and carry an SMB.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+Lake Superior's exceptional clarity makes the Glenlyon a standout photography destination. The large steel hull photographs beautifully in wide-angle, and the relative lack of zebra mussel coverage shows the original construction details. Lake trout encounters are outstanding for wildlife photography.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

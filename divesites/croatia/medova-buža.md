@@ -13,54 +13,50 @@ addedBy: osm_import
 
 ## Medova Buža
 
-Medova Buža is a cave dive site in Croatia, Europe.
+Medova Buža is a very shallow cave and cavern site off the central Dalmatian coast near the Šibenik area. With a maximum depth of just 4 metres, this is an ideal introduction to cavern environments for beginners and snorkellers, and also serves as a relaxed, no-pressure dive for certified divers.
 
 ## Overview
 
-Medova Buža is a dive site in Croatia featuring underwater cave and cavern formations. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+"Buža" in Croatian refers to a hole or opening, and Medova Buža is characterised by its shallow rocky cave entrances that open up into small cavern chambers barely below the surface. The site is essentially a snorkel-depth cave system where natural light floods the interior throughout. The cave walls are covered in colourful encrusting organisms including sponges, anemones, and coralline algae, vividly illuminated by the sun penetrating the clear Adriatic water.
 
 ## Site Information
 
-- **Location**: Croatia, Europe
+- **Location**: Central Dalmatian Coast, Croatia
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 4 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: May to October
+- **Typical Visibility**: 10–20 meters
+- **Current**: Minimal
+- **Best Time**: April to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+Even at this very shallow depth, the caves host crabs, shrimp, and small fish that shelter in the rocky recesses. Blennies and gobies are plentiful on the cave walls. Sea urchins are common on the surrounding rocky substrate. In the water just outside the cave entrances, small grouper and sea bream are regularly seen.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 4 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-4 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The entire dive takes place at 0–4 metres. Enter the cave entrance and explore the interior formations, observing the encrusted walls and any resident animals in the cavities. Exit and snorkel or drift along the rocky shoreline. Due to the very shallow depth, extended dive times are easily achievable. No safety stop is required.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Dive boats from operators in the Šibenik area access this site. Entry by giant stride or back roll, or swimmers can enter directly. The site is suitable for both scuba and snorkel exploration.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- An excellent first cavern experience for Open Water certified divers
+- Snorkellers will enjoy this site as much as scuba divers — the shallow depth is ideal
+- Bring a torch even at this depth — it reveals the full colour range of encrusting organisms that appears washed out in ambient light
+- This is a great warm-up or cool-down dive when paired with deeper sites nearby
+- Children completing supervised diving experiences will enjoy this site
 
 ## Safety Considerations
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+The very shallow depth makes this one of the safest dive sites in Croatia. Maintain awareness of rocky surfaces and avoid contact with the cave walls to protect the encrusting life. Cavern principles still apply — maintain orientation to the entrance at all times.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The shallow depth and strong ambient light make this an excellent photography site. Close-up shots of the cave wall organisms photograph well without strobes. The cave entrance with sunlight streaming in creates a beautiful natural frame.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

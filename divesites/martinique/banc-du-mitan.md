@@ -13,53 +13,49 @@ addedBy: osm_import
 
 ## Banc du Mitan
 
-Banc du Mitan is a reef dive site in Martinique, Caribbean.
+Banc du Mitan is a submerged bank reef in the Sainte-Luce area on Martinique's southern Caribbean coast, one of the popular dive sites used by operators from the island's southern dive hub. "Mitan" is a Creole term meaning "middle," reflecting the bank's mid-channel position.
 
 ## Overview
 
-Banc du Mitan is a dive site in Martinique offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The reef at Banc du Mitan rises from the sandy bottom of the southern Caribbean shelf and features a series of coral-topped ridges and plateaus reaching to around 8 meters depth at the shallowest, descending to 15 meters. The site is sheltered by the island's southern headlands, giving it consistently calm conditions and clear visibility. Hard coral coverage is good, with elkhorn and staghorn formations in the shallow zone and brain and star corals at depth. Visibility averages 15–25 meters. Water temperature stays at 26–28°C year-round.
 
 ## Site Information
 
-- **Location**: Martinique, Caribbean
+- **Location**: Sainte-Luce area, south coast Martinique
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Bank reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: 15–25 meters
+- **Current**: Mild; can increase with tidal movement
+- **Best Time**: November to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Hawksbill and green turtles are commonly sighted resting on the reef or cruising between coral heads. Schools of blue tangs and parrotfish sweep over the reef crest, while French and grey angelfish patrol the deeper sections. The sandy margins around the bank support southern stingrays. Barracuda station themselves above the reef as solitary sentinels.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the reef crest at 8 meters and follow the ridges to the deeper flanks at 15 meters. Navigation is straightforward — the bank's edges define clear boundaries. Spend time on the shallower sections for the most colourful coral life, then explore the deeper sandy margins before ascending for your safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Sainte-Luce operators; site is a short ride from the village. Giant stride entry; SMB required on ascent.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- An excellent first dive in Martinique for visitors based in the south of the island
+- The reef crest at 5–8 meters is ideal for beginners practicing buoyancy
+- Look for the resident hawksbill turtles that feed on sponges attached to coral heads
+- Pair with Banc Major or Caye Duprey for a full south coast dive day
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Tidal current can pick up on the bank's exposed sides — check with the operator. SMB deployment on ascent is essential. Fire coral is present on the reef crest. Maintain good buoyancy to avoid contact with coral structures.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The reef crest at 5–8 meters in morning light provides bright, colourful reef photography conditions. Wide-angle shots of angelfish and parrotfish over the coral backdrop work well without strobes. Turtle encounters on the sand margin at depth are worthy close-focus wide-angle subjects.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

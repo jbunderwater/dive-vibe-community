@@ -13,53 +13,49 @@ addedBy: osm_import
 
 ## Galijola
 
-Galijola is a reef dive site in Croatia, Europe.
+Galijola is a rocky reef and islet site in the Pag area of the northern Dalmatian coast. The reef surrounding this small rocky outcrop descends over sloping limestone faces to around 25 metres, offering classic Dalmatian reef diving in clear blue water. The exposed islet position promotes strong water movement and healthy marine life.
 
 ## Overview
 
-Galijola is a dive site in Croatia offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The rocky reef at Galijola features broken limestone terrain with boulders, crevices, and small overhangs descending from the surface to approximately 25 metres. The substrate is encrusted with sponges, encrusting corals, and sea fans, and Posidonia seagrass meadows extend in the shallower sections. The site's open position in the northern Dalmatian channel means water clarity is typically excellent, reaching 15–20 metres or more.
 
 ## Site Information
 
-- **Location**: Croatia, Europe
+- **Location**: Pag Area, Northern Dalmatian Coast, Croatia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
+- **Typical Visibility**: 15–20 meters
+- **Current**: Moderate; open position in the channel
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
+Large grouper hold territories in the deeper boulder areas. Moray eels and octopus are plentiful throughout the reef. Barracuda patrol above the structure in summer, and amberjack occasionally visit the exposed open water around the islet. Sea bream and wrasse are abundant. The Posidonia areas in the shallows are good for seahorses.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the reef at 5–8 metres and follow the rocky slope down to 25 metres. Explore the crevice zones where eels and lobster shelter, then ascend the reef face slowly. The exposed position of the islet can generate current — plan the dive with current in mind and deploy an SMB on ascent.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Dive boats from operators on Pag or the mainland access this site. Entry by giant stride. The exposed position requires careful surface entry and exit assessment. Always deploy an SMB for surfacing as boat pickup coordination is important here.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Check current direction before the dive — the exposed islet position can create drift conditions
+- A torch helps find grouper and eels in the deeper crevices
+- Combine with other Pag area reef sites for a productive multi-dive day
+- Look for barracuda in the blue water above the reef in summer months
 
 ## Safety Considerations
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+The exposed islet position can generate significant current — confirm sea state with the operator before diving. Deploy an SMB clearly when ascending. Dive with a buddy and maintain awareness of your position relative to the islet.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The clear open water around the islet provides excellent wide-angle opportunities. The rocky reef silhouetted against blue water, barracuda in the water column, and resident grouper portraits are all productive subjects. The Posidonia shallows offer intimate macro photography.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

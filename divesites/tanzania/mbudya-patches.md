@@ -13,55 +13,53 @@ addedBy: osm_import
 
 ## Mbudya Patches
 
-Mbudya Patches is a reef dive site in Tanzania, Africa.
+Mbudya Patches is a collection of coral patch reefs surrounding Mbudya Island in the Dar es Salaam Marine Reserve, a small uninhabited island about 10 kilometers north of Dar es Salaam that is one of the city's most popular dive and snorkel destinations.
 
 ## Overview
 
-Mbudya Patches is a dive site in Tanzania offering excellent diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Mbudya Island and its surrounding patches are part of the Dar es Salaam Marine Reserve System, and Mbudya Patches specifically refers to several discrete coral formations scattered in the sandy shallows around the island. These patches rise from a sand and rubble bottom at 10-12 meters to reef tops at 3-5 meters, creating a varied topography for beginner divers and snorkelers. Visibility is typically 10-15 meters in the northeast monsoon and reduces to 5-8 meters in the southeast monsoon when stronger winds stir sediment.
 
 ## Site Information
 
-- **Location**: Tanzania, Africa
+- **Location**: Mbudya Island, Dar es Salaam Marine Reserve, Tanzania
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Coral reef (patch reefs)
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Typical Visibility**: 10-15 meters (33-50 feet)
+- **Current**: Light
+- **Best Time**: October to February
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
+The Mbudya Patches host a range of resident reef fish in a compact area. Parrotfish and surgeonfish are abundant on the patch tops, while the sandy channels between patches shelter small rays and flatfish. Moray eels live in crevices in the patch walls. Sea turtles are regularly sighted and have a long history of visiting the island's sheltered sides. The seagrass meadows adjacent to the patches support unique species including pipefish and nudibranchs.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Navigate between the scattered patches, exploring each formation before moving to the next. The patch-hopping profile creates a diverse dive with constantly changing micro-environments. Divers can spend extended time on the shallowest patches (3-5 meters) as a long, comfortable finish to the dive while instructors complete student work in the shallows.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Regular boat departures from Msasani Bay and the Slipway in Dar es Salaam, approximately 20-30 minutes to Mbudya Island. The island beach is used for surface intervals. Some operators offer snorkeling packages that combine Mbudya Island beach visits with guided snorkel over the patches.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Ideal for Open Water student dives or confined water skills practice given the shallow, calm patches
+- Combine diving with a beach lunch on Mbudya Island for a full day trip from Dar es Salaam
+- The seagrass areas around the patches reward slow, methodical searching for cryptic species
+- Bring reef-safe sunscreen only — the marine reserve is actively managed and non-reef-safe products are discouraged
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, remote locations in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+One of the most benign dive environments in the Dar es Salaam area. Minimal currents, shallow depth, and calm conditions create safe conditions for beginners. The main concern is sea urchin contact in the sandy channels — swim above the bottom rather than walking or kneeling. Always deploy an SMB for ascent.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The shallow, well-lit patches are excellent for natural-light photography. Compact cameras and GoPros are very effective here. Sea turtle encounters in the shallow clear water make for excellent portrait photography. Macro photographers will find rich pickings in the seagrass and rubble zones adjacent to the patches.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

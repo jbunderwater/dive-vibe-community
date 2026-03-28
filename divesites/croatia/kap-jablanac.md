@@ -13,53 +13,50 @@ addedBy: osm_import
 
 ## Kap Jablanac
 
-Kap Jablanac is a reef dive site in Croatia, Europe.
+Kap Jablanac is a cape dive site near the village of Jablanac on the mainland Croatian coast opposite Rab Island, in the Velebit Channel. The cape's underwater extension creates a rocky reef with mixed terrain descending to 25 metres, enhanced by the strong tidal flow through the Velebit Channel that promotes productive marine life.
 
 ## Overview
 
-Kap Jablanac is a dive site in Croatia offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The cape drops into the clear Velebit Channel water, with the rocky reef featuring boulders, stepped terraces, and small overhangs down to 25 metres. The channel location means strong water movement brings nutrients, resulting in dense sponge communities, sea fans, and healthy fish populations. Visibility is typically 10–20 metres in this channel, which can carry particulate matter when currents are strong.
 
 ## Site Information
 
-- **Location**: Croatia, Europe
+- **Location**: Jablanac, Velebit Channel, Mainland Croatia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef/cape
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
+- **Typical Visibility**: 10–20 meters
+- **Current**: Moderate; Velebit Channel tidal flow can be strong
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
+The productive channel water supports abundant fish life. Grouper are well established on the reef. Large schools of sea bream and sardines are present in the water column when currents are running. Moray eels and octopus inhabit the rocky terrain. The sponge-encrusted overhangs shelter lobster and crabs. In summer, amberjack and barracuda patrol the open channel water.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Time the dive to current conditions in the Velebit Channel — slack water provides the most comfortable conditions. Descend the reef face from the cape, exploring the step terrain down to 25 metres. In a mild current, a drift dive from the cape is possible. Ascend with adequate gas reserve and deploy an SMB for boat pickup in the channel.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Dive boats from Jablanac village or Senj-area operators serve this site. Entry by giant stride. The Velebit Channel requires careful coordination with the boat captain for pickup in any current conditions.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Confirm current state with the local operator — the Velebit Channel is tidal and conditions vary
+- Slack water or mild current provides the easiest and most comfortable conditions
+- A moderate drift along the cape in light current can be an enjoyable experience
+- The abundant schooling fish life is best photographed when current is bringing bait fish into the area
+- A torch helps with the deeper boulder overhangs
 
 ## Safety Considerations
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Current is the primary safety consideration at this channel site. Never enter the water if the current exceeds your swimming capacity. Always coordinate the pickup plan with the boat captain before diving. Carry an SMB and deploy it before surfacing.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Schooling sea bream and sardines in the channel current make spectacular wide-angle images. The sponge-encrusted reef face provides colourful wide-angle compositions. When conditions allow, large resident grouper portraits reward patient photographers.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

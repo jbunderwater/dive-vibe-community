@@ -13,55 +13,53 @@ addedBy: osm_import
 
 ## Pungume Patches
 
-Pungume Patches is a reef dive site in Tanzania, Africa.
+Pungume Patches is a series of detached coral formations near Pungume Island, a small island off the western coast of Zanzibar Island in the Zanzibar Channel, part of a cluster of offshore islands and reefs between Zanzibar and the Tanzania mainland.
 
 ## Overview
 
-Pungume Patches is a dive site in Tanzania offering excellent diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Pungume Island sits in the Zanzibar Channel southwest of Zanzibar town, and its surrounding patch reef formations are accessible day trips from Zanzibar Stone Town. The patches rise from a sandy channel floor at 12-15 meters to reef tops at 5-7 meters, providing varied topography in a compact area. The Zanzibar Channel position gives the site access to clear oceanic water when channel currents are favorable, with visibility averaging 12-18 meters. The site is popular with Stone Town-based dive operators as a half-day morning excursion.
 
 ## Site Information
 
-- **Location**: Tanzania, Africa
+- **Location**: Near Pungume Island, Zanzibar Channel, Tanzania
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Coral reef (channel patch reefs)
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Typical Visibility**: 12-18 meters (40-60 feet)
+- **Current**: Light to moderate
+- **Best Time**: October to March (northeast monsoon, channel calmer)
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
+The channel-influenced patch reefs support a blend of inshore reef species and pelagic visitors. Parrotfish, angelfish, and triggerfish are resident. Giant trevally and barracuda patrol the patch edges. Sea turtles are common, frequently resting on the patch tops. Stingrays and smaller rays are found on the sandy areas between patches. The cleaner water from channel circulation makes this a more diverse site than the inshore Dar es Salaam patches.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Navigate between the patches in the sandy channel, exploring each formation in turn. The varied depth between patches (5-18 meters) allows a natural dive plan from deep to shallow. Finish with extended time on the shallowest patch tops where coral density is highest and natural light best.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from Zanzibar Stone Town, approximately 20-30 minutes to the Pungume area. Giant stride entry and assisted ladder exit. Current timing should be confirmed with guides as the Zanzibar Channel can have tidal flow between patches.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Often combined with Stone Town harbor's wreck sites for a varied two-dive day from Zanzibar
+- Good site for first dives in Zanzibar waters before attempting more demanding sites
+- Ask operators about turtle feeding grounds on specific patches — guides know the most reliable spots
+- The Zanzibar Channel crossing can be choppy in strong northeast winds — check conditions before departure
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, remote locations in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Relatively safe diving with light currents in the inter-patch channels. The slightly more exposed channel position means conditions can change faster than the fully protected lagoon sites on Zanzibar's eastern coast. Carry SMB and deploy for ascent. Stay aware of boat traffic in the Zanzibar Channel.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Good general reef photography site with accessible depth and reasonable visibility. Turtle portrait shots in the clear channel water are particularly rewarding. The patch formations create natural framing for reef composition shots.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

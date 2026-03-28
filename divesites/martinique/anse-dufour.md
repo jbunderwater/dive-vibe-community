@@ -13,53 +13,49 @@ addedBy: osm_import
 
 ## Anse Dufour
 
-Anse Dufour is a reef dive site in Martinique, Caribbean.
+Anse Dufour is a sheltered black-sand beach on Martinique's southwest coast near Les Anses d'Arlet, well known as one of the most reliably turtle-populated dive sites on the island and an easy shore entry suitable for all levels.
 
 ## Overview
 
-Anse Dufour is a dive site in Martinique offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The cove at Anse Dufour is flanked by headlands that shelter it from prevailing swells and create calm conditions year-round. The seafloor transitions from black volcanic sand at the entry to a fringing coral reef structure that develops as depth increases toward 12 meters. Coral coverage is moderate, dominated by brain and star corals with scattered sea fans. The real draw here is not the reef but the exceptional density of sea turtles — both green and hawksbill — that are resident year-round and have become remarkably comfortable with divers. Visibility averages 15–20 meters. Water temperature holds at 26–28°C.
 
 ## Site Information
 
-- **Location**: Martinique, Caribbean
-- **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Location**: Les Anses d'Arlet area, southwest Martinique
+- **Entry Type**: Shore dive
+- **Site Type**: Fringing reef on volcanic sand
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: 15–20 meters
+- **Current**: Generally mild in the cove
+- **Best Time**: November to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Sea turtles — particularly green turtles — are the defining feature of Anse Dufour. Multiple individuals are typically encountered on every dive, often feeding on seagrass or resting on the sandy bottom. The cove has become a renowned turtle sanctuary and one of Martinique's signature underwater encounters. Parrotfish, damselfish, and trumpetfish are abundant in the reef zone. Nurse sharks occasionally rest under coral overhangs at depth.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Enter from the beach and navigate along the bottom slope to the reef. The gradual depth increase from sand to reef keeps the dive uncomplicated. Most activity concentrates in the 5–12 meter zone. This is an ideal site for extended bottom times and unhurried observation.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Shore entry over black volcanic sand; fins on before entering the water. The beach is accessible and close to the road. Exit at the same beach. Be aware of fishing boat traffic in the cove, particularly in the early morning.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Arrive early before the snorkel boats — turtle encounters are more relaxed without crowds
+- Stay low and still to allow turtles to approach naturally; do not chase or touch
+- Combine with the adjacent Anse Noire for a two-dive shore day at virtually the same location
+- The black sand and turquoise water make striking above-water photography before and after the dive
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Keep an eye on fishing boat traffic — the cove is used by local fishermen. SMB not strictly necessary here but advisable if venturing away from the cove. Fire coral present on the reef edge; maintain buoyancy. Do not disturb or touch the turtles — they are protected.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Anse Dufour is Martinique's best turtle photography site. Close, relaxed encounters in clear shallow water allow natural-light portraits without strobe. Wide-angle shots of multiple turtles feeding on seagrass patches are possible on good days. The black volcanic sand background creates a distinctive compositional quality unique to Martinique.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

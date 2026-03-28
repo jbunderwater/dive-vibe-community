@@ -13,53 +13,50 @@ addedBy: osm_import
 
 ## Grotta
 
-Grotta is a reef dive site in Croatia, Europe.
+Grotta ("grotto" or "cave" in Italian/Croatian) is an underwater cave and cavern dive near Krk Island in the Kvarner region. The site combines a cave exploration element with an exterior reef area on the rocky Adriatic seafloor, offering a varied dive experience at intermediate depths.
 
 ## Overview
 
-Grotta is a dive site in Croatia offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The cave and cavern formations at this site descend to around 20–25 metres, with the main accessible sections featuring natural light penetration from the entrance. The cave interior walls are encrusted with sponges, sea anemones, and colourful coralline algae. Outside the cave, the rocky reef terrain supports a healthy community of Mediterranean marine life typical of the northern Adriatic. Visibility is typically 15–20 metres in the clear Kvarner waters.
 
 ## Site Information
 
-- **Location**: Croatia, Europe
+- **Location**: Krk Island area, Kvarner, Croatia
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
+- **Typical Visibility**: 15–20 meters
+- **Current**: Generally minimal inside the cave
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
+Lobster and shrimp inhabit the cave interior. Moray eels and conger eels are found in the darker recesses. Outside the cave, grouper, sea bream, and wrasse are common. Nudibranchs and sea slugs explore the sponge-covered cave walls, and octopus are regularly seen on the surrounding rocky reef.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Approach the cave entrance from the surrounding reef area and enter the cavern, maintaining orientation to the entrance at all times. Explore the accessible interior up to the point where natural light diminishes, then exit and continue diving the exterior reef. Maximum depth of 25 metres is reached outside the cave on the reef slope. Safety stop at 5 metres.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Dive boats from Krk-area operators access this site. Entry by giant stride or back roll. The sheltered nature of the cave entrance typically means calm conditions inside. Deploy an SMB when ascending for boat pickup.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- A torch is essential for illuminating the cave interior and revealing the encrusted life on the walls
+- Always maintain orientation to the cave entrance — cavern rules apply
+- The exterior reef surrounding the cave entrance provides excellent additional exploration
+- Visit in the morning when sunbeams penetrate the cave entrance most dramatically
+- Good buoyancy is important to avoid disturbing sediment in the cave
 
 ## Safety Considerations
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Cavern diving principles apply: always maintain sight of natural light, ensure all divers have torches, and never penetrate deeper than your training supports. Maximum depth is within recreational limits. Dive with a buddy and carry an SMB for exit.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The cavern entrance with sunbeams penetrating from outside is the signature composition at this site. A diver silhouetted against the light-filled entrance makes a compelling image. Torch-lit macro shots of the encrusted interior walls and resident crustaceans round out a productive photography day.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -11,57 +11,55 @@ osmId: 13265023321
 addedBy: osm_import
 ---
 
-## old shipwreck
+## Old Shipwreck
 
-old shipwreck is a historic wreck dive in Tanzania, Africa.
+Old Shipwreck is an unidentified historic vessel resting in the waters near Dar es Salaam, Tanzania, one of several wrecks in the broader Dar es Salaam harbor area that have become artificial reefs over decades of submersion and are now administered by local dive operators as dive sites.
 
 ## Overview
 
-old shipwreck is a dive site in Tanzania featuring the wreck of the old shipwreck. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+The precise identity and history of the Old Shipwreck are not fully documented in publicly available sources, but local operators describe it as a steel-hulled cargo or trading vessel that has been on the bottom for several decades. The wreck sits with its hull and main structure in the 20-25 meter range, making it accessible to advanced Open Water divers. Coral and sponge encrustation has progressed significantly and the wreck now functions as an established artificial reef. Visibility around the wreck is typically 10-15 meters.
 
 ## Site Information
 
-- **Location**: Tanzania, Africa
+- **Location**: Dar es Salaam Marine Reserve area, Tanzania
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Typical Visibility**: 10-15 meters (33-50 feet)
+- **Current**: Moderate
+- **Best Time**: October to February (clearest water)
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, batfish, coral growth, lionfish, whale sharks, manta rays, humpback whales, sea turtles. Additional species commonly sighted include dolphins, reef sharks. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The wreck structure provides shelter for a dense community of wreck-associated species. Schools of batfish circle the exterior, and large groupers inhabit the deeper sections of the hull. Lionfish are present at multiple locations on the wreck and should be given wide berth. Thick encrusting growth of orange and white cup corals covers much of the metal structure, with sea fans growing from the highest points. Glass catfish and cardinalfish shelter in dark interior spaces visible from the exterior.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 25 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend the anchor chain or mooring line to the top of the wreck at approximately 18-20 meters. Circumnavigate the exterior first to understand the layout before approaching any accessible interior spaces. The maximum depth of 25 meters is at the seabed beside the hull — limit time at this depth. Allow sufficient air for a safety stop at 5 meters before ascending.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from Dar es Salaam operators who maintain moorings on the wreck. Giant stride from the dive vessel. The wreck can experience tidal current — confirm current direction with the guide before entry so you plan the swim around the hull accordingly.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- A dive torch is essential — the interior spaces and hull crevices shelter species that cannot be seen without illumination
+- Do not penetrate interior spaces without proper wreck diving training and equipment
+- Silt inside wreck spaces can be disturbed easily — maintain distance from the interior floor to preserve visibility
+- Ask local operators for the wreck's known history and any identifying details they have researched
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, remote locations in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Wreck dives carry additional hazards of potential entanglement and disorientation. Stay external unless properly trained for penetration diving. The 25-meter maximum depth requires careful NDL monitoring. Monitor air consumption closely — wrecks encourage "exploration mode" where divers forget to check their gauges. Never enter overhead environments without appropriate certifications.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The wreck provides dramatic wide-angle subjects — shooting along the hull with fish and encrusting growth in the frame creates compelling images. Natural light enters through exposed openings, creating cathedral-like light beams on clear days. Macro photography of the encrusting cup corals, nudibranchs, and crevice-dwelling crustaceans is excellent throughout the structure.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

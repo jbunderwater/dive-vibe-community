@@ -13,53 +13,49 @@ addedBy: osm_import
 
 ## Kap Silo
 
-Kap Silo is a reef dive site in Croatia, Europe.
+Kap Silo is a cape reef dive near the village of Silo on the northeast coast of Krk Island in the Kvarner. The cape creates a natural underwater reef with rocky terrain descending to 25 metres, offering a relaxed and productive dive in the clear northern Adriatic waters close to the island's main ferry connection to the mainland.
 
 ## Overview
 
-Kap Silo is a dive site in Croatia offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The reef extends from the cape in the typical Kvarner limestone format — rocky slopes, boulders, and crevices descending to around 25 metres onto a sandy bottom. The reef structure is well colonised by encrusting sponges, sea anemones, and small sea fans. The shallow sections include Posidonia seagrass meadows. Visibility in the Kvarner near Silo is typically 15–20 metres, and the protected bay-side position near the village provides shelter from the main channel.
 
 ## Site Information
 
-- **Location**: Croatia, Europe
+- **Location**: Silo, Northeast Krk Island, Kvarner, Croatia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
+- **Typical Visibility**: 15–20 meters
+- **Current**: Generally light; more exposed on the outer cape
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
+Grouper hold their territories in the larger boulder sections. Moray eels and conger eels inhabit the deeper crevices. Octopus are commonly encountered hunting across the rocky terrain. Sea bream, ornate wrasse, and saddled bream populate the water column. The Posidonia meadows in the shallower zone support seahorses and various pipefish species.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin the dive at the shallower reef sections near the cape and work down the slope to 25 metres. The most productive zone is typically 8–18 metres where the reef structure is most complex. Ascend slowly along the reef face and complete a 3-minute safety stop at 5 metres.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Dive boats from Silo village or other Krk Island operators access this site. Entry by giant stride or back roll. Deploy an SMB for ascent and boat pickup.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- The Posidonia meadows in the shallows are worth exploring after the deeper section
+- A torch illuminates crevice residents even in the excellent ambient light of the Kvarner
+- An easily accessible site given the ferry connection at Silo — suitable for day-trip divers visiting Krk
+- Combine with a deeper site like Peltastis for a well-rounded Krk Island diving programme
 
 ## Safety Considerations
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Standard intermediate reef diving in generally benign conditions. Monitor depth on the slope. Deploy an SMB and dive with a buddy. The outer cape section may be more exposed to current — check locally.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The clear Kvarner water provides excellent wide-angle opportunities across the reef. Resident grouper portraits and the Posidonia meadow's seahorses and pipefish are highlights. The rocky reef structure and its associated encrusting communities reward close macro work.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

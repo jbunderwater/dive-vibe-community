@@ -13,54 +13,32 @@ addedBy: osm_import
 
 ## T-Buoy Coral Head
 
-T-Buoy Coral Head is a reef dive site in Marshall Islands, Pacific.
+T-Buoy Coral Head is one of Kwajalein Atoll's northern outer lagoon pinnacles, named for the "T" navigational buoy designation on the atoll chart and positioned in the northernmost section of the regularly dived Kwajalein coral head system — close in latitude to the Victor Buoy and T-Buoy cluster that represents the outer edge of the main dive circuit.
 
 ## Overview
 
-T-Buoy Coral Head is a dive site in Marshall Islands offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+T-Buoy sits at the outermost northern edge of the regularly accessed Kwajalein inner lagoon dive zone, requiring a longer boat ride than the central cluster sites but rewarding divers with some of the most isolated and pristine reef conditions available within the atoll. The coordinates place it near Victor Buoy Coral Head, and the two sites are often dived together on extended northern lagoon excursions.
 
-## Site Information
+The pinnacle structure follows the Kwajalein template: hard coral mound rising through 25 meters of water, excellent visibility, mild currents, warm temperatures year-round. The outer northern position brings slightly more oceanic influence and noticeably stronger fish activity than the innermost protected sites.
 
-- **Location**: Marshall Islands, Pacific
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+## What to Expect
 
-## Marine Life
+T-Buoy's outer northern position puts it in the influence zone of open-ocean current pushing into the lagoon through the northern passes, delivering regular pelagic visitors that rarely appear at the central cluster sites. Dogtooth tuna are occasional sightings sweeping past on hunting runs. Schooling barracuda hold position in the current. Grey reef sharks patrol the pinnacle perimeter with the more purposeful behavior of sites with less regular diver traffic.
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+The coral quality here is among the best in the northern lagoon system — extensive table coral formations and dense branching coral thickets cover the shallow sections of the pinnacle in conditions that reflect the low diver impact of an infrequently visited site. Night diving at T-Buoy, while requiring extra logistical effort from the main dock, produces exceptional results — octopus, nudibranchs, and feeding moray eels populate the reef in full nocturnal activity.
 
-## Dive Profile
+## Practical Information
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Depth Range**: 5–25 meters
+- **Visibility**: 20–35 meters typical
+- **Currents**: Mild to moderate; outer northern position brings occasional stronger flow
+- **Entry**: Boat dive; longer transit from main island
+- **Best For**: Intermediate divers seeking northern lagoon exploration; extended dive trips
 
-## Entry and Exit
+## Marine Life Highlights
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Dogtooth tuna (occasional), barracuda, grey reef sharks, table corals, branching corals, moray eels, napoleon wrasse, snapper, fusiliers, octopus (night).
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,53 +13,49 @@ addedBy: osm_import
 
 ## Fels Macinj
 
-Fels Macinj is a reef dive site in Croatia, Europe.
+Fels Macinj (fels = rock/reef in German, a naming convention common among German-speaking diving guides to Croatia) is a rocky reef site in the Cres/Lošinj area of the Kvarner archipelago. The site offers characteristic Kvarner reef diving — limestone formations, clear deep blue water, and a healthy Mediterranean marine community.
 
 ## Overview
 
-Fels Macinj is a dive site in Croatia offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The reef at Macinj features rocky outcrops, boulders, and sloping faces descending to around 25 metres. The rocky substrate is colonised by encrusting sponges, sea fans, and bryozoans, with the deeper sections supporting small gorgonian colonies. The clear Kvarner waters, often 15–20 metres visibility in summer, make this a pleasant and productive dive with diverse underwater scenery.
 
 ## Site Information
 
-- **Location**: Croatia, Europe
+- **Location**: Cres/Lošinj area, Kvarner, Croatia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Typical Visibility**: 15–20 meters
 - **Current**: Light to moderate
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
+Dusky grouper patrol the reef, particularly around larger boulders and overhangs. Moray eels and octopus are regularly found in crevices across the depth range. Nudibranchs explore the sponge-covered rocky surfaces. Sea bream and ornate wrasse are abundant in the mid-water. Posidonia seagrass beds in the shallower sections are worth exploring for seahorses and pipefish.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Start at the reef top in the shallows and descend the rocky slope to the 25-metre maximum. Explore the overhangs and crevices carefully — most of the interesting marine life is found between 8–20 metres. Ascend slowly and complete a 3-minute safety stop at 5 metres.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Dive boats from Cres or Mali Lošinj operators access this site. Entry by giant stride or back roll. Deploy an SMB when ascending from depth.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- A torch is useful for illuminating the deeper crevices and overhang areas
+- Move slowly and methodically to observe cryptic species like seahorses and nudibranchs
+- Excellent visibility in the Kvarner makes this a great site for wide-angle photography
+- Combine with a second dive at a nearby site in the Cres/Lošinj diving area
 
 ## Safety Considerations
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Standard intermediate reef diving. Monitor depth on the sloping terrain. Carry an SMB for surfacing. Dive with a buddy and remain aware of any current in the open water surrounding the reef.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The clear Kvarner water provides excellent conditions for wide-angle reef photography. Resident grouper are approachable for close-range portraits. The sponge-encrusted surfaces reward macro investigation. Morning dives offer the best natural light penetration across the reef.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

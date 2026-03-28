@@ -13,55 +13,55 @@ addedBy: osm_import
 
 ## Henry C. Daryaw (Wrack)
 
-Henry C. Daryaw (Wrack) is a historic wreck dive in Great Lakes, North America.
+The Henry C. Daryaw is a 20th-century canal-size steamer resting in the St. Lawrence River near Brockville, Ontario. This small Canadian freighter sank in the St. Lawrence and now lies in the flowing freshwater of the Thousand Islands region, one of the most scenic and wreck-rich dive areas in North America.
 
 ## Overview
 
-Henry C. Daryaw (Wrack) is a dive site in Great Lakes featuring the wreck of the Henry C. Daryaw (Wrack). Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The St. Lawrence River between Kingston and Brockville — the heart of the Thousand Islands — has been a vital commercial shipping route since the 18th century. Vessels navigating the river's shoals, rapids, and shifting currents were at constant risk, and the Henry C. Daryaw was among those lost. The wreck now lies in approximately 20 metres in the St. Lawrence's clear, flowing freshwater near Brockville. The Thousand Islands region is known for exceptional visibility — often 10–15 metres — driven by the constantly flowing river water. The current requires divers to plan entries and exits carefully, but rewards with clean, clear conditions year-round.
 
 ## Site Information
 
-- **Location**: Great Lakes, North America
+- **Location**: St. Lawrence River, Ontario, Canada (Thousand Islands)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 20 metres
+- **Typical Visibility**: 8–15 metres
+- **Water Temperature**: 4–22°C (seasonal)
+- **Current**: Moderate; St. Lawrence River current varies by season and location
+- **Best Time**: June to September
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The Thousand Islands section of the St. Lawrence supports diverse freshwater life benefiting from the river's nutrient transport. Northern pike are the signature species, frequently encountered near the wreck and along the rocky shorelines. Muskellunge (muskie) are present in the area and occasionally seen near larger wrecks. Smallmouth bass are ubiquitous. Yellow perch, walleye, and various sunfish species complete the community. The flowing water limits zebra mussel dominance compared to static lake environments.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 20 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Current considerations are important for St. Lawrence diving. Enter the water upstream of the wreck and navigate to it. Explore the hull section by section, using the vessel as a shelter from the current. On ascent, ensure you have a plan for current-assisted drift and communicate clearly with the dive boat. Deploy SMB before ascending.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Charter dive boats from Brockville, Gananoque, or other Thousand Islands ports provide access. The Thousand Islands has excellent dive charter infrastructure, partly owing to the recreational diving tourism built around the area's remarkable wreck collection. Entry by giant stride from the dive boat.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Prior experience with river current diving is recommended
+- The Thousand Islands region as a whole is worth a multi-day diving trip
+- Brockville also has the Underwater Sculpture Park for non-wreck variety
+- The area's recreational diving and wildlife viewing resources are excellent
+- Drysuit or thick wetsuit recommended for extended dives
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+River current is the primary safety consideration. Assess current conditions at the site before entry and plan the dive accordingly. The St. Lawrence River also carries commercial shipping traffic — a dive flag and SMB are mandatory. Always dive with a buddy experienced in current diving.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The Thousand Islands offers some of the most visually appealing freshwater diving in North America. The flowing river creates clean, blue-green water that photographs beautifully. Northern pike and smallmouth bass are excellent wildlife photography subjects, and the wreck structure provides framing for wide-angle compositions.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

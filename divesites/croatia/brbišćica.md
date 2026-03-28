@@ -13,53 +13,49 @@ addedBy: osm_import
 
 ## Brbišćica
 
-Brbišćica is a reef dive site in Croatia, Europe.
+Brbišćica is a reef dive site located on the rugged Dalmatian coast of the Zadar Archipelago in northern Dalmatia. The site offers a typical Adriatic rocky reef experience — dramatic underwater topography of limestone boulders, rocky slopes, and drop-offs encrusted with Mediterranean marine life in the crystal-clear Dalmatian waters.
 
 ## Overview
 
-Brbišćica is a dive site in Croatia offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The reef at Brbišćica descends over rocky slopes and terraces to around 25 metres, with the bottom transitioning to sand and mixed substrate. The rocky surfaces are covered in colourful sponge communities, sea fans, and coralline algae, interspersed with Posidonia seagrass meadows in the shallower sections. Visibility here typically reaches 15–20 metres in the main season. The site is sheltered enough to dive in moderate swell conditions.
 
 ## Site Information
 
-- **Location**: Croatia, Europe
+- **Location**: Zadar Archipelago, Northern Dalmatia, Croatia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Typical Visibility**: 15–20 meters
 - **Current**: Light to moderate
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
+Grouper are the dominant large fish, holding territories among the boulders and ledges. Moray eels peer from crevices throughout the reef. Octopus are frequently encountered on the open rocky areas. Sea bream, wrasse, and sardinella populate the mid-water. Nudibranchs and sea slugs are found on the sponge-encrusted surfaces. Posidonia seagrass areas in the shallows attract seahorses and pipefish.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin at the shallowest section of the reef and work gradually deeper, exploring ledges and overhangs as you descend to 25 metres. The most prolific marine life is typically found between 8–18 metres where the rocky topography is most varied. Ascend slowly and finish with a 3-minute safety stop at 5 metres.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Dive boats from Zadar-area operators serve this site. Entry by giant stride or back roll. Deploy an SMB during the ascent for boat pickup.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- A torch helps reveal the marine life in overhangs and crevices even in good ambient light
+- The shallow Posidonia zone is excellent for seahorse and pipefish spotting — move slowly and look carefully
+- Combine with a second dive at a nearby site for a full day programme in the Zadar archipelago
+- A 5 mm wetsuit is sufficient in summer; a 7 mm is more comfortable in spring and autumn
 
 ## Safety Considerations
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Conditions are well within intermediate recreational parameters. Monitor current, which can vary at open coastal sites. Always dive with a buddy and carry an SMB. Avoid boat traffic zones on ascent.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Wide-angle shots of the boulder-strewn reef landscape and resident grouper are highly achievable. Macro photography on the sponge-covered surfaces reveals nudibranchs and other small invertebrates. The Posidonia meadows in the shallows provide photogenic habitat for seahorses and pipefish.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

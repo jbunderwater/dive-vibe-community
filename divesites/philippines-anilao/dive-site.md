@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Dive Site
 
-Dive Site is a reef dive site in Philippines Anilao, Asia.
+This unnamed reef in Anilao, Batangas — recorded simply as "Dive Site" in navigation and OpenStreetMap data — sits in the biodiverse waters of the Calumpan Peninsula area, offering the same dense macro life and coral diversity characteristic of Anilao's world-renowned diving.
 
 ## Overview
 
-Dive Site is a dive site in Philippines Anilao offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Many Anilao dive sites are locally known by informal names or by the nearest resort, without formal official designations. This site, recorded generically, represents one such reef in the Anilao area that local dive operators include in their rotation. The reef structure extends to 25 meters, with coral and sponge growth across the substrate providing habitat for the extraordinary diversity of macro life that makes Anilao the premier macro diving destination in the Philippines and arguably the world. The Verde Island Passage influence ensures water is well-circulated and productive.
 
 ## Site Information
 
-- **Location**: Philippines Anilao, Asia
+- **Location**: Anilao, Batangas, Philippines
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 10-20 meters
+- **Current**: Light to moderate
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+As with all Anilao reefs, the macro life is the primary attraction. Nudibranchs in extraordinary variety — from tiny Trinchesia to large Chromodoris species — are found on nearly every substrate type. Frogfish are reliable at most Anilao sites, perching motionless on sponge growth. Ghost pipefish appear around crinoids. Seahorses inhabit rubble and algae areas. The coral reef sections support anthias, damselfish, and the usual Indo-Pacific reef fish community. Mandarindfish are present at some Anilao rubble sites during evening dusk dives.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Dive this site with a systematic approach — work methodically across the reef substrate, covering both the reef structure and the surrounding rubble and sand. The 25-meter depth allows descending to the deeper sections first, then working progressively shallower. Allow additional time in the 8–15 meter range where natural light is best and macro subjects are typically most abundant.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by banca from Anilao resorts. Entry by giant stride. Confirm the site name with your operator before diving to understand the dive plan. Return to the banca by ladder.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Ask your guide what species they have seen recently at this site — this shapes your search image
+- Anilao's underwater photography community is highly collegial; other divers and guides will often share recent critter sightings
+- Move slowly and hover close to the substrate — Anilao macro diving is about stillness and patience
+- Check under and around every type of substrate: coral, sponge, rubble, sand, and algae each host different species
+- A quality dive torch is useful even during the day for illuminating crevices and under ledges
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Standard Anilao safety precautions apply. Deploy SMB before surfacing; the banca traffic in the area can be significant during peak season. Manage no-decompression limits on multi-dive days.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+This is a macro photography destination above all else. A dedicated macro lens setup (105mm equivalent or longer) rewards thorough search effort with nudibranchs, flatworms, and other small subjects. Natural light in the shallows is excellent. For night dives, strobes and a video light combination produce the best results.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

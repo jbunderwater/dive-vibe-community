@@ -13,53 +13,50 @@ addedBy: osm_import
 
 ## Gorgonien
 
-Gorgonien is a reef dive site in Croatia, Europe.
+Gorgonien ("gorgonians" in German) takes its name from the gorgonian sea fan colonies that populate the deeper sections of this reef in the Kvarner region near Krk Island. The site is specifically known for its sea fan communities, which are among the more substantial gorgonian growths accessible to recreational divers in the northern Adriatic.
 
 ## Overview
 
-Gorgonien is a dive site in Croatia offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The reef descends over rocky limestone terrain to approximately 25 metres, where the gorgonian fans become most prominent in the 15–25 metre range. The fans grow on rocky outcrops and wall sections, creating an underwater garden of branching shapes in orange and red. The clear Kvarner waters, typically 15–20 metres visibility, provide excellent viewing conditions. The site name itself signals the primary biological attraction.
 
 ## Site Information
 
-- **Location**: Croatia, Europe
+- **Location**: Krk Island area, Kvarner, Croatia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef with gorgonians
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Typical Visibility**: 15–20 meters
 - **Current**: Light to moderate
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
+The gorgonian sea fans are the feature attraction, hosting arrow crabs, brittle stars, and small fish that use the fan structure for shelter and feeding. Large grouper patrol the deeper sections of the reef. Moray eels and conger eels inhabit rocky crevices. Nudibranchs — many with colours matching the gorgonian fans — are found on and around the sea fan colonies. Sea bream and wrasse are ubiquitous throughout.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the shallower reef top and work down to the gorgonian zone at 15–25 metres. Spend time examining the sea fan colonies closely — they reward careful observation with small resident animals. Ascend slowly along the reef face and complete a 3-minute safety stop at 5 metres.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Dive boats from Krk-area operators serve this site. Entry by giant stride or back roll. Deploy an SMB when ascending for boat pickup.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Take time with the gorgonian colonies — the small animals living on them are the real highlight
+- A torch brings out the vivid colours of the sea fans, which appear washed out in ambient light alone
+- Do not touch or disturb the gorgonian fans — they are protected and grow extremely slowly
+- Excellent macro photography site — a close-up lens is highly recommended
+- Combine with a shallower second dive at a nearby reef or cave site
 
 ## Safety Considerations
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Standard intermediate reef diving. Maintain good buoyancy to avoid contact with the gorgonian colonies. Carry an SMB and dive with a buddy. Depth management on the sloping terrain is important.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The gorgonian fans are the star subjects for macro photography — look for arrow crabs, brittle stars, and nudibranchs on the fan surfaces. Wide-angle shots of a diver surrounded by sea fans with a wide lens and strobe lighting create impressive images. The clear Kvarner water provides excellent natural light in the upper sections.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

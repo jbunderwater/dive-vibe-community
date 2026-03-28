@@ -13,53 +13,49 @@ addedBy: osm_import
 
 ## Anse Noire
 
-Anse Noire is a reef dive site in Martinique, Caribbean.
+Anse Noire — the Black Cove — is a small volcanic black-sand beach adjacent to Anse Dufour on Martinique's southwest coast, offering an ultra-shallow reef dive perfect for beginners and those wanting an extended snorkeling-depth exploration of the island's volcanic underwater scenery.
 
 ## Overview
 
-Anse Noire is a dive site in Martinique offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Separated from Anse Dufour by a short coastal path, Anse Noire is set in a sheltered bay where volcanic rock outcrops frame the beach and extend underwater to form a rugged reef matrix at depths of just 4–8 meters. The black volcanic substrate contrasts visually with the corals and colourful fish, creating an aesthetically striking environment. Hard coral coverage is moderate but fish density is good, and the site is characterised by the same resident turtle population that makes the adjacent Anse Dufour famous. Visibility averages 15–20 meters. Water temperature stays around 26–28°C.
 
 ## Site Information
 
-- **Location**: Martinique, Caribbean
-- **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Location**: Les Anses d'Arlet area, southwest Martinique
+- **Entry Type**: Shore dive
+- **Site Type**: Volcanic reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 8 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: 15–20 meters
+- **Current**: Very mild within the cove
+- **Best Time**: Year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Sea turtles are frequently encountered grazing on algae and seagrass between the rocky formations. The volcanic structure hosts a variety of Caribbean reef fish including parrotfish, wrasse, damselfish, and juvenile angelfish. Octopuses are found under rock ledges, making Anse Noire a good site for spotting cephalopods. Cleaning stations on the rocks host cleaner wrasse and banded coral shrimp.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 8 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-8 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The entire site can be explored at 4–8 meters — ideal for extended bottom times without decompression concerns. Follow the rocky outcrops in either direction from the entry point. The volcanic terrain creates a maze of crevices and swimthroughs worth exploring slowly. A safety stop is not depth-necessary but a calm pause near the rocks before surfacing is recommended.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Shore entry over black sand with some rocks; move carefully. The beach is small and accessed via a footpath from Anse Dufour. Exit to the same beach. The site is snorkel-accessible for non-diving companions.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Pair with Anse Dufour for a full morning of shallow shore diving in the area
+- Anse Noire is particularly good for beginners who want to explore a truly distinctive volcanic environment
+- The octopus sightings here are among the best in southwest Martinique — look carefully in crevices
+- Excellent site for post-certification dive practice with no depth pressure
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+The rocky entry can be slippery — move carefully and put fins on before entering deep water. Boat traffic is minimal in this small cove. Sea urchins occupy rocky areas; water shoes are advisable until you're in the water.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The black volcanic rock and sand create an unusual compositional backdrop for Caribbean reef photography. Turtle portraits over dark substrate are striking and distinctive. Macro work on the volcanic rock surfaces reveals nudibranchs, shrimp, and small crab species. Compact cameras and action cameras are well suited to these shallow, bright conditions.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

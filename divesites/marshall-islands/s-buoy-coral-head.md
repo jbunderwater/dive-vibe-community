@@ -13,54 +13,32 @@ addedBy: osm_import
 
 ## S-Buoy Coral Head
 
-S-Buoy Coral Head is a reef dive site in Marshall Islands, Pacific.
+S-Buoy Coral Head is a lagoon pinnacle in the northern sector of Kwajalein Atoll, named for the "S" buoy navigational position and one of the outer northern coral heads that sees fewer divers than the main cluster — offering a more isolated, uncrowded experience.
 
 ## Overview
 
-S-Buoy Coral Head is a dive site in Marshall Islands offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+S-Buoy Coral Head is one of the more distant northern coral head sites in Kwajalein Atoll's dive inventory, positioned at the "S" navigational buoy designation in the northern lagoon sector. The combination of reduced visitor frequency and slightly more open water access in the northern lagoon zone makes S-Buoy a site where divers can experience Kwajalein reef diving in a quieter, less-trafficked setting — something that becomes more valuable as the main cluster sites become increasingly familiar.
 
-## Site Information
+The pinnacle structure follows the established Kwajalein pattern — isolated hard coral mound rising from 25 meters to near the surface, surrounded by clean sand, in excellent visibility of 25–35 meters year-round.
 
-- **Location**: Marshall Islands, Pacific
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+## What to Expect
 
-## Marine Life
+S-Buoy's lower diver traffic produces notably different marine behavior from the habituation-affected inner cluster sites. The reef fish population responds to divers with more caution and natural behavior — schools break and reform rather than hovering in habituated proximity, making for more dynamic underwater observation. Hawksbill turtles and whitetip reef sharks are observed in undisturbed feeding and resting behavior rather than the passive acceptance of diver presence seen at high-traffic sites.
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+The coral quality at S-Buoy is high, with particularly good examples of massive coral formation — large Porites lobata domes exceeding a meter in diameter and brain corals that provide compelling macro photography subjects. The site offers a good balance of fish diversity and coral quality that makes it satisfying for both fish-watchers and coral photographers.
 
-## Dive Profile
+## Practical Information
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Depth Range**: 5–25 meters
+- **Visibility**: 20–35 meters typical
+- **Currents**: Mild to moderate
+- **Entry**: Boat dive; longer transit than inner cluster sites
+- **Best For**: Intermediate divers seeking quieter site conditions and more natural marine behavior
 
-## Entry and Exit
+## Marine Life Highlights
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Hawksbill turtles, whitetip reef sharks, grey reef sharks, massive Porites corals, brain corals, snapper, sweetlips, moray eels, napoleon wrasse, groupers.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

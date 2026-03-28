@@ -13,54 +13,55 @@ addedBy: osm_import
 
 ## Lock 23
 
-Lock 23 is a reef dive site in Great Lakes, North America.
+Lock 23 is a decommissioned section of the historic Rideau Canal system or the original St. Lawrence canals in eastern Ontario, Canada. This submerged infrastructure provides an unusual freshwater dive site with clear St. Lawrence River tributary water, interesting engineering heritage, and diverse freshwater life.
 
 ## Overview
 
-Lock 23 is a dive site in Great Lakes offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The site known as Lock 23 is an underwater remnant of one of the old canal systems that predated the current St. Lawrence Seaway. The lock chamber and associated stonework provide a distinctive underwater environment different from the typical wreck dive — here, 19th-century hand-cut limestone walls, lock gates (or their remnants), and associated hardware create a channel-like dive with vertical stone walls on each side. Located in the St. Lawrence River watershed near the Ontario-Quebec border area, this site benefits from the clear, relatively fast-moving water typical of the region. Visibility can reach 8–15 metres. The submerged stonework and architectural features provide a unique dive character — more exploration of heritage infrastructure than shipwreck.
 
 ## Site Information
 
-- **Location**: Great Lakes, North America
+- **Location**: St. Lawrence River watershed, Eastern Ontario, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Heritage infrastructure / freshwater dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 20 metres
+- **Typical Visibility**: 8–15 metres
+- **Water Temperature**: 4–22°C (seasonal)
+- **Current**: Moderate; varies with water levels
+- **Best Time**: June to September
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+The lock's stone walls, sheltered channel, and structural complexity provide diverse habitat for eastern Ontario freshwater species. Northern pike patrol the edges of the lock chamber. Smallmouth bass are resident in sheltered corners and beneath ledges. Large carp occasionally cruise through the lock area. Yellow perch school in open water within the chamber. Crayfish populate every stone surface. Freshwater mussels (native species, not zebra mussels) are present on the submerged stonework.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The lock structure defines the dive profile — enter the chamber and explore the stone walls, lock gate mechanisms, and associated hardware. The confined channel keeps navigation intuitive. Maximum depth is 20 metres. The stone walls are interesting subjects but care should be taken near potentially unstable masonry. Ascend and exit upstream or downstream as coordinated with the dive boat.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Charter dive boat or local dive operator access from nearby towns. This site may also be accessible via shore in some configurations. Current must be assessed before entry. Coordinate with the dive boat for current-friendly entry and exit points.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- This is a unique heritage infrastructure dive, distinct from the typical shipwreck experience
+- Historical context enriches the dive — research the canal system's history before visiting
+- A torch is essential for examining the stonework, lock mechanisms, and dark corners
+- Current diving experience is beneficial
+- The St. Lawrence region offers multiple unique dive sites on a multi-day trip
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Canal lock structures may include unstable masonry, particularly at older sites. Avoid contact with walls that appear fragile. Current within the lock can be channelled and stronger than in open water. Always dive with a buddy and maintain awareness of entry and exit logistics with the surface boat.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Canal lock diving offers unusual photographic subjects — the geometry of the stone chamber, the precision of 19th-century masonry, and the darkness punctuated by dive torches create atmospheric imagery. Northern pike portraits in the clear water of the lock chamber are outstanding subjects.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

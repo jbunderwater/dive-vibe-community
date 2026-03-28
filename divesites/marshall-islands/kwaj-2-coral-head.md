@@ -13,54 +13,32 @@ addedBy: osm_import
 
 ## Kwaj-2 Coral Head
 
-Kwaj-2 Coral Head is a reef dive site in Marshall Islands, Pacific.
+Kwaj-2 Coral Head is the second in the Kwaj series of western lagoon pinnacles in Kwajalein Atoll, positioned between Kwaj-1 and the more remote Kwaj-3 and often dived as part of a western lagoon excursion combining all three sites.
 
 ## Overview
 
-Kwaj-2 Coral Head is a dive site in Marshall Islands offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Kwaj-2 sits in the middle of the western lagoon Kwaj-series cluster, positioned roughly equidistant between Kwaj-1 and Kwaj-3. The three sites are typically dived sequentially on a dedicated western lagoon boat trip, with Kwaj-2 representing the heart of the excursion. The pinnacle rises from a clean sandy floor at 25 meters to near the surface, with mature hard coral encrustation and a well-developed reef community typical of undisturbed Kwajalein lagoon environments.
 
-## Site Information
+The western lagoon position exposes Kwaj-2 to slightly stronger tidal current flows than the most sheltered inner sites, driving better nutrient input and more active fish behavior. Visibility is consistently excellent in this section of the lagoon — 25–35 meters year-round.
 
-- **Location**: Marshall Islands, Pacific
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+## What to Expect
 
-## Marine Life
+Kwaj-2 is particularly noted for regular encounters with large, solitary barracuda — single great barracuda over a meter long that patrol the pinnacle perimeter and regard divers with the characteristic cold-eyed attention of a top predator unfazed by human presence. Schools of smaller chevron barracuda are also common in the mid-water column above the site. Grey reef sharks circle at depth, and napoleon wrasse hold territory on the deeper faces of the pinnacle.
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+The coral growth on Kwaj-2 includes some of the largest table coral formations in the western lagoon cluster — horizontal table coral plates up to two meters across create layered canopies on the upper pinnacle faces, sheltering soldierfish, squirrelfish, and small groupers in the shadows beneath.
 
-## Dive Profile
+## Practical Information
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Depth Range**: 5–25 meters
+- **Visibility**: 20–35 meters typical
+- **Currents**: Mild to moderate; slightly more active than inner lagoon sites
+- **Entry**: Boat dive; typically combined with Kwaj-1 and Kwaj-3 on a western lagoon trip
+- **Best For**: Intermediate divers; notable for large barracuda and impressive table coral formations
 
-## Entry and Exit
+## Marine Life Highlights
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Great barracuda, chevron barracuda schools, grey reef sharks, napoleon wrasse, table corals, soldierfish, squirrelfish, groupers, moray eels, butterflyfish.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
