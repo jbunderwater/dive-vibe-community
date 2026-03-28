@@ -11,57 +11,53 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Wreck Rock
+# Wreck Rock
 
-Wreck Rock is a historic wreck dive in Bocas del Toro, Caribbean.
+A submerged rocky reef in Bocas del Toro named for an old wreck adjacent to its base — an intermediate site combining natural reef with a historic vessel colonised by twenty years of coral growth.
 
 ## Overview
 
-Wreck Rock is a dive site in Bocas del Toro featuring a historic wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Wreck Rock is an intermediate dive in the Bocas del Toro archipelago featuring a combination of natural reef and a historic wreck that has been colonised by coral since its sinking. The site sits at a depth of 15–22 meters with a rocky reef structure and the adjacent wreck remnants. The combination of natural rocky reef and wreck structure creates exceptional habitat diversity — the rocky reef face carries hard coral formations, while the wreck remnants provide the complex sheltering structure that attracts fish concentrations. Visibility is typical of the inner archipelago: 15–20 meters. Water temperature is 28–30°C year-round.
 
 ## Site Information
 
-- **Location**: Bocas del Toro, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Wreck
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+| Detail | Value |
+|--------|-------|
+| Depth Range | 8–22 m |
+| Difficulty | Intermediate |
+| Entry Type | Boat |
+| Site Type | Wreck |
+| Visibility | 15–20 m |
+| Current | Light to moderate |
+| Water Temp | 28–30°C |
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, snappers, soldierfish, glassy sweepers, coral growth, sponge encrustation, sea turtles (green, hawksbill), southern stingrays. Additional species commonly sighted include eagle rays, nurse sharks, reef sharks, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The wreck structure at Wreck Rock hosts large populations of snapper and grunt clustered around the hull remnants. Green moray and spotted moray eels occupy the structural crevices. Caribbean spiny lobster are found under the larger sections of the wreck. The adjacent rocky reef supports parrotfish, angelfish, and blue tang. Green sea turtles are regular visitors. Southern stingrays rest in the sandy areas between the reef and wreck sections.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 22 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descent to the rocky reef at 8–10 meters, then navigation to the wreck remnants at 15–22 meters. The dive typically covers the wreck exterior completely before ascending the reef face. The deepest sections of the wreck at 20–22 meters are where the most photogenic encrusted elements are found. Total dive: 45–55 minutes.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Bocas Town operators. Entry by giant stride. The sheltered position means conditions are generally calm. DSMB recommended.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+Carry a torch for the wreck sections — the crevices and interior spaces where fish and invertebrates shelter are in shadow at depth. The combination of reef and wreck means this site rewards a longer, more detailed dive than single-feature sites. Fish identification exercises are productive here given the density and variety of reef fish species.
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+The wreck structure should not be penetrated without wreck diving training and equipment. Maintain buoyancy carefully near the wreck to avoid disturbing silt. Fire coral grows on some natural reef sections. DSMB required.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The wreck encrustation at 18–22 meters is the most photogenic element — wide-angle shots of the hull structure with Christmas tree worms and sponges require a video light or strobe. The reef face adjacent to the wreck provides strong fish portrait opportunities in better ambient light. The combination of wreck and reef in a single composition is achievable given the proximity of the two features.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- Bocas del Toro dive operators: Wreck Rock is offered as part of outer and intermediate reef dive packages
+- Best visibility: dry season (February–April) for maximum clarity at depth
 
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

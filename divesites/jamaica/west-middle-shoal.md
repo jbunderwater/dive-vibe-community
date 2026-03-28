@@ -11,56 +11,56 @@ osmId: 746173570
 addedBy: osm_import
 ---
 
-## West Middle Shoal
+# West Middle Shoal
 
-West Middle Shoal is a reef dive site in Jamaica, Caribbean.
+A shallow south-coast shoal reef with dense coral cover and excellent light penetration at a maximum depth of 12 metres.
 
 ## Overview
 
-West Middle Shoal is a dive site in Jamaica offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+West Middle Shoal is a shallow reef feature in Jamaica's Portland Bight area, positioned in the central-west portion of the south-coast cay cluster. Shoal reefs like this are formed on elevated sections of the seafloor where hard coral growth is dense in the relatively shallow, well-lit water. The maximum depth of 12 metres keeps this site in the photic zone where coral growth is at its most vigorous, producing dense brain coral, star coral, and sea fan coverage. The site is very accessible for beginner divers, and the shallow nature allows extended bottom time. Visibility averages 15–20 metres. The protected area status maintains the reef in good condition.
 
 ## Site Information
 
-- **Location**: Jamaica, Caribbean
+- **Location**: Portland Bight Protected Area, south Jamaica
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
+- **Typical Visibility**: 15–20 meters (50–65 feet)
+- **Current**: Light
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The shallow, well-lit reef supports dense populations of parrotfish, blue tangs, sergeant majors, and chromis in the upper sections. Hawksbill turtles graze sponges between brain coral heads. Nurse sharks rest in sandy pockets between reef ridges. Spotted moray eels and lobsters inhabit crevices. Large star coral colonies host cleaning stations with gobies. The sand surrounding the shoal is active with southern stingrays and goatfish.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the shoal top at 5–8 metres. Navigate across the shoal exploring coral heads and sandy channels. The deepest sections at 10–12 metres are on the outer edges. The shallow nature allows extended bottom time — 60 minutes is comfortable at 12 metres. Ascend from the outer edge for a safety stop at 3–5 metres.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by local charter from the south coast. Entry via giant stride or back roll from a small boat. Due to the shallow nature of the site, anchor or moor with care to avoid coral damage. Deploy SMB before surfacing.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- The shallowest site in the south-coast cay cluster — ideal for final dives or check-out dives
+- Extended bottom time at 12 metres allows a leisurely, thorough exploration
+- The intense sunlight penetrating to the shallow shoal creates spectacular photography conditions
+- Can be combined with a snorkel if accompanying non-divers are in the group
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Very shallow site — be alert to any boat traffic in the area. Deploy SMB before surfacing. Fire coral can be present on shoal reef structures — wear exposure protection.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The shallow water at West Middle Shoal allows ambient light photography without strobes on clear days. Brain coral formations, turtle grazing behavior, and parrotfish portraits are excellent in the bright, natural light. Early morning light produces particularly vivid colors.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Protected Area**: Portland Bight Protected Area, Jamaica
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -11,56 +11,56 @@ osmId: 4813305044
 addedBy: osm_import
 ---
 
-# Samba Vilas Biorock
+## Samba Vilas Biorock
 
-A Biorock coral restoration structure off Gili Trawangan operated in connection with the Samba Villas resort, excellent for beginner divers and conservation education.
+A Biorock reef restoration structure on Gili Trawangan's east coast — part of the Gili Eco Trust's ongoing coral rehabilitation network.
 
 ## Overview
 
-The Samba Vilas Biorock is part of the Gili Islands' extensive network of Biorock structures — the second-largest Biorock reef restoration project in the world, with more than 120 active structures collectively. Like all Gili Biorock sites, this structure was installed using Wolf Hilbertz and Thomas Goreau's electrolytic technology: a steel frame submerged and connected to a safe low-voltage electrical current, which stimulates calcium carbonate deposition and allows coral fragments to grow at three to five times their natural rate. The Samba Vilas structure sits in water from 5 meters to 18 meters, providing a calm, structured environment suited to beginners and newly certified divers. The Gili Eco Trust coordinates maintenance and monitoring of the structures across the island group.
+Samba Vilas Biorock is one of the east coast Gili Trawangan cluster of Biorock structures, part of the world's second-largest Biorock reef restoration project initiated in 2006. The structure uses low-voltage electrical stimulation to promote coral growth and has become a thriving habitat. From Lombok, divers can visit the east coast Biorock cluster as part of a multi-site Gili Trawangan day trip. Each structure in the cluster has developed slightly different fish and coral communities as the reef matures.
 
 ## Site Information
 
-- **Location**: Off Gili Trawangan, Lombok, Indonesia
+- **Location**: East coast Gili Trawangan, accessible from Lombok
 - **Entry Type**: Boat dive
-- **Site Type**: Artificial reef (Biorock structure)
+- **Site Type**: Reef / Biorock
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 18 meters (60 feet)
-- **Typical Visibility**: 10–25 meters
-- **Current**: Mild around the structure
-- **Water Temperature**: 26–30°C (79–86°F)
+- **Maximum Depth**: 18 m
+- **Typical Visibility**: 15–20 m
+- **Current**: Minimal
+- **Best Time**: Year-round
 
 ## Marine Life
 
-Biorock frames create concentrated habitat that supports unusually dense fish populations given the structure's size. Anemonefish inhabit anemones attached to the frame. Pipefish thread through coral branches growing on the steel frame. Juvenile groupers and lionfish use the structure as shelter. Flatworms and nudibranchs colonize encrusted surfaces. Octopus visit the structure at night. Turtles graze in the surrounding shallow reef area. The visual progression from bare steel frame to growing coral colony is an educational highlight of the dive.
+Lionfish, pufferfish, batfish, and sweetlips resident on the structure. Turtles along the east coast. Garden eels in sandy areas near the base. Nudibranchs on coral growth of the frame.
 
 ## Dive Profile
 
-Enter and descend to the top of the structure, which begins at around 5 meters. Work methodically across the frame sections, examining coral growth and the fish community using the structure. Maximum depth is 18 meters. Safety stop in the shallows above the structure before surfacing. Beginner divers can spend the entire dive exploring the upper sections without approaching maximum depth.
+Descend to the structure and systematically explore it. Visit multiple nearby Biorock structures in the east coast cluster in the same dive. Standard safety stop on ascent.
 
 ## Entry and Exit
 
-Short boat trip from Gili Trawangan's east side beach. Operators associated with Samba Villas and independent Gili Trawangan dive shops both visit this site. Entry by giant stride.
+Boat from Lombok or Gili Trawangan. Calm east coast. Entry via back roll. Easy conditions for beginners.
 
 ## Tips and Recommendations
 
-- Look closely at the transition zones between steel frame and growing coral — this is where the most interesting micro-organisms colonize
-- Ask your operator about the history and maintenance program for this specific structure
-- Excellent site for beginner photographers learning to work in an aquatic environment — subjects are close, calm, and abundant
-- This site can be combined with adjacent Biorock structures for a fuller Biorock tour
+- Combine with the other east coast Biorock structures for a complete cluster tour
+- Works as a second dive after a deeper natural reef dive when air budget is lower
+- Night dives reveal octopus and crabs active around the structure
+- Suitable for non-certified divers on Discover Scuba sessions in the shallows
+- The calm, predictable conditions make it ideal for equipment testing dives
 
 ## Safety Considerations
 
-Conditions at this site are gentle and well-suited to beginners. Avoid touching any part of the frame or its coral growth. The low-voltage current running through the structure is completely safe for divers. Maintain buoyancy control throughout to avoid contact with the growing coral.
+Do not touch the metal frame. Maintain buoyancy. Lionfish venomous. Low-voltage current is safe for divers and marine life. Keep fins clear of growing coral on the frame.
 
 ## Photography
 
-The Biorock frame with active coral growth creates unique images not available at natural reef sites. Close-up shots of coral fragments in various growth stages are scientifically and aesthetically interesting. Fish portraits with the structure as background are straightforward given the dense fish population. Wide-angle shots showing divers alongside the full structure demonstrate the programme's scale.
+Abstract geometry of steel frame with growing coral. Multiple structure comparison shots showing different colonisation stages. Fish portraits against the coral-encrusted background.
 
 ## Additional Resources
 
-- [Trawangan Dive – Reef Restoration Program](https://www.trawangandive.com/eco-diver/reef-restoration-program/)
-- [Gili Eco Trust – Conservation Overview](https://globalcoral.org/_oldgcra/Biorock%20%C2%A0reef%20restoration%20for%20sustainable%20ecotourism%20in%20Gili%20Trawangan.htm)
-- Last Updated: 2026-03-28
+- **Last Updated**: 2026-03-28
 
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*

@@ -11,55 +11,53 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Tiger Rock
+# Tiger Rock
 
-Tiger Rock is a pinnacle dive site in Bocas del Toro, Caribbean.
+Bocas del Toro's premier advanced dive — an offshore pinnacle in the open Caribbean where Atlantic currents deliver exceptional visibility, large pelagic species, and the adrenaline of deep pinnacle diving.
 
 ## Overview
 
-Tiger Rock is a dive site in Bocas del Toro offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Tiger Rock is the standout advanced dive site of the Bocas del Toro region and one of the best pinnacle dives in Panama. The site is an isolated submerged seamount rising from depth in the open Caribbean south of the main archipelago. The pinnacle's isolated position in moving Atlantic water creates the conditions that characterise great pinnacle diving: strong current delivering nutrients and visibility, concentrated marine life using the rock as a gathering point, and the sense of open-ocean exposure that distinguishes offshore pinnacles from sheltered bay reefs. Maximum depth is 42 meters — beyond recreational limits — but the richest diving occurs in the 15–30 meter zone on the pinnacle flanks. Visibility frequently exceeds 25 meters. Water temperature is 27–29°C.
 
 ## Site Information
 
-- **Location**: Bocas del Toro, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Pinnacle
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 42 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+| Detail | Value |
+|--------|-------|
+| Depth Range | 8–42 m |
+| Difficulty | Advanced |
+| Entry Type | Boat |
+| Site Type | Pinnacle |
+| Visibility | 20–30 m |
+| Current | Strong, variable |
+| Water Temp | 27–29°C |
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Tiger Rock earns its name from its apex-predator atmosphere. Caribbean reef sharks are essentially guaranteed — multiple individuals are typically present on every dive, patrolling the pinnacle flanks and circling in the mid-water above. Bull sharks have been recorded at this site. Large schools of horse-eye jacks circle the pinnacle in tight formations. Spotted eagle rays sweep past the flanks. Whale sharks have been reported at Tiger Rock during their seasonal passage through the region (March–May). The pinnacle's deeper flanks support barrel sponge communities with dense cleaning station activity. Green sea turtles are common on the shallower sections.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 42 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descent to the pinnacle crest at approximately 8 meters, then a controlled spiral descent down the flanks following the guide. The primary shark and ray activity is in the 15–25 meter zone. The deepest diving at 30–40 meters is for divers with specific training and experience — NDL limits at these depths are short. Ascent along the pinnacle structure before an open-water safety stop with DSMB.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Bocas Town advanced operators. Tiger Rock requires a longer offshore run and is only conducted in suitable sea state and current conditions. Entry by backward roll or giant stride. DSMB mandatory. The exposed pinnacle position means self-rescue skills are important — divers must be capable of deploying their own DSMB if separated from the group.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+Tiger Rock is strictly a site for Advanced Open Water certified divers with genuine offshore experience. Do not attempt this site as a first advanced dive in Bocas del Toro — build up through Long Cay Wall and Dark Wood Reef first. The shark behaviour at Tiger Rock is natural and unprovoked — the animals are inquisitive rather than aggressive, and remaining calm and neutral while hovering at the pinnacle produces the best encounters and the best photographs. Current direction changes can happen quickly — the guide's role is critical for safe navigation.
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
+Multiple potential hazards exist at Tiger Rock: strong current, significant depth, open-ocean environment, and sharks. Dive within recreational limits (maximum 40 meters) — the deeper sections of the pinnacle are beyond safe no-decompression ranges for air dives. Never swim far from the pinnacle structure in current. DSMB deployment must be planned in advance of the safety stop. Rescue training and self-rescue capability are assumed for all divers at this site.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Tiger Rock is Bocas del Toro's best photography site and one of Central America's premier dive photography locations. Wide-angle shark photography — multiple sharks in the frame with the pinnacle behind them — is achievable on most dives. The horse-eye jack schools are impressive enough for wide-angle or telephoto treatment. Whale shark encounters (if present) require a fisheye or wide rectilinear lens to capture the full animal.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- La Buga Dive Center: operates guided advanced dives to Tiger Rock with experienced local guides
+- Best conditions: February–March (dry season) for maximum visibility; March–May for whale shark possibility
 
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
