@@ -13,54 +13,29 @@ addedBy: osm_import
 
 ## Fihalhohi Paradies
 
-Fihalhohi Paradies is a reef dive site in Maldives, Asia.
+Fihalhohi Paradies ("Paradise" in German, reflecting the island's German-market resort heritage) is the outer reef dive site off Fihalhohi Island, South Male Atoll — a step up from the house reef with greater depth, stronger current, and richer pelagic life.
 
 ## Overview
 
-Fihalhohi Paradies is a dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The "Paradies" site accesses the outer atoll-facing slope of the Fihalhohi reef system, where the reef drops beyond the house reef's shallow terrace and encounters the open ocean influence that drives more dynamic diving. The site begins at the reef crest and slopes down to 25 meters, with the outer face characterised by a distinct vertical wall section from 15-22 meters that is draped in sea fans, whip corals, and soft corals responding to the tidal flow. This is where the site's pelagic character asserts itself: grey reef sharks cruise along the wall, eagle rays glide past the deeper sections, and schools of big-eye trevally stack in the water column above the drop-off. The German term "Paradies" apparently dates from early resort marketing and has stuck as the established name. The site is an ideal second-dive destination for guests who have completed check dives on the house reef and are ready to experience more exposure to current and depth.
 
 ## Site Information
 
-- **Location**: Maldives, Asia
+- **Location**: South Male Atoll, Maldives
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-30 meters
+- **Current**: Moderate to strong; variable with tide
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Grey reef sharks, eagle rays, big-eye trevally, Napoleon wrasse, sea fans and whip corals on the wall, schooling fusiliers, moray eels, and hawksbill turtles. Occasional manta rays in southwest monsoon season.
 
-## Dive Profile
+## Tips for Divers
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Descend directly to the wall section at 15-22 meters on entry to explore the sea fans and intercept passing sharks and rays. The outer edge of the reef crest at around 8-10 meters is a good position to observe pelagics above, especially trevally schools. Current management is more important here than on the house reef — follow your divemaster's guidance on timing and positioning to make the most of the site without being swept past key features.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

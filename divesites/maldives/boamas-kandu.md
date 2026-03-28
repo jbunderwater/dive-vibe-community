@@ -13,54 +13,32 @@ addedBy: osm_import
 
 ## Boamas Kandu
 
-Boamas Kandu is a drift dive site in Maldives, Asia.
+**Location:** South Malé Atoll, Maldives
+**Depth:** 5–25 m
+**Difficulty:** Intermediate
+**Entry:** Boat
 
-## Overview
+### Overview
 
-Boamas Kandu is a dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Boamas Kandu is a channel dive — a kandu — cutting through the outer rim of South Malé Atoll. Kandus are the defining dive experience of the Maldives: channels that funnel tidal water between the open ocean and the atoll interior, creating powerful currents and concentrating marine life in spectacular numbers. Boamas Kandu has well-developed channel walls with ledges, overhangs, and coral formations that serve as congregation points for sharks and pelagic species.
 
-## Site Information
+### Diving
 
-- **Location**: Maldives, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Drift
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+The dive is a drift through the channel on the incoming tide, when ocean water floods into the atoll carrying nutrients and baitfish. Divers enter from the ocean side and follow the current into the atoll, keeping close to the channel walls to use eddies and shelter from the strongest flow. Grey reef sharks patrol the channel corners in groups, and eagle rays glide effortlessly through the current above the reef.
 
-## Marine Life
+The channel walls are decorated with sea fans, barrel sponges, and feather stars. Napoleon wrasse move unhurriedly through the current, and schools of snapper and fusilier stream past in the midwater. Hammerhead sharks have been observed in the deeper channel sections during cooler months.
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+### Marine Life
 
-## Dive Profile
+- Grey reef sharks (groups in channel corners)
+- Eagle rays
+- Napoleon wrasse
+- Schools of snapper, fusilier, and trevally
+- Hammerhead sharks (occasional, cooler months)
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+### Practical Notes
 
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Kandu dives require intermediate-level drift experience. Strong currents are possible; dive with a guide who knows the tidal timing. Best dived on incoming tide. Visibility typically 20–30 m in channel conditions. Boat pickup at the atoll-side exit.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

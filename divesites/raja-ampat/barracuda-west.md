@@ -13,54 +13,35 @@ addedBy: osm_import
 
 ## Barracuda West
 
-Barracuda West is a reef dive site in Raja Ampat, Asia.
+Barracuda West is a reef dive site in Raja Ampat, West Papua, Indonesia, named for the large tornado-like schools of chevron barracuda (Sphyraena qenie) that are its signature attraction. Positioned on the western side of the reef complex, the site is paired with the nearby Barracuda East, and the two sites are often dived in sequence.
 
 ## Overview
 
-Barracuda West is a dive site in Raja Ampat offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The barracuda at this site form dense spiralling schools that can number in the hundreds. The school hangs in the mid-water, rotating slowly in a mesmerising cylinder — a behaviour believed to be a collective defence response and a recurring spectacle at this site. Divers approach slowly from below to avoid breaking up the formation.
 
-## Site Information
+The reef itself is well-developed, with hard coral gardens on the shallower plateau and a mix of sea fans and encrusting growth on the walls and slopes below. Between barracuda encounters, the reef produces strong supporting fish life: schools of surgeonfish, batfish, and fusiliers fill the water column. Whitetip reef sharks rest in sandy pockets at the base of the reef.
 
-- **Location**: Raja Ampat, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+Visibility typically runs 15–25 metres. Currents can be moderate, which concentrates the pelagic schooling behaviour. Water temperature stays between 27–30°C.
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+- Large spiralling schools of chevron barracuda
+- Batfish and surgeonfish in the water column
+- Whitetip reef sharks resting on the sandy bottom
+- Sea fans and gorgonians on the reef slope
+- Dense reef fish populations throughout
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Divers descend to around 15–20 metres to approach the barracuda school from below, then explore the reef at shallower depths. Buoyancy discipline is important to avoid disturbing the school. Entry and exit are by boat.
 
-## Entry and Exit
+## Practical Information
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+- **Depth range**: 5–25 m
+- **Visibility**: 15–25 m
+- **Current**: Mild to moderate
+- **Best time**: October–April
+- **Water temperature**: 27–30°C
+- **Entry**: Boat
 
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

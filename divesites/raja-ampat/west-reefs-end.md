@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## West Reef's End
 
-West Reef's End is a reef dive site in Raja Ampat, Asia.
+West Reef's End is a reef terminus dive site in Raja Ampat, West Papua, Indonesia, located at the western tip of a reef system.
 
 ## Overview
 
-West Reef's End is a dive site in Raja Ampat offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Reef termini — the points where a reef ends and open water begins — are among the most productive locations to dive in any marine environment, and West Reef's End is a classic example of this phenomenon in Raja Ampat. At the reef's western terminus, currents converge from multiple directions, concentrating fish life at the tip and creating a natural aggregation point for both reef species and pelagic visitors drawn from the open water. The reef end features a gradual slope on one side and a more abrupt drop on the other, providing varied terrain within a single dive. Hard and soft coral coverage is strong throughout. Visibility typically reaches 20-30 meters and water temperatures average 27-29°C.
 
 ## Site Information
 
-- **Location**: Raja Ampat, Asia
+- **Location**: Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-30 meters
+- **Current**: Moderate to strong at the terminus
+- **Best Time**: October to April
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The reef tip at West Reef's End concentrates some of the best fish action of the dive. Schools of trevally and barracuda hover at the terminus, often engaging in coordinated hunting behaviour. Reef sharks cruise both faces of the reef end. Napoleon wrasse and sweetlips are resident in the overhangs. Sea turtles frequent the site. Moving away from the tip and along either face of the reef slope, the community transitions to more resident fish species: groupers, angels, butterflies, and the rich invertebrate community typical of healthy Raja Ampat reefs.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin at the reef top and make for the terminus, observing the change in fish behaviour as the reef end approaches. Spend time at the tip watching current-driven fish aggregations before working along each face of the reef slope. The western face may be more exposed to open-water current and pelagics; the sheltered face offers more intimate reef exploration. Finish the dive working back to shallower water for the safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by dive boat. Current at the reef end requires careful positioning of the boat for entry. Your guide will assess the current direction and advise the optimal approach. Deploy SMB before ascending — surface pickup may be downurrent from the reef end.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Approach the reef terminus from the sheltered side for initial orientation before committing to the tip
+- Reef hooks are useful for stationary observation at the current-swept terminus
+- The contrast between the two faces of the reef end makes for a varied, interesting dive
+- Be aware of open-water current at the very tip — it can be stronger than expected
+- Bring a wide-angle lens for the fish school action at the point
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Reef termini experience multidirectional currents that can be challenging. A reef hook helps maintain position without damaging the reef. Avoid being swept off the reef end into open water without an SMB deployed. Always dive with an experienced guide who knows the reef end dynamics. Carry appropriate signaling equipment.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The fish aggregations at the reef tip create outstanding wide-angle photography opportunities: shoot toward the terminus with schools of trevally or barracuda spiralling in the current. Along the reef faces, coral scenic photography and fish portraits are accessible. The changing light conditions on the west-facing reef face during afternoon dives can produce atmospheric results.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

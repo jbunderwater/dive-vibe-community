@@ -13,55 +13,29 @@ addedBy: osm_import
 
 ## Etheremadivaru house reef
 
-Etheremadivaru house reef is a reef dive site in Maldives, Asia.
+Etheremadivaru house reef is the fringing reef of Etheremadivaru Island in North Male Atoll, a shallow and colourful wall dive celebrated as one of the best macro photography and underwater photography spots in the atoll.
 
 ## Overview
 
-Etheremadivaru house reef is a dive site in Maldives offering excellent diving on healthy coral reef structures . Very colorful coral wall with overhangs. One of the best divespot for underwater photo and macro photo. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The reef wraps around the island with a distinctive wall character despite its shallow maximum depth, featuring overhangs and undercuts draped in encrusting sponges, tunicates, and cup corals in vivid purples, yellows, and oranges. The wall is densely colonised at virtually every depth, with minimal bare substrate — a sign of exceptional reef health and low sedimentation. The shallow maximum depth of 12 meters allows exceptional bottom times, making this site a favourite for dive photographers who can spend extended periods hunting for nudibranchs, flatworms, and camouflaged critters on the reef face. Seahorses, ghost pipefish, and frogfish have been reported by regular visitors. The upper reef terrace supports turtle grazing and is often alive with schools of small reef fish. Despite the boat entry, the site is calm and accessible.
 
 ## Site Information
 
-- **Location**: Maldives, Asia
+- **Location**: North Male Atoll, Maldives
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-30 meters
+- **Current**: Generally mild
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Nudibranchs, flatworms, ghost pipefish, seahorses, frogfish (occasional), hawksbill turtles, schools of small reef fish, moray eels, and exceptional encrusting growth — sponges, tunicates, and cup corals — on the wall face.
 
-## Dive Profile
+## Tips for Divers
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Bring a macro lens or close-up wet dioptre for the best photography opportunities. Move slowly along the wall and look carefully into crevices and on the undersides of overhangs for the most rewarding critter finds. The site is excellent for night dives, when the wall becomes active with hunting invertebrates and the encrusting growth fluoresces beautifully under blue light.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

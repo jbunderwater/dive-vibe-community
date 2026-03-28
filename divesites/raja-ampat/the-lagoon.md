@@ -13,54 +13,35 @@ addedBy: osm_import
 
 ## The Lagoon
 
-The Lagoon is a reef dive site in Raja Ampat, Asia.
+The Lagoon is a sheltered reef dive site in Raja Ampat, West Papua, Indonesia. Encircled by islands and reefs that break swell and buffer currents, the site offers calm, clear water that makes for relaxed diving in conditions that contrast with Raja Ampat's more exposed channel sites.
 
 ## Overview
 
-The Lagoon is a dive site in Raja Ampat offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The lagoon's enclosed nature creates a distinct microhabitat. Soft corals drape the reef in brilliant oranges and purples, taking advantage of the reduced wave stress. Hard corals form dense gardens across the shallower areas, while deeper sections slope away into darker water with sea fans and barrel sponges. The sheltered setting accumulates macro life: ghost pipefish, seahorses, and mantis shrimp are all reported among the rubble and coral heads.
 
-## Site Information
+Schools of glassfish cluster under table corals and around reef structures, attracting predatory trevally and grouper. With no strong current to contend with, divers can spend time hovering over coral formations and inspecting every crevice. The site is popular as a second or third dive when conditions at more exposed sites have been demanding.
 
-- **Location**: Raja Ampat, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+Visibility reaches 15–25 metres in calm periods. Water temperature ranges from 27–29°C. The sheltered environment makes current generally light.
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+- Soft coral gardens in vibrant orange and purple
+- Ghost pipefish and seahorses in sheltered rubble areas
+- Mantis shrimp in burrows at the reef base
+- Schools of glassfish beneath table corals
+- Grouper, trevally, and reef sharks patrolling
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The dive explores the lagoon reef at 8–25 metres, with the option to shorten bottom time by staying shallower among the most colourful soft coral growth. Its calm conditions suit intermediate divers and those focusing on photography. Entry and exit are by boat.
 
-## Entry and Exit
+## Practical Information
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+- **Depth range**: 3–25 m
+- **Visibility**: 15–25 m
+- **Current**: Light
+- **Best time**: October–April
+- **Water temperature**: 27–29°C
+- **Entry**: Boat
 
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

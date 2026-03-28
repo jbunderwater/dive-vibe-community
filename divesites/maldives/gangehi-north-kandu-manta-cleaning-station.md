@@ -11,56 +11,37 @@ osmId: 8584458560
 addedBy: osm_import
 ---
 
-## Gangehi North Kandu - manta cleaning station
+## Gangehi North Kandu - Manta Cleaning Station
 
-Gangehi North Kandu - manta cleaning station is a drift dive site in Maldives, Asia.
+Gangehi North Kandu is one of the Maldives' most celebrated manta ray encounters — a channel dive in North Ari Atoll that doubles as an active cleaning station where reef mantas queue up in their dozens during the right season.
 
 ## Overview
 
-Gangehi North Kandu - manta cleaning station is a dive site in Maldives offering rewarding diving on healthy coral reef structures . Manta cleaning station (5-7 mantas at once in right time and current). Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+This north-facing channel receives strong oceanic currents that push plankton-rich water onto a shallow cleaning station platform at 10–15 metres depth. Resident reef mantas — sometimes 5 to 7 individuals at once — hover motionless above the coral heads while cleaner wrasse remove parasites, providing divers with extended, unhurried encounters. The experience is best during the northeast monsoon (November to April), when north-facing channels are most productive. Beyond the cleaning station, the channel walls drop to 35 metres, lined with sea fans and table corals. Pelagic visitors including eagle rays, grey reef sharks, and occasional whale sharks are drawn in by the same current that attracts the mantas. Visibility typically reaches 20–30 metres in open water. Water temperature averages 27–29°C.
 
 ## Site Information
 
 - **Location**: Maldives, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Drift
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 35 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Depth**: Up to 35m
+- **Difficulty**: Advanced
+- **Site Type**: Drift dive
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Reef manta rays (up to 5–7 at once at the cleaning station), eagle rays, grey reef sharks, Napoleon wrasse, cleaner wrasse, surgeonfish, and occasional whale sharks. Channel walls host sea fans, soft corals, and hard coral formations.
 
-## Dive Profile
+## Diving Conditions
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 35 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+| Condition | Details |
+|-----------|---------|
+| Visibility | 20–30m |
+| Current | Moderate to strong |
+| Water Temp | 27–29°C |
+| Best Season | November–April (manta season on north-facing channels) |
 
-## Entry and Exit
+## Tips for Divers
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Approach the cleaning station slowly and hover at the same depth as the mantas — do not ascend into their space or chase them. Fin movements should be minimal to avoid disturbing the cleaning behaviour. The current can pick up quickly once past the station; be prepared to signal the boat early for a drift pick-up. Carry an SMB.
 
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

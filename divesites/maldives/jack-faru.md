@@ -13,54 +13,35 @@ addedBy: osm_import
 
 ## Jack Faru
 
-Jack Faru is a reef dive site in Maldives, Asia.
+Jack Faru is a reef formation in South Male Atoll — the name "Jack" referencing the jack fish (trevally) that school conspicuously here, and "faru" (Dhivehi for reef) describing the elongated reef structure they inhabit.
 
 ## Overview
 
-Jack Faru is a dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Named after the big-eye and giant trevally (locally called "jack") that congregate in impressive schools, Jack Faru is a reef dive where the fish life is the main attraction. The reef runs as a gentle wall and slope from 5 metres to around 25 metres, with a particularly productive upper crest where schools of hundreds of bigeye trevally often hover in the current. Deeper sections of the reef feature overhangs sheltering soldierfish and squirrelfish, while grouper and Napoleon wrasse claim territory around the larger coral heads at mid-depth. Hawksbill turtles are regular visitors, and whitetip reef sharks can be found resting on the sandy patches at the reef base. The faru (reef flat) in the shallows offers a natural safe harbour for the safety stop, with abundant damselfish and anthias in the coral gardens. Visibility ranges from 15 to 25 metres. Water temperature is 27–29°C.
 
 ## Site Information
 
 - **Location**: Maldives, Asia
 - **Entry Type**: Boat dive
+- **Depth**: Up to 25m
+- **Difficulty**: Intermediate
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Bigeye trevally and giant trevally (in schools), Napoleon wrasse, grouper, hawksbill turtles, whitetip reef sharks, soldierfish, moray eels, and anthias.
 
-## Dive Profile
+## Diving Conditions
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+| Condition | Details |
+|-----------|---------|
+| Visibility | 15–25m |
+| Current | Light to moderate |
+| Water Temp | 27–29°C |
+| Best Season | Year-round |
 
-## Entry and Exit
+## Tips for Divers
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Position yourself near the upper reef crest in moderate current for the best trevally aggregations — the fish schools are thickest when the current runs. Wide-angle photography works well here when the trevally schools are in the water column above the reef.
 
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

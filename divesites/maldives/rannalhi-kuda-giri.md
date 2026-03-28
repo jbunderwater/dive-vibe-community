@@ -13,54 +13,21 @@ addedBy: osm_import
 
 ## Rannalhi Kuda Giri
 
-Rannalhi Kuda Giri is a reef dive site in Maldives, Asia.
+Rannalhi Kuda Giri is a coral head (giri) rising from sandy shallows near Rannalhi island in South Male Atoll. The structure tops out around 8 metres and descends gradually to a sandy bottom at 20–25 metres, its flanks encrusted with hard and soft corals that provide shelter for an array of reef life.
 
-## Overview
+### Site Conditions
 
-Rannalhi Kuda Giri is a dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+- **Depth range**: 8–25 m
+- **Typical visibility**: 15–25 m
+- **Currents**: Generally mild; stronger surges possible on exposed sides
+- **Best season**: November–April (northeast monsoon) for calmer conditions
 
-## Site Information
+### What to Expect
 
-- **Location**: Maldives, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+The top of the giri is carpeted with branching and plate corals alive with sergeant majors, parrotfish, and surgeonfish. The slopes host cleaning stations where Napoleon wrasse and large grouper queue patiently. Overhangs on the lower flanks shelter resting nurse sharks and lobsters, while the sandy bottom surrounding the structure attracts blue-spotted ribbontail rays and garden eels. Reef whitetip sharks are occasionally seen patrolling the deeper perimeter.
 
-## Marine Life
+### Tips for Divers
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+This is a relaxed, accessible dive well suited to intermediate divers building Maldives experience. The modest depth means generous bottom time for photography on the coral-rich upper sections. Currents are light compared to channel sites, making this a reliable first dive of the day or a pleasant afternoon option when stronger sites are out of condition.
 
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

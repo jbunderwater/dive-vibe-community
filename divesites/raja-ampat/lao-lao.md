@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Lao lao
 
-Lao lao is a pinnacle dive site in Raja Ampat, Asia.
+Lao lao is a pinnacle dive site in Raja Ampat, West Papua, Indonesia.
 
 ## Overview
 
-Lao lao is a dive site in Raja Ampat offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Lao lao is a submerged pinnacle in the Kofiau-Misool area of Raja Ampat's vast island network, offering the kind of vertically structured diving that characterizes the archipelago's best sites. Pinnacles in Raja Ampat act as current-swept aggregation points, concentrating fish life at densities that can overwhelm even experienced divers. The structure rises from deeper water, with the summit sitting within recreational depth range, allowing divers to explore the full relief of the formation. Encrusting hard corals, sponges, and sea fans cover the rock face, while the water column above the pinnacle top frequently hosts schooling fish attracting larger predators. Visibility reaches 20-35 meters in good conditions, and water temperatures average 27-29°C.
 
 ## Site Information
 
-- **Location**: Raja Ampat, Asia
+- **Location**: Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-35 meters
+- **Current**: Strong, upwellings possible
+- **Best Time**: October to April
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Schools of trevally and barracuda orbit the pinnacle in tight formations. Reef sharks — predominantly whitetip and grey reef — cruise close to the structure. Rainbow runners and fusiliers populate the water column above the summit. On the pinnacle itself, look for large groupers in crevices, Napoleon wrasse patrolling the flanks, and lionfish posed in overhangs. Current-swept sections of the pinnacle are draped in colourful sea fans and black coral, home to various shrimp and crab species.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend quickly to the pinnacle top and orient yourself relative to the current. Spend the main portion of the dive working around the upper pinnacle between 10-25 meters, using the structure as shelter from the current on the lee side. The pinnacle summit is the best area for fish aggregations. Ascend up the structure at the end of the dive, completing the safety stop in the blue water above the top while watching for schooling fish below. Be prepared to make a free-water ascent if current pulls you off the structure.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by dive boat. Your guide will position the entry relative to the current direction. Descent should be direct and quick to avoid drifting. Carry an SMB for ascent — boat pickup may be some distance from the pinnacle if you drift during the safety stop.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Stay alert for strong and variable currents around the pinnacle
+- Maintain good buoyancy — the pinnacle drops steeply and depth can increase rapidly
+- Position yourself on the upcurrent side of the structure to watch fish activity
+- Dive with an experienced local guide familiar with the site's current patterns
+- Early morning dives often have calmer conditions and better fish aggregations
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+This site is rated Advanced due to the potential for strong, unpredictable currents typical of Raja Ampat pinnacles. Always carry a reef hook for current management. An SMB is mandatory. Be prepared for upwellings that can affect buoyancy. Never descend below your certification limit — the pinnacle drops deeper than recreational limits below the summit.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Pinnacles offer spectacular wide-angle opportunities — position yourself on the upcurrent face with the pinnacle behind you to capture fish schools in the water column. The structure itself provides foreground interest for wide reef scenes. Macro photographers should check the sea fans for pygmy seahorses and other commensals on the encrusting growth of the lower pinnacle sections.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

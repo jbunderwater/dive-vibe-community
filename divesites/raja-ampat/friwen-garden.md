@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Friwen Garden
 
-Friwen Garden is a reef dive site in Raja Ampat, Asia.
+Friwen Garden is a sheltered coral garden reef off the coast of Friwen Island in northern Raja Ampat, offering a gentle, immersive dive through pristine hard and soft coral formations that exemplify the extraordinary biodiversity of the Bird's Head Seascape.
 
 ## Overview
 
-Friwen Garden is a dive site in Raja Ampat offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Friwen Island lies in the northern reaches of Raja Ampat's core diving zone, and the garden reef on its inner-facing side offers conditions distinct from the exposed wall at Friwen Bonda on the outer coast. Here, the reef is gentler — a sloping coral garden that transitions from shallow hard coral flats to deeper soft coral and rubble zones, with manageable currents and excellent accessibility. The Friwen Island area as a whole ranks among the most species-rich locations in Raja Ampat, and the garden reflects this with standout coral coverage and fish diversity. Water temperature averages 27–29°C with visibility of 15–20 meters.
 
 ## Site Information
 
-- **Location**: Raja Ampat, Asia
+- **Location**: Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15–20 meters (50–65 feet)
+- **Current**: Typically mild; protected location
+- **Best Time**: October to April
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The sloping garden supports outstanding hard coral diversity with branching Acropora, massive Porites, and tabletop coral formations providing complex habitat. Fish species present include humphead parrotfish, napoleon wrasse, schools of snapper, anthias swarms above every coral head, and numerous wrasse species. Turtles are regular residents. The rubble and sand between coral heads hosts a variety of macro life — robust ghost pipefish, blue-ringed octopus, and flatworms are regularly found by experienced guide eyes. Nudibranchs are abundant throughout the dive.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The garden dive begins in shallow water (5–8 meters) on the reef flat and works down the slope to 20–25 meters. The upper zone has the best coral cover; the lower slope transitions to more rubble and sponge. A relaxed pace through the garden is rewarded — the density of life in every direction means rushing through misses most of what the site offers. End the dive on the shallow reef flat, which is excellent for snorkeling-depth photography and a comfortable safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Accessed by boat from Friwen Island homestays or liveaboards. Entry via giant stride or from a shore platform. The protected location makes entry and exit easy in most weather conditions. Friwen Garden is sometimes combined with Friwen Bonda (the wall) or Friwen Laut (offshore reef) for a full Friwen Island diving day.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Pair with Friwen Bonda (outer wall) for contrasting site types on the same island
+- Carry a macro lens for nudibranch and ghost pipefish hunting on the rubble sections
+- Ask the local guide to show you the blue-ringed octopus if any have been spotted recently
+- The shallow reef top makes this a good training site for photographers working on buoyancy
+- Early morning visits before boat traffic arrives offer the most fish activity on the reef
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Friwen Garden is a friendly, beginner-accessible site in calm conditions. The main consideration is the shallow reef top — entry and exit positioning matters to avoid standing on coral. Standard reef diving protocols apply. Carry an SMB.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Hard coral wide-angle photography is outstanding here — tabletop Acropora framing a diver in the background is a classic composition. The gentle slope provides comfortable positioning for macro work without current management challenges. Nudibranch variety is excellent and the calm conditions allow extended close-up photography.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

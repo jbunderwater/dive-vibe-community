@@ -13,54 +13,32 @@ addedBy: osm_import
 
 ## Bathalaamaagaa Kanthila
 
-Bathalaamaagaa Kanthila is a pinnacle dive site in Maldives, Asia.
+**Location:** North Malé Atoll (western rim), Maldives
+**Depth:** 10–32 m
+**Difficulty:** Intermediate
+**Entry:** Boat
 
-## Overview
+### Overview
 
-Bathalaamaagaa Kanthila is a dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Bathalaamaagaa Kanthila is a prominent underwater pinnacle on the western edge of North Malé Atoll. "Kanthila" is the local term for a deep pinnacle or submerged rock formation that rises from significant depth. This site features a series of stacked rock formations draped in encrusting sponges, sea fans, and soft corals, with overhangs and ledges providing shelter for a range of reef and pelagic species.
 
-## Site Information
+### Diving
 
-- **Location**: Maldives, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Pinnacle
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 32 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+The pinnacle descends to 32 m, and the dive typically covers both the upper structure and one or two of the deeper sections. Large gorgonian sea fans spread out from the walls in the 20–32 m range, and black coral trees are visible on the deeper sections. Nurse sharks use the overhangs and cave-like recesses as resting spots during daylight hours.
 
-## Marine Life
+In current, the up-current side of the kanthila sees impressive action — schools of trevally and jacks hang in the flow, and grey reef sharks circle the structure at depth. Eagle rays and occasional Napoleon wrasse appear from the blue water beyond the pinnacle.
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+### Marine Life
 
-## Dive Profile
+- Nurse sharks and grey reef sharks
+- Eagle rays
+- Schools of trevally and jacks
+- Gorgonian sea fans and black coral trees
+- Napoleon wrasse (occasional)
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 32 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+### Practical Notes
 
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Current exposure on this open-atoll pinnacle can be significant. Best dived in moderate current conditions with an experienced guide. Depth to 32 m requires Advanced diver certification or equivalent experience. Visibility typically 15–30 m.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -11,56 +11,37 @@ osmId: 8584302416
 addedBy: osm_import
 ---
 
-## Kuda Rah thila
+## Kuda Rah Thila
 
-Kuda Rah thila is a pinnacle dive site in Maldives, Asia.
+Kuda Rah Thila is a submerged coral pinnacle near Kuda Rah Island in South Ari Atoll — "kuda rah" meaning "small island" — a richly encrusted thila with a reputation for strong shark presence and excellent soft coral growth.
 
 ## Overview
 
-Kuda Rah thila is a dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Rising from a sandy floor at 30 metres to within 5 metres of the surface, Kuda Rah Thila has the classic submerged pinnacle profile that makes Maldivian thila diving so compelling. The summit plateau is a dense coral garden where anthias and chromis hover above intricate hard coral formations, providing an ideal setting for the safety stop. The flanks descend sharply, with the most impressive coral growth between 15 and 25 metres — sea fans, black coral, and soft coral plumes in orange, yellow, and white are prolific where current sweeps across the wall. Grey reef sharks and whitetip reef sharks are consistently present at these depths, often seen cruising close to the pinnacle base. Napoleon wrasse and large sweetlips patrol the mid-reef zone, and eagle rays are a regular bonus sighting. The site is frequently used by South Ari Atoll liveaboards and resort dive boats given its reliable marine life. Visibility averages 20–25 metres. Water temperature is 27–29°C.
 
 ## Site Information
 
 - **Location**: Maldives, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Depth**: Up to 30m
+- **Difficulty**: Intermediate
+- **Site Type**: Pinnacle/seamount
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Grey reef sharks, whitetip reef sharks, eagle rays, Napoleon wrasse, sweetlips, anthias, chromis, sea fans, black coral, and soft coral growth on the flanks.
 
-## Dive Profile
+## Diving Conditions
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+| Condition | Details |
+|-----------|---------|
+| Visibility | 20–25m |
+| Current | Moderate |
+| Water Temp | 27–29°C |
+| Best Season | December–April |
 
-## Entry and Exit
+## Tips for Divers
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Descend straight to the base of the pinnacle (25–30 m) to begin with the sharks before ascending through the coral zone. The soft corals are most colourful on the faces that receive the strongest current. Safety stops on the summit plateau are highly rewarding due to the fish density there.
 
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

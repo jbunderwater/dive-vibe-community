@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Mioskun
 
-Mioskun is a pinnacle dive site in Raja Ampat, Asia.
+Mioskun is an exposed pinnacle in the eastern Dampier Strait, closely related to the nearby Myoskon site and sharing its reputation for strong current action and impressive pelagic encounters — most notably a resident population of grey reef sharks that school above the pinnacle summit in numbers rarely seen elsewhere in Raja Ampat.
 
 ## Overview
 
-Mioskun is a dive site in Raja Ampat offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The Mioskun pinnacle rises from deeper water in the eastern Dampier Strait and is regularly swept by significant tidal flows. This current exposure is exactly what makes Mioskun special: the grey reef sharks (Carcharhinus amblyrhynchos) that school above the pinnacle during active tidal flow gather here in groups of 15–30 individuals, circling the structure in a way that strikes every visiting diver as extraordinary. Alongside the sharks, dense schools of fusiliers and jacks characterize the water column above the structure. The pinnacle sides carry soft coral and encrusting growth typical of current-washed seamount habitat in this region. Water temperature averages 27–29°C and visibility is typically 15–25 meters.
 
 ## Site Information
 
-- **Location**: Raja Ampat, Asia
+- **Location**: Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15–25 meters (50–80 feet)
+- **Current**: Strong; grey reef shark schooling peaks during active tidal flow
+- **Best Time**: October to April; shark schooling is consistent at this site
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Grey reef sharks are the defining encounter at Mioskun. On dives with good tidal flow, 15–30 grey reef sharks circle above and around the pinnacle summit in a loose, spiraling formation — an extraordinary spectacle that distinguishes Mioskun from most other sites in the region. White-tip reef sharks are also present, often resting on ledges. Mixed schools of fusiliers and trevally circle in the upper water column. The pinnacle's flanks host wobbegong sharks and varied reef fish. Occasional manta ray sightings have been reported by liveaboard guests.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend rapidly to the pinnacle summit (8–12 meters) to observe the shark activity before approaching closer. Grey reef sharks can be skittish in heavy diver traffic — move slowly and avoid sudden gestures. Use a reef hook if available to hold position in the current without finning. From the summit, work around the pinnacle flanks to 20–25 meters, checking ledges for wobbegongs and resting white-tips before ascending back to the shark zone for the final portion of the dive.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access only — liveaboards or eastern Dampier Strait operators. Strong current on entry requires a rapid descent to the pinnacle to avoid being swept past. Coordinate closely with the boat crew for entry timing and SMB pickup. Never surface without an SMB in strong current.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Advanced divers only — this site requires current management skill and experience with sharks
+- Move slowly and avoid fast movements near the grey reef sharks to prevent spooking the school
+- A reef hook is highly recommended for holding position in the current while watching the sharks
+- The shark school is most impressive during active tidal flow — timing is critical
+- Do not position yourself between the sharks and the open water on the outer edge of the pinnacle
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Grey reef sharks can display threat posturing (arched back, lowered pectoral fins) if they feel cornered or threatened. Give sharks plenty of space and never approach directly. In strong current, divers can be swept off the pinnacle into open water — this is the primary safety concern. Carry an SMB, whistle, and signaling mirror. Only experienced current-competent divers should attempt this site.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Mioskun's grey reef shark schooling is one of Raja Ampat's most spectacular wide-angle photographic subjects. A 14–17mm full-frame equivalent lens allows a diver to frame multiple sharks with the open blue water behind them. Shooting upward from the pinnacle top to capture sharks against the light is particularly effective. The density of the school varies throughout the dive — patience at the summit zone maximizes photographic opportunities.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

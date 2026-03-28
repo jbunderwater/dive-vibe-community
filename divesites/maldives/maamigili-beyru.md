@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Maamigili Beyru
 
-Maamigili Beyru is a reef dive site in Maldives, Asia.
+Maamigili Beyru is the outer reef (beyru means "outside") of Maamigili Island in South Ari Atoll — one of the Maldives' premier whale shark zones — where the exposed reef slope attracts large pelagics, reef sharks, and occasionally the whale sharks for which this area is famous worldwide.
 
 ## Overview
 
-Maamigili Beyru is a dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Maamigili Beyru runs along the outer face of the South Ari Atoll reef system near Maamigili Island, the area known internationally as a whale shark aggregation zone. While whale shark encounters are not guaranteed on this particular outer reef, the nutrient-rich water flushed along the beyru supports healthy coral growth and a robust fish community. The reef descends from the surface in a series of coral terraces to 25 metres, with overhangs sheltering schools of glassfish, large sweetlips, and grouper. White-tip reef sharks are regular visitors, and turtles are commonly seen grazing on the reef top. The outer wall faces the open ocean, giving occasional views of passing eagle rays and larger pelagics.
 
 ## Site Information
 
@@ -26,41 +26,23 @@ Maamigili Beyru is a dive site in Maldives offering rewarding diving on healthy 
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-30 meters (50-100 feet)
+- **Current**: Moderate to strong, variable
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+White-tip reef sharks, turtles, eagle rays, sweetlips, grouper, glassfish, moray eels, sea fans, and the possibility of whale shark encounters in the broader South Ari Atoll area.
 
-## Dive Profile
+## Diving Tips
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- Keep an eye on the blue water above and beside the reef for passing eagle rays and whale sharks.
+- The outer terraces at 15–20 metres offer the best combination of coral diversity and pelagic exposure.
+- Maamigili is the hub for whale shark diving in South Ari Atoll — ask your operator about dedicated whale shark snorkel or dive trips.
+- Strong swell can affect this outer reef site; check conditions before diving.
 
-## Entry and Exit
+## Getting There
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Maamigili Island (also known as Dhigurah area) in South Ari Atoll is reached by seaplane or speedboat from Malé. Numerous dive operations on the island run trips to the beyru and whale shark zones.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

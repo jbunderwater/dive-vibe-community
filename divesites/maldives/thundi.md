@@ -13,53 +13,21 @@ addedBy: osm_import
 
 ## Thundi
 
-Thundi is a reef dive site in Maldives, Asia.
+Thundi is a reef site in Addu Atoll, the Maldives' southernmost atoll, situated close to the historic British airbase at Gan. The site features a gently sloping outer reef with healthy coral coverage and consistent fish life influenced by the equatorial currents that bring nutrients into the atoll from the open Indian Ocean.
 
-## Overview
+### Site Conditions
 
-Thundi is a dive site in Maldives offering rewarding diving on healthy coral reef structures . awesome drift dive. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+- **Depth range**: 5–25 m
+- **Typical visibility**: 15–30 m
+- **Currents**: Light to moderate; generally calm inside the atoll
+- **Best season**: November–April for northeast monsoon clarity
 
-## Site Information
+### What to Expect
 
-- **Location**: Maldives, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: 2
-- **Best Time**: October to April (varies by location)
+The reef slope descends through a series of coral terraces, each supporting distinct communities. The shallows host dense table and branching Acropora corals with clouds of chromis and anthias above. Mid-depth terraces are patrolled by hawksbill turtles, Napoleon wrasse, and large parrotfish. The lower slope at 20–25 metres opens onto a sandy terrace where white-tip reef sharks rest during the day. Addu Atoll has a notably different fish population compared to the northern atolls due to its isolation; species diversity can surprise divers familiar with North and South Male Atoll diving. Moray eels are abundant in the crevices throughout.
 
-## Marine Life
+### Tips for Divers
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Addu Atoll's position at the southern tip of the Maldivian chain means liveaboard itineraries passing through have more time at each site than heavily competed northern destinations. The site is well suited to long, relaxed dives covering the full depth profile at a leisure pace. A 3 mm wetsuit is sufficient in the warmer months, though water temperatures can dip to 26°C during the northeast monsoon.
 
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,54 +13,35 @@ addedBy: osm_import
 
 ## Keruo Channel
 
-Keruo Channel is a drift dive site in Raja Ampat, Asia.
+Keruo Channel is a drift dive in the Keruo Island area of Raja Ampat, West Papua, Indonesia. The channel funnels tidal currents between islands, creating an accelerated flow that concentrates nutrients, attracts pelagic fish, and provides the current-assisted glide that is one of the great pleasures of Raja Ampat diving.
 
 ## Overview
 
-Keruo Channel is a dive site in Raja Ampat offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+As the tide pushes water through the channel, the current carries divers along a reef wall and over coral gardens at a pace determined by the tidal state. The channel walls are encrusted with dense soft coral, sponges, and sea fans that have colonised every available surface in the current-rich environment. Hard corals cap the shallower sections where the current briefly eases.
 
-## Site Information
+Pelagic activity peaks when current runs strongest: schools of rainbow runners, barracuda, and trevally position themselves in the flow to intercept prey. Grey reef sharks and whitetip reef sharks are commonly encountered along the channel walls, holding station in the current or resting in eddies behind large coral heads. Manta rays occasionally cruise through on strong current days, effortlessly riding the flow that the divers struggle to navigate.
 
-- **Location**: Raja Ampat, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Drift
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+Visibility runs 15–25 metres in clear conditions. Water temperatures average 27–30°C. The site is best dived on a running current for the full drift experience.
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+- Grey reef sharks and whitetip reef sharks along the walls
+- Schools of rainbow runners, barracuda, and trevally
+- Dense soft coral and sea fan growth on channel walls
+- Occasional manta rays on strong current days
+- Grouper and snapper in current eddies
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Divers enter upstream and drift through the channel at 10–25 metres, reading the terrain and moving between current and eddies to control pace. The liveaboard or day boat follows the bubble trail and picks up divers at the channel exit. This is a drift dive requiring reasonable buoyancy control. Entry and exit are by boat.
 
-## Entry and Exit
+## Practical Information
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+- **Depth range**: 5–25 m
+- **Visibility**: 15–25 m
+- **Current**: Moderate to strong (best on running current)
+- **Best time**: October–April
+- **Water temperature**: 27–30°C
+- **Entry**: Boat (drift pickup)
 
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

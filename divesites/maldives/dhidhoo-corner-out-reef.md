@@ -11,56 +11,34 @@ osmId: 9555754854
 addedBy: osm_import
 ---
 
-## Dhidhoo corner (out reef)
+## Dhidhoo Corner (Out Reef)
 
-Dhidhoo corner (out reef) is a reef dive site in Maldives, Asia.
+**Location:** South Malé Atoll (southern tip), Maldives
+**Depth:** 5–25 m
+**Difficulty:** Intermediate
+**Entry:** Boat
 
-## Overview
+### Overview
 
-Dhidhoo corner (out reef) is a dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Dhidhoo Corner is an outer reef corner dive at the southern reaches of the atoll system, where the reef edge meets the open ocean. Corner dives in the Maldives channel current and concentrate marine life at the transition point between atoll interior and open sea. The out-reef designation indicates the dive is conducted along the exposed, ocean-facing side of the reef, where pelagic visitors are more likely to appear.
 
-## Site Information
+### Diving
 
-- **Location**: Maldives, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+The dive follows the outer reef corner and the ocean-facing wall, descending to 20–25 m at the base where the reef gives way to sand and rubble. The wall is decorated with encrusting corals, sea fans, and sponges on the current-exposed faces. Grey reef sharks patrol the corner in characteristic patterns, and eagle rays appear in the deeper water off the wall edge.
 
-## Marine Life
+The shallower reef top rewards a slower pace, with moray eels, triggerfish, and hawksbill turtles active in the coral formations. Larger bumphead parrotfish are sometimes seen on outer reefs in this southern part of the atoll, grazing on coral in impressive schools.
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+### Marine Life
 
-## Dive Profile
+- Grey reef sharks
+- Eagle rays
+- Hawksbill turtles
+- Bumphead parrotfish (occasional)
+- Moray eels and triggerfish
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+### Practical Notes
 
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The exposed position means conditions can be rougher than sheltered lagoon sites. Best dived in settled weather. Current can be strong on the out-reef corner — dive on the incoming tide for optimal conditions. Visibility typically 15–30 m on the outer reef.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

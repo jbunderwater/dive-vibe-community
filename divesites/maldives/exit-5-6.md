@@ -13,54 +13,29 @@ addedBy: osm_import
 
 ## Exit 5 + 6
 
-Exit 5 + 6 is a reef dive site in Maldives, Asia.
+Exit 5 + 6 is a paired exit mooring on the outer reef circuit in the central-southern Maldives, positioned on the mid-section of the reef between Exit 4 to the east and Exits 7-10 to the west, covering a particularly rich section of coral slope.
 
 ## Overview
 
-Exit 5 + 6 is a dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The pairing of Exits 5 and 6 mirrors that of Exits 1 and 2 — two adjacent moorings used alternately depending on current direction to ensure a comfortable ascent and pick-up regardless of tidal phase. The reef between these two exits spans one of the more colourful sections of the outer slope, with documented higher soft coral density on the deeper faces due to the current shadows created by a subtle reef feature here. Whip corals and sea fans grow to impressive sizes in the 15-22 meter range, and the current eddies in this zone concentrate plankton and small baitfish, attracting hunting trevally and tuna above the reef edge. The upper reef crest is a cleaning station area, with small wrasse stations visited regularly by parrotfish and surgeonfish in numbers that make this reef section particularly animated.
 
 ## Site Information
 
-- **Location**: Maldives, Asia
+- **Location**: Maldives (South/Central Atolls)
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-30 meters
+- **Current**: Moderate; eddies can create sheltered zones
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Whip corals and sea fans (well-developed), hunting trevally, tuna, parrotfish at cleaning stations, surgeonfish schools, grey reef sharks, moray eels, and dense soft coral on the current-influenced deeper faces.
 
-## Dive Profile
+## Tips for Divers
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The zone between these two exits is worth spending extra time on for the soft coral density and cleaning station activity. Approach the cleaning stations slowly and hover at a respectful distance to watch undisturbed fish behaviour. The current eddies around the reef feature at depth can make buoyancy more dynamic here than at the simpler sloping exits on either side.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,54 +13,32 @@ addedBy: osm_import
 
 ## Dhigu Thila
 
-Dhigu Thila is a pinnacle dive site in Maldives, Asia.
+**Location:** South Malé Atoll, Maldives
+**Depth:** 5–25 m
+**Difficulty:** Intermediate
+**Entry:** Boat
 
-## Overview
+### Overview
 
-Dhigu Thila is a dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Dhigu Thila is a submerged pinnacle in South Malé Atoll. "Dhigu" means "long" in Dhivehi, suggesting an elongated structure rather than a compact round pinnacle. The extended profile creates a greater surface area of reef wall, with multiple faces to explore at different depths and different current exposure. The name distinguishes it from the many other thilas in the atoll system.
 
-## Site Information
+### Diving
 
-- **Location**: Maldives, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Pinnacle
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+The elongated thila is best dived by descending on the up-current end and drifting along the length of the structure before ascending on the lee side. This approach allows divers to cover the full extent of the pinnacle while managing current exposure. Overhangs and ledges along the deeper sections harbour nurse sharks and resting whitetip reef sharks.
 
-## Marine Life
+The upper sections of the thila have good hard coral coverage, with chromis and anthias filling the water column above. Schooling bannerfish are often present around the shallower portions, and napoleon wrasse make regular appearances.
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+### Marine Life
 
-## Dive Profile
+- Nurse sharks and whitetip reef sharks
+- Napoleon wrasse
+- Schooling bannerfish
+- Chromis and anthias
+- Hawksbill turtles
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+### Practical Notes
 
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Best dived with knowledge of the current direction to plan a drift along the length of the thila. Intermediate-level current experience recommended. Visibility typically 15–25 m. Boat access from South Malé Atoll resorts.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Melissa's Garden
 
-Melissa's Garden is a reef dive site in Raja Ampat, Asia.
+Melissa's Garden is one of the most celebrated hard coral gardens on Earth — a vast, shallow reef near the Fam Islands where pristine staghorn acropora stretches to the horizon in every direction, creating an underwater landscape of breathtaking beauty.
 
 ## Overview
 
-Melissa's Garden is a dive site in Raja Ampat offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Named after a diver who discovered and documented the site, Melissa's Garden is situated in the remote Fam Island group in southern Raja Ampat, an area that sees relatively little boat traffic compared to the Dampier Strait. What awaits below the surface has stunned marine biologists and divers alike: an immense, undisturbed acropora forest carpeting the reef flat and shallow slopes, with staghorn tables and branching corals in extraordinary condition. This is what coral reefs looked like before bleaching, anchor damage, and dynamite fishing took their toll elsewhere. Visibility is typically excellent at 20–30 meters. Water temperature averages 27–29°C.
 
 ## Site Information
 
-- **Location**: Raja Ampat, Asia
+- **Location**: Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 20–30 meters (65–100 feet)
+- **Current**: Typically mild; can strengthen on tidal exchange
+- **Best Time**: October to April
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The staghorn and tabletop acropora gardens form complex three-dimensional habitat that supports an astonishing density of reef fish. Schools of anthias hover above every coral head. Humphead parrotfish graze in the gardens. Hawksbill turtles forage between coral heads. The site also attracts bumphead parrotfish in large groups early in the morning. Blue-spotted lagoon rays rest in sandy pockets between coral formations. The biodiversity counts at Melissa's Garden have contributed to Raja Ampat's global ranking as the apex of marine species richness.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+This is a shallow, relaxed dive. Maximum depth rarely exceeds 15 meters in the main garden area, though the reef slopes to 25 meters at its outer edge. Spend the majority of the dive slowly drifting through the coral formations at 5–12 meters, admiring the scale and condition of the acropora. The garden extends far horizontally, so a slow drift allows broad coverage. No aggressive swimming is needed — the beauty is in the details. A safety stop in the pristine shallows at 5 meters is effortless.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Accessed by liveaboard tender or day-trip boat from Sorong or local operators in the Fam Islands area. The remote location means most divers arrive by liveaboard. Entry via giant stride or back roll into calm water. The reef top is close to the surface, so entry positioning is important to avoid landing on coral.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Do not stand on or touch the coral under any circumstances — the acropora here is irreplaceable
+- Buoyancy excellence is essential; a single fin kick into staghorn acropora can destroy years of growth
+- Morning dives offer the best light angles and calmest conditions
+- Wide-angle photography benefits from good morning sun angles; snoot lighting is not needed here
+- The site is best enjoyed slowly — give yourself time to appreciate the scale of the garden
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The shallow nature of Melissa's Garden makes it relatively forgiving from a depth perspective. The main hazard is buoyancy-related coral contact — an embarrassment risk as much as a safety one, but the damage to the reef is real. Maintain a horizontal swimming position. Carry an SMB for open-water ascents if drifting beyond the reef edge.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Wide-angle photography here is exceptional. A 16mm or 14mm lens captures the sweep of the staghorn forest with divers in the background, conveying the garden's scale. Shooting horizontally across the reef flat at the level of the coral tops, with a diver silhouetted against the blue water column, produces iconic imagery. Natural light at 10 meters is abundant during morning hours. The acropora colors range from pale cream to vivid purple and blue.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

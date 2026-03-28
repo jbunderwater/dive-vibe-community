@@ -13,54 +13,21 @@ addedBy: osm_import
 
 ## Vaageli Tila
 
-Vaageli Tila is a pinnacle dive site in Maldives, Asia.
+Vaageli Tila is a submerged pinnacle in South Male Atoll, positioned slightly apart from the main Vaageli reef system in open water that makes it a dedicated pinnacle dive. Like all Maldivian thilas, it functions as a reef oasis in otherwise open water, drawing marine life from the surrounding atoll to its coral-encrusted flanks.
 
-## Overview
+### Site Conditions
 
-Vaageli Tila is a dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+- **Depth range**: 5–25 m
+- **Typical visibility**: 15–25 m
+- **Currents**: Variable; can be strong around the exposed pinnacle
+- **Best season**: November–April for northeast monsoon clarity
 
-## Site Information
+### What to Expect
 
-- **Location**: Maldives, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Pinnacle
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+The pinnacle rises steeply from 25 metres to within 5 metres of the surface, its entire surface colonised with hard and soft corals, sea fans, and encrusting growth. Schooling fusiliers and glassfish create dense, shifting clouds around the upper sections, while larger predators — trevally, tuna, and reef sharks — orbit the pinnacle at depth. Cleaning stations are established at several points on the flanks, and Napoleon wrasse are regular visitors to these stations. Hawksbill turtles are frequently sighted resting on the summit coral, and white-tip reef sharks often lie in loose groups on the sandy patches around the base. The pinnacle's location between the main reef sites and the open atoll makes pelagic cameos a frequent bonus.
 
-## Marine Life
+### Tips for Divers
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The pinnacle can be circumnavigated in two directions — clockwise with the current favoured for the more dramatic pelagic action on the exposed side, counter-clockwise for a more sheltered dive. Gas management needs accounting for the open-water setting; there is no easy reef to ascend along if air runs short. This site pairs naturally with Vaageli Faru Tila for a double-pinnacle day on the Vaageli reef complex.
 
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

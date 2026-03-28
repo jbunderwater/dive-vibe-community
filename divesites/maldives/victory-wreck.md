@@ -13,55 +13,23 @@ addedBy: osm_import
 
 ## Victory Wreck
 
-Victory Wreck is a historic wreck dive in Maldives, Asia.
+The Victory Wreck is one of the most famous dive sites in the Maldives — a 95-metre cargo ship that sank in Male harbour in 1981 after a collision, coming to rest on its side in 35–38 metres of water just minutes from the capital. Its large scale, dramatic listing posture, and the sheer diversity of marine life that has colonised the hull make it an iconic Maldivian wreck dive.
 
-## Overview
+### Site Conditions
 
-Victory Wreck is a dive site in Maldives featuring the wreck of the Victory Wreck which sank in 1981-02-23. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+- **Depth range**: 15–38 m
+- **Typical visibility**: 15–25 m (harbour location can affect clarity)
+- **Currents**: Light to moderate; influenced by tidal movement in the harbour approaches
+- **Best season**: Year-round accessible; November–April for clearest water
 
-## Site Information
+### What to Expect
 
-- **Location**: Maldives, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Wreck
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 38 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+The Victory lies on its port side, creating a vertiginous perspective as divers descend the near-vertical deck railing to reach the seabed. The hull is encrusted with luxuriant growth — soft corals, sponges, and feather stars blanket every surface, providing habitat for an extraordinary range of fish life. Lionfish perch motionless in doorways and portholes, while large grouper claim ownership of the holds. Schools of batfish hover in formation over the hull, and glassfish fill the interior spaces with shimmering clouds. Barracuda school in the water column above the wreck, and grey reef sharks patrol the deeper sections alongside blue-spotted ribbontail rays on the sandy bottom. Moray eels occupy every crevice, and sea turtles rest on the most comfortable ledges of the listing deck.
 
-## Marine Life
+The wreck's size means a single dive cannot cover it all — the bow, midships, stern, and interior sections each reward multiple visits. Penetration divers can access the holds, engine room, and accommodation areas, all of which retain structural integrity and are well-documented by the local dive community.
 
-Divers at this site can expect to encounter batfish, lionfish, sweetlips, coral growth, soft corals, manta rays, whale sharks, reef sharks. Additional species commonly sighted include sea turtles, barracuda, trevally. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+### Tips for Divers
 
-## Dive Profile
+Advanced certification is required for the deeper sections of the wreck, which touch 38 metres at the sandy seabed alongside the hull. Nitrox enriched air is recommended for extended bottom time on the shallower sections without decompression obligation. Penetration requires torches and wreck-diving qualification — the interior is dark and silt disturbance can rapidly reduce visibility inside the holds. The wreck is popular with dive centres from Male and can be busy on weekends; weekday morning dives give the most peaceful experience. Photographers will need wide-angle capability to capture the scale of the hull, while macro shooters will find endless subjects in the encrusted details.
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 38 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

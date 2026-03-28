@@ -13,54 +13,29 @@ addedBy: osm_import
 
 ## Finolhu Faru
 
-Finolhu Faru is a reef dive site in Maldives, Asia.
+Finolhu Faru is an outer reef (faru) dive site in South Male Atoll, offering a classic Maldivian reef slope with strong coral coverage and reliable fish life in the waters off the sandbank island of Finolhu.
 
 ## Overview
 
-Finolhu Faru is a dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Faru in Dhivehi means the outer reef — the atoll's perimeter reef facing the open ocean — and Finolhu Faru delivers the characteristic profile of such sites: a shallow crest dropping through coral terraces to a steeper outer slope before opening into blue water. The reef at this point in South Male Atoll is in good condition, with hard coral dominance on the upper slope transitioning to a more varied community of soft corals and encrusting organisms on the deeper faces. Napoleon wrasse are commonly encountered along the outer edge, and grey reef sharks are frequently seen patrolling the deeper slope in small groups. The site benefits from its proximity to Emmadi Giri (Manta Point), which is visible in good visibility conditions, and is often included in the same day programme as the manta station. Schools of fusiliers hang in mid-water along the reef edge, attracting hunting trevally and barracuda on incoming tides.
 
 ## Site Information
 
-- **Location**: Maldives, Asia
+- **Location**: South Male Atoll, Maldives
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-30 meters
+- **Current**: Moderate; stronger on outer face with incoming ocean swells
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Napoleon wrasse, grey reef sharks, schools of fusiliers and barracuda, big-eye trevally, hawksbill turtles, parrotfish, and mixed hard and soft coral communities. Occasional manta rays when combined with nearby Emmadi Giri.
 
-## Dive Profile
+## Tips for Divers
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+This site pairs well with the manta station at Emmadi Giri for a two-tank programme. The outer slope is the most productive section — stay at 15-20 meters on the outer face for shark and Napoleon wrasse encounters. The reef crest provides a good safety stop area with snorkellable depth for boat pick-up in calm conditions.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

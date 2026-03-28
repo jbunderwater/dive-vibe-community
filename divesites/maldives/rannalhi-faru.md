@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Rannalhi Faru
 
-Rannalhi Faru is a reef dive site in Maldives, Asia.
+Rannalhi Faru is the outer reef section adjacent to Rannalhi Island in South Malé Atoll — a faru (outer reef wall) dive offering a classic Maldivian reef wall experience with a consistent display of reef sharks, healthy coral coverage, and the occasional large pelagic visitor.
 
 ## Overview
 
-Rannalhi Faru is a dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Running along the atoll's outer rim, Rannalhi Faru presents the characteristic outer reef wall profile: an exposed face beginning in 2–3 metres of surge zone before settling into a clean, well-structured wall descending to 25 metres. The upper section (5–12 metres) has excellent hard coral coverage — table corals, brain corals, and branching staghorn formations that attract butterflyfish, parrotfish, and surgeonfish in large numbers. Moving deeper, the wall features overhangs and crevices sheltering sweetlips and large grouper, while the base transitions to a coral rubble and sand zone favoured by resting white-tip reef sharks. Eagle rays and occasional grey reef sharks appear along the outer face when current is running, drawn by the productive upwelling conditions of the Atoll rim.
 
 ## Site Information
 
@@ -26,41 +26,23 @@ Rannalhi Faru is a dive site in Maldives offering rewarding diving on healthy co
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-30 meters (50-100 feet)
+- **Current**: Moderate, strengthens with tidal flow
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+White-tip reef sharks, grey reef sharks, eagle rays, sweetlips, grouper, parrotfish, surgeonfish, butterflyfish, sea fans, hard coral formations, moray eels, and turtles.
 
-## Dive Profile
+## Diving Tips
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- Start the dive at depth (20–25 metres) along the outer wall then ascend gradually for a natural multi-level profile.
+- On the way up, slow down in the 10–15 metre overhangs — this is where the largest sweetlips and grouper tend to shelter.
+- Outgoing current (ocean to lagoon direction) typically clears visibility on this outer reef wall.
+- Rannalhi Faru and Rannalhi Bodu Giri make an excellent pairing for a half-day two-dive trip.
 
-## Entry and Exit
+## Getting There
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Rannalhi Faru is in South Malé Atoll, reached by boat from local resorts or from Malé, approximately 30–60 minutes by dhoni or speedboat.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

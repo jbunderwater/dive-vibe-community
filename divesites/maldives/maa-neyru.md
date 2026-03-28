@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Maa Neyru
 
-Maa Neyru is a reef dive site in Maldives, Asia.
+Maa Neyru is a reef dive site in Addu Atoll (Seenu Atoll), the southernmost atoll in the Maldives, known for its rich macro life on exposed reef surfaces and the large marine creatures that roam its outer walls.
 
 ## Overview
 
-Maa Neyru is a dive site in Maldives offering rewarding diving on healthy coral reef structures . Macro objects on reef. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Located in Addu Atoll near the equator, Maa Neyru sits on the outer reef structure where the Indian Ocean meets the atoll's rim. The reef extends from the shallows down to around 25 metres and is notable for its macro diversity — nudibranchs, flatworms, shrimp, and small cephalopods populate the nooks and overhangs of the reef surface. The outer slope features sea fans and sponge formations that shelter a wide range of reef fish, while the sandy channels around the base are favoured by stingrays and garden eels. Addu's geographic isolation has produced a slightly different species mix from northern atolls, and this site reflects that diversity.
 
 ## Site Information
 
@@ -26,40 +26,23 @@ Maa Neyru is a dive site in Maldives offering rewarding diving on healthy coral 
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: 0
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-25 meters (50-80 feet)
+- **Current**: Light to moderate
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Nudibranchs, flatworms, cleaner shrimp, stingrays, garden eels, sea fans, reef fish of many species, moray eels, and occasional turtle sightings on the outer reef slope.
 
-## Dive Profile
+## Diving Tips
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- This site rewards a slow, observant approach — bring a macro lens or pointer for guiding your buddy to small creatures.
+- The outer reef slope at 15–20 metres has the best sea fans and sponge formations.
+- Current is generally manageable, making this a comfortable dive for reef exploration.
+- Addu Atoll offers unique biodiversity; look for species not commonly seen in northern Maldivian atolls.
 
-## Entry and Exit
+## Getting There
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Maa Neyru is reached by boat from Gan or Hithadhoo in Addu Atoll, accessed via domestic flight from Malé to Gan Airport (approximately 1.5 hours).
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

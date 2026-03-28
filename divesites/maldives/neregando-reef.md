@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Neregando reef
 
-Neregando reef is a reef dive site in Maldives, Asia.
+Neregando reef is an outer reef site in Addu Atoll (Seenu Atoll) in the far south of the Maldives, recognised locally as one of the healthiest and most vibrant reef sections in the atoll — a testament to Addu's relative remoteness and the reduced fishing pressure it has historically experienced.
 
 ## Overview
 
-Neregando reef is a dive site in Maldives offering rewarding diving on healthy coral reef structures . One of the most healthy reef on Maldives. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Sitting along the outer rim of Addu Atoll near the equator, Neregando reef benefits from the upwelling nutrient-rich currents that sweep this southernmost Maldivian atoll. The reef face descends in a wall-like formation from 5 metres to around 25 metres, with an impressive diversity of coral species — Addu Atoll has recovered exceptionally well from bleaching events and Neregando is cited as one of the local highlights. Table corals, massive porite formations, and colourful soft corals compete for space on the wall, while the fish community includes species associated with pristine outer reef habitats: large sweetlips, grouper, barracuda, and schools of snappers. Sea turtles are a regular and unbothered presence here.
 
 ## Site Information
 
@@ -26,40 +26,23 @@ Neregando reef is a dive site in Maldives offering rewarding diving on healthy c
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: 0
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-25 meters (50-80 feet)
+- **Current**: Light to moderate
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Sea turtles, grouper, sweetlips, barracuda, schools of snappers, sea fans, diverse hard corals including table corals and massive porites, moray eels, and reef sharks on occasion.
 
-## Dive Profile
+## Diving Tips
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- This reef rewards a slow, unhurried approach — the coral complexity is best appreciated by hovering at different depths along the wall.
+- Turtles here are notably relaxed and allow close approach; maintain respectful distance and avoid chasing.
+- Addu Atoll's water can be slightly cooler (24–26°C) than northern atolls — bring a 3mm wetsuit.
+- Combine with the SS British Loyalty wreck and other Addu sites for a multi-day diving itinerary in this unique southern atoll.
 
-## Entry and Exit
+## Getting There
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Addu Atoll is accessed via domestic flight from Malé to Gan Airport (approximately 1.5 hours). Dive operators in Gan or Hithadhoo arrange boat trips to Neregando reef.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

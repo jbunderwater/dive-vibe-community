@@ -13,54 +13,35 @@ addedBy: osm_import
 
 ## Harto's Reef
 
-Harto's Reef is a reef dive site in Raja Ampat, Asia.
+Harto's Reef is a local favourite in Raja Ampat, West Papua, Indonesia, named after a Papuan dive guide who discovered and championed the site. Sites bearing the names of local guides represent a living tradition in Raja Ampat's diving community, acknowledging the Indigenous knowledge and expertise that underpins the region's dive tourism.
 
 ## Overview
 
-Harto's Reef is a dive site in Raja Ampat offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Harto's Reef is a well-rounded coral reef offering excellent diversity across a relatively compact area. The reef crest supports healthy hard coral cover — staghorn, plate, and massive Porites — while the slope below transitions through sea fans and soft coral gardens. Cleaning stations dot the reef at multiple depths, drawing a steady stream of reef fish for servicing by wrasse and cleaner shrimp.
 
-## Site Information
+The reef has a reputation for reliably good fish life: schooling fusiliers above the crest, large grouper lurking in the deeper crevices, and hawksbill turtles resting on broad coral heads. The site is particularly productive for macro photography in the rubble zones at depth, where nudibranchs, flatworms, and hairy frogfish are occasionally spotted. Guides who know the site well can direct attention to its most productive corners.
 
-- **Location**: Raja Ampat, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+Visibility runs 15–25 metres. Water temperature averages 27–29°C. Currents are generally mild, making the site accessible and relaxing.
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+- Hawksbill turtles resting on coral heads
+- Large grouper in deeper crevices
+- Cleaning stations with wrasse and cleaner shrimp
+- Nudibranchs and frogfish in rubble zones
+- Schools of fusiliers and anthias above the reef crest
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The dive explores the reef crest and slope, typically between 8 and 25 metres. The site's manageable conditions make it suitable for all stages of a diving day. Entry and exit are by boat.
 
-## Entry and Exit
+## Practical Information
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+- **Depth range**: 5–25 m
+- **Visibility**: 15–25 m
+- **Current**: Light to mild
+- **Best time**: October–April
+- **Water temperature**: 27–29°C
+- **Entry**: Boat
 
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

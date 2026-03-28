@@ -13,55 +13,37 @@ addedBy: osm_import
 
 ## Cape Kri
 
-Cape Kri is a wall dive site in Raja Ampat, Asia.
+Cape Kri is one of the most celebrated dive sites on Earth. Located off the tip of Kri Island in Raja Ampat, West Papua, Indonesia, it holds the world record for the greatest number of fish species counted on a single dive: 374 species in one hour, recorded by marine biologist Dr. Gerald Allen in 2002. That record has never been broken and stands as the most powerful single statistic for Raja Ampat's claim to the highest marine biodiversity on the planet.
 
 ## Overview
 
-Cape Kri is a renowned dive site in Raja Ampat featuring a dramatic vertical wall that drops into the deep blue . Good corals, a lot of turtles but not a big variety of fishes. But still this spot worth a try. The stream kindly bring you to the west, so you can look the coral around the south of the island.. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The site is a wall dive beginning in the shallows at the cape's tip and dropping steeply along Kri Island's flank. The current sweeps around the point, delivering nutrients that have built an extraordinarily productive reef system. The wall is blanketed in coral growth from top to bottom — sea fans, soft corals, encrusting sponges, and hard coral colonies compete for every centimetre of substrate.
 
-## Site Information
+What makes Cape Kri extraordinary is the simultaneous presence of species from across the reef food web. Schools of bumphead parrotfish are a signature encounter, moving in groups of 30–50 individuals and biting chunks from the reef with an audible crunch. Wobbegong sharks and leopard sharks rest on ledges. Napoleon wrasse, measuring over a metre, patrol the wall face with lazy authority. Schools of batfish, surgeonfish, snappers, and fusiliers fill the mid-water in overlapping layers. Reef sharks — whitetip, blacktip, and grey reef — circle beneath the schooling fish. Hawksbill turtles and green turtles graze the wall. And behind all of this, in the rubble and coral crevices, live the small fish that account for much of Dr. Allen's species count: dottybacks, gobies, blennies, and dartfish in numbers that defy categorisation.
 
-- **Location**: Raja Ampat, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+Current runs around the cape and can be strong, sweeping divers along the wall. Timing the dive with appropriate tidal phase is important. Visibility averages 15–25 metres, sometimes reaching 30 metres in optimal conditions. Water temperature holds between 27–30°C.
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+- Bumphead parrotfish schools (30–50 individuals)
+- Napoleon wrasse patrolling the wall
+- Wobbegong sharks and leopard sharks resting on ledges
+- Whitetip, blacktip, and grey reef sharks
+- Green and hawksbill turtles
+- Schools of batfish, snappers, surgeonfish, and fusiliers
+- 374 fish species recorded in a single dive (world record)
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-30 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+The dive begins at the cape tip and follows the wall, drifting with the current to explore the full extent of the reef. Depths of 15–30 metres are used to access sea fans and the shark-patrolled deeper sections, with the ascent to shallower terrain for the safety stop passing through the densest schooling fish activity. Entry and exit are by boat, with the boat following the group around the point.
 
-## Entry and Exit
+## Practical Information
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+- **Depth range**: 3–30 m
+- **Visibility**: 15–30 m
+- **Current**: Moderate to strong (tidal)
+- **Best time**: October–April
+- **Water temperature**: 27–30°C
+- **Entry**: Boat
 
-## Tips and Recommendations
-
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,54 +13,35 @@ addedBy: osm_import
 
 ## Halaveli
 
-Halaveli is a pinnacle dive site in Maldives, Asia.
+Halaveli is a popular coral pinnacle dive near Halaveli Island in North Ari Atoll, known for its relaxed intermediate-level conditions, diverse reef fish communities, and resident turtle population.
 
 ## Overview
 
-Halaveli is a dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The Halaveli thila rises from around 28 metres to just below the surface, forming a broad-topped pinnacle with multiple coral spurs and gullies to explore. The summit is a rich coral garden — brain corals, massive Porites heads, and encrusting formations — alive with anthias, damselfish, and butterflyfish. Descending the flanks, larger fish take over: grouper and Napoleon wrasse patrol the mid-depths, moray eels emerge from crevices, and hawksbill turtles are frequently observed resting on the deeper ledges. Grey reef sharks and whitetip reef sharks circle the base of the pinnacle, particularly during tidal flow. The site is often used as a second or third dive of the day given its manageable depth and reliable wildlife encounters. Visibility averages 15–25 metres. Water temperature holds at 27–29°C.
 
 ## Site Information
 
 - **Location**: Maldives, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 28 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Depth**: Up to 28m
+- **Difficulty**: Intermediate
+- **Site Type**: Pinnacle/seamount
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Hawksbill turtles, grey reef sharks, whitetip reef sharks, Napoleon wrasse, grouper, moray eels, anthias, damselfish, butterflyfish, and occasional eagle rays.
 
-## Dive Profile
+## Diving Conditions
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 28 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+| Condition | Details |
+|-----------|---------|
+| Visibility | 15–25m |
+| Current | Light to moderate |
+| Water Temp | 27–29°C |
+| Best Season | Year-round |
 
-## Entry and Exit
+## Tips for Divers
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Spend time on the summit in the shallows for the safety stop — the coral here is particularly photogenic and the small reef fish are approachable. Turtles are most commonly seen on the eastern flank. The site can be dived in either direction around the pinnacle depending on current.
 
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

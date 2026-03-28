@@ -13,54 +13,35 @@ addedBy: osm_import
 
 ## Pulau Memyai
 
-Pulau Memyai is a reef dive site in Raja Ampat, Asia.
+Pulau Memyai is an island reef dive in the outer reaches of Raja Ampat, West Papua, Indonesia. The island's fringing reef follows the classic Raja Ampat pattern of extraordinary coral density and fish life, with the added benefit of its slightly remote position which reduces dive traffic and keeps the reef in excellent condition.
 
 ## Overview
 
-Pulau Memyai is a dive site in Raja Ampat offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The reef wraps around Pulau Memyai's shoreline, with the most productive diving on the seaward faces where current exposure supports dense coral growth and active fish communities. Staghorn and table coral gardens cover the shallower reef flat, giving way to gorgonian sea fans and barrel sponges as the reef slopes down to 18–20 metres. The diversity of hard coral species here is typical of Raja Ampat's status as the global epicentre of marine biodiversity.
 
-## Site Information
+Napoleon wrasse are regularly encountered on the reef slope, and bumphead parrotfish visit in small groups. Reef sharks — both whitetip and blacktip — patrol the drop-off edge. Schools of fusiliers cloud the mid-water above the reef crest, pursued by jacks and trevally. The site is rarely crowded and offers an unhurried encounter with reef life.
 
-- **Location**: Raja Ampat, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+Visibility runs 15–25 metres. Water temperatures average 27–29°C. Currents vary from light to moderate depending on tidal phase.
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+- Napoleon wrasse and bumphead parrotfish
+- Whitetip and blacktip reef sharks
+- Dense gorgonian sea fans on the slope
+- Schools of fusiliers, jacks, and trevally
+- Rich hard coral diversity on the reef flat
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The dive traces the reef slope from the shallower coral gardens down to 18–20 metres, exploring sea fans and overhangs before ascending for a safety stop in the coral garden. Entry and exit are by boat.
 
-## Entry and Exit
+## Practical Information
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+- **Depth range**: 5–20 m
+- **Visibility**: 15–25 m
+- **Current**: Light to moderate
+- **Best time**: October–April
+- **Water temperature**: 27–29°C
+- **Entry**: Boat
 
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

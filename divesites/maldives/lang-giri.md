@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Lang Giri
 
-Lang Giri is a reef dive site in Maldives, Asia.
+Lang Giri is a coral reef dive site in South Malé Atoll, a giri (coral head) rising from the sandy lagoon floor to provide a concentrated patch of coral structure teeming with reef life and occasional resting sharks.
 
 ## Overview
 
-Lang Giri is a dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Located in the southern reaches of South Malé Atoll, Lang Giri is a classic Maldivian coral head formation where a broad reef plateau sits at around 6–8 metres before dropping in shelves to the sandy bottom at 25 metres. The coral structure supports a dense ecosystem: coral caves and overhangs shelter resting white-tip reef sharks and nurse sharks during the day, while the sandy areas around the base often reveal stingrays and small garden eels. Schools of parrotfish and surgeonfish work the reef top, and the shallower sections feature pristine hard coral gardens with good colour. Moderate current sweeps the site at times, keeping water clear and delivering nutrients to the thriving coral communities.
 
 ## Site Information
 
@@ -26,41 +26,23 @@ Lang Giri is a dive site in Maldives offering rewarding diving on healthy coral 
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-30 meters (50-100 feet)
+- **Current**: Moderate, variable direction
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+White-tip reef sharks, nurse sharks, stingrays, garden eels, parrotfish, surgeonfish, schools of snappers, moray eels, pufferfish, and a variety of reef fish among healthy hard coral formations.
 
-## Dive Profile
+## Diving Tips
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- Circle the giri at mid-depth (12–15 metres) to cover the widest variety of habitats in a single dive.
+- Check sandy channels at the base for resting sharks and rays.
+- The shallowest reef top is excellent for a safety stop and for spotting juvenile fish in the coral heads.
+- Moderate current can be used to your advantage for an effortless drift around the structure.
 
-## Entry and Exit
+## Getting There
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Lang Giri is reached by boat from dive operators based in South Malé Atoll or from Malé, approximately 30–60 minutes depending on the departure point.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

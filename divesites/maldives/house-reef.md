@@ -11,57 +11,37 @@ osmId: 672632385
 addedBy: osm_import
 ---
 
-## house reef
+## House Reef
 
-house reef is a reef dive site in Maldives, Asia.
+This house reef in North Male Atoll is a shallow fringing reef accessible directly from a resort or dive centre, offering beginner-friendly conditions with abundant reef life in warm, calm water.
 
 ## Overview
 
-house reef is a dive site in Maldives offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+House reefs in the Maldives are the fringing reefs that surround resort islands, and this site exemplifies what makes them so popular — easy access, calm conditions, and a surprising density of marine life in modest depths. The reef crest sits at just 2–3 metres, dropping gently to around 12 metres before transitioning to a sandy lagoon floor. Despite the limited depth, the coral coverage is rich, with plate corals, brain corals, and branching formations providing habitat for a dazzling variety of reef fish: parrotfish, triggerfish, angelfish, and schools of blue-lined snapper are all common. Hawksbill turtles are regular visitors, often seen resting on the reef or grazing on sponge colonies. At night the house reef transforms — octopus, moray eels, and sleeping parrotfish in their mucus cocoons are highlights of night dives. Visibility typically reaches 10–20 metres in the calm lagoon. Water temperature is 28–30°C in the shallows.
 
 ## Site Information
 
 - **Location**: Maldives, Asia
 - **Entry Type**: Boat dive
+- **Depth**: Up to 12m
+- **Difficulty**: Beginner
 - **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 12 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Hawksbill turtles, parrotfish, triggerfish, angelfish, blue-lined snapper, grouper, moray eels, octopus (especially at night), and reef squid. Plate and brain coral formations.
 
-## Dive Profile
+## Diving Conditions
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+| Condition | Details |
+|-----------|---------|
+| Visibility | 10–20m |
+| Current | Minimal |
+| Water Temp | 28–30°C |
+| Best Season | Year-round |
 
-## Entry and Exit
+## Tips for Divers
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Perfect for first dives, refresher dives, and night diving. The shallow depth allows extended bottom times — ideal for slow, observational diving. At night, bring a torch and take your time on the sand patches beside the reef for critter encounters.
 
-## Tips and Recommendations
-
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

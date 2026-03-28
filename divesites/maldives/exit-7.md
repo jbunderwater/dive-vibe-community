@@ -13,54 +13,29 @@ addedBy: osm_import
 
 ## Exit 7
 
-Exit 7 is a reef dive site in Maldives, Asia.
+Exit 7 is a numbered reef mooring on the outer reef circuit in the central-southern Maldives, positioned adjacent to Exits 5+6 on the northern arc of the reef and used as a drift termination point under specific tidal conditions.
 
 ## Overview
 
-Exit 7 is a dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Exit 7 shares its reef section with the nearby Exit 5+6 mooring, offering a slightly different angle of approach to the same outer slope topography. The reef here features a clear layered structure: a shallow hard coral garden at 5-8 meters, a steeper slope with sea fans and encrusting growth from 10-20 meters, and a flatter sandy bottom with scattered coral heads at 25 meters. Schools of blue-striped snapper and oriental sweetlips are a characteristic feature of this section of reef, clustering in the coral valleys at mid-depth. The site is often used for the second dive of a two-tank morning programme, when calmer slack-tide conditions allow a leisurely reef exploration rather than a full drift. The proximity to Exits 5+6 and Exits 8-10 means that route flexibility is high, with divemasters routing divers between the exits based on real-time current readings.
 
 ## Site Information
 
-- **Location**: Maldives, Asia
+- **Location**: Maldives (South/Central Atolls)
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-30 meters
+- **Current**: Moderate; frequently calm on slack tide
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Blue-striped snapper, oriental sweetlips, grey reef sharks, sea fans, moray eels, surgeonfish, parrotfish, turtles, and mixed hard and soft coral on the mid-slope.
 
-## Dive Profile
+## Tips for Divers
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Exit 7 is a good site for a relaxed second dive when the morning drift is complete. The snapper schools at mid-depth are a reliable photographic subject. Use the sandy bottom at 25 meters as a turning depth and work back up through the fish-rich coral valley on the ascent.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

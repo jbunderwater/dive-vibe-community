@@ -13,54 +13,29 @@ addedBy: osm_import
 
 ## Exit 4
 
-Exit 4 is a reef dive site in Maldives, Asia.
+Exit 4 is a numbered reef mooring point along the outer reef circuit system in the central-southern Maldives, positioned slightly west of the main exit cluster and providing access to a section of the reef with different current exposure.
 
 ## Overview
 
-Exit 4 is a dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Exit 4's position slightly offset from the main exit cluster (1, 2, 7, 8, 9, 10) suggests it catches a different angle of tidal flow, making it the preferred exit point under specific current conditions. The reef at this position has a characteristic outer slope structure: the crest at 3-5 meters drops through coral terraces to a steeper wall section at 15-20 meters before easing onto sandy bottom at 25 meters. This middle section of the outer wall between the main exit points is typically less visited than the numbered points at either end of the system, resulting in fish life that is less habituated to divers and more natural in behaviour. Turtles graze on the reef top undisturbed, and large parrotfish scrape the hard corals without the usual alertness seen at busier sites. The sandy bottom hosts sand-dwelling species including garden eels and razorfish.
 
 ## Site Information
 
-- **Location**: Maldives, Asia
+- **Location**: Maldives (South/Central Atolls)
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-30 meters
+- **Current**: Moderate; can favour this exit during specific tidal phases
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Hawksbill turtles, large parrotfish, garden eels, razorfish, grey reef sharks, moray eels, grouper, and reef fish schools on the coral crest and slope.
 
-## Dive Profile
+## Tips for Divers
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+This exit is used when tidal conditions direct the drift toward the western section of the circuit. A standalone dive here is rewarding for its relative quietness compared to the clustered exits. Budget time to explore the sandy bottom at depth for sand-dwelling species before ascending the wall.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

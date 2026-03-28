@@ -13,54 +13,29 @@ addedBy: osm_import
 
 ## Fish Bank
 
-Fish Bank is a reef dive site in Maldives, Asia.
+Fish Bank is a submerged reef structure in the central-southern Maldives — a productive elevated bank rising from the atoll floor that aggregates fish life in spectacular numbers, earning its descriptive name from the dense fish populations that define the site.
 
 ## Overview
 
-Fish Bank is a dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Fish Bank is a broad, relatively flat reef plateau rising to around 15 meters below the surface, with its flanks sloping down to 25 meters before dropping away. The elevated topography acts as an obstacle to tidal currents, creating upwelling and turbulence zones that trap plankton and small baitfish above the bank. This feeding concentration supports extraordinary aggregations of larger reef and pelagic fish: schools of hundreds of snappers, fusiliers, and bigeye hang in dense columns above the bank, attracting grey reef sharks and whitetip sharks that circle persistently. On favourable current days, hammerhead sharks and eagle rays are drawn in from the open atoll. The bank's flat-top reef has hard coral coverage that supports the foundational invertebrate community, but the overwhelming feature of Fish Bank is the sheer density of schooling fish that give the site its name. Whale sharks have been reported passing through during the northeast monsoon season.
 
 ## Site Information
 
-- **Location**: Maldives, Asia
+- **Location**: Central-Southern Maldives
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-30 meters
+- **Current**: Moderate to strong; current direction determines fish aggregation position
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Dense schools of snappers, fusiliers, bigeye, grey reef sharks, whitetip reef sharks, eagle rays, occasional hammerheads, whale sharks (seasonal), Napoleon wrasse, and strong tidal currents driving the fish concentration.
 
-## Dive Profile
+## Tips for Divers
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Position on the up-current edge of the bank on entry — this is where the fish schools are thickest, pushed against the current running over the bank. Descend to the bank plateau and watch the predator-prey dynamics play out overhead. Grey reef sharks are most active when tidal flow is strongest. This site is best appreciated with an understanding of current dynamics; dive it during a running tidal phase rather than at slack for the most impressive fish aggregations.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

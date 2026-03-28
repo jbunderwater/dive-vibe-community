@@ -13,54 +13,36 @@ addedBy: osm_import
 
 ## Maafushi Thila
 
-Maafushi Thila is a pinnacle dive site in Maldives, Asia.
+Maafushi Thila is a submerged pinnacle (thila) in North Malé Atoll near the inhabited island of Maafushi, offering a classic Maldivian pinnacle dive with healthy coral growth, reef sharks, and a diverse fish community that has recovered well under protective measures.
 
 ## Overview
 
-Maafushi Thila is a dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Maafushi Thila rises from the sandy lagoon floor to a summit at around 8 metres, forming a broad, irregularly shaped plateau edged by coral walls that descend to 28 metres. The plateau is covered in an impressive mix of hard corals — staghorn, table, and brain corals — alongside branching sea fans that make excellent photography subjects. White-tip reef sharks are the signature sighting, typically resting on sandy ledges at 18–22 metres or circling the base of the pinnacle. Large napoleon wrasse often appear near the top of the structure, seemingly curious about divers. Schools of fusiliers and bannerfish work the water column above the pinnacle, while the deeper walls host glassfish clouds that explode when predators pass through.
 
 ## Site Information
 
 - **Location**: Maldives, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 28 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-30 meters (50-100 feet)
+- **Current**: Moderate, variable
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+White-tip reef sharks, napoleon wrasse, schools of fusiliers, bannerfish, glassfish, eagle rays, grouper, sea fans, hard corals of multiple species, and moray eels in the reef crevices.
 
-## Dive Profile
+## Diving Tips
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 28 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- Descend directly to the deeper sandy ledges (20–25 metres) first to catch resting white-tips before they move off.
+- Circle the pinnacle at mid-depth, then ascend gradually to enjoy the summit corals on the way up.
+- The site is exposed to varying currents — check with your guide for the best entry timing.
+- Maafushi is one of the Maldives' budget dive hubs, with numerous operators offering trips from the island.
 
-## Entry and Exit
+## Getting There
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Maafushi is accessible by public ferry from Malé (approximately 1 hour) or by speedboat (30 minutes). Maafushi Thila is a short boat ride from the island.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

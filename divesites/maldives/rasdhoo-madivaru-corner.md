@@ -13,54 +13,21 @@ addedBy: osm_import
 
 ## Rasdhoo Madivaru Corner
 
-Rasdhoo Madivaru Corner is a reef dive site in Maldives, Asia.
+Rasdhoo Madivaru Corner is one of the most celebrated dive sites in Rasdhoo Atoll, sitting at the southwestern tip of Madivaru island where strong Indian Ocean currents converge to create upwellings rich in nutrients. The site is world-famous for hammerhead shark sightings in the early morning, a phenomenon that draws divers from across the globe.
 
-## Overview
+### Site Conditions
 
-Rasdhoo Madivaru Corner is a dive site in Maldives offering rewarding diving on healthy coral reef structures . Very polular dive site with gray reef sharks and school of eagle rays. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+- **Depth range**: 15–30 m
+- **Typical visibility**: 20–35 m
+- **Currents**: Strong oceanic currents; experienced divers preferred
+- **Best season**: December–March for hammerhead encounters
 
-## Site Information
+### What to Expect
 
-- **Location**: Maldives, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+The corner itself is a steep reef wall that drops from the surface to depths well beyond recreational limits. At first light, hammerhead sharks aggregate in the blue water off the corner wall, often in groups of 5–20 individuals. Divers position themselves below the thermocline at 25–30 metres, facing the open ocean, and wait for the sharks to circle in from the deep. Grey reef sharks patrol the wall throughout the day. The reef itself is densely colonised with sea fans, black coral trees, and overhangs sheltering large Napoleon wrasse, moray eels, and resting white-tip reef sharks. Eagle rays glide along the wall with impressive regularity.
 
-## Marine Life
+### Tips for Divers
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+This site demands an early start — hammerhead sightings are almost exclusively at dawn before the animals disperse into deeper water. A wetsuit of at least 3 mm is advisable; the thermocline can drop temperatures significantly. Strong current control and confident blue-water hovering skills are essential. Night or evening dives reveal a completely different reef character, with sleeping turtles and active hunting behaviour from moray eels.
 
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

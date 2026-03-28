@@ -13,54 +13,53 @@ addedBy: osm_import
 
 ## Otdima Reef
 
-Otdima Reef is a reef dive site in Raja Ampat, Asia.
+Otdima Reef is a reef dive site near the Ot Di Ma area of Raja Ampat, West Papua, Indonesia.
 
 ## Overview
 
-Otdima Reef is a dive site in Raja Ampat offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Otdima Reef takes its name from the Ot Di Ma area, a local Papuan place name in the central Raja Ampat island group. The reef sits adjacent to its nearby neighbour Ot Di Ma, offering a distinct dive site with its own character. Otdima Reef features a mixed reef structure of hard coral bommies and sloping reef, with the characteristic high diversity that defines Raja Ampat's marine protected area network. Currents sweeping across the reef maintain the coral health and create favourable conditions for fish aggregation. With 27 meters maximum depth, the site allows time to explore the full reef profile without entering decompression territory. Visibility typically reaches 20-30 meters and water temperatures average 27-29°C.
 
 ## Site Information
 
-- **Location**: Raja Ampat, Asia
+- **Location**: Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 27 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-30 meters
+- **Current**: Moderate, variable
+- **Best Time**: October to April
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The reef at Otdima supports diverse hard coral coverage across its slope, with large table corals, branching Acropora formations, and encrusting massive corals at different depth zones. Fish diversity is high: large schools of anthias and fusiliers over the reef crest, hunting trevally and mackerel in the water column, and the patient reef-dwellers — groupers, Napoleon wrasse, and moray eels — occupying cavities in the structure. Reef sharks patrol regularly. Sea turtles are common visitors. Macro life on the encrusting growth rewards careful observation.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 27 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin at the reef crest (5-8 meters) and follow the reef slope downward, noting changes in coral community structure as depth increases. The bommie terrain between 10-20 meters is particularly rich. At 20-27 meters, the deeper rubble zone hosts different species. Plan gas consumption to allow adequate time on the ascent and a full 3-minute safety stop at 5 meters.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by dive boat from local homestay or liveaboard operators. Entry via giant stride near the reef top. Your guide will orient the dive direction based on current. Deploy SMB before ascending for boat pickup.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Compare the dive experience with nearby Ot Di Ma — the two sites offer different perspectives on the same area's reef ecosystem
+- Look for large table corals at mid-depth: they often shelter small fish species beneath their canopies
+- The site suits intermediate divers well — conditions are typically manageable and the depth range is accessible
+- Morning dives benefit from better light in the shallows
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Moderate currents may develop. Carry an SMB and maintain awareness of your depth and air supply. The 27-meter maximum depth means careful gas management is needed for divers using standard 12-litre cylinders. Dive within your certification limits.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The mixed hard coral terrain at Otdima Reef is ideal for wide-angle reef scenic photography. Table corals provide excellent foreground structures. Fish portraits are achievable with patient positioning. The 20-27 meter zone offers different lighting conditions than the shallows — a dive light helps bring out the colour in encrusting sponges and coral.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

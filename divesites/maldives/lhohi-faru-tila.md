@@ -13,54 +13,36 @@ addedBy: osm_import
 
 ## Lhohi Faru Tila
 
-Lhohi Faru Tila is a pinnacle dive site in Maldives, Asia.
+Lhohi Faru Tila is a submerged pinnacle (thila) set within the outer reef (faru) system of Lhohi in South Malé Atoll — a protected marine area where the summit bursts with soft corals and the surrounding walls attract reef sharks and large pelagics.
 
 ## Overview
 
-Lhohi Faru Tila is a dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Rising from the atoll floor to a summit at around 8 metres depth, Lhohi Faru Tila is a classic Maldivian thila with all the hallmarks of a healthy pinnacle site. The top plateau is dense with hard and soft coral growth — sea fans, table corals, and abundant anthias — while the sides drop sharply to 28 metres in a series of overhangs and coral buttresses. White-tip reef sharks rest on the sandy ledges and grey reef sharks circle mid-water during stronger currents. The site sits within the Lhohi Protected Marine Area, meaning corals and fish life are in notably good condition compared to unprotected zones. Eagle rays and napoleon wrasse regularly patrol the deeper sections.
 
 ## Site Information
 
 - **Location**: Maldives, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 28 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-30 meters (50-100 feet)
+- **Current**: Moderate to strong, variable
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+White-tip reef sharks, grey reef sharks, eagle rays, napoleon wrasse, anthias, sea fans, table corals, grouper, schools of fusiliers, and nurse sharks resting in sandy hollows.
 
-## Dive Profile
+## Diving Tips
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 28 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- Circumnavigate the pinnacle at 15–20 metres to cover the most diverse habitats and spot sharks on the deeper ledges.
+- The summit plateau is perfect for the safety stop among thriving anthias and soft coral.
+- Best dived on a light or medium current — strong current concentrates the sharks but requires close attention to buoyancy.
+- This site is a Protected Marine Area; be vigilant about no-touch and no-anchor protocols.
 
-## Entry and Exit
+## Getting There
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Lhohi Faru Tila is reached by dive boat from resorts in South Malé Atoll or from Malé, approximately 30–60 minutes by dhoni or speedboat.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

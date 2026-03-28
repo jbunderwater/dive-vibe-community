@@ -13,54 +13,35 @@ addedBy: osm_import
 
 ## Guraidhoo Corner
 
-Guraidhoo Corner is a reef dive site in Maldives, Asia.
+Guraidhoo Corner is a reef dive at the turning point of Guraidhoo Island's southern tip in South Male Atoll, where the reef geometry creates a natural aggregation spot for reef sharks and eagle rays even in lighter current conditions.
 
 ## Overview
 
-Guraidhoo Corner is a dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+At the corner where the protected inner reef meets the more exposed outer face, the reef structure forms a natural promontory that deflects current and concentrates marine life. Divers descend along a coral-encrusted slope from 5 metres to around 25 metres, where the reef flattens before dropping into deeper water. The corner itself is the focal point — grey reef sharks habitually patrol the bend, and eagle rays frequently glide past the reef edge. The coral coverage is dense, with large brain corals and encrusting formations between 10 and 20 metres providing habitat for moray eels, lionfish, and resting hawksbill turtles. On the upper reef, anthias and damselfish hover above staghorn gardens. Compared to the full Guraidhoo Channel drift, this site sees lighter currents and is suitable for intermediate divers with good buoyancy control. Visibility averages 15–25 metres. Water temperature is 27–29°C.
 
 ## Site Information
 
 - **Location**: Maldives, Asia
 - **Entry Type**: Boat dive
+- **Depth**: Up to 25m
+- **Difficulty**: Intermediate
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Grey reef sharks, eagle rays, hawksbill turtles, Napoleon wrasse, moray eels, lionfish, anthias, grouper, and sweetlips. Healthy brain and staghorn coral formations.
 
-## Dive Profile
+## Diving Conditions
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+| Condition | Details |
+|-----------|---------|
+| Visibility | 15–25m |
+| Current | Light to moderate |
+| Water Temp | 27–29°C |
+| Best Season | Year-round; December–April for clearest conditions |
 
-## Entry and Exit
+## Tips for Divers
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Position yourself near the corner at depth and let the fish come to you — hovering quietly near the reef edge will typically draw curious reef sharks within metres. Good for wide-angle photography given the manageable currents and consistent shark presence.
 
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

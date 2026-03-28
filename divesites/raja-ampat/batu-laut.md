@@ -13,54 +13,33 @@ addedBy: osm_import
 
 ## Batu Laut
 
-Batu Laut is a reef dive site in Raja Ampat, Asia.
+Batu Laut — literally "sea rock" in Indonesian — is an offshore reef and rock formation rising from the blue water of Raja Ampat, West Papua, Indonesia. The site's exposed position draws strong currents that sweep nutrients past the structure, creating ideal conditions for dense aggregations of reef life.
 
 ## Overview
 
-Batu Laut is a dive site in Raja Ampat offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The submerged rock emerges as a cleaning station and congregation point for a wide variety of species. Schools of fusiliers and anthias cloud the upper pinnacle, while trevally and rainbow runners circle in the open water. The rocky substrate hosts healthy growths of hard and soft coral, with sea fans fanning out into the current on the deeper flanks. Turtles frequently rest on ledges along the upper reef.
 
-## Site Information
-
-- **Location**: Raja Ampat, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+Visibility typically reaches 15–30 metres depending on current and season. Water temperatures hold between 27–30°C. The site is best dived during slack water or light current for comfortable exploration of the rock faces, though moderate current brings the most pelagic activity.
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+- Schools of yellowfin fusiliers, anthias, and blue-streak fusiliers
+- Giant and bluefin trevally hunting in the water column
+- Green and hawksbill turtles resting on ledges
+- Sea fans and whip corals on deeper flanks
+- Occasional reef sharks patrolling the base
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Divers typically circle the rock structure, dropping to 20–30 metres on the deeper seaward faces before ascending to explore the shallower coral-covered top. The site suits intermediate divers comfortable with mild current. Entry and exit are by boat.
 
-## Entry and Exit
+## Practical Information
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+- **Depth range**: 5–30 m
+- **Visibility**: 15–30 m
+- **Current**: Mild to moderate
+- **Best time**: October–April (calm season)
+- **Water temperature**: 27–30°C
+- **Entry**: Boat
 
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

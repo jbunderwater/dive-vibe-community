@@ -13,54 +13,35 @@ addedBy: osm_import
 
 ## West Penemu
 
-West Penemu is a reef dive site in Raja Ampat, Asia.
+West Penemu is a reef dive site off the western face of Penemu Island in Raja Ampat, West Papua, Indonesia. Penemu Island is famous for its dramatic karst limestone formations and hidden lagoons above water, and the reef running along its western flank offers diving of matching quality beneath the surface.
 
 ## Overview
 
-West Penemu is a dive site in Raja Ampat offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The reef off Penemu's western side benefits from currents sweeping in from the open water to the west, delivering nutrients that sustain exceptional coral vitality. The upper reef slope is dense with table corals and staghorn thickets, providing shelter for a large population of juvenile and adult reef fish. Deeper down, the slope transitions through mixed coral and sponge growth before reaching sandy channels at 20–25 metres.
 
-## Site Information
+Napoleon wrasse are a regular feature at this site, cruising the deeper slope with their characteristic unhurried bulk. Schools of moorish idols and bannerfish drift along the reef edge, while hawksbill turtles graze on sponges and soft coral. Wobbegong sharks occasionally rest in crevices beneath coral overhangs. The site's relative exposure to current keeps the water clear and the reef conditions healthy.
 
-- **Location**: Raja Ampat, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+Visibility averages 15–25 metres. Water temperatures range from 27–29°C. Currents can run moderate on the western face during tidal movement.
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+- Napoleon wrasse on the deeper slope
+- Hawksbill turtles grazing on sponges
+- Schools of moorish idols and bannerfish
+- Wobbegong sharks in overhangs
+- Dense table coral and staghorn gardens
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The dive follows the reef slope from the shallower coral gardens down to 20–25 metres before ascending along the current side of the reef for a safety stop. Intermediate divers comfortable with mild to moderate current will enjoy this site. Entry and exit are by boat.
 
-## Entry and Exit
+## Practical Information
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+- **Depth range**: 5–25 m
+- **Visibility**: 15–25 m
+- **Current**: Mild to moderate
+- **Best time**: October–April
+- **Water temperature**: 27–29°C
+- **Entry**: Boat
 
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

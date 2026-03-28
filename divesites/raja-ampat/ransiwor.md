@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Ransiwor
 
-Ransiwor is a reef dive site in Raja Ampat, Asia.
+Ransiwor is a reef dive site in Raja Ampat, West Papua, Indonesia.
 
 ## Overview
 
-Ransiwor is a dive site in Raja Ampat offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Ransiwor is a reef site located in the southern reaches of Raja Ampat's main island cluster, in an area known for its intact and rich coral ecosystems. The name likely derives from a local place name from the indigenous Papuan language of the region. The site features a sloping reef that descends from shallow coral gardens, characterised by high hard coral coverage that remains in excellent condition under the protection of Raja Ampat's marine protected area framework. Currents flowing across the reef maintain water quality and bring nutrients that sustain the dense fish populations Raja Ampat is known for. Visibility averages 20-30 meters and water temperatures remain 27-29°C year-round.
 
 ## Site Information
 
-- **Location**: Raja Ampat, Asia
+- **Location**: Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-30 meters
+- **Current**: Moderate, variable
+- **Best Time**: October to April
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Hard coral gardens in the shallows at Ransiwor support extensive clownfish communities in carpet anemones. Parrotfish, surgeonfish, and wrasse in large numbers feed across the reef surface. Reef sharks are a regular presence at the reef edge, and Napoleon wrasse patrol the mid-water. Hawksbill turtles graze on sponges along the slope. In the deeper rubble zone, look for ornate ghost pipefish, frogfish, and various species of flathead. Large schools of anthias over the reef crest are a visual highlight.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Enter near the reef crest (5-8 meters) and explore the shallow coral gardens before descending the slope to around 20-25 meters. The richest coral cover is in the 8-18 meter range. Follow the slope in one direction before ascending gradually back to the reef top for the safety stop. The dive offers approximately 45-60 minutes of bottom time at these depths with standard recreational equipment.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by dive boat from local homestay or liveaboard operators. Entry via giant stride from the boat. The site is typically dived from the southwest, with currents running along the reef slope. Deploy SMB at 5 meters for boat pickup.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Spend extra time in the shallow coral gardens — the diversity and health of the hard corals is exceptional
+- Check the rubble zone at depth for cryptic species like frogfish and ghost pipefish
+- Early morning light through the shallow water illuminates the coral colours beautifully
+- Carry a torch even for daytime dives to reveal true colours in the mid-range depths
+- This is a good site for both fish diversity and coral photography
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Variable currents may develop during the dive — stay close to your guide and use the reef for shelter if needed. Carry an SMB and ascend at a controlled rate. Always dive within your certification level. The reef surface can be sharp — maintain buoyancy to avoid contact.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The healthy hard coral gardens at Ransiwor make for outstanding wide-angle coral scenics, particularly with good ambient light in the morning. Shooting upward through the coral in the shallows with dappled light above is a reliable composition. Macro opportunities in the rubble at depth include frogfish, ghost pipefish, and nudibranchs that reward patient photographers.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

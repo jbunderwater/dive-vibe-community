@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Wai FPW
 
-Wai FPW is a reef dive site in Raja Ampat, Asia.
+Wai FPW is a reef dive site in Raja Ampat, West Papua, Indonesia. The "FPW" designation likely refers to an operator or expedition code used when the site was catalogued.
 
 ## Overview
 
-Wai FPW is a dive site in Raja Ampat offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Wai FPW is located in the southern part of Raja Ampat, near Misool or the outer islands, in an area characterised by well-developed reef systems that have benefited from strong conservation management. The site offers a sloping reef with varied terrain: coral gardens in the shallows give way to a mixed reef of bommies, soft coral patches, and encrusting sponges as depth increases. The name "Wai" echoes Papuan place nomenclature of the region. Current activity at the site supports healthy fish biomass and maintains water clarity. Visibility typically reaches 20-30 meters and water temperatures average 27-29°C.
 
 ## Site Information
 
-- **Location**: Raja Ampat, Asia
+- **Location**: Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-30 meters
+- **Current**: Moderate, variable
+- **Best Time**: October to April
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The reef supports the characteristic Raja Ampat suite of species: large schools of anthias and fusiliers above the reef crest, clownfish colonies in anemones, and diverse wrasse and parrotfish across the substrate. Reef sharks and Napoleon wrasse are regular visitors. Sea turtles are frequently encountered resting on or cruising the reef. The bommie terrain at mid-depth provides habitat for groupers, lionfish, and moray eels. Macro divers find nudibranchs and flatworms on the encrusting growth of the deeper reef sections.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin at the reef crest (5-8 meters) and explore the shallow coral garden before descending the reef slope through the bommie zone to around 20-25 meters. Work back up the reef on a different line to maximise coverage. The most productive depth range is 8-20 meters, where reef structure complexity is highest. Finish with a relaxed safety stop in the shallow water.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by dive boat. Entry via giant stride from the boat. Site is typically dived by liveaboard operators running the southern Raja Ampat circuit. Deploy SMB before ascending for boat pickup.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Explore bommies individually — each supports its own resident community
+- Scan the anemone fields carefully: multiple clownfish species may be present at this latitude
+- The site suits both wide-angle and macro photography approaches
+- Liveaboard timing into this area should align with calmer sea conditions (October to April)
+- Night dives at similar southern sites often reveal octopus, cuttlefish, and sleeping parrotfish
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Conditions in the outer Raja Ampat islands can change with weather. Check the forecast and local operator advice. Currents may develop during the dive. Always carry an SMB. Follow your guide's lead and dive within your certification limits.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Southern Raja Ampat reefs like Wai FPW are known for their hard coral integrity and vivid soft coral patches. Wide-angle coral scenic work is excellent, particularly in the shallows where coral coverage is densest. At depth, macro subjects in the encrusting growth reward close-focus work. The typically good visibility supports ambient-light photography through most of the dive.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

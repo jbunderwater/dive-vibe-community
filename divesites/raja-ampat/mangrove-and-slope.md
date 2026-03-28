@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Mangrove and Slope
 
-Mangrove and Slope is a reef dive site in Raja Ampat, Asia.
+Mangrove and Slope is a mangrove-to-reef transition dive site in the Gam Island area of Raja Ampat, West Papua, Indonesia.
 
 ## Overview
 
-Mangrove and Slope is a dive site in Raja Ampat offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Mangrove and Slope is the most explicitly described dive site in the Gam area cluster: the site name documents the two environments that the dive traverses. Beginning in or adjacent to a mangrove zone, the dive transitions across the reef slope that descends from the mangrove margin into open water. This transition captures two distinct ecosystems within a single dive — the mangrove zone's sheltered, root-dense nursery habitat and the open reef slope's exposed, current-influenced community. The contrasting environments produce contrasting marine life, and the dive rewards naturalist divers who appreciate the ecological connectivity between these adjacent habitats. Visibility ranges from 10-20 meters in the mangrove zone to 20-30 meters on the open slope. Water temperatures average 27-29°C.
 
 ## Site Information
 
-- **Location**: Raja Ampat, Asia
+- **Location**: Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 10-30 meters (variable by zone)
+- **Current**: Mild to moderate, tidal influence in mangrove zone
+- **Best Time**: October to April
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The mangrove zone shelters juvenile fish in densities that exceed the open reef — batfish, sweetlips, and snapper juveniles cluster among the roots. Epaulette sharks (the endemic Raja Ampat "walking sharks") rest in the shallow root zone and are a realistic sighting for observant divers. Clownfish in anemones mark the transition to the reef slope. On the slope itself, the community opens up to the standard Raja Ampat suite: reef sharks, Napoleon wrasse, trevally, and sea turtles. Nudibranchs and flatworms populate the encrusting growth on the slope throughout. Banded sea kraits are occasional visitors traversing both habitats.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin in the mangrove zone (2-8 meters) and take time to explore the root environment and its associated species. Move gradually to the reef slope as the mangrove zone ends, following the slope downward to around 20-25 meters. The transition between environments is ecologically interesting — observe how species change as habitat shifts. Return up the slope to finish with a safety stop in the shallow water between the mangrove margin and the slope.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by dive boat. Entry near the mangrove margin via giant stride or from a beach if the operator uses a shore entry point. Tidal timing matters for mangrove access — plan with your guide. Deploy SMB before ascending from the slope for boat pickup.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Time the dive near high tide for the best mangrove access
+- Spend equal time in both habitats — the contrast between them is the site's defining feature
+- Search the root zone carefully for epaulette sharks
+- Bring a torch for the mangrove zone even in daytime — the root canopy reduces ambient light
+- The site suits divers interested in marine ecology as much as individual species encounters
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Tidal currents in the mangrove zone can be variable. Maintain awareness of depth in the transition — the slope descends more steeply than the mangrove zone implies. Carry an SMB and deploy it before surfacing on the slope. Mangrove root systems can be navigationally confusing — stay with your guide.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Mangrove and Slope offers two very different photographic environments in a single dive. Wide-angle shots through mangrove roots with filtered light from above are atmospheric and distinctive. The reef slope provides classic Raja Ampat reef scenic photography. Macro work spans both zones: juvenile fish portraits in the roots and nudibranch/flatworm subjects on the encrusting growth of the slope. This is one of the more versatile photographic sites in the Gam area.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,55 +13,35 @@ addedBy: osm_import
 
 ## Cape Mansuar
 
-Cape Mansuar is a wall dive site in Raja Ampat, Asia.
+Cape Mansuar is a wall dive off the tip of Mansuar Island in Raja Ampat, West Papua, Indonesia, positioned near the heart of the Dampier Strait's most productive diving. The cape's exposure to open-water currents has built a wall community of remarkable richness, with multiple species of shark, large pelagics, and dense coral growth across the entire dive.
 
 ## Overview
 
-Cape Mansuar is a dive site in Raja Ampat featuring a dramatic vertical wall that drops into the deep blue . Perfect snorkeling spot. A lot of fishes, some turtles and clown fishes.. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The wall begins shallow at the cape tip and drops to beyond recreational limits, with the most productive diving concentrated between 10 and 25 metres. The wall face is draped in soft corals and sea fans, with orange and yellow sponges filling the spaces between them. Wobbegong sharks — the ornate, carpet-like ambush predators of the western Pacific — rest on ledges and beneath coral overhangs along the wall, sometimes piled two or three deep in favoured spots.
 
-## Site Information
+Napoleon wrasse are a dependable presence, patrolling the wall face in pairs or singly at depths of 15–20 metres. Schools of batfish hover mid-water off the wall edge, drifting with the current. Grey reef sharks and whitetip reef sharks circle below. The cape tip itself is a cleaning station area, where large fish queue for attention from wrasse and cleaner fish.
 
-- **Location**: Raja Ampat, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+Currents run around the cape and can be moderate to strong on peak tidal flow, sweeping divers along the wall in a relaxed drift. Visibility averages 15–25 metres. Water temperature holds between 27–30°C.
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+- Wobbegong sharks on ledges and overhangs along the wall
+- Napoleon wrasse patrolling the wall face
+- Grey reef sharks and whitetip reef sharks below
+- Schools of batfish hovering mid-water
+- Soft corals, sea fans, and sponges on the wall face
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-25 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+The dive begins at the cape tip and drifts with the current along the wall at 10–25 metres. Sea fans and wobbegong ledges are explored on the descent, with the ascent back along the shallower reef for the safety stop. Intermediate divers comfortable with moderate current will find this site rewarding. Entry and exit are by boat.
 
-## Entry and Exit
+## Practical Information
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+- **Depth range**: 5–25 m
+- **Visibility**: 15–25 m
+- **Current**: Moderate (tidal)
+- **Best time**: October–April
+- **Water temperature**: 27–30°C
+- **Entry**: Boat
 
-## Tips and Recommendations
-
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

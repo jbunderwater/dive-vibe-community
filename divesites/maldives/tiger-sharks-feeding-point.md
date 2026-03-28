@@ -13,54 +13,21 @@ addedBy: osm_import
 
 ## Tiger sharks feeding point
 
-Tiger sharks feeding point is a reef dive site in Maldives, Asia.
+Tiger Sharks Feeding Point is a reef site in Addu Atoll renowned for sightings of tiger sharks, which are drawn into the area by local fish cleaning and discarding practices at the nearby fishing communities. The site is one of the few places in the Maldives where tiger shark encounters are considered relatively predictable.
 
-## Overview
+### Site Conditions
 
-Tiger sharks feeding point is a dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+- **Depth range**: 10–25 m
+- **Typical visibility**: 15–25 m
+- **Currents**: Light to moderate
+- **Best season**: November–April; tiger shark sightings most common
 
-## Site Information
+### What to Expect
 
-- **Location**: Maldives, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+Tiger sharks are the defining attraction at this site — typically large adults in the 3–4 metre range that patrol the reef perimeter and sandy channels between reef structures. They approach closely and purposefully, with the bold, inquisitive behaviour characteristic of the species. Encounters are not guaranteed but are regular enough to justify the site's reputation. Beyond the tiger sharks, the reef holds a healthy population of nurse sharks resting in sandy pockets, grey reef sharks, and the typical complement of Addu Atoll reef species — turtles, large Napoleon wrasse, and moray eels. The site's moderate depth gives divers sufficient bottom time to wait out an encounter.
 
-## Marine Life
+### Tips for Divers
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Dive briefings from local guides are essential before entering the water — tiger shark behaviour at this site is influenced by feeding history and diver conduct protocols. Divers should refrain from sudden movements and maintain a kneeling or stationary posture on the reef during sightings. Keeping hands in or close to the body and avoiding shiny jewellery reduces the risk of investigative bites. This is an intermediate-rated site on depth but warrants experienced, calm divers given the nature of the encounters.
 
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

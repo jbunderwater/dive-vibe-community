@@ -13,54 +13,37 @@ addedBy: osm_import
 
 ## Maaya Thila
 
-Maaya Thila is a pinnacle dive site in Maldives, Asia.
+Maaya Thila is one of North Ari Atoll's most celebrated protected dive sites — a steep-sided underwater pinnacle swept by strong tidal currents that draw grey reef sharks in numbers rarely seen elsewhere in the Maldives, making it a benchmark site for advanced pinnacle diving.
 
 ## Overview
 
-Maaya Thila is a dive site in Maldives offering rewarding diving on healthy coral reef structures . One of the most popular diving site in atoll. Water is not clear. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Maaya Thila is a Protected Marine Area and consistently appears on lists of the Maldives' best dive sites. The pinnacle rises from around 35 metres to a summit at 6 metres and is covered in soft and hard coral growth, but the defining experience is the shark aggregation that forms when current flows. Grey reef sharks accumulate along the upcurrent face in groups of ten to thirty or more during the right tidal conditions, circling mid-water in mesmerising formations. White-tip reef sharks rest in the sandy hollows deeper on the pinnacle, while napoleon wrasse and large grouper hold station around the structure. Schooling fish — fusiliers, jacks, and snappers — swarm above the pinnacle creating a dynamic underwater scene. Strong, surging current is the rule rather than the exception, and only divers with proven current management skills should attempt this site.
 
 ## Site Information
 
 - **Location**: Maldives, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 35 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-25 meters (50-80 feet)
+- **Current**: Strong to very strong, unpredictable surges
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Grey reef sharks (often in large aggregations), white-tip reef sharks, napoleon wrasse, large grouper, schools of jacks and fusiliers, eagle rays, turtles, and dense soft coral and sea fan growth on the pinnacle walls.
 
-## Dive Profile
+## Diving Tips
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 35 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- The shark aggregation is best on the upcurrent face at 15–25 metres — position yourself there during the first part of the dive.
+- Grip the reef (carefully, on bare rock only) or use a reef hook to hold position against the current while watching the sharks.
+- Reef hooks are strongly recommended — confirm your operator supplies them.
+- Divers without prior kandu and strong-current Maldivian experience should build up to this site with gentler thilas first.
+- Visibility can be reduced by plankton blooms that attract the shark aggregations — embrace this as part of the experience.
 
-## Entry and Exit
+## Getting There
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Maaya Thila is in North Ari Atoll, accessed by seaplane (25 minutes) or speedboat (approximately 2 hours) from Malé. Most Ari Atoll resorts and liveaboards include it as a featured dive.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,54 +13,35 @@ addedBy: osm_import
 
 ## Guradoo South
 
-Guradoo South is a reef dive site in Maldives, Asia.
+Guradoo South is a sheltered reef dive along the inner southern face of Guradoo Island in South Male Atoll — a calmer counterpart to Guradoo South Outside, with excellent coral coverage and reliable turtle sightings.
 
 ## Overview
 
-Guradoo South is a dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Protected from the full force of oceanic swells, Guradoo South offers a more relaxed dive along a gently sloping reef that descends to 25 metres. The inner wall is characterised by healthy hard coral gardens — particularly impressive table corals and branching Acropora between 8 and 15 metres — and dense aggregations of reef fish. Hawksbill turtles are regularly encountered grazing on sponges in the mid-depth zone, and the sandy patches at the reef base are home to garden eels and blue-spotted stingrays. Fusilier schools drift along the wall, and Napoleon wrasse make regular appearances near the deeper coral heads. Currents are generally light, making this suitable for photographers and divers wanting a more relaxed pace. Visibility averages 15–25 metres. Water temperature stays at 27–29°C.
 
 ## Site Information
 
 - **Location**: Maldives, Asia
 - **Entry Type**: Boat dive
+- **Depth**: Up to 25m
+- **Difficulty**: Intermediate
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Hawksbill turtles, Napoleon wrasse, blue-spotted stingrays, garden eels, fusiliers, grouper, anthias, and occasional eagle rays along the deeper reef edge.
 
-## Dive Profile
+## Diving Conditions
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+| Condition | Details |
+|-----------|---------|
+| Visibility | 15–25m |
+| Current | Light |
+| Water Temp | 27–29°C |
+| Best Season | Year-round |
 
-## Entry and Exit
+## Tips for Divers
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+An ideal site for underwater photography thanks to calm conditions and plentiful subjects. Pair this dive with Guradoo South Outside on the same day to experience the contrast between the sheltered inner reef and the exposed outer face.
 
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

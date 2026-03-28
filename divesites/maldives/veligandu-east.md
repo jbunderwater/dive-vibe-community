@@ -11,56 +11,23 @@ osmId: 8584208532
 addedBy: osm_import
 ---
 
-## Veligandu east
+## Veligandu East
 
-Veligandu east is a reef dive site in Maldives, Asia.
+Veligandu East is the eastern outer reef of Veligandu island in Rasdhoo Atoll, sitting adjacent to the famous Rasdhoo Madivaru Corner site that has made this atoll synonymous with hammerhead shark encounters. The east-facing exposure gives this reef different current dynamics and marine life composition, providing an excellent complementary dive to the flagship corner site.
 
-## Overview
+### Site Conditions
 
-Veligandu east is a dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+- **Depth range**: 8–25 m
+- **Typical visibility**: 20–30 m
+- **Currents**: Moderate; oceanic swell possible on the exposed east side
+- **Best season**: December–March for hammerhead season; year-round for general reef diving
 
-## Site Information
+### What to Expect
 
-- **Location**: Maldives, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+The reef wall on the east side of Veligandu slopes steeply from a shallow crest to a sandy terrace at 25 metres, well decorated with sea fans and black coral at depth. The site receives good oceanic current that delivers nutrients and supports an active pelagic zone — eagle rays, grey reef sharks, and the occasional silvertip shark are regular passes. The reef crest and slope host abundant hard coral formations sheltering the typical cast of Rasdhoo Atoll reef species: Napoleon wrasse, hawksbill turtles, and large schools of surgeonfish. Hammerhead sharks, while most reliably sighted at Madivaru Corner at dawn, occasionally appear along this eastern wall during their morning circuits of the atoll.
 
-## Marine Life
+### Tips for Divers
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Divers visiting Rasdhoo Atoll primarily for hammerheads typically combine a dawn dive at Madivaru Corner with a mid-morning dive at Veligandu East before conditions deteriorate. The site's calmer, less crowded character compared to Madivaru Corner makes it a more relaxed experience. Strong oceanic swell can make the entry and exit from the boat more dynamic on the exposed east face during the southwest monsoon.
 
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

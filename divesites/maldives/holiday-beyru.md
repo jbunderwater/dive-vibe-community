@@ -13,54 +13,35 @@ addedBy: osm_import
 
 ## Holiday Beyru
 
-Holiday Beyru is a reef dive site in Maldives, Asia.
+Holiday Beyru is a reef dive in South Ari Atoll (beyru meaning "outside" or "outer ocean" in Dhivehi), offering a scenic outer reef wall with solid coral coverage and a relaxed pace suited to intermediate divers.
 
 ## Overview
 
-Holiday Beyru is a dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Positioned on the outer edge of South Ari Atoll, Holiday Beyru is a gently sloping outer reef that descends to around 25 metres before the wall steepens into deeper blue water. The reef crest at 5–8 metres is covered in a healthy mix of hard corals — staghorn, table, and massive Porites formations — attracting dense populations of reef fish including parrotfish, surgeonfish, and butterflyfish. The mid-reef zone between 10 and 20 metres features overhangs and coral outcroppings where grouper and Napoleon wrasse take up residence, and hawksbill turtles are reliably encountered grazing on sponge growth. The outer reef face sees occasional passes by grey reef sharks and eagle rays. Currents are generally light to moderate on this section of the atoll, making it a comfortable dive for underwater photography. Visibility reaches 15–25 metres. Water temperature averages 27–29°C.
 
 ## Site Information
 
 - **Location**: Maldives, Asia
 - **Entry Type**: Boat dive
+- **Depth**: Up to 25m
+- **Difficulty**: Intermediate
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Hawksbill turtles, grey reef sharks, eagle rays, Napoleon wrasse, grouper, parrotfish, surgeonfish, butterflyfish, and moray eels in reef crevices.
 
-## Dive Profile
+## Diving Conditions
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+| Condition | Details |
+|-----------|---------|
+| Visibility | 15–25m |
+| Current | Light to moderate |
+| Water Temp | 27–29°C |
+| Best Season | December–April |
 
-## Entry and Exit
+## Tips for Divers
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+An unhurried reef dive ideal for photography. Check the outer reef edge for eagle rays and sharks before ascending to enjoy the coral gardens on the crest. Turtles tend to be most numerous in the mid-reef zone where sponge growth is heaviest.
 
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

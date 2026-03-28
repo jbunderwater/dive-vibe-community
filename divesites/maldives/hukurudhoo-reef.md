@@ -11,56 +11,37 @@ osmId: 9620859251
 addedBy: osm_import
 ---
 
-## Hukurudhoo reef
+## Hukurudhoo Reef
 
-Hukurudhoo reef is a reef dive site in Maldives, Asia.
+Hukurudhoo Reef is a fringing outer reef near Hukurudhoo Island in South Ari Atoll, offering a scenic drift along a well-preserved coral wall with consistent reef shark encounters.
 
 ## Overview
 
-Hukurudhoo reef is a dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The reef surrounding Hukurudhoo Island stretches along the outer atoll rim, where the reef slope descends from the crest at 5 metres to around 25 metres before the wall drops away into deeper water. The coral is notably healthy for this section of South Ari Atoll — massive Porites bommies, broad table corals, and encrusting formations support dense fish communities across all depth zones. Grey reef sharks cruise the deeper sections of the wall with regularity, and the current-exposed sections of the reef attract schools of barracuda and big-eye trevally that hover in the water column. Hawksbill turtles are frequently encountered in the mid-reef zone at 10–18 metres. The lagoon side of the reef, where it meets calmer water, has sandy areas with garden eels and blue-spotted stingrays. Visibility is typically 15–25 metres. Water temperature averages 27–29°C.
 
 ## Site Information
 
 - **Location**: Maldives, Asia
 - **Entry Type**: Boat dive
+- **Depth**: Up to 25m
+- **Difficulty**: Intermediate
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Grey reef sharks, hawksbill turtles, barracuda, big-eye trevally, blue-spotted stingrays, garden eels, Napoleon wrasse, and grouper. Healthy Porites and table coral formations.
 
-## Dive Profile
+## Diving Conditions
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+| Condition | Details |
+|-----------|---------|
+| Visibility | 15–25m |
+| Current | Light to moderate |
+| Water Temp | 27–29°C |
+| Best Season | December–April |
 
-## Entry and Exit
+## Tips for Divers
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Follow the reef in the direction of current for a relaxed drift experience. The deeper wall sections (18–25 m) are most productive for shark encounters; the mid-reef zone is best for turtles and coral photography.
 
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

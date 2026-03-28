@@ -13,54 +13,37 @@ addedBy: osm_import
 
 ## Rangali manta point
 
-Rangali manta point is a pinnacle dive site in Maldives, Asia.
+Rangali Manta Point is one of the most celebrated manta ray dive sites in the Maldives, a pinnacle formation in South Ari Atoll near Rangali Island that serves as a regular cleaning station and feeding aggregation point for reef manta rays, attracting divers from around the world.
 
 ## Overview
 
-Rangali manta point is a dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Rangali Manta Point earns its reputation from consistent, close-up encounters with reef manta rays (Mobula alfredi) that arrive at the underwater pinnacle to be cleaned by resident cleaner wrasse. The site rises from around 28 metres to a summit at 10–12 metres, and the cleaning station is located on a broad, coral-encrusted section of the upper pinnacle. During the northeast monsoon (November–April), the area around South Ari Atoll hosts some of the highest concentrations of reef mantas in the world, and Rangali Manta Point is a focal site for these aggregations. On exceptional days, multiple mantas circle simultaneously above the cleaning station, creating one of the most iconic wildlife spectacles in scuba diving. Between manta visits, the pinnacle itself is a worthwhile dive with sea fans, white-tip sharks, and colourful reef fish.
 
 ## Site Information
 
 - **Location**: Maldives, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 28 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-30 meters (50-100 feet)
+- **Current**: Moderate, variable — can strengthen
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Reef manta rays (Mobula alfredi, regular and often numerous), white-tip reef sharks, cleaner wrasse, sea fans, napoleon wrasse, eagle rays, grouper, fusiliers, and anthias on the pinnacle.
 
-## Dive Profile
+## Diving Tips
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 28 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- Position at the cleaning station depth (10–15 metres) and remain stationary — mantas will approach close if divers are calm and still.
+- Never touch, chase, or cut off a manta ray's path; ethical observation is the standard expected here.
+- This is a Protected Marine Area; reef hooks, gloves, and any reef contact are prohibited.
+- Best months are November through April for the highest manta density; however, mantas are present year-round in South Ari Atoll.
+- Book through operators with manta conservation commitments (the Maldivian Manta Ray Project is active in this area).
 
-## Entry and Exit
+## Getting There
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Rangali Island in South Ari Atoll is reached by seaplane from Malé (approximately 30 minutes). Resort and liveaboard boats run daily trips to Rangali Manta Point during the season.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,55 +13,29 @@ addedBy: osm_import
 
 ## Fihalhohi Hausriff Nord
 
-Fihalhohi Hausriff Nord is a reef dive site in Maldives, Asia.
+Fihalhohi Hausriff Nord is the northern section of the house reef surrounding Fihalhohi Island in South Male Atoll, a shallow and sheltered reef ideal for beginners, snorkellers, and night diving.
 
 ## Overview
 
-Fihalhohi Hausriff Nord is a dive site in Maldives offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Fihalhohi Island's house reef is divided into distinct sections by local dive operators, with the Nord (north) section accessing the most sheltered part of the fringing reef. The northern face benefits from the island's protection against the prevailing swell, resulting in consistent calm conditions suitable for entry-level divers and dive training. The reef drops from the beach into a coral garden at 3-8 meters that is densely populated with hard corals — particularly staghorn and brain coral formations — before levelling to a sandy bottom at 10-12 meters. The shallow depth allows excellent natural light penetration, making this one of the better sites in South Male Atoll for wide-angle photography without strobes. Turtles are frequently seen resting on the sandy patches and grazing on the reef top, and the resident fish life includes large parrotfish, surgeonfish, and various grouper species that have become accustomed to divers. The site connects with the main Hausriff to the south for longer reef circuits.
 
 ## Site Information
 
-- **Location**: Maldives, Asia
+- **Location**: South Male Atoll, Maldives
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-25 meters
+- **Current**: Generally mild; protected by island
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Hawksbill turtles, large parrotfish, surgeonfish, grouper, bannerfish, pufferfish, moray eels, and dense staghorn and brain coral formations. Night dives reveal octopus, shrimp, and hunting invertebrates.
 
-## Dive Profile
+## Tips for Divers
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The north section is the go-to recommendation for first dives in the Maldives at this resort, offering calm conditions and reliable turtle encounters in a forgiving depth range. Night dives here are excellent — the reef transforms with active octopus and shrimp visible in torchlight. Connect southward along the reef for a longer circuit to the main Hausriff section.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

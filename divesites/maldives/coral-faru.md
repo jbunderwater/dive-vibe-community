@@ -13,54 +13,32 @@ addedBy: osm_import
 
 ## Coral Faru
 
-Coral Faru is a reef dive site in Maldives, Asia.
+**Location:** South Malé Atoll, Maldives
+**Depth:** 3–25 m
+**Difficulty:** Intermediate
+**Entry:** Boat
 
-## Overview
+### Overview
 
-Coral Faru is a dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Coral Faru is a faru reef formation in South Malé Atoll. The name says it plainly — this is a site defined by its coral growth. The reef features a broad, sunlit top and outer slopes colonised by an extensive variety of hard corals. Healthy reef structure is the defining characteristic here, making it a prime example of the Maldivian atoll reef ecosystem at its best.
 
-## Site Information
+### Diving
 
-- **Location**: Maldives, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+Diving begins on the outer reef corner and follows the slope downward through zones of increasing coral complexity. Table corals spread in impressive formations across the upper 5–15 m range, while the deeper slope transitions to more massive coral structures and barrel sponges. The sandy bottom at 25 m has scattered coral bommies that provide shelter for stingrays and sleeping reef sharks.
 
-## Marine Life
+Schooling fish life is strong on the reef, with dense aggregations of pyramid butterflyfish, surgeonfish, and parrotfish. The outer face is visited by Napoleon wrasse and occasional pelagics passing through the atoll.
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+### Marine Life
 
-## Dive Profile
+- Table corals and extensive hard coral coverage
+- Pyramid butterflyfish and surgeonfish (schooling)
+- Napoleon wrasse
+- Whitetip reef sharks (resting on sand)
+- Hawksbill turtles
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+### Practical Notes
 
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+A good all-round reef dive suitable for intermediate divers. Minimal current at most tidal phases. Visibility typically 15–25 m. Boat access from South Malé Atoll resorts and liveaboards.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

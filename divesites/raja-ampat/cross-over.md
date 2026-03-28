@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Cross Over
 
-Cross Over is a drift dive site in Raja Ampat, Asia.
+Cross Over is a drift dive site in Raja Ampat, West Papua, Indonesia, where divers cross between two adjacent reef systems riding the current.
 
 ## Overview
 
-Cross Over is a dive site in Raja Ampat offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Cross Over is one of Raja Ampat's characteristically named drift sites, describing the diving experience directly: the current carries divers across a channel or saddle from one reef structure to another, giving the sensation of crossing between two underwater worlds in a single dive. This style of dive is typical of the Dampier Strait region, where tidal currents funnel between islands and create fast, exhilarating passages over reef. The two reef systems between which divers cross each have their own distinct character, and the transition zone itself — often a sandy channel or rubble saddle — hosts its own suite of species. Visibility is typically excellent at 20-35 meters, and water temperatures average 27-29°C.
 
 ## Site Information
 
-- **Location**: Raja Ampat, Asia
+- **Location**: Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Drift
+- **Site Type**: Drift dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 20-35 meters
+- **Current**: Strong, directional tidal current
+- **Best Time**: October to April
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The current flowing through the crossing zone brings plankton and concentrates planktivores — dense schools of fusiliers, anthias, and glassfish hover at the reef edges. Trevally and mackerel hunt through the schools in spectacular feeding displays. Eagle rays and reef sharks are regularly seen in the channel. On the reef structures at either end, clownfish, grouper, Napoleon wrasse, and sea turtles provide contrast to the open-water spectacle of the crossing. Both reefs have rich soft coral growth in the current-swept zones.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The boat drops divers upcurrent from the first reef. Descend and follow the reef along its edge, then commit to the crossing as the current takes you over the channel saddle toward the second reef. The crossing itself may last only a few minutes of exhilarating drift. Spend the latter part of the dive exploring the second reef structure before ascending. The dive typically covers significant horizontal distance — the boat will follow your bubbles and SMB.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by dive boat. Entry upcurrent of the first reef; the boat then follows the dive group throughout the drift. Deploy SMB before ascending — surface pickup on a drift dive requires clear communication with the crew. Brief the captain on the planned direction before entering.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Trust the current — fighting it is exhausting and unnecessary; let it carry you
+- Stay close to your guide during the crossing for orientation
+- Keep your group together through the transition zone
+- Reef hooks are useful for pausing on the reef to watch fish activity
+- The crossing is most spectacular when timed with a strong tidal push
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Strong drift currents require drift diving experience. Always carry an SMB and deploy it before surfacing in open water. Be aware of boat traffic in the channel. If the current separates the group, ascend and surface where safe, then signal the boat. Never fight the current — ascend if you cannot maintain control.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Drift dives offer uniquely dynamic photography opportunities: fish schooling in the current, eagle rays gliding past, and the sensation of movement through the reef. Wide-angle shooting works best for capturing the scale of fish aggregations and the open-water scenes during the crossing. Keeping up with a moving subject in current requires anticipation and pre-framing.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

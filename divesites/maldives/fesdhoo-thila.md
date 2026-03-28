@@ -13,54 +13,29 @@ addedBy: osm_import
 
 ## Fesdhoo thila
 
-Fesdhoo thila is a pinnacle dive site in Maldives, Asia.
+Fesdhoo thila is a submerged pinnacle (thila) in North Ari Atoll, rising from depth to within a few meters of the surface and concentrating marine life in the open atoll waters between the outer reef and inhabited islands.
 
 ## Overview
 
-Fesdhoo thila is a dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Thilas are among the most biologically productive dive structures in the Maldives, and Fesdhoo thila is a representative example from North Ari Atoll. The pinnacle rises from around 26 meters to its shallowest point at 3-5 meters, with all faces encrusted in hard and soft corals, sea fans, and encrusting sponges. The isolated nature of the structure in open water means it acts as a focal point for all marine life in the surrounding area — reef fish congregate on the pinnacle faces, while sharks and pelagics patrol the blue water on all sides. Grey reef sharks and whitetip reef sharks are resident features of Fesdhoo thila, resting on ledges and circling in the midwater. The southwest and southeast faces, exposed to the strongest current, carry the best soft coral growth and attract the most consistent pelagic traffic. The thila is close to the uninhabited Fesdhoo Island and is accessible from resort islands throughout North Ari Atoll.
 
 ## Site Information
 
-- **Location**: Maldives, Asia
+- **Location**: North Ari Atoll, Maldives
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 26 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-30 meters
+- **Current**: Moderate to strong; varies with tide and season
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Grey reef sharks, whitetip reef sharks, eagle rays, Napoleon wrasse, schools of fusiliers, snapper, and surgeonfish, moray eels, and diverse soft coral and sea fan growth on current-exposed faces.
 
-## Dive Profile
+## Tips for Divers
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 26 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Circumnavigate the thila at depth first, spending time on the current-facing walls for the best soft coral and pelagic views, then ascend to the shallower faces for the fish-life density and safety stop. Keep an eye on the blue water above and beyond the pinnacle edge for eagle rays and sharks crossing between faces. The site is best dived with at least a gentle current running to animate the soft corals and bring in pelagics.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

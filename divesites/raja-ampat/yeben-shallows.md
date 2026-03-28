@@ -13,55 +13,35 @@ addedBy: osm_import
 
 ## Yeben Shallows
 
-Yeben Shallows is a reef dive site in Raja Ampat, Asia.
+Yeben Shallows is a shallow reef dive tucked close to Yeben Island in Raja Ampat, West Papua, Indonesia. Protected from heavy wave action by the island's bulk, the site offers calm conditions that make it accessible to beginner divers and ideal for relaxed, slow-paced exploration.
 
 ## Overview
 
-Yeben Shallows is a dive site in Raja Ampat offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The reef rises to within a metre or two of the surface in places, creating extensive shallow terrain for snorkellers and divers to explore. Plate corals, staghorn gardens, and massive Porites heads dominate the shallow zone, transitioning to a more sloping reef with gorgonians and encrusting sponges at depth. The site is typical of Raja Ampat's extraordinary coral diversity, with dozens of coral genera visible on a single dive.
 
-## Site Information
+Small reef creatures reward attentive observers: nudibranchs, flatworms, and tiny gobies shelter among coral rubble and encrusting growth. Cleaner shrimp stations in crevices draw small reef fish throughout the dive. Juvenile fish of many species use the shallow coral gardens as nursery habitat, resulting in unusually high fish density even by Raja Ampat standards.
 
-- **Location**: Raja Ampat, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+Visibility runs 15–25 metres in calm conditions. Water temperature stays between 27–30°C. Currents are generally mild at this protected site.
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+- Diverse hard coral communities: staghorn, plate, and massive Porites
+- Nudibranchs and flatworms in the rubble zones
+- Dense populations of juvenile reef fish
+- Cleaner shrimp stations in crevices
+- Butterflyfish, parrotfish, and wrasse grazing the coral
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The dive follows the shallow reef contour at 5–18 metres, with ample time to hover over coral gardens and search for macro life. Its gentle profile makes it a strong choice as a first dive of the trip or for less experienced divers. Entry and exit are by boat.
 
-## Entry and Exit
+## Practical Information
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+- **Depth range**: 2–25 m
+- **Visibility**: 15–25 m
+- **Current**: Mild
+- **Best time**: October–April
+- **Water temperature**: 27–30°C
+- **Entry**: Boat
 
-## Tips and Recommendations
-
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

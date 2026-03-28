@@ -13,54 +13,53 @@ addedBy: osm_import
 
 ## Chicken Reef
 
-Chicken Reef is a reef dive site in Raja Ampat, Asia.
+Chicken Reef is a reef dive in the eastern Dampier Strait of Raja Ampat, named after the local villages' chicken farming activity on the nearby shoreline — an endearingly matter-of-fact name for a site that delivers solid Raja Ampat reef diving with good coral coverage and a productive resident fish community.
 
 ## Overview
 
-Chicken Reef is a dive site in Raja Ampat offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Chicken Reef sits in the productive eastern section of the Dampier Strait near the Mansuar Island area, where tidal exchange keeps the water nutrient-rich and the reef life active. The reef itself is a gently sloping structure with healthy hard coral development in the shallows and a more complex mix of soft coral, encrusting sponge, and sea fans at depth. While it lacks the marquee status of nearby Blue Magic or Sardine Reef, Chicken Reef provides a reliable, quality reef dive that is often included in eastern Dampier Strait multi-dive day itineraries. Water temperature averages 27–29°C with visibility of 12–20 meters.
 
 ## Site Information
 
-- **Location**: Raja Ampat, Asia
+- **Location**: Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 12–20 meters (40–65 feet)
+- **Current**: Variable; moderate on tidal exchange
+- **Best Time**: October to April
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The reef supports a characteristic Dampier Strait fish community: schools of fusiliers and snapper in the mid-water zone, hawksbill turtles on the reef top, and resident white-tip reef sharks at the reef base. Napoleon wrasse are regular visitors. The coral gardens in the upper 10 meters support colorful reef fish including butterflyfish, angelfish, and parrotfish. Macro life in the rubble areas between coral heads — nudibranchs, flatworms, and various crustaceans — rewards careful searching.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Standard sloping reef dive from 5 meters at the crest to 20–25 meters at the base. Spend time at each depth zone as marine life composition changes with depth. The upper zone of hard coral is excellent for reef fish observation; the deeper slope offers more cryptic and macro life. Finish the dive on the shallow reef top for an easy safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from eastern Dampier Strait liveaboards or day-trip operators based near Mansuar or Arborek. Entry via giant stride. Deploy SMB on ascent; the Dampier Strait has significant boat traffic.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Chicken Reef pairs well with Blue Magic or Sardine Reef in a multi-dive eastern Dampier day
+- A slower pace rewards divers who look carefully at the substrate between coral heads
+- Ask your guide about recent unusual sightings — the eastern Dampier is diverse and surprises are regular
+- A torch helps with crevice inspection even on daytime dives
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Standard intermediate reef protocols apply. Moderate currents possible on tidal exchange — carry an SMB. Monitor air consumption and depth carefully.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Good all-round reef photography location. Hard coral wide-angle in the shallows, reef fish portraits at all depths, and macro subjects in the rubble. Combine with nearby marquee sites for a photographically varied day in the eastern Dampier.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

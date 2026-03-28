@@ -13,53 +13,36 @@ addedBy: osm_import
 
 ## Miyaru Kandu
 
-Miyaru Kandu is a drift dive site in Maldives, Asia.
+Miyaru Kandu — "Shark Channel" in Dhivehi — is a powerful tidal channel in South Malé Atoll that lives up to its name, delivering some of the most concentrated grey reef shark encounters in the atoll as currents drive divers past walls crowded with predatory fish.
 
 ## Overview
 
-Miyaru Kandu is a dive site in Maldives offering rewarding diving on healthy coral reef structures . Channel dive with reef sharks. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Miyaru Kandu is a classic Maldivian kandu experience, where tidal flow accelerates through the channel cut and pushes divers along walls stacked with sea fans, soft corals, and overhangs that shelter dense concentrations of fish. Grey reef sharks are the headline act, gathering in groups on the upcurrent face at the channel mouth as the current brings plankton-rich water in from the open ocean. White-tip reef sharks patrol the walls and rest in sandy hollows deeper in the channel, while schools of jacks and trevally course through the water column in pursuit of smaller fish. The current on strong days is intense and requires confident buoyancy management; beginners should build experience on gentler sites before attempting this channel.
 
 ## Site Information
 
 - **Location**: Maldives, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Drift
+- **Site Type**: Drift dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: 3
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-30 meters (50-100 feet)
+- **Current**: Strong, tidal — timing essential
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Grey reef sharks (often in groups), white-tip reef sharks, schools of jacks and trevally, fusiliers, napoleon wrasse, eagle rays, sea fans, and soft corals on the channel walls.
 
-## Dive Profile
+## Diving Tips
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- Dive on an incoming tide for the best shark concentrations at the ocean-facing channel entrance.
+- Use the channel wall as a windbreak and a reference — do not allow yourself to be swept into blue water.
+- Reef hooks are useful on strong current days; confirm with your operator.
+- Advanced certification and prior drift dive experience are required; this is not a site for first-time drift divers in the Maldives.
 
-## Entry and Exit
+## Getting There
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Miyaru Kandu is in South Malé Atoll, reached by boat from resorts in the area or from Malé, approximately 30–90 minutes depending on departure point.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

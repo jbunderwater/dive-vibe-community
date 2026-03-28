@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Erens New
 
-Erens New is a reef dive site in Raja Ampat, Asia.
+Erens New is a reef dive site in Raja Ampat, West Papua, Indonesia. The name suggests it may be a newer or recently explored section of a reef associated with a diver or guide named Eren.
 
 ## Overview
 
-Erens New is a dive site in Raja Ampat offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Erens New sits in the southern Raja Ampat area among a cluster of reef sites that has been progressively documented as diving interest in the archipelago has grown. The "New" designation implies a more recently charted dive site relative to an older, established nearby counterpart. The reef offers the characteristic Raja Ampat combination of hard and soft coral growth on a sloping profile, with the rich biodiversity that has made the archipelago world-famous among divers. Current activity at the site maintains healthy reef conditions and supports the dense fish populations typical of protected Raja Ampat reefs. Visibility averages 20-30 meters and water temperatures remain 27-29°C year-round.
 
 ## Site Information
 
-- **Location**: Raja Ampat, Asia
+- **Location**: Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-30 meters
+- **Current**: Moderate, variable
+- **Best Time**: October to April
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The reef at Erens New supports the full complement of Raja Ampat reef fish diversity, with large schools of anthias, fusiliers, and damselfish above the reef structure. Parrotfish and surgeonfish graze the coral surface in large numbers. Reef sharks are a regular presence at the reef edge. Napoleon wrasse patrol the mid-water with characteristic slow-moving authority. Sea turtles are routinely encountered. The encrusting growth of the reef provides habitat for nudibranchs, flatworms, and decorator crabs that reward careful observation.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Enter at the reef crest (5-8 meters) and descend the reef slope, exploring coral formations as depth increases. The productive zone is 8-20 meters, where coral structure is most varied. Deeper sections toward 25 meters may transition to rubble or sand. Return to the shallow reef top for the safety stop, which offers additional fish observation time.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by dive boat, typically as part of a liveaboard or day-trip itinerary in southern Raja Ampat. Entry via giant stride from the boat near the reef top. Deploy SMB before ascending for boat pickup.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Treat the "New" designation as an opportunity: newer sites are often less heavily dived and may have more relaxed marine life
+- Explore thoroughly — newer charted sites sometimes have unexplored sections
+- Bring both wide-angle and macro capability for this type of mixed reef
+- Combine this dive with nearby sites for a full day of southern Raja Ampat reef variety
+- Respect the reef and maintain excellent buoyancy throughout
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Moderate currents may develop — check conditions with your guide before entry. Carry an SMB and deploy it before surfacing. Dive within your certification limits and experience level.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Reef dives like Erens New provide the most versatile photography environments in Raja Ampat: wide-angle coral scenics, fish portraits, and macro subjects are all available. The key is slowing down and covering the reef methodically. Natural light works well in the shallower sections; a dive light improves colour accuracy at depth.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

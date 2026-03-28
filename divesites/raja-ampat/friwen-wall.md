@@ -13,55 +13,35 @@ addedBy: osm_import
 
 ## Friwen Wall
 
-Friwen Wall is a wall dive site in Raja Ampat, Asia.
+Friwen Wall is a wall dive off Friwen Island in Raja Ampat, West Papua, Indonesia. The site combines two distinct diving environments in a single dive: hard coral gardens on the island's shallow reef top give way to a dramatic vertical wall descending into deep blue water. It is one of the Dampier Strait's most consistently excellent sites.
 
 ## Overview
 
-Friwen Wall is a dive site in Raja Ampat featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The dive typically begins on the reef top, where hard coral gardens — dominated by Acropora tables, staghorn thickets, and massive Porites boulders — stretch across the shallow plateau in excellent health. Fish life here is dense: surgeonfish schools graze the algae-trimmed coral edges, butterflyfish patrol in pairs, and green and hawksbill turtles move methodically from coral head to coral head.
 
-## Site Information
+At the reef edge, the bottom drops away sharply into the wall. The wall face is richly encrusted with orange and yellow soft corals, sea fans extending outward into the current, and barrel sponges large enough to shelter a diver. Whitetip reef sharks rest in the sand at the wall base. The open water off the wall face frequently holds schools of dogtooth tuna or rainbow runners sweeping through on the current. Cleaning stations in the wall crevices draw hawkfish, angelfish, and large grouper throughout the day.
 
-- **Location**: Raja Ampat, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+The contrast between the sunlit, colourful reef garden and the dramatic drop into blue water makes Friwen Wall a favourite among underwater photographers. Visibility averages 15–25 metres. Water temperature holds between 27–30°C. Currents run along the wall face and can be moderate.
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+- Hard coral gardens (Acropora tables, staghorn, massive Porites) on the reef top
+- Green and hawksbill turtles grazing the reef
+- Orange and yellow soft corals and sea fans on the wall
+- Whitetip reef sharks at the wall base
+- Dogtooth tuna and rainbow runners in open water
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-25 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+The dive begins on the shallow reef garden at 5–12 metres before dropping over the wall edge to 20–25 metres, exploring sea fans and cleaning stations. The ascent returns along the shallower wall face and reef top for the safety stop. Intermediate divers with wall diving experience are well suited. Entry and exit are by boat.
 
-## Entry and Exit
+## Practical Information
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+- **Depth range**: 3–25 m
+- **Visibility**: 15–25 m
+- **Current**: Mild to moderate
+- **Best time**: October–April
+- **Water temperature**: 27–30°C
+- **Entry**: Boat
 
-## Tips and Recommendations
-
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

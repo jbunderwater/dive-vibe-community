@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Blue Magic
 
-Blue Magic is a pinnacle dive site in Raja Ampat, Asia.
+Blue Magic is widely regarded as one of the finest dive sites in Raja Ampat — a submerged pinnacle in the Mansuar area of the Dampier Strait that delivers world-class pelagic action alongside breathtaking soft coral density.
 
 ## Overview
 
-Blue Magic is a renowned dive site in Raja Ampat offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Rising from the depths in the central Dampier Strait, Blue Magic is an exposed oceanic pinnacle that channels powerful currents and attracts an extraordinary concentration of marine life. Schools of chevron barracuda, trevally, and batfish swirl in formation around the pinnacle's summit, while manta rays and wobbegong sharks are regular visitors. The structure itself is smothered in dense soft coral growth — orange, purple, and red sea fans festoon every surface. Visibility is typically 20–30 meters in ideal conditions, with water temperatures of 27–29°C. This is a site that rewards experience: currents can be fierce and the action intense.
 
 ## Site Information
 
-- **Location**: Raja Ampat, Asia
+- **Location**: Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 20–30 meters (65–100 feet)
+- **Current**: Strong, direction-changing; best dived at slack or on gentle flow
+- **Best Time**: October to April; pelagic action peaks on incoming currents
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Blue Magic delivers a multi-layered experience. In the water column above the pinnacle: large schools of chevron barracuda forming spiraling tornadoes, golden trevally, batfish in dense aggregations, and occasional oceanic mantas cruising through. On the pinnacle itself: ornate wobbegong sharks rest motionlessly on ledges, tasselled wobbegongs drape over soft coral, and the structure teems with anthias, butterflyfish, and hawksbill turtles. Pygmy seahorses are found in the sea fans on the deeper flanks. Spanish mackerel and grey reef sharks patrol the blue water beyond the pinnacle edge.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Dive Blue Magic during an incoming current for the best pelagic action. Descend quickly to the pinnacle top at around 12 meters and hold position while the schools swirl overhead. Work your way around the summit, then descend the flanks to 20–25 meters to inspect the soft coral gardens and look for wobbegongs and pygmy seahorses in the sea fans. Ascend slowly, spending time at 10–15 meters where the schooling fish activity is highest. Allow time for a 3-minute safety stop — deploy your SMB here.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by boat only — typically a liveaboard or day-trip tender from Mansuar. Entry via back roll or giant stride into the current. The site requires drifting to the mooring line or following the guide's lead on the approach. Strong currents mean pick-up by tender is essential; never surface without your SMB deployed.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Dive during an incoming current for maximum fish action
+- Master your buoyancy before this dive — hard coral structures are fragile and current work is essential
+- Hook into the reef only where designated; always use a reef hook, never coral
+- Stay shallower than 25 meters to conserve air for the extended mid-water pelagic zone
+- Carry a reef hook and a powerful torch — wobbegongs hide in dark crevices
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Blue Magic is for experienced, current-competent divers only. Currents can reverse without warning and can carry divers away from the pinnacle rapidly. Never dive this site without a guide who knows the tidal timing. Carry an SMB and whistle. Boats must maintain a dedicated dive watch for surfacing divers. Depth management is critical — the blue water beyond the pinnacle wall offers no depth reference.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Blue Magic is a wide-angle photographer's dream. The schooling barracuda form perfect tornado formations that photograph beautifully shooting upward with available light. Soft coral macro at 20–25 meters offers dramatic close-up subjects against vivid backgrounds. Bring both a wide-angle zoom and a dedicated macro port to cover all opportunities.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

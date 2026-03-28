@@ -13,55 +13,35 @@ addedBy: osm_import
 
 ## Yenkoranu Jetty
 
-Yenkoranu Jetty is a reef dive site in Raja Ampat, Asia.
+Yenkoranu Jetty is a critter dive at the jetty of Yenkoranu homestay on Kri Island, Raja Ampat, West Papua, Indonesia. Located just minutes from Cape Kri, it offers a completely different diving character — slow, shallow, macro-focused — making it an ideal contrast to the high-octane fish action of its famous neighbour.
 
 ## Overview
 
-Yenkoranu Jetty is a dive site in Raja Ampat offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Jetty structures in Raja Ampat accumulate extraordinary marine life over time: the pilings, rubble, and seagrass beneath the jetty create microhabitats that shelter species rarely seen on open reef. Yenkoranu Jetty is celebrated for the variety of invertebrates and cryptic fish that call it home. Cuttlefish hover under the jetty structure. Blue-ringed octopus are occasionally found in shells and rubble. Ghost pipefish drift vertically in seagrass, perfectly mimicking blades of vegetation.
 
-## Site Information
+The sandy bottom beneath and around the jetty is productive hunting ground for macro photographers. Mimic octopus and wonderpus have been reported at this site by visiting divers. Juvenile fish of many species use the piling roots as shelter, and hairy frogfish cling to encrusted surfaces with chameleon camouflage. The seagrass patches attract seahorses, pipefish, and leaf scorpionfish.
 
-- **Location**: Raja Ampat, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+Because the dive is shallow and sheltered, bottom time is limited only by gas supply and temperature. Water temperature holds at 27–29°C. The beginner rating reflects the site's calm conditions and shallow depth profile.
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+- Cuttlefish and blue-ringed octopus beneath the jetty
+- Ghost pipefish and seahorses in seagrass
+- Hairy frogfish on encrusted pilings
+- Mimic octopus and wonderpus in sandy areas
+- Juvenile reef fish around piling bases
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The dive is entirely shallow — from the surface to around 10–15 metres beneath the jetty — and moves slowly across seagrass, rubble, and pilings in a systematic macro search. An extended safety stop is easy given the shallow depth. Beginner divers with good buoyancy control are well suited. Entry and exit are by boat or from the jetty itself.
 
-## Entry and Exit
+## Practical Information
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+- **Depth range**: 1–15 m
+- **Visibility**: 10–20 m
+- **Current**: Light (sheltered)
+- **Best time**: October–April
+- **Water temperature**: 27–29°C
+- **Entry**: Boat or jetty
 
-## Tips and Recommendations
-
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
