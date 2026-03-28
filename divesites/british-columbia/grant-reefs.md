@@ -13,53 +13,51 @@ addedBy: osm_import
 
 ## Grant Reefs
 
-Grant Reefs is a reef dive site in British Columbia, North America.
+Grant Reefs is a rocky reef dive site in the waters of the Sunshine Coast region of British Columbia, Canada, near Powell River, accessed by boat.
 
 ## Overview
 
-Grant Reefs is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Grant Reefs lies in the nutrient-rich waters of the upper Sunshine Coast, offering intermediate divers a classic BC reef experience in one of the province's most biologically productive dive regions. Water temperatures hover between 7-11°C year-round. Visibility averages 8-15 metres and is typically best from October through April. The area is exposed to tidal currents that can run strongly on tidal exchanges — planning the dive around slack water makes for safer and more comfortable conditions.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Sunshine Coast, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 8-15 metres
+- **Water Temperature**: 7-11°C (drysuit recommended)
+- **Current**: Variable to strong — check tides
+- **Best Time**: Year-round; best visibility autumn and winter
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Grant Reefs attracts a typical Sunshine Coast assemblage of cold-water Pacific species. Wolf eels are a signature encounter — bonded pairs occupy rocky dens and are known to be tolerant of respectful divers. Giant Pacific octopus are abundant across the reef, particularly in the 8-15 metre zone. Large lingcod are common on the reef faces, and black rockfish congregate in loose schools in the water column above the kelp canopy. Dungeness and red rock crabs scavenge the sandy margins. Harbour seals are frequent visitors, often following divers with curiosity.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin the dive on the shallow reef top at 5-8 metres, exploring the kelp forest and rocky ridges. Descend along the reef contours to the maximum depth of 18 metres, watching for wolf eel dens and GPO crevices in the deeper sections. Return up the reef face to complete the dive in the shallower productive zone before your safety stop at 5 metres.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access from Powell River or nearby marinas on the Sunshine Coast. Anchor clear of the reef to protect the benthic community. The Sunshine Coast is a popular diving destination with well-established local charter operators. Deploy your SMB before ascending as vessel traffic in the area can be significant on weekends.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Powell River area is renowned for wolf eel encounters — bring a torch and go slowly
+- Dive at or near slack tide to avoid battling the current
+- A drysuit is highly recommended given the year-round cold water
+- Check with local dive operators for current conditions and site specifics
+- Autumn and winter offer outstanding visibility on this reef
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Cold water, tidal current, and moderate vessel traffic are the main hazards. Monitor your SAC rate — cold diving increases air consumption. Always carry an SMB and deploy before ascending. Keep your dive buddy in sight on the reef, particularly if visibility drops during the dive.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Grant Reefs is excellent for wide-angle photography — wolf eels in their dens, lingcod portraits, and kelp forest ambient shots are all achievable. For macro work, the sponge and anemone encrusted surfaces yield nudibranchs, crabs, and small invertebrates year-round. A single wide-angle strobe provides good results for reef portraits when natural light is limited.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

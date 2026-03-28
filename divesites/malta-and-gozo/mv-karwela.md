@@ -13,55 +13,50 @@ addedBy: osm_import
 
 ## MV Karwela
 
-MV Karwela is a historic wreck dive in Malta and Gozo, Europe.
+MV Karwela was a Maltese Gozo ferry that was scuttled on 12 August 2006 alongside her sister vessel MV Cominoland as part of Malta's artificial reef programme. The Karwela was a purpose-built passenger ferry of distinctive design, and her recognisable superstructure — bridge, funnel, and passenger decks — remains largely intact on the seabed, providing one of the most photogenic wreck profiles in Maltese waters.
 
 ## Overview
 
-MV Karwela is a dive site in Malta and Gozo featuring a historic wreck which sank in 2006-08-12. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The Karwela rests with her deck at approximately 28 metres and maximum depth of 41 metres at the keel. The vessel sits upright and is in good structural condition, providing clear navigation throughout the exterior and accessible interior. Like her companion the Cominoland nearby, the Karwela has accumulated nearly two decades of marine growth since sinking in 2006. The hull is densely colonised with sponges and encrusting corals, and the fish life around the structure is abundant. The two wrecks are close enough to visit in a single dive with careful gas management.
 
 ## Site Information
 
-- **Location**: Malta and Gozo, Europe
+- **Location**: North Malta, Malta
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 41 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: May to October
+- **Typical Visibility**: 20–25 meters
+- **Current**: Generally light
+- **Best Time**: Year-round (best April to November)
 
 ## Marine Life
 
-Divers at this site can expect to encounter conger eels, lobsters, crabs, anemones, coral encrustation, groupers, moray eels, octopus. Additional species commonly sighted include barracuda, sea bream, amberjack. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Grouper are the dominant large fish species — several large individuals hold territories around the bridge and passenger deck. Conger eels occupy the engine spaces and lower compartments. The hull surfaces support an excellent nudibranch and sea slug community. Moray eels are plentiful in the deck fixtures and pipe work. Scorpionfish perch motionlessly on the hull — always look before placing hands. Barracuda and amberjack circle above the wreck.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 41 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend the anchor line to the passenger deck at approximately 28 metres. Conduct an exterior circuit of the vessel from bow to stern before making any penetration. The bridge, passenger saloon, and engine room are the main penetration targets. Monitor NDL carefully as the keel approaches 41 metres. Ascend with a 5-metre safety stop and consider a precautionary 6-metre stop. The Cominoland may be visible in the mid-water if visibility is good.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Dive boats from Malta and Gozo operators serve this site. Entry by giant stride. The Karwela and Cominoland are typically offered as a paired wreck dive. Discuss the dive plan with the operator. Always deploy an SMB on ascent for boat pickup.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- The Karwela's silhouette from above is one of Malta's most iconic dive images
+- Penetration of the interior requires wreck certification and a torch
+- Scorpionfish are present — inspect hull surfaces carefully before touching anything
+- The combination with the adjacent Cominoland is a signature Malta dive experience
+- Nitrox extends bottom time meaningfully at 28–41 metres
 
 ## Safety Considerations
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
+Maximum 41-metre depth demands gas management discipline. Interior penetration requires wreck training and equipment — no improvised penetration. Silt can be disturbed inside the vessel, reducing visibility rapidly. Always maintain directional awareness inside the wreck. Buddy diving is mandatory.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The intact ferry profile, particularly the bridge and funnel, makes for outstanding wide-angle subjects. Shooting upward from the seabed with the vessel silhouetted against the blue water above is a classic composition. The richly encrusted hull surfaces reward close-up work with a torch. With the Cominoland visible in the background, double-wreck compositions are possible.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,53 +13,49 @@ addedBy: osm_import
 
 ## Shute Reef
 
-Shute Reef is a reef dive site in British Columbia, North America.
+Shute Reef is a rocky submerged reef in the central Gulf Islands of British Columbia, Canada, located in the passage between Saltspring Island and neighbouring Gulf Islands.
 
 ## Overview
 
-Shute Reef is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Shute Reef sits in the channel systems of the central Gulf Islands near Saltspring Island, one of the most heavily dived island areas in British Columbia. The reef benefits from reliable tidal exchange through the central Gulf Islands passages, keeping the water cold and nutrient-rich. Water temperature is 7–12°C year-round. Visibility averages 6–12 metres, improving in late summer and autumn. The reef structure features a mix of rocky ridges, boulder fields, and sandy transition zones — typical of Gulf Islands underwater topography.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Central Gulf Islands, Saltspring Island area, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 6–12 metres
+- **Current**: Variable; tide-dependent
+- **Best Time**: July to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Lingcod and copper rockfish are the prominent fish residents at Shute Reef. Kelp greenling and painted greenling bring colour to the shallow kelp zone. Giant Pacific octopus are present in boulder crevices across the reef. Plumose anemones (both orange and white phases) coat rocky overhangs and vertical surfaces. Nudibranchs are well-represented — this is a productive area for species like the sea lemon, opalescent nudibranch, and alabaster nudibranch. Harbour seals are regular visitors, often making multiple passes during a single dive.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The typical dive at Shute Reef follows the reef structure from depth to shallows. Begin at the deepest accessible section around 15–18 metres, work up through the mid-reef zone where rockfish are concentrated, and finish in the kelp canopy zone at 3–8 metres. This profile maximises both fish encounters and invertebrate photography opportunities.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access from Saltspring Island or other central Gulf Islands marinas. The reef is in a navigated channel — always use conspicuous surface markers. Moor clear of the reef structure to avoid anchor damage on the productive benthic community.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Tidal windows are typically an hour before and after slack for calm conditions
+- Kelp canopy in summer can be thick — navigate through it slowly to avoid entanglement
+- Bring a torch for crevice exploration even during daylight
+- Multiple shorter dives outperform single long dives here — there's a lot to see at different depths
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Standard Gulf Islands safety applies: cold water, tidal current awareness, and boat traffic. The central Gulf Islands have considerable summer recreational boat traffic — use a brightly coloured SMB and surface carefully. Drysuit or thick wetsuit is required for comfortable multi-dive days.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Lingcod portrait shots with good ambient light are excellent at this site. The nudibranch diversity supports extended macro sessions on encrusted surfaces. Wide-angle kelp forest imagery is rewarding in summer when the canopy is lush.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

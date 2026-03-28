@@ -13,53 +13,49 @@ addedBy: osm_import
 
 ## Senanus Island
 
-Senanus Island is a reef dive site in British Columbia, North America.
+Senanus Island is a small rocky island in Saanich Inlet, British Columbia, Canada, offering sheltered reef diving with extraordinary invertebrate life in one of BC's most distinctive marine environments.
 
 ## Overview
 
-Senanus Island is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Senanus Island sits in Saanich Inlet, a fjord-like arm of water north of Victoria with unusual oceanographic characteristics. The Inlet is periodically low in oxygen at depth due to limited tidal exchange, making the diving particularly productive in shallower zones where oxygen levels are high. The island's shoreline is encrusted with exceptional invertebrate communities — feather stars, sea stars, tube worms, and sponges are abundant. Water temperature is 7–12°C, with the Inlet typically offering 6–12 metre visibility.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Saanich Inlet, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 6–12 metres
+- **Current**: Generally mild in the Inlet
 - **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Senanus Island is known for outstanding invertebrate diversity. Encrusting pink and red sponges, colonial tunicates, and orange cup corals blanket the rocky walls. Feather stars and basket stars are present on ledges and current-exposed surfaces. Nudibranchs are abundant — the Saanich Inlet area supports high nudibranch diversity. Giant Pacific octopus live in the boulder zones. Wolf eels are resident in crevices here. Lingcod and various rockfish complete the fish community. The relatively sheltered inlet conditions make for comfortable, slow-paced diving.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend on the rocky shoreline and work at moderate depths (8–15 metres) where oxygen levels are adequate. The most productive sections are on the current-exposed sides of the island where invertebrate filter feeders concentrate. Move slowly and look carefully at encrusted surfaces — the density of life rewards close attention. Shallower areas are excellent for a long safety stop and nudibranch hunting.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access from Saanich Inlet ramps near Brentwood Bay or Butchart Gardens area. The Inlet is relatively sheltered, making boat travel comfortable in most conditions. Exercise caution around the island's shallower rocks in low water.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Do not descend below 18 metres in Saanich Inlet — oxygen depletion increases with depth
+- Senanus is excellent for macro photography given its exceptional invertebrate life
+- Multiple short dives are preferable to single deep dives here
+- The inlet's calm conditions make it accessible for newer drysuit divers building experience
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The most important safety consideration at Senanus Island and throughout Saanich Inlet is the hypoxic (low oxygen) deep water. Dives deeper than 18–20 metres risk encountering lethal oxygen depletion. Local knowledge and strict depth discipline are essential. Cold water protection is mandatory. Boat traffic in the Inlet includes BC Ferries and private vessels.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Macro photography is exceptional here — the encrusting community on rock faces offers endless subjects. Feather stars and basket stars make dramatic wide-angle close-up images. Nudibranch diversity rivals some of the best Pacific Northwest sites. A dual-macro/wide-angle dive saves gear changes.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

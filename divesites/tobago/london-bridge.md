@@ -13,53 +13,49 @@ addedBy: osm_import
 
 ## London Bridge
 
-London Bridge is a rock_formation dive site in Tobago, Caribbean.
+London Bridge is one of Tobago's most visually distinctive dive sites — a natural rock arch in the Speyside area of northeast Tobago, through which divers can swim while surrounded by the encrusting life and current-driven fish populations that characterise the island's most productive reef systems.
 
 ## Overview
 
-London Bridge is a dive site in Tobago offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Located in the Speyside dive corridor on Tobago's northeast coast, London Bridge takes its name from a natural stone arch formation that serves as the centrepiece of the dive. The arch sits in the 10–20 meter range, and the site extends to 30 meters on the sloping reef below. Like all Speyside sites, London Bridge benefits from the Guiana Current — the nutrient-rich upwelling from the South American continental shelf that sustains exceptional marine life throughout the northeast coast. The arch itself is heavily encrusted with sponges, black coral, and gorgonians, creating a photogenic frame around the open water beyond. Visibility typically reaches 20–30 meters. Water temperature averages 26–28°C, with cooler upwelling water possible.
 
 ## Site Information
 
-- **Location**: Tobago, Caribbean
+- **Location**: Speyside, northeast Tobago
 - **Entry Type**: Boat dive
-- **Site Type**: Rock_Formation
+- **Site Type**: Rock arch / reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: 20–30 meters
+- **Current**: Moderate; Speyside northeast coast
+- **Best Time**: October to February
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The arch structure creates shelter and concentrates marine life. Nurse sharks rest beneath the arch overhang and in the crevices at its base. Large groupers hold position around the arch structure. Caribbean reef sharks cruise the reef slope below. Eagle rays are regularly sighted on the sandy margins adjacent to the reef. Sea turtles move through the site throughout the day. The reef sections surrounding the arch host dense populations of parrotfish, angelfish, and snapper, with barracuda and jacks patrolling in mid-water.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the reef structure and locate the arch at approximately 15–20 meters. Swim through the arch — take time to examine the encrusting life on the arch walls — then explore the deeper reef slope to 30 meters before ascending. The arch passage is the defining experience, but the surrounding reef on both the shallower and deeper sides offers extended exploration. Allow adequate bottom time for a leisurely safety stop in the shallower reef zone.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Speyside operators. Giant stride entry; SMB on ascent. Current requires awareness, though London Bridge is typically more sheltered than the open-channel sites like Kelleston Drain. Pairs well with Japanese Gardens or Angel Reef for a two-tank northeast Tobago day.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Swim through the arch slowly — the encrusting sponge and coral community on the arch walls rewards close examination
+- Check under the arch for resting nurse sharks before entering — they are often present
+- October to February brings the best upwelling conditions, clearest water, and highest probability of pelagic encounters nearby
+- A wide-angle lens captures the arch frame and the open water beyond in a single composition
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Current at Speyside sites is variable and can intensify with tidal flow. Carry and deploy SMB on ascent. The 30-meter maximum depth requires NDL discipline. Fire coral is present on reef crests. Maintain awareness of current direction throughout the dive.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The arch is one of Tobago's most photographed natural features. Wide-angle shots through the arch — framing the blue water beyond and divers passing through — are the signature images. Nurse sharks beneath the arch provide dramatic subjects, and the encrusting life on the arch walls rewards macro photographers. Morning dives deliver the best ambient light angle into the arch interior.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

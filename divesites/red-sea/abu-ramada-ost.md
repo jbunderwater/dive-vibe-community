@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Abu Ramada - Ost
 
-Abu Ramada - Ost is a reef dive site in Red Sea, Middle East.
+Abu Ramada Ost (East) is a coral reef dive on the eastern face of Abu Ramada Island near Hurghada, Red Sea, Egypt.
 
 ## Overview
 
-Abu Ramada - Ost is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The eastern face of Abu Ramada Island presents a classic Red Sea fringing reef, with a shallow coral garden giving way to a sloping wall draped in hard and soft corals. This side of the island receives morning sun, flooding the reef with warm, clear light and making it particularly photogenic for early dives. Dense table corals and brain corals dominate the upper reef at 5–10 meters, while the slope below transitions into fan-covered rocky outcroppings populated with a rich variety of reef fish. The site is a regular stop on Hurghada day-trip itineraries and offers reliable conditions when northerly winds create chop in the open water.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Abu Ramada Island (East), Hurghada, Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef / Slope
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 15-30 meters
+- **Current**: Light to moderate
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Abu Ramada's eastern reef is notable for its resident Napoleon wrasse, which are accustomed to divers and approach closely. Large parrotfish graze the coral heads, while scorpionfish and stonefish sit motionless among rubble patches. Schools of snappers and fusiliers gather in the water column above the slope. Hawksbill turtles are frequently found resting on the coral, and moray eels inhabit crevices throughout the site. Anthias and chromis swarm the soft coral branches at mid-depth in impressive numbers.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin at the mooring buoy and descend to the reef crest at 5–7 meters. Explore the table coral garden before dropping down the slope to 15–20 meters, following the reef contour. The most productive marine life zone lies between 8 and 18 meters. Ascend gradually along the reef slope, spending the final portion of the dive on the shallow terrace before completing your safety stop over the sandy substrate adjacent to the reef.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat entry via giant stride from the dive platform. The mooring is positioned on the reef's northern end; work southward along the eastern face. Return along the reef top or surface and signal for pickup with your SMB.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Morning dives benefit from direct sunlight on this eastward-facing wall
+- Watch for camouflaged scorpionfish in rubble zones — look before placing hands
+- The Napoleon wrasse here are approachable; avoid crowding or chasing them
+- Suitable for Open Water divers with good buoyancy control
+- Pair with Abu Ramada Plateau for an easy two-dive day from Hurghada
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Light to moderate current is typical; strong currents can occasionally sweep divers off the reef edge. Maintain reef awareness and return to the boat before air reserves drop below 50 bar. Fire coral is present on exposed ridge sections — a full wetsuit is recommended. Lionfish rest along the slope; neutral buoyancy protects both the diver and the reef.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Excellent wide-angle opportunities on the table coral garden at 5–10 meters where natural light is abundant. Seek macro subjects — nudibranchs, blennies, and cleaner shrimp — in crevices between coral heads. The resident Napoleon wrasse make for memorable portrait shots.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

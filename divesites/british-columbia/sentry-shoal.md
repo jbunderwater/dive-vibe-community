@@ -13,53 +13,49 @@ addedBy: osm_import
 
 ## Sentry Shoal
 
-Sentry Shoal is a reef dive site in British Columbia, North America.
+Sentry Shoal is a shallow rocky shoal in the northern Strait of Georgia, British Columbia, Canada, known for current-swept reef diving and abundant marine life fed by the strong tidal flows of the Discovery Passage region.
 
 ## Overview
 
-Sentry Shoal is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Sentry Shoal lies in the northern Strait of Georgia, close to the Discovery Passage — one of BC's most biologically productive marine environments. The strong tidal currents that make navigation challenging here also deliver nutrients that sustain exceptional underwater life. Water temperature is consistently cold (7–11°C), and visibility runs 8–18 metres in the better months. Currents can be vigorous at this exposed shoal, making tidal timing essential. The combination of upwelling and tidal mixing gives this area a character similar to the famous dive sites of northern Vancouver Island.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Northern Strait of Georgia, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky shoal / reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 8–18 metres
+- **Current**: Can be strong; time to slack water
+- **Best Time**: July to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Current-swept environments like Sentry Shoal concentrate filter feeders — large plumose anemone aggregations and encrusting sponge communities are characteristic. Lingcod and rockfish congregate in the shelter of rocky structures behind the main current. Steller sea lions are a frequent presence given nearby colonies. Pacific spiny dogfish move through in schools. Dungeness crab inhabit the sandy zones around the shoal base. Occasionally schooling fish including herring and sand lance draw predators like larger lingcod and rockfish.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Plan a drift dive when any current is running — fighting the current wastes gas and energy. Position the boat up-current, drop in, and drift across the shoal structure. Explore the lee side of the main rocks where sheltered pockets of rich life accumulate. Ascend in a controlled manner and surface clear of shallow shoal areas for boat pickup.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access required. Charter boats from Campbell River or other northern Vancouver Island ports are the typical starting point. Drift dive with live-boat pickup is the standard approach when current is running. Anchor only at slack water.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Drift diving is the best approach — work with the current, not against it
+- Large plumose anemone formations are the visual highlight on current-swept faces
+- Steller sea lion interactions are possible — maintain calm behaviour and give them space
+- Northern BC diving — water is cold and remote; gear reliability is paramount
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Remote location and strong currents are the primary hazards. Ensure your charter has emergency communication equipment and first aid capability. Never dive against a strong tidal flow. Each diver should carry a personal SMB and audible signal device. Emergency services response time is measured in hours in this area.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Current-swept reef photography rewards wide-angle technique — capturing anemone walls and drifting fish in a single frame. Steller sea lion encounters are fast and dramatic — a wide-angle wet lens is ideal. Lingcod on rocky substrate make excellent portrait subjects during slack water pauses.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

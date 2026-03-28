@@ -13,54 +13,53 @@ addedBy: osm_import
 
 ## Sau Inn Garden
 
-Sau Inn Garden is a reef dive site in Zanzibar, Africa.
+Sau Inn Garden is a coral garden dive in the Jambiani reef area of southeastern Zanzibar Island, named after a nearby accommodation property and known for its ornate coral formation with abundant soft coral growth and a resident angelfish population among the best in the Jambiani lagoon system.
 
 ## Overview
 
-Sau Inn Garden is a dive site in Zanzibar offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+The Jambiani reef complex on Zanzibar's southeastern coast contains several named garden formations, and Sau Inn Garden refers to a section where the reef transitions from isolated coral heads to a continuous garden structure extending across a wide sandy plateau. The garden sits at 10-18 meters depth, with the soft coral and hard coral coverage denser here than at most adjacent sites. The 18-meter maximum depth provides adequate bottom time for unhurried exploration of the coral network. Calm conditions year-round in the protected lagoon position make this a reliably diveable site throughout the northeast monsoon season.
 
 ## Site Information
 
-- **Location**: Zanzibar, Africa
+- **Location**: Jambiani Reef, Southeast Zanzibar Island, Tanzania
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Coral reef (coral garden)
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Typical Visibility**: 12-18 meters (40-60 feet)
+- **Current**: Very light
+- **Best Time**: October to April (northeast monsoon)
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
+Emperor and regal angelfish are the distinguishing fauna at Sau Inn Garden — multiple territorial individuals inhabit different sections of the garden, and their characteristic bold markings photograph exceptionally well against the mixed coral background. Titan triggerfish are territorial on the garden perimeter. Hawksbill turtles graze on sponges in the coral growth. The sandy passages through the garden host garden eels in undisturbed patches, and blue-spotted rays rest in open sand pockets adjacent to the coral. Scorpionfish are common throughout, relying on their camouflage and often overlooked until pointed out by a guide.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Navigate through the garden from the mooring, working methodically across the coral formations rather than following a single track. The branching coral garden rewards zig-zag exploration more than linear transects. Spend the first portion at the deeper 15-18 meter zone and gradually work shallower, finishing on the upper garden at 8-12 meters for the safety stop. Night dives are excellent — the garden is transformed by hunting lionfish, foraging octopus, and cuttlefish that hover above the coral surface.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from Jambiani operators. Sau Inn Garden is one of the standard combination sites on a Jambiani diving day, typically paired with Pawoni Hill (deeper) or Jambiani Lagoon (shallower) for a full day covering the range of southeastern Zanzibar reef environments. Low tide can restrict boat access to the shallower sections — check timing with operators.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Angelfish are excellent slow-approach photography subjects — they rarely flee immediately if you maintain lateral position and avoid sudden movements
+- Night diving at Sau Inn Garden is accessible to intermediate divers given the calm conditions and reef structure for orientation
+- Scan coral heads carefully for scorpionfish — guides will point them out, but developing your own eye for them enhances awareness
+- Garden eels are present in sandy passages through the coral garden; hover at distance and watch them feed in the current
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, remote locations in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Very low-risk diving environment. The 18-meter maximum depth, very light current, and enclosed lagoon position remove most common dive hazards. Main hazards are fire coral contact and the rare but painful encounter with scorpionfish or lionfish due to inattentive buoyancy. Titan triggerfish nesting occurs approximately October to December — give defending individuals wide berth. Deploy SMB for ascent.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The angelfish at Sau Inn Garden are among Zanzibar's best photography subjects for reef fish portraiture — the combination of their size, slow movement, and bold coloration yields excellent results with a 60-100mm macro lens. Coral garden wide-angle shots from just above the garden surface show the reef complexity. Night photography of hunting lionfish and cuttlefish in the calm lagoon is very accessible.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

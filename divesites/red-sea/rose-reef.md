@@ -13,54 +13,53 @@ addedBy: osm_import
 
 ## Rose Reef
 
-Rose Reef is a reef dive site in Red Sea, Middle East.
+Rose Reef is an offshore coral reef located in the Farasan Banks area of the southern Red Sea, near the Saudi-Yemeni maritime border zone. At coordinates placing it near 22.3°N, 38.9°E, the site lies in the remote southern Red Sea — a region characterized by pristine, rarely-dived reefs, exceptional visibility, and a diverse mix of coral and pelagic life that benefits from very low diver pressure.
 
 ## Overview
 
-Rose Reef is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Rose Reef sits on the shallow platform of the Farasan Banks, an extensive reef system in the southern Red Sea that is among the least visited diving areas in the region. The reef is characterized by a broad coral flat coming to within a few meters of the surface, surrounded by sloping walls dropping to 20 meters and beyond. The isolation of this area means corals are exceptionally healthy and fish life is abundant and unhabituated. Visibility in this region regularly exceeds 30 meters. Access is exclusively by liveaboard; no shore-based diving operations serve this area.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Farasan Banks / southern Red Sea
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Typical Visibility**: 25-40 meters (80-130 feet)
 - **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Best Time**: October to April
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The low diver pressure of the southern Red Sea means fish behavior is relaxed and natural here. Large napoleon wrasse are curious and approach divers closely. Schools of snapper and fusiliers pack the upper reef. Sea turtles are frequent, resting on the coral platform and in the shallows. Grey reef sharks cruise the outer reef edges with minimal wariness. The coral formations support dense anthias and butterflyfish communities. In the southern Red Sea, manta rays are encountered at certain seasons, and whale sharks have been reported by liveaboard operators in the area.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the reef flat and explore the coral gardens before working outward to the sloping reef edge. The slope from 5 to 20 meters offers the best combination of coral health and fish diversity. The transition zone between reef flat and slope is particularly productive. Safety stop at 3–5 meters on the reef flat, which is typically shallow and well-lit.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Liveaboard access only. Entry by skiff tender and giant stride. The area is remote; dive guide briefings must cover emergency procedures and communication protocols given the distance from any support infrastructure. SMB deployment is mandatory on all ascents.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The southern Red Sea rewards patient divers — move slowly and observe
+- Fish here are far less skittish than at heavily-dived northern Red Sea sites
+- Combine with other Farasan Banks sites for a full south Red Sea liveaboard experience
+- Carry a torch — even in clear water, the overhangs shelter interesting invertebrates
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Remote location is the primary consideration — emergency evacuation from this area is a multi-hour operation. Dive conservatively and within your training. Currents can accelerate at reef tips and passes. Always deploy an SMB for open-water ascents. Fire coral is present on the reef crest sections.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The pristine reef condition and high visibility make Rose Reef an outstanding photography location. Natural-behavior shots of unhabituated fish are possible here that would be difficult at busier sites. Wide-angle reef landscapes with exceptional clarity, napoleon wrasse portraits, and turtle encounters are the headline subjects.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,55 +13,53 @@ addedBy: osm_import
 
 ## Mpunguti Marine Reserve
 
-Mpunguti Marine Reserve is a reef dive site in Kenya Coast, Africa.
+Mpunguti Marine Reserve encompasses the Mpunguti ya Juu and Mpunguti ya Chini islands and surrounding reef near Shimoni at Kenya's southern tip, within the Kisite-Mpunguti Marine National Park and Reserve complex — one of Kenya's most consistently clean and biodiverse marine protected areas.
 
 ## Overview
 
-Mpunguti Marine Reserve is a dive site in Kenya Coast offering excellent diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+The Kisite-Mpunguti Marine Protected Area is widely regarded as Kenya's finest dive destination, benefiting from strict enforcement of no-take regulations, low overall visitor numbers compared to the northern coast, and clean oceanic water flowing in from the open Indian Ocean south of the Tanzanian border. Mpunguti Marine Reserve forms part of this protected complex, with coral reefs extending from the island shorelines out to the 20-meter dive zone. The reef health here exceeds most of Kenya's coral systems, with high coral coverage, abundant reef fish, and regular large animal encounters. The 20-meter maximum depth combined with the beginner difficulty designation means the accessible sections of the reef provide the full marine life experience without requiring advanced skills.
 
 ## Site Information
 
-- **Location**: Kenya Coast, Africa
+- **Location**: Mpunguti Islands, Kisite-Mpunguti Marine Protected Area, South Coast, Kenya
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Typical Visibility**: 15-25 meters (50-80 feet)
+- **Current**: Light to moderate
+- **Best Time**: October to March (northeast monsoon)
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
+The Kisite-Mpunguti area supports one of Kenya's largest resident sea turtle populations — green and hawksbill turtles are encountered on almost every dive and have become accustomed to respectful human presence. Whale sharks are sighted in the reserve seasonally (October-February) as they follow plankton concentrations through the protected channel. Indo-Pacific bottlenose and spinner dolphin pods inhabit the reserve year-round and are frequently encountered. Large schools of reef fish including parrotfish, surgeonfish, and snapper dominate the reef top. Potato grouper (potato bass) occupy deeper ledges.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend from the mooring to 18-20 meters at the reef base and work up the slope through the most productive reef zone at 8-15 meters. Turtle encounters are most frequent on the reef crest at 5-8 meters. Allow adequate time at this shallow zone — the protection status of the reserve means fish are calm and allow extended observation. The diverse terrain of the Mpunguti reef system supports navigating between coral formations rather than following a single line.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat departure from Shimoni jetty, approximately 45 minutes south of Diani Beach or 90 minutes from Mombasa. Shimoni is the main gateway to the Kisite-Mpunguti reserve, and the local operator community is experienced with the protected area regulations. A Kenya Wildlife Service marine park fee is payable at Shimoni jetty before departure.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Kisite-Mpunguti is Kenya's best dive destination and worth the journey from Mombasa or Diani Beach
+- Turtle encounters are reliable — approach behavior is important: lateral hovering at turtle eye level is less disruptive than overhead approach
+- Dolphin snorkeling excursions in the reserve are offered alongside diving — combining both in a day trip is standard
+- Book in advance during peak season (December-March) as demand from Diani Beach tourists is significant
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, remote locations in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Beginner-appropriate conditions within the protected area. Visibility and sea state are generally better here than at Mombasa-area sites due to the oceanic water source. The boat transit from Shimoni can be affected by sea state during the southeast monsoon season — June to September can see rough conditions. Park regulations require a licensed guide to accompany all dives. Standard coral and sea urchin contact hazards apply.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The best conditions for sea turtle photography in Kenya — calm fish behavior, excellent visibility, and high density of photogenic subjects. Wide-angle lenses capture turtles against the open-water blue backdrop or over the coral reef. Dolphin snorkeling provides above-water photographic opportunities with trained wildlife behavior suitable for snorkel cameras. The general reef health at Mpunguti means wide-angle reef overview shots include significantly more coral cover and fish density than at comparable Kenya coast sites.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

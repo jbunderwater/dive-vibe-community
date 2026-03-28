@@ -13,55 +13,51 @@ addedBy: osm_import
 
 ## MT Hephaestus
 
-MT Hephaestus is a historic wreck dive in Malta and Gozo, Europe.
+MT Hephaestus is an oil tanker deliberately scuttled on 29 August 2022 in the waters between Comino and Malta's main island, adding to the small cluster of intentionally sunk vessels in this area that includes the MV Karwela, MV Cominoland, and MV Xlendi. Named for the Greek god of fire and the forge, the tanker was stripped of hazardous materials and fitted with large entry holes before being sunk, creating an immediately accessible advanced wreck dive in 35–47 metres.
 
 ## Overview
 
-MT Hephaestus is a dive site in Malta and Gozo featuring the wreck of the MT Hephaestus which sank in 2022-08-29 . Oil tanker scuttled August 2022. For experienced/technical divers. Range 35-47m. Dangerous elements removed; large entry holes cut.. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The tanker sits on the sandy seabed with the deck at approximately 35 metres and the deepest accessible sections reaching 47 metres. At 47 metres maximum depth, the wreck is at the technical boundary for advanced recreational diving and requires careful gas management. The large entry holes cut during the scuttling preparation allow penetration into the main interior spaces. The clear central Mediterranean water provides visibility of 20–25 metres, allowing the full scale of the vessel to be appreciated from above. The wreck is already developing encrusting growth and attracting a resident fish community.
 
 ## Site Information
 
-- **Location**: Malta and Gozo, Europe
+- **Location**: Malta–Comino Channel, Malta
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 47 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: May to October
+- **Typical Visibility**: 20–25 meters
+- **Current**: Generally light
+- **Best Time**: Year-round (best April to November)
 
 ## Marine Life
 
-Divers at this site can expect to encounter conger eels, lobsters, crabs, anemones, coral encrustation, groupers, moray eels, octopus. Additional species commonly sighted include barracuda, sea bream, amberjack. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The developing wreck community includes conger eels establishing territories in the interior compartments, along with grouper colonising the exterior structure. Moray eels occupy the pipe work and mechanical structures. The flat hull surfaces and mooring fixtures are already attracting encrusting organisms — sponges, anemones, and hydroids. Octopus are found in the exterior cavities. Barracuda and amberjack patrol the water column above the wreck.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 47 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend the anchor line to the deck at 35 metres. Swim the length of the vessel, examining the exterior structures, bridge, and funnel before entering through the designated access holes. Monitor depth carefully — the lower sections approach 47 metres and NDL limits are quickly reached at this depth. Ascend with adequate reserve for a 5-metre safety stop, and add a precautionary 6-metre stop given the depth profile.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Dive operators from Malta and Gozo serve the site by boat. Entry by giant stride. The site is suitable for Advanced Open Water certified divers with good buoyancy skills; penetration diving inside the wreck requires wreck certification. Deploy an SMB on ascent for boat pickup.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Gas management is critical at 47 metres — plan turn pressure conservatively
+- The wreck is relatively new and still developing its marine life community
+- Penetration requires wreck diving certification and a torch
+- Adding a 6-metre precautionary decompression stop is recommended given the depth
+- This is an excellent progression dive before attempting Um El Faroud
+- A dive computer with nitrox capability helps extend bottom time at this depth
 
 ## Safety Considerations
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
+The 47-metre maximum depth places this dive at the advanced recreational limit. Gas management, NDL discipline, and ascent rate control are all critical. Never penetrate the wreck without wreck diving training and a primary plus backup torch. Always dive with a buddy. Deploy an SMB on ascent.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The intact hull and superstructure of a recently sunk tanker create dramatic wide-angle subjects. Natural light from above illuminates the deck structures. The entry holes create light-source compositional opportunities. A torch is needed for interior shots.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

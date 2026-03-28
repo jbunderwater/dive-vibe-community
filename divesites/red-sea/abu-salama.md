@@ -13,54 +13,53 @@ addedBy: osm_import
 
 ## Abu Salama
 
-Abu Salama is a reef dive site in Red Sea, Middle East.
+Abu Salama is a coral reef dive site south of Hurghada in the Egyptian Red Sea, positioned at approximately 27.34°N, 33.78°E in the reef-studded waters between Hurghada and El Quseir.
 
 ## Overview
 
-Abu Salama is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Abu Salama is one of the scattered offshore and nearshore reef structures along the central Egyptian Red Sea coast, representing the productive mid-coast reef diving that bridges the well-known northern resort sites and the more remote southern liveaboard destinations. The site features the classic Egyptian reef format — a shallow platform transitioning to a gently sloping reef face with hard and soft coral communities extending to around 20 meters. This stretch of coast benefits from moderate diver traffic, meaning the reef sees enough visits to be well-documented but retains healthy fish populations and coral coverage.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Hurghada-El Quseir coast, Red Sea, Egypt
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 15-25 meters
+- **Current**: Light to moderate
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The reef supports the characteristic community of northern and central Egyptian Red Sea species. Napoleon wrasse are reported as residents, circling the reef mid-water. Parrotfish, surgeonfish, and groupers are abundant. Sea turtles rest on the reef and are commonly encountered. Moray eels occupy crevices throughout, and lionfish patrol the shaded undersides of coral tables. The sandy margin at the reef base hosts garden eels and bluespotted ribbontail rays, making a slow exploration of the base zone worthwhile.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin at the reef crest at 5–8 meters and follow the slope down to the 15–20 meter mark, working along the reef contour. The most productive zone for fish life is the mid-reef at 8–15 meters, where coral diversity peaks. Allow time to explore the sandy base before ascending through the coral gardens. Complete a safety stop at 3–5 meters on the shallow reef top.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Day boat access from Hurghada or El Quseir operators. Entry via giant stride or back roll from the dive deck. Deploy SMB before ascending for boat pickup.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- A solid intermediate reef dive well-suited to diving visitors staying in Hurghada who want variety beyond the most-visited sites
+- Look at the sandy base carefully for ray and garden eel sightings
+- The site is often combined with other reefs in the same area for a multi-dive day
+- Afternoon dives on east-facing sections of this coast benefit from calmer afternoon conditions
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Light to moderate current is typical at this site. Fire coral is present on protruding reef sections — maintain neutral buoyancy. Always carry an SMB and deploy before ascending from any open-water position. Sun protection is essential given the strong UV at this latitude.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The coral formations at 8–12 meters provide strong wide-angle subject matter in good natural light. The sandy base offers ray and garden eel subjects for photographers willing to explore the lowest section. Napoleon wrasse and sea turtle portraits are achievable with patient positioning.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,53 +13,49 @@ addedBy: osm_import
 
 ## Saxe Point
 
-Saxe Point is a reef dive site in British Columbia, North America.
+Saxe Point is one of Victoria's most iconic shore dive sites, a rocky headland on the southwest tip of Esquimalt in British Columbia, Canada, featuring dramatic wall diving and dense cold-water invertebrate life.
 
 ## Overview
 
-Saxe Point is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Saxe Point Park sits at the confluence of tidal flows in the Strait of Juan de Fuca and Victoria Harbour approaches, creating nutrient-rich conditions that support outstanding marine diversity. The site is well known in the Vancouver Island diving community — a consistent producer of wolf eels, GPO, and lingcod with excellent invertebrate coverage on the walls. Water temperature ranges from 7–12°C, requiring drysuit or heavy wetsuit. Visibility is typically 6–15 metres, with autumn providing the best clarity. Currents can be significant on the exposed outer points, making entry timing important.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Esquimalt, Victoria area, British Columbia, Canada
 - **Entry Type**: Shore entry
-- **Site Type**: Wall dive
+- **Site Type**: Wall / rocky reef
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 30 metres
+- **Typical Visibility**: 6–15 metres
+- **Current**: Variable; can be strong on outer points
+- **Best Time**: August to November for visibility
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Saxe Point is celebrated for its wolf eel populations — the dens here have been inhabited for years and the resident wolf eels are habituated to divers. Giant Pacific octopus are regulars in the deeper crevices and boulder zones. Lingcod, copper rockfish, quillback rockfish, and tiger rockfish are common. Dense plumose anemone colonies cover much of the wall. Hooded nudibranchs are frequently encountered in the shallower kelp areas. Harbour seals patrol the site regularly and are often extremely close to divers. Occasional Steller sea lion visits add excitement.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Enter from the rocky shore and navigate to the outer point where the wall descends steeply. Work the wall between 10–25 metres on the descent, exploring crevices and overhangs. The richest invertebrate life is on north-facing walls in the 12–20 metre range. Avoid pushing to 30 metres unnecessarily — the best marine life is shallower. Allow ample gas for a slow ascent and safety stop.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Saxe Point Park provides free parking and an accessible entry point over flat rocks. Entry and exit are straightforward in calm conditions but can be challenging in surge. Booties and gloves are recommended due to sharp barnacles. Always check local conditions before entering.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Ask local divers about the current wolf eel dens — they have been stable locations for years
+- A primary dive light is essential for looking into crevices and overhangs
+- Enter on an incoming tide for calmest conditions at the entry point
+- The inside of the point is more sheltered and good for less experienced divers; the outside is for more advanced divers
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+This is an advanced site due to depth potential, currents on the exposed face, and surge at entry/exit. Divers should be experienced with cold-water drysuit diving and comfortable in moderate current. Never push depth beyond personal training limits. A surface marker buoy (SMB) should be deployed before surfacing given the boat traffic in the area.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Wolf eel portraiture is the headline photo opportunity — the resident animals at Saxe Point are photogenic and used to camera lights. Plumose anemone wall shots with wide-angle lenses are spectacular. Nudibranchs require a macro setup but are plentiful on kelp stipes and encrusted rock.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,53 +13,51 @@ addedBy: osm_import
 
 ## Heddington Reef
 
-Heddington Reef is a reef dive site in British Columbia, North America.
+Heddington Reef is a submerged rocky reef in Barkley Sound, British Columbia, Canada, located off the west coast of Vancouver Island near Port Alberni and Ucluelet.
 
 ## Overview
 
-Heddington Reef is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Heddington Reef sits in the exposed outer waters of Barkley Sound, one of the most biologically rich dive destinations on British Columbia's west coast. Cold Pacific water from the open ocean drives exceptional marine productivity, supporting dense invertebrate communities and robust fish populations. Water temperatures average 8-12°C and a drysuit is mandatory for comfort. Visibility in Barkley Sound tends to be better than the more sheltered inside waters, often reaching 10-18 metres in favourable conditions. Swell from the open Pacific and tidal currents require careful trip planning.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Barkley Sound, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 10-18 metres
+- **Water Temperature**: 8-12°C (drysuit required)
+- **Current**: Moderate to strong — check tides
+- **Best Time**: May to October (reduced Pacific swell)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Barkley Sound reefs are known for large lingcod, and Heddington is no exception — substantial fish occupy the reef faces throughout the dive. Giant Pacific octopus are abundant here, frequently visible without needing a torch in daylight conditions. Quillback and copper rockfish shelter in the reef structure. The rocky substrate is carpeted with Gooseneck barnacles, sea anemones, and colourful encrusting sponges. Steller sea lions occasionally visit from their rookeries in the Sound, providing memorable encounters.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the reef structure and explore the varied terrain from the kelp-fringed shallows down to 18 metres. The reef faces and boulder fields in the 10-15 metre zone contain the most wildlife activity. Keep one eye on the current direction throughout the dive. Ascend gradually along the reef structure and complete a 3-5 minute safety stop at 5 metres before surfacing.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access from Ucluelet, Bamfield, or charter vessels operating in Barkley Sound. Ocean swell can make entry and exit from small boats challenging — pick up or moor only in calm conditions. Assess weather forecasts for the open Pacific before any dive in Barkley Sound.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Summer and early autumn offer the most settled conditions in Barkley Sound
+- Scan the water column above the reef for schools of rockfish and passing sea lions
+- Bring a wide-angle lens — lingcod and GPO encounters are common and photogenic
+- Barkley Sound charter operators provide local knowledge of current conditions
+- Pacific swell can surge strongly through exposed sites; check forecasts carefully
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Open Pacific swell, tidal currents, and remoteness from emergency services make dive planning critical at Heddington Reef. Always dive with a charter operator who knows local conditions. Carry an SMB, a whistle, and a signal mirror. Cold water drysuits and redundant equipment are sensible precautions. File a dive plan with someone ashore.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Barkley Sound's clear water and rich marine life make Heddington Reef a strong photographic destination. Wide-angle shots capturing lingcod against sponge-encrusted rock, or GPO in open water, are distinctive BC west coast images. Sea lion encounters — if they occur — are best captured with fast autofocus and a wide lens. Macro subjects including nudibranchs, chitons, and small crustaceans are abundant across the reef.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

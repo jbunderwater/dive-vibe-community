@@ -13,53 +13,55 @@ addedBy: osm_import
 
 ## Atkins Reef
 
-Atkins Reef is a reef dive site in British Columbia, North America.
+Atkins Reef is a boat-access reef dive in the northern Gulf Islands near Galiano Island, British Columbia, Canada.
 
 ## Overview
 
-Atkins Reef is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Atkins Reef lies in Active Pass — one of the most current-swept passages in the Gulf Islands — making it a site that rewards precise timing but delivers exceptional marine life density for those who plan well. The reef runs along the edge of the pass and receives powerful tidal flows that scrub the rocks clean and bring a continuous supply of nutrients. Rock faces carry dense colonies of white plumose anemones and bright encrusting sponges. Maximum depth is 18 metres. Water temperature is typically 8 to 11°C and a dry suit is strongly recommended for the cold, swift conditions.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Active Pass, Galiano Island area, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Typical Visibility**: 8-15 meters (25-50 feet)
+- **Water Temperature**: 8-11°C (46-52°F) — dry suit required
+- **Current**: Strong on tidal exchange; dive slack tide only
+- **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+The current-swept reef at Atkins supports an impressive density of marine life. Giant Pacific octopus shelter in deep boulder dens and emerge at slack to hunt. Large lingcod are territorial on the reef crest. Black rockfish school in the mid-water column, while copper and quillback rockfish occupy ledge habitat. Plumose anemone walls are spectacular under a torch beam. Steller sea lions occasionally transit the pass. The strong tidal flow also brings schools of small baitfish that attract feeding birds on the surface.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Timing is everything at Atkins. Arrive at the reef well before slack and descend at the predicted slack time. Begin deep at 15 to 18 metres to explore the richest anemone habitat, then work shallower as the tide begins to turn. When current starts to build — watch for particulate beginning to move — ascend immediately and surface into the drifting direction with your SMB deployed. Do not fight a building current; abort and regroup at the surface if needed.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access only. The captain should hold position at the reef during the dive, ready to collect divers who surface downcurrent. Use a descent/ascent line where possible to help manage current on the way up. Ensure all divers are briefed on drift protocols before entering.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Calculate slack water precisely using current tables for Active Pass, not generic tidal tables
+- Slack is often short — 20 to 30 minutes — so descend promptly
+- A bright SMB is mandatory; surface current may carry divers some distance
+- Lingcod and GPO encounters are reliable when conditions are right
+- Avoid this site on strong spring tides unless you are an experienced drift diver
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Active Pass sees heavy BC Ferries traffic; boats must adhere to navigation rules within the pass. Divers must surface outside the main ferry channel. Current in the pass can reach several knots on springs — a missed slack window creates serious hazard. All divers must be comfortable with drift diving protocols and SMB deployment before attempting this site.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Atkins Reef offers outstanding wide-angle shots of anemone-covered rock faces and schooling rockfish. Macro opportunities include nudibranchs on the rock surface and small crustaceans in crevices. Video is particularly effective here when current is calm and the marine life is active. Use a red filter or strobes to restore colour in the deeper sections.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

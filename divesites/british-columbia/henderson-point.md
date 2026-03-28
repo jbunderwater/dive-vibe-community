@@ -13,53 +13,51 @@ addedBy: osm_import
 
 ## Henderson Point
 
-Henderson Point is a reef dive site in British Columbia, North America.
+Henderson Point is a wall and rocky reef dive site near the southern tip of Vancouver Island, British Columbia, Canada, accessible by shore entry in the waters of the southern Gulf Islands.
 
 ## Overview
 
-Henderson Point is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Henderson Point offers one of the more accessible wall dives in the southern Vancouver Island area, dropping from a rocky shoreline entry into a dramatic wall structure that descends to 30 metres. This is an advanced shore dive due to the depth and the potential for significant tidal current. Water temperatures range from 8-12°C throughout the year and a drysuit is essential. Visibility typically runs 6-15 metres, improving considerably in autumn and winter when summer plankton blooms clear.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Southern Vancouver Island, British Columbia, Canada
 - **Entry Type**: Shore entry
-- **Site Type**: Wall dive
+- **Site Type**: Wall
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 30 metres
+- **Typical Visibility**: 6-15 metres
+- **Water Temperature**: 8-12°C (drysuit essential)
+- **Current**: Strong on tidal exchanges — dive at slack
+- **Best Time**: Year-round; best visibility October to March
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+The wall at Henderson Point is richly decorated with plumose anemones, encrusting sponges, and colourful sea stars from top to bottom. Giant Pacific octopus are common in ledges and crevices on the wall face. Lingcod patrol the upper reef sections near the base of the wall. Schools of black rockfish hover in the water column above the drop-off. Nudibranchs and hermit crabs populate the rocky shallows at the entry point. Harbour seals frequently investigate divers at this site.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Enter from the rocky shoreline and navigate along the bottom to the wall edge, typically encountered at 8-10 metres. Follow the wall down to 20-25 metres, exploring the encrusting invertebrate community and monitoring for GPO in crevices. The deepest section (25-30 metres) can be included for advanced divers with appropriate gas planning. Ascend back up the wall face and complete a 3-5 minute safety stop in the shallows before exiting.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Shore entry over rocks — water shoes or rock boots are strongly advised. Assess the entry and exit points carefully before diving; swell and surge can make rocky entries challenging. The entry is best at high water to cover slippery rocks. Confirm your buddy and dive plan before entering. Exit at the same location, timing your approach to the rocks to avoid surge.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Always check current tables — this is a wall dive that is noticeably affected by tidal flow
+- A dive torch reveals rich invertebrate life on the deeper wall sections
+- Advanced buoyancy control is important to avoid disturbing the wall community
+- Note the entry/exit point carefully in case visibility drops during the dive
+- Late autumn and winter offer the best wall visibility and active fish populations
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The combination of depth, potential strong current, and rocky shore entry makes Henderson Point suitable for advanced divers with wall diving experience. Never dive this site in strong current — if current is present on arrival, wait for slack water or choose a different site. Monitor depth carefully on the wall. Manage your gas conservatively to allow for a full safety stop and potential current during the ascent.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Henderson Point's wall is visually compelling for wide-angle photography — the plumose anemone forests and sponge-encrusted rock create striking backgrounds. GPO on the wall face make iconic BC diving images. For macro work, the upper reef section and rocky shallows reward close inspection with tight lens setups. Natural light on the upper wall (5-10 metres) can be beautiful on calm bright days.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

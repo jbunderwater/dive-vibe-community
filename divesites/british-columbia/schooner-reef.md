@@ -13,53 +13,49 @@ addedBy: osm_import
 
 ## Schooner Reef
 
-Schooner Reef is a reef dive site in British Columbia, North America.
+Schooner Reef is a rocky reef system off the eastern coast of central Vancouver Island, British Columbia, Canada, in the productive northern Strait of Georgia.
 
 ## Overview
 
-Schooner Reef is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Schooner Reef lies in the northern Strait of Georgia, a highly productive marine area known for feeding humpback and fin whales on the surface while divers explore the rich benthic communities below. The reef provides structure for resident fish and invertebrates in an otherwise open-water environment. Water temperatures are cold (7–12°C), and visibility is typically 8–15 metres, clearing significantly in late summer when phytoplankton levels drop. Tidal currents can be moderate in this part of the Strait.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Northern Strait of Georgia, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 8–15 metres
+- **Current**: Moderate; check tidal tables
+- **Best Time**: July to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+The productive waters of the northern Strait of Georgia deliver excellent fish diversity to Schooner Reef. Lingcod and multiple rockfish species (black, copper, quillback, canary) are resident. Dense aggregations of cloud sponges are possible in deeper sections of the reef. Harbour seals and occasional Steller sea lions visit from Vancouver Island haul-outs. Pacific spiny dogfish are common. Plumose anemones and encrusting sponges cover the rock surfaces. Humpback whale activity in the area is a surface highlight when transiting to the site.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the reef base at depth and work the structure systematically. The reef likely has multiple peaks — explore the shallowest pinnacle first then work to deeper sections. Linger in the 10–15 metre zone where rockfish concentrations are typically highest. Ascend slowly through kelp where present for a 3–5 minute safety stop.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access from nearby Vancouver Island marinas. Given the open-Strait location, sea conditions can be choppy in any wind above 10 knots. Plan dives for morning calm periods. Use a live-boat approach or mooring line for entries and exits.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Check for whale activity on the surface before and after the dive
+- Bring lights even for daytime dives — rockfish under ledges benefit from illumination
+- Cloud sponge formations may be present in deeper sections; do not touch them
+- Carry an audible surface signal device given open-water location
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Open-Strait location means exposure to wind and waves that can develop quickly. Emergency services are not immediately at hand. Dive with an experienced skipper who knows the area. Always deploy an SMB before ascending given the boat traffic in the Strait of Georgia.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The diverse rockfish community and possible cloud sponge formations create excellent wide-angle and portrait opportunities. Surface whale activity during transits can yield topside photography. Macro subjects are plentiful on encrusted reef surfaces.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

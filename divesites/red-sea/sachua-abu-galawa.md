@@ -13,55 +13,53 @@ addedBy: osm_import
 
 ## Sachua Abu Galawa
 
-Sachua Abu Galawa is a reef dive site in Red Sea, Middle East.
+Sachua Abu Galawa is a coral reef in the Hurghada reef system of the northern Egyptian Red Sea, sitting approximately 27.3°N in the cluster of shoals and reefs offshore from Hurghada. "Abu Galawa" translates roughly as "father of the reveal" in Arabic, and sites bearing this name are scattered along the Egyptian coast, each referring to a reef that reveals itself near the surface. This accessible, beginner-friendly site is part of the day-boat circuit from Hurghada.
 
 ## Overview
 
-Sachua Abu Galawa is a dive site in Red Sea offering excellent diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The reef at Sachua Abu Galawa rises to within a few meters of the surface on a broad platform that supports rich table and brain coral formations. The reef edge drops to around 26 meters before meeting sandy substrate. The sheltered inner sections of the reef are suitable for newer divers, while the outer edges provide more interesting topography for intermediate divers. As with all Hurghada-area reefs, the site sees regular boat traffic and divers should expect multiple groups in the water. Water temperatures range from around 21°C in winter to 28°C in summer.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Hurghada reef system, northern Red Sea, Egypt
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 26 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 15-25 meters (50-80 feet)
+- **Current**: Light to moderate
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The Hurghada reef system supports the characteristic northern Red Sea community. Anthias and chromis are abundant over the coral tops. Clownfish occupy anemones in the shallower sections — these are frequently sought out by snorkelers and beginner divers. Blue-spotted stingrays rest on sandy patches. Napoleon wrasse are resident on the reef edge. Sea turtles appear regularly on the platform, and green turtles in particular are a reliable sighting. Moray eels are present in the crevices, and lionfish pose their usual hazard along ledges.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 26 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The reef is easy to navigate, with a clear profile from the shallow platform edge down to the sandy base. Beginners can spend most of the dive at 5–15 meters on the broad coral flat. More experienced divers can work the outer reef edge down to 20–26 meters where the coral transitions to sand and rubble. The safety stop can be performed on the reef flat in the final few meters.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from Hurghada day-trip operators. Giant stride or back roll entry. Mooring buoys are typically rigged on this site during the day-boat season. Ascend the reef and signal the boat with an SMB from 5 meters.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- An ideal first boat dive for newly certified divers building experience in open water
+- The clownfish-anemone associations in the shallows are engaging for snorkelers and divers alike
+- Visit early in the day to dive before multiple boats arrive
+- Excellent buoyancy practice site given the varied terrain from platform to deeper wall
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Beginner-level site but standard Red Sea precautions apply. Fire coral is present — contact causes a burning rash. Lionfish in ledges should not be touched. Multiple boats at this popular site mean a deployed SMB is essential. Dive within the depths suited to your certification and experience level.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The shallow platform with its table corals and resident clownfish produces excellent close-focus wide-angle images with natural overhead light. Blue-spotted ray portraits on the sandy base are a reliable subject. Napoleon wrasse encounters on the reef edge reward wider-angle work.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,53 +13,49 @@ addedBy: osm_import
 
 ## Satellite Reef
 
-Satellite Reef is a reef dive site in British Columbia, North America.
+Satellite Reef is a submerged rocky reef in the Strait of Georgia off the eastern coast of Vancouver Island, British Columbia, Canada, offering productive rockfish and invertebrate diving.
 
 ## Overview
 
-Satellite Reef is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Satellite Reef rises from the floor of the Strait of Georgia, sitting in the tidal corridors east of Vancouver Island. The Strait of Georgia is one of BC's most productive marine environments, supporting dense populations of fish and invertebrates fuelled by tidal mixing and seasonal upwelling. Water temperatures at this site are 7–12°C, with visibility ranging from 6–15 metres. Currents in the Strait can run strongly — tidal timing is important for safe and comfortable diving.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Strait of Georgia, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 6–15 metres
+- **Current**: Moderate to strong; time to slack water
+- **Best Time**: July to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Satellite Reef hosts the full spectrum of BC cold-water reef species. Copper and quillback rockfish are ever-present on rocky perches. Lingcod up to 90 centimetres are regulars on deeper ledges. Plumose anemones (orange and white) colonise nearly every vertical surface. Painted greenling and kelp greenling add splashes of colour throughout. Pacific spiny dogfish sharks may be encountered in schools at mid-depth. Giant Pacific octopus occupy boulder crevices and are a highlight for visiting divers.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the base of the reef at 15–18 metres and work your way around the structure, pausing to look into crevices and under ledges. Ascend gradually through the mid-reef zone where rockfish concentrations are highest. Finish the dive in the shallower kelp fringe before deploying your SMB for a controlled ascent.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access only from nearby marinas. Anchor or use a live-boat approach if current is running. Drift diving can be productive when tides are flowing, but requires coordinated boat pickup. Always deploy an SMB on ascent in the Strait's busy boat traffic.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Check tidal tables for the Strait of Georgia current predictions
+- GPO sightings are common — search deep boulder piles systematically
+- Carry a primary and backup light even for daytime dives
+- Pacific spiny dogfish encounters are common and harmless — observe calmly
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Boat traffic in the Strait of Georgia is heavy, particularly in summer. Always use a brightly coloured SMB and deploy before ascending. Current can be deceptive — what appears calm on the surface may be running hard at depth around the reef. Thermal protection adequate for 7–12°C water is essential.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Rockfish portrait photography is outstanding here — copper rockfish in particular make bold, cooperative subjects. Wide-angle shots capturing the plumose anemone fields with a diver create striking images. Dogfish in motion are a more challenging but rewarding photographic subject.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

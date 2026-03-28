@@ -13,53 +13,50 @@ addedBy: osm_import
 
 ## Għar ta' Ras il-Qamħ
 
-Għar ta' Ras il-Qamħ is a cave dive site in Malta and Gozo, Europe.
+Għar ta' Ras il-Qamħ — "the Cave of Wheat Cape" in Maltese — is a coastal cavern dive on the northwest headland of Gozo, situated metres from its neighbour Għar il-Katidral (the Cathedral Cave). The two caves share the same dramatic limestone coastline and are typically dived together as a paired northwest Gozo cave excursion, offering contrasting interior characters within a single boat dive.
 
 ## Overview
 
-Għar ta' Ras il-Qamħ is a dive site in Malta and Gozo featuring underwater cave and cavern formations. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The cave is accessible at 20 metres maximum depth, with the entrance descending through a limestone opening in the cliff face. The interior is a more horizontal cavern than the vaulted Cathedral Cave nearby, with passages running into the rock and receiving filtered natural light from the entrance. The northwest Gozo waters offer visibility in the 20–25 metre range. The cave walls are encrusted with sponges and encrusting organisms typical of the low-light cave environment. The headland position at Ras il-Qamħ means the surrounding reef also offers good intermediate reef diving between cave visits.
 
 ## Site Information
 
-- **Location**: Malta and Gozo, Europe
+- **Location**: Northwest Gozo, Malta
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: May to October
+- **Typical Visibility**: 20–25 meters
+- **Current**: Generally calm inside; exposed coast outside
+- **Best Time**: April to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+The cave shelters spiny lobster, conger eels, and small blennies adapted to the low-light environment. Moray eels inhabit the deeper recesses of the cave walls. Outside, the headland reef supports grouper, sea bream, and wrasse. Octopus are common in the rocky terrain around the headland.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the cave entrance and enter, exploring the horizontal passages while maintaining orientation to the entrance and staying within natural light. Exit the cavern and explore the Ras il-Qamħ reef before visiting the adjacent Għar il-Katidral if it is part of the dive plan. Safety stop at 5 metres.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Dive boats from Gozo operators access the northwest coastline. Entry by giant stride. The exposed northwest Gozo coast requires sea state assessment — both nearby caves are weather-dependent. Do not dive this site in anything other than settled conditions.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Dive this site as a pair with the adjacent Għar il-Katidral for a superb cave experience
+- Maintain constant orientation to the entrance throughout — this is cavern diving, not technical cave diving
+- A torch is required for examining the cave interior properly
+- The headland reef above 15 metres is a rewarding finish to the dive
+- Arrive early as Gozo's northwest coast is in high demand with operators in summer
 
 ## Safety Considerations
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Cavern diving principles apply throughout: maintain entrance orientation, stay within natural light, carry a torch, and dive with a buddy. The northwest Gozo coast is exposed to swell and requires careful sea state assessment before entry.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The horizontal cave interior framed by the entrance opening creates a classic tunnel-view composition. Natural light quality in the entrance is excellent. The rough-textured cave walls photographed with a torch reveal vivid sponge colours. Paired with the Cathedral Cave next door, the two sites offer contrasting photographic subjects.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

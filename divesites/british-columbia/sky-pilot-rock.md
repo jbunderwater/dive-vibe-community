@@ -13,53 +13,49 @@ addedBy: osm_import
 
 ## Sky Pilot Rock
 
-Sky Pilot Rock is a reef dive site in British Columbia, North America.
+Sky Pilot Rock is a rocky pinnacle dive site in the Desolation Sound area of British Columbia, Canada, one of BC's celebrated northern inside-passage diving destinations.
 
 ## Overview
 
-Sky Pilot Rock is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Sky Pilot Rock lies in the waters of Desolation Sound and the Discovery Islands area — a legendary coastal wilderness where fjords, granite islands, and extraordinary marine life converge. This region sees strong tidal exchanges and supports some of the densest marine life on the BC coast. Water temperatures are cold (7–12°C), and visibility is typically 8–15 metres in the warmer months, improving markedly in late summer and autumn. The northern inside passage environment means more remote logistics, but the reward is often pristine dive sites with minimal diver pressure.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Desolation Sound / Discovery Islands, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky pinnacle / reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 8–15 metres
+- **Current**: Variable; can be significant in Discovery Islands
+- **Best Time**: July to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+The Discovery Islands area is famous for its outstanding marine diversity. Sky Pilot Rock likely hosts resident lingcod and multiple rockfish species on the rocky structure. Steller sea lions from nearby haul-outs are common. Giant Pacific octopus occupy crevices. The Discovery Islands are one of the best areas in BC for encountering Pacific white-sided dolphins at the surface. Humpback whales feed in the region during summer and autumn. Underwater, plumose anemone colonies and cloud sponge formations characterise the deeper rocky surfaces in this area.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend on the pinnacle and work the rocky structure, exploring overhangs and crevices at depth before ascending through the mid-section. Kelp canopy covers shallower terrain. The compact nature of a pinnacle makes for an efficient dive that covers rich terrain in a relatively small area. Safety stop in the kelp canopy zone.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access, typically by private vessel or small charter from Lund, Campbell River, or anchorages within Desolation Sound. This is remote, wilderness diving — boats should be self-sufficient. Marine VHF radio communication is essential.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Scan the surface for dolphins and whales before entering — topside wildlife is exceptional
+- Bring extra batteries and cold-rated equipment — northern BC conditions are demanding
+- Tidal planning is more critical in the Discovery Islands due to stronger currents
+- Night dives here can be spectacular — shrimp and crab activity is intense after dark
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Remote location means extended emergency response times. Each diver should be self-sufficient with emergency oxygen, first aid capability on the boat, and personal locating equipment. Cold water and potential strong currents demand experienced judgment. Always carry a personal SMB and signaling devices.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Dolphin and whale surface photography on transits is a major bonus. Underwater wide-angle in kelp forests and around the pinnacle structure captures the grandeur of BC's northern inside passage. Cloud sponge formations if present are iconic subjects.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

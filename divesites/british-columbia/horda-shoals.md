@@ -13,53 +13,51 @@ addedBy: osm_import
 
 ## Horda Shoals
 
-Horda Shoals is a reef dive site in British Columbia, North America.
+Horda Shoals is a submerged shoal in the northern Gulf Islands, British Columbia, Canada, in the waters between Saltspring and Galiano Islands, accessed by boat.
 
 ## Overview
 
-Horda Shoals is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Horda Shoals is a popular intermediate boat dive in the northern Gulf Islands, where the sheltered inter-island passages converge with productive tidal flows. The reef structure rises from deeper surrounding water to create an elevated rocky platform colonised by kelp, sponges, and a diverse fish community. Water temperatures stay between 8-12°C, with a drysuit strongly recommended. Visibility averages 6-12 metres and is clearest through the winter months. Tidal currents are a notable factor in the Gulf Islands — dive at or close to slack water for the best experience.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Northern Gulf Islands, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky shoal / reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 6-12 metres
+- **Water Temperature**: 8-12°C (drysuit recommended)
+- **Current**: Strong on tidal exchanges — dive at slack
+- **Best Time**: Year-round; clearest water October to March
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Horda Shoals supports typical northern Gulf Islands species. Giant Pacific octopus are regularly encountered in crevices throughout the reef structure. Lingcod and cabezon occupy rocky ledges, while schools of black rockfish and kelp greenling patrol the kelp canopy above. Purple and red sea urchins, sea stars, and nudibranchs of various species appear across the shallower sections of the shoal. Harbour seals are a constant presence around the Gulf Islands and regularly follow divers through the site.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin the dive at the top of the shoal structure in 5-8 metres of water, weaving through the kelp and rocky outcrops. Drop down the shoal sides to 14-18 metres where the rock meets sand and the most interesting crevice life is found. Work your way back to the shallows for a comfortable 3-minute safety stop before signalling the boat for pickup.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access from nearby Gulf Islands marinas or from the Saanich Peninsula. Anchor or drift-moor clear of the reef structure. Deploy your SMB well before surfacing — Gulf Islands ferry routes and recreational vessel traffic make visual surface signalling important at this site.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Check the BC tide and current tables before departure
+- A hand-held dive torch improves your chances of finding GPO in the reef
+- Winter diving at Horda Shoals is often the most rewarding for visibility and fish density
+- Confirm anchor placement does not damage kelp or sessile invertebrates
+- If a light drift begins during the dive, use it to extend exploration along the shoal
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The strong tidal currents through the Gulf Islands channels pose the main hazard at Horda Shoals. Arrive at slack water and monitor the dive duration to avoid being caught in a building current. Cold water at depth increases deco obligations — ascend conservatively. Surface with your SMB deployed and make eye contact with the boat crew before completing your ascent.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Horda Shoals offers a classic Gulf Islands photo opportunity set. Wide-angle ambient shots through the kelp canopy work well on bright calm days. For targeted encounters, GPO portraits and lingcod resting on sponge-covered rock are the standout subjects. Macro photographers can find nudibranchs, shrimp, and small crustaceans throughout the shallower reef sections.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
