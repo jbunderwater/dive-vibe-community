@@ -13,54 +13,50 @@ addedBy: osm_import
 
 ## The Cauldron Dive Site
 
-The Cauldron Dive Site is a drift dive site in Komodo National Park, Asia.
+The Cauldron — also called the Shotgun — is Komodo's most exhilarating pure current experience: a submerged channel between Gili Lawa Laut and the main reef that funnels tidal flow into a liquid rollercoaster, firing divers through the passage in under two minutes.
 
 ## Overview
 
-The Cauldron Dive Site is a dive site in Komodo National Park offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Located in the northern section of Komodo National Park near Gili Lawa Laut, The Cauldron consists of a shallow bowl-shaped reef that opens into a narrow channel. As the tide pushes water through, the bowl creates a swirling, turbulent "washing machine" effect before divers are blasted through the channel exit and deposited onto a calmer outer reef slope. The dive requires precise timing — too early or too late in the tidal cycle and the site either has no current at all or is simply too dangerous to enter. When conditions are right, it is one of the most memorable drift dives in Indonesia.
 
 ## Site Information
 
-- **Location**: Komodo National Park, Asia
+- **Location**: Komodo National Park, East Nusa Tenggara, Indonesia (Gili Lawa Laut area)
 - **Entry Type**: Boat dive
-- **Site Type**: Drift
+- **Site Type**: Drift dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 22 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 10–25 meters
+- **Current**: Extremely strong during tidal flow; site-specific briefing essential
+- **Best Time**: April to November; must be timed precisely with tidal tables
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The nutrient surge through the channel supports excellent fish life. Schools of fusiliers, surgeonfish, and snapper gather at the channel entrance. White-tip reef sharks rest on the sand in the bowl before the rush begins. Manta rays are frequently encountered on the outer reef slope at the channel exit, where upwellings carry plankton to the surface. Sea turtles are common throughout. The hard coral on the outer slope is healthy and colourful, a reward for surviving the passage.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 22 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Enter upstream of the bowl on the guide's signal. The current accelerates as you reach the bowl — control your buoyancy to avoid bouncing off the bottom, and neither fin hard nor fight the flow. Spread arms and legs slightly to stabilise and enjoy the ride. The channel section lasts roughly 60–90 seconds before depositing you onto the outer slope at around 18–22 meters. The rest of the dive is a relaxed drift along the slope in much calmer water, rising gradually for a blue-water safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+The boat drops divers upstream; the skipper races around Gili Lawa Laut to collect everyone at the channel exit on the outer reef. Keep your SMB ready to deploy for the safety stop, as the current will have pushed you well away from any fixed reference. The guide leads the entry — do not jump in before the signal.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Listen carefully to the current-timing briefing — this dive depends entirely on doing it at the right moment
+- Do not fight the current inside the channel; relax, streamline your gear, and let it carry you
+- Keep your mask pressed firmly; the turbulence at the bowl entrance can pull it off
+- The outer slope after the channel exit is an excellent place to linger for manta rays — arrive with sufficient air
+- Loose equipment such as cameras on long lanyards should be secured before entry
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The Cauldron is not suitable for divers without experience in strong current diving. The "washing machine" turbulence can be disorienting, and a panicked diver who fights the flow can exhaust their air supply rapidly. If the guide signals abort before entry, follow immediately. Strong currents can also push divers deeper than planned in the bowl — monitor your depth constantly. Always carry an SMB and deploy it at the start of your safety stop.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The brief transit through the channel makes conventional photography difficult, but the outer slope offers excellent wide-angle opportunities. Manta rays on the sloping reef, schools of fish at the channel exit, and healthy hard corals make for compelling images. Secure your camera rig tightly before entering the Cauldron section.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

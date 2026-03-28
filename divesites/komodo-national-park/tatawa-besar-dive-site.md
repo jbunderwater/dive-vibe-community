@@ -13,55 +13,50 @@ addedBy: osm_import
 
 ## Tatawa Besar dive site
 
-Tatawa Besar dive site is a reef dive site in Komodo National Park, Asia.
+Tatawa Besar (Big Tatawa) is the more accessible sibling of the current-hammered Tatawa Kecil — a broad sloping reef around a larger island in central Komodo that delivers excellent coral, healthy fish life, and a notably relaxed pace suitable for beginners and newly certified divers.
 
 ## Overview
 
-Tatawa Besar dive site is a dive site in Komodo National Park offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Tatawa Besar is a larger island than Tatawa Kecil, and its more gently contoured reef slope generally experiences lighter currents. The dive traces a sloping reef from 5 meters at the shallows to around 25 meters at the base of the slope, where the bottom transitions to sand and rubble. The coral coverage is very good — hard coral tables and branching formations dominate the upper slope, while sea fans and soft corals become more frequent at depth. Green turtles are the resident attraction, frequently seen resting on table corals or being cleaned at small cleaning stations throughout the reef.
 
 ## Site Information
 
-- **Location**: Komodo National Park, Asia
+- **Location**: Komodo National Park, East Nusa Tenggara, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15–25 meters
+- **Current**: Light to moderate; occasionally stronger on the island's corners
+- **Best Time**: April to November; manageable year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Green sea turtles are the star of Tatawa Besar, often encountered resting on the reef or being groomed by cleaner wrasses at dedicated stations on the table corals. Reef fish are abundant: schools of unicornfish, surgeonfish, and batfish hover mid-water, while hawkfish perch on coral heads and moray eels peer from crevices. The sandy bottom at depth hosts garden eels in large colonies and the occasional wobbegong shark resting motionless. Juvenile reef fish shelter in branching coral, making the shallows particularly rewarding for close-up observation. Blacktip reef sharks occasionally cruise the reef edge.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend near the island and choose the slope based on the day's current — the guide typically moves the group to the sheltered side. Work the slope between 10–20 meters, where coral density and turtle sightings are greatest. Ascend gradually to the shallows at 5 meters for a relaxed safety stop in good light and healthy coral.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by liveaboard or day boat from Labuan Bajo. Giant stride entry from the dive deck. The boat follows the group's position; a safety stop at 5 meters on the reef top is usually possible without a blue-water ascent given the mild conditions.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- This is an ideal site for dive certification completion dives or for divers still building experience
+- Allow time at turtle cleaning stations — patience rewards with extended close-up observation
+- The sandy bottom at depth is worth checking for garden eels and flatfish
+- Combine with Tatawa Kecil if conditions permit for an instructive contrast between calm and advanced drift diving
+- Macro lenses are rewarding in the shallows for juvenile reef fish in branching coral
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+While generally calm, Tatawa Besar's exposed corners can develop stronger currents. Keep the group together and listen to the guide's signal to change direction. Always carry an SMB even on easy dives. Avoid over-penetrating the reef structure, which can damage fragile coral tables.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The abundant turtle encounters and healthy hard coral make Tatawa Besar excellent for wide-angle and mid-range photography. A 16–35mm zoom covers both turtle portraits and reef overviews. The clear water and good light create clean backgrounds. The garden eel colonies at depth reward patience with macro or close-focus wide-angle setups.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

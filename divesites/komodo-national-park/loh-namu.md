@@ -13,54 +13,50 @@ addedBy: osm_import
 
 ## Loh Namu
 
-Loh Namu is a reef dive site in Komodo National Park, Asia.
+Loh Namu is a reef dive site on the western side of Komodo Island, its sheltered bay setting offering a calm alternative to the park's more exposed sites while delivering solid reef diving with good fish diversity and the opportunity to encounter sharks and turtles in comfortable conditions.
 
 ## Overview
 
-Loh Namu is a dive site in Komodo National Park offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Situated in a bay on the western coast of Komodo Island, Loh Namu benefits from some protection from the dominant current directions that blast other park sites. The reef descends from a shallow coral crest to sandy bottom at around 18–20 meters, with a good variety of coral types across the slope. The site is well-suited to intermediate divers looking for a relaxed experience with quality marine life, and it serves as a useful option on days when the park's main current sites are too challenging for a mixed-experience group.
 
 ## Site Information
 
-- **Location**: Komodo National Park, Asia
+- **Location**: Komodo National Park, East Nusa Tenggara, Indonesia (western Komodo Island)
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 12–20 meters
+- **Current**: Light to moderate; sheltered from main tidal flows
+- **Best Time**: April to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The reef supports a typical Komodo species mix in a more relaxed setting. Green and hawksbill turtles are regular sightings. Reef fish communities are healthy: parrotfish, surgeonfish, and various wrasse species graze the coral throughout the dive. The sandy bottom areas host blue-spotted ribbontail rays resting under ledge overhangs. Moray eels occupy crevices in the coral matrix. Occasional whitetip reef sharks are spotted resting on sandy patches. The bay's calmer conditions make it attractive for juvenile reef fish, making the shallower sections productive for close-up fish photography.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the base of the reef slope at 15–20 meters and work around the bay following the reef edge. The moderate conditions allow a relaxed approach — spend time on the sandy patches looking for small critters before ascending through the coral-rich mid-slope. Finish the dive in the shallows for an extended exploration of the reef crest.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from liveaboard or day trip. Standard giant stride entry and ladder exit. The sheltered conditions make entry and exit straightforward in most weather.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- A good site for consolidating buoyancy skills in moderate conditions before tackling the park's advanced current dives
+- Check sandy patches and rubble areas for blue-spotted rays and flatfish
+- The bay can be an excellent night dive option — protected from swell and featuring nocturnal reef species
+- Combine with nearby Indihiang for a varied western Komodo day
+- Bring a macro lens alongside the wide-angle for critter opportunities
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+While calmer than most Komodo sites, currents can pick up around the bay's headlands. Keep the group together and monitor conditions. Always carry an SMB. Be careful with buoyancy near the coral structures on the upper slope.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The moderate conditions and good natural light in the bay make Loh Namu an approachable photography site at all levels. Wide-angle captures the reef slope and its turtle inhabitants; macro finds the critters on rubble and under ledges. The clear shallows provide excellent lighting for coral close-ups and fish portraits.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

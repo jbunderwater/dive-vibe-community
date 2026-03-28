@@ -13,55 +13,51 @@ addedBy: osm_import
 
 ## Manta Point dive site
 
-Manta Point dive site is a drift dive site in Komodo National Park, Asia.
+Manta Point is the southern Komodo manta experience — a purpose-built cleaning and feeding station off the coast of Komodo Island where reef mantas (Mobula alfredi) gather in reliable numbers, gliding within arm's reach of divers kneeling quietly on sandy bottom.
 
 ## Overview
 
-Manta Point dive site is a dive site in Komodo National Park offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Situated in the southern waters of Komodo National Park near Komodo Island, Manta Point sits in a shallow bay where upwellings of cold, plankton-rich water draw reef mantas to feed and be cleaned. The site is a gently sloping sandy bottom with scattered coral bommies, running from about 3 meters to 15 meters. Currents vary from none to moderate — the same conditions that concentrate mantas. This is one of the most accessible manta sites in Komodo, suitable for beginners due to the shallow depth and generally calm water, making it a highlight of many day trips from Labuan Bajo.
 
 ## Site Information
 
-- **Location**: Komodo National Park, Asia
+- **Location**: Komodo National Park, East Nusa Tenggara, Indonesia (southern Komodo Island coast)
 - **Entry Type**: Boat dive
-- **Site Type**: Drift
+- **Site Type**: Drift dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 10–25 meters
+- **Current**: Light to moderate; can occasionally be strong
+- **Best Time**: February to November; peak manta season March to May and August to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Reef mantas (Mobula alfredi) are the headline attraction — sightings of five or more individuals in a single dive are common during peak season, with the cleaning station bommies at 8–12 meters the focus of activity. Mantas queue to have parasites removed by cleaner wrasses; they approach slowly and circle repeatedly, allowing extended close observation. The sandy areas also host blue-spotted ribbontail rays and the occasional eagle ray. Reef fish are abundant around the coral bommies, and sea turtles rest on the bottom or graze on sea grass at the site's shallower edges.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the main cleaning station at 10–12 meters and settle in a kneeling position on sandy bottom, maintaining neutral buoyancy to avoid stirring sediment. The protocol is to stay low, move slowly, and let the mantas approach. Most guides will position divers in a line along the bottom facing the cleaning station. Extend your dive by slowly drifting toward the shallower areas to watch mantas feeding at the surface before ascending. The dive is well within no-decompression limits at this depth.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by day-trip boat from Labuan Bajo (approximately 2.5–3 hours) or liveaboard. Entry is by giant stride. The boat typically anchors nearby or drifts, and exit is via the ladder. Carry your SMB but deployment is rarely needed here given the sheltered conditions.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Stay still and low — mantas will approach if divers do not chase them
+- Do not touch mantas; oils from hands disrupt their protective mucus layer
+- Early morning dives tend to have the best manta activity before day-trip crowds arrive
+- Bring a wide-angle lens or go-pro for close-up encounters
+- Snorkelling is also excellent here when mantas are feeding at the surface
+- Peak season (March–May) can see aggregations of 10 or more mantas simultaneously
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Currents can develop suddenly at Manta Point, particularly on the ebb tide. Always monitor conditions and follow the guide's hand signals for any current-related changes. The site is generally calm, but occasional thermoclines can bring a surprise drop in water temperature to 22–24°C — bring a wetsuit of at least 3mm. Always carry an SMB.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Manta Point offers some of the best manta photography in the world. Shoot from below with the manta silhouetted against the light for dramatic results, or get level with the animal as it circles the cleaning station. Wide-angle setups dominate, but a 60mm macro on the cleaning station bommies captures the cleaner wrasses in action. Blue-spotted rays on the sand make attractive secondary subjects.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

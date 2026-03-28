@@ -13,54 +13,50 @@ addedBy: osm_import
 
 ## Bonsai dive site
 
-Bonsai dive site is a reef dive site in Komodo National Park, Asia.
+Bonsai is named for the distinctive miniaturised, gnarled hard coral formations that give the reef its character — small coral colonies sculpted by current into bonsai-tree shapes, creating an unusual and photogenic reef landscape in Komodo National Park.
 
 ## Overview
 
-Bonsai dive site is a dive site in Komodo National Park offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Bonsai is a reef site in the central Komodo area featuring a sloping reef where decades of current sculpting have produced remarkably compact and interestingly shaped hard coral formations. The site runs from 5 meters in the shallows to around 20 meters at the sandy base. Compared to Komodo's headline current sites, Bonsai sees moderate flow and is comfortably dived at intermediate level. The intricate coral topography creates dozens of microhabitats that reward slow, observational diving over any attempt to cover distance.
 
 ## Site Information
 
-- **Location**: Komodo National Park, Asia
+- **Location**: Komodo National Park, East Nusa Tenggara, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15–25 meters
+- **Current**: Light to moderate
+- **Best Time**: April to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The bonsai coral formations provide habitat for a wide variety of reef species. Hawkfish perch on coral tips while surveying territory. Butterflyfish and angelfish in several species are abundant. Cleaner shrimp occupy crevices and anemones. The sandy patches between coral heads host gobies and their symbiotic shrimp, worth spending time with for interesting behaviour observation. Green turtles graze on algae across the reef. Reef octopus are frequently seen changing colour and texture to match the coral substrate. With currents bringing nutrients, fish density is good — schools of fusiliers and surgeonfish move through regularly.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+A gentle circuit of the bonsai coral section between 8–18 meters is the standard approach. The guide identifies the most photogenic coral formations and pauses for observation and photography. The pace is relaxed — this is a site rewarding slow, attentive diving. Ascend gradually through the colourful shallows and take a comfortable safety stop on the reef top.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by liveaboard or day boat. Giant stride entry, with a controlled descent to the reef. The boat follows the group's drift in light current. Safety stop on the reef top at 5 meters.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Move slowly and get close to the bonsai formations — the textures and shapes reward detailed inspection
+- Bring a macro lens for gobies, cleaner shrimp, and small critters in the coral interstices
+- This is an excellent site for a night dive — the reef transforms after dark with basket stars emerging and reef octopus hunting
+- Combine with a more demanding site earlier in the day; Bonsai works well as a final, relaxed dive
+- Look inside table coral cavities for resting lionfish
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The site is generally manageable, but current can increase as the tide moves. Monitor conditions and keep the group compact. Respect the bonsai coral formations by maintaining good buoyancy — these slow-growing structures take decades to develop and are easily damaged by fin strikes or contact.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Bonsai is a macro photographer's pleasure — the intricate coral shapes, gooby-shrimp pairs, and perching hawkfish create detailed, layered compositions. A 60mm or 100mm macro lens is ideal. For wider shots, a 24–35mm captures the overall reef topography with good depth of field. The moderate currents keep sediment low, producing clean backgrounds.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

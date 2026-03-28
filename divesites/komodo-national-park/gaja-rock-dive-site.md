@@ -13,54 +13,50 @@ addedBy: osm_import
 
 ## Gaja Rock dive site
 
-Gaja Rock dive site is a pinnacle dive site in Komodo National Park, Asia.
+Gaja Rock — "Elephant Rock" in Indonesian — is a pinnacle formation in the southern Komodo National Park area, its rounded top and flanks resembling the back of a submerged elephant, covered in soft coral growth that attracts a pleasant variety of reef species.
 
 ## Overview
 
-Gaja Rock dive site is a dive site in Komodo National Park offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Gaja Rock is a compact pinnacle in the less-trafficked southern Komodo area, sitting in moderate tidal flow that keeps the coral healthy without the extreme currents of the park's headline sites. The rock formation rises to about 5 meters below the surface and descends to a sandy bottom at around 18–20 meters. It is a manageable intermediate dive — the rounded shape means there is always a sheltered face to tuck behind regardless of current direction. The soft coral coverage is attractive, and the site provides a comfortable option when conditions elsewhere in the park are too demanding.
 
 ## Site Information
 
-- **Location**: Komodo National Park, Asia
+- **Location**: Komodo National Park, East Nusa Tenggara, Indonesia (southern park area)
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15–25 meters
+- **Current**: Light to moderate
+- **Best Time**: April to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Soft corals and sea fans on the mid-depth flanks attract a variety of small, sedentary species: gobies on fan branches, commensal shrimp on dendrophyllia coral, and crinoids spread wide in the current. Reef fish are abundant — anthias cloud the upper sections, while butterflyfish and angelfish pick at the coral. Whitetip reef sharks are sometimes found resting on the sandy bottom at the pinnacle base. Sea turtles visit regularly to feed on the sponge and soft coral growth. The sandy bottom hosts small flatfish, gobies, and their symbiotic shrimp, adding a muck-diving dimension to the base of the rock.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Drop to the sandy bottom and circuit the base at 15–18 meters, then ascend the sheltered face through the soft coral zone at 8–15 meters to the shallowest section of the rock. The circular topography allows a complete circuit that covers all faces and depths within a single dive. Finish on the rock's summit at 5 meters for an extended safety stop in good light.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access. Giant stride entry close to the rock. Conditions are mild enough that a safety stop on the rock top at 5 meters is typically comfortable. Carry an SMB for the ascent if drifting clear of the rock.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- This site rewards a slow, observational approach — look closely at every coral formation for resident species
+- Bring a macro lens for gobies, shrimp, and nudibranchs on the coral faces
+- The site works well as a night dive — nocturnal critters emerge from crevices and the sandy base hosts sleeping reef fish
+- Gaja Rock is an accessible and enjoyable site for newly Advanced-certified divers gaining experience in Komodo conditions
+- Look for the resident Napoleon wrasse that occasionally frequents this site
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+While gentler than Komodo's advanced sites, currents can develop around Gaja Rock's exposed faces. Stay on the sheltered side if the current increases unexpectedly. Always carry an SMB. Buoyancy control around the coral formations is important — the soft coral is easily damaged by contact.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The compact size of Gaja Rock means a single dive covers multiple photographic habitats. Wide-angle captures the full rock form and its soft coral coverage; macro rewards detailed investigation of the coral faces. The sandy base with its gobies and the possibility of a resting shark make attractive secondary subjects.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

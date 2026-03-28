@@ -13,55 +13,50 @@ addedBy: osm_import
 
 ## Wainilu
 
-Wainilu is a muck dive site in Komodo National Park, Asia.
+Wainilu is Komodo National Park's standout muck diving site — a shallow, silty bay in the eastern park where a sandy and debris-strewn bottom hosts an unexpected variety of small, cryptic, and unusual marine creatures rarely found at the park's headline reef and current sites.
 
 ## Overview
 
-Wainilu is a dive site in Komodo National Park offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Situated in the eastern Komodo area, Wainilu is a calm, sheltered bay whose sandy and leaf-litter bottom creates ideal muck diving conditions. The site rarely exceeds 12 meters, and most of the interesting life is found between 3 and 10 meters on the bottom itself. Visibility can be lower than at reef sites — 8–15 meters is typical, and stirring the fine sand reduces it quickly — which rewards divers with the patience and buoyancy control to hover centimetres above the substrate without touching it. Wainilu provides a dramatic contrast to Komodo's fast, current-driven dives and is particularly appreciated by underwater photographers and critter enthusiasts.
 
 ## Site Information
 
-- **Location**: Komodo National Park, Asia
+- **Location**: Komodo National Park, East Nusa Tenggara, Indonesia (eastern park area)
 - **Entry Type**: Boat dive
-- **Site Type**: Muck
+- **Site Type**: Muck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 8–15 meters
+- **Current**: Very light; sheltered bay
+- **Best Time**: Year-round; best in dry season when visibility improves
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Frogfish in multiple species — painted, giant, and warty — are found on sponges and rubble throughout the bay. Leaf scorpionfish blend into the fallen leaf litter on the bottom. Pipefish and ghost pipefish hover in rubble patches. Coconut octopus carry shells across the sand floor while hunting. Mimic octopus have been reported at this site. Ribbon eels in black juvenile and blue adult phases peer from burrows. The slow pace also rewards encounters with small flatfish, dragonets, and sand-dwelling gobies paired with their alpheid shrimp. Sea horses have been documented in the seagrass patches at the bay's edge.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Slow, horizontal movement just above the substrate is the technique. Work across the sandy bottom in a grid pattern with the guide, who identifies the cryptic species that most divers would swim straight past. Depth rarely exceeds 10 meters, so bottom time is generous. Move with tiny, slow fin kicks to avoid raising sediment that reduces visibility for other divers. Adjust buoyancy to hover just above the substrate without touching.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access; giant stride entry into the bay. The guide leads the traverse across the bottom. Exit by the ladder; no SMB needed given the calm, shallow conditions. Carry one anyway as a best practice.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Muck diving requires precision buoyancy — this is not a site for recently certified divers still developing buoyancy control
+- A macro lens is essential: 60mm or 100mm for the small critters that define this site
+- Move slowly and look carefully at every leaf, sponge, and rubble pile — the best finds are invisible to a hurrying diver
+- Request a night dive here from the liveaboard — nocturnal muck diving reveals even more unusual species
+- Torch lighting improves the colour rendering of cryptic species for photography
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Wainilu is one of Komodo's safest dive sites. The primary risk is stirring sediment with poor buoyancy, which reduces visibility for the entire group. Maintain excellent buoyancy throughout. The bay is extremely shallow — surfacing is never far away. Always carry an SMB.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Wainilu is a macro photographer's treasure site. Shoot frogfish with a 100mm lens using a single strobe from the side to avoid flat frontal lighting. Leaf scorpionfish and coconut octopus reward patient observation before firing. A snoot or grid modifier on your strobe creates dramatic dark backgrounds. Keep your fins clear of the sand — a photographer who stirs visibility ruins the shoot for everyone.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

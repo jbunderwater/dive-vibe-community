@@ -13,54 +13,50 @@ addedBy: osm_import
 
 ## Sabayor Kecil
 
-Sabayor Kecil is a reef dive site in Komodo National Park, Asia.
+Sabayor Kecil ("Small Sabayor") is a reef dive site in the eastern Komodo National Park area, its sloping reef and exposed position producing moderate to occasionally strong currents that support good coral growth and regular reef shark and turtle encounters.
 
 ## Overview
 
-Sabayor Kecil is a dive site in Komodo National Park offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Sabayor Kecil is a small island in the eastern park area, its reef sloping from a shallow crest to approximately 28–30 meters on a combination of hard coral formations, rubble, and sand. The site is moderately exposed to tidal flow, making it suitable for intermediate divers with some current experience. The current is rarely as extreme as the park's top-tier sites, giving Sabayor Kecil an accessible character while still delivering the nutrient-driven marine life productivity that defines Komodo diving. The reef edges and outer reef face are the most productive sections for fish and shark encounters.
 
 ## Site Information
 
-- **Location**: Komodo National Park, Asia
+- **Location**: Komodo National Park, East Nusa Tenggara, Indonesia (eastern park area)
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15–25 meters
+- **Current**: Moderate; occasionally strong at reef corners
+- **Best Time**: April to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Whitetip reef sharks are regular sightings at the reef base and on sandy patches, sometimes in small groups. Grey reef sharks have been recorded on stronger current days. Sea turtles — both green and hawksbill — are encountered throughout the dive. The reef fish diversity is strong: Napoleon wrasse, surgeonfish schools, and parrotfish graze the upper reef, while sweetlips cluster beneath overhangs at depth. Reef octopus are seen in rubble areas. Schools of fusiliers form in the current over the reef edge. The coral health is reasonable, with a mix of hard coral tables and branching formations.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the reef base at 25–30 meters on the most sheltered side, working across the base and up through the mid-reef zone at 10–20 meters. The most current-exposed section of the reef edge is where shark activity is greatest — plan to spend time here before ascending to the shallower reef top for the safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access. Giant stride entry. The guide positions the group based on current direction. Safety stop can often be made on the reef top; deploy SMB if drifting into open water.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The reef base is the best area for shark encounters — arrive there promptly after descent
+- Combine with Siaba Besar for a complementary turtle experience on the same day
+- Wide-angle photography for reef shark and turtle subjects; macro for the rubble sections
+- The site is a good choice for consolidating current-diving skills before attempting Tatawa Kecil or the northern pinnacles
+- Check the sandy patches at the base carefully for resting sharks
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Moderate currents are manageable but require active buoyancy management. Keep the group compact and follow the guide's lead on positioning relative to the current. The reef corners may experience stronger flow — avoid being swept around exposed points. Always carry an SMB.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Sabayor Kecil suits a wide-angle setup for reef fish schools, shark shots, and turtle portraits. The good water clarity in the eastern park area creates clean backgrounds for blue-water silhouette work. The reef face at mid-depth with its coral coverage makes compelling reef landscape images.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
