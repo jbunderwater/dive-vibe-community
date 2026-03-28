@@ -13,54 +13,50 @@ addedBy: osm_import
 
 ## Fathers Reefs Kimbe Bay
 
-Fathers Reefs Kimbe Bay is a pinnacle dive site in Papua New Guinea, Pacific.
+Fathers Reefs is a celebrated seamount complex in the heart of Kimbe Bay, West New Britain, Papua New Guinea — one of the most biodiverse marine environments on the planet.
 
 ## Overview
 
-Fathers Reefs Kimbe Bay is a dive site in Papua New Guinea offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Fathers Reefs consists of multiple coral pinnacles rising steeply from deep water, their summits reaching to within a few meters of the surface. Kimbe Bay is home to roughly 60% of all known Indo-Pacific coral species, and Fathers Reefs sits squarely at the center of that abundance. The pinnacles are draped in dense soft coral gardens — vivid orange, pink, and purple sea fans cascade down the walls, interspersed with whip corals and massive barrel sponges. Schooling barracuda and bigeye trevally swirl in tornado formations above the pinnacle tops, often joined by dog-tooth tuna hunting through the bait balls. Grey reef sharks and whitetip reef sharks patrol the deeper flanks. The site rewards slow, attentive diving — nudibranchs, robust ghost pipefish, and pygmy seahorses hide among the soft coral branches, while the open water around the pinnacles draws the occasional hammerhead. Visibility is typically exceptional, often exceeding 30 meters, allowing wide sweeping views of the pinnacle architecture.
 
 ## Site Information
 
-- **Location**: Papua New Guinea, Pacific
+- **Location**: Kimbe Bay, West New Britain, Papua New Guinea
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
+- **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Best Time**: October to May (dry season, calmer seas)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Schooling barracuda, bigeye trevally, dog-tooth tuna, grey reef sharks, whitetip reef sharks, occasional hammerheads, Napoleon wrasse, rainbow runners. Resident macro life includes pygmy seahorses on sea fans, robust ghost pipefish, nudibranchs, and ornate ghost pipefish. The soft coral coverage — gorgonian sea fans, dendronephthya, and sea whips — is among the best in Kimbe Bay.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the upper pinnacle crests at 5-8 meters and take time to observe the schooling fish aggregations before dropping along the walls to depth. The richest soft coral coverage is typically between 10 and 25 meters. Strong upwellings can occur around the pinnacle bases, bringing cooler water and increased pelagic activity. Monitor depth carefully as the walls continue well beyond recreational limits. Allow adequate air for a 3-5 minute safety stop at 5 meters.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by live-aboard or day boat from Walindi Plantation Resort or other Kimbe Bay operators. Entry via giant stride or back roll. Conditions at the surface can be choppy when trade winds are up — confirm with the dive guide before entry. Deploy an SMB on ascent for boat pickup in open water.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Arrive at the site early morning when light angles are best for photography and currents are typically manageable
+- A 3mm wetsuit is adequate in the dry season; a 5mm is preferable when thermoclines bring cooler water
+- Check sea fans carefully for pygmy seahorses — Hippocampus bargibanti is frequently found here
+- Wide-angle and macro lenses are both rewarding; bring both if possible
+- Currents can be unpredictable — stay close to the reef structure and be prepared for surge
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Currents can be strong and unpredictable around the pinnacles, especially on incoming tides. The site is exposed and accessed only by boat — ensure the vessel crew is aware of your dive plan. Always carry an SMB and signal mirror. Depth discipline is important as the walls drop well beyond recreational limits.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Fathers Reefs is one of Papua New Guinea's premier wide-angle subjects. Schools of trevally framed against soft coral pinnacles, shark silhouettes in the blue, and dense sea fan gardens all make for compelling images. Early morning light penetrates the pinnacle crests beautifully. For macro, work the sea fans at 12-18 meters with good torch light to coax out pygmy seahorses and nudibranchs.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

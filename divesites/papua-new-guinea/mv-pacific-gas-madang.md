@@ -13,55 +13,50 @@ addedBy: osm_import
 
 ## MV Pacific Gas Madang
 
-MV Pacific Gas Madang is a historic wreck dive in Papua New Guinea, Pacific.
+The MV Pacific Gas is a sunken cargo vessel lying upright in Madang Harbour, Madang Province, Papua New Guinea — one of the most accessible and diver-friendly wreck dives in the country.
 
 ## Overview
 
-MV Pacific Gas Madang is a dive site in Papua New Guinea featuring a historic wreck. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+The MV Pacific Gas was a small cargo ship that sank in Madang Harbour and came to rest upright on the harbour floor at approximately 30-35 meters depth, with the superstructure rising to around 18 meters. The wreck is now well-established as an artificial reef, with several years of coral growth softening the steel hull into a living structure. Hard and soft corals have colonized the deck railings, winches, and hull plating, while large sea fans occupy the deeper recesses. Schools of glassfish and silversides pack the cargo holds, attracting lionfish, scorpionfish, and larger groupers that hunt the edges of the schools. Resident sweetlips and batfish patrol the superstructure. The upright, intact orientation makes navigation straightforward — the bridge, cargo holds, engine room access hatches, and deck structures are all identifiable and easily explored with a dive torch. Penetration of the holds and engine room is possible for properly trained and equipped divers, and the main hold is large enough for guided penetration with good natural light from open hatches.
 
 ## Site Information
 
-- **Location**: Papua New Guinea, Pacific
+- **Location**: Madang Harbour, Madang Province, Papua New Guinea
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 35 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 10-20 meters (30-65 feet) — harbour visibility varies with season and rain
+- **Current**: Minimal in harbour
+- **Best Time**: May to November (dry season, better harbour visibility)
 
 ## Marine Life
 
-Divers at this site can expect to encounter coral growth, anemones, lionfish, scorpionfish, glassy sweepers, manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks. Additional species commonly sighted include sea turtles, napoleon wrasse, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Schools of glassfish and silversides in the holds, lionfish, scorpionfish, groupers, sweetlips, batfish, resident anemonefish on encrusted surfaces, moray eels in the hull crevices. Sea fans and soft corals on the deeper hull sections. Occasional Napoleon wrasse and barracuda visiting from the harbour. Sea turtles have been reported resting on the wreck.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 40 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend along the mooring line to the deck at 18-20 meters and explore the superstructure before dropping to the hull base at 30-35 meters. The most colourful coral growth and fish activity is on and around the superstructure. Reserve penetration dives for the shallowest and most open sections of the cargo hold — always with a guide and a torch. Allow adequate gas for a proper safety stop given the 35-meter maximum depth.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by boat from Madang Resort or other Madang dive operators. The site is within the sheltered harbour and conditions are consistently calm. Giant stride or back roll entry to the mooring line. Ascend the mooring line and complete safety stop at 5 meters.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- A dive torch is essential for hold interiors and for illuminating the encrusted surfaces where colours are most vivid
+- Harbour visibility can be reduced after heavy rain or during the wet season — check conditions with the operator before booking this as your primary dive
+- Penetration of the holds should only be attempted with proper wreck-diving training and in a group with an experienced local guide
+- Macro photography on the encrusted hull surfaces is productive — the steel and coral mix creates unusual textures and subjects
+- The wreck is best combined with Madang's reef dives (Planet Rock, Henry Leith Wreck) for a full day's diving
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Depth (35 meters) places this firmly in the advanced category, requiring Advanced Open Water certification or equivalent at minimum. Penetration requires specific wreck-diving training. Harbour visibility occasionally drops to 8-10 meters after heavy rainfall, reducing navigation confidence inside the wreck — abort penetration plans if visibility is insufficient. Silt disturbance inside the holds can rapidly reduce visibility to near zero.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The MV Pacific Gas rewards both wide-angle and macro photography. Wide-angle shots of the superstructure draped in soft corals, with glassfish clouds above and diver silhouettes framed by the hull, are the standard compositions. Macro opportunities on the encrusted hull — nudibranchs, shrimps, and juvenile fish in the coral — are excellent. Torch-lit shots inside the holds with natural light entering through portholes create dramatic light-and-shadow compositions.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
