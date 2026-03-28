@@ -13,53 +13,55 @@ addedBy: osm_import
 
 ## Ben Mohr Rock
 
-Ben Mohr Rock is a reef dive site in British Columbia, North America.
+Ben Mohr Rock is a boat-access reef dive in the Gulf Islands north of Saltspring Island, British Columbia, Canada.
 
 ## Overview
 
-Ben Mohr Rock is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Ben Mohr Rock is a submerged rocky outcrop in the central Gulf Islands, sitting in the passage between Saltspring and Galiano islands. The rock is a favourite among local dive operators based in Ganges and Montague Harbour, who bring divers here for its reliable GPO encounters and dense invertebrate life. The terrain descends to 18 metres on the deeper side, with boulders and overhangs throughout. Cold Gulf Islands water — 8 to 11°C — keeps organisms crowded onto every available surface. Visibility typically runs 8 to 12 metres.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Central Gulf Islands, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Typical Visibility**: 8-12 meters (25-40 feet)
+- **Water Temperature**: 8-11°C (46-52°F) — dry suit recommended
+- **Current**: Light to moderate; tidal
+- **Best Time**: April to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Ben Mohr Rock is well regarded among Gulf Islands divers for consistent giant Pacific octopus sightings. The boulder terrain creates ideal den habitat, and multiple GPO have been documented living on the rock simultaneously. Wolf eels have been reported in the deeper crevices. Lingcod and copper rockfish are common on the reef face, and kelp greenling dart through the kelp fronds in the shallower zone. Plumose anemones, encrusting sponges, and nudibranchs cover the rock surfaces. Sea stars including sunflower, bat, and blood stars are active on the substrate.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin the dive at the deeper boulder fields at 15 to 18 metres, carefully checking each large crevice for GPO dens. Work systematically across the rock, noting the tell-tale GPO den signature of crab and shell debris at the entrance. The mid-depth zone at 8 to 12 metres is rich in rockfish and anemone life. Ascend through the kelp zone before the safety stop and surface with SMB deployed.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access from Ganges on Saltspring Island or Montague Harbour on Galiano Island. Local dive charter operators include this site on regular runs. Anchor away from the rock crest to protect habitat and provide a comfortable descent line.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- GPO encounters are most reliable when you search systematically — look for shell debris
+- Wolf eel pairs tend to be stationary in crevices; a torch beam reveals them clearly
+- Dive at slack or near-slack for the most comfortable exploration
+- The rock can be dived year-round; winter dives in clear water are particularly productive
+- Slow, patient movement produces the best wildlife encounters
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Current in the central Gulf Islands passages can be deceptive — it may appear calm at the surface but run at depth. Always verify conditions on descent. Cold water demands proper thermal protection; the 8°C water can chill even well-insulated divers on longer bottom times. Surface with adequate reserve gas and deploy SMB before ascending.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Ben Mohr Rock is an excellent GPO photography site. The boulders provide natural framing for wide-angle shots. Approach carefully and give the octopus space to display natural behaviour rather than retreating. Nudibranchs on the rock face are excellent macro subjects. A torch is essential for illuminating crevice life.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

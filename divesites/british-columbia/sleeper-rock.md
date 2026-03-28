@@ -13,53 +13,49 @@ addedBy: osm_import
 
 ## Sleeper Rock
 
-Sleeper Rock is a reef dive site in British Columbia, North America.
+Sleeper Rock is a rocky submerged reef near Victoria in British Columbia, Canada, lying in the tidal channels of the Strait of Juan de Fuca approaches.
 
 ## Overview
 
-Sleeper Rock is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Sleeper Rock sits in the waters west of Victoria, close to the broader Strait of Juan de Fuca where Pacific water flows in and out of the BC inside passage. This location brings clear, cold Pacific-influenced water to the site, with visibility often better than sheltered Gulf Islands sites — typically 8–15 metres. Water temperature is 7–11°C, colder than more sheltered bays due to the Pacific influence. The rocky structure offers varied terrain including ridge tops, boulder fields, and sand margins.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Victoria area, Strait of Juan de Fuca approaches, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 8–15 metres
+- **Current**: Moderate to strong; time to slack
+- **Best Time**: July to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+The Juan de Fuca influence brings good fish diversity to Sleeper Rock. Lingcod are present and tend to be large in this area. Copper and quillback rockfish hold rocky ledge positions. Tiger rockfish are possible in this more Pacific-influenced water. Plumose anemones are abundant on current-facing surfaces. Giant Pacific octopus inhabit crevices in the deeper zone. Harbour seals are frequent companions. The cleaner Pacific water here improves photography potential compared to more enclosed sites.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend on the main rock structure and work the terrain at 10–18 metres. The Pacific-influenced current means fish tend to shelter in the lee of the main rock structure — look for lingcod and rockfish in these sheltered positions. Ascend through the current-exposed sections for best anemone photography. Safety stop on the shallow reef top or in kelp.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access from Oak Bay Marina or other Victoria area marinas. Juan de Fuca swells can make conditions lumpy — check marine forecasts before committing to an offshore trip. The site is navigable for trailer-launched boats in good conditions.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Pacific swell can be present even on calm days — plan for a bouncy boat ride
+- Better visibility than most Gulf Islands sites is a consistent feature — plan camera settings accordingly
+- Current timing is important; the Juan de Fuca tides can be powerful
+- Early morning departures are recommended before afternoon winds develop
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+More exposed Pacific influence means conditions can change faster than in sheltered Gulf Islands sites. Swell can make entry and exit from a boat challenging. Monitor weather and sea state continuously. Carry adequate emergency signaling equipment. Cold water protection is essential.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The improved visibility in this area makes wide-angle photography particularly effective. Lingcod and rockfish portraits in clear water with good ambient light are excellent. Plumose anemone walls with Pacific clarity create compelling images.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

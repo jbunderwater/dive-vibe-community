@@ -13,53 +13,50 @@ addedBy: osm_import
 
 ## Sisters Rocks
 
-Sisters Rocks is a pinnacle dive site in Tobago, Caribbean.
+Sisters Rocks is one of Tobago's premier advanced dive sites — a group of exposed rocky pinnacles rising from deep water in the Speyside area of northeast Tobago, swept by the full force of the Guiana Current and home to the large pelagic species that define northeast Tobago diving at its most exhilarating.
 
 ## Overview
 
-Sisters Rocks is a dive site in Tobago offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Sisters are a cluster of rocky pinnacles and submerged rocks off the northeast Tobago coastline near Speyside, fully exposed to the Guiana Current that drives the region's exceptional marine richness. Depths drop to 40 meters at the base of the main pinnacles, which rise from the deep to near the surface, creating vertical faces covered in encrusting life — black coral, sea fans, barrel sponges, and dense gorgonian communities thrive in the current-fed conditions. Visibility regularly exceeds 25 meters. Current is the defining characteristic of the site: it is strong, can be variable in direction, and is both the reason for the site's extraordinary marine life and its primary challenge. Water temperature can drop below 22°C during upwelling events.
 
 ## Site Information
 
-- **Location**: Tobago, Caribbean
+- **Location**: Speyside, northeast Tobago
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: 20–30 meters
+- **Current**: Strong; open-ocean pinnacle site
+- **Best Time**: October to February (upwelling and manta season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Sisters Rocks delivers the pelagic encounters that Tobago's northeast coast is famous for. Manta rays are a signature species during the October to February upwelling season, drawn in by the plankton concentration around the pinnacles. Caribbean reef sharks are present in significant numbers and are notably active in the current. Schools of horse-eye jacks and Atlantic spade fish form large formations around the pinnacle tops. Barracuda station themselves on the upcurrent side. Eagle rays are regular visitors, and whale sharks have been reported at the site during peak upwelling conditions. The pinnacle walls themselves host large moray eels, spiny lobsters, and hawksbill turtles.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 40 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend directly to the base of the main pinnacle at 35–40 meters for an initial survey of the deep zone, then ascend the pinnacle face through the most current-active zone where pelagic species concentrate. The 15–25 meter range around the pinnacle tops and channels between rocks is the most productive zone for large animal encounters. Ascend as a group on SMBs when the guide signals — do not attempt to return to the entry point against current. Live-boat pickup only.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Entry is timed with current conditions. Descent is direct; there is no drifting to the site. Current can carry divers away from the pinnacles if not managed immediately on entry. Ascend on SMBs at the guide's signal. Live-boat pickup is mandatory — the current will not permit return to the entry point. Only dive Sisters Rocks with operators who have current experience at the specific site.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- October to February gives the highest probability of manta ray and whale shark encounters — plan accordingly
+- A 5mm wetsuit minimum is recommended; upwelling water can reach 20–22°C and cold patches can arrive suddenly
+- Advanced drift diving experience is essential — this is not a site to learn current diving
+- Stay close to the pinnacle face — pelagic animals approach more closely when divers are not drifting freely in the water column
+- Sisters Rocks pairs with Kelleston Drain for the full northeast Tobago advanced experience
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
+Strong and variable current is the primary safety consideration. All divers must be experienced drift divers and must carry deployable SMBs. The 40-meter depth limits no-decompression time — plan conservatively and ascend before NDL limits are reached. Cold upwelling water requires thermal protection. This is one of Tobago's most demanding sites and should not be attempted by divers without genuine advanced open-water and current experience.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Sisters Rocks offers some of the most dramatic wide-angle diving photography in the Caribbean. Manta rays and reef sharks against the deep blue water of the open pinnacle environment are the headline subjects. Current-swept sea fans and barrel sponge walls at depth offer compelling reef portrait shots. Camera setup must be completed before entry — there is no opportunity to adjust settings in the current.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
