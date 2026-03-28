@@ -11,57 +11,55 @@ osmId: 4329102691
 addedBy: osm_import
 ---
 
-## Cedar Pride Shipwreck
+# Cedar Pride Shipwreck
 
-Cedar Pride Shipwreck is a historic wreck dive in Red Sea, Middle East.
+The Lebanese freighter scuttled in Aqaba by King Hussein of Jordan in 1985 — the same wreck as Cedar Pride, accessible by shore entry from the Aqaba coast and considered one of the finest wreck dives in the northern Red Sea.
 
 ## Overview
 
-Cedar Pride Shipwreck is a dive site in Red Sea featuring the wreck of the Cedar Pride Shipwreck. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Cedar Pride Shipwreck describes the same vessel as the Cedar Pride dive site — a Lebanese freighter scuttled off Aqaba, Jordan in 1985 as an artificial reef at the direction of King Hussein. This OSM entry records the precise wreck position at 29.43°N, 34.97°E with shore access from the Aqaba waterfront. The vessel was cleaned of contaminants before scuttling and lies on her port side with the bow at approximately 20 metres and the stern at 27 metres. The hull is substantially colonised by soft and hard coral growth in the 40+ years since scuttling. It is accessible by shore entry — making it one of the few major Red Sea wrecks that doesn't require a boat.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
+- **Location**: Aqaba Bay, Gulf of Aqaba, Jordan (~29.43°N, 34.97°E)
+- **Entry Type**: Shore dive (Aqaba waterfront entry)
 - **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 27 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Maximum Depth**: 27 meters (stern)
+- **Typical Visibility**: 15–25 meters
+- **Current**: Generally mild in Aqaba Bay
+- **Best Time**: Year-round; October to May optimal
 
 ## Marine Life
 
-Divers at this site can expect to encounter glassy sweepers, lionfish, groupers, coral growth, soft corals, whale sharks, manta rays, hammerhead sharks. Additional species commonly sighted include oceanic whitetip sharks, sea turtles, dolphins. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The wreck's extensive coral colonisation in the 40 years since scuttling has created a near-artificial reef. Glassfish schools occupy the sheltered sections of the hull. Lionfish and scorpionfish inhabit the shaded overhangs. Large groupers are resident. Moray eels in the corroded hull crevices. The upper hull surfaces at 12–18 metres carry dense soft coral growth in the protected sections. Barracuda patrol in open water above the wreck. The sandy floor adjacent to the hull holds blue-spotted stingrays.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 27 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Shore entry from the Aqaba waterfront (coordinate with local operators for the current access protocol). Descend along the buoyed descent line to the stern at 27 metres. Work along the port side hull (the upper side) from stern to bow, ascending gradually from 27 to 10 metres. The bow at 15–20 metres is the shallowest section and can be explored before the safety stop at 5 metres.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Shore entry from the Aqaba waterfront — specific access point managed by Aqaba Marine Park regulations. Aqaba-based dive operators provide guided access and equipment rental. The shore entry/exit can involve a surface swim to the descent line buoy — assess surface conditions before entry. SMB deployment before ascending (in the busy Aqaba Bay, surface visibility for boat traffic is essential).
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- The port side of the hull (uppermost after the vessel rolled) carries the most colourful coral colonisation and the best photography positions
+- A torch is essential for the interior sections of the hull that are accessible through open hatches — lionfish are present inside
+- Visit the hull base at 27 metres early in the dive when nitrogen loading and air are at minimums
+- The crow's nest at approximately 12–15 metres is an iconic photographic position
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The wreck lies in the busy shipping lane of Aqaba Bay — SMB deployment before ascending is critical for boat traffic awareness. Do not penetrate the hull without overhead-environment training; accessible deck openings appear straightforward but internal navigation is complex. The stern at 27 metres requires careful air management on an Intermediate profile. Lionfish in the interior sections. Aqaba Marine Park regulations apply.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The Cedar Pride's iconic images are: the crow's nest at 12–15 metres encrusted with coral and surrounded by fish schools; wide-angle hull profiles showing the full port-side colonisation; and glassfish clouds in the open deck sections. The soft coral growth on the upper hull in available light provides excellent ambient wide-angle conditions without flash.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

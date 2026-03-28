@@ -46,7 +46,7 @@ Extended liveaboard access only, on itineraries of 12–18 nights covering the d
 
 - This is expert-level liveaboard diving; divers should have 100+ dives and experience in open-ocean conditions
 - Research the specific liveaboard operator's safety protocols for remote southern itineraries before booking
-- The exceptional clarity and pristine reef health make this one of the most rewarding diving experiences in the Red Sea for photographers
+- The exceptional clarity and pristine reef health make this one of the Red Sea's finest photography sites — few locations combine the visibility and subject diversity found here
 - Carry full safety kit: SMB, dye marker, whistle, and surface signalling mirror
 - Winter months give the best pelagic encounter probability
 

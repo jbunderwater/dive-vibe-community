@@ -46,7 +46,7 @@ Access is by day-boat from Soma Bay marina or hotel jetties. Entry is via giant 
 
 - Morning dives offer the best light for photography in the shallower coral gardens
 - Watch the sandy patches at the reef base for camouflaged critters like stonefish and flatheads
-- The site is accessible year-round, though summer conditions bring warmer water and more jellyfish
+- The site is accessible year-round, though summer conditions bring warmer water and reduced visibility at times
 - Respect the no-touch policy — the fire coral in this reef is abundant
 - Carry an SMB for your safety stop
 
