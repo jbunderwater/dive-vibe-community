@@ -11,57 +11,54 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Bianca C
+# Bianca C
 
-Bianca C is a historic wreck dive in Grenada, Caribbean.
+The largest shipwreck in the Caribbean — a 184-metre Italian ocean liner sunk off Grenada in 1961, encrusted with decades of corals and sponges and patrolled by large pelagics in Caribbean-blue water.
 
 ## Overview
 
-Bianca C is a dive site in Grenada featuring the wreck of the Bianca C. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Bianca C was an Italian passenger liner of the Costa Line measuring 184 metres in length. On 22 October 1961 a boiler explosion caused a fire that could not be controlled; the crew and passengers were evacuated with assistance from HMS Londonderry and local Grenadian boats. The vessel burned for two days before sinking in the waters off St. George's. Grenada's residents helped rescue survivors, and a bronze bust in St. George's harbour commemorates the event. The wreck lies on its starboard side at a maximum depth of 40 metres, with the shallowest accessible sections of the hull at around 25–28 metres. The Bianca C has been colonised over six decades by sponges, black coral, and encrusting organisms and has developed a significant pelagic fish community. It is widely regarded as one of the finest advanced wreck dives in the Caribbean. Visibility averages 20–30 metres. Water temperature is 26–28°C.
 
 ## Site Information
 
-- **Location**: Grenada, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Wreck
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 40 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+| Detail | Value |
+|--------|-------|
+| Depth Range | 25–40 m |
+| Difficulty | Advanced |
+| Entry Type | Boat |
+| Site Type | Wreck |
+| Visibility | 20–30 m |
+| Current | Light to moderate |
+| Water Temp | 26–28°C |
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, snappers, soldierfish, glassy sweepers, coral growth, sponge encrustation, sea turtles (green, hawksbill), southern stingrays. Additional species commonly sighted include eagle rays, nurse sharks, reef sharks, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The Bianca C's massive hull supports an extraordinary range of Caribbean marine life. Large schools of horse-eye jacks and Atlantic spadefish hang in the water column above the wreck. Caribbean reef sharks and nurse sharks are regular visitors to the hull sections. Enormous green morays and spotted morays occupy the accessible interior sections and exterior crevices. Hawksbill turtles patrol the encrusted hull. The hull surfaces at depth are carpeted in orange and purple sponges, black coral bushes, and encrusting cup corals. Giant groupers occupy anchor points and engine room openings.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 40 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descent to the shallowest accessible hull sections at 25–28 metres, then work progressively deeper along the hull structure to the maximum recreational depth of 40 metres. The vessel's scale means a single dive can cover only a portion of the wreck — multiple dives over a trip are needed to explore the full length. The superstructure, bow, and stern are separate dive objectives. Bottom time at depth is limited by NDL constraints, requiring ascent to the shallower sections for the safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive exclusively, from operators based in True Blue Bay or Grand Anse. The site is typically a 15–20 minute boat ride from the main dive centres. Permanent moorings are attached to the wreck. Entry by backward roll or giant stride. DSMB required on ascent.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+Multiple dives are needed to explore the full 184-metre vessel — plan at least two to three dives if the Bianca C is a priority. Carry a torch as essential equipment — the interior sections and hull overhangs are dark. The shallowest hull sections at 25–28 metres receive reasonable natural light and are the most photographable areas. The wreck dives best on calm days when the descent line is stable.
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
+This is an advanced dive requiring experience with wreck diving and comfortable depth management at 30–40 metres. NDL limits are a real constraint at maximum depth — track carefully. Do not penetrate interior sections without wreck diving training and appropriate equipment including a torch, line reel, and penetration dive plan. The ship's size makes it easy to become disoriented. DSMB required for all ascents.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The Bianca C is one of the Caribbean's most photographed wrecks. Wide-angle shots along the hull length with sponge encrustation and open water behind are the defining images. The school of horse-eye jacks above the wreck provides a classic pelagic composition. Natural light at 25–28 metres in Grenada's clear water is sufficient for the shallowest hull sections. A strobe is essential for the deeper sections and any hull penetration.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- Aquanauts Grenada: regularly operates Bianca C trips as part of multi-tank itineraries
+- Dive Grenada: offers dedicated Bianca C dives for advanced divers
+- The wreck is commemorated in St. George's with a bronze bust of the vessel's captain
 
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

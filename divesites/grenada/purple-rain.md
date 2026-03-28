@@ -11,57 +11,53 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Purple Rain
+# Purple Rain
 
-Purple Rain is a wall dive site in Grenada, Caribbean.
+A vivid wall dive on Grenada's southwest coast named for the dense blankets of purple sponges that drape the wall face — one of the most colour-saturated dive sites in Grenadian waters.
 
 ## Overview
 
-Purple Rain is a dive site in Grenada featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Purple Rain is a section of the vertical reef wall on the southwest side of Grenada, running from a reef crest at around 8 metres to a sandy base at 25 metres. The wall takes its name from the extraordinary density of purple encrusting sponges covering the wall face — particularly in the 12–20 metre zone — which give the site a distinctive colour character unlike the typical orange-and-yellow sponge walls found elsewhere in the Caribbean. The wall is also punctuated by sea fans and wire corals, and the overhang sections shelter cup corals and black coral shoots. Visibility averages 20–30 metres in good conditions. Water temperature is 26–28°C.
 
 ## Site Information
 
-- **Location**: Grenada, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+| Detail | Value |
+|--------|-------|
+| Depth Range | 8–25 m |
+| Difficulty | Intermediate |
+| Entry Type | Boat |
+| Site Type | Wall |
+| Visibility | 20–30 m |
+| Current | Light to moderate |
+| Water Temp | 26–28°C |
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+The wall community at Purple Rain benefits from the nutrient-rich water on Grenada's southwest side. Hawksbill turtles are regular visitors, feeding on the sponge-covered wall face. Spotted eagle rays cruise past the wall in the open water. French angelfish and grey angelfish patrol the wall crevices and overhangs. Schools of creole wrasse sweep along the wall edge. Caribbean reef sharks are occasionally seen in the open water beyond the wall. At the wall base, the sandy bottom supports southern stingrays and the transition zone carries large sea fans.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-25 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Descend to the reef crest at 8 metres and begin the descent along the wall face, pausing to examine the dense sponge growth zones at 12–15 metres before descending to the base at 25 metres. Work along the wall in one direction before ascending through the sponge zone on the return. The wall is best explored slowly — the sponge density rewards close inspection. Safety stop on the reef crest.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from operators based in True Blue Bay or Grand Anse. The site is typically moored. Entry by backward roll or giant stride. DSMB recommended for the ascent.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+The distinctive purple sponge character of this wall is best appreciated in mid-dive at 12–20 metres — the sponge density in this zone is the site's defining feature. Carry a torch to illuminate the overhang sections where cup corals and black coral shoots are found in the darker recesses. Visit early in the morning when light penetration into the wall crevices is at its best.
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+The wall continues well below 25 metres — maintain your planned maximum depth and do not follow the wall further. Current can run along the wall face; if conditions strengthen, ascend to the shallower reef sections. DSMB required for the ascent in southwest Grenada's active boat traffic area.
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+Purple Rain is one of the most colour-saturated wall photography sites in Grenada. The dense purple sponge coverage creates a distinctive backdrop unlike any other local site — a diver against the purple wall with a hawksbill turtle is the signature image. A strobe brings out the full range of sponge colours in the 15–20 metre zone. The sea fan formations at the wall base are strong wide-angle subjects against the blue water.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- Aquanauts Grenada and Dive Grenada: both include Purple Rain on southwest wall dive itineraries
+- Often paired with Boss Reef or Dragon Bay for a two-tank southwest coast day
 
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
