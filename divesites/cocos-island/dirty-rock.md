@@ -11,55 +11,47 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Dirty Rock
+# Dirty Rock
 
-Dirty Rock is a pinnacle dive site in Cocos Island, Pacific.
+Cocos Island's best all-round dive site, a guano-covered rock delivering hammerheads, mantas, dolphins, and the endemic rosy-lipped batfish
 
 ## Overview
-
-Dirty Rock is a dive site in Cocos Island offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Dirty Rock is a low rocky head roughly 15 meters long that rises 3-5 meters above the surface, perpetually coated in seabird guano that gives the site its name. Below the waterline, volcanic pinnacles and boulder formations extend into deep water, with a two-tiered pinnacle on the western side rising from depth to approximately 18 meters. A cleaning station on the southern face at around 27 meters draws hammerhead sharks in large numbers. Dirty Rock consistently produces the widest variety of pelagic species of any Cocos Island dive site, making it many divers' favorite overall.
 
 ## Site Information
-
-- **Location**: Cocos Island, Pacific
+- **Location**: Central Cocos Island, Costa Rica
 - **Entry Type**: Liveaboard
 - **Site Type**: Pinnacle
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 35 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
+- **Typical Visibility**: 15-30 meters
 - **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Best Time**: June to December for peak hammerhead activity; year-round for general species diversity
 
 ## Marine Life
-
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Dirty Rock offers the broadest species lineup at Cocos Island. Scalloped hammerhead sharks appear in schools of hundreds at the cleaning station on the southern face. Galapagos sharks patrol the pinnacles. Gargantuan schools of bigeye jacks form swirling bait balls. Whitetip reef sharks rest in fissures between boulders. Manta rays, marble rays, eagle rays, and whale sharks are regular visitors. Green sea turtles feed along the rocks. Leather bass and large groupers inhabit the deeper structure. Bottlenose dolphins regularly join divers during safety stops. A small cave system holds lobsters. On the deeper slopes, look for the endemic Cocos rosy-lipped batfish, a bizarre red-lipped bottom-dweller found nowhere else on earth.
 
 ## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 35 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descent is along the mooring line to the main rock formation. The cleaning station at 27 meters on the southern face is the primary destination for hammerhead viewing. The two-tiered western pinnacle rising to 18 meters offers a multi-level dive profile. Shallower areas around the rock base at 10-15 meters are productive for rays, turtles, and reef life. Plan bottom time carefully as multiple depth levels encourage profiles that consume air quickly.
 
 ## Entry and Exit
-
-This site can be accessed from shore or by boat. Shore entry follows established paths to the water. Boat access is available through local dive operators. Check conditions and choose the most appropriate entry method based on weather and sea state.
+Negative entry from the panga onto the descent line. Current can be strong but is generally more manageable than Bajo Alcyone. Exit via ascent on the mooring line with pickup by the panga. Safety stops at 5 meters often feature dolphin encounters.
 
 ## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Plan multiple dives here; the species variety rewards repeat visits
+- Explore both the southern cleaning station at depth and the shallower western pinnacle
+- Check the deeper slopes on the north side for rosy-lipped batfish
+- Afternoon dives can produce black triggerfish and convict tang spawning activity
+- Keep an eye on the blue water during safety stops for dolphins and mantas passing through
 
 ## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Current strength varies significantly and can shift direction during a dive. Maintain visual contact with the rock formations and your group. The cleaning station depth of 27 meters means careful air management is needed if you also want to explore the shallower pinnacle. Carry an SMB and signaling devices. All divers should be comfortable with negative entries and current diving.
 
 ## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Dirty Rock is Cocos Island's most versatile photography site. Wide-angle for hammerhead schools, jack tornados, and manta fly-bys. The dolphin encounters during safety stops provide unique split-level opportunities. The rosy-lipped batfish on deeper slopes is a macro prize for patient photographers with remaining air. Morning light on the western pinnacle produces the best ambient conditions.
 
 ## Additional Resources
-
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
