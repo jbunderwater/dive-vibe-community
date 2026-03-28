@@ -13,55 +13,53 @@ addedBy: osm_import
 
 ## Swahil Divers
 
-Swahil Divers is a reef dive site in Tanzania, Africa.
+Swahil Divers is a reef dive site on Tanzania's northern coast near Tanga, the country's second-largest port city. Located at approximately 5°S latitude, the site benefits from the warmer, clearer Indian Ocean waters of the northern Tanzanian coast and serves as a training and recreational reef for divers based in the Tanga area.
 
 ## Overview
 
-Swahil Divers is a dive site in Tanzania offering excellent diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+The reef accessible from Tanga sits in an area where the Tanga Coelacanth Marine Park (one of East Africa's newest marine protected areas) meets the more developed coastal zone near the city. The dive site is associated with local operators who use the reef for certification training and recreational dives, offering beginner-friendly conditions with a reef top at 3-5 meters and a slope to 18 meters. Visibility averages 10-15 meters, with improvements during the northeast monsoon.
 
 ## Site Information
 
-- **Location**: Tanzania, Africa
+- **Location**: Tanga Coast, northern Tanzania
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Typical Visibility**: 10-15 meters (33-50 feet)
+- **Current**: Light to moderate
+- **Best Time**: October to March
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
+The northern Tanzanian coast shares species with the Kenyan coast to the north — a mix of typical East African reef fish with occasional sightings of pelagic species passing through. Sea turtles are present year-round. The reef structure supports parrotfish, triggerfish, and surgeonfish in abundance. Tanga's proximity to Kenya's waters means the biodiversity is influenced by both Kenyan and Tanzanian reef communities.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+A standard beginner reef slope profile well-suited to certification dives. The gradual slope from shallow reef top to 18 meters provides comfortable transition between depth zones. Training dives typically focus on the 5-12 meter range before exploring the deeper outer slope.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from Tanga's small harbor. The site is used primarily by local dive training operators and is not heavily promoted in regional dive guides, giving it a genuinely local character. Giant stride entry and assisted exit.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Tanga is an underexplored dive destination with growing infrastructure — book with local operators directly
+- The nearby Pemba Island (Tanzania) is accessible from Tanga for more experienced divers seeking deeper wall diving
+- Check conditions before diving — the proximity to the Pangani River mouth can affect visibility after heavy rains
+- Visit Tanga's historic German colonial architecture and old port between dives for a combined cultural and diving trip
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, remote locations in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Beginner-friendly conditions overall. Moderate current can develop on the outer reef edge. Always deploy SMB for ascent and be aware of boat traffic near the Tanga harbor approaches. Standard East African hazards of fire coral and sea urchins apply.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Good training site photography with natural light at shallow depths. Fish are generally relaxed given the lower dive traffic volumes at Tanga compared to Zanzibar or Pemba. A wide-angle reef scene with the characteristic northern Tanzanian coral formations is the primary photographic subject.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

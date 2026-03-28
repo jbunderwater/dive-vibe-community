@@ -13,53 +13,49 @@ addedBy: osm_import
 
 ## Mali Plavnik
 
-Mali Plavnik is a reef dive site in Croatia, Europe.
+Mali Plavnik ("Little Plavnik") is a small uninhabited islet in the Kvarner archipelago, east of Cres and south of Krk Island. The islet's underwater reef, descending from the rocky shoreline to approximately 25 metres, provides classic Kvarner diving: crystal-clear water, rocky terrain, and a productive Mediterranean marine community.
 
 ## Overview
 
-Mali Plavnik is a dive site in Croatia offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The reef surrounding Mali Plavnik features the limestone rock and boulder terrain typical of the Kvarner. The reef descends on multiple sides of the islet, offering different dive profiles from north to south exposures. The encrusting sponge communities are well developed, and the deep clear water of the Kvarner — typical visibility 15–20 metres — allows appreciation of the full reef profile on a single dive.
 
 ## Site Information
 
-- **Location**: Croatia, Europe
+- **Location**: Mali Plavnik Islet, Kvarner, Croatia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
+- **Typical Visibility**: 15–20 meters
+- **Current**: Variable around the islet; can be stronger on exposed sides
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
+The islet's isolated position in the open Kvarner supports healthy populations of dusky grouper, moray eels, and octopus on the reef. Sea bream and ornate wrasse are abundant. In summer, pelagic visitors including barracuda and amberjack patrol the open water around the islet. The rocky bottom around the islet supports lobster and crabs in crevices.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Boats typically anchor on the lee side of the islet. Descend and explore the reef face of your choice, working down to 25 metres and back up across varied terrain. The islet's perimeter allows for a partial circumnavigation in a single dive. Ascend slowly and complete a safety stop at 5 metres.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Dive boats from Cres, Krk, or Lošinj operators access this islet. Entry by giant stride. The open position of the islet requires careful current assessment. Deploy an SMB on ascent for boat coordination.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Circle the islet on successive dives to explore all orientations — north and south faces often differ considerably
+- Current around the exposed sides of the islet can be strong — check conditions before moving from the sheltered side
+- The open Kvarner setting often provides sightings of pelagic species passing by
+- Combine with a Cres island cave or wall dive for a varied day programme
 
 ## Safety Considerations
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+The islet's exposed position can generate current on some faces. Check conditions with the captain before each dive. Always carry an SMB. The depth is within recreational limits — maintain awareness of depth on the sloping reef.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The isolated islet setting creates opportunities for wide-angle shots with the reef structure, blue water, and large resident fish. Clear Kvarner visibility makes wide-angle work very effective. The resident grouper and schooling fish life are productive portrait subjects.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

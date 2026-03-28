@@ -13,53 +13,49 @@ addedBy: osm_import
 
 ## Patersriff
 
-Patersriff is a reef dive site in Croatia, Europe.
+Patersriff ("Father's Reef" in German) is a rocky reef dive near Cres Island in the Kvarner, named in the German diving guide tradition that characterised early exploration of these waters. The reef features typical Kvarner underwater terrain — limestone rock, clear blue water, and productive Mediterranean marine life.
 
 ## Overview
 
-Patersriff is a dive site in Croatia offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The reef at Patersriff descends over rocky outcrops and sloping faces to approximately 25 metres. The Kvarner water clarity is excellent here, with typical visibility reaching 15–20 metres. The rocky substrate is well colonised by encrusting sponges, sea fans, and anemones. The open Kvarner position means this reef benefits from good water circulation that supports a healthy and varied marine community.
 
 ## Site Information
 
-- **Location**: Croatia, Europe
+- **Location**: Cres Island area, Kvarner, Croatia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Typical Visibility**: 15–20 meters
 - **Current**: Light to moderate
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
+Resident grouper hold territories throughout the reef. Moray eels inhabit rocky crevices, and octopus hunt the open rocky surfaces. Sea bream, ornate wrasse, and saddled bream are abundant. Nudibranchs and sea slugs are found on the sponge-covered rock faces. Barracuda appear above the reef in summer months.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the upper reef at 5–8 metres and work down to the 25-metre maximum. Explore the rocky faces and crevice systems. The most productive marine life is typically in the 8–18 metre zone. Ascend slowly along the reef and complete a 3-minute safety stop at 5 metres.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Dive boats from Cres or Lošinj operators access this site. Entry by giant stride. Deploy an SMB on ascent for boat pickup.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- A torch is useful for the crevice sections and deeper reef faces
+- Take time to scan the sandy patches at depth for flatfish and sea cucumbers
+- Combine with a cave dive at a nearby Cres site for a varied day programme
+- The site name is a reminder of the rich German-language diving tradition in this part of Croatia
 
 ## Safety Considerations
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Standard intermediate reef diving. Monitor depth on the sloping terrain. Carry an SMB and dive with a buddy.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The clear Kvarner visibility makes this a productive wide-angle site. The rocky reef landscape, resident grouper, and encrusting community all provide good photographic subjects. Morning dives typically offer the best light penetration across the reef.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

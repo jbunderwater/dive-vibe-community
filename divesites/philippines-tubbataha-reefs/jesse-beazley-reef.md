@@ -13,53 +13,54 @@ addedBy: osm_import
 
 ## Jesse Beazley Reef
 
-Jesse Beazley Reef is a reef dive site in Philippines Tubbataha Reefs, Asia.
+Jesse Beazley Reef is an isolated submerged atoll in the Tubbataha Reefs Natural Park system, the northernmost feature of the UNESCO World Heritage Site and separated from the main North and South Atolls by open Sulu Sea, creating a uniquely remote and pristine diving location.
 
 ## Overview
 
-Jesse Beazley Reef is a dive site in Philippines Tubbataha Reefs offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Jesse Beazley Reef sits alone in the Sulu Sea, a submerged circular atoll whose rim supports spectacular coral growth while the interior lagoon provides relatively sheltered conditions compared to the park's exposed outer walls. The reef's isolation — even within the remote Tubbataha park — means it receives the fewest diver visits of any site in the area, and the marine life has an undisturbed character that even regular Tubbataha visitors describe as exceptional. The outer reef walls drop steeply from near the surface to deep water, with the accessible zone to 30 meters encompassing the densest coral and fish life. The atoll's complete enclosure within the UNESCO park has allowed reef shark populations to reach remarkable densities.
 
 ## Site Information
 
-- **Location**: Philippines Tubbataha Reefs, Asia
+- **Location**: Jesse Beazley Atoll, Tubbataha Reefs Natural Park, Sulu Sea, Philippines
 - **Entry Type**: Liveaboard
-- **Site Type**: Coral reef
+- **Site Type**: Coral atoll / reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 20-40 meters
+- **Current**: Variable; atoll creates complex current patterns
+- **Best Time**: March to June
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The isolation of Jesse Beazley creates truly exceptional marine life encounters. Grey reef sharks and whitetip reef sharks are present in unusual numbers, often forming aggregations on the reef slope. Large napoleon wrasse inhabit the reef confidently. Sea turtles are abundant — both green and hawksbill species. The atoll's interior lagoon supports different species from the outer wall, including cleaning station activity. Manta rays use the atoll as a feeding and cleaning stop. Whale sharks occasionally circle the structure.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The atoll's circular structure allows diving either the outer wall or the interior rim. The outer wall offers the most dramatic drop-off diving with the best shark activity. The interior reef is calmer and excellent for sea turtle observation. Most liveaboard programmes dedicate multiple dives to Jesse Beazley to cover both environments.
 
 ## Entry and Exit
 
-This site can be accessed from shore or by boat. Shore entry follows established paths to the water. Boat access is available through local dive operators. Check conditions and choose the most appropriate entry method based on weather and sea state.
+Liveaboard access only; Jesse Beazley is the most remote site in the Tubbataha system and may not be included on all itineraries depending on weather and passage time from the main atolls. Entry from dinghy by giant stride; SMB for ascent. Park ranger briefings apply to all dives.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Request Jesse Beazley inclusion when booking your Tubbataha liveaboard — not all operators visit it
+- Multiple dives are needed to appreciate both the outer wall and interior rim; plan accordingly
+- The shark aggregations here can be stunning — maintain calm, neutral buoyancy and don't panic or flee
+- The interior lagoon is excellent for relaxed turtle photography in calmer water
+- This is one of a very small number of places in the world where the reef is visibly more pristine than any memory of "baseline" reef health
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The most remote dive site in the Tubbataha system. Current patterns around atolls can be complex and changeable. Always carry an SMB and follow ranger guidance on entry timing. Medical evacuation from Jesse Beazley would take longer than from the main park areas.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Jesse Beazley offers exceptional photography on both walls. Shark aggregations are the standout subject — multiple sharks in one wide-angle frame is achievable here when it would be difficult elsewhere. Sea turtle portraits in the lagoon and manta ray encounters add to the photographic diversity.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

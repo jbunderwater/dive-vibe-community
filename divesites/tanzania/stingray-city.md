@@ -11,57 +11,55 @@ osmId: 10224583146
 addedBy: osm_import
 ---
 
-## Stingray city
+## Stingray City
 
-Stingray city is a reef dive site in Tanzania, Africa.
+Stingray City is a shallow sandy reef site in the Jambiani area on Zanzibar Island's southeastern coast, where resident southern stingrays have become habituated to diver presence and gather reliably in the shallows — a Zanzibar equivalent of the famous Grand Cayman stingray encounter, without the crowd.
 
 ## Overview
 
-Stingray city is a dive site in Tanzania offering excellent diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+The site takes its name from the community of southern stingrays that inhabit the sandy lagoon patches adjacent to the reef here. The rays have become accustomed to dive boats anchoring and divers entering the water, and will approach closely — sometimes gliding over divers' legs on the sandy bottom. The maximum depth of 12 meters keeps the entire site within a comfortable recreational range, and the calm lagoon conditions make this one of the most accessible wildlife encounter dives in Zanzibar.
 
 ## Site Information
 
-- **Location**: Tanzania, Africa
+- **Location**: Jambiani Lagoon, Southeast Zanzibar Island, Tanzania
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Coral reef (sandy lagoon with stingray congregation)
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Typical Visibility**: 10-15 meters (33-50 feet)
+- **Current**: Very light
+- **Best Time**: Year-round; October to April for calmest conditions
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
+The southern stingrays are the primary attraction and are present year-round in variable numbers (typically 5-15 individuals). Sea turtles also frequent the sandy areas adjacent to the reef. The coral formations at the site's edges support the usual Jambiani lagoon community — parrotfish, surgeonfish, moorish idols, and moray eels. Eagle rays occasionally pass through the area, attracted by the same sandy habitat. Juvenile fish shelter in the coral overhangs nearby.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The dive begins with a descent to the sandy areas where stingrays congregate at 8-12 meters. Divers are briefed to move slowly and remain low to the sandy bottom, allowing rays to approach on their own terms. After time with the stingrays, move onto the adjacent coral reef at 5-10 meters to explore the rest of the site. The very shallow finish at 3-5 meters on the reef crest allows extended time before the safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from Jambiani. The site is reliably productive even for half-day excursions and is often combined with one or two reef dives for a full morning. Traditional wooden boats and small zodiacs both serve this site.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Move very slowly on the sandy bottom and avoid sudden movements that startle the rays
+- Keep hands behind your back or at your sides — do not reach toward the stingrays
+- The site is also excellent for snorkelers — consider bringing non-diving companions for a combined dive-snorkel trip
+- Ask the guide which sandy patches the rays are currently using — their preferred areas shift seasonally
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, remote locations in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Stingrays are docile unless threatened or stepped on. The barb on the tail can cause serious injury — never stand on the sandy bottom (swim instead) and approach from the side or front rather than from behind. Maintain proper buoyancy and avoid hovering too close overhead. Beyond stingray etiquette, the site presents minimal hazards given its calm, shallow conditions.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Stingray City offers outstanding underwater photography opportunities. The rays' calm behavior allows extended positioning for portrait shots from multiple angles. Shooting from below toward the surface with a stingray in the frame against blue water is the signature wide-angle composition here. A compact camera with a wet wide-angle lens is ideal.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

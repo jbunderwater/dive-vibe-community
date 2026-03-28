@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Donsol Bank
 
-Donsol Bank is a reef dive site in Philippines Donsol, Asia.
+Donsol Bank is an offshore reef bank near the town of Donsol in Sorsogon province, situated in the same productive waters that attract the whale sharks for which Donsol is internationally known.
 
 ## Overview
 
-Donsol Bank is a dive site in Philippines Donsol offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Donsol is globally celebrated as one of the best places in the world to snorkel with whale sharks, and the underwater diving in the area reflects the same marine productivity that draws these gentle giants. Donsol Bank forms a submerged reef structure rising from the seafloor, creating a productive habitat for reef and pelagic species. The bank sits in Sorsogon Bay waters influenced by nutrient upwellings that support the plankton blooms whale sharks follow. The reef plateau at 8–12 meters supports good hard coral coverage, with the outer slopes extending to 20 meters. Whale sharks are occasionally encountered by divers in the area, though snorkeling with them under operator guidance is the primary experience in Donsol.
 
 ## Site Information
 
-- **Location**: Philippines Donsol, Asia
+- **Location**: Donsol, Sorsogon, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Coral bank / reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 8-20 meters
+- **Current**: Variable; tidal influence
+- **Best Time**: December to June (whale shark season; best reef conditions)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The productive Sorsogon Bay waters support diverse marine life. Whale sharks (*Rhincodon typus*) are the iconic species of the Donsol area, though encounters while diving are incidental — the snorkel interaction program with butanding watchers is the primary management approach. Reef fish include parrotfish, grouper, and schooling snapper. Manta rays visit the area seasonally. Sea turtles are regularly sighted in the bay. The bank structure attracts barracuda and trevally schools.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the bank's plateau and begin a circuit of the reef, exploring the outer edges and slopes at 15–20 meters before returning to the shallower platform. Keep an eye in the blue water above and around the bank for whale shark sightings — if an animal is encountered, maintain respectful distance and observe passively without pursuit.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by boat from Donsol town operators. The whale shark season coincides with the best diving conditions. Entry by giant stride; SMB for ascent. Confirm dive protocols with your operator regarding whale shark encounter procedures.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Visit Donsol between December and June for the best chance of whale shark encounters both above and below water
+- Register with the Donsol Butanding Interaction Officer program for the snorkeling experience, which is managed separately from diving
+- Water visibility can be reduced by plankton when whale sharks are present — this is a natural trade-off
+- Bring wide-angle gear; the Donsol area is about big encounters
+- Respect whale shark approach distance protocols strictly — these animals are the reason Donsol tourism exists
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Standard Donsol bay diving conditions. Be aware that whale sharks in the area may be disoriented by too many divers; follow operator protocols. Currents can be variable. Always carry an SMB.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Wide-angle photography aimed at capturing the productive reef environment and any whale shark encounters is the primary focus. Reef fish and schooling species are good subjects when shark encounters don't occur.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

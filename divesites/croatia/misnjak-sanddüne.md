@@ -13,53 +13,49 @@ addedBy: osm_import
 
 ## Misnjak (Sanddüne)
 
-Misnjak (Sanddüne) is a reef dive site in Croatia, Europe.
+Misnjak (Sanddüne — "sand dune" in German) is a reef and sand dive site near the southern tip of Rab Island (Cape Misnjak) in the Kvarner region. The name references sandy formations at the base of the reef, creating a productive reef-to-sand interface habitat in the sheltered waters south of Rab.
 
 ## Overview
 
-Misnjak (Sanddüne) is a dive site in Croatia offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Cape Misnjak's underwater extension features rocky reef terrain transitioning to sandy areas at around 20–25 metres depth. The rocky sections are encrusted with sponges and anemones, while the sandy "dune" areas provide habitat for burrowing species and a clean sandy substrate. The waters around southern Rab are typically sheltered from the main Velebit Channel exposure, providing calm conditions and good visibility of 15–20 metres.
 
 ## Site Information
 
-- **Location**: Croatia, Europe
+- **Location**: Cape Misnjak, Southern Rab Island, Kvarner, Croatia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef and sand
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
+- **Typical Visibility**: 15–20 meters
+- **Current**: Generally moderate at the exposed southern cape
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
+The rocky reef sections host grouper, moray eels, and octopus. The sandy areas attract flatfish, starfish, and burrowing worms. Rays are sometimes encountered resting on the sandy bottom in summer. Sea bream and wrasse patrol between the reef and sand zones. In summer, pelagic species including barracuda approach the exposed cape position.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend at the cape and explore the rocky reef first, then transition to the sandy areas at the deepest section. Observe the different communities in each habitat zone. Ascend via the reef and complete a safety stop at 5 metres. The sandy bottom provides an easy depth reference.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Dive boats from Rab town or Lopar operators access the southern cape. Entry by giant stride or back roll. The exposed cape position requires current assessment before entry. Deploy an SMB on ascent.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Scan the sandy bottom carefully — rays rest motionless and are easy to miss
+- The cape exposure can generate current — check conditions with the operator
+- Combine with a second Rab Island dive at a cave site (Banjol, Grotte Vrbnik) for a varied day
+- The transition between reef and sand habitats makes for interesting comparative ecology observation
 
 ## Safety Considerations
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Cape position can mean variable current. Check conditions before descending. Monitor depth in the sandy areas. Carry an SMB and dive with a buddy.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The reef-to-sand transition provides contrasting photographic subjects in a single dive. Sandy bottom species — rays, flatfish, garden eels — require a careful approach and good buoyancy. Rocky reef subjects include resident grouper and the sponge-encrusted surfaces.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

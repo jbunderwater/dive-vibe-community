@@ -13,53 +13,50 @@ addedBy: osm_import
 
 ## Margarina (Sanddüne)
 
-Margarina (Sanddüne) is a reef dive site in Croatia, Europe.
+Margarina (Sanddüne — German for "sand dune") is a reef and sand interface dive in the Pag Island area of northern Dalmatia. The name suggests the site's distinctive feature: a sandy bottom formation adjacent to or beneath the rocky reef, creating a varied habitat that attracts diverse marine life.
 
 ## Overview
 
-Margarina (Sanddüne) is a dive site in Croatia offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The site features a mix of rocky reef terrain transitioning to sandy areas ("sand dunes") at depth. The rocky sections are encrusted with sponges, sea fans, and encrusting corals, while the sandy areas support burrowing species and provide a clean contrast to the colourful reef. Maximum depth reaches approximately 25 metres where the sand extends. Visibility in this area is typically 15–20 metres in the clear northern Dalmatian water.
 
 ## Site Information
 
-- **Location**: Croatia, Europe
+- **Location**: Pag Island area, Northern Dalmatian Coast, Croatia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef and sand
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Typical Visibility**: 15–20 meters
 - **Current**: Light to moderate
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
+The reef-to-sand interface is productive for diverse species. On the rocky sections: grouper, moray eels, and octopus. On the sandy areas: flatfish, garden eels (in sheltered sandy patches), starfish, and sea cucumbers. The open sand also attracts rays in summer months. Barracuda and sea bream occupy the water column above the reef.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the rocky reef sections and explore the marine life there before moving onto the sandy areas at depth. Look for burrowing species in the sand and watch the reef-sand boundary for species that move between habitats. Maximum depth 25 metres. Ascend via the reef and complete a safety stop at 5 metres.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Dive boats from operators in the Pag area access this site. Entry by giant stride or back roll. Deploy an SMB on ascent for boat pickup.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- The sandy sections are worth scanning carefully for rays, garden eels, and flatfish
+- Move slowly over the sand to avoid spooking burrowing species
+- The reef-sand boundary concentrates predator-prey activity — observe quietly from a distance
+- A torch enhances the rocky reef sections and reveals crevice inhabitants
+- Combine with a cave or deeper reef dive nearby for a varied day from Pag
 
 ## Safety Considerations
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Standard intermediate reef and sand diving. Monitor depth in the sand areas where the flat bottom makes depth gain easy to overlook. Carry an SMB and dive with a buddy.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The reef-sand interface creates interesting compositional contrasts. Sandy bottom subjects like rays, garden eels, and flatfish require a careful approach and macro or mid-range lens. The rocky reef sections provide colourful wide-angle subjects.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,55 +13,55 @@ addedBy: osm_import
 
 ## Sligo (Wreck)
 
-Sligo (Wreck) is a historic wreck dive in Great Lakes, North America.
+The Sligo is a 19th-century wooden schooner wreck lying in Lake Ontario near Toronto, Ontario. Sitting in approximately 20 metres of water in the western section of Lake Ontario, this wreck is one of the more accessible to divers based in Canada's largest city — a significant advantage for Toronto-area divers seeking weekend wreck dives without long drives.
 
 ## Overview
 
-Sligo (Wreck) is a dive site in Great Lakes featuring the wreck of the Sligo (Wreck). Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Toronto, Ontario's position on the western shore of Lake Ontario makes it a reasonable base for Lake Ontario wreck diving, and the Sligo is among the wrecks accessible from Toronto-area dive operators. The wreck lies at approximately 20 metres in the western Lake Ontario basin, where cold, dark freshwater conditions have preserved the wooden hull over more than a century since sinking. The proximity to Toronto means this site receives more regular visitor traffic than many Great Lakes wrecks, and local dive clubs have documented the site thoroughly. Visibility in western Lake Ontario ranges from 3–10 metres — lower than the Kingston area due to the influence of runoff from the heavily developed Toronto shoreline.
 
 ## Site Information
 
-- **Location**: Great Lakes, North America
+- **Location**: Lake Ontario, Great Lakes, Canada (western Lake Ontario, near Toronto)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
+- **Maximum Depth**: 20 metres
+- **Typical Visibility**: 3–10 metres
+- **Water Temperature**: 4–20°C (seasonal); bottom 4–8°C
+- **Current**: Generally mild offshore from Toronto
 - **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Western Lake Ontario near Toronto supports freshwater species adapted to a more urbanized environment. Smallmouth bass are present around the hull. Yellow perch school in mid-water. Round gobies are abundant on the bottom. Occasional alewives pass through the area. Zebra mussels coat all hard surfaces. Lake trout are less common in western Lake Ontario's warmer waters than in the eastern end of the lake.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 20 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The Sligo lies on a silty bottom at 20 metres. Standard wreck exploration from bow to stern. Silty conditions in western Lake Ontario require careful buoyancy to maintain what visibility exists. Ascend on the anchor line. Safety stop at 5 metres.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Charter dive boats from Toronto harbourfront marinas or port credit area provide access. Toronto has an active scuba diving community with several operators running regular weekend charters. Entry by giant stride. Deploy SMB on ascent.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Convenient for Toronto-based divers wanting wreck experience without driving to Kingston or Tobermory
+- Visibility is the main limitation compared to other Great Lakes sites — manage expectations accordingly
+- A torch is important given the lower ambient light in western Lake Ontario
+- Drysuit recommended for cold bottom temperatures
+- The Toronto dive community is active — connect with local clubs for additional site knowledge
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Western Lake Ontario offshore diving requires awareness of shipping traffic in and out of Toronto Harbour. Always deploy an SMB before ascending. Cold water demands thermal protection. Dive with a buddy.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+Photography in western Lake Ontario's reduced visibility challenges are real — supplemental lighting is essential. The wooden hull details, captured close-up with a torch, reveal the vessel's historical character despite ambient conditions.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

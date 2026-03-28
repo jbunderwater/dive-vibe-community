@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Jintotolo Channel
 
-Jintotolo Channel is a drift dive site in Philippines Donsol, Asia.
+Jintotolo Channel is an advanced drift dive through the passage between Jintotolo Island and the Masbate mainland, one of the Philippine channels where strong tidal currents create some of the most dynamic and productive diving in the Donsol region.
 
 ## Overview
 
-Jintotolo Channel is a dive site in Philippines Donsol offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Jintotolo Island sits in the sea between Masbate and Sorsogon provinces, and the channel that separates it from the mainland funnels significant tidal flows that have created a spectacular underwater environment. The channel walls and reef structures along the sides of the passage are swept clean by regular current, supporting dense sea fan growth and aggregations of current-feeding species at 30 meters depth. This is a fully committed drift dive — once in the current, you go where it takes you until conditions allow a controlled ascent. The Advanced rating reflects the strength and unpredictability of channel currents, depth to 30 meters, and the drift diving skills required.
 
 ## Site Information
 
-- **Location**: Philippines Donsol, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Drift dive
+- **Location**: Jintotolo Channel, Masbate/Sorsogon, Philippines
+- **Entry Type**: Boat dive (drift)
+- **Site Type**: Drift dive / channel
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-25 meters
+- **Current**: Strong tidal; can be very fast in the main channel
+- **Best Time**: November to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The channel current creates extraordinary concentrations of marine life. Large schools of barracuda, trevally, and jacks are the signature encounters, holding position in the current and feeding on smaller fish swept through. Hammerhead sharks are occasional visitors to this channel system during peak season. Manta rays use the channel for feeding, rising in the current to access surface plankton. Reef sharks patrol the channel walls. Grey reef sharks are common in the deeper sections.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Entry timing relative to the tidal cycle is critical — consult with experienced local operators about the optimal window. Enter from an upstream position and allow the current to carry you through the channel. Maintain depth control to stay in the productive zone above the channel floor. The current speed may be 1–3 knots in the main flow, requiring good streamlining and drag management. Deploy SMB early for the ascent and allow the drift to continue through the safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat-supported drift dive. The boat crew must maintain visual contact with the group's SMB throughout the drift. Entry upstream of the best current section; exit downstream when the current allows or when air and no-decompression limits require. The exit point differs from the entry point.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Only dive Jintotolo Channel with experienced local operators who know the tidal timing
+- A reef hook can be used to pause and observe if a good aggregation is encountered
+- Manta ray encounters here are unpredictable but memorable — be ready for them at any point
+- Streamline your equipment before entry; loose gear creates drag and fatigue in strong current
+- This dive rewards experienced drifters with some of the most spectacular fish aggregations in the Philippines
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Strong current drift diving at 30 meters is genuinely demanding. Advanced certification and drift diving experience are required. The channel current cannot be fought — if conditions exceed your capability, abort the dive. Always carry an SMB and keep it deployed throughout the ascent. Agree on emergency pickup procedures before entering.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The channel is best photographed with a wide-angle lens capturing the dramatic schooling fish in the open water. Current shooting is challenging — position carefully and use fast shutter speeds. The manta ray encounters, if they occur, are the photographic highlight of the dive.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

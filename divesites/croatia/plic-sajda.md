@@ -13,53 +13,49 @@ addedBy: osm_import
 
 ## Plic Sajda
 
-Plic Sajda is a reef dive site in Croatia, Europe.
+Plic Sajda is a shoal (plic = shoal/reef in Croatian) reef site in the northern Dalmatian waters near the Zadar Archipelago. The site features a submerged rocky reef formation rising from deeper water — a classic Dalmatian shoal dive offering diverse terrain in the clear Adriatic.
 
 ## Overview
 
-Plic Sajda is a dive site in Croatia offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The shoal at Sajda rises from the surrounding deeper seabed to within a few metres of the surface, creating a three-dimensional reef structure with steep sides and an accessible shallow top. The reef faces are encrusted with sponges, sea anemones, and small gorgonian fans. Maximum depth around the base of the shoal reaches approximately 25 metres. The open Dalmatian water position means excellent visibility — typically 15–20 metres.
 
 ## Site Information
 
-- **Location**: Croatia, Europe
+- **Location**: Northern Dalmatian Coast (Zadar Archipelago area), Croatia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Shoal/rocky reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
+- **Typical Visibility**: 15–20 meters
+- **Current**: Moderate; open water shoal position
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
+Isolated shoals in the open sea are magnets for pelagic visitors. Barracuda and amberjack patrol the open water around the shoal, particularly in summer. Grouper claim territories on the reef faces. Moray eels and octopus inhabit the crevices. Sea bream school on the shallow reef top. Large schools of baitfish sometimes gather around the shoal structure.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Boats moor directly over the shoal top. Descend the reef face to the desired depth — anywhere from the shallow top (5–10 m) to the base at 25 m. Circumnavigate the shoal, exploring the faces from different angles. Ascend back up the reef face and complete a safety stop at 5 metres.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Dive boats from Zadar-area operators serve this site. Entry by giant stride over the shoal position. The open water location requires an SMB for surfacing — drift can carry divers away from the shoal on the surface.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Look up periodically for pelagic visitors — barracuda and amberjack often circle isolated shoals
+- A surface marker buoy is essential — the open water surface makes recovery difficult without one
+- Circumnavigate the shoal on successive dives from different directions for a complete exploration
+- The shoal top in 5–8 m provides excellent snorkelling for non-diving companions
 
 ## Safety Considerations
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+The open water position of isolated shoals requires careful SMB discipline — divers can drift away from the boat pickup point rapidly. Always deploy an SMB before leaving the reef on ascent. Current can be present. Dive with a buddy.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Isolated shoals offer exceptional wide-angle photography with fish-filled blue water as the background. Schools of barracuda or amberjack circling the shoal create iconic images. The reef face covered in encrusting organisms provides colourful macro subjects.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

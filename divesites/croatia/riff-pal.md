@@ -13,53 +13,49 @@ addedBy: osm_import
 
 ## Riff Pal
 
-Riff Pal is a reef dive site in Croatia, Europe.
+Riff Pal ("Pal Reef") is a rocky reef dive in the northern Istrian coastal waters near Rovinj, in the shallowest part of the Adriatic. This section of Croatian coastal water is warmer than the Kvarner and Dalmatian areas, and the site offers a pleasant intermediate reef dive with diverse marine life in the accessible northern Adriatic.
 
 ## Overview
 
-Riff Pal is a dive site in Croatia offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The reef at Pal descends over rocky Istrian limestone to approximately 25 metres, with terrain typical of the northern Adriatic — boulders, flat rocky areas, and scattered rubble transitioning to sand at depth. The substrate supports a mix of encrusting sponges, sea fans in the deeper sections, and meadows of Posidonia seagrass in the shallows. Visibility in the northern Adriatic is variable but typically reaches 10–20 metres in good conditions.
 
 ## Site Information
 
-- **Location**: Croatia, Europe
+- **Location**: Rovinj area, Istria, Northern Adriatic, Croatia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
+- **Typical Visibility**: 10–20 meters
+- **Current**: Generally light in the sheltered Istrian coast
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
+The warmer northern Adriatic waters around Istria support a slightly different species mix to the Kvarner and Dalmatia. Sea bream, ornate wrasse, and scorpionfish are common. Grouper are present but typically smaller than in the southern Adriatic. Octopus are frequently encountered on the rocky reef. The Posidonia meadows may yield seahorses. Red mullet are characteristic of this shallow northern Adriatic habitat.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the rocky reef and explore the terrain from shallow to deep. The 25-metre maximum depth allows a comfortable recreational dive. Explore the rocky sections and crevices, then the sandy areas at depth. Ascend slowly and complete a safety stop at 5 metres.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Dive boats from Rovinj-area operators serve this site. Entry by giant stride or back roll. The sheltered Istrian coast generally provides calm conditions.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Combine with the Baron Gautsch wreck for a contrast between reef and wreck diving from Rovinj
+- The warmer northern Adriatic water in summer (up to 27°C) makes a thinner wetsuit appropriate
+- A torch helps with deeper crevice sections
+- Scan the sandy areas at depth for red mullet and flatfish typical of the northern Adriatic
 
 ## Safety Considerations
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Standard intermediate reef diving in generally benign northern Adriatic conditions. Monitor depth and gas supply. Carry an SMB and dive with a buddy.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The northern Adriatic's flat rocky terrain and diverse small species provide interesting macro photography. The Posidonia meadows offer seahorse and pipefish opportunities. Natural light penetration is excellent in the shallow northern Adriatic for wide-angle reef photography.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

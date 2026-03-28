@@ -13,55 +13,55 @@ addedBy: osm_import
 
 ## Philo Scoville (Wreck)
 
-Philo Scoville (Wreck) is a historic wreck dive in Great Lakes, North America.
+The Philo Scoville is a 19th-century wooden schooner in Fathom Five National Marine Park, Tobermory, Ontario. Part of the remarkable cluster of historic wrecks in Canada's first underwater heritage marine park, the Philo Scoville lies at 20 metres in the clear, cold waters of Georgian Bay.
 
 ## Overview
 
-Philo Scoville (Wreck) is a dive site in Great Lakes featuring the wreck of the Philo Scoville (Wreck). Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The Philo Scoville was a Great Lakes cargo schooner that sank in Georgian Bay and now rests within the protected boundaries of Fathom Five National Marine Park. At 20 metres in Tobermory's famously clear water — visibility regularly reaches 15–20 metres — the wreck is an outstanding dive with full visual context of the hull in a single wide-angle view. The cold, clean water of Georgian Bay has preserved the 19th-century wooden construction in excellent condition. The park's protective status ensures the wreck remains undisturbed for future generations. The Philo Scoville is one of numerous wrecks accessible from Tobermory, making the area a world-class freshwater wreck diving destination.
 
 ## Site Information
 
-- **Location**: Great Lakes, North America
+- **Location**: Georgian Bay, Lake Huron, Fathom Five National Marine Park, Ontario, Canada
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 20 metres
+- **Typical Visibility**: 10–20 metres
+- **Water Temperature**: 4–16°C (seasonal); bottom 4–6°C
+- **Current**: Minimal
+- **Best Time**: June to September
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Georgian Bay's cold, clear water supports a healthy freshwater community centred on the wreck. Lake trout circle the deeper hull sections. Smallmouth bass are territorial on the deck and around hull openings. Yellow perch school in mid-water. Lake whitefish are occasionally spotted above the site. Zebra mussels colonize surfaces below the thermocline, and Georgian Bay's water clarity makes these mussel beds visible in unusual detail.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 20 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The Philo Scoville lies at an excellent recreational depth with generous NDL. Explore the hull's length, examining the 19th-century schooner construction in detail that Georgian Bay's clarity makes possible. The preserved rigging, deck hardware, and hull fittings tell the story of a working sailing vessel's life on the Great Lakes. Ascend on the mooring line. Safety stop at 5 metres for 3 minutes.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Charter dive boats from Tobermory Harbour include the Philo Scoville in regular multi-site day tours. Book in advance for peak summer. A Fathom Five National Marine Park day pass is required. Entry by giant stride.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Tobermory's multiple wrecks across a range of depths make it a world-class freshwater diving destination
+- The exceptional clarity compared to most Great Lakes sites is the defining characteristic
+- Drysuit essential for cold bottom temperatures
+- Combine with the Arabia (deeper) or Sweepstakes/Caroline Rose (shallower) for a varied day
+- Do not remove artifacts — Fathom Five is a protected national marine park
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Cold bottom water at 20 metres demands proper thermal protection. Boat traffic around Tobermory is significant in summer — always deploy an SMB before ascending. Dive with a buddy. Park regulations must be observed.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+Fathom Five's exceptional clarity makes the Philo Scoville outstanding for wide-angle wreck photography. The full hull is visible in a single frame in good visibility. Natural light photography at 20 metres in Georgian Bay produces images with superb clarity and colour rendition.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

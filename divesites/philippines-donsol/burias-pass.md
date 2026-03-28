@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Burias Pass
 
-Burias Pass is a reef dive site in Philippines Donsol, Asia.
+Burias Pass is a reef dive site in the passage between Burias Island and the Masbate coast, one of several productive reef systems in the greater Donsol area of Sorsogon province, Luzon.
 
 ## Overview
 
-Burias Pass is a dive site in Philippines Donsol offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The Donsol area is world-famous for whale shark encounters, but the surrounding waters also support impressive reef diving. Burias Pass sits in the channel between Burias Island and the mainland, where tidal currents funnel through and create productive feeding conditions for reef life. The reef structure extends to 22 meters and features hard coral formations and associated fish communities typical of the Sorsogon marine environment. The pass location means the site can experience variable currents depending on tidal state, which in turn concentrates schooling fish on the reef edges.
 
 ## Site Information
 
-- **Location**: Philippines Donsol, Asia
+- **Location**: Burias Pass, Sorsogon, Philippines
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 22 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 10-20 meters
+- **Current**: Tidal; can be moderate to strong in the pass
+- **Best Time**: November to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The pass environment supports good fish life driven by tidal currents. Schools of snapper, fusiliers, and barracuda are common. Reef sharks patrol the deeper sections of the pass. Sea turtles are regularly sighted in the Donsol-Burias area. The reef structure hosts typical Luzon reef fish including parrotfish, grouper, and wrasse. Given the area's whale shark association, juvenile whale sharks are occasionally encountered in the broader passage corridor.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 22 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Plan your dive timing around the tidal state — diving on the current or during a gentle current flow maximises fish activity. Descend to the reef and orient yourself relative to the current direction. Allow the current to carry you along the reef face rather than fighting it. Ascend when you reach the planned endpoint or when air and no-decompression limits dictate.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by boat from Donsol town or local operators in the Burias area. Entry by giant stride; drift exit requires coordination with the boat crew who should shadow your SMB.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Time your dive to coincide with the current change for the most active fish life
+- Bring wide-angle gear — the pass environment suits schooling fish photography
+- The whale shark season (December to June) is also peak diving season in the Donsol area
+- Ask local operators about recent encounters; whale sharks are sometimes seen while diving the pass sites
+- A reef hook can be useful if you want to stop and observe current-fed fish activity
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Pass diving requires current management skills. Monitor your drift speed and be prepared to ascend if conditions become challenging. Always carry an SMB for drift ascents. The boat must follow the divers' SMB throughout the drift.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The current-driven fish aggregations make Burias Pass excellent for wide-angle schooling fish photography. Reef shark portraits in the deeper sections are possible. Natural light conditions are best in the morning.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

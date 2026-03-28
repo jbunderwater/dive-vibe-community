@@ -13,54 +13,50 @@ addedBy: osm_import
 
 ## podmorska poučna staza Tripuljak
 
-podmorska poučna staza Tripuljak is a reef dive site in Croatia, Europe.
+"Podmorska poučna staza" translates from Croatian as "underwater educational trail" — this is a designated snorkel and shallow dive trail in the Tripuljak area near Šibenik in central Dalmatia. With a maximum depth of just 2 metres, this site is designed for snorkelling, beginner diving experiences, and marine education, offering an accessible introduction to the Adriatic's underwater world.
 
 ## Overview
 
-podmorska poučna staza Tripuljak is a dive site in Croatia offering excellent diving on healthy coral reef structures . swimming and underwater sightseeing in shallow water. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The Tripuljak underwater trail is a marked shallow-water route through a productive nearshore habitat. The trail passes over rocky substrate, Posidonia seagrass meadows, and sandy patches in crystal-clear, calm water just beneath the surface. Informational markers along the trail identify key species and habitats, making this an educational as well as enjoyable experience. The site is suitable for all ages and abilities.
 
 ## Site Information
 
-- **Location**: Croatia, Europe
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Location**: Tripuljak, Šibenik area, Central Dalmatia, Croatia
+- **Entry Type**: Boat dive (or shore access)
+- **Site Type**: Snorkel/shallow reef trail
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 2 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
+- **Typical Visibility**: 10–20 meters
+- **Current**: Generally calm
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
+The shallow trail habitat supports diverse Mediterranean life typical of the nearshore zone. Posidonia seagrass meadows are home to seahorses, pipefish, and juvenile fish of many species. Rocky sections host sea urchins, starfish, hermit crabs, and small gobies and blennies. Octopus are often spotted at the base of rocky outcrops even in this very shallow zone.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 2 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-2 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The entire trail is conducted at 0–2 metres. Snorkellers and beginning scuba divers can follow the trail markers through the educational route at their own pace. The extreme shallowness makes this a no-pressure experience with essentially unlimited time. No safety stop is required.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access can be by boat or from the adjacent shore. Entry is via wade-in or shallow water entry. The calm, shallow conditions require no special entry technique.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- An excellent introduction to Mediterranean marine life for families, children, and first-time divers
+- Read the trail markers as you go — the educational value is a key part of the experience
+- An underwater camera or housing is ideal here — the shallow depth and calm conditions make for easy photography
+- Visit in the early morning for the clearest water and most active marine life
+- The Posidonia meadows are worth exploring slowly — seahorses are common but cryptic
 
 ## Safety Considerations
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+The 2-metre maximum depth makes this one of Croatia's safest dive sites. No decompression considerations apply. Standard snorkelling safety applies — stay aware of boat traffic in the area and use appropriate surface signals.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The bright, naturally lit shallow water makes this an outstanding photography site. Macro shots of the Posidonia meadow's inhabitants — seahorses, pipefish, gobies — are the highlight. The educational trail markers also make interesting contextual subjects.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

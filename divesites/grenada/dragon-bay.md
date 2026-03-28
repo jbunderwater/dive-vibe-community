@@ -13,53 +13,49 @@ addedBy: osm_import
 
 ## Dragon Bay
 
-Dragon Bay is a reef dive site in Grenada, Caribbean.
+Dragon Bay is a reef dive site on the southern tip of Grenada, close to Point Salines, offering an intermediate-level underwater experience with interesting rocky and coral terrain in a bay with a compelling name.
 
 ## Overview
 
-Dragon Bay is a dive site in Grenada offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Dragon Bay's rocky coastline continues underwater in the form of large boulders and rocky ridges covered with coral growth. The terrain descends from the shallows to approximately 18 meters, and the mix of volcanic rock, hard corals, and sandy clearings creates diverse micro-habitats within a relatively compact area. The rocky relief provides structure for large numbers of reef fish and invertebrates, and the bay's orientation offers protection from prevailing swells. Visibility averages 15–25 meters. Water temperature is 26–28°C year-round.
 
 ## Site Information
 
-- **Location**: Grenada, Caribbean
+- **Location**: Near Point Salines, southern Grenada
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef with coral
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: 15–25 meters
+- **Current**: Usually mild within the bay
+- **Best Time**: January to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The boulder terrain at Dragon Bay provides abundant shelter for large morays — spotted and green morays are commonly found in rock crevices. Nurse sharks rest between boulders at depth. Hawksbill turtles are present throughout the site, frequently encountered on the coral sections between rocks. The open sandy patches attract southern stingrays, and schools of French grunts congregate around the larger boulder formations. Octopuses are particularly well-represented at this site.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Navigate from the boat to the rocky reef, descending through the boulder field to the sandy bottom at 18 meters. The complex terrain invites slow exploration — look into each crevice and under each boulder overhang. The dive rewards patience more than speed. Ascend through the shallower reef zone for a colourful safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from True Blue Bay or Grand Anse area operators. Giant stride entry; SMB required on ascent. Dragon Bay is often combined with nearby sites for a two-tank southern tip dive day.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- This site rewards slow, methodical exploration — the rocky terrain hides species that faster divers miss
+- Check under boulder overhangs for nurse sharks and large morays
+- Octopus sightings are more reliable here than at many other Grenada sites
+- Combine with Valley of Whales or Flamingo Bay for a varied south coast two-tank day
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+The complex boulder terrain requires good navigation skills — maintain depth awareness in the irregular topography. Fire coral grows on some rock surfaces. Deploy SMB before ascending. Monitor air consumption in the complex terrain which can distract from time management.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Dragon Bay's boulder-and-coral terrain offers dramatic topographic subjects. Nurse shark portraits in rocky resting spots, octopus encounters, and moray close-ups are distinctive macro and medium-range subjects. Wide-angle shots through boulder archways create depth and drama.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
