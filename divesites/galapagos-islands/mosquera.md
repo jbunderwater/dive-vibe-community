@@ -23,7 +23,7 @@ Mosquera is a sand and rock islet in the channel between North Seymour and Baltr
 
 - **Location**: Channel between North Seymour and Baltra Islands, Galapagos Islands
 - **Entry Type**: Boat dive
-- **Site Type**: Sandy reef with scattered rock formations
+- **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 27 meters
 - **Typical Visibility**: 10-20 meters (30-65 feet)

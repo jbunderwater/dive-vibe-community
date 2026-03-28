@@ -20,8 +20,8 @@ Manuelita Inside is the east-facing, sheltered side of Manuelita Island, tucked 
 
 ## Site Information
 - **Location**: East side of Manuelita Island, Chatham Bay, Cocos Island, Costa Rica
-- **Entry Type**: Liveaboard
-- **Site Type**: Reef (one of few true coral reef environments at Cocos)
+- **Entry Type**: liveaboard
+- **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 22 meters
 - **Typical Visibility**: 15-25 meters

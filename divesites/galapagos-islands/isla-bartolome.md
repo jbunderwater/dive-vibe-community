@@ -23,7 +23,7 @@ Isla Bartolome sits near Santiago Island, famous above water for its iconic Pinn
 
 - **Location**: Bartolome Island, near Santiago Island, Galapagos Islands
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef over volcanic formations
+- **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 27 meters
 - **Typical Visibility**: 10-18 meters (30-60 feet)

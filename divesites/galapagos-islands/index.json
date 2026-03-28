@@ -1,17 +1,5 @@
 [
   {
-    "name": "Galapagos fan dive",
-    "filename": "galapagos-fan-dive.md",
-    "lat": -0.9010163,
-    "lng": -89.6106449,
-    "difficulty": "Advanced",
-    "maxDepth": 20,
-    "entryType": "boat",
-    "siteType": "wall",
-    "ref": "",
-    "osmId": 3667973195
-  },
-  {
     "name": "Mosquera",
     "filename": "mosquera.md",
     "lat": -0.4085075,

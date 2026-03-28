@@ -23,7 +23,7 @@ Cousins Rock is a small submerged rock formation between Santiago and Bartolome 
 
 - **Location**: Between Santiago and Bartolome Islands, Galapagos Islands
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive with overhangs and crevices
+- **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-20 meters (30-65 feet)

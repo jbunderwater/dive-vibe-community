@@ -22,8 +22,8 @@ Cabo Marshall sits on the remote northeast coast of Isabela Island, accessible o
 ## Site Information
 
 - **Location**: Northeast coast of Isabela Island, Galapagos Islands
-- **Entry Type**: Boat dive (liveaboard only)
-- **Site Type**: Wall dive along volcanic coastline
+- **Entry Type**: Boat dive
+- **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 22 meters
 - **Typical Visibility**: 10-20 meters (30-65 feet)

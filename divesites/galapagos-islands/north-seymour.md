@@ -23,7 +23,7 @@ North Seymour is a channel dive site between North Seymour Island and Baltra, wh
 
 - **Location**: Channel between North Seymour Island and Baltra, Galapagos Islands
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef and sand channel
+- **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 10-18 meters (30-60 feet)

@@ -20,8 +20,8 @@ Dirty Rock is a low rocky head roughly 15 meters long that rises 3-5 meters abov
 
 ## Site Information
 - **Location**: Central Cocos Island, Costa Rica
-- **Entry Type**: Liveaboard
-- **Site Type**: Pinnacle
+- **Entry Type**: liveaboard
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 35 meters
 - **Typical Visibility**: 15-30 meters

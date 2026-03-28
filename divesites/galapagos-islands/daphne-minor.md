@@ -23,7 +23,7 @@ Daphne Minor is a small volcanic island between Santa Cruz and Santiago, its ste
 
 - **Location**: Between Santa Cruz and Santiago Islands, Galapagos Islands
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive around volcanic island
+- **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10-18 meters (30-60 feet)

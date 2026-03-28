@@ -20,8 +20,8 @@ Bajo Alcyone is a submerged seamount approximately one mile off the southern coa
 
 ## Site Information
 - **Location**: 1 mile off southern coast of Cocos Island, Costa Rica
-- **Entry Type**: Liveaboard
-- **Site Type**: Pinnacle (submerged seamount)
+- **Entry Type**: liveaboard
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
 - **Typical Visibility**: 15-30 meters

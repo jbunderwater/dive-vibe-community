@@ -20,8 +20,8 @@ Viking Rock is a small helmet-shaped rock formation at the northern limit of Waf
 
 ## Site Information
 - **Location**: Northern limit of Wafer Bay, Cocos Island, Costa Rica
-- **Entry Type**: Liveaboard
-- **Site Type**: Wall
+- **Entry Type**: liveaboard
+- **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
 - **Typical Visibility**: 15-25 meters

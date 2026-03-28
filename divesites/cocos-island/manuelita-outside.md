@@ -20,8 +20,8 @@ Manuelita Outside is the western, ocean-facing side of Manuelita Island, a small
 
 ## Site Information
 - **Location**: Western side of Manuelita Island, northeast Cocos Island, Costa Rica
-- **Entry Type**: Liveaboard
-- **Site Type**: Wall
+- **Entry Type**: liveaboard
+- **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 35 meters
 - **Typical Visibility**: 15-30 meters

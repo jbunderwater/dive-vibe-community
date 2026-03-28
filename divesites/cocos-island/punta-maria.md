@@ -20,8 +20,8 @@ Punta Maria is an underwater mountain located approximately 500 meters off the s
 
 ## Site Information
 - **Location**: 500 meters off southwestern coast of Cocos Island, Costa Rica
-- **Entry Type**: Liveaboard
-- **Site Type**: Pinnacle (submerged seamount complex)
+- **Entry Type**: liveaboard
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 37 meters
 - **Typical Visibility**: 15-25 meters

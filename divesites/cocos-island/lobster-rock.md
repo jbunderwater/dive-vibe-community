@@ -20,8 +20,8 @@ Lobster Rock is located near the Ulloa area of Cocos Island, close enough to com
 
 ## Site Information
 - **Location**: Near Ulloa, Cocos Island, Costa Rica
-- **Entry Type**: Liveaboard
-- **Site Type**: Wall
+- **Entry Type**: liveaboard
+- **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 37 meters
 - **Typical Visibility**: 15-25 meters

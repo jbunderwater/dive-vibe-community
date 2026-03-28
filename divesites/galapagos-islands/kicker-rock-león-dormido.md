@@ -23,7 +23,7 @@ Kicker Rock, known locally as León Dormido ("Sleeping Lion"), is a pair of mass
 
 - **Location**: Offshore from San Cristobal Island, Galapagos Islands
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive (channel between rock formations)
+- **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-20 meters (30-65 feet)

@@ -22,8 +22,8 @@ Punta Vicente Roca occupies the dramatic northwest tip of Isabela Island, where 
 ## Site Information
 
 - **Location**: Northwest tip of Isabela Island, Galapagos Islands
-- **Entry Type**: Boat dive (liveaboard only)
-- **Site Type**: Wall dive along volcanic cliffs
+- **Entry Type**: Boat dive
+- **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 27 meters
 - **Typical Visibility**: 8-15 meters (25-50 feet), reduced by nutrient-rich water

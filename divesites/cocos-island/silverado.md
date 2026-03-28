@@ -20,8 +20,8 @@ Silverado is a small submerged rock near Chatham Bay, located close to the water
 
 ## Site Information
 - **Location**: Near Chatham Bay waterfall, Cocos Island, Costa Rica
-- **Entry Type**: Liveaboard
-- **Site Type**: Pinnacle (small submerged rock)
+- **Entry Type**: liveaboard
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 13 meters
 - **Typical Visibility**: 15-25 meters

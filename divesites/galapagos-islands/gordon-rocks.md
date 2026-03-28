@@ -23,7 +23,7 @@ Gordon Rocks is the remains of an eroded volcanic crater, now submerged, creatin
 
 - **Location**: Off the northeast coast of Santa Cruz Island, Galapagos Islands
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle (submerged volcanic crater)
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-20 meters (30-65 feet)
