@@ -13,55 +13,55 @@ addedBy: osm_import
 
 ## Tabarka (block ship)
 
-Tabarka (block ship) is a historic wreck dive in Scapa Flow, Europe.
+A tidal Scapa Flow blockship lying upside-down in 12 meters in Burra Sound's powerful current — divable only at slack tide, with its intact propeller as the defining feature.
 
 ## Overview
 
-Tabarka (block ship) is a dive site in Scapa Flow featuring the wreck of the Tabarka (block ship). Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The Tabarka began life as SS Pollux in 1909, was renamed SS Tabarka in 1931, and was requisitioned in July 1940 during WWII. She was first sunk as a blockship in Kirk Sound in 1941 — the same passage that German submarine U-47 had used to penetrate Scapa Flow in October 1939, sinking HMS Royal Oak with the loss of 833 lives. Raised and moved in 1944, the Tabarka was re-sunk in Burra Sound as an additional blocking measure. She now lies upside-down in 12–15 meters of water, and is regularly asked for by name by Scapa Flow repeat visitors who regard her as a highlight of the blockship dives. Her propeller remains fully intact and is her most admired feature. Like all Burra Sound diving, the Tabarka can only be dived during the brief slack tide window — a negative entry is required to reach the wreck before current resumes.
 
 ## Site Information
 
-- **Location**: Scapa Flow, Europe
+- **Location**: Burra Sound, Scapa Flow, Orkney, Scotland
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck (blockship)
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 12 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: May to October
+- **Maximum Depth**: 12 meters (40 feet)
+- **Typical Visibility**: 8–25 meters (26–82 feet) — excellent during tidal flow, limited at full slack
+- **Current**: Extreme — slack tide only, negative entry required
+- **Water Temperature**: 6–14°C (43–57°F)
+- **Best Time**: May–October
 
 ## Marine Life
 
-Divers at this site can expect to encounter conger eels, lobsters, crabs, anemones, coral encrustation, groupers, moray eels, octopus. Additional species commonly sighted include barracuda, sea bream, amberjack. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The Burra Sound tidal environment delivers exceptional marine life density. The Tabarka's upside-down hull carries prolific plumose anemones on its underside. Dead man's fingers corals are established throughout the accessible surfaces. The intact propeller is encrusted with encrusting organisms and surrounded by resident fish species. Conger eels and edible crabs occupy the hull interior spaces accessed through openings in the bow and stern. Schools of saithe pass through the sound in the tidal flow. Nudibranchs are present on the encrusted surfaces for patient observers.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 12 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+A negative entry is mandatory — submerge immediately upon entering the water and descend rapidly to the 12-meter wreck before current resumes. The total slack window is typically 20–30 minutes for active diving. Work systematically toward the intact propeller at the stern before exploring the hull underside and accessible sections. The bow and stern remain the most intact sections; the mid-hull is more broken. Ascend on the shot line — do not attempt free ascent in Burra Sound.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Expert local skipper with precise knowledge of Burra Sound slack timing is non-negotiable. The negative entry technique must be practiced before arrival at the site. The shot line provides the sole ascent route — losing it in current before the dive ends is a serious safety situation. Cylinders must be fully opened and regulators tested before rolling into the water.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- This is the most sought-after blockship dive in Scapa Flow — experienced divers plan their liveaboard week specifically to include it
+- Negative entry proficiency is essential — practice it before you need it here
+- Verify all equipment is operational before entry — there is no time to sort problems on the wreck
+- The intact propeller is the signature feature — navigate to it efficiently within the slack window
+- The tidal current creates better visibility here than in the main Flow — the time trade-off is worthwhile
 
 ## Safety Considerations
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+The Tabarka is the most operationally demanding Scapa Flow dive site due to extreme tidal current. The consequences of entering outside slack, losing the shot line, or having equipment failure in Burra Sound are severe. Only experienced divers with proper dry suit training and competent buddies should attempt this dive. The skipper's timing judgment is absolute — if they say conditions are not right, the dive does not happen. This is non-negotiable safety.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The Tabarka's intact propeller in the clear tidal water is one of Scapa Flow's most photographed features outside the main German fleet. The upside-down orientation creates unusual perspectives on the hull structure. Pre-set camera exposure and strobe positioning before the dive — there is no time to adjust settings on the wreck during the limited slack window. The tidal current visibility (often better than the main Flow) rewards the operational complexity.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*

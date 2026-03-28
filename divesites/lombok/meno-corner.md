@@ -11,56 +11,56 @@ osmId: 2395669754
 addedBy: osm_import
 ---
 
-# Meno Corner
+## Meno Corner
 
-A current-swept corner reef off Gili Meno where the channel between Trawangan and Meno funnels water and concentrates schooling fish.
+The northeastern tip of Gili Meno — a turtle-rich pinnacle and slope where sea turtles gather in the surrounding sea grass and coral.
 
 ## Overview
 
-Meno Corner sits at the southern tip of Gili Meno, where the channel between Gili Trawangan and Gili Meno narrows and accelerates the tidal flow. This funneling effect creates a drift dive with reliable current that sweeps divers around the corner of the reef, exposing them to both the protected western channel conditions and the more exposed southern slope. The corner topography — dropping from a shallow reef top at 5 meters through a slope with ridges and gullies to 20 meters — concentrates fish in the water column during stronger current periods. The site serves as a natural aggregation point for schooling reef fish and the predators that follow them.
+Meno Corner is located at the northeastern tip of Gili Meno and is one of the best spots in the Gili Islands for sea turtle encounters. The site features a slope that leads out to a pinnacle stretching from 9 m to 30 m, all sides covered in corals. This is the main turtle habitat area on Gili Meno, where green and hawksbill turtles congregate in the sea grass beds and on the reef slope. A notable bonus is the nearby Bounty Wreck (Meno Wreck), sitting just off the coast and covered in soft coral. Together, these two adjacent sites make Gili Meno one of the standout dive destinations in the Lombok/Gili Islands area.
 
 ## Site Information
 
-- **Location**: Southern tip, Gili Meno, Lombok, Indonesia
-- **Entry Type**: Boat dive
-- **Site Type**: Drift (corner reef)
+- **Location**: Northeast tip of Gili Meno, Gili Islands / Lombok
+- **Entry Type**: Boat dive (drift)
+- **Site Type**: Drift / Reef / Pinnacle
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters (66 feet)
-- **Typical Visibility**: 10–25 meters
-- **Current**: Moderate to strong; channel effect at the corner
-- **Water Temperature**: 26–30°C (79–86°F)
+- **Maximum Depth**: 20 m
+- **Typical Visibility**: 15–25 m
+- **Current**: Moderate; can be strong on the corner
+- **Best Time**: May to October
 
 ## Marine Life
 
-The channel current concentrates schooling fusiliers, snapper, and sweetlips in the water column above the corner. Giant trevally ambush these schools in open water. Whitetip and blacktip reef sharks cruise the deeper reef sections. Turtles are frequently encountered on the coral patches along the slope. Moray eels and groupers inhabit the reef crevices. Blue-spotted stingrays rest on sandy areas between coral heads. Bumphead parrotfish sometimes appear when current is at its strongest, particularly around full moon periods.
+Green and hawksbill turtles in numbers — among the best turtle encounters in the entire Gili Islands. The pinnacle hosts reef fish typical of the Gili Islands — parrotfish, triggerfish, sweetlips, and moray eels. Reef sharks are occasionally seen on the deeper pinnacle sections. Blue-spotted stingrays on sandy patches.
 
 ## Dive Profile
 
-Begin the dive upstream of the corner and let the current carry you around the point. The first section of the dive follows the channel wall at 8–15 meters, with excellent fish concentration. Rounding the corner at the tip of Gili Meno, the reef opens onto the southern slope. Work the slope down to 20 meters briefly before ascending. The boat follows bubbles and collects divers downstream of the corner. Total dive time is typically 45–55 minutes depending on current speed.
+Descend to the slope at 10–15 m and follow it to the pinnacle at 20–30 m. Spend time on the sea grass and reef patches searching for turtles before the pinnacle. Ascend via the shallower reef sections and complete a 3-minute safety stop.
 
 ## Entry and Exit
 
-Boat dive from Gili Meno, Gili Trawangan, or Gili Air. The site is within easy range of all three islands. Negative entry upstream of the corner; SMB on ascent. The boat should follow divers around the corner.
+Boat from Gili Meno or Lombok operators. The corner has variable current — follow your guide's entry timing recommendation. SMB for drift ascent.
 
 ## Tips and Recommendations
 
-- Time this dive to coincide with a flooding tide for the strongest current and best schooling fish aggregations
-- The transition point from the channel to the southern slope is the most productive section — slow down around the corner itself
-- Combine with Meno Wall for a two-tank trip covering both corner reef and vertical wall habitats
-- Ask your divemaster about the current schedule for the day
+- Combine Meno Corner and Bounty Wreck in the same diving day for a comprehensive Gili Meno experience
+- Move slowly across the sea grass patches — turtles are often camouflaged among the blades
+- Best dived early in the morning when turtles are most active on the reef
+- The pinnacle drops to 30 m and is worth a deeper visit for advanced divers
+- Accessible from Lombok mainland as part of a Gili Islands day trip
 
 ## Safety Considerations
 
-The channel between Trawangan and Meno can generate strong, unpredictable currents. Divers who are not comfortable with drift diving should discuss conditions with the divemaster before committing to this site. If the current overpowers navigation ability, drop to the reef and shelter behind a coral structure. Always carry an SMB.
+Current at the corner can be strong, particularly on spring tides. Stay close to the pinnacle for reference and do not let the current carry you away from it. Always carry an SMB. Turtles should not be approached from above.
 
 ## Photography
 
-The fish aggregations around the corner are the best photographic subject — wide-angle shots of schooling fusiliers and snapper with predators in the background work well. Turtle encounters on the slope are consistently good. The corner topography itself makes for an interesting wide-angle composition when framed to show the reef edge dropping into blue water.
+Sea turtle encounters in sea grass with natural light are accessible wide-angle subjects. Multiple turtles together on the reef slope produce compelling images. The pinnacle with its coral coverage suits wide-angle with strobes at depth.
 
 ## Additional Resources
 
-- [Oceans 5 – Gili Islands Dive Sites](https://www.oceans5dive.com/dive-sites/)
-- [Starfish.ch – Gili Islands](https://www.starfish.ch/dive/Lombok.html)
-- Last Updated: 2026-03-28
+- **Last Updated**: 2026-03-28
 
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*

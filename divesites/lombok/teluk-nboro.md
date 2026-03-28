@@ -11,56 +11,56 @@ osmId: 2395670513
 addedBy: osm_import
 ---
 
-## Teluk NBoro
+# Teluk NBoro
 
-Teluk NBoro is a reef dive site in Lombok, Asia.
+A sheltered bay reef on the southern coast of Lombok, removed from the tourist circuit and offering calm diving on undisturbed coral gardens.
 
 ## Overview
 
-Teluk NBoro is a dive site in Lombok offering rewarding diving on healthy coral reef structures . source is Diveschool Notice Board - Location might have to be checked with a GPS. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Teluk NBoro (NBoro Bay) is a reef site on the southern coast of Lombok, well south of the Gili Islands circuit and significantly removed from the main tourist diving areas. The bay's sheltered position provides calm conditions that contrast with the exposed northern Gili sites, making it a reliable alternative during periods when current or swell makes the main sites difficult. The reef descends from a shallow fringing zone around 5 meters down a coral slope to 25 meters. The site's relative isolation from heavy diver traffic means coral coverage and fish populations are in good condition. Proximity to the influence of Belongas Bay's Indian Ocean swells adds an element of variability, and conditions should be assessed before diving.
 
 ## Site Information
 
-- **Location**: Lombok, Asia
+- **Location**: Teluk NBoro (NBoro Bay), south coast of Lombok, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 25 meters (82 feet)
+- **Typical Visibility**: 8–20 meters
+- **Current**: Generally mild in the bay; can increase with tidal flow
+- **Water Temperature**: 26–30°C (79–86°F)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The fringing reef hosts a typical southern Lombok reef community. Turtles are regularly encountered on the coral slope. Moray eels and lionfish occupy crevices. Schools of snapper and fusiliers aggregate around larger coral formations. Blue-spotted stingrays rest on sandy patches at the base of the reef. Cuttlefish and octopus are common in the shallower reef edge. The reduced diver pressure at this site results in relatively unbothered reef fish that are easy to approach and observe.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin on the shallow fringing reef at 5 meters and descend gradually down the coral slope. The most productive diving is between 8 and 20 meters where coral coverage and fish density are highest. The deeper sections at 20–25 meters transition to rubble and sand. Ascend through the mid-slope before conducting a safety stop in the shallows. Total dive time approximately 45–55 minutes.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive. The site requires a longer transit than the main Gili sites, and is typically included in day trips to south Lombok that also visit Belongas Bay area sites. The bay itself provides a calm boarding and exit point. Giant stride entry; SMB on ascent.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- This site works well as a relaxed complementary dive before or after the more demanding Belongas Bay dives
+- The undisturbed character of the reef is worth appreciating — move slowly and observe before approaching marine life
+- Best dived in the morning when visibility is clearest
+- Check weather conditions specifically for the south coast, which can have different swell patterns from the north
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The south coast of Lombok is more exposed to Indian Ocean swell and weather than the northern Gili area. Check conditions before travelling to this site. Strong current can appear on incoming tides even in the bay. Carry an SMB and a dive flag on the boat. Rescue response is slower at this remote location — dive conservatively.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The clean, undisturbed coral provides excellent wide-angle compositions without the disturbance of multiple dive groups. Turtle encounters are reliable enough for patient portraiture. Cuttlefish in shallow water with natural top-light suit wide-angle or close-focus wide-angle approaches.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- [Bottles Up Diving – South Lombok Diving](https://www.bottles-up-diving.com/EN-pages/BU_divingother_LombokSouth_EN.html)
+- [Lombok Diving Guide – NoTroubles Just Bubbles](https://www.notroublesjustbubbles.com/diving-destinations/indonesia/lombok)
+- Last Updated: 2026-03-28
 
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

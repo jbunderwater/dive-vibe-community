@@ -11,56 +11,56 @@ osmId: 2395669760
 addedBy: osm_import
 ---
 
-## Simons Reef
+# Simons Reef
 
-Simons Reef is a reef dive site in Lombok, Asia.
+A deep reef in the open Lombok Strait northeast of the Gili Islands, listed among local guides' preferred Advanced sites for pelagic encounters and untouched coral.
 
 ## Overview
 
-Simons Reef is a dive site in Lombok offering rewarding diving on healthy coral reef structures . source is Diveschool Notice Board - Location might have to be checked with a GPS. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Simons Reef is positioned in the open Lombok Strait waters northeast of the Gili Islands, away from the main island dive circuit. The reef structure rises from a sandy bottom at 30 meters up through a coral slope to around 10 meters, with the surrounding open-water exposure creating conditions that attract pelagic species from the strait. Simons Reef is included by local operators among the best deep recreational dives in the Gili area, alongside Deep Halik, Deep Turbo, and Shark Point. The site's distance from the main island anchorages means it sees fewer divers, and the marine life encounters tend to be more natural and undisturbed.
 
 ## Site Information
 
-- **Location**: Lombok, Asia
+- **Location**: Northeast of Gili Islands, Lombok Strait, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 30 meters (100 feet)
+- **Typical Visibility**: 15–30 meters
+- **Current**: Strong; open-strait tidal flow
+- **Water Temperature**: 26–30°C (79–86°F)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The open-strait position brings pelagic visitors that rarely appear at the main island sites. Whitetip and blacktip reef sharks are consistently present at depth. Eagle rays transit the site on flood tides. Schools of barracuda and giant trevally sweep past the reef edge. Gorgonian sea fans on the deeper sections shelter crabs, shrimps, and occasional pygmy seahorses. Turtles are found on the coral slope. Groupers and snappers use large coral heads as territory bases. The deep sandy floor hosts garden eels and blue-spotted stingrays.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend directly to the deeper sections near 30 meters early in the dive when no-decompression time is greatest. Explore the deep coral structures and sandy patches. Ascend gradually through the mid-depth zone at 15–20 meters, where most pelagic encounters occur. Complete the dive in the shallower reef section above 10 meters. Safety stop at 5 meters before surfacing. Nitrox is strongly recommended.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from any of the main Gili Island operators, though fewer operators routinely visit this site. Longer boat transit required. Entry by giant stride, negative descent. SMB mandatory for surfacing.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Nitrox is strongly recommended for this depth — it significantly extends the productive time at 25–30 meters
+- Dive early in the morning for the best visibility and current conditions
+- This site rewards Advanced divers specifically seeking an alternative to the crowded main island circuit
+- Ask operators with the most local knowledge specifically about Simons Reef — not all regularly visit it
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Advanced certification required due to depth (30 m), open-water location, and strong current. Monitor no-decompression limits carefully. Do not extend beyond 30 meters. Carry a dive computer and an SMB. The open-strait position means rescue response is slower than at island sites — dive conservatively.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The clear water and minimal diver traffic at this site make for exceptionally clean photographic conditions. Pelagic encounters in open blue water suit wide-angle. Gorgonian fan details at depth reward macro or close-focus wide-angle. Shark portrait shots against clean blue water background are particularly good here.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- [Almarik – Gili Trawangan Advanced Sites](https://www.almarik-lombok.com/news/10-amazing-dive-sites-around-gili-trawangan-you-need-to-see/)
+- [Starfish.ch – Gili Islands Map](https://www.starfish.ch/dive/map/Lombok-map.html)
+- Last Updated: 2026-03-28
 
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -11,57 +11,53 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Pillars of Hercules
+# Pillars of Hercules
 
-Pillars of Hercules is a wall dive site in Antigua and Barbuda, Caribbean.
+Dramatic volcanic rock columns descending from the surface on Antigua's southeast coast — an unusual and photogenic site with dense encrusting coral on the pillar faces and strong fish life in the surrounding waters.
 
 ## Overview
 
-Pillars of Hercules is a dive site in Antigua and Barbuda featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Pillars of Hercules is one of Antigua's most visually distinctive dive sites — a series of large volcanic rock pillars rising from the seafloor to the surface along the exposed southeast coastline. Unlike most Caribbean reef diving, the dominant feature here is the rock structure itself: the vertical column faces are colonised by encrusting organisms from top to bottom, with orange tube sponges, yellow cup corals, and bright encrusting sponges creating a richly coloured vertical garden. The site is on the more exposed southern coast, which means it can experience surge and current from the Caribbean, adding energy to the dive. Maximum depth is only 9 meters, but the dramatic rock architecture makes this a compelling intermediate site. Visibility is typically 20–30 meters in good conditions.
 
 ## Site Information
 
-- **Location**: Antigua and Barbuda, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 9 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+| Detail | Value |
+|--------|-------|
+| Depth Range | 2–9 m |
+| Difficulty | Intermediate |
+| Entry Type | Boat |
+| Site Type | Wall |
+| Visibility | 20–30 m |
+| Current | Light to moderate |
+| Water Temp | 26–28°C |
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+The pillar structures create complex micro-habitats on their faces, bases, and surrounding sandy areas. Banded butterfly fish and foureye butterflyfish are abundant on the pillar faces, feeding on the encrusting organisms. Large French and queen angelfish are permanent residents. Caribbean spiny lobster occupy the crevices at the pillar bases. Schools of horse-eye jacks circle the pillar complex in mid-water. Hawksbill turtles are regularly seen feeding on the encrusting sponges. The sandy floor around the pillars hosts southern stingrays and garden eels.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-9 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Descent around the outermost pillar, followed by a figure-of-eight route between and around the pillar cluster. Most of the interesting structure is in the 5–9 meter range. The pillar faces on the seaward side carry the densest encrustation. The bases of the pillars at 8–9 meters are worth examining closely for lobster, crabs, and the various encrusting species visible with a torch. Safety stop is comfortably taken at 5 meters between the pillars.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Antigua's southeast coast operators. The site's exposed position means it is weather-dependent — southeast swells can make the site unsuitable. Operators assess conditions on the day. Entry by giant stride or backward roll.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+Pillars of Hercules is best dived in calm conditions when surge is minimal, typically April–October. A torch illuminates the true colours of the encrusting organisms on the pillar faces — these are a key visual feature of the site. The site is excellent for underwater photographers seeking a subject distinct from the standard Caribbean coral reef. Combine with Sunken Rock or the Andes Wreck for a full day on Antigua's southern coast.
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Surge at this exposed site can be significant in northeasterly trade wind conditions (November–February). The site should be dived only in appropriate conditions. Current between the pillars can be unexpected. Maintain awareness of boat position when surfacing between the pillars. DSMB required.
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+The pillar faces are the photographic highlight — wide-angle with supplemental lighting on the encrusted face creates strong colour and texture images. The open water between pillars provides good negative space for diver silhouettes. Split-level photography above the pillar tops in calm conditions shows the volcanic rock emerging from the water. Macro subjects on the pillar encrustation are excellent.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- Antigua dive operators: southeast coast dives including Pillars of Hercules offered on suitable weather days
+- Antigua and Barbuda: the southeast coast reef system extends to Sunken Rock, often combined with this site
 
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

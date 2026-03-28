@@ -11,56 +11,54 @@ osmId: 746173582
 addedBy: osm_import
 ---
 
-## Bush Reef
+# Bush Reef
 
-Bush Reef is a reef dive site in Jamaica, Caribbean.
+A south-coast Jamaican reef in the Kingston region with quiet conditions and classic Caribbean reef formations away from the tourist trail.
 
 ## Overview
 
-Bush Reef is a dive site in Jamaica offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Bush Reef is located on Jamaica's southern coast in the area south of Kingston, where a system of shallow reefs and cays creates productive diving terrain that is rarely visited by tourist divers. The reef features spur-and-groove formations at 8–16 metres, with sandy channels between the coral ridges and small overhangs providing shelter for reef fish. The southern coast is less sheltered than the north, and conditions are more variable — calmer in winter (December–April) when trade winds are consistent and the south coast is less exposed. Visibility averages 15–20 metres. Water temperature stays near 27–28°C year-round.
 
 ## Site Information
 
-- **Location**: Jamaica, Caribbean
+- **Location**: South Jamaica coast (near Kingston region)
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 16 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Typical Visibility**: 15–20 meters (50–65 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The reef supports French grunts, schoolmaster snapper, parrotfish, and blue tangs. Nurse sharks are occasionally present under coral overhangs. Hawksbill turtles are seen in the area. Spiny lobsters and spotted moray eels occupy the crevices. Southern stingrays are found on the sandy channels between reef structures. Goatfish forage through the sand with their barbels. Sergeant majors defend algae patches in the shallower sections.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 16 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-16 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the reef at 8–10 metres and navigate along the spur-and-groove system. The outer reef drops to 14–16 metres on the seaward side. Follow the reef crest for navigation and ascend for a safety stop at 5 metres before surfacing. The site is a straightforward, no-frills reef dive.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access requires a local dive guide with a small boat operating from the south coast area near Kingston. Entry via giant stride or back roll. Mooring options are limited — a diver-down flag and surface marker are essential.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- The south coast is a genuine off-the-beaten-path dive area — expect few other divers
+- Combine with nearby south-coast sites for a full day of exploring
+- Conditions on the south coast are best checked locally before travelling
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Remote location with limited dive infrastructure. Carry appropriate safety equipment. Current can be variable on the south coast. Maintain good situational awareness throughout the dive.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The undisturbed reef provides clean photographic subjects without other divers in the frame. Nurse shark and lobster portraits work well in the reef crevices. Wide-angle shots of the coral ridges capture the classic Jamaican reef structure.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

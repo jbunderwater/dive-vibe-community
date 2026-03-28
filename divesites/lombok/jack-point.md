@@ -11,56 +11,56 @@ osmId: 2395669751
 addedBy: osm_import
 ---
 
-# Jack Point
+## Jack Point
 
-A drift dive on the northern slope of Gili Trawangan named for the schooling jack fish that patrol its deep coral ridges.
+Gili Trawangan's western drift dive where jackfish schools and reef sharks congregate at the current-swept central headland.
 
 ## Overview
 
-Jack Point sits on the north side of Gili Trawangan, running along a steep slope from 5 meters on the reef top down to 24 meters at the base of the main ridge, with further ridges extending to 40 meters for Advanced divers. The site takes its name from the large schools of jack fish (trevally) that consistently aggregate in the water column above the deeper ridges. The topography consists of a graduated series of coral-covered ridges running parallel to the shoreline, with soft corals and gorgonians occupying the deeper sections and hard corals dominating the shallow reef top. Current sweeps along the slope, making this primarily a drift dive where the boat drops upstream and collects divers at the end of their drift.
+Jack Point is at the central western coastline of Gili Trawangan, where the drift currents from north and south converge at the point, creating dense fish aggregations — particularly of jackfish (trevally) that circle the headland in large schools. Divers approach at depth and ascend to observe the schools before being carried around the point. Blue-spotted stingrays, cuttlefish, chromis, and colourful reef fish inhabit the reef flats above the point in the shallows. The site can be dived at three depth levels — deep, midwater, and shallow — making it flexible for different experience levels. Accessible to Lombok day-trip boats.
 
 ## Site Information
 
-- **Location**: North side, Gili Trawangan, Lombok, Indonesia
-- **Entry Type**: Boat dive
-- **Site Type**: Drift
+- **Location**: West Gili Trawangan, accessible from Lombok
+- **Entry Type**: Boat dive (drift)
+- **Site Type**: Drift / Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters (66 feet)
-- **Typical Visibility**: 10–25 meters
-- **Current**: Moderate drift along the slope
-- **Water Temperature**: 26–30°C (79–86°F)
+- **Maximum Depth**: 20 m
+- **Typical Visibility**: 15–25 m
+- **Current**: Strong at the point; drift conditions
+- **Best Time**: May to October
 
 ## Marine Life
 
-Schooling giant trevally and yellowtail trevally aggregate in the water column above the deeper ridges, especially when current is running. Green and hawksbill turtles are common in the shallow reef top at 5–8 meters. Whitetip reef sharks cruise the mid-depth ridges. Moray eels and lionfish inhabit coral crevices throughout the slope. Blue-spotted stingrays rest on sandy patches between ridges. Eagle rays occasionally sweep past on the outer edge of the site. The gorgonian fans in the 15–20 meter range shelter invertebrates and small reef fish. Bumphead parrotfish appear seasonally around full moon periods when current is strongest.
+Dense schools of jackfish and bigeye trevally at the point. Reef sharks cruise the current-swept headland. Blue-spotted stingrays on sandy patches. Cuttlefish in the shallows. Chromis, basslets, and reef fish in the upper reef zone at 5–12 m.
 
 ## Dive Profile
 
-Drop in at the upstream end of the slope and follow the current along the ridges. Maintain a depth of 10–20 meters for most of the dive, using the ridge topography to regulate depth as the slope varies. The standard drift covers the main ridge section before gradually shallowing for a safety stop on the upper reef. Total dive time typically 50–60 minutes. The boat tracks bubbles and collects divers at the drift's end point.
+Approach the point from upstream at 15–20 m. Observe the jackfish schools concentrated at the tip. Ascend via the upper reef flats in the shallows before being carried around the point. Drift carefully — being swept around the point into open water should be avoided if possible.
 
 ## Entry and Exit
 
-Boat dive from Gili Trawangan. The boat drops divers upstream and follows the group. Entry is typically by giant stride negatively buoyant when current is running. SMB deployment on ascent is standard.
+Boat from Lombok or Gili Trawangan operators. Drift entry. Close boat coordination required for pickup. SMB essential.
 
 ## Tips and Recommendations
 
-- Look up and into the blue water when schooling jack fish are present — the aggregations can be impressive
-- Visit during a flooding tide for the strongest current and best pelagic activity
-- Combine with nearby Halik on a two-tank drift dive trip along the northern reef
-- The deeper ridges below 24 meters are worth visiting on a separate Advanced dive
+- Time entry for moderate current — too strong and the point cannot be approached safely
+- The shallow 5–12 m section around the headland is the most accessible drift option
+- Cuttlefish encounters at 3–8 m in the shallows are a highlight of the upper section
+- Accessible from Lombok as part of a full-day Gili Islands dive trip
+- Neap tides significantly reduce the current intensity at the point
 
 ## Safety Considerations
 
-The drift current is the primary challenge. Stay close to the reef and communicate with your buddy about depth and direction. If the current strengthens unexpectedly, drop to the bottom of a ridge to shelter. Surface only at the designated pickup point with an SMB deployed. Monitor air more carefully in a drift than in a stationary dive.
+Strong current at the headland can sweep divers into open water. Plan to end the dive before the point tip and surface in the shallower reef area. Always carry an SMB. Coordinate the pickup point with the boat crew before descending.
 
 ## Photography
 
-Schooling trevally above the deep ridges offer classic wide-angle schooling fish shots. The ridge topography with soft corals and gorgonians frames well with a wide-angle lens. Turtle encounters on the shallow reef top are relaxed and consistent. Drift photography requires quick composition — practice shooting with the current rather than against it.
+Jackfish school density at the point produces compelling wide-angle images. Cuttlefish in the shallows are approachable portrait subjects. Reef shark silhouettes against the open water suit wide-angle.
 
 ## Additional Resources
 
-- [Trawangan Dive – Dive Sites](https://www.trawangandive.com/dive-sites-gili-islands/)
-- [Gili Shark Conservation – Top 5 Dive Sites](https://www.gilisharkconservation.com/top-5-dives-sites-around-the-gili-islands/)
-- Last Updated: 2026-03-28
+- **Last Updated**: 2026-03-28
 
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*

@@ -11,56 +11,56 @@ osmId: 2395669750
 addedBy: osm_import
 ---
 
-# Halik
+## Halik
 
-A long drift dive along the northwest corner of Gili Trawangan with some of the best shallow coral in the Gilis and consistent shark sightings.
+A drift reef on the northwest side of Gili Trawangan with giant barrel sponges, eagle rays, and good shark activity — accessible from Lombok operators.
 
 ## Overview
 
-Halik stretches along the northwestern side of Gili Trawangan where the island meets the open Lombok Strait. The site begins at around 6 meters with a reef top studded with large gorgonian fans and barrel sponges before dropping through a series of coral ridges and canyons down to 40 meters. The 20-meter zone covered here is the most dive-friendly section, following the reef slope where current pushes divers along comfortably. The reef top at Halik is considered to have some of the finest, most vibrant hard coral cover in the entire Gili Islands. During full moon periods, large schools of bumphead parrotfish appear, attracted by the current. The site can be dived at multiple depth bands depending on experience and interest.
+Halik Reef runs along the northwest side of Gili Trawangan and is dived as a drift, carrying divers through a varied reef system from the barrel sponge zone at 6 m through to the gorgonian-covered ridges deeper down. The consistent current makes for efficient diving where fish aggregations appear reliably — eagle rays, reef sharks, giant trevally, and large clownfish anemone fields are the signature features. The site is accessible to intermediate divers in the upper sections and offers deeper options for advanced divers. It is one of the most popular sites in the Gili Islands circuit for Lombok day-trip boats.
 
 ## Site Information
 
-- **Location**: Northwest side, Gili Trawangan, Lombok, Indonesia
-- **Entry Type**: Boat dive
-- **Site Type**: Drift
+- **Location**: Northwest Gili Trawangan, accessible from Lombok
+- **Entry Type**: Boat dive (drift)
+- **Site Type**: Drift / Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters (66 feet)
-- **Typical Visibility**: 10–25 meters
-- **Current**: Moderate to strong drift; ideal conditions for drift diving
-- **Water Temperature**: 26–30°C (79–86°F)
+- **Maximum Depth**: 20 m
+- **Typical Visibility**: 15–25 m
+- **Current**: Moderate drift
+- **Best Time**: May to October
 
 ## Marine Life
 
-The shallow reef top at 5–8 meters holds green and hawksbill turtles relaxing on hard coral, alongside cuttlefish, octopus, and multiple species of lobster in crevices. Anemonefish inhabit anemones throughout the reef. Moray eels and lionfish are consistent residents in coral overhangs. When current runs, schooling snappers, giant trevally, and eagle rays sweep past the reef edge. Blacktip reef sharks cruise both the deep sections and surprisingly shallow near the reef top. Around full moon, bumphead parrotfish arrive in large groups, using the current to manoeuvre along the reef. The barrel sponges and gorgonian fans in the 6–15 meter zone host shrimps, nudibranchs, and small macro critters.
+Eagle rays in mid-water are a defining feature of this reef. White and blacktip reef sharks. Schools of snapper and giant trevally. Giant barrel sponges hosting shrimps and small fish. Extensive anemone fields with clownfish. Lionfish in overhangs. Turtles throughout.
 
 ## Dive Profile
 
-The standard drift dive begins at the northwestern tip of Gili Trawangan and follows the current along the reef face. Most of the dive takes place between 6 and 20 meters. The current guides navigation — simply maintain your chosen depth and let the reef pass by. The divemaster typically signals depth changes based on current direction. Surface after 50–60 minutes when you reach the designated pickup point downurrent.
+Enter upstream of the reef and drift with the current. Stay at 10–20 m for the best combination of reef features and pelagic sightings. The barrel sponge zone at 6–10 m rewards a shallower drift. Ascend progressively with the current and complete the safety stop drifting in the upper water column.
 
 ## Entry and Exit
 
-Boat dive from Gili Trawangan. The boat drops divers at the upstream end of the site and follows the group's bubbles, picking up at the end of the drift. Negative entry is standard when current is running. Carry an SMB for the ascent.
+Boat from Lombok or Gili Trawangan operators. Drift entry and pickup. SMB mandatory.
 
 ## Tips and Recommendations
 
-- Visit around full moon for maximum chance of bumphead parrotfish schooling
-- Spend time in the shallow reef top zone at 6–8 meters — some of the best coral cover in the Gilis is here
-- Look out toward the blue water from the reef edge for eagle rays and trevally
-- The deeper canyons below 20 meters require Advanced certification and are a separate dive commitment
+- Day trips from Lombok to the Gili Islands often include Halik as one of the featured sites
+- The giant barrel sponges at 6–10 m are worth slowing down to examine carefully
+- Eagle ray sightings are common enough to plan on them rather than hope for them
+- Accessible to intermediate Open Water divers in the 10–18 m range
+- Combine with Shark Point or Turtle Point for a full northwest Gili Trawangan day
 
 ## Safety Considerations
 
-Current can be strong on this site and is the primary consideration. Stay close to the reef to use it as a reference point. Avoid ascending into the current in the middle of the channel. If current becomes too strong, abort by ducking behind a coral structure and signaling the boat. Always carry an SMB.
+Drift current is always running. Do not fight against it. Be prepared to surface away from the boat and use SMB for pickup. Reef sharks are non-aggressive. Always carry an SMB.
 
 ## Photography
 
-Halik's vibrant shallow coral makes for excellent ambient-light reef photography at 6–10 meters. Wide-angle shots capturing the reef topography with drifting divers convey the site's character well. When bumphead parrotfish are present, wide shots of the aggregation against the reef background are spectacular. Turtle encounters in the shallows offer relaxed portraiture opportunities.
+Giant barrel sponges make distinctive wide-angle subjects. Eagle rays in open water suit wide-angle with fast shutter. Clownfish in large, colourful anemones suit close-focus wide-angle compositions.
 
 ## Additional Resources
 
-- [Trawangan Dive – Dive Sites](https://www.trawangandive.com/dive-sites-gili-islands/)
-- [Almarik – 10 Amazing Dive Sites Around Gili Trawangan](https://www.almarik-lombok.com/news/10-amazing-dive-sites-around-gili-trawangan-you-need-to-see/)
-- Last Updated: 2026-03-28
+- **Last Updated**: 2026-03-28
 
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*
