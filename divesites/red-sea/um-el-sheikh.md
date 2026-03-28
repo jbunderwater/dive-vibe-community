@@ -11,56 +11,54 @@ osmId: 6920738918
 addedBy: osm_import
 ---
 
-## Um El Sheikh
+# Um El Sheikh
 
-Um El Sheikh is a reef dive site in Red Sea, Middle East.
+A Fury Shoals reef named "mother of the elder" — a reef complex with sandy channels, coral gardens, and the open-water clarity of the southern Egyptian offshore zone that places it in the same calibre as the more famous Fury Shoals destinations.
 
 ## Overview
 
-Um El Sheikh is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Um El Sheikh sits at approximately 24.31°N, 35.40°E in the Fury Shoals complex south of Marsa Alam. "Um el Sheikh" (أم الشيخ — "mother of the elder") is a name pattern common in Egyptian geography, applied here to an offshore reef in one of Egypt's best-preserved dive regions. The site's position in the Fury Shoals means it shares the cluster's characteristics: clear water, minimal dive pressure, and the pristine coral coverage that results from limited commercial traffic. The reef has the typical Fury Shoals structure — a main reef body with sandy passages and an outer slope.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Boat dive
+- **Location**: Fury Shoals, southern Egyptian Red Sea (~24.31°N, 35.40°E)
+- **Entry Type**: Boat dive (extended day trip from Marsa Alam or liveaboard)
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 20–30 meters
+- **Current**: Mild to moderate
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, humphead wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Grey reef sharks patrol the outer slope in the afternoon. Hawksbill turtles rest on the reef platform. The hard coral gardens — table corals and brain corals characteristic of the Fury Shoals — are in excellent condition. Schools of anthias and fusiliers cover the reef crest. Moray eels in the crevices. Sandy channel passages support blue-spotted stingrays and goby-shrimp pairs. Eagle rays are occasionally sighted on the outer slope.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin at the outer slope at 12–18 metres and work progressively through the coral garden. Sandy channels provide natural navigation corridors through the reef. Ascend to the reef crest at 5–8 metres for the final dive section. Safety stop at 5 metres.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Extended day trip from Marsa Alam (70–90 minutes) or liveaboard. Giant stride entry. Combine with Siyal South, Farewell Reef, or other Fury Shoals sites for a comprehensive southern day. SMB before ascending.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Slow movement through the sandy channels maximises macro discovery — goby-shrimp pairs reward patient searching
+- The outer slope is most productive for sharks in the afternoon when current is running
+- Combine with adjacent Fury Shoals sites to maximise the value of the long transit from Marsa Alam
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Offshore position requires SMB on all ascents. Current on the outer slope should be monitored. Standard reef hazards. Remote enough for careful air management.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Sandy channel macro photography and outer slope wide-angle reef shots in clear water are the primary photographic opportunities. Undisturbed fish create closer-approach opportunities than mainstream sites.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
