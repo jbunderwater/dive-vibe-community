@@ -51,7 +51,7 @@ Liveaboard access from Marsa Alam or Port Ghalib. Day boats from Marsa Alam may 
 
 ## Safety Considerations
 
-The Fury Shoals are offshore reefs; emergencies require liveaboard support. Dive conservatively and within your limits. Currents on the outer reef edges can be significant. Always carry an SMB. The area around Marsa Alam sees seasonal jellyfish influxes — exposure protection is advisable.
+The Fury Shoals are offshore reefs; emergencies require liveaboard support. Dive conservatively and within your limits. Currents on the outer reef edges can be significant. Always carry an SMB. A full-length wetsuit or 3mm suit provides adequate thermal and exposure protection year-round.
 
 ## Photography
 

@@ -11,56 +11,56 @@ osmId: 2395669749
 addedBy: osm_import
 ---
 
-## Frog Fish Point
+# Frog Fish Point
 
-Frog Fish Point is a reef dive site in Lombok, Asia.
+A muck-style reef site off Gili Air harbour known for its exceptional critter density and resident frogfish population.
 
 ## Overview
 
-Frog Fish Point is a dive site in Lombok offering rewarding diving on healthy coral reef structures . source is Diveschool Notice Board - Location might have to be checked with a GPS. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Frog Fish Point — also known as Gili Air Harbour — sits just off the harbour of Gili Air on the island's eastern side. Unlike the dramatic walls and pinnacles of Gili Trawangan, this site is a classic muck and reef habitat where the bottom transitions from silty sand to rubble to scattered coral heads. The site takes its name from the frogfish that consistently inhabit the area, camouflaged against sponges and encrusted rocks in a range of colours. Depths run from around 5 meters near the harbour to 20 meters on the outer reef edge. The site suits Intermediate divers looking for a macro-focused alternative to the main current-driven sites, and is popular for both daytime critter hunting and night dives.
 
 ## Site Information
 
-- **Location**: Lombok, Asia
+- **Location**: East side, Gili Air harbour, Lombok, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef (muck/reef transition)
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 20 meters (66 feet)
+- **Typical Visibility**: 8–20 meters (can be reduced in harbour area)
+- **Current**: Generally mild; sheltered location
+- **Water Temperature**: 26–30°C (79–86°F)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Frogfish in multiple colour morphs are the headline attraction — small yellow juveniles and larger orange adults perch motionless on sponges and rubble. Ghost pipefish are regularly found hovering near soft coral branches. Ribbon eels occupy burrows in sandy patches, with blue males and yellow females of different life stages visible simultaneously. Cuttlefish patrol the reef edge. Moray eels and leaf scorpionfish are abundant. Nudibranchs of many species colonize the rubble zones. At night, octopus hunt actively across the sandy areas. Occasional seahorses have been reported at the harbour end of the site.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Start near the harbour and work outward from 5 meters toward the reef edge at 20 meters. Move slowly across rubble zones where frogfish and ghost pipefish are most commonly found. Spend the middle portion of the dive at 10–15 meters exploring mixed coral and sand. Return shallower for a safety stop in the harbour shallows. Night dives follow a similar profile with a torch.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Gili Air. The site is very close to the Gili Air harbour and is one of the most convenient dives in the Gili Islands — some operators conduct this as a short first dive before heading to more distant sites. Conditions are typically calm enough for easy giant stride entry.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Bring a small pointer stick to locate macro subjects for your buddy without touching anything
+- Check sponges systematically — frogfish are experts at blending in and are easy to swim past
+- Night dives here are among the best in the Gili Islands for octopus and cuttlefish activity
+- Tell your divemaster if you want to focus specifically on frogfish — they know the current hotspots
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+This is a sheltered, calm site suitable for most Intermediate divers. Harbour traffic means you should stay aware of boat movements when surfacing. Use a surface marker buoy on ascent. Visibility can occasionally be reduced near the harbour entrance after rainfall.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Frog Fish Point is a macro paradise. Frogfish in all their colour variations are the star subjects — patience and a 60mm or 100mm macro lens will yield compelling portraits. Ghost pipefish photographed against soft coral backgrounds make excellent close-focus wide-angle shots. Night dives open up octopus hunting sequences and cuttlefish eye-contact portraits.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- [Manta Dive – Gili Islands Dive Sites](https://manta-dive.com/diving-gili-trawangan/gili-dive-sites/)
+- [Starfish.ch – Gili Air Dive Sites](https://www.starfish.ch/dive/Lombok.html)
+- Last Updated: 2026-03-28
 
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Napoleon Reef
 
-Napoleon Reef is a reef dive site in the northern Sinai coast at approximately 28.47°N, 34.51°E, north of Sharm el-Sheikh in the Gulf of Aqaba. Like Moray Garden further south in the same coastal area, Napoleon Reef takes its name from its signature resident species — napoleon wrasse (Cheilinus undulatus), also called humphead wrasse, one of the largest and most iconic fish on the Red Sea reef.
+Napoleon Reef is a reef dive site on the northern Sinai coast at approximately 28.47°N, 34.51°E, north of Sharm el-Sheikh in the Gulf of Aqaba. Like Moray Garden further south in the same coastal area, Napoleon Reef takes its name from its signature resident species — the humphead wrasse (*Cheilinus undulatus*), one of the largest and most iconic fish on the Red Sea reef.
 
 ## Overview
 
-Napoleon wrasse are unmistakable — large adults can reach over 2 meters in length and weigh more than 180 kg, with distinctive humped foreheads and thick lips that give them a uniquely memorable appearance. At Napoleon Reef, these fish are resident and sufficiently habituated to divers that reliably close-up encounters are documented in trip reports. The reef itself provides a backdrop of healthy coral formations at intermediate depths, but the defining experience here is the napoleon wrasse. The site is accessible by day boat from Sharm el-Sheikh and sits in the productive northern Gulf of Aqaba waters.
+Humphead wrasse are unmistakable — large adults can reach over 2 meters in length and weigh more than 180 kg, with distinctive humped foreheads and thick lips that give them a uniquely memorable appearance. At Napoleon Reef, these fish are resident and sufficiently habituated to divers that reliably close-up encounters are documented in trip reports. The reef itself provides a backdrop of healthy coral formations at intermediate depths, but the defining experience here is the humphead wrasse. The site is accessible by day boat from Sharm el-Sheikh and sits in the productive northern Gulf of Aqaba waters.
 
 ## Site Information
 
@@ -44,19 +44,19 @@ Day boat from Sharm el-Sheikh (approximately 20-30 minute journey north). Entry 
 
 ## Tips and Recommendations
 
-- Approach napoleon wrasse slowly and calmly from the front or side — approaching rapidly from behind will cause the fish to retreat
-- Never attempt to touch, ride, or feed napoleon wrasse — these are wild animals and deserve space
+- Approach humphead wrasse slowly and calmly from the front or side — approaching rapidly from behind will cause the fish to retreat
+- Never attempt to touch, ride, or feed humphead wrasse — these are wild animals and deserve space
 - The wrasse may follow the dive group for the entire dive — enjoy the encounter without rushing
-- A wide-angle lens is essential to photograph napoleon wrasse close-up due to their impressive size
+- A wide-angle lens is essential to photograph humphead wrasse close-up due to their impressive size
 - This is an excellent site for less experienced intermediate divers wanting a memorable large-animal encounter in benign conditions
 
 ## Safety Considerations
 
-Conditions are generally mild at this coastal Sinai site. Standard reef hazards apply: fire coral on formations, urchins near the sandy base, and lionfish in shaded overhangs. Always complete a safety stop and deploy SMB before surfacing. Never block the path of or chase napoleon wrasse — they are large, powerful fish capable of knocking divers off balance if startled into a quick movement.
+Conditions are generally mild at this coastal Sinai site. Standard reef hazards apply: fire coral on formations, urchins near the sandy base, and lionfish in shaded overhangs. Always complete a safety stop and deploy SMB before surfacing. Never block the path of or chase humphead wrasse — they are large, powerful fish capable of knocking divers off balance if startled into a quick movement.
 
 ## Photography
 
-Napoleon Reef is one of the best Red Sea sites for napoleon wrasse photography. Use a wide-angle lens — 15-16mm equivalent or wider — to capture the animal's full size while maintaining close proximity. Shoot from below and slightly to the front for the most dramatic perspective and to catch the characteristic humped forehead profile. Natural light in the 5-12 meter range typically provides sufficient exposure without strobe for ambient reef shots with the wrasse.
+Napoleon Reef is one of the best Red Sea sites for humphead wrasse photography. Use a wide-angle lens — 15-16mm equivalent or wider — to capture the animal's full size while maintaining close proximity. Shoot from below and slightly to the front for the most dramatic perspective and to catch the characteristic humped forehead profile. Natural light in the 5-12 meter range typically provides sufficient exposure without strobe for ambient reef shots with the wrasse.
 
 ---
 *This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

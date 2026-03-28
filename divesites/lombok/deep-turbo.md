@@ -11,56 +11,56 @@ osmId: 2395669748
 addedBy: osm_import
 ---
 
-## Deep Turbo
+# Deep Turbo
 
-Deep Turbo is a pinnacle dive site in Lombok, Asia.
+A cluster of large coral pinnacles north of Gili Trawangan offering open-ocean feel, pelagic encounters, and excellent macro life on sea fans.
 
 ## Overview
 
-Deep Turbo is a dive site in Lombok offering rewarding diving on healthy coral reef structures . source is Diveschool Notice Board - Location might have to be checked with a GPS. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Deep Turbo is located just north of Gili Trawangan in the open waters of the Lombok Strait. The site consists of approximately five coral-covered pinnacles rising from a sandy bottom at 30 meters up to around 16 meters depth. The deeper, exposed location creates an open-ocean atmosphere unlike the shallower island sites — descending onto Deep Turbo gives divers the experience of seeing the reef emerge from the deep. Currents between the pinnacles can be strong, creating gaps of 10 meters or so that funnel water and attract schooling pelagics. Nitrox is commonly used to extend bottom time at this depth. The site suits Advanced divers comfortable with current, depth management, and buoyancy in open water.
 
 ## Site Information
 
-- **Location**: Lombok, Asia
+- **Location**: North of Gili Trawangan, Lombok Strait, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 30 meters (100 feet)
+- **Typical Visibility**: 15–30 meters
+- **Current**: Moderate to strong; increases in inter-pinnacle channels
+- **Water Temperature**: 26–30°C (79–86°F)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The pinnacle tops between 16 and 20 meters host large schools of batfish, red-tooth triggerfish, and snapper. Gorgonian sea fans in the 20–30 meter range shelter pygmy seahorses — look carefully at the fan polyps. Blue-spotted rays and occasional whitetip reef sharks patrol the sandy bottom at depth. Thousands of garden eels emerge from the sand between pinnacles. Leopard sharks rest on the sandy patches. Barracuda and giant trevally sweep through the water column when current is running. Nudibranchs and flatworms colonize the pinnacle surfaces throughout the depth range.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Enter negatively buoyant and descend directly to the deepest pinnacle base at 30 meters. Work up through the pinnacle cluster toward shallower structures, spending maximum time in the 16–25 meter zone where fish density is highest. Ascend to a safety stop at 5 meters along the shallowest pinnacle top. Total dive time on air is typically 35–45 minutes; Nitrox divers can extend this considerably.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Gili Trawangan. The site requires a short boat ride north of the island into the open strait. Surface conditions can be choppier than the sheltered lagoon sites. Giant stride entry and SMB ascent are standard.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Nitrox is strongly recommended to maximize bottom time at 30 meters
+- Deploy an SMB from depth before ascending — surface can be busy with boat traffic in the strait
+- Check current direction before descending; a strong current can sweep divers away from the pinnacle cluster
+- The inter-pinnacle channels are exciting to drift through when conditions allow
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+This is an Advanced-level site due to depth, open-ocean location, and variable current. Dive with a computer and monitor no-decompression limits at 30 meters. Carry an SMB. Do not dive this site alone or in rough surface conditions. Bottom time at maximum depth is brief on air — plan your dive profile before descending.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The pinnacle formations at depth create dramatic wide-angle compositions, particularly when schooling fish are framed against the structure. Gorgonian fans with pygmy seahorses are outstanding macro subjects. The open-ocean setting makes blue-water wide shots effective when visibility is above 20 meters.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- [Trawangan Dive – Dive Sites](https://www.trawangandive.com/dive-sites-gili-islands/)
+- [Diving Scene – Deep Turbo and Halik](https://www.diving-scene.com/post/diving-and-exploring-in-gili-deep-turbo-halik-coral-fan-garden)
+- Last Updated: 2026-03-28
 
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,55 +13,55 @@ addedBy: osm_import
 
 ## Chinese Wall
 
-Chinese Wall is a wall dive site in Cayman Islands, Caribbean.
+A dramatic Grand Cayman wall dive on the South Side offering large barrel sponges, sea fans, and prolific Caribbean reef life along the island's less-dived southern drop-off.
 
 ## Overview
 
-Chinese Wall is a dive site in Cayman Islands featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Chinese Wall is located on Grand Cayman's South Side, which receives significantly less dive traffic than the island's busy West Side. The wall drops dramatically from the coral shelf at around 15 meters to recreational limits and beyond, providing the classic Cayman wall experience of hovering above deep blue water while colorful formations line the vertical face. Large barrel sponges and sea fans are characteristic features of this wall section. The South Side's exposure to the open Caribbean Sea means conditions can be affected by southerly swell, but on calm days it offers a more remote, less crowded wall diving experience than the heavily dived Seven Mile Beach side. Currents along this wall section can be moderate.
 
 ## Site Information
 
-- **Location**: Cayman Islands, Caribbean
+- **Location**: South Side, Grand Cayman
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Site Type**: Wall
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 45 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Maximum Depth**: 45 meters (147 feet) — stay within sport diving limits of 40 meters
+- **Typical Visibility**: 20–35 meters (65–115 feet)
+- **Current**: Moderate — variable
+- **Water Temperature**: 26–29°C (79–84°F)
+- **Best Time**: December–April (calmer South Side conditions)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+The South Side wall hosts Caribbean reef sharks patrolling along the drop-off edge. Large grouper occupy ledges on the wall face. Eagle rays are regularly encountered cruising along the wall. Hawksbill turtles are common on the South Side reefs. The wall face itself carries dense growth of purple, orange, and yellow sponges, interspersed with large sea fans that provide habitat for flamingo tongue cowries and various hawkfish species.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-45 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Descend to the wall edge and work horizontally along the face, maintaining your planned depth before shallowing up toward the end of the dive. The South Side wall typically has less surge than the North Wall. Spend extended time in the 15–25 meter range where large sponge growth and fish diversity are concentrated. Always ascend with adequate gas for the safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from South Side operators or George Town operators running South Side excursions. The South Side can be rough with southerly swell — weather assessment is important before departure. Giant stride entry and SMB deployment on ascent.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- The South Side offers a more adventurous, less crowded alternative to the West Side wall dives
+- Check South Side conditions specifically — the western harbor reports don't reflect South Side weather
+- Large barrel sponges on this wall section can exceed a meter in diameter
+- Current diving skills are needed as South Side currents can be variable
+- A dive computer is essential for managing depth on wall dives where the bottom is not visible
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Wall diving requires continuous depth monitoring since the absent floor reference can lead to deeper-than-planned dives. The 45-meter maximum depth technically enters the technical diving range — sport divers should set a firm limit at 40 meters. South Side weather can deteriorate quickly — the boat captain's judgment on conditions should be followed without question.
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+Chinese Wall's barrel sponges and sea fans create outstanding wide-angle subjects. The wall face with its vertical sponge garden and deep blue water background is a signature image. Eagle ray encounters require quick shooting reactions — pre-set camera exposure for ambient conditions rather than spending time adjusting. Strobe lighting at moderate range (60–80 cm) brings out the vivid reds and oranges of sponge growth on the wall face.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*
