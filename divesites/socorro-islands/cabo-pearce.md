@@ -11,57 +11,48 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Cabo Pearce
+# Cabo Pearce
 
-Cabo Pearce is a wall dive site in Socorro Islands, Pacific.
+A volcanic lava finger wall with a manta cleaning station and the archipelago's famous resident pod of interactive bottlenose dolphins
 
 ## Overview
-
-Cabo Pearce is a dive site in Socorro Islands featuring a dramatic vertical wall that drops into the deep blue. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Cabo Pearce is a long volcanic lava finger formation on the eastern side of Socorro Island, created by ancient lava flows. The solidified ridge extends from the shoreline out into the deep Pacific, with sheer walls on either side dropping to over 400 metres. This geological structure acts as a natural current break and pelagic aggregation point. The site is defined by two extraordinary encounters found at very few other destinations globally: giant Pacific manta rays at an endemic Clarion angelfish cleaning station, and a resident bottlenose dolphin pod that actively seeks out and initiates interaction with divers.
 
 ## Site Information
-
-- **Location**: Socorro Islands, Pacific
+- **Location**: Socorro Island, Socorro Islands, Pacific
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 20-30 metres
+- **Current**: Strong and variable — can be the strongest in the archipelago
+- **Best Time**: November to June
 
 ## Marine Life
-
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+The resident bottlenose dolphin pod is Cabo Pearce's most distinctive feature. These dolphins actively swim toward divers, make eye contact, and engage in prolonged interactive behavior — including swimming vertically as if imitating divers. This is not passive observation; the dolphins initiate and control the encounters. Giant Pacific manta rays congregate at the cleaning station on the shallow shelf, serviced by the endemic Clarion angelfish found only in the Revillagigedo Archipelago. Schools of scalloped hammerhead sharks (up to 10 or more) patrol the drop-off. Galapagos sharks, whitetip reef sharks, and silky sharks work the wall edges. Tiger sharks appear occasionally. Humpback whales pass through from January to March. A shallow plateau at 10-12 metres harbours lobsters, Clarion damselfish (another Revillagigedo endemic), and nudibranchs on the south side.
 
 ## Dive Profile
-
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-30 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Negative entry is often required due to strong surface currents. The standard profile begins with a deep scouting phase at approximately 30 metres, checking the open water along the volcanic wall for hammerheads and other pelagics. Ascend gradually along the ridge, managing gas and no-decompression limits. Spend remaining bottom time at the cleaning station on the shallow shelf (10-15m) for manta and dolphin encounters — this zone doubles as safety stop territory. Divers can shelter along the sides of the rocky finger or tuck between boulders while watching large animals pass.
 
 ## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Zodiac tender from the liveaboard. Giant stride or back roll entry. Negative entries are common — vent all air and descend rapidly due to strong surface currents. Deploy an SMB during ascent; currents can carry divers away from the pickup zone. This is one of the most current-exposed sites in the archipelago.
 
 ## Tips and Recommendations
-
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Remain completely passive during dolphin encounters — never chase, touch, or swim toward them
+- Stay low and stationary near the cleaning station for manta encounters
+- Gloves are prohibited throughout the marine park
+- Check the south side of the lava finger at 10-15m for nudibranchs and endemic Clarion damselfish
+- Strong current management skills are essential — this can be the most challenging current in the archipelago
+- Nitrox strongly recommended
 
 ## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Cabo Pearce can experience ripping currents from any direction, described by experienced divers as the worst current in the Socorro Islands. Conditions at depth are often more manageable than the surface. A high-visibility SMB, audible signalling device, and GPS beacon are strongly recommended. The nearest hyperbaric chamber is in Cabo San Lucas or La Paz (approximately 30 hours transit). Never fight the current — signal the boat and drift if necessary.
 
 ## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+Wide-angle is essential for dolphin and manta encounters. The dolphins approach extremely close and make eye contact, providing extraordinary portrait opportunities. Manta belly shots at the cleaning station are signature images. The volcanic wall and deep blue water background create dramatic wide-angle compositions with sharks and pelagics. The south side offers macro opportunities with nudibranchs and endemic species.
 
 ## Additional Resources
-
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

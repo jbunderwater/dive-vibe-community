@@ -11,56 +11,47 @@ osmId: null
 addedBy: osm_import
 ---
 
-## O'Neal Rock
+# O'Neal Rock
 
-O'Neal Rock is a pinnacle dive site in Socorro Islands, Pacific.
+A volcanic pinnacle nicknamed "Hammerhead Central" with a shallow plateau and photogenic cavern below
 
 ## Overview
-
-O'Neal Rock is a dive site in Socorro Islands offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+O'Neal Rock (Roca O'Neal) is a volcanic pinnacle off Socorro Island, earning the nickname "Hammerhead Central" for its reliable encounters with schools of scalloped hammerhead sharks. The pinnacle features a distinctive plateau at 10-12 metres topped with volcanic rock, and below this a photogenic cavern that is one of the few true swim-through features in the archipelago. The combination of the shallow plateau, the cavern, and consistent hammerhead schooling makes O'Neal Rock one of the more structurally interesting dive sites in the Socorro Islands.
 
 ## Site Information
-
-- **Location**: Socorro Islands, Pacific
+- **Location**: Socorro Island, Socorro Islands, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
+- **Typical Visibility**: 15-25 metres
 - **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Best Time**: November to June
 
 ## Marine Life
-
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Schools of scalloped hammerhead sharks are the signature encounter, giving the site its "Hammerhead Central" reputation. The hammerheads patrol the blue water around the pinnacle, often in groups of 10-30 or more. Whitetip reef sharks rest on the plateau and in the cavern below. Galapagos sharks and silky sharks cruise the deeper water. Giant Pacific manta rays visit the site regularly. The cavern below the plateau harbours lobsters, moray eels, and resting sharks. Yellowfin tuna and jacks school around the pinnacle. Humpback whale song is audible during winter months.
 
 ## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the plateau at 10-12 metres and survey the blue water for hammerhead schools. Drop below the plateau to explore the cavern — a photogenic overhang/swim-through with resting sharks and marine life. Work around the pinnacle, scanning the open water for pelagics at 15-25 metres. The structure is compact enough to cover thoroughly in a single dive. Return to the plateau for safety stop and final hammerhead viewing.
 
 ## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Zodiac tender from the liveaboard. Giant stride entry. Currents can be moderate to strong around the pinnacle. Deploy an SMB during ascent. The plateau provides a natural gathering point at the start and end of the dive.
 
 ## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Arrive at the plateau early and settle — hammerheads are often most active in the first minutes of the dive
+- Explore the cavern below the plateau for dramatic photography opportunities
+- Look for resting whitetip reef sharks in the cavern and on the plateau
+- Scan the blue water in all directions — hammerheads can approach from any angle
+- Gloves are prohibited throughout the marine park
 
 ## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Moderate to strong currents can develop around the pinnacle. The cavern should only be entered with adequate experience and awareness of overhead environments. The nearest hyperbaric chamber is approximately 30 hours away. Carry appropriate signalling devices and monitor air consumption carefully.
 
 ## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The cavern below the plateau provides one of the most photogenic topographical features in the archipelago — wide-angle shots through the cavern opening with hammerheads in the background are signature images. The shallow plateau with good natural light is ideal for ambient-light wide-angle photography of schooling hammerheads.
 
 ## Additional Resources
-
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources and regional diving knowledge. Last updated 2026-03-28.*
