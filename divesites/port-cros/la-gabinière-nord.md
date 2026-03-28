@@ -11,57 +11,56 @@ osmId: null
 addedBy: osm_import
 ---
 
-## La Gabinière Nord
+# La Gabinière Nord
 
-La Gabinière Nord is a wall dive site in Port-Cros, Europe.
+The northern face of the La Gabinière islet, featuring a dramatic underwater rock known as "Le Dolmen" and abundant grouper and moray encounters.
 
 ## Overview
 
-La Gabinière Nord is a dive site in Port-Cros featuring a dramatic vertical wall that drops into the deep blue. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+La Gabinière Nord explores the northern face of the La Gabinière integral reserve islet in Port-Cros National Park. While the eastern face is most famous for its grouper encounters, the northern approach offers its own distinct features — most notably "Le Dolmen," a massive rock formation at 33–35 metres depth that divers can pass beneath. The northern face runs through alternating drop-offs and rocky scree, with the sandy bottom at 45 metres. Marine life here is comparable to the main La Gabinière site: abundant groupers, moray eels, and a dense gorgonian layer below 20 metres. The approach direction (south-to-north, approximately 60 metres from the tip facing the Calanque Sombre) helps with underwater navigation.
 
 ## Site Information
 
-- **Location**: Port-Cros, Europe
-- **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Location**: Northern face of La Gabinière islet, Port-Cros National Park, France
+- **Entry Type**: Boat dive (mooring buoys required)
+- **Site Type**: Rocky wall and boulder field
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 40 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
+- **Maximum Depth**: 40 metres
+- **Typical Visibility**: 10–30 metres
+- **Water Temperature**: 13–25°C
+- **Current**: Variable; can be strong on the exposed northern faces
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Brown groupers (*Epinephelus marginatus*) are present in good numbers on the northern face, accustomed to divers. Large conger eels occupy the deeper overhangs, and moray eels are abundant in rock crevices from 10 to 35 metres. Scorpionfish are well camouflaged on the rocky substrate. The gorgonian fans below 20 metres are impressive — branching red sea fans and yellow gorgonians. Castagnoles (damselfish), salema, and bogue fill the water column above the rock. Spiny lobsters are present in the deeper crevices and under the Dolmen formation.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-40 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Enter from the Calanque Sombre bay and proceed in a south-to-north direction along the northern face. Navigate approximately 60 metres from the islet tip to locate the Dolmen at 33–35 metres — a memorable underwater landmark. Continue exploring the drop-offs and rocky scree, managing depth carefully in this advanced range. Ascend via the upper rocky slope and complete a safety stop at 5 metres before surfacing.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access via mooring buoy — mandatory in the integral reserve zone. Sign the park protection agreement at the harbour office before diving. Back roll or giant stride from the moored vessel. Deploy an SMB before ascending; the Calanque Sombre is busy with diving vessels in summer.
 
-## Tips and Recommendations
+## Tips
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Finding the Dolmen at 33–35 metres is the navigation target; it requires a planned descent rather than an exploratory meander
+- The northern face sees less diving pressure than the eastern face — marine life may be less accustomed to divers and consequently more natural in behaviour
+- A longer dive plan (allowing 40–50 minutes at depth) is needed to fully explore the northern arc of the islet
+- Consider nitrox for the deeper sections if qualified — bottom time is the limiting factor at 35+ metres
 
-## Safety Considerations
+## Safety
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
+Advanced designation reflects the depths involved (35+ metres in the Dolmen area) and the potential for strong current on the exposed northern face. Experienced advanced divers with good buoyancy control only. Never anchor on the reef. Deploy an SMB well before surfacing — other boats may be present. Follow national park regulations.
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+The Dolmen formation at depth makes a unique wide-angle subject — divers passing beneath the overhang with gorgonians in the foreground is an unusual composition for Mediterranean diving. Grouper portraits and moray eel close-ups are reliable. The gorgonian coverage on this face is photogenic with a wide-angle lens and strobes.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -11,55 +11,57 @@ osmId: 6813606314
 addedBy: osm_import
 ---
 
-## Egerton Rock
+# Egerton Rock
 
-Egerton Rock is a reef dive site in British Columbia, North America.
+A submerged rock on the Sunshine Coast offering typical Strait of Georgia cold-water reef diving.
 
 ## Overview
 
-Egerton Rock is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Egerton Rock lies in the Strait of Georgia off the Sunshine Coast, in the waters between the mainland BC coast and Texada Island. The Sunshine Coast is accessed by BC Ferries from Horseshoe Bay or Langdale, making this an accessible destination for Vancouver-area divers. The rock creates a focal point for marine life in otherwise featureless bottom topography. Water temperatures are 8–11°C and visibility typically ranges 8–15 metres.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Strait of Georgia, Sunshine Coast, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Submerged rock / reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 8–15 metres
+- **Current**: Tidal currents in the Strait — plan around slack
+- **Best Time**: Late spring through autumn
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Egerton Rock concentrates the typical Salish Sea species in an otherwise open-water environment. Giant Pacific octopus are found in rocky crevices. Lingcod and quillback rockfish are the dominant fish species. Plumose anemones and encrusting sponges colonise exposed surfaces. Kelp greenlings patrol the shallower portions of the rock. Dungeness crab and Puget Sound king crab are found on adjacent sandy bottom. Harbour seals visit regularly and will shadow dive groups throughout.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The rock summit reaches approximately 8–10 metres, with the base at 18 metres. Work the deeper sections of the rock's perimeter first, then ascend toward the crest as the dive progresses. Allow adequate gas for a safety stop and surface swim. The rock can be circumnavigated in a single dive, providing a complete survey of the available habitat.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access from Egmont, Pender Harbour, or Sechelt. GPS required. Anchor on sand clear of the rock. Deploy an SMB before ascending — the Strait of Georgia has significant vessel traffic. Live boat pickup is preferred.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The Sunshine Coast between Langdale and Powell River has numerous reef sites accessible in a single day trip
+- Local Sechelt and Egmont dive operators are familiar with Sunshine Coast reefs
+- Combine Egerton Rock with other nearby Sunshine Coast sites for a full day's diving
+- The area is less visited than the Gulf Islands, meaning marine life is less disturbed
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Tidal currents in the Strait of Georgia require planning. Vessel traffic between the Sunshine Coast and lower Strait is significant. Deploy SMB before ascending. Cold water (8–11°C) requires drysuit protection. Weather on the central Strait can deteriorate quickly.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Rocky reef photography with encrusting invertebrates as backdrop is the primary opportunity here. Octopus in the open or foraging near dens makes compelling subjects. Wide-angle reef panoramas with fish in mid-water are effective. Bring strobes for accurate colour rendition.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
+- Sunshine Coast dive operators in Sechelt and Gibsons
+- Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

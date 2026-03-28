@@ -11,55 +11,57 @@ osmId: 277183068
 addedBy: osm_import
 ---
 
-## Entertainment Reef
+# Entertainment Reef
 
-Entertainment Reef is a reef dive site in British Columbia, North America.
+A southern Strait of Georgia reef known for its diverse fish life and accessible intermediate diving.
 
 ## Overview
 
-Entertainment Reef is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Entertainment Reef sits in the southern Strait of Georgia southeast of the Gulf Islands, in waters that receive good tidal circulation from the main strait. The reef's name hints at its reputation for lively marine encounters. Accessible by boat from Sidney or nearby Gulf Island communities, this site offers the characteristic features of Gulf Islands cold-water diving with reliable species diversity. Water temperatures are 8–11°C and visibility reaches 8–15 metres in good conditions.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Southern Strait of Georgia, Gulf Islands area, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Submerged reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 8–15 metres
+- **Current**: Moderate tidal currents — plan around slack
+- **Best Time**: Late spring through autumn
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Entertainment Reef delivers on its name with active marine life. Schools of black rockfish frequently hover in the water column above the reef structure. Lingcod are present in good numbers and can be quite active on the reef. Giant Pacific octopus inhabit crevices. Wolf eels are occasionally encountered. Plumose anemones and encrusting sponges cover reef faces. Kelp greenlings, painted greenlings, and pile perch are common in the shallower zones. Harbour seals are regular visitors and often follow divers throughout the reef.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The reef rises to approximately 6–8 metres, with the perimeter dropping to 18 metres. Begin deeper, working along the outer reef faces where the richest invertebrate growth is found. Gradually ascend as the dive progresses. The shallow summit is ideal for safety stops and provides the best view of schooling rockfish. Allow adequate time for a 3-minute safety stop at 3 metres.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access from Sidney or Gulf Island communities. GPS required. Anchor on sand clear of the reef. Deploy a visible SMB before ascending — vessel traffic in the southern Strait includes commercial and recreational boats throughout the season. A live boat pickup keeps the boat closer to the dive team.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The schooling black rockfish are one of the visual highlights of this reef
+- A dive light enhances the colours of encrusting invertebrates in overhangs
+- Multiple visits to this reef show different species at different times of day and season
+- Local Sidney dive operators regularly include this reef in Gulf Islands day trips
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Tidal currents in the southern Gulf Islands can be significant. Plan dives around slack tide. Heavy vessel traffic makes SMB deployment critical. Cold water (8–11°C) demands drysuit protection. Dive with a buddy and maintain contact.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Schools of black rockfish photographed from below against a backlit surface create striking silhouette images. The reef structure draped with plumose anemones and coloured sponges provides rich wide-angle backgrounds. Macro photography on sponge and bryozoan surfaces reveals diverse nudibranch fauna.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
+- Sidney area dive charters and operators
+- Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

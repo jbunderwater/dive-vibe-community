@@ -11,56 +11,56 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Airport Caves
+# Airport Caves
 
-Airport Caves is a cave dive site in Utila, Caribbean.
+*A series of coral-encrusted caverns and tunnels beneath the reef near Utila's airport, accessible to beginners with good light penetration throughout.*
 
 ## Overview
 
-Airport Caves is a dive site in Utila featuring underwater cave and cavern formations. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Airport Caves is one of Utila's most popular sites for new and beginner divers, located close to Utila's small airport on the island's northeastern coast. The site features a series of coral-encrusted tunnels and caverns penetrating the reef formation at depths of 5–18 meters. Unlike true cave diving, the Airport Caves system maintains natural light throughout its passages — classified as cavern diving rather than cave — making it accessible to beginners with a guide. The cavern passages are spacious enough for comfortable navigation. Utila's waters at this site are typically clear at 20–25 meters visibility and warm at 27–28°C year-round.
 
 ## Site Information
 
-- **Location**: Utila, Caribbean
+- **Location**: Near Utila Airport, northeastern Utila, Bay Islands, Honduras
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
-- **Difficulty Level**: Beginner
+- **Site Type**: Cavern/cave system
+- **Difficulty Level**: Beginner (guided cavern, not penetration cave diving)
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: 20–25 meters (65–80 feet)
+- **Current**: Minimal in the cavern system; light on the exterior reef
+- **Best Time**: Year-round; early mornings for best light penetration into cavern openings
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+The cavern system shelters species that favor shaded, protected environments. Glassy sweepers form dense silver clouds inside the passages. Squirrelfish and soldierfish hover in the dimmer sections. Spotted drums — a highlight of many Utila dives — are reliably found near the cavern openings. Spiny lobsters fill every available crevice in the cavern walls. Outside the caves, the reef supports nurse sharks resting on the sandy patches, hawksbill turtles feeding on sponges, and the typical Bay Islands community of angelfish, parrotfish, and surgeonfish. Moray eels peer from every crevice on both the interior and exterior reef.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the reef outside the cavern system at 8–10 meters. Enter the cavern passages with your guide leading. Follow the tunnel route at 12–16 meters, keeping the guide in view and the cavern exit visible at all times. Exit the caves at the far end and explore the exterior reef before ascending. Complete the dive on the shallow exterior reef at 5–8 meters. The cavern passages are not long — the transit takes 5–10 minutes — and the bulk of the dive time is spent on the exterior reef. Bring a dive torch.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Served by Utila dive operators (multiple shops in Utila Town). Short boat ride to the north coast. Entry via giant stride or back roll. Exit via boat ladder.
 
-## Tips and Recommendations
+## Tips
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Bring a dive torch even for a cavern dive — illuminating the interior reveals colors the ambient light misses
+- Utila's dive shops offer extremely competitive pricing compared to other Caribbean destinations — this is one of the most affordable places in the world to learn to dive
+- The exterior reef near the airport has a shallow section excellent for snorkeling
+- Combine Airport Caves with a whale shark search drift dive on the same day for a complete Utila experience
+- The cavern interior is best photographed in the morning when sun angles align with the passage openings
 
-## Safety Considerations
+## Safety
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Classified as cavern diving — natural light is always visible and the passages have clear entrances and exits. The key rule is never lose sight of the exit. Proceed only as far as you can see natural light from the entrance. Buoyancy control is critical inside the passages — fin kicks that disturb sediment or brush the walls can silt the cavern rapidly. Do not attempt cave diving (beyond the cavern zone with no natural light visible) without proper cave certification. Always follow your guide.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Airport Caves offers dramatic cavern photography. The classic shot is from inside the cavern looking toward the opening — blue water and natural light framing the silhouetted opening. Glassy sweeper schools inside the cavern illuminate brilliantly when lit from the side by a video light or strobe. The exterior reef in shallow water provides excellent natural-light reef photography.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

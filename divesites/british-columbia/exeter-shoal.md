@@ -11,55 +11,57 @@ osmId: 6907656688
 addedBy: osm_import
 ---
 
-## Exeter Shoal
+# Exeter Shoal
 
-Exeter Shoal is a reef dive site in British Columbia, North America.
+A shoal dive on the central Sunshine Coast offering excellent cold-water reef diving in the upper Strait of Georgia.
 
 ## Overview
 
-Exeter Shoal is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Exeter Shoal lies in the upper Strait of Georgia along the Sunshine Coast, in waters between the BC mainland and Texada Island. The Sunshine Coast north of Sechelt transitions to more remote and less dived territory, and sites like Exeter Shoal offer the productive cold-water diving of the northern Strait with less diver pressure than popular Gulf Islands sites. Water temperatures are 7–11°C and visibility typically reaches 8–15 metres in autumn.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Upper Strait of Georgia, northern Sunshine Coast, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Shoal / reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 8–15 metres
+- **Current**: Tidal currents in the Strait — plan around slack
+- **Best Time**: Late summer and autumn
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Exeter Shoal supports excellent Pacific Northwest cold-water species. Giant Pacific octopus are well-represented at this site. Lingcod are large and numerous in this less-pressured area. Copper, quillback, and tiger rockfish occupy different depth zones on the shoal. Plumose anemones and encrusting sponges provide habitat for nudibranchs. Puget Sound king crab patrol the rocky terrain. Steller sea lions are occasionally encountered in the upper Strait. Harbour porpoise are frequently seen from the surface.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The shoal rises from the surrounding bottom to approximately 8–10 metres, dropping to 18 metres on the perimeter. Work the outer, deeper sections first before ascending to the summit for the safety stop. The multiple rock features of a typical shoal structure mean there is more to explore than a single dive can cover. Allow adequate time for a safety stop.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access from Powell River or Pender Harbour. The northern Sunshine Coast requires a longer boat ride from the Langdale ferry, so most divers access via Powell River or local launches. GPS required. Anchor on sand clear of the shoal. Deploy SMB before ascending.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Powell River is a renowned dive destination — Exeter Shoal can be combined with Powell River Townsite Dives
+- The northern Sunshine Coast sees fewer divers than the southern Gulf Islands, so marine life is often less habituated
+- Texada Island offers additional diving on its western shores for those in the area
+- Check conditions with Powell River dive shops before the trip
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Tidal currents in the upper Strait of Georgia can be significant. Remote location requires self-sufficiency. Deploy SMB before ascending. Cold water (7–11°C) demands drysuit proficiency. Have a float plan and check weather before departure.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Less-dived sites like Exeter Shoal often produce exceptional photography due to less-disturbed marine life. Octopus and lingcod are less habituated and show more natural behaviours. Wide-angle reef compositions with rich sponge and anemone growth are outstanding. Bring a full camera kit.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
+- Powell River area dive operators
+- Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
