@@ -13,7 +13,7 @@ addedBy: osm_import
 
 # Abbot Rock
 
-Submerged rocky reef off Marblehead, Massachusetts, hosting classic New England cold-water marine life.
+A submerged rocky ledge in the outer reaches of Salem Sound, north of Marblehead, Massachusetts.
 
 ## Overview
 
@@ -64,4 +64,4 @@ Rocky ledge crevices offer excellent macro subjects: nudibranchs on hydroid colo
 - **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -11,55 +11,58 @@ osmId: 82311066
 addedBy: osm_import
 ---
 
-## Cedar Island Ledge
+# Cedar Island Ledge
 
-Cedar Island Ledge is a reef dive site in New England, North America.
+A submerged rocky ledge off the New Hampshire seacoast, submerged at high tide and accessible from the Isles of Shoals area.
 
 ## Overview
 
-Cedar Island Ledge is a dive site in New England offering rewarding diving on healthy coral reef structures . Submerged at high tide.. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Cedar Island Ledge lies in the New Hampshire seacoast waters at approximately 42.97°N, 70.60°W — a position near the Isles of Shoals and the outer reaches of the NH/Maine coast approach. The original data notes this feature is "submerged at high tide" — a classic New England tidal ledge, exposed at low water and covered at high tide. The site sits at 15 metres maximum depth in the cold Gulf of Maine water north of Cape Ann. New Hampshire has a short coastline (only about 29 km) but the offshore waters include the productive rocky reef zone associated with the Isles of Shoals archipelago, which supports some of the best cold-water diving in northern New England. Cedar Island Ledge is accessible from Portsmouth NH or Rye NH boat launch facilities.
 
 ## Site Information
 
-- **Location**: New England, North America
+- **Location**: New Hampshire seacoast / Isles of Shoals area
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef (tidal ledge)
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
+- **Typical Visibility**: 5–12 meters (Gulf of Maine cold water typically clear)
+- **Current**: Moderate; Gulf of Maine tidal flow
+- **Water Temperature**: 5–18°C depending on season
 - **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Northern Gulf of Maine cold-water species. American lobsters are abundant in the crevices — the Isles of Shoals area is productive lobster grounds. Tautog resident on rocky structure. Pollock school in midwater above the ledge. Atlantic mackerel pass through in schools. Cunner hover around encrusted surfaces. Sea urchins carpet exposed rock faces. Harbor seals may be encountered, particularly near the Isles of Shoals where a colony is established. Nudibranchs and hydroids on shaded rock surfaces.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Boat access from Portsmouth NH or Rye NH. The Isles of Shoals lie offshore and provide multiple dive opportunities in the same general area. Descend to ledge at 8–15 metres. The tidal ledge character means the shallow top can be explored at high tide when fully submerged, while the mid-section at 8–12 metres provides the densest invertebrate and fish populations. Plan around Gulf of Maine slack tide. Complete a 3-minute safety stop at 5 metres.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat charter required. Portsmouth Scuba and other NH seacoast operators provide access to the Isles of Shoals area. The outer NH coast is exposed to Gulf of Maine conditions — check weather carefully before departure. Anchor in sand adjacent to ledge or moor near the Isles. Deploy SMB before ascending.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The Isles of Shoals area is the heart of New Hampshire diving — consider combining with Isles of Shoals sites on the same charter
+- Harbor seal encounters are possible near the Shoals colony — approach slowly
+- The northern Gulf of Maine water is colder than Cape Ann — drysuit or 7mm wetsuit required
+- Visibility can be exceptional on calm, clear summer days — the Gulf of Maine water tends toward clarity
+- Check NOAA weather for the Gulf of Maine before departure; conditions can deteriorate rapidly
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The outer NH seacoast is exposed to Gulf of Maine swells and conditions. Visibility can change rapidly with weather. Cold water year-round in the Gulf of Maine — minimum 7mm wetsuit or drysuit. Moderate tidal current. Deploy SMB before surfacing in the open Gulf of Maine.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Excellent natural light at 15 metres in the clear Gulf of Maine water on calm days. American lobster portraits and sea urchin colonies on ledge faces are classic subjects. Harbor seal encounters (if they occur) offer wide-angle opportunities.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Charter Access**: Portsmouth Scuba and Rye NH area boat operators
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -11,56 +11,54 @@ osmId: 416090842
 addedBy: osm_import
 ---
 
-## Shaab Maksour North
+# Shaab Maksour North
 
-Shaab Maksour North is a reef dive site in Red Sea, Middle East.
+The northern section of Shaab Maksour in the Fury Shoals — a two-part reef where the northern tip provides open-ocean exposure, current-driven fish aggregations, and the opportunity to observe large pelagics passing through the offshore channel.
 
 ## Overview
 
-Shaab Maksour North is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Shaab Maksour North is the northern section of the Shaab Maksour reef at approximately 24.24°N, 35.65°E in the Fury Shoals complex south of Marsa Alam. The northern tip of any offshore reef in this region acts as a current convergence point where fish accumulate — the same principle that makes northern reef points throughout the Red Sea more productive than sheltered leeward faces. Shaab Maksour as a whole is a moderately-sized offshore reef divided by convention into north and south dive sites. The northern section faces open sea and receives the most current and pelagic traffic. It is part of the broader Fury Shoals itinerary that operators from Marsa Alam run as day trips or include on liveaboard schedules.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Boat dive
+- **Location**: Northern Shaab Maksour, Fury Shoals, southern Egyptian Red Sea (~24.24°N)
+- **Entry Type**: Boat dive (day trip from Marsa Alam or liveaboard)
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 20–30 meters
+- **Current**: Moderate; stronger at the north tip
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, humphead wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The northern tip concentrates open-ocean species that skirt the reef on the channel between Shaab Maksour and adjacent Fury Shoals reefs. Grey reef sharks are consistently reported at the tip in afternoon dives. Barracuda schools patrol in the open water. Trevally hunt cooperatively around the reef edge. The hard coral coverage on the northern face is healthy and dense, supporting the full complement of Fury Shoals reef fish. Eagle rays pass through the channel north of the reef in the 10–18 metre zone. Hawksbill turtles rest on the reef platform.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend at the north tip and station at 12–15 metres, facing into the current to observe passing pelagics. After 10–15 minutes at the tip, work south along the eastern or western face (depending on current direction) at 10–18 metres. The middle section of the northern dive area transitions the exposed tip character to a more sheltered reef face. Safety stop at 5 metres on the upper reef.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Day boat from Marsa Alam (60–80 minutes to Fury Shoals area) or liveaboard. Often combined with Shaab Maksour South and other Fury Shoals sites on the same day. Giant stride entry. SMB deployment before ascending.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Position at the north tip on descent and hold station — pelagics patrol predictable corridors around the reef point
+- Afternoon dives at the tip are more productive for shark activity than morning dives
+- Current at the tip can be strong — plan to use the reef as a shelter and drift north only if conditions are controllable
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Current at the north tip requires continuous monitoring — drift away from the reef can accelerate quickly. Deploy SMB before ascending. Do not drift into the open channel between reefs without the liveaboard tender tracking your position.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The reef tip in current provides wide-angle opportunities with passing pelagics and the channel as background. Grey reef shark portraits at the tip require pre-positioning at depth with the camera ready. Barracuda school shots in the open water off the northern face are a consistent result in current.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

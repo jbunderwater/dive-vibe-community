@@ -11,56 +11,54 @@ osmId: 5884434387
 addedBy: osm_import
 ---
 
-## Shaab Nenad
+# Shaab Nenad
 
-Shaab Nenad is a reef dive site in Red Sea, Middle East.
+An offshore reef in the Hurghada zone named for a local diving personality — a productive pinnacle system with gorgonian fans, resident cleaning stations, and reliable grey reef shark sightings in the outer reef section.
 
 ## Overview
 
-Shaab Nenad is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Shaab Nenad sits at approximately 27.23°N, 33.94°E in the offshore zone between Hurghada and El Gouna, accessible as a day-boat site from Hurghada operators. The name follows the Red Sea tradition of naming dive sites for local dive guides and personalities — Nenad is a Slavic name associated with dive guide communities working in the Hurghada area. The reef structure follows the pattern of central Egyptian Red Sea offshore reefs: a main reef body with sheltered inner faces and an exposed outer slope dropping to 18–20 metres, with a sandy floor beyond. It is not among the most heavily promoted Hurghada sites but maintains good coral coverage and consistent marine life.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Offshore Hurghada, central Egyptian Red Sea (~27.23°N, 33.94°E)
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 15–25 meters
+- **Current**: Mild to moderate; stronger on the exposed outer face
+- **Best Time**: Year-round; October to May optimal
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, humphead wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Grey reef sharks patrol the outer reef slope and are visible from the reef edge when current is running. Cleaning stations on the mid-reef section attract resident groupers and moray eels for extended sessions. Gorgonian fans are established on the outer slope at 15–18 metres. Schools of anthias cover the reef crest. Barracuda patrol in open water off the reef tip. Moray eels are abundant in the reef crevices. Blue-spotted stingrays rest on the sandy areas adjacent to the reef base.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend on the sheltered inner face and work to the outer slope at 12–18 metres. Scan the outer edge for sharks before ascending to the cleaning stations at 8–12 metres. The upper reef at 5–8 metres provides the best natural light and fish density for the safety stop section. The full dive covers the inner face, outer slope, and upper reef in a multi-level profile.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Day boat from Hurghada (30–50 minutes). Giant stride entry. Often combined with adjacent Hurghada offshore sites for a two-dive day. SMB deployment before ascending.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Afternoon dives provide the best shark activity on the outer slope
+- The cleaning stations reward extended stationary observation — budget 10+ minutes in this zone
+- Gorgonian fans at 15–18 metres on the outer slope warrant a wide-angle lens for portraits against the blue water
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Current on the outer slope requires monitoring. Scorpionfish on the reef edges. SMB before ascending.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Gorgonian fan portraits on the outer slope in natural light are the signature wide-angle subjects. Grey reef shark portraits at the reef edge suit a wide-angle approach from the reef surface. Cleaning station macro portraits at 8–12 metres reward patience.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

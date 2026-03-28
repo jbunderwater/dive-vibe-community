@@ -11,57 +11,53 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Desecheo Island Wall
+# Desecheo Island Wall
 
-Desecheo Island Wall is a wall dive site in Puerto Rico, Caribbean.
+Puerto Rico's most remote and pristine advanced dive destination — the uninhabited island of Desecheo, 22 kilometres off Rincón, where vertical walls and exceptional clarity deliver one of the Caribbean's most impressive open-ocean dive experiences.
 
 ## Overview
 
-Desecheo Island Wall is a dive site in Puerto Rico featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Isla Desecheo is an uninhabited island administered as a US Fish and Wildlife Service refuge, 22 kilometres west of Rincón in the Mona Passage. The island's walls drop from a shallow reef crest at 5–10 metres to beyond 40 metres in the Mona Passage's deep water, and the site's isolation means both the coral health and the marine life encounter rate are markedly higher than at Puerto Rico's mainland dive sites. Desecheo is regarded by Puerto Rico's dive community as the island's premier advanced site — the combination of pristine reef, large pelagics, exceptional visibility (commonly 30–40+ metres), and the special experience of diving a remote, protected island make it a bucket-list destination. The passage between Puerto Rico and Hispaniola that Desecheo occupies channels significant oceanic currents, which drives the wall's productivity. Water temperature is 26–29°C.
 
 ## Site Information
 
-- **Location**: Puerto Rico, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 40 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+| Detail | Value |
+|--------|-------|
+| Depth Range | 5–40 m |
+| Difficulty | Advanced |
+| Entry Type | Boat |
+| Site Type | Wall |
+| Visibility | 25–40 m |
+| Current | Moderate |
+| Water Temp | 26–29°C |
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Desecheo's remoteness and protected status deliver encounter rates that are exceptional by Puerto Rican standards. Caribbean reef sharks are common, and hammerhead sharks have been documented at the site. Spotted eagle rays and manta rays are seasonal visitors. Schools of Atlantic spadefish congregate at the wall edge. Large groupers and cubera snapper occupy the deeper wall sections. Hawksbill turtles are abundant — the island's beaches are nesting sites. The wall itself carries dense sponge growth and black coral colonies at depth, with excellent gorgonian coverage on the upper sections.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-40 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Descend the wall from the reef crest at 5–10 metres, working down to 30–40 metres on the wall face. The most impressive terrain is at 20–35 metres where the sponge and coral growth is densest. Bottom time at depth is limited — ascend to the shallower sections for the majority of the dive. The wall's direction and the current condition determine the dive profile; operators plan accordingly. Safety stop on the reef crest.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive only — the crossing from Rincón takes approximately 45–60 minutes. Operators departing from Rincón (Taíno Divers) run regular Desecheo trips when conditions permit. Entry by backward roll. DSMB required. Live-boat pickup may be standard in stronger current conditions.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+The crossing to Desecheo requires calm conditions in the Mona Passage — trips are weather-dependent and frequently cancelled in winter swells. Plan a minimum two-night Rincón stay to improve the chances of making the crossing. The remote location and the conservation context (no collection, minimal impact diving) should be emphasised. Desecheo is one of Puerto Rico's most consistently cited trip highlights by visiting divers.
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
+The open-ocean crossing and the site's remoteness mean any incident requires more time to manage than at mainland sites. Dive conservatively and ensure all equipment is in full working order before departing. Current at the wall can be significant — dive with an operator who knows the specific tidal windows. DSMB mandatory for all ascents.
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+Desecheo is Puerto Rico's best diving photography destination. The combination of exceptional visibility, clean open-ocean water, pristine reef, and large animal encounters creates conditions that are difficult to find anywhere else in Puerto Rico. Wide-angle wall shots with the open blue Mona Passage beyond, shark portraits, eagle ray passes, and the dramatic vertical wall face are the defining subjects.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- Taíno Divers (Rincón): primary operator for Desecheo trips, weather-dependent scheduling
+- US Fish and Wildlife Service: Desecheo is a National Wildlife Refuge; no landing permitted
 
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

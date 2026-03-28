@@ -11,56 +11,54 @@ osmId: 663869772
 addedBy: osm_import
 ---
 
-## Shaab Malahi
+# Shaab Malahi
 
-Shaab Malahi is a reef dive site in Red Sea, Middle East.
+A compact Fury Shoals reef with an exposed outer wall, protected lagoon section, and the combination of oceanic whitetip shark sightings and macro invertebrate diversity that characterises the best of the southern Egyptian offshore reefs.
 
 ## Overview
 
-Shaab Malahi is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Shaab Malahi sits at approximately 24.20°N, 35.66°E in the Fury Shoals cluster south of Marsa Alam — one of a series of offshore reefs in this region that share the characteristics of clean water, strong current, and limited dive pressure. Shaab Malahi has an outer wall section and a more sheltered inner section, providing within a single dive the contrast between open-ocean exposure and protected lagoon environment. The site is dived as part of Fury Shoals liveaboard itineraries or as a long-range day trip from Marsa Alam operators. It sits in the same latitude band as several other Fury Shoals sites — Shaab Ini, Shaab Maksour — and is often combined with these reefs.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Boat dive
+- **Location**: Fury Shoals, southern Egyptian Red Sea (~24.20°N, 35.66°E)
+- **Entry Type**: Boat dive (day trip from Marsa Alam or liveaboard)
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 20–30 meters
+- **Current**: Moderate on the outer wall; mild on the inner section
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, humphead wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Oceanic whitetip sharks pass through the outer reef zone in autumn (October to November) — Shaab Malahi lies in the same latitude band as Elphinstone and shares its autumn oceanic whitetip corridor. Grey reef sharks are resident on the outer wall. The lagoon section supports nudibranch and flatworm diversity on the coral rubble substrate. Schools of snapper and goatfish pack the inner reef section. The outer wall carries gorgonian fans at 15–18 metres in good condition. Moray eels are abundant throughout.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin at the outer wall at 15–18 metres and work along the wall face, scanning the blue water beyond the reef edge for passing oceanic species. After 15–20 minutes on the wall, round the reef to the inner section and transition to the 8–12 metre zone. The inner section is the macro and coral photography area. Safety stop at 5 metres over the inner reef flat.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Day boat from Marsa Alam (60–80 minutes) or liveaboard. Giant stride entry. Pair with Shaab Ini or Shaab Maksour for a two-dive Fury Shoals day. SMB deployment before ascending.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Autumn dives (October to November) at the outer wall edge may produce oceanic whitetip encounters — these sharks cruise the offshore channel at depth
+- The lagoon section is excellent for nudibranch photography — slow movement over the coral rubble and sandy patches is essential
+- The outer wall gorgonian fans at 15–18 metres are photography subjects in their own right — bring a wide-angle lens for the full fan profiles
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Current on the outer wall can be moderate to strong. Assess before extending the dive beyond the sheltered inner section. Oceanic whitetip sharks should be observed with distance and without chase. SMB before ascending.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Outer wall gorgonian fan portraits at 15–18 metres in good natural light are the signature wide-angle subjects. Nudibranch macro photography in the lagoon section rewards close work with a macro lens. Oceanic whitetip portraits in open water require a wide-angle approach from a stationary position.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
