@@ -11,56 +11,56 @@ osmId: 1068557985
 addedBy: osm_import
 ---
 
-## Shaab Nakari
+# Shaab Nakari
 
-Shaab Nakari is a reef dive site in Red Sea, Middle East.
+An underrated offshore reef 5 km from Marsa Alam with wall diving on the northwest face, spinner dolphin visits to the lagoon, eagle rays, and nudibranchs in a site that routinely surprises divers expecting a standard coastal reef.
 
 ## Overview
 
-Shaab Nakari is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Shaab Nakari is located approximately 5 kilometres offshore from Marsa Nakari, a small village 18 kilometres south of Marsa Alam city. Despite its proximity to the coast, the reef offers considerably more than standard coastal diving — the northwest face of the reef has genuine wall diving down to 15–25 metres, while the western side has a sandy bottom zone at 15–25 metres. Currents that sweep through the site regularly enrich the water column and drive the reef's biodiversity. The lagoon section is a known dolphin shelter — spinner dolphins seek it out periodically. The site is described by multiple operators as an "underrated canvas" for photography, combining macro subjects including ghost shrimp and nudibranchs with wide-angle coral garden compositions in excellent clarity.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Boat dive
+- **Location**: Offshore Marsa Nakari, 18 km south of Marsa Alam, southern Egyptian Red Sea
+- **Entry Type**: Boat dive (day trip from Marsa Alam or Marsa Nakari)
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 20–30 meters
+- **Current**: Mild to moderate; assess east and west faces before committing
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, humphead wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Spinner dolphins are periodic visitors to the lagoon — encounters are unpredictable but documented. Eagle rays cross the sandy western bottom zone and the open water adjacent to the reef. The current-swept site supports large populations of reef fish: anthias, chromis, fusiliers, and surgeonfish throughout. Ghost shrimp and nudibranchs reward slow macro exploration in the crevices and on the reef surface. Reef octopuses inhabit the rocky sections. Moray eels are present throughout. The northwest wall section carries the most diverse coral coverage, with hard coral and soft coral assemblages at 10–20 metres.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin on the northwest wall at 10–15 metres and work along the face, which provides the richest coral and fish diversity. Transition to the western sandy bottom section at 15–20 metres for macro exploration and eagle ray observation. The lagoon section can be explored in the second half of the dive at 5–10 metres — this is the dolphin encounter zone if the pod is present. Safety stop over the shallow lagoon reef at 5 metres.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Day boat from Marsa Alam or Marsa Nakari village (15–20 minutes). High-performance RIB access is standard. Giant stride entry. Current conditions should be assessed at the east and west faces before determining dive direction. Deploy an SMB before ascending.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The northwest wall is the most productive section — plan the dive to start there when air is highest
+- Move slowly through the lagoon section and watch for dolphin pod activity in the water column above
+- The macro community on this reef rewards 30–45 minutes of slow, low-level searching — ghost shrimp and nudibranchs are found in crevices
+- Pair with Shaab Marsa Alam (the L-shaped reef with the Legend wreck) for a two-site day from Marsa Alam
+- Morning dives tend to produce the best light conditions for photography on the northwest wall
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Currents on the east and west faces of the reef can be stronger than on the protected northwest wall and lagoon. Assess conditions before selecting dive direction. The offshore position (5 km) means open-water rescue logistics apply — always carry an SMB. Standard reef hazards: fire coral, lionfish, and urchins in crevices. Suitable for intermediate divers with some current experience.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Shaab Nakari's combination of macro and wide-angle subjects makes it a versatile photography site. Ghost shrimp and nudibranch portraits in the reef crevices reward macro technique. The northwest wall coral gardens at 10–15 metres in good morning light are excellent ambient wide-angle subjects. Eagle ray portraits crossing the sandy western section are available in the 15–20 metre zone. Spinner dolphin encounters in the lagoon — if timed correctly — offer natural-light wide-angle photography in shallow water.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
