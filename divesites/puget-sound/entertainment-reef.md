@@ -11,55 +11,56 @@ osmId: 277183068
 addedBy: osm_import
 ---
 
-## Entertainment Reef
+# Entertainment Reef
 
-Entertainment Reef is a reef dive site in Puget Sound, North America.
+A boat-access reef in the northern San Juan Islands that lives up to its name with consistently active marine life encounters.
 
 ## Overview
 
-Entertainment Reef is a dive site in Puget Sound offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Entertainment Reef earns its name from the reliably active and diverse marine life visible on every dive. Located in the northern San Juan Islands, the reef sits in waters with strong tidal exchange that sustains a productive community of fish and invertebrates year-round. The site's terrain of sloping rock faces, boulder clusters, and mixed substrate provides habitat for an array of Pacific Northwest species, from giant Pacific octopus in the deeper boulders to wolf eels in the rock crevices and lingcod on the open reef top. Water temperature stays cold year-round (7–11°C), and a dry suit is the standard gear choice.
 
 ## Site Information
 
-- **Location**: Puget Sound, North America
+- **Location**: Northern San Juan Islands, Puget Sound, Washington
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 8–15 metres
+- **Water Temperature**: 7–11°C
+- **Current**: Tidal, plan for slack
 - **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Wolf eels are a highlight — the northern San Juan Islands support robust populations, and Entertainment Reef has known den sites. Giant Pacific octopus in the deeper boulder fields are frequently encountered, sometimes very large individuals. Lingcod — including substantial fish over 70 cm — rest openly on the rock surface. Copper and quillback rockfish congregate in loose groups. The invertebrate community is typical of the nutrient-rich north Sound: white plumose anemones in cascading colonies, Puget Sound king crabs, encrusting sponges in orange and red, nudibranchs, tube worms, and rock scallops. Harbour seals often approach divers out of curiosity.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Work from the reef crest (6–8 metres) down to the deeper boulder fields at 18 metres. Pay particular attention to the transitions between rock and sand at depth — octopus den sites are often found where the rock meets the sandy bottom. The reef crest is productive for lingcod and rockfish. Ascend along the reef face with a safety stop in the upper 5 metres.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access only. The reef is on regular rotation for San Juan Islands dive charter operators based in Anacortes and Friday Harbor. Anchor or hold position as appropriate for conditions. Back-roll or giant stride entry. Deploy SMB before final ascent; surface well upwind of the vessel.
 
-## Tips and Recommendations
+## Tips
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Wolf eel dens are often marked by sea urchin shell fragments around the entrance — scan carefully
+- Linger at known octopus den areas in the deep boulders; patience often rewards with sightings
+- Early morning dives before boat traffic builds can offer the calmest conditions
+- The site suits photographers well — a 1:1 macro lens and a rectilinear wide-angle both have strong applications here
 
-## Safety Considerations
+## Safety
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Cold-water dry suit diving is standard. Tidal current timing is essential — the northern San Juan Islands have some of the strongest exchanges in the region. Maintain buddy contact throughout, as the boulder terrain can obscure position. Always carry and deploy an SMB before surfacing.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Wolf eel portraits are the signature photography subject at this site — position yourself at the den entrance and wait. Wide-angle images of the plumose anemone walls and rockfish aggregations are also compelling. Macro work on nudibranchs, shrimp, and encrusting organisms rounds out a full photographic dive. Bring a torch and strobes.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

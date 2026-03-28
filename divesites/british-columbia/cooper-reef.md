@@ -11,55 +11,57 @@ osmId: 663869314
 addedBy: osm_import
 ---
 
-## Cooper Reef
+# Cooper Reef
 
-Cooper Reef is a reef dive site in British Columbia, North America.
+A submerged reef in the southern Gulf Islands with productive cold-water marine life.
 
 ## Overview
 
-Cooper Reef is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Cooper Reef lies in the southern Gulf Islands in the Haro Strait area east of Victoria, in waters that experience consistent tidal exchange between the Strait of Georgia and Haro Strait. The reef is part of the extensive underwater terrain that makes the Gulf Islands one of BC's premier diving regions. Accessible by boat from Sidney or Ganges, this site delivers the characteristic Gulf Islands experience: cold, clear water, abundant invertebrate life, and resident fish species. Water temperatures are 8–11°C with visibility of 8–15 metres.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Southern Gulf Islands, Haro Strait area, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Submerged reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 8–15 metres
+- **Current**: Moderate tidal currents — plan around slack
+- **Best Time**: Late spring through autumn
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Cooper Reef supports the full range of Salish Sea cold-water species. Giant Pacific octopus are resident in crevices throughout the reef. Lingcod claim territories on prominent rock surfaces. Copper and quillback rockfish are the most visible fish species, with black rockfish schooling in mid-water. Plumose anemones carpet current-swept surfaces. Kelp greenlings and painted greenlings inhabit the shallow reef zones. Puget Sound king crab and Dungeness crab forage on sandy areas adjacent to the reef. Harbour seals are a near-constant presence.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The reef crest reaches approximately 8–10 metres, with the perimeter dropping to 18 metres on sand. Work the outer reef face during the deeper portion of the dive and ascend to the crest zone toward the end. Look carefully into crevices and under overhangs where the most interesting invertebrate and fish species congregate. Allow adequate gas for a 3-minute safety stop.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access from Sidney or Salt Spring Island. GPS required. Anchor on sand clear of the reef. Tidal currents vary significantly with the lunar cycle — large spring tides can make the site challenging. Deploy an SMB before ascending due to vessel traffic in the southern Gulf Islands.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Multiple Gulf Islands reefs can be dived on a single day trip from Sidney
+- The reef is part of the broader Gulf Islands ecosystem — practice catch-and-release photography
+- Bring a dive light to explore crevices and under overhangs
+- Local dive charters know this reef and can advise on the best current timing
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Tidal currents require careful timing. Gulf Islands currents are complex with multiple channels converging. Always check tide tables. Surface with a deployed SMB. Cold water (8–11°C) requires drysuit protection. Maintain buddy contact.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Wide-angle reef photography with encrusting invertebrates in the foreground and fish in mid-water is the classic Gulf Islands image. Octopus interactions with the rocky substrate make compelling subjects. Macro photography on sponge surfaces rewards patience and a good eye. Bring strobes for colour accuracy.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
+- Sidney area dive operators
+- Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

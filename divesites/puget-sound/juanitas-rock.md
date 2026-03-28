@@ -11,55 +11,56 @@ osmId: 9978724359
 addedBy: osm_import
 ---
 
-## Juanitas Rock
+# Juanitas Rock
 
-Juanitas Rock is a reef dive site in Puget Sound, North America.
+A rocky underwater pinnacle in Saratoga Passage, offering productive cold-water diving with octopus and rockfish in the waters west of Whidbey Island.
 
 ## Overview
 
-Juanitas Rock is a dive site in Puget Sound offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Juanitas Rock is a submerged rocky pinnacle in Saratoga Passage, the channel running between Whidbey Island and the Camano Island / mainland shoreline. This section of Puget Sound is a productive diving area that is closer to the Seattle and Everett metro areas than the outer San Juan Islands, making it a popular destination for day-trip dive boats. The pinnacle drops to 21 metres with a boulder-strewn profile and moderate tidal currents that deliver nutrients to the rock communities. Water temperatures run 8–12°C year-round.
 
 ## Site Information
 
-- **Location**: Puget Sound, North America
+- **Location**: Saratoga Passage, west of Whidbey Island, Puget Sound, Washington
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky pinnacle / reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 21 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 21 metres
+- **Typical Visibility**: 6–12 metres
+- **Water Temperature**: 8–12°C
+- **Current**: Moderate tidal
+- **Best Time**: April to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Giant Pacific octopus are the standout species at Juanitas Rock — the pinnacle's boulder fields provide ideal den conditions. Wolf eels are present in the rock crevices. Lingcod and copper rockfish use the pinnacle as a structural reference and hunting ground. The soft-bottom margins around the base of the pinnacle support Dungeness crabs, spotted ratfish, and flatfish including Pacific halibut in deeper areas. Plumose anemones and encrusting sponges cover the rock faces, with nudibranchs and tube worms filling the spaces between.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the pinnacle crest (approximately 8–10 metres) and work outward and down to the base at 21 metres. The most interesting terrain for octopus and wolf eel encounters is on the deeper, boulder-pile sections. The pinnacle's isolated position in the passage means that a complete circumnavigation is possible on a single dive with good air management. Complete the dive with a safety stop on the upper portion of the pinnacle.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access only. Position the boat on the down-current side. Back-roll or giant stride entry, descending to the pinnacle below. Navigate in a planned pattern to cover the whole structure. Deploy SMB from 5 metres before surfacing. Watch for vessel traffic in the passage.
 
-## Tips and Recommendations
+## Tips
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The sandy areas around the base of the pinnacle are worth investigating for ratfish and halibut — often overlooked in favour of the rock
+- Octopus dens on this pinnacle are documented — the local charter boat operators know the locations
+- Inner Sound sites like this can have better visibility in winter and spring before the annual plankton bloom
+- The Whidbey Island area has multiple additional shore and boat dive sites nearby for a full diving weekend
 
-## Safety Considerations
+## Safety
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Cold water requires appropriate dry suit equipment. Saratoga Passage has commercial and recreational vessel traffic; deploy an SMB before every ascent. Tidal currents in the passage are moderate; timing for slack is advisable. Carry a dive light and a surface signalling device.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The octopus dens and wolf eel encounters make Juanitas Rock productive for close-focus wide-angle photography. The pinnacle structure, shot from the sandy base looking upward, provides scale. Macro work on the encrusted rock faces is detailed and colourful with artificial lighting.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

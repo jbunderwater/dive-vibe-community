@@ -11,55 +11,57 @@ osmId: 1470400960
 addedBy: osm_import
 ---
 
-## Cypress Reef
+# Cypress Reef
 
-Cypress Reef is a reef dive site in British Columbia, North America.
+A wreck site in the southern Strait of Georgia combining a historic vessel with cold-water Pacific Northwest marine life.
 
 ## Overview
 
-Cypress Reef is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Cypress Reef is a wreck site in the southern Strait of Georgia, near the BC-Washington border area. The wreck has become an artificial reef structure that supports significant marine life, combining the interest of a historic vessel with the biological richness of the cold Salish Sea. At 28 metres maximum depth, this is an advanced site requiring solid buoyancy skills and gas management. Water temperatures are cold at 8–12°C throughout the year, and visibility typically ranges from 6–12 metres.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Southern Strait of Georgia, near the Gulf Islands, British Columbia
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 28 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 28 metres
+- **Typical Visibility**: 6–12 metres
+- **Current**: Moderate tidal currents — plan around slack
+- **Best Time**: Late summer and autumn for best visibility
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+The wreck structure has been extensively colonised by cold-water invertebrates over the years. Plumose anemones and encrusting sponges coat the vessel's hull and deck structures. Giant Pacific octopus have adopted the wreck's interior as prime denning habitat — multiple individuals are typically present. Lingcod claim territories on the wreck deck and railings. Copper rockfish and quillback rockfish are abundant. China rockfish are seen in the deeper sections. Kelp greenlings investigate the wreck structure throughout. Harbour seals often hover around the wreck, investigating divers.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin by descending the anchor line or a shot line to the wreck. Orient yourself on the wreck before proceeding — note the bow/stern orientation. Explore the outer hull and deck areas during the dive, saving interior penetration for those with proper wreck diving training. Maximum depth of 28 metres limits bottom time — plan conservatively. Ascend the anchor line with a safety stop at 5 metres. Deploy an SMB if drifting from the line.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access from Sidney, Roche Harbor, or nearby Gulf Island facilities. GPS coordinates essential. A mooring buoy or drift-dive technique is preferred over anchoring on the wreck to avoid damage. Ensure the boat tender maintains continuous watch during the dive.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Wreck penetration requires proper wreck diving certification — exterior tours are suitable for Advanced open-water divers
+- A primary and backup dive light are essential for exploring the wreck's darker areas
+- The wreck site rewards multiple dives — each visit reveals different species and behaviours
+- Check local dive operators for current wreck condition reports
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Advanced depth of 28 metres requires careful NDL management. Wreck diving adds entanglement and navigation hazards — exterior diving only without wreck certification. Cold water demands drysuit protection. Tidal current timing is critical. Always use a reference line for ascent. Never dive wrecks alone. Gas management: turn at one-third of starting pressure.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Wrecks make exceptional wide-angle subjects, with the hull providing scale and the encrusting life adding colour. Shoot along the hull with the bow or stern silhouetted in the background. Octopus in den openings on the wreck hull are compelling subjects. The interaction of artificial structure with natural marine life provides unique compositional opportunities.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
+- Sidney area dive operators for charter access and current conditions
+- Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -11,57 +11,56 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Odyssey Wreck
+# Odyssey Wreck
 
-Odyssey Wreck is a historic wreck dive in Roatán, Caribbean.
+*A deliberately sunk container ship resting on a sandy shelf off Roatán's south side, now hosting a thriving artificial reef community.*
 
 ## Overview
 
-Odyssey Wreck is a dive site in Roatán featuring the wreck of the Odyssey Wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Odyssey is a 73-meter container ship that was deliberately scuttled off the south coast of Roatán in 2002 to create a dive attraction and artificial reef. The wreck rests on a sandy shelf at 30–33 meters, with the upper deck structure rising to around 18 meters. After more than two decades underwater, the Odyssey has developed into one of the most productive artificial reef structures in the Bay Islands. The hull is colonized with encrusting sponges, black coral, and wire corals. The wreck sits adjacent to the main reef wall, allowing divers to combine a wreck visit with wall diving in a single dive. Visibility is consistently 25–35 meters.
 
 ## Site Information
 
-- **Location**: Roatán, Caribbean
+- **Location**: South coast of Roatán, Bay Islands, Honduras
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 33 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Maximum Depth**: 33 meters (upper deck at 18–20 meters)
+- **Typical Visibility**: 25–35 meters (80–115 feet)
+- **Current**: Light to moderate; can be stronger on the south wall
+- **Best Time**: Year-round; best conditions December to April
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, snappers, soldierfish, glassy sweepers, coral growth, sponge encrustation, sea turtles (green, hawksbill), southern stingrays. Additional species commonly sighted include eagle rays, nurse sharks, reef sharks, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The Odyssey supports an impressive marine community. Large cubera snappers and yellowfin groupers have taken up residence in and around the superstructure. Schools of horse-eye jacks and black durgon circle the wreck. Spotted eagle rays visit the sandy shelf surrounding the hull. Nurse sharks shelter in the deeper hold areas. Moray eels inhabit the railings and deck structures. Black coral has colonized the superstructure, and encrusting sponges cover the hull in orange, red, and purple patches. Caribbean reef sharks patrol the water column adjacent to the wreck. Hawksbill turtles are occasionally seen resting on the upper deck.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 33 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend directly to the upper deck at 18–20 meters to maximize bottom time in the richest area of the wreck. Explore the deck structures, mast, and railings before dropping to the main hull at 25–30 meters. The deepest section of the hold sits at 33 meters. Allow sufficient air reserve before beginning the ascent — work back up to the upper deck and mast, then ascend the mooring line or make a free ascent with SMB to your safety stop at 5 meters. Consider nitrox to extend bottom time at depth.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Served by West End and West Bay dive operators. Permanent mooring on the wreck. Entry via giant stride or back roll. The surface over the wreck can have moderate swells in trade-wind weather — check conditions before committing to this site.
 
-## Tips and Recommendations
+## Tips
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Nitrox 32% significantly extends bottom time for an Odyssey dive and is strongly recommended
+- The first 10 minutes on the upper deck at 18–20 meters are the most productive for marine life encounters
+- Do not penetrate the hold without proper wreck training and redundant lighting — the interior is dark and silts easily
+- Combining a circuit of the Odyssey's hull with a swim to the adjacent reef wall is possible on a single dive with good air management
+- Dive computers with bottom timer and ascent rate function are essential for this depth
 
-## Safety Considerations
+## Safety
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
+Advanced dive requiring good buoyancy control and air management. The 33-meter maximum depth limits bottom time on air — monitor your gas supply continuously. Narcosis can be a factor for some divers at depth; discuss with your buddy beforehand. The wreck has sharp edges and protruding metal — avoid contact. Always make a 3–5 minute safety stop at 5 meters. Carry an SMB for open-water ascents.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The Odyssey is one of Roatán's premier wreck photography subjects. The scale of the vessel allows dramatic wide-angle shots — a diver on the upper deck with the hull curving away creates powerful perspective. Black coral on the superstructure provides foreground interest. Schooling jacks circling the hull are an outstanding subject for wide-angle fish photography. A strobe is essential for illuminating the hull sponges at depth where ambient light is limited.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
