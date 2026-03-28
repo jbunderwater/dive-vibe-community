@@ -11,57 +11,57 @@ osmId: 271182010
 addedBy: osm_import
 ---
 
-## Shark Reef
+# Shark Reef
 
-Shark Reef is a wall dive site in Red Sea, Middle East.
+A sheer 800-metre wall at the tip of Ras Mohammed where grey reef sharks patrol the deep edge and massing schools of barracuda, trevally, and snappers create one of the Red Sea's most spectacular fish concentrations.
 
 ## Overview
 
-Shark Reef is a dive site in Red Sea featuring a dramatic vertical wall that drops into the deep blue. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Shark Reef is the first reef encountered when drifting from Ras Mohammed National Park's famous eastern face, typically dived as a continuous drift with the adjacent Yolanda Reef to the south. Located at the very southern tip of the Sinai Peninsula, where the Gulf of Suez meets the Gulf of Aqaba, Shark Reef owes its biodiversity to the powerful tidal currents that funnel nutrients up the walls. The eastern face is a near-vertical wall dropping 800 metres to the sea floor — one of the most dramatic submarine topographies in the Red Sea. The wall is mantled with orange and purple anthias, massive soft coral trees, and sea fans. Grey reef sharks — the species that gives the reef its name — are reliably seen cruising the wall edge at 15–25 metres, often using cleaning stations in the reef structure. In summer months (July–September), enormous pelagic aggregations form here, with dense schools of yellowfin tuna, barracuda, jacks, and snappers making this one of the most impressive fish biomass concentrations in the Egyptian Red Sea.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Ras Mohammed National Park, Sinai Peninsula, Egypt
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 20–35 meters
+- **Current**: Moderate to very strong; key planning factor
+- **Best Time**: Year-round; summer for pelagic aggregations; winter for calmer conditions
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Grey reef sharks are the site's signature residents, typically seen at 15–25 metres along the wall edge, often at cleaning stations where cleaner wrasse tend to them. In summer, yellowfin tuna in large schools patrol the outer blue. Giant barracuda schools mass at the surface on windless summer mornings. Schooling jacks (bigeye and horse-eye) sweep through constantly. Hawksbill and green turtles rest on the shallow reef platform. Eagle rays glide along the base of the wall. Groupers, including potato groupers of substantial size, occupy ledges. The wall itself is heavily colonised by anthias, butterflyfish, bannerfish, and parrotfish. Seasonal visitors include hammerhead sharks (winter, early morning) and occasional manta rays.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-25 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+The dive starts with a descent to 15–20 metres at the reef edge and progresses as a drift south from Shark Reef to Yolanda Reef. The eastern wall is the main feature — stay close enough to appreciate the coral and scan the blue for pelagics. Grey reef sharks are most reliably seen at the mid-wall level (15–25 m). The dive transitions naturally to Yolanda Reef where the porcelain cargo wreck field provides the shallow finale. Current can be fast — plan accordingly and be ready to drift without fighting it. Safety stop over the shallow Yolanda reef platform.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Exclusive boat access from Sharm el-Sheikh operators — Ras Mohammed requires a park entry fee. Entry by backroll or giant stride, descending quickly to get below the surface current layer. A national park fee applies. The park requires a registered guide. Boat pickup after SMB deployment once clear of the reef. The dive is nearly always done current-assisted, so never plan against the current direction.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Enter the water promptly on the divemaster's signal — missing the entry point means drifting past the reef on the surface
+- Position yourself at 15–20 metres on the eastern wall for the best shark sightings
+- Keep one eye in the blue water during the entire drift — large pelagics often appear and disappear quickly
+- Summer dives (July–August) offer the most intense fish biomass but heavier boat traffic
+- Always carry an SMB — drift conditions can separate divers from the boat in seconds
+- Combine with Yolanda Reef on the same dive as nature intended
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Current is the primary hazard. Ras Mohammed currents are tidal and can shift from mild to strong within a single dive. Divers must be comfortable with drift diving, have solid buoyancy control, and be able to deploy an SMB mid-water. The 800-metre wall drop-off below creates depth disorientation risk — monitor depth gauges throughout. Fire coral is abundant on the reef flat. Never attempt this site without an experienced guide who dived it the same morning to assess current direction. Ras Mohammed National Park requires park entry fees and registered dive guides.
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+Shark Reef is one of the Red Sea's premier wide-angle photography sites. Grey reef shark portraits at cleaning stations reward patient hovering. The massing schools of trevally and barracuda in summer produce abstract schooling shots of extraordinary scale. The sheer wall face with its anthias clouds and soft coral trees is spectacular for reef environmental shots. For sharks, position yourself below them against an upward-light background for clean silhouettes.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

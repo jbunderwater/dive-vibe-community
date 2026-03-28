@@ -11,55 +11,53 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Hot Springs
+# Hot Springs
 
-Hot Springs is a reef dive site in Saba, Caribbean.
+A geothermally active reef site on Saba's southwestern coast where warm volcanic vents emerge from the seafloor alongside a dense, well-developed coral reef.
 
 ## Overview
 
-Hot Springs is a dive site in Saba offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Hot Springs is a unique dive site on the southwestern side of Saba where the volcanic geology of the island is directly visible underwater. Bubbling gas vents and warm water seeps emerge from cracks in the rocky seafloor, creating a visually unusual environment alongside the main reef structure. These hydrothermal features are gentle and non-threatening, and the slightly elevated water temperatures around the vents support unusual microbial communities. The reef itself descends from about 10 meters to 25 meters, featuring a typical Saba profile of hard coral colonies, sea fans, and encrusting organisms. Visibility is 20–30 meters in most conditions.
 
 ## Site Information
 
-- **Location**: Saba, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+| Detail | Value |
+|--------|-------|
+| Depth Range | 10–25 m |
+| Difficulty | Intermediate |
+| Entry Type | Boat |
+| Site Type | Reef (geothermal) |
+| Visibility | 20–30 m |
+| Current | Light to moderate |
+| Water Temp | 26–29°C |
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The reef at Hot Springs supports a typical Caribbean reef community with some additional species associated with the warm-water vent areas. Large hawksbill turtles visit the reef regularly. French angelfish and queen angelfish are consistently present. The warm vent areas attract cleaning stations — small cleaner shrimp and wrasse set up operations near the bubbling rocks. Barracuda are frequently observed hovering in mid-water. Green moray eels occupy deeper crevices along the reef base.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descent is via mooring line to the reef top at approximately 10 meters. Divers navigate south along the reef to the volcanic vent areas before descending to 22–25 meters. The vent features are distributed across a relatively small area at around 20 meters and can be visited briefly before working back up the reef for a safety stop. A typical dive is 40–50 minutes.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access only from Fort Bay. The site uses a permanent mooring maintained by the Saba Conservation Foundation. Entry is standard boat-style giant stride or backward roll. The shallow mooring crest at 10 meters provides an excellent safety stop location.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+The volcanic vent features are the distinguishing element of this site — take time to observe the gas bubbling and warm water seeping from cracks in the rock, and compare the microbial film on the rocks immediately around the vents to the normal reef surface nearby. Do not block or disturb the vents. The site is excellent for macro photography given the number of cleaning station invertebrates.
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+The water around the vents is warmer than the ambient reef temperature — this is entirely natural and presents no hazard. Do not insert hands or equipment into vent openings. Current can develop on the outer reef section at 20–25 meters. Standard Saba Marine Park rules apply: no touching, no collecting, DSMB required.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The volcanic vents create unusual close-up photographic subjects — the bubbling and the visual distortion from the warm water rising creates compelling images. Macro lenses work well for the cleaning station shrimp around vent edges. Wide-angle captures of the reef slope are typical Saba fare with strong ambient light in the 10–18 meter range.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- Saba Conservation Foundation: information on the volcanic geology visible underwater
+- Sea Saba: regularly includes Hot Springs in multi-dive day itineraries
 
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

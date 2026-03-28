@@ -13,55 +13,55 @@ addedBy: osm_import
 
 ## North Carolina
 
-North Carolina is a historic wreck dive in Bermuda, Atlantic.
+A 205-foot English iron-hulled sailing bark that sank on New Year's Day 1880 while headed for England, its prominent bowsprit and rows of dead-eyes making it one of Bermuda's most photogenic wrecks.
 
 ## Overview
 
-North Carolina is a dive site in Bermuda featuring the wreck of the North Carolina. Located in the Atlantic region, this site offers 15-30 meters of visibility with water temperatures averaging 20-28°C.
+The North Carolina was a 205-foot English iron-hulled bark built in Liverpool, England. On January 1, 1880, she was en route from Bermuda to England with a cargo of cotton when she struck a reef and sank. An attempt to refloat her ended in disaster when an anchor broke free and crashed through the hull, sealing her fate. The wreck now lies in up to 14 meters of water on the reef, and is notable for its remarkable state of preservation despite its age. The prominent bowsprit extending forward from the bow and the distinctive rows of dead-eyes — the wooden pulleys used to tension the rigging — along the deck railings are remarkably intact and provide backdrops that vividly evoke the age of sail. The North Carolina is one of the most structurally distinctive sailing ship wrecks in Bermuda.
 
 ## Site Information
 
-- **Location**: Bermuda, Atlantic
+- **Location**: Outer reef, Bermuda
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck (sailing ship)
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 14 meters
-- **Typical Visibility**: 15-30 meters (50-100 feet)
+- **Maximum Depth**: 14 meters (45 feet)
+- **Typical Visibility**: 15–30 meters (50–100 feet)
 - **Current**: Light to moderate
-- **Best Time**: May to October
+- **Water Temperature**: 18–28°C (64–82°F)
+- **Best Time**: May–October
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, snappers, barracuda, coral encrustation, sea turtles, reef sharks, groupers, snappers. Additional species commonly sighted include parrotfish, angelfish. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The North Carolina's intact structural features provide excellent reef habitat. The bowsprit and rigging attachment points carry dense coral and sponge encrustation. Schools of snapper, grunt, and barracuda shelter around the hull. The deck area with its preserved dead-eyes hosts resident angelfish and parrotfish. Spiny lobster are common in the sheltered spaces beneath the hull plates. Sea turtles occasionally visit the reef surrounding the wreck.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 14 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Begin at the distinctive bowsprit for orientation, then work systematically along the hull from bow to stern, taking time to examine the rows of dead-eyes and imagine the rigging configuration in its operational state. The 14-meter depth range allows comfortable bottom time. A safety stop over the surrounding reef provides additional viewing opportunities before surfacing.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Bermuda operators. Giant stride or back roll entry. Offshore location — assess weather before departure. Deploy SMB for boat pickup at the end of the dive.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Study the rigging configuration of 19th-century square-rigged barks before your dive — the dead-eyes make much more sense with context
+- The bowsprit extending forward from the bow is the most dramatic wide-angle photography subject
+- Carry a torch to illuminate the encrusted dead-eyes and bring out their color for photography
+- A knowledgeable dive guide can point out lesser-visible details that make this wreck extraordinary
+- Combine with other outer reef wrecks on a multi-dive day — the North Carolina's sailing ship character contrasts well with steam-era wrecks
 
 ## Safety Considerations
 
-Be aware of boat traffic, currents, occasional swells in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+The 14-meter depth is appropriate for Intermediate divers. Moderate currents can develop on the outer reef — exit the water if current builds significantly. The offshore location means weather monitoring is important. Always deploy an SMB on ascent given the potential for vessel traffic in this area.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The North Carolina is considered one of Bermuda's most photogenic wrecks precisely because of the intact bowsprit and dead-eye rows. Wide-angle natural light photography at 14 meters captures the sailing ship atmosphere powerfully. The rows of dead-eyes against the sandy bottom are a detail that rewards close-focus treatment. Bermuda's excellent visibility makes this site exceptional for underwater photography.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*
