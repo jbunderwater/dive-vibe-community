@@ -23,7 +23,7 @@ The structure is typical of the best Kwajalein coral heads — a hard coral pinn
 
 ## What to Expect
 
-The coral head structure provides habitat for the classic Kwajalein lagoon community. Napoleon wrasse and large parrotfish cruise the perimeter. Moray eels occupy crevices throughout the pinnacle. Schools of snapper and fusiliers hover in the mid-water column. Whitetip reef sharks rest on sandy ledges at the base or cruise slowly around the lower structure. The hard coral coverage is dense and in good condition — table corals, brain corals, and encrusting formations cover virtually every surface above the sand line.
+The coral head structure provides habitat for the classic Kwajalein lagoon community. Humphead wrasse and large parrotfish cruise the perimeter. Moray eels occupy crevices throughout the pinnacle. Schools of snapper and fusiliers hover in the mid-water column. Whitetip reef sharks rest on sandy ledges at the base or cruise slowly around the lower structure. The hard coral coverage is dense and in good condition — table corals, brain corals, and encrusting formations cover virtually every surface above the sand line.
 
 Photography conditions are among the best in Micronesia: excellent visibility, soft natural light filtering through the clear lagoon water, and cooperative subject species.
 
@@ -37,7 +37,7 @@ Photography conditions are among the best in Micronesia: excellent visibility, s
 
 ## Marine Life Highlights
 
-Napoleon wrasse, parrotfish, moray eels, snapper schools, fusiliers, whitetip reef sharks, groupers, butterflyfish, table corals, brain corals, nudibranchs.
+Humphead wrasse, parrotfish, moray eels, snapper schools, fusiliers, whitetip reef sharks, groupers, butterflyfish, table corals, brain corals, nudibranchs.
 
 ---
 

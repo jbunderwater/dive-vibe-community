@@ -23,7 +23,7 @@ The western lagoon position delivers slightly more current-influenced conditions
 
 ## What to Expect
 
-SAR Coral Head has developed a reputation among regular Kwajalein divers for consistently reliable encounters with large groupers — particularly squaretail coral groupers and camouflage groupers that hold territory in the deeper crevices and hover at the base of the pinnacle. These are large, heavyweight fish that hold their position with confidence as divers approach, providing outstanding close-up photography opportunities. Napoleon wrasse patrol the upper sections. Grey reef sharks circle at mid-water.
+SAR Coral Head has developed a reputation among regular Kwajalein divers for consistently reliable encounters with large groupers — particularly squaretail coral groupers and camouflage groupers that hold territory in the deeper crevices and hover at the base of the pinnacle. These are large, heavyweight fish that hold their position with confidence as divers approach, providing outstanding close-up photography opportunities. Humphead wrasse patrol the upper sections. Grey reef sharks circle at mid-water.
 
 The sandy floor immediately around the pinnacle base is productive — blue-spotted ribbontail rays rest here regularly, and several pairs of garden eels maintain colonies in the adjacent sand. The coral surfaces throughout the pinnacle support moray eels, lionfish, and the usual range of Kwajalein lagoon macro subjects.
 
@@ -37,7 +37,7 @@ The sandy floor immediately around the pinnacle base is productive — blue-spot
 
 ## Marine Life Highlights
 
-Large groupers (squaretail coral, camouflage), napoleon wrasse, grey reef sharks, blue-spotted ribbontail rays, garden eels, moray eels, lionfish, snapper, fusiliers.
+Large groupers (squaretail coral, camouflage), humphead wrasse, grey reef sharks, blue-spotted ribbontail rays, garden eels, moray eels, lionfish, snapper, fusiliers.
 
 ---
 

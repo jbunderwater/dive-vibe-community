@@ -25,7 +25,7 @@ The pinnacle structure is typical of the best Kwajalein coral heads — mature, 
 
 Grey reef sharks are the defining encounter at R-Buoy — the site consistently produces more shark activity than most inner lagoon sites, with three to eight individuals typically visible patrolling the mid-water column around the pinnacle. The sharks are not aggressive but are more actively investigating than the habituated specimens of the main cluster sites, making behavior observation more dynamic. Shark photographers rate R-Buoy as one of Kwajalein's better sites for natural shark behavior photography.
 
-The coral head itself is productive for the full range of Kwajalein lagoon species — napoleon wrasse, hawksbill turtles, moray eels, and dense populations of butterflyfish and surgeonfish on the shallow crown. The sandy floor hosts garden eels and the occasional passing stingray.
+The coral head itself is productive for the full range of Kwajalein lagoon species — humphead wrasse, hawksbill turtles, moray eels, and dense populations of butterflyfish and surgeonfish on the shallow crown. The sandy floor hosts garden eels and the occasional passing stingray.
 
 ## Practical Information
 
@@ -37,7 +37,7 @@ The coral head itself is productive for the full range of Kwajalein lagoon speci
 
 ## Marine Life Highlights
 
-Grey reef sharks, napoleon wrasse, hawksbill turtles, moray eels, garden eels, stingrays, butterflyfish, surgeonfish, snapper, groupers.
+Grey reef sharks, humphead wrasse, hawksbill turtles, moray eels, garden eels, stingrays, butterflyfish, surgeonfish, snapper, groupers.
 
 ---
 

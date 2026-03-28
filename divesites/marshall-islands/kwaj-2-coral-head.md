@@ -23,7 +23,7 @@ The western lagoon position exposes Kwaj-2 to slightly stronger tidal current fl
 
 ## What to Expect
 
-Kwaj-2 is particularly noted for regular encounters with large, solitary barracuda — single great barracuda over a meter long that patrol the pinnacle perimeter and regard divers with the characteristic cold-eyed attention of a top predator unfazed by human presence. Schools of smaller chevron barracuda are also common in the mid-water column above the site. Grey reef sharks circle at depth, and napoleon wrasse hold territory on the deeper faces of the pinnacle.
+Kwaj-2 is particularly noted for regular encounters with large, solitary barracuda — single great barracuda over a meter long that patrol the pinnacle perimeter and regard divers with the characteristic cold-eyed attention of a top predator unfazed by human presence. Schools of smaller chevron barracuda are also common in the mid-water column above the site. Grey reef sharks circle at depth, and humphead wrasse hold territory on the deeper faces of the pinnacle.
 
 The coral growth on Kwaj-2 includes some of the largest table coral formations in the western lagoon cluster — horizontal table coral plates up to two meters across create layered canopies on the upper pinnacle faces, sheltering soldierfish, squirrelfish, and small groupers in the shadows beneath.
 
@@ -37,7 +37,7 @@ The coral growth on Kwaj-2 includes some of the largest table coral formations i
 
 ## Marine Life Highlights
 
-Great barracuda, chevron barracuda schools, grey reef sharks, napoleon wrasse, table corals, soldierfish, squirrelfish, groupers, moray eels, butterflyfish.
+Great barracuda, chevron barracuda schools, grey reef sharks, humphead wrasse, table corals, soldierfish, squirrelfish, groupers, moray eels, butterflyfish.
 
 ---
 

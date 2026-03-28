@@ -37,7 +37,7 @@ The hard coral quality at N-Buoy is high, with intact table coral formations and
 
 ## Marine Life Highlights
 
-Fusilier schools, snapper schools, grey reef sharks, moray eels, table corals, brain corals, napoleon wrasse, groupers, butterflyfish, damselfish.
+Fusilier schools, snapper schools, grey reef sharks, moray eels, table corals, brain corals, humphead wrasse, groupers, butterflyfish, damselfish.
 
 ---
 

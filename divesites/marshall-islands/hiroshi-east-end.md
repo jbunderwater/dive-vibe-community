@@ -37,7 +37,7 @@ The reef crest in the shallows features interesting topography — coral arches,
 
 ## Marine Life Highlights
 
-Grey reef sharks, barracuda, dogtooth tuna, hawksbill turtles, napoleon wrasse, surgeonfish, butterflyfish, angelfish, groupers, whitetip reef sharks, table corals, staghorn corals.
+Grey reef sharks, barracuda, dogtooth tuna, hawksbill turtles, humphead wrasse, surgeonfish, butterflyfish, angelfish, groupers, whitetip reef sharks, table corals, staghorn corals.
 
 ---
 

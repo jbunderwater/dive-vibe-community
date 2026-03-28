@@ -23,7 +23,7 @@ The pinnacle rises from 25 meters to near the surface with the mature hard coral
 
 ## What to Expect
 
-Troys is considered one of the more aesthetically pleasing dive sites in the western cluster — the pinnacle has a distinctive profile visible underwater from a distance, and the coral growth pattern creates natural swim-throughs and overhangs that give the dive a sense of architectural exploration. Napoleon wrasse and large parrotfish hold territory on the upper sections. Grey reef sharks and whitetip reef sharks are regular mid-water sightings.
+Troys is considered one of the more aesthetically pleasing dive sites in the western cluster — the pinnacle has a distinctive profile visible underwater from a distance, and the coral growth pattern creates natural swim-throughs and overhangs that give the dive a sense of architectural exploration. Humphead wrasse and large parrotfish hold territory on the upper sections. Grey reef sharks and whitetip reef sharks are regular mid-water sightings.
 
 The site is frequently cited by regular Kwajalein divers as a personal favorite — the combination of good coral structure, reliable fish life, moderate isolation from the busy inner cluster, and the personal history embedded in its name give it a character that the purely alphanumeric buoy-name sites lack.
 
@@ -37,7 +37,7 @@ The site is frequently cited by regular Kwajalein divers as a personal favorite 
 
 ## Marine Life Highlights
 
-Napoleon wrasse, large parrotfish, grey reef sharks, whitetip reef sharks, moray eels, groupers, snapper, butterflyfish, hard coral swim-throughs.
+Humphead wrasse, large parrotfish, grey reef sharks, whitetip reef sharks, moray eels, groupers, snapper, butterflyfish, hard coral swim-throughs.
 
 ---
 

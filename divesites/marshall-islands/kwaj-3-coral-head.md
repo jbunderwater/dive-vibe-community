@@ -37,7 +37,7 @@ The hard coral quality at Kwaj-3 is reportedly excellent — some of the most ex
 
 ## Marine Life Highlights
 
-Grey reef sharks, whitetip reef sharks, hawksbill turtles, garden eels, branching corals, table corals, napoleon wrasse, groupers, snapper schools.
+Grey reef sharks, whitetip reef sharks, hawksbill turtles, garden eels, branching corals, table corals, humphead wrasse, groupers, snapper schools.
 
 ---
 

@@ -23,7 +23,7 @@ The surrounding reef has developed organically around the old farm area, with ha
 
 ## What to Expect
 
-The giant clams are the standout attraction — Tridacna gigas specimens with mantle spans exceeding half a meter are common, and their vivid colors and subtle mantle movements make them compelling subjects for underwater photography. Clownfish and neon damselfish patrol anemones scattered across the site. Cleaning stations on the reef attract napoleon wrasse, groupers, and the occasional reef shark for grooming visits.
+The giant clams are the standout attraction — Tridacna gigas specimens with mantle spans exceeding half a meter are common, and their vivid colors and subtle mantle movements make them compelling subjects for underwater photography. Clownfish and neon damselfish patrol anemones scattered across the site. Cleaning stations on the reef attract humphead wrasse, groupers, and the occasional reef shark for grooming visits.
 
 The sandy areas around the clam zone are productive territory for nudibranchs, flatworms, and small cephalopods. Blue-spotted ribbontail rays rest on the sand in the shallows. At the site's deeper edges, schools of snapper and sweetlips hang over the reef structure.
 
@@ -37,7 +37,7 @@ The sandy areas around the clam zone are productive territory for nudibranchs, f
 
 ## Marine Life Highlights
 
-Giant clams (Tridacna gigas and other species), clownfish, neon damselfish, napoleon wrasse, groupers, snapper, sweetlips, blue-spotted ribbontail rays, nudibranchs, flatworms, moray eels, grey reef sharks.
+Giant clams (Tridacna gigas and other species), clownfish, neon damselfish, humphead wrasse, groupers, snapper, sweetlips, blue-spotted ribbontail rays, nudibranchs, flatworms, moray eels, grey reef sharks.
 
 ---
 

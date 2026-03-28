@@ -37,7 +37,7 @@ The coral quality at S-Buoy is high, with particularly good examples of massive 
 
 ## Marine Life Highlights
 
-Hawksbill turtles, whitetip reef sharks, grey reef sharks, massive Porites corals, brain corals, snapper, sweetlips, moray eels, napoleon wrasse, groupers.
+Hawksbill turtles, whitetip reef sharks, grey reef sharks, massive Porites corals, brain corals, snapper, sweetlips, moray eels, humphead wrasse, groupers.
 
 ---
 

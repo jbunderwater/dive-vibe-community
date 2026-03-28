@@ -23,7 +23,7 @@ The proximity to the open lagoon in the northern section provides slightly more 
 
 ## What to Expect
 
-The reduced diver traffic at North Loi produces some of the most authentic "wilderness" reef encounters in the Kwajalein system. Grey reef sharks patrol the water column with the purposeful behavior of undisturbed predators. Large napoleon wrasse drift at respectful distance rather than approaching divers. The hard coral quality is exceptional — undisturbed table coral formations and thickets of staghorn coral in the shallows are among the most intact in the Kwajalein dive inventory.
+The reduced diver traffic at North Loi produces some of the most authentic "wilderness" reef encounters in the Kwajalein system. Grey reef sharks patrol the water column with the purposeful behavior of undisturbed predators. Large humphead wrasse drift at respectful distance rather than approaching divers. The hard coral quality is exceptional — undisturbed table coral formations and thickets of staghorn coral in the shallows are among the most intact in the Kwajalein dive inventory.
 
 Pelagic visitors are more common here than at the more sheltered inner sites — schools of dogtooth tuna pass through, and eagle rays are occasional sightings in the open water above the pinnacle. Hawksbill turtles use the coral head's sponge-covered faces as a feeding ground.
 
@@ -37,7 +37,7 @@ Pelagic visitors are more common here than at the more sheltered inner sites —
 
 ## Marine Life Highlights
 
-Grey reef sharks, napoleon wrasse, dogtooth tuna (occasional), eagle rays (occasional), hawksbill turtles, table corals, staghorn corals, fusiliers, snapper, groupers.
+Grey reef sharks, humphead wrasse, dogtooth tuna (occasional), eagle rays (occasional), hawksbill turtles, table corals, staghorn corals, fusiliers, snapper, groupers.
 
 ---
 

@@ -23,7 +23,7 @@ The western orientation means afternoon light hits this site differently than th
 
 ## What to Expect
 
-K-9 West has developed a reputation for particularly large napoleon wrasse specimens that have claimed territories on the pinnacle. These huge, lumbering fish — some exceeding a meter in length — appear completely habituated to divers and can be approached to within a few meters before they drift away. Hawksbill turtles are regular visitors, and the western face of the pinnacle has several large anemone colonies with resident clownfish.
+K-9 West has developed a reputation for particularly large humphead wrasse specimens that have claimed territories on the pinnacle. These huge, lumbering fish — some exceeding a meter in length — appear completely habituated to divers and can be approached to within a few meters before they drift away. Hawksbill turtles are regular visitors, and the western face of the pinnacle has several large anemone colonies with resident clownfish.
 
 The sandy area to the west of the pinnacle base is productive for macro work — flatworms, nudibranchs, and small crustaceans populate the mixed sand-and-rubble substrate. Garden eels sway in small groups at the perimeter. The pinnacle crown is dense with hard corals and hosts a typical Kwajalein community of butterflyfish, angelfish, damselfish, and surgeonfish.
 
@@ -33,11 +33,11 @@ The sandy area to the west of the pinnacle base is productive for macro work —
 - **Visibility**: 20–35 meters typical
 - **Currents**: Generally mild
 - **Entry**: Boat dive; often combined with K-9 and K-9 Deep
-- **Best For**: Intermediate divers; good for large napoleon wrasse encounters and afternoon photography
+- **Best For**: Intermediate divers; good for large humphead wrasse encounters and afternoon photography
 
 ## Marine Life Highlights
 
-Napoleon wrasse (large specimens), hawksbill turtles, clownfish and anemones, garden eels, flatworms, nudibranchs, butterflyfish, angelfish, surgeonfish, groupers.
+Humphead wrasse (large specimens), hawksbill turtles, clownfish and anemones, garden eels, flatworms, nudibranchs, butterflyfish, angelfish, surgeonfish, groupers.
 
 ---
 

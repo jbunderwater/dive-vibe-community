@@ -23,7 +23,7 @@ The typical Kwajalein lagoon conditions apply here: visibility 25–35 meters, w
 
 ## What to Expect
 
-GBR North has developed a reputation for denser parrotfish activity than the main GBR site — bumphead parrotfish and steephead parrotfish are frequently seen grazing noisily on the coral heads, leaving characteristic white sand (processed coral) in their wake. The crunching sound of parrotfish feeding is often the first thing divers notice on descent. Napoleon wrasse patrol the perimeter. Grey reef sharks are consistent mid-water companions.
+GBR North has developed a reputation for denser parrotfish activity than the main GBR site — bumphead parrotfish and steephead parrotfish are frequently seen grazing noisily on the coral heads, leaving characteristic white sand (processed coral) in their wake. The crunching sound of parrotfish feeding is often the first thing divers notice on descent. Humphead wrasse patrol the perimeter. Grey reef sharks are consistent mid-water companions.
 
 The shallower sections of GBR North are particularly rich in coral diversity — table coral formations overlap in layered canopies, and the spaces beneath them shelter soldierfish, squirrelfish, and resting triggerfish. Nudibranchs are abundant on the encrusted surfaces for macro enthusiasts.
 
@@ -37,7 +37,7 @@ The shallower sections of GBR North are particularly rich in coral diversity —
 
 ## Marine Life Highlights
 
-Bumphead parrotfish, steephead parrotfish, napoleon wrasse, grey reef sharks, soldierfish, squirrelfish, triggerfish, nudibranchs, table corals, encrusting sponges.
+Bumphead parrotfish, steephead parrotfish, humphead wrasse, grey reef sharks, soldierfish, squirrelfish, triggerfish, nudibranchs, table corals, encrusting sponges.
 
 ---
 

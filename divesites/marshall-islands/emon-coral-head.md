@@ -23,7 +23,7 @@ The coral head structure is mature and well-colonized — decades of growth in t
 
 ## What to Expect
 
-The site is known for particularly dense concentrations of anemones with clownfish — multiple large anemone colonies are scattered across the upper sections of the coral head, each hosting its resident clownfish pair. Moray eels of several species — including the massive giant moray — have long-established territories in the crevices. Hawksbill turtles are regular visitors, grazing on sponge growth across the pinnacle. Napoleon wrasse and large parrotfish patrol the perimeter.
+The site is known for particularly dense concentrations of anemones with clownfish — multiple large anemone colonies are scattered across the upper sections of the coral head, each hosting its resident clownfish pair. Moray eels of several species — including the massive giant moray — have long-established territories in the crevices. Hawksbill turtles are regular visitors, grazing on sponge growth across the pinnacle. Humphead wrasse and large parrotfish patrol the perimeter.
 
 The sandy skirt around the base of the coral head harbors garden eels and the occasional blue-spotted ribbontail ray. Macro enthusiasts will find nudibranchs and flatworms on the encrusted coral surfaces throughout the dive.
 
@@ -37,7 +37,7 @@ The sandy skirt around the base of the coral head harbors garden eels and the oc
 
 ## Marine Life Highlights
 
-Clownfish and anemones, moray eels (including giant moray), hawksbill turtles, napoleon wrasse, parrotfish, garden eels, blue-spotted ribbontail rays, nudibranchs, groupers, snapper.
+Clownfish and anemones, moray eels (including giant moray), hawksbill turtles, humphead wrasse, parrotfish, garden eels, blue-spotted ribbontail rays, nudibranchs, groupers, snapper.
 
 ---
 

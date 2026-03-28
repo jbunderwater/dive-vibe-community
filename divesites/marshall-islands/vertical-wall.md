@@ -37,7 +37,7 @@ The reef crest at 5–10 meters is excellent for safety stops — dense coral co
 
 ## Marine Life Highlights
 
-Whitetip reef sharks, moray eels (giant, undulated), lionfish, hawksbill turtles, napoleon wrasse, parrotfish, snapper schools, fusiliers, glassy sweepers, orange cup corals, encrusting sponges, soft coral trees.
+Whitetip reef sharks, moray eels (giant, undulated), lionfish, hawksbill turtles, humphead wrasse, parrotfish, snapper schools, fusiliers, glassy sweepers, orange cup corals, encrusting sponges, soft coral trees.
 
 ---
 

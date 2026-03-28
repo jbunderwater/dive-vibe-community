@@ -23,7 +23,7 @@ K-7 sits slightly apart from the denser K-9 and K-10 cluster, giving it a slight
 
 ## What to Expect
 
-Large moray eels are a K-7 specialty — the pinnacle's abundant crevices and overhangs shelter an unusually dense moray population, including massive giant morays that extend their heads from holes throughout the dive. Feeding opportunities are frequent as the morays hunt small fish across the coral surface, and the closely spaced crevices make it possible to spot several individuals in a single glance across the structure. Napoleon wrasse are regular companions, and schools of snapper circulate the mid-water zone.
+Large moray eels are a K-7 specialty — the pinnacle's abundant crevices and overhangs shelter an unusually dense moray population, including massive giant morays that extend their heads from holes throughout the dive. Feeding opportunities are frequent as the morays hunt small fish across the coral surface, and the closely spaced crevices make it possible to spot several individuals in a single glance across the structure. Humphead wrasse are regular companions, and schools of snapper circulate the mid-water zone.
 
 The pinnacle crown at 5–10 meters features some of the best hard coral coverage in the K-series cluster, with particularly large brain coral formations — some exceeding a meter in diameter — that have grown undisturbed for many decades. Clownfish in anemone colonies are scattered throughout the upper structure.
 
@@ -37,7 +37,7 @@ The pinnacle crown at 5–10 meters features some of the best hard coral coverag
 
 ## Marine Life Highlights
 
-Giant moray eels, napoleon wrasse, snapper schools, large brain corals, clownfish and anemones, parrotfish, groupers, lionfish, butterflyfish.
+Giant moray eels, humphead wrasse, snapper schools, large brain corals, clownfish and anemones, parrotfish, groupers, lionfish, butterflyfish.
 
 ---
 

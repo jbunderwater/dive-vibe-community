@@ -23,7 +23,7 @@ The Kwajalein Lagoon environment provides excellent visibility — typically 25�
 
 ## What to Expect
 
-The barracuda are the signature encounter — schools of 50 to 200 or more chevron barracuda hover in mid-water columns around the pinnacle, their silver bodies catching the light as they wheel in slow formation. Grey reef sharks patrol the outer edges of the school. Napoleon wrasse and large groupers cruise the base of the coral head. The pinnacle sides are encrusted with hard corals, sponges, and sea whips, sheltering moray eels, lionfish, and scores of smaller reef fish.
+The barracuda are the signature encounter — schools of 50 to 200 or more chevron barracuda hover in mid-water columns around the pinnacle, their silver bodies catching the light as they wheel in slow formation. Grey reef sharks patrol the outer edges of the school. Humphead wrasse and large groupers cruise the base of the coral head. The pinnacle sides are encrusted with hard corals, sponges, and sea whips, sheltering moray eels, lionfish, and scores of smaller reef fish.
 
 On the sandy floor around the base, blue-spotted ribbontail rays rest or forage. Garden eels sway in the slight current at the sand edge. Night dives on Barracuda Coral Head reportedly produce spectacular light shows from bioluminescent plankton, with hunting barracuda visible on the perimeter.
 
@@ -37,7 +37,7 @@ On the sandy floor around the base, blue-spotted ribbontail rays rest or forage.
 
 ## Marine Life Highlights
 
-Chevron barracuda schools, grey reef sharks, napoleon wrasse, large groupers, moray eels, lionfish, blue-spotted ribbontail rays, garden eels, sponge colonies, sea whips.
+Chevron barracuda schools, grey reef sharks, humphead wrasse, large groupers, moray eels, lionfish, blue-spotted ribbontail rays, garden eels, sponge colonies, sea whips.
 
 ---
 

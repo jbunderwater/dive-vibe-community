@@ -23,7 +23,7 @@ The site position in the lagoon's central zone provides the calm, sheltered cond
 
 ## What to Expect
 
-Hawksbill turtles are the site's signature species — they use the coral head's sponge-covered surfaces as a grazing ground and can often be approached closely as they feed, seemingly unconcerned by divers who maintain a respectful distance and avoid direct pursuit. Napoleon wrasse and large parrotfish are regular companions, and schooling snapper circle the pinnacle mid-water. Moray eels have established territories in the crevices throughout the structure. The sandy floor around the pinnacle base harbors garden eels in small colonies.
+Hawksbill turtles are the site's signature species — they use the coral head's sponge-covered surfaces as a grazing ground and can often be approached closely as they feed, seemingly unconcerned by divers who maintain a respectful distance and avoid direct pursuit. Humphead wrasse and large parrotfish are regular companions, and schooling snapper circle the pinnacle mid-water. Moray eels have established territories in the crevices throughout the structure. The sandy floor around the pinnacle base harbors garden eels in small colonies.
 
 Night diving at G-Buoy produces excellent encounters — the sandy areas around the base come alive with crabs, octopus, and flatfish, while the sleeping reef fish tucked into coral crevices are illuminated in torch beams throughout the dive.
 
@@ -37,7 +37,7 @@ Night diving at G-Buoy produces excellent encounters — the sandy areas around 
 
 ## Marine Life Highlights
 
-Hawksbill turtles, napoleon wrasse, large parrotfish, moray eels, snapper schools, garden eels, octopus (night), crabs, table corals, encrusting sponges.
+Hawksbill turtles, humphead wrasse, large parrotfish, moray eels, snapper schools, garden eels, octopus (night), crabs, table corals, encrusting sponges.
 
 ---
 

@@ -37,7 +37,7 @@ The channel between the peaks is a particular highlight — a miniature "canyon"
 
 ## Marine Life Highlights
 
-Grey reef sharks, hawksbill turtles, moray eels, lionfish, gorgonian fans, snapper, groupers, butterflyfish, napoleon wrasse.
+Grey reef sharks, hawksbill turtles, moray eels, lionfish, gorgonian fans, snapper, groupers, butterflyfish, humphead wrasse.
 
 ---
 

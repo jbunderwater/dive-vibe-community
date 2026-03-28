@@ -37,7 +37,7 @@ The coral quality here is among the best in the northern lagoon system — exten
 
 ## Marine Life Highlights
 
-Dogtooth tuna (occasional), barracuda, grey reef sharks, table corals, branching corals, moray eels, napoleon wrasse, snapper, fusiliers, octopus (night).
+Dogtooth tuna (occasional), barracuda, grey reef sharks, table corals, branching corals, moray eels, humphead wrasse, snapper, fusiliers, octopus (night).
 
 ---
 

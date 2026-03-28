@@ -23,7 +23,7 @@ Hard coral coverage at GBR is strong, with brain corals and massive star coral f
 
 ## What to Expect
 
-GBR Coral Head is known for an active cleaning station on the pinnacle's southwest face — a patch of soft coral and sea whips where cleaner wrasse set up their service operation, attracting napoleon wrasse, groupers, and even grey reef sharks that approach for grooming. Watching large predators hold still while tiny cleaner wrasse work inside their mouths and gill slits is one of the reef's more intimate experiences. Grey reef sharks are present throughout the dive, circling at mid-water or resting on ledges. Moray eels of multiple species occupy the pinnacle's crevices.
+GBR Coral Head is known for an active cleaning station on the pinnacle's southwest face — a patch of soft coral and sea whips where cleaner wrasse set up their service operation, attracting humphead wrasse, groupers, and even grey reef sharks that approach for grooming. Watching large predators hold still while tiny cleaner wrasse work inside their mouths and gill slits is one of the reef's more intimate experiences. Grey reef sharks are present throughout the dive, circling at mid-water or resting on ledges. Moray eels of multiple species occupy the pinnacle's crevices.
 
 The pinnacle crown in the shallows (5–10 meters) is dense with butterflyfish and angelfish, and anemones with resident clownfish are scattered across the upper structure.
 
@@ -37,7 +37,7 @@ The pinnacle crown in the shallows (5–10 meters) is dense with butterflyfish a
 
 ## Marine Life Highlights
 
-Grey reef sharks, napoleon wrasse, groupers (cleaning station), moray eels, clownfish and anemones, butterflyfish, angelfish, brain corals, sea whips, nudibranchs.
+Grey reef sharks, humphead wrasse, groupers (cleaning station), moray eels, clownfish and anemones, butterflyfish, angelfish, brain corals, sea whips, nudibranchs.
 
 ---
 

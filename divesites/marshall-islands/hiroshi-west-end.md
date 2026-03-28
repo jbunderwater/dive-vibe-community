@@ -23,7 +23,7 @@ The sheltered conditions make the West End particularly suitable for less curren
 
 ## What to Expect
 
-The West End's sheltered position favors large resident species. Napoleon wrasse are almost always present, cruising the reef edge with their characteristic lumbering grace. Hawksbill turtles rest on the coral heads and graze leisurely on sponge growth. In the crevices and under overhangs, resident moray eels — including the large spotted moray — are easily approached. The coral gardens host a dense assemblage of butterflyfish, triggerfish, and parrotfish.
+The West End's sheltered position favors large resident species. Humphead wrasse are almost always present, cruising the reef edge with their characteristic lumbering grace. Hawksbill turtles rest on the coral heads and graze leisurely on sponge growth. In the crevices and under overhangs, resident moray eels — including the large spotted moray — are easily approached. The coral gardens host a dense assemblage of butterflyfish, triggerfish, and parrotfish.
 
 The absence of strong current allows divers to hover near cleaning stations and watch extended grooming interactions between cleaner wrasse and larger reef fish. Night diving on the West End is reportedly excellent, with octopus hunting across the reef crest, crabs emerging from crevices, and flatworms displaying their vivid coloration.
 
@@ -37,7 +37,7 @@ The absence of strong current allows divers to hover near cleaning stations and 
 
 ## Marine Life Highlights
 
-Napoleon wrasse, hawksbill turtles, moray eels (spotted, giant), butterflyfish, triggerfish, parrotfish, cleaner wrasse stations, octopus (night), flatworms, nudibranchs, table corals.
+Humphead wrasse, hawksbill turtles, moray eels (spotted, giant), butterflyfish, triggerfish, parrotfish, cleaner wrasse stations, octopus (night), flatworms, nudibranchs, table corals.
 
 ---
 

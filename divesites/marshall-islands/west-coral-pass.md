@@ -23,7 +23,7 @@ The name's western orientation typically gives the site afternoon light and a sl
 
 ## What to Expect
 
-Grey reef sharks are the defining encounter at this site — they aggregate in the pass current, positioning themselves mid-water to intercept prey swept through with the tide. On active days, five to fifteen sharks are visible simultaneously in the channel. Schools of rainbow runners and fusiliers fill the water column alongside them. Large napoleon wrasse hold station near the wall edges at the pass mouth.
+Grey reef sharks are the defining encounter at this site — they aggregate in the pass current, positioning themselves mid-water to intercept prey swept through with the tide. On active days, five to fifteen sharks are visible simultaneously in the channel. Schools of rainbow runners and fusiliers fill the water column alongside them. Large humphead wrasse hold station near the wall edges at the pass mouth.
 
 Current timing is everything here — operators coordinate entry around tidal flow for maximum fish activity. The typical dive involves a current-assisted entry at the pass entrance, a drift through the main channel behind the guide, and a gradual ascent onto the shallower reef crest for a final explore and safety stop in calmer water before pickup.
 
@@ -37,7 +37,7 @@ Current timing is everything here — operators coordinate entry around tidal fl
 
 ## Marine Life Highlights
 
-Grey reef sharks, rainbow runners, fusilier schools, napoleon wrasse, barracuda, crinoids, soft corals, anthias, butterflyfish, occasional whitetip reef sharks.
+Grey reef sharks, rainbow runners, fusilier schools, humphead wrasse, barracuda, crinoids, soft corals, anthias, butterflyfish, occasional whitetip reef sharks.
 
 ---
 

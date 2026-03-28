@@ -23,7 +23,7 @@ Visibility at Marita Shoals typically runs 25–35 meters in the open lagoon env
 
 ## What to Expect
 
-The current-influenced position makes this site a consistent producer of pelagic encounters. Barracuda are almost always present, hanging in loose schools or patrolling the reef edge. Grey reef sharks are regular visitors in the mid-water zone. Napoleon wrasse cruise the outer edge of the shoals, and schools of bumphead parrotfish have been reported in the area. Closer to the reef, the dense fish community includes groupers, sweetlips, snapper, and triggerfish working the coral heads.
+The current-influenced position makes this site a consistent producer of pelagic encounters. Barracuda are almost always present, hanging in loose schools or patrolling the reef edge. Grey reef sharks are regular visitors in the mid-water zone. Humphead wrasse cruise the outer edge of the shoals, and schools of bumphead parrotfish have been reported in the area. Closer to the reef, the dense fish community includes groupers, sweetlips, snapper, and triggerfish working the coral heads.
 
 Hawksbill turtles graze the sponge and algae growth across the reef flat. In the crevices, moray eels and lionfish occupy the darker recesses. The sandy inter-reef areas around the shoals occasionally yield sightings of resting whitetip reef sharks.
 
@@ -37,7 +37,7 @@ Hawksbill turtles graze the sponge and algae growth across the reef flat. In the
 
 ## Marine Life Highlights
 
-Grey reef sharks, barracuda schools, napoleon wrasse, bumphead parrotfish (occasional), hawksbill turtles, moray eels, lionfish, groupers, sweetlips, snapper, whitetip reef sharks.
+Grey reef sharks, barracuda schools, humphead wrasse, bumphead parrotfish (occasional), hawksbill turtles, moray eels, lionfish, groupers, sweetlips, snapper, whitetip reef sharks.
 
 ---
 

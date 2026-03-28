@@ -23,7 +23,7 @@ Visibility in this part of the lagoon consistently reaches 25–35 meters, and t
 
 ## What to Expect
 
-K-9's status as the most frequently dived site in the area means its marine residents are unusually habituated to divers — napoleon wrasse and large groupers approach closely, and the moray eels poke their heads from crevices with less wariness than on more rarely visited sites. Whitetip reef sharks rest on sandy ledges at the base and are completely relaxed with slow-moving divers. The pinnacle top at 5–8 meters has exceptional hard coral diversity — brain corals, table corals, and encrusting formations in excellent condition.
+K-9's status as the most frequently dived site in the area means its marine residents are unusually habituated to divers — humphead wrasse and large groupers approach closely, and the moray eels poke their heads from crevices with less wariness than on more rarely visited sites. Whitetip reef sharks rest on sandy ledges at the base and are completely relaxed with slow-moving divers. The pinnacle top at 5–8 meters has exceptional hard coral diversity — brain corals, table corals, and encrusting formations in excellent condition.
 
 The sandy floor around the base is reliably productive for garden eels, blue-spotted ribbontail rays, and the occasional stingray. Clownfish occupy multiple anemone colonies throughout the upper structure, and nudibranchs are found on the encrusted surfaces throughout the dive depth range.
 
@@ -37,7 +37,7 @@ The sandy floor around the base is reliably productive for garden eels, blue-spo
 
 ## Marine Life Highlights
 
-Napoleon wrasse, large groupers, whitetip reef sharks, moray eels, clownfish and anemones, garden eels, blue-spotted ribbontail rays, brain corals, table corals, nudibranchs.
+Humphead wrasse, large groupers, whitetip reef sharks, moray eels, clownfish and anemones, garden eels, blue-spotted ribbontail rays, brain corals, table corals, nudibranchs.
 
 ---
 

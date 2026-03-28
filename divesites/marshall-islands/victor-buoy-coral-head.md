@@ -37,7 +37,7 @@ The coral quality at Victor Buoy is outstanding — decades of minimal disturban
 
 ## Marine Life Highlights
 
-Grey reef sharks (natural behavior), dogtooth tuna, hammerhead sharks (occasional), napoleon wrasse, hawksbill turtles, branching corals, plate corals, brain corals, moray eels, groupers.
+Grey reef sharks (natural behavior), dogtooth tuna, hammerhead sharks (occasional), humphead wrasse, hawksbill turtles, branching corals, plate corals, brain corals, moray eels, groupers.
 
 ---
 

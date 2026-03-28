@@ -23,7 +23,7 @@ The pinnacle rises from 25 meters to near the surface, with the typical Kwajalei
 
 ## What to Expect
 
-The slightly more open western lagoon position at Kwaj-1 brings more regular shark activity than the very sheltered inner sites. Grey reef sharks circle the pinnacle at mid-water and occasionally cruise closely along the coral faces. Barracuda schools hover in the open water column above the site. Napoleon wrasse and large groupers stake out territory on the deeper sections of the structure.
+The slightly more open western lagoon position at Kwaj-1 brings more regular shark activity than the very sheltered inner sites. Grey reef sharks circle the pinnacle at mid-water and occasionally cruise closely along the coral faces. Barracuda schools hover in the open water column above the site. Humphead wrasse and large groupers stake out territory on the deeper sections of the structure.
 
 The coral surfaces host the typical Kwajalein community — lionfish and scorpionfish in ambush positions, moray eels with crevice territories, and dense populations of smaller reef fish including butterflyfish, damsels, and chromis feeding on the coral polyps. Blue-spotted ribbontail rays are frequently encountered on the sandy lagoon floor immediately around the pinnacle base.
 
@@ -37,7 +37,7 @@ The coral surfaces host the typical Kwajalein community — lionfish and scorpio
 
 ## Marine Life Highlights
 
-Grey reef sharks, barracuda schools, napoleon wrasse, large groupers, moray eels, lionfish, scorpionfish, blue-spotted ribbontail rays, butterflyfish, damselfish, chromis.
+Grey reef sharks, barracuda schools, humphead wrasse, large groupers, moray eels, lionfish, scorpionfish, blue-spotted ribbontail rays, butterflyfish, damselfish, chromis.
 
 ---
 

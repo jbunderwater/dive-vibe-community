@@ -25,7 +25,7 @@ The reef structure combines hard coral tables and branching corals in the shallo
 
 The headline attraction is the ray encounters that give the site its name — manta rays are not guaranteed but are a real possibility, particularly on current-influenced dives when plankton concentrations bring them up to feed. Eagle rays are more consistently sighted, gliding in formation through the open water column. Grey reef sharks are standard company on the deeper sections of the reef.
 
-The reef itself is productive — dense fish populations including schools of snapper, sweetlips, and surgeonfish over the coral structures, napoleon wrasse in the mid-depths, and triggerfish and parrotfish working the shallows. Hawksbill turtles are regular sightings grazing across the coral gardens.
+The reef itself is productive — dense fish populations including schools of snapper, sweetlips, and surgeonfish over the coral structures, humphead wrasse in the mid-depths, and triggerfish and parrotfish working the shallows. Hawksbill turtles are regular sightings grazing across the coral gardens.
 
 ## Practical Information
 
@@ -37,7 +37,7 @@ The reef itself is productive — dense fish populations including schools of sn
 
 ## Marine Life Highlights
 
-Manta rays (seasonal), eagle rays, grey reef sharks, hawksbill turtles, napoleon wrasse, snapper schools, sweetlips, surgeonfish, barracuda, parrotfish, triggerfish, butterflyfish.
+Manta rays (seasonal), eagle rays, grey reef sharks, hawksbill turtles, humphead wrasse, snapper schools, sweetlips, surgeonfish, barracuda, parrotfish, triggerfish, butterflyfish.
 
 ---
 
