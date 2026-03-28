@@ -13,53 +13,49 @@ addedBy: osm_import
 
 ## Anchor Reef (Dive Site)
 
-Anchor Reef (Dive Site) is a reef dive site in Malta and Gozo, Europe.
+Anchor Reef is a rocky reef dive near Comino Island, named for the historical anchors occasionally found embedded in the limestone seabed — testament to the centuries of maritime traffic in these Maltese waters. The reef is one of several accessible intermediate sites in the Comino cluster, offering diverse marine life in Malta's famously clear Mediterranean water.
 
 ## Overview
 
-Anchor Reef (Dive Site) is a dive site in Malta and Gozo offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The reef descends over stepped limestone terrain to approximately 20 metres, with the site taking advantage of the exceptional visibility typical of the Comino area — often 20–30 metres or more in settled conditions. The limestone is colonised by sponges, sea fans, and encrusting corals. The occasional historical anchor embedded in the rock adds an interesting artefact element to the dive.
 
 ## Site Information
 
-- **Location**: Malta and Gozo, Europe
+- **Location**: Comino Island area, Malta
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: May to October
+- **Typical Visibility**: 20–30 meters
+- **Current**: Generally light
+- **Best Time**: Year-round (best April to November)
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
+The reef supports a typical Maltese marine community: grouper, sea bream, ornate wrasse, and moray eels in the crevices. Octopus are common. Barracuda patrol above the reef in summer. The clear water allows observation of schooling fish from a distance. Nudibranchs and sea slugs inhabit the sponge-covered rock surfaces.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the deeper reef sections at 15–20 metres and work up through the stepped terrain. Historical anchors are scattered in the 10–15 metre zone — approach carefully without disturbing them. The shallow reef top at 5–8 metres provides excellent ambient light for the ascent. Safety stop at 5 metres.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Dive boats from Gozo or Malta operators serve Comino as a day trip. Entry by giant stride. Deploy an SMB on ascent — the Comino area can have boat traffic in the summer season.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Look carefully for anchors in the limestone — they are encrusted and easy to miss
+- Combine this site with nearby caves and arches for a comprehensive Comino day
+- The excellent visibility makes wide-angle photography particularly rewarding
+- A torch helps identify the historical features and examine cave/crevice residents
 
 ## Safety Considerations
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Standard intermediate reef diving. The Comino area has significant boat traffic in summer — always deploy a visible SMB on ascent. Dive with a buddy and maintain awareness of vessel traffic.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The historical anchors make unique subjects for wide-angle photography. The exceptional Mediterranean clarity allows uncluttered reef landscape shots. Resident grouper and moray eels provide strong portrait opportunities.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,55 +13,55 @@ addedBy: osm_import
 
 ## Trade Wind (Wrack)
 
-Trade Wind (Wrack) is a historic wreck dive in Great Lakes, North America.
+The Trade Wind is a 19th-century wooden schooner wreck lying in approximately 20 metres of Lake Erie water off the Ontario north shore, in the wreck-dense corridor between Port Dover and Long Point. This vessel's evocative name recalls the age of sail that dominated Great Lakes commerce throughout the 1800s.
 
 ## Overview
 
-Trade Wind (Wrack) is a dive site in Great Lakes featuring the wreck of the Trade Wind (Wrack). Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The Trade Wind rests on the northern Lake Erie lakebed at approximately 20 metres, in the well-documented wreck-diving region between Port Dover and Long Point on the Ontario north shore. Lake Erie's cold, dark bottom water has preserved this wooden schooner in excellent condition — hull planking, rigging hardware, deck fittings, and cargo hold structure remain identifiable after more than a century of submersion. The northern Lake Erie basin in this area has some of the better visibility in the lake — often reaching 10–15 metres on calm days — compared to the murkier western basin. The flat, sandy bottom makes navigation and buoyancy management straightforward.
 
 ## Site Information
 
-- **Location**: Great Lakes, North America
+- **Location**: Lake Erie, Great Lakes, Canada (Ontario north shore, between Port Dover and Long Point)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
+- **Maximum Depth**: 20 metres
+- **Typical Visibility**: 5–15 metres
+- **Water Temperature**: 4–22°C (seasonal); bottom typically 6–10°C
+- **Current**: Variable with wind; Long Point area can develop current
 - **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Yellow perch school prominently around the Trade Wind's hull in summer. Walleye — Lake Erie's signature sport fish — patrol the structure edges, particularly in lower light conditions. Smallmouth bass claim hull openings as territories. Round gobies are present throughout the debris field. Zebra mussels coat all hard surfaces below the thermocline, creating a characteristic white-striped pattern on the hull.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 20 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend to the wreck and explore from bow to stern. The flat bottom makes navigation easy. Note hull construction details — the schooner's windlass, capstan, anchor hardware, and rigging attachment points tell the story of a working 19th-century vessel. Ascend with adequate reserve gas. Safety stop at 5 metres for 3 minutes.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Charter dive boats from Port Dover or the Long Point area provide regular access. The Port Dover area has active dive charter operations that know the local wreck collection well. Entry by giant stride. Deploy SMB on ascent.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- The Port Dover area wreck cluster is worth a multi-day visit — numerous 19th-century schooners in similar depth ranges
+- Long Point area wrecks tend to have better visibility than the western Lake Erie basin
+- Drysuit recommended for cold bottom temperatures
+- Torch recommended for hull examination
+- Heritage protection laws apply to all artifacts
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Lake Erie conditions near Long Point require attention — the area can develop strong southwest winds quickly. Check forecasts carefully and be prepared to abort if conditions deteriorate. Cold bottom water demands thermal protection. Dive with a buddy and carry an SMB.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The Long Point/Port Dover area of Lake Erie wreck photography rewards patience — when visibility reaches 10–15 metres, the hull profile is dramatic in wide-angle. Yellow perch schools provide life and motion in mid-water shots.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

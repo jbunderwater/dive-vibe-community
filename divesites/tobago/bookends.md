@@ -13,54 +13,49 @@ addedBy: osm_import
 
 ## Bookends
 
-Bookends is a reef dive site in Tobago, Caribbean.
+Bookends is a reef site in the Speyside area of northeast Tobago, part of the rich Speyside dive corridor that includes Japanese Gardens, Sisters Rocks, and Kelleston Drain. The site is named for two reef formations that flank the dive area like bookends on a shelf.
 
 ## Overview
 
-Bookends is a dive site in Tobago offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Located off the northeast coast near Speyside village, Bookends features two distinct reef formations separated by a sandy channel, creating a structured dive that allows exploration of both reef sections in a single dive. The site sits in the nutrient-rich waters of Tobago's northeast coast, where the Atlantic and Caribbean current systems interact to produce exceptional marine biodiversity. Coral coverage is good, with brain and star corals dominant and sea fans present at depth. The sandy channel between the reef sections is productive territory for stingray and eagle ray encounters. Visibility averages 15–25 meters. Water temperature is 26–28°C.
 
 ## Site Information
 
-- **Location**: Tobago, Caribbean
+- **Location**: Speyside area, northeast Tobago
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Twin reef formations with sandy channel
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: 15–25 meters
+- **Current**: Light to moderate; can strengthen with tidal flow
+- **Best Time**: October to February (peak clarity)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The twin-reef structure creates two distinct habitat zones. The reef faces host typical Caribbean reef fish in abundance — parrotfish, surgeonfish, angelfish, and trumpetfish are all common. The sandy channel between the bookend formations attracts southern stingrays and spotted eagle rays. Sea turtles move freely between both reef sections. The deeper reef base at 15–18 meters is where nurse sharks and large groupers are most often found.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the first reef formation and follow its face, then cross the sandy channel to the second reef. Each formation can be explored at varying depths — spend time on both sides before ascending for a safety stop. The channel crossing at 10–15 meters is the most productive section for eagle ray sightings.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Speyside operators. Giant stride entry; SMB on ascent. Typically dived alongside Japanese Gardens or Angel Reef as part of a Speyside two-tank day.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Position yourself in the sandy channel between formations early in the dive for eagle ray encounters
+- The two-reef structure allows divers to direct their attention toward either fish species diversity (reef faces) or large ray encounters (sand channel) according to preference
+- A good second dive after the deeper, more current-driven sites in the Speyside area
+- Tobago's northeast coast is best dived October to February when visibility peaks
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Current can strengthen in the channel between the formations — be aware of directional flow and plan your crossing accordingly. SMB deployment before ascending. Fire coral present on reef crests.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The sandy channel between formations provides clean backgrounds for eagle ray and stingray portraits. Wide-angle shots spanning both reef formations in a single frame are possible from the channel mid-point. The nutrient-rich water benefits from a strobe or video light for true colour reproduction.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

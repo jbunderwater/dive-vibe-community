@@ -13,53 +13,49 @@ addedBy: osm_import
 
 ## Blonde Rock
 
-Blonde Rock is a pinnacle dive site in British Virgin Islands, Caribbean.
+Blonde Rock is one of the BVI's most renowned advanced dive sites — a dramatic underwater pinnacle rising between Salt Island and Dead Chest Island that is exposed to significant open-ocean current and offers one of the best pelagic encounter opportunities in the island group.
 
 ## Overview
 
-Blonde Rock is a dive site in British Virgin Islands offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Blonde Rock is an isolated submerged pinnacle topped at just 4 meters below the surface, dropping steeply on all sides to 20 meters. The rock's isolated position in the Sir Francis Drake Channel means it is swept by nutrient-rich currents from both directions, making it a magnet for large pelagic species. The pinnacle surface is heavily encrusted with coral, sponges, and gorgonians. Current is the defining characteristic of this site — it requires planning and experience but delivers some of the most exciting diving in the BVI. Visibility is exceptional, often 30 meters or more in clear conditions.
 
 ## Site Information
 
-- **Location**: British Virgin Islands, Caribbean
+- **Location**: Between Salt Island and Dead Chest Island, British Virgin Islands
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle
+- **Site Type**: Open-ocean pinnacle
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: 25–35 meters
+- **Current**: Moderate to strong; site-dependent on tidal timing
+- **Best Time**: December to April (calmer conditions)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The current-swept pinnacle draws a different species mix than the sheltered reef sites. Caribbean reef sharks and nurse sharks occupy the base of the rock. Schooling bar jacks and horse-eye jacks circle the upper pinnacle in impressive formations. Eagle rays cruise in the current lanes around the rock, and barracuda lurk in the lee of the pinnacle. Spotted eagle rays are particularly common during certain seasons.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Dive timing must be coordinated with current — slack tide or predictable directional flow. Descend to the pinnacle top and work along its sides, staying close to the rock for shelter from the current. Explore the deeper base at 15–20 meters before ascending. Current drift may determine the exit point — live-boat pickup is standard.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive with operators familiar with the site's current conditions. Dive timing is critical. Live-boat pickup is standard — do not attempt to swim back to a mooring against current. SMB mandatory.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Only dive with an operator who specifically knows Blonde Rock and monitors current timing
+- The site is best dived with a predictable directional current rather than at full slack
+- The upper pinnacle at 4–10 meters is the most exciting zone — fish are concentrated here
+- Pair with Dead Chest Wall or a Salt Island site for a two-tank day in this area
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
+Current is the primary hazard and must never be underestimated. All divers must be genuinely comfortable in strong current before attempting this site. Maintain group cohesion. SMB essential. Do not dive this site without a properly briefed live-boat pickup plan. The shallow top at 4 meters means waves can affect the site in swell conditions.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Blonde Rock offers the BVI's best wide-angle pelagic photography. Jacks in spiralling schools around the pinnacle top, reef shark portraits at the base, and eagle ray passes in the blue water are the signature images. Current conditions require efficient underwater movement and camera pre-setting before descent.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

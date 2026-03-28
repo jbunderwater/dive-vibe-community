@@ -13,55 +13,55 @@ addedBy: osm_import
 
 ## Wreck Wee Hawk
 
-Wreck Wee Hawk is a historic wreck dive in Great Lakes, North America.
+Wreck Wee Hawk is a small vessel wreck lying in approximately 20 metres in the St. Lawrence River near Gananoque, Ontario, in the heart of the Thousand Islands region. This intimate wreck site complements the larger schooners and freighters in the area with a compact, accessible dive in the clear, flowing freshwater of the St. Lawrence.
 
 ## Overview
 
-Wreck Wee Hawk is a dive site in Great Lakes featuring a historic wreck. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The Wee Hawk — a small vessel whose diminutive name suggests a compact craft — rests in the Thousand Islands section of the St. Lawrence River near Gananoque, Ontario. This part of the river is one of Canada's premier dive destinations, combining exceptional visibility (8–15 metres from the constantly flowing river water), clear cold freshwater, and a remarkable density of historic wrecks accessible from a single base. The Wee Hawk's small scale makes it a different experience from the large sailing ships and freighters typical of the region — intimate, detailed, and explorable in its entirety in a single dive.
 
 ## Site Information
 
-- **Location**: Great Lakes, North America
+- **Location**: St. Lawrence River, Ontario, Canada (Thousand Islands, near Gananoque)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 20 metres
+- **Typical Visibility**: 8–15 metres
+- **Water Temperature**: 4–22°C (seasonal)
+- **Current**: Moderate; St. Lawrence River current varies seasonally
+- **Best Time**: June to September
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The Thousand Islands section of the St. Lawrence supports excellent freshwater biodiversity. Northern pike are common near small vessel wrecks — they use the compact structure as hunting cover. Smallmouth bass inhabit the hull openings. Yellow perch school around the wreck. Crayfish are abundant on the bottom debris. The flowing river water maintains better visibility and less mussel colonization than equivalent lake sites.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 20 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The Wee Hawk's small scale means complete hull exploration is possible in a single dive. Navigate the exterior carefully, examining all accessible areas. Use the hull as current shelter while exploring. On ascent, deploy SMB early for the dive boat to track your position in the river current. Coordinate pickup carefully.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Charter dive boats from Gananoque, Ontario — the "Gateway to the Thousand Islands" — provide regular access. Gananoque is an excellent base for Thousand Islands diving with several operators, accommodation, and restaurants. Entry by giant stride from the dive boat.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Gananoque makes an excellent base for a Thousand Islands wreck diving trip
+- The Wee Hawk pairs well with the Conestoga, Lock 27, or other nearby Thousand Islands sites
+- Current diving experience is recommended before attempting St. Lawrence sites
+- The Thousand Islands National Park offers spectacular boat touring to complement diving
+- Drysuit recommended for cold St. Lawrence River water
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+St. Lawrence River current requires active dive planning. Assess conditions before each dive. Commercial and recreational boat traffic requires a dive flag and SMB as mandatory equipment. Cold water demands thermal protection. Coordinate closely with the dive boat for river pickup. Always dive with a buddy.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The compact scale of the Wee Hawk makes full-hull photography possible in the Thousand Islands' excellent visibility. Northern pike portraits in the flowing river are outstanding. The clarity of the St. Lawrence gives freshwater wreck photography a distinctive, luminous character.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

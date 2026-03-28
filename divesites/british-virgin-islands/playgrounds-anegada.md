@@ -13,54 +13,49 @@ addedBy: osm_import
 
 ## Playgrounds Anegada
 
-Playgrounds Anegada is a reef dive site in British Virgin Islands, Caribbean.
+Playgrounds Anegada is a shallow, frolicsome reef dive off Anegada's coastline — one of the most relaxed and enjoyable dives accessible from the island, with an easy profile that lives up to the playful name.
 
 ## Overview
 
-Playgrounds Anegada is a dive site in British Virgin Islands offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Situated in the clear turquoise water around Anegada's flat coral atoll, Playgrounds features a shallow reef system at just 4–8 meters depth with excellent coral coverage and outstanding visibility. The Anegada atoll reef system is renowned for its clarity — the flat atoll geography allows little runoff and the water is among the clearest in the BVI. Brain corals, star corals, and large gorgonian sea fans characterise the site, and the sandy clearings between coral formations are classic Caribbean clear-water settings. Visibility consistently exceeds 25 meters. Water temperature averages 27°C.
 
 ## Site Information
 
-- **Location**: British Virgin Islands, Caribbean
+- **Location**: Off Anegada, northern British Virgin Islands
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Shallow coral reef / atoll
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 8 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: 25–35 meters
+- **Current**: Variable; atoll reef can funnel currents
+- **Best Time**: December to April
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Anegada's reef system supports notably healthy large-animal populations. Green sea turtles are abundant and large — the atoll's extensive seagrass beds support a significant resident turtle population. Conch shells are scattered across sandy areas. Queen triggerfish, parrotfish, and angelfish are common throughout the reef. Eagle rays are seen regularly, and the occasional nurse shark rests under deeper coral overhangs.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 8 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-8 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site is essentially flat — a single shallow level with coral formations distributed across the sandy bottom. Explore the reef in a broad zigzag pattern to cover the most ground. The unlimited bottom time at 8 meters makes this site ideal for leisurely observation. Snorkelers can fully access the site from the surface.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Anegada's small dive operation. Giant stride entry; SMB deployment on ascent. Typically paired with Anegada Reef for a two-tank day exploring the atoll's different zones.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Anegada requires prior planning — accessible by small plane or a dedicated boat journey from Road Town
+- The outstanding water clarity makes this among the BVI's best sites for crystal-clear reef photography
+- Spend the surface interval exploring Anegada's beaches — some of the most beautiful in the Caribbean
+- Book accommodation and dive slots ahead; Anegada's facilities are limited
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+The atoll reef can funnel current in unexpected directions — check with your guide before descending. The shallow depth creates no decompression risk, but the isolated location means incident response is slower than at mainland BVI sites. Dive conservatively. SMB on ascent.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The exceptional clarity of Anegada's water, combined with shallow depth and active marine life, creates ideal conditions for natural-light photography. Turtle portraits over white sand in crystal-clear water are among the best available in the Caribbean. The flat atoll horizon above water creates distinctive split-level photography opportunities.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

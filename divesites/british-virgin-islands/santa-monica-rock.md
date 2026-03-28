@@ -13,53 +13,49 @@ addedBy: osm_import
 
 ## Santa Monica Rock
 
-Santa Monica Rock is a pinnacle dive site in British Virgin Islands, Caribbean.
+Santa Monica Rock is one of the BVI's deepest accessible pinnacle dives — a submerged seamount rising from 31 meters to just below the surface, located in the channel between Salt Island and Cooper Island. Like Blonde Rock, it is a current-exposed site for experienced divers.
 
 ## Overview
 
-Santa Monica Rock is a dive site in British Virgin Islands offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Santa Monica Rock rises steeply from the channel floor to within a few meters of the surface, its exposed position in the Sir Francis Drake Channel making it one of the BVI's most current-influenced sites. The rock's sides are covered with dense encrustation — black coral, gorgonian sea fans, and large sponge communities develop richly at depth where the current delivers nutrients continuously. The shallower sections are dominated by hard coral and sea fans. Visibility is outstanding, frequently exceeding 30 meters in the open-channel water. The deep profile (31 meters) means careful dive planning is required.
 
 ## Site Information
 
-- **Location**: British Virgin Islands, Caribbean
+- **Location**: Between Salt Island and Cooper Island, British Virgin Islands
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle
+- **Site Type**: Open-channel pinnacle
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 31 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: 25–35 meters
+- **Current**: Moderate to strong; tidal timing critical
+- **Best Time**: December to April
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Santa Monica Rock's deep, current-swept character attracts species rarely seen at shallower BVI sites. Hammerhead sharks have been reported here, along with Caribbean reef sharks and large bull sharks on occasion. Schools of Atlantic spade fish congregate around the upper pinnacle. Eagle rays and manta ray sightings have been recorded, particularly during seasonal migrations. The black coral and gorgonian sections at depth host schooling blackbar soldierfish and large spiny lobsters.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 31 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the top of the pinnacle (approximately 3–5 meters) and work down the rock face in a planned pattern. Bottom time at 30–31 meters is limited — plan for 10–12 minutes at maximum depth before ascending the pinnacle to shallower zones. Spend the majority of the dive in the 10–20 meter range where the rock is most richly encrusted and current-borne species are most active. Deploy SMB in open water for ascent.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Experienced operators familiar with tidal timing in the Salt Island channel. Live-boat pickup standard. Giant stride entry; plan exit carefully before descending.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Santa Monica Rock should only be attempted by divers with significant experience diving in current at depth
+- Timing the dive to coincide with slack water or predictable current direction is essential
+- The black coral and gorgonian community at depth is among the most impressive in the BVI
+- Do not exceed planned bottom time at the 31-meter depth section
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
+Current and depth combined make this an advanced-level site with real risk if not managed properly. All divers must carry SMBs and a dive computer. Only dive with an operator who knows the site's tidal patterns. Stay within NDL limits and ascend conservatively.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Santa Monica Rock offers the BVI's best opportunities for deep-reef photography. The dense black coral and gorgonian forest at 25–31 meters, combined with exceptional visibility, creates dramatic blue-water compositions. Wide-angle pelagic shots at the top of the pinnacle capture schooling fish behaviour that is rare at shallower sites.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

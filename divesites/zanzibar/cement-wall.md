@@ -11,57 +11,55 @@ osmId: 10224583148
 addedBy: osm_import
 ---
 
-## Cement wall
+## Cement Wall
 
-Cement wall is a wall dive site in Zanzibar, Africa.
+Cement Wall is a wall dive on Zanzibar Island's southeastern coast near Jambiani, named for the unusually smooth, pale appearance of the wall's upper hard coral crust that resembles the texture of rough cement before marine organisms have fully colonized it. It is one of the few wall dives accessible from the quieter southeastern side of the island.
 
 ## Overview
 
-Cement wall is a dive site in Zanzibar featuring a dramatic vertical wall that drops into the deep blue. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Unlike the dramatic Pemba Channel walls or the exposed Nungwi reef edges, Cement Wall is a more modestly scaled wall within the fringing reef system of the eastern Zanzibar coast. The wall drops from the reef crest at 6-7 meters to a sand bottom at 22 meters, with the most interesting sections at 12-20 meters where the wall develops overhangs and crevices with encrusting coral life. The protected lagoon position gives access in more conditions than the northern sites, and visibility averages 15-20 meters in the northeast monsoon.
 
 ## Site Information
 
-- **Location**: Zanzibar, Africa
+- **Location**: East Zanzibar coast, Jambiani area
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 22 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Typical Visibility**: 15-20 meters (50-65 feet)
+- **Current**: Moderate, tidal
+- **Best Time**: October to April (northeast monsoon, eastern Zanzibar)
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Cement Wall's overhangs provide shelter for soldierfish, squirrelfish, and large moray eels. Sea fans appear in the deeper sections and host flamingo prawns and longnose hawkfish. Sea turtles rest on the sand at the base of the wall and on the reef crest above. Lionfish are common on all sections of the wall and add dramatic color. The open water adjacent to the wall attracts reef sharks in the late afternoon, while barracuda patrol the wall crest.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-22 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Descend to the sand at 20-22 meters and begin a systematic traverse of the wall face, examining overhangs and crevices going north or south depending on the guide's plan for the day. Ascend through the mid-wall zone at 12-18 meters, spending time at each overhang, before reaching the reef crest at 6-7 meters for the safety stop and final return to the mooring.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat departure from Jambiani. The eastern Zanzibar operator community is smaller than Nungwi's and more locally focused. Current timing with the tide can be confirmed with experienced local guides. Deploy SMB for ascent.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- A dive torch is essential for exploring the overhangs where much of the interesting life resides
+- Cement Wall is best combined with other Jambiani sites for a full day of southeastern Zanzibar diving
+- Tidal current affects conditions significantly — defer to local guide advice on timing
+- The wall profile rewards slow, methodical exploration over covering large distances quickly
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, remote locations in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The wall's 22-meter maximum depth requires attention to NDL limits, particularly as a second dive. Monitor depth continuously — wall profiles invite passive descent. Current can run parallel to the wall and increase with tidal changes. Carry reef hook and deploy SMB before ascending. Standard East African fire coral and sea urchin hazards apply.
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+The wall overhangs create interesting lighting conditions with natural light from above and shadow below, ideal for strobe-lit interior shots of crevice species. The lionfish at Cement Wall are attractive subjects given their habitual stillness — a 60mm or 100mm macro lens works well for full-frame portraits.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

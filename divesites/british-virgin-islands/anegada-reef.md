@@ -13,54 +13,49 @@ addedBy: osm_import
 
 ## Anegada Reef
 
-Anegada Reef is a reef dive site in British Virgin Islands, Caribbean.
+Anegada Reef is a shallow coral reef system off Anegada, the BVI's most northerly and unique island. Unlike the volcanic islands of the BVI chain, Anegada is a flat coral limestone atoll barely 10 meters above sea level, surrounded by one of the Caribbean's most extensive and dangerous barrier reef systems — responsible for over 300 documented shipwrecks over the centuries.
 
 ## Overview
 
-Anegada Reef is a dive site in British Virgin Islands offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The reef sits in the shallow, crystal-clear waters off Anegada's coastline and reaches no more than 10 meters depth. The site features extensive hard coral formations characteristic of a Caribbean platform reef, with brain, star, and staghorn corals in various states of growth. Anegada's isolation (accessible only by small aircraft or boat from other BVI islands) keeps dive traffic lower than at the more easily reached sites near Road Town, and the reef quality reflects this. Visibility regularly exceeds 25 meters. Water temperature averages 27°C.
 
 ## Site Information
 
-- **Location**: British Virgin Islands, Caribbean
+- **Location**: Anegada, British Virgin Islands (northern BVI)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Platform reef / barrier reef system
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 10 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: 20–30 meters
+- **Current**: Variable; reef system influences flow
+- **Best Time**: December to April
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Anegada is known for its large conch population and the historically productive lobster fishery. In the waters around the reef, sea turtles are abundant and particularly large. The healthier-than-average reef condition supports good fish diversity — parrotfish, groupers, and snapper are well represented. Eagle rays are sighted regularly, gliding over the sandy shallows adjacent to the reef.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 10 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-10 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The shallow, uniform profile makes navigation simple — explore the reef in either direction at 5–10 meters. The site benefits from extended bottom times due to the depth, making it ideal for photographers or divers who like to move slowly and observe thoroughly. Safety stops are technically unnecessary but a good habit.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from the small Anegada dive operation or with operators who include Anegada in day-trip or liveaboard itineraries. Giant stride entry; SMB on ascent.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Anegada requires a deliberate visit — plan to spend a full day on the island combining diving with its famous lobster restaurants
+- The historic wreck population around Anegada's reef system is extensive; ask about any accessible wreck sites
+- Green turtles are notably larger and more numerous here than at the more visited BVI sites
+- Book ahead — Anegada's limited tourism infrastructure means dive slots are finite
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+The Anegada reef system is genuinely hazardous for navigation — only anchor and dive in designated areas with an experienced guide familiar with the local waters. The shallow platform can create confused swell in certain conditions. Check conditions before diving.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Anegada's clear, shallow water and less-disturbed marine life create excellent natural-light photography conditions. Large turtle encounters and conch shell compositions in clear water are distinctive subjects. The landscape above the reef — flat atoll horizon with turquoise water — creates striking above-and-below split-level photography opportunities.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

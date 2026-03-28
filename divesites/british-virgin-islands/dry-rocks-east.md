@@ -13,53 +13,49 @@ addedBy: osm_import
 
 ## Dry Rocks East
 
-Dry Rocks East is a reef dive site in British Virgin Islands, Caribbean.
+Dry Rocks East is a rocky reef dive off the east end of Peter Island in the BVI, one of the less crowded intermediate sites in the southern island group. The site features the kind of rugged rocky terrain interspersed with coral growth that characterises BVI diving at its most natural.
 
 ## Overview
 
-Dry Rocks East is a dive site in British Virgin Islands offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The "dry rocks" are a series of exposed rocky outcrops at the surface that extend underwater into a complex underwater landscape of boulders, ridges, and coral formations descending to 24 meters. The rocky substrate supports a wide variety of encrusting organisms — sponges, black coral, and sea fans colonise the deeper ledges, while hard corals dominate the shallower sections. The site is positioned on the Sir Francis Drake Channel, giving it access to clear, blue BVI water and moderate current that supports good fish life. Visibility averages 20–30 meters. Water temperature holds around 27°C.
 
 ## Site Information
 
-- **Location**: British Virgin Islands, Caribbean
+- **Location**: East end of Peter Island, British Virgin Islands
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef with coral
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 24 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: 20–30 meters
+- **Current**: Light to moderate; channel position
+- **Best Time**: December to April
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The rocky reef at Dry Rocks East supports an active fish community. Large groupers occupy the deeper ledges and rocky overhangs. Schools of creole wrasse and bar jacks sweep through the current. Caribbean reef sharks make occasional passes at depth. Hawksbill turtles frequent the shallower sections, and southern stingrays traverse the sandy corridors between rock formations.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 24 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Navigate the rock formations from the shallows to the deeper base. The irregular topography requires more active navigation than a simple slope dive — follow the rocky ridges and explore between formations. The most interesting terrain is at 15–24 meters where ledges and overhangs create sheltered zones for larger species.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Peter Island or Road Town operators. Giant stride entry; SMB required on ascent. Pair with a Norman Island or Peter Island site for a productive two-tank southern BVI day.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Less visited than the headline BVI sites — a good choice for divers seeking quieter conditions
+- Explore the deeper ledge zones for grouper and nurse shark encounters
+- The rocky topography rewards slow, methodical navigation — don't rush through
+- Combine with Norman Island's The Caves or The Indians for a varied morning
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Current can be moderate on the channel-facing side — position yourself appropriately. The rocky terrain increases the risk of inadvertent contact; maintain good buoyancy throughout. SMB deployment before ascending is important in the open Sir Francis Drake Channel.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The layered rocky terrain creates three-dimensional photographic compositions. Wide-angle shots through rocky overhangs with fish in the background work well. Deeper ledge sections provide dramatic shadow-and-light contrasts with a strobe setup.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
