@@ -13,61 +13,55 @@ addedBy: osm_import
 
 ## Kipcke Rock
 
-Kipcke Rock is a reef dive site in Alaska, North America.
+A tidal pinnacle in the outer waters north of Prince Rupert with exceptional cold-water invertebrate communities.
 
 ## Overview
 
-Kipcke Rock is a dive site in Alaska offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Kipcke Rock is a submerged pinnacle in the outer coastal waters accessible from the Prince Rupert area at the southern end of Alaska's Inside Passage. Positioned in a strong tidal corridor, the rock is bathed in nutrient-rich upwellings that support dense populations of filter feeders across its exposed surfaces. The site offers a compelling cold-water reef experience for Advanced divers who can coordinate their dive with the slack tide window. The structure descends to 26 meters, providing a meaningful dive profile that rewards time spent exploring multiple depth zones. Local dive knowledge is essential for accessing this site safely.
 
 ## Site Information
 
-- **Location**: Southeast Alaska (Ketchikan area), Alaska
+- **Location**: Outer approaches, southern Southeast Alaska / Prince Rupert area
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky pinnacle / reef
 - **Difficulty Level**: Advanced
-- **Typical Visibility**: 8-20 meters (26-66 feet)
-- **Current**: Strong, slack tide required
-- **Water Temperature**: 6-12°C (43-54°F)
-- **Best Time**: July-September (warmest months)
-
+- **Maximum Depth**: 26 meters (85 feet)
+- **Typical Visibility**: 8–18 meters (26–60 feet)
+- **Current**: Moderate to strong — slack tide required
+- **Water Temperature**: 6–12°C (43–54°F)
+- **Best Time**: June–September
 
 ## Marine Life
 
-The rocky formations support cold-water invertebrate communities including sea urchins, starfish, anemones, nudibranchs, and sponges. Lingcod, rockfish, and cabezon patrol the rocks. Giant Pacific octopus inhabit rock crevices. Kelp fronds extend from shallower formations.
-
+Kipcke Rock hosts the typical range of Inside Passage cold-water species: aggregating and plumose anemones, colonial tunicates, encrusting sponges, sea urchins, and multiple sea star species. Lingcod are the dominant large predators, with rockfish schools in mid-water. Giant Pacific octopus are expected residents in the deeper crevices. Harbor seals sometimes visit the site, and the broader area supports Steller sea lion populations.
 
 ## Dive Profile
 
-Descend to the rocky formation and stay close to structure for current management. Explore rock faces and crevices watching for fauna. Most dive time spent between 15-24 meters. Watch for large mobile fauna on exposed areas.
-
+Enter during slack and descend to the pinnacle top, then follow the outer edge down to depth. The 12–20 meter band typically offers the best ratio of marine life density to bottom time. Deeper sections at 20–26 meters yield larger lingcod and octopus encounters. Ascend along the pinnacle structure, pausing for safety stop on the shallower upper section before surfacing.
 
 ## Entry and Exit
 
-Boat dive access from Ketchikan or nearby operators. Descend directly on a line or GPS coordinates. Maintain group cohesion.
-
+Kipcke Rock is accessed by dive charter from Prince Rupert or southern Alaska operators. No permanent moorings exist at this site. Descent via shot line is strongly recommended in areas with current potential. SMB on every ascent is mandatory.
 
 ## Tips and Recommendations
 
-- Book with a local dive operator familiar with slack tide schedules
-- Wear dry suit with proper thermal insulation
-- Install cold-water regulator
-- Use a dive torch for fauna spotting
-- Deploy surface marker buoy (SMB) at ascent
-- Practice buoyancy control on rocky bottom
-
+- Coordinate this dive with a boat skipper who knows the specific current behavior at this pinnacle
+- Bring underwater navigation tools — pinnacle dives in current can cause spatial disorientation
+- A dive computer with audible alarms for depth and no-decompression limits is strongly advised
+- Pinnacle tops often offer the best light and visibility — spend time there early in the dive
+- Review emergency procedures with all team members before descending
 
 ## Safety Considerations
 
-This is an Advanced site requiring cold-water and current diving experience. Strong currents demand slack tide coordination. Limited visibility in glacier outflow requires navigation skills. Always dive with buddy, maintain group cohesion, and abort if conditions deteriorate.
-
+Exposed pinnacles in tidal zones carry inherent current risk. Missing the slack window or having it close early can result in rapid current around the structure. Cold water compounds fatigue, and mild hypothermia can impair judgment. Maintain conservative profiles and abort if conditions deteriorate.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+A wide-angle lens captures the pinnacle profile best when visibility allows. The upper pinnacle face, encrusted with anemones and subject to better light penetration, is the optimal composition zone. Macro work on the lower structure can reveal nudibranchs and tube-dwelling worms not easily spotted by casual observers.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*

@@ -13,61 +13,55 @@ addedBy: osm_import
 
 ## Observatory Rock
 
-Observatory Rock is a reef dive site in Alaska, North America.
+A prominent submerged rock in the approaches to Ketchikan offering characteristic Inside Passage cold-water diversity.
 
 ## Overview
 
-Observatory Rock is a dive site in Alaska offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Observatory Rock sits in the tidal waterways of the southern approaches to Ketchikan, its name suggesting a history as a navigational reference point for vessels transiting the Inside Passage. The rock presents a steep profile to the tidal flow, allowing cold, nutrient-rich water to sweep across all faces and support a dense invertebrate community. Aggregating and plumose anemones cover the upper faces, while deeper sections carry encrusting sponges and bryozoans in a more sheltered habitat. Lingcod, which favor the structure's exposed faces, are the primary fish attraction. This is a site within the cluster of named rocks regularly visited by Ketchikan operators during slack windows.
 
 ## Site Information
 
-- **Location**: Southeast Alaska (Ketchikan area), Alaska
+- **Location**: Southern approaches to Ketchikan, Southeast Alaska
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef / submerged rock
 - **Difficulty Level**: Advanced
-- **Typical Visibility**: 8-20 meters (26-66 feet)
-- **Current**: Strong, slack tide required
-- **Water Temperature**: 6-12°C (43-54°F)
-- **Best Time**: July-September (warmest months)
-
+- **Maximum Depth**: 26 meters (85 feet)
+- **Typical Visibility**: 8–18 meters (26–60 feet)
+- **Current**: Strong — slack tide required
+- **Water Temperature**: 6–12°C (43–54°F)
+- **Best Time**: June–September
 
 ## Marine Life
 
-The rocky formations support cold-water invertebrate communities including sea urchins, starfish, anemones, nudibranchs, and sponges. Lingcod, rockfish, and cabezon patrol the rocks. Giant Pacific octopus inhabit rock crevices. Kelp fronds extend from shallower formations.
-
+Observatory Rock hosts aggregating and plumose anemones across the upper faces, with sea stars, sea urchins, nudibranchs, and encrusting sponges throughout. Lingcod are the most frequently encountered large predators and can often be found resting in shallow depressions in the rock surface. Rockfish species, including black rockfish, are common above the structure. Giant Pacific octopus are resident in crevices on the deeper flanks.
 
 ## Dive Profile
 
-Descend to the rocky formation and stay close to structure for current management. Explore rock faces and crevices watching for fauna. Most dive time spent between 15-24 meters. Watch for large mobile fauna on exposed areas.
-
+The ideal profile descends to the base of the rock during slack tide and works upward through the invertebrate zones. Spending time at 20–26 meters early allows for lingcod and octopus encounters, with shallower zones reserved for the latter part of the dive. A natural safety stop at 5 meters on the rock top before surfacing is typical.
 
 ## Entry and Exit
 
-Boat dive access from Ketchikan or nearby operators. Descend directly on a line or GPS coordinates. Maintain group cohesion.
-
+Ketchikan charter dive operators regularly visit Observatory Rock as part of multi-site packages. No permanent moorings. Shot line descent is standard practice. SMB deployment before ascent is mandatory in this navigational waterway.
 
 ## Tips and Recommendations
 
-- Book with a local dive operator familiar with slack tide schedules
-- Wear dry suit with proper thermal insulation
-- Install cold-water regulator
-- Use a dive torch for fauna spotting
-- Deploy surface marker buoy (SMB) at ascent
-- Practice buoyancy control on rocky bottom
-
+- This rock is part of a productive cluster that includes Haswell Reef, Wimble Rocks, and La Perouse Reef
+- Clear winter conditions (November–March) sometimes offer significantly better visibility than summer
+- Lingcod tend to be most active and approachable in the early morning hours
+- Carry a reference card for common Pacific Northwest nudibranch species
+- Confirm your dry suit's pressure gauge shows no leak before descending
 
 ## Safety Considerations
 
-This is an Advanced site requiring cold-water and current diving experience. Strong currents demand slack tide coordination. Limited visibility in glacier outflow requires navigation skills. Always dive with buddy, maintain group cohesion, and abort if conditions deteriorate.
-
+Observatory Rock sits in an active navigational waterway and SMB deployment is particularly important here. Tidal current timing must be confirmed with local knowledge. The 26-meter maximum depth requires attention to no-decompression limits in cold water, where increased gas consumption reduces available bottom time.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The combination of lingcod portraits against anemone backgrounds and macro work on nudibranchs makes Observatory Rock a versatile photography site. The rock face offers good opportunities for environmental compositions showing the density of encrusting invertebrates. Strobe lighting is essential for accurate color rendition at depth.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*

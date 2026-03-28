@@ -13,61 +13,55 @@ addedBy: osm_import
 
 ## Pleasant Island Reef
 
-Pleasant Island Reef is a reef dive site in Alaska, North America.
+A submerged reef system near Pleasant Island in Icy Strait, offering cold-water diving in one of Alaska's most productive marine corridors.
 
 ## Overview
 
-Pleasant Island Reef is a dive site in Alaska offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Pleasant Island Reef lies in Icy Strait, one of Southeast Alaska's most biologically significant waterways, where cold nutrient-rich Pacific water pours through the strait connecting Glacier Bay to the rest of the Inside Passage. This tidal corridor supports extraordinary marine productivity — humpback whales, Steller sea lions, and orcas are all regularly encountered on the surface, while below the reef structure carries dense cold-water invertebrate communities. The reef is positioned where tidal exchange creates the feeding conditions that attract both filter feeders and their predators. Icy Strait is also a major staging area for wild salmon, contributing to the abundance of marine life in the broader area.
 
 ## Site Information
 
-- **Location**: Prince William Sound, Alaska
+- **Location**: Icy Strait near Pleasant Island, Southeast Alaska
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Advanced
-- **Typical Visibility**: 8-20 meters (26-66 feet)
-- **Current**: Strong, slack tide required
-- **Water Temperature**: 6-12°C (43-54°F)
-- **Best Time**: July-September (warmest months)
-
+- **Maximum Depth**: 25 meters (82 feet)
+- **Typical Visibility**: 6–15 meters (20–50 feet)
+- **Current**: Strong — slack tide required
+- **Water Temperature**: 4–10°C (39–50°F)
+- **Best Time**: May–September
 
 ## Marine Life
 
-The rocky formations support cold-water invertebrate communities including sea urchins, starfish, anemones, nudibranchs, and sponges. Lingcod, rockfish, and cabezon patrol the rocks. Giant Pacific octopus inhabit rock crevices. Kelp fronds extend from shallower formations.
-
+The Icy Strait environment surrounding Pleasant Island Reef is exceptional. Aggregating anemones, encrusting sponges, and large sea star populations dominate the reef substrate. Lingcod and rockfish are common on the structure. Dungeness crabs and spot prawns are found at reef depth. Steller sea lions frequent the area and may interact with divers in the water. Humpback whale encounters at the surface before and after dives are common in summer months.
 
 ## Dive Profile
 
-Descend to the rocky formation and stay close to structure for current management. Explore rock faces and crevices watching for fauna. Most dive time spent between 15-24 meters. Watch for large mobile fauna on exposed areas.
-
+The reef structure allows a shallow-to-deep or deep-to-shallow profile depending on slack timing and current direction. The 10–20 meter zone holds the densest invertebrate life. Depths to 25 meters reveal larger fish predators and octopus shelters. Always ascend slowly and conduct a safety stop given the tidal current potential in the strait.
 
 ## Entry and Exit
 
-Boat dive access from Ketchikan or nearby operators. Descend directly on a line or GPS coordinates. Maintain group cohesion.
-
+Access is by dive charter from Gustavus, Hoonah, or Juneau. Icy Strait is heavily used by fishing and tour vessels in summer — SMB deployment is critical for safe pickup. Confirm slack tide timing with your skipper, as Icy Strait can generate strong flow.
 
 ## Tips and Recommendations
 
-- Book with a local dive operator familiar with slack tide schedules
-- Wear dry suit with proper thermal insulation
-- Install cold-water regulator
-- Use a dive torch for fauna spotting
-- Deploy surface marker buoy (SMB) at ascent
-- Practice buoyancy control on rocky bottom
-
+- The Icy Strait area offers remarkable surface wildlife viewing — plan time for whale watching alongside diving
+- Water temperature here drops lower than Ketchikan sites — prepare for 4–6°C at depth in some seasons
+- Summer brings plankton blooms that reduce visibility — late spring (May–June) often offers the clearest conditions
+- Salmon runs in Icy Strait attract sea lions and eagles, enriching the broader natural experience
+- Hoonah is the nearest service center — plan logistics accordingly
 
 ## Safety Considerations
 
-This is an Advanced site requiring cold-water and current diving experience. Strong currents demand slack tide coordination. Limited visibility in glacier outflow requires navigation skills. Always dive with buddy, maintain group cohesion, and abort if conditions deteriorate.
-
+Icy Strait's powerful tidal exchange demands strict slack-tide discipline. Surface conditions can be choppy due to the exposed nature of the strait. Cold temperatures approaching 4°C at depth require dry suits with substantial thermal protection. Maintain close buddy contact at all times.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The rich productivity of the Icy Strait area makes Pleasant Island Reef an exceptional photo dive. Wide-angle coverage of the invertebrate-covered reef structure works well with strobes. Surface photography of humpbacks and sea lions surrounding the dive boat adds memorable context to the dive day.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*

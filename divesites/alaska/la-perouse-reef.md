@@ -13,61 +13,55 @@ addedBy: osm_import
 
 ## La Perouse Reef
 
-La Perouse Reef is a reef dive site in Alaska, North America.
+A historically named reef in the Ketchikan area offering the cold-water invertebrate diversity characteristic of Alaska's Inside Passage.
 
 ## Overview
 
-La Perouse Reef is a dive site in Alaska offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+La Perouse Reef takes its name from the French explorer Jean-François de Galaup, comte de Lapérouse, whose expeditions charted much of the Pacific Northwest coastline in the late 18th century. The reef itself drops to 27 meters and lies in the tidal corridors south of Ketchikan, where strong currents deliver nutrients to the encrusting organisms that blanket the substrate. Aggregating anemones, plumose anemones, and encrusting sponges create a visually dense invertebrate community on the reef faces. Lingcod are common predators on the structure, and giant Pacific octopus occupy sheltered crevices in the deeper sections. The historically deeper maximum depth of 27 meters requires careful attention to no-decompression limits.
 
 ## Site Information
 
-- **Location**: Southeast Alaska (Ketchikan area), Alaska
+- **Location**: Southern Ketchikan area, Southeast Alaska
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Advanced
-- **Typical Visibility**: 8-20 meters (26-66 feet)
-- **Current**: Strong, slack tide required
-- **Water Temperature**: 6-12°C (43-54°F)
-- **Best Time**: July-September (warmest months)
-
+- **Maximum Depth**: 27 meters (89 feet)
+- **Typical Visibility**: 8–18 meters (26–60 feet)
+- **Current**: Strong — slack tide required
+- **Water Temperature**: 6–12°C (43–54°F)
+- **Best Time**: June–September
 
 ## Marine Life
 
-The rocky formations support cold-water invertebrate communities including sea urchins, starfish, anemones, nudibranchs, and sponges. Lingcod, rockfish, and cabezon patrol the rocks. Giant Pacific octopus inhabit rock crevices. Kelp fronds extend from shallower formations.
-
+La Perouse Reef hosts the full suite of Inside Passage cold-water fauna. Plumose anemones, colonial tunicates, encrusting sponges, and sea urchins occupy the reef faces. Lingcod and multiple rockfish species are encountered throughout the dive. Giant Pacific octopus are present in crevices at depth. Sea stars, including the large sunflower sea star, are common on the reef base. Nudibranchs reward careful observation of encrusting surfaces.
 
 ## Dive Profile
 
-Descend to the rocky formation and stay close to structure for current management. Explore rock faces and crevices watching for fauna. Most dive time spent between 15-24 meters. Watch for large mobile fauna on exposed areas.
-
+Plan this dive conservatively given the 27-meter maximum depth, which reduces no-decompression time compared to shallower sites. Descend during slack, spending the first portion of the dive at depth before working shallower as the dive progresses. A multi-level profile extending the upper reef zone during ascent maximizes bottom time efficiently.
 
 ## Entry and Exit
 
-Boat dive access from Ketchikan or nearby operators. Descend directly on a line or GPS coordinates. Maintain group cohesion.
-
+Ketchikan charter boat access. The skipper manages tidal timing and positioning. No permanent moorings — shot or anchor descent. Deploy SMB before ascending in this area, which can have commercial vessel traffic.
 
 ## Tips and Recommendations
 
-- Book with a local dive operator familiar with slack tide schedules
-- Wear dry suit with proper thermal insulation
-- Install cold-water regulator
-- Use a dive torch for fauna spotting
-- Deploy surface marker buoy (SMB) at ascent
-- Practice buoyancy control on rocky bottom
-
+- The 27-meter depth makes nitrox beneficial for extending no-decompression time
+- Plan your deepest point first, then spend extended time in the 10–18 meter range
+- This is a good combination dive with the nearby Wimble Rocks or Observatory Rock
+- Ask your operator about visibility conditions — La Perouse can have excellent clarity in the right season
+- Lingcod are most often encountered in the 15–25 meter range on the exposed rock faces
 
 ## Safety Considerations
 
-This is an Advanced site requiring cold-water and current diving experience. Strong currents demand slack tide coordination. Limited visibility in glacier outflow requires navigation skills. Always dive with buddy, maintain group cohesion, and abort if conditions deteriorate.
-
+The deeper profile (27 meters) compared to neighboring sites requires extra attention to no-decompression limits and ascent rate management. Cold water increases gas consumption — dive conservatively. Tidal current is a serious hazard if the slack window is missed. Maintain conservative turn pressures to allow for a relaxed ascent and safety stop.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The deeper sections of La Perouse Reef offer an opportunity to photograph undisturbed invertebrate communities in excellent natural light conditions on good visibility days. Lingcod with anemone backgrounds make classic Inside Passage compositions. Macro work on bryozoan surfaces is highly productive.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*
