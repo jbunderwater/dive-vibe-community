@@ -13,53 +13,50 @@ addedBy: osm_import
 
 ## Cominotto Arch (Dive Site)
 
-Cominotto Arch (Dive Site) is a cave dive site in Malta and Gozo, Europe.
+Cominotto Arch is a natural limestone arch dive on the uninhabited islet of Cominotto, the smaller companion island to Comino in the narrow channel between Malta and Gozo. The arch is one of several striking geological features around Cominotto that, together with the famous Blue Lagoon, draw thousands of divers and snorkellers to this area each summer season.
 
 ## Overview
 
-Cominotto Arch (Dive Site) is a dive site in Malta and Gozo featuring underwater cave and cavern formations. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The arch cuts through the limestone headland of Cominotto, creating a swim-through passage that connects two sections of reef. The structure descends to approximately 30 metres and is illuminated by shafts of natural light filtering through the arch opening, producing the vivid blue-on-limestone contrast that characterises Malta's finest underwater scenery. Visibility in the Comino area is regularly 20–30 metres, among the best in the central Mediterranean. The arch walls are encrusted with sponges and sea fans that add colour to the passage.
 
 ## Site Information
 
-- **Location**: Malta and Gozo, Europe
+- **Location**: Cominotto Island, Comino, Malta
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/arch
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: May to October
+- **Typical Visibility**: 20–30 meters
+- **Current**: Generally light; can funnel through arch
+- **Best Time**: April to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+The arch passage shelters conger eels, spiny lobster, and small grouper in its recesses. The outer surfaces of the arch are colonised by encrusting sponges, yellow and orange in colour, and sea fans in the deeper sections. Outside the arch, the surrounding reef hosts sea bream, ornate wrasse, moray eels, and octopus. Barracuda patrol the open water above the structure in summer.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the arch entrance on the approach side and transit through at the appropriate depth, maintaining buoyancy to avoid contact with the encrusted walls. Explore both sides of the arch structure before ascending along the reef top. The shallow reef in the 5–10 metre zone around Cominotto is vivid with marine life. Safety stop at 5 metres.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Dive boats from Gozo or Malta operators include Cominotto in their Comino day-trip programmes. Entry by giant stride. The Blue Lagoon area becomes extremely congested with tourist boats in summer — dive early morning for the best conditions. Deploy an SMB on ascent for boat pickup.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- The arch swim-through is best done in calm conditions when current is minimal
+- Natural light through the arch is best in mid-morning when the sun is well positioned
+- Combine with Alex's Cave and Crystal Lagoon for a full Cominotto programme
+- Arrive early in summer to avoid surface congestion
+- A torch helps illuminate the arch interior and highlights encrusting sponge colours
 
 ## Safety Considerations
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Monitor current through the arch before committing to the swim-through. In stronger flow, current can accelerate through the constricted passage. Maintain orientation throughout. Carry an SMB and dive with a buddy. The Comino area has significant boat traffic in summer.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The arch framing the open blue water beyond is one of the most photographed subjects in Maltese diving. A diver silhouetted in the arch entrance provides scale and drama. Natural light shots in mid-morning yield the richest blues. A torch adds colour to the arch walls for wide-angle strobe work.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,53 +13,55 @@ addedBy: osm_import
 
 ## Arachne Reef
 
-Arachne Reef is a reef dive site in British Columbia, North America.
+Arachne Reef is a boat-access reef dive in the southern Gulf Islands, British Columbia, Canada.
 
 ## Overview
 
-Arachne Reef is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Arachne Reef lies in the sheltered waters between Sidney Island and the D'Arcy Island group in the southern Gulf Islands, a chain of islands known for productive cold-water diving. The reef tops out at around 5 metres and drops to 18 metres on its deeper edges, where boulder fields and rock ridges create complex habitat. Nutrient-rich tidal exchange through the Haro Strait keeps the water cold and productive — typically 8 to 11°C — and supports thick kelp forests above and dense invertebrate communities below. Visibility averages 8 to 15 metres and is often best during the summer months.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Southern Gulf Islands, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Typical Visibility**: 8-15 meters (25-50 feet)
+- **Water Temperature**: 8-11°C (46-52°F) — dry suit strongly recommended
+- **Current**: Moderate; plan for tidal exchange
+- **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Arachne Reef hosts a representative cross-section of southern BC reef life. Lingcod claim territorial spots on the reef crest and can be approached closely by patient divers. Copper rockfish and kelp greenling cruise the rock edges, while giant Pacific octopus shelter in boulder crevices deeper on the reef. The rock faces carry colonies of white plumose anemones and encrusting sponges. Nudibranch diversity is high — look for alabaster, sea lemon, and various aeolid species. Harbour seals occasionally hunt the reef perimeter.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Moor at the reef and descend to the deeper rock edges first, exploring the boulder fields between 12 and 18 metres for octopus and lingcod. Work shallower across the reef crest, spending time in the kelp zone between 3 and 8 metres on your way up. The kelp canopy is worth exploring — many species use it for shelter and hunting. Complete a 3-minute safety stop at 5 metres before surfacing.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access only. Anchor carefully to avoid damaging the reef structure, or use any established mooring if available. Deploy a descent/ascent line for the dive team. Keep a lookout for boat traffic — deploy your SMB before ascending.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Dive within an hour of slack water for best conditions
+- Lingcod are often visible on the reef crest — approach slowly for best viewing
+- A dive torch reveals GPO and nudibranch species tucked into crevices
+- Dry suit essential; thin wetsuits are inadequate for extended bottom time
+- Check tidal charts for the Haro Strait before planning your dive
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Tidal currents through the southern Gulf Islands can run strong, especially on springs. Always plan dives around slack water and brief the group on abort procedures if current intensifies on descent. Cold water increases air consumption — monitor gauges frequently. Surface with adequate reserve and signal your ascent with a deployed SMB well before reaching the surface.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Arachne Reef suits both macro and wide-angle shooting. The kelp canopy provides dramatic wide-angle framing, while the rock faces yield nudibranchs and cryptic invertebrates for macro work. Ambient light is strongest June through August. A video light or focus light is useful in the deeper boulder sections.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

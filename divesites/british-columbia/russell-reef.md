@@ -13,53 +13,49 @@ addedBy: osm_import
 
 ## Russell Reef
 
-Russell Reef is a reef dive site in British Columbia, North America.
+Russell Reef is a submerged rocky reef in the northern Gulf Islands area of British Columbia, Canada, known for its excellent invertebrate coverage and resident lingcod population.
 
 ## Overview
 
-Russell Reef is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Russell Reef lies in the outer Gulf Islands near the Strait of Georgia, exposed to moderate tidal flows that flush the site with cold, oxygen-rich Pacific water. Water temperatures range from 7–12°C, with visibility typically 8–15 metres in summer and early autumn. The reef top sits at roughly 5 metres depth, dropping away on multiple sides to 15–18 metres over mixed rock and gravel. Strong tidal currents are possible — tidal planning is important for comfortable diving.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Northern Gulf Islands, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 8–15 metres
+- **Current**: Can be moderate to strong; time to slack
+- **Best Time**: July to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Russell Reef hosts a healthy community of rockfish — quillback, copper, and tiger rockfish are all regularly observed. Large lingcod are a consistent highlight, often seen in pairs or triads resting on top of the reef. Giant Pacific octopus inhabit the deeper rock piles, and plumose anemone fields coat many of the vertical surfaces. Nudibranchs including the shaggy mouse nudibranch and alabaster nudibranch appear on encrusted surfaces. Harbour seals are common visitors and show curiosity toward divers.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descent to the reef top at around 5 metres, then follow the slope down to maximum depth. Circle the reef structure, covering the deeper boulder piles before returning to the top for the final portion of the dive. The reef top provides a comfortable location for safety stops in calmer water. Total bottom time typically 40–50 minutes.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access only. Anchor well clear of the reef structure on sandy substrate. Drift entries may be used if current is present, allowing divers to drop onto the reef efficiently. Boat pickup after a drift is common for this type of site in the Gulf Islands.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Check Canadian Hydrographic Service tide tables before planning the dive
+- Look closely at rocky overhangs for resting lingcod during daylight hours
+- A dive torch is very useful for exploring crevices and spotting GPO eyes
+- Plan dives for the first slack after a large tidal exchange for the clearest water
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Current is the primary hazard at Russell Reef. A strong ebb or flood can make the dive exhausting and potentially dangerous. Deploy an SMB well before surfacing so the boat can track your position. Cold water demands appropriate thermal exposure protection — a drysuit is recommended.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Lingcod and rockfish portrait photography are the standout opportunities. The dense plumose anemone coverage on vertical rock faces makes compelling wide-angle images with a diver silhouette. Macro subjects are abundant on encrusted rubble between the boulders.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

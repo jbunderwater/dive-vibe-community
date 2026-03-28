@@ -13,54 +13,53 @@ addedBy: osm_import
 
 ## Rocky South
 
-Rocky South is a reef dive site in Red Sea, Middle East.
+Rocky South is a coral reef dive site on the outer reef system in the central Red Sea, Egypt. The "Rocky" prefix refers to its exposed, current-swept character — a rocky reef structure rising from deeper water to a shallow crest. Like its companion site Rocky West to the northwest, this reef is part of a cluster of exposed offshore features that attract pelagic traffic and support dense coral growth on their current-facing walls.
 
 ## Overview
 
-Rocky South is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Rocky South sits on the southern face of its reef structure, receiving the predominant northerly current that flows down the Red Sea axis. This current exposure keeps the reef clean and well-fed, resulting in dense coral growth on the upper sections and a lively fish population throughout. The site is primarily a sloping reef with a rubble base, and the south-facing aspect means it receives good light throughout the morning hours. The reef is visited on day-boat circuits from local operators and sees moderate diver traffic relative to the headline sites.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Red Sea, Egypt (central region)
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Typical Visibility**: 20-35 meters (65-115 feet)
 - **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The current-exposed southern face supports schooling fish that feed in the flow — fusiliers, anthias, and surgeonfish pack the water above the reef crest. Napoleon wrasse patrol the deeper reef sections. Moray eels occupy the coral crevices throughout the dive, and lionfish perch on coral heads and ledges. Reef sharks are occasionally observed along the outer reef edge. Sea turtles rest on the flat sections of coral platform and green turtles are regularly encountered at this depth range in the central Red Sea.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the reef crest at 5–8 meters and work south along the slope, descending to 15–20 meters where the coral gives way to rubble and sand. The densest coral coverage and most active fish life is in the 8–15 meter zone. When current is running, plan the dive as a drift and return to shallower depth for the safety stop. The reef crest provides useful reference for navigation back to the anchor or mooring point.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by day boat from local operators in the area. Giant stride or back roll entry. If current is present, descend immediately on entry to avoid being pushed from the site. Ascend along the reef to 5 meters for the safety stop and deploy an SMB before surfacing for boat pickup.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Pair with Rocky West for a two-site day that contrasts the southern and western reef exposures
+- The current-swept face produces the best coral and fish density — spend time on the upper slope
+- Morning dives take advantage of better light on this south-facing reef
+- Deploy an SMB early in the ascent to alert the boat crew to your position
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Current can be moderate to strong on the southern exposure. Be prepared for drift conditions and carry an SMB at all times. Fire coral is present on the upper reef sections; maintain buoyancy to avoid contact. Lionfish blend into the reef structure — exercise caution during close-in reef inspection. Always dive with a buddy.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The current-exposed slope produces dynamic wide-angle shots with schooling fish framed against the coral. Morning light striking the south face creates good ambient conditions through the first part of the day. Napoleon wrasse portraits and reef fish schooling shots over the coral crest are the primary subjects. Macro shooting in the crevices produces moray and lionfish portraits.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

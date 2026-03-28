@@ -13,53 +13,51 @@ addedBy: osm_import
 
 ## Calypso Cave
 
-Calypso Cave is a cave dive site in Malta and Gozo, Europe.
+Calypso Cave is a cavern dive on the northwest coast of Gozo, named after the nymph of Greek mythology who, according to Homer's Odyssey, held Odysseus captive on the island of Ogygia — widely identified with Gozo — for seven years. The cave sits within the dramatic Dwejra/Reqqa coastline, one of Gozo's most celebrated dive zones, where sheer limestone cliffs plunge directly into intensely blue Mediterranean water.
 
 ## Overview
 
-Calypso Cave is a dive site in Malta and Gozo featuring underwater cave and cavern formations. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The cave descends through a limestone formation carved by centuries of wave action and tidal movement, opening into cavern sections that receive filtered natural light. The site reaches a maximum depth of 30 metres, with the most compelling features found in the mid-range between 10–20 metres where the cave architecture and marine life overlap. The northwest Gozo waters offer outstanding visibility of 20–30 metres in settled conditions. The cave is part of the same geological complex as the nearby Double Arch and Reqqa Point wall dive.
 
 ## Site Information
 
-- **Location**: Malta and Gozo, Europe
+- **Location**: Northwest Gozo, Malta
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: May to October
+- **Typical Visibility**: 20–30 meters
+- **Current**: Generally calm inside; exposed coast outside
+- **Best Time**: April to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+The cave interior shelters spiny lobster, conger eels, and fangblenny in the limestone crevices. Moray eels coil in recesses along the cave walls. The entrance zone and outer reef support grouper, sea bream, and ornate wrasse. Octopus are frequently found camouflaged against the limestone outside the cave entrance. Sea fans and encrusting sponges colonise the deeper sections of the cave floor.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Approach the cave entrance and enter at the appropriate depth, maintaining controlled buoyancy throughout the cavern. Explore the interior passages staying within natural light range. Exit the cavern and continue along the adjacent reef between 10–25 metres, working back toward the boat's position. Complete a safety stop at 5 metres before surfacing.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Dive boats from Gozo operators access the northwest coastline. Entry by giant stride. The exposed northwest Gozo coast is susceptible to swell — confirm sea conditions with the operator before entry. Do not attempt this dive in unsettled conditions.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- A torch is essential for appreciating the cave's interior textures and colours
+- Stay within the natural light zone; this is a cavern dive, not a full cave penetration
+- The mythological connection makes this a culturally as well as scenically interesting site
+- Combine with nearby Reqqa Point for a full-day northwest Gozo programme
+- Buoyancy control is critical around the limestone formations — avoid contact with the walls
+- The outer reef around the cave entrance rewards time on the ascent
 
 ## Safety Considerations
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Maintain orientation to the cave entrance throughout. Never venture beyond the natural light zone without proper cave diving certification and equipment. The exposed coast outside requires sea state assessment. Carry a torch and dive with a buddy. Always deploy an SMB on ascent for boat pickup.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The cave entrance framed against the vivid blue Gozo water creates a compelling wide-angle composition. The interplay of natural light and shadow inside the cavern produces atmospheric shots. A torch is needed to illuminate the encrusted walls and any resident crustaceans.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

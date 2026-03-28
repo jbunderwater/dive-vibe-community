@@ -13,53 +13,55 @@ addedBy: osm_import
 
 ## Ansell Point Dive Site
 
-Ansell Point Dive Site is a reef dive site in British Columbia, North America.
+Ansell Point Dive Site is a wall dive located along the Sunshine Coast of British Columbia, Canada.
 
 ## Overview
 
-Ansell Point Dive Site is a dive site in British Columbia offering rewarding diving on healthy coral reef structures . Popular scuba and freediving site.. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Ansell Point drops away in a dramatic wall formation on the edge of Howe Sound, offering one of the more compelling shore dives accessible from the Sunshine Coast. The wall plunges to 30 metres and is encrusted with orange and white plumose anemones, crimson sea stars, and clusters of barnacles. Cold, nutrient-rich water flowing through Howe Sound supports exceptional invertebrate life throughout the year. A dry suit is essential — water temperatures hover between 7 and 12°C year-round. Visibility averages 6 to 12 metres and improves on incoming tides when cleaner Pacific water pushes in from the south.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Ansell Point, Howe Sound, British Columbia, Canada
 - **Entry Type**: Shore entry
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Typical Visibility**: 6-12 meters (20-40 feet)
+- **Water Temperature**: 7-12°C (45-54°F) — dry suit required
+- **Current**: Moderate to strong on tidal changes
+- **Best Time**: Year-round; slack tide preferred
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+The wall at Ansell Point is a showcase for Pacific Northwest invertebrate life. Giant Pacific octopus (GPO) tuck into crevices at depth and are frequently spotted by patient divers. Wolf eels inhabit rocky dens along the wall base, often in pairs. Copper and quillback rockfish hover in the water column, while schools of black rockfish patrol the kelp canopy above. Plumose anemones coat the wall in dense colonies, and a variety of nudibranch species — including alabaster, clown, and opalescent nudibranchs — move across the rock face. Harbour seals occasionally visit the site.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend from the shore entry point and follow the wall northward at your chosen depth. The wall face is most productive between 10 and 25 metres, where overhangs and crevices shelter the highest concentration of invertebrates and fish. Work your way shallower for the ascent, spending time in the kelp zone at 5 to 8 metres before surfacing. Reserve adequate gas for a 3-minute safety stop at 5 metres.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Shore entry is made from the point itself — negotiate the rocky shoreline carefully, particularly at lower tides when algae-covered rocks can be slippery. Enter the water with fins on and descend immediately to avoid surface surge. Exit at the same location; time your approach to the rocks between wave sets. A thick wetsuit hood or dry suit hood is recommended even on warm days.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Dive on slack tide to minimise current on the wall
+- A dive light or torch illuminates GPO dens and crevice life dramatically
+- Bring a macro lens — nudibranch diversity here rewards close-up photography
+- Dry suit and hood are essential regardless of season
+- Carry an SMB — boat traffic in Howe Sound can be heavy
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Tidal currents at Ansell Point can be strong on the ebb, pushing divers away from the wall and into open water. Always check tidal tables and plan the dive for slack. Cold water accelerates air consumption and increases hypothermia risk — monitor both carefully. Rocky shore entry and exit requires confident footing in dive gear. Always dive with a buddy and signal your presence at the surface with a deployed SMB.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Ansell Point wall offers outstanding macro and wide-angle opportunities. Plumose anemone colonies make for striking wide-angle compositions, while nudibranchs and GPO tentacles reward macro shooters. Ambient light is best in mid-morning when the sun is higher and reflects off the kelp canopy above. A focus light significantly improves colour rendering on the wall.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

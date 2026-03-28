@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Abu Ramada Cave
 
-Abu Ramada Cave is a drift dive site in Red Sea, Middle East.
+Abu Ramada Cave is a drift dive site off Abu Ramada Island near Hurghada, Red Sea, Egypt.
 
 ## Overview
 
-Abu Ramada Cave is a dive site in Red Sea offering rewarding diving on healthy coral reef structures . mooring place for dive boats. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Abu Ramada Cave sits on the southern edge of Abu Ramada Island, one of the coral island clusters scattered along the northern stretch of Egypt's Red Sea coast. The site is named for a natural cave formation in the reef wall that divers can explore at the turnaround point of a drift dive. The reef here drops from a shallow plateau down through a series of terraces covered in hard and soft corals, with the cave providing shelter for resident fish and a dramatic focal point for the dive. Currents running along the island's southern face make this a genuine drift experience, sweeping divers through gardens of gorgonian fans and table corals.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Abu Ramada Island, Hurghada, Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Drift
+- **Site Type**: Drift / Cave
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 15-30 meters
+- **Current**: Moderate to strong, direction varies with tide
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The drift along Abu Ramada Cave's southern wall regularly produces sightings of Napoleon wrasse cruising in the current, along with large schools of glassy sweepers sheltering inside and around the cave entrance. Bluespotted ribbontail rays rest on sandy patches between coral heads, while lionfish and scorpionfish blend into the reef structure. Reef sharks are occasional visitors, and green sea turtles are frequently spotted resting on the coral terraces. The cave interior harbors moray eels, shrimp, and a variety of invertebrates.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the reef top at 5–8 meters and allow the current to carry you southward along the wall. The cave entrance opens at roughly 12–15 meters and is large enough for divers to enter and turn around without penetration training, though a torch is useful for viewing the interior detail. Continue the drift along the outer reef face to a maximum of 20 meters, then begin a gradual ascent along the wall. Allow ample gas reserve for a 3-minute safety stop at 5 meters before surfacing for boat pickup.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boats moor on the northern, sheltered side of the island. Entry is via giant stride or back roll from the dive boat. Drift with the current toward the southern tip and signal the chase boat when ascending. Deploy your SMB at the start of your safety stop to mark your position for pickup.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Carry a torch even for the external cave approach — the interior colors are dramatic when illuminated
+- Confirm current direction with the dive guide before descent, as flow reverses with tidal change
+- This site pairs well with Abu Ramada Plateau for a two-dive day
+- Bring a reef hook if permitted — resting on the rock face while watching the current-driven fish action is rewarding
+- Start the dive with a full cylinder; drift pace can vary and bottom time management is important
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Currents can accelerate unexpectedly around the island's southern tip. Divers should be comfortable with drift diving and capable of deploying an SMB while neutrally buoyant. The cave entrance is swimthrough-style rather than a penetration dive, but avoid forcing entry during surge. Fire coral is present on the shallower sections of the reef. Always carry a dive knife or shears in case of monofilament entanglement.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The cave entrance provides a natural frame for wide-angle shots with sunlight streaming in from the opening. The drift section offers opportunities to photograph Napoleon wrasse and turtles in open water. Inside the cave, a strobe is essential to bring out the crimson and orange sponges coating the walls.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

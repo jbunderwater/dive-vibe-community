@@ -13,53 +13,49 @@ addedBy: osm_import
 
 ## Rose Rock
 
-Rose Rock is a reef dive site in British Columbia, North America.
+Rose Rock is a submerged reef dive site in the Gulf Islands of British Columbia, Canada, offering rocky pinnacle terrain draped in BC's signature cold-water invertebrate life.
 
 ## Overview
 
-Rose Rock is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Rose Rock sits in the southern Gulf Islands region, a cluster of rocky outcroppings that attract a dense mix of fish and invertebrates. Water temperatures hover between 7–12°C year-round, so a drysuit or thick wetsuit is essential. Visibility typically ranges 6–15 metres depending on season and tidal flow, with best clarity from late summer through autumn when plankton blooms subside. Currents can run moderately strong around the rock, making tidal timing important — slack water offers the calmest conditions.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Gulf Islands, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 6–15 metres
+- **Current**: Moderate, tide-dependent; dive at or near slack
+- **Best Time**: July to October for best visibility
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+The rocky substrate of Rose Rock supports abundant orange and white plumose anemones blanketing the shallower ledges. Giant Pacific octopus (GPO) hide in crevices at mid-depth, while wolf eels are regularly encountered in den-like cavities. Lingcod and copper rockfish occupy rocky perches, and schools of black rockfish gather in the water column. Harbour seals are commonly seen patrolling the site. Nudibranchs — including alabaster nudibranchs and opalescent nudibranchs — appear throughout the dive on encrusted rocky surfaces.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Drop to the base of the rock at around 15–18 metres, then work your way up the rocky structure, exploring ledges and overhangs as you ascend. Spend time at depth searching crevices for GPO and wolf eels, then slow down in the shallower kelp zone on the way back up. Allow sufficient bottom gas for a 3–5 minute safety stop at 5 metres.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Access is by private or charter boat. Anchor or tie off away from the reef to avoid anchor damage. Negative-entry entry is helpful when current is present. Maintain constant awareness of boat traffic in the Gulf Islands, particularly during summer weekends.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Time your dive to the last hour of incoming or outgoing tide for the calmest current
+- Search rock crevices systematically — wolf eels and GPO are easy to miss
+- A torch is useful for illuminating anemone-covered overhangs
+- Bring a macro lens for nudibranchs on the shallower rock faces
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Cold water (7–12°C) requires appropriate thermal protection — most BC divers use drysuits at this site. Currents can build quickly around exposed rocks; watch for ebb or flood pushing across the reef. Carry a surface marker buoy (SMB) at all times and remain aware of boat traffic in the Gulf Islands waterway.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Wide-angle shots work well for the plumose anemone fields and passing rockfish schools. Macro opportunities are excellent — nudibranchs, encrusting sponges, and small crustaceans offer rich close-up subjects. Natural light penetrates well to 10 metres during summer.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

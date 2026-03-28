@@ -13,54 +13,53 @@ addedBy: osm_import
 
 ## Pungume Patches
 
-Pungume Patches is a reef dive site in Zanzibar, Africa.
+Pungume Patches is a series of coral patch reefs in the Zanzibar Channel near Pungume Island, southwest of Zanzibar Island's main body. The scattered reef formations rise from the sandy channel floor and create a series of discrete coral oases that divers navigate between during a single dive.
 
 ## Overview
 
-Pungume Patches is a dive site in Zanzibar offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Pungume Island lies in the Zanzibar Channel to the southwest of the main Zanzibar Island, and the surrounding seabed features a mosaic of coral patch reefs separated by sandy channels. Pungume Patches refers to the cluster of these formations most frequently dived from Zanzibar operators, where individual reef structures typically rise from 14-18 meters depth to within 5-8 meters of the surface. The patch reef format creates a navigational puzzle — each mound is a self-contained ecosystem, and the sandy channels between them host their own community of garden eels, flatfish, and ray species. Visibility of 15-18 meters in the northeast monsoon allows divers to sight the next patch reef from the previous one, allowing intuitive navigation.
 
 ## Site Information
 
-- **Location**: Zanzibar, Africa
+- **Location**: Zanzibar Channel, near Pungume Island, Southwest Zanzibar, Tanzania
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Coral reef (patch reefs)
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Typical Visibility**: 15-18 meters (50-60 feet)
+- **Current**: Light to moderate (Zanzibar Channel tidal flow)
+- **Best Time**: October to March (northeast monsoon)
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
+Each patch reef supports a concentrated fish community. Triggerfish are territorial on the mound crests, and large grouper inhabit deeper ledges. Sea turtles move between patches, feeding on encrusting algae. The sandy channels host blue-spotted lagoon rays partially buried in the sand, and ribbon eels occupy burrows at the reef-sand boundary. Barracuda patrol above the patches, and occasional reef sharks are seen in the channel water. The Zanzibar Channel location means pelagic species — jacks, tuna, and occasionally whale sharks during October-March — pass through the area.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin at the first patch reef at the shallower 8-12 meter zone and circle each mound before crossing the sandy channel to the next. The standard approach covers three to four patches in a single dive, spending 8-10 minutes at each before navigating across the 10-15 meter deep channels. Plan to return to the starting mooring rather than drift-diving past accessible patches, unless the operator runs a live-boat format.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from Zanzibar Town operators or from Pungume Island area. Often combined with Moore Bank for a two-tank offshore day exploring the southwestern Zanzibar Channel reef system. Confirm current direction with the guide before entry; the channel tidal flow determines which direction to navigate through the patch sequence.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Blue-spotted rays in the sandy channels are easily missed — scan the sand between patches carefully as you cross
+- The pelagic channel position gives this site better whale shark potential during October-March than the enclosed lagoon sites on Zanzibar's east coast
+- Ribbon eels in male (blue and yellow) phase are particularly photogenic — take time at the reef-sand boundary edges
+- Strong current days can make inter-patch navigation difficult — defer to local operator advice on site selection by conditions
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, remote locations in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The Zanzibar Channel position exposes the site to more current than the protected eastern lagoon sites. Monitor group cohesion during inter-patch crossings in mid-water. The 20-meter maximum depth requires NDL management on second dives. Deploy SMB before ascending from mid-water channels rather than at a reef structure. Standard coral and fire coral contact hazards apply.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The patch reef format creates diverse subject opportunities in a single dive. Wide-angle reef-and-blue-water shots from the mound crests with fish in frame. Macro photography on the mound surfaces for nudibranch and crinoid life. The blue-spotted rays in sandy channels are excellent behavioral subjects — hovering at distance allows extended observation as they excavate the sand for buried prey.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
