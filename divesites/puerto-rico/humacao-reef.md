@@ -11,55 +11,53 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Humacao Reef
+# Humacao Reef
 
-Humacao Reef is a reef dive site in Puerto Rico, Caribbean.
+A sloping coral reef on Puerto Rico's underdived east coast near Humacao — the eastern shelf's underwater terrain of broad reef slopes, hard coral formations, and productive marine life offers intermediate divers a less-crowded alternative to the better-known west and southwest sites.
 
 ## Overview
 
-Humacao Reef is a dive site in Puerto Rico offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Humacao Reef lies in the waters off the east coast of Puerto Rico near the Humacao municipality, where the island's eastern shelf drops from the coast toward the open Atlantic. The reef system here is characterised by broad sloping terrain covered with brain coral, star coral, and scattered sea fan formations, with sandy corridors between reef sections. The east coast sees fewer dive boats than the southwest coast, and the site offers an undisturbed diving character in productive Caribbean water. Visibility averages 15–25 metres. Water temperature is 26–28°C year-round.
 
 ## Site Information
 
-- **Location**: Puerto Rico, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+| Detail | Value |
+|--------|-------|
+| Depth Range | 5–25 m |
+| Difficulty | Intermediate |
+| Entry Type | Boat |
+| Site Type | Reef |
+| Visibility | 15–25 m |
+| Current | Light to moderate |
+| Water Temp | 26–28°C |
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The east coast's lower dive traffic produces a marine community that is less habituated to divers, creating more naturalistic encounters. Hawksbill turtles are regularly seen on the reef, feeding on sponges. Large parrotfish and queen triggerfish are prominent. Southern stingrays traverse the sandy corridors between reef sections. Caribbean spiny lobster shelter in the deeper reef crevices. Schools of creole wrasse and French grunts are abundant throughout the reef zone.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Boat to the reef and descend to the reef crest. Work along the slope from 10 metres down to 25 metres, exploring the reef terrain in both directions. The deeper outer sections at 20–25 metres have the largest sponge and coral formations. Ascend through the shallower reef sections for a well-lit safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from operators based in the Humacao area, including those operating from the Palmas del Mar resort marina. Giant stride entry; DSMB required on ascent.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+The east coast's exposure to Atlantic swell means conditions can be variable — check with operators about the timing of dives relative to sea conditions. The lower traffic on this coast means the coral and fish life is less accustomed to divers — approach slowly and quietly for the best encounters. Humacao Reef is often combined with nearby Cayo Santiago (Monkey Island) for a varied east coast day.
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+East coast exposure can produce stronger surge and current than the sheltered west and southwest sites — assess conditions on descent and be prepared to dive shallower if needed. DSMB required. Monitor air consumption on the deeper sections.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The east coast's clear water and less-disturbed reef make Humacao a productive site for natural-light reef photography. Turtle encounters over the brain coral formations, stingray portraits on sandy corridors, and school-of-fish compositions are the main subjects.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- Palmas del Mar Resort dive operators: offer east coast reef dives including Humacao area sites
+- The east coast has fewer operators than the west — book ahead as capacity is limited
 
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

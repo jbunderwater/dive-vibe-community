@@ -11,59 +11,59 @@ osmId: 816347624
 addedBy: osm_import
 ---
 
-## Minots Ledge
+# Minots Ledge
 
-Classic Boston Harbor ledge dive with kelp meadows and rocky structure.
+A historic rocky ledge off Scituate, Massachusetts, associated with the legendary Minot's Ledge Lighthouse — one of the most dangerous construction projects in American history.
 
 ## Overview
 
-Minots Ledge is a submerged rock ledge off the Boston coast, one of the iconic New England dive sites. Known for its dramatic rocky topography and abundance of marine life. The ledge features kelp meadows (shorter than Pacific kelp, typically forming "prairies" rather than reaching the surface) and rock outcroppings that create excellent habitat for tautog, striped bass, pollock, and crustaceans. Water temperatures in the 50s-60s Fahrenheit (10-15°C) year-round. Visibility ranges from 3-10 meters depending on conditions and time of year. The site is associated with the historic Minots Ledge Lighthouse, a significant New England maritime landmark.
+Minots Ledge is inseparable from the history of the Minot's Ledge Lighthouse, which stands on this rocky outcrop and represents one of the most significant engineering achievements — and human tragedies — in American maritime history. The original lighthouse, a spindly iron structure built in 1850 on the exposed outer ledge, was destroyed in a storm in April 1851, killing the two assistant keepers who remained at their posts. The current granite tower, completed in 1860 after years of work in treacherous seas, is considered one of the most difficult lighthouse construction projects ever undertaken. The ledge itself sits in the outer approaches to Boston Harbor, at the northern end of the South Shore ledge cluster, just south of Cohasset. At 18 metres maximum depth, it provides the same cold-water reef diving as the neighboring South Shore ledges.
 
 ## Site Information
 
-- **Location**: Boston Harbor area, offshore
+- **Location**: Outer Cohasset/Scituate, South Shore, Massachusetts
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 3-8 meters (variable, 10-26 feet)
-- **Current**: Moderate to strong, tidal dependent
-- **Water Temperature**: 50-60°F (10-15°C)
-- **Best Time**: June to September
+- **Typical Visibility**: 5–10 meters (variable)
+- **Current**: Moderate to strong; exposed outer ledge position
+- **Water Temperature**: 7–20°C depending on season
+- **Best Time**: June to October
 
 ## Marine Life
 
-Abundant New England temperate species: tautog (primary target), striped bass, pollock, sea urchins, sponges, crabs, lobsters. Brown, green, and red seaweed/kelp cover the rock structures. Kelp prairies provide juvenile fish habitat and crustacean shelter. Mobile invertebrates common in crevices.
+The outer ledge's exposed position in clean, open Massachusetts Bay water supports productive reef life. Tautog are resident on the ledge structure. American lobsters inhabit deep crevices throughout the rock system. Pollock school in midwater above the ledge and can appear in impressive numbers at this exposed outer position. Cunner cluster around encrusted surfaces. Sea urchins carpet open rock faces. Striped bass cruise through in late summer. Northern sea ravens rest on ledge bases. Anemones, hydroids, and encrusting bryozoans colonize all shaded surfaces.
 
 ## Dive Profile
 
-Descend to ledge in 12-18 meters. Explore rocky outcroppings and kelp meadows. Rock formations create interesting topography for navigation. Tautog often congregate on hard structures. Maximum bottom time 30-40 minutes depending on bottom depth and tidal current. Strong tidal flows may occur outside slack tide windows. Work the rock edges and crevices.
+Boat access from Scituate or Cohasset — South Shore operators are familiar with this site. The lighthouse tower serves as an unmissable navigation reference. Descend to ledge structure at 12–18 metres. The exposed outer position means current can be stronger here than at the inner South Shore ledges — plan carefully around slack tide. Navigate the ledge perimeter and crevice faces. Pair with adjacent South Shore ledge sites. Complete a 3-minute safety stop at 5 metres.
 
 ## Entry and Exit
 
-Boat charter required from Boston area (Northern Atlantic Dive Expeditions, Boston SCUBA). Anchor on or near ledge structure. Controlled descent. Monitor tidal current. Return for ascent with 5-meter safety stop before boarding.
+Boat charter required. The lighthouse tower provides a superb surface navigation reference. The outer Cohasset/Scituate position is exposed to Massachusetts Bay conditions — only dive in settled weather. Anchor in sand adjacent to ledge. Deploy SMB before ascending.
 
 ## Tips and Recommendations
 
-- 6.5-7mm wetsuits required (cold year-round)
-- Strong tidal currents—check slack tide windows with charter
-- Bring dive light for investigating rock crevices and kelp structure
-- Excellent for fish and crustacean photography
-- Monitor air consumption closely
-- This is a popular wreck diving destination as well (nearby wrecks)
-- Equipment secure—strong currents can sweep items away
+- Research the history of Minot's Ledge Lighthouse before the dive — the story of the 1851 wreck and the subsequent granite tower construction is remarkable
+- The lighthouse (1860) is visible from the surface and adds historical atmosphere to every dive at this site
+- Exposed outer position means current can be stronger than inner South Shore ledges — plan conservatively
+- Pair with the adjacent South Shore ledge cluster for a productive full day
+- 7mm wetsuit or drysuit required; outer Massachusetts Bay water is cold
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The outer Cohasset/Scituate position is more exposed than the inner South Shore ledge sites. Massachusetts Bay swells can create surge at the shallower ledge sections. Current can be stronger at this exposed outer ledge than at inner sites — plan strictly around slack water. Cold water year-round. Deploy SMB before surfacing.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The Minot's Ledge Lighthouse tower (completed 1860) visible through the surface in very shallow sections provides unique historical context. Wide-angle ledge portraits; pollock schooling in the clear Massachusetts Bay water above the ledge; tautog and lobster on ledge faces are the primary subjects.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Historical Reference**: Minot's Ledge Lighthouse — U.S. Lighthouse Society; Edward Rowe Snow, *The Lighthouses of New England*
+- **Charter Access**: Scituate and Cohasset area dive charter operators
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

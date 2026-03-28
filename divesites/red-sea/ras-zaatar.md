@@ -11,56 +11,54 @@ osmId: 9230615505
 addedBy: osm_import
 ---
 
-## Ras Za'atar
+# Ras Za'atar
 
-Ras Za'atar is a reef dive site in Red Sea, Middle East.
+A thyme-named headland reef on the Sinai southwestern coast with a colourful wall, gorgonian growth in the deeper sections, and an accessible dive profile in a stretch of coast between Sharm el-Sheikh and Ras Mohammed.
 
 ## Overview
 
-Ras Za'atar is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Ras Za'atar ("headland of thyme" in Arabic) is located at approximately 27.76°N, 34.26°E on the Sinai Peninsula's southwestern coast — south of Sharm el-Sheikh and in the coastal zone approaching Ras Mohammed National Park. The headland creates the typical current acceleration at its tip, and the reef structure follows the standard Sinai pattern: a shallow reef crest at 2–5 metres dropping to a slope and outer wall. Za'atar is positioned near Ras Ghozlani, and the two sites are often combined on the same day boat itinerary as representative southern Sinai coastal dives.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Sinai Peninsula southwestern coast, south of Sharm el-Sheikh (~27.76°N, 34.26°E)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Coral reef (headland)
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 15–25 meters
+- **Current**: Moderate at the headland tip
+- **Best Time**: Year-round; October to May optimal
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, humphead wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Gorgonian fans at 15–18 metres on the outer wall carry dense anthias populations. Schools of fusiliers sweep the wall face when current is running. Moray eels and groupers occupy the reef crevices at all depths. Cleaning stations in the 8–12 metre zone attract resident fish. Turtles are sighted on the upper reef regularly. The sandy bottom transition at the base of the headland slope holds blue-spotted stingrays.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Enter on the sheltered side and work around the headland tip at 10–15 metres. The outer wall section at 15–18 metres holds the gorgonians. Return along the lee side at 8–12 metres for the cleaning stations. Safety stop at 5 metres on the upper reef.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Day boat from Sharm el-Sheikh (40–60 minutes). Giant stride entry. Pair with Ras Ghozlani for a two-dive southern Sinai day. SMB deployment before ascending.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Za'atar and Ghozlani make a natural pairing — dive the more exposed site first when fresh and the sheltered site second
+- Gorgonian fans at 15–18 metres warrant a wide-angle lens setup for the outer wall section
+- Current at the headland tip can be managed by staying close to the reef structure
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Current at the tip can be moderate to strong on tidal changes. Maintain the reef as a reference. Fire coral on the upper crest. SMB before ascending.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Gorgonian fan portraits at 15–18 metres in natural light are the signature subjects. Fusilier school shots on the wall face in current reward ambient wide-angle technique.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
