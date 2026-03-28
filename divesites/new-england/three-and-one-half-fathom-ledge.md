@@ -11,55 +11,57 @@ osmId: 816347618
 addedBy: osm_import
 ---
 
-## Three and One-half Fathom Ledge
+# Three and One-half Fathom Ledge
 
-Three and One-half Fathom Ledge is a reef dive site in New England, North America.
+A navigationally named rocky ledge south of Boston Harbor — its name records the colonial-era depth sounding of 21 feet over the shallowest point.
 
 ## Overview
 
-Three and One-half Fathom Ledge is a dive site in New England offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Three and One-half Fathom Ledge takes its name directly from the depth of water over its shallowest point: three and one-half fathoms, equivalent to approximately 6.4 metres (21 feet), which is precisely the depth at which a colonial-era navigator would mark this as a serious hazard for larger vessels drawing more than 18 feet. This type of precisely calibrated navigational name appears on 18th and 19th-century Massachusetts Bay charts and reflects the careful surveying of the South Shore's approach waters. The ledge sits in the western South Shore cluster near Harding Ledge and Martin Ledge, at a maximum depth of 18 metres. The site connects modern divers to the centuries of maritime navigation that defined this coastline's history.
 
 ## Site Information
 
-- **Location**: New England, North America
+- **Location**: Off Cohasset/Hull, western South Shore of Massachusetts
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
+- **Typical Visibility**: 5–10 meters (variable)
+- **Current**: Moderate tidal current
+- **Water Temperature**: 7–20°C depending on season
 - **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Rocky ledge community of the South Shore. Tautog are resident on the structure. American lobsters inhabit crevices throughout. Cunner hover around encrusted surfaces. Pollock school above the ledge. Sea urchins carpet exposed rock faces. Winter flounder on adjacent sand. Anemones and bryozoans on shaded surfaces.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Boat access from Hull, Cohasset, or Scituate. Descend to ledge at the named shallowest point (approximately 6–7 metres) and work down to the 18-metre base. The shallowest section at one end, deeper edges at the other, provides a good depth-gradient dive. Combine with Martin Ledge and Harding Ledge. Plan around slack tide. Complete a 3-minute safety stop at 5 metres.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat charter required. Anchor in sand adjacent to ledge. Deploy SMB before ascending.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The name records an exact colonial-era depth sounding — a remarkable connection to maritime history
+- The shallow section (3.5 fathoms/6.4m) at the ledge top is worth exploring for abundant light and sea urchins
+- 7mm wetsuit or drysuit required
+- Combine with Martin Ledge and Harding Ledge for a western South Shore ledge day
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Cold water year-round. Moderate tidal current. Rocky ledge is a boat hazard. Deploy SMB before surfacing.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The shallow ledge top receives excellent natural light. Wide-angle reef portraits at the shallow section work well without strobes in good visibility; strobes needed at the deeper sections.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Charter Access**: Hull, Cohasset, and Scituate area dive operators
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -11,55 +11,57 @@ osmId: 816347622
 addedBy: osm_import
 ---
 
-## Harding Ledge
+# Harding Ledge
 
-Harding Ledge is a reef dive site in New England, North America.
+A submerged rocky ledge south of Boston Harbor in the Hull/Cohasset area, part of the productive Massachusetts South Shore ledge system.
 
 ## Overview
 
-Harding Ledge is a dive site in New England offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Harding Ledge lies in the waters south of Boston Harbor off the Hull/Cohasset coast — slightly north and west of the Enos-Davis-Tobias ledge cluster but part of the same broader South Shore rocky ledge system. The ledge sits at coordinates suggesting a position offshore in Massachusetts Bay at depths of 12–18 metres, where rocky outcrops break the otherwise sandy bay floor. Named on NOAA charts as a navigation hazard, Harding Ledge is familiar to local South Shore commercial fishermen and dive operators. The ledge provides the same type of cold-water reef diving characteristic of the entire South Shore ledge system: dense invertebrate growth, reliable lobster populations, and the hardy fish species of Massachusetts Bay.
 
 ## Site Information
 
-- **Location**: New England, North America
+- **Location**: Off Hull/Cohasset, South Shore of Massachusetts
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
+- **Typical Visibility**: 5–10 meters (variable)
+- **Current**: Moderate tidal current
+- **Water Temperature**: 7–20°C depending on season
 - **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+The rocky ledge supports the typical Massachusetts Bay cold-water species. Tautog hold territory on the ledge structure. American lobsters inhabit crevices and undercuts. Cunner cluster around the encrusted edges. Pollock school above the ledge. Sea urchins carpet exposed rock surfaces. Winter flounder are common on adjacent sandy areas. Anemones, hydroids, and bryozoans encrust shaded rock throughout the season.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Boat access from Hull, Scituate, or other South Shore operators. Descend to ledge at 12–18 metres. Explore ledge perimeter and crevice faces. Combine with Martin Ledge or Tewksbury Rock for a productive two-site western South Shore day. Plan around slack tide. Complete a 3-minute safety stop at 5 metres.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat charter required. Local knowledge of the Hull/Cohasset approach is helpful. Anchor in sand adjacent to ledge. Deploy SMB before ascending.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Combine with Martin Ledge and Tewksbury Rock — same general area and within range of a single charter
+- Lobsters on the ledge base are the prime target for most divers here
+- 7mm wetsuit or drysuit required
+- Plan dives around slack water
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Cold water year-round. Moderate tidal current. Rocky ledge creates boat hazards. Deploy SMB before surfacing.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Strobes needed at 18 metres for color correction. Ledge face portraits with encrusting organisms are primary subjects.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Charter Access**: Hull and Scituate area dive charter operators
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

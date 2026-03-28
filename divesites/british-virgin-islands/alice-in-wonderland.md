@@ -11,7 +11,7 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Alice in Wonderland
+# Alice in Wonderland
 
 Alice in Wonderland is one of the British Virgin Islands' most distinctive reef sites, located on the south side of Ginger Island. The site earned its whimsical name from the extraordinary mushroom-coral formations that dot the reef — giant boulder corals and plate corals rising from the sandy bottom like something from a fantasy landscape.
 

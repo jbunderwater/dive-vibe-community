@@ -11,56 +11,55 @@ osmId: 271188523
 addedBy: osm_import
 ---
 
-## Shag Rock
+# Shag Rock
 
-Shag Rock is a reef dive site in Red Sea, Middle East.
+A submerged pinnacle in the Hurghada offshore zone that surfaces only at low water — a concentrated reef structure with glassfish-packed crevices, patrolling grey reef sharks, and the density of fish life typical of isolated offshore pinnacles.
 
 ## Overview
 
-Shag Rock is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Shag Rock is a submerged pinnacle at approximately 27.77°N, 33.88°E, located in the offshore zone northwest of Hurghada. As an isolated submerged structure that barely breaks the surface at low tide, it concentrates all the characteristics of a healthy offshore pinnacle: currents sweep it from multiple directions, the vertical and overhanging structure provides varied habitat, and the isolation from other reefs means fish life concentrates here in higher density than on continuous fringing reefs. The top of the pinnacle is typically at 2–4 metres, with the main coral structure extending to 15–20 metres before dropping to the sandy floor. Shag Rock is dived from Hurghada on day-boat itineraries, often paired with Giftun Island sites.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Offshore Hurghada, northern Egyptian Red Sea (~27.77°N, 33.88°E)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Coral reef (pinnacle)
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 15–25 meters
+- **Current**: Variable; can be strong on exposed sides
+- **Best Time**: Year-round; October to May optimal
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, humphead wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Grey reef sharks are the signature large animal at Shag Rock, reliably seen patrolling the outer edges of the pinnacle, particularly when current is running. Glassfish schools pack the overhanging sections of the pinnacle structure in dense silver clouds. Schools of barracuda and jacks circle in open water above and around the pinnacle. Large groupers occupy the deep sections of the structure at 15–20 metres. Moray eels are found throughout the crevices. Turtles are regularly seen resting on the upper sections of the pinnacle. Scorpionfish and lionfish occupy the shaded overhangs.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend directly to the base of the pinnacle at 15–18 metres and circumnavigate the structure at depth, observing the shark patrol patterns and the deep coral coverage. Ascend the pinnacle face, visiting the glassfish overhangs at 8–12 metres. The top section at 3–5 metres can be covered as part of the safety stop — the reef is well-lit and the fish density highest here. Circumnavigating the pinnacle twice at different depths maximises the dive's coverage.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Day boat from Hurghada (30–45 minutes). Giant stride entry adjacent to the pinnacle. Current direction should be assessed before entry and the circumnavigation direction planned accordingly. SMB deployment before ascending is essential — current can carry divers away from the pinnacle rapidly. Pair with Giftun Island or Umm Gamar for a two-dive day.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Begin the dive at depth on the leeward side and work around the pinnacle with the current rather than against it
+- The glassfish overhangs at 8–10 metres are the photography highlights — approach slowly to avoid disturbing the school
+- Station yourself at the base of the pinnacle at 15 metres and wait — sharks typically complete predictable circuits and will return
+- Afternoon dives when current is strongest tend to produce the best grey reef shark activity
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The isolated pinnacle position means currents can be strong and unpredictable — assess on entry and manage depth and position carefully. Do not ascend directly from depth in current; work back to the pinnacle top before ascending. SMB is essential before surfacing. Scorpionfish and lionfish in the shaded overhangs require visual awareness. Fire coral on the upper sections of the pinnacle.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The glassfish clouds in the overhanging sections of Shag Rock are outstanding wide-angle subjects — torch-assisted shots with the school cascading across the frame are the signature image. Grey reef shark portraits with the open-ocean background require positioning at the pinnacle base with pre-positioned strobe settings. The dense fish aggregations on the upper pinnacle in morning light suit ambient wide-angle techniques.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

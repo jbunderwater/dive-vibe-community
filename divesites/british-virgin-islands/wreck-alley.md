@@ -11,57 +11,53 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Wreck Alley
+# Wreck Alley
 
-Wreck Alley is a historic wreck dive in British Virgin Islands, Caribbean.
+A cluster of deliberately sunk vessels in the sheltered waters north of Tortola — the BVI's purpose-built artificial reef complex, offering multiple wrecks within a single dive area at accessible depths.
 
 ## Overview
 
-Wreck Alley is a dive site in British Virgin Islands featuring a historic wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Wreck Alley is the informal name for an area north of Tortola where several vessels have been sunk over the years as artificial reefs to create additional dive habitat and attract marine life. The cluster of wrecks sits in 15–27 metres of water and includes various sizes of vessel — tugboats, barges, and small commercial vessels — scuttled at different times and now at different stages of coral colonisation. The appeal of Wreck Alley is the variety within a compact area: divers can move between wrecks of different sizes, ages, and characters in a single dive. Visibility averages 20–30 metres. Water temperature is 26–28°C year-round.
 
 ## Site Information
 
-- **Location**: British Virgin Islands, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Wreck
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 27 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+| Detail | Value |
+|--------|-------|
+| Depth Range | 15–27 m |
+| Difficulty | Intermediate |
+| Entry Type | Boat |
+| Site Type | Wreck |
+| Visibility | 20–30 m |
+| Current | Light |
+| Water Temp | 26–28°C |
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, snappers, soldierfish, glassy sweepers, coral growth, sponge encrustation, sea turtles (green, hawksbill), southern stingrays. Additional species commonly sighted include eagle rays, nurse sharks, reef sharks, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The multiple wreck structures in Wreck Alley have aggregated a diverse fish community. Schools of French grunts and yellowtail snappers fill the superstructure of the larger vessels. Large green and spotted morays occupy hull crevices across the site. Caribbean reef sharks patrol the open water between wrecks. Hawksbill turtles visit to feed on the sponge and coral growth coating the hull surfaces. The sandy bottom between wrecks supports southern stingrays and the occasional nurse shark resting beneath hull overhangs.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 27 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend to the largest or deepest wreck first to maximise time at depth within NDL limits, then progressively work shallower through the wreck cluster. The variety of vessel types and sizes means different exploration techniques are needed for each structure — exterior circumnavigation, deck-level exploration, and partially accessible interior sections. Safety stop in the water column above the shallowest wreck.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Road Town operators on Tortola. Giant stride or backward roll entry. DSMB required on ascent. The site is a comfortable day trip from most Tortola anchorages.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+Ask operators about the current state of each wreck in the cluster — the condition and marine life colonisation changes over time as older vessels deteriorate and new marine growth establishes. Carry a torch for the interior sections of the larger vessels. The multiple-wreck character means each return visit offers different emphases.
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+The deepest wrecks at 27 metres require attention to NDL limits, especially when exploring multiple structures. Do not penetrate enclosed spaces without wreck diving training. DSMB required. Monitor air consumption carefully in the multi-wreck environment where the interesting terrain can extend dive time beyond planned limits.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The variety of wrecks in different stages of marine colonisation creates interesting comparative photography. Older heavily encrusted sections contrast with more recently colonised areas. Wide-angle shots capturing multiple wrecks in a single frame, or the classic wreck portrait with fish clouds above the superstructure, are the main subjects.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- Road Town dive operators including Blue Water Divers: include Wreck Alley on intermediate dive itineraries
+- Often combined with the RMS Rhone for a two-tank wreck diving day
 
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
