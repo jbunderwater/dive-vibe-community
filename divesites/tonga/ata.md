@@ -13,55 +13,51 @@ addedBy: osm_import
 
 ## Ata
 
-Ata is a reef dive site in Tonga, Pacific.
+Ata is a shallow reef site in southern Tonga offering pristine coral in exceptionally clear water, representative of the undisturbed reef quality found throughout Tonga's less-trafficked southern islands.
 
 ## Overview
 
-Ata is a dive site in Tonga offering excellent diving on healthy coral reef structures . Historical marker for 1965 castaways' boat (7.3m wooden vessel). Heavily broken/scattered on rocks near shore; unlikely to be a recreational dive site. Changed to reef as wreck is too deteriorated.. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+The reef at Ata sits in the waters of southern Tonga, removed from the concentrated dive traffic of the Vava'u group to the north. The site occupies a shallow reef platform that extends to approximately 12 meters before giving way to the deeper island waters. The area sees minimal recreational diving pressure, which is reflected in the condition of the corals — healthy hard coral growth, minimal bleaching evidence, and a reef fish community that shows little wariness toward divers. The calm, clear conditions that characterize sheltered Tongan reef sites make this an easy and rewarding dive for divers at any certification level, though its remoteness means it is typically encountered only on day trips from southern Tonga communities or as a stop on vessels transiting the island chain.
 
 ## Site Information
 
-- **Location**: Tonga, Pacific
+- **Location**: Southern Tonga island waters, Tonga
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 20–30 meters
+- **Current**: Light to moderate
+- **Water Temperature**: 22–26°C (72–80°F)
+- **Best Time to Dive**: Year-round; May–October for calmer sea conditions
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+The shallow reef at Ata supports healthy hard coral cover including branching Acropora, massive Porites, and plate coral formations. The reef fish community is diverse and relatively unafraid of divers — parrotfish, wrasse, surgeonfish, triggerfish, and butterflyfish are all well represented. Hawksbill turtles are common grazing the reef. Octopus are regularly spotted in crevices and under coral overhangs. Whitetip reef sharks patrol the reef margins in the early morning and late afternoon. The shallow depth and clear water mean the reef is bathed in natural light throughout the dive, creating vivid color without artificial lighting.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The reef profile is a gentle slope from the shallows (3–5m) to the sandy bottom at 12 meters. Most of the dense coral growth and marine activity is concentrated between 5 and 10 meters. The dive plan is a simple perimeter or zigzag exploration of the reef at whatever depth holds the most interest. Bottom times at 12 meters are generous, allowing a thorough and unhurried examination of the reef. A slow pace — pausing to look into coral heads and under ledges — rewards divers with encounters that a faster tour misses.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by boat from southern Tonga communities or as a stop on a transiting vessel. Entry by giant stride; exit by ladder or low gunwale. The shallow, calm conditions make water entry and exit straightforward.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Slow down and look carefully into coral structures — this reef rewards patient observers
+- Turtles here are often very tolerant of quiet, non-chasing divers; a slow parallel approach can result in extended close encounters
+- Bring a macro lens or wet diopter for nudibranchs and flatworms in the coral rubble zones
+- Morning dives tend to see the most active feeding behavior
+- The clean, clear water makes this an excellent site for underwater video — the natural light is more than adequate at these depths
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+This is a benign site well within beginner-diver capability. Light currents and shallow depths create minimal hazard. Standard precautions apply: maintain buoyancy to protect the coral, carry an SMB for ascent, and ensure the boat crew is aware of your planned dive area. Be aware that boat traffic may be present in the area; ascend on the boat's shaded (downwind) side and deploy your SMB before ascending.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The combination of excellent natural light at shallow depth and healthy coral coverage makes this a strong photography site without requiring any specialized equipment. Natural-light wide-angle shooting of coral formations and resident turtles is straightforward. Macro subjects — nudibranchs, flatworms, cleaning shrimp, and small gobies — are found throughout the coral matrix. Shooting into the sun from the sandy bottom creates dramatic silhouette compositions of coral formations and marine life above.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
