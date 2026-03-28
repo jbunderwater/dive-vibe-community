@@ -11,7 +11,7 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Underwater Sculpture Park
+# Underwater Sculpture Park
 
 Grenada's Underwater Sculpture Park is one of the most celebrated dive destinations in the Caribbean — an internationally recognised public art installation by British sculptor Jason deCaires Taylor, where over 65 life-size sculptures rest on the seafloor of Moliniere Bay, slowly being colonised by coral and becoming part of the living reef.
 
@@ -21,14 +21,15 @@ Created in 2006, the sculpture park has become Grenada's most iconic dive attrac
 
 ## Site Information
 
-- **Location**: Moliniere Bay, north of St. George's, Grenada
-- **Entry Type**: Boat dive
-- **Site Type**: Artificial reef / underwater sculpture park
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 8 meters
-- **Typical Visibility**: 15–25 meters
-- **Current**: Very mild; well-sheltered bay
-- **Best Time**: Year-round
+| Detail | Value |
+|--------|-------|
+| Depth Range | 3–8 m |
+| Difficulty | Beginner |
+| Entry Type | Boat |
+| Site Type | Reef |
+| Visibility | 15–25 m |
+| Current | Very mild |
+| Water Temp | 26–28°C |
 
 ## Marine Life
 

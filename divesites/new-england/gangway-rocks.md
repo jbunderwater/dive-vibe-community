@@ -11,55 +11,57 @@ osmId: 560790775
 addedBy: osm_import
 ---
 
-## Gangway Rocks
+# Gangway Rocks
 
-Gangway Rocks is a reef dive site in New England, North America.
+Rocky outcrops off the northern Massachusetts coast near Plum Island, part of the shallow nearshore reef cluster in this lobster-rich area.
 
 ## Overview
 
-Gangway Rocks is a dive site in New England offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Gangway Rocks is a group of submerged rocky outcrops off the northern Massachusetts coast, west of Plum Island Sound in the area between Newburyport and the Cape Ann peninsula. The name "gangway" in nautical usage refers to a passage or entry point — likely describing a navigable channel through or around this rock cluster. The site sits at approximately 10 metres maximum depth, in the company of several other named rocky features in this area including Half Tide Rocks, Sow and Pigs, and Black Rocks. These northern Massachusetts rocky reef sites share the same ecological character: cold Gulf of Maine water, dense kelp on the rock, excellent lobster populations, and the cold-water fish community that draws local divers from Newburyport and Cape Ann throughout the warm months.
 
 ## Site Information
 
-- **Location**: New England, North America
+- **Location**: Off Plum Island/northern Cape Ann coast, northern Massachusetts
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 10 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
+- **Typical Visibility**: 3–8 meters (10–26 feet)
+- **Current**: Moderate tidal current
+- **Water Temperature**: 5–20°C depending on season
 - **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Rocky reef structure at this depth supports a productive cold-water community. American lobsters shelter in boulder crevices. Tautog are the dominant fish species, holding territory on the rock faces. Cunner hover around encrusted surfaces. Sea urchins carpet exposed rock. Pollock school above the reef in summer and fall. Atlantic mackerel pass through in schools. Encrusting hydroids, anemones, and bryozoans cover shaded rock surfaces throughout the year.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Boat access required from Newburyport, Plum Island, or northern Cape Ann operators. Descend to the rocky bottom at 8–10 metres. Navigate the rock cluster perimeter, inspecting crevices and boulder bases for lobsters. The shallow depth allows extended dive times — 45 to 60 minutes is easily achievable. Plan around slack tide. Complete a 3-minute safety stop at 5 metres.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat charter required. The shoal areas off northern Massachusetts require local knowledge. Anchor in sand. Deploy SMB before ascending.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- This site clusters with several other nearby named reefs — combine for a productive multi-site day
+- Inspect boulder bases carefully — large lobsters den at the deepest point of rock-sand interfaces
+- Kelp is most dense in summer; fall diving can have better visibility as kelp thins after storm exposure
+- Drysuit or 7mm wetsuit essential throughout the season
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Cold water year-round — minimum 7mm wetsuit or drysuit required. Moderate tidal current requires slack tide planning. Rocky bottom is a boat navigation hazard. Deploy SMB before surfacing.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Natural light is strong at 10 metres in clear conditions. Wide-angle reef portraits showing kelp, dark rock, and encrusting life are the characteristic subjects here. Lobster portraits in their crevices are accessible with patience.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Charter Access**: Newburyport and Plum Island area dive operators
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

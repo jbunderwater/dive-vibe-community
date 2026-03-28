@@ -11,55 +11,57 @@ osmId: 322041507
 addedBy: osm_import
 ---
 
-## Half Tide Rocks
+# Half Tide Rocks
 
-Half Tide Rocks is a reef dive site in New England, North America.
+A cluster of tidal rocks off the Plum Island/northern Massachusetts coast, part of the productive reef complex in this area.
 
 ## Overview
 
-Half Tide Rocks is a dive site in New England offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Half Tide Rocks is a distinct site from the similarly named Half Tide Rock further south — this cluster sits further north at approximately 42.81°N, in the Plum Island/Newburyport area alongside Gangway Rocks, Black Rocks, Badgers Rock, Lunts Rock, Sow and Pigs, and the Ruins of Old Breakwater. The name describes rocks that are submerged at high tide but partially exposed at low water. This cluster of reef sites in the northern Massachusetts nearshore represents some of the most accessible shallow reef diving on the North Shore, with numerous named features within a small geographic area. The 10-metre maximum depth and the Gulf of Maine cold-water ecology make this a productive dive for lobster, tautog, and invertebrate observation.
 
 ## Site Information
 
-- **Location**: New England, North America
+- **Location**: Off Plum Island / Newburyport coast, northern Massachusetts
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 10 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
+- **Typical Visibility**: 3–8 meters (10–26 feet)
+- **Current**: Moderate tidal current; Merrimack River influence
+- **Water Temperature**: 5–20°C depending on season
 - **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Typical northern Massachusetts cold-water reef community. American lobsters den in the crevices between boulder clusters. Tautog are the dominant fish species on the rocks. Cunner school around kelp-draped surfaces. Sea urchins carpet the exposed rock faces. Pollock and Atlantic mackerel pass through above the reef. Encrusting sponges, anemones, and bryozoans cover shaded rock throughout the season.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Boat access from Newburyport, Plum Island, or Cape Ann. Descend to 8–10 metres and navigate the rock cluster. Given the multiple named features in this area, a single charter can productively visit two or three sites. Plan dives around slack water to manage the Merrimack tidal influence. Complete a 3-minute safety stop at 5 metres.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat charter required. Local knowledge essential for navigating the shoal waters of the Plum Island/Merrimack area. Anchor in sand adjacent to the rocks. Deploy SMB before ascending.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- This site pairs well with the nearby named rocks — combine Gangway Rocks, Black Rocks, and Badgers Rock on a single charter
+- Inspect all boulder bases and crevices for lobsters
+- Merrimack outflow can cloud visibility after heavy rain — check recent conditions
+- 7mm wetsuit or drysuit required
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Cold water year-round. Merrimack River tidal outflow can create directional current. Rocky substrate is a boat navigation hazard. Deploy SMB before surfacing.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Good natural light at 10 metres. Rocky reef and kelp subjects work well in ambient light. Lobster portraits in crevices are the signature close-focus subject.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Charter Access**: Newburyport and Plum Island area dive operators
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

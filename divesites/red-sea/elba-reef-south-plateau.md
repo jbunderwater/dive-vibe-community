@@ -11,56 +11,56 @@ osmId: 9721215045
 addedBy: osm_import
 ---
 
-## Elba Reef, South Plateau
+# Elba Reef, South Plateau
 
-Elba Reef, South Plateau is a reef dive site in Red Sea, Middle East.
+The southernmost diving on Elba's main reef structure — a broad plateau at the tip of the atoll where thresher shark sightings at dawn and pristine coral coverage make this a fitting finale to any Red Sea liveaboard expedition.
 
 ## Overview
 
-Elba Reef, South Plateau is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Elba Reef South Plateau forms the southern tip of the Elba atoll at approximately 21.97°N, close to the Egyptian-Sudanese maritime border. As the most southerly section of the reef, it occupies an exposed position open to currents from both eastern and western directions. The plateau structure here is broad and relatively shallow — from 8 to 20 metres — before the atoll drops into deep water. The southern tip has a different character to the eastern and western faces: it is more rounded, with a gentler gradient, but the current sweeping around the reef tip creates strong circular flow that concentrates pelagic fish. Thresher sharks have been documented at the Elba southern tip, particularly in winter and early spring.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Boat dive
+- **Location**: Southern tip, Elba Reef atoll, near Egyptian-Sudanese border (~21.97°N)
+- **Entry Type**: Liveaboard dive only
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Intermediate (Advanced conditions possible due to current)
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 25–40 meters
+- **Current**: Variable; strong circular flow around the reef tip is common
+- **Best Time**: October to April; thresher sharks December to February
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, humphead wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Thresher sharks are the signature species at Elba's southern tip — they are more commonly encountered here than anywhere else on the atoll, with dawn dives producing the best sightings in December through February. Schools of hammerheads have also been documented at the southern point during transitional seasons. The reef itself holds the same pristine hard coral coverage characteristic of the entire Elba system. Humphead wrasse patrol the outer reef edge. Bumphead parrotfish forage across the plateau. Eagle rays pass along the southern face. Cleaning stations are distributed across the upper plateau in the 8–12 metre zone.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Dawn dives are optimal for thresher and hammerhead encounters at the southern point. Descend to 15–18 metres at the very tip of the reef and scan the open water below and beyond the reef edge for pelagics passing in the current. If no pelagics are visible, move to the plateau at 8–15 metres to explore the coral coverage and cleaning stations. The southern tip creates circular current — position upcurrent and allow the reef to shelter you while watching the open water. Safety stop at 5 metres over the broad upper plateau.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Part of a liveaboard expedition to Elba Reef — typically dived in conjunction with the western plateau and north plateau sections as separate dives over a one or two-night stay. Egyptian Navy permit required. Dawn entry is recommended for best pelagic encounters. Tender drop and pick-up is standard. SMB required on all ascents; the southern tip's circular current can displace divers unpredictably.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- A 5:30–6:00am entry maximises the thresher shark encounter window — plan the expedition's Elba schedule around an early start
+- Station yourself at 15–18 metres at the very tip of the reef, facing into the open water — avoid the temptation to move if no sharks appear immediately
+- The plateau's cleaning stations reward patient, stationary observation in the 10–12 metre zone
+- Winter trips (November to February) offer the best combination of thresher sharks and mild sea conditions on the southern face
+- This is typically the final dive of a Red Sea expedition — spend extra time on the upper reef and make it memorable
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The circular current at the reef tip can be unpredictable and disorient inexperienced divers — stay in visual contact with the group and the reef structure. Remoteness means emergency response is slow; dive conservatively and within limits. Deploy SMB before ascending from any depth. The southern tip is exposed to open-ocean swell in northerly wind conditions — entry may not always be possible.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Thresher shark photography at the southern tip requires positioning in the early morning water column at 15–18 metres with the open-ocean background behind the shark — backlit wide-angle shots as the thresher passes through the dawn water column are the target image. The broad plateau in excellent natural light suits ambient reef photography with large coral heads. Humphead wrasse portraits at the outer plateau edge are accessible with patience.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

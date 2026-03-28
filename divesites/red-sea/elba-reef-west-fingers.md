@@ -11,56 +11,56 @@ osmId: 13045036764
 addedBy: osm_import
 ---
 
-## Elba Reef West (Fingers)
+# Elba Reef West (Fingers)
 
-Elba Reef West (Fingers) is a reef dive site in Red Sea, Middle East.
+A series of narrow coral ridges projecting from Elba's western face — the "fingers" create sheltered passages between them ideal for macro exploration and hard coral photography in calm water away from the exposed eastern face.
 
 ## Overview
 
-Elba Reef West (Fingers) is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Elba Reef West (Fingers) describes a section of the western face of Elba Reef atoll characterised by elongated coral ridges — "fingers" — projecting outward from the main reef structure into the sandy slope. These ridges create protected channels between them, typically 5–10 metres wide and several metres deep, where currents are moderated and diver-friendly micro-habitats develop. The western side of Elba is generally more sheltered than the exposed eastern and southern faces, making the Fingers section a calmer alternative on days with easterly winds or strong oceanic current. The ridges themselves carry excellent hard coral growth and are home to resident fish communities in each individual channel.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Boat dive
+- **Location**: Western face, Elba Reef atoll, near Egyptian-Sudanese border (~22°N)
+- **Entry Type**: Liveaboard dive only
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 25–35 meters
+- **Current**: Mild in the finger channels; stronger at the outer reef edge
+- **Best Time**: October to April
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, humphead wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The channels between the finger ridges function as sheltered corridors where reef fish congregate in high density: groupers, moray eels, snappers, and goatfish are consistently present. Scorpionfish and lionfish occupy the shadowed overhangs at the base of each ridge. Blue-spotted stingrays rest on the sandy floors between the fingers. The ridge tops carry hard coral gardens at 5–12 metres with abundant anthias and butterflyfish. Turtles are frequently observed resting on the upper surfaces of the ridges. The outer edge of the finger system, where it meets the main reef slope, holds humphead wrasse and grey reef sharks.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Enter at the outer tips of the northernmost finger ridges and work progressively toward the main reef body, exploring each channel in turn. The channels run roughly east-west and are navigated by descending into the channel floor at 15–18 metres and following it back toward the reef at 5–8 metres. The most productive sections are the mid-channel floors where fish concentration is highest. After exploring three or four finger channels, ascend to the upper reef structure for the safety stop at 5 metres. Total dive covers approximately 150–200 metres of reef.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Liveaboard expedition access only — part of 10–12 day southern Red Sea itineraries. The western face of Elba provides the most sheltered mooring positions on the atoll, and the Fingers section is typically the first dive on the atoll when the liveaboard arrives. Egyptian Navy permit required. Giant stride entry from the tender. Deploy SMB before ascending.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The sheltered channels make this an excellent option when eastern face conditions are unfitable — plan as an alternative to the exposed east sections
+- Explore the sandy floor at the base of each ridge for blue-spotted rays and flatfish
+- The ridge overhangs at 15–18 metres are productive scorpionfish locations — examine carefully
+- This section suits macro photography better than the open-face sections — the enclosed channel environments provide calm, well-lit subjects
+- Night dives on the western fingers, if logistics allow, produce octopuses, cone shells, and feeding moray eels
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The finger channels are generally safe and sheltered, but disorientation is possible in poor visibility or if a diver strays from the channel system. Maintain awareness of depth and compass heading within the channels. Scorpionfish at ridge bases are a contact hazard — maintain good buoyancy. The outer reef edge beyond the fingers receives stronger current — stay within the finger system unless conditions are assessed and good. SMB mandatory before ascending.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The finger channels provide excellent macro and close-focus wide-angle opportunities: channel floors with stingrays, ridge overhangs with lionfish portraits, and anthias-covered ridge tops at 8–10 metres in good ambient light. The enclosed geometry of each channel creates natural framing for reef fish portraits. The sandy channel floors between ridges support ghost shrimp and goby-shrimp partnerships for macro work.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

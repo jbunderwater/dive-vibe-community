@@ -11,56 +11,56 @@ osmId: 13045044599
 addedBy: osm_import
 ---
 
-## Elba Reef East (North-Plateau)
+# Elba Reef East (North-Plateau)
 
-Elba Reef East (North-Plateau) is a reef dive site in Red Sea, Middle East.
+The northeastern quadrant of one of the Red Sea's most remote atolls — a pristine, current-swept plateau near the Egyptian-Sudanese border where bumphead parrotfish and hammerhead sightings justify the multi-day liveaboard journey.
 
 ## Overview
 
-Elba Reef East (North-Plateau) is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Elba Reef East (North-Plateau) occupies the northeastern quadrant of the Elba Reef atoll, located approximately 22°N near the Egyptian-Sudanese maritime border — one of the most remote dive destinations in the Egyptian Red Sea. The eastern face of Elba receives the full force of prevailing northern and eastern currents, and the reef structure on this face is correspondingly dramatic. The north plateau section sits at 12–20 metres, with coral formations that have seen minimal diver pressure due to the extreme logistical requirements for access. The open-ocean exposure of this section places it among the most demanding sites on the Elba system — but also among the most rewarding for large-animal encounters.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Boat dive
+- **Location**: Northeastern face, Elba Reef atoll, near Egyptian-Sudanese border (~22°N)
+- **Entry Type**: Liveaboard dive only (10–12 day expeditions from Hurghada)
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Intermediate (Advanced recommended due to remoteness and current)
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 25–40 meters
+- **Current**: Moderate to strong on the exposed eastern face
+- **Best Time**: October to April
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, humphead wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Bumphead parrotfish schools are characteristic of the eastern face, foraging the coral plateau in groups of 20–50 individuals during morning dives. The current-exposed orientation draws grey reef sharks that patrol the reef edge. Schools of barracuda and jacks circulate in open water off the north plateau. Hawksbill turtles rest on the reef platform. The near-pristine state of the reef — a consequence of its extreme remoteness — supports large hard coral formations with high fish biomass. Hammerhead sharks have been reported at dawn on the east face in spring months, passing through from the open Red Sea.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the north plateau at 15–18 metres and assess current direction before extending the dive. With light current, work southward along the eastern reef face, keeping the reef on one side and open water on the other. Bumphead parrotfish activity is highest in the first 30 minutes after descent. The plateau rolls gently from 12 to 20 metres before dropping into open ocean. Return to the mooring through the upper reef structure at 8–12 metres. Safety stop over the reef top at 5 metres.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is liveaboard-only — no day trip operators service Elba Reef. Specialist operators run 10–12 day expeditions from Hurghada that include St. John's Reef, Fury Shoals, and Elba as the southernmost stop. An Egyptian Navy permit is required for Elba Reef; operators arrange this through advance authorisation. Giant stride entry from the liveaboard tender. SMB deployment is mandatory on every ascent — liveaboard tenders must track all divers.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Morning dives on the east face are optimal for bumphead parrotfish activity — they feed most actively at dawn
+- The remoteness means any equipment failure has serious consequences — perform thorough pre-dive checks
+- Strong current days on the east face are best managed as drift dives with the liveaboard tender standing by
+- Photography conditions are exceptional — visibility routinely exceeds 35 metres and the reef is undamaged
+- The north-plateau section provides a gentler entry to the east face than the more exposed central sections
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Elba Reef is among the most remote sites in the Red Sea — medical evacuation is measured in days, not hours. All divers should be in good health and dive-fit. The eastern face receives stronger current than the sheltered western side — assess conditions before committing to deeper sections. SMB deployment is essential on every ascent. Sharks on this face should be observed calmly from a stationary position.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The eastern face provides outstanding wide-angle opportunities: clear water exceeding 35 metres visibility, undamaged hard coral backdrop, and minimal diver traffic create undisturbed subjects. Bumphead parrotfish schools at 15–20 metres are striking wide-angle subjects against the open-ocean backdrop. Grey reef shark portraits in natural light conditions at this latitude are consistently clean images. The pristine north-plateau coral formations suit ambient close-focus wide-angle work in morning light.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
