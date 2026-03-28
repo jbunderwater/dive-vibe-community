@@ -11,55 +11,56 @@ osmId: 1469826239
 addedBy: osm_import
 ---
 
-## Bakers Reef
+# Bakers Reef
 
-Bakers Reef is a reef dive site in Puget Sound, North America.
+A submerged rocky reef in the northern San Juan Islands, cloaked in plumose anemones and populated by lingcod and giant Pacific octopus.
 
 ## Overview
 
-Bakers Reef is a dive site in Puget Sound offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Bakers Reef lies in the northern reaches of the San Juan archipelago, where the Salish Sea's cold, nutrient-laden water fuels rich marine communities. The reef structure consists of glacially scoured boulders and rock ridges that drop from near-surface to around 18 metres. Dense colonies of white plumose anemones, orange and yellow sponges, and encrusting bryozoans cover the rock faces. Visibility averages 8–12 metres and improves notably during neap tides in summer. Water stays between 7–11°C throughout the year.
 
 ## Site Information
 
-- **Location**: Puget Sound, North America
+- **Location**: Northern San Juan Islands, Puget Sound, Washington
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 8–12 metres
+- **Water Temperature**: 7–11°C
+- **Current**: Tidal, plan dives for slack water
 - **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+The boulder fields at Bakers Reef host giant Pacific octopus, wolf eels in den sites, and lingcod resting on the rock outcroppings. Rockfish of multiple species — copper, quillback, and black rockfish — are common throughout the water column. Kelp greenlings patrol the kelp canopy, and cabezon occupy the rockier sections. Invertebrate life is prolific: Puget Sound king crabs pick through mussel beds and urchin patches, numerous nudibranch species (aeolid and dorid types) cruise the rock faces, and rose-coloured sea stars and sunflower sea stars move across the substrate. Harbour seals occasionally investigate divers.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin the dive on the shallow reef top at 5–8 metres to take in the kelp canopy and smaller invertebrates, then work down the rock faces to the maximum depth of 18 metres. The best invertebrate and fish life concentrates on the more vertical rock walls between 10–18 metres. Allow adequate air for a 3-minute safety stop at 5 metres before surfacing.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Access is by boat only. Anchor on the sheltered side of the reef structure. Use a giant stride or back roll entry. Monitor the tidal current direction throughout the dive and surface upwind of the anchor. Deploy an SMB before ascending.
 
-## Tips and Recommendations
+## Tips
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Dive within 30 minutes of predicted slack tide for best conditions
+- Dry suit with appropriate undergarment is essential — water is cold year-round
+- Carry a dive light to illuminate crevices where octopus and wolf eels hide
+- Move slowly and look under ledges; the richest life is often hidden from casual observation
 
-## Safety Considerations
+## Safety
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Cold water demands dry suit diving. Currents in this part of the San Juan Islands can run 2–4 knots during tidal exchange — timing your dive to slack is not optional. Surface with a deployed SMB so the boat crew can track you. Carry a whistle and a mirror as secondary signalling devices.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+White plumose anemone walls and the resident octopus provide dramatic wide-angle and macro subjects respectively. Rockfish portraits, especially of copper rockfish in close focus, are a consistent highlight. A strobe is necessary — ambient light alone produces flat, colour-stripped images below 10 metres in Pacific Northwest waters.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

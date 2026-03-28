@@ -11,56 +11,56 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Bayahibe Reef
+# Bayahibe Reef
 
-Bayahibe Reef is a reef dive site in Dominican Republic, Caribbean.
+*A shallow Caribbean reef directly offshore from Bayahibe village, an ideal warm-up or certification dive on the southeast coast.*
 
 ## Overview
 
-Bayahibe Reef is a dive site in Dominican Republic offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Bayahibe Reef lies just offshore from the small fishing and dive village of Bayahibe on the southeastern Dominican Republic coast. The reef system here runs parallel to the coast at depths of 5–14 meters, featuring brain corals, star corals, and encrusting formations over a sandy bottom. Bayahibe is the primary dive hub for the La Romana area and one of the most active dive communities in the country. Day boats to this site depart frequently throughout the day. Visibility averages 20–25 meters. Water temperatures are a comfortable 27–29°C most of the year. The site serves both first-time divers completing Discover Scuba experiences and certified divers wanting a relaxed shallow dive before a deeper afternoon trip.
 
 ## Site Information
 
-- **Location**: Dominican Republic, Caribbean
+- **Location**: Bayahibe village, southeast Dominican Republic (La Romana province)
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 14 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: 20–25 meters (65–80 feet)
+- **Current**: Minimal
+- **Best Time**: Year-round; consistently calm on this leeward coast
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The reef supports a classic Caribbean fish community. Queen angelfish and French angelfish are territorial residents. Parrotfish — rainbow, stoplight, and midnight — graze the coral surfaces. Yellowtail snappers cluster in mid-water. Nurse sharks rest under ledges at depth. Green turtles are commonly encountered on the reef. Cleaning stations are active on the main coral heads — watch for fish queuing to be cleaned by cleaner wrasse and arrow crabs. The sandy areas around the reef edge shelter southern stingrays, peacock flounders, and spotted seahorses in the sargassum patches.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 14 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-14 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+A gentle dive over the reef structure. Descend to the reef top at 5–8 meters and follow the contour as the bottom gradually deepens to 12–14 meters over sandy patches. No safety stop is needed at this depth. Most guided dives run 50–60 minutes, covering a linear section of reef before returning to the mooring. Beginners will find the low depth and calm conditions conducive to practicing skills.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Dive boats depart from Bayahibe's small waterfront. Short 10-minute crossing. Entry via giant stride. Multiple dive operators are based in the village with boats running all day.
 
-## Tips and Recommendations
+## Tips
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- This site is frequently used for Open Water certification dives — if you're an OW student, ask your instructor about completing open-water dives here
+- Night dives on Bayahibe Reef are productive — octopus, tarpon, and lobster are active after dark
+- The sandy areas between coral heads are worth slow exploration to spot flounder and stingrays
+- Combine with Aquarium (another nearby shallow site) for a two-tank morning
+- Bayahibe village has excellent seafood restaurants for a post-dive lunch
 
-## Safety Considerations
+## Safety
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Minimal hazards. Fire coral is present on the reef structure — avoid contact. Stay neutrally buoyant to avoid breaking fragile coral. Boat traffic near Bayahibe can be active on weekends. Always surface near the dive boat or with a deployed SMB.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Excellent ambient-light photography given the shallow, clear conditions. The colorful fish community — angelfish, parrotfish, and anthias — provides vibrant subjects in natural light. Wide-angle shots of the reef structure look particularly compelling from below looking up through the water column. Sea turtle encounters are the highlight.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

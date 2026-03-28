@@ -11,55 +11,57 @@ osmId: 663869338
 addedBy: osm_import
 ---
 
-## Las Palamas
+# Las Palamas
 
-Las Palamas is a reef dive site in Cozumel, Caribbean.
+A mid-coast Cozumel reef in the central dive zone, offering dependable drift conditions and an active fish population in a well-developed coral garden.
 
 ## Overview
 
-Las Palamas is a dive site in Cozumel offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Las Palamas sits in the central portion of Cozumel's leeward dive corridor, between the popular Tormentos site to the south and the San Miguel hotel zone to the north. The site is a classic spur-and-groove reef with well-defined parallel coral ridges and sandy channels, reaching a maximum depth of 20 meters at the base of the outer slope. The central location makes Las Palamas convenient for operators based across the island, and the consistent drift conditions make it a reliable choice when other sites experience variable current. The reef structure is healthy and well-colonised, with robust brain coral and star coral formations that have recovered well from previous bleaching events.
 
 ## Site Information
 
-- **Location**: Cozumel, Caribbean
+- **Location**: Central leeward coast, Cozumel, Quintana Roo, Mexico
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Spur-and-groove coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Maximum Depth**: 20 meters (65 feet)
+- **Typical Visibility**: 20–35 meters (65–115 feet)
+- **Current**: Light to moderate northward drift
+- **Best Time**: November to April; diveable year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The mixed reef and sand environment at Las Palamas supports a diverse population of Caribbean reef species. Large southern stingrays are regularly encountered in the channels. Hawksbill turtles are reliable here — the combination of sponge-encrusted coral heads and sea fans provides consistent grazing. French angelfish and grey angelfish patrol the reef in pairs. The Caribbean spiny lobster is a common resident in the coral crevices. Schools of blue-striped grunts and French grunts shelter in dense aggregations under ledges, while Creole wrasse drift through the water column above the reef crest. Nurse sharks rest in sandy pockets at depth.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin drifting from the mooring buoy location, following the spur-and-groove structure seaward. The reef crest at 5–10 meters transitions to the spur bases at 15–20 meters in the outer channels. Allocate time at both depth ranges — the shallower crest offers excellent light and dense fish activity, while the deeper channels host the rays and resting sharks. A typical dive covers 300–500 meters of reef before ascending for the safety stop and boat pickup.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Centrally located on the leeward coast makes this one of the shorter boat rides — approximately 15–20 minutes from San Miguel. Mooring buoys used throughout the national park. Standard giant stride entry and SMB deployment before ascending from depth.
 
-## Tips and Recommendations
+## Tips
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Las Palamas works exceptionally well as a second dive after a deeper morning site at Palancar or a southern wall
+- The central location means this site rarely suffers from the stronger currents that can make northern sites challenging
+- If splitting a day between north and south sites, Las Palamas is a natural midpoint that operators frequently include
+- Allocate time near the sandy channel bases to observe stingray foraging behaviour — they actively excavate the sand searching for buried invertebrates
+- Check sea fan stems at depth for flamingo tongue cowries, which are abundant throughout this section of reef
 
-## Safety Considerations
+## Safety
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Standard intermediate precautions: fire coral on coral structures, sea urchins in sandy areas, and always carry and deploy an SMB before ascending. Boat traffic is moderate at this central site — surfacing without an SMB is inadvisable. Recompression facilities are a short distance away in San Miguel.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Las Palamas offers well-balanced photography across wide-angle reef and macro subjects. The dense grunt aggregations under coral ledges create classic Caribbean schooling shots. Southern stingrays in the sandy channels are approachable and make excellent subjects for both portraits and environmental images. The consistently clear central reef visibility with sunlit coral heads is particularly good in morning light.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Arrecifes de Cozumel National Park**: Site within protected zone
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

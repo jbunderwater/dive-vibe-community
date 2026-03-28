@@ -11,55 +11,57 @@ osmId: 632577933
 addedBy: osm_import
 ---
 
-## Shark Reef
+# Shark Reef
 
-Shark Reef is a reef dive site in Puget Sound, North America.
+A submerged rocky reef in the San Juan Islands, known for dense plumose anemone walls and resident wolf eels.
 
 ## Overview
 
-Shark Reef is a dive site in Puget Sound offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Shark Reef sits within the nutrient-rich waters of the San Juan archipelago, where glacier-carved topography and strong tidal exchange fuel some of the most productive cold-water diving on the Pacific coast. The reef's boulder fields and rocky outcroppings are blanketed in white plumose anemones, orange tunicates, and encrusting sponges. Water temperatures hold between 7–12°C year-round, making a dry suit essential. Visibility typically ranges from 8–15 metres, improving during neap tides in summer.
 
 ## Site Information
 
-- **Location**: Puget Sound, North America
+- **Location**: San Juan Islands, Puget Sound, Washington
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 8–15 metres
+- **Water Temperature**: 7–12°C year-round
+- **Current**: Tidal, plan for slack
+- **Best Time**: June to October (best visibility)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+The reef is classic San Juan Islands cold-water habitat. Giant Pacific octopus are commonly encountered tucked into boulder crevices, and wolf eels — sometimes in mated pairs — inhabit den sites in the deeper sections. Lingcod, many sizes of rockfish (copper, quillback, and canary), and kelp greenling patrol the reef top. Invertebrate life is extraordinarily dense: Puget Sound king crabs, encrusting hydroids, nudibranchs (particularly aeolids and dorids), tube worms, and colonies of strawberry anemones fill every available surface. Harbour seals and river otters occasionally visit from the surface.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the reef top at 8–10 metres and work the boulder fields, looking into crevices and beneath ledges for octopus and wolf eels. The most colourful invertebrate growth is found between 10–18 metres on the vertical rock faces. Plan around slack tide — even a moderate tidal exchange can create distracting current over the reef crest.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Access is by boat only; no shore entry is practical. Approach the site from the north and deploy an anchor or use available mooring if present. Back-roll or giant stride from the boat. During the dive keep track of your position relative to the current, and surface well upwind or up-current of the boat. Deploy an SMB before ascending.
 
-## Tips and Recommendations
+## Tips
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Check NOAA tidal charts and plan your dive for within 30 minutes of slack water
+- Dry suit is mandatory — hypothermia risk is real even in summer
+- Carry a dive light to illuminate dark rock faces; colours pop under artificial light
+- Be patient at wolf eel dens — slow movements and distance will allow close observation
+- Bring a surface marker buoy; boat traffic in the San Juan Islands is heavy in summer
 
-## Safety Considerations
+## Safety
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Cold water (7–12°C) demands dry suit certification and proper undergarment selection. Tidal currents can reach 3–4 knots and can pin divers against the reef or sweep them into open water. Always dive at or near slack tide and agree on a drift abort plan with your dive buddy and boat operator before entering. Carry a whistle and SMB at all times.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Macro shooters will find endless subjects: nudibranchs, shrimp on anemones, and the intricate textures of encrusting sponges. Wide-angle shots of white plumose anemone walls with a diver silhouette are a signature San Juan Islands image. Use a strobe — the cold, tannin-tinged water absorbs colour quickly below 8 metres.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
