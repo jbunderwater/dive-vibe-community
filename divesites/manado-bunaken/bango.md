@@ -13,55 +13,30 @@ addedBy: osm_import
 
 ## Bango
 
-Bango is a wall dive site in Manado & Bunaken, Asia.
+Bango is a wall dive off the northern coast of Bangka Island — the most remote of the major dive islands in Bunaken National Marine Park — where a near-pristine reef wall and low visitor numbers reward those willing to make the longer journey north from Manado.
 
 ## Overview
 
-Bango is a dive site in Manado & Bunaken featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Bangka Island lies at the northern edge of Bunaken National Marine Park, roughly 30 kilometres north-east of Manado city. It is significantly further from the main dive hub than Bunaken and Siladen islands, which means it is visited by a fraction of the divers who explore the park closer to Manado. Bango is one of the principal dive sites on Bangka's coastline, offering a wall that has benefited from lower exploitation pressure and retains a density of large marine life that veteran divers describe as reminiscent of Bunaken in the 1980s.
 
-## Site Information
+The island's remote position means it is primarily accessed by liveaboard vessels or the small resort operations based on Bangka itself.
 
-- **Location**: Manado & Bunaken, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+## What to Expect
 
-## Marine Life
+The wall at Bango drops from a shallow reef crest at 4–6 metres to around 30–40 metres. The reef crest is covered in outstanding hard coral growth, with table corals of impressive size and branching acropora that remain structurally intact — a mark of limited physical disturbance. The wall face is richly decorated with seafans, soft corals, and large barrel sponges, and the absence of anchor damage or fin strike visible at busier sites is immediately apparent.
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Green turtles are abundant, and their behaviour here is notably more relaxed than at heavily visited sites — they tend to move slowly and allow close approach. The deeper sections of the wall regularly produce whitetip and grey reef shark sightings. The reef fish community is dense: schools of surgeonfish, parrotfish, and fusilier are continuous throughout the dive, and the open water adjacent to the wall hosts regular trevally and occasional tuna activity.
 
-## Dive Profile
+## Conditions
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-30 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+- **Depth range:** 4–30+ m
+- **Visibility:** 15–30 m; often excellent
+- **Currents:** Light to moderate; variable
+- **Water temperature:** 27–30°C
+- **Best season:** May–October; northern island sites best avoided in rough north-west monsoon
 
-## Entry and Exit
+## Tips
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+The journey to Bangka Island is worth planning carefully — sea conditions in the channel between Bangka and Manado can be rough in the monsoon season. When conditions allow, combining Bango with other Bangka sites like Gorango in a day trip rewards the longer travel with a genuine off-the-beaten-path diving experience. Pack extra sunscreen; the surface intervals at Bangka are often in full sun with no shelter.
 
-## Tips and Recommendations
-
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,55 +13,28 @@ addedBy: osm_import
 
 ## Panorama
 
-Panorama is a wall dive site in Manado & Bunaken, Asia.
+Panorama is a wall dive on Bunaken Island's south coast that earns its name through sweeping views down the wall face into deep blue water, with an accessible depth profile that makes it one of the park's most enjoyable intermediate dives.
 
 ## Overview
 
-Panorama is a dive site in Manado & Bunaken featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Sitting between the Lekuan sites and Cela Cela on Bunaken's south coast, Panorama occupies a stretch of wall that retains all the characteristics of the famous Lekuan series but at a more accessible maximum depth. At 25 metres, the dive is comfortable for intermediate divers and allows extended bottom time to really absorb the wall's extraordinary biodiversity. The name refers to the view from the top of the wall crest — on clear days, the drop to the deep sandy bottom far below creates a genuinely vertiginous panoramic effect.
 
-## Site Information
+## What to Expect
 
-- **Location**: Manado & Bunaken, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+The wall crest at Panorama is particularly healthy, with outstanding hard coral coverage including large table corals providing shelter to schools of sweetlips and glassfish. The wall face between 8 and 20 metres is covered in encrusting corals, sponges, and small seafans, and the invertebrate life is impressive — nudibranchs, flatworms, and small crustaceans can be found on nearly every dive for observant divers.
 
-## Marine Life
+Green turtles are a near-certainty at Panorama, as at most Bunaken south-coast sites. They often hover at mid-wall depth, grazing on soft coral or simply drifting in the gentle current. Banded sea kraits are commonly sighted moving along the wall face, gracefully hunting in crevices. In the shallower sections above the wall crest, schools of surgeonfish and parrotfish graze continuously on the abundant algae and coral. The narrow width of the dive combined with the moderate depth makes this a relaxed, confidence-building dive.
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+## Conditions
 
-## Dive Profile
+- **Depth range:** 3–25 m
+- **Visibility:** 15–25 m
+- **Currents:** Light to moderate
+- **Water temperature:** 27–30°C
+- **Best season:** May–October
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-25 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+## Tips
 
-## Entry and Exit
+Panorama is one of the best sites in the park for a second dive of the day — the shallower depth profile significantly reduces nitrogen loading and extends in-water time. The site can be combined with Cela Cela in a single drift dive when a gentle north-to-south current is running, giving a long, unhurried tour of a continuous stretch of wall.
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

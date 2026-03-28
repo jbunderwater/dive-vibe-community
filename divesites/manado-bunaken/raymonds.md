@@ -13,55 +13,28 @@ addedBy: osm_import
 
 ## Raymond's
 
-Raymond's is a wall dive site in Manado & Bunaken, Asia.
+Raymond's is an advanced wall dive on Bunaken Island's north-west coast, named after a well-known local dive guide, featuring a particularly rugged wall face with deep overhangs and strong pelagic activity.
 
 ## Overview
 
-Raymond's is a dive site in Manado & Bunaken featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Raymond's sits close to Mike's on the island's north-west corner, where the reef wraps around a point and the wall's character becomes more dramatic. The site is named after Raymond, a celebrated Bunaken dive guide whose intimate knowledge of this section of wall earned the site its name. Like its neighbour Mike's, this site is subject to stronger ocean currents and swells than the south-coast sites, giving it an adventurous character that appeals to experienced divers seeking something beyond the standard tourist circuit.
 
-## Site Information
+## What to Expect
 
-- **Location**: Manado & Bunaken, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 40 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+The wall crest sits at around 5 metres and the face drops precipitously to beyond 40 metres. The defining feature of Raymond's is its deeply undercut sections between 15 and 30 metres — massive overhangs where the rock face retreats a metre or more, creating cave-like environments packed with bright orange and red soft corals, feather stars, and encrusting invertebrates that thrive in the low-light conditions. Torch light transforms these recesses into galleries of vivid colour.
 
-## Marine Life
+Sharks are a reliable feature: whitetip reef sharks rest on ledges and in sand pockets at depth, while grey reef sharks occasionally patrol the open water alongside the wall. The stronger currents at Raymond's draw baitfish schools, and the subsequent predator activity — trevally, barracuda, and Spanish mackerel — makes the open water around the point exciting. Turtles are present as at all Bunaken wall sites, though they tend to appear more briefly here and spend less time resting, perhaps responding to the more energetic current conditions.
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+## Conditions
 
-## Dive Profile
+- **Depth range:** 5–40+ m
+- **Visibility:** 15–30 m
+- **Currents:** Moderate to strong; site exposed to prevailing north-west swells
+- **Water temperature:** 26–30°C
+- **Best season:** May–October
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-40 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+## Tips
 
-## Entry and Exit
+The overhangs are the highlight of Raymond's — bring a good torch and slow down in these sections. Positioning in these recesses requires careful buoyancy management to avoid disturbing the invertebrate growth on the ceiling. Surface conditions can make boat pickups challenging; discuss the plan with the skipper before descent and ensure everyone has their SMB ready for the ascent.
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

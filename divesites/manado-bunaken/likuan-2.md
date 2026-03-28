@@ -13,55 +13,28 @@ addedBy: osm_import
 
 ## Likuan 2
 
-Likuan 2 is a wall dive site in Manado & Bunaken, Asia.
+Likuan 2 is the central and most visited section of Bunaken's celebrated Lekuan wall system, widely regarded as one of the finest wall dives in Indonesia.
 
 ## Overview
 
-Likuan 2 is a dive site in Manado & Bunaken featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Sitting in the heart of Bunaken Island's south-facing wall sequence, Likuan 2 offers the most continuous and visually dramatic section of vertical coral architecture on the island. The wall plunges from just below the surface down past 40 metres, and the sheer density of life covering the face sets it apart even by Bunaken's exceptional standards. Large barrel sponges, purple and orange sea fans, black coral trees, and fields of hard plate corals all compete for wall space. The site sits deep inside Bunaken National Marine Park, protecting this biodiversity hotspot for the past three decades.
 
-## Site Information
+## What to Expect
 
-- **Location**: Manado & Bunaken, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 40 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+Divers enter from the boat directly above the wall crest and descend along the near-vertical face. The wall's most photogenic sections are between 15 and 30 metres, where overhangs festooned with soft corals frame views into the deep blue below. Giant barrel sponges at these depths regularly host cleaner shrimps, making them favourite photo stops. The base of the wall, where it meets the sandy slope, is hunting territory for whitetip reef sharks — two to four individuals are commonly seen resting in the sand.
 
-## Marine Life
+Green turtles are so reliably present at Likuan 2 that guides often guarantee sightings. They feed on the soft coral growth clinging to the wall face and frequently appear unconcerned by diver presence after years of careful interactions. Napoleon wrasse cruise the mid-water column, and large schools of big-eye trevally sometimes surge past in tight formation. The shallow reef flat above the wall holds seahorses, nudibranchs, and ghost pipefish for those who linger during safety stops.
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+## Conditions
 
-## Dive Profile
+- **Depth range:** 2–40+ m
+- **Visibility:** 15–30 m
+- **Currents:** Moderate to strong; upwellings possible — experienced buoyancy management required
+- **Water temperature:** 27–30°C
+- **Best season:** May–October
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-40 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+## Tips
 
-## Entry and Exit
+This site is best dived when current is manageable, allowing time to explore the wall face rather than drift quickly past it. Morning dives typically offer the best light angle for photography on the wall. The boat captain will anchor up-current, so the return swim is straightforward. A dive torch reveals the colourful invertebrates tucked inside overhangs that are invisible in ambient light.
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

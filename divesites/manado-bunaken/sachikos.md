@@ -13,55 +13,28 @@ addedBy: osm_import
 
 ## Sachiko's
 
-Sachiko's is a wall dive site in Manado & Bunaken, Asia.
+Sachiko's is a dramatic wall dive on Bunaken Island's north-east coast, renowned for its near-vertical drop, exceptional soft coral growth, and regular sightings of large pelagics in the blue water alongside the wall.
 
 ## Overview
 
-Sachiko's is a dive site in Manado & Bunaken featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Named after a Japanese diver who championed the site in the early days of Bunaken diving, Sachiko's sits on the island's windward side where upwellings and stronger currents feed the wall's extraordinary soft coral growth. This is considered one of Bunaken's wilder wall dives — conditions are more variable than the south-coast sites, and the wall's character is more rugged, with dramatic undercuts, deep crevices, and sections where the face is essentially vertical from the waterline to beyond recreational depth. The extra exposure is rewarded with consistently spectacular marine life in the water column.
 
-## Site Information
+## What to Expect
 
-- **Location**: Manado & Bunaken, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 40 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+The dive begins along a wall crest at 3–5 metres, then drops away sharply. Between 10 and 35 metres, the wall face is draped in soft corals in every shade of orange, yellow, and purple. Large sea fans with wingspans over a metre are embedded in the wall at multiple depths, hosting tiny pygmy seahorses that patient divers and sharp-eyed guides can locate. Barrel sponges of impressive size emerge from the wall at 20–30 metres.
 
-## Marine Life
+Sachiko's is particularly noted for its pelagic encounters. Open-water cruising by dogtooth tuna, rainbow runner, and big-eye trevally schools is common along the wall face, and Napoleon wrasse regularly appear from the blue. Whitetip reef sharks rest on ledges in the 30–40 metre range. The site's strong point is the variety it packs into a single dive: coral-encrusted wall, overhangs with invertebrate life, schooling reef fish, and open-water pelagics — all accessible without exceeding 40 metres.
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+## Conditions
 
-## Dive Profile
+- **Depth range:** 3–40+ m
+- **Visibility:** 15–30 m
+- **Currents:** Moderate to strong; site faces prevailing swells on the north-east coast
+- **Water temperature:** 27–29°C
+- **Best season:** April–October (calmer north-east coast conditions)
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-40 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+## Tips
 
-## Entry and Exit
+Sachiko's rewards divers who can hold a mid-water position without touching the wall — the soft coral formations are spectacular but extremely fragile. Surface conditions can be choppy; a negative entry directly to depth is often recommended. Guides frequently take divers past 30 metres here given the shark activity, so plan gas consumption carefully. A torch is invaluable for illuminating the coral colours that disappear in ambient light below 15 metres.
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

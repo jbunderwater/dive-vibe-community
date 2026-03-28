@@ -13,55 +13,30 @@ addedBy: osm_import
 
 ## Siladen 2
 
-Siladen 2 is a wall dive site in Manado & Bunaken, Asia.
+Siladen 2 is the eastern wall of Siladen Island, offering a distinct experience from Siladen 1 with a more open-ocean character, stronger current influence, and notably larger seafan formations on the wall face.
 
 ## Overview
 
-Siladen 2 is a dive site in Manado & Bunaken featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Siladen 2 wraps around the eastern side of Siladen Island, facing out toward the Molucca Sea rather than back toward Bunaken and Manado. This orientation exposes the wall to more direct oceanic influence, resulting in stronger and more variable currents than the sheltered western side, and correspondingly more prolific soft coral and gorgonian growth. The site offers a step up in challenge from Siladen 1 while remaining within the intermediate range in favourable conditions.
 
-## Site Information
+Like all Siladen sites, Siladen 2 benefits from lower diver traffic than the famous Bunaken Island walls, and the eastern orientation means the site receives excellent morning light — making it a popular first-of-day dive for photographers based at the Siladen resort.
 
-- **Location**: Manado & Bunaken, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 35 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+## What to Expect
 
-## Marine Life
+The wall drops from a crest at around 5 metres to 35 metres, with the most dramatic section between 15 and 30 metres where the largest gorgonian sea fans are found. These fans are visibly larger than those at the more sheltered west side of the island, reflecting the stronger current feeding them. The wall face is covered in multicoloured soft corals and crinoids that add vivid colour to wide-angle photographs.
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Siladen 2's open-ocean exposure brings more pelagic activity than the west wall: dogtooth tuna and rainbow runner regularly cruise past, and grey reef sharks are more frequently seen here than at Siladen 1. Turtles are present but tend to be more mobile given the stronger current. The shallower reef crest, however, remains calm enough to linger in — it hosts dense populations of reef fish including schools of moorish idols, anthias, and juvenile lionfish among the coral branches.
 
-## Dive Profile
+## Conditions
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-35 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+- **Depth range:** 5–35 m
+- **Visibility:** 15–30 m; excellent in calm conditions
+- **Currents:** Moderate to strong; direction and strength variable
+- **Water temperature:** 26–30°C; upwellings possible on east face
+- **Best season:** May–October
 
-## Entry and Exit
+## Tips
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Check current conditions before committing to Siladen 2 — if a strong upwelling is present on the east face, visibility can drop and the current can be difficult to manage. The west wall (Siladen 1) is a better choice on those days. When conditions are right, the combination of the seafan garden and pelagic activity makes this one of the finest intermediate wall dives in the park.
 
-## Tips and Recommendations
-
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

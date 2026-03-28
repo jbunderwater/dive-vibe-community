@@ -13,53 +13,54 @@ addedBy: osm_import
 
 ## Anita's Reef
 
-Anita's Reef is a reef dive site in Thailand Similan Islands, Asia.
+Anita's Reef is a sloping coral reef on the southern side of Island 5 in the Similan Islands National Park, Phang Nga Province, Thailand. Named after a diver — a tradition at several Similan sites where sites were informally christened by early liveaboard guides and divemasters — it is one of the Similans' most accessible intermediate dives.
 
 ## Overview
 
-Anita's Reef is a dive site in Thailand Similan Islands offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The site combines a gently sloping hard coral reef with scattered boulder formations, beginning in shallow sandy water around 5 meters and descending to a sand and rubble bottom at 28 meters. The relatively modest maximum depth and generally calm conditions on this sheltered aspect make Anita's Reef well-suited to intermediate divers building confidence, as well as to experienced divers who want a relaxed second or third dive without the commitment of a boulder or pinnacle site. Hard coral diversity is high: brain corals, lettuce corals, table Acropora, and barrel sponges share the slope. Soft coral development is moderate compared to more current-swept sites.
 
 ## Site Information
 
-- **Location**: Thailand Similan Islands, Asia
-- **Entry Type**: Liveaboard
+- **Location**: Similan Islands National Park, southern aspect of Island 5, Phang Nga Province, Thailand
+- **Entry Type**: liveaboard
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 28 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15–30 meters
+- **Current**: Light to moderate
+- **Best Time**: November to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Sea turtles — primarily hawksbill — are regular visitors, grazing on sponges and soft corals across the mid-slope. Whitetip reef sharks rest on sandy patches at the reef base and in crevices between coral heads. Moray eels (giant and honeycomb species) inhabit the coral matrix throughout. Schools of glassfish (Atherinomorus) fill certain overhangs in the boulder sections, attended by lionfish and twinspot snappers. Cuttlefish are commonly encountered hovering over the reef, and are often unusually comfortable with diver presence. Frogfish (various species, seasonally) are found on sponges and rubble slopes. Nudibranchs of multiple species appear on encrusted boulder surfaces throughout.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 28 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+A straightforward drift along the slope, beginning in the shallows and working progressively deeper to the 20–28 m sand base before ascending back over the reef. The mid-slope (10–18 m) is the most productive zone for turtle, moray, and cuttlefish sightings. The shallow reef crest (5–8 m) is excellent for the safety stop and final exploration of the hard coral garden in good ambient light.
 
 ## Entry and Exit
 
-This site can be accessed from shore or by boat. Shore entry follows established paths to the water. Boat access is available through local dive operators. Check conditions and choose the most appropriate entry method based on weather and sea state.
+Liveaboard and occasional day-trip access from Khao Lak. Conditions on this aspect are generally more benign than the west-facing sites, and zodiac operations are typically straightforward.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Slow down and scan methodically — this site rewards careful looking over rapid movement; frogfish and cuttlefish are easy to miss
+- The sand slope at the base of the reef often has garden eels retreating into their tubes as you approach — observe from a few metres above to see them extended
+- Cuttlefish at this site are often curious and will hover close to divers; avoid sudden movements that trigger their escape reflex
+- An excellent site for practising buoyancy over a coral slope without the pressure of strong current or surge
+- Night dives at sites like this reveal Spanish dancer nudibranchs, octopus hunting on the reef surface, and sleeping parrotfish in mucus cocoons
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Anita's Reef is among the more forgiving sites in the Similans. Current is rarely strong and surge is minimal. The main hazards are inadvertent depth creep on the slope and contact with the reef due to inattentive buoyancy. Keep at least 1 metre clearance from all coral structures. Always carry an SMB.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+A versatile site for both wide-angle and macro. Hard coral tableaux with ambient light make strong wide-angle subjects in the 8–15 m range. Cuttlefish portraits — especially close-focus images emphasising the iridescent chromatophore patterns — are a highlight. Frogfish on sponges require a 60mm or 100mm macro. Turtle sightings at close range in good ambient light are best shot without strobe to preserve the natural colour balance of the warm-lit shallow reef.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

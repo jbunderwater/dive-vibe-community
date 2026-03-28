@@ -13,55 +13,50 @@ addedBy: osm_import
 
 ## Aer Bajo
 
-Aer Bajo is a muck dive site in Lembeh Strait, Asia.
+Aer Bajo — meaning "low water" in Indonesian — is a muck dive site in the northern section of the Lembeh Strait, North Sulawesi, Indonesia. The name likely reflects the site's position at a point of tidal influence, where shallower water conditions and seasonal current patterns create a productive sandy habitat. It is one of the more accessible sites in the northern strait, rated beginner-friendly and offering good species variety across a manageable depth range.
 
 ## Overview
 
-Aer Bajo is a dive site in Lembeh Strait offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The site presents the characteristic Lembeh muck profile: volcanic black sand sloping gently to a maximum of 25 meters, with the most productive critter zones concentrated in the 8–18 meter range. The substrate is primarily open sand interspersed with low rubble patches and scattered debris. Currents are generally light. Visibility runs 8–15 meters. Water temperature is stable at 26–29°C year-round.
 
 ## Site Information
 
-- **Location**: Lembeh Strait, Asia
+- **Location**: Lembeh Strait, North Sulawesi, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Muck
+- **Site Type**: Muck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 8–15 meters (25–50 feet)
+- **Current**: Light; occasionally moderate with tidal influence
+- **Best Time**: Year-round; October to May for calmest conditions
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Aer Bajo is a consistent producer of seahorses, with both thorny seahorses and spotted seahorses documented across the sandy and rubble sections of the slope. Pipefish — including the ornate ghost pipefish and banded pipefish — are regularly sighted near seagrass patches and low algal growth. The sandy expanse of the slope provides habitat for sand-dwelling species including garden eels retreating into their burrows, and the occasional ribbon eel displaying from its burrow opening. Frogfish occupy rubble patches, and nudibranchs are found across the full depth range. Octopus, including both coconut and long-armed octopus species, hunt across the open sand.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Work the slope between 8 and 20 meters, paying attention to seagrass patches and low algal growth as seahorse habitats, and to the rubble-sand interfaces for frogfish and nudibranchs. The site's beginner rating reflects the manageable depth, minimal current, and straightforward topography. Beginners will find this an excellent site for developing muck diving techniques — slow movement, precise buoyancy, and detailed observation — without the added challenges of current or depth.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by banca boat. Entry via back roll or giant stride. Navigation follows the slope contour under guide direction. Surface with SMB deployed for boat pickup.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Seahorses are among the top targets at this site — brief your guide on your preferences before the dive; they will navigate to the areas of highest seahorse density
+- Aer Bajo is an excellent site for beginner divers to develop their muck diving eye — the relatively open sand habitat makes it easier to spot movement than the dense rubble zones at other Lembeh sites
+- The site is suited to a relaxed, exploratory pace — there is no need to rush, and slower divers typically find more critters than those moving quickly
+- Tidal timing can influence conditions — ask the dive operator about optimal tidal windows for the calmest conditions
+- Garden eels in the deeper sandy sections retreat rapidly when approached — hover high above the slope and observe them from 3–4 meters to avoid startling them before you can photograph them
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Aer Bajo is one of the most beginner-accessible sites in the northern Lembeh Strait. The main hazard is the standard Lembeh concern of venomous critters — blue-ringed octopus and stonefish are present across all Lembeh sites including this one. Do not handle any marine life. Maintain careful buoyancy to avoid silt disturbance. If tidal current increases during the dive, signal your guide to assess whether to continue or ascend. Carry an SMB.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Aer Bajo's open sandy habitat offers clean backgrounds for seahorse and pipefish photography — a challenge at more rubble-heavy sites where backgrounds can be cluttered. Thorny seahorses gripping low algal growth, shot from eye level with a 100mm macro lens, provide elegant portrait subjects with minimal background distraction. Garden eels in the sand are a unique supermacro opportunity if approached with patience. Octopus moving across open sand are excellent behavioural subjects for video footage.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

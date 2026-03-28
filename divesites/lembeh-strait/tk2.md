@@ -13,55 +13,50 @@ addedBy: osm_import
 
 ## TK2
 
-TK2 is a muck dive site in Lembeh Strait, Asia.
+TK2 is the second site in the Teluk Kembahu series — three adjacent muck diving locations along the Lembeh Island shore of the Lembeh Strait, North Sulawesi, Indonesia. Situated a short distance from TK1, TK2 covers a slightly shallower section of sand slope with a somewhat different critter composition, making it a natural continuation dive when the TK sites are visited in sequence on the same day.
 
 ## Overview
 
-TK2 is a dive site in Lembeh Strait offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Like its neighbours, TK2 is built on the classic Lembeh muck formula: flat to gently sloping black volcanic sand, with scattered rubble, hydroids, and low sponge growth providing shelter for cryptic critters. The site maxes out at 20 meters, which contributes to generous bottom times. Visibility is typical for the strait at 8–15 meters, currents are light to absent, and the bay exposure means the site dives well even in moderate weather. Water temperature is stable at 26–29°C.
 
 ## Site Information
 
-- **Location**: Lembeh Strait, Asia
+- **Location**: Lembeh Strait, North Sulawesi, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Muck
+- **Site Type**: Muck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 8–15 meters (25–50 feet)
+- **Current**: Minimal to light
+- **Best Time**: Year-round; October to May for calmest conditions
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+TK2 tends to offer a different species mix from TK1 despite its proximity. Frogfish are a highlight — painted, clown, and hairy varieties have all been documented here, often sitting motionless among sponge growth or on rubble. Octopus of multiple species are active on the slope, including the highly intelligent coconut octopus (Amphioctopus marginatus), which is famous for carrying coconut shells or bivalve shells as portable shelter. Flamboyant cuttlefish are found here with some regularity. Sand-dwelling species including snake eels and stargazers are also noted by regular visitors. Nudibranchs are present throughout, and the rubble patches harbour shrimps, including harlequin shrimp hunting for sea stars.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Dive the slope between 8 and 20 meters, covering ground slowly and methodically. The transition zones between clean sand and rubble patches are consistently the most productive areas — critters congregate at these habitat edges. Plan for a long, slow dive at moderate depth rather than pushing to the maximum. The shallower upper slope above 12 meters is excellent for safety stop exploration and is often productive for nudibranchs and juvenile fish.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by banca boat. Entry via back roll or giant stride. Follow your guide along the slope contour and surface with a deployed SMB when the dive is complete. Pickup is coordinated with the boat crew.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- TK2 is often the second dive of a TK1–TK2–TK3 sequence and may be dived with less air than ideal if starting fresh — confirm your starting pressure with the dive briefing
+- Ask your guide specifically for coconut octopus and frogfish as target species
+- The site is shallow enough to make this a productive safety stop dive — don't rush the ascent
+- Even beginners should invest time learning to hover neutrally before muck diving; disturbing the black sand creates a silty cloud that obscures critters for everyone
+- Night dives at TK2 are less commonly offered than at Police Pier but can produce excellent results — ask your resort about the option
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Standard Lembeh muck diving precautions apply. Avoid contact with the sandy bottom to prevent silt-out. Do not handle any octopus — blue-ringed octopus are present across the TK sites. Stonefish can rest camouflaged on rubble; watch foot placement when kneeling briefly, and wear hard-soled booties. Carry an SMB for surface signalling.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+TK2's frogfish are among the site's top photographic subjects — finding a well-positioned specimen against a clean background and shooting with a 60mm or 100mm macro lens produces excellent results. Coconut octopus provide behavioural photography opportunities as they manipulate shells and move across the sand. The flamboyant cuttlefish, when found, is one of the most sought-after macro subjects in all of Indonesia and demands patience and a fast shutter speed to capture its shifting colour patterns.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

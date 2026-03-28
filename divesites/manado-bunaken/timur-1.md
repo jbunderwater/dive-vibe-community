@@ -13,55 +13,30 @@ addedBy: osm_import
 
 ## Timur 1
 
-Timur 1 is a wall dive site in Manado & Bunaken, Asia.
+Timur 1 — "East 1" in Indonesian — is the southernmost of the two Timur wall sites on Bunaken Island's eastern coast, offering a wall dive with strong coral growth and excellent turtle and shark sightings in a less visited section of the park.
 
 ## Overview
 
-Timur 1 is a dive site in Manado & Bunaken featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The east coast of Bunaken Island is less frequently dived than the famous south wall, primarily because it faces into the prevailing swell direction for part of the year. Timur 1 and Timur 2, however, are well worth including in a week's diving programme, particularly for divers who have explored the south coast sites. The wall here has a different character: slightly more rugged, with stronger exposure to oceanic influence, and a different fish community that includes species less common on the sheltered south coast.
 
-## Site Information
+Timur 1 covers the southern section of the east wall, where the reef crest is at its richest and the wall profile is at its most dramatic. The site drops to 40 metres and beyond.
 
-- **Location**: Manado & Bunaken, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 40 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+## What to Expect
 
-## Marine Life
+The reef crest at Timur 1 runs at 4–6 metres and is covered in outstanding hard coral, particularly large Porites bommies that rise almost to the surface. Green turtles are consistently present — the east coast wall system has a resident turtle population that is less disturbed than the heavily visited south coast sites. Hawksbill turtles, recognisable by their narrow beak and more intricate shell patterning, are seen more frequently here than at many other Bunaken sites.
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+The wall face below the crest is well colonised by encrusting corals, soft corals, and sponges down to the recreational depth limit. Large barrel sponges are prominent between 20 and 35 metres. Whitetip reef sharks are regularly encountered resting in sandy pockets at depth. The east coast's exposure brings occasional visits by open-ocean species: the site has produced dogtooth tuna sightings and, during the April–May season, hammerhead sharks have been reported in the deep water adjacent to the wall.
 
-## Dive Profile
+## Conditions
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-40 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+- **Depth range:** 4–40+ m
+- **Visibility:** 15–25 m
+- **Currents:** Moderate; east coast exposure can increase strength seasonally
+- **Water temperature:** 27–30°C
+- **Best season:** May–October; reduce east coast visits during north-east swell season
 
-## Entry and Exit
+## Tips
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Timur 1 and Timur 2 are best combined in a single-day excursion when conditions on the east coast are favourable. The wall at Timur 1 drops sharply and the depth can accumulate quickly — experienced gas management is important. The reef crest here is among the most photogenic in the park for natural-light shallow reef photography.
 
-## Tips and Recommendations
-
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

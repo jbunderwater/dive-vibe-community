@@ -13,53 +13,54 @@ addedBy: osm_import
 
 ## Deep Six
 
-Deep Six is a boulder dive site in Thailand Similan Islands, Asia.
+Deep Six occupies the western face of Island 7 (Koh Similan) in the Similan Islands National Park, Phang Nga Province, Thailand. Like other west-coast sites in the archipelago, it is boulder-dominated, current-exposed, and significantly more demanding than the equivalent east-coast reef dives on the same islands.
 
 ## Overview
 
-Deep Six is a dive site in Thailand Similan Islands offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The site features large granite boulders running from the surface down to beyond 40 meters on the seaward face. The west side of Island 7 receives the Andaman swell directly, creating surge conditions that push through the boulder channels and require confident buoyancy control. At depth, the boulders give way to sandy gullies where leopard sharks are a consistent feature. The dramatic granite architecture — overhangs, swimthroughs, and stacked formations — combined with strong current makes this site feel noticeably wilder than the east coast sites. It is dived primarily in settled conditions and rarely attempted in northwesterly swell.
 
 ## Site Information
 
-- **Location**: Thailand Similan Islands, Asia
-- **Entry Type**: Liveaboard
+- **Location**: Similan Islands National Park, west side of Island 7, Phang Nga Province, Thailand
+- **Entry Type**: liveaboard
 - **Site Type**: Boulder
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15–35 meters
+- **Current**: Moderate to strong; surge possible
+- **Best Time**: November to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Leopard sharks rest on sandy patches and in sheltered gullies between the deeper boulders (18–30 m) — one of the more reliable leopard shark sites in the Similans. Whitetip reef sharks are common throughout. Schools of barracuda and trevally hold position in the current above the boulder field. Large Napoleon wrasse patrol the mid-depth zones. On encrusted boulder surfaces: various nudibranchs, flatworms, and ornate ghost pipefish (seasonally in seagrass patches near the base of the formation). Hawksbill turtles feed on the boulder faces throughout the dive.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 40 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The dive typically begins at depth on the outer boulder face (25–35 m) where the leopard sharks are found. Divers work back through the boulder field via swimthroughs, ascending progressively as the dive plan dictates. The shallower zone (8–15 m) at the upper formation offers surge-driven action and encrusted boulder surfaces. The safety stop is conducted in open water or against the formation if current allows. Surge in the swimthroughs means this site requires greater finesse than its east-coast equivalent.
 
 ## Entry and Exit
 
-This site can be accessed from shore or by boat. Shore entry follows established paths to the water. Boat access is available through local dive operators. Check conditions and choose the most appropriate entry method based on weather and sea state.
+Liveaboard access only; the crossing from Khao Lak to Island 7 is standard on most multi-day itineraries. The western exposure means zodiac entry and exit must be timed to conditions — guides may redirect to the east side of Island 7 (East of Eden) if the west is untenable. When conditions are good, entry is straightforward giant stride and descent along the mooring line.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Treat this site as a current/surge dive requiring active buoyancy management throughout — do not attempt if you are not comfortable with the conditions
+- Sandy gullies at the base of the deeper boulders (20–30 m) are the best leopard shark habitat; scan carefully as they blend into the sand
+- Surge through swimthroughs is manageable with a slow, controlled approach — pause at the entrance, time the surge cycle, and pass through on the outflow
+- A dive torch illuminates the interior of overhangs where soldierfish school in tight groups
+- If this is your first time here, follow the guide closely — the boulder topology varies and the west face navigation is not immediately intuitive
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Surge is the defining hazard at Deep Six. A diver who misjudges a swimthrough entry during surge can be pinned against boulder surfaces. Abort swimthrough passages in heavy surge and navigate around the exterior instead. Current on the outer face can push divers off the formation; maintain contact with the boulders and ascend before air reserves drop to the abort threshold. Minimum Advanced certification with demonstrated surge experience.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The boulder architecture is suited to wide-angle with a diver for scale. Leopard shark portraits require patience and a slow approach — descend to the sand level before the shark's position rather than approaching from above. Surge-driven water motion can cause camera movement during macro attempts; consider 1/200 or faster shutter speeds when shooting small subjects on encrusted surfaces. The overhangs at 8–12 m, filled with glassfish and lit by strobe, are a classic Similan wide-angle composition.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

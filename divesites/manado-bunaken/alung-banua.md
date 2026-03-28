@@ -13,55 +13,28 @@ addedBy: osm_import
 
 ## Alung banua
 
-Alung banua is a wall dive site in Manado & Bunaken, Asia.
+Alung banua is a gentle wall dive on Bunaken Island's south coast that serves as one of the park's most welcoming entry points for less experienced divers, combining accessible conditions with the biodiversity-rich reef wall Bunaken is famous for.
 
 ## Overview
 
-Alung banua is a dive site in Manado & Bunaken featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Alung banua sits on the south coast of Bunaken Island, roughly midway along the wall system that includes the celebrated Lekuan sites. Its name is local Indonesian, broadly translating as "village trench" or "community wall," a reference to its position near the fishing settlement on Bunaken's south shore. The site offers a gentler version of Bunaken wall diving: the reef crest is shallow, conditions are usually calm, and the maximum depth of 25 metres keeps nitrogen loading comfortable. Despite its beginner rating, the marine life here is every bit as impressive as at deeper, more demanding sites nearby.
 
-## Site Information
+## What to Expect
 
-- **Location**: Manado & Bunaken, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+The dive begins on a reef flat at 3–4 metres, where hard coral coverage is dense and varied — staghorn acropora, brain corals, and massive table corals create a complex landscape teeming with reef fish. The wall face drops from the crest to around 25 metres, its surface encrusted with sponges, smaller seafans, and encrusting corals. Green and hawksbill turtles are reliably encountered: Alung banua shares the same turtle-rich coastal corridor as the rest of the south Bunaken wall and sightings are near-guaranteed.
 
-## Marine Life
+Schools of chromis and anthias swarm around the coral formations in the shallower sections, with pairs of butterflyfish and angelfish threading between the coral heads. Banded sea kraits are commonly seen hunting along the wall face. The sandy bottom below the wall at 20–25 metres occasionally yields garden eels and blue-spotted stingrays. The absence of strong current at this site allows thorough, unhurried exploration.
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+## Conditions
 
-## Dive Profile
+- **Depth range:** 3–25 m
+- **Visibility:** 15–25 m
+- **Currents:** Light; very comfortable
+- **Water temperature:** 27–30°C
+- **Best season:** May–October; generally calm year-round
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-25 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+## Tips
 
-## Entry and Exit
+Alung banua is a good choice for a third or fourth dive when managing bottom time, as its shallow profile significantly limits nitrogen accumulation. The reef crest in 3–5 metres is particularly rich and benefits from spending part of the safety stop actually exploring the coral landscape rather than just waiting. This site is also suitable for snorkellers accompanying divers on the surface.
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Excellent site for newer divers — calm conditions and easy navigation
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

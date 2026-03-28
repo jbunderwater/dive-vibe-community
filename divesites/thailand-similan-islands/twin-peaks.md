@@ -13,53 +13,54 @@ addedBy: osm_import
 
 ## Twin Peaks
 
-Twin Peaks is a pinnacle dive site in Thailand Similan Islands, Asia.
+Twin Peaks consists of two adjacent submerged pinnacles in the northern reaches of the Similan Islands area, Phang Nga Province, Thailand — a site included on longer liveaboard itineraries that extend north of the main Similan group toward the Surin and Richelieu Rock zone.
 
 ## Overview
 
-Twin Peaks is a dive site in Thailand Similan Islands offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The two pinnacles rise from the seabed at around 35 meters and ascend to near-surface levels, providing a classic pinnacle dive experience in miniature compared to the massive formations at Koh Bon and Koh Tachai. Current flows across both structures, bringing nutrient-rich water and concentrating pelagic life around the pinnacle tops. The surfaces are colonised by soft corals, sea fans, and encrusting organisms that benefit from the current-delivered food supply. The site is advanced-rated primarily because of the current exposure and the open-water ascent that may be required if divers are swept off the pinnacles.
 
 ## Site Information
 
-- **Location**: Thailand Similan Islands, Asia
-- **Entry Type**: Liveaboard
-- **Site Type**: Pinnacle
+- **Location**: Northern Similan Islands area, Phang Nga Province, Thailand
+- **Entry Type**: liveaboard
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 35 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15–35 meters
+- **Current**: Moderate to strong; tidal-dependent
+- **Best Time**: November to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Schooling fish are the primary feature, with bigeye trevally and barracuda forming aggregations in the current above and between the pinnacle tops. Whitetip reef sharks rest on the sandy saddle between the two pinnacles and in crevices lower down. Sea fans and gorgonians on the current-facing sides host crinoids and various commensal invertebrates. Hawksbill turtles pass through during most dives. Napoleon wrasse patrol the mid-depth zone. If timing coincides with plankton-rich conditions, reef manta rays occasionally visit both pinnacles to feed, riding the current with their mouths open in the water column above the formation.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 35 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the saddle between the two pinnacles (typically 18–25 m) and orient with your guide. One pinnacle is commonly explored in the first half of the dive, the other in the second. The tops of both formations are shallow enough for a prolonged safety stop time. When current is running strongly, divers hook in with reef hooks on rubble patches or simply maintain position by finning — drifting off the pinnacle means a blue-water safety stop and zodiac pick-up. Plan air to allow 100 bar at the start of the ascent.
 
 ## Entry and Exit
 
-This site can be accessed from shore or by boat. Shore entry follows established paths to the water. Boat access is available through local dive operators. Check conditions and choose the most appropriate entry method based on weather and sea state.
+Exclusively liveaboard; the site is too remote for day-trip boats. Zodiac entry with descent on a permanent or temporary mooring line if current is running at entry time. Surface pick-up by zodiac on SMB.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Reef hooks are recommended — secure to rubble or dead coral at the base of the current-facing slope and watch the fish aggregations without fighting current
+- Observe the saddle between the pinnacles for resting whitetip sharks; the sand here is a reliable resting area during daylight hours
+- Check the gorgonian fans with a torch for pygmy seahorses — they are found on sea fans at sites like this throughout the Andaman, though sightings are not guaranteed
+- If mantas appear, switch to passive mode: hold position neutrally buoyant and let them approach rather than pursuing
+- This site pairs well with Koh Bon Pinnacle on the same liveaboard day given the northern routing
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Open-ocean pinnacle diving demands that every diver is comfortable deploying an SMB in current and conducting a blue-water ascent. Briefings from liveaboard guides will cover the current direction, the zodiac pick-up procedure, and the abort threshold. Minimum Advanced certification is required; previous pinnacle diving experience is strongly recommended. Do not enter if conditions are rough and the guide team advises against.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Wide-angle captures the pinnacle architecture and the aggregating fish schools — position between or just below the pinnacle tops to shoot upward toward silvered fish silhouettes. Soft coral and gorgonian macro are available if current pauses enough for stable shooting; a focus light helps define small commensal shrimp on fan branches. Manta ray encounters here, while uncommon, are close-range open-water events that reward a quick-setting underwater camera.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

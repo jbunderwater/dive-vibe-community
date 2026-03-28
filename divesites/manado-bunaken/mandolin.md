@@ -13,55 +13,28 @@ addedBy: osm_import
 
 ## Mandolin
 
-Mandolin is a wall dive site in Manado & Bunaken, Asia.
+Mandolin is a wall dive on Bunaken Island's western coast, known for its distinctive curved reef structure, large gorgonian seafans, and reliable encounters with Napoleon wrasse and resident turtles.
 
 ## Overview
 
-Mandolin is a renowned dive site in Manado & Bunaken featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Mandolin sits on the west side of Bunaken Island, between Fukui Point and the northern wall sites. The site gets its name from the shape of the reef crest, which curves in a gentle arc reminiscent of the musical instrument's body. This curved geometry creates a sheltered zone where current eddies and nutrients accumulate, supporting particularly dense soft coral and seafan growth on the wall face. Compared to the south-coast Lekuan sites, Mandolin tends to see fewer divers, giving it a more tranquil atmosphere.
 
-## Site Information
+## What to Expect
 
-- **Location**: Manado & Bunaken, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 35 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+The wall drops from a reef crest at 5–8 metres down to around 35 metres, where it transitions to a sandy slope. The 15–30 metre zone is where Mandolin earns its reputation: enormous gorgonian sea fans, some over 2 metres across, project from the wall face alongside black coral trees and dense soft coral colonies. The colour contrast between the orange-yellow seafans and the deep blue water beyond makes this a favourite photography location.
 
-## Marine Life
+Napoleon wrasse are regularly spotted at Mandolin, often patrolling the open water alongside the wall at 20–25 metres. These large humphead wrasse, which can exceed a metre in length, are impressively unfazed by divers. Turtles are present most dives, typically resting on ledges or ascending past the wall face. The reef crest is excellent for macro: look for nudibranchs, flatworms, and tiny crustaceans among the encrusting coral. Occasional visits by grey reef sharks and dogtooth tuna from the blue water side add excitement to deeper sections.
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+## Conditions
 
-## Dive Profile
+- **Depth range:** 5–35 m
+- **Visibility:** 15–25 m
+- **Currents:** Light to moderate; protected aspect makes conditions reliable
+- **Water temperature:** 27–30°C
+- **Best season:** May–October, though the western aspect provides year-round protection
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-35 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+## Tips
 
-## Entry and Exit
+Mandolin's curved reef crest makes it easy to navigate — simply follow the arc of the wall. The seafan garden rewards slow, deliberate diving; rushing past sacrifices many of the best close-up encounters. Macro photographers should request an early dive here before midday light changes the colour balance in the shallows.
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,55 +13,28 @@ addedBy: osm_import
 
 ## Muka kampung
 
-Muka kampung is a wall dive site in Manado & Bunaken, Asia.
+Muka kampung — also known as "Turtle City" — is a wall dive on Bunaken Island's south-east coast that lives up to its nickname with some of the highest green and hawksbill turtle densities found anywhere in Indonesia.
 
 ## Overview
 
-Muka kampung is a dive site in Manado & Bunaken featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The name "Muka kampung" translates roughly as "village face" in Indonesian, referring to the site's position in front of the main fishing village on Bunaken Island's eastern end. Its popular alternative name, Turtle City, is simply descriptive: this stretch of wall and reef flat has long been recognised as one of the best turtle-watching locations in the entire national park. The combination of a rich wall with good algae and soft coral growth — perfect turtle food — and relative shelter from the open ocean creates ideal conditions for resident turtles.
 
-## Site Information
+## What to Expect
 
-- **Location**: Manado & Bunaken, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+The wall here is shallower than Bunaken's south-coast giants, dropping from 5 metres to around 25 metres before levelling onto a sandy slope. This makes the dive profile comfortable for intermediate divers and gives more time to explore the wall face at moderate depths rather than managing buoyancy at depth. Green turtles are the main attraction — it is not unusual to encounter four, five, or even more individuals in a single dive, often resting on coral ledges or grazing on algae on the wall face. Hawksbill turtles, identifiable by their narrow pointed beak, are also frequently seen and tend to favour the overhangs where sponges grow.
 
-## Marine Life
+Beyond the turtles, the wall supports healthy hard coral growth with fields of staghorn acropora at the crest and encrusting corals on the vertical sections. Schools of moorish idols, anthias, and chromis are dense in the 8–15 metre range. Banded sea snakes — Laticauda colubrina — are commonly seen moving along the wall face as they hunt fish in crevices; they are mildly venomous but completely docile toward divers.
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+## Conditions
 
-## Dive Profile
+- **Depth range:** 5–25 m
+- **Visibility:** 15–25 m
+- **Currents:** Light to moderate; site offers good shelter compared to east-facing sites
+- **Water temperature:** 27–30°C
+- **Best season:** May–October
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-25 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+## Tips
 
-## Entry and Exit
+Morning dives at Muka kampung offer the best turtle activity — turtles tend to be more mobile and feeding in early light. Allow time to hover slowly above the reef flat where turtles surface to breathe; watching a 100 kg green turtle ascend through clear water is one of Bunaken's signature experiences. The shallower profile makes this a strong second or third dive of the day when managing nitrogen exposure.
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

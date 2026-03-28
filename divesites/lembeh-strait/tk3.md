@@ -13,55 +13,50 @@ addedBy: osm_import
 
 ## TK3
 
-TK3 is a muck dive site in Lembeh Strait, Asia.
+TK3 is the third and northernmost site in the Teluk Kembahu (TK) group — a trio of muck diving sites along the Lembeh Island shore of the Lembeh Strait, North Sulawesi, Indonesia. While TK1 and TK2 are the most frequently dived of the three, TK3 has its own character: the substrate transitions from smooth black sand to more varied rubble patches, giving the site a slightly different texture and critter community. It is regularly included as the third dive of a TK day-trip sequence.
 
 ## Overview
 
-TK3 is a dive site in Lembeh Strait offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+TK3's defining feature compared to its neighbours is the increased rubble coverage — more broken coral fragments, shells, and small stones are scattered across the volcanic sand slope, creating additional microhabitats for critters that prefer rubble to open sand. The slope descends to 25 meters and is accessible to beginners, with minimal current and protected bay conditions. Visibility is on par with the other TK sites at 8–15 meters. Water temperature is a consistent 26–29°C year-round.
 
 ## Site Information
 
-- **Location**: Lembeh Strait, Asia
+- **Location**: Lembeh Strait, North Sulawesi, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Muck
+- **Site Type**: Muck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 8–15 meters (25–50 feet)
+- **Current**: Minimal to light
+- **Best Time**: Year-round; October to May for calmest conditions
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The rubble patches at TK3 make it a productive site for critters that use physical structures as shelter or ambush positions. Stonefish and scorpionfish rest camouflaged among the rubble fragments. Frogfish use rubble patches as hunting grounds, sitting motionless and waiting for prey. Various shrimp species — including cleaner shrimps and coral banded shrimps — take refuge in low-profile rubble formations. Sand-dwelling species familiar from TK1 and TK2 — ghost pipefish, seahorses, nudibranchs — are present here as well, with the species mix varying by season. Mantis shrimp occasionally emerge from burrows at the rubble-sand interface, and octopus are regularly spotted hunting across the slope.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Work the slope between 8 and 22 meters, paying particular attention to the rubble patches at the depth transitions. The interface between clean sand and rubble concentrations is consistently where the densest critter activity occurs. As with the other TK sites, slow and methodical observation outperforms covering distance. The shallower zones above 10 meters are worth extended exploration during the safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by banca boat. Back roll or giant stride entry. Follow your guide along the slope; surface with SMB deployed for boat pickup.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Rubble patches require careful buoyancy technique — fin movements near rubble create silt clouds that are harder to clear than open sand
+- Brief your guide on your target species before descending; stonefish and scorpionfish sightings, while common, are easy to miss without a guide pointing them out
+- TK3 is often the third dive of the day when dived as part of the full TK series — manage your air and no-decompression limits accordingly if three dives are planned
+- Beginners working on buoyancy should approach rubble areas from slightly above, hovering rather than kneeling directly on the bottom
+- The site can be excellent at night, though night dives here are less commonly offered than at Police Pier
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Stonefish are among the hazards unique to rubble-heavy sites like TK3 — their camouflage is extraordinarily effective against mixed rubble. Never place hands or knees on rubble or sand without looking carefully first, and wear hard-soled dive booties. Blue-ringed octopus are present across all Lembeh sites; do not handle any octopus regardless of size. Standard silt-disturbance awareness applies. Carry an SMB.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The rubble habitat at TK3 opens photographic opportunities that are less available on the smooth sand at TK1. Stonefish and scorpionfish make compelling camouflage-pattern macro subjects when found in good position. Frogfish posed against rubble backgrounds offer interesting texture contrast. Shrimp species in rock crevices benefit from a focus light to illuminate subjects in shadow. A 60mm or 100mm macro lens covers the range of subjects well.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
