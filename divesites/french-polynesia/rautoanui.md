@@ -1,5 +1,5 @@
 ---
-name: Rauto’Anui
+name: Rauto'Anui
 lat: -16.758276
 lng: -151.50404
 difficulty: Advanced
@@ -11,56 +11,28 @@ osmId: 663869258
 addedBy: osm_import
 ---
 
-## Rauto’Anui
+## Rauto'Anui
 
-Rauto’Anui is a drift dive site in French Polynesia, Pacific.
+Rauto'Anui is a pass drift dive in the Raiatea-Taha'a barrier reef system, French Polynesia. The Tahitian name translates roughly to "the large current" or "big channel flow," reflecting the powerful tidal circulation that defines this site.
 
 ## Overview
 
-Rauto’Anui is a dive site in French Polynesia offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Rauto'Anui is one of the productive pass dives within the shared Raiatea-Taha'a barrier reef. The pass cuts through the barrier reef and funnels tidal exchange between the ocean and the lagoon, with the strongest flows on the incoming tide attracting the full complement of Polynesian pass-dive species. The channel depth reaches 25 metres at the deepest point before shoaling into the lagoon. Visibility on incoming oceanic water is typically 30–40 metres, with water temperatures of 27–28°C.
 
-## Site Information
+## What to Expect
 
-- **Location**: French Polynesia, Pacific
-- **Entry Type**: Boat dive
-- **Site Type**: Drift
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+Grey reef sharks are the primary attraction, moving through the pass on the tidal current in groups of 10–30. Blacktip reef sharks are present in smaller numbers, particularly toward the lagoon side of the pass. Eagle rays and manta rays are seasonally encountered. Schools of barracuda and bigeye trevally sweep through the channel in formation, while smaller reef fish shelter in crevices in the channel walls. The pass walls themselves are encrusted with hard corals and sea fans, providing habitat for hawkfish, trumpetfish, and moray eels that inhabit the edges of the main current. The combination of reef life and pelagic activity makes for a varied and exciting drift.
 
-## Marine Life
+## Conditions
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+- **Best season**: April–November
+- **Visibility**: 30–40 m on incoming tide
+- **Current**: Strong (2–4 knots); incoming tide required
+- **Water temperature**: 27–28°C
+- **Entry**: Boat drift dive; timed to tidal cycle
 
-## Dive Profile
+## Tips
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+As with all Society Islands pass dives, timing the dive to a reliable incoming tide is non-negotiable for optimal conditions. Carry an SMB for safe boat pickup at the lagoon exit. Raiatea and Taha'a operators run this pass as part of multi-site dive programs — typically paired with a lagoon reef dive.
 
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

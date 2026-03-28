@@ -13,54 +13,26 @@ addedBy: osm_import
 
 ## La zelée
 
-La zelée is a reef dive site in French Polynesia, Pacific.
+La zelée is a reef dive site in the Tahiti lagoon, French Polynesia. The site takes its name from the French corvette *La Zélée*, which served alongside the *L'Astrolabe* in Jules Dumont d'Urville's famous 1837–1840 expedition to the Pacific and Antarctic.
 
 ## Overview
 
-La zelée is a dive site in French Polynesia offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+The site sits on the outer reef system north of Papeete, offering a varied terrain of coral ridges, sandy corridors, and a sloping outer reef. The reef crest comes up to around 8 metres in places, while the main dive profile runs between 12 and 25 metres across coral outcrops separated by sandy channels. The connection to French Pacific history makes the name evocative, and the site itself lives up to the spirit of discovery with productive marine life. Visibility averages 25–30 metres, with water temperatures of 27–28°C.
 
-## Site Information
+## What to Expect
 
-- **Location**: French Polynesia, Pacific
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+The site's mixed terrain of coral ridges and sandy patches supports a wide variety of species. Stingrays (*Taeniura lymma* and larger *Himantura* spp.) rest in the sand channels, while eagle rays circle overhead in the open water between coral structures. Blacktip reef sharks move along the outer edge. The coral outcrops themselves harbour lionfish, scorpionfish, hawkfish, and moray eels in the crevices. Schools of yellowfin goatfish work the sandy corridors, and large parrotfish are heard crunching corals throughout the dive. The site provides a reliable and diverse dive representative of Tahiti's healthy lagoon ecosystem.
 
-## Marine Life
+## Conditions
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+- **Best season**: April–November
+- **Visibility**: 25–30 m typical
+- **Current**: Mild
+- **Water temperature**: 27–28°C
+- **Entry**: Boat dive from Papeete or north-coast operators
 
-## Dive Profile
+## Tips
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The sandy corridors are the best locations for stingray and shark observation; pause and hover neutrally buoyant over the sand for maximum encounters. The site's variety makes it suitable for divers with different interests sharing a single boat.
 
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

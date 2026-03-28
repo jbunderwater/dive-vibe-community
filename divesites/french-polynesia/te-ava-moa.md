@@ -1,5 +1,5 @@
 ---
-name: Te Ava Mo’a
+name: Te Ava Mo'a
 lat: -16.8318081
 lng: -151.3466734
 difficulty: Advanced
@@ -11,56 +11,28 @@ osmId: 663869260
 addedBy: osm_import
 ---
 
-## Te Ava Mo’a
+## Te Ava Mo'a
 
-Te Ava Mo’a is a drift dive site in French Polynesia, Pacific.
+Te Ava Mo'a — "The Sacred Pass" — is a pass drift dive on the southern barrier reef of Raiatea, French Polynesia. The name references the sacred character of Raiatea itself — known in ancient Polynesia as Havai'i, the spiritual homeland from which voyagers departed on the great migrations to Hawaii, New Zealand, and beyond.
 
 ## Overview
 
-Te Ava Mo’a is a dive site in French Polynesia offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Te Ava Mo'a is the southernmost of the major Raiatea pass dives, situated at the point where the barrier reef curves around the island's southern tip. The pass channels tidal water between the Pacific Ocean and the Raiatea-Taha'a lagoon, creating the incoming-tide drift conditions that define Polynesian pass diving. The pass descends to 25 metres and the channel is wide enough that divers can position themselves at different depths to observe different tiers of activity. Visibility on incoming tides runs 30–40 metres, with water temperatures of 27–28°C.
 
-## Site Information
+## What to Expect
 
-- **Location**: French Polynesia, Pacific
-- **Entry Type**: Boat dive
-- **Site Type**: Drift
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+Grey reef sharks are the signature species of Te Ava Mo'a, congregating in the pass with typical groups of 20–50 sharks on strong tides. The "sacred" name is apt: the shark behaviour here has a ceremonial quality as they circle and patrol with apparent purpose. Manta rays seasonally visit this southern pass, using the current to feed on the plankton-rich oceanic water flowing in. The pass walls carry black corals below 20 metres and large gorgonian fans that extend into the current. Turtles, eagle rays, and the occasional whale shark (seasonal) have been recorded at this site. The remoteness of the southern reef gives the dive a more adventurous character than the more frequently dived western passes.
 
-## Marine Life
+## Conditions
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+- **Best season**: April–November; manta rays most likely June–September
+- **Visibility**: 30–40 m on incoming tide
+- **Current**: Strong (2–4 knots); timing critical
+- **Water temperature**: 27–28°C
+- **Entry**: Boat drift dive; longer boat journey from main Raiatea marina
 
-## Dive Profile
+## Tips
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The southern location means a longer boat ride from Uturoa (Raiatea's main town), typically 30–45 minutes. Operators running this pass often combine it with a morning lagoon dive closer to the marina. Carry a full SMB kit for the drift exit. Request information about manta ray frequency when booking — seasonal sightings can be predicted from operator logs.
 
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

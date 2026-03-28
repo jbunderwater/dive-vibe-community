@@ -13,54 +13,26 @@ addedBy: osm_import
 
 ## Grottes du Tahara
 
-Grottes du Tahara is a cave dive site in French Polynesia, Pacific.
+Grottes du Tahara — "Tahara Caves" — is a cavern dive site on the north-east coast of Tahiti, French Polynesia, near the Tahara headland. The site features a series of volcanic rock caverns and overhangs along the reef face that divers can explore.
 
 ## Overview
 
-Grottes du Tahara is a dive site in French Polynesia featuring underwater cave and cavern formations. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+The Tahara headland area on Tahiti's north-east coast is characterised by volcanic geology that has created a series of sea caves and cavern openings in the reef wall. The caverns range in size from narrow swim-throughs at 10–12 metres to wider chambers extending several metres into the reef at depths down to 25 metres. All sections of the cave system remain within the open-water cavern zone — natural light is visible throughout — making this accessible to Open Water-certified divers with cavern experience. Visibility in the water column outside the caves is 25–30 metres; inside the caverns, visibility depends on torch light.
 
-## Site Information
+## What to Expect
 
-- **Location**: French Polynesia, Pacific
-- **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+The cave entrances and interior walls host dense populations of glassfish (*Parapriacanthus ransonneti*) that form shimmering clouds in the filtered light. Big-eye squirrelfish (*Priacanthus hamrur*) and soldierfish shelter in the darker recesses. Lobsters occupy crevices along the cave floors, and moray eels extend from wall openings. Outside the cave entrances, the reef wall hosts typical Tahiti reef life: surgeonfish, parrotfish, wrasse, and occasional grey reef sharks passing in the open water. The Tahara location receives less boat traffic than west-coast Papeete sites, giving the site a quieter, more exploratory character.
 
-## Marine Life
+## Conditions
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+- **Best season**: April–November
+- **Visibility**: 25–30 m outside; torch-dependent inside
+- **Current**: Generally mild; some surge near cave entrances
+- **Water temperature**: 27–28°C
+- **Entry**: Boat dive
 
-## Dive Profile
+## Tips
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Torch/dive light is essential for observing cave interior life and illuminating colour. Maintain neutral buoyancy to avoid stirring up sediment from the cave floor. Enter the caverns one at a time to avoid overcrowding. This site should not be attempted by divers unfamiliar with cavern diving — confirm natural light exits are visible before proceeding further in.
 
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

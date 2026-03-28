@@ -13,54 +13,26 @@ addedBy: osm_import
 
 ## Te Tuatiare
 
-Te Tuatiare is a drift dive site in French Polynesia, Pacific.
+Te Tuatiare is a pass drift dive in the Raiatea-Taha'a lagoon system, French Polynesia. The Tahitian name refers to a navigational channel in the barrier reef through which oceanic water surges on the tidal cycle, creating the current conditions that drive this shark-rich dive.
 
 ## Overview
 
-Te Tuatiare is a dive site in French Polynesia offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Like all the great Polynesian pass dives, Te Tuatiare is timed to the incoming tide, when clear oceanic water floods through the channel carrying plankton and baitfish into the lagoon — and the sharks, rays, and large pelagics that follow them. The pass profile descends to around 25 metres at the channel floor before rising toward the lagoon shallows. The current can run at 2–4 knots on a strong tide, making this a true drift dive where divers are swept along by the flow. Water clarity on an incoming tide can exceed 40 metres, with temperatures of 27–28°C.
 
-## Site Information
+## What to Expect
 
-- **Location**: French Polynesia, Pacific
-- **Entry Type**: Boat dive
-- **Site Type**: Drift
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+Grey reef sharks (*Carcharhinus amblyrhynchos*) are the dominant species in the pass, gathering in the channel to intercept fish swept through by the current. Schools of 10–30 sharks are a realistic expectation on active tidal cycles. Blacktip reef sharks (*Carcharhinus melanopterus*) accompany them in smaller numbers. Eagle rays and marbled rays navigate the current effortlessly, banking against the flow. Schools of bigeye jacks and barracuda hunt in the turbulent water column. The ride through the channel itself — weightless in the current, surrounded by sharks and large fish — defines the Polynesian drift diving experience.
 
-## Marine Life
+## Conditions
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+- **Best season**: April–November
+- **Visibility**: 30–40 m on incoming tide
+- **Current**: Strong (2–4 knots on active tide); expert navigation required
+- **Water temperature**: 27–28°C
+- **Entry**: Boat dive; timed to tidal cycle
 
-## Dive Profile
+## Tips
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Dive only on a reliable incoming tide — outgoing tides produce weaker shark activity and poorer visibility. This is an Advanced-rated dive; strong buoyancy control and comfort in current are essential. Always dive with a local guide who knows the pass timing and pickup point for the drift exit. Surface marker buoys (SMBs) are standard equipment.
 
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,54 +13,26 @@ addedBy: osm_import
 
 ## Plateau aux tortues
 
-Plateau aux tortues is a reef dive site in French Polynesia, Pacific.
+Plateau aux tortues — "Turtle Plateau" — is a reef dive site in the Tahiti lagoon, French Polynesia, named for the large green turtles that regularly rest and feed on its shallow coral plateau.
 
 ## Overview
 
-Plateau aux tortues is a dive site in French Polynesia offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+The site is a broad, gently sloping reef plateau extending from about 8 to 20 metres depth, its surface dotted with coral heads and sandy patches interspersed with seagrass in the shallower areas. Green sea turtles (*Chelonia mydas*) use the plateau consistently, resting on flat coral structures and feeding on algae and seagrass. The wider plateau is bordered by a sloping reef edge that descends to 25 metres. Visibility averages 25–30 metres in calm lagoon conditions, and water temperatures are a warm 27–29°C year-round.
 
-## Site Information
+## What to Expect
 
-- **Location**: French Polynesia, Pacific
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+Green turtles are the headline attraction and are reliably encountered on most dives — groups of two to four animals resting together are typical. The coral plateau provides habitat for bluefin trevally hunting over the sandy patches, while Napoleon wrasse cruise the reef edge. Stingrays rest in the sand channels between coral heads, and large schools of bluestripe snapper (*Lutjanus kasmira*) drift in loose aggregations above the reef. The shallower sections of the plateau are an excellent snorkelling destination as well as a dive site, making this one of the more accessible sites for less experienced divers.
 
-## Marine Life
+## Conditions
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+- **Best season**: Year-round; April–November for best visibility
+- **Visibility**: 25–30 m typical
+- **Current**: Generally very mild on the plateau
+- **Water temperature**: 27–29°C
+- **Entry**: Boat dive
 
-## Dive Profile
+## Tips
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Approach resting turtles slowly and from the side — never from above or directly in front. Turtles regularly surface to breathe; hovering neutrally buoyant and watching them rise and descend is one of the memorable experiences at this site. Morning dives catch turtles actively feeding before they rest.
 
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

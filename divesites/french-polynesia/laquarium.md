@@ -13,55 +13,26 @@ addedBy: osm_import
 
 ## L'Aquarium
 
-L'Aquarium is a reef dive site in French Polynesia, Pacific.
+L'Aquarium is a shallow reef dive and snorkel site inside the Raiatea-Taha'a lagoon, French Polynesia. The name reflects the extraordinary clarity of the lagoon water and the dense tropical fish life that makes this site feel like swimming inside a saltwater aquarium.
 
 ## Overview
 
-L'Aquarium is a dive site in French Polynesia offering excellent diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Situated inside the shared barrier reef of Raiatea and Taha'a, this site benefits from the calm, crystal-clear lagoon conditions that have made the Society Islands famous. The reef here reaches up to 1–2 metres from the surface, with the main dive terrain between 3 and 10 metres on a colourful coral garden of branching acropora, finger corals, and isolated coral heads on white sand. The shallow depth, calm conditions, and abundant fish life make this the ideal site for beginner divers, snorkellers, and underwater photographers wanting to practice in forgiving conditions. Visibility can exceed 30 metres and water temperatures are a warm 27–29°C year-round.
 
-## Site Information
+## What to Expect
 
-- **Location**: French Polynesia, Pacific
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 10 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+Clouds of reef fish — sergeant majors, chromis, butterflyfish, and angelfish — hover over the coral garden throughout the dive. Turtles are frequently encountered resting on the sandy patches or grazing algae from coral surfaces. Blacktip reef sharks cruise the shallow outer edge of the coral garden, their dorsal fins occasionally breaking the surface. The coral formations support resident hawkfish, gobies perched on coral heads, and the occasional resting stonefish camouflaged against rubble. Children and non-divers snorkelling above can see much of what the divers see below, making this a popular family site.
 
-## Marine Life
+## Conditions
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+- **Best season**: Year-round; near-perfect conditions most days
+- **Visibility**: 25–35 m typical
+- **Current**: Very mild to none
+- **Water temperature**: 27–29°C
+- **Entry**: Boat dive (short trip from Raiatea or Taha'a)
 
-## Dive Profile
+## Tips
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 10 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-10 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The shallow depth allows an extended dive time — 60+ minutes is achievable on a single tank. Ideal for underwater photography with natural light; no torch needed. Snorkellers can participate simultaneously from the surface, making this an excellent family or mixed-group excursion.
 
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

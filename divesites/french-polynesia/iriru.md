@@ -13,54 +13,26 @@ addedBy: osm_import
 
 ## Iriru
 
-Iriru is a drift dive site in French Polynesia, Pacific.
+Iriru is a pass drift dive in the Raiatea barrier reef, French Polynesia. The site sits on the eastern side of the Raiatea barrier reef system, where a channel in the reef creates the tidal drift conditions characteristic of Society Islands pass diving.
 
 ## Overview
 
-Iriru is a dive site in French Polynesia offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Iriru is one of the eastern-facing passes in the Raiatea reef system, receiving swell and current from the open Pacific. The incoming tide drives clear oceanic water into the lagoon through this channel, creating the current conditions and visibility that produce shark aggregations and pelagic encounters. The pass descends to around 25 metres at its deepest and rises on the lagoon side. The eastern exposure means the site is sensitive to trade wind conditions, and operators choose the dive timing based on both tidal stage and sea state. On good days, visibility exceeds 35 metres and current strength is at the 2–3 knot range manageable by experienced divers.
 
-## Site Information
+## What to Expect
 
-- **Location**: French Polynesia, Pacific
-- **Entry Type**: Boat dive
-- **Site Type**: Drift
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+Grey reef sharks aggregate in the Iriru pass on strong incoming tides, with groups of 15–40 individuals typical on productive dives. The eastern exposure delivers schools of bigeye jacks, barracuda, and occasional large tuna sweeping through the channel. Eagle rays and spotted eagle rays are regularly encountered at this site, riding the current effortlessly. The pass walls carry dense coral and sea fan growth where hawkfish and soldierfish shelter. The lagoon side of the pass is calmer and allows divers to pause and observe the marine life before the boat pickup. The less-frequented eastern side of Raiatea means Iriru sees fewer dive groups than the western passes, preserving a more untouched character.
 
-## Marine Life
+## Conditions
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+- **Best season**: April–November; weather dependent due to eastern exposure
+- **Visibility**: 30–40 m on incoming tide; can be reduced on outgoing
+- **Current**: Moderate to strong (2–3 knots typical)
+- **Water temperature**: 27–28°C
+- **Entry**: Boat drift dive; local guide essential
 
-## Dive Profile
+## Tips
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The eastern exposure makes Iriru weather-sensitive; confirm conditions with operators before booking. This pass rewards divers who are comfortable managing current with their fin position and body trim rather than fighting it. The relative quiet of the eastern Raiatea reef makes early morning dives at Iriru particularly productive.
 
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

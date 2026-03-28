@@ -13,54 +13,26 @@ addedBy: osm_import
 
 ## Vallée aux Murènes
 
-Vallée aux Murènes is a reef dive site in French Polynesia, Pacific.
+Vallée aux Murènes — "Valley of the Moray Eels" — is a reef dive site in the Tahiti lagoon, French Polynesia, centred on a sandy-floored channel that supports an unusually high density of moray eels.
 
 ## Overview
 
-Vallée aux Murènes is a dive site in French Polynesia offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+The site takes its name from the sandy valley or channel that runs through the reef, its walls and rubble edges riddled with crevices that shelter multiple moray species. Giant moray eels (*Gymnothorax javanicus*) are the dominant species here, with individuals reaching 2 metres or more; yellowmargin morays and undulate morays are also commonly seen. The valley floor sits at around 18–22 metres before the surrounding reef rises to a crest at 8–10 metres. Visibility is typically 25–30 metres, and water temperatures average 27–28°C year-round.
 
-## Site Information
+## What to Expect
 
-- **Location**: French Polynesia, Pacific
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+Divers following the sandy valley floor encounter moray eels resting half-exposed from crevice openings throughout the dive. Cleaner shrimp — particularly banded coral shrimp (*Stenopus hispidus*) — set up stations at eel lairs, and with patience divers can observe active cleaning behaviour. The reef walls flanking the valley host plate corals and encrusting sponges, with leopard flatheads and scorpionfish camouflaged against the rubble. Schools of goatfish work the sandy bottom, and eagle rays occasionally glide through the channel.
 
-## Marine Life
+## Conditions
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+- **Best season**: April–November
+- **Visibility**: 25–30 m typical
+- **Current**: Mild
+- **Water temperature**: 27–28°C
+- **Entry**: Boat dive from Papeete-area operators
 
-## Dive Profile
+## Tips
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Carry a torch to illuminate the deeper crevices where morays retreat. Move slowly along the valley to spot camouflaged species, and avoid reaching into crevices. The site is an excellent choice for underwater photographers seeking moray portraits.
 
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

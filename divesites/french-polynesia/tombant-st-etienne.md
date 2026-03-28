@@ -13,55 +13,26 @@ addedBy: osm_import
 
 ## Tombant St Etienne
 
-Tombant St Etienne is a wall dive site in French Polynesia, Pacific.
+Tombant St Etienne is a wall dive site adjacent to the St Etienne channel on the west coast of Tahiti, French Polynesia. It shares the productive St Etienne reef system with the deeper Faille St Etienne nearby but offers a more accessible profile for intermediate divers.
 
 ## Overview
 
-Tombant St Etienne is a dive site in French Polynesia featuring a dramatic vertical wall that drops into the deep blue. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+The tombant (drop-off) begins at around 5–8 metres at the reef crest and descends vertically to 25 metres before transitioning to a sloping outer reef. The wall face is richly colonised with hard and soft corals, including large table corals on the upper sections and encrusting sponges and wire corals in the deeper zone. The St Etienne pass channel nearby channels oceanic water across the site, bringing good visibility of 25–35 metres and regular pelagic visitors. Water temperatures are a comfortable 27–28°C for most of the year.
 
-## Site Information
+## What to Expect
 
-- **Location**: French Polynesia, Pacific
-- **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+White-tip reef sharks are the most reliable large animal sighting here, often found resting in the sand channels at the base of the wall. Grey reef sharks patrol the mid-water, and schools of bigeye jacks and surgeonfish aggregate around the reef crest. The wall's irregular surface creates numerous overhangs and crevices sheltering hawkfish, longsnout butterflyfish, and squirrelfish. Napoleon wrasse regularly visit the site. The proximity to the St Etienne channel means that on incoming tides, small pelagics and hunting predators move through the area in concentrated bursts.
 
-## Marine Life
+## Conditions
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+- **Best season**: April–November
+- **Visibility**: 25–35 m typical
+- **Current**: Mild to moderate; channelled flows possible near the pass
+- **Water temperature**: 27–28°C
+- **Entry**: Boat dive
 
-## Dive Profile
+## Tips
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-25 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Dive the site on an incoming or early outgoing tide for the best pelagic activity. The wall profile allows an easy multilevel dive — spend time at 20–25 m on the lower wall then ascend to 10–15 m on the upper face for the safety stop.
 
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

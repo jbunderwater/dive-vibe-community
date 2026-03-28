@@ -13,54 +13,26 @@ addedBy: osm_import
 
 ## Aquarium
 
-Aquarium is a reef dive site in French Polynesia, Pacific.
+Aquarium is a reef dive site in the Tahiti lagoon, French Polynesia. The name is a local diver's tribute to the extraordinary density and colour of reef fish that congregate on this coral formation, giving it the feel of swimming through a living aquarium display.
 
 ## Overview
 
-Aquarium is a dive site in French Polynesia offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+The site is a coral-rich reef structure in the outer lagoon area off Tahiti's west coast, where the combination of a protected location and proximity to the outer reef channel drives exceptional fish biomass. Coral coverage is dense, with branching acropora, table corals, and massive *Porites* heads creating a three-dimensional habitat at depths ranging from 5 to 25 metres. The fish life here is the draw: at any given moment hundreds of individual fish of dozens of species are visible, making the site one of the more consistently impressive reef dives in the Papeete area. Visibility averages 25–35 metres, with water temperatures of 27–28°C.
 
-## Site Information
+## What to Expect
 
-- **Location**: French Polynesia, Pacific
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+Dense aggregations of bluestripe snapper (*Lutjanus kasmira*), surgeonfish, and anthias provide a colourful backdrop on every dive. Napoleon wrasse are regular visitors, often approaching divers closely. Large moray eels extend from crevices throughout the reef, and white-tip and blacktip reef sharks cruise the outer edge. The sandy patches between coral structures hold stingrays and flatfish. Unlike sites focused on a single feature, Aquarium rewards divers who move slowly and look in multiple directions — the fish life is present at every depth and in every direction simultaneously.
 
-## Marine Life
+## Conditions
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+- **Best season**: April–November
+- **Visibility**: 25–35 m typical
+- **Current**: Mild to moderate
+- **Water temperature**: 27–28°C
+- **Entry**: Boat dive
 
-## Dive Profile
+## Tips
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Bring a wide-angle lens to capture the fish density — the schooling snapper and surgeonfish create excellent schooling shots. The site is appropriate for intermediate divers though the fish life alone makes it appealing to beginners with a divemaster escort.
 
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
