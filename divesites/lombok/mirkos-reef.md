@@ -11,56 +11,56 @@ osmId: 2395669757
 addedBy: osm_import
 ---
 
-# Mirkos Reef
+## Mirkos Reef
 
-A deeper reef site between Gili Meno and the Lombok coast, known among local dive guides for pelagic encounters and seldom-dived coral gardens.
+A coral-rich reef dive in the waters between Gili Meno and the Lombok coast with diverse fish life and a deeper section for experienced divers.
 
 ## Overview
 
-Mirkos Reef is a named reef site in the waters between Gili Meno and the Lombok mainland, positioned east of the main Gili Island dive circuit. The reef rises from a sandy bottom at 35 meters up through a structured coral slope to a reef top at around 10 meters. This area sits within the Indonesian Throughflow current system that runs through the Lombok Strait, delivering nutrient-rich water from the Pacific and creating conditions that support pelagic fish alongside healthy coral growth. The site is less frequently visited than the main Gili sites, which means marine life encounters here tend to be undisturbed. The deeper sections are best suited to Intermediate divers comfortable with the 30–35 meter range.
+Mirkos Reef is a dive site in the waters around Gili Air, known as part of the broader collection of coral-rich Gili Islands dive sites. The reef features coral formations with diverse tropical reef fish and extends to 35 m at its deepest sections, though the productive zone for marine life is concentrated between 10–25 m. The site suits intermediate divers for the main reef and offers extended depth options for advanced divers wanting to explore the deeper coral formations. It is accessible as a day trip from Lombok.
 
 ## Site Information
 
-- **Location**: Between Gili Meno and Lombok mainland, Indonesia
+- **Location**: Waters near Gili Air and Gili Meno, Gili Islands / Lombok
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 35 meters (115 feet)
-- **Typical Visibility**: 10–25 meters
-- **Current**: Variable; subject to Lombok Strait tidal flow
-- **Water Temperature**: 26–30°C (79–86°F)
+- **Maximum Depth**: 35 m
+- **Typical Visibility**: 15–22 m
+- **Current**: Moderate
+- **Best Time**: May to October
 
 ## Marine Life
 
-The deeper sections below 20 meters support gorgonian sea fans, barrel sponges, and table corals. Whitetip reef sharks patrol the sandy bottom at depth. Turtles are commonly encountered on the mid-depth reef slope. Schools of snapper and fusiliers aggregate around prominent coral structures. Eagle rays occasionally transit through the area on incoming tides. The reef slope at 10–15 meters hosts cuttlefish, moray eels, and lionfish in coral overhangs. Because the site is infrequently dived, fish populations are notably relaxed around divers.
+Reef fish typical of the Gili Islands' coral triangle position — parrotfish, surgeonfish, triggerfish, butterflyfish, and wrasse. Turtles on the reef crest. Moray eels and grouper at depth. Reef sharks are occasionally sighted on the outer sections. Nudibranchs and cleaner shrimps in the coral rubble.
 
 ## Dive Profile
 
-Descend to the 25–30 meter zone for the first portion of the dive, exploring the deeper coral structures and sandy patches. Ascend gradually through the reef slope at 15–20 meters, which holds the greatest fish diversity. Complete the dive in the shallower reef top at 10–12 meters before conducting a safety stop. Given the 35-meter maximum depth, plan your profile carefully to maximise no-decompression time.
+Descend to the productive reef zone at 10–20 m and explore the coral formations. Advanced divers can extend to 25–35 m to examine the deeper structure. Ascend gradually along the reef slope and complete a standard safety stop.
 
 ## Entry and Exit
 
-Boat dive. The site is less commonly offered than the main Gili sites — ask local operators specifically about Mirkos Reef or nearby sites in the Gili Meno–Lombok channel. Longer boat rides may be required depending on the operator's base.
+Boat from Gili Islands or Lombok operators. Entry via back roll. Moderate current. SMB recommended for ascent.
 
 ## Tips and Recommendations
 
-- Less-dived sites like this reward patient, slow diving — take time at each coral structure
-- The deeper sections are worth visiting briefly early in the dive when no-decompression time is greatest
-- Nitrox is beneficial for exploring the 25–35 meter zone comfortably
-- Ask experienced local guides about current conditions before this dive — the open-channel location means conditions vary significantly with tide
+- Pair with nearby Gili Air sites for a comprehensive east coast dive day
+- The deeper sections are worth visiting for larger grouper and occasional shark encounters
+- Accessible from Lombok day-trip boats as a mid-point between Gili Air and Gili Meno
+- Search coral rubble zones carefully for nudibranchs and cleaner shrimps
+- Works well as an afternoon dive after more demanding morning sites
 
 ## Safety Considerations
 
-The deeper maximum depth and variable channel current make this site more demanding than the standard Gili tourist sites. Monitor NDL limits carefully during the deeper portion of the dive. Carry an SMB and a dive computer. Do not exceed 35 meters on recreational diving equipment.
+Currents are moderate and manageable for intermediate divers. The deeper sections should only be dived by those certified to the appropriate depth. Maintain buoyancy above coral heads. Always carry an SMB.
 
 ## Photography
 
-The undisturbed nature of this site makes it particularly good for natural-behaviour photography — fish are less habituated to divers than at heavily trafficked sites. Gorgonian fans at depth frame well with wide-angle lenses. Turtle and shark encounters with minimal diver presence in the background are a characteristic opportunity here.
+Reef fish diversity suits fish portrait work. Turtles on the reef crest. Deeper sections with larger sea fans suit wide-angle with strobes.
 
 ## Additional Resources
 
-- [Starfish.ch – Gili Islands Dive Map](https://www.starfish.ch/dive/map/Lombok-map.html)
-- [Lombok Diving Guide – BlueWater Dive Travel](https://www.bluewaterdivetravel.com/destination/lombok-diving)
-- Last Updated: 2026-03-28
+- **Last Updated**: 2026-03-28
 
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*

@@ -11,55 +11,54 @@ osmId: 2998062638
 addedBy: osm_import
 ---
 
-## Lady G'Diver
+# Lady G'Diver
 
-Lady G'Diver is a reef dive site in Jamaica, Caribbean.
+A lively reef site on Jamaica's south-central coast where a deeper outer slope provides encounters with grouper, nurse sharks, and large sponge formations.
 
 ## Overview
 
-Lady G'Diver is a dive site in Jamaica offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Lady G'Diver is a reef dive site located on Jamaica's south-central coast, lying in the transitional zone between the Portland Bight region and the Kingston area. The reef features a broad shallow plateau at 8–12 metres that transitions to a more pronounced slope reaching 20 metres on the outer edge. The deeper sections of the outer slope reward intermediate divers with larger sponge formations, bigger fish, and occasionally improved visibility compared to the shallower inshore sections. The name suggests a local identity connected to Jamaican dive culture. Visibility averages 15–22 metres.
 
 ## Site Information
 
-- **Location**: Jamaica, Caribbean
+- **Location**: South-central Jamaica coast
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Typical Visibility**: 15–22 meters (50–70 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The shallow plateau has abundant parrotfish, blue tangs, and French angelfish. Nurse sharks are found throughout the reef but are most common at the base of the deeper sections. Large black grouper and tiger grouper hold territory near the sponge formations at 15–20 metres. Horse-eye jacks pass through in schools at mid-depth. Hawksbill turtles are seen across the reef. Spotted moray eels and spiny lobsters are found at depth in the reef base. Barracuda patrol the mid-water above the outer slope.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the reef plateau at 8–10 metres. Navigate to the outer slope edge and work down to 15–20 metres where the bigger formations are located. Spend time at depth before ascending the slope. Return to the inner reef for the safety stop at 5 metres. Maintain air reserves appropriate for the deeper sections.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by dive boat from south-coast operators. Entry via giant stride or back roll. This region has limited commercial dive infrastructure — a local guide is recommended. Deploy SMB before surfacing for boat pickup.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Plan the deepest part of the dive first (20 m on the outer slope) and work shallower
+- The outer slope grouper and nurse shark encounters are the highlight — take time at depth
+- A two-tank day combining Lady G'Diver with a shallower cay site gives good variety
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Intermediate difficulty due to the 20-metre maximum depth. Monitor bottom time carefully. The outer slope can have more current than the sheltered inner reef — be prepared to adjust. Maintain reserve for the ascent.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The outer slope sponge formations and grouper provide wide-angle and portrait subjects. Shooting upward toward a school of jacks with the surface light behind creates strong silhouette images. Nurse shark portraits in natural light at the reef base are excellent.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

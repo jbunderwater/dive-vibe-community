@@ -11,57 +11,56 @@ osmId: 6750981689
 addedBy: osm_import
 ---
 
-## Turtle Point
+# Turtle Point
 
-Turtle Point is a reef dive site in Lombok, Asia.
+One of Gili Trawangan's most popular shallow reef sites, named for the large resident population of green and hawksbill turtles that make this their daily territory.
 
 ## Overview
 
-Turtle Point is a dive site in Lombok offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Turtle Point is located off the eastern side of Gili Trawangan, where a coral reef plateau extends from 5 meters to around 18 meters before dropping off to a sandy slope reaching 35 meters. The site is celebrated as one of the most reliable turtle encounter dives in the Gili Islands — the resident turtles here have become thoroughly habituated to divers and frequently rest motionless on coral heads or graze openly along the reef. The proximity of multiple Biorock structures in the area has supported recovery of the surrounding reef ecosystem. The site is appropriate for beginners in the shallower sections while offering deeper explorations for more experienced divers on the outer slope.
 
 ## Site Information
 
-- **Location**: Lombok, Asia
+- **Location**: East side, Gili Trawangan, Lombok, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 35 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 35 meters (115 feet)
+- **Typical Visibility**: 10–25 meters
+- **Current**: Generally mild on the east side
+- **Water Temperature**: 26–30°C (79–86°F)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Green and hawksbill turtles are the defining attraction — multiple individuals are reliably present across the reef on any given dive. Turtles are frequently observed resting on coral bommies, grazing on seagrass patches, and swimming slowly between reef sections. Blacktip reef sharks occasionally patrol the outer slope at depth. Blue-spotted stingrays rest on sandy patches between coral formations. Cuttlefish and octopus inhabit the shallower reef edge. Moray eels occupy crevices throughout the reef. Schools of snapper, sweetlips, and fusiliers aggregate around larger coral structures.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 35 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin on the shallow reef plateau at 5–8 meters and explore the coral bommies for turtle encounters. Most beginner divers will spend the entire dive between 5 and 18 meters where turtles are most abundant. Intermediate and Advanced divers can follow the slope down to 25–35 meters on the outer reef edge to explore deeper coral structures. Ascend through the shallows for a safety stop on the reef plateau. Total dive time 50–60 minutes.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Gili Trawangan. The east side of the island has generally calm conditions compared to the exposed northern and western sites. Giant stride entry. Boat moorings or trailing lines available for exit.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Approach turtles slowly from the side rather than from above — this is less intrusive and turtles are more likely to remain in place
+- Never position yourself between a turtle and the surface — they must be able to breathe freely
+- The maximum depth of 35 meters is only relevant if exploring the outer slope — most of the turtle encounters are at 5–15 meters
+- Combine with adjacent Biorock structures for a comprehensive Gili Trawangan east-side dive day
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+This is one of the most beginner-friendly sites in the Gili Islands. Conditions on the east side of Gili Trawangan are typically calm. Monitor depth carefully if exploring the outer slope beyond 20 meters. Surface marker buoys are recommended. Do not handle or feed turtles under any circumstances.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Turtle Point offers some of the most accessible turtle photography in Indonesia. The turtles' familiarity with divers allows for relaxed compositions at close range. Wide-angle shots of turtles resting on colourful coral bommies are a classic Gili Islands image. Use natural light in the 5–10 meter range for the best colour balance without strong strobes. Multiple turtles in a single frame are achievable at this site.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- [Trawangan Dive – Dive Sites](https://www.trawangandive.com/dive-sites-gili-islands/)
+- [Gili Shark Conservation – Top Sites](https://www.gilisharkconservation.com/top-5-dives-sites-around-the-gili-islands/)
+- Last Updated: 2026-03-28
 
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

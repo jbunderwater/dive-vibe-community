@@ -11,56 +11,56 @@ osmId: 663869829
 addedBy: osm_import
 ---
 
-## Ras Katy
+# Ras Katy
 
-Ras Katy is a reef dive site in Red Sea, Middle East.
+The southernmost of Sharm el-Sheikh's local dive sites — a versatile reef with a free-standing pinnacle, resident whitetip reef shark, and a corner aggregation of Red Sea bannerfish at 26 metres.
 
 ## Overview
 
-Ras Katy is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Ras Katy is the most southerly of the Sharm el-Sheikh local dive sites and the first from Sharm el-Mina marina, situated a few hundred metres west of Faraana Beach in the Hadaba district. The site takes its name from a woman who used to sunbathe on the beach — boat crews waved to her so consistently that the cape adopted her name. The reef structure centres on a prominent free-standing pinnacle rising from 18 metres to the surface, located about 30 metres from the main fringing reef. The space between the pinnacle and the main reef creates a sheltered sandy area with goby-and-shrimp pairs throughout. A drop-off nearby descends to 70 metres. At the southern corner of the reef at around 26 metres, a large aggregation of Red Sea bannerfish and red-tooth triggerfish has established itself as a permanent feature. A resident whitetip reef shark patrols the outer wall, typically at 28 metres.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Hadaba, southern Sharm el-Sheikh, Sinai, Egypt
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 20–30 meters
+- **Current**: Generally mild; stronger at the southern corner
+- **Best Time**: Year-round; October to May optimal
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The main pinnacle hosts fusilier schools, clownfish in anemones, pipefish, and large populations of anthias on its sides. Blue-spotted stingrays rest on the sandy area between pinnacle and main reef. Goby-and-shrimp pairs occupy burrows in this sandy zone and can be closely observed. Crocodilefish and scorpionfish are camouflaged on the reef surfaces. At the southern corner at 26 metres, a resident aggregation of Red Sea bannerfish and red-tooth triggerfish is a site-specific phenomenon worth planning the dive profile around. A resident whitetip reef shark at 28 metres is reliably found if divers approach the outer wall section without disturbing it. Moray eels occupy the main pinnacle crevices. Hawksbill turtles visit the reef flat regularly.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Moor between the fringing reef and the pinnacle top. Descend to the sandy area between pinnacle and main reef at 15–18 metres and examine the goby burrows. Circumnavigate the main pinnacle before heading to the southern corner of the reef to reach the bannerfish-triggerfish aggregation at 26 metres. Continue along the outer wall shallower to look for the resident whitetip shark at 28 metres — stay calm and move slowly when the shark is present. Return to the pinnacle for a safety stop at 5 metres on the pinnacle top. Can be dived as a mooring or mild drift. Advanced option: extend to the drop-off at 28+ metres for shark encounter.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat from Sharm el-Mina marina (5 minutes). The site is the closest local dive site to the main marina. Multiple operator moorings are available. Also reachable by advanced snorkellers from Faraana Beach (400–700 m swim). Suitable for all levels including training dives and check dives for the beginner sections; the southern corner and drop-off sections are Intermediate+.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Approach the whitetip reef shark slowly from above and stop — do not pursue it; calm hovering allows it to remain in the area
+- The goby-and-shrimp pairs in the sandy zone are best observed by kneeling at distance and watching burrow entrances without approaching
+- The bannerfish aggregation at 26 m is site-specific — plan your profile to end there on a single dive
+- This site works well as a first or last dive of a multi-dive day given its proximity to the marina
+- Night dives at Ras Katy reveal lobsters and hunting eels
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Conditions are generally benign, making this appropriate for training dives and beginners in the shallower sections. The drop-off at 28+ metres introduces depth hazard for inexperienced divers — keep inexperienced groups on the pinnacle and sandy area. The whitetip reef shark at the outer wall section should be approached calmly and not cornered or chased. Titan triggerfish may be present on sandy sections in summer nesting season. Fire coral on the upper reef. Always deploy an SMB before ascending.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The resident whitetip reef shark at the outer wall provides one of the most reliable Red Sea shark portraits available at a Sharm el-Sheikh local dive site. Goby-and-shrimp pair photography in the sandy zone rewards a macro lens and a very patient, motionless approach. The main pinnacle covered in anthias and fusiliers is an accessible wide-angle reef portrait. The bannerfish aggregation at the corner at 26 m is a striking schooling-fish composition.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

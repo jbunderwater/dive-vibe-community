@@ -11,56 +11,56 @@ osmId: 2395669755
 addedBy: osm_import
 ---
 
-# Meno Slope
+## Meno Slope
 
-Gili Meno's turtle-rich western slope — a multi-level dive on gentle coral bommies with excellent macro life and frequent hawksbill sightings.
+A gentle sloping reef on the south side of Gili Meno — an approachable dive with diverse coral cover and resident turtles.
 
 ## Overview
 
-Meno Slope runs along the western shore of Gili Meno, descending on a sandy slope from 5 meters through a series of coral bommies down to 30 meters. This is widely regarded as the best site in the Gili Islands for hawksbill turtle encounters — the animals slumber among the large coral blocks and feed on the reef throughout the day, often completely unfazed by divers. The multi-level nature of the site accommodates Intermediate divers who want to explore both the shallow bommie zone and the deeper sandy slope, where fan corals, barrel sponges, and large table corals support dense fish populations. The site is large enough for multiple dive profiles and is one of the Gili Islands' most reliably good dives year-round.
+Meno Slope is a gently inclining reef on the southern side of Gili Meno, offering a more relaxed alternative to the stronger current sites on the island's north and east sides. The slope runs from around 5 m down to 30 m and features a good mix of hard and soft coral formations with healthy fish populations. The moderate conditions make it a comfortable intermediate dive, and turtles are regularly sighted grazing along the reef crest. The site works well as a second or third dive of the day when a more relaxed dive profile is desired.
 
 ## Site Information
 
-- **Location**: Western shore, Gili Meno, Lombok, Indonesia
+- **Location**: South side of Gili Meno, Gili Islands / Lombok
 - **Entry Type**: Boat dive
-- **Site Type**: Reef slope
+- **Site Type**: Reef / Slope
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters (100 feet)
-- **Typical Visibility**: 10–25 meters
-- **Current**: Generally mild; can increase on flooding tide
-- **Water Temperature**: 26–30°C (79–86°F)
+- **Maximum Depth**: 30 m
+- **Typical Visibility**: 15–22 m
+- **Current**: Mild to moderate
+- **Best Time**: May to October
 
 ## Marine Life
 
-Hawksbill turtles are the headline species — this is among the most consistent turtle sites in the Gili Islands, with individuals sleeping between bommies and feeding on the reef. Green turtles are also present. Pygmy seahorses have been found on gorgonian fans below 20 meters. Ghost pipefish hover near soft coral branches. Hairy squat lobsters cling to feather stars. Scorpionfish blend into encrusted surfaces. Schooling snapper and batfish aggregate around the larger bommies. Pufferfish and porcupinefish cruise the reef edge. The sandy slope harbors garden eels and spotted garden eels in their burrows.
+Green and hawksbill turtles on the reef crest. Parrotfish, triggerfish, and surgeonfish are abundant. Moray eels in coral crevices. Grouper at deeper sections. Nudibranchs and cleaner shrimps in the rubble zones. Reef sharks are occasionally sighted at the base of the slope.
 
 ## Dive Profile
 
-Begin at the shallow bommie zone at 5–8 meters and spend the first part of the dive exploring the coral blocks where turtles are most commonly found. Work gradually deeper along the slope to 20–25 meters, examining gorgonian fans for seahorses and macro life. Descend to 30 meters briefly if time and air allow, then ascend through the bommie zone for a safety stop in the shallows. Total dive time of 50–60 minutes is typical.
+Descend to 20–25 m and explore the deeper coral formations before ascending the slope. The most productive zone for fish life is 8–18 m. Spend time on the reef crest in the shallows for turtle encounters. Complete a 3-minute safety stop before the ascent.
 
 ## Entry and Exit
 
-Boat dive from Gili Meno, Gili Trawangan, or Gili Air. The site is on the western, more sheltered side of Gili Meno. Entry is generally calm. Multiple operators include Meno Slope as a regular site pairing with Meno Wall on two-tank trips.
+Boat from Gili Meno or Lombok operators. Entry via back roll. Mild current. SMB recommended.
 
 ## Tips and Recommendations
 
-- Move slowly around the coral bommies — turtles are often invisible until you are within 2–3 meters
-- Carry a dive light to illuminate the undersides of bommies where lobsters and macro life shelter
-- The site is suitable for night dives — Spanish dancers, sleeping parrotfish, and cuttlefish are commonly seen after dark
-- Combine with Meno Wall for an excellent two-tank exploration of Gili Meno's western side
+- Works well as a relaxed afternoon dive contrasting with stronger current morning dives
+- Search the reef crest shallows carefully for turtle activity
+- Combine with Meno Corner and Bounty Wreck for a comprehensive Gili Meno diving day
+- The deeper sections at 25–30 m are worth exploring for larger groupers and occasional sharks
+- Accessible to intermediate Open Water divers in the main 8–20 m zone
 
 ## Safety Considerations
 
-Conditions are generally benign. Current can pick up during tidal changes, particularly on the outer bommies below 20 meters. Buoyancy control is important to avoid disturbing sleeping turtles. Do not touch turtles or block their access to the surface.
+Currents are generally mild but can increase at depth on the outer slope. Maintain depth awareness as the slope continues deeper than recreational limits. Lionfish in coral overhangs — observe without touching. Always carry an SMB.
 
 ## Photography
 
-Hawksbill turtles are the primary photographic attraction. Approach gently with a wide-angle lens — turtles resting on bommies provide portraits with natural reef backgrounds. Pygmy seahorses on gorgonian fans demand a macro lens and patience. The garden eels on the sandy slope make for unusual wide-angle subjects when approached slowly from below.
+Turtle grazing on the shallow reef crest in natural light. Fish schools on the mid-slope in natural light. The gentle slope gradient allows careful composition without fighting current.
 
 ## Additional Resources
 
-- [Manta Dive – Gili Islands Dive Sites](https://manta-dive.com/diving-gili-trawangan/gili-dive-sites/)
-- [DiveZone – Meno Slope](https://www.scubago.com/en/explore/divesite/meno-slope-100222)
-- Last Updated: 2026-03-28
+- **Last Updated**: 2026-03-28
 
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*
