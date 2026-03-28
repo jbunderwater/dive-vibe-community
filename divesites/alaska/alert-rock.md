@@ -13,61 +13,55 @@ addedBy: osm_import
 
 ## Alert Rock
 
-Alert Rock is a reef dive site in Alaska, North America.
+A submerged rocky pinnacle in Southeast Alaska's Inside Passage teeming with cold-water invertebrates and fish life.
 
 ## Overview
 
-Alert Rock is a dive site in Alaska offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Alert Rock is a submerged reef formation rising from the cold, nutrient-rich waters of the Inside Passage near Ketchikan. The rock draws strong tidal currents that funnel food to dense aggregations of anemones, sponges, and encrusting invertebrates along its flanks. Rockfish hover in mid-water above the structure, while giant Pacific octopus tuck into crevices at depth. Timing the dive to slack tide is essential, as currents here can be formidable. This is a rewarding cold-water reef site for experienced divers comfortable with dry suit diving in the Pacific Northwest.
 
 ## Site Information
 
-- **Location**: Southeast Alaska (Ketchikan area), Alaska
+- **Location**: Southeast Alaska (Ketchikan area), Inside Passage
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef / pinnacle
 - **Difficulty Level**: Advanced
-- **Typical Visibility**: 8-20 meters (26-66 feet)
-- **Current**: Strong, slack tide required
-- **Water Temperature**: 6-12°C (43-54°F)
-- **Best Time**: July-September (warmest months)
-
+- **Maximum Depth**: 25 meters (82 feet)
+- **Typical Visibility**: 8–18 meters (26–60 feet)
+- **Current**: Strong — slack tide required
+- **Water Temperature**: 6–12°C (43–54°F)
+- **Best Time**: June–September
 
 ## Marine Life
 
-The rocky formations support cold-water invertebrate communities including sea urchins, starfish, anemones, nudibranchs, and sponges. Lingcod, rockfish, and cabezon patrol the rocks. Giant Pacific octopus inhabit rock crevices. Kelp fronds extend from shallower formations.
-
+Alert Rock supports classic Inside Passage cold-water communities: aggregating anemones, cloud sponges, nudibranchs, sea stars, and encrusting bryozoans covering nearly every hard surface. Lingcod and canary rockfish patrol the rock face, while wolf eels are occasionally spotted in deeper crevices. Giant Pacific octopus are resident here, sheltering under overhangs. Keep an eye on the blue water column — Steller sea lions frequently visit this area.
 
 ## Dive Profile
 
-Descend to the rocky formation and stay close to structure for current management. Explore rock faces and crevices watching for fauna. Most dive time spent between 15-24 meters. Watch for large mobile fauna on exposed areas.
-
+Descend directly onto the rock structure and work around its perimeter, staying close to the substrate for protection from current. Most productive marine life is found between 12–24 meters on the rock faces. Plan your dive around slack water and ascend before current picks up again. Ascend along the mooring or shot line.
 
 ## Entry and Exit
 
-Boat dive access from Ketchikan or nearby operators. Descend directly on a line or GPS coordinates. Maintain group cohesion.
-
+Access is by charter dive boat from Ketchikan operators. Current conditions dictate the timing of all dives — your skipper will position the boat for a safe descent at slack. Always use a surface marker buoy (SMB) on ascent as boat traffic can be present.
 
 ## Tips and Recommendations
 
-- Book with a local dive operator familiar with slack tide schedules
-- Wear dry suit with proper thermal insulation
-- Install cold-water regulator
-- Use a dive torch for fauna spotting
-- Deploy surface marker buoy (SMB) at ascent
-- Practice buoyancy control on rocky bottom
-
+- Plan your dive around published tide charts and confirm slack with your local skipper
+- Dry suit and proper cold-water thermal protection are mandatory
+- Use a cold-water-rated regulator — first stages can freeze in these temperatures
+- A dive torch is invaluable for illuminating crevices and cloud sponge interiors
+- Deploy an SMB at the start of your ascent, not at the surface
 
 ## Safety Considerations
 
-This is an Advanced site requiring cold-water and current diving experience. Strong currents demand slack tide coordination. Limited visibility in glacier outflow requires navigation skills. Always dive with buddy, maintain group cohesion, and abort if conditions deteriorate.
-
+Strong tidal currents are the primary hazard at Alert Rock. Attempting this site outside of slack tide windows is dangerous. Dry suit proficiency is required — a wetsuit alone provides insufficient thermal protection for multiple dives. Visibility can drop during plankton blooms in summer. Always dive with a buddy and carry redundant surface signaling devices.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Rocky reef textures encrusted with colorful sponges and anemones provide excellent macro subjects. Wide-angle shots of the pinnacle structure work well during good visibility windows. Use a torch to bring out the orange and red tones of encrusting invertebrates, which appear muted under natural light at depth.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*
