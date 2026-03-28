@@ -13,55 +13,54 @@ addedBy: osm_import
 
 ## Japanese Garden
 
-Japanese Garden is a reef dive site in Koh Tao, Asia.
+Koh Tao's most beloved beginner dive — a gently sloping coral garden off Koh Nang Yuan with exceptional fish diversity and near-zero current.
 
 ## Overview
 
-Japanese Garden is a dive site in Koh Tao offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Japanese Garden is situated on the east side of the famous twin-peaked Koh Nang Yuan islet, just off the northwest coast of Koh Tao. The site features a gently sloping sandy bottom that becomes progressively deeper from a few metres to around 14 m, surrounded by abundant hard and soft corals that create the "garden" character that gives the site its name. The sandy area off the island also allows wall diving to the north for more adventurous divers. The calm, sheltered conditions, minimal current, and shallow maximum depth make this the ideal site for beginning divers, snorkellers, and Open Water training. Turtles and moray eels are regular companions throughout the site.
 
 ## Site Information
 
-- **Location**: Koh Tao, Asia
+- **Location**: East side of Koh Nang Yuan, near Koh Tao, Gulf of Thailand
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef / Coral Garden
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 14 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 14 m
+- **Typical Visibility**: 10–18 m
+- **Current**: Minimal
+- **Best Time**: May to August
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Turtles — both green and hawksbill — are frequently sighted grazing on the reef crest. Moray eels inhabit coral crevices throughout the site. Clownfish in anemones are abundant. Colourful reef fish including parrotfish, butterflyfish, surgeonfish, and wrasse are present in high density. The sandy channels between coral heads host garden eels and blue-spotted stingrays.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 14 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-14 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the sandy bottom in 6–8 m and explore the coral bommies surrounding the island. Follow the slope toward deeper sections around 12–14 m for encounters with turtles and moray eels. The north wall section extends the dive with a slightly deeper option. Ascend slowly and complete a 3-minute safety stop at the reef crest level.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat from Koh Tao (approximately 10 minutes to Koh Nang Yuan). Day visitors to Koh Nang Yuan can also snorkel the site directly. Entry via back roll or giant stride from the dive boat.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The go-to site for first-time divers and Open Water confined water dives
+- The north wall section provides more depth for divers wanting to extend the dive
+- Turtles are almost guaranteed — approach slowly and avoid following them
+- Pair with Chumpon Pinnacle or Sail Rock for a contrasting two-site day
+- Snorkelling from the beach at Koh Nang Yuan provides access to the shallows without a boat
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Conditions are calm and current is minimal — excellent for beginners. Moray eels in crevices can bite if a hand is inserted into their shelter; never probe coral holes with fingers. Maintain buoyancy above the coral to avoid contact with the reef structure. Sea urchins on the sandy bottom between bommies.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Bright natural light, clear shallow water, and abundant colourful subjects make this an excellent site for beginning underwater photographers. Turtle portraits in the shallows are achievable. Clownfish in anemones are accessible targets. The white sand and blue water create excellent backgrounds for reef fish portraits.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*

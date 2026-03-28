@@ -13,55 +13,54 @@ addedBy: osm_import
 
 ## HTMS Sattakut
 
-HTMS Sattakut is a historic wreck dive in Koh Tao, Asia.
+A World War II landing craft intentionally sunk in 2011 — Koh Tao's most accessible wreck dive and now a thriving artificial reef.
 
 ## Overview
 
-HTMS Sattakut is a dive site in Koh Tao featuring the wreck of the HTMS Sattakut. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The HTMS Sattakut (LCI 742) is a 48-metre US Navy Landing Craft Infantry vessel that participated in the Battle of Iwo Jima before being transferred to the Royal Thai Navy and eventually sunk off Koh Tao on 18 June 2011 as an artificial reef. The keel sits at 27–30 m on the sandy bottom while the top of the mast reaches 18 m, making the wreck accessible throughout its length to divers with varying depth certifications. Since sinking, the structure has been colonised by batfish, lionfish, scorpionfish, and schools of snappers. Swim-through sections add adventure for those comfortable penetrating the wreck. The nearby Hin Pee Wee pinnacle makes a complementary site for the same dive day.
 
 ## Site Information
 
-- **Location**: Koh Tao, Asia
+- **Location**: South of Koh Tao, near Hin Pee Wee pinnacle
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 30 m
+- **Typical Visibility**: 10–20 m
+- **Current**: Mild to moderate
+- **Best Time**: May to August
 
 ## Marine Life
 
-Divers at this site can expect to encounter batfish, lionfish, sweetlips, coral growth, soft corals, manta rays, whale sharks, reef sharks. Additional species commonly sighted include sea turtles, barracuda, trevally. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Large schools of batfish hover around the wreck superstructure. Lionfish and scorpionfish camouflage against the encrusted metal. Moray eels inhabit interior spaces, and large grouper patrol the hull. Nudibranch species colonise the growing coral encrustation. Occasional whale sharks have been seen from the wreck during peak season.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 30 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend to the bow or stern (follow the guide's preference for current orientation) and perform a systematic circuit of the hull. Start at the superstructure at 18 m and work down to the keel at 27–30 m. Limited swim-throughs are available for experienced wreck divers. Ascend via the mast structure and transition to Hin Pee Wee pinnacle for the safety stop and extended air.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat from Koh Tao (approximately 10–15 minutes). Entry via back roll. Mooring lines are attached to the wreck. SMB deployment recommended for open water ascent away from the mooring.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Plan your dive to start at depth and ascend progressively to make the most of no-decompression time
+- The wreck is at ideal depth to be combined with the Hin Pee Wee pinnacle in a single dive
+- Bring a torch for examining the interior spaces where critters concentrate
+- Nitrox extends bottom time on the keel at 27–30 m
+- The wreck's history makes it worth reading about before diving — context enhances the experience
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Swim-throughs should only be attempted by divers with wreck diving training or certification. Do not penetrate beyond the light zone without a line and appropriate training. Scorpionfish on the hull are well-camouflaged — do not touch any surface. Always dive with a buddy and carry redundant lights for any interior exploration.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+Wide-angle captures the full hull profile and accompanying fish schools. Batfish schools around the superstructure create dramatic school shots. Macro on the encrusting soft corals and nudibranchs growing on the hull. The bow or stern shots with a diver in frame provide the classic wreck portrait.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*

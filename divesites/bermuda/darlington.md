@@ -13,55 +13,55 @@ addedBy: osm_import
 
 ## Darlington
 
-Darlington is a historic wreck dive in Bermuda, Atlantic.
+A 19th-century iron-hulled steamer resting on its port side in Bermuda's shallow Western Reef, with its rudder almost reaching the surface.
 
 ## Overview
 
-Darlington is a dive site in Bermuda featuring the wreck of the Darlington. Located in the Atlantic region, this site offers 15-30 meters of visibility with water temperatures averaging 20-28°C.
+The Darlington was an iron-hulled British steamer powered by a 250-horsepower compound inverted engine. Carrying cotton and grain from New Orleans to Bremen, Germany, the vessel ran into trouble on the night of February 22, 1886, when Captain Richard Ward failed to assign a lookout while navigating the unfamiliar reefs surrounding Bermuda. The ship crashed into the Western Reef and became a total loss. Today the wreck lies on its port side in 6 to 9 meters of water, relatively intact despite having collapsed partially onto itself. The steam boilers, propeller shaft, deck winches, and a rudder that points toward the surface are all clearly identifiable. In stormy weather, the rudder can break the waterline, making the site visible even from the surface.
 
 ## Site Information
 
-- **Location**: Bermuda, Atlantic
+- **Location**: Western Reef, Bermuda
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 6 meters
-- **Typical Visibility**: 15-30 meters (50-100 feet)
-- **Current**: Light to moderate
-- **Best Time**: May to October
+- **Maximum Depth**: 6 meters (20 feet)
+- **Typical Visibility**: 15–25 meters (50–82 feet)
+- **Current**: Light
+- **Water Temperature**: 18–28°C (64–82°F)
+- **Best Time**: May–October
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, snappers, barracuda, coral encrustation, sea turtles, reef sharks, groupers, snappers. Additional species commonly sighted include parrotfish, angelfish. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Shallow Bermudian wreck sites like the Darlington are productive fish habitats. Schooling grunts and snapper shelter around the structural elements. Parrotfish and angelfish move through the wreckage. Resident spiny lobster occupy crevices between the collapsed hull plates. The warm, shallow environment supports coral encrustation on the exposed metal surfaces. Moray eels are common in the darker interior spaces.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 6 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+At 6 meters maximum depth, the Darlington is equally accessible to divers and confident snorkelers. Work around the identified structural landmarks — steam boilers, propeller shaft, and the prominent rudder — in a systematic circuit. The collapsed hull plates require careful buoyancy to navigate without disturbing sediment. Extended bottom times are easily achieved at this depth.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Bermuda operators. The Western Reef area is regularly visited. Giant stride or back roll entry. Shallow depth enables extended in-water time without decompression concerns. Deploy SMB for surface pickup at the end of the dive.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
+- The upward-pointing rudder is the most distinctive structural feature — locate it early for spatial orientation
+- Excellent site for photographers developing wide-angle framing skills in manageable conditions
+- The shallow depth makes this a good choice when surface conditions or wind affect deeper sites
+- Snorkelers comfortable in open water can explore this site from the boat
+- A torch illuminates interior spaces and reveals the size of resident moray eels
 
 ## Safety Considerations
 
-Be aware of boat traffic, currents, occasional swells in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+At 6 meters, depth-related hazards are minimal. The primary concerns are boat traffic in this offshore Western Reef location, and the potential for surface chop making entry/exit uncomfortable. Buoyancy control prevents silt disturbance that would rapidly reduce visibility in the confined spaces between hull plates. Always stay within sight of the dive guide.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The shallow depth and Bermuda's excellent clarity make the Darlington an accessible photography site. The rudder pointing toward the surface with light filtering down creates an iconic image. Hull plates and boilers covered in colorful encrusting life photograph well with natural light supplemented by a single strobe. Macro subjects including cleaning shrimp and encrusting invertebrates are abundant.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*

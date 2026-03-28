@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Shark Island
 
-Shark Island is a reef dive site in Koh Tao, Asia.
+Koh Tao's southeastern pinnacle — named for the island's shark-fin silhouette, with blacktip reef sharks, barracuda, and occasional whale shark visits.
 
 ## Overview
 
-Shark Island is a dive site in Koh Tao offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Shark Island is a rocky outcrop off the southeast coast of Koh Tao whose above-water profile resembles a shark fin when seen from certain angles. Underwater, the island's dramatic slopes, boulder formations, and colorful corals create one of the most scenic dive environments on Koh Tao. Blacktip reef sharks are resident here, and the site is known for strong enough current to attract schooling fish and occasionally whale sharks during peak season. The dive offers a mix of steep coral slopes, boulders, and sandy channels between 3–24 m.
 
 ## Site Information
 
-- **Location**: Koh Tao, Asia
+- **Location**: Southeast Koh Tao, Gulf of Thailand
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef / Pinnacle
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 25 m
+- **Typical Visibility**: 10–20 m
+- **Current**: Moderate; can be stronger on the exposed faces
+- **Best Time**: May to August
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Blacktip reef sharks are the primary feature — often seen cruising the deeper coral slopes. Barracuda and trevally circle the island in schools. Whale sharks are reported seasonally during peak migration periods. Stingrays rest on sandy patches between boulders. Turtles, grouper, and moray eels are common throughout the site.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend on the sheltered side and circle the island clockwise, following the coral slope from 5–20 m. The deeper sections on the more exposed faces (20–25 m) are where sharks are most frequently encountered. Ascend via the shallower side and complete a 3-minute safety stop before returning to the boat.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat from Koh Tao (approximately 15–20 minutes to the southeast). Entry via back roll. Currents on the exposed face can be significant — divers should have experience in moderate current. SMB deployment for ascent.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Circle the island to experience different habitats on each face
+- Stay calm and move slowly when blacktip reef sharks are nearby — they are not aggressive
+- The shallower boulder zone at 3–8 m is excellent for finishing a safety stop dive
+- Pair with the nearby south Koh Tao sites for a southeast coast diving day
+- Morning dives typically offer better visibility before wind picks up
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Current can be stronger on the exposed southern and eastern faces. Maintain awareness of your depth on the steeper slopes. Blacktip reef sharks are not aggressive but require respectful distance. Always carry an SMB for drift ascents away from the island.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Blacktip reef shark portraits with the coral slope in background are the signature subject. Schools of barracuda in the blue water above the island make compelling wide-angle shots. The dramatic boulder terrain suits fisheye and wide-angle landscape compositions.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*

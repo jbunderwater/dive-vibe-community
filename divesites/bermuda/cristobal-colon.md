@@ -13,55 +13,55 @@ addedBy: osm_import
 
 ## Cristobal Colon
 
-Cristobal Colon is a historic wreck dive in Bermuda, Atlantic.
+Bermuda's largest shipwreck — a 499-foot Spanish luxury liner that struck the North Shore reef in 1936 and now sprawls across 100,000 square feet of seabed.
 
 ## Overview
 
-Cristobal Colon is a dive site in Bermuda featuring the wreck of the Cristobal Colon. Located in the Atlantic region, this site offers 15-30 meters of visibility with water temperatures averaging 20-28°C.
+The Cristóbal Colón is the largest known shipwreck in Bermuda waters. This 499-foot Spanish luxury ocean liner was launched in 1923 as one of the most advanced passenger vessels of her time. In November 1936, the captain mistakenly identified an offshore communications tower as a local lighthouse and drove the ship into a coral reef off Bermuda's North Shore. The wreck sat partially exposed at the surface for nearly a decade, stripped and salvaged, before being used as a bombing target by the Royal Air Force during World War II. Today the shattered wreckage is scattered across 100,000 square feet of seabed between 5 and 18 meters depth, and can be enjoyed by both snorkelers and divers. The scale of the debris field and the unexploded munitions from the RAF practice make this one of Bermuda's most historically layered wreck sites.
 
 ## Site Information
 
-- **Location**: Bermuda, Atlantic
+- **Location**: North Shore reef, Bermuda
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 15-30 meters (50-100 feet)
+- **Maximum Depth**: 18 meters (60 feet)
+- **Typical Visibility**: 15–30 meters (50–100 feet)
 - **Current**: Light to moderate
-- **Best Time**: May to October
+- **Water Temperature**: 18–28°C (64–82°F)
+- **Best Time**: May–October
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, snappers, barracuda, coral encrustation, sea turtles, reef sharks, groupers, snappers. Additional species commonly sighted include parrotfish, angelfish. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The enormous debris field of the Cristóbal Colón hosts a rich and diverse marine community. Massive schools of fish navigate between the scattered structural elements. Large black grouper patrol the deeper sections. The engines, propellers, and prop shafts provide hard substrate for coral and sponge colonization. Resident green turtles are frequently reported. The stern section at 18 meters preserves bathtubs and green-tiled bathroom fittings — an extraordinary snapshot of 1930s passenger vessel luxury.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 18 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The vast scale of this wreck means multiple dives are needed to cover it comprehensively. A first dive typically focuses on the most recognizable structural features: engines, propellers, and boilers in the 12–18 meter range. A second dive can explore the shallower northern sections accessible to snorkelers. Navigation across the debris field uses prominent structural landmarks.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from North Shore operators or Bermuda dive centers. The site is well-known to all operators. Giant stride entry. The surface swim from the boat to the wreck is short at most mooring positions.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Multiple dives are needed to explore the full 100,000-square-foot debris field
+- The stern section's tile-lined bathrooms are a highlight not to miss on at least one dive
+- Unexploded RAF ordnance is present on site — observe but never touch or disturb any metallic objects
+- Snorkelers can explore the shallower sections independently — organize boat logistics accordingly
+- Bermuda's clear North Shore visibility makes this excellent for wide-angle photography
 
 ## Safety Considerations
 
-Be aware of boat traffic, currents, occasional swells in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+The depth range (5–18 meters) is accessible but the scale and complexity of the debris field can cause navigation confusion. Always maintain orientation relative to the surface and the boat. Unexploded RAF practice bombs are present — these are a real hazard and must not be approached, touched, or disturbed under any circumstances. Notify your operator immediately if any suspicious cylindrical objects are encountered.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The Cristóbal Colón is one of Bermuda's premier photography wrecks. The combination of massive structural debris, abundant marine life, and extraordinary visibility creates exceptional wide-angle compositions. The intact stern section with Portuguese-tiled bathrooms is unique photographic material. Natural light at the shallower sections is excellent.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*

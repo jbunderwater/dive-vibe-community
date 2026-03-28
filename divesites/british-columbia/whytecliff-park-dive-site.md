@@ -11,114 +11,58 @@ osmId: 12589868010
 addedBy: osm_import
 ---
 
-## Whytecliff Park Dive Site
+# Whytecliff Park Dive Site
 
-Whytecliff Park is a premier shore dive destination in West Vancouver featuring spectacular kelp forests, abundant marine life, and excellent accessibility for divers of all skill levels.
+One of Metro Vancouver's most beloved shore dives, offering dense bull kelp forests, resident wolf eels, and easy year-round access at the tip of West Vancouver.
 
 ## Overview
 
-Whytecliff Park is located at the western tip of West Vancouver, just south of Horseshoe Bay Village, approximately 15 minutes from Lions Gate Bridge. The park features two distinct diving areas with different difficulty profiles, making it accessible to both beginners and advanced divers. The Bay area offers protected, sloping terrain ideal for skill practice and shallow exploration. The Cut (northern section) features stronger currents and deeper diving for experienced divers. Both areas are characterized by dense bull kelp forests that carpet shallow walls and provide shelter for abundant fish and invertebrate communities.
+Whytecliff Park sits at the western edge of West Vancouver near Horseshoe Bay, roughly 15 minutes from Lions Gate Bridge. The park encompasses two distinct dive areas: The Bay, a sheltered cove with gentle slopes accessible to beginners, and The Cut, a current-swept channel on the north side that demands intermediate skills and careful slack-tide planning. Both areas share the same rich Pacific Northwest marine community — dense bull kelp canopy, encrusting anemone gardens, and a well-documented wolf eel population that has made Whytecliff famous among BC divers. Water temperature runs 8–12°C year-round, making a drysuit the sensible choice for extended dives.
 
 ## Site Information
 
-- **Location**: West Vancouver, British Columbia (Horseshoe Bay area)
-- **Entry Type**: Shore entry
-- **Site Type**: Kelp
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-15 meters
-- **Current**: Mild in Bay area; strong in The Cut (requires slack tide)
-- **Best Time**: Year-round (some prefer November-May for cooler visibility)
-- **Water Temperature**: 8-12°C (cold water diving required)
-
-## Dive Areas
-
-**The Bay (Protected Area)**
-- Shallow sloping bottom (5-15 meters)
-- Protected from surge and strong currents
-- Ideal for skill practice and confidence building
-- Abundant shallow kelp forest
-- Great anemone gardens
-- Multiple exit options
-- Difficulty: Beginner to Intermediate
-
-**The Cut (Northern Section)**
-- Deeper diving (15-25+ meters)
-- Strong currents during tidal exchange
-- Exposed to open water without cove protection
-- Requires excellent buoyancy control
-- Must dive at slack tide
-- More challenging conditions and navigation
-- Difficulty: Advanced Intermediate to Advanced
+- **Location**: West Vancouver, British Columbia — Horseshoe Bay area
+- **Entry Type**: Shore
+- **Site Type**: Kelp forest
+- **Difficulty Level**: Intermediate (Beginner in The Bay; Advanced in The Cut)
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 5–15 metres; best October through March
+- **Current**: Calm in The Bay; strong tidal flow in The Cut — slack tide essential
+- **Best Time**: Year-round; autumn and winter offer highest clarity
 
 ## Marine Life
 
-The kelp forests shelter extraordinary biodiversity:
-- **Fish species**: Rockfish (multiple varieties), ling cod, kelp greenling, garibaldi, sheephead
-- **Large animals**: Wolf eels (iconic residents), giant Pacific octopus, seals
-- **Invertebrates**: Sea cucumbers, sea urchins, anemones (abundant clusters)
-- **Seasonal species**: Nudibranchs (particularly colorful in cooler months)
-- **Vegetation**: Bull kelp (seasonal), various algae and kelp species
+Whytecliff's resident wolf eels are a signature attraction — pairs occupy rocky dens in The Bay and have been photographed for decades. Giant Pacific octopus tuck under boulders throughout both areas. Lingcod and quillback rockfish patrol the kelp edges, while copper and China rockfish shelter in crevices. Plumose anemones form dense white clusters on exposed surfaces, and nudibranchs — including the vivid opalescent nudibranch — appear throughout the year. Harbour seals frequently escort divers, and the occasional sea lion passes through during winter.
 
 ## Dive Profile
 
-**Bay Dive (Beginner-Friendly)**
-- Enter via established shore access
-- Descend to 5-10m in kelp forest
-- Explore anemone gardens and shallow rocky areas
-- Maximum depth 15-20m
-- Ascend with safety stop
-- 30-40 minute dive typical
+**The Bay**: Enter from the gravel beach and descend gradually through a kelp canopy to sand and rock at 10–15 metres. The terrain slopes gently; most marine life concentrates between 6 and 14 metres. A natural rocky ridge on the south side shelters wolf eel dens.
 
-**The Cut Dive (Advanced)**
-- Requires slack tide planning
-- Stronger currents demand swift descent/ascent
-- Bottom time at 20-25m: 15-20 minutes
-- Must exit before current picks up
-- Extended safety stop (5+ minutes)
+**The Cut**: A narrow channel on the north side of Whytecliff Point. Descend quickly at slack and explore the kelp-draped rock walls to 15–18 metres. Exit before the ebb or flood builds — current here can exceed 2 knots within 30 minutes of slack.
 
 ## Entry and Exit
 
-Direct shore access from Whytecliff Park:
-- **Facilities**: Ample parking, concession stand, change facility
-- **Access**: Easy access during high tide; low tide requires walking further
-- **Best timing**: Slack tide (consult local tide tables)
-- **Parking**: Fee parking available
-- **Amenities**: Picnic areas, viewing platforms
+Gravel beach entry from the park. Parking is available (fee required). Facilities include toilets, change areas, and picnic sites. The shallow entry is comfortable at high tide; at low tide a longer wade over rocky substrate is required. Exit at the same beach; an SMB is useful if you drift toward the open water side.
 
 ## Tips and Recommendations
 
-- **Consult tide tables carefully**—current conditions vary significantly
-- **Best times**: Slack tide periods are critical, especially for The Cut
-- **Kelp diving tips**: Move deliberately through kelp, watch for entanglement, secure all loose gear
-- **Photography**: Kelp forests provide dramatic wide-angle subjects, especially with natural light
-- **Season**: Bull kelp peaks in autumn/winter—best for dramatic imagery
-- **Skill development**: The Bay area is excellent for advancing buoyancy and kelp awareness skills
-- **Low tide**: Entry can be awkward; dive during or near high tide when possible
-- **Temperature**: Water remains cold (8-12°C) year-round; thermal protection essential
+- Check Environment Canada's current predictions for Howe Sound before diving The Cut
+- Drysuits strongly recommended; the bull kelp canopy can snag loose hoses and tank valves
+- Morning light penetrates the kelp canopy best for photography
+- The wolf eel dens are on the south wall of The Bay — approach slowly and stay neutral
+- Parking fills early on summer weekends; arrive before 9 am
 
 ## Safety Considerations
 
-This is an Intermediate site with significant skill requirements in certain areas:
-- Cold water (8-12°C) requires proper thermal protection (7mm+ wetsuit or drysuit)
-- Entry at low tide can be challenging—consult tide tables
-- The Bay is beginner-friendly with proper training
-- The Cut is Advanced only—strong currents, not for new divers
-- Kelp-specific hazards: entanglement risks require awareness and technique
-- Entry near strong tidal exchange periods can create dangerous conditions
-- Current can be very strong during tide change—slack tide is essential
-- Always dive with a buddy and use proper signaling devices
-- Carry surface marker buoy for boat traffic awareness
-- Maintain excellent buoyancy control near kelp
-- Never attempt penetrations or technical diving without appropriate training
+The Cut carries genuine current risk — time your entry to within 45 minutes of predicted slack. Boat traffic in Howe Sound is active; surface with an SMB deployed. Kelp entanglement is uncommon for streamlined divers but have a dive knife accessible. Cold water requires a properly sealed drysuit or a thick semidry; hypothermia sets in quickly at depth in 8°C water.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Bull kelp towers make dramatic wide-angle subjects when the sun angle is right in morning hours. The wolf eel dens offer close-focus portrait opportunities; use a single strobe aimed from above to avoid backscatter in the kelp forest. Nudibranch macro is productive on the rocky substrate in The Bay from October onward.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- Last Updated: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

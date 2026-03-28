@@ -13,55 +13,55 @@ addedBy: osm_import
 
 ## Constellation
 
-Constellation is a historic wreck dive in Bermuda, Atlantic.
+The inspiration for Peter Benchley's novel *The Deep*, this WWII-era wreck lies just 9 meters down amid a scattered cargo of cement bags, slate, and whisky bottles.
 
 ## Overview
 
-Constellation is a dive site in Bermuda featuring the wreck of the Constellation. Located in the Atlantic region, this site offers 15-30 meters of visibility with water temperatures averaging 20-28°C.
+The Constellation was a 192-foot wooden-hulled, four-masted sailing vessel converted to cargo use during World War II. In July 1943, en route from New York to Venezuela, she struck a reef northwest of Bermuda and sank — carrying a cargo of cement bags, sheets of slate for pool tables, lead crucifixes, drug ampoules, glassware, and 700 cases of Scotch whisky. Her scattered cargo lying in just 9 meters of water inspired author Peter Benchley's 1974 novel *The Deep* and its subsequent film adaptation. The Constellation sits very close to the wreck of the Civil War-era Montana, effectively offering a two-wreck dive in a single excursion four miles northwest of the island.
 
 ## Site Information
 
-- **Location**: Bermuda, Atlantic
+- **Location**: Northwest Bermuda reef, approximately 4 miles from the island
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 9 meters
-- **Typical Visibility**: 15-30 meters (50-100 feet)
-- **Current**: Light to moderate
-- **Best Time**: May to October
+- **Maximum Depth**: 9 meters (30 feet)
+- **Typical Visibility**: 15–30 meters (50–100 feet)
+- **Current**: Light
+- **Water Temperature**: 18–28°C (64–82°F)
+- **Best Time**: May–October (August–October for best visibility)
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, snappers, barracuda, coral encrustation, sea turtles, reef sharks, groupers, snappers. Additional species commonly sighted include parrotfish, angelfish. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Gray snappers and small barracuda frequent the scattered wreck site. The cement bag pyramids stacked in rows attract juvenile fish seeking shelter. Parrotfish, angelfish, and sergeant majors move through the wreckage. The shallow sandy bottom and nearby coral heads support blue tangs, moray eels, and resident spiny lobster. The proximity to the Montana wreck means a combined dive covers an expanded area of reef and wreck habitat.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 9 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The shallowness makes this an ideal beginner wreck and a perfect snorkel site — the 50-pound cement bags are accessible at just 8 feet below the surface. Divers typically cover the scattered cargo field across a wide sand flat. Visible highlights include the intact pyramids of cement bags, scattered medicine ampoules (iconic from the Benchley book), and the ship's structural remains. Budget time to visit the neighboring Montana on the same dive.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+The site is buoyed under the Bermuda Dive Sites program, making it easy to locate. Boat dive from any Bermuda operator. Giant stride or back roll entry. The shallow depth allows extended exploration times.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
+- Read or watch *The Deep* before your dive for context — the cargo manifest is even more interesting with that background
+- The nearby Montana wreck can be visited on the same dive — plan navigation between the two sites
+- Snorkelers can experience the upper cargo in very shallow water
+- Slack tide conditions improve visibility over the sandy wreck floor
+- Drug ampoules from the cargo are protected historical artifacts — do not disturb or remove
 
 ## Safety Considerations
 
-Be aware of boat traffic, currents, occasional swells in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+At 9 meters, this is one of Bermuda's most accessible wrecks. The primary hazards are boat traffic in the offshore location and the occasional swells that make the surface crossing uncomfortable. Always stay with your dive group and deploy an SMB for boat pickup. The offshore location means weather windows should be assessed before departure.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The scattered cargo field provides unique photographic subjects not found on typical wreck dives — rows of cement bags, intact glassware half-buried in sand, and historical ampoules. Wide-angle shots of the cargo field in excellent Bermuda visibility capture the surreal quality of this site. Natural light photography is practical in the 9-meter depth range.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*

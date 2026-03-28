@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Water Walk
 
-Water Walk is a reef dive site in Bali, Asia.
+A reef and channel dive near Sanur offering accessible tropical diving with cuttlefish, sea snakes, and colourful reef fish.
 
 ## Overview
 
-Water Walk is a dive site in Bali offering rewarding diving on healthy coral reef structures . Reef dive site in Nusa Penida area. Intermediate-level reef diving with healthy coral structures and varied marine life.. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Water Walk is a reef dive site in south Bali near Sanur, positioned in the sheltered waters of the coast. The site offers a pleasant tropical reef experience with coral gardens on a gradual slope accessible by short boat transfer. Like other Sanur area sites, it is characterised by calm conditions and moderate visibility, making it well-suited for intermediate divers and as a convenient day dive option from the south Bali resort areas. The reef hosts a representative cross-section of Bali's coastal marine life, including species characteristic of the Sanur bay system.
 
 ## Site Information
 
-- **Location**: Bali, Asia
+- **Location**: South Bali, Sanur area
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 20 m
+- **Typical Visibility**: 10–18 m
+- **Current**: Generally mild
+- **Best Time**: April to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Cuttlefish are frequently sighted and are typically approachable. Banded sea snakes cruise the reef in a non-aggressive manner. Batfish and moray eels are common. Nudibranchs and octopus inhabit the reef rubble. Reef fish typical of the region — triggerfish, parrotfish, surgeonfish, and butterflyfish — are abundant.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend from the jukung boat to the reef at 5–8 m. Follow the coral slope to 15–20 m, exploring coral heads and sandy patches. Cuttlefish are often found hovering near the reef edge. Ascend gradually and complete a 3-minute safety stop in the shallow zone before returning to the boat.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Short jukung boat ride from Sanur beach. Entry via back roll or giant stride. Conditions are usually straightforward. SMB recommended for safe ascent signalling in the boat channel.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- An ideal site for divers based in south Bali wanting a convenient dive day close to the hotels
+- Look for cuttlefish hovering motionlessly near the reef edge — they often stay for close observation
+- Sea snakes are harmless if not handled — a close-up encounter is a highlight of south Bali diving
+- Combine with a Nusa Penida trip the next day for a contrasting experience
+- Afternoon dives can include excellent cuttlefish sightings as they become more active
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of boat traffic in the Sanur channel — deploy SMB before surfacing. Sea snakes are venomous if provoked — observe without touching. Lionfish rest under overhangs throughout the reef. Maintain good buoyancy over the reef structure.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Cuttlefish portrait shots are accessible here — their colour-changing skin makes for compelling close-up images. Sea snakes create interesting mid-water compositions. Wide-angle with a diver in the frame shows the classic Bali reef character.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*

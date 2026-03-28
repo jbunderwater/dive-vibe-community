@@ -13,55 +13,55 @@ addedBy: osm_import
 
 ## Hermes
 
-Hermes is a historic wreck dive in Bermuda, Atlantic.
+A 165-foot ex-Navy buoy tender scuttled in 1984 as Bermuda's most popular artificial reef, sitting upright on a pristine sandy bottom.
 
 ## Overview
 
-Hermes is a dive site in Bermuda featuring the wreck of the Hermes. Located in the Atlantic region, this site offers 15-30 meters of visibility with water temperatures averaging 20-28°C.
+The Hermes was built in 1943 as a buoy tender for the United States Navy. After the war, she served various roles until finally breaking down en route to the Cape Verde Islands and being abandoned in Bermuda. The Bermuda Dive Association purchased her for just one dollar and scuttled her in 1984 as an artificial reef, ensuring her hatches were removed beforehand for diver safety. Today she sits upright on a flat sandy bottom in 24 meters of water, her mast rising toward the surface, surrounded by pristine reef. Photographers and wreck divers consider her Bermuda's most consistently photogenic wreck — fully intact, well-orientated, and colonized with schooling fish, black grouper, and corals in Bermuda's characteristically clear water.
 
 ## Site Information
 
-- **Location**: Bermuda, Atlantic
+- **Location**: South Shore, Bermuda
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 24 meters
-- **Typical Visibility**: 15-30 meters (50-100 feet)
+- **Maximum Depth**: 24 meters (75 feet)
+- **Typical Visibility**: 20–40 meters (65–130 feet)
 - **Current**: Light to moderate
-- **Best Time**: May to October
+- **Water Temperature**: 18–28°C (64–82°F)
+- **Best Time**: May–October
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, snappers, barracuda, coral encrustation, sea turtles, reef sharks, groupers, snappers. Additional species commonly sighted include parrotfish, angelfish. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The Hermes hosts one of the most diverse fish communities of any Bermuda wreck. Schools of yellowtail snapper, barracuda, and gray snapper swirl around the hull. Large black grouper — some exceeding 1 meter — patrol the forward cargo hold and engine room. The mast is typically surrounded by baitfish that attract larger predators. Resident spiny lobster and moray eels occupy the internal spaces. The surrounding pristine reef adds parrotfish, angelfish, and occasional sea turtle sightings.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 24 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend to the deck level (approximately 18 meters) and work systematically from bow to stern before dropping to the sandy bottom at 24 meters. The forward cargo hold, crew compartments, and engine room are all accessible without special equipment given the pre-scuttling preparation. The mast ascending from the deck is a photogenic landmark. Allow time to circle the hull exterior and observe the surrounding reef.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from South Shore operators. The Hermes is buoyed and visited by virtually every operator. Giant stride entry. Ascend the mast for a natural visual reference during ascent and safety stop.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- The Hermes rewards multiple dives — fresh perspectives emerge each time
+- Visit the engine room for the largest black grouper encounters
+- The mast is one of Bermuda's most iconic safety stop venues, surrounded by fish
+- Morning dives in summer benefit from the best light angles for natural light photography
+- Combine with the nearby Southwest Breaker reef for a comprehensive dive day
 
 ## Safety Considerations
 
-Be aware of boat traffic, currents, occasional swells in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+The 24-meter depth requires standard recreational diving depth management and no-decompression awareness. Penetration of the forward hold and engine room is safe with normal equipment given the removed hatches, but good buoyancy skills are needed to avoid silt disturbance in interior spaces. Monitor your air supply carefully and begin ascent with adequate reserve.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The Hermes is widely regarded as Bermuda's best photography wreck. The intact, upright orientation combined with outstanding visibility creates ideal conditions for wide-angle hull compositions. The mast surrounded by schooling fish is a signature shot. Interior rooms offer dramatic ambient light from removed hatches. Macro subjects — cleaning shrimp, blennies, encrusting corals — abound on the hull surfaces.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*

@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Green Rock
 
-Green Rock is a reef dive site in Koh Tao, Asia.
+An advanced diver's playground near Koh Nang Yuan — granite boulders create dramatic swim-throughs, caves, and channels with healthy coral and triggerfish.
 
 ## Overview
 
-Green Rock is a dive site in Koh Tao offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Green Rock sits near the twin-peaked Koh Nang Yuan and is one of Koh Tao's most dynamic dive sites for experienced divers. Huge granite boulders have tumbled together to create a labyrinth of swim-throughs, caverns, and channels that reward multiple dives with continued discovery. The site has a rugged, adventurous character distinct from the more open reef sites on the island, and the complex topography provides shelter for diverse marine life. The triggerfish population is notable here — during nesting season (June–August), titan triggerfish are particularly territorial and require careful navigation around their circular nesting sites.
 
 ## Site Information
 
-- **Location**: Koh Tao, Asia
+- **Location**: Near Koh Nang Yuan, northwest Koh Tao, Gulf of Thailand
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef / Boulder / Swim-through
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 25 m
+- **Typical Visibility**: 10–18 m
+- **Current**: Variable; can be significant around the rock formations
+- **Best Time**: May to August
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Titan triggerfish are prominent residents, particularly during nesting season (June–August). Sea snakes cruise through the boulder channels. Turtles, stingrays, and moray eels are common. Parrotfish and trevally circle the outer rocks. Nudibranchs inhabit crevices throughout the boulders. Banded sea snakes are frequently seen in the deeper channels.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the site and orient yourself with the boulder system before exploring the swim-throughs. Work systematically from the deeper channels (20–25 m) up through the shallower swim-throughs (5–15 m). Take your time in each passage as each one is different. Current can funnel through the channels — check conditions before entering each swim-through. Ascend via the shallower boulder zones for the safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat from Koh Tao (approximately 10 minutes). Entry via back roll. The site's complex topography means navigation briefings are important — follow the guide on first visits. SMB deployment from open water at the end of the dive.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Advanced Open Water certification minimum due to the complex topography and variable current
+- Do not enter swim-throughs alone — always have a buddy and a clear exit plan
+- During June–August nesting season, maintain a wide arc around titanfish nests (white circular depressions in sand)
+- Multiple dives are needed to explore the full extent of the boulder system
+- Combine with Japanese Garden for a varied Koh Nang Yuan diving day
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Titan triggerfish attack without warning during nesting season — their territory extends in a cone from the nest upward. If charged, swim horizontally out of the cone rather than ascending. Do not enter narrow swim-throughs without confirming an exit. Variable currents can make it difficult to hold position in channels. Always carry an SMB.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Swim-through silhouette shots are the defining image of Green Rock — position a diver in the exit opening and shoot from inside the tunnel. Sea snakes in the channels make atmospheric subjects. The complex boulder topography creates compelling wide-angle compositions.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*
