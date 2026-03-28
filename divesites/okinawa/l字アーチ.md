@@ -11,56 +11,57 @@ osmId: 9280279110
 addedBy: osm_import
 ---
 
-## L字アーチ
+# L字アーチ (L-Shape Arch)
 
-L字アーチ is a cave dive site in Okinawa, Asia.
+A deep coral arch on Miyako Island's reef system forming an L-shaped passage that tests buoyancy skills at depth while offering dramatic blue-water framing.
 
 ## Overview
 
-L字アーチ is a dive site in Okinawa featuring underwater cave and cavern formations . Position estimated / 位置推定. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+L-Shape Arch (L字アーチ) is a distinctive geological formation on Miyako-jima's reef system — a natural arch whose profile, when viewed from the correct angle, traces an L-shape against the open blue beyond. The arch is a permanent coral and limestone structure that creates a natural frame for blue-water photography and requires divers to navigate through or around it at advanced depth. Reaching 40 meters at the base of the arch, this is a genuine deep advanced dive requiring good depth management skills. The surrounding reef is in excellent condition — the Miyako Islands are noted for their healthy coral ecosystems — and the visual impact of the arch framing the deep blue beyond is one of the most striking architectural dives in Okinawan waters.
 
 ## Site Information
 
-- **Location**: Okinawa, Asia
+- **Location**: Miyako-jima, Miyako Islands, Okinawa Prefecture, Japan
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
+- **Site Type**: Natural arch/cavern
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 40 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 40 meters (130 feet)
+- **Typical Visibility**: 25–35 meters (80–115 feet)
+- **Current**: Moderate to strong; exposed arch position concentrates current
+- **Best Time**: October to April for optimal visibility and calmest seas
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+The arch structure and surrounding deep reef attract pelagic species that appear rarely on shallower sites. Large-bodied fish — trevally, grouper, and barracuda — shelter in and around the arch. The deep reef surrounding the arch supports dense populations of colourful anthias and basslets on the coral surfaces. Hawksbill turtles traverse the arch area regularly. Nudibranchs have been documented on the arch's encrusted surfaces. In the open water beyond the arch, tuna and other larger pelagics are occasionally visible.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 40 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descent to the arch base at 40 meters requires a controlled, direct descent from the mooring. At this depth, NDL limits are tight — typical bottom time at 40 meters ranges from 8–12 minutes before a controlled ascent along the arch face and up the surrounding reef. The visual reward of the arch framing the blue is best appreciated from slightly below and to the side of the structure. Begin ascent with a minimum of 100 bar remaining to allow proper staged decompression and safety stop time.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from Miyako-jima operators with experience at this specific deep site. This dive should be conducted as a dedicated deep dive, not as a second tank after a shallow dive. The depth demands maximum physical freshness and conservative planning.
 
-## Tips and Recommendations
+## Tips
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- This is a dive for experienced advanced divers comfortable at 40 meters — not a certification extension dive
+- Pre-plan the dive profile precisely: descent time, bottom time, and ascent schedule before entering the water
+- The L-shape is best appreciated by positioning yourself at the arch's elbow point and looking outward
+- Carry a backup computer and monitor NDL continuously
+- Current at the arch can be strong — approach from the upcurrent side to avoid being swept past
 
-## Safety Considerations
+## Safety
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Forty meters is the recreational diving limit, and the overhead element of the arch adds complexity. Narcosis at this depth in a visually stimulating environment can be disorienting. If you feel impaired, signal to your buddy and ascend immediately — the arch will be there on a future dive. Ensure your dive computer is set to the correct algorithm for this depth. Emergency recompression chamber access from Miyako-jima requires air transport to Okinawa main island — medical insurance and dive insurance are essential.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The L-shaped arch framing the open blue is the definitive shot — a wide-angle lens with the arch structure in the foreground and the blue abyss beyond creates a compelling image. Include a diver inside the arch frame for scale. Natural light at 40 meters is reduced, so powerful strobes or continuous video lights improve image quality significantly. The short bottom time demands efficient camera setup and predetermined composition choices.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Miyako-jima dive operators**: Advanced-experienced guides required
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

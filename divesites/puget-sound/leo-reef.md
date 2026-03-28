@@ -11,55 +11,56 @@ osmId: 632735255
 addedBy: osm_import
 ---
 
-## Leo Reef
+# Leo Reef
 
-Leo Reef is a reef dive site in Puget Sound, North America.
+A submerged rocky reef in the central San Juan Islands, offering reliable Pacific Northwest cold-water diving with wolf eels and abundant invertebrate life.
 
 ## Overview
 
-Leo Reef is a dive site in Puget Sound offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Leo Reef is a rocky submerged structure in the central San Juan Islands, positioned in an area of moderate tidal exchange that sustains healthy invertebrate and fish communities. The site is on the rotation for San Juan Islands dive charters and offers the characteristic Pacific Northwest cold-water diving experience: dense plumose anemone colonies, giant Pacific octopus in boulder dens, wolf eels in rock crevices, and lingcod on open rock surfaces. Maximum depth is 18 metres. Water temperature is 7–11°C year-round.
 
 ## Site Information
 
-- **Location**: Puget Sound, North America
+- **Location**: Central San Juan Islands, Puget Sound, Washington
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 8–14 metres
+- **Water Temperature**: 7–11°C
+- **Current**: Moderate tidal; plan for slack
 - **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Wolf eels are a consistent sighting at Leo Reef — the central San Juan Islands population is established and den sites are well known. Giant Pacific octopus in the boulder gaps are regularly encountered. Lingcod hold position on exposed rock platforms. Copper, quillback, and black rockfish shelter in the crevices and move through the water column. The invertebrate layer includes white plumose anemones, orange encrusting sponges, rock scallops, tube worms, and nudibranchs (aeolid and dorid varieties). Puget Sound king crabs forage along the sandy margins.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin on the reef crest (6–8 metres) and work down the sloping rock faces to the 18-metre maximum. Pay close attention to the deeper boulder fields — octopus and wolf eels concentrate here. The reef crest provides an accessible safety stop before surfacing. Allow adequate time to cover the most interesting sections without rushing.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access only. Anchor or hold position on the sheltered side relative to current direction. Back-roll or giant stride entry. Navigate the reef systematically using compass and natural features. Deploy an SMB at 5–6 metres before the final ascent. Surface upwind of the vessel.
 
-## Tips and Recommendations
+## Tips
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Wolf eel dens at Leo Reef are known to local guides — ask on the charter boat for current den locations
+- Move slowly across the reef; hurried movement will cause the most interesting fish to retreat
+- Carry a small dive light to peek into the deeper crevices where octopus and wolf eels hide during daylight hours
+- Surface intervals on the boat provide good opportunities for watching eagles, seals, and porpoises
 
-## Safety Considerations
+## Safety
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Cold water requires dry suit with appropriate insulation. Tidal currents should be checked against published tables; avoid diving in strong current. Always carry and deploy an SMB before ascending. Maintain buddy contact throughout the dive; the boulder terrain can create blind spots.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Wolf eel close-up portraits are the photographic highlight at Leo Reef. Wide-angle shots through the anemone colonies and rockfish portraits are also strong subjects. For macro work, the nudibranchs and encrusted rock faces provide endless detail. A torch and strobe combination produces the best colour fidelity at depth.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

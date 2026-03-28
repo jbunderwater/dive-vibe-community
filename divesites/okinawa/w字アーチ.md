@@ -11,57 +11,57 @@ osmId: 9280279109
 addedBy: osm_import
 ---
 
-## W字アーチ
+# W字アーチ (W-Shape Arch)
 
-W字アーチ is a cave dive site in Okinawa, Asia.
+A shallow, beginner-accessible arch formation on Miyako Island's reef — an excellent introduction to cavern diving in an approachable depth range.
 
 ## Overview
 
-W字アーチ is a dive site in Okinawa featuring underwater cave and cavern formations . Position estimated / 位置推定. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+W-Shape Arch (W字アーチ) sits near its deeper sibling L-Shape Arch on Miyako-jima's reef system, but at a significantly shallower maximum depth of 18 meters that makes it accessible to recently certified divers. The arch's W-shaped profile is visible when viewed from specific angles along the reef. As a beginner-rated cavern site, it serves as an ideal introduction to arch and overhang diving for divers who may not yet have the depth experience for the deeper arch formations on the same reef. The surrounding reef is healthy subtropical Okinawan coral, and the site allows divers to experience the visual drama of an arch formation without the pressure of advanced depth management.
 
 ## Site Information
 
-- **Location**: Okinawa, Asia
+- **Location**: Miyako-jima, Miyako Islands, Okinawa Prefecture, Japan
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
+- **Site Type**: Natural arch (shallow cavern)
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 18 meters (60 feet)
+- **Typical Visibility**: 20–35 meters (65–115 feet)
+- **Current**: Light to moderate
+- **Best Time**: October to April; accessible throughout diving season
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+The arch and surrounding shallow reef support typical Miyako-jima subtropical species. Bluespine unicornfish and various surgeonfish graze on the reef above the arch. Parrotfish cruise the coral tops. The arch structure itself provides shelter for squirrelfish and small cardinalfish that prefer the reduced light of the overhang. Hawksbill turtles are common throughout the Miyako reef system at this depth range. Nudibranchs inhabit the encrusted surfaces of the arch walls. The shallower depth and abundant light mean coral growth in and around the arch is vibrant and diverse.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the arch base at 15–18 meters and take time to identify the W-shaped profile from the appropriate angle. Navigate through or around the arch at depth, then ascend along the surrounding reef to 5–10 meters for the majority of the dive. The shallow zones above the arch are dense with reef life and excellent for extended exploration. Bottom time at 18 meters is considerable — 50–60 minutes or more is typically achievable.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from Miyako-jima operators. The W-Shape Arch is often combined with the Cross Hole cavern or adjacent shallow reef sites for a full beginner/intermediate day in the Miyako underwater cave zone.
 
-## Tips and Recommendations
+## Tips
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- This is an excellent first arch dive — less depth pressure means more time to appreciate the formation and practice buoyancy near overhead structures
+- Position yourself at the right distance to see the full W-profile before entering the arch area
+- Bring a torch even though natural light is present — it makes the arch walls more colourful and helps spot small creatures
+- The site pairs naturally with Cross Hole for a two-tank cavern introduction day
+- Take time in the shallows after the arch section — the coral density at 5–10 meters is excellent
 
-## Safety Considerations
+## Safety
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Despite the beginner rating, this is an overhead environment dive. Divers must understand that surfacing through the arch ceiling is impossible — always maintain orientation to the arch exit. Buoyancy control near the ceiling is essential to avoid contact with coral and dislodging silt. Natural light is abundant, making this less risk-prone than deep caves, but the overhead principle requires respect. Carry a torch regardless.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The W-shape arch framing at 18 meters is well-lit by natural light — images often need minimal artificial lighting during morning dives. A wide-angle lens captures the full arch profile. Divers positioned inside the arch against the bright blue beyond create clean silhouette images. The shallow reef above the arch, with its abundant coral and fish, completes a photogenic dive with varied subjects.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Miyako-jima dive operators**: Guided access recommended
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

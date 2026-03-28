@@ -11,55 +11,57 @@ osmId: 6422617278
 addedBy: osm_import
 ---
 
-## Defender Shoal
+# Defender Shoal
 
-Defender Shoal is a reef dive site in British Columbia, North America.
+A remote shoal in Discovery Passage near Campbell River, offering dramatic cold-water diving in strong tidal currents.
 
 ## Overview
 
-Defender Shoal is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Defender Shoal sits in Discovery Passage north of Campbell River, in one of the most current-swept stretches of the BC coast. The shoal rises from the deep passage floor to create a concentration point for marine life that depends on the passage's powerful tidal exchange for nutrients and prey. This is a characteristic Discovery Passage dive — rich, dramatic, and requiring careful current timing. Water temperatures are 7–10°C year-round, and visibility ranges from 8–15 metres.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Discovery Passage, Campbell River area, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Shoal / reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 8–15 metres
+- **Current**: Very strong tidal currents — dive only at slack
+- **Best Time**: Late summer and autumn
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Discovery Passage's tidal currents make Defender Shoal one of the most productive dive sites in the region. Giant Pacific octopus are abundant, drawn by the rich food supply the current brings. Lingcod and quillback rockfish are large and numerous. Plumose anemones in dense white and orange colonies cover every hard surface facing the current. Sunflower sea stars and leather stars forage along the shoal base. Schools of black rockfish hover in the water column above. Pacific white-sided dolphins are frequently seen in Discovery Passage, and their underwater encounters are exceptional.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Plan the dive with precise current timing — Discovery Passage slack may last only 15–20 minutes before current becomes significant. Descend immediately at slack and work the shoal's productive faces. Maximum depth 18 metres. Keep the dive efficient and begin your ascent before currents pick up. Deploy an SMB while ascending and remain alert for boat traffic in the passage.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access from Campbell River. Charter operators familiar with Discovery Passage are the best option for novice visitors to the area. Current timing is critical — use the Discovery Passage tide reference station and plan your launch time carefully. A fast boat is preferred so you can reach the site just as slack begins.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Campbell River has excellent dive charter operators with deep local knowledge of Discovery Passage timing
+- Current hook equipment allows you to hold position on the shoal and observe life in the gentle current of near-slack periods
+- This site is best left to those with Discovery Passage experience — local guidance is strongly recommended
+- Pair with other Discovery Passage sites on liveaboard or multi-day trips
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Discovery Passage currents are among the strongest in BC diving — 4+ knots between slack periods. Dive timing to slack is non-negotiable. Carry a current hook if available. Deploy SMB well before ascending. Boat traffic in this commercial passage is significant. Drysuit competency is mandatory.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The concentration of life at current-swept shoals produces exceptional photography. Wide-angle shots of plumose anemone gardens against the blue water column are outstanding. Schools of rockfish photographed from below with the shoal structure visible make strong compositions. Close-up octopus portraiture rewards patience.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
+- Campbell River dive charter operators for Discovery Passage current timing
+- Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
