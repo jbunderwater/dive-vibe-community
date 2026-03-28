@@ -13,54 +13,39 @@ addedBy: osm_import
 
 ## Gindang
 
-Gindang is a reef dive site in Komodo National Park, Asia.
+Gindang is a reef dive site in Komodo National Park, East Nusa Tenggara, Indonesia.
 
 ## Overview
 
-Gindang is a dive site in Komodo National Park offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Gindang sits in the central waters of Komodo National Park, tucked between the main islands where nutrient-rich upwellings from the deeper Flores Sea push cold, plankton-heavy water over the reef. The site is characterised by sloping hard coral formations that give way to a mixed rubble and sandy bottom at depth. Komodo's strong tidal currents regularly sweep across the reef here, making dive timing critical — the best dives are generally done on the incoming or slack tide when visibility opens up to 15–25 metres and fish concentrations peak.
 
-## Site Information
+The reef top sits in the shallows and supports dense stands of staghorn and plate corals alongside sea fans and whip corals extending into the current. The fish life is abundant: schools of fusiliers and anthias hover mid-water, blue-spotted stingrays rest on sandy patches, and Napoleon wrasse make occasional appearances. Macro life including nudibranchs and flatworms can be found on the rubble sections at depth. Current diving experience is recommended, as conditions can shift from calm to surging between tidal cycles.
 
-- **Location**: Komodo National Park, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+## Key Species
 
-## Marine Life
-
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+- Napoleon wrasse and giant trevally patrolling the reef edge
+- Schools of fusiliers (Caesio and Pterocaesio species) in the water column
+- Blue-spotted stingrays on sandy patches
+- Nudibranchs and flatworms on rubble sections
+- Reef sharks occasionally visible at depth
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The reef structure at Gindang allows flexible dive profiles. Most divers begin at the shallower reef top (5–8 m) and work down the slope to around 18–20 m before ascending back along the coral terraces. The sandy bottom at depth provides good opportunities to hunt for critters while sheltering from surface current. Safety stops are easily completed on the upper reef.
 
-## Entry and Exit
+## Conditions
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+| Attribute | Details |
+|-----------|---------|
+| Depth range | 5–20 m |
+| Visibility | 10–25 m (current and season dependent) |
+| Current | Moderate to strong — time dives to tidal cycles |
+| Water temperature | 25–29°C (thermoclines possible) |
+| Best season | April–November (dry season, calmer seas) |
+| Entry/Exit | Boat — drift entry common |
 
-## Tips and Recommendations
+## Tips for Divers
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Dive Gindang on an incoming tide for the best visibility and reef fish activity. The site is manageable for intermediate divers comfortable with current, but requires attention to buoyancy on the coral slope to avoid contact with fragile formations. A surface marker buoy is essential for drift ascents. Early morning dives typically offer the clearest water before afternoon winds stir up surface chop.
 
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

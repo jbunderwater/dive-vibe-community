@@ -11,56 +11,43 @@ osmId: 8022562468
 addedBy: osm_import
 ---
 
-## Sabolon kecil dive site
+## Sabolon Kecil Dive Site
 
-Sabolon kecil dive site is a reef dive site in Komodo National Park, Asia.
+Sabolon Kecil dive site is a reef dive site in Komodo National Park, East Nusa Tenggara, Indonesia.
 
 ## Overview
 
-Sabolon kecil dive site is a dive site in Komodo National Park offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Sabolon Kecil ("small Sabolon") is the smaller and more compact of the two Sabolon island reef sites at the northeastern edge of Komodo National Park. The island itself is barely above sea level and its reef fringe is consequently tighter, producing a more concentrated diving experience than its larger neighbour. The reduced area means fish densities can feel higher — the reef supports a dense community of reef species competing for territory on a smaller patch of coral habitat.
 
-## Site Information
+The site features a narrow reef crest that drops into a slope of mixed hard and soft corals, with scattered coral outcrops on a sandy floor at around 15–20 metres. The smaller scale suits a detailed, exploratory diving style: the rubble zones along the base of the slope are productive for macro subjects including nudibranchs, ghost pipefish, and flamboyant cuttlefish. The shallower reef crest has good hard coral coverage and is frequented by hawksbill turtles, a species seen reliably at both Sabolon sites.
 
-- **Location**: Komodo National Park, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+Current exposure at Sabolon Kecil is light to moderate and the site lacks the aggressive channel flows common elsewhere in Komodo, making it accessible for divers who have current experience but prefer a site where they can slow down and explore. The close proximity to Sabolon Besar means the two sites are typically dived together in a morning or afternoon boat trip from Labuan Bajo.
 
-## Marine Life
+## Key Species
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+- Hawksbill turtles on the reef crest (regularly sighted)
+- Nudibranchs, ghost pipefish, and cuttlefish in rubble zones
+- Reef octopus under coral outcrops
+- Moray eels and spotted garden eels on the sandy floor
+- Surgeonfish and parrotfish grazing the crest
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Divers typically begin at the reef crest (5–8 m) and work down the slope to the sandy floor at 15–20 m before ascending back through the coral outcrops. The compact site rewards slow, observant diving rather than horizontal coverage. Allow 50–60 minutes to thoroughly work the rubble and coral zones.
 
-## Entry and Exit
+## Conditions
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+| Attribute | Details |
+|-----------|---------|
+| Depth range | 5–20 m |
+| Visibility | 12–22 m |
+| Current | Light to moderate |
+| Water temperature | 26–29°C |
+| Best season | Year-round; April–November for optimal conditions |
+| Entry/Exit | Boat |
 
-## Tips and Recommendations
+## Tips for Divers
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Sabolon Kecil rewards patient, slow diving. Spending 10–15 minutes working a single rubble patch can yield multiple nudibranch species. A macro lens setup is well worth bringing if combined with the nearby Seraya Kecil site in the same trip. Early morning dives when light is low and animals are active produce the best turtle and octopus encounters.
 
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

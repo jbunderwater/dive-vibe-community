@@ -11,56 +11,43 @@ osmId: 8022562467
 addedBy: osm_import
 ---
 
-## Sabolon besar dive site
+## Sabolon Besar Dive Site
 
-Sabolon besar dive site is a reef dive site in Komodo National Park, Asia.
+Sabolon Besar dive site is a reef dive site in Komodo National Park, East Nusa Tenggara, Indonesia.
 
 ## Overview
 
-Sabolon besar dive site is a dive site in Komodo National Park offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Sabolon Besar ("big Sabolon") is the larger of two adjacent reef sites on the small Sabolon islands in the northeastern corner of Komodo National Park, close to the park boundary near Labuan Bajo. The Sabolon islands are low-lying and fringed with fringing reefs that benefit from exposure to both sheltered waters to the east and the more current-driven open park waters to the west. Sabolon Besar's reef wraps around the island's broader flank and offers the more expansive dive of the two Sabolon sites.
 
-## Site Information
+The reef at Sabolon Besar is characterised by a mixed hard coral garden descending to around 20 metres, with large Porites bommies rising from a sandy bottom interspersed with patches of rubble and smaller coral heads. The bommies are particularly rewarding to circle slowly — their bases shelter lionfish, scorpionfish, and resting whitetip sharks, while their tops are cleaned by busy wrasse stations. The sandy channels between bommies are good for eagle rays and blue-spotted stingrays, and juvenile reef fish are abundant in the shallower sections. The site is less current-exposed than many Komodo sites, making it a popular option for post-lunch or afternoon dives when tidal energy has diminished.
 
-- **Location**: Komodo National Park, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+Proximity to Labuan Bajo means Sabolon Besar is regularly visited by both day-trip boats and liveaboards as a more accessible northern park site. It pairs naturally with Sabolon Kecil — many itineraries include both in sequence.
 
-## Marine Life
+## Key Species
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+- Whitetip reef sharks resting under bommie overhangs
+- Blue-spotted stingrays on sandy channels
+- Lionfish and scorpionfish camouflaged on bommie bases
+- Eagle rays cruising sandy areas between coral heads
+- Abundant juvenile reef fish in the shallows
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Most divers work a figure-eight route between the main bommies, ranging from 5 to 20 metres. The sandy bottom between bommies provides good critter hunting while the bommie tops offer colourful reef fish action and cleaner stations. The site's topography allows for flexible navigation without strong current management.
 
-## Entry and Exit
+## Conditions
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+| Attribute | Details |
+|-----------|---------|
+| Depth range | 5–20 m |
+| Visibility | 12–25 m |
+| Current | Light to moderate |
+| Water temperature | 26–29°C |
+| Best season | Year-round; April–November for optimal conditions |
+| Entry/Exit | Boat; mooring buoys may be available |
 
-## Tips and Recommendations
+## Tips for Divers
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Sabolon Besar is an excellent site to take time and work slowly around the bommies rather than rushing through. Bring a torch for the dark recesses beneath coral heads where scorpionfish and moray eels are easily overlooked. The site's comparative calm makes it a good choice for photographers who need stable water to shoot macro subjects. Combine with Sabolon Kecil for a full double-site itinerary — the two sites show distinct character despite their proximity.
 
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

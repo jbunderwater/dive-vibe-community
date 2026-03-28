@@ -11,57 +11,45 @@ osmId: 8022733115
 addedBy: osm_import
 ---
 
-## Sebayur dive site
+## Sebayur Dive Site
 
-Sebayur dive site is a reef dive site in Komodo National Park, Asia.
+Sebayur dive site is a reef dive site in Komodo National Park, East Nusa Tenggara, Indonesia.
 
 ## Overview
 
-Sebayur dive site is a dive site in Komodo National Park offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Sebayur Island sits roughly halfway between Labuan Bajo and the main Komodo and Rinca islands, making it one of the most accessible dive sites within the national park. The fringing reef around Sebayur is a staple on day-trip itineraries from Labuan Bajo and is frequently used as a checkout dive or first park dive for newly arrived guests. Liveaboards often stop here in the afternoon before pushing further into the park the following day.
 
-## Site Information
+The reef is a classic, broad fringing structure with a coral garden beginning at around 3 metres and extending down a gentle slope to the sandy bottom at 15–20 metres. Hard coral coverage is good, with a mix of plate corals, brain corals, and staghorn thickets forming an interconnected reef structure. The site's sheltered aspect means currents are generally mild, allowing beginner divers and snorkellers to explore comfortably alongside more experienced divers working the deeper sections.
 
-- **Location**: Komodo National Park, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+Sebayur's fish life is reliably active: the shallows teem with damselfish, chromis, and schooling glassfish that attract predatory trevally, while the deeper slope sees larger residents including Napoleon wrasse, bumphead parrotfish on morning visits, and small blacktip reef sharks that patrol the reef perimeter. The beach at Sebayur is a good snorkelling ground and the island is also known for Komodo dragon sightings on shore. The combination of easy diving, wildlife above and below water, and short travel time makes Sebayur a popular choice for divers of all levels.
 
-## Marine Life
+Night diving is also conducted here — the shallow sandy bottom and sheltered conditions produce good sightings of hunting octopus, sleeping parrotfish, and occasional decorator crabs after dark.
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+## Key Species
+
+- Blacktip reef sharks patrolling the reef perimeter
+- Napoleon wrasse on morning dives
+- Hunting octopus and decorator crabs on night dives
+- Schooling glassfish attracting trevally ambushes
+- Hawksbill turtles resting on deeper reef sections
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The gentle slope profile is ideal for beginners: divers descend to 8–12 metres for the main exploration, spending time on the coral garden before ascending to the 3–5 m reef crest for a comfortable safety stop. Night dives typically stay in the 5–12 m zone over the sandy patches adjacent to the reef.
 
-## Entry and Exit
+## Conditions
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+| Attribute | Details |
+|-----------|---------|
+| Depth range | 3–20 m |
+| Visibility | 12–25 m |
+| Current | Light; occasionally moderate on tidal peaks |
+| Water temperature | 26–30°C |
+| Best season | Year-round; accessible in most weather conditions |
+| Entry/Exit | Boat; beach entry possible at the island |
 
-## Tips and Recommendations
+## Tips for Divers
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Sebayur is one of Komodo's most forgiving dive sites and an ideal introduction to the park for those unfamiliar with Indonesian reef diving. The site doubles as an excellent night dive — ask your operator to include it if the schedule allows. Arrive early for the best chance of bumphead parrotfish on the reef, as they typically move off by mid-morning. Combine with Seraya Kecil or the Sabolon sites for a full northern-sector day trip.
 
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

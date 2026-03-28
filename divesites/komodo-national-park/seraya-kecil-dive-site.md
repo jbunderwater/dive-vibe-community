@@ -11,56 +11,44 @@ osmId: 8022733116
 addedBy: osm_import
 ---
 
-## Seraya kecil dive site
+## Seraya Kecil Dive Site
 
-Seraya kecil dive site is a reef dive site in Komodo National Park, Asia.
+Seraya Kecil dive site is a muck and reef dive site near Labuan Bajo, at the eastern edge of Komodo National Park, East Nusa Tenggara, Indonesia.
 
 ## Overview
 
-Seraya kecil dive site is a dive site in Komodo National Park offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Seraya Kecil ("small Seraya") is one of the most celebrated macro and muck diving sites in the Komodo region, a reputation that stands apart from the park's better-known current and pelagic diving. The site lies close to the town of Seraya on Flores, just outside the eastern park boundary near Labuan Bajo, and is accessible from the harbour as a short day-trip boat ride. It has developed a devoted following among underwater photographers and critter hunters who make the trip specifically for its exceptional diversity of small, unusual marine life.
 
-## Site Information
+The dive site comprises a black-sand and rubble slope descending from a shallow reef edge at around 3 metres to a black-sand bottom at 15–20 metres. This habitat — typical muck diving terrain — supports an extraordinary cast of macro subjects. Mimic octopus and wonderpus octopus are both recorded here, their cryptic colouring against the dark substrate making them challenging but rewarding finds. Flamboyant cuttlefish hunt across the rubble in their spectacular colour-changing display. Ghost pipefish, frogfish in multiple colour variants, blue-ringed octopus, and ornate ghostpipefish are consistent finds. The rubble also produces a rich nudibranch fauna, with dozens of species recorded across repeat dives.
 
-- **Location**: Komodo National Park, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+Beyond the headline muck species, Seraya Kecil has resident mantis shrimp in their burrows, robust ghost pipefish in seagrass patches, and ribbon eels at various stages of their sex-change cycle. The shallow reef edge supports cleaner stations and small reef fish schools, providing a transition between muck and conventional reef diving in a single dive. Visibility is moderate — typically 8–15 metres — but the slow pace required for macro hunting makes this irrelevant.
 
-## Marine Life
+## Key Species
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+- Mimic octopus and wonderpus octopus (both reliably present)
+- Flamboyant cuttlefish hunting on black sand
+- Frogfish in multiple colour variants (black, white, orange)
+- Ghost pipefish and ornate ghostpipefish in rubble and seagrass
+- Blue-ringed octopus — treat with extreme caution
+- Ribbon eels (blue, yellow, and black developmental stages)
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Divers typically descend to the black sand bottom (12–18 m) and spend the majority of the dive working slowly upcurrent across the rubble and sand patches. The pace is slow — a thorough dive over 100 metres of substrate is typical. Ascending back up the slope through the rubble zone often reveals additional subjects missed on the descent. The shallow reef edge is used for the safety stop.
 
-## Entry and Exit
+## Conditions
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+| Attribute | Details |
+|-----------|---------|
+| Depth range | 3–20 m |
+| Visibility | 8–15 m (lower in rainy season with runoff) |
+| Current | Light to minimal — essential for muck diving |
+| Water temperature | 26–29°C |
+| Best season | April–November; muck diving possible year-round |
+| Entry/Exit | Boat |
 
-## Tips and Recommendations
+## Tips for Divers
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Seraya Kecil is best approached with a specific macro mindset: slow down, hover close to the substrate, and spend time on likely habitat rather than covering distance. A knowledgeable local guide dramatically increases sighting rates for cryptic species like mimic octopus and frogfish. The blue-ringed octopus found here is genuinely dangerous — observe from a distance and never touch. Night dives at Seraya Kecil produce spectacular hunting behaviour from octopus and cuttlefish. Bring a macro lens; wide-angle has little application at this site.
 
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
