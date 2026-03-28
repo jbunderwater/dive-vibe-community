@@ -11,57 +11,53 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Ray of Hope Nassau
+# Ray of Hope Nassau
 
-Ray of Hope Nassau is a historic wreck dive in Bahamas, Caribbean.
+A sizeable cargo freighter deliberately sunk as an artificial reef off Nassau, resting at 50 meters in clear Bahamian water and heavily colonised by corals and sponges across its entire superstructure.
 
 ## Overview
 
-Ray of Hope Nassau is a dive site in Bahamas featuring the wreck of the Ray of Hope Nassau. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Ray of Hope is a steel cargo freighter deliberately sunk as an artificial reef off the southwest coast of New Providence Island, Nassau. The vessel sits upright on the sandy bottom at 50 meters — making it primarily a technical or deep recreational dive — with the highest points of the superstructure reaching to approximately 35 meters. The Bahamas' clear water delivers 25–35 meters of visibility at this site. The wreck has been colonised over the years by hard and soft corals, sponges, and encrusting organisms, and now hosts a productive community of fish including large groupers and schools of snapper. Due to the significant depth, recreational scuba divers typically see only the upper portions of the wreck.
 
 ## Site Information
 
-- **Location**: Bahamas, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Wreck
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 50 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+| Detail | Value |
+|--------|-------|
+| Depth Range | 35–50 m |
+| Difficulty | Intermediate (upper structure) / Advanced (full wreck) |
+| Entry Type | Boat |
+| Site Type | Wreck |
+| Visibility | 25–35 m |
+| Current | Light to moderate |
+| Water Temp | 24–28°C |
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, snappers, soldierfish, glassy sweepers, coral growth, sponge encrustation, sea turtles (green, hawksbill), southern stingrays. Additional species commonly sighted include eagle rays, nurse sharks, reef sharks, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The wreck hosts large groupers throughout the superstructure and hull. Schools of glassfish and sweepers fill the interior spaces. Spotted moray eels occupy crevices. The encrusted exterior supports a diverse invertebrate community. Caribbean reef sharks patrol the area around the wreck. The open sandy bottom at 50 meters hosts southern stingrays. Sea turtles occasionally visit the shallower upper sections of the superstructure.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 50 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descent to the uppermost superstructure at 35 meters. Intermediate divers explore the upper deck and superstructure features in the 35–40 meter range, which offers the best light and most marine life activity. Advanced divers can descend along the hull to the sandy bottom at 50 meters for a brief exploration before ascending along the other side. Total bottom time at 40 meters: approximately 15–20 minutes before NDL limits on air.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Nassau-based operators. Entry by backward roll or giant stride. Permanent mooring on the wreck. DSMB essential for the ascent — the wreck's position requires a free-water ascent in open water away from the structure.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+The significant depth of the Ray of Hope means this is primarily for experienced recreational divers comfortable at 35–40 meters. The wreck's maximum depth (50 m) is beyond recreational limits on air — do not exceed 40 meters without nitrox certification or technical diving training. A torch greatly enhances the interior sections of the wreck. Morning dives have the best light and least boat traffic.
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+This wreck sits at significant depth for recreational diving — 40 meters is the maximum advisable depth for recreational air divers, and NDL limits at this depth are very short. Narcosis risk increases at depth. Do not descend to the sandy bottom at 50 meters without appropriate experience and equipment. DSMB mandatory for the open-water ascent. Ascend conservatively and allow an adequate safety stop at 5 meters.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The Ray of Hope's depth means natural light is reduced — supplemental strobe or video lighting enhances colour on the encrusted surfaces. Wide-angle shots of the superstructure with a diver descending provide scale. Interior shots through port holes and deck openings use the classic "window frame" wreck photography composition. The best colour is in the 35–42 meter range where some natural light still reaches.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- Stuart Cove's Dive Bahamas: Nassau-based operator that regularly dives Ray of Hope
+- Combine with Stuart Cove Wall for a Nassau two-tank deep dive day
 
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

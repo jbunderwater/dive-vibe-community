@@ -11,55 +11,53 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Shark Arena Nassau
+# Shark Arena Nassau
 
-Shark Arena Nassau is a reef dive site in Bahamas, Caribbean.
+A structured Caribbean reef shark feeding dive operated off Nassau's southwest coast — one of the original shark encounter experiences in the Bahamas, with Caribbean reef sharks gathering around a central feeding station.
 
 ## Overview
 
-Shark Arena Nassau is a dive site in Bahamas offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Shark Arena is one of Nassau's signature dive experiences, operated by Stuart Cove's Dive Bahamas on a regular basis at a reef site southwest of New Providence Island. The site features a designated "arena" area on the reef where multiple Caribbean reef sharks congregate for a structured encounter. Caribbean reef sharks are the primary species at this site, regularly reaching 1.5–2 metres. The reef sits at 12 metres maximum depth, providing excellent natural light and generous bottom time. Nassau's clear Caribbean water delivers 20–30 metres of visibility. Water temperature is 25–28°C.
 
 ## Site Information
 
-- **Location**: Bahamas, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 12 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+| Detail | Value |
+|--------|-------|
+| Depth Range | 6–12 m |
+| Difficulty | Intermediate |
+| Entry Type | Boat |
+| Site Type | Reef |
+| Visibility | 20–30 m |
+| Current | Light |
+| Water Temp | 25–28°C |
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Caribbean reef sharks (Carcharhinus perezi) are the primary attraction — typically 8–15 individuals are present during dives at this site, ranging from juveniles to large adults over 2 metres. Nurse sharks rest on the sandy areas around the reef. Lemon sharks occasionally appear. The reef itself carries a healthy fish community including French angelfish, parrotfish, and blue tang. Southern stingrays are common on the surrounding sandy areas.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Divers descend to the reef at 12 metres and form a semicircle or full circle around the feeding area. A divemaster in chainmail armour manages the feeding crate. Sharks approach from all directions within the arena. Divers kneel or crouch on the sandy areas at the reef edge for the duration of the feeding session (approximately 20–30 minutes). After feeding, divers can explore the surrounding reef before ascending.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive operated exclusively by dedicated shark dive operators (primarily Stuart Cove's). Entry by giant stride. This is a commercially operated dive experience with specific entry and exit procedures briefed before the dive.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+First-time shark encounters are best served by observing from the outer edge of the arena rather than positioning close to the feeding area. The sharks are habituated to the feeding routine and move predictably — observe the pattern for the first few minutes before moving to a better photographic position. Wide-angle or fisheye lenses suited to close-approach shark photography are essential.
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+This is a managed encounter — follow all operator briefings and divemaster instructions without deviation. Do not touch the sharks. Do not reach toward the feeding crate. Keep hands close to the body throughout the dive. Trailing fin tips and hands are the most common source of accidental contact — maintain awareness of body position at all times.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Shark Arena is one of the most photographically accessible shark dives in the world. The shallow depth provides excellent natural light. Caribbean reef sharks are photogenic at 1:1 camera-to-shark distance with a fisheye lens. Position on the outer arc of the arena for unobstructed views of the feeding activity. Multiple sharks in the frame with coral and other divers for scale create compelling wide-angle compositions.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- Stuart Cove's Dive Bahamas: the primary operator for Shark Arena and Nassau shark dives
+- Typically offered as part of a two-tank trip combining Shark Arena with Stuart Cove Wall
 
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

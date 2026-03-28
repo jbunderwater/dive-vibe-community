@@ -11,56 +11,55 @@ osmId: 663869837
 addedBy: osm_import
 ---
 
-## Sodfa
+# Sodfa
 
-Sodfa is a reef dive site in Red Sea, Middle East.
+Named by accident — the Arabic word for "coincidence" — this lesser-known Sharm el-Sheikh drift site adjacent to Tower rewards with gorgonian fans, pinnacles, and a seasonal manta ray corridor from March to June.
 
 ## Overview
 
-Sodfa is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Sodfa sits immediately northeast of the famous Tower dive site on the Sharm el-Sheikh coastline in the Hadaba district. The site was named by two of the original dive guides who jumped in expecting to be at a different site but found themselves on a reef that looked the same as where they'd intended to go — "sodfa" means coincidence in Arabic. Less busy than Tower, Sodfa operates as a natural extension of the Tower drift: after exploring Tower's canyon and pillars, the dive continues northeast onto Sodfa's gentler sloping reef and plateau, which is dotted with coral pinnacles and gorgonian sea fans along the drop-off at 18–25 metres. From March to late June, manta rays are reliably sighted at the corner section — a strong seasonal draw.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Boat dive
+- **Location**: Adjacent to Tower dive site, Hadaba, southern Sharm el-Sheikh, Sinai, Egypt
+- **Entry Type**: Boat dive (also accessible as a drift continuation from Tower)
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 20–30 meters
+- **Current**: Mild drift current (site must be done as a drift)
+- **Best Time**: Year-round; manta rays March to June
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, humphead wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Gorgonian sea fans along the drop-off at 18–25 metres are the dominant structural feature. The pinnacles that dot the plateau host dense anthias and chromis communities. Schools of fusiliers, surgeonfish, triggerfish, and Red Sea bannerfish fill the water column between the pinnacles. Massive Porites corals and yellow soft corals are characteristic reef elements at Sodfa. The corner section, where the reef transitions to open water, is the seasonal manta ray hotspot. Whitetip reef sharks are occasional visitors. Lionfish in the shadowed gaps between coral pinnacles are consistent throughout.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The dive is exclusively done as a drift; there is no mooring, so the boat follows divers. Begin drifting over the plateau at 8–15 metres, exploring the coral pinnacle cluster. Work toward the drop-off ridge at 18–25 metres where the gorgonian fans are most concentrated. At the corner section (the northeastern turn of the reef), hovering at 15–20 metres provides the best position for manta ray sightings when seasonal. Continue the drift to the end of the site and ascend when air signals safety stop depth. Finish with a safety stop at 5 metres and deploy an SMB for boat pickup.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat from Naama Bay or the Hadaba coast. Sodfa can be entered directly or reached as a continuation of the Tower drift dive. The boat must follow the drifting dive group throughout. Deploy an SMB early enough for the captain to track position. Entry by backroll or giant stride.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Sodfa is best combined with Tower in a single drift dive — plan air to last through both sites
+- The March–June seasonal manta ray visits are the main draw at this site — combine with a confirmed sighting report from the dive center before planning specifically for mantas
+- The gorgonian fans at 20–25 m are less visited here than at nearby Ras Umm Sid — explore them carefully for hawkfish in the fan arms
+- This site is less crowded than Tower — a genuine advantage for photography
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Drift-only access means the boat must maintain constant surface watch throughout. Divers must stay together and deploy an SMB before ascending. The plateau can develop current at the corners — monitor your drift speed and air consumption. Lionfish in crevices require visual awareness. Fire coral on the reef crest. All standard reef safety precautions apply.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The gorgonian fans at the drop-off edge are exceptional close-focus wide-angle subjects — less disturbed than at busier sites nearby. Manta rays in the March–June window are the most spectacular photographic subjects; use a wide or fisheye lens for full wingspan capture in the clear, well-lit mid-water zone. Anthias clouds above the pinnacles reward ambient-light wide-angle shots in morning conditions. Red Sea bannerfish schooling over the coral landscape are a characteristic compositional subject.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

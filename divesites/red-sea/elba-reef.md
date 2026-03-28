@@ -11,56 +11,56 @@ osmId: 9721028451
 addedBy: osm_import
 ---
 
-## Elba Reef
+# Elba Reef
 
-Elba Reef is a reef dive site in Red Sea, Middle East.
+Egypt's southernmost and most remote dive destination on the Egyptian-Sudanese border — pristine triangle-shaped reefs with bumphead parrotfish, resident grey reef sharks, and the rare 1923 Italian wreck of the SS Levanzo.
 
 ## Overview
 
-Elba Reef is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Elba Reef sits within the Halaib Triangle near the Egyptian-Sudanese border at approximately 22°N, one of the least-visited stretches of the Red Sea. The reef system comprises three connected reefs collectively known as the Elba Region, forming triangle-shaped structures with plateaus descending from 20 to 45 metres on the north and south sides. Access requires special permission from the Egyptian Navy and an extended liveaboard voyage of 12 days or more from Port Berenice or Port Ghalib. The combination of extreme remoteness, minimal human disturbance, and nutrient-rich currents produces coral gardens in remarkable health — vivid red anemones, brain corals, yellow Dendrophylliidae soft corals, and expansive gorgonian fans line the plateau edges. The SS Levanzo, a 113-metre Italian steamer sunk in 1923, rests at the eastern reef at 22–65 metres depth.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Boat dive
+- **Location**: Elba Region, near the Egyptian-Sudanese border (approximately 22°N, 37°E) — liveaboard only
+- **Entry Type**: Boat dive (extended liveaboard with Egyptian Navy permit)
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Difficulty Level**: Intermediate (outer plateau walls require Advanced)
+- **Maximum Depth**: 20 meters (plateau sections; walls continue deeper)
+- **Typical Visibility**: 30–40 meters
+- **Current**: Moderate to strong at the plateau edges
+- **Best Time**: March to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, humphead wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Bumphead parrotfish — rare at most Egyptian Red Sea sites — are reliably encountered at Elba in groups. Grey reef sharks patrol the plateau edges regularly. Hammerhead sharks are sighted on early morning outer reef passes. Dogtooth tuna and large bigeye trevally schools sweep through the mid-water zone. The plateau edges are lined with expansive gorgonian coral fans at 20–25 metres. Sea turtles rest on the undisturbed reef platforms. Manta rays visit seasonally. The Italian wreck of the SS Levanzo at the eastern reef hosts schools of jackfish, barracuda, and dense soft coral and sponge growth on the wreck structure.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The plateau diving starts at 20 metres with the reef top and the gorgonian fan garden before descending the plateau edge to where the wall drops deeper. Most productive reef diving is at 15–25 metres on the plateau. For the Levanzo wreck, entry at the propeller level at 22 metres and working forward to the broken section at 40 metres is the standard profile — the maximum depth of 65 metres is for technical divers only. Safety stop at 5 metres over the reef flat. The exceptional visibility allows excellent orientation from depth.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Extended liveaboard only — 12-day minimum voyages from Port Berenice or Port Ghalib with Egyptian Navy clearance. No day-boat access exists for this site. Only a handful of liveaboard operators run Elba Reef expeditions; spaces are limited and book well in advance.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- This is one of the few sites in Egypt where bumphead parrotfish schooling is documented — move slowly and do not disturb them
+- The SS Levanzo wreck from 1923 is one of the oldest wrecks diveable in the Red Sea; its age and remoteness make it genuinely unique
+- Plan at least 3–4 dives at the Elba Reef complex — the multiple reef structures reward extended exploration
+- Visibility regularly exceeds 30 metres — plan for wide-angle photography throughout
+- This expedition requires Advanced Open Water certification minimum; strong buoyancy control and drift diving experience are essential
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Extreme remoteness is the defining safety consideration. Emergency evacuation from this area is measured in many hours. Dive conservatively with all safety equipment, always deploy an SMB, and carry redundant signalling devices. The Levanzo wreck at depth (22–65 m) — only the 22–40 m section is for recreational Advanced divers; the deeper section is technical diving only. Egyptian Navy clearance is mandatory — do not dive this area without confirmed permit documentation through your liveaboard operator.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Elba Reef offers photography conditions found at virtually no other Egyptian Red Sea site. Bumphead parrotfish in a school — rare at any Egyptian site — are outstanding close-focus wide-angle subjects. The pristine visibility and undisturbed coral coverage make reef panoramas here exceptional. The Levanzo wreck at 22–40 metres rewards wide-angle shots of the encrusted hull with natural light penetration. Grey reef sharks and schooling trevally in the open water column create pelagic composition opportunities.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

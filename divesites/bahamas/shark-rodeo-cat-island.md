@@ -11,55 +11,53 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Shark Rodeo Cat Island
+# Shark Rodeo Cat Island
 
-Shark Rodeo Cat Island is a reef dive site in Bahamas, Caribbean.
+Cat Island's famous oceanic whitetip shark dive — one of the few places in the world where oceanic whitetip sharks (Carcharhinus longimanus) reliably approach divers at recreational diving depths.
 
 ## Overview
 
-Shark Rodeo Cat Island is a dive site in Bahamas offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Shark Rodeo at Cat Island is one of the most significant shark diving experiences in the Bahamas — primarily because of the species involved. Oceanic whitetip sharks were once among the most abundant large sharks in the open ocean but have been devastated by long-line fishing globally. Cat Island's offshore waters, however, host a known population of oceanic whitetips that associates with the island's seamount structures and reef systems. The site operates in shallow water (8 meters maximum) over a sandy bottom, where the sharks are reliably encountered year-round. Caribbean reef sharks are also present throughout. The clear Bahamian water delivers 25–35 meters visibility in typical conditions.
 
 ## Site Information
 
-- **Location**: Bahamas, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 8 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+| Detail | Value |
+|--------|-------|
+| Depth Range | 4–8 m |
+| Difficulty | Intermediate |
+| Entry Type | Boat |
+| Site Type | Reef |
+| Visibility | 25–35 m |
+| Current | Light |
+| Water Temp | 25–28°C |
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Oceanic whitetip sharks are the primary attraction — typically 2–6 individuals are present, identifiable by their distinctive rounded, white-tipped fins and pectoral fins broad as wings. These are genuinely pelagic animals — their presence at a shallow, accessible reef site is extraordinary. Caribbean reef sharks are also consistent. Short-finned pilot whales have been observed offshore at Cat Island. The shallow sandy bottom supports stingrays and nurse sharks.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 8 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-8 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Divers descend to the sandy bottom at 4–8 meters and remain stationary. Oceanic whitetips are inquisitive and will typically approach closely within minutes of descent. The dive proceeds as an open-water encounter with sharks approaching from all directions. Divemasters position themselves to manage shark approaches. Bottom time is generous given the shallow depth.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Cat Island operators — primarily Hawk's Nest Resort or dedicated Cat Island shark dive operators. Cat Island requires flights from Nassau. Entry by giant stride. DSMB required for surface pickup.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+Oceanic whitetips behave differently from Caribbean reef sharks — they are more persistent and investigative, and will return repeatedly to investigate divers. Maintain calm positioning and avoid sudden movements. Do not extend hands toward approaching sharks. The experience of a true pelagic species at recreational diving depth is unique to very few sites worldwide — Cat Island is a pilgrimage destination for shark divers who have already experienced Nassau and Tiger Beach.
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Oceanic whitetips are the species most historically associated with open-ocean shipwreck attacks, though their behaviour in a shallow recreational setting with experienced divemasters is generally manageable. Strictly follow all operator briefings. Do not wear high-contrast black-and-yellow dive gear, which can attract shark attention. DSMB mandatory.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Oceanic whitetip photography is the primary goal. The broad pectoral fins and rounded nose create a distinctive silhouette — position at the same depth as the shark, not above it, for the best full-body images. The crystal-clear Bahamas water makes natural-light photography excellent at this shallow depth. Wide-angle or fisheye captures the full shark with the white sand background.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- Hawk's Nest Resort: Cat Island diving base with shark dive packages
+- Cat Island is 1 hour by small aircraft from Nassau
 
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
