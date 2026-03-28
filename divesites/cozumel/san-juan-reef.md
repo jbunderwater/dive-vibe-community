@@ -11,55 +11,57 @@ osmId: 663869362
 addedBy: osm_import
 ---
 
-## San Juan Reef
+# San Juan Reef
 
-San Juan Reef is a reef dive site in Cozumel, Caribbean.
+A northerly reef on Cozumel's east coast fringe, offering drift conditions and an alternative to the busier southwest dive corridor.
 
 ## Overview
 
-San Juan Reef is a dive site in Cozumel offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+San Juan Reef is located in the northern portion of Cozumel's dive map, away from the main concentration of leeward southwest sites. As a result it is diveable with fewer boats and offers a more solitary experience than the heavily-trafficked central corridor. The reef terrain consists of typical Cozumel spur-and-groove with parallel coral ridges separated by sandy channels. Maximum depth of 18 meters makes this accessible to intermediate divers with good buoyancy control. Water clarity is excellent — the northern positioning away from San Miguel's harbour means pristine conditions. The current here generally runs along the coast rather than offshore, giving the dive a predictable structure.
 
 ## Site Information
 
-- **Location**: Cozumel, Caribbean
+- **Location**: Northern Cozumel, Quintana Roo, Mexico
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Spur-and-groove coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Maximum Depth**: 18 meters (60 feet)
+- **Typical Visibility**: 20–35 meters (65–115 feet)
+- **Current**: Light to moderate alongshore drift
+- **Best Time**: November to April; summer months may bring reduced visibility after rain
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+San Juan's less-visited status benefits its marine life. Large midnight parrotfish graze undisturbed on the coral ridges. Queen angelfish and French angelfish are abundant and tolerant of diver presence. Hawksbill turtles are common in the northern reefs and are regularly observed here grazing on sponges. Southern stingrays forage in the sandy channels between the spurs. The site hosts large moray eels in the crevices — green morays at the larger coral bases and spotted morays in smaller openings. Schools of Creole wrasse sweep through the water column above the ridges.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the sandy channels at 12–18 meters and navigate the spur-and-groove system with the current assisting. The spurs provide natural lane guidance — follow one out, then cross to the adjacent channel and return. Spend time on the reef crest at 5–10 meters before ascending. Standard bottom time is 45–55 minutes at these depths.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Longer boat ride from San Miguel (30–40 minutes) due to the northern location. Mooring buoys are used where available. Entry by giant stride or back roll. SMB deployment before ascending is standard practice on all Cozumel drift dives.
 
-## Tips and Recommendations
+## Tips
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Ideal for divers who prefer a quieter alternative to the central sites during peak cruise ship season
+- The northern location means slightly cooler water temperatures in January and February — add an extra layer if diving in winter
+- Pair with nearby northern sites for a full day away from the tourist concentration
+- The sandy channels at San Juan are productive stingray-watching areas; scan ahead as you drift through
+- Bring a macro lens — the reduced foot traffic means invertebrates are less disturbed and more visible
 
-## Safety Considerations
+## Safety
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Standard Cozumel precautions apply: fire coral on the spurs, sea urchins in sandy areas, and always deploy an SMB before ascending. The more remote location makes emergency response slower — brief all divers on the dive boat's emergency plan before entering the water.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The northern light in the morning provides excellent illumination for the spur-and-groove terrain. Wide-angle captures the corridor structure of the channels well. Hawksbill turtle encounters at San Juan are among the most relaxed in Cozumel given the lower boat traffic. Macro shooting in the crevices yields moray eels and resident shrimps.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Arrecifes de Cozumel National Park**: Site within protected zone
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

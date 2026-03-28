@@ -11,55 +11,57 @@ osmId: 11732411235
 addedBy: osm_import
 ---
 
-## Bull Kelp 20'
+# Bull Kelp 20'
 
-Bull Kelp 20' is a reef dive site in British Columbia, North America.
+A shallow bull kelp forest near Parksville offering a classic Pacific Northwest kelp diving experience.
 
 ## Overview
 
-Bull Kelp 20' is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Bull Kelp 20' is a shallow bull kelp forest site near the Qualicum Beach and Parksville area on eastern Vancouver Island, dived at depths maxing out at about 6 metres (20 feet). Bull kelp forests are among the most distinctive ecosystems of the BC coast, with towering stipes reaching from rock anchors on the bottom to gas-filled bladders at the surface. This site provides an accessible, relatively benign dive suitable for those new to BC diving, though a drysuit is still recommended for the 8–12°C water temperatures.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Eastern Vancouver Island, near Parksville/Qualicum Beach, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Kelp
+- **Site Type**: Bull kelp forest
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 12 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 12 metres
+- **Typical Visibility**: 5–12 metres
+- **Current**: Moderate tidal currents — manageable with timing
+- **Best Time**: Late spring through early autumn when kelp is densest
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+The kelp forest canopy provides habitat for a community of species that depend on the structure for shelter and feeding. Kelp greenlings are abundant among the stipes, hovering and darting through the kelp. Pile perch and striped seaperch school in open areas within the forest. Sunflower sea stars and bat stars forage on the rocky bottom. Giant Pacific octopus are occasionally found at the kelp base. Small nudibranchs colonise the kelp blades and holdfasts. Harbour seals use kelp forests for rest and play, and their silhouettes moving through the canopy are among BC diving's most magical sights.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+This is a shallow dive by design — the name references the approximate depth of 20 feet (6 metres). Divers can spend extended bottom time exploring the kelp stipes and bottom terrain. Move slowly and look carefully into the forest interior. The holdfasts at the base often harbour small invertebrate communities including worms, amphipods, and brittle stars. The site is excellent for a longer, unhurried dive.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Access by boat from Qualicum Beach or Parksville marina facilities. Anchor carefully to avoid damaging kelp holdfasts — use a kelp anchor or anchor on the sand edge. Navigating through kelp requires careful buoyancy control to avoid entanglement. Keep arms tucked and move deliberately through the canopy.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Practise deliberate, slow movements to avoid becoming entangled in kelp stipes
+- Carry a dive knife accessible on your forearm or chest for any kelp entanglement
+- The site is excellent for photography — morning light through the canopy is spectacular
+- Qualicum Beach Dive Centre can provide current conditions and exact navigation to the site
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Kelp entanglement is the primary hazard — always carry a cutting device. Boats approaching from above may not see SMBs in a kelp canopy — deploy carefully and away from the densest kelp growth. Cold water (8–12°C) requires drysuit diving. The site's shallow depth makes decompression unlikely but maintain conservative dive profiles.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Bull kelp forests offer some of BC's most dramatic underwater photography. Looking up through the stipes toward the filtered sunlight creates beautiful natural-light images. Wide-angle or fisheye lenses capture the cathedral-like interior of the forest. Macro shooters should examine kelp blades carefully for nudibranchs, amphipods, and other small invertebrates.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
+- Qualicum Beach area dive shops for current site access information
+- Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

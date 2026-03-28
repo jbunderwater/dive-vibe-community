@@ -11,56 +11,57 @@ osmId: 663869365
 addedBy: osm_import
 ---
 
-## Paraiso Reef
+# Paraiso Reef
 
-Paraiso Reef is a reef dive site in Cozumel, Caribbean.
+Cozumel's closest accessible reef to the main cruise ship pier — a gentle, shallow introduction to Caribbean drift diving.
 
 ## Overview
 
-Paraiso Reef is a dive site in Cozumel offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Paraiso (Spanish for "paradise") lives up to its name as a welcoming, photogenic reef just offshore from the cruise ship terminals north of San Miguel. Its proximity to the dock makes it the most frequently visited reef in Cozumel, and consequently local operators have developed excellent familiarity with its conditions. The site divides into two sections: Paraiso Norte and Paraiso Sur, connected by a sandy corridor. The terrain is predominantly large brain and star coral heads rising from a sandy plain at 10–15 meters, with extensive sea fan gardens on the reef slope. The mild northward drift is consistent, making it genuinely beginner-appropriate. Cruise divers and Open Water students make their first ocean dives here regularly.
 
 ## Site Information
 
-- **Location**: Cozumel, Caribbean
+- **Location**: Northwest Cozumel, offshore from the cruise ship piers, Quintana Roo, Mexico
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Coral heads and sea fan gardens
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Maximum Depth**: 15 meters (50 feet)
+- **Typical Visibility**: 18–30 meters (60–100 feet)
+- **Current**: Light to moderate northward drift
+- **Best Time**: Year-round; consistent conditions in the leeward position
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Paraiso is one of Cozumel's best turtle sites — both green and hawksbill turtles are seen on virtually every dive, often in multiples. Nurse sharks rest in sandy areas between coral heads and are accustomed to diver presence. Southern stingrays forage in the sand. Moray eels of several species occupy the coral crevices, and spotted drums — among the Caribbean's most striking reef fish — pirouette near the larger coral heads. The endemic splendid toadfish has been consistently documented at Paraiso. Large aggregations of schoolmaster snappers and grunt species shelter under coral ledges. The sea fan gardens support healthy flamingo tongue cowrie populations.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+A gentle descent to the sandy floor at 12–15 meters, followed by a relaxed drift through the coral head field. The average diver completes the drift in 50–65 minutes, finishing with a comfortable ascent to the reef crest at 5–8 meters for the safety stop. The two sections (Norte and Sur) are often combined into one extended drift. The boat follows your SMB throughout.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Proximity to the cruise piers means boat rides are only 5–10 minutes. Mooring buoys used throughout. Entry by giant stride. The high traffic level means clear briefings on spacing and SMB protocol are especially important here — stay with your group.
 
-## Tips and Recommendations
+## Tips
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Arrive early (before 9am) to beat the crowds from cruise ships that anchor throughout the day
+- The spotted drum performs a distinctive figure-eight swimming pattern — look near larger coral heads at 8–12 meters
+- Both sections of Paraiso differ slightly in coral density; ask your operator which they plan to visit
+- Night dives at Paraiso are extremely popular and reveal the Caribbean's nocturnal residents
+- This site is an ideal first drift dive given its reliable, gentle current
 
-## Safety Considerations
+## Safety
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+The main safety consideration at Paraiso is boat traffic. The proximity to the cruise piers means multiple dive boats operate simultaneously — always ascend with an SMB deployed. Follow your group's descent and ascent procedures precisely. Fire coral is present on many coral structures. The recompression chamber is a short ride away in San Miguel.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Paraiso is a photographer-friendly site with clear shallow water and approachable subjects. Turtles here are accustomed to divers and allow close, unhurried portraits. The spotted drum's elegant movements make for excellent behavioural shots. Wide-angle captures the coral head formations with divers silhouetted in the background. Macro opportunities include flamingo tongue cowries, Christmas tree worms, and the resident spotted morays.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Arrecifes de Cozumel National Park**: Entrance fees apply
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

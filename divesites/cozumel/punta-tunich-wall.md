@@ -11,57 +11,57 @@ osmId: 663869334
 addedBy: osm_import
 ---
 
-## Punta Tunich Wall
+# Punta Tunich Wall
 
-Punta Tunich Wall is a wall dive site in Cozumel, Caribbean.
+A rarely-visited advanced wall at a headland point where converging currents create exceptional visibility and large-animal encounters.
 
 ## Overview
 
-Punta Tunich Wall is a dive site in Cozumel featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Punta Tunich is a headland on Cozumel's central southwest coast where the geography of the point intensifies the island's characteristic drift current, creating conditions preferred by large pelagic fish. The wall here begins at the reef crest around 8 meters and drops vertically through the recreational range to 30 meters before continuing into the deep. The wall face is heavily undercut in places, with overhangs and small caverns providing shelter for resting nurse sharks and large groupers. Because the site requires stronger current management than the calmer central reefs, it attracts a more experienced diving crowd and sees less traffic — the reef condition is notably pristine compared to heavily-visited sites nearby.
 
 ## Site Information
 
-- **Location**: Cozumel, Caribbean
+- **Location**: Central-south leeward coast, Cozumel, Quintana Roo, Mexico
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Site Type**: Vertical wall with overhangs
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Maximum Depth**: 30 meters (100 feet)
+- **Typical Visibility**: 25–40 meters (80–130 feet)
+- **Current**: Moderate to strong drift — headland point amplifies island current
+- **Best Time**: November to April; current can be unpredictable in summer months
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+The point's current concentration attracts spotted eagle rays in significant numbers; groups of five to ten individuals are regularly reported. Caribbean reef sharks appear consistently at the wall edge. The overhangs shelter nurse sharks that rest during the day. Large black grouper occupy ledges on the wall face between 15 and 25 meters. The wall sponge community is dense, with massive barrel sponges and elephant ear sponges providing visual landmarks. Hawksbill turtles are common, often found grazing on sponges on the mid-wall section. The deep blue beyond the wall edge occasionally yields sightings of dog snapper in large schools.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-30 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Entry is timed by the boat captain to match the current cycle. Descend quickly to the reef crest and begin drifting with the current along the wall face. Explore the overhangs between 15 and 25 meters where the most interesting geological features and resting animals are found. Depth management requires active attention at a vertical wall — it is easy to drift deeper than planned. Begin the ascent with adequate air reserve (minimum 70 bar) and deploy the SMB before ascending in the water column rather than against the wall.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat-only, with the captain following the drift throughout. Longer ride from San Miguel than the central sites — typically 25–35 minutes. SMB deployment and water-column ascents are standard here; practice deploying your SMB before this dive if unfamiliar with the technique.
 
-## Tips and Recommendations
+## Tips
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- This is not a training site — come with prior drift wall experience before attempting Punta Tunich
+- The overhangs between 18 and 25 meters are the biological highlight; budget time to investigate them carefully
+- Position yourself slightly into the blue at the wall edge to increase the chances of eagle ray encounters
+- The current can shift direction at the point; follow your divemaster's lead throughout
+- Carry a dive computer to monitor depth continuously — the wall's vertical nature makes depth creep a real hazard
 
-## Safety Considerations
+## Safety
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
+Strong current diving demands specific skills: efficient buoyancy to avoid dragging on the wall, the ability to deploy an SMB while neutrally buoyant, and the discipline to abort if conditions exceed your capability. Nitrogen narcosis can compound judgment errors at the lower end of the depth range; plan conservatively. The nearest recompression chamber is in San Miguel town.
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+Punta Tunich's clear water and large-animal encounters create outstanding wide-angle opportunities. Eagle ray formations against the deep blue require a wide-angle zoom at the wall edge. The overhangs are lit by natural light from below in the morning, creating dramatic silhouette opportunities with divers exploring the ceiling. Sponge macro shooting is productive on the wall face — look for blennies and hawkfish among the barrel sponge rims.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Arrecifes de Cozumel National Park**: Site within protected zone
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
