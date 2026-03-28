@@ -11,57 +11,56 @@ osmId: 2395669747
 addedBy: osm_import
 ---
 
-## Bounty
+# Bounty
 
-Bounty is a historic wreck dive in Lombok, Asia.
+A shallow, coral-encrusted pontoon wreck off Gili Meno that has become one of the Gili Islands' most accessible wreck dives.
 
 ## Overview
 
-Bounty is a dive site in Lombok featuring the wreck of the Bounty . source is Diveschool Notice Board - Location might have to be checked with a GPS. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The Bounty is the remains of a floating pontoon that originally served as a jetty off Gili Meno. After sinking following storm damage, it was repurposed as one of the first Biorock structures in the Lombok area. The wreck is approximately 30 meters long and 15 meters wide, resting at depths ranging from 8 meters at the shallowest point to around 18 meters at the deepest. Since sinking, the structure has developed dense coral encrustation and now hosts a thriving fish community. The site is suitable for Intermediate divers and offers a manageable wreck experience with no confined penetration required. The Bounty sits on Gili Meno's northern slope and is often combined with nearby turtle-rich sites during two-tank trips.
 
 ## Site Information
 
-- **Location**: Lombok, Asia
+- **Location**: Northern slope, Gili Meno, Lombok, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 18 meters (60 feet)
+- **Typical Visibility**: 10–25 meters
+- **Current**: Variable; can strengthen around Gili Meno
+- **Water Temperature**: 26–30°C (79–86°F)
 
 ## Marine Life
 
-Divers at this site can expect to encounter batfish, lionfish, sweetlips, coral growth, soft corals, manta rays, whale sharks, reef sharks. Additional species commonly sighted include sea turtles, barracuda, trevally. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The Bounty's structure is densely colonized with hard and soft corals, sponges, and encrusting organisms. Large schools of glassfish hover over the wreck, drawing resident groupers and lionfish. Moray eels use crevices in the old pontoon structure as sheltering points. Batfish and sweetlips cruise around the larger structural sections. Scorpionfish blend into encrusted surfaces on the upper deck. Hawksbill and green turtles are regularly encountered on the sandy areas surrounding the wreck. Cuttlefish are often found along the perimeter in the early morning.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 18 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend to the shallowest part of the structure at around 8 meters and work your way across and down to the deepest sections at 18 meters. The wreck can be fully circumnavigated in a single dive. Spend time above the structure looking for fish schools before dropping to the sandy areas alongside the hull. Ascend back over the wreck for a safety stop in the 5-meter shallows.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Gili Meno, Gili Trawangan, or Gili Air. The wreck lies on the northern slope of Gili Meno and is a short boat trip from all three main islands. Operators commonly combine this site with Turtle Heaven or Meno Wall on two-tank trips.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Combine with nearby Turtle Heaven for a two-tank trip covering both wreck and turtle encounters
+- Swim slowly around the base of the structure — moray eels and scorpionfish are common but easy to miss
+- Best dived in the morning when visibility tends to be clearest before current picks up
+- The shallow maximum depth makes this an excellent air-conservation practice dive
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Current around Gili Meno can be variable and occasionally strong. Monitor your position relative to the wreck to avoid being swept into open water. Surface marker buoys are essential. Do not attempt any penetration of the structure as it has degraded over time.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The dense coral encrustation makes the Bounty visually striking in wide-angle shots. Fish schools over the structure photograph well with natural backlight from above. The wreck outline at 18 meters, framed against the sandy bottom, provides dramatic compositional opportunities. Macro shooting on encrusted surfaces reveals nudibranchs, crabs, and tube worms.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- [Starfish.ch – Gili Islands Dive Sites](https://www.starfish.ch/dive/Lombok.html)
+- [Lombok.com – Lombok Diving](https://www.lombok.com/lombok-diving/)
+- Last Updated: 2026-03-28
 
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

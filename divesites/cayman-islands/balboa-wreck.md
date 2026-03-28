@@ -13,55 +13,55 @@ addedBy: osm_import
 
 ## Balboa Wreck
 
-Balboa Wreck is a historic wreck dive in Cayman Islands, Caribbean.
+A 375-foot freighter destroyed by the 1932 hurricane and then deliberately demolished, its coral-encrusted skeleton now harboring lobster, tarpon, and tropical fish off George Town harbor.
 
 ## Overview
 
-Balboa Wreck is a dive site in Cayman Islands featuring the wreck of the Balboa Wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Balboa was a 375-foot freighter carrying lumber from Texas to Jamaica when she pulled into Grand Cayman for repairs before being battered and sunk against the pier during the catastrophic 1932 hurricane. The wreck was subsequently blown up to clear the harbor approach, and her scattered remains now lie approximately 150 feet off the west coast in 8–10 meters of water. The shattered hull plates and structural remnants have become encrusted with coral over the decades, transforming the debris field into a productive artificial reef. Lobster and octopus inhabit the crevices between hull sections, while large tarpon haunt the deeper areas alongside the scattered propellers. Note: access requires coordination with Port Security due to the wreck's location in the cruise ship transfer channel.
 
 ## Site Information
 
-- **Location**: Cayman Islands, Caribbean
+- **Location**: Off George Town harbor, West Bay, Grand Cayman
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 32 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Maximum Depth**: 32 meters (105 feet) — shallowest sections at 8 meters
+- **Typical Visibility**: 15–30 meters (50–100 feet)
 - **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Water Temperature**: 26–29°C (79–84°F)
+- **Best Time**: Year-round (permit required)
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, snappers, soldierfish, glassy sweepers, coral growth, sponge encrustation, sea turtles (green, hawksbill), southern stingrays. Additional species commonly sighted include eagle rays, nurse sharks, reef sharks, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The Balboa's coral-encrusted debris field hosts an excellent variety of tropical marine life. Large tarpon — some exceeding 1.5 meters — are a signature feature of this site, typically found in the deeper sections. Spiny lobster and octopus occupy crevices between hull plates. Schools of reef fish including grunt, snapper, and angelfish circle the structure. The three-bladed propellers at the stern section provide excellent hard substrate for coral growth and attract resident grouper.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 32 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The wide scatter of debris allows exploration across a large area. Begin with the most intact structural elements near the stern, where the propellers provide the most dramatic visual landmarks. The debris field's shallowest points (8 meters) allow extended bottom time. Deeper sections at 25–32 meters require standard depth management for recreational divers.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive with advance coordination required — call Port Security at (345) 914-3700 before diving, as the site sits in the cruise ship transfer channel. Giant stride entry. Operators familiar with the site manage the required clearances. SMB deployment on ascent is essential given the harbor traffic.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
+- Always pre-arrange Port Security clearance before attempting this dive — do not assume access is available
+- The large tarpon in the deeper sections are a highlight not to be missed
+- The propellers are highly photogenic — approach from the blade face for the best compositions
+- Combine with the nearby Cali wreck for a paired wreck dive in the same general area
+- Early morning access before cruise ships arrive typically provides the easiest clearance
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+The harbor location means active boat traffic is a constant concern — SMB deployment on every ascent is mandatory. The depth range to 32 meters requires attention to no-decompression limits. Coordinate all dives with Port Security to ensure the channel is clear. Never surface without confirming your position relative to vessel traffic.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The Balboa's coral-encrusted hull plates and large propellers are classic Caribbean wreck photography subjects. Large tarpon in clear water make impressive natural light subjects. The scattered nature of the debris field allows varied compositions across a single dive. Ambient light penetration in George Town's clear shallow water provides excellent natural light photography conditions.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*

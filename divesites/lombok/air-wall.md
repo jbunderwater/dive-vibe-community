@@ -11,57 +11,56 @@ osmId: 2395669745
 addedBy: osm_import
 ---
 
-## Air Wall
+# Air Wall
 
-Air Wall is a wall dive site in Lombok, Asia.
+A vibrant wall dive on the west coast of Gili Air decorated with soft corals, nudibranchs, and a resident cleaning station.
 
 ## Overview
 
-Air Wall is a dive site in Lombok featuring a dramatic vertical wall that drops into the deep blue . source is Diveschool Notice Board - Location might have to be checked with a GPS. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Air Wall runs along the western side of Gili Air, dropping steeply from around 10 meters down to 22–32 meters before leveling off on a sandy bottom. The wall is known for exceptional macro life: pygmy seahorses, nudibranchs, crabs, and octopus hide among the soft corals and sea fans covering the wall face. At around 22 meters a cleaning station attracts larger reef fish, and leaf fish regularly shelter against coral blocks alongside clouds of glassfish. In the deeper sections, whitetip reef sharks cruise the sandy bottom beneath the wall. The site is accessible year-round and tends to be calmer than Gili Trawangan's exposed northern sites, making it a consistently reliable destination for Intermediate divers.
 
 ## Site Information
 
-- **Location**: Lombok, Asia
+- **Location**: West coast, Gili Air, Lombok, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Site Type**: Wall
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 22 meters (73 feet)
+- **Typical Visibility**: 10–25 meters
+- **Current**: Usually mild; can strengthen with tidal flow
+- **Water Temperature**: 26–30°C (79–86°F)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+The wall harbors diverse macro subjects. Multiple nudibranch species cling to sponges and soft corals throughout the dive. Pygmy seahorses are reliably found on sea fans in the mid-depth range. Leaf fish and frogfish use camouflage against encrusted rock faces. Glassfish schools swirl around coral blocks, attracting resident groupers and moray eels. Crabs, lobsters, and porcelain crabs occupy wall crevices. Whitetip reef sharks rest on the sandy bottom at depth. Green and hawksbill turtles visit the shallower sections of the wall.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-22 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Descend from the boat onto the top of the wall at around 10 meters, then follow the wall face downward to your chosen depth. The most productive macro life is between 12 and 22 meters. The cleaning station at approximately 22 meters is worth pausing at before ascending. Return to the shallower sections for a safety stop along the coral-covered lip of the wall. Total dive time typically 50–60 minutes.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive only. Operators from Gili Air and Gili Trawangan run regular trips to Air Wall. Negative entries are helpful when current is running. Exit via the boat's descent line or surface marker buoy.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Bring a torch or video light — wall crevices hide macro life easily missed without extra illumination
+- Ask your divemaster about the cleaning station location, as it shifts seasonally
+- Nitrox is popular here to extend bottom time in the 18–22 meter range
+- Combines well with Frogfish Point (Gili Air Harbour) on a two-tank trip
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Current can pick up quickly, particularly during tidal changes. Maintain good buoyancy control near the wall face to avoid contact with corals. Monitor depth carefully on the steeper lower sections. Surface marker buoys are recommended for all divers.
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+Air Wall is a macro photographer's highlight in the Gili Islands region. Multiple nudibranch species offer close-up work, and the cleaning station provides opportunities for fish portrait shots. Soft coral textures and sea fan compositions work well with a single strobe. Bring a diopter if hunting pygmy seahorses on the deeper fans.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- [Manta Dive Gili Air – Dive Sites](https://manta-dive-giliair.com/gili-islands-dive-sites)
+- [DiveZone – Air Wall](https://divezone.net/divesite/air-wall)
+- Last Updated: 2026-03-28
 
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

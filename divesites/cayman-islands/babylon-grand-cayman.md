@@ -13,53 +13,55 @@ addedBy: osm_import
 
 ## Babylon Grand Cayman
 
-Babylon Grand Cayman is a pinnacle dive site in Cayman Islands, Caribbean.
+A dramatic North Wall pinnacle on Grand Cayman featuring a magnificent cathedral-like structure descending from 12 meters to beyond sport diving depth.
 
 ## Overview
 
-Babylon Grand Cayman is a dive site in Cayman Islands offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Babylon is one of Grand Cayman's premier North Wall pinnacle dives, accessible on the less-dived East End of the island. The site features a large coral pinnacle rising from the wall at depth, combined with a dramatic drop-off where the wall plummets thousands of feet into the Cayman Trench. The East End's position away from Grand Cayman's main resort zone means less dive traffic and more natural animal behavior from the resident fish populations. The pinnacle and wall combination in a single dive is particularly prized — divers can explore the pinnacle structure while looking out over the infinite blue beyond the wall edge. Soft coral, sea fans, and sponges cover the pinnacle prominently.
 
 ## Site Information
 
-- **Location**: Cayman Islands, Caribbean
+- **Location**: North Wall, East End, Grand Cayman
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle
+- **Site Type**: Pinnacle / wall
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 45 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Maximum Depth**: 45 meters (147 feet) — sport diving limit is 40 meters
+- **Typical Visibility**: 20–40 meters (65–130 feet)
+- **Current**: Moderate — can increase on the East End
+- **Water Temperature**: 26–29°C (79–84°F)
+- **Best Time**: December–April
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Babylon's pinnacle and wall environment hosts eagle rays that cruise along the wall face. Caribbean reef sharks patrol the deeper water beyond the pinnacle. Large grouper occupy the spaces between coral formations on the pinnacle. Turtles are commonly encountered in this less-trafficked East End area. The soft coral and sea fan growth on the pinnacle provides habitat for filefish, hawkfish, and flamingo tongue cowries. Schools of creole wrasse fill the water column above the wall edge.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 45 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the top of the pinnacle and work around its structure, peering over the wall edge into the abyss while staying within recreational depth limits (maximum 40 meters). Spend the middle portion of the dive exploring the pinnacle faces before finishing with time on the shallower reef crest. Monitor depth carefully — the wall edge can draw divers deeper than planned.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from East End dive operators or operators who run East End excursions from George Town. East End conditions can include stronger current than the sheltered West Side — brief on current procedures before descending. SMB deployment on ascent.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- The East End is quieter than Seven Mile Beach sites — plan early morning departures from East End operators
+- Monitor depth constantly near the wall edge — the blue water beyond creates a psychological pull deeper
+- Eagle ray encounters are most common along the wall face, typically at 15–30 meters
+- The pinnacle structure is best explored before working out to the wall edge
+- Nitrox is beneficial for extending no-decompression time at the working depths
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+The maximum depth of 45 meters touches the technical diving boundary — do not exceed 40 meters on recreational equipment. Wall diving can induce a false sense of depth due to the lack of visual bottom reference. Currents on the East End are less predictable than the West Side — monitor buoyancy continuously. Always carry an SMB for ascent.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The pinnacle and wall combination provides exceptional wide-angle photography. Eagle rays against the infinite blue beyond the wall edge are classic Cayman images. The pinnacle structure covered in colorful soft corals and sea fans photographs beautifully in ambient Cayman light. A dome port handles the mixed near/far compositions most effectively.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*
