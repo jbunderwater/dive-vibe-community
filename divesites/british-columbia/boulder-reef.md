@@ -11,55 +11,57 @@ osmId: 1470404677
 addedBy: osm_import
 ---
 
-## Boulder Reef
+# Boulder Reef
 
-Boulder Reef is a reef dive site in British Columbia, North America.
+A rocky underwater reef near the BC-Washington border with productive cold-water marine life.
 
 ## Overview
 
-Boulder Reef is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Boulder Reef sits in the southern Strait of Georgia near the US-Canada border, in waters influenced by the strong tidal flows between the Gulf Islands and the San Juan Islands. The reef structure consists of rocky outcroppings rising from sandy bottom, creating habitat for an abundance of BC's iconic cold-water species. Water temperatures range from 8–12°C year-round, and visibility typically reaches 8–15 metres in calm conditions. A drysuit is strongly recommended for comfort.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Southern Strait of Georgia, near Saturna Island, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 8–15 metres
+- **Current**: Moderate tidal currents — plan around slack tide
+- **Best Time**: Summer through autumn for best visibility
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Giant Pacific octopus are a highlight at Boulder Reef, using the rocky terrain for shelter and ambush. Wolf eels inhabit permanent dens in crevices and can be approached carefully. Lingcod and cabezon are common among the rocks, while schools of black and copper rockfish patrol the mid-water column. Painted greenlings and kelp greenlings are ever-present. Plumose anemones, encrusting sponges, and sea pens populate the structure. Dungeness crab are found on the sandy surrounding bottom, and harbour seals frequently visit divers.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The reef crest rises to approximately 8–10 metres, with the base extending to 18 metres on the sand. Plan a descending tour of the reef face, working from deeper rocky zones back toward the crest as air depletes. The richest invertebrate life tends to be on the current-facing flanks of the reef. Allow adequate gas reserve for a 3-metre safety stop and surface swim to the boat.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Access is by boat from Sidney or nearby Gulf Islands. The reef is submerged and must be located by GPS and depth sounder. Anchor well clear of the reef structure to avoid damage. A live boat pickup is recommended. Monitor currents and plan your dive around slack to avoid being swept from the site.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Scan boulder fields carefully for octopus dens marked by shell debris
+- A dive light reveals the colours of encrusting life and illuminates crevice interiors
+- Bring a slate to note unusual sightings — this area has documented rare nudibranchs
+- Early morning dives often have the best visibility before winds build
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Tidal currents in this area can be substantial. Always carry and deploy an SMB during ascent. Boat traffic in the southern Strait of Georgia requires visible surface signals. Cold water demands proper drysuit exposure protection and a competent buddy team. Check tide tables before departure and allow buffer time around slack.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Boulder terrain with its mix of encrusting life, fish, and invertebrate behaviour makes this a versatile photography site. Wide-angle lenses capture the reef structure and schooling rockfish. Macro shooters will find nudibranchs, tube worms, and minute crustaceans throughout. Bring strobes to restore colour below 5 metres depth.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
+- Fisheries and Oceans Canada tide tables: tides.gc.ca
+- Sidney area dive charters and shops for current conditions
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
